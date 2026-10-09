@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Local-only cache (media_id -> description); not needed by Muse or Pages
+cache/*.json
+!cache/.gitkeep
