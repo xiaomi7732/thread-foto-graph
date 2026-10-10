@@ -143,9 +143,10 @@ def build_topic_graph(threads: list[dict]) -> dict:
             if thread_photo:
                 lines.append(f"  - Photo: {thread_photo}")
             for reply in thread.get("replies", []):
+                reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
                 lines.append(
                     f"  - Reply by {reply.get('username', 'unknown')}: "
-                    f"{_snippet(reply.get('text', ''), length=None)}"
+                    f"{_snippet(reply.get('text', ''), length=None)}{reply_link}"
                 )
                 reply_photo = _photo_line(reply)
                 if reply_photo:
@@ -156,8 +157,19 @@ def build_topic_graph(threads: list[dict]) -> dict:
                     "label": topic_label,
                     "group": cid,
                     "snippet": _snippet(thread.get("text", ""), length=60),
+                    "text": _snippet(thread.get("text", ""), length=None),
                     "permalink": thread.get("permalink", ""),
+                    "photo": thread_photo,
                     "reply_count": len(thread.get("replies", [])),
+                    "replies": [
+                        {
+                            "username": reply.get("username", "unknown"),
+                            "text": _snippet(reply.get("text", ""), length=None),
+                            "permalink": reply.get("permalink", ""),
+                            "photo": _photo_line(reply),
+                        }
+                        for reply in thread.get("replies", [])
+                    ],
                 }
             )
         lines.append("")

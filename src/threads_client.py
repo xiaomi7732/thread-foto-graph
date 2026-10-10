@@ -20,7 +20,7 @@ from . import config, threads_auth
 BASE_URL = "https://graph.threads.net/v1.0"
 
 ROOT_FIELDS = "id,text,timestamp,media_type,media_url,permalink,shortcode"
-REPLY_FIELDS = "id,text,timestamp,media_type,media_url,username,root_post{id}"
+REPLY_FIELDS = "id,text,timestamp,media_type,media_url,username,permalink,root_post{id}"
 
 
 def _get(path: str, params: dict) -> dict:
