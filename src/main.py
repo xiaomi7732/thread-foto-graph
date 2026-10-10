@@ -40,13 +40,14 @@ def main() -> int:
         # Root post photo (vision.describe_images expects a list of media items)
         made = vision.describe_images([thread], cache, budget - requests_made, persist_progress)
         requests_made += made
-        made = vision.describe_images(
-            thread.get("replies", []), cache, budget - requests_made, persist_progress
-        )
+        # Walk the full nested reply tree (not just top-level replies) so
+        # every reply-to-a-reply photo gets described too.
+        all_replies = list(threads_client.iter_replies(thread.get("replies", [])))
+        made = vision.describe_images(all_replies, cache, budget - requests_made, persist_progress)
         requests_made += made
         print(
             f"[{i}/{len(threads)}] thread {thread['id']}: "
-            f"{len(thread.get('replies', []))} replies processed "
+            f"{len(all_replies)} replies processed "
             f"({requests_made} vision requests so far)",
             flush=True,
         )

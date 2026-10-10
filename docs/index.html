@@ -19,6 +19,8 @@
     ul.replies li { border-top: 1px solid #eee; padding: 8px 0; }
     .username { font-weight: 600; }
     .placeholder { color: #888; }
+    ul.nested { list-style: none; margin: 8px 0 0; padding-left: 18px; border-left: 2px solid #ddd; }
+    ul.nested li { border-top: none; padding: 6px 0; }
   </style>
 </head>
 <body>
@@ -38,24 +40,32 @@
       return `<div class="photo${pending ? ' pending' : ''}">📷 ${escapeHtml(photo)}</div>`;
     }
 
+    // Renders a reply and recurses into its nested replies (real
+    // reply-to-reply hierarchy, indented per depth via nested <ul class="nested">).
+    function replyHtml(r) {
+      const rlink = r.permalink ? ` <a href="${r.permalink}" target="_blank" rel="noopener">🔗</a>` : '';
+      const children = (r.replies && r.replies.length)
+        ? `<ul class="nested">${r.replies.map(replyHtml).join('')}</ul>`
+        : '';
+      return `<li>
+        <span class="username">${escapeHtml(r.username)}</span>${rlink}
+        <div>${escapeHtml(r.text) || '<span class="placeholder">(no text)</span>'}</div>
+        ${photoHtml(r.photo)}
+        ${children}
+      </li>`;
+    }
+
     function renderDetail(node) {
       const link = node.permalink
         ? ` <a href="${node.permalink}" target="_blank" rel="noopener">🔗 open thread</a>`
         : '';
-      const repliesHtml = (node.replies || []).map(r => {
-        const rlink = r.permalink ? ` <a href="${r.permalink}" target="_blank" rel="noopener">🔗</a>` : '';
-        return `<li>
-          <span class="username">${escapeHtml(r.username)}</span>${rlink}
-          <div>${escapeHtml(r.text) || '<span class="placeholder">(no text)</span>'}</div>
-          ${photoHtml(r.photo)}
-        </li>`;
-      }).join('');
+      const repliesHtml = (node.replies || []).map(replyHtml).join('');
 
       document.getElementById('detail').innerHTML = `
         <h2 style="margin-top:0">${escapeHtml(node.label)}</h2>
         <div class="thread-text">${escapeHtml(node.text)}${link}</div>
         ${photoHtml(node.photo)}
-        <h3>Replies (${node.replies ? node.replies.length : 0})</h3>
+        <h3>Replies (${node.reply_count !== undefined ? node.reply_count : (node.replies || []).length})</h3>
         <ul class="replies">${repliesHtml || '<li class="placeholder">No replies.</li>'}</ul>
       `;
     }

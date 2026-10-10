@@ -20,7 +20,9 @@ from . import config, threads_auth
 BASE_URL = "https://graph.threads.net/v1.0"
 
 ROOT_FIELDS = "id,text,timestamp,media_type,media_url,permalink,shortcode"
-REPLY_FIELDS = "id,text,timestamp,media_type,media_url,username,permalink,root_post{id}"
+REPLY_FIELDS = (
+    "id,text,timestamp,media_type,media_url,username,permalink,root_post{id},replied_to{id}"
+)
 
 
 def _get(path: str, params: dict) -> dict:
@@ -69,15 +71,55 @@ def get_recent_root_threads(
 
 
 def get_conversation(thread_id: str) -> list[dict]:
-    """Returns every reply (flattened) under a root thread, including photos."""
+    """Returns every reply (flattened, in API order) under a root thread,
+    including photos. Each item carries `replied_to` (immediate parent media
+    ID) so callers can reconstruct the actual reply tree -- see
+    `_nest_replies`.
+    """
     return list(_paginate(f"{thread_id}/conversation", {"fields": REPLY_FIELDS, "limit": 50}))
+
+
+def _nest_replies(root_id: str, flat_replies: list[dict]) -> list[dict]:
+    """Rebuilds the real reply-to-reply tree from the Threads API's flat
+    `conversation` list, using each reply's `replied_to` (immediate parent).
+
+    Without this, every reply looks like a flat, independent response to the
+    root post -- losing which replies are actually nested under another
+    reply (e.g. the thread owner replying to a specific commenter).
+    """
+    by_id = {reply["id"]: reply for reply in flat_replies}
+    for reply in flat_replies:
+        reply.setdefault("replies", [])
+
+    top_level = []
+    for reply in flat_replies:
+        parent_id = (reply.get("replied_to") or {}).get("id")
+        if parent_id and parent_id != root_id and parent_id in by_id:
+            by_id[parent_id]["replies"].append(reply)
+        else:
+            # Parent is the root post itself (or unknown/missing) -> top-level.
+            top_level.append(reply)
+    return top_level
+
+
+def iter_replies(replies: list[dict]):
+    """Depth-first walk over a nested reply tree (see `_nest_replies`),
+    yielding every reply dict regardless of nesting depth. Used by callers
+    (vision description, counting) that need every reply, not just top-level
+    ones.
+    """
+    for reply in replies:
+        yield reply
+        yield from iter_replies(reply.get("replies", []))
 
 
 def collect_threads_with_replies(
     lookback_days: int = config.LOOKBACK_DAYS, max_threads: int | None = None
 ) -> list[dict]:
-    """Returns root posts, each annotated with its full list of replies."""
+    """Returns root posts, each annotated with its nested reply tree
+    (`replies`, where each reply may itself have nested `replies`)."""
     roots = get_recent_root_threads(lookback_days, max_threads)
     for root in roots:
-        root["replies"] = get_conversation(root["id"])
+        flat_replies = get_conversation(root["id"])
+        root["replies"] = _nest_replies(root["id"], flat_replies)
     return roots
