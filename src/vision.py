@@ -85,20 +85,30 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
     interrupted run never loses already-described photos.
     """
     requests_made = 0
+    quota_hit = False
     for item in media_items:
-        if item.get("media_type") != "IMAGE":
+        # CAROUSEL_ALBUM replies still expose a single cover media_url via
+        # this API, so treat them like a photo too (not just literal IMAGE).
+        if item.get("media_type") not in ("IMAGE", "CAROUSEL_ALBUM"):
             continue
         media_id = item["id"]
         if media_id in cache:
             item["description"] = cache[media_id]
             continue
-        if requests_made >= max_requests:
-            continue  # leave uncached; picked up on the next scheduled run
+        if quota_hit or requests_made >= max_requests:
+            # Leave undescribed (not even a placeholder) -- topic_graph.py
+            # detects "has a photo but no description yet" via media_type
+            # alone, so this is never confused with "no photo".
+            continue
 
         try:
             description = describe_image(item["media_url"])
         except QuotaExceededError:
-            break
+            # Don't abandon the whole batch silently: keep looping so later
+            # cache-hit items still get their description, just stop making
+            # new network calls.
+            quota_hit = True
+            continue
         except requests.RequestException as exc:
             # Do NOT cache failures -- a transient/auth error should be
             # retried on the next run, not permanently "stuck" as a fake

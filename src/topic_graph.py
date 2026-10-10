@@ -80,8 +80,31 @@ def _top_keywords(vectorizer: TfidfVectorizer, matrix, indices: list[int]) -> li
 
 
 def _snippet(text: str, length: int = 80) -> str:
+    """Collapses whitespace only. Truncation is reserved for the small
+    visual-graph node labels (docs/graph.json) -- topics.md is read by Muse
+    instead of photos, so its whole point is to carry full context, not a
+    truncated preview.
+    """
     text = re.sub(r"\s+", " ", text or "").strip()
+    if length is None:
+        return text
     return text if len(text) <= length else text[: length - 1] + "…"
+
+
+HAS_PHOTO_TYPES = ("IMAGE", "CAROUSEL_ALBUM")
+
+
+def _photo_line(item: dict) -> str | None:
+    """Returns the Photo line for this thread/reply, or None if it has no image.
+
+    Always emitted when media_type indicates a photo, even if Gemini hasn't
+    described it yet (e.g. daily quota hit) -- so "no Photo line" unambiguously
+    means "no photo", never "photo not described yet".
+    """
+    if item.get("media_type") not in HAS_PHOTO_TYPES:
+        return None
+    return item.get("description") or "(photo pending description - will be described on a future run)"
+
 
 
 def build_topic_graph(threads: list[dict]) -> dict:
@@ -114,22 +137,25 @@ def build_topic_graph(threads: list[dict]) -> dict:
             thread = threads[idx]
             lines.append(
                 f"- **Thread** [{thread['id']}]({thread.get('permalink', '')}): "
-                f"{_snippet(thread.get('text', ''))}"
+                f"{_snippet(thread.get('text', ''), length=None)}"
             )
-            if thread.get("description"):
-                lines.append(f"  - Photo: {thread['description']}")
+            thread_photo = _photo_line(thread)
+            if thread_photo:
+                lines.append(f"  - Photo: {thread_photo}")
             for reply in thread.get("replies", []):
                 lines.append(
-                    f"  - Reply by {reply.get('username', 'unknown')}: {_snippet(reply.get('text', ''))}"
+                    f"  - Reply by {reply.get('username', 'unknown')}: "
+                    f"{_snippet(reply.get('text', ''), length=None)}"
                 )
-                if reply.get("description"):
-                    lines.append(f"    - Photo: {reply['description']}")
+                reply_photo = _photo_line(reply)
+                if reply_photo:
+                    lines.append(f"    - Photo: {reply_photo}")
             nodes.append(
                 {
                     "id": thread["id"],
                     "label": topic_label,
                     "group": cid,
-                    "snippet": _snippet(thread.get("text", ""), 60),
+                    "snippet": _snippet(thread.get("text", ""), length=60),
                     "permalink": thread.get("permalink", ""),
                     "reply_count": len(thread.get("replies", [])),
                 }

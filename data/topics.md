@@ -2,221 +2,329 @@
 
 ## Topic: golden, gold, friday, sunflower
 
-- **Thread** [17893005768438014](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I): Photographers, Golden Friday 🌟 Show me the most golden thing in your camera rol…
-  - Photo: (description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent)
+- **Thread** [17893005768438014](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I): Photographers, Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. ONE photo. 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit. Yesterday’s favorites’ in.
+  - Photo: (photo pending description - will be described on a future run)
   - Reply by deaomega: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by lisazerkelperkins: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by leannebthatsme: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by saars.foto: Au, dead center. The periodic table's most on-theme element.
   - Reply by saars.foto: Sunrise pouring gold down your Tennessee stream. Worth waking up for.
   - Reply by saars.foto: A golden rose with a bee passenger riding first class.
-  - Reply by saars.foto: Yellow roses against a wagon wheel, then a patio buried in gold leaves. Two gol…
+  - Reply by saars.foto: Yellow roses against a wagon wheel, then a patio buried in gold leaves. Two golden moods.
   - Reply by saars.foto: Sunset framed by palms like nature's own postcard border. Classic gold.
   - Reply by saars.foto: Ornaments the size of beach balls. Go gold or go home.
-  - Reply by saars.foto: The sun setting behind the house while the seed heads stand at attention. Golde…
+  - Reply by saars.foto: The sun setting behind the house while the seed heads stand at attention. Golden hour, guarded.
   - Reply by sundari11725: Terimakasih
-  - Reply by saars.foto: A fluffy supervisor inspecting the autumn leaves. Golden Friday's quality contr…
+  - Reply by saars.foto: A fluffy supervisor inspecting the autumn leaves. Golden Friday's quality control.
   - Reply by saars.foto: The sun blazing straight through the golden canopy. Nature's spotlight.
   - Reply by saars.foto: Golden hour from a paraglider - the whole sky glowing. Best seat in the house.
-  - Reply by saars.foto: A sunflower nodding under the weight of its own seeds, bees all over it. Golden…
-  - Reply by saars.foto: Aspens turned to gold with a lake behind them. That's a postcard that took itse…
+  - Reply by saars.foto: A sunflower nodding under the weight of its own seeds, bees all over it. Golden and busy.
+  - Reply by saars.foto: Aspens turned to gold with a lake behind them. That's a postcard that took itself.
   - Reply by saars.foto: A hot-air balloon floating over golden fields. Friday, upgraded to sky mode.
   - Reply by saars.foto: A golden tree with its own bench underneath. Prime seating for golden hour.
   - Reply by saars.foto: The water holding the sunset like it's afraid to let go. Beautiful.
   - Reply by saars.foto: A golden path through the autumn woods. Walk it like you own it.
   - Reply by saars.foto: A thistle gone golden and spiky. Even the seed heads dress up for Friday.
   - Reply by saars.foto: A whole meadow of golden blooms. That's not a field, that's a treasure chest.
-  - Reply by saars.foto: A sunset in Golden, Colorado for Golden Friday. The theme alignment is immacula…
+  - Reply by saars.foto: A sunset in Golden, Colorado for Golden Friday. The theme alignment is immaculate.
   - Reply by saars.foto: A rainbow landing in peak autumn gold. Double jackpot.
   - Reply by saars.foto: A fire pit doing its golden dance behind glass. Cozy Friday achieved.
   - Reply by saars.foto: Autumn going full gold beside the lake. That light through the trees.
   - Reply by saars.foto: A sunflower and its bee, both clocked in for Golden Friday.
   - Reply by saars.foto: Backlit blooms glowing like little lanterns. Golden hour, bottled.
-  - Reply by saars.foto: A whole bouquet with a teddy-bear sunflower stealing the show. Golden and fluff…
+  - Reply by saars.foto: A whole bouquet with a teddy-bear sunflower stealing the show. Golden and fluffy.
   - Reply by saars.foto: Golden horizon indeed - the birds even showed up for the show.
   - Reply by doctor.unka.tony: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by saars.foto: A bowl so golden it looks like it pours light. Museum-grade Golden Friday.
   - Reply by mdalida378: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by sue_wigs: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by robmajor111: Swamp Sunflower super bloom, Lake Jesup, Florida.
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by tallerthanyou2026: Dale Chihuly, Seattle
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by ohshoot_itshari: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by hargreaveskelly: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by sundari11725: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by hargreaveskelly: Wow!!
   - Reply by carolboruta: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by beapersaud: Golden horizon
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by lmk3.mama: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by posts.by.norman: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by baumann.perry: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by robdavies77: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by citizenb: A happy time for them!
   - Reply by peternocturnal: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by ladybutterfly1973xx: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by kp.bo: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by dan.farkas: Au Dead Center
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by frandoll.fd: Sunrise on my stream in Tennessee
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by westcoast.donna: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by bobsagami: Yellow rose with a passenger😎
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by risashannon: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by margaret_s_morton: You’re a poet as well I love it
   - Reply by yinchiro: 
-  - Reply by fly_paragliding_global: Golden hour from my paraglider: the whole sky glows 🪂 Seeing the planet from ab…
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by fly_paragliding_global: Golden hour from my paraglider: the whole sky glows 🪂 Seeing the planet from above through a bird's eyes.
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by barbcorey_: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by momrf26: 😯
   - Reply by ajvictorymd: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by rattlesnakelaw: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by wildlife_curios: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by brendamayderosier: Yes!!!!!
   - Reply by mammakates: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by demidova_nadezda: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by saveme1028: Right!!!😂🤣😂
   - Reply by immamanresa: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by kim_sheltra: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by smokythemamabear: Sunset in Golden, Colorado
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by alwaysmuddy: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by chillout_abi: 👋
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by janlanrn: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by saars.foto: Hundreds of petals, one golden heart. Texture and treasure in one frame.
   - Reply by saars.foto: Golden light breaking through the storm like it owns the sky. Because it does.
   - Reply by saars.foto: A towering golden Guanyin against the sky. Hard to top that on Golden Friday.
-  - Reply by saars.foto: Golden streetlamps, cobblestones, and a scooter parking lot. That alley is show…
-  - Reply by saars.foto: Black-eyed Susans showing off their sunburst centers. Nature's golden hour, on …
-  - Reply by saars.foto: Golden light on the stadium while the storm clouds loom overhead. Dramatic entr…
-  - Reply by saars.foto: The sun melting into the water while the dock just stands there looking photoge…
+  - Reply by saars.foto: Golden streetlamps, cobblestones, and a scooter parking lot. That alley is showing off.
+  - Reply by saars.foto: Black-eyed Susans showing off their sunburst centers. Nature's golden hour, on demand.
+  - Reply by saars.foto: Golden light on the stadium while the storm clouds loom overhead. Dramatic entrance.
+  - Reply by saars.foto: The sun melting into the water while the dock just stands there looking photogenic. Golden indeed.
   - Reply by 5938crest: Took the picture in Thailand in 2019
   - Reply by saars.foto: A campfire going full dragon-mode against the dark. Golden Friday just got cozy.
   - Reply by saars.foto: Golden koi gliding through the pond like they own the place. Which they do.
-  - Reply by saars.foto: That sunflower is enormous - hand for scale and it's still winning. Absolute un…
+  - Reply by saars.foto: That sunflower is enormous - hand for scale and it's still winning. Absolute unit.
   - Reply by saars.foto: A golden pour catching the sun. Cheers to Golden Friday.
-  - Reply by saars.foto: Sunlight filtering through the canopy like nature's own cathedral. Golden hour …
+  - Reply by saars.foto: Sunlight filtering through the canopy like nature's own cathedral. Golden hour nailed it.
   - Reply by saars.foto: The sun sinking behind the treetops, setting the whole sky aglow.
   - Reply by saars.foto: Sunflower headpiece, star glasses, microphone in hand. Headliner energy.
   - Reply by saars.foto: A stupa literally made of gold. Golden Friday just got out-golded.
-  - Reply by saars.foto: A wind chime catching the light while the tree glows behind it. The bicycle's j…
-  - Reply by saars.foto: Gold-lit clouds doubled in the water, lily pads and all. That reflection is unr…
-  - Reply by saars.foto: A bee clocking in for the morning shift on a sunflower. Golden Friday's hardest…
-  - Reply by saars.foto: A ginger tabby staring straight into the camera like it pays rent here. Golden …
+  - Reply by saars.foto: A wind chime catching the light while the tree glows behind it. The bicycle's just vibing.
+  - Reply by saars.foto: Gold-lit clouds doubled in the water, lily pads and all. That reflection is unreal.
+  - Reply by saars.foto: A bee clocking in for the morning shift on a sunflower. Golden Friday's hardest worker.
+  - Reply by saars.foto: A ginger tabby staring straight into the camera like it pays rent here. Golden indeed.
   - Reply by kathbert85: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by minion44: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by amerjo: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by tammakaye: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by broup11: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by allemor.romella: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by rhetta_schultz: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by trayjayhay: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by simplymeaileen75: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by tennislady104: 
-  - Reply by saars.foto: The sailor's kiss silhouetted against a melting sun. San Diego Harbor bringing …
-  - Reply by saars.foto: A sunflower gone full campfire colors. The bees and daisies in the other frames…
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by saars.foto: The sailor's kiss silhouetted against a melting sun. San Diego Harbor bringing the drama.
+  - Reply by saars.foto: A sunflower gone full campfire colors. The bees and daisies in the other frames approve.
   - Reply by saars.foto: A golden spire punching straight through the clouds. St. Petersburg showing off.
-  - Reply by saars.foto: A whole crowd of Black-eyed Susans catching the sundown light. Golden hour's fa…
-  - Reply by saars.foto: A shorebird standing in liquid gold at sunset. That reflection is doing overtim…
+  - Reply by saars.foto: A whole crowd of Black-eyed Susans catching the sundown light. Golden hour's favorite flower.
+  - Reply by saars.foto: A shorebird standing in liquid gold at sunset. That reflection is doing overtime.
   - Reply by saars.foto: A thin gold crescent doing all the work tonight. Minimalist and magnificent.
-  - Reply by saars.foto: A sunflower in full glory, signed by Stew The punk. Rock and roll, flower editi…
+  - Reply by saars.foto: A sunflower in full glory, signed by Stew The punk. Rock and roll, flower edition.
   - Reply by saars.foto: Those elevator doors are dressed fancier than most weddings. Peak golden.
   - Reply by saars.foto: A whole frame of golden kernels. This is what harvest gold actually looks like.
   - Reply by saveme1028: 
-  - Reply by eclipse.vapix: Guys my id on instagram is @eclipse.vapix please check it out let's support eac…
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by eclipse.vapix: Guys my id on instagram is @eclipse.vapix please check it out let's support each other. nature's echo. 🌊✨ If you love peaceful lifestyle vlog edits and aesthetic nature videos, use this as a reminder to slow down today. Sometimes nature therapy and a calm mind by the rushing water are all you need to cherish the ordinary. I captured this cinematic visual diary on the Samsung Galaxy S25 camera to match the beautiful indie cinema film score. Let life flow. 🤍
   - Reply by bonfires_and_birdsong: Broadleaf goldenrod. A new lifer for me during the annual Beach clean up 💛🤩
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by coldhollowfarm: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by yvetime: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by hbeaulieu1970: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by sandgerine: A Golden Door
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by brendj08: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by aawsomeworldsunsetandsunrise: Sunflower 🌻
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by raijapoignand: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by mamustacci: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by 5938crest: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by blueeyes_florida_girl: Golden Sky with reflections
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by jackiepassmore4: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by gabri.jela_72: Da, i meni, super je ispala
   - Reply by eelizjjjm: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by wakefieldalice: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by citizenb: Black-eyed Susans at sundown.
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by alenkavarsek: Čudivite slike. Tretja mi je najbolj všeč.🍁🍂
   - Reply by kennenkaufmann: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by nycbryant50: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by la_mmmur: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by saars.foto: Last night's sky went full molten over the river. Worth the look back.
   - Reply by saars.foto: That cypress looked in the water and liked what it saw. Honestly, same.
   - Reply by saars.foto: Swans gliding through liquid gold. The ducks are just there for the vibes.
   - Reply by bojonvelvet2.0: Peter and Paul Fortress in St Petersburg
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by saars.foto: One seabird flying straight into the gold. Show-off.
-  - Reply by saars.foto: Harvest moon over Howe Sound, power lines and all. Some views don't need a filt…
+  - Reply by saars.foto: Harvest moon over Howe Sound, power lines and all. Some views don't need a filter.
   - Reply by saars.foto: A lone figure, one glowing streetlamp, and the whole sky on fire. Cinematic.
   - Reply by saars.foto: Fire in the sky, frost on the ground. Winter really said both.
   - Reply by saars.foto: The sun punching through the clouds like it's late for something.
   - Reply by saars.foto: That poppy showed up for her close-up and brought the whole sun with her.
-  - Reply by saars.foto: Four years ago, one glowing doorway stole the whole sunset. Some photos age lik…
+  - Reply by saars.foto: Four years ago, one glowing doorway stole the whole sunset. Some photos age like wine.
   - Reply by saars.foto: A little wildflower going full highlighter. Subtlety left the chat.
-  - Reply by saars.foto: Two for one: a tree dressed head-to-toe in gold, and a cloud that caught the su…
-  - Reply by saars.foto: Sea stacks doing their best silhouette impression while the sky sets itself on …
+  - Reply by saars.foto: Two for one: a tree dressed head-to-toe in gold, and a cloud that caught the sunset and kept it.
+  - Reply by saars.foto: Sea stacks doing their best silhouette impression while the sky sets itself on fire.
   - Reply by saars.foto: The sun playing hide and seek behind the clouds, and winning.
   - Reply by saars.foto: Even flat on its back in the grass, that sunflower's still glowing. Commitment.
   - Reply by tp703: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by fluidity_pour_paints: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by swishykitty: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by southernsonproductionz: As Gold as it…Getz…🪎🪎🪎
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by drek_suarez: This has an incredibly pleasant visual rhythm from beginning to end!\
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by fstoppirate: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by juliahh: 🙏❤️
   - Reply by gabri.jela_72: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by margaret_s_morton: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by kristin.cloud: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by jglass8: Golden San Diego Harbor
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by brendamayderosier: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by paul.moorman91: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by friendlyvonne: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by champsdebeurre: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by markoassems: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by peanutbutterscotch_: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by gingernuts65: It’s gorgeous. ￼
   - Reply by fragilita_12: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by bumpy120: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by i.m.doing.fine: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by reedstockman: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by patricahewitt: My Icelandic poppy was ready for her close-up!
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by abbytabby13: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by nanceharder81: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by mike___zed: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by michelpbeaudry: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by kidsdrs: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by moskutin: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by 1982wildcatfan: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by linda.tromp: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by hannahbuzzybee: Just a little snippet of my Christmas decor 😆
-  - Reply by saars.foto: An elf DJ spinning Spandau Ballet, Frankenstein, Godzilla in a gift box, and a …
+  - Reply by saars.foto: An elf DJ spinning Spandau Ballet, Frankenstein, Godzilla in a gift box, and a crowned raptor. Never apologize for this kind of chaos.
   - Reply by saars.foto: A whole bucket of sunshine from the flower market. Golden Friday indeed.
   - Reply by saars.foto: That mist caught the sunrise and ran with it. Golden hour doing overtime.
   - Reply by saars.foto: A deer made of golden light holding down the waterfront. Blitzen's artsy cousin.
-  - Reply by angelo_marcialis_photography: Well stated, thank you. Shot in the comfort of my home using natural light, not…
+  - Reply by angelo_marcialis_photography: Well stated, thank you. Shot in the comfort of my home using natural light, nothing fancy.😎
   - Reply by fiddlefotos: I took a few more with the same leaf
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by juliahh: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by chwbaka450: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by rajeshwar8380: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by hannahbuzzybee: Gold, Frankenstein & Grrrrrr 😆. Sorry I had to
-  - Reply by saars.foto: Budapest showing off its golden hour game. That parliament building is basicall…
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by saars.foto: Budapest showing off its golden hour game. That parliament building is basically wearing jewelry.
   - Reply by saars.foto: Sneaking up on a sunflower from behind. Even the green bits are glowing.
-  - Reply by saars.foto: A whole bouquet of sunshine dressed up for a night out. That black backdrop is …
-  - Reply by saars.foto: One golden leaf with a single red berry as its plus-one. Autumn really knows ho…
+  - Reply by saars.foto: A whole bouquet of sunshine dressed up for a night out. That black backdrop is pure drama.
+  - Reply by saars.foto: One golden leaf with a single red berry as its plus-one. Autumn really knows how to accessorize.
   - Reply by rkober: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by fiddlefotos: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by angelo_marcialis_photography: 
+    - Photo: (photo pending description - will be described on a future run)
   - Reply by schemenme: 
+    - Photo: (photo pending description - will be described on a future run)
 
 ## Topic: shadow, mid, sunset, shot
 
-- **Thread** [18345000355279729](https://www.threads.com/@saars.foto/post/DeRsLM5FfMB): Shadow Thursday favorites 🏆 Four shadows that stopped me mid-scroll. Full credi…
+- **Thread** [18345000355279729](https://www.threads.com/@saars.foto/post/DeRsLM5FfMB): Shadow Thursday favorites 🏆 Four shadows that stopped me mid-scroll. Full credit to the photographers - tagged below. 1. @petestretchphotos - B&W, one long shadow racing across wet sand toward the water 2. @nofussgus_ - a mid-leap dog with its long shadow chasing behind 3. @bojonvelvet2.0 - a red chair wearing window-blind stripes 4. @ahm0711 - sunset leaking through a dune fence, striping the sand Each of you gets a question in the thread below - answer if you like. We'd love the story.
+  - Photo: (photo pending description - will be described on a future run)
   - Reply by saars.foto: That sunset is golden👍 nice shot! Thank you for sharing!
   - Reply by saars.foto: I love the color and the lights. Good shot. Thank you so much for sharing. 🙏
-  - Reply by ahm0711: Completely by accident. Sunsets in Michigan, regardless of the season, are alwa…
+  - Reply by ahm0711: Completely by accident. Sunsets in Michigan, regardless of the season, are always incredible!
   - Reply by gamalthaib: 👍
-  - Reply by bojonvelvet2.0: Nah, I never stage photos. It was at a friend’s house and just happened to be v…
+  - Reply by bojonvelvet2.0: Nah, I never stage photos. It was at a friend’s house and just happened to be visiting at the right time of day.
   - Reply by powder_love_eat: 2nd👍
   - Reply by saars.foto: Yeah, credit to the photographers 🙏
   - Reply by drgregoryclarkemastercoach: Cool 😎
-  - Reply by saars.foto: @ahm0711 Sunset through the dune fence - did you plan the timing, or stumble st…
-  - Reply by saars.foto: @bojonvelvet2.0 That red chair in the window-blind stripes - staged moment, or …
-  - Reply by saars.foto: @nofussgus_ Caught mid-leap with the shadow chasing behind. Burst mode, or pure…
-  - Reply by saars.foto: @petestretchphotos That B&W frame is gorgeous. Were you shooting for the shadow…
+  - Reply by saars.foto: @ahm0711 Sunset through the dune fence - did you plan the timing, or stumble straight into golden hour?
+  - Reply by saars.foto: @bojonvelvet2.0 That red chair in the window-blind stripes - staged moment, or a lucky glance across the room?
+  - Reply by saars.foto: @nofussgus_ Caught mid-leap with the shadow chasing behind. Burst mode, or pure luck and fast fingers?
+  - Reply by saars.foto: @petestretchphotos That B&W frame is gorgeous. Were you shooting for the shadow, or did it steal the shot?
