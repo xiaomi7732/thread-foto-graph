@@ -21,13 +21,17 @@ Outputs:
    long-lived access token is auto-refreshed before it expires
    (`src/threads_auth.py`); auth is sent as an `Authorization: Bearer` header,
    never a query param, so it can't leak into logged URLs.
-2. For every photo (root post or reply, including `CAROUSEL_ALBUM` covers) not
-   already described, call Gemini for a one-to-two-sentence description
-   (`src/vision.py`). The API key is sent as the `x-goog-api-key` header (not
-   a query param) for the same reason. Descriptions are cached forever by
-   media ID (`cache/media_cache.json`, local-only) so a photo is never
-   re-described on later runs, and the cache is flushed to disk after *every*
-   new description — an interrupted run never loses progress.
+2. For every photo (root post or reply) not already described, call Gemini
+   for a one-to-two-sentence description (`src/vision.py`). `CAROUSEL_ALBUM`
+   items are expanded via the `children{media_type,media_url}` field
+   (`src/threads_client.py`'s `photo_items()`) so **every photo in a
+   multi-image carousel is described individually** — not just its cover
+   image, which is all the API returns by default. The API key is sent as
+   the `x-goog-api-key` header (not a query param) for the same reason.
+   Descriptions are cached forever by each individual photo's media ID
+   (`cache/media_cache.json`, local-only) so a photo is never re-described on
+   later runs, and the cache is flushed to disk after *every* new
+   description — an interrupted run never loses progress.
    - If Gemini's daily quota is hit mid-run, remaining photos are left
      un-described (not cached as a failure) and are clearly marked in the
      output as `(photo pending description - will be described on a future

@@ -13,7 +13,7 @@ import time
 
 import requests
 
-from . import config
+from . import config, threads_client
 
 GEMINI_URL_TMPL = (
     "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -76,53 +76,62 @@ def describe_image(image_url: str) -> str:
 
 
 def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_progress=None) -> int:
-    """Describes uncached photo media items in place (adds 'description' key).
+    """Describes every uncached photo in each item in place, storing a
+    'photo_descriptions' list on the item (one entry per photo -- a
+    CAROUSEL_ALBUM can hold several, not just its cover image; see
+    threads_client.photo_items). A list entry is None if that specific photo
+    wasn't described this run (budget/quota), which topic_graph.py renders as
+    a "pending" placeholder rather than silently dropping it.
 
-    Returns the number of new Gemini requests made. Stops early (leaving the
-    remainder uncached for the next run) once max_requests or the free-tier
-    quota is hit. `on_progress`, if given, is called after every single new
-    description so the caller can persist the cache immediately -- a slow or
-    interrupted run never loses already-described photos.
+    Returns the number of new Gemini requests made. `on_progress`, if given,
+    is called after every single new description so the caller can persist
+    the cache immediately -- a slow or interrupted run never loses
+    already-described photos.
     """
     requests_made = 0
     quota_hit = False
     for item in media_items:
-        # CAROUSEL_ALBUM replies still expose a single cover media_url via
-        # this API, so treat them like a photo too (not just literal IMAGE).
-        if item.get("media_type") not in ("IMAGE", "CAROUSEL_ALBUM"):
-            continue
-        media_id = item["id"]
-        if media_id in cache:
-            item["description"] = cache[media_id]
-            continue
-        if quota_hit or requests_made >= max_requests:
-            # Leave undescribed (not even a placeholder) -- topic_graph.py
-            # detects "has a photo but no description yet" via media_type
-            # alone, so this is never confused with "no photo".
+        photos = threads_client.photo_items(item)
+        if not photos:
             continue
 
-        try:
-            description = describe_image(item["media_url"])
-        except QuotaExceededError:
-            # Don't abandon the whole batch silently: keep looping so later
-            # cache-hit items still get their description, just stop making
-            # new network calls.
-            quota_hit = True
-            continue
-        except requests.RequestException as exc:
-            # Do NOT cache failures -- a transient/auth error should be
-            # retried on the next run, not permanently "stuck" as a fake
-            # cached description.
-            item["description"] = f"(description unavailable: {_sanitize(str(exc))})"
+        descriptions = []
+        for photo in photos:
+            media_id = photo["id"]
+            if media_id in cache:
+                descriptions.append(cache[media_id])
+                continue
+            if quota_hit or requests_made >= max_requests:
+                # Leave as None (pending) -- topic_graph.py distinguishes
+                # this from "no photo" via the list entry existing at all.
+                descriptions.append(None)
+                continue
+
+            try:
+                description = describe_image(photo["media_url"])
+            except QuotaExceededError:
+                # Don't abandon the whole batch silently: keep looping so
+                # later cache-hit items/photos still get their description,
+                # just stop making new network calls.
+                quota_hit = True
+                descriptions.append(None)
+                continue
+            except requests.RequestException as exc:
+                # Do NOT cache failures -- a transient/auth error should be
+                # retried on the next run, not permanently "stuck" as a fake
+                # cached description.
+                descriptions.append(f"(description unavailable: {_sanitize(str(exc))})")
+                requests_made += 1
+                time.sleep(MIN_SECONDS_BETWEEN_CALLS)
+                continue
+
+            cache[media_id] = description
+            descriptions.append(description)
+            if on_progress is not None:
+                on_progress()
             requests_made += 1
             time.sleep(MIN_SECONDS_BETWEEN_CALLS)
-            continue
 
-        cache[media_id] = description
-        item["description"] = description
-        if on_progress is not None:
-            on_progress()
-        requests_made += 1
-        time.sleep(MIN_SECONDS_BETWEEN_CALLS)
+        item["photo_descriptions"] = descriptions
 
     return requests_made

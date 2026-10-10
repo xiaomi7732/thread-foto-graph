@@ -34,10 +34,12 @@
       return (s || '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
     }
 
-    function photoHtml(photo) {
-      if (!photo) return '';
-      const pending = photo.startsWith('(photo pending') || photo.startsWith('(description unavailable');
-      return `<div class="photo${pending ? ' pending' : ''}">📷 ${escapeHtml(photo)}</div>`;
+    function photosHtml(photos) {
+      if (!photos || !photos.length) return '';
+      return photos.map(photo => {
+        const pending = photo.startsWith('(photo pending') || photo.startsWith('(description unavailable');
+        return `<div class="photo${pending ? ' pending' : ''}">📷 ${escapeHtml(photo)}</div>`;
+      }).join('');
     }
 
     // Renders a reply and recurses into its nested replies (real
@@ -50,7 +52,7 @@
       return `<li>
         <span class="username">${escapeHtml(r.username)}</span>${rlink}
         <div>${escapeHtml(r.text) || '<span class="placeholder">(no text)</span>'}</div>
-        ${photoHtml(r.photo)}
+        ${photosHtml(r.photos)}
         ${children}
       </li>`;
     }
@@ -64,7 +66,7 @@
       document.getElementById('detail').innerHTML = `
         <h2 style="margin-top:0">${escapeHtml(node.label)}</h2>
         <div class="thread-text">${escapeHtml(node.text)}${link}</div>
-        ${photoHtml(node.photo)}
+        ${photosHtml(node.photos)}
         <h3>Replies (${node.reply_count !== undefined ? node.reply_count : (node.replies || []).length})</h3>
         <ul class="replies">${repliesHtml || '<li class="placeholder">No replies.</li>'}</ul>
       `;

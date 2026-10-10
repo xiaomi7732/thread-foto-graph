@@ -28,12 +28,10 @@ GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
 
 def _thread_document(thread: dict) -> str:
     parts = [thread.get("text") or ""]
-    if thread.get("description"):
-        parts.append(thread["description"])
+    parts.extend(d for d in (thread.get("photo_descriptions") or []) if d)
     for reply in _iter_replies(thread.get("replies", [])):
         parts.append(reply.get("text") or "")
-        if reply.get("description"):
-            parts.append(reply["description"])
+        parts.extend(d for d in (reply.get("photo_descriptions") or []) if d)
     return "\n".join(p for p in parts if p)
 
 
@@ -101,19 +99,21 @@ def _snippet(text: str, length: int = 80) -> str:
     return text if len(text) <= length else text[: length - 1] + "…"
 
 
-HAS_PHOTO_TYPES = ("IMAGE", "CAROUSEL_ALBUM")
+PENDING_PHOTO_TEXT = "(photo pending description - will be described on a future run)"
 
 
-def _photo_line(item: dict) -> str | None:
-    """Returns the Photo line for this thread/reply, or None if it has no image.
+def _photo_lines(item: dict) -> list[str]:
+    """Returns one entry per photo in this thread/reply (a CAROUSEL_ALBUM can
+    have several -- see threads_client.photo_items), or [] if it has none.
 
-    Always emitted when media_type indicates a photo, even if Gemini hasn't
-    described it yet (e.g. daily quota hit) -- so "no Photo line" unambiguously
-    means "no photo", never "photo not described yet".
+    Always one entry per actual photo, even if Gemini hasn't described it yet
+    (e.g. daily quota hit) -- so an empty list unambiguously means "no
+    photos", never "photos not described yet".
     """
-    if item.get("media_type") not in HAS_PHOTO_TYPES:
-        return None
-    return item.get("description") or "(photo pending description - will be described on a future run)"
+    descriptions = item.get("photo_descriptions")
+    if not descriptions:
+        return []
+    return [d if d else PENDING_PHOTO_TEXT for d in descriptions]
 
 
 
@@ -126,9 +126,8 @@ def _render_reply_lines(reply: dict, depth: int) -> list[str]:
         f"{indent}- Reply by {reply.get('username', 'unknown')}: "
         f"{_snippet(reply.get('text', ''), length=None)}{reply_link}"
     ]
-    reply_photo = _photo_line(reply)
-    if reply_photo:
-        out.append(f"{indent}  - Photo: {reply_photo}")
+    for photo in _photo_lines(reply):
+        out.append(f"{indent}  - Photo: {photo}")
     for child in reply.get("replies", []):
         out.extend(_render_reply_lines(child, depth + 1))
     return out
@@ -140,7 +139,7 @@ def _reply_node(reply: dict) -> dict:
         "username": reply.get("username", "unknown"),
         "text": _snippet(reply.get("text", ""), length=None),
         "permalink": reply.get("permalink", ""),
-        "photo": _photo_line(reply),
+        "photos": _photo_lines(reply),
         "replies": [_reply_node(child) for child in reply.get("replies", [])],
     }
 
@@ -177,9 +176,9 @@ def build_topic_graph(threads: list[dict]) -> dict:
                 f"- **Thread** [{thread['id']}]({thread.get('permalink', '')}): "
                 f"{_snippet(thread.get('text', ''), length=None)}"
             )
-            thread_photo = _photo_line(thread)
-            if thread_photo:
-                lines.append(f"  - Photo: {thread_photo}")
+            thread_photos = _photo_lines(thread)
+            for photo in thread_photos:
+                lines.append(f"  - Photo: {photo}")
             for reply in thread.get("replies", []):
                 lines.extend(_render_reply_lines(reply, depth=0))
             nodes.append(
@@ -190,7 +189,7 @@ def build_topic_graph(threads: list[dict]) -> dict:
                     "snippet": _snippet(thread.get("text", ""), length=60),
                     "text": _snippet(thread.get("text", ""), length=None),
                     "permalink": thread.get("permalink", ""),
-                    "photo": thread_photo,
+                    "photos": thread_photos,
                     "reply_count": len(list(_iter_replies(thread.get("replies", [])))),
                     "replies": [_reply_node(reply) for reply in thread.get("replies", [])],
                 }

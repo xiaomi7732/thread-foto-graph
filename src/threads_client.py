@@ -19,9 +19,13 @@ from . import config, threads_auth
 
 BASE_URL = "https://graph.threads.net/v1.0"
 
-ROOT_FIELDS = "id,text,timestamp,media_type,media_url,permalink,shortcode"
+ROOT_FIELDS = (
+    "id,text,timestamp,media_type,media_url,permalink,shortcode,"
+    "children{id,media_type,media_url}"
+)
 REPLY_FIELDS = (
-    "id,text,timestamp,media_type,media_url,username,permalink,root_post{id},replied_to{id}"
+    "id,text,timestamp,media_type,media_url,username,permalink,root_post{id},"
+    "replied_to{id},children{id,media_type,media_url}"
 )
 
 
@@ -111,6 +115,28 @@ def iter_replies(replies: list[dict]):
     for reply in replies:
         yield reply
         yield from iter_replies(reply.get("replies", []))
+
+
+def photo_items(item: dict) -> list[dict]:
+    """Returns every actual photo inside this thread/reply as its own
+    {id, media_url} dict.
+
+    A plain IMAGE is a single photo. A CAROUSEL_ALBUM's own media_url is only
+    its *cover* image -- the rest of its photos live in `children` (fetched
+    via ROOT_FIELDS/REPLY_FIELDS) and must be described individually, or
+    they're silently missed entirely.
+    """
+    media_type = item.get("media_type")
+    if media_type == "IMAGE":
+        return [{"id": item["id"], "media_url": item.get("media_url")}]
+    if media_type == "CAROUSEL_ALBUM":
+        children = (item.get("children") or {}).get("data", [])
+        return [
+            {"id": child["id"], "media_url": child["media_url"]}
+            for child in children
+            if child.get("media_type") == "IMAGE" and child.get("media_url")
+        ]
+    return []
 
 
 def collect_threads_with_replies(
