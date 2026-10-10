@@ -8,6 +8,7 @@ even on days with 1,000+ reply photos.
 from __future__ import annotations
 
 import base64
+import re
 import time
 
 import requests
@@ -26,6 +27,14 @@ PROMPT = (
 
 # Free tier is ~10-15 requests/minute; stay comfortably under that.
 MIN_SECONDS_BETWEEN_CALLS = 5
+
+# Matches "?key=..." / "&key=..." style query params so a stray secret can
+# never make it into a committed file (data/topics.md) via an error message.
+_QUERY_SECRET_RE = re.compile(r"([?&](?:key|access_token)=)[^&\s)]+", re.IGNORECASE)
+
+
+def _sanitize(message: str) -> str:
+    return _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
 
 
 class QuotaExceededError(RuntimeError):
@@ -49,7 +58,11 @@ def describe_image(image_url: str) -> str:
         ]
     }
     url = GEMINI_URL_TMPL.format(model=config.GEMINI_MODEL)
-    resp = requests.post(url, params={"key": config.GEMINI_API_KEY}, json=body, timeout=60)
+    # Key goes in a header, never the URL/query string -- so it can never leak
+    # into an exception message (which includes response.url) or into any
+    # generated file that embeds error text.
+    headers = {"x-goog-api-key": config.GEMINI_API_KEY, "Content-Type": "application/json"}
+    resp = requests.post(url, headers=headers, json=body, timeout=60)
 
     if resp.status_code == 429:
         raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
@@ -62,12 +75,14 @@ def describe_image(image_url: str) -> str:
         return "(no description available)"
 
 
-def describe_images(media_items: list[dict], cache: dict, max_requests: int) -> int:
+def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_progress=None) -> int:
     """Describes uncached photo media items in place (adds 'description' key).
 
     Returns the number of new Gemini requests made. Stops early (leaving the
     remainder uncached for the next run) once max_requests or the free-tier
-    quota is hit.
+    quota is hit. `on_progress`, if given, is called after every single new
+    description so the caller can persist the cache immediately -- a slow or
+    interrupted run never loses already-described photos.
     """
     requests_made = 0
     for item in media_items:
@@ -85,10 +100,18 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int) -> 
         except QuotaExceededError:
             break
         except requests.RequestException as exc:
-            description = f"(description unavailable: {exc})"
+            # Do NOT cache failures -- a transient/auth error should be
+            # retried on the next run, not permanently "stuck" as a fake
+            # cached description.
+            item["description"] = f"(description unavailable: {_sanitize(str(exc))})"
+            requests_made += 1
+            time.sleep(MIN_SECONDS_BETWEEN_CALLS)
+            continue
 
         cache[media_id] = description
         item["description"] = description
+        if on_progress is not None:
+            on_progress()
         requests_made += 1
         time.sleep(MIN_SECONDS_BETWEEN_CALLS)
 

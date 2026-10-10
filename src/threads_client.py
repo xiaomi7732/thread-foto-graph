@@ -15,7 +15,7 @@ from typing import Iterable
 
 import requests
 
-from . import config
+from . import config, threads_auth
 
 BASE_URL = "https://graph.threads.net/v1.0"
 
@@ -24,8 +24,11 @@ REPLY_FIELDS = "id,text,timestamp,media_type,media_url,username,root_post{id}"
 
 
 def _get(path: str, params: dict) -> dict:
-    params = {**params, "access_token": config.THREADS_ACCESS_TOKEN}
-    resp = requests.get(f"{BASE_URL}/{path}", params=params, timeout=30)
+    # Auto-refreshes the long-lived token when it's close to expiring.
+    # Sent as a header (not a query param) so it can never leak into an
+    # exception message that embeds the request URL.
+    headers = {"Authorization": f"Bearer {threads_auth.get_valid_access_token()}"}
+    resp = requests.get(f"{BASE_URL}/{path}", params=params, headers=headers, timeout=30)
     resp.raise_for_status()
     return resp.json()
 
@@ -44,8 +47,15 @@ def _paginate(path: str, params: dict) -> Iterable[dict]:
         next_params = {}
 
 
-def get_recent_root_threads(lookback_days: int = config.LOOKBACK_DAYS) -> list[dict]:
-    """Returns the user's own root posts from the last `lookback_days` days."""
+def get_recent_root_threads(
+    lookback_days: int = config.LOOKBACK_DAYS, max_threads: int | None = None
+) -> list[dict]:
+    """Returns the user's own root posts from the last `lookback_days` days.
+
+    If `max_threads` is set, stops after collecting that many (posts are
+    returned newest-first, so this caps to the N most recent posts) --
+    useful for quick/manual test runs without scanning everything.
+    """
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=lookback_days)
     posts = []
     for post in _paginate("me/threads", {"fields": ROOT_FIELDS, "limit": 25}):
@@ -53,6 +63,8 @@ def get_recent_root_threads(lookback_days: int = config.LOOKBACK_DAYS) -> list[d
         if ts < cutoff:
             break  # me/threads is returned newest-first
         posts.append(post)
+        if max_threads is not None and len(posts) >= max_threads:
+            break
     return posts
 
 
@@ -61,9 +73,11 @@ def get_conversation(thread_id: str) -> list[dict]:
     return list(_paginate(f"{thread_id}/conversation", {"fields": REPLY_FIELDS, "limit": 50}))
 
 
-def collect_threads_with_replies(lookback_days: int = config.LOOKBACK_DAYS) -> list[dict]:
+def collect_threads_with_replies(
+    lookback_days: int = config.LOOKBACK_DAYS, max_threads: int | None = None
+) -> list[dict]:
     """Returns root posts, each annotated with its full list of replies."""
-    roots = get_recent_root_threads(lookback_days)
+    roots = get_recent_root_threads(lookback_days, max_threads)
     for root in roots:
         root["replies"] = get_conversation(root["id"])
     return roots

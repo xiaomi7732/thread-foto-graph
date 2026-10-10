@@ -16,31 +16,57 @@ def main() -> int:
     config.require("THREADS_ACCESS_TOKEN", config.THREADS_ACCESS_TOKEN)
     config.require("GEMINI_API_KEY", config.GEMINI_API_KEY)
 
-    print(f"Fetching threads from the last {config.LOOKBACK_DAYS} day(s)...")
-    threads = threads_client.collect_threads_with_replies(config.LOOKBACK_DAYS)
-    print(f"Found {len(threads)} root thread(s).")
+    scope = (
+        f"last {config.LOOKBACK_DAYS} day(s)"
+        if config.MAX_ROOT_THREADS is None
+        else f"last {config.LOOKBACK_DAYS} day(s), capped to {config.MAX_ROOT_THREADS} post(s)"
+    )
+    print(f"Fetching threads ({scope})...", flush=True)
+    threads = threads_client.collect_threads_with_replies(
+        config.LOOKBACK_DAYS, config.MAX_ROOT_THREADS
+    )
+    print(f"Found {len(threads)} root thread(s).", flush=True)
 
     cache = load_cache()
     requests_made = 0
     budget = config.MAX_VISION_REQUESTS_PER_RUN
 
-    for thread in threads:
+    def persist_progress():
+        # Flush to disk after every single new description, so a slow or
+        # interrupted run never has to re-describe an already-processed photo.
+        save_cache(cache)
+
+    for i, thread in enumerate(threads, start=1):
         # Root post photo (vision.describe_images expects a list of media items)
-        made = vision.describe_images([thread], cache, budget - requests_made)
+        made = vision.describe_images([thread], cache, budget - requests_made, persist_progress)
         requests_made += made
-        made = vision.describe_images(thread.get("replies", []), cache, budget - requests_made)
+        made = vision.describe_images(
+            thread.get("replies", []), cache, budget - requests_made, persist_progress
+        )
         requests_made += made
+        print(
+            f"[{i}/{len(threads)}] thread {thread['id']}: "
+            f"{len(thread.get('replies', []))} replies processed "
+            f"({requests_made} vision requests so far)",
+            flush=True,
+        )
         if requests_made >= budget:
-            print("Vision request budget exhausted for this run; remaining photos "
-                  "will be described on the next scheduled run.")
+            print(
+                "Vision request budget exhausted for this run; remaining photos "
+                "will be described on the next scheduled run.",
+                flush=True,
+            )
             break
 
     save_cache(cache)
-    print(f"Made {requests_made} new vision request(s) this run.")
+    print(f"Made {requests_made} new vision request(s) this run.", flush=True)
 
     graph = topic_graph.build_topic_graph(threads)
-    print(f"Wrote data/topics.md and docs/graph.json "
-          f"({len(graph['nodes'])} nodes, {len(graph['edges'])} edges).")
+    print(
+        f"Wrote data/topics.md and docs/graph.json "
+        f"({len(graph['nodes'])} nodes, {len(graph['edges'])} edges).",
+        flush=True,
+    )
     return 0
 
 
