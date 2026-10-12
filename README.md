@@ -197,11 +197,26 @@ hosted runners and commits/pushes any changes itself.
    - `GEMINI_MODEL`, `LOOKBACK_DAYS`, `MAX_ROOT_THREADS`,
      `MAX_VISION_REQUESTS_PER_RUN` — all optional, same defaults as
      `src/config.py` if left unset.
-3. That's it — the workflow is already scheduled (`cron: "0 13 * * *"`, i.e.
-   13:00 UTC daily; edit the cron line to change it) and also supports
+3. That's it — the workflow is already scheduled and also supports
    **Actions → Update Thread Topic Graph → Run workflow** for an on-demand
    run, optionally overriding `lookback_days`/`max_root_threads` for that
    run only (handy for testing without touching the repo variables).
+
+### Schedule: Mon-Fri, 8am-10pm Seattle time, hourly
+
+GitHub Actions `cron` is UTC-only and has no concept of time zones or DST, so
+it can't directly express "8am-10pm Pacific" (that boundary moves by an hour
+between PST and PDT). Instead:
+- The cron trigger (`0 15-23,0-6 * * *`) fires **every hour, every day**,
+  across a UTC window wide enough to cover 8am-10pm Pacific under *either*
+  PST (UTC-8) or PDT (UTC-7).
+- A "Check Seattle business-hours window" step computes the real, DST-aware
+  current time in `America/Los_Angeles` and skips the rest of the job
+  (install/run/commit) unless it's actually Mon-Fri, 8am-10pm there. Runs
+  outside the window still show up in the Actions log (as a quick, ~5 second
+  skip), they just don't do any work or consume Gemini vision quota.
+- Manual **Run workflow** dispatches always proceed regardless of time —
+  the window check only applies to the scheduled trigger.
 
 Notes on how it differs from the Task Scheduler setup:
 - `cache/*.json` (described-photo cache + the auto-refreshed Threads token)

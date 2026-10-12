@@ -2,8 +2,15 @@ name: Update Thread Topic Graph
 
 on:
   schedule:
-    # 13:00 UTC = 6:00 AM Pacific (ignoring DST shifts) -- adjust to taste.
-    - cron: "0 13 * * *"
+    # GitHub Actions cron is UTC-only and not DST-aware, so this can't
+    # directly express "8am-10pm Seattle, Mon-Fri". Instead it fires every
+    # hour, every day, across a UTC window wide enough to cover 8am-10pm
+    # Pacific under both PST (UTC-8) and PDT (UTC-7): 15:00 UTC = 8am PDT /
+    # 7am PST, and 06:00 UTC = 10pm PST(-ish) / 11pm PDT. The "Check Seattle
+    # business-hours window" step below then does the real, DST-aware
+    # Mon-Fri/8am-10pm filtering in Python and skips the rest of the job
+    # when outside it.
+    - cron: "0 15-23,0-6 * * *"
   workflow_dispatch:
     inputs:
       lookback_days:
@@ -35,7 +42,32 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Scheduled runs fire every hour all week (see the cron comment above)
+      # -- this step is what actually enforces "Mon-Fri, 8am-10pm Seattle
+      # time", correctly across PST/PDT, using the real current time rather
+      # than a fixed UTC offset. Manual (workflow_dispatch) runs always
+      # proceed regardless of time, since those are explicit/on-demand.
+      - name: Check Seattle business-hours window (Mon-Fri 8am-10pm)
+        id: window
+        shell: python
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          now = datetime.now(ZoneInfo("America/Los_Angeles"))
+          is_scheduled = os.environ["EVENT_NAME"] == "schedule"
+          in_window = now.weekday() < 5 and 8 <= now.hour < 22
+          should_run = (not is_scheduled) or in_window
+          print(f"Seattle local time: {now.isoformat()} (weekday={now.weekday()}, scheduled={is_scheduled})")
+          print(f"should_run={should_run}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"should_run={'true' if should_run else 'false'}\n")
+
       - name: Install dependencies
+        if: steps.window.outputs.should_run == 'true'
         run: pip install -r requirements.txt
 
       # cache/*.json is gitignored (see .gitignore) -- it's local-only
@@ -46,6 +78,7 @@ jobs:
       # entry, and since `key` includes the run id it never hits on save,
       # so a fresh cache snapshot is saved every run.
       - name: Restore local cache (vision descriptions + refreshed token)
+        if: steps.window.outputs.should_run == 'true'
         uses: actions/cache@v4
         with:
           path: cache
@@ -54,6 +87,7 @@ jobs:
             thread-foto-graph-cache-
 
       - name: Run pipeline
+        if: steps.window.outputs.should_run == 'true'
         env:
           # Secrets: anything that grants access to an account/API.
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
@@ -72,6 +106,7 @@ jobs:
         run: python -m src.main
 
       - name: Commit and push changes
+        if: steps.window.outputs.should_run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
