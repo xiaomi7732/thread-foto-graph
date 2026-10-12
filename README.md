@@ -181,6 +181,43 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    Git Credential Manager) so `git push` in the task doesn't prompt for a
    password.
 
+## Running on a schedule (GitHub Actions)
+
+Alternative to Task Scheduler if you'd rather not keep a machine running:
+`.github/workflows/thread-foto-graph.yml` runs the same pipeline on GitHub's
+hosted runners and commits/pushes any changes itself.
+
+1. **Secrets** (Settings → Secrets and variables → Actions → **Secrets**
+   tab) — anything that grants access to an account/API:
+   - `THREADS_ACCESS_TOKEN` — your long-lived Threads token.
+   - `GEMINI_API_KEY` — your Gemini API key.
+2. **Variables** (same page, **Variables** tab instead) — plain config, not
+   sensitive on its own:
+   - `THREADS_USERNAME` (required — no default).
+   - `GEMINI_MODEL`, `LOOKBACK_DAYS`, `MAX_ROOT_THREADS`,
+     `MAX_VISION_REQUESTS_PER_RUN` — all optional, same defaults as
+     `src/config.py` if left unset.
+3. That's it — the workflow is already scheduled (`cron: "0 13 * * *"`, i.e.
+   13:00 UTC daily; edit the cron line to change it) and also supports
+   **Actions → Update Thread Topic Graph → Run workflow** for an on-demand
+   run, optionally overriding `lookback_days`/`max_root_threads` for that
+   run only (handy for testing without touching the repo variables).
+
+Notes on how it differs from the Task Scheduler setup:
+- `cache/*.json` (described-photo cache + the auto-refreshed Threads token)
+  is gitignored and local-only by design, so on a hosted runner — which has
+  no persistent disk between runs — it's restored/saved via `actions/cache`
+  instead (keyed so the latest snapshot always carries forward to the next
+  run). This cache can in principle be evicted by GitHub (e.g. if the
+  workflow doesn't run for an extended period); if that happens, the run
+  falls back to bootstrapping straight from the `THREADS_ACCESS_TOKEN`
+  secret and re-describing any photos described since the last surviving
+  cache snapshot (Gemini free-tier calls, not a correctness problem — see
+  `src/vision.py`'s caching).
+- The job authenticates its `git push` using the automatically-provided
+  `GITHUB_TOKEN` (via `permissions: contents: write`), not your personal
+  git credentials.
+
 ## Publishing to GitHub Pages
 
 1. On GitHub: **Settings → Pages**.

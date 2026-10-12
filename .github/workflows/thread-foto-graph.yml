@@ -1,0 +1,84 @@
+name: Update Thread Topic Graph
+
+on:
+  schedule:
+    # 13:00 UTC = 6:00 AM Pacific (ignoring DST shifts) -- adjust to taste.
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Override LOOKBACK_DAYS for this run only"
+        required: false
+        type: string
+      max_root_threads:
+        description: "Override MAX_ROOT_THREADS for this run only (blank = no cap)"
+        required: false
+        type: string
+
+# Avoid two runs racing to commit/push at the same time.
+concurrency:
+  group: thread-foto-graph
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # cache/*.json is gitignored (see .gitignore) -- it's local-only
+      # derived state (described-photo IDs + the auto-refreshed Threads
+      # token), not something we want committed to the public repo. On a
+      # hosted runner there's no persistent disk between runs, so we use
+      # actions/cache instead: restore-keys always finds the most recent
+      # entry, and since `key` includes the run id it never hits on save,
+      # so a fresh cache snapshot is saved every run.
+      - name: Restore local cache (vision descriptions + refreshed token)
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: thread-foto-graph-cache-${{ github.run_id }}
+          restore-keys: |
+            thread-foto-graph-cache-
+
+      - name: Run pipeline
+        env:
+          # Secrets: anything that grants access to an account/API.
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Variables: everything else (not sensitive on its own, just
+          # config) -- set these under Settings -> Secrets and variables ->
+          # Actions -> Variables. `||` supplies the same defaults config.py
+          # would use locally, since an unset Actions variable still
+          # resolves to an empty string, which would otherwise override
+          # config.py's own default.
+          THREADS_USERNAME: ${{ vars.THREADS_USERNAME }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days || vars.LOOKBACK_DAYS || '2' }}
+          MAX_ROOT_THREADS: ${{ inputs.max_root_threads || vars.MAX_ROOT_THREADS }}
+          MAX_VISION_REQUESTS_PER_RUN: ${{ vars.MAX_VISION_REQUESTS_PER_RUN || '1400' }}
+        run: python -m src.main
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/actions.md data/topics.md data/threads docs/graph.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update thread topic graph ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
