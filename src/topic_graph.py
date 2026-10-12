@@ -6,8 +6,18 @@ similarity (union-find over a similarity threshold, so no fixed topic count
 is required at this small daily scale).
 
 Produces:
-  - data/topics.md   compact text tree for Muse to read instead of photos
-  - docs/graph.json  node/edge data for the GitHub Pages visual graph
+  - data/topics.md          compact, actionable-first view for Muse: thread
+                            summaries plus ONLY replies that still need a
+                            response (config.THREADS_USERNAME hasn't replied
+                            to them yet) -- already-answered branches collapse
+                            to a one-line count instead of being spelled out,
+                            which is what actually keeps this file small over
+                            time (not truncation -- see _prune_for_action).
+  - data/threads/<id>.md    full, unpruned per-thread conversation (every
+                            reply, answered or not) for on-demand drill-down;
+                            not loaded by Muse by default.
+  - docs/graph.json         node/edge data for the GitHub Pages visual graph
+                            (full archive, each reply flagged needs_response).
 """
 from __future__ import annotations
 
@@ -18,11 +28,14 @@ from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+from . import config
+
 SIMILARITY_THRESHOLD = 0.2
 TOP_KEYWORDS = 4
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 TOPICS_MD_PATH = ROOT_DIR / "data" / "topics.md"
+THREADS_DIR = ROOT_DIR / "data" / "threads"
 GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
 
 
@@ -117,19 +130,76 @@ def _photo_lines(item: dict) -> list[str]:
 
 
 
-def _render_reply_lines(reply: dict, depth: int) -> list[str]:
+def _needs_response(reply: dict) -> bool:
+    """A reply needs a response if it's not the owner's own reply, and the
+    owner hasn't directly replied to it yet (no direct child authored by
+    config.THREADS_USERNAME). This is the actionable signal Muse uses to
+    decide what still needs a suggested reply.
+    """
+    if reply.get("username") == config.THREADS_USERNAME:
+        return False
+    return not any(
+        child.get("username") == config.THREADS_USERNAME
+        for child in reply.get("replies", [])
+    )
+
+
+def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
+    """Recursively prunes a nested reply tree down to only what's still
+    actionable, for the compact data/topics.md view.
+
+    A reply is kept (annotated with '_needs_response' and '_answered_overflow')
+    if it itself needs a response, OR if any of its descendants still need a
+    response (kept as context so Muse can see what it's replying to/within).
+    A reply -- and its entire subtree -- is dropped entirely only when every
+    reply in it is already resolved (the owner's own replies, or replies the
+    owner has already responded to, with nothing unanswered underneath).
+
+    Returns (kept_replies, dropped_count) where dropped_count is how many
+    reply nodes were dropped at this level (for a "+N already answered" note).
+    Full detail for dropped replies is never lost -- it's still written out
+    in full to data/threads/<id>.md.
+    """
+    kept = []
+    dropped = 0
+    for reply in replies:
+        child_kept, child_dropped = _prune_for_action(reply.get("replies", []))
+        own_needs = _needs_response(reply)
+        if own_needs or child_kept:
+            pruned_reply = dict(reply)
+            pruned_reply["replies"] = child_kept
+            pruned_reply["_needs_response"] = own_needs
+            pruned_reply["_answered_overflow"] = child_dropped
+            kept.append(pruned_reply)
+        else:
+            dropped += 1 + child_dropped
+    return kept, dropped
+
+
+def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = False) -> list[str]:
     """Renders one reply plus all its nested replies, indented by depth so the
-    real reply-to-reply hierarchy is visible (not flattened)."""
+    real reply-to-reply hierarchy is visible (not flattened).
+
+    When show_action_marker is set (compact data/topics.md view), replies
+    still needing a response are prefixed **[NEEDS REPLY]** so Muse doesn't
+    have to re-derive that itself, and a kept-but-already-resolved reply with
+    further answered descendants gets a one-line overflow note instead of
+    those descendants being spelled out.
+    """
     indent = "  " * (depth + 1)
     reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
+    marker = "**[NEEDS REPLY]** " if show_action_marker and reply.get("_needs_response") else ""
     out = [
-        f"{indent}- Reply by {reply.get('username', 'unknown')}: "
+        f"{indent}- {marker}Reply by {reply.get('username', 'unknown')}: "
         f"{_snippet(reply.get('text', ''), length=None)}{reply_link}"
     ]
     for photo in _photo_lines(reply):
         out.append(f"{indent}  - Photo: {photo}")
+    overflow = reply.get("_answered_overflow", 0)
+    if overflow:
+        out.append(f"{indent}  _(+{overflow} more repl{'y' if overflow == 1 else 'ies'} already answered under this, see archive)_")
     for child in reply.get("replies", []):
-        out.extend(_render_reply_lines(child, depth + 1))
+        out.extend(_render_reply_lines(child, depth + 1, show_action_marker=show_action_marker))
     return out
 
 
@@ -140,13 +210,44 @@ def _reply_node(reply: dict) -> dict:
         "text": _snippet(reply.get("text", ""), length=None),
         "permalink": reply.get("permalink", ""),
         "photos": _photo_lines(reply),
+        "needs_response": _needs_response(reply),
         "replies": [_reply_node(child) for child in reply.get("replies", [])],
     }
 
 
+def _thread_header_lines(thread: dict) -> tuple[list[str], list[str]]:
+    """Returns (header_lines, thread_photo_lines) shared by both the compact
+    and archive renderings of a thread -- the root post is always shown in
+    full either way, it's only the reply tree that differs."""
+    header = [
+        f"- **Thread** [{thread['id']}]({thread.get('permalink', '')}): "
+        f"{_snippet(thread.get('text', ''), length=None)}"
+    ]
+    photos = _photo_lines(thread)
+    return header, photos
+
+
+def _render_archive_thread(thread: dict) -> str:
+    """Renders the full, unpruned conversation for one thread -- every reply,
+    answered or not -- for data/threads/<id>.md (on-demand drill-down)."""
+    header, photos = _thread_header_lines(thread)
+    lines = [f"# Thread {thread['id']}", ""]
+    lines.extend(header)
+    for photo in photos:
+        lines.append(f"  - Photo: {photo}")
+    for reply in thread.get("replies", []):
+        lines.extend(_render_reply_lines(reply, depth=0, show_action_marker=False))
+    return "\n".join(lines) + "\n"
+
+
 def build_topic_graph(threads: list[dict]) -> dict:
-    """Returns the full graph structure and writes topics.md + graph.json."""
+    """Returns the full graph structure and writes:
+      - data/topics.md          compact, actionable-first view
+      - data/threads/<id>.md    full per-thread archive
+      - docs/graph.json         full visual-graph archive
+    """
     TOPICS_MD_PATH.parent.mkdir(parents=True, exist_ok=True)
+    THREADS_DIR.mkdir(parents=True, exist_ok=True)
     GRAPH_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     if not threads:
@@ -163,7 +264,14 @@ def build_topic_graph(threads: list[dict]) -> dict:
     for idx, cid in enumerate(cluster_ids):
         topics.setdefault(cid, []).append(idx)
 
-    lines = ["# Thread Topics", ""]
+    lines = [
+        "# Thread Topics",
+        "",
+        "_Compact, actionable-first view: only replies still awaiting a "
+        "response are shown in full. Already-answered replies collapse to a "
+        "count -- see the linked archive for the complete conversation._",
+        "",
+    ]
     nodes, edges = [], []
     for cid, member_indices in sorted(topics.items()):
         keywords = _top_keywords(vectorizer, matrix, member_indices)
@@ -172,15 +280,39 @@ def build_topic_graph(threads: list[dict]) -> dict:
         lines.append("")
         for idx in member_indices:
             thread = threads[idx]
-            lines.append(
-                f"- **Thread** [{thread['id']}]({thread.get('permalink', '')}): "
-                f"{_snippet(thread.get('text', ''), length=None)}"
+            archive_link = f"threads/{thread['id']}.md"
+
+            # Write the full, unpruned archive for this thread regardless of
+            # the topic-cluster loop structure (one file per thread).
+            (THREADS_DIR / f"{thread['id']}.md").write_text(
+                _render_archive_thread(thread), encoding="utf-8"
             )
-            thread_photos = _photo_lines(thread)
+
+            header, thread_photos = _thread_header_lines(thread)
+            lines.extend(header)
             for photo in thread_photos:
                 lines.append(f"  - Photo: {photo}")
-            for reply in thread.get("replies", []):
-                lines.extend(_render_reply_lines(reply, depth=0))
+
+            total_replies = len(list(_iter_replies(thread.get("replies", []))))
+            pruned_replies, dropped = _prune_for_action(thread.get("replies", []))
+            if total_replies == 0:
+                pass  # no replies at all -- nothing more to render
+            elif not pruned_replies:
+                lines.append(
+                    f"  - All {total_replies} repl{'y' if total_replies == 1 else 'ies'} "
+                    f"already answered. ✅ ([full thread]({archive_link}))"
+                )
+            else:
+                for reply in pruned_replies:
+                    lines.extend(_render_reply_lines(reply, depth=0, show_action_marker=True))
+                if dropped:
+                    lines.append(
+                        f"  _(+{dropped} more repl{'y' if dropped == 1 else 'ies'} elsewhere in "
+                        f"this thread already answered, see [full thread]({archive_link}))_"
+                    )
+                else:
+                    lines.append(f"  ([full thread]({archive_link}))")
+
             nodes.append(
                 {
                     "id": thread["id"],
@@ -190,7 +322,7 @@ def build_topic_graph(threads: list[dict]) -> dict:
                     "text": _snippet(thread.get("text", ""), length=None),
                     "permalink": thread.get("permalink", ""),
                     "photos": thread_photos,
-                    "reply_count": len(list(_iter_replies(thread.get("replies", [])))),
+                    "reply_count": total_replies,
                     "replies": [_reply_node(reply) for reply in thread.get("replies", [])],
                 }
             )

@@ -6,13 +6,26 @@ so **AI can read the compact text tree (`data/topics.md`) instead of
 re-pulling raw images into its context on every response** — this is what was
 burning AI's token budget.
 
+On top of that, `data/topics.md` is **actionable-first, not just text-first**:
+since Muse's job here is to watch threads and suggest replies to replies, the
+file only spells out replies you (`THREADS_USERNAME`) haven't responded to
+yet. Branches you've already answered collapse to a one-line count instead of
+being read in full every time — the full conversation is never lost, it just
+moves to an on-demand archive file (see below).
+
 Outputs:
-- `data/topics.md` — compact text tree of topics → threads → replies, with
-  photo descriptions inline instead of images, plus a permalink per reply for
-  manual validation. Point AI at this file.
+- `data/topics.md` — compact, **actionable-first** text tree of topics →
+  threads → still-unanswered replies, with photo descriptions inline instead
+  of images, `**[NEEDS REPLY]**` markers, and a permalink per reply for
+  manual validation. **Point Muse/AI at this file** for day-to-day use.
+- `data/threads/<thread_id>.md` — one file per root thread with the **full,
+  unpruned** conversation (every reply, answered or not). Not loaded by
+  default; fetch a specific one only if deeper context on that thread is
+  needed.
 - `docs/graph.json` + `docs/index.html` — visual topic graph (graph view +
-  click-through detail panel with full text, replies, photo descriptions and
-  permalinks), published via GitHub Pages, for your own browsing (not for AI).
+  click-through detail panel with full text, replies, photo descriptions,
+  permalinks, and a `needs_response` flag per reply), published via GitHub
+  Pages, for your own browsing (not for AI).
 
 ## How it works
 
@@ -36,10 +49,36 @@ Outputs:
      un-described (not cached as a failure) and are clearly marked in the
      output as `(photo pending description - will be described on a future
      run)` — never silently indistinguishable from "no photo".
-3. Cluster threads into topics by text similarity and write `topics.md` +
-   `graph.json` (`src/topic_graph.py`). Reply/thread text is written in full
-   (not truncated) in `topics.md` since it's meant to replace images, not
-   compress text.
+3. Cluster threads into topics by text similarity, prune each thread's reply
+   tree down to what's actionable, and write `topics.md` + the per-thread
+   archives + `graph.json` (`src/topic_graph.py`). Reply/thread text is
+   written in full (not truncated) wherever it's shown, since the whole
+   point is to replace images, not compress text.
+
+### Actionable-first pruning (what keeps topics.md small)
+
+A reply is considered **"needs a response"** if it's not your own reply
+(`THREADS_USERNAME`) and you haven't directly replied to it yet (no direct
+child reply authored by you). `src/topic_graph.py`'s `_prune_for_action()`
+walks each thread's reply tree and:
+- **Drops entirely** any branch where every reply in it is already resolved
+  (your own replies, or replies you've already responded to, with nothing
+  unanswered underneath) — these never get written out in `topics.md`.
+- **Keeps** a reply (marked `**[NEEDS REPLY]**`) if it itself still needs a
+  response, and keeps its *ancestors* too (unmarked, as context) so Muse can
+  see what it's replying within — it just collapses any already-answered
+  *siblings*/descendants into a one-line `(+N more replies already answered
+  under this, see archive)` note.
+- A thread where every reply is already answered collapses to a single
+  `All N replies already answered. ✅` line.
+
+None of this loses data — the full, unpruned conversation for every thread is
+always written to `data/threads/<thread_id>.md`, linked from `topics.md`.
+
+**Caveat:** for a high-volume, non-conversational thread (e.g. a "post your
+photo" giveaway with hundreds of one-off entries), most replies are
+legitimately unanswered, so the actionable list can still be long — pruning
+only removes what's *already resolved*, it doesn't cap or sample the backlog.
 
 ### Handling spiky days (free-tier safety net)
 
@@ -69,6 +108,9 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    - `THREADS_ACCESS_TOKEN` — a long-lived Threads API user access token for
      the account to watch (see "Obtaining a long-lived Threads token" below).
      It's auto-refreshed on subsequent runs, so you only need to set this once.
+   - `THREADS_USERNAME` — your own Threads username, used to tell "already
+     answered by me" replies apart from everyone else's (drives the
+     actionable-first pruning in `topics.md`).
    - `GEMINI_API_KEY` — a free Google AI Studio API key
      (https://aistudio.google.com/apikey).
    - `GEMINI_MODEL` — defaults to `gemini-3.5-flash-lite` (500 free
@@ -79,7 +121,8 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    $env:MAX_ROOT_THREADS="2"
    .venv\Scripts\python.exe -u -m src.main
    ```
-   Check `data/topics.md` and `docs/graph.json` were created/updated.
+   Check `data/topics.md`, `data/threads/`, and `docs/graph.json` were
+   created/updated.
 
 ## Obtaining a long-lived Threads token
 
@@ -122,12 +165,20 @@ Since the repo is public, give AI the raw URL so it reads text only:
 ```
 https://raw.githubusercontent.com/xiaomi7732/thread-foto-graph/main/data/topics.md
 ```
+This is the compact, actionable-first view — Muse only needs to drill into a
+specific `data/threads/<thread_id>.md` (same raw-URL pattern) if it needs the
+full conversation on a thread it's already seen summarized.
 
 ## Notes
 
 - `cache/media_cache.json` is local-only (gitignored) — it exists purely to
   avoid re-describing the same photo across runs on this machine. Nothing in
   this project ever deletes or clears it automatically; it only grows.
+- `data/threads/<thread_id>.md` archive files accumulate similarly to the
+  cache — nothing deletes them once a thread rolls out of the
+  `LOOKBACK_DAYS` window, even though `topics.md` stops mentioning it. This
+  is intentional (so old archive links never go stale), but means the
+  `data/threads/` folder only grows over time.
 - Both the Threads token and the Gemini key are sent as request **headers**,
   never query params, so they can never end up embedded in a logged/committed
   error message (this previously caused a real leaked-key incident caught by

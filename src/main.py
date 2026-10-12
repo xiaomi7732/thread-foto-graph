@@ -14,6 +14,7 @@ from .cache import load_cache, save_cache
 
 def main() -> int:
     config.require("THREADS_ACCESS_TOKEN", config.THREADS_ACCESS_TOKEN)
+    config.require("THREADS_USERNAME", config.THREADS_USERNAME)
     config.require("GEMINI_API_KEY", config.GEMINI_API_KEY)
 
     scope = (

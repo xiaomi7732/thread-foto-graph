@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 THREADS_ACCESS_TOKEN = os.environ.get("THREADS_ACCESS_TOKEN", "")
+THREADS_USERNAME = os.environ.get("THREADS_USERNAME", "")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "2"))
