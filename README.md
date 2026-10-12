@@ -15,12 +15,14 @@ entirely from the primary read) instead of being re-read in full every time
 file (see below).
 
 Outputs (smallest/most-frequent read first):
-- `data/actions.md` — **flat action list, no topic grouping, no reply tree
-  to walk.** Every still-unanswered reply becomes one self-contained bullet
-  under `## Needs Reply` (has a photo — worth a thoughtful written reply) or
-  `## Needs Like` (text-only — a like is usually enough), each with its own
-  text/photo description, a one-line note on what it's replying to if it's
-  nested under another reply, and a link back to its thread. **Point
+- `data/actions.md` — **flat action list, no topic clustering, no reply tree
+  to walk.** Split into `## Needs Reply` (has a photo — worth a thoughtful
+  written reply) and `## Needs Like` (text-only — a like is usually enough),
+  with items grouped under a `### <thread>` header written **once per
+  thread** (not once per reply, which would just repeat the same
+  text/link over and over for a busy thread). Each reply bullet is otherwise
+  self-contained: its own text/photo description plus a one-line note on
+  what it's replying to if it's nested under another reply. **Point
   Muse/AI at this file for day-to-day use** — its size tracks the number of
   outstanding actions, not total conversation size, so it stays small even
   as threads accumulate hundreds of already-answered replies.
@@ -72,7 +74,9 @@ Outputs (smallest/most-frequent read first):
 `data/actions.md` is the leanest read: it skips topic clustering and the
 reply tree entirely, listing only the replies that still need a response as
 flat, self-contained bullets (own text + photo description + a one-line
-"replying to" note if nested + thread backlink), split into `## Needs Reply`
+"replying to" note if nested), grouped under one `### <thread>` header per
+thread -- written once, not once per reply, so a busy thread's snippet/link
+doesn't repeat for every one of its replies -- split into `## Needs Reply`
 and `## Needs Like`. Its size tracks the *number of outstanding actions*, not
 total conversation volume, so a 300-reply giveaway thread that's mostly
 already-answered doesn't bloat it — only the genuinely unanswered items do.

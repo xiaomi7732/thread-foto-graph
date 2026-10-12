@@ -256,25 +256,60 @@ def _flatten_actionable(replies: list[dict], parent_text: str | None = None):
         yield from _flatten_actionable(reply.get("replies", []), own_text)
 
 
-def _render_action_item(thread: dict, reply: dict, parent_text: str | None) -> list[str]:
+def _render_action_item(reply: dict, parent_text: str | None) -> list[str]:
+    """Renders one actionable reply as a self-contained bullet -- own
+    text/photo(s) plus a one-line parent-context note if nested. The thread
+    it belongs to is NOT repeated here (that would duplicate the same
+    snippet+link on every item under a busy thread) -- see
+    _render_action_section, which groups items under one thread header.
+    """
     reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
-    thread_link = f" ([thread]({thread.get('permalink', '')}))" if thread.get("permalink") else ""
     out = [f"- **{reply.get('username', 'unknown')}**: {_snippet(reply.get('text', ''), length=None)}{reply_link}"]
     for photo in _photo_lines(reply):
         out.append(f"  - Photo: {photo}")
     if parent_text:
         out.append(f"  - _Replying to: {parent_text}_")
-    out.append(f"  - Thread: {_snippet(thread.get('text', ''), length=60)}{thread_link}")
     return out
 
 
+def _group_by_thread(items: list[tuple[dict, dict, str | None]]) -> list[tuple[dict, list[tuple[dict, str | None]]]]:
+    """Groups (thread, reply, parent_text) tuples by thread, preserving the
+    order threads first appear in, so each thread's header is written once
+    instead of once per reply."""
+    order: list[dict] = []
+    grouped: dict[str, list[tuple[dict, str | None]]] = {}
+    for thread, reply, parent_text in items:
+        key = thread["id"]
+        if key not in grouped:
+            grouped[key] = []
+            order.append(thread)
+        grouped[key].append((reply, parent_text))
+    return [(thread, grouped[thread["id"]]) for thread in order]
+
+
+def _render_action_section(items: list[tuple[dict, dict, str | None]]) -> list[str]:
+    """Renders one '## Needs Reply'/'## Needs Like' section: items grouped
+    under a single '### <thread>' header per thread (written once, not once
+    per reply) to avoid repeating the same thread snippet+link dozens of
+    times for a busy thread."""
+    lines = []
+    for thread, entries in _group_by_thread(items):
+        thread_link = f" ([thread]({thread.get('permalink', '')}))" if thread.get("permalink") else ""
+        lines.append(f"### {_snippet(thread.get('text', ''), length=60)}{thread_link}")
+        for reply, parent_text in entries:
+            lines.extend(_render_action_item(reply, parent_text))
+        lines.append("")
+    return lines
+
+
 def _render_action_list(threads: list[dict]) -> str:
-    """Builds the flat, no-tree, no-topic-grouping action list -- the
-    smallest possible read for Muse day-to-day: just what still needs a
-    reply vs. a like, each a self-contained bullet (own text/photo + one
-    line of immediate parent context + a thread backlink), nothing else.
-    data/topics.md keeps the fuller structural view; this file is for
-    "don't make me jump around the tree, just tell me what to do".
+    """Builds the flat, no-reply-tree action list -- the smallest read for
+    Muse day-to-day: just what still needs a reply vs. a like, grouped only
+    by thread (one header per thread, not per topic/cluster), each item a
+    self-contained bullet (own text/photo + one line of immediate parent
+    context if nested). data/topics.md keeps the fuller structural view;
+    this file is for "don't make me jump around the tree, just tell me what
+    to do" with the least possible repetition.
     """
     reply_items: list[tuple[dict, dict, str | None]] = []
     like_items: list[tuple[dict, dict, str | None]] = []
@@ -290,28 +325,33 @@ def _render_action_list(threads: list[dict]) -> str:
         "# Action List",
         "",
         "_Flat list of everything still awaiting your attention -- no topic "
-        "grouping, no already-answered branches, no reply tree to walk. See "
-        "data/topics.md for structural/thread context, or "
-        "data/threads/<id>.md for the full conversation._",
+        "grouping, no already-answered branches, no reply tree to walk, and "
+        "each thread's link shown only once. See data/topics.md for fuller "
+        "structural/thread context, or data/threads/<id>.md for the full "
+        "conversation._",
         "",
         f"## Needs Reply ({len(reply_items)})",
         "",
     ]
     if not reply_items:
         lines.append("_Nothing -- all photo replies answered._")
-    for thread, reply, parent_text in reply_items:
-        lines.extend(_render_action_item(thread, reply, parent_text))
-    lines.append("")
+        lines.append("")
+    else:
+        lines.extend(_render_action_section(reply_items))
     lines.append(f"## Needs Like ({len(like_items)})")
     lines.append("")
     if not like_items:
         lines.append("_Nothing -- all text replies answered._")
-    for thread, reply, parent_text in like_items:
-        reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
-        lines.append(
-            f"- {reply.get('username', 'unknown')}: {_snippet(reply.get('text', ''), length=None)}{reply_link}"
-        )
-    lines.append("")
+    else:
+        for thread, entries in _group_by_thread(like_items):
+            thread_link = f" ([thread]({thread.get('permalink', '')}))" if thread.get("permalink") else ""
+            lines.append(f"### {_snippet(thread.get('text', ''), length=60)}{thread_link}")
+            for reply, _parent_text in entries:
+                reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
+                lines.append(
+                    f"- {reply.get('username', 'unknown')}: {_snippet(reply.get('text', ''), length=None)}{reply_link}"
+                )
+            lines.append("")
     return "\n".join(lines)
 
 
