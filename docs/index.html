@@ -19,6 +19,9 @@
     ul.replies li { border-top: 1px solid #eee; padding: 8px 0; }
     .username { font-weight: 600; }
     .placeholder { color: #888; }
+    .badge { font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 10px; }
+    .badge-reply { background: #e3f0ff; color: #1a56c4; }
+    .badge-like { background: #fdf1d8; color: #9a6b00; }
     ul.nested { list-style: none; margin: 8px 0 0; padding-left: 18px; border-left: 2px solid #ddd; }
     ul.nested li { border-top: none; padding: 6px 0; }
   </style>
@@ -42,6 +45,13 @@
       }).join('');
     }
 
+    function actionBadge(r) {
+      if (!r.needs_response) return '';
+      return r.action === 'reply'
+        ? ' <span class="badge badge-reply">💬 needs reply</span>'
+        : ' <span class="badge badge-like">👍 needs like</span>';
+    }
+
     // Renders a reply and recurses into its nested replies (real
     // reply-to-reply hierarchy, indented per depth via nested <ul class="nested">).
     function replyHtml(r) {
@@ -50,7 +60,7 @@
         ? `<ul class="nested">${r.replies.map(replyHtml).join('')}</ul>`
         : '';
       return `<li>
-        <span class="username">${escapeHtml(r.username)}</span>${rlink}
+        <span class="username">${escapeHtml(r.username)}</span>${rlink}${actionBadge(r)}
         <div>${escapeHtml(r.text) || '<span class="placeholder">(no text)</span>'}</div>
         ${photosHtml(r.photos)}
         ${children}

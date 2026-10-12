@@ -6,13 +6,24 @@ similarity (union-find over a similarity threshold, so no fixed topic count
 is required at this small daily scale).
 
 Produces:
-  - data/topics.md          compact, actionable-first view for Muse: thread
-                            summaries plus ONLY replies that still need a
-                            response (config.THREADS_USERNAME hasn't replied
-                            to them yet) -- already-answered branches collapse
-                            to a one-line count instead of being spelled out,
-                            which is what actually keeps this file small over
-                            time (not truncation -- see _prune_for_action).
+  - data/actions.md         flat action list for Muse: just the replies that
+                            still need a reply or a like, each a
+                            self-contained bullet (own text/photo + one line
+                            of immediate parent context + thread backlink) --
+                            no topic grouping, no tree to walk. This is what
+                            keeps the per-read token cost flat over time, not
+                            topics.md, since it grows only with the number of
+                            outstanding actions, not with total conversation
+                            size.
+  - data/topics.md          compact, actionable-first *structural* view for
+                            Muse: thread summaries plus ONLY replies that
+                            still need a response (config.THREADS_USERNAME
+                            hasn't replied to them yet), with real nesting
+                            preserved -- already-answered branches collapse
+                            to a one-line count instead of being spelled out
+                            (see _prune_for_action). Useful when the tree
+                            shape/order matters, but actions.md is the
+                            smaller day-to-day read.
   - data/threads/<id>.md    full, unpruned per-thread conversation (every
                             reply, answered or not) for on-demand drill-down;
                             not loaded by Muse by default.
@@ -34,6 +45,7 @@ SIMILARITY_THRESHOLD = 0.2
 TOP_KEYWORDS = 4
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
+ACTIONS_MD_PATH = ROOT_DIR / "data" / "actions.md"
 TOPICS_MD_PATH = ROOT_DIR / "data" / "topics.md"
 THREADS_DIR = ROOT_DIR / "data" / "threads"
 GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
@@ -144,6 +156,15 @@ def _needs_response(reply: dict) -> bool:
     )
 
 
+def _action_category(reply: dict) -> str:
+    """Categorizes an unanswered reply into what it's actually worth doing:
+    a reply with a photo is worth a thoughtful written reply, while a
+    plain-text reply usually just warrants a like rather than a full
+    suggested response.
+    """
+    return "reply" if _photo_lines(reply) else "like"
+
+
 def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
     """Recursively prunes a nested reply tree down to only what's still
     actionable, for the compact data/topics.md view.
@@ -181,14 +202,17 @@ def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = Fals
     real reply-to-reply hierarchy is visible (not flattened).
 
     When show_action_marker is set (compact data/topics.md view), replies
-    still needing a response are prefixed **[NEEDS REPLY]** so Muse doesn't
-    have to re-derive that itself, and a kept-but-already-resolved reply with
-    further answered descendants gets a one-line overflow note instead of
-    those descendants being spelled out.
+    still needing a response are prefixed **[NEEDS REPLY]** (has a photo --
+    worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is
+    usually enough) so Muse doesn't have to re-derive that itself, and a
+    kept-but-already-resolved reply with further answered descendants gets a
+    one-line overflow note instead of those descendants being spelled out.
     """
     indent = "  " * (depth + 1)
     reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
-    marker = "**[NEEDS REPLY]** " if show_action_marker and reply.get("_needs_response") else ""
+    marker = ""
+    if show_action_marker and reply.get("_needs_response"):
+        marker = "**[NEEDS REPLY]** " if _action_category(reply) == "reply" else "**[NEEDS LIKE]** "
     out = [
         f"{indent}- {marker}Reply by {reply.get('username', 'unknown')}: "
         f"{_snippet(reply.get('text', ''), length=None)}{reply_link}"
@@ -205,14 +229,90 @@ def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = Fals
 
 def _reply_node(reply: dict) -> dict:
     """Recursively serializes a reply (and its nested replies) for graph.json."""
+    needs_response = _needs_response(reply)
     return {
         "username": reply.get("username", "unknown"),
         "text": _snippet(reply.get("text", ""), length=None),
         "permalink": reply.get("permalink", ""),
         "photos": _photo_lines(reply),
-        "needs_response": _needs_response(reply),
+        "needs_response": needs_response,
+        "action": _action_category(reply) if needs_response else None,
         "replies": [_reply_node(child) for child in reply.get("replies", [])],
     }
+
+
+def _flatten_actionable(replies: list[dict], parent_text: str | None = None):
+    """Depth-first walk yielding (reply, parent_text) for every reply still
+    needing a response, anywhere in the tree -- flattened, no indentation/
+    ancestor chain kept. parent_text is a short snippet of the reply's
+    *immediate* parent (None if the parent is the thread root itself, since
+    the thread summary already gives that context) -- just enough for Muse
+    to know what a nested reply is responding to without walking the tree.
+    """
+    for reply in replies:
+        if _needs_response(reply):
+            yield reply, parent_text
+        own_text = _snippet(reply.get("text", ""), length=60) if reply.get("text") else "(photo reply, no text)"
+        yield from _flatten_actionable(reply.get("replies", []), own_text)
+
+
+def _render_action_item(thread: dict, reply: dict, parent_text: str | None) -> list[str]:
+    reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
+    thread_link = f" ([thread]({thread.get('permalink', '')}))" if thread.get("permalink") else ""
+    out = [f"- **{reply.get('username', 'unknown')}**: {_snippet(reply.get('text', ''), length=None)}{reply_link}"]
+    for photo in _photo_lines(reply):
+        out.append(f"  - Photo: {photo}")
+    if parent_text:
+        out.append(f"  - _Replying to: {parent_text}_")
+    out.append(f"  - Thread: {_snippet(thread.get('text', ''), length=60)}{thread_link}")
+    return out
+
+
+def _render_action_list(threads: list[dict]) -> str:
+    """Builds the flat, no-tree, no-topic-grouping action list -- the
+    smallest possible read for Muse day-to-day: just what still needs a
+    reply vs. a like, each a self-contained bullet (own text/photo + one
+    line of immediate parent context + a thread backlink), nothing else.
+    data/topics.md keeps the fuller structural view; this file is for
+    "don't make me jump around the tree, just tell me what to do".
+    """
+    reply_items: list[tuple[dict, dict, str | None]] = []
+    like_items: list[tuple[dict, dict, str | None]] = []
+    for thread in threads:
+        for reply, parent_text in _flatten_actionable(thread.get("replies", [])):
+            entry = (thread, reply, parent_text)
+            if _action_category(reply) == "reply":
+                reply_items.append(entry)
+            else:
+                like_items.append(entry)
+
+    lines = [
+        "# Action List",
+        "",
+        "_Flat list of everything still awaiting your attention -- no topic "
+        "grouping, no already-answered branches, no reply tree to walk. See "
+        "data/topics.md for structural/thread context, or "
+        "data/threads/<id>.md for the full conversation._",
+        "",
+        f"## Needs Reply ({len(reply_items)})",
+        "",
+    ]
+    if not reply_items:
+        lines.append("_Nothing -- all photo replies answered._")
+    for thread, reply, parent_text in reply_items:
+        lines.extend(_render_action_item(thread, reply, parent_text))
+    lines.append("")
+    lines.append(f"## Needs Like ({len(like_items)})")
+    lines.append("")
+    if not like_items:
+        lines.append("_Nothing -- all text replies answered._")
+    for thread, reply, parent_text in like_items:
+        reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
+        lines.append(
+            f"- {reply.get('username', 'unknown')}: {_snippet(reply.get('text', ''), length=None)}{reply_link}"
+        )
+    lines.append("")
+    return "\n".join(lines)
 
 
 def _thread_header_lines(thread: dict) -> tuple[list[str], list[str]]:
@@ -242,7 +342,8 @@ def _render_archive_thread(thread: dict) -> str:
 
 def build_topic_graph(threads: list[dict]) -> dict:
     """Returns the full graph structure and writes:
-      - data/topics.md          compact, actionable-first view
+      - data/actions.md         flat action list (primary Muse read)
+      - data/topics.md          compact, actionable-first structural view
       - data/threads/<id>.md    full per-thread archive
       - docs/graph.json         full visual-graph archive
     """
@@ -251,11 +352,16 @@ def build_topic_graph(threads: list[dict]) -> dict:
     GRAPH_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     if not threads:
+        ACTIONS_MD_PATH.write_text(
+            "# Action List\n\n_No threads found in the lookback window._\n", encoding="utf-8"
+        )
         TOPICS_MD_PATH.write_text(
             "# Thread Topics\n\n_No threads found in the lookback window._\n", encoding="utf-8"
         )
         GRAPH_JSON_PATH.write_text(json.dumps({"nodes": [], "edges": []}, indent=2))
         return {"nodes": [], "edges": []}
+
+    ACTIONS_MD_PATH.write_text(_render_action_list(threads), encoding="utf-8")
 
     docs = [_thread_document(t) for t in threads]
     cluster_ids, vectorizer, matrix = _cluster_threads(docs)
@@ -268,8 +374,10 @@ def build_topic_graph(threads: list[dict]) -> dict:
         "# Thread Topics",
         "",
         "_Compact, actionable-first view: only replies still awaiting a "
-        "response are shown in full. Already-answered replies collapse to a "
-        "count -- see the linked archive for the complete conversation._",
+        "response are shown in full, marked **[NEEDS REPLY]** (has a photo -- "
+        "worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like "
+        "is usually enough). Already-answered replies collapse to a count -- "
+        "see the linked archive for the complete conversation._",
         "",
     ]
     nodes, edges = [], []
