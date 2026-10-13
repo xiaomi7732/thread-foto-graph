@@ -117,6 +117,14 @@ class QuotaExceededError(RuntimeError):
     """Raised when Gemini returns a 429; caller should stop and resume later."""
 
 
+class ImageFetchError(requests.RequestException):
+    """Raised when fetching the source photo itself fails (stale/expired CDN
+    URL, unrelated host down) -- distinct from a Gemini-call failure so it's
+    never mistaken for a Gemini outage signal by describe_images()'s circuit
+    breaker (see _is_outage_signal).
+    """
+
+
 def _parse_retry_delay(resp: requests.Response) -> float | None:
     """Extracts a retry delay (seconds) from a 429 response, if present.
     Gemini doesn't document a guaranteed mechanism for this -- there's no
@@ -157,8 +165,15 @@ def _parse_retry_delay(resp: requests.Response) -> float | None:
 
 
 def describe_image(image_url: str) -> str:
-    img_resp = requests.get(image_url, timeout=30)
-    img_resp.raise_for_status()
+    try:
+        img_resp = requests.get(image_url, timeout=30)
+        img_resp.raise_for_status()
+    except requests.RequestException as exc:
+        # Keep image-fetch failures (stale/expired CDN URL, unrelated host
+        # down) distinct from Gemini-call failures -- they must never count
+        # toward the Gemini-outage circuit breaker in describe_images()
+        # (see ImageFetchError / _is_outage_signal below).
+        raise ImageFetchError(str(exc)) from exc
     mime_type = img_resp.headers.get("Content-Type", "image/jpeg").split(";")[0]
     b64_data = base64.b64encode(img_resp.content).decode("ascii")
 
@@ -249,6 +264,9 @@ def _is_outage_signal(exc: requests.RequestException) -> bool:
     straight from Gemini) for a Gemini outage and halt an otherwise-healthy
     run.
     """
+    if isinstance(exc, ImageFetchError):
+        # Never a Gemini signal -- the image host/CDN, not Gemini, failed.
+        return False
     if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
         return True
     response = getattr(exc, "response", None)

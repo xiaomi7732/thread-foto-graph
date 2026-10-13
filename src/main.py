@@ -46,6 +46,7 @@ def main() -> int:
     # the one batch either was first detected in.
     stop_calls = False
     consecutive_failures = 0
+    budget_exhausted_announced = False
 
     def persist_progress():
         # Flush to disk after every single new description, so a slow or
@@ -90,21 +91,22 @@ def main() -> int:
             f"({requests_made} vision requests so far)",
             flush=True,
         )
-        if requests_made >= budget:
+        if requests_made >= budget and not budget_exhausted_announced:
             print(
                 "Vision request budget exhausted for this run; remaining photos "
                 "will be described on the next scheduled run.",
                 flush=True,
             )
-            break
-        # Deliberately do NOT break when stop_calls is True: describe_images()
-        # must still be called for every remaining thread so photo_descriptions
-        # gets set (even if only to pending placeholders) -- otherwise
-        # topic_graph.py would see a *missing* key for unvisited threads (which
-        # it treats as "no photos at all", not "pending"), silently dropping
-        # their photos and misfiling photo replies into needs-like.md. With
-        # stop_calls already True, each remaining describe_images() call is a
-        # cheap no-network walk (see vision.py), so looping on is fine.
+            budget_exhausted_announced = True
+        # Deliberately do NOT break when the budget is exhausted or
+        # stop_calls is True: describe_images() must still be called for
+        # every remaining thread so photo_descriptions gets set (even if
+        # only to pending placeholders) -- otherwise topic_graph.py would
+        # see a *missing* key for unvisited threads (which it treats as "no
+        # photos at all", not "pending"), silently dropping their photos
+        # and misfiling photo replies into needs-like.md. Once either
+        # condition holds, each remaining describe_images() call is a cheap
+        # no-network walk (see vision.py), so looping on is fine.
 
     save_cache(cache)
     print(f"Made {requests_made} new vision request(s) this run.", flush=True)
