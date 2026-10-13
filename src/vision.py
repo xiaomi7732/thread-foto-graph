@@ -144,10 +144,21 @@ _QUERY_SECRET_RE = re.compile(r"([?&](?:key|access_token)=)[^&\s)]+", re.IGNOREC
 # review finding), so redact every URL's query string here too.
 _URL_QUERY_RE = re.compile(r"(https?://[^\s?)]+)\?[^\s)]*")
 
+# urllib3's own connection-failure text (e.g. ConnectionError/ConnectTimeout,
+# the most common image-host failure mode) doesn't embed a full scheme-ful
+# URL at all -- it reports the host separately and only "... with url:
+# <path>?<query>" for the path+query, which _URL_QUERY_RE above can't match
+# (no "https?://") and isn't caught by _QUERY_SECRET_RE either (CDN query
+# param names aren't "key"/"access_token"). Round 15A review finding,
+# reproduced against a live urllib3 MaxRetryError message. Redact the query
+# string there too.
+_URL_PATH_QUERY_RE = re.compile(r"(with url: [^\s?]+)\?[^\s)]*")
+
 
 def _sanitize(message: str) -> str:
     message = _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
-    return _URL_QUERY_RE.sub(r"\1?REDACTED", message)
+    message = _URL_QUERY_RE.sub(r"\1?REDACTED", message)
+    return _URL_PATH_QUERY_RE.sub(r"\1?REDACTED", message)
 
 
 class QuotaExceededError(RuntimeError):
