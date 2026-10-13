@@ -7,7 +7,7 @@ THREADS_ACCESS_TOKEN = os.environ.get("THREADS_ACCESS_TOKEN", "")
 THREADS_USERNAME = os.environ.get("THREADS_USERNAME", "")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "2"))
+LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "4"))
 
 # Optional cap on how many of the most recent root posts to process; unset
 # (None) means "all posts within LOOKBACK_DAYS". Handy for quick test runs.

@@ -330,6 +330,11 @@ def _render_action_list(threads: list[dict]) -> str:
         "structural/thread context, or data/threads/<id>.md for the full "
         "conversation._",
         "",
+        "_Both sections need a browser session to actually post -- the "
+        "Threads API has no endpoint to like a reply (returns HTTP 400), so "
+        "drafting here doesn't mean \"API-actionable\": every item below "
+        "still ends with a human/browser posting it._",
+        "",
         f"## Needs Reply ({len(reply_items)})",
         "",
     ]

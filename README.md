@@ -63,6 +63,12 @@ Outputs (smallest/most-frequent read first):
      un-described (not cached as a failure) and are clearly marked in the
      output as `(photo pending description - will be described on a future
      run)` — never silently indistinguishable from "no photo".
+   - **Trust boundary:** a Gemini description replaces your own eyes on a
+     photo, which is fine for low-stakes drafting (a playful reply), but
+     treat it as a draft input, not ground truth, before anything
+     public-facing that depends on getting photo content exactly right
+     (e.g. crediting/describing a feature carousel or an IG roundup) — spot
+     check the actual photo first.
 3. Cluster threads into topics by text similarity, prune each thread's reply
    tree down to what's actionable, and write `actions.md` + `topics.md` +
    the per-thread archives + `graph.json` (`src/topic_graph.py`). Reply/thread text is
@@ -315,6 +321,15 @@ needed.
   `LOOKBACK_DAYS` window, even though `actions.md`/`topics.md` stop
   mentioning it. This is intentional (so old archive links never go stale),
   but means the `data/threads/` folder only grows over time.
+- `LOOKBACK_DAYS` filters by each **root post's** age, not its replies' —
+  `get_conversation` always fetches every reply on an in-window root post
+  regardless of when that reply itself arrived. So a slow-to-answer
+  conversation (e.g. interview-style replies trickling in over a day or
+  two) is still fully tracked right up until the *root post itself* ages
+  past the window, at which point the whole thread (and anything still
+  unanswered on it) simply stops being scanned. Default is `4` days (not
+  `2`) specifically to give that kind of trickle-in exchange enough runway
+  to actually get answered before it ages out unnoticed.
 - Both the Threads token and the Gemini key are sent as request **headers**,
   never query params, so they can never end up embedded in a logged/committed
   error message (this previously caused a real leaked-key incident caught by

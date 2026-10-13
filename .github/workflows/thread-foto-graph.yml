@@ -105,7 +105,7 @@ jobs:
           # config.py's own default.
           THREADS_USERNAME: ${{ vars.THREADS_USERNAME }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
-          LOOKBACK_DAYS: ${{ inputs.lookback_days || vars.LOOKBACK_DAYS || '2' }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days || vars.LOOKBACK_DAYS || '4' }}
           MAX_ROOT_THREADS: ${{ inputs.max_root_threads || vars.MAX_ROOT_THREADS }}
           MAX_VISION_REQUESTS_PER_RUN: ${{ vars.MAX_VISION_REQUESTS_PER_RUN || '1400' }}
         run: python -m src.main
