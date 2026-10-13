@@ -218,17 +218,34 @@ def describe_image(image_url: str) -> tuple[str, int]:
     retries_429 = 0
     retries_transient = 0
     post_attempts = 0
+    # Beyond a plain Timeout/ConnectionError, an overloaded/misbehaving
+    # backend can also manifest as a truncated or corrupted response body
+    # (ChunkedEncodingError, ContentDecodingError) or a malformed JSON body
+    # on an ostensible 200 (caught separately below, as json.JSONDecodeError
+    # / requests.exceptions.JSONDecodeError) -- all are treated as the same
+    # kind of transient failure, sharing the one retry ladder/counter.
+    TRANSIENT_CONNECTION_ERRORS = (
+        requests.Timeout,
+        requests.ConnectionError,
+        requests.exceptions.ChunkedEncodingError,
+        requests.exceptions.ContentDecodingError,
+    )
     while True:
         post_attempts += 1
         try:
             resp = requests.post(url, headers=headers, json=body, timeout=60)
-        except (requests.Timeout, requests.ConnectionError) as exc:
+        except TRANSIENT_CONNECTION_ERRORS as exc:
             retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES:
                 exc.gemini_request_attempts = post_attempts
                 raise
             delay = _transient_retry_delay(retries_transient)
-            kind = "timed out" if isinstance(exc, requests.Timeout) else "connection failed"
+            if isinstance(exc, requests.Timeout):
+                kind = "timed out"
+            elif isinstance(exc, requests.ConnectionError):
+                kind = "connection failed"
+            else:
+                kind = "response body corrupted"
             print(
                 f"  Gemini request {kind} -- retrying in {delay:.0f}s "
                 f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
@@ -263,12 +280,41 @@ def describe_image(image_url: str) -> tuple[str, int]:
 
         if resp.status_code in TRANSIENT_STATUS_CODES:
             retries_transient += 1
+            if retries_transient <= MAX_TRANSIENT_RETRIES:
+                delay = _transient_retry_delay(retries_transient)
+                print(
+                    f"  Gemini server error ({resp.status_code}) -- retrying in "
+                    f"{delay:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
+                    flush=True,
+                )
+                time.sleep(delay)
+                continue
+            # Retries exhausted -- fall through to raise_for_status() just
+            # below, in this same iteration, so it raises the HTTPError for
+            # this still-bad `resp` (do NOT `break`/`continue` here, or the
+            # loop exits without ever validating/raising on this response).
+
+        try:
+            resp.raise_for_status()
+        except requests.HTTPError as exc:
+            exc.gemini_request_attempts = post_attempts
+            raise
+
+        try:
+            data = resp.json()
+        except ValueError as exc:
+            # Malformed/truncated JSON on an ostensible 200 -- same kind of
+            # transient backend hiccup as a dropped connection, so it shares
+            # the connection-error retry ladder/counter above rather than
+            # failing (and undercharging the budget) on the first occurrence.
+            retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES:
-                break  # Give up -- raise_for_status() below raises the HTTPError.
+                exc.gemini_request_attempts = post_attempts
+                raise
             delay = _transient_retry_delay(retries_transient)
             print(
-                f"  Gemini server error ({resp.status_code}) -- retrying in "
-                f"{delay:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
+                f"  Gemini response body malformed -- retrying in {delay:.0f}s "
+                f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                 flush=True,
             )
             time.sleep(delay)
@@ -276,13 +322,6 @@ def describe_image(image_url: str) -> tuple[str, int]:
 
         break
 
-    try:
-        resp.raise_for_status()
-    except requests.HTTPError as exc:
-        exc.gemini_request_attempts = post_attempts
-        raise
-
-    data = resp.json()
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except (KeyError, IndexError):
@@ -302,7 +341,16 @@ def _is_outage_signal(exc: requests.RequestException) -> bool:
     if isinstance(exc, ImageFetchError):
         # Never a Gemini signal -- the image host/CDN, not Gemini, failed.
         return False
-    if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
+    if isinstance(
+        exc,
+        (
+            requests.Timeout,
+            requests.ConnectionError,
+            requests.exceptions.ChunkedEncodingError,
+            requests.exceptions.ContentDecodingError,
+            requests.exceptions.JSONDecodeError,
+        ),
+    ):
         return True
     response = getattr(exc, "response", None)
     return response is not None and response.status_code in TRANSIENT_STATUS_CODES
