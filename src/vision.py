@@ -422,6 +422,15 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
 
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        if not text:
+            # An empty/whitespace-only text part is the close cousin of the
+            # missing-candidate shape below (and of the documented "STOP
+            # with no parts" quirk) -- Gemini answered 200 but produced
+            # nothing usable. Route it through the same KeyError/IndexError
+            # handling so it's never cached as a fake successful
+            # description (which would render as permanently "pending" and
+            # silently reset every circuit breaker every run).
+            raise KeyError("empty text")
     except (KeyError, IndexError):
         # promptFeedback.blockReason only ever appears on an actual block,
         # so it's safe to treat by plain truthiness. finishReason, however,
@@ -712,7 +721,14 @@ def describe_images(
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
                 continue
 
-            cache[media_id] = description
+            if description:
+                # Defense in depth: describe_image() should never return a
+                # falsy "success" (an empty/whitespace-only description is
+                # now rejected there too), but never cache one here either
+                # if it somehow did -- caching "" would be a permanent,
+                # unrecoverable false "pending" forever (see the empty-text
+                # finding this guards against).
+                cache[media_id] = description
             descriptions.append(description)
             if on_progress is not None:
                 on_progress()
