@@ -167,6 +167,19 @@ DESCRIPTION_UNAVAILABLE_PREFIX = "(description unavailable:"
 # non-transient Gemini failure.
 NO_DESCRIPTION_TEXT = "(no description available)"
 
+# Gemini's candidate.finishReason values that genuinely indicate the model
+# declined to answer for content/policy reasons. Deliberately an explicit
+# allowlist, NOT a truthiness check on finishReason -- it's present on
+# *every* candidate, including a normal healthy completion ("STOP") or a
+# truncated-but-otherwise-fine one ("MAX_TOKENS"); treating any truthy
+# value as a block would misclassify those (and any genuinely unexpected
+# response shape, which still carries "STOP") as a deterministic content
+# block, permanently caching them and incorrectly resetting every circuit
+# breaker (round 11B review finding).
+_BLOCKING_FINISH_REASONS = frozenset(
+    {"SAFETY", "PROHIBITED_CONTENT", "RECITATION", "BLOCKLIST", "SPII", "IMAGE_SAFETY"}
+)
+
 
 class ImageFetchError(requests.RequestException):
     """Raised when fetching the source photo itself fails (stale/expired CDN
@@ -402,9 +415,23 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except (KeyError, IndexError):
-        block_reason = data.get("promptFeedback", {}).get("blockReason") or (
-            (data.get("candidates") or [{}])[0].get("finishReason")
-        )
+        # promptFeedback.blockReason only ever appears on an actual block,
+        # so it's safe to treat by plain truthiness. finishReason, however,
+        # is present on *every* candidate including a normal, healthy
+        # generation ("STOP"), truncation ("MAX_TOKENS"), etc. -- it must
+        # be matched against an explicit set of genuinely blocking values,
+        # not truthiness, or a "STOP"-with-no-parts response (a documented,
+        # reproducible Gemini quirk -- see googleapis/js-genai#1769 -- and
+        # the exact kind of API bug/schema-change GeminiResponseShapeError
+        # below exists to catch) would be misclassified as a deterministic
+        # content block: permanently cached and silently resetting every
+        # circuit breaker, instead of being retried/counted as the
+        # potential systemic problem it actually is.
+        block_reason = data.get("promptFeedback", {}).get("blockReason")
+        if not block_reason:
+            finish_reason = (data.get("candidates") or [{}])[0].get("finishReason")
+            if finish_reason in _BLOCKING_FINISH_REASONS:
+                block_reason = finish_reason
         if block_reason:
             # A genuine, content-specific safety/policy block -- Gemini
             # processed the request successfully and declined to describe
