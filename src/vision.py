@@ -108,6 +108,20 @@ MAX_CONSECUTIVE_TRANSIENT_FAILURES = 5
 # altogether (same stop_calls flag) once the image host itself looks down.
 MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES = 5
 
+# A third, independent circuit breaker: a non-transient Gemini HTTP error
+# (a 4xx that isn't 429 -- e.g. 401/403 from a revoked/invalid API key, or
+# 400 from a retired/renamed model) is an affirmative "Gemini is responding,
+# just not retryably" signal, so an *isolated* one (bracketed by real
+# outage failures) is deliberately excluded from the Gemini-outage breaker
+# above and even clears its streak (see the `else` branch in
+# describe_images()). But that same reasoning does nothing to bound a
+# *persistent* one -- a revoked key fails identically on every photo and
+# would otherwise burn the entire run's time/budget one doomed call at a
+# time (the most likely whole-run Gemini failure mode in practice) with no
+# stopping condition except the GitHub Actions workflow timeout, which
+# would also mean no markdown/graph output ever gets committed.
+MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES = 5
+
 
 def _transient_retry_delay(retry_number: int) -> float:
     """Exponential backoff for retry `retry_number` (1-indexed): 10s, 20s,
@@ -127,6 +141,15 @@ def _sanitize(message: str) -> str:
 
 class QuotaExceededError(RuntimeError):
     """Raised when Gemini returns a 429; caller should stop and resume later."""
+
+
+# Prefix of the placeholder stored as a photo's "description" when Gemini
+# ultimately failed (not pending -- see PENDING vs this). Shared with
+# topic_graph.py so it can exclude this boilerplate from the TF-IDF
+# clustering corpus -- it's identical across every failed photo in a run, so
+# feeding it to the vectorizer artificially inflates similarity between
+# otherwise-unrelated threads that both happened to have a failed photo.
+DESCRIPTION_UNAVAILABLE_PREFIX = "(description unavailable:"
 
 
 class ImageFetchError(requests.RequestException):
@@ -384,7 +407,8 @@ def describe_images(
     stop_calls: bool = False,
     consecutive_transient_failures: int = 0,
     consecutive_image_fetch_failures: int = 0,
-) -> tuple[int, bool, int, int]:
+    consecutive_non_retryable_failures: int = 0,
+) -> tuple[int, bool, int, int, int]:
     """Describes every uncached photo in each item in place, storing a
     'photo_descriptions' list on the item (one entry per photo -- a
     CAROUSEL_ALBUM can hold several, not just its cover image; see
@@ -394,19 +418,22 @@ def describe_images(
 
     `stop_calls`, if already True, means a previous call (this run) already
     decided to stop issuing new Gemini requests (quota hit, a sustained
-    Gemini outage, or a sustained image-host outage) -- every item is still
-    walked so photo_descriptions is set correctly, but no new network calls
-    are attempted. `consecutive_transient_failures` and
-    `consecutive_image_fetch_failures` are the running streaks (see
-    _is_outage_signal and MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES) from prior
-    calls this run, so either circuit breaker can trip even when a single
-    batch alone never reaches its threshold (e.g. main.py's root-photo
-    batches are usually just one photo each). All four are returned as
-    (requests_made, stop_calls, consecutive_transient_failures,
-    consecutive_image_fetch_failures) so the caller can carry them forward
-    across its own multiple describe_images() calls in the same run (see
-    main.py) -- without this, a 429/outage detected on one batch wouldn't
-    stop the very next batch from trying fresh calls anyway.
+    Gemini outage, a sustained image-host outage, or a sustained
+    non-retryable Gemini error such as a revoked API key -- see
+    MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES) -- every item is still walked so
+    photo_descriptions is set correctly, but no new network calls are
+    attempted. `consecutive_transient_failures`, `consecutive_image_fetch_failures`,
+    and `consecutive_non_retryable_failures` are the running streaks (see
+    _is_outage_signal and the MAX_CONSECUTIVE_*_FAILURES constants) from
+    prior calls this run, so any of the three circuit breakers can trip
+    even when a single batch alone never reaches its threshold (e.g.
+    main.py's root-photo batches are usually just one photo each). All five
+    are returned as (requests_made, stop_calls, consecutive_transient_failures,
+    consecutive_image_fetch_failures, consecutive_non_retryable_failures) so
+    the caller can carry them forward across its own multiple
+    describe_images() calls in the same run (see main.py) -- without this,
+    an outage/quota/auth failure detected on one batch wouldn't stop the
+    very next batch from trying fresh calls anyway.
 
     `requests_made` counts actual Gemini POST attempts, not photos -- a
     single photo can cost several real Gemini requests (429/5xx/timeout
@@ -462,7 +489,7 @@ def describe_images(
                 # otherwise a run full of these is invisible until someone
                 # reads the committed markdown.
                 print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
-                descriptions.append(f"(description unavailable: {_sanitize(str(exc))})")
+                descriptions.append(f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})")
                 if isinstance(exc, ImageFetchError):
                     # No Gemini call was ever attempted for this photo -- don't
                     # charge it against this run's Gemini request budget, and
@@ -496,6 +523,7 @@ def describe_images(
                     consecutive_image_fetch_failures = 0
                     if _is_outage_signal(exc):
                         consecutive_transient_failures += 1
+                        consecutive_non_retryable_failures = 0
                         if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
                             # Gemini looks genuinely down, not just one flaky photo --
                             # stop burning the rest of this run's budget/time on calls
@@ -513,6 +541,21 @@ def describe_images(
                         # retryably" signal -- unlike ImageFetchError, it's safe
                         # (and correct) to let it clear the outage streak.
                         consecutive_transient_failures = 0
+                        # But a *persistent* non-retryable error (e.g. a revoked
+                        # API key returning 401/403 on every call, or a retired
+                        # model name returning 400) is unbounded on its own --
+                        # it never looks like an "outage" so the breaker above
+                        # never trips, and it would otherwise burn the entire
+                        # run's budget one doomed call at a time. Track it with
+                        # its own independent streak/breaker.
+                        consecutive_non_retryable_failures += 1
+                        if consecutive_non_retryable_failures >= MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES:
+                            print(
+                                f"  {consecutive_non_retryable_failures} consecutive non-retryable Gemini "
+                                "errors (e.g. invalid API key/model) -- stopping new requests for this run.",
+                                flush=True,
+                            )
+                            stop_calls = True
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
                 continue
 
@@ -523,8 +566,15 @@ def describe_images(
             requests_made += attempts
             consecutive_transient_failures = 0
             consecutive_image_fetch_failures = 0
+            consecutive_non_retryable_failures = 0
             time.sleep(MIN_SECONDS_BETWEEN_CALLS)
 
         item["photo_descriptions"] = descriptions
 
-    return requests_made, stop_calls, consecutive_transient_failures, consecutive_image_fetch_failures
+    return (
+        requests_made,
+        stop_calls,
+        consecutive_transient_failures,
+        consecutive_image_fetch_failures,
+        consecutive_non_retryable_failures,
+    )

@@ -35,20 +35,23 @@ def main() -> int:
     requests_made = 0
     budget = config.MAX_VISION_REQUESTS_PER_RUN
     # Once True (a 429 with no retry-after, a sustained Gemini outage -- see
-    # vision.MAX_CONSECUTIVE_TRANSIENT_FAILURES, or a sustained image-host
-    # outage -- see vision.MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES), no further
-    # batch below should attempt new calls either. consecutive_failures and
-    # consecutive_image_fetch_failures are the running failure streaks
-    # (see vision._is_outage_signal) across batches -- main.py's root-photo
-    # batches are usually just one photo each, so the streaks must be
-    # threaded across calls or either circuit breaker would almost never
-    # see enough failures in a row to trip. describe_images() returns all
-    # three back to us each time so they carry across every thread's
-    # root-photo and reply batches, not just the one batch either was first
-    # detected in.
+    # vision.MAX_CONSECUTIVE_TRANSIENT_FAILURES, a sustained image-host
+    # outage -- see vision.MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES, or a
+    # sustained non-retryable Gemini error e.g. a revoked API key -- see
+    # vision.MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES), no further batch below
+    # should attempt new calls either. consecutive_failures,
+    # consecutive_image_fetch_failures, and consecutive_non_retryable_failures
+    # are the running failure streaks (see vision._is_outage_signal) across
+    # batches -- main.py's root-photo batches are usually just one photo
+    # each, so the streaks must be threaded across calls or any circuit
+    # breaker would almost never see enough failures in a row to trip.
+    # describe_images() returns all four back to us each time so they carry
+    # across every thread's root-photo and reply batches, not just the one
+    # batch either was first detected in.
     stop_calls = False
     consecutive_failures = 0
     consecutive_image_fetch_failures = 0
+    consecutive_non_retryable_failures = 0
     budget_exhausted_announced = False
 
     def persist_progress():
@@ -58,7 +61,13 @@ def main() -> int:
 
     for i, thread in enumerate(threads, start=1):
         # Root post photo (vision.describe_images expects a list of media items)
-        made, stop_calls, consecutive_failures, consecutive_image_fetch_failures = vision.describe_images(
+        (
+            made,
+            stop_calls,
+            consecutive_failures,
+            consecutive_image_fetch_failures,
+            consecutive_non_retryable_failures,
+        ) = vision.describe_images(
             [thread],
             cache,
             budget - requests_made,
@@ -66,6 +75,7 @@ def main() -> int:
             stop_calls,
             consecutive_failures,
             consecutive_image_fetch_failures,
+            consecutive_non_retryable_failures,
         )
         requests_made += made
         # Walk the full nested reply tree (not just top-level replies) so
@@ -90,7 +100,13 @@ def main() -> int:
             key=_reply_sort_key,
             reverse=True,
         )
-        made, stop_calls, consecutive_failures, consecutive_image_fetch_failures = vision.describe_images(
+        (
+            made,
+            stop_calls,
+            consecutive_failures,
+            consecutive_image_fetch_failures,
+            consecutive_non_retryable_failures,
+        ) = vision.describe_images(
             all_replies,
             cache,
             budget - requests_made,
@@ -98,6 +114,7 @@ def main() -> int:
             stop_calls,
             consecutive_failures,
             consecutive_image_fetch_failures,
+            consecutive_non_retryable_failures,
         )
         requests_made += made
         print(

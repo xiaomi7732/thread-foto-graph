@@ -48,7 +48,7 @@ from zoneinfo import ZoneInfo
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from . import config
+from . import config, vision
 
 SIMILARITY_THRESHOLD = 0.2
 TOP_KEYWORDS = 4
@@ -63,12 +63,24 @@ HISTORY_DIR = ROOT_DIR / "data" / "history"
 GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
 
 
+def _is_real_description(description: str | None) -> bool:
+    """True only for an actual Gemini-produced description -- excludes both
+    the pending placeholder (falsy/None, handled by the `if d` caller) and
+    the "(description unavailable: ...)" failure placeholder, which is
+    identical boilerplate across every failed photo in a run and would
+    otherwise artificially inflate TF-IDF similarity between unrelated
+    threads that each happened to have a failed photo (see
+    vision.DESCRIPTION_UNAVAILABLE_PREFIX).
+    """
+    return bool(description) and not description.startswith(vision.DESCRIPTION_UNAVAILABLE_PREFIX)
+
+
 def _thread_document(thread: dict) -> str:
     parts = [thread.get("text") or ""]
-    parts.extend(d for d in (thread.get("photo_descriptions") or []) if d)
+    parts.extend(d for d in (thread.get("photo_descriptions") or []) if _is_real_description(d))
     for reply in _iter_replies(thread.get("replies", [])):
         parts.append(reply.get("text") or "")
-        parts.extend(d for d in (reply.get("photo_descriptions") or []) if d)
+        parts.extend(d for d in (reply.get("photo_descriptions") or []) if _is_real_description(d))
     return "\n".join(p for p in parts if p)
 
 
