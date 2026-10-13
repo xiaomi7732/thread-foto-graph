@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: golden, yellow, orange, sunset
+## Topic: golden, yellow, sunset, sky
 
 - **Thread** [17950122381320477](https://www.threads.com/@saars.foto/post/DeUT6k-Gw7D): Golden Friday favorites 🏆 1. fluidity_pour_paints (can not at)- dragon-mode campfire 2. @wildlife_curios - golden tree, own bench 3. @angelo_marcialis_photography - blooms on black 4. @frandoll.fd - Tennessee sunrise stream 5. @1982wildcatfan - swamp mirror autumn 6. @mammakates - gradient sunset 7. jglass8 (can not at) - kiss in the sun 8. @mike___zed - walker at golden hour 9. @allemor.romella - palms, ferry, gold Questions below - answer if you like!
   - Photo: A vibrant bonfire burns in the dark, its yellow and orange flames accented by flashes of bright blue and green. The intense colors dance across stacked logs, creating a cozy and mesmerizing campfire scene.
@@ -15,3 +15,147 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: A solitary figure strolls along a waterfront promenade during a vivid sunset, framed by the dark silhouette of a large tree overhead. In the distance, harbor lights and distant hills glow softly beneath a dramatic sky streaked with orange and yellow hues.
   - Photo: A golden sunset illuminates a scenic marina, casting the silhouettes of several tall palm trees against the bright sky. In the foreground, cars are parked along the waterfront near docked boats, creating a relaxed evening atmosphere.
   - All 11 replies already answered. ✅ ([full thread](threads/17950122381320477.md))
+- **Thread** [17893005768438014](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I): Photographers, Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. ONE photo. 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit. Yesterday’s favorites’ in.
+  - Photo: A close-up vertical shot features a single sunflower set against a clear blue sky. The yellow sunflower is the focus of the photo, with several other sunflowers in the background, out of focus.
+  - **[NEEDS REPLY]** Reply by ashers_nicole91:  ([link](https://www.threads.com/@ashers_nicole91/post/DeVeWjyFL5k))
+    - Photo: A young deer stands alert along a sunlit dirt path, its fawn spots still visible against its coat. The surrounding lush grass and morning light create a peaceful, natural setting for wildlife viewing.
+  - **[NEEDS REPLY]** Reply by colw22:  ([link](https://www.threads.com/@colw22/post/DeU76XpDsXg))
+    - Photo: A close-up side profile of a large golden sculpture of a face dominates the foreground, with the Sydney Harbour Bridge visible in the background under a clear sky.
+  - **[NEEDS REPLY]** Reply by fly_paragliding_global: Golden hour from my paraglider: the whole sky glows 🪂 Seeing the planet from above through a bird's eyes. ([link](https://www.threads.com/@fly_paragliding_global/post/DeU7z_AjTPZ))
+    - Photo: A paraglider runs across a mountain launch pad during a golden sunset, with other gliders already aloft over a glittering sea.
+    - Photo: A paraglider soars over a scenic coastline, with a bright red parachute contrasting against the deep blue water below and the lush green mountains in the background. The aerial perspective captures a breathtaking view of the beach and the surrounding landscape bathed in warm sunlight.
+  - **[NEEDS REPLY]** Reply by nzurisana23:  ([link](https://www.threads.com/@nzurisana23/post/DeUzoxriFps))
+    - Photo: A silhouetted, gnarled tree stands prominently against a vibrant sunset sky filled with shades of orange and yellow. The horizon features a low, dark silhouette of scrubland, enhancing the serene yet dramatic desert landscape.
+  - Reply by tradi_leni: Golden enough? 😄🌅 This one still feels like bottled evening light. ([link](https://www.threads.com/@tradi_leni/post/DeT7V9SiDAw))
+    - Photo: A sun-kissed woman takes a selfie while jogging along a scenic lakeside trail at sunset, wearing a grey athletic top and black leggings.
+    - Reply by saars.foto: Golden hour doing the heavy lifting while the mountains photobomb. Golden enough? Golden plenty. ([link](https://www.threads.com/@saars.foto/post/DeUWYCIFvLr))
+      - **[NEEDS LIKE]** Reply by tradi_leni: I had a feeling the mountains might steal a little attention 😄🏔️ ([link](https://www.threads.com/@tradi_leni/post/DeUkHXuCECy))
+  - Reply by pattymooney69:  ([link](https://www.threads.com/@pattymooney69/post/DeTa2wmFIbk))
+    - Photo: A low-angle view captures a forest of tall aspen trees with bright yellow leaves against a clear blue sky, evoking a serene autumn atmosphere.
+    - Reply by saars.foto: Standing under a cathedral of aspens, all gold overhead. Nature's stained glass, no filter needed. ([link](https://www.threads.com/@saars.foto/post/DeTgzogkTee))
+      - **[NEEDS LIKE]** Reply by pattymooney69: We remarked on the stained glass feeling of it. Very magical! ([link](https://www.threads.com/@pattymooney69/post/DeXQwA8E_RY))
+  - Reply by travelguru2479:  ([link](https://www.threads.com/@travelguru2479/post/DeTNeu0FhSn))
+    - Photo: A herd of alpacas gathers around a hay feeder in an enclosed pen during a stunning sunset. The warm golden light illuminates the silhouetted trees and fields in the background.
+    - Reply by saars.foto: An alpaca welcoming committee at golden hour. The white one's clearly the greeter. ([link](https://www.threads.com/@saars.foto/post/DeThf4VnIMP))
+      - **[NEEDS LIKE]** Reply by travelguru2479: The boys had just gotten their dinner, they were happy as could be. 😊 ([link](https://www.threads.com/@travelguru2479/post/DeUspltlp8z))
+  - **[NEEDS REPLY]** Reply by mdalida378:  ([link](https://www.threads.com/@mdalida378/post/DeSmTNUmyoW))
+    - Photo: A high-angle view captures a city skyline at sunset, with golden light reflecting off the glass facade of a modern apartment building. In the foreground, a low-rise brick building and a balcony railing are visible under a partly cloudy sky.
+    - Photo: A stunning, high-altitude view shows a vibrant pink and orange sunset over a city skyline, with wispy clouds stretching across the dusk sky. Below, a modern multi-story building and a street with light traffic frame the peaceful evening scene.
+    - Photo: A small butterfly rests on the bright yellow petals of a vibrant sunflower, basking in the sunlight.
+    - Photo: A vibrant sunset over a calm ocean casts a warm orange glow against a dramatic, cloudy sky. Overlaying the image in white text is an inspirational quote about endings being beautiful, accompanied by a small red heart icon in the lower right corner, suggesting it is styled for a social media post.
+  - **[NEEDS REPLY]** Reply by sue_wigs:  ([link](https://www.threads.com/@sue_wigs/post/DeSmInpCFw3))
+    - Photo: A wide-angle, eye-level, slightly high-contrast, exterior, outdoor, long shot of a countryside landscape featuring an open green field in the foreground, bordered by a dark green hedge that stretches across the middle ground. Several mature trees stand behind the hedge, with a larger tree with light-colored bark on the right. In the background, rolling green hills and valleys recede into the distance under a dramatic, multicolored sky with glowing golden sunlight peeking through the clouds. The lighting is bright and warm, illuminating the scene.
+  - **[NEEDS REPLY]** Reply by robmajor111: Swamp Sunflower super bloom, Lake Jesup, Florida. ([link](https://www.threads.com/@robmajor111/post/DeSlss_lX3h))
+    - Photo: A massive, sprawling field of bright yellow wildflowers blooms vibrantly under an overcast sky, with two small palm trees standing in the middle distance near a body of water.
+  - **[NEEDS REPLY]** Reply by tallerthanyou2026: Dale Chihuly, Seattle ([link](https://www.threads.com/@tallerthanyou2026/post/DeSlGSNknDx))
+    - Photo: A vibrant, spherical glass sculpture with yellow, red, and blue tendrils is displayed outdoors in front of a modern glass-paneled building with an arched roof. The sculpture sits atop a dark, mounded garden bed with lush green bushes at the base under an overcast sky.
+  - Reply by ohshoot_itshari:  ([link](https://www.threads.com/@ohshoot_itshari/post/DeSjmLiD2_7))
+    - Photo: A vibrant canopy of golden autumn leaves frames a tranquil lakeside view at sunset, with light filtering through the branches onto a leaf-strewn path.
+    - Reply by saars.foto: Autumn going full gold beside the lake. That light through the trees. ([link](https://www.threads.com/@saars.foto/post/DeSmtmjm4d4))
+      - **[NEEDS LIKE]** Reply by ohshoot_itshari: It’s my fave time of year 🤩 ([link](https://www.threads.com/@ohshoot_itshari/post/DeS2qIFGhcV))
+  - Reply by sundari11725:  ([link](https://www.threads.com/@sundari11725/post/DeSi9j1E605))
+    - Photo: A close-up captures vibrant yellow bougainvillea flowers with delicate, paper-like bracts blooming amidst lush green leaves, set in a potted garden.
+    - Reply by saars.foto: Backlit blooms glowing like little lanterns. Golden hour, bottled. ([link](https://www.threads.com/@saars.foto/post/DeSmqgED3vq))
+      - **[NEEDS LIKE]** Reply by sundari11725: Terimakasih ([link](https://www.threads.com/@sundari11725/post/DeSnNNzE62n))
+  - **[NEEDS REPLY]** Reply by robdavies77:  ([link](https://www.threads.com/@robdavies77/post/DeShki5kpHI))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by westcoast.donna:  ([link](https://www.threads.com/@westcoast.donna/post/DeSfR8JknRO))
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by ajvictorymd:  ([link](https://www.threads.com/@ajvictorymd/post/DeSdlGgD344))
+    - Photo: (photo pending description - will be described on a future run)
+    _(+3 more replies already answered under this, see archive)_
+    - **[NEEDS LIKE]** Reply by hargreaveskelly: Wow!! ([link](https://www.threads.com/@hargreaveskelly/post/DeSi8cslBy2))
+    - **[NEEDS REPLY]** Reply by baumann.perry:  ([link](https://www.threads.com/@baumann.perry/post/DeSh7vIILtT))
+      - Photo: (photo pending description - will be described on a future run)
+      - Photo: (photo pending description - will be described on a future run)
+      - Photo: (photo pending description - will be described on a future run)
+    - **[NEEDS LIKE]** Reply by momrf26: 😯 ([link](https://www.threads.com/@momrf26/post/DeSdwBtFEXK))
+  - **[NEEDS REPLY]** Reply by chillout_abi: 👋 ([link](https://www.threads.com/@chillout_abi/post/DeSX-S3jTWJ))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by kathbert85:  ([link](https://www.threads.com/@kathbert85/post/DeSTuYHFBWD))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by minion44:  ([link](https://www.threads.com/@minion44/post/DeSTXZlGldG))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by amerjo:  ([link](https://www.threads.com/@amerjo/post/DeSTSZgmuZH))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by tammakaye:  ([link](https://www.threads.com/@tammakaye/post/DeSS28-nxra))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by broup11:  ([link](https://www.threads.com/@broup11/post/DeSS2sWGbW8))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by allemor.romella:  ([link](https://www.threads.com/@allemor.romella/post/DeSSCE8Enzn))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by rhetta_schultz:  ([link](https://www.threads.com/@rhetta_schultz/post/DeSQqDyEwHq))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DeSPCDxGBTv))
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by simplymeaileen75:  ([link](https://www.threads.com/@simplymeaileen75/post/DeSOTANjJxE))
+    - Photo: (photo pending description - will be described on a future run)
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by saveme1028:  ([link](https://www.threads.com/@saveme1028/post/DeSMg3dFgBY))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: A ginger tabby staring straight into the camera like it pays rent here. Golden indeed. ([link](https://www.threads.com/@saars.foto/post/DeSUDPOH-gy))
+      - **[NEEDS LIKE]** Reply by saveme1028: Right!!!😂🤣😂 ([link](https://www.threads.com/@saveme1028/post/DeSaOZylidt))
+  - **[NEEDS LIKE]** Reply by eclipse.vapix: Guys my id on instagram is @eclipse.vapix please check it out let's support each other. nature's echo. 🌊✨ If you love peaceful lifestyle vlog edits and aesthetic nature videos, use this as a reminder to slow down today. Sometimes nature therapy and a calm mind by the rushing water are all you need to cherish the ordinary. I captured this cinematic visual diary on the Samsung Galaxy S25 camera to match the beautiful indie cinema film score. Let life flow. 🤍 ([link](https://www.threads.com/@eclipse.vapix/post/DeSMM_riqp_))
+  - **[NEEDS REPLY]** Reply by bonfires_and_birdsong: Broadleaf goldenrod. A new lifer for me during the annual Beach clean up 💛🤩 ([link](https://www.threads.com/@bonfires_and_birdsong/post/DeSLAUBoPHh))
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by 5938crest:  ([link](https://www.threads.com/@5938crest/post/DeSE70AGZTt))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: A stupa literally made of gold. Golden Friday just got out-golded. ([link](https://www.threads.com/@saars.foto/post/DeSUKd7mLAt))
+      - **[NEEDS LIKE]** Reply by 5938crest: Took the picture in Thailand in 2019 ([link](https://www.threads.com/@5938crest/post/DeSVbEMkgxu))
+  - Reply by blueeyes_florida_girl: Golden Sky with reflections ([link](https://www.threads.com/@blueeyes_florida_girl/post/DeSEaR7nd6m))
+    - Photo: (photo pending description - will be described on a future run)
+    _(+1 more reply already answered under this, see archive)_
+    - **[NEEDS REPLY]** Reply by mamustacci:  ([link](https://www.threads.com/@mamustacci/post/DeSFROkG8no))
+      - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by wakefieldalice:  ([link](https://www.threads.com/@wakefieldalice/post/DeSBfdbicYV))
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by citizenb: Black-eyed Susans at sundown. ([link](https://www.threads.com/@citizenb/post/DeSAjXsETta))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: A whole crowd of Black-eyed Susans catching the sundown light. Golden hour's favorite flower. ([link](https://www.threads.com/@saars.foto/post/DeSNIyDG5yU))
+      - **[NEEDS LIKE]** Reply by citizenb: A happy time for them! ([link](https://www.threads.com/@citizenb/post/DeShkJAkRiM))
+  - **[NEEDS REPLY]** Reply by drek_suarez: This has an incredibly pleasant visual rhythm from beginning to end!\ ([link](https://www.threads.com/@drek_suarez/post/DeR7NLejLao))
+    - Photo: (photo pending description - will be described on a future run)
+    - Photo: (photo pending description - will be described on a future run)
+  - **[NEEDS REPLY]** Reply by gabri.jela_72:  ([link](https://www.threads.com/@gabri.jela_72/post/DeR5nLYCPQQ))
+    - Photo: (photo pending description - will be described on a future run)
+    - Photo: (photo pending description - will be described on a future run)
+    - Photo: (photo pending description - will be described on a future run)
+    - Photo: (photo pending description - will be described on a future run)
+    - **[NEEDS LIKE]** Reply by alenkavarsek: Čudivite slike. Tretja mi je najbolj všeč.🍁🍂 ([link](https://www.threads.com/@alenkavarsek/post/DeSAETuiG3L))
+      - **[NEEDS LIKE]** Reply by gabri.jela_72: Da, i meni, super je ispala ([link](https://www.threads.com/@gabri.jela_72/post/DeSBqYoCKtN))
+  - Reply by margaret_s_morton:  ([link](https://www.threads.com/@margaret_s_morton/post/DeR5gOCk_CL))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: Hundreds of petals, one golden heart. Texture and treasure in one frame. ([link](https://www.threads.com/@saars.foto/post/DeSWONAD14K))
+      - **[NEEDS LIKE]** Reply by margaret_s_morton: You’re a poet as well I love it ([link](https://www.threads.com/@margaret_s_morton/post/DeSeOtVku8r))
+  - **[NEEDS REPLY]** Reply by kristin.cloud:  ([link](https://www.threads.com/@kristin.cloud/post/DeR5OXSG2pU))
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by brendamayderosier:  ([link](https://www.threads.com/@brendamayderosier/post/DeR44PQFkfv))
+    - Photo: (photo pending description - will be described on a future run)
+    _(+2 more replies already answered under this, see archive)_
+    - Reply by saars.foto: Golden light breaking through the storm like it owns the sky. Because it does. ([link](https://www.threads.com/@saars.foto/post/DeSWMVogSG7))
+      - **[NEEDS LIKE]** Reply by brendamayderosier: Yes!!!!! ([link](https://www.threads.com/@brendamayderosier/post/DeSb4ZuEjiN))
+  - **[NEEDS REPLY]** Reply by fragilita_12:  ([link](https://www.threads.com/@fragilita_12/post/DeR3bGuAlRn))
+    - Photo: (photo pending description - will be described on a future run)
+  - Reply by patricahewitt: My Icelandic poppy was ready for her close-up! ([link](https://www.threads.com/@patricahewitt/post/DeR1irvlXb3))
+    - Photo: (photo pending description - will be described on a future run)
+    _(+1 more reply already answered under this, see archive)_
+    - **[NEEDS LIKE]** Reply by gingernuts65: It’s gorgeous. ￼ ([link](https://www.threads.com/@gingernuts65/post/DeR3o3rDn9p))
+  - Reply by juliahh:  ([link](https://www.threads.com/@juliahh/post/DeRwHi4iLpP))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: A deer made of golden light holding down the waterfront. Blitzen's artsy cousin. ([link](https://www.threads.com/@saars.foto/post/DeRwvWJIIR5))
+      - **[NEEDS LIKE]** Reply by juliahh: 🙏❤️ ([link](https://www.threads.com/@juliahh/post/DeR6TH4CJKB))
+  - Reply by hannahbuzzybee: Gold, Frankenstein & Grrrrrr 😆. Sorry I had to ([link](https://www.threads.com/@hannahbuzzybee/post/DeRv_fLDNSe))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: An elf DJ spinning Spandau Ballet, Frankenstein, Godzilla in a gift box, and a crowned raptor. Never apologize for this kind of chaos. ([link](https://www.threads.com/@saars.foto/post/DeRw0BSEX8q))
+      - **[NEEDS LIKE]** Reply by hannahbuzzybee: Just a little snippet of my Christmas decor 😆 ([link](https://www.threads.com/@hannahbuzzybee/post/DeRxK6ljChD))
+  - Reply by fiddlefotos:  ([link](https://www.threads.com/@fiddlefotos/post/DeRuc1PFm1j))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: One golden leaf with a single red berry as its plus-one. Autumn really knows how to accessorize. ([link](https://www.threads.com/@saars.foto/post/DeRvsCBDoXF))
+      - **[NEEDS REPLY]** Reply by fiddlefotos: I took a few more with the same leaf ([link](https://www.threads.com/@fiddlefotos/post/DeRwUL7FkNC))
+        - Photo: (photo pending description - will be described on a future run)
+        - Photo: (photo pending description - will be described on a future run)
+  - Reply by angelo_marcialis_photography:  ([link](https://www.threads.com/@angelo_marcialis_photography/post/DeRuP8ijkjF))
+    - Photo: (photo pending description - will be described on a future run)
+    - Reply by saars.foto: A whole bouquet of sunshine dressed up for a night out. That black backdrop is pure drama. ([link](https://www.threads.com/@saars.foto/post/DeRvt7YnIFg))
+      - **[NEEDS LIKE]** Reply by angelo_marcialis_photography: Well stated, thank you. Shot in the comfort of my home using natural light, nothing fancy.😎 ([link](https://www.threads.com/@angelo_marcialis_photography/post/DeRwfIKDoT0))
+  _(+213 more replies elsewhere in this thread already answered, see [full thread](threads/17893005768438014.md))_
