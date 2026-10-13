@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18135512893646626",
-      "label": "pattern, shot, building, angle",
+      "label": "shot, pattern, angle, building",
       "group": 0,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
@@ -10,8 +10,52 @@
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 84,
+      "reply_count": 105,
       "replies": [
+        {
+          "username": "shiawasemainichi5",
+          "text": "",
+          "permalink": "https://www.threads.com/@shiawasemainichi5/post/DecpgM1E4Sl",
+          "photos": [
+            "A high-angle, slightly diagonal shot captures a sprawling Japanese city stretching toward the horizon beneath a clear blue sky. A winding river cuts through the dense urban landscape filled with closely packed houses and buildings, under bright daytime lighting."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "andreasfelske",
+          "text": "",
+          "permalink": "https://www.threads.com/@andreasfelske/post/DecmQqEiN6U",
+          "photos": [
+            "A straight line of faded green bollards runs along a narrow city sidewalk, casting sharp shadows on the ground on a sunny day. The modern urban architecture in the background features textured yellow and beige buildings with geometric window grates."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "nimaalaa1",
+          "text": "Patterns \ud83e\udd17\ud83d\udc95",
+          "permalink": "https://www.threads.com/@nimaalaa1/post/DeclcbFiGKB",
+          "photos": [
+            "A low-angle view captures an ornate vaulted ceiling covered in a grid pattern of pale panels decorated with red and blue circular motifs and small floral borders."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "jessgperry",
+          "text": "Water having its way with square tiles.",
+          "permalink": "https://www.threads.com/@jessgperry/post/DeclRsmkoQH",
+          "photos": [
+            "Water ripples distort a turquoise and lime-green mosaic tile surface, creating a vibrant pattern. Sunlight dances across the iridescent tiles, adding a dreamy, aquatic texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
         {
           "username": "linjclass",
           "text": "",
@@ -19,9 +63,19 @@
           "photos": [
             "A top-down view of a round, metal manhole cover embedded in the pavement, featuring a complex, concentric geometric pattern of raised shapes and some eroded lettering around its outer edge."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A manhole cover doing sacred geometry. The eroded lettering is just mysterious enough.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecmatCmeqb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "yeaiknow26",
@@ -30,9 +84,19 @@
           "photos": [
             "A low-angle view captures the intricate glass and steel framework of a modern dome ceiling, illuminated by blue light and reflecting hints of green and yellow from within."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A thermal bath roof doing stained glass with pool lights. Beautiful is right.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecmcRim8Ic",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "micawbersmu",
@@ -41,9 +105,39 @@
           "photos": [
             "A lush, vibrant green forest floor carpeted with ferns and low-lying vegetation is framed by a grove of tall, slender tree trunks under a sun-dappled canopy."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Ferns doing the carpet, trunks doing the columns. The forest has interior design.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Decmdl5GGWL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": [
+                {
+                  "username": "micawbersmu",
+                  "text": "I hadn't thought of it that way \ud83e\udd14",
+                  "permalink": "https://www.threads.com/@micawbersmu/post/DecmrxMDyQK",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "We all read the photo differently \ud83e\udd2d so, tell us, what\u2019s your read?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DecozPVkhqD",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "rodwsmith68",
@@ -52,9 +146,19 @@
           "photos": [
             "A low-angle view captures a modern architectural overhang featuring a dark, perforated surface with numerous organic, rounded cutouts. Through the pattern, patches of a vibrant blue sky and green tree leaves peek through."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "An overhang full of organic cutouts with sky peeking through. The building is breathing.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecmfBInSDj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "d1xshooter",
@@ -63,9 +167,19 @@
           "photos": [
             "A high-angle, black-and-white shot captures the bustling interior of a large market, housed beneath an expansive industrial ceiling of exposed steel beams and corrugated metal. Below, parallel display cases and vendor stalls line the ground floor, where shoppers weave through the aisles, all framed by the dramatic, geometric perspective of the overhead structure."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Shot on the Zf at f/11 and every beam is sharp. That ceiling is doing the heavy lifting.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecmgtAHR7r",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "medium.gords7",
@@ -74,9 +188,19 @@
           "photos": [
             "A vibrant, richly patterned fabric tent ceiling showcases an explosion of colors and intricate bohemian designs. The accordion-pleated panels radiate outward, creating a mesmerizing optical illusion and a cozy, eclectic atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "An explosion of patterned fabric with pleats radiating everywhere. Hypnotic.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecmiKMH-bK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "photog84",
@@ -162,9 +286,19 @@
                   "text": "\ud83e\udd43",
                   "permalink": "https://www.threads.com/@mapletreephotography_wpm/post/DeckwCygdGY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
-                  "replies": []
+                  "needs_response": false,
+                  "action": null,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83e\udd43",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DecooWnEovn",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -177,9 +311,19 @@
           "photos": [
             "A high angle full shot captures wavy ripples in a pool with teal and white tiles at the bottom, creating abstract lines and shapes."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Pool ripples over teal tiles making abstract art. The water's showing off.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecmjS9mana",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sandgerine",
@@ -303,7 +447,80 @@
               "photos": [],
               "needs_response": false,
               "action": null,
-              "replies": []
+              "replies": [
+                {
+                  "username": "eyeofgotham",
+                  "text": "Thanks. My inspiration was a bit different though.. band album covers. I shot for a few different perspectives, as one might see the members of the band.",
+                  "permalink": "https://www.threads.com/@eyeofgotham/post/DecmehMI7ol",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Sure! Thanks for sharing, Rob. I actually was a bit surprised seeing yours, I took this this March: \ud83e\udd2d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DecoTkQkr4Z",
+                      "photos": [
+                        "A row of metal triangle-shaped rings hangs from a playground monkey bar, receding into the distance. The background is softly blurred, revealing hints of a park with lush green trees and what appears to be blooming pink flowers."
+                      ],
+                      "needs_response": false,
+                      "action": null,
+                      "replies": [
+                        {
+                          "username": "eyeofgotham",
+                          "text": "Kidding aside, this was one of the other shots.",
+                          "permalink": "https://www.threads.com/@eyeofgotham/post/Decp-1_kQ4Z",
+                          "photos": [
+                            "A close-up, black and white shot of playground monkey bars, focusing on the curved metal handholds receding into a soft-focus background of trees and a playground structure."
+                          ],
+                          "needs_response": false,
+                          "action": null,
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Nice shot, nice details and textures",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DecqFS4Ejv8",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "replies": [
+                                {
+                                  "username": "eyeofgotham",
+                                  "text": "Thank you!",
+                                  "permalink": "https://www.threads.com/@eyeofgotham/post/DecqIdJkQb5",
+                                  "photos": [],
+                                  "needs_response": true,
+                                  "action": "like",
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "username": "eyeofgotham",
+                          "text": "Oh that\u2019s cool. You know what they say about great minds. Apparently the same could be said for ours, too. \ud83d\ude05",
+                          "permalink": "https://www.threads.com/@eyeofgotham/post/Decpw8gkUlV",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "lol \ud83d\ude4c",
+                              "permalink": "https://www.threads.com/@saars.foto/post/Decp826EsZc",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },

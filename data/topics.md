@@ -2,28 +2,29 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: pattern, shot, building, angle
+## Topic: shot, pattern, angle, building
 
 - **Thread** [18135512893646626](https://www.threads.com/@saars.foto/post/Deb-hntkVX8): Photographers, Pattern Tuesday 📸📸📸 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background.
-  - **[NEEDS REPLY]** Reply by linjclass:  ([link](https://www.threads.com/@linjclass/post/DeckChej7eu))
-    - Photo: A top-down view of a round, metal manhole cover embedded in the pavement, featuring a complex, concentric geometric pattern of raised shapes and some eroded lettering around its outer edge.
-  - **[NEEDS REPLY]** Reply by yeaiknow26: This is the spherical roof of the thermal baths. The colors of the pool lights are beautifully reflected in the glass. ([link](https://www.threads.com/@yeaiknow26/post/DecjnuHEdkR))
-    - Photo: A low-angle view captures the intricate glass and steel framework of a modern dome ceiling, illuminated by blue light and reflecting hints of green and yellow from within.
-  - **[NEEDS REPLY]** Reply by micawbersmu:  ([link](https://www.threads.com/@micawbersmu/post/Decias2DxgH))
-    - Photo: A lush, vibrant green forest floor carpeted with ferns and low-lying vegetation is framed by a grove of tall, slender tree trunks under a sun-dappled canopy.
-  - **[NEEDS REPLY]** Reply by rodwsmith68:  ([link](https://www.threads.com/@rodwsmith68/post/DechbRKjNf0))
-    - Photo: A low-angle view captures a modern architectural overhang featuring a dark, perforated surface with numerous organic, rounded cutouts. Through the pattern, patches of a vibrant blue sky and green tree leaves peek through.
-  - **[NEEDS REPLY]** Reply by d1xshooter: MKE Public Market, Nikon Zf, Nikkor 40 mm F11 1/250 ([link](https://www.threads.com/@d1xshooter/post/DechLU7iafw))
-    - Photo: A high-angle, black-and-white shot captures the bustling interior of a large market, housed beneath an expansive industrial ceiling of exposed steel beams and corrugated metal. Below, parallel display cases and vendor stalls line the ground floor, where shoppers weave through the aisles, all framed by the dramatic, geometric perspective of the overhead structure.
-  - **[NEEDS REPLY]** Reply by medium.gords7:  ([link](https://www.threads.com/@medium.gords7/post/Decf0E3nxU5))
-    - Photo: A vibrant, richly patterned fabric tent ceiling showcases an explosion of colors and intricate bohemian designs. The accordion-pleated panels radiate outward, creating a mesmerizing optical illusion and a cozy, eclectic atmosphere.
-  - Reply by mapletreephotography_wpm:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/DecZYnalqVe))
-    - Photo: A perspective shot of a long, narrow outdoor corridor bordered by a red brick wall on one side and a row of heavy wooden pillars on the other. The overhead structure features a line of hanging industrial-style pendant lamps that lead the eye down the sunlit, paved walkway toward a distant building entrance.
-    - Reply by saars.foto: That corridor pulls you in like a film still. The hanging lamps are doing the leading. ([link](https://www.threads.com/@saars.foto/post/Deci0NlGf1q))
-      - **[NEEDS LIKE]** Reply by mapletreephotography_wpm: 🥃 ([link](https://www.threads.com/@mapletreephotography_wpm/post/DeckwCygdGY))
-  - **[NEEDS REPLY]** Reply by a_lone_crow_:  ([link](https://www.threads.com/@a_lone_crow_/post/DecZU3ECPvP))
-    - Photo: A high angle full shot captures wavy ripples in a pool with teal and white tiles at the bottom, creating abstract lines and shapes.
+  - **[NEEDS REPLY]** Reply by shiawasemainichi5:  ([link](https://www.threads.com/@shiawasemainichi5/post/DecpgM1E4Sl))
+    - Photo: A high-angle, slightly diagonal shot captures a sprawling Japanese city stretching toward the horizon beneath a clear blue sky. A winding river cuts through the dense urban landscape filled with closely packed houses and buildings, under bright daytime lighting.
+  - **[NEEDS REPLY]** Reply by andreasfelske:  ([link](https://www.threads.com/@andreasfelske/post/DecmQqEiN6U))
+    - Photo: A straight line of faded green bollards runs along a narrow city sidewalk, casting sharp shadows on the ground on a sunny day. The modern urban architecture in the background features textured yellow and beige buildings with geometric window grates.
+  - **[NEEDS REPLY]** Reply by nimaalaa1: Patterns 🤗💕 ([link](https://www.threads.com/@nimaalaa1/post/DeclcbFiGKB))
+    - Photo: A low-angle view captures an ornate vaulted ceiling covered in a grid pattern of pale panels decorated with red and blue circular motifs and small floral borders.
+  - **[NEEDS REPLY]** Reply by jessgperry: Water having its way with square tiles. ([link](https://www.threads.com/@jessgperry/post/DeclRsmkoQH))
+    - Photo: Water ripples distort a turquoise and lime-green mosaic tile surface, creating a vibrant pattern. Sunlight dances across the iridescent tiles, adding a dreamy, aquatic texture.
+  - Reply by eyeofgotham:  ([link](https://www.threads.com/@eyeofgotham/post/DecT2T3EWYF))
+    - Photo: A low-angle, eye-level, close-up shot focuses on a series of triangular metal handles connected to overhead monkey bars in a playground, captured in grayscale. The handles recede from the center into the background, creating a perspective that looks down the length of the parallel bars.
+    - Reply by saars.foto: Monkey bars in grayscale look like a tiny brutalist city. Love the perspective. ([link](https://www.threads.com/@saars.foto/post/Deci9_tmRUt))
+      - Reply by eyeofgotham: Thanks. My inspiration was a bit different though.. band album covers. I shot for a few different perspectives, as one might see the members of the band. ([link](https://www.threads.com/@eyeofgotham/post/DecmehMI7ol))
+        - Reply by saars.foto: Sure! Thanks for sharing, Rob. I actually was a bit surprised seeing yours, I took this this March: 🤭 ([link](https://www.threads.com/@saars.foto/post/DecoTkQkr4Z))
+          - Photo: A row of metal triangle-shaped rings hangs from a playground monkey bar, receding into the distance. The background is softly blurred, revealing hints of a park with lush green trees and what appears to be blooming pink flowers.
+          _(+2 more replies already answered under this, see archive)_
+          - Reply by eyeofgotham: Kidding aside, this was one of the other shots. ([link](https://www.threads.com/@eyeofgotham/post/Decp-1_kQ4Z))
+            - Photo: A close-up, black and white shot of playground monkey bars, focusing on the curved metal handholds receding into a soft-focus background of trees and a playground structure.
+            - Reply by saars.foto: Nice shot, nice details and textures ([link](https://www.threads.com/@saars.foto/post/DecqFS4Ejv8))
+              - **[NEEDS LIKE]** Reply by eyeofgotham: Thank you! ([link](https://www.threads.com/@eyeofgotham/post/DecqIdJkQb5))
   - Reply by joseph_dtyyz:  ([link](https://www.threads.com/@joseph_dtyyz/post/DecPsz1EaCG))
     - Photo: A tall residential building features a striking facade with undulating, wave-like balconies made of copper-toned metal, contrasting against a clear blue sky.
     - Reply by saars.foto: Those balconies look like the building is doing the wave. Front row seats for the whole street. ([link](https://www.threads.com/@saars.foto/post/DecRoGIlDq2))
@@ -63,4 +64,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A dark fabric features a spooky damask pattern of ornate scrollwork intertwined with subtle motifs of skulls, ravens, and spiderwebs.
     - Reply by saars.foto: Skulls, spiders AND bats? That duvet is doing Halloween overtime. TK Maxx coming through. ([link](https://www.threads.com/@saars.foto/post/DecCffPoGkj))
       - **[NEEDS LIKE]** Reply by thetonbridgegardener: And crows. And spiders' webs. Love it. ([link](https://www.threads.com/@thetonbridgegardener/post/DecEs4EjeNF))
-  _(+44 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
+  _(+62 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
