@@ -67,10 +67,18 @@ Outputs (smallest/most-frequent read first):
    (`cache/media_cache.json`, local-only) so a photo is never re-described on
    later runs, and the cache is flushed to disk after *every* new
    description — an interrupted run never loses progress.
-   - If Gemini's daily quota is hit mid-run, remaining photos are left
-     un-described (not cached as a failure) and are clearly marked in the
-     output as `(photo pending description - will be described on a future
-     run)` — never silently indistinguishable from "no photo".
+   - On a 429 (rate limit), a single photo is retried in-process up to twice
+     before being deferred -- honoring Gemini's `Retry-After` header or
+     `retryDelay` body field when present (neither is guaranteed; Gemini's
+     own docs don't promise either), falling back to a fixed ~20s wait
+     otherwise. If it's still rate-limited after that, or the daily quota
+     is hit, remaining photos are left un-described (not cached as a
+     failure) and are clearly marked in the output as `(photo pending
+     description - will be described on a future run)` — never silently
+     indistinguishable from "no photo". A quota/rate-limit hit is also
+     logged (`Gemini free-tier daily/minute quota exceeded -- remaining
+     photos in this batch left pending.`) so it's visible in the run log,
+     not just inferable from pending markers after the fact.
    - **Trust boundary:** a Gemini description replaces your own eyes on a
      photo, which is fine for low-stakes drafting (a playful reply), but
      treat it as a draft input, not ground truth, before anything
