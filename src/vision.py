@@ -177,7 +177,15 @@ NO_DESCRIPTION_TEXT = "(no description available)"
 # block, permanently caching them and incorrectly resetting every circuit
 # breaker (round 11B review finding).
 _BLOCKING_FINISH_REASONS = frozenset(
-    {"SAFETY", "PROHIBITED_CONTENT", "RECITATION", "BLOCKLIST", "SPII", "IMAGE_SAFETY"}
+    {
+        "SAFETY",
+        "PROHIBITED_CONTENT",
+        "RECITATION",
+        "BLOCKLIST",
+        "SPII",
+        "IMAGE_SAFETY",
+        "LANGUAGE",
+    }
 )
 
 
@@ -489,6 +497,41 @@ def _is_outage_signal(exc: requests.RequestException) -> bool:
     return response is not None and response.status_code in TRANSIENT_STATUS_CODES
 
 
+_STALE_BLOCK_PLACEHOLDER_RE = re.compile(
+    re.escape(DESCRIPTION_UNAVAILABLE_PREFIX) + r" blocked by Gemini, reason: (.+)\)$"
+)
+
+# Used only by the cache self-heal below. Cached "blocked by Gemini"
+# placeholders can come from either promptFeedback.blockReason (always
+# checked by plain truthiness, never buggy -- can legitimately be values
+# like "OTHER"/"BLOCKED_REASON_UNSPECIFIED" that aren't in
+# _BLOCKING_FINISH_REASONS) or candidate.finishReason (checked against
+# _BLOCKING_FINISH_REASONS since round 11B). The cached string alone can't
+# tell us which path produced it, so this is the broader, safe-to-trust
+# superset: anything in it is left alone as a genuine block; anything not
+# in it is treated as possible fallout from the pre-11B finishReason
+# truthiness bug and gets a retry.
+_TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {"OTHER", "BLOCKED_REASON_UNSPECIFIED"}
+
+
+def _is_stale_cached_placeholder(value: str) -> bool:
+    """True for a cached "description" written by a now-fixed bug in a past
+    version of describe_image()/describe_images() that should never be
+    trusted as a real cache hit -- see the two cases in describe_images()'s
+    cache-read self-heal:
+    1. The exact legacy NO_DESCRIPTION_TEXT literal (cached forever before
+       GeminiResponseShapeError existed).
+    2. A "blocked by Gemini, reason: X" placeholder whose reason isn't a
+       trusted/known block reason -- written during the brief window where
+       finishReason was checked by truthiness instead of against the
+       allowlist (e.g. "reason: STOP", "reason: MAX_TOKENS").
+    """
+    if value == NO_DESCRIPTION_TEXT:
+        return True
+    match = _STALE_BLOCK_PLACEHOLDER_RE.match(value)
+    return bool(match) and match.group(1) not in _TRUSTED_BLOCK_REASONS
+
+
 def describe_images(
     media_items: list[dict],
     cache: dict,
@@ -544,14 +587,18 @@ def describe_images(
         descriptions = []
         for photo in photos:
             media_id = photo["id"]
-            if media_id in cache and cache[media_id] == NO_DESCRIPTION_TEXT:
-                # Self-heal a pre-existing-bug artifact: before
-                # GeminiResponseShapeError existed, a blocked/malformed-shape
-                # 200 response was cached as this exact literal placeholder
-                # forever. Treat it as stale/invalid instead of trusting it
-                # as a cache hit, so any photo poisoned by the old bug gets
-                # a real chance to be re-described (or re-classified as a
-                # genuine safety block and correctly cached) on this run.
+            if media_id in cache and _is_stale_cached_placeholder(cache[media_id]):
+                # Self-heal pre-existing-bug artifacts written by now-fixed
+                # versions of this function: the exact NO_DESCRIPTION_TEXT
+                # literal (cached forever before GeminiResponseShapeError
+                # existed), and the brief window (commit 34c82a2, fixed by
+                # 6b2cb9b) where a finishReason of e.g. STOP/MAX_TOKENS was
+                # wrongly treated as a genuine block and cached as
+                # '(description unavailable: blocked by Gemini, reason:
+                # STOP)'. Treat either as stale/invalid instead of trusting
+                # it as a cache hit, so any photo poisoned by either past
+                # bug gets a real chance to be re-described (or correctly
+                # re-classified as a genuine block) on this run.
                 del cache[media_id]
             if media_id in cache:
                 descriptions.append(cache[media_id])
