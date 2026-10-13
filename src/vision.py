@@ -134,9 +134,38 @@ def _transient_retry_delay(retry_number: int) -> float:
 # never make it into a committed file (data/topics.md) via an error message.
 _QUERY_SECRET_RE = re.compile(r"([?&](?:key|access_token)=)[^&\s)]+", re.IGNORECASE)
 
+# Broader safety net: strip the entire query string off any URL in a
+# sanitized message, not just a named key/access_token param. requests' own
+# exception text (e.g. "404 Client Error: ... for url: <url>") embeds the
+# full request URL verbatim, and urllib3's own connection-failure text
+# (ConnectionError/ConnectTimeout -- the most common image-host failure
+# mode) reports a scheme-less "... with url: <path>?<query>" instead.
+# Either way, a source photo's CDN media_url can carry its own signed/
+# session query params unrelated to our own credentials, and those end up
+# committed verbatim into data/topics.md via ImageFetchError's message
+# (round 14A/15A review findings) unless redacted here too.
+_URL_QUERY_RE = re.compile(r"((?:https?://|with url: )[^\s?]+)\?([^\s]*)")
+
+
+def _redact_url_query(match: re.Match) -> str:
+    # A trailing ')' on the captured query is ambiguous: it can be part of
+    # an enclosing wrapper (e.g. "(Caused by ... url: .../x?sig=abc)"), in
+    # which case it must be preserved *outside* the redaction, not swallowed
+    # into it (round 15B review finding -- a URL path containing a literal
+    # '(' / ')', e.g. "/foo(bar).jpg?sig=abc", must still be fully
+    # redacted). Treat it as a wrapper paren only if it isn't needed to
+    # balance a '(' that's actually part of the URL itself.
+    prefix, query = match.group(1), match.group(2)
+    trailing = ""
+    if query.endswith(")") and (prefix + query).count("(") < (prefix + query).count(")"):
+        trailing = ")"
+        query = query[:-1]
+    return f"{prefix}?REDACTED{trailing}"
+
 
 def _sanitize(message: str) -> str:
-    return _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
+    message = _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
+    return _URL_QUERY_RE.sub(_redact_url_query, message)
 
 
 class QuotaExceededError(RuntimeError):
@@ -422,6 +451,15 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
 
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        if not text:
+            # An empty/whitespace-only text part is the close cousin of the
+            # missing-candidate shape below (and of the documented "STOP
+            # with no parts" quirk) -- Gemini answered 200 but produced
+            # nothing usable. Route it through the same KeyError/IndexError
+            # handling so it's never cached as a fake successful
+            # description (which would render as permanently "pending" and
+            # silently reset every circuit breaker every run).
+            raise KeyError("empty text")
     except (KeyError, IndexError):
         # promptFeedback.blockReason only ever appears on an actual block,
         # so it's safe to treat by plain truthiness. finishReason, however,
@@ -504,20 +542,32 @@ _STALE_BLOCK_PLACEHOLDER_RE = re.compile(
 # Used only by the cache self-heal below. Cached "blocked by Gemini"
 # placeholders can come from either promptFeedback.blockReason (always
 # checked by plain truthiness, never buggy -- can legitimately be values
-# like "OTHER"/"BLOCKED_REASON_UNSPECIFIED" that aren't in
+# like "OTHER"/"BLOCK_REASON_UNSPECIFIED" that aren't in
 # _BLOCKING_FINISH_REASONS) or candidate.finishReason (checked against
 # _BLOCKING_FINISH_REASONS since round 11B). The cached string alone can't
 # tell us which path produced it, so this is the broader, safe-to-trust
 # superset: anything in it is left alone as a genuine block; anything not
 # in it is treated as possible fallout from the pre-11B finishReason
 # truthiness bug and gets a retry.
-_TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {"OTHER", "BLOCKED_REASON_UNSPECIFIED"}
+#
+# Note: the real Gemini enum value is "BLOCK_REASON_UNSPECIFIED" (no "ED"
+# on "BLOCK"). "BLOCKED_REASON_UNSPECIFIED" is kept alongside it only so
+# any already-cached entries written under the old, misspelled version of
+# this set aren't needlessly re-requested -- it isn't a value Gemini can
+# actually emit (round 13B review finding: the misspelling meant a
+# genuine BLOCK_REASON_UNSPECIFIED block was never recognized as trusted,
+# so it was self-healed and re-requested identically forever).
+_TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {
+    "OTHER",
+    "BLOCK_REASON_UNSPECIFIED",
+    "BLOCKED_REASON_UNSPECIFIED",
+}
 
 
 def _is_stale_cached_placeholder(value: str) -> bool:
     """True for a cached "description" written by a now-fixed bug in a past
     version of describe_image()/describe_images() that should never be
-    trusted as a real cache hit -- see the two cases in describe_images()'s
+    trusted as a real cache hit -- see the cases in describe_images()'s
     cache-read self-heal:
     1. The exact legacy NO_DESCRIPTION_TEXT literal (cached forever before
        GeminiResponseShapeError existed).
@@ -525,7 +575,14 @@ def _is_stale_cached_placeholder(value: str) -> bool:
        trusted/known block reason -- written during the brief window where
        finishReason was checked by truthiness instead of against the
        allowlist (e.g. "reason: STOP", "reason: MAX_TOKENS").
+    3. A falsy (empty/whitespace-only) cached value -- written by a now-
+       fixed bug where an empty Gemini text part was treated as a
+       successful description (round 12B review finding) before the fix
+       that stopped new ones from being cached. A pre-existing empty
+       entry would otherwise be trusted as a real cache hit forever.
     """
+    if not value:
+        return True
     if value == NO_DESCRIPTION_TEXT:
         return True
     match = _STALE_BLOCK_PLACEHOLDER_RE.match(value)
@@ -671,6 +728,15 @@ def describe_images(
                         # 404/403) -- the host itself is fine, so don't let it
                         # count toward (or clear) the image-host outage streak.
                         pass
+                    # No Gemini POST was ever attempted for this photo (the
+                    # image fetch failed before describe_image() could even
+                    # build one), so there's no Gemini rate limit to respect
+                    # here -- skip the inter-call throttle entirely instead of
+                    # burning 5 unnecessary seconds per broken/stale photo
+                    # URL (round 15B review finding: a backlog of stale CDN
+                    # URLs could otherwise slow a run by many minutes with no
+                    # quota/rate-limit benefit).
+                    continue
                 else:
                     requests_made += getattr(exc, "gemini_request_attempts", 1)
                     consecutive_image_fetch_failures = 0
@@ -712,7 +778,14 @@ def describe_images(
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
                 continue
 
-            cache[media_id] = description
+            if description:
+                # Defense in depth: describe_image() should never return a
+                # falsy "success" (an empty/whitespace-only description is
+                # now rejected there too), but never cache one here either
+                # if it somehow did -- caching "" would be a permanent,
+                # unrecoverable false "pending" forever (see the empty-text
+                # finding this guards against).
+                cache[media_id] = description
             descriptions.append(description)
             if on_progress is not None:
                 on_progress()
