@@ -53,6 +53,16 @@ def _paginate(path: str, params: dict) -> Iterable[dict]:
         next_params = {}
 
 
+def _resolve_hard_cutoff() -> dt.datetime | None:
+    raw = config.HARD_CUTOFF_DATE
+    if not raw:
+        return None
+    parsed = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=dt.timezone.utc)
+    return parsed
+
+
 def get_recent_root_threads(
     lookback_days: int = config.LOOKBACK_DAYS, max_threads: int | None = None
 ) -> list[dict]:
@@ -61,8 +71,15 @@ def get_recent_root_threads(
     If `max_threads` is set, stops after collecting that many (posts are
     returned newest-first, so this caps to the N most recent posts) --
     useful for quick/manual test runs without scanning everything.
+
+    If `HARD_CUTOFF_DATE` is set, it acts as an absolute floor on top of
+    `lookback_days`: posts older than it are never scanned, even if
+    `lookback_days` would otherwise include them.
     """
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=lookback_days)
+    hard_cutoff = _resolve_hard_cutoff()
+    if hard_cutoff is not None and hard_cutoff > cutoff:
+        cutoff = hard_cutoff
     posts = []
     for post in _paginate("me/threads", {"fields": ROOT_FIELDS, "limit": 25}):
         ts = dt.datetime.fromisoformat(post["timestamp"].replace("Z", "+00:00"))

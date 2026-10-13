@@ -108,6 +108,7 @@ jobs:
           LOOKBACK_DAYS: ${{ inputs.lookback_days || vars.LOOKBACK_DAYS || '4' }}
           MAX_ROOT_THREADS: ${{ inputs.max_root_threads || vars.MAX_ROOT_THREADS }}
           MAX_VISION_REQUESTS_PER_RUN: ${{ vars.MAX_VISION_REQUESTS_PER_RUN || '1400' }}
+          HARD_CUTOFF_DATE: ${{ vars.HARD_CUTOFF_DATE }}
         run: python -m src.main
 
       - name: Commit and push changes

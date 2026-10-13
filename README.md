@@ -229,8 +229,8 @@ hosted runners and commits/pushes any changes itself.
    sensitive on its own:
    - `THREADS_USERNAME` (required — no default).
    - `GEMINI_MODEL`, `LOOKBACK_DAYS`, `MAX_ROOT_THREADS`,
-     `MAX_VISION_REQUESTS_PER_RUN` — all optional, same defaults as
-     `src/config.py` if left unset.
+     `MAX_VISION_REQUESTS_PER_RUN`, `HARD_CUTOFF_DATE` — all optional, same
+     defaults as `src/config.py` if left unset.
 3. That's it — the workflow is already scheduled and also supports
    **Actions → Update Thread Topic Graph → Run workflow** for an on-demand
    run, optionally overriding `lookback_days`/`max_root_threads` for that
@@ -366,6 +366,13 @@ needed.
   unanswered on it) simply stops being scanned. Default is `4` days (not
   `2`) specifically to give that kind of trickle-in exchange enough runway
   to actually get answered before it ages out unnoticed.
+- `HARD_CUTOFF_DATE` (optional, unset by default) is an absolute floor on
+  top of `LOOKBACK_DAYS`: root posts older than this date are never
+  scanned, even if `LOOKBACK_DAYS` would otherwise include them. Useful to
+  permanently wall off an old post (e.g. a one-off giveaway thread with
+  hundreds of stale replies) without having to keep `LOOKBACK_DAYS` itself
+  small. Accepts an ISO 8601 date or datetime, e.g. `2026-01-01` or
+  `2026-01-01T00:00:00Z`.
 - Both the Threads token and the Gemini key are sent as request **headers**,
   never query params, so they can never end up embedded in a logged/committed
   error message (this previously caused a real leaked-key incident caught by

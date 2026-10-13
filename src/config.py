@@ -9,6 +9,13 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "4"))
 
+# Optional absolute floor on what's ever scanned, as an ISO 8601 date/
+# datetime (e.g. "2026-01-01" or "2026-01-01T00:00:00Z"). Root posts older
+# than this are skipped outright, regardless of LOOKBACK_DAYS -- useful to
+# permanently exclude old posts (e.g. a one-off giveaway thread) without
+# having to keep LOOKBACK_DAYS small forever. Unset (empty) means no floor.
+HARD_CUTOFF_DATE = os.environ.get("HARD_CUTOFF_DATE", "")
+
 # Optional cap on how many of the most recent root posts to process; unset
 # (None) means "all posts within LOOKBACK_DAYS". Handy for quick test runs.
 _max_root_threads_raw = os.environ.get("MAX_ROOT_THREADS", "")
