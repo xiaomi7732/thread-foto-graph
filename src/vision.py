@@ -151,6 +151,13 @@ class QuotaExceededError(RuntimeError):
 # otherwise-unrelated threads that both happened to have a failed photo.
 DESCRIPTION_UNAVAILABLE_PREFIX = "(description unavailable:"
 
+# Placeholder stored when Gemini responded successfully (HTTP 200) but its
+# response body didn't contain the expected candidate/text shape (e.g. the
+# prompt was blocked by a safety filter). Also identical boilerplate across
+# every photo that hits it, so it's excluded from the clustering corpus the
+# same way as DESCRIPTION_UNAVAILABLE_PREFIX above.
+NO_DESCRIPTION_TEXT = "(no description available)"
+
 
 class ImageFetchError(requests.RequestException):
     """Raised when fetching the source photo itself fails (stale/expired CDN
@@ -368,7 +375,7 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except (KeyError, IndexError):
-        text = "(no description available)"
+        text = NO_DESCRIPTION_TEXT
     return text, post_attempts
 
 
@@ -505,6 +512,13 @@ def describe_images(
                     # though the image host is perfectly healthy.
                     if _is_outage_signal(exc.__cause__ or exc):
                         consecutive_image_fetch_failures += 1
+                        # A real outage signal of any kind (Gemini or image-host)
+                        # means the *previous* non-retryable Gemini streak (if any)
+                        # wasn't actually a sustained run of the same persistent
+                        # error -- it was interrupted by an unrelated outage, so
+                        # don't let it carry forward and eventually trip that
+                        # breaker on a non-consecutive sequence.
+                        consecutive_non_retryable_failures = 0
                         if consecutive_image_fetch_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
                             print(
                                 f"  {consecutive_image_fetch_failures} consecutive photo-download "

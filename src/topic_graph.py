@@ -64,15 +64,20 @@ GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
 
 
 def _is_real_description(description: str | None) -> bool:
-    """True only for an actual Gemini-produced description -- excludes both
-    the pending placeholder (falsy/None, handled by the `if d` caller) and
-    the "(description unavailable: ...)" failure placeholder, which is
-    identical boilerplate across every failed photo in a run and would
-    otherwise artificially inflate TF-IDF similarity between unrelated
-    threads that each happened to have a failed photo (see
-    vision.DESCRIPTION_UNAVAILABLE_PREFIX).
+    """True only for an actual Gemini-produced description -- excludes the
+    pending placeholder (falsy/None, handled by the `if d` caller), the
+    "(description unavailable: ...)" failure placeholder, and the
+    "(no description available)" blocked/empty-response placeholder. All of
+    these are identical boilerplate across every photo that hits them in a
+    run and would otherwise artificially inflate TF-IDF similarity between
+    unrelated threads that each happened to have one (see
+    vision.DESCRIPTION_UNAVAILABLE_PREFIX / vision.NO_DESCRIPTION_TEXT).
     """
-    return bool(description) and not description.startswith(vision.DESCRIPTION_UNAVAILABLE_PREFIX)
+    return (
+        bool(description)
+        and not description.startswith(vision.DESCRIPTION_UNAVAILABLE_PREFIX)
+        and description != vision.NO_DESCRIPTION_TEXT
+    )
 
 
 def _thread_document(thread: dict) -> str:
