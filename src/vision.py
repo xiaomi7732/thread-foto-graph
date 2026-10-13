@@ -176,7 +176,17 @@ def _parse_retry_delay(resp: requests.Response) -> float | None:
     return None
 
 
-def describe_image(image_url: str) -> str:
+def describe_image(image_url: str) -> tuple[str, int]:
+    """Returns (description, gemini_request_attempts). The attempt count
+    includes every actual POST sent to Gemini this call, not just 1 -- a
+    single photo can cost several real Gemini requests (429/5xx/timeout
+    retries) before succeeding or giving up, and each one counts against
+    Gemini's real per-minute/per-day quota even though only one photo was
+    described. Any exception raised below (QuotaExceededError, HTTPError,
+    the original Timeout/ConnectionError) has `.gemini_request_attempts` set
+    on it too, so describe_images() can charge the run's budget accurately
+    even on failure.
+    """
     try:
         img_resp = requests.get(image_url, timeout=30)
         img_resp.raise_for_status()
@@ -207,12 +217,15 @@ def describe_image(image_url: str) -> str:
 
     retries_429 = 0
     retries_transient = 0
+    post_attempts = 0
     while True:
+        post_attempts += 1
         try:
             resp = requests.post(url, headers=headers, json=body, timeout=60)
         except (requests.Timeout, requests.ConnectionError) as exc:
             retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES:
+                exc.gemini_request_attempts = post_attempts
                 raise
             delay = _transient_retry_delay(retries_transient)
             kind = "timed out" if isinstance(exc, requests.Timeout) else "connection failed"
@@ -231,9 +244,13 @@ def describe_image(image_url: str) -> str:
                 # be guessing how long to wait, and a guessed delay has already
                 # proven to burn several minutes of run time for no benefit (see
                 # README). Fail fast instead of retrying blind.
-                raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
+                err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
+                err.gemini_request_attempts = post_attempts
+                raise err
             if retries_429 >= MAX_429_RETRIES:
-                raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
+                err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
+                err.gemini_request_attempts = post_attempts
+                raise err
             retries_429 += 1
             delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
             print(
@@ -259,13 +276,18 @@ def describe_image(image_url: str) -> str:
 
         break
 
-    resp.raise_for_status()
+    try:
+        resp.raise_for_status()
+    except requests.HTTPError as exc:
+        exc.gemini_request_attempts = post_attempts
+        raise
 
     data = resp.json()
     try:
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except (KeyError, IndexError):
-        return "(no description available)"
+        text = "(no description available)"
+    return text, post_attempts
 
 
 def _is_outage_signal(exc: requests.RequestException) -> bool:
@@ -318,9 +340,14 @@ def describe_images(
     main.py) -- without this, a 429/outage detected on one batch wouldn't
     stop the very next batch from trying fresh calls anyway.
 
-    Returns the number of new Gemini requests made. `on_progress`, if given,
-    is called after every single new description so the caller can persist
-    the cache immediately -- a slow or interrupted run never loses
+    `requests_made` counts actual Gemini POST attempts, not photos -- a
+    single photo can cost several real Gemini requests (429/5xx/timeout
+    retries inside describe_image()) before succeeding or giving up, and
+    each one counts against Gemini's real per-minute/per-day quota, so this
+    is what `max_requests` (MAX_VISION_REQUESTS_PER_RUN) is actually
+    budgeting against. `on_progress`, if given, is called after every single
+    new description so the caller can persist the cache immediately -- a
+    slow or interrupted run never loses
     already-described photos.
     """
     requests_made = 0
@@ -342,7 +369,7 @@ def describe_images(
                 continue
 
             try:
-                description = describe_image(photo["media_url"])
+                description, attempts = describe_image(photo["media_url"])
             except QuotaExceededError as exc:
                 # Don't abandon the whole batch silently: keep looping so
                 # later cache-hit items/photos still get their description,
@@ -351,6 +378,7 @@ def describe_images(
                 # which made "why is this photo still pending?" undiagnosable
                 # from run logs alone -- print once per describe_images() call
                 # so it's visible exactly when/why it happened.
+                requests_made += getattr(exc, "gemini_request_attempts", 1)
                 if not stop_calls:
                     print(f"  {exc} -- remaining photos in this batch left pending.", flush=True)
                 stop_calls = True
@@ -394,7 +422,7 @@ def describe_images(
                         # count toward (or clear) the image-host outage streak.
                         pass
                 else:
-                    requests_made += 1
+                    requests_made += getattr(exc, "gemini_request_attempts", 1)
                     consecutive_image_fetch_failures = 0
                     if _is_outage_signal(exc):
                         consecutive_transient_failures += 1
@@ -422,7 +450,7 @@ def describe_images(
             descriptions.append(description)
             if on_progress is not None:
                 on_progress()
-            requests_made += 1
+            requests_made += attempts
             consecutive_transient_failures = 0
             consecutive_image_fetch_failures = 0
             time.sleep(MIN_SECONDS_BETWEEN_CALLS)

@@ -156,10 +156,18 @@ def photo_items(item: dict) -> list[dict]:
         return [{"id": item["id"], "media_url": item.get("media_url")}]
     if media_type == "CAROUSEL_ALBUM":
         children = (item.get("children") or {}).get("data", [])
+        # Mirror the plain-IMAGE branch above: always surface a child that's
+        # an IMAGE, even with a missing media_url, rather than filtering it
+        # out. describe_image() turns a missing URL into a harmless, never-
+        # cached "(description unavailable: ...)" placeholder (see
+        # ImageFetchError / _is_outage_signal in vision.py); silently
+        # dropping it here instead would leave photo_descriptions shorter
+        # than the real photo count, or unset entirely if every child lacks
+        # a URL, both of which topic_graph.py misreads as "no photo at all".
         return [
-            {"id": child["id"], "media_url": child["media_url"]}
+            {"id": child["id"], "media_url": child.get("media_url")}
             for child in children
-            if child.get("media_type") == "IMAGE" and child.get("media_url")
+            if child.get("media_type") == "IMAGE"
         ]
     return []
 
