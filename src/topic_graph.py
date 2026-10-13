@@ -117,7 +117,25 @@ class UnionFind:
 
 def _cluster_threads(docs: list[str]):
     vectorizer = TfidfVectorizer(stop_words="english", max_features=2000)
-    matrix = vectorizer.fit_transform(docs)
+    try:
+        matrix = vectorizer.fit_transform(docs)
+    except ValueError:
+        # Every document ended up empty or stop-words-only after dropping
+        # pending/failure-placeholder photo descriptions and blank post
+        # text -- e.g. a batch of caption-less, photo-only threads whose
+        # only photos all failed to describe this run (previously masked:
+        # the failure-placeholder string used to count as real vocabulary
+        # before _is_real_description() excluded it). TfidfVectorizer can't
+        # build a vocabulary from nothing and raises ValueError here --
+        # rather than crash the whole run (committing nothing at all),
+        # fall back to one singleton topic per thread with no keywords;
+        # there's no real text to cluster on anyway.
+        vectorizer = TfidfVectorizer(
+            stop_words="english", max_features=2000, vocabulary=["_no_real_content_placeholder"]
+        )
+        matrix = vectorizer.fit_transform(docs)
+        return list(range(len(docs))), vectorizer, matrix
+
     sim = cosine_similarity(matrix)
 
     uf = UnionFind(len(docs))

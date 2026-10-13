@@ -178,8 +178,13 @@ class ImageFetchError(requests.RequestException):
 
 class GeminiResponseShapeError(requests.RequestException):
     """Raised when Gemini answers 200 but its response body doesn't contain
-    the expected candidate/text shape (e.g. the prompt was blocked by a
-    safety filter, or an API response-schema change). Deliberately a
+    the expected candidate/text shape *and* carries no recognizable
+    block/finish reason (so describe_image() can't attribute it to routine,
+    per-photo content moderation -- see the `block_reason` branch next to
+    where this is raised, which returns a normal cacheable description
+    instead for that case). This is therefore treated as a potential
+    systemic problem (API bug, response-schema change) rather than
+    expected content-specific behavior: deliberately a
     requests.RequestException (not a plain success) so describe_images()
     treats it like any other Gemini-side failure -- never cached, charged
     against the run's request budget, and counted toward the
@@ -397,9 +402,33 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except (KeyError, IndexError):
+        block_reason = data.get("promptFeedback", {}).get("blockReason") or (
+            (data.get("candidates") or [{}])[0].get("finishReason")
+        )
+        if block_reason:
+            # A genuine, content-specific safety/policy block -- Gemini
+            # processed the request successfully and declined to describe
+            # *this particular photo*. This is a deterministic, per-photo
+            # outcome (retrying changes nothing), not evidence that the
+            # API key/model/connection itself is broken -- so unlike the
+            # genuinely-unexpected-shape case below, it's safe (and
+            # correct) to treat as a normal successful return: cached so
+            # this photo isn't retried every run forever, and never
+            # counted toward the non-retryable-failure circuit breaker
+            # (which exists to catch a *systemic* problem, not routine
+            # per-content moderation). Tagged with
+            # DESCRIPTION_UNAVAILABLE_PREFIX so it's still excluded from
+            # topic_graph's TF-IDF clustering corpus like any other
+            # non-description placeholder.
+            return (
+                f"{DESCRIPTION_UNAVAILABLE_PREFIX} blocked by Gemini, reason: "
+                f"{block_reason})",
+                post_attempts,
+            )
         exc = GeminiResponseShapeError(
-            "Gemini response missing expected candidate/text "
-            "(possibly blocked by a safety filter)"
+            "Gemini response missing expected candidate/text with no "
+            "recognizable block/finish reason (likely an API bug or "
+            "response-schema change)"
         )
         exc.gemini_request_attempts = post_attempts
         raise exc
@@ -488,6 +517,15 @@ def describe_images(
         descriptions = []
         for photo in photos:
             media_id = photo["id"]
+            if media_id in cache and cache[media_id] == NO_DESCRIPTION_TEXT:
+                # Self-heal a pre-existing-bug artifact: before
+                # GeminiResponseShapeError existed, a blocked/malformed-shape
+                # 200 response was cached as this exact literal placeholder
+                # forever. Treat it as stale/invalid instead of trusting it
+                # as a cache hit, so any photo poisoned by the old bug gets
+                # a real chance to be re-described (or re-classified as a
+                # genuine safety block and correctly cached) on this run.
+                del cache[media_id]
             if media_id in cache:
                 descriptions.append(cache[media_id])
                 continue
