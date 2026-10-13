@@ -13,6 +13,15 @@ immediately) rather than guessing a delay -- blind guessing was tried and
 just burned run time without reliably succeeding. Either way,
 describe_images() then leaves the photo as a "pending" placeholder for the
 next scheduled run.
+
+On a 5xx (the model itself briefly overloaded/unavailable -- common on the
+free-tier "lite" model) or a read timeout, describe_image() also retries
+in-process a couple of times with a short fixed backoff (Gemini gives no
+Retry-After for these). If it still fails after that, describe_images()
+records "(description unavailable: ...)" for that photo without caching it,
+so it's retried fresh on the next run -- but the failure is now also printed
+to the run log, so a run hitting a lot of these is visible there instead of
+only showing up later in the committed markdown.
 """
 from __future__ import annotations
 
@@ -48,6 +57,15 @@ MIN_SECONDS_BETWEEN_CALLS = 5
 MAX_429_RETRIES = 2
 # Cap any single wait so one unusually large retryDelay can't stall a run.
 MAX_RETRY_DELAY_SECONDS = 60.0
+
+# 5xx responses mean the model itself is briefly overloaded/unavailable --
+# this is common on the free-tier "lite" model and is unrelated to our own
+# rate limiting. Unlike 429, Gemini gives no Retry-After for these, so a
+# short fixed backoff is all there is to go on. Read timeouts get the same
+# treatment -- both are transient and usually clear within a few seconds.
+TRANSIENT_STATUS_CODES = {500, 502, 503, 504}
+MAX_TRANSIENT_RETRIES = 2
+TRANSIENT_RETRY_DELAY_SECONDS = 5.0
 
 # Matches "?key=..." / "&key=..." style query params so a stray secret can
 # never make it into a committed file (data/topics.md) via an error message.
@@ -123,26 +141,56 @@ def describe_image(image_url: str) -> str:
     # generated file that embeds error text.
     headers = {"x-goog-api-key": config.GEMINI_API_KEY, "Content-Type": "application/json"}
 
-    for attempt in range(MAX_429_RETRIES + 1):
-        resp = requests.post(url, headers=headers, json=body, timeout=60)
-        if resp.status_code != 429:
-            break
-        delay = _parse_retry_delay(resp)
-        if delay is None:
-            # Gemini gave us no Retry-After/retryDelay to honor -- we'd just
-            # be guessing how long to wait, and a guessed delay has already
-            # proven to burn several minutes of run time for no benefit (see
-            # README). Fail fast instead of retrying blind.
-            raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
-        if attempt >= MAX_429_RETRIES:
-            raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
-        delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
-        print(
-            f"  Gemini rate limit (429) -- retrying in {delay:.0f}s "
-            f"(attempt {attempt + 1}/{MAX_429_RETRIES})...",
-            flush=True,
-        )
-        time.sleep(delay)
+    retries_429 = 0
+    retries_transient = 0
+    while True:
+        try:
+            resp = requests.post(url, headers=headers, json=body, timeout=60)
+        except requests.Timeout:
+            retries_transient += 1
+            if retries_transient > MAX_TRANSIENT_RETRIES:
+                raise
+            print(
+                f"  Gemini request timed out -- retrying in {TRANSIENT_RETRY_DELAY_SECONDS:.0f}s "
+                f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
+                flush=True,
+            )
+            time.sleep(TRANSIENT_RETRY_DELAY_SECONDS)
+            continue
+
+        if resp.status_code == 429:
+            delay = _parse_retry_delay(resp)
+            if delay is None:
+                # Gemini gave us no Retry-After/retryDelay to honor -- we'd just
+                # be guessing how long to wait, and a guessed delay has already
+                # proven to burn several minutes of run time for no benefit (see
+                # README). Fail fast instead of retrying blind.
+                raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
+            if retries_429 >= MAX_429_RETRIES:
+                raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
+            retries_429 += 1
+            delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
+            print(
+                f"  Gemini rate limit (429) -- retrying in {delay:.0f}s "
+                f"(attempt {retries_429}/{MAX_429_RETRIES})...",
+                flush=True,
+            )
+            time.sleep(delay)
+            continue
+
+        if resp.status_code in TRANSIENT_STATUS_CODES:
+            retries_transient += 1
+            if retries_transient > MAX_TRANSIENT_RETRIES:
+                break  # Give up -- raise_for_status() below raises the HTTPError.
+            print(
+                f"  Gemini server error ({resp.status_code}) -- retrying in "
+                f"{TRANSIENT_RETRY_DELAY_SECONDS:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
+                flush=True,
+            )
+            time.sleep(TRANSIENT_RETRY_DELAY_SECONDS)
+            continue
+
+        break
 
     resp.raise_for_status()
 
@@ -203,7 +251,11 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
             except requests.RequestException as exc:
                 # Do NOT cache failures -- a transient/auth error should be
                 # retried on the next run, not permanently "stuck" as a fake
-                # cached description.
+                # cached description. This survived in-process retries (see
+                # describe_image()), so it's worth a line in the run log --
+                # otherwise a run full of these is invisible until someone
+                # reads the committed markdown.
+                print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
                 descriptions.append(f"(description unavailable: {_sanitize(str(exc))})")
                 requests_made += 1
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
