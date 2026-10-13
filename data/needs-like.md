@@ -4,7 +4,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (21)
 
 ### Photographers, Golden Friday 🌟 Show me the most golden thin… ([thread](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I))
 - tradi_leni: I had a feeling the mountains might steal a little attention 😄🏔️ ([link](https://www.threads.com/@tradi_leni/post/DeUkHXuCECy))
@@ -28,9 +28,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - juliahh: 🙏❤️ ([link](https://www.threads.com/@juliahh/post/DeR6TH4CJKB))
 - hannahbuzzybee: Just a little snippet of my Christmas decor 😆 ([link](https://www.threads.com/@hannahbuzzybee/post/DeRxK6ljChD))
 - angelo_marcialis_photography: Well stated, thank you. Shot in the comfort of my home using natural light, nothing fancy.😎 ([link](https://www.threads.com/@angelo_marcialis_photography/post/DeRwfIKDoT0))
-
-### Shadow Thursday favorites 🏆 Four shadows that stopped me mi… ([thread](https://www.threads.com/@saars.foto/post/DeRsLM5FfMB))
-- gamalthaib: 👍 ([link](https://www.threads.com/@gamalthaib/post/DeRz_WFEluN))
-- powder_love_eat: 2nd👍 ([link](https://www.threads.com/@powder_love_eat/post/DeRxjH9Gi6W))
-- nofussgus_: Absolute pure luck ([link](https://www.threads.com/@nofussgus_/post/DeTgSnVE_N8))
 
