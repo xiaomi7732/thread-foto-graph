@@ -513,14 +513,26 @@ _STALE_BLOCK_PLACEHOLDER_RE = re.compile(
 # Used only by the cache self-heal below. Cached "blocked by Gemini"
 # placeholders can come from either promptFeedback.blockReason (always
 # checked by plain truthiness, never buggy -- can legitimately be values
-# like "OTHER"/"BLOCKED_REASON_UNSPECIFIED" that aren't in
+# like "OTHER"/"BLOCK_REASON_UNSPECIFIED" that aren't in
 # _BLOCKING_FINISH_REASONS) or candidate.finishReason (checked against
 # _BLOCKING_FINISH_REASONS since round 11B). The cached string alone can't
 # tell us which path produced it, so this is the broader, safe-to-trust
 # superset: anything in it is left alone as a genuine block; anything not
 # in it is treated as possible fallout from the pre-11B finishReason
 # truthiness bug and gets a retry.
-_TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {"OTHER", "BLOCKED_REASON_UNSPECIFIED"}
+#
+# Note: the real Gemini enum value is "BLOCK_REASON_UNSPECIFIED" (no "ED"
+# on "BLOCK"). "BLOCKED_REASON_UNSPECIFIED" is kept alongside it only so
+# any already-cached entries written under the old, misspelled version of
+# this set aren't needlessly re-requested -- it isn't a value Gemini can
+# actually emit (round 13B review finding: the misspelling meant a
+# genuine BLOCK_REASON_UNSPECIFIED block was never recognized as trusted,
+# so it was self-healed and re-requested identically forever).
+_TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {
+    "OTHER",
+    "BLOCK_REASON_UNSPECIFIED",
+    "BLOCKED_REASON_UNSPECIFIED",
+}
 
 
 def _is_stale_cached_placeholder(value: str) -> bool:
