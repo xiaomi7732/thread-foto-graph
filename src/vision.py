@@ -240,13 +240,29 @@ def describe_image(image_url: str) -> str:
         return "(no description available)"
 
 
+def _is_outage_signal(exc: requests.RequestException) -> bool:
+    """True only for failures that indicate Gemini itself is struggling --
+    a read timeout or connection failure that survived describe_image()'s
+    own retries, or a 5xx that survived its retries too. Used by
+    describe_images()'s circuit breaker so it doesn't mistake an unrelated
+    *permanent* failure (e.g. a stale/403 photo URL, or a non-retryable 4xx
+    straight from Gemini) for a Gemini outage and halt an otherwise-healthy
+    run.
+    """
+    if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
+        return True
+    response = getattr(exc, "response", None)
+    return response is not None and response.status_code in TRANSIENT_STATUS_CODES
+
+
 def describe_images(
     media_items: list[dict],
     cache: dict,
     max_requests: int,
     on_progress=None,
     stop_calls: bool = False,
-) -> tuple[int, bool]:
+    consecutive_transient_failures: int = 0,
+) -> tuple[int, bool, int]:
     """Describes every uncached photo in each item in place, storing a
     'photo_descriptions' list on the item (one entry per photo -- a
     CAROUSEL_ALBUM can hold several, not just its cover image; see
@@ -257,11 +273,17 @@ def describe_images(
     `stop_calls`, if already True, means a previous call (this run) already
     decided to stop issuing new Gemini requests (quota hit or a sustained
     outage) -- every item is still walked so photo_descriptions is set
-    correctly, but no new network calls are attempted. Returns
-    (requests_made, stop_calls) so the caller can carry that decision
-    forward across its own multiple describe_images() calls in the same run
-    (see main.py) -- without this, a 429/outage detected on one batch
-    wouldn't stop the very next batch from trying fresh calls anyway.
+    correctly, but no new network calls are attempted. `consecutive_transient_
+    failures` is the running count of consecutive outage-signal failures
+    (see _is_outage_signal) from prior calls this run, so the circuit
+    breaker can trip even when a single batch alone never reaches the
+    threshold (e.g. main.py's root-photo batches are usually just one
+    photo each). Both are returned as
+    (requests_made, stop_calls, consecutive_transient_failures) so the
+    caller can carry them forward across its own multiple describe_images()
+    calls in the same run (see main.py) -- without this, a 429/outage
+    detected on one batch wouldn't stop the very next batch from trying
+    fresh calls anyway.
 
     Returns the number of new Gemini requests made. `on_progress`, if given,
     is called after every single new description so the caller can persist
@@ -269,7 +291,6 @@ def describe_images(
     already-described photos.
     """
     requests_made = 0
-    consecutive_transient_failures = 0
     for item in media_items:
         photos = threads_client.photo_items(item)
         if not photos:
@@ -312,18 +333,24 @@ def describe_images(
                 print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
                 descriptions.append(f"(description unavailable: {_sanitize(str(exc))})")
                 requests_made += 1
-                consecutive_transient_failures += 1
-                if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
-                    # Gemini looks genuinely down, not just one flaky photo --
-                    # stop burning the rest of this run's budget/time on calls
-                    # that are very unlikely to succeed; remaining photos are
-                    # left pending for the next scheduled run instead.
-                    print(
-                        f"  {consecutive_transient_failures} consecutive Gemini failures -- "
-                        "treating as an outage and stopping new requests for this run.",
-                        flush=True,
-                    )
-                    stop_calls = True
+                if _is_outage_signal(exc):
+                    consecutive_transient_failures += 1
+                    if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
+                        # Gemini looks genuinely down, not just one flaky photo --
+                        # stop burning the rest of this run's budget/time on calls
+                        # that are very unlikely to succeed; remaining photos are
+                        # left pending for the next scheduled run instead.
+                        print(
+                            f"  {consecutive_transient_failures} consecutive Gemini outage-like "
+                            "failures -- treating as an outage and stopping new requests for this run.",
+                            flush=True,
+                        )
+                        stop_calls = True
+                else:
+                    # A permanent/unrelated failure (bad image URL, non-retryable
+                    # 4xx) doesn't indicate Gemini itself is unhealthy -- don't
+                    # let it count toward the outage breaker.
+                    consecutive_transient_failures = 0
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
                 continue
 
@@ -337,4 +364,4 @@ def describe_images(
 
         item["photo_descriptions"] = descriptions
 
-    return requests_made, stop_calls
+    return requests_made, stop_calls, consecutive_transient_failures

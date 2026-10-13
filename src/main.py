@@ -36,10 +36,16 @@ def main() -> int:
     budget = config.MAX_VISION_REQUESTS_PER_RUN
     # Once True (a 429 with no retry-after, or a sustained Gemini outage --
     # see vision.MAX_CONSECUTIVE_TRANSIENT_FAILURES), no further batch below
-    # should attempt new Gemini calls either. describe_images() returns this
-    # back to us each time so it carries across every thread's root-photo
-    # and reply batches, not just the one batch it was first detected in.
+    # should attempt new Gemini calls either. consecutive_failures is the
+    # running outage-signal failure streak (see vision._is_outage_signal)
+    # across batches -- main.py's root-photo batches are usually just one
+    # photo each, so the streak must be threaded across calls or the
+    # circuit breaker would almost never see enough failures in a row to
+    # trip. describe_images() returns both back to us each time so they
+    # carry across every thread's root-photo and reply batches, not just
+    # the one batch either was first detected in.
     stop_calls = False
+    consecutive_failures = 0
 
     def persist_progress():
         # Flush to disk after every single new description, so a slow or
@@ -48,8 +54,8 @@ def main() -> int:
 
     for i, thread in enumerate(threads, start=1):
         # Root post photo (vision.describe_images expects a list of media items)
-        made, stop_calls = vision.describe_images(
-            [thread], cache, budget - requests_made, persist_progress, stop_calls
+        made, stop_calls, consecutive_failures = vision.describe_images(
+            [thread], cache, budget - requests_made, persist_progress, stop_calls, consecutive_failures
         )
         requests_made += made
         # Walk the full nested reply tree (not just top-level replies) so
@@ -74,8 +80,8 @@ def main() -> int:
             key=_reply_sort_key,
             reverse=True,
         )
-        made, stop_calls = vision.describe_images(
-            all_replies, cache, budget - requests_made, persist_progress, stop_calls
+        made, stop_calls, consecutive_failures = vision.describe_images(
+            all_replies, cache, budget - requests_made, persist_progress, stop_calls, consecutive_failures
         )
         requests_made += made
         print(
@@ -91,14 +97,14 @@ def main() -> int:
                 flush=True,
             )
             break
-        if stop_calls:
-            print(
-                "Stopping new Gemini requests for this run (quota hit or a "
-                "sustained outage); remaining threads' photos are left pending "
-                "and will be retried on the next scheduled run.",
-                flush=True,
-            )
-            break
+        # Deliberately do NOT break when stop_calls is True: describe_images()
+        # must still be called for every remaining thread so photo_descriptions
+        # gets set (even if only to pending placeholders) -- otherwise
+        # topic_graph.py would see a *missing* key for unvisited threads (which
+        # it treats as "no photos at all", not "pending"), silently dropping
+        # their photos and misfiling photo replies into needs-like.md. With
+        # stop_calls already True, each remaining describe_images() call is a
+        # cheap no-network walk (see vision.py), so looping on is fine.
 
     save_cache(cache)
     print(f"Made {requests_made} new vision request(s) this run.", flush=True)
