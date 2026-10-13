@@ -258,6 +258,15 @@ between PST and PDT). Instead:
   skip), they just don't do any work or consume Gemini vision quota.
 - Manual **Run workflow** dispatches always proceed regardless of time —
   the window check only applies to the scheduled trigger.
+- A "Check for an already-running pipeline" step (right after checkout)
+  calls `gh run list --status=in_progress` and skips the rest of the job
+  outright if another run of this workflow is already live. The
+  `concurrency:` block below already *serializes* runs (a new one queues
+  behind an in-progress one rather than running concurrently), but a
+  queued run still spins up a full runner and sits there waiting --
+  wasted minutes, and a growing backlog if a slow run (e.g. working
+  through a 429 retry backlog) is still going when the next hourly
+  trigger fires. Skipping outright avoids that pileup.
 
 Notes on how it differs from the Task Scheduler setup:
 - `cache/*.json` (described-photo cache + the auto-refreshed Threads token)
