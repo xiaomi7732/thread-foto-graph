@@ -1,7 +1,7 @@
 # Thread Foto Graph
 
 Builds a daily **topic graph** of your Threads (Meta) posts and replies from
-the last 2 days, describing every photo in text (via Gemini Flash, free tier)
+the last `LOOKBACK_DAYS` days (4 by default), describing every photo in text (via Gemini Flash, free tier)
 so **AI can read the compact text tree (`data/topics.md`) instead of
 re-pulling raw images into its context on every response** — this is what was
 burning AI's token budget.
