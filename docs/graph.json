@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18135512893646626",
-      "label": "unavailable, com, description, generativelanguage",
+      "label": "pattern, shot, building, light",
       "group": 0,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
@@ -10,8 +10,94 @@
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 52,
+      "reply_count": 63,
       "replies": [
+        {
+          "username": "photog84",
+          "text": "Here\u2019s mine. iPhone 14 Pro Max. Pink Abstract Pattern",
+          "permalink": "https://www.threads.com/@photog84/post/DecdX5oF1jq",
+          "photos": [
+            "A close-up shot of a vibrant, hot pink circular art installation made of woven wooden branches radiating outward. The intricate, textured pattern creates a striking focal point with a pop of vivid color."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "photog84",
+          "text": "Love the color and selective focus!! Cool!!\ud83d\udcf7",
+          "permalink": "https://www.threads.com/@photog84/post/DeccL6Il6i8",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "replies": []
+        },
+        {
+          "username": "thatturtle",
+          "text": "",
+          "permalink": "https://www.threads.com/@thatturtle/post/DecZy2WlVk6",
+          "photos": [
+            "An overhead view of light gray cobblestone ground with a grid-like metal drainage cover on the right side."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "mapletreephotography_wpm",
+          "text": "",
+          "permalink": "https://www.threads.com/@mapletreephotography_wpm/post/DecZYnalqVe",
+          "photos": [
+            "A perspective shot of a long, narrow outdoor corridor bordered by a red brick wall on one side and a row of heavy wooden pillars on the other. The overhead structure features a line of hanging industrial-style pendant lamps that lead the eye down the sunlit, paved walkway toward a distant building entrance."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "a_lone_crow_",
+          "text": "",
+          "permalink": "https://www.threads.com/@a_lone_crow_/post/DecZU3ECPvP",
+          "photos": [
+            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "sandgerine",
+          "text": "",
+          "permalink": "https://www.threads.com/@sandgerine/post/DecZOxmjfsw",
+          "photos": [
+            "A striking black-and-white, low-angle shot captures a metal fire escape zig-zagging up the side of a weathered brick building, illuminated by bright overhead lights on each level."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "isadoralovesscarves",
+          "text": "",
+          "permalink": "https://www.threads.com/@isadoralovesscarves/post/DecZI3wihVp",
+          "photos": [
+            "A modern, geometric chandelier with woven mesh shades hangs indoors, illuminating a space that offers a scenic ocean view through a nearby window."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "bedford__lisa",
+          "text": "",
+          "permalink": "https://www.threads.com/@bedford__lisa/post/DecZE3XGaiA",
+          "photos": [
+            "A close-up shot of a chain-link fence, weathered with rust spots, forms a diagonal pattern against an out-of-focus background. The metallic texture and repetitive diamond shapes create a stark industrial feel."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
         {
           "username": "remalysh",
           "text": "Spider Web",
@@ -28,7 +114,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@susanrutledge/post/DecWIyBDlSl",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A low-angle view captures the intricate white structural support beams and suspension cables of the Peace Bridge against a vibrant blue sky in Calgary, Alberta. A high-rise building with a grid-like window pattern stands on the right, providing an urban context to the scene."
           ],
           "needs_response": true,
           "action": "reply",
@@ -72,7 +158,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@dr0ma_/post/DecQML_iFN3",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A low-angle shot captures the grandeur of the multi-tiered, octagonal pagoda tower, featuring dark brick walls, white railings on each level, and ornate golden dragon statues perched at its corners. The structure stands against a vibrant blue sky filled with scattered, wispy clouds."
           ],
           "needs_response": true,
           "action": "reply",
@@ -208,7 +294,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@tallerthanyou2026/post/DecKM-9m9L0",
           "photos": [
-            "(description unavailable: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60))"
+            "A daytime view of an outdoor restaurant patio features striped shadows from a pergola stretching across the gray concrete ground and round pillars. Tables with black metal chairs fill the area, while a single person sits in the background near a building with glass doors and a white exterior."
           ],
           "needs_response": false,
           "action": null,
@@ -239,7 +325,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@bklynbjb/post/DecJ80gHJE6",
           "photos": [
-            "(description unavailable: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60))"
+            "A grand, light-filled atrium features a grid-patterned floor made of opaque glass squares, topped with a massive, ornate chandelier hanging from a towering, pitched glass ceiling. Arched entryways line the upper and lower levels, with blue circular ottomans scattered across the main floor and small figures dotting the expansive space."
           ],
           "needs_response": false,
           "action": null,
@@ -270,7 +356,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@bojiocatbiu/post/DecJefICKFF",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A low-angle, black-and-white shot highlights the repetitive grid pattern of heavy steel girders and rivets beneath an overpass. The dramatic geometry emphasizes the industrial scale and architectural strength of modern infrastructure."
           ],
           "needs_response": false,
           "action": null,
@@ -291,7 +377,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@azalea_dahlen/post/DecJdz_FoKd",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A view of a sunny landscape through the stripped, dark timbers of a ruined building, creating a stark contrast of light and shadow. The foreground is littered with debris and wooden panels, framing the expansive green fields under a bright blue sky."
           ],
           "needs_response": false,
           "action": null,
@@ -312,7 +398,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@paul.moorman91/post/DecJBslFhv2",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A low-angle, black-and-white shot captures the striking, geometric facade of a modern high-rise building with a pattern of square cutouts on its left side and stacked balconies on the right. Puffy, light clouds fill the sky in the background."
           ],
           "needs_response": false,
           "action": null,
@@ -333,7 +419,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@mazpaz46/post/DecIBiGiMPM",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A worm\u2019s-eye-view shot shows the Arndale building, a monolithic, brown, Brutalist high-rise with countless uniform windows, against a dramatic, moody sky of dark, rolling clouds. The lighting is slightly muted, enhancing the imposing, gritty texture of the concrete structure."
           ],
           "needs_response": false,
           "action": null,
@@ -364,7 +450,7 @@
           "text": "Pattern",
           "permalink": "https://www.threads.com/@heidi.undefined/post/DecGHHGipdb",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "This striking, high-contrast, black-and-white abstract image plays with stark shadows and geometric patterns, creating a visually compelling piece that looks like a digital art print."
           ],
           "needs_response": false,
           "action": null,
@@ -394,8 +480,8 @@
           "text": "Me encantar\u00eda colaborar contigo alg\u00fan d\u00eda. Tu estilo es incre\u00edble. Ser\u00eda un sue\u00f1o.",
           "permalink": "https://www.threads.com/@pnsuzan/post/DecDgsWAfBi",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)",
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A computer screen displays a doctored BBC News website featuring a prominent photo of YouTuber MrBeast in front of a \"Beast Games\" logo. Below the image, a misleading headline announces a new challenge offering a cash prize of 2850\u20ac through an external website, \"PREDY.NET.\"",
+            "Four friends enjoy swimming in a calm river flowing through a lush valley beneath towering granite cliffs. The sunlit scene highlights the breathtaking natural beauty of Yosemite, perfect for an outdoor adventure post."
           ],
           "needs_response": true,
           "action": "reply",
@@ -446,7 +532,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@difishing/post/DecAq9cFs2Z",
           "photos": [
-            "(description unavailable: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60))"
+            "A vibrant sunset paints the sky in shades of bright orange, pink, and purple, with mackerel clouds overhead. The sun's golden glow reflects off the gentle water, while a dark, rocky jetty extends into the water from the right foreground towards a dark horizon of trees."
           ],
           "needs_response": false,
           "action": null,
@@ -467,7 +553,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@briansmithphotography67/post/DecAJKDE95F",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A low-angle, black-and-white shot showcases a large, dark building facade with an intricate pattern of wavy, organic shapes. The building's design creates a strong textural contrast against the smoother, lighter stone structure on the left."
           ],
           "needs_response": false,
           "action": null,
@@ -488,11 +574,30 @@
           "text": "Old bottling equipment.",
           "permalink": "https://www.threads.com/@citizenb/post/Deb_loYEdR5",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A massive, rust-colored industrial wall made of stacked metal components stretches into the distance, with the name \"Vogt\" visible on the clamps."
           ],
           "needs_response": false,
           "action": null,
           "replies": [
+            {
+              "username": "photog84",
+              "text": "Wow!! Amazing image!! Love the pattern and color!!\ud83d\udcf7",
+              "permalink": "https://www.threads.com/@photog84/post/DeccVHVFxkw",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "replies": [
+                {
+                  "username": "citizenb",
+                  "text": "Thank you!",
+                  "permalink": "https://www.threads.com/@citizenb/post/DecdpyRIErD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "replies": []
+                }
+              ]
+            },
             {
               "username": "saars.foto",
               "text": "A whole army of rusty bolts standing at attention. The Vogt ones look like they're in charge.",
@@ -500,7 +605,17 @@
               "photos": [],
               "needs_response": false,
               "action": null,
-              "replies": []
+              "replies": [
+                {
+                  "username": "citizenb",
+                  "text": "\ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@citizenb/post/DecdxMdIMFM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -540,7 +655,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@schemenme/post/Deb_Y44m-R7",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A close-up shot focuses on an off-white, textured mat featuring a repeating zigzag or herringbone pattern, possibly made of rubber or a similar durable material. The shallow depth of field creates a sense of depth, with the pattern softly blurring toward the top and right edges."
           ],
           "needs_response": false,
           "action": null,
