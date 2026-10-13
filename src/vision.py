@@ -151,11 +151,20 @@ class QuotaExceededError(RuntimeError):
 # otherwise-unrelated threads that both happened to have a failed photo.
 DESCRIPTION_UNAVAILABLE_PREFIX = "(description unavailable:"
 
-# Placeholder stored when Gemini responded successfully (HTTP 200) but its
-# response body didn't contain the expected candidate/text shape (e.g. the
-# prompt was blocked by a safety filter). Also identical boilerplate across
-# every photo that hits it, so it's excluded from the clustering corpus the
-# same way as DESCRIPTION_UNAVAILABLE_PREFIX above.
+# Kept only so topic_graph._is_real_description() can still exclude it from
+# the clustering corpus for any already-cached run that stored this literal
+# string before GeminiResponseShapeError existed (see below) -- no longer
+# produced by describe_image() itself. Historically this was returned as a
+# *successful* description whenever Gemini answered 200 but its body lacked
+# the expected candidate/text shape (e.g. a safety-filter block); that was a
+# bug (round 10B review finding): it got permanently cached as if real, and
+# silently reset all three circuit breakers every time it happened, letting
+# a systemic cause (e.g. an account-level safety-filter change) burn the
+# entire run's budget with no breaker ever tripping and poison the cache
+# forever with no retry. Fixed by raising GeminiResponseShapeError instead,
+# so this case now flows through the exact same non-cached,
+# budget-charged, non-retryable-breaker-counted path as any other
+# non-transient Gemini failure.
 NO_DESCRIPTION_TEXT = "(no description available)"
 
 
@@ -164,6 +173,19 @@ class ImageFetchError(requests.RequestException):
     URL, unrelated host down) -- distinct from a Gemini-call failure so it's
     never mistaken for a Gemini outage signal by describe_images()'s circuit
     breaker (see _is_outage_signal).
+    """
+
+
+class GeminiResponseShapeError(requests.RequestException):
+    """Raised when Gemini answers 200 but its response body doesn't contain
+    the expected candidate/text shape (e.g. the prompt was blocked by a
+    safety filter, or an API response-schema change). Deliberately a
+    requests.RequestException (not a plain success) so describe_images()
+    treats it like any other Gemini-side failure -- never cached, charged
+    against the run's request budget, and counted toward the
+    non-retryable-failure circuit breaker -- instead of silently resetting
+    every breaker and permanently caching the placeholder as if it were a
+    real description.
     """
 
 
@@ -213,9 +235,9 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     retries) before succeeding or giving up, and each one counts against
     Gemini's real per-minute/per-day quota even though only one photo was
     described. Any exception raised below (QuotaExceededError, HTTPError,
-    the original Timeout/ConnectionError) has `.gemini_request_attempts` set
-    on it too, so describe_images() can charge the run's budget accurately
-    even on failure.
+    the original Timeout/ConnectionError, GeminiResponseShapeError) has
+    `.gemini_request_attempts` set on it too, so describe_images() can
+    charge the run's budget accurately even on failure.
 
     `max_attempts`, if given, caps the total number of Gemini POSTs this
     call will make (across all of its own retry ladders combined) -- once
@@ -375,7 +397,12 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     try:
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except (KeyError, IndexError):
-        text = NO_DESCRIPTION_TEXT
+        exc = GeminiResponseShapeError(
+            "Gemini response missing expected candidate/text "
+            "(possibly blocked by a safety filter)"
+        )
+        exc.gemini_request_attempts = post_attempts
+        raise exc
     return text, post_attempts
 
 
