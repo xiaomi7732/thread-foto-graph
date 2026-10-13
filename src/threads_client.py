@@ -153,14 +153,7 @@ def photo_items(item: dict) -> list[dict]:
     """
     media_type = item.get("media_type")
     if media_type == "IMAGE":
-        media_url = item.get("media_url")
-        if not media_url:
-            # Mirror the CAROUSEL_ALBUM branch below -- a photo with no URL
-            # at all can never be fetched, so don't surface it as a photo to
-            # describe (which would otherwise raise an unactionable,
-            # permanently-recurring ImageFetchError on every run).
-            return []
-        return [{"id": item["id"], "media_url": media_url}]
+        return [{"id": item["id"], "media_url": item.get("media_url")}]
     if media_type == "CAROUSEL_ALBUM":
         children = (item.get("children") or {}).get("data", [])
         return [
