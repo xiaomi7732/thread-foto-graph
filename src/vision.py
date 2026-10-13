@@ -134,31 +134,38 @@ def _transient_retry_delay(retry_number: int) -> float:
 # never make it into a committed file (data/topics.md) via an error message.
 _QUERY_SECRET_RE = re.compile(r"([?&](?:key|access_token)=)[^&\s)]+", re.IGNORECASE)
 
-# Broader safety net: strip the entire query string off any http(s) URL in
-# a sanitized message, not just a named key/access_token param. requests'
-# own exception text (e.g. "404 Client Error: ... for url: <url>") embeds
-# the full request URL verbatim, and image-fetch failures carry the
-# source photo's CDN media_url -- which can carry its own signed/session
-# query params unrelated to our own credentials. Those end up committed
-# verbatim into data/topics.md via ImageFetchError's message (round 14A
-# review finding), so redact every URL's query string here too.
-_URL_QUERY_RE = re.compile(r"(https?://[^\s?)]+)\?[^\s)]*")
+# Broader safety net: strip the entire query string off any URL in a
+# sanitized message, not just a named key/access_token param. requests' own
+# exception text (e.g. "404 Client Error: ... for url: <url>") embeds the
+# full request URL verbatim, and urllib3's own connection-failure text
+# (ConnectionError/ConnectTimeout -- the most common image-host failure
+# mode) reports a scheme-less "... with url: <path>?<query>" instead.
+# Either way, a source photo's CDN media_url can carry its own signed/
+# session query params unrelated to our own credentials, and those end up
+# committed verbatim into data/topics.md via ImageFetchError's message
+# (round 14A/15A review findings) unless redacted here too.
+_URL_QUERY_RE = re.compile(r"((?:https?://|with url: )[^\s?]+)\?([^\s]*)")
 
-# urllib3's own connection-failure text (e.g. ConnectionError/ConnectTimeout,
-# the most common image-host failure mode) doesn't embed a full scheme-ful
-# URL at all -- it reports the host separately and only "... with url:
-# <path>?<query>" for the path+query, which _URL_QUERY_RE above can't match
-# (no "https?://") and isn't caught by _QUERY_SECRET_RE either (CDN query
-# param names aren't "key"/"access_token"). Round 15A review finding,
-# reproduced against a live urllib3 MaxRetryError message. Redact the query
-# string there too.
-_URL_PATH_QUERY_RE = re.compile(r"(with url: [^\s?]+)\?[^\s)]*")
+
+def _redact_url_query(match: re.Match) -> str:
+    # A trailing ')' on the captured query is ambiguous: it can be part of
+    # an enclosing wrapper (e.g. "(Caused by ... url: .../x?sig=abc)"), in
+    # which case it must be preserved *outside* the redaction, not swallowed
+    # into it (round 15B review finding -- a URL path containing a literal
+    # '(' / ')', e.g. "/foo(bar).jpg?sig=abc", must still be fully
+    # redacted). Treat it as a wrapper paren only if it isn't needed to
+    # balance a '(' that's actually part of the URL itself.
+    prefix, query = match.group(1), match.group(2)
+    trailing = ""
+    if query.endswith(")") and (prefix + query).count("(") < (prefix + query).count(")"):
+        trailing = ")"
+        query = query[:-1]
+    return f"{prefix}?REDACTED{trailing}"
 
 
 def _sanitize(message: str) -> str:
     message = _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
-    message = _URL_QUERY_RE.sub(r"\1?REDACTED", message)
-    return _URL_PATH_QUERY_RE.sub(r"\1?REDACTED", message)
+    return _URL_QUERY_RE.sub(_redact_url_query, message)
 
 
 class QuotaExceededError(RuntimeError):
@@ -721,6 +728,15 @@ def describe_images(
                         # 404/403) -- the host itself is fine, so don't let it
                         # count toward (or clear) the image-host outage streak.
                         pass
+                    # No Gemini POST was ever attempted for this photo (the
+                    # image fetch failed before describe_image() could even
+                    # build one), so there's no Gemini rate limit to respect
+                    # here -- skip the inter-call throttle entirely instead of
+                    # burning 5 unnecessary seconds per broken/stale photo
+                    # URL (round 15B review finding: a backlog of stale CDN
+                    # URLs could otherwise slow a run by many minutes with no
+                    # quota/rate-limit benefit).
+                    continue
                 else:
                     requests_made += getattr(exc, "gemini_request_attempts", 1)
                     consecutive_image_fetch_failures = 0
