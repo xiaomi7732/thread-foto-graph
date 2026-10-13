@@ -111,7 +111,18 @@ jobs:
         run: python -m src.main
 
       - name: Commit and push changes
+        id: commit
         if: steps.window.outputs.should_run == 'true'
+        # continue-on-error so a push failure here (e.g. main moved faster
+        # than our rebase retries) doesn't skip later steps' cleanup -- in
+        # particular, actions/cache's own save-on-exit hook, which only
+        # runs if the job isn't already failing. Without this, a failed
+        # push would silently throw away every vision description made
+        # this run (they're on local disk, but never get uploaded back to
+        # the GitHub-hosted cache), forcing a costly re-describe next run.
+        # The "Fail job if commit/push ultimately failed" step below still
+        # surfaces the failure after the cache has had a chance to save.
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -141,3 +152,12 @@ jobs:
           done
           echo "::error::Failed to push after multiple retries; main kept moving faster than we could rebase."
           exit 1
+
+      - name: Fail job if commit/push ultimately failed
+        # Runs after the cache-save Post hooks have already had a chance to
+        # fire (they're appended after all regular steps, in reverse
+        # order) -- this just makes sure a real push failure still shows
+        # up as a failed run in the Actions UI/notifications, instead of
+        # being silently swallowed by continue-on-error above.
+        if: always() && steps.commit.outcome == 'failure'
+        run: exit 1

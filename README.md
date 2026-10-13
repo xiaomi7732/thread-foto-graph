@@ -265,6 +265,23 @@ Notes on how it differs from the Task Scheduler setup:
   else's newer commit is just "last writer wins" with no real merge
   conflict expected. If you're pushing to `main` by hand, you can otherwise
   just avoid doing so while a run shows as in-progress in the Actions tab.
+- **A failed push does not mean the new vision descriptions are wasted --
+  but only because of a deliberate workaround.** `actions/cache`'s
+  cache-save only happens in a "Post" cleanup hook that runs after all
+  regular steps -- and GitHub Actions skips Post hooks for earlier steps
+  if a *later* regular step fails outright. Concretely, in
+  [run 38342491737](https://github.com/xiaomi7732/thread-foto-graph/actions/runs/38342491737/job/115116392611)
+  the pipeline made 186 new Gemini vision calls, then "Commit and push
+  changes" failed (the non-fast-forward race above) -- and because that
+  step failed without `continue-on-error`, the cache's save-on-exit hook
+  was skipped entirely (shows as "skipped" in the job's step list), so all
+  186 newly-described photos were lost at the end of the run and had to be
+  re-described (burning Gemini quota again) on the next one. The fix:
+  "Commit and push changes" now has `continue-on-error: true`, and a final
+  "Fail job if commit/push ultimately failed" step explicitly fails the
+  job afterwards if needed -- this lets every step's cleanup Post hook
+  (including the cache save) run normally, while still surfacing a genuine
+  push failure as a failed run in the Actions UI.
 - The job authenticates its `git push` using the automatically-provided
   `GITHUB_TOKEN` (via `permissions: contents: write`), not your personal
   git credentials.
