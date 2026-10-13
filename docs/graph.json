@@ -141,7 +141,7 @@
       "photos": [
         "A close-up vertical shot features a single sunflower set against a clear blue sky. The yellow sunflower is the focus of the photo, with several other sunflowers in the background, out of focus."
       ],
-      "reply_count": 309,
+      "reply_count": 310,
       "replies": [
         {
           "username": "ashers_nicole91",
@@ -1502,7 +1502,17 @@
               "photos": [],
               "needs_response": false,
               "action": null,
-              "replies": []
+              "replies": [
+                {
+                  "username": "robdavies77",
+                  "text": "Cheers, Saar. She likes the ocean. \ud83d\ude09",
+                  "permalink": "https://www.threads.com/@robdavies77/post/DebFHkCG8LB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1595,7 +1605,7 @@
           "text": "Sunrise on my stream in Tennessee",
           "permalink": "https://www.threads.com/@frandoll.fd/post/DeSfSypnHSi",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "Sunlight filters through a dense canopy of trees, casting a golden glow over a calm stream and its muddy banks in a lush forest."
           ],
           "needs_response": false,
           "action": null,
@@ -1648,8 +1658,8 @@
           "text": "",
           "permalink": "https://www.threads.com/@risashannon/post/DeSeWIPkp5v",
           "photos": [
-            "(photo pending description - will be described on a future run)",
-            "(photo pending description - will be described on a future run)"
+            "A cluster of vibrant yellow roses blooms beside a rustic, metal wagon wheel, leaning against a stone wall in a sunlit garden.",
+            "A patio set and shed are covered in fallen, vibrant yellow autumn leaves."
           ],
           "needs_response": false,
           "action": null,
@@ -1670,7 +1680,7 @@
           "text": "",
           "permalink": "https://www.threads.com/@yinchiro/post/DeSeJH5Et1a",
           "photos": [
-            "(photo pending description - will be described on a future run)"
+            "A picturesque sunset casts a golden hue over the ocean, framed by the silhouettes of two palm trees on the beach. In the distance, a small sailboat drifts peacefully on the water, completing the tropical paradise scene."
           ],
           "needs_response": false,
           "action": null,
@@ -1691,7 +1701,7 @@
           "text": "Golden hour from my paraglider: the whole sky glows \ud83e\ude82 Seeing the planet from above through a bird's eyes.",
           "permalink": "https://www.threads.com/@fly_paragliding_global/post/DeSeI3NDR71",
           "photos": [
-            "(photo pending description - will be described on a future run)",
+            "A paraglider runs across a mountain platform, preparing to launch into the golden hour sky. In the background, the sun casts a warm glow over the water, where other paragliders soar in the distance.",
             "(photo pending description - will be described on a future run)"
           ],
           "needs_response": false,
@@ -3412,7 +3422,7 @@
     },
     {
       "id": "18345000355279729",
-      "label": "shadow, sharing, love, mid",
+      "label": "shadow, sharing, thank, love",
       "group": 1,
       "snippet": "Shadow Thursday favorites \ud83c\udfc6 Four shadows that stopped me mi\u2026",
       "text": "Shadow Thursday favorites \ud83c\udfc6 Four shadows that stopped me mid-scroll. Full credit to the photographers - tagged below. 1. @petestretchphotos - B&W, one long shadow racing across wet sand toward the water 2. @nofussgus_ - a mid-leap dog with its long shadow chasing behind 3. @bojonvelvet2.0 - a red chair wearing window-blind stripes 4. @ahm0711 - sunset leaking through a dune fence, striping the sand Each of you gets a question in the thread below - answer if you like. We'd love the story.",

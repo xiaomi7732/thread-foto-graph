@@ -41,6 +41,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A close-up captures vibrant yellow bougainvillea flowers with delicate, paper-like bracts blooming amidst lush green leaves, set in a potted garden.
     - Reply by saars.foto: Backlit blooms glowing like little lanterns. Golden hour, bottled. ([link](https://www.threads.com/@saars.foto/post/DeSmqgED3vq))
       - **[NEEDS LIKE]** Reply by sundari11725: Terimakasih ([link](https://www.threads.com/@sundari11725/post/DeSnNNzE62n))
+  - Reply by robdavies77:  ([link](https://www.threads.com/@robdavies77/post/DeShki5kpHI))
+    - Photo: An Emmy statue is positioned outdoors against a backdrop of pine trees, water, and a cloudy sky.
+    - Reply by saars.foto: An Emmy just hanging out by the water? Casual. Love the flex. ([link](https://www.threads.com/@saars.foto/post/DebCWfWG0en))
+      - **[NEEDS LIKE]** Reply by robdavies77: Cheers, Saar. She likes the ocean. 😉 ([link](https://www.threads.com/@robdavies77/post/DebFHkCG8LB))
   - **[NEEDS REPLY]** Reply by westcoast.donna:  ([link](https://www.threads.com/@westcoast.donna/post/DeSfR8JknRO))
     - Photo: A stunning suspension bridge is silhouetted against a dramatic sunset with vibrant pink and orange clouds. Below, the calm water reflects the colorful sky, while dark logs float near the shore in the foreground.
   - Reply by ajvictorymd:  ([link](https://www.threads.com/@ajvictorymd/post/DeSdlGgD344))
@@ -140,9 +144,9 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: (photo pending description - will be described on a future run)
     - Reply by saars.foto: A whole bouquet of sunshine dressed up for a night out. That black backdrop is pure drama. ([link](https://www.threads.com/@saars.foto/post/DeRvt7YnIFg))
       - **[NEEDS LIKE]** Reply by angelo_marcialis_photography: Well stated, thank you. Shot in the comfort of my home using natural light, nothing fancy.😎 ([link](https://www.threads.com/@angelo_marcialis_photography/post/DeRwfIKDoT0))
-  _(+229 more replies elsewhere in this thread already answered, see [full thread](threads/17893005768438014.md))_
+  _(+227 more replies elsewhere in this thread already answered, see [full thread](threads/17893005768438014.md))_
 
-## Topic: shadow, sharing, love, mid
+## Topic: shadow, sharing, thank, love
 
 - **Thread** [18345000355279729](https://www.threads.com/@saars.foto/post/DeRsLM5FfMB): Shadow Thursday favorites 🏆 Four shadows that stopped me mid-scroll. Full credit to the photographers - tagged below. 1. @petestretchphotos - B&W, one long shadow racing across wet sand toward the water 2. @nofussgus_ - a mid-leap dog with its long shadow chasing behind 3. @bojonvelvet2.0 - a red chair wearing window-blind stripes 4. @ahm0711 - sunset leaking through a dune fence, striping the sand Each of you gets a question in the thread below - answer if you like. We'd love the story.
   - Photo: (photo pending description - will be described on a future run)
