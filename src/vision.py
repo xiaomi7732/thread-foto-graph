@@ -26,16 +26,19 @@ retried fresh on the next run -- and the failure is printed to the run log,
 so a run hitting a lot of these is visible there instead of only showing up
 later in the committed markdown.
 
-If Gemini is down for the whole run rather than just one flaky photo, every
-remaining photo would otherwise pay its own full retry ladder before giving
-up -- potentially hours. describe_images() guards against this two ways:
-(1) a quota hit (QuotaExceededError) or MAX_CONSECUTIVE_TRANSIENT_FAILURES
-in a row trips a "stop_calls" flag that is returned to the caller and fed
-back into every later describe_images() call this run (main.py threads it
-across each thread's root-photo and reply batches), so one bad batch stops
-the whole run from making further new requests, not just itself; and (2) the
-GitHub Actions workflow sets an explicit timeout-minutes as a backstop in
-case (1) is ever bypassed.
+If Gemini (or the image host the photos are fetched from) is down for the
+whole run rather than just one flaky photo, every remaining photo would
+otherwise pay its own full retry ladder before giving up -- potentially
+hours. describe_images() guards against this three ways: (1) a quota hit
+(QuotaExceededError), MAX_CONSECUTIVE_TRANSIENT_FAILURES Gemini-outage
+signals in a row, or MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES image-download
+failures in a row (tracked independently -- an ImageFetchError is never a
+Gemini signal) trips a "stop_calls" flag that is returned to the caller and
+fed back into every later describe_images() call this run (main.py threads
+it across each thread's root-photo and reply batches), so one bad batch
+stops the whole run from making further new requests, not just itself;
+(2) the GitHub Actions workflow sets an explicit timeout-minutes as a
+backstop in case (1) is ever bypassed.
 """
 from __future__ import annotations
 
@@ -95,6 +98,15 @@ TRANSIENT_RETRY_MAX_DELAY_SECONDS = 60.0
 # retries are already exhausted), stop attempting new calls for the rest
 # of the run -- same "leave as pending, retry next run" behavior as a 429.
 MAX_CONSECUTIVE_TRANSIENT_FAILURES = 5
+
+# A second, independent circuit breaker: ImageFetchError (the source photo
+# itself can't be downloaded -- expired/stale CDN URL, unrelated host down)
+# is deliberately excluded from the Gemini-outage breaker above (it isn't a
+# Gemini signal at all), but a broad image-host outage would otherwise be
+# just as unbounded -- every photo pays a 30s connect/read timeout with no
+# stopping condition. This threshold stops new per-photo attempts
+# altogether (same stop_calls flag) once the image host itself looks down.
+MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES = 5
 
 
 def _transient_retry_delay(retry_number: int) -> float:
@@ -198,13 +210,14 @@ def describe_image(image_url: str) -> str:
     while True:
         try:
             resp = requests.post(url, headers=headers, json=body, timeout=60)
-        except requests.Timeout:
+        except (requests.Timeout, requests.ConnectionError) as exc:
             retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES:
                 raise
             delay = _transient_retry_delay(retries_transient)
+            kind = "timed out" if isinstance(exc, requests.Timeout) else "connection failed"
             print(
-                f"  Gemini request timed out -- retrying in {delay:.0f}s "
+                f"  Gemini request {kind} -- retrying in {delay:.0f}s "
                 f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                 flush=True,
             )
@@ -280,7 +293,8 @@ def describe_images(
     on_progress=None,
     stop_calls: bool = False,
     consecutive_transient_failures: int = 0,
-) -> tuple[int, bool, int]:
+    consecutive_image_fetch_failures: int = 0,
+) -> tuple[int, bool, int, int]:
     """Describes every uncached photo in each item in place, storing a
     'photo_descriptions' list on the item (one entry per photo -- a
     CAROUSEL_ALBUM can hold several, not just its cover image; see
@@ -289,19 +303,20 @@ def describe_images(
     renders as a "pending" placeholder rather than silently dropping it.
 
     `stop_calls`, if already True, means a previous call (this run) already
-    decided to stop issuing new Gemini requests (quota hit or a sustained
-    outage) -- every item is still walked so photo_descriptions is set
-    correctly, but no new network calls are attempted. `consecutive_transient_
-    failures` is the running count of consecutive outage-signal failures
-    (see _is_outage_signal) from prior calls this run, so the circuit
-    breaker can trip even when a single batch alone never reaches the
-    threshold (e.g. main.py's root-photo batches are usually just one
-    photo each). Both are returned as
-    (requests_made, stop_calls, consecutive_transient_failures) so the
-    caller can carry them forward across its own multiple describe_images()
-    calls in the same run (see main.py) -- without this, a 429/outage
-    detected on one batch wouldn't stop the very next batch from trying
-    fresh calls anyway.
+    decided to stop issuing new Gemini requests (quota hit, a sustained
+    Gemini outage, or a sustained image-host outage) -- every item is still
+    walked so photo_descriptions is set correctly, but no new network calls
+    are attempted. `consecutive_transient_failures` and
+    `consecutive_image_fetch_failures` are the running streaks (see
+    _is_outage_signal and MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES) from prior
+    calls this run, so either circuit breaker can trip even when a single
+    batch alone never reaches its threshold (e.g. main.py's root-photo
+    batches are usually just one photo each). All four are returned as
+    (requests_made, stop_calls, consecutive_transient_failures,
+    consecutive_image_fetch_failures) so the caller can carry them forward
+    across its own multiple describe_images() calls in the same run (see
+    main.py) -- without this, a 429/outage detected on one batch wouldn't
+    stop the very next batch from trying fresh calls anyway.
 
     Returns the number of new Gemini requests made. `on_progress`, if given,
     is called after every single new description so the caller can persist
@@ -353,14 +368,23 @@ def describe_images(
                 if isinstance(exc, ImageFetchError):
                     # No Gemini call was ever attempted for this photo -- don't
                     # charge it against this run's Gemini request budget, and
-                    # leave the outage streak untouched either way (a single
-                    # unrelated bad photo URL shouldn't erase a real streak of
-                    # Gemini failures bracketing it, the way a successful
-                    # describe or an affirmative non-transient Gemini response
-                    # legitimately would).
-                    pass
+                    # leave the Gemini outage streak untouched either way (a
+                    # single unrelated bad photo URL shouldn't erase a real
+                    # streak of Gemini failures bracketing it). Instead, track
+                    # it against its own independent breaker -- an image-host
+                    # outage is just as unbounded as a Gemini one otherwise.
+                    consecutive_image_fetch_failures += 1
+                    if consecutive_image_fetch_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
+                        print(
+                            f"  {consecutive_image_fetch_failures} consecutive photo-download "
+                            "failures -- treating as an image-host outage and stopping new "
+                            "requests for this run.",
+                            flush=True,
+                        )
+                        stop_calls = True
                 else:
                     requests_made += 1
+                    consecutive_image_fetch_failures = 0
                     if _is_outage_signal(exc):
                         consecutive_transient_failures += 1
                         if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
@@ -389,8 +413,9 @@ def describe_images(
                 on_progress()
             requests_made += 1
             consecutive_transient_failures = 0
+            consecutive_image_fetch_failures = 0
             time.sleep(MIN_SECONDS_BETWEEN_CALLS)
 
         item["photo_descriptions"] = descriptions
 
-    return requests_made, stop_calls, consecutive_transient_failures
+    return requests_made, stop_calls, consecutive_transient_failures, consecutive_image_fetch_failures
