@@ -4,9 +4,10 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (13)
+## Needs Like (14)
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
+- shiawasemainichi5: That's how it may seem to tourists. But everything changes when you live in Japan. ([link](https://www.threads.com/@shiawasemainichi5/post/DecyUUmE1Lx))
 - eyeofgotham: Thank you! ([link](https://www.threads.com/@eyeofgotham/post/DecqIdJkQb5))
 - joseph_dtyyz: And the view of the lake too. ([link](https://www.threads.com/@joseph_dtyyz/post/DecSplyEWmd))
 - paradigm2046onfilm: Don’t forget zero health benefits too 😉 (they were doused in a decadent sweet caramel melted floss) ([link](https://www.threads.com/@paradigm2046onfilm/post/DecS_AAo3Ou))
