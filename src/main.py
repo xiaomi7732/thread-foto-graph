@@ -76,7 +76,7 @@ def main() -> int:
     graph = topic_graph.build_topic_graph(threads)
     print(
         f"Wrote data/needs-reply.md, data/needs-like.md, data/actions.md, "
-        f"data/topics.md and docs/graph.json "
+        f"data/topics.md, data/history/ and docs/graph.json "
         f"({len(graph['nodes'])} nodes, {len(graph['edges'])} edges).",
         flush=True,
     )

@@ -41,6 +41,7 @@ from __future__ import annotations
 
 import json
 import re
+from datetime import datetime, timezone
 from pathlib import Path
 
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -57,6 +58,7 @@ NEEDS_REPLY_MD_PATH = ROOT_DIR / "data" / "needs-reply.md"
 NEEDS_LIKE_MD_PATH = ROOT_DIR / "data" / "needs-like.md"
 TOPICS_MD_PATH = ROOT_DIR / "data" / "topics.md"
 THREADS_DIR = ROOT_DIR / "data" / "threads"
+HISTORY_DIR = ROOT_DIR / "data" / "history"
 GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
 
 
@@ -447,6 +449,21 @@ def _render_archive_thread(thread: dict) -> str:
     return "\n".join(lines) + "\n"
 
 
+def _write_dated_history(needs_reply_md: str, needs_like_md: str) -> None:
+    """Writes a dated snapshot of each of today's needs-reply/needs-like
+    content to data/history/ (e.g. needs-reply-2026-01-15.md), in addition
+    to the live needs-reply.md/needs-like.md files. Overwritten every run
+    for the current UTC date -- since the pipeline runs hourly, each day's
+    file simply reflects its latest state until the date rolls over, at
+    which point it becomes a frozen historical record of that day. This is
+    purely additive: it never changes what the live files contain or how
+    Muse should read them day-to-day."""
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    today = datetime.now(timezone.utc).date().isoformat()
+    (HISTORY_DIR / f"needs-reply-{today}.md").write_text(needs_reply_md, encoding="utf-8")
+    (HISTORY_DIR / f"needs-like-{today}.md").write_text(needs_like_md, encoding="utf-8")
+
+
 def build_topic_graph(threads: list[dict]) -> dict:
     """Returns the full graph structure and writes:
       - data/needs-reply.md     flat list of photo replies needing a reply
@@ -454,6 +471,10 @@ def build_topic_graph(threads: list[dict]) -> dict:
       - data/actions.md         combined convenience copy of the above two
       - data/topics.md          compact, actionable-first structural view
       - data/threads/<id>.md    full per-thread archive
+      - data/history/needs-reply-<date>.md / needs-like-<date>.md
+                                 dated daily snapshots of the two above,
+                                 for historical drill-down (what did the
+                                 action list look like on a given day)
       - docs/graph.json         full visual-graph archive
     """
     TOPICS_MD_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -471,6 +492,7 @@ def build_topic_graph(threads: list[dict]) -> dict:
         TOPICS_MD_PATH.write_text(
             "# Thread Topics\n\n_No threads found in the lookback window._\n", encoding="utf-8"
         )
+        _write_dated_history(empty_reply_md, empty_like_md)
         GRAPH_JSON_PATH.write_text(json.dumps({"nodes": [], "edges": []}, indent=2))
         return {"nodes": [], "edges": []}
 
@@ -479,6 +501,7 @@ def build_topic_graph(threads: list[dict]) -> dict:
     needs_like_md = _render_needs_like_md(like_items)
     NEEDS_REPLY_MD_PATH.write_text(needs_reply_md, encoding="utf-8")
     NEEDS_LIKE_MD_PATH.write_text(needs_like_md, encoding="utf-8")
+    _write_dated_history(needs_reply_md, needs_like_md)
     ACTIONS_MD_PATH.write_text(_render_action_list(needs_reply_md, needs_like_md), encoding="utf-8")
 
     docs = [_thread_document(t) for t in threads]

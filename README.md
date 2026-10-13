@@ -44,6 +44,13 @@ Outputs (smallest/most-frequent read first):
   unpruned** conversation (every reply, answered or not). Not loaded by
   default; fetch a specific one only if deeper context on that thread is
   needed.
+- `data/history/needs-reply-<yyyy-mm-dd>.md` /
+  `data/history/needs-like-<yyyy-mm-dd>.md` — a dated snapshot of each
+  day's `needs-reply.md`/`needs-like.md`, written every run and overwritten
+  through the day until the UTC date rolls over, at which point that day's
+  file becomes a frozen historical record. Not for day-to-day reads (point
+  at the live files for that) — useful for "what was still outstanding on
+  a given day" drill-down.
 - `docs/graph.json` + `docs/index.html` — visual topic graph (graph view +
   click-through detail panel with full text, replies, photo descriptions,
   permalinks, and `needs_response`/`action` flags per reply), published via
@@ -184,8 +191,8 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    .venv\Scripts\python.exe -u -m src.main
    ```
    Check `data/needs-reply.md`, `data/needs-like.md`, `data/actions.md`,
-   `data/topics.md`, `data/threads/`, and `docs/graph.json` were
-   created/updated.
+   `data/topics.md`, `data/threads/`, `data/history/`, and `docs/graph.json`
+   were created/updated.
 
 ## Obtaining a long-lived Threads token
 
