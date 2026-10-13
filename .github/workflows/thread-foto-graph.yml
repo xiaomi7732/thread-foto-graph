@@ -118,7 +118,26 @@ jobs:
           git add data/actions.md data/topics.md data/threads docs/graph.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Update thread topic graph ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git push
+            exit 0
           fi
+          git commit -m "Update thread topic graph ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+          # main can move between this job's checkout and this push (e.g. a
+          # concurrent manual run finishing first, or someone pushing
+          # directly from a local clone -- the `concurrency:` block above
+          # only serializes *other runs of this workflow*, it doesn't
+          # protect against pushes from outside Actions). Retry with a
+          # rebase instead of failing outright on a rejected push: these
+          # commits only ever touch generated data files, so replaying our
+          # commit on top of the latest main is safe.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/5) -- main moved; rebasing onto the latest and retrying..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((attempt * 5))
+          done
+          echo "::error::Failed to push after multiple retries; main kept moving faster than we could rebase."
+          exit 1

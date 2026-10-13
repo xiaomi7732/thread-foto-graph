@@ -248,6 +248,23 @@ Notes on how it differs from the Task Scheduler setup:
   the `THREADS_ACCESS_TOKEN` secret as freshly issued instead of actually
   refreshing it, so you'd need to manually replace that secret before it
   expires, roughly every 60 days).
+- **Concurrent check-ins:** the `concurrency:` block only serializes other
+  runs *of this workflow* -- it does nothing to stop a push from outside
+  Actions (e.g. a local `git push` to `main`, or another workflow) while a
+  run is mid-flight. A long run (uncapped `lookback_days`/`max_root_threads`
+  describing many new photos can take 20+ minutes) checks out `main` once
+  at the start, so if `main` moves before that run's own push at the end,
+  git rejects it as a non-fast-forward (`! [rejected] main -> main (fetch
+  first)`) -- this happened for real in
+  [run 38326570220](https://github.com/xiaomi7732/thread-foto-graph/actions/runs/38326570220/job/115066509428),
+  where a local push landed while the job was busy. The "Commit and push
+  changes" step now retries: on a rejected push it `git fetch`es and
+  `git rebase`s onto the latest `main`, then pushes again (up to 5
+  attempts with a short backoff). This is safe because these commits only
+  ever touch generated data files, so replaying ours on top of someone
+  else's newer commit is just "last writer wins" with no real merge
+  conflict expected. If you're pushing to `main` by hand, you can otherwise
+  just avoid doing so while a run shows as in-progress in the Actions tab.
 - The job authenticates its `git push` using the automatically-provided
   `GITHUB_TOKEN` (via `permissions: contents: write`), not your personal
   git credentials.
