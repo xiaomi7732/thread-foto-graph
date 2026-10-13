@@ -6,10 +6,13 @@ result is cached by media_id so a given photo is only ever described once
 even on days with 1,000+ reply photos.
 
 On a 429 (rate limit), describe_image() retries in-process a couple of times
-first -- honoring Gemini's Retry-After header or retryDelay body field when
-present, falling back to a fixed delay otherwise -- before giving up and
-raising QuotaExceededError, which describe_images() then leaves as a
-"pending" placeholder for the next scheduled run.
+first -- but only when Gemini actually tells us how long to wait (its
+Retry-After header or retryDelay body field). If neither is present, there's
+nothing real to honor, so it fails fast (raises QuotaExceededError
+immediately) rather than guessing a delay -- blind guessing was tried and
+just burned run time without reliably succeeding. Either way,
+describe_images() then leaves the photo as a "pending" placeholder for the
+next scheduled run.
 """
 from __future__ import annotations
 
@@ -37,12 +40,12 @@ PROMPT = (
 MIN_SECONDS_BETWEEN_CALLS = 5
 
 # How many times to retry a single 429 before giving up on it for this run.
-# Kept small -- if Gemini is still rate-limiting after a couple of waits,
-# the per-minute window probably isn't the issue (more likely the daily
-# quota), and further retries just burn run time for no benefit.
+# Only applies when Gemini actually gives us a Retry-After/retryDelay to
+# honor -- see describe_image(). Kept small -- if Gemini is still
+# rate-limiting after a couple of honored waits, the per-minute window
+# probably isn't the issue (more likely the daily quota), and further
+# retries just burn run time for no benefit.
 MAX_429_RETRIES = 2
-# Used when Gemini's response gives no usable Retry-After/retryDelay.
-DEFAULT_RETRY_DELAY_SECONDS = 20.0
 # Cap any single wait so one unusually large retryDelay can't stall a run.
 MAX_RETRY_DELAY_SECONDS = 60.0
 
@@ -124,11 +127,15 @@ def describe_image(image_url: str) -> str:
         resp = requests.post(url, headers=headers, json=body, timeout=60)
         if resp.status_code != 429:
             break
-        if attempt >= MAX_429_RETRIES:
-            raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
         delay = _parse_retry_delay(resp)
         if delay is None:
-            delay = DEFAULT_RETRY_DELAY_SECONDS
+            # Gemini gave us no Retry-After/retryDelay to honor -- we'd just
+            # be guessing how long to wait, and a guessed delay has already
+            # proven to burn several minutes of run time for no benefit (see
+            # README). Fail fast instead of retrying blind.
+            raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
+        if attempt >= MAX_429_RETRIES:
+            raise QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
         delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
         print(
             f"  Gemini rate limit (429) -- retrying in {delay:.0f}s "

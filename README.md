@@ -68,10 +68,12 @@ Outputs (smallest/most-frequent read first):
    later runs, and the cache is flushed to disk after *every* new
    description — an interrupted run never loses progress.
    - On a 429 (rate limit), a single photo is retried in-process up to twice
-     before being deferred -- honoring Gemini's `Retry-After` header or
-     `retryDelay` body field when present (neither is guaranteed; Gemini's
-     own docs don't promise either), falling back to a fixed ~20s wait
-     otherwise. If it's still rate-limited after that, or the daily quota
+     — but only when Gemini actually tells us how long to wait, via its
+     `Retry-After` header or `retryDelay` body field. If neither is present,
+     there's nothing real to honor, so it fails fast immediately instead of
+     guessing a delay (an earlier version fell back to a fixed ~20s wait,
+     but a blind guess just burns run time without reliably succeeding).
+     If it's still rate-limited after an honored wait, or the daily quota
      is hit, remaining photos are left un-described (not cached as a
      failure) and are clearly marked in the output as `(photo pending
      description - will be described on a future run)` — never silently
