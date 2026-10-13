@@ -34,6 +34,12 @@ def main() -> int:
     cache = load_cache()
     requests_made = 0
     budget = config.MAX_VISION_REQUESTS_PER_RUN
+    # Once True (a 429 with no retry-after, or a sustained Gemini outage --
+    # see vision.MAX_CONSECUTIVE_TRANSIENT_FAILURES), no further batch below
+    # should attempt new Gemini calls either. describe_images() returns this
+    # back to us each time so it carries across every thread's root-photo
+    # and reply batches, not just the one batch it was first detected in.
+    stop_calls = False
 
     def persist_progress():
         # Flush to disk after every single new description, so a slow or
@@ -42,7 +48,9 @@ def main() -> int:
 
     for i, thread in enumerate(threads, start=1):
         # Root post photo (vision.describe_images expects a list of media items)
-        made = vision.describe_images([thread], cache, budget - requests_made, persist_progress)
+        made, stop_calls = vision.describe_images(
+            [thread], cache, budget - requests_made, persist_progress, stop_calls
+        )
         requests_made += made
         # Walk the full nested reply tree (not just top-level replies) so
         # every reply-to-a-reply photo gets described too. Newest-first, so
@@ -66,7 +74,9 @@ def main() -> int:
             key=_reply_sort_key,
             reverse=True,
         )
-        made = vision.describe_images(all_replies, cache, budget - requests_made, persist_progress)
+        made, stop_calls = vision.describe_images(
+            all_replies, cache, budget - requests_made, persist_progress, stop_calls
+        )
         requests_made += made
         print(
             f"[{i}/{len(threads)}] thread {thread['id']}: "
@@ -78,6 +88,14 @@ def main() -> int:
             print(
                 "Vision request budget exhausted for this run; remaining photos "
                 "will be described on the next scheduled run.",
+                flush=True,
+            )
+            break
+        if stop_calls:
+            print(
+                "Stopping new Gemini requests for this run (quota hit or a "
+                "sustained outage); remaining threads' photos are left pending "
+                "and will be retried on the next scheduled run.",
                 flush=True,
             )
             break

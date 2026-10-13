@@ -33,6 +33,12 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # Defense in depth alongside vision.py's own circuit breaker
+    # (MAX_CONSECUTIVE_TRANSIENT_FAILURES): a normal run finishes in well
+    # under an hour, so cap it far below GitHub's own 360-minute default to
+    # bound worst-case cost/queue-blocking if Gemini is ever down for the
+    # whole run.
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v4

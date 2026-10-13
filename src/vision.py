@@ -25,6 +25,17 @@ fails after exhausting retries, describe_images() records
 retried fresh on the next run -- and the failure is printed to the run log,
 so a run hitting a lot of these is visible there instead of only showing up
 later in the committed markdown.
+
+If Gemini is down for the whole run rather than just one flaky photo, every
+remaining photo would otherwise pay its own full retry ladder before giving
+up -- potentially hours. describe_images() guards against this two ways:
+(1) a quota hit (QuotaExceededError) or MAX_CONSECUTIVE_TRANSIENT_FAILURES
+in a row trips a "stop_calls" flag that is returned to the caller and fed
+back into every later describe_images() call this run (main.py threads it
+across each thread's root-photo and reply batches), so one bad batch stops
+the whole run from making further new requests, not just itself; and (2) the
+GitHub Actions workflow sets an explicit timeout-minutes as a backstop in
+case (1) is ever bypassed.
 """
 from __future__ import annotations
 
@@ -74,6 +85,16 @@ TRANSIENT_STATUS_CODES = {500, 502, 503, 504}
 MAX_TRANSIENT_RETRIES = 3
 TRANSIENT_RETRY_BASE_DELAY_SECONDS = 10.0
 TRANSIENT_RETRY_MAX_DELAY_SECONDS = 60.0
+
+# Circuit breaker across an entire describe_images() run: if Gemini is
+# genuinely down (not just one flaky photo), every photo would otherwise
+# exhaust its own full retry ladder before giving up -- worst case roughly
+# 4 * 60s timeouts + 10s + 20s + 40s per photo, which multiplied across a
+# large backlog could keep a run alive for hours without making any
+# progress. After this many consecutive failures (after each photo's own
+# retries are already exhausted), stop attempting new calls for the rest
+# of the run -- same "leave as pending, retry next run" behavior as a 429.
+MAX_CONSECUTIVE_TRANSIENT_FAILURES = 5
 
 
 def _transient_retry_delay(retry_number: int) -> float:
@@ -219,13 +240,28 @@ def describe_image(image_url: str) -> str:
         return "(no description available)"
 
 
-def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_progress=None) -> int:
+def describe_images(
+    media_items: list[dict],
+    cache: dict,
+    max_requests: int,
+    on_progress=None,
+    stop_calls: bool = False,
+) -> tuple[int, bool]:
     """Describes every uncached photo in each item in place, storing a
     'photo_descriptions' list on the item (one entry per photo -- a
     CAROUSEL_ALBUM can hold several, not just its cover image; see
     threads_client.photo_items). A list entry is None if that specific photo
-    wasn't described this run (budget/quota), which topic_graph.py renders as
-    a "pending" placeholder rather than silently dropping it.
+    wasn't described this run (budget/quota/outage), which topic_graph.py
+    renders as a "pending" placeholder rather than silently dropping it.
+
+    `stop_calls`, if already True, means a previous call (this run) already
+    decided to stop issuing new Gemini requests (quota hit or a sustained
+    outage) -- every item is still walked so photo_descriptions is set
+    correctly, but no new network calls are attempted. Returns
+    (requests_made, stop_calls) so the caller can carry that decision
+    forward across its own multiple describe_images() calls in the same run
+    (see main.py) -- without this, a 429/outage detected on one batch
+    wouldn't stop the very next batch from trying fresh calls anyway.
 
     Returns the number of new Gemini requests made. `on_progress`, if given,
     is called after every single new description so the caller can persist
@@ -233,7 +269,7 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
     already-described photos.
     """
     requests_made = 0
-    quota_hit = False
+    consecutive_transient_failures = 0
     for item in media_items:
         photos = threads_client.photo_items(item)
         if not photos:
@@ -245,7 +281,7 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
             if media_id in cache:
                 descriptions.append(cache[media_id])
                 continue
-            if quota_hit or requests_made >= max_requests:
+            if stop_calls or requests_made >= max_requests:
                 # Leave as None (pending) -- topic_graph.py distinguishes
                 # this from "no photo" via the list entry existing at all.
                 descriptions.append(None)
@@ -261,9 +297,9 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
                 # which made "why is this photo still pending?" undiagnosable
                 # from run logs alone -- print once per describe_images() call
                 # so it's visible exactly when/why it happened.
-                if not quota_hit:
+                if not stop_calls:
                     print(f"  {exc} -- remaining photos in this batch left pending.", flush=True)
-                quota_hit = True
+                stop_calls = True
                 descriptions.append(None)
                 continue
             except requests.RequestException as exc:
@@ -276,6 +312,18 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
                 print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
                 descriptions.append(f"(description unavailable: {_sanitize(str(exc))})")
                 requests_made += 1
+                consecutive_transient_failures += 1
+                if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
+                    # Gemini looks genuinely down, not just one flaky photo --
+                    # stop burning the rest of this run's budget/time on calls
+                    # that are very unlikely to succeed; remaining photos are
+                    # left pending for the next scheduled run instead.
+                    print(
+                        f"  {consecutive_transient_failures} consecutive Gemini failures -- "
+                        "treating as an outage and stopping new requests for this run.",
+                        flush=True,
+                    )
+                    stop_calls = True
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
                 continue
 
@@ -284,8 +332,9 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
             if on_progress is not None:
                 on_progress()
             requests_made += 1
+            consecutive_transient_failures = 0
             time.sleep(MIN_SECONDS_BETWEEN_CALLS)
 
         item["photo_descriptions"] = descriptions
 
-    return requests_made
+    return requests_made, stop_calls
