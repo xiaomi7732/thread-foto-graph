@@ -76,7 +76,12 @@ jobs:
       # hosted runner there's no persistent disk between runs, so we use
       # actions/cache instead: restore-keys always finds the most recent
       # entry, and since `key` includes the run id it never hits on save,
-      # so a fresh cache snapshot is saved every run.
+      # so a fresh cache snapshot is saved every run. Entries expire after
+      # 7 days unused or under LRU pressure past the repo's 10GB cache cap
+      # (not a concern at our size/frequency); see README's "Security note"
+      # for why this is acceptable despite caching a live access token
+      # (short version: no pull_request trigger exists on this workflow,
+      # which is the actual exposure vector for repo caches).
       - name: Restore local cache (vision descriptions + refreshed token)
         if: steps.window.outputs.should_run == 'true'
         uses: actions/cache@v4

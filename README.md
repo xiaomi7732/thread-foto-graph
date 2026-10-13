@@ -221,14 +221,33 @@ between PST and PDT). Instead:
 Notes on how it differs from the Task Scheduler setup:
 - `cache/*.json` (described-photo cache + the auto-refreshed Threads token)
   is gitignored and local-only by design, so on a hosted runner — which has
-  no persistent disk between runs — it's restored/saved via `actions/cache`
-  instead (keyed so the latest snapshot always carries forward to the next
-  run). This cache can in principle be evicted by GitHub (e.g. if the
-  workflow doesn't run for an extended period); if that happens, the run
-  falls back to bootstrapping straight from the `THREADS_ACCESS_TOKEN`
-  secret and re-describing any photos described since the last surviving
-  cache snapshot (Gemini free-tier calls, not a correctness problem — see
-  `src/vision.py`'s caching).
+  no persistent disk between runs — it's restored/saved via
+  [`actions/cache`](https://docs.github.com/en/actions/reference/workflows-and-actions/dependency-caching)
+  instead: it's a key-value blob store scoped to this repo (separate from
+  git entirely), keyed so the latest snapshot always carries forward to the
+  next run (`key` includes the unique run ID so a save never no-ops;
+  `restore-keys` is a prefix match so the most recent entry is always
+  restored). GitHub evicts a cache entry if it goes **7 days unused**, or
+  under **least-recently-used** pressure once the repo's cache storage
+  exceeds **10 GB** (neither is a practical concern here — this workflow
+  runs hourly and the cached files are a couple KB). If an entry is ever
+  evicted anyway, the run falls back to bootstrapping straight from the
+  `THREADS_ACCESS_TOKEN` secret and re-describing any photos described
+  since the last surviving cache snapshot (Gemini free-tier calls, not a
+  correctness problem — see `src/vision.py`'s caching).
+- **Security note:** GitHub's cache storage isn't meant for secrets —
+  anyone who can trigger a `pull_request`-triggered workflow against this
+  repo could in principle read cache contents, including the auto-refreshed
+  Threads token in `cache/token_store.json`. This workflow only triggers on
+  `schedule`/`workflow_dispatch` (never `pull_request`), so that avenue
+  isn't currently exposed — but avoid adding a `pull_request` trigger to
+  this workflow (or any workflow that restores this cache key) without
+  reconsidering this. Excluding `token_store.json` from the cached path
+  would close the gap entirely, at the cost of breaking the "token renews
+  itself forever" design in `src/threads_auth.py` (every run would treat
+  the `THREADS_ACCESS_TOKEN` secret as freshly issued instead of actually
+  refreshing it, so you'd need to manually replace that secret before it
+  expires, roughly every 60 days).
 - The job authenticates its `git push` using the automatically-provided
   `GITHUB_TOKEN` (via `permissions: contents: write`), not your personal
   git credentials.
