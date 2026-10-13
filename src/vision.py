@@ -176,7 +176,7 @@ def _parse_retry_delay(resp: requests.Response) -> float | None:
     return None
 
 
-def describe_image(image_url: str) -> tuple[str, int]:
+def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str, int]:
     """Returns (description, gemini_request_attempts). The attempt count
     includes every actual POST sent to Gemini this call, not just 1 -- a
     single photo can cost several real Gemini requests (429/5xx/timeout
@@ -186,18 +186,31 @@ def describe_image(image_url: str) -> tuple[str, int]:
     the original Timeout/ConnectionError) has `.gemini_request_attempts` set
     on it too, so describe_images() can charge the run's budget accurately
     even on failure.
+
+    `max_attempts`, if given, caps the total number of Gemini POSTs this
+    call will make (across all of its own retry ladders combined) -- once
+    reached, any retry that would otherwise be attempted instead gives up
+    immediately (same as exhausting that ladder's own retry count). Without
+    this, a single photo could consume several requests past the caller's
+    remaining MAX_VISION_REQUESTS_PER_RUN budget, since describe_images()
+    only checks the budget *before* starting a photo, not mid-retry.
     """
     try:
         img_resp = requests.get(image_url, timeout=30)
         img_resp.raise_for_status()
+        # Reading .content can itself raise a streaming-related
+        # RequestException (e.g. ChunkedEncodingError on a truncated body)
+        # -- keep it inside this try block so it's wrapped as ImageFetchError
+        # too, same as every other image-host failure, instead of escaping
+        # bare and being misclassified downstream as a Gemini-side failure.
+        mime_type = img_resp.headers.get("Content-Type", "image/jpeg").split(";")[0]
+        b64_data = base64.b64encode(img_resp.content).decode("ascii")
     except requests.RequestException as exc:
         # Keep image-fetch failures (stale/expired CDN URL, unrelated host
         # down) distinct from Gemini-call failures -- they must never count
         # toward the Gemini-outage circuit breaker in describe_images()
         # (see ImageFetchError / _is_outage_signal below).
         raise ImageFetchError(str(exc)) from exc
-    mime_type = img_resp.headers.get("Content-Type", "image/jpeg").split(";")[0]
-    b64_data = base64.b64encode(img_resp.content).decode("ascii")
 
     body = {
         "contents": [
@@ -230,13 +243,20 @@ def describe_image(image_url: str) -> tuple[str, int]:
         requests.exceptions.ChunkedEncodingError,
         requests.exceptions.ContentDecodingError,
     )
+
+    def _attempts_exhausted() -> bool:
+        # True once this call has used up every attempt the caller said it
+        # may use (see max_attempts docstring above) -- a retry ladder being
+        # otherwise willing to try again must still stop here.
+        return max_attempts is not None and post_attempts >= max_attempts
+
     while True:
         post_attempts += 1
         try:
             resp = requests.post(url, headers=headers, json=body, timeout=60)
         except TRANSIENT_CONNECTION_ERRORS as exc:
             retries_transient += 1
-            if retries_transient > MAX_TRANSIENT_RETRIES:
+            if retries_transient > MAX_TRANSIENT_RETRIES or _attempts_exhausted():
                 exc.gemini_request_attempts = post_attempts
                 raise
             delay = _transient_retry_delay(retries_transient)
@@ -264,7 +284,7 @@ def describe_image(image_url: str) -> tuple[str, int]:
                 err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
                 err.gemini_request_attempts = post_attempts
                 raise err
-            if retries_429 >= MAX_429_RETRIES:
+            if retries_429 >= MAX_429_RETRIES or _attempts_exhausted():
                 err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
                 err.gemini_request_attempts = post_attempts
                 raise err
@@ -280,7 +300,7 @@ def describe_image(image_url: str) -> tuple[str, int]:
 
         if resp.status_code in TRANSIENT_STATUS_CODES:
             retries_transient += 1
-            if retries_transient <= MAX_TRANSIENT_RETRIES:
+            if retries_transient <= MAX_TRANSIENT_RETRIES and not _attempts_exhausted():
                 delay = _transient_retry_delay(retries_transient)
                 print(
                     f"  Gemini server error ({resp.status_code}) -- retrying in "
@@ -308,7 +328,7 @@ def describe_image(image_url: str) -> tuple[str, int]:
             # the connection-error retry ladder/counter above rather than
             # failing (and undercharging the budget) on the first occurrence.
             retries_transient += 1
-            if retries_transient > MAX_TRANSIENT_RETRIES:
+            if retries_transient > MAX_TRANSIENT_RETRIES or _attempts_exhausted():
                 exc.gemini_request_attempts = post_attempts
                 raise
             delay = _transient_retry_delay(retries_transient)
@@ -417,7 +437,9 @@ def describe_images(
                 continue
 
             try:
-                description, attempts = describe_image(photo["media_url"])
+                description, attempts = describe_image(
+                    photo["media_url"], max_attempts=max(1, max_requests - requests_made)
+                )
             except QuotaExceededError as exc:
                 # Don't abandon the whole batch silently: keep looping so
                 # later cache-hit items/photos still get their description,
