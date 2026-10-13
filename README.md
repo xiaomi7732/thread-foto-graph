@@ -258,15 +258,23 @@ between PST and PDT). Instead:
   skip), they just don't do any work or consume Gemini vision quota.
 - Manual **Run workflow** dispatches always proceed regardless of time —
   the window check only applies to the scheduled trigger.
-- A "Check for an already-running pipeline" step (right after checkout)
-  calls `gh run list --status=in_progress` and skips the rest of the job
-  outright if another run of this workflow is already live. The
-  `concurrency:` block below already *serializes* runs (a new one queues
-  behind an in-progress one rather than running concurrently), but a
-  queued run still spins up a full runner and sits there waiting --
-  wasted minutes, and a growing backlog if a slow run (e.g. working
-  through a 429 retry backlog) is still going when the next hourly
-  trigger fires. Skipping outright avoids that pileup.
+- **"Check for a running queue before the new action executes"** was
+  considered as an explicit pre-flight API check, but GitHub's own
+  `concurrency:` group (below) already fully covers this without any extra
+  code: at most one run per group is ever *in progress* at a time, and if
+  more than one run is *queued* behind it, only the newest queued run
+  survives — GitHub automatically cancels any older queued run the moment
+  a newer one is queued for the same group (confirmed via GitHub's
+  concurrency docs: this holds even with `cancel-in-progress: false`,
+  which only protects the currently-*running* job from cancellation, not
+  queued ones). So there's no scenario where a slow run leaves a growing
+  backlog of queued runs piling up — at most one is ever waiting. An
+  earlier version of this doc described an explicit `gh run list
+  --status=in_progress` step to guard against that; it was removed because
+  it could never actually find another in-progress run (by the time a
+  job's steps execute, `concurrency:` already guarantees it's the only one
+  running) — it was dead code that looked protective without doing
+  anything.
 
 Notes on how it differs from the Task Scheduler setup:
 - `cache/*.json` (described-photo cache + the auto-refreshed Threads token)

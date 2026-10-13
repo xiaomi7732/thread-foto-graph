@@ -29,7 +29,6 @@ concurrency:
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   update:
@@ -38,29 +37,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # The concurrency: group above already queues a new run behind one
-      # that's in progress, but a queued run still spins up a full runner
-      # and sits there waiting -- wasted minutes, and a growing backlog if
-      # a slow run (e.g. working through a 429 backlog with retries) is
-      # still going when the next hourly trigger queues up behind it. Check
-      # explicitly and skip outright instead of waiting in the queue.
-      - name: Check for an already-running pipeline
-        id: queue
-        env:
-          GH_TOKEN: ${{ github.token }}
-          CURRENT_RUN_ID: ${{ github.run_id }}
-        run: |
-          other_runs=$(gh run list --workflow=thread-foto-graph.yml --status=in_progress \
-            --json databaseId --jq "[.[] | select(.databaseId != ${CURRENT_RUN_ID})] | length")
-          echo "In-progress runs other than this one: $other_runs"
-          if [ "$other_runs" -gt 0 ]; then
-            echo "busy=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "busy=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Set up Python
-        if: steps.queue.outputs.busy != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -72,7 +49,6 @@ jobs:
       # proceed regardless of time, since those are explicit/on-demand.
       - name: Check Seattle business-hours window (Mon-Fri 8am-10pm)
         id: window
-        if: steps.queue.outputs.busy != 'true'
         shell: python
         env:
           EVENT_NAME: ${{ github.event_name }}

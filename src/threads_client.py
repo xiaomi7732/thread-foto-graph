@@ -53,14 +53,22 @@ def _paginate(path: str, params: dict) -> Iterable[dict]:
         next_params = {}
 
 
-def _resolve_hard_cutoff() -> dt.datetime | None:
-    raw = config.HARD_CUTOFF_DATE
-    if not raw:
-        return None
+def parse_timestamp(raw: str) -> dt.datetime:
+    """Parses a Threads API timestamp (ISO 8601, e.g. with a trailing 'Z')
+    into a timezone-aware datetime, so callers can compare/sort by actual
+    chronological order rather than raw string order (which breaks across
+    differing UTC offsets)."""
     parsed = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
     if parsed.tzinfo is None:
         parsed = parsed.replace(tzinfo=dt.timezone.utc)
     return parsed
+
+
+def _resolve_hard_cutoff() -> dt.datetime | None:
+    raw = config.HARD_CUTOFF_DATE
+    if not raw:
+        return None
+    return parse_timestamp(raw)
 
 
 def get_recent_root_threads(
@@ -82,7 +90,7 @@ def get_recent_root_threads(
         cutoff = hard_cutoff
     posts = []
     for post in _paginate("me/threads", {"fields": ROOT_FIELDS, "limit": 25}):
-        ts = dt.datetime.fromisoformat(post["timestamp"].replace("Z", "+00:00"))
+        ts = parse_timestamp(post["timestamp"])
         if ts < cutoff:
             break  # me/threads is returned newest-first
         posts.append(post)

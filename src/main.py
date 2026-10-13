@@ -8,6 +8,7 @@ can read them.
 """
 from __future__ import annotations
 
+import datetime as dt
 import sys
 
 from . import config, threads_client, topic_graph, vision
@@ -48,10 +49,21 @@ def main() -> int:
         # a budget/quota-limited run spends its vision requests on the most
         # recent activity (what's actually actionable soon) instead of
         # working through the backlog in arrival order and never reaching
-        # the latest replies.
+        # the latest replies. Parsed to real datetimes (not raw string
+        # comparison) since ISO 8601 strings don't sort correctly across
+        # differing UTC offsets.
+        def _reply_sort_key(reply: dict) -> dt.datetime:
+            raw = reply.get("timestamp")
+            if not raw:
+                return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
+            try:
+                return threads_client.parse_timestamp(raw)
+            except ValueError:
+                return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
+
         all_replies = sorted(
             threads_client.iter_replies(thread.get("replies", [])),
-            key=lambda reply: reply.get("timestamp") or "",
+            key=_reply_sort_key,
             reverse=True,
         )
         made = vision.describe_images(all_replies, cache, budget - requests_made, persist_progress)
