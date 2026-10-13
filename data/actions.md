@@ -6,86 +6,77 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (26)
 
 ### Photographers, Golden Friday 🌟 Show me the most golden thin… ([thread](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I))
-- **ashers_nicole91**:  ([link](https://www.threads.com/@ashers_nicole91/post/DeVeWjyFL5k))
-  - Photo: A young deer stands alert on a dirt trail, illuminated by dappled morning sunlight filtering through the trees. Its soft brown coat with faint spots and large ears stand out against the lush green grass and rocky hillside backdrop.
-- **colw22**:  ([link](https://www.threads.com/@colw22/post/DeU76XpDsXg))
-  - Photo: A massive, gold-colored sculpture of a person’s face in profile dominates the left side of the shot. In the background, the Sydney Harbour Bridge peeks through bare tree branches.
-- **fly_paragliding_global**: Golden hour from my paraglider: the whole sky glows 🪂 Seeing the planet from above through a bird's eyes. ([link](https://www.threads.com/@fly_paragliding_global/post/DeU7z_AjTPZ))
-  - Photo: A paraglider runs across a mountain launch pad during a golden-hued sunset, with the sun's reflection glittering on the water below. Several other paragliders soar in the distance above the hazy landscape.
-  - Photo: An aerial view of a paraglider with a red canopy soaring above the turquoise waters and lush, green coastline of Ölüdeniz, Turkey. The sun sets, casting a warm golden light over the mountains and sandy beach below.
-- **nzurisana23**:  ([link](https://www.threads.com/@nzurisana23/post/DeUzoxriFps))
-  - Photo: A gnarled, leafless tree stands in silhouette against a brilliant orange and yellow sunset. The vibrant sky and expansive horizon create a striking, serene evening landscape.
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/DeSmTNUmyoW))
-  - Photo: A bright golden sunset reflects off a modern multi-story apartment building, contrasting with a cloudy blue sky. Below, a lower brick building with a pointed roof sits in the foreground, with a distant city skyline visible on the horizon.
-  - Photo: A vibrant pink and orange sunset paints the sky over a city street lined with modern apartment buildings and storefronts. Below, the quiet road and parking lot lead the eye toward the colorful skyline in the distance.
-  - Photo: A brown butterfly with distinct orange and white markings rests peacefully on the bright yellow petals of a blooming sunflower. The sunlit flower stands tall against a blurred background of what appears to be a balcony or outdoor setting.
-  - Photo: A photo of an ocean sunset, captured with a fiery orange horizon and moody gray and white clouds, is overlaid with the quote, "Sunsets are proof that not all endings are bad, but some are actually BEAUTIFUL," written in all-caps, white font. A small red heart icon is visible on the lower right-hand side of the image.
+  - Photo: A high-angle view captures a city skyline at sunset, with golden light reflecting off the glass facade of a modern apartment building. In the foreground, a low-rise brick building and a balcony railing are visible under a partly cloudy sky.
+  - Photo: A stunning, high-altitude view shows a vibrant pink and orange sunset over a city skyline, with wispy clouds stretching across the dusk sky. Below, a modern multi-story building and a street with light traffic frame the peaceful evening scene.
+  - Photo: A small butterfly rests on the bright yellow petals of a vibrant sunflower, basking in the sunlight.
+  - Photo: A vibrant sunset over a calm ocean casts a warm orange glow against a dramatic, cloudy sky. Overlaying the image in white text is an inspirational quote about endings being beautiful, accompanied by a small red heart icon in the lower right corner, suggesting it is styled for a social media post.
 - **sue_wigs**:  ([link](https://www.threads.com/@sue_wigs/post/DeSmInpCFw3))
-  - Photo: A wide landscape view features rolling green hills under a bright, cloudy sky with a soft yellow and orange glow near the horizon, suggestive of sunrise or sunset. The foreground is a neatly manicured lawn with a long, low green hedge running horizontally across the middle ground, dotted with a few trees.
+  - Photo: A wide-angle, eye-level, slightly high-contrast, exterior, outdoor, long shot of a countryside landscape featuring an open green field in the foreground, bordered by a dark green hedge that stretches across the middle ground. Several mature trees stand behind the hedge, with a larger tree with light-colored bark on the right. In the background, rolling green hills and valleys recede into the distance under a dramatic, multicolored sky with glowing golden sunlight peeking through the clouds. The lighting is bright and warm, illuminating the scene.
 - **robmajor111**: Swamp Sunflower super bloom, Lake Jesup, Florida. ([link](https://www.threads.com/@robmajor111/post/DeSlss_lX3h))
-  - Photo: A vast field of vibrant yellow wildflowers stretches out beneath a cloudy sky, with two palm trees standing tall in the middle distance near a body of water.
+  - Photo: A massive, sprawling field of bright yellow wildflowers blooms vibrantly under an overcast sky, with two small palm trees standing in the middle distance near a body of water.
 - **tallerthanyou2026**: Dale Chihuly, Seattle ([link](https://www.threads.com/@tallerthanyou2026/post/DeSlGSNknDx))
-  - Photo: A vibrant yellow, red, and blue Chihuly glass sculpture is displayed in front of a modern greenhouse at the Atlanta Botanical Garden, perfectly framed against a cloudy sky.
+  - Photo: A vibrant, spherical glass sculpture with yellow, red, and blue tendrils is displayed outdoors in front of a modern glass-paneled building with an arched roof. The sculpture sits atop a dark, mounded garden bed with lush green bushes at the base under an overcast sky.
 - **robdavies77**:  ([link](https://www.threads.com/@robdavies77/post/DeShki5kpHI))
-  - Photo: A vertical shot shows a golden Emmy statue against an outdoor backdrop of a partly cloudy sky, green trees, and water.
+  - Photo: An Emmy statue is positioned outdoors against a backdrop of pine trees, water, and a cloudy sky.
 - **westcoast.donna**:  ([link](https://www.threads.com/@westcoast.donna/post/DeSfR8JknRO))
-  - Photo: A vibrant orange and pink sunset fills the sky over the Fraser River, with the Port Mann Bridge silhouetted against the colorful horizon.
+  - Photo: (photo pending description - will be described on a future run)
 - **baumann.perry**:  ([link](https://www.threads.com/@baumann.perry/post/DeSh7vIILtT))
-  - Photo: A weathered brown wooden building, possibly a historic mine or cabin, sits nestled in a hillside covered in vibrant yellow and green autumn foliage under a clear blue sky.
-  - Photo: A vibrant slope of autumn foliage displays brilliant yellow aspen trees contrasting with dark green evergreens under a clear blue sky. In the foreground, rocky scree slopes are framed by dark evergreen trees, suggesting a scenic hike in the mountains.
-  - Photo: A vast pile of gray rocks dominates the foreground, framed by dark evergreen branches on either side. In the background, a hillside is covered in a dense forest of vibrant yellow and green trees, with the bright yellow foliage of deciduous trees creating a stark contrast against the darker pines.
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
   - _Replying to: (photo reply, no text)_
 - **chillout_abi**: 👋 ([link](https://www.threads.com/@chillout_abi/post/DeSX-S3jTWJ))
-  - Photo: A glowing orange sunrise peeks over a dense line of silhouetted trees, viewed from an indoor vantage point framed by dark walls and a balcony railing.
+  - Photo: (photo pending description - will be described on a future run)
 - **kathbert85**:  ([link](https://www.threads.com/@kathbert85/post/DeSTuYHFBWD))
-  - Photo: A vibrant sunset over a tranquil ocean features dramatic clouds with sunbeams breaking through, creating a serene and picturesque landscape.
+  - Photo: (photo pending description - will be described on a future run)
 - **minion44**:  ([link](https://www.threads.com/@minion44/post/DeSTXZlGldG))
-  - Photo: A vibrant sunset casts an intense, golden-orange glow over a flat, vibrant green field, silhouetting distant rolling mountains and a line of dark trees. In the foreground, wild grass and a simple barbed wire fence run horizontally across the bottom edge of the frame.
+  - Photo: (photo pending description - will be described on a future run)
 - **amerjo**:  ([link](https://www.threads.com/@amerjo/post/DeSTSZgmuZH))
-  - Photo: A glowing orange sunrise or sunset breaks through a narrow gap in dark clouds, hovering just above a chain-link fence and a dark treeline. In the foreground, a field of wild grass is visible in silhouette against the vibrant, gradient sky.
+  - Photo: (photo pending description - will be described on a future run)
 - **tammakaye**:  ([link](https://www.threads.com/@tammakaye/post/DeSS28-nxra))
-  - Photo: A vibrant sunset casts a warm orange glow across a calm lake, with silhouetted trees framing the shoreline. Golden, scattered clouds fill the evening sky above, reflecting the bright sun just dipping below the horizon.
+  - Photo: (photo pending description - will be described on a future run)
 - **broup11**:  ([link](https://www.threads.com/@broup11/post/DeSS2sWGbW8))
-  - Photo: A snow-capped mountain stands majestically in the distance under a warm, glowing sunrise that paints the sky in shades of orange and yellow. In the foreground, a calm river mirrors the sky's soft hues, gently flowing past a grassy embankment and a marina with wooden pilings.
+  - Photo: (photo pending description - will be described on a future run)
 - **allemor.romella**:  ([link](https://www.threads.com/@allemor.romella/post/DeSSCE8Enzn))
-  - Photo: A golden sunset casts silhouettes of five tall palm trees against the sky, with boats docked in the water below. Two cars are parked along the waterfront street, adding a peaceful urban touch to the tropical evening scene.
+  - Photo: (photo pending description - will be described on a future run)
 - **rhetta_schultz**:  ([link](https://www.threads.com/@rhetta_schultz/post/DeSQqDyEwHq))
-  - Photo: A vibrant cluster of white and yellow frangipani flowers blooms in the warm sunlight, their delicate petals contrasting with lush green leaves. The golden hour lighting highlights the natural beauty of the tropical blossoms, creating a serene and picturesque botanical scene.
+  - Photo: (photo pending description - will be described on a future run)
 - **trayjayhay**:  ([link](https://www.threads.com/@trayjayhay/post/DeSPCDxGBTv))
-  - Photo: A high-angle, medium shot shows a sprinkler spraying water across a lawn at sunset, with golden light catching each droplet. In the background, outdoor seating is visible, illuminated by the warm, late afternoon sun.
+  - Photo: (photo pending description - will be described on a future run)
 - **simplymeaileen75**:  ([link](https://www.threads.com/@simplymeaileen75/post/DeSOTANjJxE))
-  - Photo: A vibrant sunset casting a golden glow over a calm expanse of water with rolling hills in the distance. The bright sun sits atop a dark ridge, creating a brilliant vertical glare that reflects across the surface below.
-  - Photo: A close-up shot captures a young sunflower in vibrant yellow, just beginning to open, against a softly blurred, neutral background.
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
 - **bonfires_and_birdsong**: Broadleaf goldenrod. A new lifer for me during the annual Beach clean up 💛🤩 ([link](https://www.threads.com/@bonfires_and_birdsong/post/DeSLAUBoPHh))
-  - Photo: A vertical, eye-level close-up shows a goldenrod plant in bloom against a soft-focus forest floor. The goldenrod has a long stem with alternating green leaves, with bright yellow flowers clustered on the upper portion. The leaves are serrated and some have light spots on them.
+  - Photo: (photo pending description - will be described on a future run)
 - **mamustacci**:  ([link](https://www.threads.com/@mamustacci/post/DeSFROkG8no))
-  - Photo: A freshly baked, thick lemon cheesecake topped with a glossy curd glaze rests on a decorative glass platter, with a single slice neatly cut and served on a white plate in the foreground.
+  - Photo: (photo pending description - will be described on a future run)
   - _Replying to: Golden Sky with reflections_
 - **wakefieldalice**:  ([link](https://www.threads.com/@wakefieldalice/post/DeSBfdbicYV))
-  - Photo: A vibrant sunrise or sunset over a dark, silhouetted horizon fills the frame. Golden light bursts from the low sun, illuminating wispy, scattered clouds across a brilliant blue sky.
+  - Photo: (photo pending description - will be described on a future run)
 - **drek_suarez**: This has an incredibly pleasant visual rhythm from beginning to end!\ ([link](https://www.threads.com/@drek_suarez/post/DeR7NLejLao))
-  - Photo: A screenshot shows a promotional graphic featuring YouTuber MrBeast next to text announcing a new challenge. The text promises a $3,000 reward for users who visit "PREDY.NET" and enter the secret word "BEAST."
-  - Photo: A close-up of a computer screen displays an informational knowledge panel about YouTuber MrBeast, which incorrectly lists his age as 28 and birth year as 1998 instead of 1998 for age 25.
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
 - **gabri.jela_72**:  ([link](https://www.threads.com/@gabri.jela_72/post/DeR5nLYCPQQ))
-  - Photo: A yellow butterfly rests delicately on a blooming pink zinnia, its wings folded upward in the sunlight. The vibrant flower stands out against a soft, green garden background, creating a tranquil nature scene.
-  - Photo: A yellow butterfly rests delicately on a vibrant pink zinnia, its wings partially open to catch the warm sunlight. The garden setting is lush with soft-focused greenery, making it a serene moment of nature captured in full bloom.
-  - Photo: A cyclist rides along a wet asphalt road covered with fallen autumn leaves, winding through a dense forest with trees in shades of orange, yellow, and green.
-  - Photo: A dense cluster of honeybees busily works across a textured honeycomb, filling the dark hexagonal cells and golden wax structures. This captivating macro shot highlights the complex social structure and diligent labor of a thriving bee colony, perfect for nature enthusiasts or beekeeping education.
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
 - **kristin.cloud**:  ([link](https://www.threads.com/@kristin.cloud/post/DeR5OXSG2pU))
-  - Photo: A first-person, eye-level, top-down shot shows a person’s left hand holding a bright yellow dandelion flower, with its stem extending out from the bottom. The hand is open and facing upward, with light pink nail polish on the fingernails. The person wears a black sweater. The backdrop is a gravel road under a bright sun, casting a clear shadow on the ground to the right.
+  - Photo: (photo pending description - will be described on a future run)
 - **fragilita_12**:  ([link](https://www.threads.com/@fragilita_12/post/DeR3bGuAlRn))
-  - Photo: Vibrant autumn leaves in brilliant shades of yellow, orange, and red stand out against a clear blue sky, creating a picturesque scene that captures the essence of the season.
+  - Photo: (photo pending description - will be described on a future run)
 - **fiddlefotos**: I took a few more with the same leaf ([link](https://www.threads.com/@fiddlefotos/post/DeRwUL7FkNC))
-  - Photo: A close-up, high-angle shot captures a weathered gravestone with carved lettering, set outdoors on a grassy surface. A vibrant yellow-and-orange autumn leaf with prominent veins rests delicately on its dark surface, symbolizing autumn and remembrance.
-  - Photo: A crisp autumn leaf is tucked into the window seal of a vibrant yellow car, reflecting a quaint European-style building.
+  - Photo: (photo pending description - will be described on a future run)
+  - Photo: (photo pending description - will be described on a future run)
   - _Replying to: One golden leaf with a single red berry as its plus-one. Au…_
 
 ### Shadow Thursday favorites 🏆 Four shadows that stopped me mi… ([thread](https://www.threads.com/@saars.foto/post/DeRsLM5FfMB))
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DeS1GhfjgRj))
-  - Photo: A person wades along the wet sand at the water's edge, silhouetted against a bright, sunlit ocean where a strong sunburst breaks through the sky overhead.
+  - Photo: (photo pending description - will be described on a future run)
 
 
 _Flat list of text-only replies still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for the (bigger) photo replies that need an actual reply._
