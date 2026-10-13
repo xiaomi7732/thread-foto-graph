@@ -42,6 +42,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # The default GITHUB_TOKEN authenticates as the GitHub Actions
+          # app, which the "Protect main" ruleset cannot exempt on a
+          # personal (non-org) repo -- neither an Integration bypass actor
+          # nor a bot User bypass actor is honored for GITHUB_TOKEN pushes
+          # (confirmed by testing both). A fine-grained PAT scoped to just
+          # this repo (Contents: Read and write), stored as the GH_PATH
+          # secret, authenticates as the repo owner instead, who the
+          # ruleset's Admin-role bypass actor does cover.
+          token: ${{ secrets.GH_PATH }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
