@@ -47,10 +47,12 @@ Outputs (smallest/most-frequent read first):
 - `data/history/needs-reply-<yyyy-mm-dd>.md` /
   `data/history/needs-like-<yyyy-mm-dd>.md` — a dated snapshot of each
   day's `needs-reply.md`/`needs-like.md`, written every run and overwritten
-  through the day until the UTC date rolls over, at which point that day's
-  file becomes a frozen historical record. Not for day-to-day reads (point
-  at the live files for that) — useful for "what was still outstanding on
-  a given day" drill-down.
+  through the day until the date rolls over (dated by Pacific local time,
+  matching the schedule window below — not UTC, since UTC midnight falls
+  mid-business-day), at which point that day's file becomes a frozen
+  historical record. Not for day-to-day reads (point at the live files for
+  that) — useful for "what was still outstanding on a given day"
+  drill-down.
 - `docs/graph.json` + `docs/index.html` — visual topic graph (graph view +
   click-through detail panel with full text, replies, photo descriptions,
   permalinks, and `needs_response`/`action` flags per reply), published via
