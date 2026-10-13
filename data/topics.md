@@ -29,17 +29,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A herd of alpacas gathers around a hay feeder in an enclosed pen during a stunning sunset. The warm golden light illuminates the silhouetted trees and fields in the background.
     - Reply by saars.foto: An alpaca welcoming committee at golden hour. The white one's clearly the greeter. ([link](https://www.threads.com/@saars.foto/post/DeThf4VnIMP))
       - **[NEEDS LIKE]** Reply by travelguru2479: The boys had just gotten their dinner, they were happy as could be. 😊 ([link](https://www.threads.com/@travelguru2479/post/DeUspltlp8z))
-  - **[NEEDS REPLY]** Reply by mdalida378:  ([link](https://www.threads.com/@mdalida378/post/DeSmTNUmyoW))
-    - Photo: A high-angle view captures a city skyline at sunset, with golden light reflecting off the glass facade of a modern apartment building. In the foreground, a low-rise brick building and a balcony railing are visible under a partly cloudy sky.
-    - Photo: A stunning, high-altitude view shows a vibrant pink and orange sunset over a city skyline, with wispy clouds stretching across the dusk sky. Below, a modern multi-story building and a street with light traffic frame the peaceful evening scene.
-    - Photo: A small butterfly rests on the bright yellow petals of a vibrant sunflower, basking in the sunlight.
-    - Photo: A vibrant sunset over a calm ocean casts a warm orange glow against a dramatic, cloudy sky. Overlaying the image in white text is an inspirational quote about endings being beautiful, accompanied by a small red heart icon in the lower right corner, suggesting it is styled for a social media post.
-  - **[NEEDS REPLY]** Reply by sue_wigs:  ([link](https://www.threads.com/@sue_wigs/post/DeSmInpCFw3))
-    - Photo: A wide-angle, eye-level, slightly high-contrast, exterior, outdoor, long shot of a countryside landscape featuring an open green field in the foreground, bordered by a dark green hedge that stretches across the middle ground. Several mature trees stand behind the hedge, with a larger tree with light-colored bark on the right. In the background, rolling green hills and valleys recede into the distance under a dramatic, multicolored sky with glowing golden sunlight peeking through the clouds. The lighting is bright and warm, illuminating the scene.
-  - **[NEEDS REPLY]** Reply by robmajor111: Swamp Sunflower super bloom, Lake Jesup, Florida. ([link](https://www.threads.com/@robmajor111/post/DeSlss_lX3h))
-    - Photo: A massive, sprawling field of bright yellow wildflowers blooms vibrantly under an overcast sky, with two small palm trees standing in the middle distance near a body of water.
-  - **[NEEDS REPLY]** Reply by tallerthanyou2026: Dale Chihuly, Seattle ([link](https://www.threads.com/@tallerthanyou2026/post/DeSlGSNknDx))
+  - Reply by tallerthanyou2026: Dale Chihuly, Seattle ([link](https://www.threads.com/@tallerthanyou2026/post/DeSlGSNknDx))
     - Photo: A vibrant, spherical glass sculpture with yellow, red, and blue tendrils is displayed outdoors in front of a modern glass-paneled building with an arched roof. The sculpture sits atop a dark, mounded garden bed with lush green bushes at the base under an overcast sky.
+    - Reply by saars.foto: Chihuly understood golden hour before it was a prompt. That glass is basically bottled sunlight. ([link](https://www.threads.com/@saars.foto/post/DebCVD9GxZM))
+      - **[NEEDS LIKE]** Reply by tallerthanyou2026: Great analogy ([link](https://www.threads.com/@tallerthanyou2026/post/DebEEolFPgM))
   - Reply by ohshoot_itshari:  ([link](https://www.threads.com/@ohshoot_itshari/post/DeSjmLiD2_7))
     - Photo: A vibrant canopy of golden autumn leaves frames a tranquil lakeside view at sunset, with light filtering through the branches onto a leaf-strewn path.
     - Reply by saars.foto: Autumn going full gold beside the lake. That light through the trees. ([link](https://www.threads.com/@saars.foto/post/DeSmtmjm4d4))
@@ -48,10 +41,8 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A close-up captures vibrant yellow bougainvillea flowers with delicate, paper-like bracts blooming amidst lush green leaves, set in a potted garden.
     - Reply by saars.foto: Backlit blooms glowing like little lanterns. Golden hour, bottled. ([link](https://www.threads.com/@saars.foto/post/DeSmqgED3vq))
       - **[NEEDS LIKE]** Reply by sundari11725: Terimakasih ([link](https://www.threads.com/@sundari11725/post/DeSnNNzE62n))
-  - **[NEEDS REPLY]** Reply by robdavies77:  ([link](https://www.threads.com/@robdavies77/post/DeShki5kpHI))
-    - Photo: An Emmy statue is positioned outdoors against a backdrop of pine trees, water, and a cloudy sky.
   - **[NEEDS REPLY]** Reply by westcoast.donna:  ([link](https://www.threads.com/@westcoast.donna/post/DeSfR8JknRO))
-    - Photo: (photo pending description - will be described on a future run)
+    - Photo: A stunning suspension bridge is silhouetted against a dramatic sunset with vibrant pink and orange clouds. Below, the calm water reflects the colorful sky, while dark logs float near the shore in the foreground.
   - Reply by ajvictorymd:  ([link](https://www.threads.com/@ajvictorymd/post/DeSdlGgD344))
     - Photo: (photo pending description - will be described on a future run)
     _(+3 more replies already answered under this, see archive)_
@@ -149,7 +140,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: (photo pending description - will be described on a future run)
     - Reply by saars.foto: A whole bouquet of sunshine dressed up for a night out. That black backdrop is pure drama. ([link](https://www.threads.com/@saars.foto/post/DeRvt7YnIFg))
       - **[NEEDS LIKE]** Reply by angelo_marcialis_photography: Well stated, thank you. Shot in the comfort of my home using natural light, nothing fancy.😎 ([link](https://www.threads.com/@angelo_marcialis_photography/post/DeRwfIKDoT0))
-  _(+221 more replies elsewhere in this thread already answered, see [full thread](threads/17893005768438014.md))_
+  _(+229 more replies elsewhere in this thread already answered, see [full thread](threads/17893005768438014.md))_
 
 ## Topic: shadow, sharing, love, mid
 

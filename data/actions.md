@@ -6,24 +6,11 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (21)
 
 ### Photographers, Golden Friday 🌟 Show me the most golden thin… ([thread](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I))
-- **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/DeSmTNUmyoW))
-  - Photo: A high-angle view captures a city skyline at sunset, with golden light reflecting off the glass facade of a modern apartment building. In the foreground, a low-rise brick building and a balcony railing are visible under a partly cloudy sky.
-  - Photo: A stunning, high-altitude view shows a vibrant pink and orange sunset over a city skyline, with wispy clouds stretching across the dusk sky. Below, a modern multi-story building and a street with light traffic frame the peaceful evening scene.
-  - Photo: A small butterfly rests on the bright yellow petals of a vibrant sunflower, basking in the sunlight.
-  - Photo: A vibrant sunset over a calm ocean casts a warm orange glow against a dramatic, cloudy sky. Overlaying the image in white text is an inspirational quote about endings being beautiful, accompanied by a small red heart icon in the lower right corner, suggesting it is styled for a social media post.
-- **sue_wigs**:  ([link](https://www.threads.com/@sue_wigs/post/DeSmInpCFw3))
-  - Photo: A wide-angle, eye-level, slightly high-contrast, exterior, outdoor, long shot of a countryside landscape featuring an open green field in the foreground, bordered by a dark green hedge that stretches across the middle ground. Several mature trees stand behind the hedge, with a larger tree with light-colored bark on the right. In the background, rolling green hills and valleys recede into the distance under a dramatic, multicolored sky with glowing golden sunlight peeking through the clouds. The lighting is bright and warm, illuminating the scene.
-- **robmajor111**: Swamp Sunflower super bloom, Lake Jesup, Florida. ([link](https://www.threads.com/@robmajor111/post/DeSlss_lX3h))
-  - Photo: A massive, sprawling field of bright yellow wildflowers blooms vibrantly under an overcast sky, with two small palm trees standing in the middle distance near a body of water.
-- **tallerthanyou2026**: Dale Chihuly, Seattle ([link](https://www.threads.com/@tallerthanyou2026/post/DeSlGSNknDx))
-  - Photo: A vibrant, spherical glass sculpture with yellow, red, and blue tendrils is displayed outdoors in front of a modern glass-paneled building with an arched roof. The sculpture sits atop a dark, mounded garden bed with lush green bushes at the base under an overcast sky.
-- **robdavies77**:  ([link](https://www.threads.com/@robdavies77/post/DeShki5kpHI))
-  - Photo: An Emmy statue is positioned outdoors against a backdrop of pine trees, water, and a cloudy sky.
 - **westcoast.donna**:  ([link](https://www.threads.com/@westcoast.donna/post/DeSfR8JknRO))
-  - Photo: (photo pending description - will be described on a future run)
+  - Photo: A stunning suspension bridge is silhouetted against a dramatic sunset with vibrant pink and orange clouds. Below, the calm water reflects the colorful sky, while dark logs float near the shore in the foreground.
 - **baumann.perry**:  ([link](https://www.threads.com/@baumann.perry/post/DeSh7vIILtT))
   - Photo: (photo pending description - will be described on a future run)
   - Photo: (photo pending description - will be described on a future run)
@@ -83,12 +70,13 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (22)
+## Needs Like (23)
 
 ### Photographers, Golden Friday 🌟 Show me the most golden thin… ([thread](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I))
 - tradi_leni: I had a feeling the mountains might steal a little attention 😄🏔️ ([link](https://www.threads.com/@tradi_leni/post/DeUkHXuCECy))
 - pattymooney69: We remarked on the stained glass feeling of it. Very magical! ([link](https://www.threads.com/@pattymooney69/post/DeXQwA8E_RY))
 - travelguru2479: The boys had just gotten their dinner, they were happy as could be. 😊 ([link](https://www.threads.com/@travelguru2479/post/DeUspltlp8z))
+- tallerthanyou2026: Great analogy ([link](https://www.threads.com/@tallerthanyou2026/post/DebEEolFPgM))
 - ohshoot_itshari: It’s my fave time of year 🤩 ([link](https://www.threads.com/@ohshoot_itshari/post/DeS2qIFGhcV))
 - sundari11725: Terimakasih ([link](https://www.threads.com/@sundari11725/post/DeSnNNzE62n))
 - hargreaveskelly: Wow!! ([link](https://www.threads.com/@hargreaveskelly/post/DeSi8cslBy2))
