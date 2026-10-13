@@ -4,36 +4,21 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (14)
+## Needs Reply (7)
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
-- **photog84**: Here’s mine. iPhone 14 Pro Max. Pink Abstract Pattern ([link](https://www.threads.com/@photog84/post/DecdX5oF1jq))
-  - Photo: A close-up shot of a vibrant, hot pink circular art installation made of woven wooden branches radiating outward. The intricate, textured pattern creates a striking focal point with a pop of vivid color.
-- **thatturtle**:  ([link](https://www.threads.com/@thatturtle/post/DecZy2WlVk6))
-  - Photo: An overhead view of light gray cobblestone ground with a grid-like metal drainage cover on the right side.
-- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/DecZYnalqVe))
-  - Photo: A perspective shot of a long, narrow outdoor corridor bordered by a red brick wall on one side and a row of heavy wooden pillars on the other. The overhead structure features a line of hanging industrial-style pendant lamps that lead the eye down the sunlit, paved walkway toward a distant building entrance.
+- **linjclass**:  ([link](https://www.threads.com/@linjclass/post/DeckChej7eu))
+  - Photo: A top-down view of a round, metal manhole cover embedded in the pavement, featuring a complex, concentric geometric pattern of raised shapes and some eroded lettering around its outer edge.
+- **yeaiknow26**: This is the spherical roof of the thermal baths. The colors of the pool lights are beautifully reflected in the glass. ([link](https://www.threads.com/@yeaiknow26/post/DecjnuHEdkR))
+  - Photo: A low-angle view captures the intricate glass and steel framework of a modern dome ceiling, illuminated by blue light and reflecting hints of green and yellow from within.
+- **micawbersmu**:  ([link](https://www.threads.com/@micawbersmu/post/Decias2DxgH))
+  - Photo: A lush, vibrant green forest floor carpeted with ferns and low-lying vegetation is framed by a grove of tall, slender tree trunks under a sun-dappled canopy.
+- **rodwsmith68**:  ([link](https://www.threads.com/@rodwsmith68/post/DechbRKjNf0))
+  - Photo: A low-angle view captures a modern architectural overhang featuring a dark, perforated surface with numerous organic, rounded cutouts. Through the pattern, patches of a vibrant blue sky and green tree leaves peek through.
+- **d1xshooter**: MKE Public Market, Nikon Zf, Nikkor 40 mm F11 1/250 ([link](https://www.threads.com/@d1xshooter/post/DechLU7iafw))
+  - Photo: A high-angle, black-and-white shot captures the bustling interior of a large market, housed beneath an expansive industrial ceiling of exposed steel beams and corrugated metal. Below, parallel display cases and vendor stalls line the ground floor, where shoppers weave through the aisles, all framed by the dramatic, geometric perspective of the overhead structure.
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/Decf0E3nxU5))
+  - Photo: A vibrant, richly patterned fabric tent ceiling showcases an explosion of colors and intricate bohemian designs. The accordion-pleated panels radiate outward, creating a mesmerizing optical illusion and a cozy, eclectic atmosphere.
 - **a_lone_crow_**:  ([link](https://www.threads.com/@a_lone_crow_/post/DecZU3ECPvP))
-  - Photo: (description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)
-- **sandgerine**:  ([link](https://www.threads.com/@sandgerine/post/DecZOxmjfsw))
-  - Photo: A striking black-and-white, low-angle shot captures a metal fire escape zig-zagging up the side of a weathered brick building, illuminated by bright overhead lights on each level.
-- **isadoralovesscarves**:  ([link](https://www.threads.com/@isadoralovesscarves/post/DecZI3wihVp))
-  - Photo: A modern, geometric chandelier with woven mesh shades hangs indoors, illuminating a space that offers a scenic ocean view through a nearby window.
-- **bedford__lisa**:  ([link](https://www.threads.com/@bedford__lisa/post/DecZE3XGaiA))
-  - Photo: A close-up shot of a chain-link fence, weathered with rust spots, forms a diagonal pattern against an out-of-focus background. The metallic texture and repetitive diamond shapes create a stark industrial feel.
-- **remalysh**: Spider Web ([link](https://www.threads.com/@remalysh/post/DecWRoDmrTM))
-  - Photo: A dewy spiderweb gleams in the morning sun, intricately spun between tall blades of grass against a soft, dark background.
-- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DecWIyBDlSl))
-  - Photo: A low-angle view captures the intricate white structural support beams and suspension cables of the Peace Bridge against a vibrant blue sky in Calgary, Alberta. A high-rise building with a grid-like window pattern stands on the right, providing an urban context to the scene.
-- **eyeofgotham**:  ([link](https://www.threads.com/@eyeofgotham/post/DecT2T3EWYF))
-  - Photo: A low-angle, eye-level, close-up shot focuses on a series of triangular metal handles connected to overhead monkey bars in a playground, captured in grayscale. The handles recede from the center into the background, creating a perspective that looks down the length of the parallel bars.
-- **yong_cabal**: *shot on iPhone ([link](https://www.threads.com/@yong_cabal/post/DecTUZ2m0zz))
-  - Photo: An overhead, high-angle view showcases rows of charming brick brownstones in a dense urban neighborhood, with a light dusting of snow on their dark roofs. Bare trees line a street in the middle ground, separating the residential blocks and adding a touch of winter atmosphere to the scene.
-- **blue.cheese.ranch**:  ([link](https://www.threads.com/@blue.cheese.ranch/post/DecQfgYEV-n))
-  - Photo: A collection of heavy, weathered metal gears with distinct spiral teeth interlocks in a complex mechanical arrangement, bathed in a warm, amber-toned light. The close-up perspective emphasizes the industrial texture and intricate design of the machinery, creating a dramatic and textured composition.
-- **dr0ma_**:  ([link](https://www.threads.com/@dr0ma_/post/DecQML_iFN3))
-  - Photo: A low-angle shot captures the grandeur of the multi-tiered, octagonal pagoda tower, featuring dark brick walls, white railings on each level, and ornate golden dragon statues perched at its corners. The structure stands against a vibrant blue sky filled with scattered, wispy clouds.
-- **pnsuzan**: Me encantaría colaborar contigo algún día. Tu estilo es increíble. Sería un sueño. ([link](https://www.threads.com/@pnsuzan/post/DecDgsWAfBi))
-  - Photo: A computer screen displays a doctored BBC News website featuring a prominent photo of YouTuber MrBeast in front of a "Beast Games" logo. Below the image, a misleading headline announces a new challenge offering a cash prize of 2850€ through an external website, "PREDY.NET."
-  - Photo: Four friends enjoy swimming in a calm river flowing through a lush valley beneath towering granite cliffs. The sunlit scene highlights the breathtaking natural beauty of Yosemite, perfect for an outdoor adventure post.
+  - Photo: A high angle full shot captures wavy ripples in a pool with teal and white tiles at the bottom, creating abstract lines and shapes.
 

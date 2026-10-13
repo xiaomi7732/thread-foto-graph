@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18135512893646626",
-      "label": "pattern, shot, building, light",
+      "label": "pattern, shot, building, angle",
       "group": 0,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
@@ -10,14 +10,69 @@
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 63,
+      "reply_count": 84,
       "replies": [
         {
-          "username": "photog84",
-          "text": "Here\u2019s mine. iPhone 14 Pro Max. Pink Abstract Pattern",
-          "permalink": "https://www.threads.com/@photog84/post/DecdX5oF1jq",
+          "username": "linjclass",
+          "text": "",
+          "permalink": "https://www.threads.com/@linjclass/post/DeckChej7eu",
           "photos": [
-            "A close-up shot of a vibrant, hot pink circular art installation made of woven wooden branches radiating outward. The intricate, textured pattern creates a striking focal point with a pop of vivid color."
+            "A top-down view of a round, metal manhole cover embedded in the pavement, featuring a complex, concentric geometric pattern of raised shapes and some eroded lettering around its outer edge."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "yeaiknow26",
+          "text": "This is the spherical roof of the thermal baths. The colors of the pool lights are beautifully reflected in the glass.",
+          "permalink": "https://www.threads.com/@yeaiknow26/post/DecjnuHEdkR",
+          "photos": [
+            "A low-angle view captures the intricate glass and steel framework of a modern dome ceiling, illuminated by blue light and reflecting hints of green and yellow from within."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "micawbersmu",
+          "text": "",
+          "permalink": "https://www.threads.com/@micawbersmu/post/Decias2DxgH",
+          "photos": [
+            "A lush, vibrant green forest floor carpeted with ferns and low-lying vegetation is framed by a grove of tall, slender tree trunks under a sun-dappled canopy."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "rodwsmith68",
+          "text": "",
+          "permalink": "https://www.threads.com/@rodwsmith68/post/DechbRKjNf0",
+          "photos": [
+            "A low-angle view captures a modern architectural overhang featuring a dark, perforated surface with numerous organic, rounded cutouts. Through the pattern, patches of a vibrant blue sky and green tree leaves peek through."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "d1xshooter",
+          "text": "MKE Public Market, Nikon Zf, Nikkor 40 mm F11 1/250",
+          "permalink": "https://www.threads.com/@d1xshooter/post/DechLU7iafw",
+          "photos": [
+            "A high-angle, black-and-white shot captures the bustling interior of a large market, housed beneath an expansive industrial ceiling of exposed steel beams and corrugated metal. Below, parallel display cases and vendor stalls line the ground floor, where shoppers weave through the aisles, all framed by the dramatic, geometric perspective of the overhead structure."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "medium.gords7",
+          "text": "",
+          "permalink": "https://www.threads.com/@medium.gords7/post/Decf0E3nxU5",
+          "photos": [
+            "A vibrant, richly patterned fabric tent ceiling showcases an explosion of colors and intricate bohemian designs. The accordion-pleated panels radiate outward, creating a mesmerizing optical illusion and a cozy, eclectic atmosphere."
           ],
           "needs_response": true,
           "action": "reply",
@@ -25,12 +80,43 @@
         },
         {
           "username": "photog84",
+          "text": "Here\u2019s mine. iPhone 14 Pro Max. Pink Abstract Pattern",
+          "permalink": "https://www.threads.com/@photog84/post/DecdX5oF1jq",
+          "photos": [
+            "A close-up shot of a vibrant, hot pink circular art installation made of woven wooden branches radiating outward. The intricate, textured pattern creates a striking focal point with a pop of vivid color."
+          ],
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A hot pink sunburst of woven branches. It radiates.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Decix0VmjWo",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "photog84",
           "text": "Love the color and selective focus!! Cool!!\ud83d\udcf7",
           "permalink": "https://www.threads.com/@photog84/post/DeccL6Il6i8",
           "photos": [],
-          "needs_response": true,
-          "action": "like",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thank you so much!",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecjDYJEnas",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "thatturtle",
@@ -39,9 +125,19 @@
           "photos": [
             "An overhead view of light gray cobblestone ground with a grid-like metal drainage cover on the right side."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Cobblestones doing their quiet grid thing, and the drainage cover had to join in.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecizJ7G03w",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mapletreephotography_wpm",
@@ -50,16 +146,36 @@
           "photos": [
             "A perspective shot of a long, narrow outdoor corridor bordered by a red brick wall on one side and a row of heavy wooden pillars on the other. The overhead structure features a line of hanging industrial-style pendant lamps that lead the eye down the sunlit, paved walkway toward a distant building entrance."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That corridor pulls you in like a film still. The hanging lamps are doing the leading.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci0NlGf1q",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": [
+                {
+                  "username": "mapletreephotography_wpm",
+                  "text": "\ud83e\udd43",
+                  "permalink": "https://www.threads.com/@mapletreephotography_wpm/post/DeckwCygdGY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "a_lone_crow_",
           "text": "",
           "permalink": "https://www.threads.com/@a_lone_crow_/post/DecZU3ECPvP",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A high angle full shot captures wavy ripples in a pool with teal and white tiles at the bottom, creating abstract lines and shapes."
           ],
           "needs_response": true,
           "action": "reply",
@@ -72,9 +188,19 @@
           "photos": [
             "A striking black-and-white, low-angle shot captures a metal fire escape zig-zagging up the side of a weathered brick building, illuminated by bright overhead lights on each level."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A fire escape zigzagging up the brick in black and white. Most dramatic staircase to nowhere.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci2XUo0WJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "isadoralovesscarves",
@@ -83,9 +209,19 @@
           "photos": [
             "A modern, geometric chandelier with woven mesh shades hangs indoors, illuminating a space that offers a scenic ocean view through a nearby window."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A chandelier with an ocean view. Some lights have it all.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci31uGuMl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bedford__lisa",
@@ -94,9 +230,19 @@
           "photos": [
             "A close-up shot of a chain-link fence, weathered with rust spots, forms a diagonal pattern against an out-of-focus background. The metallic texture and repetitive diamond shapes create a stark industrial feel."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Rusty chain-link doing diamonds on the diagonal. Industrial lace.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci5S0lHef",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "remalysh",
@@ -105,9 +251,19 @@
           "photos": [
             "A dewy spiderweb gleams in the morning sun, intricately spun between tall blades of grass against a soft, dark background."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Morning dew turned that web into jewelry. The spider's an artist.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci7OqlHVp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "susanrutledge",
@@ -116,9 +272,19 @@
           "photos": [
             "A low-angle view captures the intricate white structural support beams and suspension cables of the Peace Bridge against a vibrant blue sky in Calgary, Alberta. A high-rise building with a grid-like window pattern stands on the right, providing an urban context to the scene."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those white beams against the blue are doing all the work. Calgary showing off.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci8X6Fs4O",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "eyeofgotham",
@@ -127,9 +293,19 @@
           "photos": [
             "A low-angle, eye-level, close-up shot focuses on a series of triangular metal handles connected to overhead monkey bars in a playground, captured in grayscale. The handles recede from the center into the background, creating a perspective that looks down the length of the parallel bars."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Monkey bars in grayscale look like a tiny brutalist city. Love the perspective.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci9_tmRUt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "yong_cabal",
@@ -138,9 +314,19 @@
           "photos": [
             "An overhead, high-angle view showcases rows of charming brick brownstones in a dense urban neighborhood, with a light dusting of snow on their dark roofs. Bare trees line a street in the middle ground, separating the residential blocks and adding a touch of winter atmosphere to the scene."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Snow-dusted brownstones from above. The roofs do the pattern, the trees just visit.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Deci_lgIDUe",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "blue.cheese.ranch",
@@ -149,9 +335,19 @@
           "photos": [
             "A collection of heavy, weathered metal gears with distinct spiral teeth interlocks in a complex mechanical arrangement, bathed in a warm, amber-toned light. The close-up perspective emphasizes the industrial texture and intricate design of the machinery, creating a dramatic and textured composition."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Gears locked together like they're keeping a secret. That amber light does favors.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecjA0mifMl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dr0ma_",
@@ -160,9 +356,19 @@
           "photos": [
             "A low-angle shot captures the grandeur of the multi-tiered, octagonal pagoda tower, featuring dark brick walls, white railings on each level, and ornate golden dragon statues perched at its corners. The structure stands against a vibrant blue sky filled with scattered, wispy clouds."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A pagoda with dragons on every corner. The sky is just the backdrop.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DecjCIUGXdW",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joseph_dtyyz",
@@ -264,7 +470,27 @@
               "photos": [],
               "needs_response": false,
               "action": null,
-              "replies": []
+              "replies": [
+                {
+                  "username": "unmitigatedme",
+                  "text": "Minors Yamasaki showing off! They are supposed to look the ring bottoms of aluminum cans.",
+                  "permalink": "https://www.threads.com/@unmitigatedme/post/DecjuuvG8wv",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "lol",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Decj4fREibM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -474,18 +700,6 @@
               "replies": []
             }
           ]
-        },
-        {
-          "username": "pnsuzan",
-          "text": "Me encantar\u00eda colaborar contigo alg\u00fan d\u00eda. Tu estilo es incre\u00edble. Ser\u00eda un sue\u00f1o.",
-          "permalink": "https://www.threads.com/@pnsuzan/post/DecDgsWAfBi",
-          "photos": [
-            "A computer screen displays a doctored BBC News website featuring a prominent photo of YouTuber MrBeast in front of a \"Beast Games\" logo. Below the image, a misleading headline announces a new challenge offering a cash prize of 2850\u20ac through an external website, \"PREDY.NET.\"",
-            "Four friends enjoy swimming in a calm river flowing through a lush valley beneath towering granite cliffs. The sunlit scene highlights the breathtaking natural beauty of Yosemite, perfect for an outdoor adventure post."
-          ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
         },
         {
           "username": "michaelgiancarlo772",
