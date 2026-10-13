@@ -350,25 +350,36 @@ def describe_images(
                 # reads the committed markdown.
                 print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
                 descriptions.append(f"(description unavailable: {_sanitize(str(exc))})")
-                requests_made += 1
-                if _is_outage_signal(exc):
-                    consecutive_transient_failures += 1
-                    if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
-                        # Gemini looks genuinely down, not just one flaky photo --
-                        # stop burning the rest of this run's budget/time on calls
-                        # that are very unlikely to succeed; remaining photos are
-                        # left pending for the next scheduled run instead.
-                        print(
-                            f"  {consecutive_transient_failures} consecutive Gemini outage-like "
-                            "failures -- treating as an outage and stopping new requests for this run.",
-                            flush=True,
-                        )
-                        stop_calls = True
+                if isinstance(exc, ImageFetchError):
+                    # No Gemini call was ever attempted for this photo -- don't
+                    # charge it against this run's Gemini request budget, and
+                    # leave the outage streak untouched either way (a single
+                    # unrelated bad photo URL shouldn't erase a real streak of
+                    # Gemini failures bracketing it, the way a successful
+                    # describe or an affirmative non-transient Gemini response
+                    # legitimately would).
+                    pass
                 else:
-                    # A permanent/unrelated failure (bad image URL, non-retryable
-                    # 4xx) doesn't indicate Gemini itself is unhealthy -- don't
-                    # let it count toward the outage breaker.
-                    consecutive_transient_failures = 0
+                    requests_made += 1
+                    if _is_outage_signal(exc):
+                        consecutive_transient_failures += 1
+                        if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
+                            # Gemini looks genuinely down, not just one flaky photo --
+                            # stop burning the rest of this run's budget/time on calls
+                            # that are very unlikely to succeed; remaining photos are
+                            # left pending for the next scheduled run instead.
+                            print(
+                                f"  {consecutive_transient_failures} consecutive Gemini outage-like "
+                                "failures -- treating as an outage and stopping new requests for this run.",
+                                flush=True,
+                            )
+                            stop_calls = True
+                    else:
+                        # A non-transient Gemini response (e.g. a 4xx that isn't
+                        # 429) is an affirmative "Gemini is responding, just not
+                        # retryably" signal -- unlike ImageFetchError, it's safe
+                        # (and correct) to let it clear the outage streak.
+                        consecutive_transient_failures = 0
                 time.sleep(MIN_SECONDS_BETWEEN_CALLS)
                 continue
 
