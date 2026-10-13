@@ -90,6 +90,17 @@ Outputs (smallest/most-frequent read first):
      logged (`Gemini free-tier daily/minute quota exceeded -- remaining
      photos in this batch left pending.`) so it's visible in the run log,
      not just inferable from pending markers after the fact.
+   - On a 5xx (the model itself briefly overloaded -- Google's error body
+     literally says "This model is currently experiencing high demand",
+     common on the free-tier "lite" model) or a read timeout, a single photo
+     is retried in-process up to 3 times with an **exponential backoff**
+     (10s, 20s, 40s). A live A/B test confirmed this is the right fix:
+     hammering the API ~5s apart mostly got 503s, while the same model
+     spaced ~15s apart succeeded every time — so waiting longer on retry,
+     not switching models, clears it. If it's still failing after exhausting
+     retries, the photo is recorded as `(description unavailable: ...)`
+     without being cached, so it's retried fresh on the next run, and the
+     failure is printed to the run log for visibility.
    - **Trust boundary:** a Gemini description replaces your own eyes on a
      photo, which is fine for low-stakes drafting (a playful reply), but
      treat it as a draft input, not ground truth, before anything

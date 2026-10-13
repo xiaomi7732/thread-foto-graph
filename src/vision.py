@@ -16,12 +16,15 @@ next scheduled run.
 
 On a 5xx (the model itself briefly overloaded/unavailable -- common on the
 free-tier "lite" model) or a read timeout, describe_image() also retries
-in-process a couple of times with a short fixed backoff (Gemini gives no
-Retry-After for these). If it still fails after that, describe_images()
-records "(description unavailable: ...)" for that photo without caching it,
-so it's retried fresh on the next run -- but the failure is now also printed
-to the run log, so a run hitting a lot of these is visible there instead of
-only showing up later in the committed markdown.
+in-process, up to 3 times, with an exponential backoff (10s, 20s, 40s --
+Gemini gives no Retry-After for these). A live test confirmed this is the
+right fix: hammering the API ~5s apart mostly got 503 "high demand" errors,
+while the same model spaced ~15s apart succeeded every time. If it still
+fails after exhausting retries, describe_images() records
+"(description unavailable: ...)" for that photo without caching it, so it's
+retried fresh on the next run -- and the failure is printed to the run log,
+so a run hitting a lot of these is visible there instead of only showing up
+later in the committed markdown.
 """
 from __future__ import annotations
 
@@ -60,12 +63,25 @@ MAX_RETRY_DELAY_SECONDS = 60.0
 
 # 5xx responses mean the model itself is briefly overloaded/unavailable --
 # this is common on the free-tier "lite" model and is unrelated to our own
-# rate limiting. Unlike 429, Gemini gives no Retry-After for these, so a
-# short fixed backoff is all there is to go on. Read timeouts get the same
-# treatment -- both are transient and usually clear within a few seconds.
+# rate limiting. Unlike 429, Gemini gives no Retry-After for these, so there's
+# nothing to honor like the 429 path does -- just an exponential backoff.
+# A live A/B test confirmed this matters: hammering the API with ~5s between
+# attempts produced mostly 503 "high demand" errors, but the exact same model
+# spaced ~15s apart succeeded 3/3 -- so waiting longer, not switching models,
+# is the fix. Read timeouts get the same treatment -- both are transient and
+# tend to clear once the model has had a moment to catch up.
 TRANSIENT_STATUS_CODES = {500, 502, 503, 504}
-MAX_TRANSIENT_RETRIES = 2
-TRANSIENT_RETRY_DELAY_SECONDS = 5.0
+MAX_TRANSIENT_RETRIES = 3
+TRANSIENT_RETRY_BASE_DELAY_SECONDS = 10.0
+TRANSIENT_RETRY_MAX_DELAY_SECONDS = 60.0
+
+
+def _transient_retry_delay(retry_number: int) -> float:
+    """Exponential backoff for retry `retry_number` (1-indexed): 10s, 20s,
+    40s, ... capped at TRANSIENT_RETRY_MAX_DELAY_SECONDS so one photo can't
+    stall a run indefinitely.
+    """
+    return min(TRANSIENT_RETRY_BASE_DELAY_SECONDS * (2 ** (retry_number - 1)), TRANSIENT_RETRY_MAX_DELAY_SECONDS)
 
 # Matches "?key=..." / "&key=..." style query params so a stray secret can
 # never make it into a committed file (data/topics.md) via an error message.
@@ -150,12 +166,13 @@ def describe_image(image_url: str) -> str:
             retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES:
                 raise
+            delay = _transient_retry_delay(retries_transient)
             print(
-                f"  Gemini request timed out -- retrying in {TRANSIENT_RETRY_DELAY_SECONDS:.0f}s "
+                f"  Gemini request timed out -- retrying in {delay:.0f}s "
                 f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                 flush=True,
             )
-            time.sleep(TRANSIENT_RETRY_DELAY_SECONDS)
+            time.sleep(delay)
             continue
 
         if resp.status_code == 429:
@@ -182,12 +199,13 @@ def describe_image(image_url: str) -> str:
             retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES:
                 break  # Give up -- raise_for_status() below raises the HTTPError.
+            delay = _transient_retry_delay(retries_transient)
             print(
                 f"  Gemini server error ({resp.status_code}) -- retrying in "
-                f"{TRANSIENT_RETRY_DELAY_SECONDS:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
+                f"{delay:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                 flush=True,
             )
-            time.sleep(TRANSIENT_RETRY_DELAY_SECONDS)
+            time.sleep(delay)
             continue
 
         break
