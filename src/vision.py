@@ -370,18 +370,29 @@ def describe_images(
                     # charge it against this run's Gemini request budget, and
                     # leave the Gemini outage streak untouched either way (a
                     # single unrelated bad photo URL shouldn't erase a real
-                    # streak of Gemini failures bracketing it). Instead, track
-                    # it against its own independent breaker -- an image-host
-                    # outage is just as unbounded as a Gemini one otherwise.
-                    consecutive_image_fetch_failures += 1
-                    if consecutive_image_fetch_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
-                        print(
-                            f"  {consecutive_image_fetch_failures} consecutive photo-download "
-                            "failures -- treating as an image-host outage and stopping new "
-                            "requests for this run.",
-                            flush=True,
-                        )
-                        stop_calls = True
+                    # streak of Gemini failures bracketing it). Only count it
+                    # toward the *image-host* breaker if it actually looks like
+                    # the host is struggling (timeout/connection/5xx, via the
+                    # original exception preserved on __cause__) -- a
+                    # permanent per-photo failure (404/403, bad URL) recurs
+                    # identically every run since it's never cached, and would
+                    # otherwise permanently stop_calls every run forever even
+                    # though the image host is perfectly healthy.
+                    if _is_outage_signal(exc.__cause__ or exc):
+                        consecutive_image_fetch_failures += 1
+                        if consecutive_image_fetch_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
+                            print(
+                                f"  {consecutive_image_fetch_failures} consecutive photo-download "
+                                "failures -- treating as an image-host outage and stopping new "
+                                "requests for this run.",
+                                flush=True,
+                            )
+                            stop_calls = True
+                    else:
+                        # A permanent, unrelated-to-the-host failure (bad URL,
+                        # 404/403) -- the host itself is fine, so don't let it
+                        # count toward (or clear) the image-host outage streak.
+                        pass
                 else:
                     requests_made += 1
                     consecutive_image_fetch_failures = 0
