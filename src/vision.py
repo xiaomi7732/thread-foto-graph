@@ -109,10 +109,16 @@ def describe_images(media_items: list[dict], cache: dict, max_requests: int, on_
 
             try:
                 description = describe_image(photo["media_url"])
-            except QuotaExceededError:
+            except QuotaExceededError as exc:
                 # Don't abandon the whole batch silently: keep looping so
                 # later cache-hit items/photos still get their description,
-                # just stop making new network calls.
+                # just stop making new network calls. This used to be a
+                # silent no-op from the caller's point of view (no print),
+                # which made "why is this photo still pending?" undiagnosable
+                # from run logs alone -- print once per describe_images() call
+                # so it's visible exactly when/why it happened.
+                if not quota_hit:
+                    print(f"  {exc} -- remaining photos in this batch left pending.", flush=True)
                 quota_hit = True
                 descriptions.append(None)
                 continue
