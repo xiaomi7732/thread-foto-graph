@@ -134,9 +134,20 @@ def _transient_retry_delay(retry_number: int) -> float:
 # never make it into a committed file (data/topics.md) via an error message.
 _QUERY_SECRET_RE = re.compile(r"([?&](?:key|access_token)=)[^&\s)]+", re.IGNORECASE)
 
+# Broader safety net: strip the entire query string off any http(s) URL in
+# a sanitized message, not just a named key/access_token param. requests'
+# own exception text (e.g. "404 Client Error: ... for url: <url>") embeds
+# the full request URL verbatim, and image-fetch failures carry the
+# source photo's CDN media_url -- which can carry its own signed/session
+# query params unrelated to our own credentials. Those end up committed
+# verbatim into data/topics.md via ImageFetchError's message (round 14A
+# review finding), so redact every URL's query string here too.
+_URL_QUERY_RE = re.compile(r"(https?://[^\s?)]+)\?[^\s)]*")
+
 
 def _sanitize(message: str) -> str:
-    return _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
+    message = _QUERY_SECRET_RE.sub(r"\1REDACTED", message)
+    return _URL_QUERY_RE.sub(r"\1?REDACTED", message)
 
 
 class QuotaExceededError(RuntimeError):
@@ -538,7 +549,7 @@ _TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {
 def _is_stale_cached_placeholder(value: str) -> bool:
     """True for a cached "description" written by a now-fixed bug in a past
     version of describe_image()/describe_images() that should never be
-    trusted as a real cache hit -- see the two cases in describe_images()'s
+    trusted as a real cache hit -- see the cases in describe_images()'s
     cache-read self-heal:
     1. The exact legacy NO_DESCRIPTION_TEXT literal (cached forever before
        GeminiResponseShapeError existed).
@@ -546,7 +557,14 @@ def _is_stale_cached_placeholder(value: str) -> bool:
        trusted/known block reason -- written during the brief window where
        finishReason was checked by truthiness instead of against the
        allowlist (e.g. "reason: STOP", "reason: MAX_TOKENS").
+    3. A falsy (empty/whitespace-only) cached value -- written by a now-
+       fixed bug where an empty Gemini text part was treated as a
+       successful description (round 12B review finding) before the fix
+       that stopped new ones from being cached. A pre-existing empty
+       entry would otherwise be trusted as a real cache hit forever.
     """
+    if not value:
+        return True
     if value == NO_DESCRIPTION_TEXT:
         return True
     match = _STALE_BLOCK_PLACEHOLDER_RE.match(value)
