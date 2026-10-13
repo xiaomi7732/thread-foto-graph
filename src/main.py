@@ -44,8 +44,16 @@ def main() -> int:
         made = vision.describe_images([thread], cache, budget - requests_made, persist_progress)
         requests_made += made
         # Walk the full nested reply tree (not just top-level replies) so
-        # every reply-to-a-reply photo gets described too.
-        all_replies = list(threads_client.iter_replies(thread.get("replies", [])))
+        # every reply-to-a-reply photo gets described too. Newest-first, so
+        # a budget/quota-limited run spends its vision requests on the most
+        # recent activity (what's actually actionable soon) instead of
+        # working through the backlog in arrival order and never reaching
+        # the latest replies.
+        all_replies = sorted(
+            threads_client.iter_replies(thread.get("replies", [])),
+            key=lambda reply: reply.get("timestamp") or "",
+            reverse=True,
+        )
         made = vision.describe_images(all_replies, cache, budget - requests_made, persist_progress)
         requests_made += made
         print(
