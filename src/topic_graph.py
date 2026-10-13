@@ -6,15 +6,22 @@ similarity (union-find over a similarity threshold, so no fixed topic count
 is required at this small daily scale).
 
 Produces:
-  - data/actions.md         flat action list for Muse: just the replies that
-                            still need a reply or a like, each a
-                            self-contained bullet (own text/photo + one line
-                            of immediate parent context + thread backlink) --
-                            no topic grouping, no tree to walk. This is what
-                            keeps the per-read token cost flat over time, not
-                            topics.md, since it grows only with the number of
-                            outstanding actions, not with total conversation
-                            size.
+  - data/needs-reply.md     flat list of replies that still need a reply
+                            (photo replies), each a self-contained bullet
+                            (own text/photo + one line of immediate parent
+                            context + thread backlink) -- no topic grouping,
+                            no tree to walk. This is the bulk of the data
+                            (full photo descriptions), so it's split out from
+                            needs-like.md to keep the like-watch's read small.
+  - data/needs-like.md      flat list of replies that still need a like
+                            (text-only replies, no photo description to
+                            carry) -- a much smaller file, meant for a
+                            worker/cron that only decides likes and has no
+                            use for the reply-drafting bulk.
+  - data/actions.md         combined convenience copy of both of the above,
+                            in one file, for a human skimming everything at
+                            once. Not meant to be the primary machine read --
+                            prefer the two split files above for that.
   - data/topics.md          compact, actionable-first *structural* view for
                             Muse: thread summaries plus ONLY replies that
                             still need a response (config.THREADS_USERNAME
@@ -46,6 +53,8 @@ TOP_KEYWORDS = 4
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 ACTIONS_MD_PATH = ROOT_DIR / "data" / "actions.md"
+NEEDS_REPLY_MD_PATH = ROOT_DIR / "data" / "needs-reply.md"
+NEEDS_LIKE_MD_PATH = ROOT_DIR / "data" / "needs-like.md"
 TOPICS_MD_PATH = ROOT_DIR / "data" / "topics.md"
 THREADS_DIR = ROOT_DIR / "data" / "threads"
 GRAPH_JSON_PATH = ROOT_DIR / "docs" / "graph.json"
@@ -302,15 +311,12 @@ def _render_action_section(items: list[tuple[dict, dict, str | None]]) -> list[s
     return lines
 
 
-def _render_action_list(threads: list[dict]) -> str:
-    """Builds the flat, no-reply-tree action list -- the smallest read for
-    Muse day-to-day: just what still needs a reply vs. a like, grouped only
-    by thread (one header per thread, not per topic/cluster), each item a
-    self-contained bullet (own text/photo + one line of immediate parent
-    context if nested). data/topics.md keeps the fuller structural view;
-    this file is for "don't make me jump around the tree, just tell me what
-    to do" with the least possible repetition.
-    """
+def _split_action_items(
+    threads: list[dict],
+) -> tuple[list[tuple[dict, dict, str | None]], list[tuple[dict, dict, str | None]]]:
+    """Walks every thread's actionable replies and splits them into
+    (reply_items, like_items) -- shared by all three action-list renderers
+    so the categorization logic lives in exactly one place."""
     reply_items: list[tuple[dict, dict, str | None]] = []
     like_items: list[tuple[dict, dict, str | None]] = []
     for thread in threads:
@@ -320,31 +326,62 @@ def _render_action_list(threads: list[dict]) -> str:
                 reply_items.append(entry)
             else:
                 like_items.append(entry)
+    return reply_items, like_items
 
+
+BROWSER_ONLY_NOTE = (
+    "_This needs a browser session to actually post -- the Threads API has "
+    "no endpoint to like a reply (returns HTTP 400), so drafting here "
+    "doesn't mean \"API-actionable\": every item below still ends with a "
+    "human/browser posting it._"
+)
+
+
+def _render_needs_reply_md(reply_items: list[tuple[dict, dict, str | None]]) -> str:
+    """Builds data/needs-reply.md -- just the photo replies still awaiting a
+    reply. This carries the bulk of the data (full photo descriptions), so
+    it's kept separate from needs-like.md: a worker that only decides likes
+    shouldn't have to load all this to get to its much smaller list."""
     lines = [
-        "# Action List",
+        "# Needs Reply",
         "",
-        "_Flat list of everything still awaiting your attention -- no topic "
-        "grouping, no already-answered branches, no reply tree to walk, and "
-        "each thread's link shown only once. See data/topics.md for fuller "
+        "_Flat list of replies still awaiting a reply -- no topic grouping, "
+        "no already-answered branches, no reply tree to walk, and each "
+        "thread's link shown only once. See data/topics.md for fuller "
         "structural/thread context, or data/threads/<id>.md for the full "
-        "conversation._",
+        "conversation. See data/needs-like.md for the (much smaller) "
+        "text-only replies that just need a like._",
         "",
-        "_Both sections need a browser session to actually post -- the "
-        "Threads API has no endpoint to like a reply (returns HTTP 400), so "
-        "drafting here doesn't mean \"API-actionable\": every item below "
-        "still ends with a human/browser posting it._",
+        BROWSER_ONLY_NOTE,
         "",
         f"## Needs Reply ({len(reply_items)})",
         "",
     ]
     if not reply_items:
         lines.append("_Nothing -- all photo replies answered._")
-        lines.append("")
     else:
         lines.extend(_render_action_section(reply_items))
-    lines.append(f"## Needs Like ({len(like_items)})")
-    lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def _render_needs_like_md(like_items: list[tuple[dict, dict, str | None]]) -> str:
+    """Builds data/needs-like.md -- just the text-only replies still
+    awaiting a like. Deliberately tiny (no photo descriptions to carry) so a
+    like-only worker/cron can load this instead of the much bigger
+    needs-reply.md."""
+    lines = [
+        "# Needs Like",
+        "",
+        "_Flat list of text-only replies still awaiting a like -- no topic "
+        "grouping, each thread's link shown only once. See "
+        "data/needs-reply.md for the (bigger) photo replies that need an "
+        "actual reply._",
+        "",
+        BROWSER_ONLY_NOTE,
+        "",
+        f"## Needs Like ({len(like_items)})",
+        "",
+    ]
     if not like_items:
         lines.append("_Nothing -- all text replies answered._")
     else:
@@ -357,6 +394,31 @@ def _render_action_list(threads: list[dict]) -> str:
                     f"- {reply.get('username', 'unknown')}: {_snippet(reply.get('text', ''), length=None)}{reply_link}"
                 )
             lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def _render_action_list(needs_reply_md: str, needs_like_md: str) -> str:
+    """Builds data/actions.md -- a combined convenience copy of
+    needs-reply.md + needs-like.md in one file, for a human skimming
+    everything at once. Prefer the two split files for machine reads: this
+    one re-bundles the full (large) reply section even for a consumer that
+    only wants the like list."""
+    lines = [
+        "# Action List",
+        "",
+        "_Combined convenience copy of data/needs-reply.md + "
+        "data/needs-like.md, for skimming everything in one place. If "
+        "you're building a worker that only needs one of the two (e.g. a "
+        "like-only cron), read that file directly instead -- it's much "
+        "smaller._",
+        "",
+    ]
+    # Re-use each file's own body, dropping its top-level title line so the
+    # combined file reads as one document with '##' section headers.
+    for md in (needs_reply_md, needs_like_md):
+        body_lines = md.splitlines()[2:]  # drop "# Needs X" + blank line
+        lines.extend(body_lines)
+        lines.append("")
     return "\n".join(lines)
 
 
@@ -387,7 +449,9 @@ def _render_archive_thread(thread: dict) -> str:
 
 def build_topic_graph(threads: list[dict]) -> dict:
     """Returns the full graph structure and writes:
-      - data/actions.md         flat action list (primary Muse read)
+      - data/needs-reply.md     flat list of photo replies needing a reply
+      - data/needs-like.md      flat list of text-only replies needing a like
+      - data/actions.md         combined convenience copy of the above two
       - data/topics.md          compact, actionable-first structural view
       - data/threads/<id>.md    full per-thread archive
       - docs/graph.json         full visual-graph archive
@@ -397,6 +461,10 @@ def build_topic_graph(threads: list[dict]) -> dict:
     GRAPH_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     if not threads:
+        empty_reply_md = "# Needs Reply\n\n_No threads found in the lookback window._\n"
+        empty_like_md = "# Needs Like\n\n_No threads found in the lookback window._\n"
+        NEEDS_REPLY_MD_PATH.write_text(empty_reply_md, encoding="utf-8")
+        NEEDS_LIKE_MD_PATH.write_text(empty_like_md, encoding="utf-8")
         ACTIONS_MD_PATH.write_text(
             "# Action List\n\n_No threads found in the lookback window._\n", encoding="utf-8"
         )
@@ -406,7 +474,12 @@ def build_topic_graph(threads: list[dict]) -> dict:
         GRAPH_JSON_PATH.write_text(json.dumps({"nodes": [], "edges": []}, indent=2))
         return {"nodes": [], "edges": []}
 
-    ACTIONS_MD_PATH.write_text(_render_action_list(threads), encoding="utf-8")
+    reply_items, like_items = _split_action_items(threads)
+    needs_reply_md = _render_needs_reply_md(reply_items)
+    needs_like_md = _render_needs_like_md(like_items)
+    NEEDS_REPLY_MD_PATH.write_text(needs_reply_md, encoding="utf-8")
+    NEEDS_LIKE_MD_PATH.write_text(needs_like_md, encoding="utf-8")
+    ACTIONS_MD_PATH.write_text(_render_action_list(needs_reply_md, needs_like_md), encoding="utf-8")
 
     docs = [_thread_document(t) for t in threads]
     cluster_ids, vectorizer, matrix = _cluster_threads(docs)

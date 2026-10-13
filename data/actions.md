@@ -1,8 +1,10 @@
 # Action List
 
-_Flat list of everything still awaiting your attention -- no topic grouping, no already-answered branches, no reply tree to walk, and each thread's link shown only once. See data/topics.md for fuller structural/thread context, or data/threads/<id>.md for the full conversation._
+_Combined convenience copy of data/needs-reply.md + data/needs-like.md, for skimming everything in one place. If you're building a worker that only needs one of the two (e.g. a like-only cron), read that file directly instead -- it's much smaller._
 
-_Both sections need a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
+_Flat list of replies still awaiting a reply -- no topic grouping, no already-answered branches, no reply tree to walk, and each thread's link shown only once. See data/topics.md for fuller structural/thread context, or data/threads/<id>.md for the full conversation. See data/needs-like.md for the (much smaller) text-only replies that just need a like._
+
+_This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
 ## Needs Reply (30)
 
@@ -85,6 +87,11 @@ _Both sections need a browser session to actually post -- the Threads API has no
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DeS1GhfjgRj))
   - Photo: A person wades along the wet sand at the water's edge, silhouetted against a bright, sunlit ocean where a strong sunburst breaks through the sky overhead.
 
+
+_Flat list of text-only replies still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for the (bigger) photo replies that need an actual reply._
+
+_This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
+
 ## Needs Like (22)
 
 ### Photographers, Golden Friday 🌟 Show me the most golden thin… ([thread](https://www.threads.com/@saars.foto/post/DeRtN3BkV3I))
@@ -112,3 +119,4 @@ _Both sections need a browser session to actually post -- the Threads API has no
 - gamalthaib: 👍 ([link](https://www.threads.com/@gamalthaib/post/DeRz_WFEluN))
 - powder_love_eat: 2nd👍 ([link](https://www.threads.com/@powder_love_eat/post/DeRxjH9Gi6W))
 - nofussgus_: Absolute pure luck ([link](https://www.threads.com/@nofussgus_/post/DeTgSnVE_N8))
+

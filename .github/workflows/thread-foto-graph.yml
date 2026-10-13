@@ -126,7 +126,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/actions.md data/topics.md data/threads docs/graph.json
+          git add data/needs-reply.md data/needs-like.md data/actions.md data/topics.md data/threads docs/graph.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

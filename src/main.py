@@ -2,7 +2,8 @@
 
 Intended to run on a schedule (see README for Task Scheduler setup). After
 this script finishes, the caller (scheduled wrapper) commits & pushes
-data/actions.md, data/topics.md and docs/graph.json so GitHub Pages and Muse
+data/needs-reply.md, data/needs-like.md, data/actions.md, data/topics.md and
+docs/graph.json so GitHub Pages and Muse
 can read them.
 """
 from __future__ import annotations
@@ -66,7 +67,8 @@ def main() -> int:
 
     graph = topic_graph.build_topic_graph(threads)
     print(
-        f"Wrote data/actions.md, data/topics.md and docs/graph.json "
+        f"Wrote data/needs-reply.md, data/needs-like.md, data/actions.md, "
+        f"data/topics.md and docs/graph.json "
         f"({len(graph['nodes'])} nodes, {len(graph['edges'])} edges).",
         flush=True,
     )

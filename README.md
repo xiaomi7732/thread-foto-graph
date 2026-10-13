@@ -15,23 +15,31 @@ entirely from the primary read) instead of being re-read in full every time
 file (see below).
 
 Outputs (smallest/most-frequent read first):
-- `data/actions.md` — **flat action list, no topic clustering, no reply tree
-  to walk.** Split into `## Needs Reply` (has a photo — worth a thoughtful
-  written reply) and `## Needs Like` (text-only — a like is usually enough),
-  with items grouped under a `### <thread>` header written **once per
-  thread** (not once per reply, which would just repeat the same
-  text/link over and over for a busy thread). Each reply bullet is otherwise
-  self-contained: its own text/photo description plus a one-line note on
-  what it's replying to if it's nested under another reply. **Point
-  Muse/AI at this file for day-to-day use** — its size tracks the number of
-  outstanding actions, not total conversation size, so it stays small even
-  as threads accumulate hundreds of already-answered replies.
+- `data/needs-reply.md` — **flat list of photo replies that still need a
+  reply**, no topic clustering, no reply tree to walk, items grouped under a
+  `### <thread>` header written **once per thread**. This carries the bulk
+  of the data (full photo descriptions), since a thoughtful reply usually
+  needs to reference what's in the photo.
+- `data/needs-like.md` — **flat list of text-only replies that still need a
+  like.** No photo descriptions to carry, so this file stays small (in
+  practice roughly a fifth the size of `needs-reply.md`) — point a
+  like-only worker/cron at this file specifically rather than the combined
+  `actions.md`, so it isn't paying to load reply-drafting content it never
+  uses.
+- `data/actions.md` — **combined convenience copy of the two files above**,
+  for a human skimming everything in one place. Each reply bullet is
+  otherwise self-contained: its own text/photo description plus a one-line
+  note on what it's replying to if it's nested under another reply. **Point
+  Muse/AI at `needs-reply.md`/`needs-like.md` directly for day-to-day,
+  per-worker use** — their combined size tracks the number of outstanding
+  actions, not total conversation size, so they stay small even as threads
+  accumulate hundreds of already-answered replies.
 - `data/topics.md` — compact, **actionable-first** text tree of topics →
   threads → still-unanswered replies, with photo descriptions inline instead
   of images, `**[NEEDS REPLY]**`/`**[NEEDS LIKE]**` markers, real nesting
   preserved, and a permalink per reply for manual validation. Useful when
-  thread/topic structure or reply hierarchy matters; otherwise `actions.md`
-  is the smaller read.
+  thread/topic structure or reply hierarchy matters; otherwise
+  `needs-reply.md`/`needs-like.md` is the smaller read.
 - `data/threads/<thread_id>.md` — one file per root thread with the **full,
   unpruned** conversation (every reply, answered or not). Not loaded by
   default; fetch a specific one only if deeper context on that thread is
@@ -70,22 +78,31 @@ Outputs (smallest/most-frequent read first):
      (e.g. crediting/describing a feature carousel or an IG roundup) — spot
      check the actual photo first.
 3. Cluster threads into topics by text similarity, prune each thread's reply
-   tree down to what's actionable, and write `actions.md` + `topics.md` +
+   tree down to what's actionable, and write `needs-reply.md` +
+   `needs-like.md` + `actions.md` + `topics.md` +
    the per-thread archives + `graph.json` (`src/topic_graph.py`). Reply/thread text is
    written in full (not truncated) wherever it's shown, since the whole
    point is to replace images, not compress text.
 
-### Flat action list (what to point Muse at day-to-day)
+### Flat action lists (what to point Muse at day-to-day)
 
-`data/actions.md` is the leanest read: it skips topic clustering and the
-reply tree entirely, listing only the replies that still need a response as
-flat, self-contained bullets (own text + photo description + a one-line
-"replying to" note if nested), grouped under one `### <thread>` header per
-thread -- written once, not once per reply, so a busy thread's snippet/link
-doesn't repeat for every one of its replies -- split into `## Needs Reply`
-and `## Needs Like`. Its size tracks the *number of outstanding actions*, not
+`data/needs-reply.md` and `data/needs-like.md` are the leanest reads: they
+skip topic clustering and the reply tree entirely, listing only the replies
+that still need a response as flat, self-contained bullets (own text + photo
+description + a one-line "replying to" note if nested), grouped under one
+`### <thread>` header per thread -- written once, not once per reply, so a
+busy thread's snippet/link doesn't repeat for every one of its replies.
+They're split into two separate files (rather than one combined file)
+because they're asymmetric in size and consumed differently: `needs-reply.md`
+carries full photo descriptions (in practice ~80% of the combined content),
+while `needs-like.md` is just one-liners (text + link). A worker that only
+decides likes (e.g. an hourly like-browsing cron) should read
+`needs-like.md` directly -- it has no use for the much bigger reply-drafting
+content and shouldn't pay to load it on every run. `data/actions.md` is kept
+as a combined convenience copy of both, for a human skimming everything at
+once. Their combined size tracks the *number of outstanding actions*, not
 total conversation volume, so a 300-reply giveaway thread that's mostly
-already-answered doesn't bloat it — only the genuinely unanswered items do.
+already-answered doesn't bloat them — only the genuinely unanswered items do.
 `data/topics.md` keeps the fuller tree/topic view for when hierarchy matters.
 
 ### Actionable-first pruning (what keeps topics.md small)
@@ -145,7 +162,7 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
      It's auto-refreshed on subsequent runs, so you only need to set this once.
    - `THREADS_USERNAME` — your own Threads username, used to tell "already
      answered by me" replies apart from everyone else's (drives the
-     actionable-first pruning in `actions.md`/`topics.md`).
+     actionable-first pruning in `needs-reply.md`/`needs-like.md`/`topics.md`).
    - `GEMINI_API_KEY` — a free Google AI Studio API key
      (https://aistudio.google.com/apikey).
    - `GEMINI_MODEL` — defaults to `gemini-3.5-flash-lite` (500 free
@@ -156,8 +173,9 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    $env:MAX_ROOT_THREADS="2"
    .venv\Scripts\python.exe -u -m src.main
    ```
-   Check `data/actions.md`, `data/topics.md`, `data/threads/`, and
-   `docs/graph.json` were created/updated.
+   Check `data/needs-reply.md`, `data/needs-like.md`, `data/actions.md`,
+   `data/topics.md`, `data/threads/`, and `docs/graph.json` were
+   created/updated.
 
 ## Obtaining a long-lived Threads token
 
@@ -301,13 +319,20 @@ Notes on how it differs from the Task Scheduler setup:
 
 ## Pointing AI at the text tree
 
-Since the repo is public, give AI the raw URL so it reads text only:
+Since the repo is public, give AI the raw URL so it reads text only. Point a
+reply-drafting worker at the (larger) reply list:
 ```
-https://raw.githubusercontent.com/xiaomi7732/thread-foto-graph/main/data/actions.md
+https://raw.githubusercontent.com/xiaomi7732/thread-foto-graph/main/data/needs-reply.md
+```
+Point a like-only worker at the (much smaller) like list instead, so it
+isn't paying to load reply-drafting content it never uses:
+```
+https://raw.githubusercontent.com/xiaomi7732/thread-foto-graph/main/data/needs-like.md
 ```
 This is the leanest, flat action list — just what still needs a reply or a
-like, each self-contained. Use `data/topics.md` (same raw-URL pattern) if
-thread/topic structure matters, or drill into a specific
+like, each self-contained. `data/actions.md` (same raw-URL pattern) is a
+combined copy of both, handy for a human skimming everything at once. Use
+`data/topics.md` if thread/topic structure matters, or drill into a specific
 `data/threads/<thread_id>.md` if full conversation history on a thread is
 needed.
 
@@ -318,7 +343,8 @@ needed.
   this project ever deletes or clears it automatically; it only grows.
 - `data/threads/<thread_id>.md` archive files accumulate similarly to the
   cache — nothing deletes them once a thread rolls out of the
-  `LOOKBACK_DAYS` window, even though `actions.md`/`topics.md` stop
+  `LOOKBACK_DAYS` window, even though `needs-reply.md`/`needs-like.md`/
+  `actions.md`/`topics.md` stop
   mentioning it. This is intentional (so old archive links never go stale),
   but means the `data/threads/` folder only grows over time.
 - `LOOKBACK_DAYS` filters by each **root post's** age, not its replies' —
