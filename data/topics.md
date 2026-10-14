@@ -2,24 +2,43 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: pattern, shot, white, doing
+## Topic: shot, pattern, white, building
 
 - **Thread** [18135512893646626](https://www.threads.com/@saars.foto/post/Deb-hntkVX8): Photographers, Pattern Tuesday 📸📸📸 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background.
+  - **[NEEDS REPLY]** Reply by sac010502:  ([link](https://www.threads.com/@sac010502/post/DedS3bklKJx))
+    - Photo: An eye-level shot captures a large chandelier of glowing glass globes hanging from a dark ceiling, casting a warm yellow light. The strands recede into the distance, appearing smaller and tighter together, creating a hypnotic, repeating pattern.
+  - **[NEEDS REPLY]** Reply by tallymountain:  ([link](https://www.threads.com/@tallymountain/post/DedPOISCd93))
+    - Photo: A scenic view of rippled wet sand on a beach leading to the calm sea, where the sun sets on the horizon beneath a sky filled with dark, dramatic clouds. Golden sunlight reflects off the water's surface and glistens on the ridges of the sand, creating a serene and captivating atmosphere.
+  - **[NEEDS REPLY]** Reply by eugeneevon: Frank Lloyd Wright designed Marin Civic Center building. ([link](https://www.threads.com/@eugeneevon/post/DedEtZ7GCWT))
+    - Photo: A low-angle view captures the Marin County Civic Center in San Rafael, California, with its iconic blue roof and repetitive arch motifs on a clear, sunny day. The long, horizontal structure extends into the distance, framed by lush green foliage in the foreground.
+  - **[NEEDS REPLY]** Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DedDLFhjh6U))
+    - Photo: A mesmerizing installation of numerous iconic turquoise Tiffany & Co. gift boxes suspended in mid-air creates a captivating, floating cloud effect. The overhead view, enhanced by reflective surfaces, suggests an immersive luxury retail experience designed for social media sharing.
   - **[NEEDS REPLY]** Reply by michelpbeaudry:  ([link](https://www.threads.com/@michelpbeaudry/post/DedC2TUDx_Z))
     - Photo: A low-angle view captures the towering height of a massive, rough-barked tree, its thick trunk tapering upward into a canopy of green leaves against a blue sky. Sunlight filters through the branches, highlighting the texture of the bark and creating a sense of being deep within a lush forest.
   - **[NEEDS REPLY]** Reply by mlaj69: Soap on my window in the car wash ([link](https://www.threads.com/@mlaj69/post/DedA-J0Gief))
     - Photo: Horizontal streaks of soapy foam wash across a car windshield during an automated car wash, partially obscuring the view of the machinery outside.
-  - Reply by posts.by.norman: Bipinnate Pattern of Jacaranda Leaves ([link](https://www.threads.com/@posts.by.norman/post/Dec71K_k1Ww))
-    - Photo: A top-down, vertical close-up shot shows a green leaf made up of many smaller green leaflets.  The small leaves are shaped like ovals and are lined with parallel white ridges that look like delicate veins.  The small, green leaves are attached to a large central vein and are also arranged in a pattern with leaves opposite each other on the stem.
-    - Reply by saars.foto: Bipinnate is a great word and an even better pattern. Those white ridges are doing lacework. ([link](https://www.threads.com/@saars.foto/post/DedBLoQEURe))
-      - **[NEEDS LIKE]** Reply by posts.by.norman: I appreciate your responses/insights. ([link](https://www.threads.com/@posts.by.norman/post/DedC21nk50Y))
+  - Reply by abnerabel125:  ([link](https://www.threads.com/@abnerabel125/post/Dec7WaKoxaw))
+    - Photo: A straight-on, eye-level, medium shot shows a wall made of gray rectangular bricks. The bricks feature a slightly uneven surface texture, giving them a rustic yet modern appearance.
+    - Reply by saars.foto: Gray bricks with just enough unevenness to keep it interesting. Rustic meets modern, as promised. ([link](https://www.threads.com/@saars.foto/post/DedBOZLEZ_1))
+      - **[NEEDS REPLY]** Reply by abnerabel125: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))
+        - Photo: A close-up shot of a curved wall made of textured, light-colored concrete blocks, with a shallow depth of field drawing focus to the foreground stones.
   - Reply by shiawasemainichi5:  ([link](https://www.threads.com/@shiawasemainichi5/post/DecpgM1E4Sl))
     - Photo: A high-angle, slightly diagonal shot captures a sprawling Japanese city stretching toward the horizon beneath a clear blue sky. A winding river cuts through the dense urban landscape filled with closely packed houses and buildings, under bright daytime lighting.
     - Reply by saars.foto: A whole city laid out like a circuit board with a river running through it. That diagonal framing works. ([link](https://www.threads.com/@saars.foto/post/DecuJhqGtxp))
       - Reply by shiawasemainichi5: I'm glad you liked it. Thank you. Seeing Japan from above might offer an interesting perspective. If you were just walking around the city, you'd only see a much more ordinary world. ([link](https://www.threads.com/@shiawasemainichi5/post/DecvqkakxG4))
         - Reply by saars.foto: Fantastic! To be fair though, Japan streets are never ordinary 🤭 ([link](https://www.threads.com/@saars.foto/post/DecxtctkqFL))
           - **[NEEDS LIKE]** Reply by shiawasemainichi5: That's how it may seem to tourists. But everything changes when you live in Japan. ([link](https://www.threads.com/@shiawasemainichi5/post/DecyUUmE1Lx))
+  - Reply by micawbersmu:  ([link](https://www.threads.com/@micawbersmu/post/Decias2DxgH))
+    - Photo: A lush, vibrant green forest floor carpeted with ferns and low-lying vegetation is framed by a grove of tall, slender tree trunks under a sun-dappled canopy.
+    - Reply by saars.foto: Ferns doing the carpet, trunks doing the columns. The forest has interior design. ([link](https://www.threads.com/@saars.foto/post/Decmdl5GGWL))
+      - Reply by micawbersmu: I hadn't thought of it that way 🤔 ([link](https://www.threads.com/@micawbersmu/post/DecmrxMDyQK))
+        - Reply by saars.foto: We all read the photo differently 🤭 so, tell us, what’s your read? ([link](https://www.threads.com/@saars.foto/post/DecozPVkhqD))
+          - **[NEEDS LIKE]** Reply by micawbersmu: I saw the grouping of 3-1-3 trees and the way it made a triangle. Columns of a different sort. ([link](https://www.threads.com/@micawbersmu/post/DedPMtPkYEi))
+  - Reply by susanrutledge:  ([link](https://www.threads.com/@susanrutledge/post/DecWIyBDlSl))
+    - Photo: A low-angle view captures the intricate white structural support beams and suspension cables of the Peace Bridge against a vibrant blue sky in Calgary, Alberta. A high-rise building with a grid-like window pattern stands on the right, providing an urban context to the scene.
+    - Reply by saars.foto: Those white beams against the blue are doing all the work. Calgary showing off. ([link](https://www.threads.com/@saars.foto/post/Deci8X6Fs4O))
+      - **[NEEDS LIKE]** Reply by susanrutledge: It’s actually the Humber Bridge in Toronto ([link](https://www.threads.com/@susanrutledge/post/DedaPL4An8i))
   - Reply by eyeofgotham:  ([link](https://www.threads.com/@eyeofgotham/post/DecT2T3EWYF))
     - Photo: A low-angle, eye-level, close-up shot focuses on a series of triangular metal handles connected to overhead monkey bars in a playground, captured in grayscale. The handles recede from the center into the background, creating a perspective that looks down the length of the parallel bars.
     - Reply by saars.foto: Monkey bars in grayscale look like a tiny brutalist city. Love the perspective. ([link](https://www.threads.com/@saars.foto/post/Deci9_tmRUt))
@@ -35,6 +54,11 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A tall residential building features a striking facade with undulating, wave-like balconies made of copper-toned metal, contrasting against a clear blue sky.
     - Reply by saars.foto: Those balconies look like the building is doing the wave. Front row seats for the whole street. ([link](https://www.threads.com/@saars.foto/post/DecRoGIlDq2))
       - **[NEEDS LIKE]** Reply by joseph_dtyyz: And the view of the lake too. ([link](https://www.threads.com/@joseph_dtyyz/post/DecSplyEWmd))
+  - Reply by matt.wilson.gc: Bottles of wine on a rack ([link](https://www.threads.com/@matt.wilson.gc/post/DecOl3tjYC7))
+    - Photo: A mesmerizing close-up shows a large matrix of glowing blue lights arranged in three distinct sections against a black background, creating an abstract, futuristic geometric pattern.
+    _(+1 more reply already answered under this, see archive)_
+    - **[NEEDS REPLY]** Reply by moccawinecellar: That looks very similar to a project we have done before! ([link](https://www.threads.com/@moccawinecellar/post/DedTtIDGo28))
+      - Photo: A sleek, modern wine cellar is bathed in dramatic blue lighting, with floor-to-ceiling racks of wine bottles lining the walls and a central display stand holding select bottles.
   - Reply by paradigm2046onfilm:  ([link](https://www.threads.com/@paradigm2046onfilm/post/DecMbJlI5Q6))
     - Photo: A close-up shot fills the frame with a bowl of golden-brown caramel corn, glistening under a warm light. The rich, glossy coating on every piece creates an irresistible invitation for a cozy movie night.
     - Reply by saars.foto: A mountain of popcorn with zero structural integrity and I respect that. ([link](https://www.threads.com/@saars.foto/post/DecRqmqHOJu))
@@ -70,4 +94,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A dark fabric features a spooky damask pattern of ornate scrollwork intertwined with subtle motifs of skulls, ravens, and spiderwebs.
     - Reply by saars.foto: Skulls, spiders AND bats? That duvet is doing Halloween overtime. TK Maxx coming through. ([link](https://www.threads.com/@saars.foto/post/DecCffPoGkj))
       - **[NEEDS LIKE]** Reply by thetonbridgegardener: And crows. And spiders' webs. Love it. ([link](https://www.threads.com/@thetonbridgegardener/post/DecEs4EjeNF))
-  _(+96 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
+  _(+90 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_

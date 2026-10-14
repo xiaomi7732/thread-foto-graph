@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18135512893646626",
-      "label": "pattern, shot, white, doing",
+      "label": "shot, pattern, white, building",
       "group": 0,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
@@ -10,8 +10,52 @@
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 145,
+      "reply_count": 154,
       "replies": [
+        {
+          "username": "sac010502",
+          "text": "",
+          "permalink": "https://www.threads.com/@sac010502/post/DedS3bklKJx",
+          "photos": [
+            "An eye-level shot captures a large chandelier of glowing glass globes hanging from a dark ceiling, casting a warm yellow light. The strands recede into the distance, appearing smaller and tighter together, creating a hypnotic, repeating pattern."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "tallymountain",
+          "text": "",
+          "permalink": "https://www.threads.com/@tallymountain/post/DedPOISCd93",
+          "photos": [
+            "A scenic view of rippled wet sand on a beach leading to the calm sea, where the sun sets on the horizon beneath a sky filled with dark, dramatic clouds. Golden sunlight reflects off the water's surface and glistens on the ridges of the sand, creating a serene and captivating atmosphere."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "eugeneevon",
+          "text": "Frank Lloyd Wright designed Marin Civic Center building.",
+          "permalink": "https://www.threads.com/@eugeneevon/post/DedEtZ7GCWT",
+          "photos": [
+            "A low-angle view captures the Marin County Civic Center in San Rafael, California, with its iconic blue roof and repetitive arch motifs on a clear, sunny day. The long, horizontal structure extends into the distance, framed by lush green foliage in the foreground."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "trayjayhay",
+          "text": "",
+          "permalink": "https://www.threads.com/@trayjayhay/post/DedDLFhjh6U",
+          "photos": [
+            "A mesmerizing installation of numerous iconic turquoise Tiffany & Co. gift boxes suspended in mid-air creates a captivating, floating cloud effect. The overhead view, enhanced by reflective surfaces, suggests an immersive luxury retail experience designed for social media sharing."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
         {
           "username": "michelpbeaudry",
           "text": "",
@@ -78,9 +122,19 @@
                   "text": "I appreciate your responses/insights.",
                   "permalink": "https://www.threads.com/@posts.by.norman/post/DedC21nk50Y",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
-                  "replies": []
+                  "needs_response": false,
+                  "action": null,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That is my pleasure \ud83e\udd2d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DedQlWRGgFY",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -124,7 +178,19 @@
               "photos": [],
               "needs_response": false,
               "action": null,
-              "replies": []
+              "replies": [
+                {
+                  "username": "abnerabel125",
+                  "text": "I actually like that photo. I like the way it looks and from a different perspective",
+                  "permalink": "https://www.threads.com/@abnerabel125/post/DedGGhkGW6A",
+                  "photos": [
+                    "A close-up shot of a curved wall made of textured, light-colored concrete blocks, with a shallow depth of field drawing focus to the foreground stones."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -485,7 +551,17 @@
                       "photos": [],
                       "needs_response": false,
                       "action": null,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "micawbersmu",
+                          "text": "I saw the grouping of 3-1-3 trees and the way it made a triangle. Columns of a different sort.",
+                          "permalink": "https://www.threads.com/@micawbersmu/post/DedPMtPkYEi",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -842,7 +918,17 @@
               "photos": [],
               "needs_response": false,
               "action": null,
-              "replies": []
+              "replies": [
+                {
+                  "username": "susanrutledge",
+                  "text": "It\u2019s actually the Humber Bridge in Toronto",
+                  "permalink": "https://www.threads.com/@susanrutledge/post/DedaPL4An8i",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1044,6 +1130,17 @@
           "needs_response": false,
           "action": null,
           "replies": [
+            {
+              "username": "moccawinecellar",
+              "text": "That looks very similar to a project we have done before!",
+              "permalink": "https://www.threads.com/@moccawinecellar/post/DedTtIDGo28",
+              "photos": [
+                "A sleek, modern wine cellar is bathed in dramatic blue lighting, with floor-to-ceiling racks of wine bottles lining the walls and a central display stand holding select bottles."
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "A whole grid of glowing blue bottles. This is what a wine cellar dreams about.",
