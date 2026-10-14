@@ -6,13 +6,20 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (17)
 
 ### Water Wednesday 🌊 Niagara, because sometimes water just sho… ([thread](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx))
-- **terryleeballard**:  ([link](https://www.threads.com/@terryleeballard/post/Dee-iIjlhFc))
-  - Photo: A low-angle, medium shot captures a small, leafy tree with autumn-tinted leaves contrasting against the white rush of a waterfall, set against a dark grey cliff face.
-- **stanleypruett**: Night hike to Yosemite's Vernal Falls. ([link](https://www.threads.com/@stanleypruett/post/Dee9116GLA1))
-  - Photo: A long-exposure shot captures Vernal Fall at night, illuminated by the night sky filled with a multitude of stars.
+- **heidi.undefined**:  ([link](https://www.threads.com/@heidi.undefined/post/DefCx0aDQlR))
+  - Photo: A long, narrow cloud stretches across a blue sky above a reflective lake, its illuminated edge glowing with a warm, sunset-like orange hue. The dramatic cloud formation is mirrored perfectly in the calm dark water below, framed by the silhouettes of distant trees and bare shoreline brush.
+- **travel.marvin**:  ([link](https://www.threads.com/@travel.marvin/post/DefBevOG8_L))
+  - Photo: A long, wet concrete pier stretches toward a red lighthouse under a bright, cloudy sky with the sun shining high above. A few distant figures can be seen walking near the end of the pier, beside the vast, dark water of the lake.
+- **michaelgiancarlo772**: Here's mine Curug Ngumpet from Indonesia ([link](https://www.threads.com/@michaelgiancarlo772/post/DefBKj0ktKO))
+  - Photo: A person in a wetsuit and helmet is rappelling down a tall waterfall in a lush, green jungle, with spectators watching from the rocky bank.
+  - Photo: A vertical shot shows a person rappelling down a waterfall deep in the jungle. A tiered waterfall fills the frame, with rushing white water spilling over dark rocks in the foreground and a smaller cascade plunging from a cliff in the background.
+  - Photo: An adventurous person, wearing a helmet, navigates a swift waterfall. Ropes extend from the water to the person above.
+  - Photo: A vertical eye-level shot captures two people descending a waterfall on ziplines in a lush jungle. A large waterfall rushes down a brown rocky cliff covered with green vegetation. The person on the right is almost in a horizontal position with arms outstretched and feet crossed, while the person on the left is holding the zipline in a vertical position with feet facing down.
+- **aaronschwartz1**: Niagara River after the falls ([link](https://www.threads.com/@aaronschwartz1/post/Dee_AwajlxI))
+  - Photo: A large tree frames a view of a vibrant, turquoise river winding through a lush, green gorge under an overcast sky. The elevated vantage point and natural framing make this a peaceful, scenic spot to share on social media.
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
 - **fall4paul**:  ([link](https://www.threads.com/@fall4paul/post/Deeq0n0jw3y))
