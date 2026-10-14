@@ -2,10 +2,18 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: shot, waterfall, sky, water
+## Topic: shot, water, sky, pattern
 
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
+  - **[NEEDS REPLY]** Reply by babbleon156: This is a pond in copetown, Ontario ([link](https://www.threads.com/@babbleon156/post/DefKb2gGOVs))
+    - Photo: A misty, overcast day in a quiet forest surrounds a serene lake, framed by tall pine trees and vibrant green grass. The foggy atmosphere creates a peaceful, secluded mood, ideal for nature lovers seeking tranquility.
+  - **[NEEDS REPLY]** Reply by mags3610:  ([link](https://www.threads.com/@mags3610/post/DefJ0vKEagu))
+    - Photo: A vertical, textured wooden pylon stands firmly in the surf, its base darkened by the wetness of the crashing waves. Foamy sea water swirls around the support, creating a dramatic contrast in this moody black-and-white beach scene.
+  - **[NEEDS REPLY]** Reply by micawbersmu:  ([link](https://www.threads.com/@micawbersmu/post/DefI9hAD5SX))
+    - Photo: A solitary sailboat is visible on the horizon under a vast, bright blue sky. The calm, turquoise ocean meets the clear horizon, creating a peaceful and serene seascape.
+  - **[NEEDS REPLY]** Reply by dave19aber: My take on the Horseshoe fall at Niagara ([link](https://www.threads.com/@dave19aber/post/DefGIIDDf2l))
+    - Photo: An eye-level, wide shot captures the Horseshoe Falls of Niagara Falls under a gray, overcast sky. The water surges over the edge, creating a dense mist on the left, while the dark, turbulent water in the foreground leads the eye towards the curved drop.
   - **[NEEDS REPLY]** Reply by paulsparks85:  ([link](https://www.threads.com/@paulsparks85/post/DefD7imiFAc))
     - Photo: A lone, bare tree stands centrally in a serene, calm body of water, perfectly mirrored on the glassy surface. In the background, a flat horizon meets a soft, pastel-hued sky under a peaceful twilight.
   - Reply by michaelgiancarlo772: Here's mine Curug Ngumpet from Indonesia ([link](https://www.threads.com/@michaelgiancarlo772/post/DefBKj0ktKO))

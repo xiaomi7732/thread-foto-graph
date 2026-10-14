@@ -6,9 +6,17 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (4)
+## Needs Reply (8)
 
 ### Water Wednesday 🌊 Niagara, because sometimes water just sho… ([thread](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx))
+- **babbleon156**: This is a pond in copetown, Ontario ([link](https://www.threads.com/@babbleon156/post/DefKb2gGOVs))
+  - Photo: A misty, overcast day in a quiet forest surrounds a serene lake, framed by tall pine trees and vibrant green grass. The foggy atmosphere creates a peaceful, secluded mood, ideal for nature lovers seeking tranquility.
+- **mags3610**:  ([link](https://www.threads.com/@mags3610/post/DefJ0vKEagu))
+  - Photo: A vertical, textured wooden pylon stands firmly in the surf, its base darkened by the wetness of the crashing waves. Foamy sea water swirls around the support, creating a dramatic contrast in this moody black-and-white beach scene.
+- **micawbersmu**:  ([link](https://www.threads.com/@micawbersmu/post/DefI9hAD5SX))
+  - Photo: A solitary sailboat is visible on the horizon under a vast, bright blue sky. The calm, turquoise ocean meets the clear horizon, creating a peaceful and serene seascape.
+- **dave19aber**: My take on the Horseshoe fall at Niagara ([link](https://www.threads.com/@dave19aber/post/DefGIIDDf2l))
+  - Photo: An eye-level, wide shot captures the Horseshoe Falls of Niagara Falls under a gray, overcast sky. The water surges over the edge, creating a dense mist on the left, while the dark, turbulent water in the foreground leads the eye towards the curved drop.
 - **paulsparks85**:  ([link](https://www.threads.com/@paulsparks85/post/DefD7imiFAc))
   - Photo: A lone, bare tree stands centrally in a serene, calm body of water, perfectly mirrored on the glassy surface. In the background, a flat horizon meets a soft, pastel-hued sky under a peaceful twilight.
 
