@@ -2,45 +2,24 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: shot, pattern, white, building
+## Topic: pattern, shot, white, doing
 
 - **Thread** [18135512893646626](https://www.threads.com/@saars.foto/post/Deb-hntkVX8): Photographers, Pattern Tuesday 📸📸📸 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background.
-  - **[NEEDS REPLY]** Reply by timothydarylward:  ([link](https://www.threads.com/@timothydarylward/post/Dec-B5XjW2T))
-    - Photo: A black-and-white, eye-level, medium shot shows grapevines growing through a grid fence in front of a white wall. The vines are bare, creating strong vertical lines, and cast shadows against the white wall.
-  - **[NEEDS REPLY]** Reply by posts.by.norman: Bipinnate Pattern of Jacaranda Leaves ([link](https://www.threads.com/@posts.by.norman/post/Dec71K_k1Ww))
+  - **[NEEDS REPLY]** Reply by michelpbeaudry:  ([link](https://www.threads.com/@michelpbeaudry/post/DedC2TUDx_Z))
+    - Photo: A low-angle view captures the towering height of a massive, rough-barked tree, its thick trunk tapering upward into a canopy of green leaves against a blue sky. Sunlight filters through the branches, highlighting the texture of the bark and creating a sense of being deep within a lush forest.
+  - **[NEEDS REPLY]** Reply by mlaj69: Soap on my window in the car wash ([link](https://www.threads.com/@mlaj69/post/DedA-J0Gief))
+    - Photo: Horizontal streaks of soapy foam wash across a car windshield during an automated car wash, partially obscuring the view of the machinery outside.
+  - Reply by posts.by.norman: Bipinnate Pattern of Jacaranda Leaves ([link](https://www.threads.com/@posts.by.norman/post/Dec71K_k1Ww))
     - Photo: A top-down, vertical close-up shot shows a green leaf made up of many smaller green leaflets.  The small leaves are shaped like ovals and are lined with parallel white ridges that look like delicate veins.  The small, green leaves are attached to a large central vein and are also arranged in a pattern with leaves opposite each other on the stem.
-  - **[NEEDS REPLY]** Reply by sylviamcewen13:  ([link](https://www.threads.com/@sylviamcewen13/post/Dec7ZxWD5xB))
-    - Photo: A black-and-white eye-level low shot captures a building with a perforated metal façade next to a modern building with a vertical stack of windows. The perforated façade on the left features a pattern of circular holes and rectangular windows.
-  - **[NEEDS REPLY]** Reply by abnerabel125:  ([link](https://www.threads.com/@abnerabel125/post/Dec7WaKoxaw))
-    - Photo: A straight-on, eye-level, medium shot shows a wall made of gray rectangular bricks. The bricks feature a slightly uneven surface texture, giving them a rustic yet modern appearance.
-  - **[NEEDS REPLY]** Reply by dutchvontiki: This is at a place in Portland Oregon called Hopscotch. Fun interactive experience . ([link](https://www.threads.com/@dutchvontiki/post/Dec52eUEhoo))
-    - Photo: Dozens of glowing, spherical purple lights of various sizes hang in long, vertical strings against a dark, contrasting background, creating an immersive, ethereal atmosphere.
-  - **[NEEDS REPLY]** Reply by yvetime:  ([link](https://www.threads.com/@yvetime/post/Dec1-1nDeKS))
-    - Photo: A close-up shot captures a dense cluster of vibrant golden and orange foliage contrasted against lush green leaves, suggesting the arrival of autumn.
-  - **[NEEDS REPLY]** Reply by ssquiresc1290: Marina Towers, Chicago ([link](https://www.threads.com/@ssquiresc1290/post/Dec1dcBkm_X))
-    - Photo: A high-contrast black-and-white image showcases the architectural details of Marina City in Chicago. The tightly cropped photo emphasizes the building's distinctive rounded balconies, which create a striking, repetitive geometric pattern of arches and shadows.
-  - **[NEEDS REPLY]** Reply by tomdotcommon:  ([link](https://www.threads.com/@tomdotcommon/post/DecztcEjSiV))
-    - Photo: A top-down, slightly angled view of a textured rock shelf covered in countless small barnacles, dark patches of damp algae, and wisps of green seaweed. The muted earthy tones and weathered surface suggest a low-tide scene along a rugged coastline, perfect for a nature-focused or tide-pooling post.
-  - **[NEEDS REPLY]** Reply by bybaird:  ([link](https://www.threads.com/@bybaird/post/DeczYzjFMXs))
-    - Photo: A close-up, black and white photograph highlights the intricate, ribbed texture of a single, large hosta leaf. Other foliage surrounds it in a dense, natural arrangement.
-  - **[NEEDS REPLY]** Reply by peterweaving: Mushrooms (2026) Ai Weiwei ([link](https://www.threads.com/@peterweaving/post/Decsl3rDM_W))
-    - Photo: A wide-angle, slightly low-angle, outdoor, eye-level shot captures the Yininmadyemi - Thou didst let fall memorial at Hyde Park in Sydney, Australia, with the Sydney Harbour Bridge and Sydney Opera House visible in the background under a clear blue sky. On a grid-like black metal platform, dozens of black metal slouch hats are arranged in neat, receding rows that angle from the lower left to the upper right. The hats, each with a brim and a domed crown, are identical in size and shape, creating a pattern of dark shapes against the textured metal surface. The platform is bordered by a strip of green grass and a paved walkway, where several people are walking along the waterfront. In the background, across the sparkling blue water, the white, sail-like structures of the Sydney Opera House stand out, while to the left, the dark, curved arch of the Sydney Harbour Bridge spans the sky. The bright sunlight casts soft shadows from the hats onto the metal platform.
-  - **[NEEDS REPLY]** Reply by peanutbutterscotch_:  ([link](https://www.threads.com/@peanutbutterscotch_/post/Decr3UmEs22))
-    - Photo: A view of a canal in Venice, Italy, through an ornate black iron window grill. The canal water reflects the light, and a grand palazzo building is visible on the opposite bank.
-  - **[NEEDS REPLY]** Reply by coldhollowfarm:  ([link](https://www.threads.com/@coldhollowfarm/post/DecrOunFoTl))
-    - Photo: An overhead, close-up shot captures a dried, brown flower with a spherical center, dusted lightly with white, against a blurred, pale tan background.
+    - Reply by saars.foto: Bipinnate is a great word and an even better pattern. Those white ridges are doing lacework. ([link](https://www.threads.com/@saars.foto/post/DedBLoQEURe))
+      - **[NEEDS LIKE]** Reply by posts.by.norman: I appreciate your responses/insights. ([link](https://www.threads.com/@posts.by.norman/post/DedC21nk50Y))
   - Reply by shiawasemainichi5:  ([link](https://www.threads.com/@shiawasemainichi5/post/DecpgM1E4Sl))
     - Photo: A high-angle, slightly diagonal shot captures a sprawling Japanese city stretching toward the horizon beneath a clear blue sky. A winding river cuts through the dense urban landscape filled with closely packed houses and buildings, under bright daytime lighting.
     - Reply by saars.foto: A whole city laid out like a circuit board with a river running through it. That diagonal framing works. ([link](https://www.threads.com/@saars.foto/post/DecuJhqGtxp))
       - Reply by shiawasemainichi5: I'm glad you liked it. Thank you. Seeing Japan from above might offer an interesting perspective. If you were just walking around the city, you'd only see a much more ordinary world. ([link](https://www.threads.com/@shiawasemainichi5/post/DecvqkakxG4))
         - Reply by saars.foto: Fantastic! To be fair though, Japan streets are never ordinary 🤭 ([link](https://www.threads.com/@saars.foto/post/DecxtctkqFL))
           - **[NEEDS LIKE]** Reply by shiawasemainichi5: That's how it may seem to tourists. But everything changes when you live in Japan. ([link](https://www.threads.com/@shiawasemainichi5/post/DecyUUmE1Lx))
-  - Reply by rodwsmith68:  ([link](https://www.threads.com/@rodwsmith68/post/DechbRKjNf0))
-    - Photo: A low-angle view captures a modern architectural overhang featuring a dark, perforated surface with numerous organic, rounded cutouts. Through the pattern, patches of a vibrant blue sky and green tree leaves peek through.
-    - Reply by saars.foto: An overhang full of organic cutouts with sky peeking through. The building is breathing. ([link](https://www.threads.com/@saars.foto/post/DecmfBInSDj))
-      - **[NEEDS REPLY]** Reply by rodwsmith68: It’s this shaded walkway, in Hyères, France ([link](https://www.threads.com/@rodwsmith68/post/Dec4WX8jH6p))
-        - Photo: A sunlit urban promenade features a long, curving white trellis structure overhead, casting a complex, patterned shadow across the stone-paved walkway. Buildings and green trees line the sidewalk under a clear blue sky.
   - Reply by eyeofgotham:  ([link](https://www.threads.com/@eyeofgotham/post/DecT2T3EWYF))
     - Photo: A low-angle, eye-level, close-up shot focuses on a series of triangular metal handles connected to overhead monkey bars in a playground, captured in grayscale. The handles recede from the center into the background, creating a perspective that looks down the length of the parallel bars.
     - Reply by saars.foto: Monkey bars in grayscale look like a tiny brutalist city. Love the perspective. ([link](https://www.threads.com/@saars.foto/post/Deci9_tmRUt))
@@ -91,4 +70,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A dark fabric features a spooky damask pattern of ornate scrollwork intertwined with subtle motifs of skulls, ravens, and spiderwebs.
     - Reply by saars.foto: Skulls, spiders AND bats? That duvet is doing Halloween overtime. TK Maxx coming through. ([link](https://www.threads.com/@saars.foto/post/DecCffPoGkj))
       - **[NEEDS LIKE]** Reply by thetonbridgegardener: And crows. And spiders' webs. Love it. ([link](https://www.threads.com/@thetonbridgegardener/post/DecEs4EjeNF))
-  _(+70 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
+  _(+96 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_

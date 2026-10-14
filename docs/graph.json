@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18135512893646626",
-      "label": "shot, pattern, white, building",
+      "label": "pattern, shot, white, doing",
       "group": 0,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
@@ -10,8 +10,30 @@
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 129,
+      "reply_count": 145,
       "replies": [
+        {
+          "username": "michelpbeaudry",
+          "text": "",
+          "permalink": "https://www.threads.com/@michelpbeaudry/post/DedC2TUDx_Z",
+          "photos": [
+            "A low-angle view captures the towering height of a massive, rough-barked tree, its thick trunk tapering upward into a canopy of green leaves against a blue sky. Sunlight filters through the branches, highlighting the texture of the bark and creating a sense of being deep within a lush forest."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "mlaj69",
+          "text": "Soap on my window in the car wash",
+          "permalink": "https://www.threads.com/@mlaj69/post/DedA-J0Gief",
+          "photos": [
+            "Horizontal streaks of soapy foam wash across a car windshield during an automated car wash, partially obscuring the view of the machinery outside."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
         {
           "username": "timothydarylward",
           "text": "",
@@ -19,9 +41,19 @@
           "photos": [
             "A black-and-white, eye-level, medium shot shows grapevines growing through a grid fence in front of a white wall. The vines are bare, creating strong vertical lines, and cast shadows against the white wall."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Bare vines threading the grid and throwing shadows on the wall. Are those grapevines, or something else entirely?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBKNumvIG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -30,9 +62,29 @@
           "photos": [
             "A top-down, vertical close-up shot shows a green leaf made up of many smaller green leaflets.  The small leaves are shaped like ovals and are lined with parallel white ridges that look like delicate veins.  The small, green leaves are attached to a large central vein and are also arranged in a pattern with leaves opposite each other on the stem."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Bipinnate is a great word and an even better pattern. Those white ridges are doing lacework.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBLoQEURe",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": [
+                {
+                  "username": "posts.by.norman",
+                  "text": "I appreciate your responses/insights.",
+                  "permalink": "https://www.threads.com/@posts.by.norman/post/DedC21nk50Y",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "sylviamcewen13",
@@ -41,9 +93,19 @@
           "photos": [
             "A black-and-white eye-level low shot captures a building with a perforated metal fa\u00e7ade next to a modern building with a vertical stack of windows. The perforated fa\u00e7ade on the left features a pattern of circular holes and rectangular windows."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Circular holes and rectangular windows sharing one facade. The building couldn't pick a shape.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBNDuDngg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "abnerabel125",
@@ -52,9 +114,19 @@
           "photos": [
             "A straight-on, eye-level, medium shot shows a wall made of gray rectangular bricks. The bricks feature a slightly uneven surface texture, giving them a rustic yet modern appearance."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Gray bricks with just enough unevenness to keep it interesting. Rustic meets modern, as promised.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBOZLEZ_1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dutchvontiki",
@@ -63,9 +135,19 @@
           "photos": [
             "Dozens of glowing, spherical purple lights of various sizes hang in long, vertical strings against a dark, contrasting background, creating an immersive, ethereal atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Dozens of glowing purple orbs hanging in strings. Hopscotch sounds like my kind of place.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBQCIkfSp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "yvetime",
@@ -74,9 +156,19 @@
           "photos": [
             "A close-up shot captures a dense cluster of vibrant golden and orange foliage contrasted against lush green leaves, suggesting the arrival of autumn."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That golden-orange cluster going off against the green. Autumn flexing.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBRudmyPP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ssquiresc1290",
@@ -85,9 +177,19 @@
           "photos": [
             "A high-contrast black-and-white image showcases the architectural details of Marina City in Chicago. The tightly cropped photo emphasizes the building's distinctive rounded balconies, which create a striking, repetitive geometric pattern of arches and shadows."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Marina City's balconies doing their corncob rhythm in black and white. Iconic pattern.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBTMOiT_B",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tomdotcommon",
@@ -96,9 +198,19 @@
           "photos": [
             "A top-down, slightly angled view of a textured rock shelf covered in countless small barnacles, dark patches of damp algae, and wisps of green seaweed. The muted earthy tones and weathered surface suggest a low-tide scene along a rugged coastline, perfect for a nature-focused or tide-pooling post."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Countless barnacles doing their tiny volcano thing. The tide pool has range.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBUbVEXuk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bybaird",
@@ -107,9 +219,19 @@
           "photos": [
             "A close-up, black and white photograph highlights the intricate, ribbed texture of a single, large hosta leaf. Other foliage surrounds it in a dense, natural arrangement."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One hosta leaf doing full ribbed texture in black and white. Nature's corduroy.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBfFaEXeI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "peterweaving",
@@ -118,9 +240,19 @@
           "photos": [
             "A wide-angle, slightly low-angle, outdoor, eye-level shot captures the Yininmadyemi - Thou didst let fall memorial at Hyde Park in Sydney, Australia, with the Sydney Harbour Bridge and Sydney Opera House visible in the background under a clear blue sky. On a grid-like black metal platform, dozens of black metal slouch hats are arranged in neat, receding rows that angle from the lower left to the upper right. The hats, each with a brim and a domed crown, are identical in size and shape, creating a pattern of dark shapes against the textured metal surface. The platform is bordered by a strip of green grass and a paved walkway, where several people are walking along the waterfront. In the background, across the sparkling blue water, the white, sail-like structures of the Sydney Opera House stand out, while to the left, the dark, curved arch of the Sydney Harbour Bridge spans the sky. The bright sunlight casts soft shadows from the hats onto the metal platform."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Rows of slouch hats in formation with the Opera House behind. That's a pattern with a memorial behind it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBWr1FlCz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "peanutbutterscotch_",
@@ -129,9 +261,19 @@
           "photos": [
             "A view of a canal in Venice, Italy, through an ornate black iron window grill. The canal water reflects the light, and a grand palazzo building is visible on the opposite bank."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Venice through an iron grill. The grill is the pattern, the canal is the reward.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBjwSG2lu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "coldhollowfarm",
@@ -140,9 +282,19 @@
           "photos": [
             "An overhead, close-up shot captures a dried, brown flower with a spherical center, dusted lightly with white, against a blurred, pale tan background."
           ],
-          "needs_response": true,
-          "action": "reply",
-          "replies": []
+          "needs_response": false,
+          "action": null,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A dried flower doing its spherical-center thing, dusted white. Quiet pattern.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DedBYhEoEXA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shiawasemainichi5",
@@ -366,9 +518,19 @@
                   "photos": [
                     "A sunlit urban promenade features a long, curving white trellis structure overhead, casting a complex, patterned shadow across the stone-paved walkway. Buildings and green trees line the sidewalk under a clear blue sky."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
-                  "replies": []
+                  "needs_response": false,
+                  "action": null,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The wide shot! So the first one was the close-up of this same walkway. Hy\u00e8res really knows how to do patterned shade.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DedBZ1AEW9b",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
