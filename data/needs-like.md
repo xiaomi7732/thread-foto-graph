@@ -4,12 +4,19 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (16)
+## Needs Like (21)
+
+### Pattern Tuesday favorites 🏆 Five patterns that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/DeekTCTERN5))
+- mapletreephotography_wpm: ❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DeeoqhMEafl))
+- michaelgiancarlo772: Thx u bro 🤝 ([link](https://www.threads.com/@michaelgiancarlo772/post/DeenYqtklOi))
+- mapletreephotography_wpm: ❤️👀 ([link](https://www.threads.com/@mapletreephotography_wpm/post/Deeor-gkXZy))
+- medium.gords7: Thank you! 💙 ([link](https://www.threads.com/@medium.gords7/post/DeelZekkSjT))
+- yvetime: it’s Sorbaria sorbifolia ‘Sem’. Its leaves emerge bronze-red in spring, mature to deep green with burgundy tips in summer, and turn brilliant orange-red in fall. 🍂 ([link](https://www.threads.com/@yvetime/post/DeeooHyjYls))
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
+- peterweaving: The info board says “individually unique military helmets” but they’re patently identical. ([link](https://www.threads.com/@peterweaving/post/Dedvr-QjOJQ))
 - shiawasemainichi5: That's how it may seem to tourists. But everything changes when you live in Japan. ([link](https://www.threads.com/@shiawasemainichi5/post/DecyUUmE1Lx))
 - micawbersmu: I saw the grouping of 3-1-3 trees and the way it made a triangle. Columns of a different sort. ([link](https://www.threads.com/@micawbersmu/post/DedPMtPkYEi))
-- susanrutledge: It’s actually the Humber Bridge in Toronto ([link](https://www.threads.com/@susanrutledge/post/DedaPL4An8i))
 - eyeofgotham: Thank you! ([link](https://www.threads.com/@eyeofgotham/post/DecqIdJkQb5))
 - joseph_dtyyz: And the view of the lake too. ([link](https://www.threads.com/@joseph_dtyyz/post/DecSplyEWmd))
 - paradigm2046onfilm: Don’t forget zero health benefits too 😉 (they were doused in a decadent sweet caramel melted floss) ([link](https://www.threads.com/@paradigm2046onfilm/post/DecS_AAo3Ou))

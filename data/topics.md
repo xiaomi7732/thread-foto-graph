@@ -2,27 +2,64 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: shot, pattern, white, building
+## Topic: water, plumbing, fair, puddles
 
+- **Thread** [18131785573688331](https://www.threads.com/@saars.foto/post/Deel34JnB_K): Water Wednesday 🌊 This backflow-preventer demo at the county fair was the most photogenic plumbing I've ever seen. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow, pinned to profile, and standouts may land in a weekend IG roundup with full credit.
+  - Photo: A public demonstration set up on a black-draped table features a complex network of brass plumbing pipes and gauges, with water actively pouring from a spigot into a plastic bin. In the background, an outdoor community event with tents and people suggests a fair or educational workshop focusing on water conservation or utility systems.
+
+## Topic: shot, pattern, captures, green
+
+- **Thread** [18131993141509454](https://www.threads.com/@saars.foto/post/DeekTCTERN5): Pattern Tuesday favorites 🏆 Five patterns that stopped my scroll. @mapletreephotography_wpm @medium.gords7 @blue.cheese.ranch @michaelgiancarlo772 @yvetime - beautiful work, all of you.
+  - Photo: A ground-level, wide-angle shot captures a train station at night, with a train stopped on the left and the textured metal platform stretching into the distance. Bright lights line the ceiling overhead, casting a cinematic glow over the empty platform.
+  - Photo: A straight walkway extends between a red brick wall on the left and a row of dark wooden support pillars on the right, all beneath a covered overhang lit by a line of hanging lamps. The ground is paved with light grey stone bricks, catching a stark line of sunlight that contrasts with the deep shadows.
+  - Photo: A close-up shot captures a complex arrangement of interlocking metal gears bathed in a warm, reddish light. The industrial machinery creates an intricate pattern of intersecting circles and jagged teeth, emphasizing a mechanical aesthetic.
+  - Photo: A high-angle shot captures the colorful patterned fabric of a tent ceiling converging into a central focal point at the bottom, creating a vibrant, textured canopy of rich reds, blues, yellows, and whites.
+  - Photo: A close-up shot captures a dense cluster of vibrant golden-orange and green compound leaves, creating a stunning gradient of autumn color. The intricate, feathery foliage fills the entire frame, perfect for a nature-inspired aesthetic.
+  - **[NEEDS LIKE]** Reply by mapletreephotography_wpm: ❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DeeoqhMEafl))
+  - Reply by saars.foto: That diamond-plate floor in the foreground - planned low angle or happy accident? @michaelgiancarlo772 ([link](https://www.threads.com/@saars.foto/post/Deek9dKke6t))
+    - Reply by michaelgiancarlo772: Thx u so much for appreciation @saars.foto ([link](https://www.threads.com/@michaelgiancarlo772/post/DeelU5BEusU))
+      - Reply by saars.foto: That’s a nice shot, Michael 👍 ([link](https://www.threads.com/@saars.foto/post/DeenRyGm7V9))
+        - **[NEEDS LIKE]** Reply by michaelgiancarlo772: Thx u bro 🤝 ([link](https://www.threads.com/@michaelgiancarlo772/post/DeenYqtklOi))
+    - Reply by saars.foto: That corridor pulls you straight in - did you wait for the light or just get lucky? @mapletreephotography_wpm ([link](https://www.threads.com/@saars.foto/post/Deek_fnDpj5))
+      - **[NEEDS LIKE]** Reply by mapletreephotography_wpm: ❤️👀 ([link](https://www.threads.com/@mapletreephotography_wpm/post/Deeor-gkXZy))
+      - Reply by saars.foto: Those gears look like they've been working for a century - where did you find them? @blue.cheese.ranch ([link](https://www.threads.com/@saars.foto/post/DeelCKiFnzY))
+        _(+2 more replies already answered under this, see archive)_
+        - Reply by saars.foto: That fabric is doing the most - what is it actually covering? @medium.gords7 ([link](https://www.threads.com/@saars.foto/post/DeelEF5keRm))
+          - **[NEEDS LIKE]** Reply by medium.gords7: Thank you! 💙 ([link](https://www.threads.com/@medium.gords7/post/DeelZekkSjT))
+          - Reply by saars.foto: Golden-orange against the green - is that peak autumn where you are? @yvetime ([link](https://www.threads.com/@saars.foto/post/DeelF-OEcVz))
+            - **[NEEDS LIKE]** Reply by yvetime: it’s Sorbaria sorbifolia ‘Sem’. Its leaves emerge bronze-red in spring, mature to deep green with burgundy tips in summer, and turn brilliant orange-red in fall. 🍂 ([link](https://www.threads.com/@yvetime/post/DeeooHyjYls))
+  ([full thread](threads/18131993141509454.md))
 - **Thread** [18135512893646626](https://www.threads.com/@saars.foto/post/Deb-hntkVX8): Photographers, Pattern Tuesday 📸📸📸 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background.
-  - **[NEEDS REPLY]** Reply by sac010502:  ([link](https://www.threads.com/@sac010502/post/DedS3bklKJx))
-    - Photo: An eye-level shot captures a large chandelier of glowing glass globes hanging from a dark ceiling, casting a warm yellow light. The strands recede into the distance, appearing smaller and tighter together, creating a hypnotic, repeating pattern.
-  - **[NEEDS REPLY]** Reply by tallymountain:  ([link](https://www.threads.com/@tallymountain/post/DedPOISCd93))
-    - Photo: A scenic view of rippled wet sand on a beach leading to the calm sea, where the sun sets on the horizon beneath a sky filled with dark, dramatic clouds. Golden sunlight reflects off the water's surface and glistens on the ridges of the sand, creating a serene and captivating atmosphere.
-  - **[NEEDS REPLY]** Reply by eugeneevon: Frank Lloyd Wright designed Marin Civic Center building. ([link](https://www.threads.com/@eugeneevon/post/DedEtZ7GCWT))
-    - Photo: A low-angle view captures the Marin County Civic Center in San Rafael, California, with its iconic blue roof and repetitive arch motifs on a clear, sunny day. The long, horizontal structure extends into the distance, framed by lush green foliage in the foreground.
-  - **[NEEDS REPLY]** Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DedDLFhjh6U))
-    - Photo: A mesmerizing installation of numerous iconic turquoise Tiffany & Co. gift boxes suspended in mid-air creates a captivating, floating cloud effect. The overhead view, enhanced by reflective surfaces, suggests an immersive luxury retail experience designed for social media sharing.
-  - **[NEEDS REPLY]** Reply by michelpbeaudry:  ([link](https://www.threads.com/@michelpbeaudry/post/DedC2TUDx_Z))
-    - Photo: A low-angle view captures the towering height of a massive, rough-barked tree, its thick trunk tapering upward into a canopy of green leaves against a blue sky. Sunlight filters through the branches, highlighting the texture of the bark and creating a sense of being deep within a lush forest.
-  - **[NEEDS REPLY]** Reply by mlaj69: Soap on my window in the car wash ([link](https://www.threads.com/@mlaj69/post/DedA-J0Gief))
-    - Photo: Horizontal streaks of soapy foam wash across a car windshield during an automated car wash, partially obscuring the view of the machinery outside.
+  - **[NEEDS REPLY]** Reply by fall4paul:  ([link](https://www.threads.com/@fall4paul/post/Deeq0n0jw3y))
+    - Photo: An overhead, high-angle view of a pond covered in a dense carpet of green and yellow lily pads, their circular shapes tightly overlapping and creating a textured, nature-inspired abstract pattern across the water's surface. A few unopened flower buds peek through the foliage, adding a subtle touch of depth to the tranquil scene.
+  - **[NEEDS REPLY]** Reply by tuckerstyle:  ([link](https://www.threads.com/@tuckerstyle/post/DeeeNnLoH3H))
+    - Photo: A chain-link fence casts a striking geometric shadow across the green surface of a tennis court, creating a playful interplay of light and texture.
+  - **[NEEDS REPLY]** Reply by shiriselishusness:  ([link](https://www.threads.com/@shiriselishusness/post/DeeKO9xjRAN))
+    - Photo: A close-up shot of a vibrant coleus plant, featuring striking leaves with lime green centers, deep purple edges, and bright magenta veins. In the background, fuzzy, magenta plumed cockscomb flowers add a whimsical contrast, all captured in a garden setting.
+  - **[NEEDS REPLY]** Reply by anthony.deighton.73:  ([link](https://www.threads.com/@anthony.deighton.73/post/DeeGnubiAPE))
+    - Photo: A close-up, top-down view captures a massive pile of fresh purple and white garlic bulbs, their tangled roots facing outward. The vibrant colors and rustic textures create a striking, aromatic display, perfect for a culinary or farmer's market post.
+  - **[NEEDS REPLY]** Reply by pictures_by_evi:  ([link](https://www.threads.com/@pictures_by_evi/post/DeeFGWcAj1V))
+    - Photo: A vertical, eye-level shot captures the tall, illuminated Hotel Sevilla Center at dusk, its bright white signage glowing against the dark blue sky. The building features alternating dark grey and off-white panels, with glowing square windows scattered across the facade. In the foreground, a tall, decorative metal fence runs along a paved walkway, partially obscuring a grassy area with sparse white flowers and some lush green trees.
+  - **[NEEDS REPLY]** Reply by londonlightcreative: Bridge in Hackney Wick, London ([link](https://www.threads.com/@londonlightcreative/post/Ded7nihgjRu))
+    - Photo: A black-and-white, low-angle shot captures a metal screen with round perforations casting a pattern of bright circular lights onto a concrete walkway below, which is separated by a narrow drainage grate.
+  - **[NEEDS REPLY]** Reply by two_less_fish_:  ([link](https://www.threads.com/@two_less_fish_/post/Ded4EXFlolT))
+    - Photo: A low-angle, close-up shot captures the curving backs of rows of stadium seats receding into the distance, rendered in shades of grey.
+  - **[NEEDS REPLY]** Reply by gwilsing:  ([link](https://www.threads.com/@gwilsing/post/Ded2aMhEWdM))
+    - Photo: A medium eye-level outdoor shot displays industrial ceramic electrical insulators, which are brown, stacked disc-like shapes, with some white horizontal disks. The insulators are attached to metal hardware in front of a brick building. The sky is grey and overcast, and trees frame the scene.
+  - **[NEEDS REPLY]** Reply by _blind_spot_:  ([link](https://www.threads.com/@_blind_spot_/post/DedmWgZDGwh))
+    - Photo: A close-up, black-and-white abstract shot of a metal cheese grater, emphasizing the repetitive pattern of its raised, jagged holes. The low-angle perspective and textured background create a dramatic, almost futuristic landscape.
+  - **[NEEDS REPLY]** Reply by yogibearz1066:  ([link](https://www.threads.com/@yogibearz1066/post/DedmEbbAtbS))
+    - Photo: A close-up eye-level view shows a tree trunk with pronounced, spiraling bark ridges and textured green leaves in the upper half. The background, bright from sunlight, reveals a parking lot with several red cars and a white building in a park setting.
   - Reply by abnerabel125:  ([link](https://www.threads.com/@abnerabel125/post/Dec7WaKoxaw))
     - Photo: A straight-on, eye-level, medium shot shows a wall made of gray rectangular bricks. The bricks feature a slightly uneven surface texture, giving them a rustic yet modern appearance.
     - Reply by saars.foto: Gray bricks with just enough unevenness to keep it interesting. Rustic meets modern, as promised. ([link](https://www.threads.com/@saars.foto/post/DedBOZLEZ_1))
       - **[NEEDS REPLY]** Reply by abnerabel125: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))
         - Photo: A close-up shot of a curved wall made of textured, light-colored concrete blocks, with a shallow depth of field drawing focus to the foreground stones.
+  - Reply by peterweaving: Mushrooms (2026) Ai Weiwei ([link](https://www.threads.com/@peterweaving/post/Decsl3rDM_W))
+    - Photo: A wide-angle, slightly low-angle, outdoor, eye-level shot captures the Yininmadyemi - Thou didst let fall memorial at Hyde Park in Sydney, Australia, with the Sydney Harbour Bridge and Sydney Opera House visible in the background under a clear blue sky. On a grid-like black metal platform, dozens of black metal slouch hats are arranged in neat, receding rows that angle from the lower left to the upper right. The hats, each with a brim and a domed crown, are identical in size and shape, creating a pattern of dark shapes against the textured metal surface. The platform is bordered by a strip of green grass and a paved walkway, where several people are walking along the waterfront. In the background, across the sparkling blue water, the white, sail-like structures of the Sydney Opera House stand out, while to the left, the dark, curved arch of the Sydney Harbour Bridge spans the sky. The bright sunlight casts soft shadows from the hats onto the metal platform.
+    - Reply by saars.foto: Rows of slouch hats in formation with the Opera House behind. That's a pattern with a memorial behind it. ([link](https://www.threads.com/@saars.foto/post/DedBWr1FlCz))
+      - **[NEEDS LIKE]** Reply by peterweaving: The info board says “individually unique military helmets” but they’re patently identical. ([link](https://www.threads.com/@peterweaving/post/Dedvr-QjOJQ))
   - Reply by shiawasemainichi5:  ([link](https://www.threads.com/@shiawasemainichi5/post/DecpgM1E4Sl))
     - Photo: A high-angle, slightly diagonal shot captures a sprawling Japanese city stretching toward the horizon beneath a clear blue sky. A winding river cuts through the dense urban landscape filled with closely packed houses and buildings, under bright daytime lighting.
     - Reply by saars.foto: A whole city laid out like a circuit board with a river running through it. That diagonal framing works. ([link](https://www.threads.com/@saars.foto/post/DecuJhqGtxp))
@@ -35,10 +72,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       - Reply by micawbersmu: I hadn't thought of it that way 🤔 ([link](https://www.threads.com/@micawbersmu/post/DecmrxMDyQK))
         - Reply by saars.foto: We all read the photo differently 🤭 so, tell us, what’s your read? ([link](https://www.threads.com/@saars.foto/post/DecozPVkhqD))
           - **[NEEDS LIKE]** Reply by micawbersmu: I saw the grouping of 3-1-3 trees and the way it made a triangle. Columns of a different sort. ([link](https://www.threads.com/@micawbersmu/post/DedPMtPkYEi))
-  - Reply by susanrutledge:  ([link](https://www.threads.com/@susanrutledge/post/DecWIyBDlSl))
-    - Photo: A low-angle view captures the intricate white structural support beams and suspension cables of the Peace Bridge against a vibrant blue sky in Calgary, Alberta. A high-rise building with a grid-like window pattern stands on the right, providing an urban context to the scene.
-    - Reply by saars.foto: Those white beams against the blue are doing all the work. Calgary showing off. ([link](https://www.threads.com/@saars.foto/post/Deci8X6Fs4O))
-      - **[NEEDS LIKE]** Reply by susanrutledge: It’s actually the Humber Bridge in Toronto ([link](https://www.threads.com/@susanrutledge/post/DedaPL4An8i))
   - Reply by eyeofgotham:  ([link](https://www.threads.com/@eyeofgotham/post/DecT2T3EWYF))
     - Photo: A low-angle, eye-level, close-up shot focuses on a series of triangular metal handles connected to overhead monkey bars in a playground, captured in grayscale. The handles recede from the center into the background, creating a perspective that looks down the length of the parallel bars.
     - Reply by saars.foto: Monkey bars in grayscale look like a tiny brutalist city. Love the perspective. ([link](https://www.threads.com/@saars.foto/post/Deci9_tmRUt))
@@ -57,8 +90,11 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Reply by matt.wilson.gc: Bottles of wine on a rack ([link](https://www.threads.com/@matt.wilson.gc/post/DecOl3tjYC7))
     - Photo: A mesmerizing close-up shows a large matrix of glowing blue lights arranged in three distinct sections against a black background, creating an abstract, futuristic geometric pattern.
     _(+1 more reply already answered under this, see archive)_
-    - **[NEEDS REPLY]** Reply by moccawinecellar: That looks very similar to a project we have done before! ([link](https://www.threads.com/@moccawinecellar/post/DedTtIDGo28))
+    - Reply by moccawinecellar: That looks very similar to a project we have done before! ([link](https://www.threads.com/@moccawinecellar/post/DedTtIDGo28))
       - Photo: A sleek, modern wine cellar is bathed in dramatic blue lighting, with floor-to-ceiling racks of wine bottles lining the walls and a central display stand holding select bottles.
+      _(+1 more reply already answered under this, see archive)_
+      - **[NEEDS REPLY]** Reply by matt.wilson.gc: Shot mine 20 years ago as well as this. Defo some similarities ([link](https://www.threads.com/@matt.wilson.gc/post/DednhW9DVHu))
+        - Photo: A wide shot captures a striking wine cellar with curved walls completely lined with thousands of bottles, creating a hypnotic pattern of lights. A brightly illuminated staircase ascends centrally, drawing the eye upwards between the curved shelves and echoing the cool ambiance of the space.
   - Reply by paradigm2046onfilm:  ([link](https://www.threads.com/@paradigm2046onfilm/post/DecMbJlI5Q6))
     - Photo: A close-up shot fills the frame with a bowl of golden-brown caramel corn, glistening under a warm light. The rich, glossy coating on every piece creates an irresistible invitation for a cozy movie night.
     - Reply by saars.foto: A mountain of popcorn with zero structural integrity and I respect that. ([link](https://www.threads.com/@saars.foto/post/DecRqmqHOJu))
@@ -79,6 +115,9 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: This striking, high-contrast, black-and-white abstract image plays with stark shadows and geometric patterns, creating a visually compelling piece that looks like a digital art print.
     _(+1 more reply already answered under this, see archive)_
     - **[NEEDS LIKE]** Reply by powder_love_eat: 😍 ([link](https://www.threads.com/@powder_love_eat/post/DecGUUCmv0J))
+  - **[NEEDS REPLY]** Reply by pnsuzan: Me encantaría colaborar contigo algún día. Tu estilo es increíble. Sería un sueño. ([link](https://www.threads.com/@pnsuzan/post/DecDgsWAfBi))
+    - Photo: A computer screen displays a doctored BBC News website featuring a prominent photo of YouTuber MrBeast in front of a "Beast Games" logo. Below the image, a misleading headline announces a new challenge offering a cash prize of 2850€ through an external website, "PREDY.NET."
+    - Photo: Four friends enjoy swimming in a calm river flowing through a lush valley beneath towering granite cliffs. The sunlit scene highlights the breathtaking natural beauty of Yosemite, perfect for an outdoor adventure post.
   - Reply by michaelgiancarlo772: Here's mine ([link](https://www.threads.com/@michaelgiancarlo772/post/DecDdbEEmXW))
     - Photo: A low-angle, eye-level shot captures a train station at night, with a modern silver train accented by red and orange stripes parked alongside the platform. The textured diamond-plate surface of the platform stretches into the foreground, while a line of bright overhead lights extends down the platform under a metallic roof canopy, drawing the eye toward a few distant figures.
     - Reply by saars.foto: Shot from the floor up - the diamond plate does the pattern, the station does the drama. Love the depth. ([link](https://www.threads.com/@saars.foto/post/DecDrNum-le))
@@ -94,4 +133,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A dark fabric features a spooky damask pattern of ornate scrollwork intertwined with subtle motifs of skulls, ravens, and spiderwebs.
     - Reply by saars.foto: Skulls, spiders AND bats? That duvet is doing Halloween overtime. TK Maxx coming through. ([link](https://www.threads.com/@saars.foto/post/DecCffPoGkj))
       - **[NEEDS LIKE]** Reply by thetonbridgegardener: And crows. And spiders' webs. Love it. ([link](https://www.threads.com/@thetonbridgegardener/post/DecEs4EjeNF))
-  _(+90 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
+  _(+106 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
