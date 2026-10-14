@@ -253,8 +253,9 @@ hosted runners and commits/pushes any changes itself.
      defaults as `src/config.py` if left unset.
 3. That's it — the workflow is already scheduled and also supports
    **Actions → Update Thread Topic Graph → Run workflow** for an on-demand
-   run, optionally overriding `lookback_days`/`max_root_threads` for that
-   run only (handy for testing without touching the repo variables).
+   run, optionally overriding `lookback_days`/`max_root_threads`/
+   `hard_cutoff_date` for that run only (handy for testing, or for pushing
+   out a new cutoff immediately, without touching the repo variables).
 
 ### Schedule: Mon-Fri, 8am-10pm Seattle time, hourly
 
@@ -409,7 +410,18 @@ needed.
   permanently wall off an old post (e.g. a one-off giveaway thread with
   hundreds of stale replies) without having to keep `LOOKBACK_DAYS` itself
   small. Accepts an ISO 8601 date or datetime, e.g. `2026-01-01` or
-  `2026-01-01T00:00:00Z`.
+  `2026-01-01T00:00:00Z`. Can be set persistently via the `HARD_CUTOFF_DATE`
+  repo variable, or overridden for a single on-demand run via the
+  `hard_cutoff_date` **Run workflow** input (see "Alternative: GitHub
+  Actions" above) -- handy when you need the new cutoff to take effect
+  immediately rather than waiting for the next scheduled run.
+- Replies you've hidden via Threads' own hide/unhide-reply feature (e.g. a
+  scam/spam reply) are excluded from `needs-reply.md`/`needs-like.md`/
+  `actions.md`/`topics.md` entirely -- they're resolved, not actionable.
+  They're never silently dropped from history, though: the full
+  `data/threads/<id>.md` archive (and the visual graph) still show them,
+  clearly flagged 🚫 **[HIDDEN]**, alongside everything else in the
+  conversation.
 - Both the Threads token and the Gemini key are sent as request **headers**,
   never query params, so they can never end up embedded in a logged/committed
   error message (this previously caused a real leaked-key incident caught by
