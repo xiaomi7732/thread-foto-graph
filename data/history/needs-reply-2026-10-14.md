@@ -4,7 +4,13 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (13)
+## Needs Reply (15)
+
+### Water Wednesday 🌊 Niagara, because sometimes water just sho… ([thread](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx))
+- **terryleeballard**:  ([link](https://www.threads.com/@terryleeballard/post/Dee-iIjlhFc))
+  - Photo: A low-angle, medium shot captures a small, leafy tree with autumn-tinted leaves contrasting against the white rush of a waterfall, set against a dark grey cliff face.
+- **stanleypruett**: Night hike to Yosemite's Vernal Falls. ([link](https://www.threads.com/@stanleypruett/post/Dee9116GLA1))
+  - Photo: A long-exposure shot captures Vernal Fall at night, illuminated by the night sky filled with a multitude of stars.
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
 - **fall4paul**:  ([link](https://www.threads.com/@fall4paul/post/Deeq0n0jw3y))

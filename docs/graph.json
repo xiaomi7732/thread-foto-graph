@@ -1,22 +1,45 @@
 {
   "nodes": [
     {
-      "id": "18131785573688331",
-      "label": "water, plumbing, fair, puddles",
+      "id": "18349649833269301",
+      "label": "shot, captures, water, angle",
       "group": 0,
-      "snippet": "Water Wednesday \ud83c\udf0a This backflow-preventer demo at the count\u2026",
-      "text": "Water Wednesday \ud83c\udf0a This backflow-preventer demo at the county fair was the most photogenic plumbing I've ever seen. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow, pinned to profile, and standouts may land in a weekend IG roundup with full credit.",
-      "permalink": "https://www.threads.com/@saars.foto/post/Deel34JnB_K",
+      "snippet": "Water Wednesday \ud83c\udf0a Niagara, because sometimes water just sho\u2026",
+      "text": "Water Wednesday \ud83c\udf0a Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.",
+      "permalink": "https://www.threads.com/@saars.foto/post/Dee8tE6IGPx",
       "photos": [
-        "A public demonstration set up on a black-draped table features a complex network of brass plumbing pipes and gauges, with water actively pouring from a spigot into a plastic bin. In the background, an outdoor community event with tents and people suggests a fair or educational workshop focusing on water conservation or utility systems."
+        "A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds."
       ],
-      "reply_count": 0,
-      "replies": []
+      "reply_count": 2,
+      "replies": [
+        {
+          "username": "terryleeballard",
+          "text": "",
+          "permalink": "https://www.threads.com/@terryleeballard/post/Dee-iIjlhFc",
+          "photos": [
+            "A low-angle, medium shot captures a small, leafy tree with autumn-tinted leaves contrasting against the white rush of a waterfall, set against a dark grey cliff face."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        },
+        {
+          "username": "stanleypruett",
+          "text": "Night hike to Yosemite's Vernal Falls.",
+          "permalink": "https://www.threads.com/@stanleypruett/post/Dee9116GLA1",
+          "photos": [
+            "A long-exposure shot captures Vernal Fall at night, illuminated by the night sky filled with a multitude of stars."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "replies": []
+        }
+      ]
     },
     {
       "id": "18131993141509454",
-      "label": "shot, pattern, captures, green",
-      "group": 1,
+      "label": "shot, captures, water, angle",
+      "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 Five patterns that stopped my s\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 Five patterns that stopped my scroll. @mapletreephotography_wpm @medium.gords7 @blue.cheese.ranch @michaelgiancarlo772 @yvetime - beautiful work, all of you.",
       "permalink": "https://www.threads.com/@saars.foto/post/DeekTCTERN5",
@@ -167,8 +190,8 @@
     },
     {
       "id": "18135512893646626",
-      "label": "shot, pattern, captures, green",
-      "group": 1,
+      "label": "shot, captures, water, angle",
+      "group": 0,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
       "permalink": "https://www.threads.com/@saars.foto/post/Deb-hntkVX8",
@@ -2028,7 +2051,11 @@
   ],
   "edges": [
     {
-      "from": "18131993141509454",
+      "from": "18349649833269301",
+      "to": "18131993141509454"
+    },
+    {
+      "from": "18349649833269301",
       "to": "18135512893646626"
     }
   ]

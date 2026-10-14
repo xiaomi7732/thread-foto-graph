@@ -2,13 +2,15 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: water, plumbing, fair, puddles
+## Topic: shot, captures, water, angle
 
-- **Thread** [18131785573688331](https://www.threads.com/@saars.foto/post/Deel34JnB_K): Water Wednesday 🌊 This backflow-preventer demo at the county fair was the most photogenic plumbing I've ever seen. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow, pinned to profile, and standouts may land in a weekend IG roundup with full credit.
-  - Photo: A public demonstration set up on a black-draped table features a complex network of brass plumbing pipes and gauges, with water actively pouring from a spigot into a plastic bin. In the background, an outdoor community event with tents and people suggests a fair or educational workshop focusing on water conservation or utility systems.
-
-## Topic: shot, pattern, captures, green
-
+- **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
+  - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
+  - **[NEEDS REPLY]** Reply by terryleeballard:  ([link](https://www.threads.com/@terryleeballard/post/Dee-iIjlhFc))
+    - Photo: A low-angle, medium shot captures a small, leafy tree with autumn-tinted leaves contrasting against the white rush of a waterfall, set against a dark grey cliff face.
+  - **[NEEDS REPLY]** Reply by stanleypruett: Night hike to Yosemite's Vernal Falls. ([link](https://www.threads.com/@stanleypruett/post/Dee9116GLA1))
+    - Photo: A long-exposure shot captures Vernal Fall at night, illuminated by the night sky filled with a multitude of stars.
+  ([full thread](threads/18349649833269301.md))
 - **Thread** [18131993141509454](https://www.threads.com/@saars.foto/post/DeekTCTERN5): Pattern Tuesday favorites 🏆 Five patterns that stopped my scroll. @mapletreephotography_wpm @medium.gords7 @blue.cheese.ranch @michaelgiancarlo772 @yvetime - beautiful work, all of you.
   - Photo: A ground-level, wide-angle shot captures a train station at night, with a train stopped on the left and the textured metal platform stretching into the distance. Bright lights line the ceiling overhead, casting a cinematic glow over the empty platform.
   - Photo: A straight walkway extends between a red brick wall on the left and a row of dark wooden support pillars on the right, all beneath a covered overhang lit by a line of hanging lamps. The ground is paved with light grey stone bricks, catching a stark line of sunlight that contrasts with the deep shadows.
