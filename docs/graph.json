@@ -1,17 +1,264 @@
 {
   "nodes": [
     {
-      "id": "18349649833269301",
-      "label": "shot, captures, sky, water",
+      "id": "17930724060410076",
+      "label": "morning, early, seattle, evergreen",
       "group": 0,
+      "snippet": "Seattle\u2019s morning is so unbelievable",
+      "text": "Seattle\u2019s morning is so unbelievable",
+      "permalink": "https://www.threads.com/@saars.foto/post/DegXvOFG4L-",
+      "photos": [
+        "Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage."
+      ],
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "id": "18110609696261412",
+      "label": "shot, water, falls, sky",
+      "group": 1,
+      "snippet": "Water Wednesday favorites \ud83c\udfc6 Four waters that stopped my scr\u2026",
+      "text": "Water Wednesday favorites \ud83c\udfc6 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.",
+      "permalink": "https://www.threads.com/@saars.foto/post/DehIRF0EYmL",
+      "photos": [
+        "A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.",
+        "A long-exposure shot shows a gentle waterfall cascading over dark, mossy rocks, framed by lush foliage and scattered autumn leaves.",
+        "A wide-angle, medium shot captures a portion of Niagara Falls on an overcast day, with a heavy, misty cloud hanging over the rushing water. The horseshoe-shaped falls feature a pale green water color, and heavy white foam rises from the churning water below, contrasting against the dark, dramatic clouds overhead.",
+        "A dead tree and several jagged stumps rise from a calm, shallow body of water that mirrors them under a pale blue evening sky. The horizon is flat and distant, creating a serene and minimalist landscape."
+      ],
+      "reply_count": 4,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "What time of day did you catch the water this still? @paulsparks85",
+          "permalink": "https://www.threads.com/@saars.foto/post/DehIdJBG2kD",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "Which side were you shooting from, American or Canadian? @eye.mac",
+          "permalink": "https://www.threads.com/@saars.foto/post/DehIXN2m5p2",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "How long was the exposure on this one? @keithreid__photography",
+          "permalink": "https://www.threads.com/@saars.foto/post/DehIVeilhZ5",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "Was this your first time at McWay Falls, or a return trip? @peanutbutterscotch_",
+          "permalink": "https://www.threads.com/@saars.foto/post/DehITVzkdvT",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "18110779829230964",
+      "label": "shot, water, falls, sky",
+      "group": 1,
+      "snippet": "Animal Thursday \ud83e\udd86 Show me your best animal shot. Pets being\u2026",
+      "text": "Animal Thursday \ud83e\udd86 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.",
+      "permalink": "https://www.threads.com/@saars.foto/post/DehGX__m_N1",
+      "photos": [
+        "A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground."
+      ],
+      "reply_count": 11,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "Yesterday\u2019s favorite pinned!",
+          "permalink": "https://www.threads.com/@saars.foto/post/DehIsTqG1RG",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "broup11",
+          "text": "",
+          "permalink": "https://www.threads.com/@broup11/post/DehIk4ikWeV",
+          "photos": [
+            "Two white swans bob vertically in dark, rippling water, with only their white rumps and webbed feet visible above the surface as they feed."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "briansmithphotography67",
+          "text": "Emu chilling out in a shopping mall.",
+          "permalink": "https://www.threads.com/@briansmithphotography67/post/DehIiNxE-Q1",
+          "photos": [
+            "An emu rests on the sidewalk in the shade of a tree in front of a shop in Exmouth, Western Australia. A black plastic bucket sits on the ground next to the bird."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "5938crest",
+          "text": "Thailand elephants sanctuary",
+          "permalink": "https://www.threads.com/@5938crest/post/DehH5enm19t",
+          "photos": [
+            "A group of four elephants, including a playful calf lying down in the dirt, enjoys a sunny day at an outdoor sanctuary. Lush green mountains and a rustic thatched-roof structure provide a scenic backdrop to this heartwarming wildlife moment."
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Fantastic! Where did you get the shot, Sandru?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DehIAvum_CI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "toigotony",
+          "text": "Watching me drink my coffee out on the deck.",
+          "permalink": "https://www.threads.com/@toigotony/post/DehHwPvFarZ",
+          "photos": [
+            "A grey squirrel stands defiantly on top of a wooden fence, glaring down with a mouthful of food against a backdrop of a clear blue sky and the edge of a house roof."
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "\ud83d\udc4d probably want one too \ud83e\udd23",
+              "permalink": "https://www.threads.com/@saars.foto/post/DehH5xhGzqU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "d1xshooter",
+          "text": "",
+          "permalink": "https://www.threads.com/@d1xshooter/post/DehHiqBkRjq",
+          "photos": [
+            "A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "eye.mac",
+          "text": "\u2026 with feathers",
+          "permalink": "https://www.threads.com/@eye.mac/post/DehHN6kiDRW",
+          "photos": [
+            "A low-angle, medium shot features a group of four chickens silhouetted against a golden-hour sky, standing in a grassy field with dew-covered ground. The sun is setting behind them, casting a warm glow over the entire scene, with trees in the background illuminated by the golden light."
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Johann, adorable hens, nice golden light shot! \ud83d\udc4d How did you get the mist in the afternoon? Or was it a morning shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DehHoNNG_zo",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "tnakluck",
+          "text": "",
+          "permalink": "https://www.threads.com/@tnakluck/post/DehHCyRFj0L",
+          "photos": [
+            "A majestic mountain goat stands atop a rocky cliff face, gazing into the camera against a dramatic backdrop of a cloudy sky and distant, hazy mountain peaks."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "18349649833269301",
+      "label": "shot, water, falls, sky",
+      "group": 1,
       "snippet": "Water Wednesday \ud83c\udf0a Niagara, because sometimes water just sho\u2026",
       "text": "Water Wednesday \ud83c\udf0a Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.",
       "permalink": "https://www.threads.com/@saars.foto/post/Dee8tE6IGPx",
       "photos": [
         "A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds."
       ],
-      "reply_count": 43,
+      "reply_count": 52,
       "replies": [
+        {
+          "username": "isusandi",
+          "text": "Kabut Pelangi Waterfalls-East Java-Indonesia",
+          "permalink": "https://www.threads.com/@isusandi/post/Deg_4inD33n",
+          "photos": [
+            "Two people strike dynamic, balletic poses on separate mossy outcrops, silhouetted against the powerful rush of a massive waterfall. The dramatic scale and lush greenery create an inspiring nature escape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "maureenozerimages",
+          "text": "Epic! Here\u2019s mine",
+          "permalink": "https://www.threads.com/@maureenozerimages/post/Deg_IH7jSHf",
+          "photos": [
+            "A moody coastal scene features a dark blue and white fishing boat docked near rocky shorelines beneath a dramatic, overcast sky heavy with grey clouds, with a faint rainbow visible in the distance over the sea."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "eye.mac",
+          "text": "Also Niagara Falls!",
+          "permalink": "https://www.threads.com/@eye.mac/post/DegeVEliDQI",
+          "photos": [
+            "A wide, horizontal photo shows the massive horseshoe-shaped Niagara Falls under a cloudy sky. A heavy mist rises from the turbulent, emerald-green water, partially obscuring the base of the falls."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "srravi",
           "text": "",
@@ -19,10 +266,54 @@
           "photos": [
             "A tall, multi-tiered waterfall cascades down a rocky cliff face, surrounded by lush green foliage and moss-covered stones. The long-exposure shot gives the rushing water a smooth, ethereal, and misty appearance."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Misty tiers.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DegGkpLEahu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "srravi",
+                  "text": "Many thanks \ud83d\ude0a taken with an iPhone \ud83d\udcf1",
+                  "permalink": "https://www.threads.com/@srravi/post/DegKxszDSGy",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Doesn\u2019t matter what you use when you know what you are doing \ud83d\udc4d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DegO1w6FAEE",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "srravi",
+                          "text": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                          "permalink": "https://www.threads.com/@srravi/post/DegP4XVka-D",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lotzeconrad",
@@ -31,10 +322,21 @@
           "photos": [
             "A high-angle view captures Niagara Falls, featuring both the American Falls and the massive Horseshoe Falls. A vibrant rainbow arcs across the mist below, with a city skyline visible in the distance across the Canadian border."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Rainbow falls.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DegGmA-jsJY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "haryowibisono210",
@@ -43,10 +345,21 @@
           "photos": [
             "A wide, rushing river cascades over mossy rocks, its churning white water framed by tall, wild grass in the foreground."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "White rush.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DegGnSOjoIf",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ritaveeps",
@@ -516,8 +829,8 @@
     },
     {
       "id": "18131993141509454",
-      "label": "shot, captures, sky, water",
-      "group": 0,
+      "label": "shot, water, falls, sky",
+      "group": 1,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 Five patterns that stopped my s\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 Five patterns that stopped my scroll. @mapletreephotography_wpm @medium.gords7 @blue.cheese.ranch @michaelgiancarlo772 @yvetime - beautiful work, all of you.",
       "permalink": "https://www.threads.com/@saars.foto/post/DeekTCTERN5",
@@ -693,15 +1006,15 @@
     },
     {
       "id": "18135512893646626",
-      "label": "shot, captures, sky, water",
-      "group": 0,
+      "label": "shot, water, falls, sky",
+      "group": 1,
       "snippet": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is\u2026",
       "text": "Photographers, Pattern Tuesday \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 This playground floor is just a grid of little holes and I can't stop looking at it. Find me a pattern - repeating, hypnotic, accidental, whatever. ONE photo. Replying is consent: 3 favorites featured tomorrow, pin to my profile, and standouts may land in a weekend IG roundup with full credit.",
       "permalink": "https://www.threads.com/@saars.foto/post/Deb-hntkVX8",
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 186,
+      "reply_count": 184,
       "replies": [
         {
           "username": "fall4paul",
@@ -2165,6 +2478,16 @@
           ]
         },
         {
+          "username": "saars.foto",
+          "text": "A mountain of popcorn with zero structural integrity and I respect that.",
+          "permalink": "https://www.threads.com/@saars.foto/post/DecRqmqHOJu",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "blue.cheese.ranch",
           "text": "",
           "permalink": "https://www.threads.com/@blue.cheese.ranch/post/DecQfgYEV-n",
@@ -2299,40 +2622,6 @@
               "action": null,
               "hidden": false,
               "replies": []
-            }
-          ]
-        },
-        {
-          "username": "paradigm2046onfilm",
-          "text": "",
-          "permalink": "https://www.threads.com/@paradigm2046onfilm/post/DecMbJlI5Q6",
-          "photos": [
-            "A close-up shot fills the frame with a bowl of golden-brown caramel corn, glistening under a warm light. The rich, glossy coating on every piece creates an irresistible invitation for a cozy movie night."
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "A mountain of popcorn with zero structural integrity and I respect that.",
-              "permalink": "https://www.threads.com/@saars.foto/post/DecRqmqHOJu",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "paradigm2046onfilm",
-                  "text": "Don\u2019t forget zero health benefits too \ud83d\ude09 (they were doused in a decadent sweet caramel melted floss)",
-                  "permalink": "https://www.threads.com/@paradigm2046onfilm/post/DecS_AAo3Ou",
-                  "photos": [],
-                  "needs_response": true,
-                  "action": "like",
-                  "hidden": false,
-                  "replies": []
-                }
-              ]
             }
           ]
         },
@@ -2828,11 +3117,19 @@
   ],
   "edges": [
     {
-      "from": "18349649833269301",
+      "from": "18110609696261412",
+      "to": "18110779829230964"
+    },
+    {
+      "from": "18110609696261412",
+      "to": "18349649833269301"
+    },
+    {
+      "from": "18110609696261412",
       "to": "18131993141509454"
     },
     {
-      "from": "18349649833269301",
+      "from": "18110609696261412",
       "to": "18135512893646626"
     }
   ]

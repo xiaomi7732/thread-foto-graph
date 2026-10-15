@@ -2,16 +2,44 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: shot, captures, sky, water
+## Topic: morning, early, seattle, evergreen
 
+- **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
+  - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
+
+## Topic: shot, water, falls, sky
+
+- **Thread** [18110609696261412](https://www.threads.com/@saars.foto/post/DehIRF0EYmL): Water Wednesday favorites 🏆 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.
+  - Photo: A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.
+  - Photo: A long-exposure shot shows a gentle waterfall cascading over dark, mossy rocks, framed by lush foliage and scattered autumn leaves.
+  - Photo: A wide-angle, medium shot captures a portion of Niagara Falls on an overcast day, with a heavy, misty cloud hanging over the rushing water. The horseshoe-shaped falls feature a pale green water color, and heavy white foam rises from the churning water below, contrasting against the dark, dramatic clouds overhead.
+  - Photo: A dead tree and several jagged stumps rise from a calm, shallow body of water that mirrors them under a pale blue evening sky. The horizon is flat and distant, creating a serene and minimalist landscape.
+  - All 4 replies already answered. ✅ ([full thread](threads/18110609696261412.md))
+- **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
+  - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
+  - **[NEEDS REPLY]** Reply by broup11:  ([link](https://www.threads.com/@broup11/post/DehIk4ikWeV))
+    - Photo: Two white swans bob vertically in dark, rippling water, with only their white rumps and webbed feet visible above the surface as they feed.
+  - **[NEEDS REPLY]** Reply by briansmithphotography67: Emu chilling out in a shopping mall. ([link](https://www.threads.com/@briansmithphotography67/post/DehIiNxE-Q1))
+    - Photo: An emu rests on the sidewalk in the shade of a tree in front of a shop in Exmouth, Western Australia. A black plastic bucket sits on the ground next to the bird.
+  - **[NEEDS REPLY]** Reply by d1xshooter:  ([link](https://www.threads.com/@d1xshooter/post/DehHiqBkRjq))
+    - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
+  - **[NEEDS REPLY]** Reply by tnakluck:  ([link](https://www.threads.com/@tnakluck/post/DehHCyRFj0L))
+    - Photo: A majestic mountain goat stands atop a rocky cliff face, gazing into the camera against a dramatic backdrop of a cloudy sky and distant, hazy mountain peaks.
+  _(+7 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
-  - **[NEEDS REPLY]** Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
+  - **[NEEDS REPLY]** Reply by isusandi: Kabut Pelangi Waterfalls-East Java-Indonesia ([link](https://www.threads.com/@isusandi/post/Deg_4inD33n))
+    - Photo: Two people strike dynamic, balletic poses on separate mossy outcrops, silhouetted against the powerful rush of a massive waterfall. The dramatic scale and lush greenery create an inspiring nature escape.
+  - **[NEEDS REPLY]** Reply by maureenozerimages: Epic! Here’s mine ([link](https://www.threads.com/@maureenozerimages/post/Deg_IH7jSHf))
+    - Photo: A moody coastal scene features a dark blue and white fishing boat docked near rocky shorelines beneath a dramatic, overcast sky heavy with grey clouds, with a faint rainbow visible in the distance over the sea.
+  - **[NEEDS REPLY]** Reply by eye.mac: Also Niagara Falls! ([link](https://www.threads.com/@eye.mac/post/DegeVEliDQI))
+    - Photo: A wide, horizontal photo shows the massive horseshoe-shaped Niagara Falls under a cloudy sky. A heavy mist rises from the turbulent, emerald-green water, partially obscuring the base of the falls.
+  - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
     - Photo: A tall, multi-tiered waterfall cascades down a rocky cliff face, surrounded by lush green foliage and moss-covered stones. The long-exposure shot gives the rushing water a smooth, ethereal, and misty appearance.
-  - **[NEEDS REPLY]** Reply by lotzeconrad:  ([link](https://www.threads.com/@lotzeconrad/post/DegCOoPFuEN))
-    - Photo: A high-angle view captures Niagara Falls, featuring both the American Falls and the massive Horseshoe Falls. A vibrant rainbow arcs across the mist below, with a city skyline visible in the distance across the Canadian border.
-  - **[NEEDS REPLY]** Reply by haryowibisono210:  ([link](https://www.threads.com/@haryowibisono210/post/Def9bj5j__g))
-    - Photo: A wide, rushing river cascades over mossy rocks, its churning white water framed by tall, wild grass in the foreground.
+    - Reply by saars.foto: Misty tiers. ([link](https://www.threads.com/@saars.foto/post/DegGkpLEahu))
+      - Reply by srravi: Many thanks 😊 taken with an iPhone 📱 ([link](https://www.threads.com/@srravi/post/DegKxszDSGy))
+        - Reply by saars.foto: Doesn’t matter what you use when you know what you are doing 👍 ([link](https://www.threads.com/@saars.foto/post/DegO1w6FAEE))
+          - **[NEEDS LIKE]** Reply by srravi: 🙏🙏🙏 ([link](https://www.threads.com/@srravi/post/DegP4XVka-D))
   - Reply by briansmithphotography67:  ([link](https://www.threads.com/@briansmithphotography67/post/DeflX3oE5z4))
     - Photo: A narrow, gray wooden bridge spans a vibrant blue river, framed by two tall, dark trees in the foreground. The sun casts intricate shadows across the reddish-brown earth at the water's edge, under a clear blue sky.
     - Reply by saars.foto: River crossing. ([link](https://www.threads.com/@saars.foto/post/Def3wwViZD7))
@@ -30,7 +58,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
         - Reply by saars.foto: 👍👍😎 ([link](https://www.threads.com/@saars.foto/post/DefFE5fj2a1))
           - **[NEEDS LIKE]** Reply by michaelgiancarlo772: Thx u bro ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFkVmkujT))
           - **[NEEDS LIKE]** Reply by michaelgiancarlo772: 👁️🌊 Ketika Air Mata Menjadi Semesta ✨ Di luar batas logika, air mata berubah menjadi samudra, ikan berenang dalam keajaiban, dan dunia tersembunyi lahir dari tatapan. Inilah surealisme, ketika yang mustahil menjadi nyata. #KelasAiSurrealism #DjancukCrew #Surrealism ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFRuNErzw))
-  _(+28 more replies elsewhere in this thread already answered, see [full thread](threads/18349649833269301.md))_
+  _(+32 more replies elsewhere in this thread already answered, see [full thread](threads/18349649833269301.md))_
 - **Thread** [18131993141509454](https://www.threads.com/@saars.foto/post/DeekTCTERN5): Pattern Tuesday favorites 🏆 Five patterns that stopped my scroll. @mapletreephotography_wpm @medium.gords7 @blue.cheese.ranch @michaelgiancarlo772 @yvetime - beautiful work, all of you.
   - Photo: A ground-level, wide-angle shot captures a train station at night, with a train stopped on the left and the textured metal platform stretching into the distance. Bright lights line the ceiling overhead, casting a cinematic glow over the empty platform.
   - Photo: A straight walkway extends between a red brick wall on the left and a row of dark wooden support pillars on the right, all beneath a covered overhang lit by a line of hanging lamps. The ground is paved with light grey stone bricks, catching a stark line of sunlight that contrasts with the deep shadows.
@@ -96,10 +124,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       _(+1 more reply already answered under this, see archive)_
       - **[NEEDS REPLY]** Reply by matt.wilson.gc: Shot mine 20 years ago as well as this. Defo some similarities ([link](https://www.threads.com/@matt.wilson.gc/post/DednhW9DVHu))
         - Photo: A wide shot captures a striking wine cellar with curved walls completely lined with thousands of bottles, creating a hypnotic pattern of lights. A brightly illuminated staircase ascends centrally, drawing the eye upwards between the curved shelves and echoing the cool ambiance of the space.
-  - Reply by paradigm2046onfilm:  ([link](https://www.threads.com/@paradigm2046onfilm/post/DecMbJlI5Q6))
-    - Photo: A close-up shot fills the frame with a bowl of golden-brown caramel corn, glistening under a warm light. The rich, glossy coating on every piece creates an irresistible invitation for a cozy movie night.
-    - Reply by saars.foto: A mountain of popcorn with zero structural integrity and I respect that. ([link](https://www.threads.com/@saars.foto/post/DecRqmqHOJu))
-      - **[NEEDS LIKE]** Reply by paradigm2046onfilm: Don’t forget zero health benefits too 😉 (they were doused in a decadent sweet caramel melted floss) ([link](https://www.threads.com/@paradigm2046onfilm/post/DecS_AAo3Ou))
   - Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/DecKM-9m9L0))
     - Photo: A daytime view of an outdoor restaurant patio features striped shadows from a pergola stretching across the gray concrete ground and round pillars. Tables with black metal chairs fill the area, while a single person sits in the background near a building with glass doors and a white exterior.
     - Reply by saars.foto: The pergola turned the whole patio into a zebra crossing. Shadows doing the heavy lifting. ([link](https://www.threads.com/@saars.foto/post/DecRu5tIC3y))
@@ -131,4 +155,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A dark fabric features a spooky damask pattern of ornate scrollwork intertwined with subtle motifs of skulls, ravens, and spiderwebs.
     - Reply by saars.foto: Skulls, spiders AND bats? That duvet is doing Halloween overtime. TK Maxx coming through. ([link](https://www.threads.com/@saars.foto/post/DecCffPoGkj))
       - **[NEEDS LIKE]** Reply by thetonbridgegardener: And crows. And spiders' webs. Love it. ([link](https://www.threads.com/@thetonbridgegardener/post/DecEs4EjeNF))
-  _(+126 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
+  _(+127 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
