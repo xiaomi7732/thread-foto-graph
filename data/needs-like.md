@@ -4,7 +4,13 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (26)
+
+### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
+- michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
+
+### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
+- 5938crest: Elephants Nature Park in Chiang Mai, Thailand ([link](https://www.threads.com/@5938crest/post/DehJmQqG-ec))
 
 ### Water Wednesday 🌊 Niagara, because sometimes water just sho… ([thread](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx))
 - srravi: 🙏🙏🙏 ([link](https://www.threads.com/@srravi/post/DegP4XVka-D))
