@@ -6,15 +6,33 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (5)
+## Needs Reply (14)
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
-- **nanceharder81**:  ([link](https://www.threads.com/@nanceharder81/post/DehQq7rka5p))
-  - Photo: A small, brown cottontail rabbit sits upright in a wooded area, framed by a stack of weathered logs and scattered leaves. Its alert posture and direct gaze capture a quiet moment in nature, perfect for a peaceful wildlife snapshot.
-- **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/DehQdxoG4YP))
-  - Photo: A vibrant red-and-green macaw perches on a branch above a lush tropical garden, with a palm tree trunk and a bright building exterior in the background.
-- **paulsparks85**: Belted Galloway getting curious ([link](https://www.threads.com/@paulsparks85/post/DehQTG4DIOW))
-  - Photo: A fluffy belted Galloway cow stands on a hillside covered in purple and yellow wildflowers.
+- **ahowardflfotos**:  ([link](https://www.threads.com/@ahowardflfotos/post/DehZUxbEU5g))
+  - Photo: Two great egrets in full breeding plumage court each other amidst a dense tree canopy. The bird on the right faces upward with its bill pointed straight into the air while the bird on the left leans toward it, their long, flowing plumes creating a dramatic display against the dark background.
+- **taracee_2017**:  ([link](https://www.threads.com/@taracee_2017/post/DehYdH8DpeU))
+  - Photo: A white egret stands on a rocky shore, its reflection shimmering on the gentle, rippling water surface. The peaceful scene captures the serene coastal wildlife.
+- **thehoodedclot**:  ([link](https://www.threads.com/@thehoodedclot/post/DehXkLtDhI4))
+  - Photo: Two dark-coated Labrador retrievers stand side-by-side inside an open doorway, gazing intently out at a gravel yard and lush green hedge. The dog on the left is seated gracefully on the red-tiled floor, while the larger dog on the right stands alert, both bathed in the natural daylight spilling inside.
+- **medium.gords7**: Taken in Florida, USA ([link](https://www.threads.com/@medium.gords7/post/DehWbX9EUls))
+  - Photo: Two large alligators bask in the sun on a grassy bank near blue water.
+- **gerk4**:  ([link](https://www.threads.com/@gerk4/post/DehWROVEVQK))
+  - Photo: A majestic white swan with a black beak stretches its wings wide as it stands in shallow water, framed by tall green reeds in the foreground.
+- **pappaga11a**:  ([link](https://www.threads.com/@pappaga11a/post/DehWKvrlOez))
+  - Photo: A majestic cheetah is captured in a close-up profile shot, illuminated by the warm, golden light of the setting sun against a dark, softly blurred background.
+- **meijering.jan**:  ([link](https://www.threads.com/@meijering.jan/post/DehWE4Jis6Y))
+  - Photo: A curious tabby cat rests comfortably on a blue-and-white checkered folding table outdoors. In the background, lush green garden foliage rises beneath a partly cloudy blue sky, capturing a peaceful, sunny afternoon.
+- **brendamayderosier**:  ([link](https://www.threads.com/@brendamayderosier/post/DehVR28Gx_M))
+  - Photo: A Tailed Jay butterfly with striking green and black patterned wings rests centrally upon a large, ribbed green leaf. The insect's wings are spread wide in the bright sunlight, which casts a clear shadow on the foliage below.
+- **moskutin**:  ([link](https://www.threads.com/@moskutin/post/DehUmZMjapA))
+  - Photo: A reindeer walks slowly along the grassy edge of a paved road. Its head is lowered, and its large antlers rise prominently against the lush, green backdrop of trees and fields.
+- **gteam0**: Animal ([link](https://www.threads.com/@gteam0/post/DehTP0xm0ja))
+  - Photo: A chunky chuckwalla suns itself on a red rock, its body angled backward with its legs sprawled out, while its striped tail extends behind it.
+- **maureenozerimages**: This beauty was rescued from a circus & lives at 5 sisters zoo ▓ ([link](https://www.threads.com/@maureenozerimages/post/DehTL2IDdRD))
+  - Photo: A close-up shot captures a lioness in profile as she stalks through tall green grass and wildflowers. Her intense, focused gaze and powerful features highlight the beauty and raw strength of the apex predator in the wild.
+- **jackiepassmore4**: Narky Spanish seagull! ([link](https://www.threads.com/@jackiepassmore4/post/DehS1Z9DPFN))
+  - Photo: A seagull with a gray body, white neck and head, and yellow beak and feet stands on tan rocks, looking upward with its beak open. In the background is a body of bright green water with wavy patterns across the surface.
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
 - **abnerabel125**: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))
@@ -34,12 +52,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
 - michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
-- paulsparks85: That was a new moon, high tide sunset. Extra high tides happen in the Bristol Channel at the time of the new moon. The tidal change is amongst the highest in the world. ([link](https://www.threads.com/@paulsparks85/post/DehO20pjCm5))
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
 - bugs_eye_view_of_you: Lol ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehNq06Ebmv))
 - trotta.james: Place like no other! ([link](https://www.threads.com/@trotta.james/post/DehO2kFkXnG))
 - smilingjeannie: Gentle indeed. I love them ([link](https://www.threads.com/@smilingjeannie/post/DehOPkaEU1z))
+- citizenb: They’re really good parents! ([link](https://www.threads.com/@citizenb/post/DehUTSokcTF))
 - 5938crest: Elephants Nature Park in Chiang Mai, Thailand ([link](https://www.threads.com/@5938crest/post/DehJmQqG-ec))
 - d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
 

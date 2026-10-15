@@ -9,12 +9,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
 - michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
-- paulsparks85: That was a new moon, high tide sunset. Extra high tides happen in the Bristol Channel at the time of the new moon. The tidal change is amongst the highest in the world. ([link](https://www.threads.com/@paulsparks85/post/DehO20pjCm5))
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
 - bugs_eye_view_of_you: Lol ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehNq06Ebmv))
 - trotta.james: Place like no other! ([link](https://www.threads.com/@trotta.james/post/DehO2kFkXnG))
 - smilingjeannie: Gentle indeed. I love them ([link](https://www.threads.com/@smilingjeannie/post/DehOPkaEU1z))
+- citizenb: They’re really good parents! ([link](https://www.threads.com/@citizenb/post/DehUTSokcTF))
 - 5938crest: Elephants Nature Park in Chiang Mai, Thailand ([link](https://www.threads.com/@5938crest/post/DehJmQqG-ec))
 - d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
 

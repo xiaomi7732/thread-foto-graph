@@ -2,12 +2,12 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, cut, seattle, evergreen
+## Topic: morning, seattle, evergreen, suburban
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
 
-## Topic: shot, water, falls, sky
+## Topic: shot, water, green, falls
 
 - **Thread** [18110609696261412](https://www.threads.com/@saars.foto/post/DehIRF0EYmL): Water Wednesday favorites 🏆 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.
   - Photo: A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.
@@ -16,17 +16,33 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: A dead tree and several jagged stumps rise from a calm, shallow body of water that mirrors them under a pale blue evening sky. The horizon is flat and distant, creating a serene and minimalist landscape.
   - **[NEEDS LIKE]** Reply by paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
   - **[NEEDS LIKE]** Reply by michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
-  - Reply by saars.foto: What time of day did you catch the water this still? @paulsparks85 ([link](https://www.threads.com/@saars.foto/post/DehIdJBG2kD))
-    - **[NEEDS LIKE]** Reply by paulsparks85: That was a new moon, high tide sunset. Extra high tides happen in the Bristol Channel at the time of the new moon. The tidal change is amongst the highest in the world. ([link](https://www.threads.com/@paulsparks85/post/DehO20pjCm5))
-  _(+3 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
+  _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
-  - **[NEEDS REPLY]** Reply by nanceharder81:  ([link](https://www.threads.com/@nanceharder81/post/DehQq7rka5p))
-    - Photo: A small, brown cottontail rabbit sits upright in a wooded area, framed by a stack of weathered logs and scattered leaves. Its alert posture and direct gaze capture a quiet moment in nature, perfect for a peaceful wildlife snapshot.
-  - **[NEEDS REPLY]** Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/DehQdxoG4YP))
-    - Photo: A vibrant red-and-green macaw perches on a branch above a lush tropical garden, with a palm tree trunk and a bright building exterior in the background.
-  - **[NEEDS REPLY]** Reply by paulsparks85: Belted Galloway getting curious ([link](https://www.threads.com/@paulsparks85/post/DehQTG4DIOW))
-    - Photo: A fluffy belted Galloway cow stands on a hillside covered in purple and yellow wildflowers.
+  - **[NEEDS REPLY]** Reply by ahowardflfotos:  ([link](https://www.threads.com/@ahowardflfotos/post/DehZUxbEU5g))
+    - Photo: Two great egrets in full breeding plumage court each other amidst a dense tree canopy. The bird on the right faces upward with its bill pointed straight into the air while the bird on the left leans toward it, their long, flowing plumes creating a dramatic display against the dark background.
+  - **[NEEDS REPLY]** Reply by taracee_2017:  ([link](https://www.threads.com/@taracee_2017/post/DehYdH8DpeU))
+    - Photo: A white egret stands on a rocky shore, its reflection shimmering on the gentle, rippling water surface. The peaceful scene captures the serene coastal wildlife.
+  - **[NEEDS REPLY]** Reply by thehoodedclot:  ([link](https://www.threads.com/@thehoodedclot/post/DehXkLtDhI4))
+    - Photo: Two dark-coated Labrador retrievers stand side-by-side inside an open doorway, gazing intently out at a gravel yard and lush green hedge. The dog on the left is seated gracefully on the red-tiled floor, while the larger dog on the right stands alert, both bathed in the natural daylight spilling inside.
+  - **[NEEDS REPLY]** Reply by medium.gords7: Taken in Florida, USA ([link](https://www.threads.com/@medium.gords7/post/DehWbX9EUls))
+    - Photo: Two large alligators bask in the sun on a grassy bank near blue water.
+  - **[NEEDS REPLY]** Reply by gerk4:  ([link](https://www.threads.com/@gerk4/post/DehWROVEVQK))
+    - Photo: A majestic white swan with a black beak stretches its wings wide as it stands in shallow water, framed by tall green reeds in the foreground.
+  - **[NEEDS REPLY]** Reply by pappaga11a:  ([link](https://www.threads.com/@pappaga11a/post/DehWKvrlOez))
+    - Photo: A majestic cheetah is captured in a close-up profile shot, illuminated by the warm, golden light of the setting sun against a dark, softly blurred background.
+  - **[NEEDS REPLY]** Reply by meijering.jan:  ([link](https://www.threads.com/@meijering.jan/post/DehWE4Jis6Y))
+    - Photo: A curious tabby cat rests comfortably on a blue-and-white checkered folding table outdoors. In the background, lush green garden foliage rises beneath a partly cloudy blue sky, capturing a peaceful, sunny afternoon.
+  - **[NEEDS REPLY]** Reply by brendamayderosier:  ([link](https://www.threads.com/@brendamayderosier/post/DehVR28Gx_M))
+    - Photo: A Tailed Jay butterfly with striking green and black patterned wings rests centrally upon a large, ribbed green leaf. The insect's wings are spread wide in the bright sunlight, which casts a clear shadow on the foliage below.
+  - **[NEEDS REPLY]** Reply by moskutin:  ([link](https://www.threads.com/@moskutin/post/DehUmZMjapA))
+    - Photo: A reindeer walks slowly along the grassy edge of a paved road. Its head is lowered, and its large antlers rise prominently against the lush, green backdrop of trees and fields.
+  - **[NEEDS REPLY]** Reply by gteam0: Animal ([link](https://www.threads.com/@gteam0/post/DehTP0xm0ja))
+    - Photo: A chunky chuckwalla suns itself on a red rock, its body angled backward with its legs sprawled out, while its striped tail extends behind it.
+  - **[NEEDS REPLY]** Reply by maureenozerimages: This beauty was rescued from a circus & lives at 5 sisters zoo ▓ ([link](https://www.threads.com/@maureenozerimages/post/DehTL2IDdRD))
+    - Photo: A close-up shot captures a lioness in profile as she stalks through tall green grass and wildflowers. Her intense, focused gaze and powerful features highlight the beauty and raw strength of the apex predator in the wild.
+  - **[NEEDS REPLY]** Reply by jackiepassmore4: Narky Spanish seagull! ([link](https://www.threads.com/@jackiepassmore4/post/DehS1Z9DPFN))
+    - Photo: A seagull with a gray body, white neck and head, and yellow beak and feet stands on tan rocks, looking upward with its beak open. In the background is a body of bright green water with wavy patterns across the surface.
   - Reply by bugs_eye_view_of_you:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehMvDtEcRQ))
     - Photo: A fluffy golden-brown poodle mix holds a cluster of fading green and pink hydrangea flowers in its mouth, lying happily in the grass outdoors.
     - Reply by saars.foto: Flower thief. ([link](https://www.threads.com/@saars.foto/post/DehNnNVG-3i))
@@ -36,6 +52,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - **[NEEDS LIKE]** Reply by trotta.james: Place like no other! ([link](https://www.threads.com/@trotta.james/post/DehO2kFkXnG))
     - Reply by saars.foto: Gentle giants. ([link](https://www.threads.com/@saars.foto/post/DehNoZuGzlY))
       - **[NEEDS LIKE]** Reply by smilingjeannie: Gentle indeed. I love them ([link](https://www.threads.com/@smilingjeannie/post/DehOPkaEU1z))
+  - Reply by citizenb: Sharing: King Penguin and chick at their nesting spot on the Falkland Islands. Jan 2026. ([link](https://www.threads.com/@citizenb/post/DehLev2Ee7p))
+    - Photo: A King penguin stands proudly, looking down tenderly at its fluffy, gray chick resting on its feet. The heartwarming scene is set against a patch of vibrant green grass on a bright, sunny day.
+    - Reply by saars.foto: Tiny tuxedo family time on the Falklands 🐧💕 ([link](https://www.threads.com/@saars.foto/post/DehL8oVG15J))
+      - **[NEEDS LIKE]** Reply by citizenb: They’re really good parents! ([link](https://www.threads.com/@citizenb/post/DehUTSokcTF))
   - Reply by 5938crest: Thailand elephants sanctuary ([link](https://www.threads.com/@5938crest/post/DehH5enm19t))
     - Photo: A group of four elephants, including a playful calf lying down in the dirt, enjoys a sunny day at an outdoor sanctuary. Lush green mountains and a rustic thatched-roof structure provide a scenic backdrop to this heartwarming wildlife moment.
     - Reply by saars.foto: Fantastic! Where did you get the shot, Sandru? ([link](https://www.threads.com/@saars.foto/post/DehIAvum_CI))
@@ -44,7 +64,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
     - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
       - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
-  _(+17 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  _(+23 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
