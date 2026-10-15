@@ -4,11 +4,15 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (3)
+## Needs Reply (5)
 
 ### Water Wednesday 🌊 Niagara, because sometimes water just sho… ([thread](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx))
-- **ritaveeps**:  ([link](https://www.threads.com/@ritaveeps/post/DefvvWbkbR0))
-  - Photo: A landscape shot captures the Niagara Falls illuminated with a red light, viewed through bare tree branches at dusk. The sunset paints the sky in shades of orange above the horizon, while a line of distant lights twinkles along the opposite shore.
+- **srravi**:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
+  - Photo: A tall, multi-tiered waterfall cascades down a rocky cliff face, surrounded by lush green foliage and moss-covered stones. The long-exposure shot gives the rushing water a smooth, ethereal, and misty appearance.
+- **lotzeconrad**:  ([link](https://www.threads.com/@lotzeconrad/post/DegCOoPFuEN))
+  - Photo: A high-angle view captures Niagara Falls, featuring both the American Falls and the massive Horseshoe Falls. A vibrant rainbow arcs across the mist below, with a city skyline visible in the distance across the Canadian border.
+- **haryowibisono210**:  ([link](https://www.threads.com/@haryowibisono210/post/Def9bj5j__g))
+  - Photo: A wide, rushing river cascades over mossy rocks, its churning white water framed by tall, wild grass in the foreground.
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
 - **abnerabel125**: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))

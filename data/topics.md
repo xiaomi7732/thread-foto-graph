@@ -2,12 +2,20 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: shot, sky, captures, water
+## Topic: shot, captures, sky, water
 
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
-  - **[NEEDS REPLY]** Reply by ritaveeps:  ([link](https://www.threads.com/@ritaveeps/post/DefvvWbkbR0))
-    - Photo: A landscape shot captures the Niagara Falls illuminated with a red light, viewed through bare tree branches at dusk. The sunset paints the sky in shades of orange above the horizon, while a line of distant lights twinkles along the opposite shore.
+  - **[NEEDS REPLY]** Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
+    - Photo: A tall, multi-tiered waterfall cascades down a rocky cliff face, surrounded by lush green foliage and moss-covered stones. The long-exposure shot gives the rushing water a smooth, ethereal, and misty appearance.
+  - **[NEEDS REPLY]** Reply by lotzeconrad:  ([link](https://www.threads.com/@lotzeconrad/post/DegCOoPFuEN))
+    - Photo: A high-angle view captures Niagara Falls, featuring both the American Falls and the massive Horseshoe Falls. A vibrant rainbow arcs across the mist below, with a city skyline visible in the distance across the Canadian border.
+  - **[NEEDS REPLY]** Reply by haryowibisono210:  ([link](https://www.threads.com/@haryowibisono210/post/Def9bj5j__g))
+    - Photo: A wide, rushing river cascades over mossy rocks, its churning white water framed by tall, wild grass in the foreground.
+  - Reply by briansmithphotography67:  ([link](https://www.threads.com/@briansmithphotography67/post/DeflX3oE5z4))
+    - Photo: A narrow, gray wooden bridge spans a vibrant blue river, framed by two tall, dark trees in the foreground. The sun casts intricate shadows across the reddish-brown earth at the water's edge, under a clear blue sky.
+    - Reply by saars.foto: River crossing. ([link](https://www.threads.com/@saars.foto/post/Def3wwViZD7))
+      - **[NEEDS LIKE]** Reply by briansmithphotography67: A jetty across a Estuary 🙂 ([link](https://www.threads.com/@briansmithphotography67/post/Def6C8xk-mm))
   - Reply by dave19aber: My take on the Horseshoe fall at Niagara ([link](https://www.threads.com/@dave19aber/post/DefGIIDDf2l))
     - Photo: An eye-level, wide shot captures the Horseshoe Falls of Niagara Falls under a gray, overcast sky. The water surges over the edge, creating a dense mist on the left, while the dark, turbulent water in the foreground leads the eye towards the curved drop.
     - Reply by saars.foto: Horseshoe roar. ([link](https://www.threads.com/@saars.foto/post/DefQoqrEsZn))
