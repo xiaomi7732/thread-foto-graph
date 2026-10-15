@@ -21,6 +21,10 @@ on:
         description: "Override MAX_ROOT_THREADS for this run only (blank = no cap)"
         required: false
         type: string
+      hard_cutoff_date:
+        description: "Override HARD_CUTOFF_DATE for this run only (ISO 8601, e.g. 2026-10-13T00:00:00Z; blank = use the repo variable/no cutoff)"
+        required: false
+        type: string
 
 # Avoid two runs racing to commit/push at the same time.
 concurrency:
@@ -124,7 +128,7 @@ jobs:
           LOOKBACK_DAYS: ${{ inputs.lookback_days || vars.LOOKBACK_DAYS || '4' }}
           MAX_ROOT_THREADS: ${{ inputs.max_root_threads || vars.MAX_ROOT_THREADS }}
           MAX_VISION_REQUESTS_PER_RUN: ${{ vars.MAX_VISION_REQUESTS_PER_RUN || '1400' }}
-          HARD_CUTOFF_DATE: ${{ vars.HARD_CUTOFF_DATE }}
+          HARD_CUTOFF_DATE: ${{ inputs.hard_cutoff_date || vars.HARD_CUTOFF_DATE }}
         run: python -m src.main
 
       # actions/cache@v4's combined restore+save action only saves via an

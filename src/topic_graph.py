@@ -189,12 +189,38 @@ def _photo_lines(item: dict) -> list[str]:
 
 
 
-def _needs_response(reply: dict) -> bool:
-    """A reply needs a response if it's not the owner's own reply, and the
-    owner hasn't directly replied to it yet (no direct child authored by
-    config.THREADS_USERNAME). This is the actionable signal Muse uses to
-    decide what still needs a suggested reply.
+_VISIBLE_HIDE_STATUSES = {"NOT_HUSHED", "UNHUSHED"}
+
+
+def _is_hidden(reply: dict) -> bool:
+    """A reply is hidden if it's been hushed/moderated out of normal view.
+    Per the Threads API docs, `hide_status` is one of `NOT_HUSHED`,
+    `UNHUSHED` (both normal/visible), `HIDDEN` (owner hid it via
+    `/manage_reply`), `COVERED`, `BLOCKED`, or `RESTRICTED` (moderation
+    states). Anything other than the two visible values -- including any
+    future value Meta adds -- is treated as hidden; a missing/`None`
+    `hide_status` (e.g. synthetic/legacy data, or fields never requested)
+    is treated as visible. Hiding a top-level reply cascades to hide its
+    descendants too (per the Threads API docs), but we don't rely on that
+    alone -- see `_prune_for_action`/`_flatten_actionable`, which drop a
+    hidden reply's entire subtree from the actionable view regardless of
+    what each descendant's own `hide_status` reports.
     """
+    status = reply.get("hide_status")
+    if status is None:
+        return False
+    return status not in _VISIBLE_HIDE_STATUSES
+
+
+def _needs_response(reply: dict) -> bool:
+    """A reply needs a response if it's not the owner's own reply, the
+    owner hasn't directly replied to it yet (no direct child authored by
+    config.THREADS_USERNAME), and it hasn't been hidden by the owner. This
+    is the actionable signal Muse uses to decide what still needs a
+    suggested reply.
+    """
+    if _is_hidden(reply):
+        return False
     if reply.get("username") == config.THREADS_USERNAME:
         return False
     return not any(
@@ -219,9 +245,13 @@ def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
     A reply is kept (annotated with '_needs_response' and '_answered_overflow')
     if it itself needs a response, OR if any of its descendants still need a
     response (kept as context so Muse can see what it's replying to/within).
-    A reply -- and its entire subtree -- is dropped entirely only when every
+    A reply -- and its entire subtree -- is dropped entirely when every
     reply in it is already resolved (the owner's own replies, or replies the
-    owner has already responded to, with nothing unanswered underneath).
+    owner has already responded to, with nothing unanswered underneath), or
+    when the reply itself is hidden (_is_hidden) -- a hidden reply's subtree
+    is dropped unconditionally, even if a descendant's own hide_status
+    wasn't (yet) reported as hidden, since hiding a top-level reply is
+    supposed to cascade to everything nested under it.
 
     Returns (kept_replies, dropped_count) where dropped_count is how many
     reply nodes were dropped at this level (for a "+N already answered" note).
@@ -231,6 +261,9 @@ def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
     kept = []
     dropped = 0
     for reply in replies:
+        if _is_hidden(reply):
+            dropped += 1 + len(list(_iter_replies(reply.get("replies", []))))
+            continue
         child_kept, child_dropped = _prune_for_action(reply.get("replies", []))
         own_needs = _needs_response(reply)
         if own_needs or child_kept:
@@ -244,7 +277,7 @@ def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
     return kept, dropped
 
 
-def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = False) -> list[str]:
+def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = False, ancestor_hidden: bool = False) -> list[str]:
     """Renders one reply plus all its nested replies, indented by depth so the
     real reply-to-reply hierarchy is visible (not flattened).
 
@@ -254,11 +287,25 @@ def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = Fals
     usually enough) so Muse doesn't have to re-derive that itself, and a
     kept-but-already-resolved reply with further answered descendants gets a
     one-line overflow note instead of those descendants being spelled out.
+
+    A hidden reply (_is_hidden) is always marked **[HIDDEN]**, regardless of
+    show_action_marker -- it never reaches this function via the pruned
+    data/topics.md view (see _prune_for_action), so in practice this only
+    fires in the full data/threads/<id>.md archive, where hidden replies are
+    still shown (never silently dropped) but clearly flagged as such.
+    `ancestor_hidden` propagates that flag down the subtree too, matching
+    `_prune_for_action`/`_flatten_actionable`/`_reply_node`'s defense in
+    depth -- a descendant under a hidden reply is always marked HIDDEN in
+    the archive too, even if its own hide_status hasn't caught up to the
+    cascade.
     """
+    hidden = ancestor_hidden or _is_hidden(reply)
     indent = "  " * (depth + 1)
     reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
     marker = ""
-    if show_action_marker and reply.get("_needs_response"):
+    if hidden:
+        marker = "🚫 **[HIDDEN]** "
+    elif show_action_marker and reply.get("_needs_response"):
         marker = "**[NEEDS REPLY]** " if _action_category(reply) == "reply" else "**[NEEDS LIKE]** "
     out = [
         f"{indent}- {marker}Reply by {reply.get('username', 'unknown')}: "
@@ -270,13 +317,22 @@ def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = Fals
     if overflow:
         out.append(f"{indent}  _(+{overflow} more repl{'y' if overflow == 1 else 'ies'} already answered under this, see archive)_")
     for child in reply.get("replies", []):
-        out.extend(_render_reply_lines(child, depth + 1, show_action_marker=show_action_marker))
+        out.extend(_render_reply_lines(child, depth + 1, show_action_marker=show_action_marker, ancestor_hidden=hidden))
     return out
 
 
-def _reply_node(reply: dict) -> dict:
-    """Recursively serializes a reply (and its nested replies) for graph.json."""
-    needs_response = _needs_response(reply)
+def _reply_node(reply: dict, ancestor_hidden: bool = False) -> dict:
+    """Recursively serializes a reply (and its nested replies) for graph.json.
+
+    `ancestor_hidden` propagates down the subtree: like `_prune_for_action`/
+    `_flatten_actionable`, this doesn't trust the API's hide cascade alone --
+    a reply under a hidden ancestor is always treated as resolved/hidden
+    here too, even if its own `hide_status` hasn't (yet) caught up, so the
+    visual graph's badges never contradict what the action lists already
+    dropped.
+    """
+    hidden = ancestor_hidden or _is_hidden(reply)
+    needs_response = False if hidden else _needs_response(reply)
     return {
         "username": reply.get("username", "unknown"),
         "text": _snippet(reply.get("text", ""), length=None),
@@ -284,7 +340,8 @@ def _reply_node(reply: dict) -> dict:
         "photos": _photo_lines(reply),
         "needs_response": needs_response,
         "action": _action_category(reply) if needs_response else None,
-        "replies": [_reply_node(child) for child in reply.get("replies", [])],
+        "hidden": hidden,
+        "replies": [_reply_node(child, ancestor_hidden=hidden) for child in reply.get("replies", [])],
     }
 
 
@@ -297,6 +354,10 @@ def _flatten_actionable(replies: list[dict], parent_text: str | None = None):
     to know what a nested reply is responding to without walking the tree.
     """
     for reply in replies:
+        if _is_hidden(reply):
+            # A hidden reply's entire subtree is resolved -- never surface it
+            # (or anything nested under it) as actionable.
+            continue
         if _needs_response(reply):
             yield reply, parent_text
         own_text = _snippet(reply.get("text", ""), length=60) if reply.get("text") else "(photo reply, no text)"

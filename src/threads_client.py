@@ -25,7 +25,7 @@ ROOT_FIELDS = (
 )
 REPLY_FIELDS = (
     "id,text,timestamp,media_type,media_url,username,permalink,root_post{id},"
-    "replied_to{id},children{id,media_type,media_url}"
+    "replied_to{id},children{id,media_type,media_url},hide_status"
 )
 
 
