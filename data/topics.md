@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, evergreen, unbelievable, sunbeams
+## Topic: morning, cut, seattle, evergreen
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -14,19 +14,37 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: A long-exposure shot shows a gentle waterfall cascading over dark, mossy rocks, framed by lush foliage and scattered autumn leaves.
   - Photo: A wide-angle, medium shot captures a portion of Niagara Falls on an overcast day, with a heavy, misty cloud hanging over the rushing water. The horseshoe-shaped falls feature a pale green water color, and heavy white foam rises from the churning water below, contrasting against the dark, dramatic clouds overhead.
   - Photo: A dead tree and several jagged stumps rise from a calm, shallow body of water that mirrors them under a pale blue evening sky. The horizon is flat and distant, creating a serene and minimalist landscape.
+  - **[NEEDS LIKE]** Reply by paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
   - **[NEEDS LIKE]** Reply by michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
-  _(+4 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
+  - Reply by saars.foto: What time of day did you catch the water this still? @paulsparks85 ([link](https://www.threads.com/@saars.foto/post/DehIdJBG2kD))
+    - **[NEEDS LIKE]** Reply by paulsparks85: That was a new moon, high tide sunset. Extra high tides happen in the Bristol Channel at the time of the new moon. The tidal change is amongst the highest in the world. ([link](https://www.threads.com/@paulsparks85/post/DehO20pjCm5))
+  _(+3 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
-  - **[NEEDS REPLY]** Reply by bugs_eye_view_of_you:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehMvDtEcRQ))
+  - **[NEEDS REPLY]** Reply by nanceharder81:  ([link](https://www.threads.com/@nanceharder81/post/DehQq7rka5p))
+    - Photo: A small, brown cottontail rabbit sits upright in a wooded area, framed by a stack of weathered logs and scattered leaves. Its alert posture and direct gaze capture a quiet moment in nature, perfect for a peaceful wildlife snapshot.
+  - **[NEEDS REPLY]** Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/DehQdxoG4YP))
+    - Photo: A vibrant red-and-green macaw perches on a branch above a lush tropical garden, with a palm tree trunk and a bright building exterior in the background.
+  - **[NEEDS REPLY]** Reply by paulsparks85: Belted Galloway getting curious ([link](https://www.threads.com/@paulsparks85/post/DehQTG4DIOW))
+    - Photo: A fluffy belted Galloway cow stands on a hillside covered in purple and yellow wildflowers.
+  - Reply by bugs_eye_view_of_you:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehMvDtEcRQ))
     - Photo: A fluffy golden-brown poodle mix holds a cluster of fading green and pink hydrangea flowers in its mouth, lying happily in the grass outdoors.
-  - **[NEEDS REPLY]** Reply by smilingjeannie: Kenya, Lewa Conservancy ([link](https://www.threads.com/@smilingjeannie/post/DehMd83kasK))
+    - Reply by saars.foto: Flower thief. ([link](https://www.threads.com/@saars.foto/post/DehNnNVG-3i))
+      - **[NEEDS LIKE]** Reply by bugs_eye_view_of_you: Lol ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehNq06Ebmv))
+  - Reply by smilingjeannie: Kenya, Lewa Conservancy ([link](https://www.threads.com/@smilingjeannie/post/DehMd83kasK))
     - Photo: Two African elephants walk along a dirt path through a lush, green savanna under a cloudy blue sky. Distant mountains and sparse acacia trees dot the horizon, capturing a serene wildlife moment.
+    - **[NEEDS LIKE]** Reply by trotta.james: Place like no other! ([link](https://www.threads.com/@trotta.james/post/DehO2kFkXnG))
+    - Reply by saars.foto: Gentle giants. ([link](https://www.threads.com/@saars.foto/post/DehNoZuGzlY))
+      - **[NEEDS LIKE]** Reply by smilingjeannie: Gentle indeed. I love them ([link](https://www.threads.com/@smilingjeannie/post/DehOPkaEU1z))
   - Reply by 5938crest: Thailand elephants sanctuary ([link](https://www.threads.com/@5938crest/post/DehH5enm19t))
     - Photo: A group of four elephants, including a playful calf lying down in the dirt, enjoys a sunny day at an outdoor sanctuary. Lush green mountains and a rustic thatched-roof structure provide a scenic backdrop to this heartwarming wildlife moment.
     - Reply by saars.foto: Fantastic! Where did you get the shot, Sandru? ([link](https://www.threads.com/@saars.foto/post/DehIAvum_CI))
       - **[NEEDS LIKE]** Reply by 5938crest: Elephants Nature Park in Chiang Mai, Thailand ([link](https://www.threads.com/@5938crest/post/DehJmQqG-ec))
-  _(+19 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  - Reply by d1xshooter:  ([link](https://www.threads.com/@d1xshooter/post/DehHiqBkRjq))
+    - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
+    - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
+      - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
+  _(+17 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
