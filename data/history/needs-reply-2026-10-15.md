@@ -4,9 +4,11 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (13)
+## Needs Reply (14)
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
+- **nzurisana23**:  ([link](https://www.threads.com/@nzurisana23/post/Dehn7c0iNuE))
+  - Photo: A close-up of a majestic male lion peeking through lush green foliage, with the background cropped to black. The lion’s intense gaze is partially obscured by the leaves, adding a sense of stealth and wild beauty.
 - **jemalovett**: Strange companions. Grand Marais harbor ([link](https://www.threads.com/@jemalovett/post/DehmarWH2Wy))
   - Photo: A Canada goose stands calm and straight on a rocky ledge, while a seagull beside it shrieks toward the sky with its beak wide open.
 - **jemalovett**:  ([link](https://www.threads.com/@jemalovett/post/Dehl4j_FBa9))

@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, sunbeams, cut, suburban
+## Topic: morning, sunbeams, seattle, unbelievable
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -19,6 +19,8 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
+  - **[NEEDS REPLY]** Reply by nzurisana23:  ([link](https://www.threads.com/@nzurisana23/post/Dehn7c0iNuE))
+    - Photo: A close-up of a majestic male lion peeking through lush green foliage, with the background cropped to black. The lion’s intense gaze is partially obscured by the leaves, adding a sense of stealth and wild beauty.
   - **[NEEDS REPLY]** Reply by jemalovett: Strange companions. Grand Marais harbor ([link](https://www.threads.com/@jemalovett/post/DehmarWH2Wy))
     - Photo: A Canada goose stands calm and straight on a rocky ledge, while a seagull beside it shrieks toward the sky with its beak wide open.
   - **[NEEDS REPLY]** Reply by jemalovett:  ([link](https://www.threads.com/@jemalovett/post/Dehl4j_FBa9))
