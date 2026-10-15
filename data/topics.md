@@ -6,10 +6,8 @@ _Compact, actionable-first view: only replies still awaiting a response are show
 
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
-  - **[NEEDS REPLY]** Reply by peanutbutterscotch_:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DefsOYFGFmb))
-    - Photo: A high-angle, eye-level shot captures a vibrant patch of wild pink and white morning glories framing a breathtaking coastal view in Big Sur, California. In the background, McWay Falls cascades onto a sandy beach, where turquoise waves crash against dramatic dark rock formations under an overcast sky.
-  - **[NEEDS REPLY]** Reply by briansmithphotography67:  ([link](https://www.threads.com/@briansmithphotography67/post/DeflX3oE5z4))
-    - Photo: A narrow, gray wooden bridge spans a vibrant blue river, framed by two tall, dark trees in the foreground. The sun casts intricate shadows across the reddish-brown earth at the water's edge, under a clear blue sky.
+  - **[NEEDS REPLY]** Reply by ritaveeps:  ([link](https://www.threads.com/@ritaveeps/post/DefvvWbkbR0))
+    - Photo: A landscape shot captures the Niagara Falls illuminated with a red light, viewed through bare tree branches at dusk. The sunset paints the sky in shades of orange above the horizon, while a line of distant lights twinkles along the opposite shore.
   - Reply by dave19aber: My take on the Horseshoe fall at Niagara ([link](https://www.threads.com/@dave19aber/post/DefGIIDDf2l))
     - Photo: An eye-level, wide shot captures the Horseshoe Falls of Niagara Falls under a gray, overcast sky. The water surges over the edge, creating a dense mist on the left, while the dark, turbulent water in the foreground leads the eye towards the curved drop.
     - Reply by saars.foto: Horseshoe roar. ([link](https://www.threads.com/@saars.foto/post/DefQoqrEsZn))
@@ -24,7 +22,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
         - Reply by saars.foto: 👍👍😎 ([link](https://www.threads.com/@saars.foto/post/DefFE5fj2a1))
           - **[NEEDS LIKE]** Reply by michaelgiancarlo772: Thx u bro ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFkVmkujT))
           - **[NEEDS LIKE]** Reply by michaelgiancarlo772: 👁️🌊 Ketika Air Mata Menjadi Semesta ✨ Di luar batas logika, air mata berubah menjadi samudra, ikan berenang dalam keajaiban, dan dunia tersembunyi lahir dari tatapan. Inilah surealisme, ketika yang mustahil menjadi nyata. #KelasAiSurrealism #DjancukCrew #Surrealism ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFRuNErzw))
-  _(+24 more replies elsewhere in this thread already answered, see [full thread](threads/18349649833269301.md))_
+  _(+28 more replies elsewhere in this thread already answered, see [full thread](threads/18349649833269301.md))_
 - **Thread** [18131993141509454](https://www.threads.com/@saars.foto/post/DeekTCTERN5): Pattern Tuesday favorites 🏆 Five patterns that stopped my scroll. @mapletreephotography_wpm @medium.gords7 @blue.cheese.ranch @michaelgiancarlo772 @yvetime - beautiful work, all of you.
   - Photo: A ground-level, wide-angle shot captures a train station at night, with a train stopped on the left and the textured metal platform stretching into the distance. Bright lights line the ceiling overhead, casting a cinematic glow over the empty platform.
   - Photo: A straight walkway extends between a red brick wall on the left and a row of dark wooden support pillars on the right, all beneath a covered overhang lit by a line of hanging lamps. The ground is paved with light grey stone bricks, catching a stark line of sunlight that contrasts with the deep shadows.
@@ -125,4 +123,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A dark fabric features a spooky damask pattern of ornate scrollwork intertwined with subtle motifs of skulls, ravens, and spiderwebs.
     - Reply by saars.foto: Skulls, spiders AND bats? That duvet is doing Halloween overtime. TK Maxx coming through. ([link](https://www.threads.com/@saars.foto/post/DecCffPoGkj))
       - **[NEEDS LIKE]** Reply by thetonbridgegardener: And crows. And spiders' webs. Love it. ([link](https://www.threads.com/@thetonbridgegardener/post/DecEs4EjeNF))
-  _(+127 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_
+  _(+126 more replies elsewhere in this thread already answered, see [full thread](threads/18135512893646626.md))_

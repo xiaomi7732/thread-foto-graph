@@ -10,8 +10,20 @@
       "photos": [
         "A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds."
       ],
-      "reply_count": 35,
+      "reply_count": 38,
       "replies": [
+        {
+          "username": "ritaveeps",
+          "text": "",
+          "permalink": "https://www.threads.com/@ritaveeps/post/DefvvWbkbR0",
+          "photos": [
+            "A landscape shot captures the Niagara Falls illuminated with a red light, viewed through bare tree branches at dusk. The sunset paints the sky in shades of orange above the horizon, while a line of distant lights twinkles along the opposite shore."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "peanutbutterscotch_",
           "text": "",
@@ -19,10 +31,21 @@
           "photos": [
             "A high-angle, eye-level shot captures a vibrant patch of wild pink and white morning glories framing a breathtaking coastal view in Big Sur, California. In the background, McWay Falls cascades onto a sandy beach, where turquoise waves crash against dramatic dark rock formations under an overcast sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Big Sur.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Def3vbam8WQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "briansmithphotography67",
@@ -31,10 +54,21 @@
           "photos": [
             "A narrow, gray wooden bridge spans a vibrant blue river, framed by two tall, dark trees in the foreground. The sun casts intricate shadows across the reddish-brown earth at the water's edge, under a clear blue sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "River crossing.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Def3wwViZD7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "keithreid__photography",
@@ -609,7 +643,7 @@
       "photos": [
         "A macro shot of a blue, perforated playground platform covered in morning dew, with blurred red and blue playground equipment in the background."
       ],
-      "reply_count": 187,
+      "reply_count": 186,
       "replies": [
         {
           "username": "fall4paul",
@@ -979,6 +1013,16 @@
           ]
         },
         {
+          "username": "saars.foto",
+          "text": "Circular holes and rectangular windows sharing one facade. The building couldn't pick a shape.",
+          "permalink": "https://www.threads.com/@saars.foto/post/DedBNDuDngg",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "mlaj69",
           "text": "Soap on my window in the car wash",
           "permalink": "https://www.threads.com/@mlaj69/post/DedA-J0Gief",
@@ -1066,29 +1110,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "username": "sylviamcewen13",
-          "text": "",
-          "permalink": "https://www.threads.com/@sylviamcewen13/post/Dec7ZxWD5xB",
-          "photos": [
-            "A black-and-white eye-level low shot captures a building with a perforated metal fa\u00e7ade next to a modern building with a vertical stack of windows. The perforated fa\u00e7ade on the left features a pattern of circular holes and rectangular windows."
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "Circular holes and rectangular windows sharing one facade. The building couldn't pick a shape.",
-              "permalink": "https://www.threads.com/@saars.foto/post/DedBNDuDngg",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": []
             }
           ]
         },
