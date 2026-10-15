@@ -2,12 +2,12 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, seattle, evergreen, suburban
+## Topic: morning, sunbeams, cut, suburban
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
 
-## Topic: shot, water, green, falls
+## Topic: water, shot, green, falls
 
 - **Thread** [18110609696261412](https://www.threads.com/@saars.foto/post/DehIRF0EYmL): Water Wednesday favorites 🏆 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.
   - Photo: A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.
@@ -19,30 +19,43 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
-  - **[NEEDS REPLY]** Reply by ahowardflfotos:  ([link](https://www.threads.com/@ahowardflfotos/post/DehZUxbEU5g))
+  - **[NEEDS REPLY]** Reply by jemalovett: Strange companions. Grand Marais harbor ([link](https://www.threads.com/@jemalovett/post/DehmarWH2Wy))
+    - Photo: A Canada goose stands calm and straight on a rocky ledge, while a seagull beside it shrieks toward the sky with its beak wide open.
+  - **[NEEDS REPLY]** Reply by jemalovett:  ([link](https://www.threads.com/@jemalovett/post/Dehl4j_FBa9))
+    - Photo: A family of sandhill cranes, including two adults and smaller juveniles, stands in a harvested field with a backdrop of autumn-colored trees in shades of red, orange, and brown.
+  - **[NEEDS REPLY]** Reply by desbphotos:  ([link](https://www.threads.com/@desbphotos/post/DehkmGrlUg2))
+    - Photo: A brown and tan sparrow is perched on the diamond wire of a chain link fence with a blurry green background behind it. A white watermark with the text "Des-Brownlie.com" appears in the lower middle portion of the photo.
+    - Photo: A bright red cardinal sits perched on a bare, thin tree branch, contrasting sharply with the muted gray background of interconnected branches. A watermark text reading "Des-Brownlie.com" is superimposed across the lower portion of the image.
+    - Photo: A male mallard duck floats on dark water, perfectly mirrored amidst vertical reeds and golden autumn leaves. A watermark reading "Des-Brownlie.com" appears in the lower foreground.
+    - Photo: Two shaggy Highland cows enjoy a sunny day in a lush pasture, with one resting in the foreground and the other standing in a shallow puddle.
+    - Photo: Two white swans swim close together on dark water, their curved necks forming a heart shape as they touch beaks.
+    - Photo: A seagull perches atop a coin-operated viewing scope, with the Brooklyn Bridge rising majestically in the background over the river in New York City. The text "Des-Brownlie.com" is superimposed across the foreground.
+    - Photo: A plump American robin with a bright orange chest and dark gray wings perches inside a concrete bowl that appears to be part of a drinking fountain or a birdbath, with a small insect in its beak. The bird is framed against a soft-focus background of lush green grass, creating a serene, natural scene with a watermark visible across the lower portion.
+    - Photo: A motorcyclist and passenger are stopped at a city intersection, with a small dog peering out of a backpack worn by the passenger. The motorcycle is positioned at a crosswalk with a low clearance sign and traffic lights in the background.
+  - **[NEEDS REPLY]** Reply by sean_portley:  ([link](https://www.threads.com/@sean_portley/post/DehkCnnFAZO))
+    - Photo: A lone seagull stands proudly on a concrete barrier overlooking the ocean, its reflection mirrored perfectly in the calm water below. In the background, people stroll along the rocky shore under a bright blue sky, adding a sense of scale and coastal atmosphere.
+  - **[NEEDS REPLY]** Reply by clarkew.7: Indian River Lagoon Wabasso causeway Sebastian Florida ([link](https://www.threads.com/@clarkew.7/post/DehiBSvHJig))
+    - Photo: A white egret glides gracefully above a calm expanse of water, its reflection subtly rippling on the surface below. The scene is illuminated by the warm, golden hues of sunset or sunrise, casting an orange glow across the water's gentle ripples.
+  - **[NEEDS REPLY]** Reply by friendlyvonne:  ([link](https://www.threads.com/@friendlyvonne/post/Dehf0Q3k2qn))
+    - Photo: A small flock of geese, with light brown and white feathers, swims together on the water, creating gentle ripples around them.
+  - **[NEEDS REPLY]** Reply by maxs_auntkris: Mama & baby in the Everglades, Florida, USA ([link](https://www.threads.com/@maxs_auntkris/post/DeheFaCHChL))
+    - Photo: A large alligator glides through dark, tea-colored water, carrying a tiny hatchling safely on its back.
+  - **[NEEDS REPLY]** Reply by unmitigatedme: Very judgmental goldfinch ([link](https://www.threads.com/@unmitigatedme/post/DehaQRSG464))
+    - Photo: A vibrant yellow American goldfinch perches on a deep red and orange sunflower, surrounded by lush green foliage and dark red flowers against a rustic wooden fence.
+  - **[NEEDS REPLY]** Reply by ginawilkins_: Majestic ([link](https://www.threads.com/@ginawilkins_/post/DehaGwbID8o))
+    - Photo: A close-up shot of a seagull standing majestically on a concrete ledge, with the shimmering blue ocean and clear sky stretching out in the background.
+  - **[NEEDS REPLY]** Reply by abbytabby13: Backyard visitor.... ([link](https://www.threads.com/@abbytabby13/post/DehZzQgFnBC))
+    - Photo: A close-up shot captures a pronghorn looking directly at the camera, with the afternoon sun highlighting its face and distinctive black-tipped horns. The animal's light brown and white coat contrasts against a blurred, dark background.
+  - **[NEEDS REPLY]** Reply by special_ed04:  ([link](https://www.threads.com/@special_ed04/post/DehZw_yESLz))
+    - Photo: An action shot captures two dogs running through the snow, with a blue merle Australian Shepherd in the foreground showing an intense expression while its fur billows in the wind. A smaller, tan and white dog follows closely behind, with woods and bright winter sunlight in the background.
+  - Reply by ahowardflfotos:  ([link](https://www.threads.com/@ahowardflfotos/post/DehZUxbEU5g))
     - Photo: Two great egrets in full breeding plumage court each other amidst a dense tree canopy. The bird on the right faces upward with its bill pointed straight into the air while the bird on the left leans toward it, their long, flowing plumes creating a dramatic display against the dark background.
-  - **[NEEDS REPLY]** Reply by taracee_2017:  ([link](https://www.threads.com/@taracee_2017/post/DehYdH8DpeU))
-    - Photo: A white egret stands on a rocky shore, its reflection shimmering on the gentle, rippling water surface. The peaceful scene captures the serene coastal wildlife.
-  - **[NEEDS REPLY]** Reply by thehoodedclot:  ([link](https://www.threads.com/@thehoodedclot/post/DehXkLtDhI4))
+    - Reply by saars.foto: Egret courtship. ([link](https://www.threads.com/@saars.foto/post/DehbobWkVHV))
+      - **[NEEDS LIKE]** Reply by ahowardflfotos: Yup! ([link](https://www.threads.com/@ahowardflfotos/post/Dehb7c5EXJA))
+  - Reply by thehoodedclot:  ([link](https://www.threads.com/@thehoodedclot/post/DehXkLtDhI4))
     - Photo: Two dark-coated Labrador retrievers stand side-by-side inside an open doorway, gazing intently out at a gravel yard and lush green hedge. The dog on the left is seated gracefully on the red-tiled floor, while the larger dog on the right stands alert, both bathed in the natural daylight spilling inside.
-  - **[NEEDS REPLY]** Reply by medium.gords7: Taken in Florida, USA ([link](https://www.threads.com/@medium.gords7/post/DehWbX9EUls))
-    - Photo: Two large alligators bask in the sun on a grassy bank near blue water.
-  - **[NEEDS REPLY]** Reply by gerk4:  ([link](https://www.threads.com/@gerk4/post/DehWROVEVQK))
-    - Photo: A majestic white swan with a black beak stretches its wings wide as it stands in shallow water, framed by tall green reeds in the foreground.
-  - **[NEEDS REPLY]** Reply by pappaga11a:  ([link](https://www.threads.com/@pappaga11a/post/DehWKvrlOez))
-    - Photo: A majestic cheetah is captured in a close-up profile shot, illuminated by the warm, golden light of the setting sun against a dark, softly blurred background.
-  - **[NEEDS REPLY]** Reply by meijering.jan:  ([link](https://www.threads.com/@meijering.jan/post/DehWE4Jis6Y))
-    - Photo: A curious tabby cat rests comfortably on a blue-and-white checkered folding table outdoors. In the background, lush green garden foliage rises beneath a partly cloudy blue sky, capturing a peaceful, sunny afternoon.
-  - **[NEEDS REPLY]** Reply by brendamayderosier:  ([link](https://www.threads.com/@brendamayderosier/post/DehVR28Gx_M))
-    - Photo: A Tailed Jay butterfly with striking green and black patterned wings rests centrally upon a large, ribbed green leaf. The insect's wings are spread wide in the bright sunlight, which casts a clear shadow on the foliage below.
-  - **[NEEDS REPLY]** Reply by moskutin:  ([link](https://www.threads.com/@moskutin/post/DehUmZMjapA))
-    - Photo: A reindeer walks slowly along the grassy edge of a paved road. Its head is lowered, and its large antlers rise prominently against the lush, green backdrop of trees and fields.
-  - **[NEEDS REPLY]** Reply by gteam0: Animal ([link](https://www.threads.com/@gteam0/post/DehTP0xm0ja))
-    - Photo: A chunky chuckwalla suns itself on a red rock, its body angled backward with its legs sprawled out, while its striped tail extends behind it.
-  - **[NEEDS REPLY]** Reply by maureenozerimages: This beauty was rescued from a circus & lives at 5 sisters zoo ▓ ([link](https://www.threads.com/@maureenozerimages/post/DehTL2IDdRD))
-    - Photo: A close-up shot captures a lioness in profile as she stalks through tall green grass and wildflowers. Her intense, focused gaze and powerful features highlight the beauty and raw strength of the apex predator in the wild.
-  - **[NEEDS REPLY]** Reply by jackiepassmore4: Narky Spanish seagull! ([link](https://www.threads.com/@jackiepassmore4/post/DehS1Z9DPFN))
-    - Photo: A seagull with a gray body, white neck and head, and yellow beak and feet stands on tan rocks, looking upward with its beak open. In the background is a body of bright green water with wavy patterns across the surface.
+    - Reply by saars.foto: Doorway duo. ([link](https://www.threads.com/@saars.foto/post/Dehb5uAmhKr))
+      - **[NEEDS LIKE]** Reply by thehoodedclot: i don't actually know what had their interest there, I didn't want to spoil their moment ([link](https://www.threads.com/@thehoodedclot/post/DehcCnhjryj))
   - Reply by bugs_eye_view_of_you:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehMvDtEcRQ))
     - Photo: A fluffy golden-brown poodle mix holds a cluster of fading green and pink hydrangea flowers in its mouth, lying happily in the grass outdoors.
     - Reply by saars.foto: Flower thief. ([link](https://www.threads.com/@saars.foto/post/DehNnNVG-3i))
@@ -64,7 +77,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
     - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
       - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
-  _(+23 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  _(+43 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
