@@ -4,40 +4,40 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (14)
+## Needs Reply (16)
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
-- **nzurisana23**:  ([link](https://www.threads.com/@nzurisana23/post/Dehn7c0iNuE))
-  - Photo: A close-up of a majestic male lion peeking through lush green foliage, with the background cropped to black. The lion’s intense gaze is partially obscured by the leaves, adding a sense of stealth and wild beauty.
-- **jemalovett**: Strange companions. Grand Marais harbor ([link](https://www.threads.com/@jemalovett/post/DehmarWH2Wy))
-  - Photo: A Canada goose stands calm and straight on a rocky ledge, while a seagull beside it shrieks toward the sky with its beak wide open.
-- **jemalovett**:  ([link](https://www.threads.com/@jemalovett/post/Dehl4j_FBa9))
-  - Photo: A family of sandhill cranes, including two adults and smaller juveniles, stands in a harvested field with a backdrop of autumn-colored trees in shades of red, orange, and brown.
-- **desbphotos**:  ([link](https://www.threads.com/@desbphotos/post/DehkmGrlUg2))
-  - Photo: A brown and tan sparrow is perched on the diamond wire of a chain link fence with a blurry green background behind it. A white watermark with the text "Des-Brownlie.com" appears in the lower middle portion of the photo.
-  - Photo: A bright red cardinal sits perched on a bare, thin tree branch, contrasting sharply with the muted gray background of interconnected branches. A watermark text reading "Des-Brownlie.com" is superimposed across the lower portion of the image.
-  - Photo: A male mallard duck floats on dark water, perfectly mirrored amidst vertical reeds and golden autumn leaves. A watermark reading "Des-Brownlie.com" appears in the lower foreground.
-  - Photo: Two shaggy Highland cows enjoy a sunny day in a lush pasture, with one resting in the foreground and the other standing in a shallow puddle.
-  - Photo: Two white swans swim close together on dark water, their curved necks forming a heart shape as they touch beaks.
-  - Photo: A seagull perches atop a coin-operated viewing scope, with the Brooklyn Bridge rising majestically in the background over the river in New York City. The text "Des-Brownlie.com" is superimposed across the foreground.
-  - Photo: A plump American robin with a bright orange chest and dark gray wings perches inside a concrete bowl that appears to be part of a drinking fountain or a birdbath, with a small insect in its beak. The bird is framed against a soft-focus background of lush green grass, creating a serene, natural scene with a watermark visible across the lower portion.
-  - Photo: A motorcyclist and passenger are stopped at a city intersection, with a small dog peering out of a backpack worn by the passenger. The motorcycle is positioned at a crosswalk with a low clearance sign and traffic lights in the background.
-- **sean_portley**:  ([link](https://www.threads.com/@sean_portley/post/DehkCnnFAZO))
-  - Photo: A lone seagull stands proudly on a concrete barrier overlooking the ocean, its reflection mirrored perfectly in the calm water below. In the background, people stroll along the rocky shore under a bright blue sky, adding a sense of scale and coastal atmosphere.
-- **clarkew.7**: Indian River Lagoon Wabasso causeway Sebastian Florida ([link](https://www.threads.com/@clarkew.7/post/DehiBSvHJig))
-  - Photo: A white egret glides gracefully above a calm expanse of water, its reflection subtly rippling on the surface below. The scene is illuminated by the warm, golden hues of sunset or sunrise, casting an orange glow across the water's gentle ripples.
-- **friendlyvonne**:  ([link](https://www.threads.com/@friendlyvonne/post/Dehf0Q3k2qn))
-  - Photo: A small flock of geese, with light brown and white feathers, swims together on the water, creating gentle ripples around them.
-- **maxs_auntkris**: Mama & baby in the Everglades, Florida, USA ([link](https://www.threads.com/@maxs_auntkris/post/DeheFaCHChL))
-  - Photo: A large alligator glides through dark, tea-colored water, carrying a tiny hatchling safely on its back.
-- **unmitigatedme**: Very judgmental goldfinch ([link](https://www.threads.com/@unmitigatedme/post/DehaQRSG464))
-  - Photo: A vibrant yellow American goldfinch perches on a deep red and orange sunflower, surrounded by lush green foliage and dark red flowers against a rustic wooden fence.
-- **ginawilkins_**: Majestic ([link](https://www.threads.com/@ginawilkins_/post/DehaGwbID8o))
-  - Photo: A close-up shot of a seagull standing majestically on a concrete ledge, with the shimmering blue ocean and clear sky stretching out in the background.
-- **abbytabby13**: Backyard visitor.... ([link](https://www.threads.com/@abbytabby13/post/DehZzQgFnBC))
-  - Photo: A close-up shot captures a pronghorn looking directly at the camera, with the afternoon sun highlighting its face and distinctive black-tipped horns. The animal's light brown and white coat contrasts against a blurred, dark background.
-- **special_ed04**:  ([link](https://www.threads.com/@special_ed04/post/DehZw_yESLz))
-  - Photo: An action shot captures two dogs running through the snow, with a blue merle Australian Shepherd in the foreground showing an intense expression while its fur billows in the wind. A smaller, tan and white dog follows closely behind, with woods and bright winter sunlight in the background.
+- **beapersaud**: I have fur but I am shy ([link](https://www.threads.com/@beapersaud/post/Deh7Dfdn2N5))
+  - Photo: Caught in the act, a wild rabbit sits among the undergrowth with a green leaf clutched in its mouth.
+- **oznatureart**: Water dragon checking me out... ([link](https://www.threads.com/@oznatureart/post/Deh5O4QE8RZ))
+  - Photo: An Eastern Water Dragon basks on a warm rock in a sunny outdoor setting.
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/Deh3qcEEhdm))
+  - Photo: A close-up captures a white cockatoo perched on a tree branch against a soft, light blue background. The cockatoo has distinct blue skin around its eyes, with orange patches near its beak.
+- **revmarythomas**: Seagull surveying his domaine ([link](https://www.threads.com/@revmarythomas/post/Deh3BdmCFX5))
+  - Photo: A close-up vertical shot features a seagull perched on a rock by the water. The bird has light grey and white feathers and looks to the left with its beak slightly open, revealing a yellow and red beak. The blurred background shows the steel structure of a pier over the water, suggesting a coastal location.
+- **yeaiknow26**:  ([link](https://www.threads.com/@yeaiknow26/post/Deh2yatEUkH))
+  - Photo: A mallard duck is captured mid-dive, dipping its head underwater in a calm pond while its tail and orange webbed feet stick straight up. Ripples spread outward from the splashing bird against the gray surface of the water, near a grassy bank.
+- **terry.flyboyz**:  ([link](https://www.threads.com/@terry.flyboyz/post/Deh1iz7lqWh))
+  - Photo: A limpkin bird with dark plumage speckled with white stands in a patch of green grass. The bird has a long neck and a long, slightly curved bill, looking attentively to the right.
+  - Photo: A sassy white goose with an orange beak struts purposefully down a sunlit concrete sidewalk, its mouth open as if it's mid-honk. A long, dark shadow stretches out behind it, highlighting its determined walk in a comical, meme-worthy way.
+  - Photo: Two bald eagles perch majestically side-by-side on a thick tree branch against a clear blue sky, surrounded by pine needles and branches.
+- **alwaysmuddy**:  ([link](https://www.threads.com/@alwaysmuddy/post/Deh0nS0kUNK))
+  - Photo: A lone roe deer stands alert in a grassy field, its head turned directly toward the camera. Behind it stands a wooden post-and-rail fence, suggesting a rural or semi-wild environment.
+- **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/Dehw292n9nC))
+  - Photo: A fluffy black and white cat with wide green eyes gazes curiously at the camera. The feline sits comfortably on a soft green surface, making for an adorable portrait.
+- **ristotuomarla**:  ([link](https://www.threads.com/@ristotuomarla/post/DehwV8eCFDD))
+  - Photo: A red squirrel stands upright on its hind legs in a mossy, leaf-strewn forest, looking alertly to its left. Its fluffy grey tail is visible behind it, and its white belly contrasts with its reddish-brown fur.
+- **mcwilliams2509**: Swan ,heron and gull on a canal ([link](https://www.threads.com/@mcwilliams2509/post/DehwS15kZf-))
+  - Photo: A single white swan glides peacefully across dark, still water, its reflection mirroring its elegant form. Lush green foliage and stalks of brownish-red plants frame the scene, creating a serene and natural atmosphere.
+- **bellarox30**:  ([link](https://www.threads.com/@bellarox30/post/DehsIJTj2SJ))
+  - Photo: A buck deer with antlers trots casually along a suburban sidewalk in broad daylight. Parked cars line the adjacent street, highlighting an unexpected urban wildlife sighting.
+  - Photo: A large antlered deer walks away down a narrow path in a lush green garden lined with tall, manicured evergreens and vibrant foliage.
+- **kristinakeilig**:  ([link](https://www.threads.com/@kristinakeilig/post/Dehr7e5AIO7))
+  - Photo: A vibrant, rosy-pink flamingo stands gracefully on one leg in a shallow, reflective body of water, with other flamingos and a muddy bank visible in the background.
+- **kristinakeilig**:  ([link](https://www.threads.com/@kristinakeilig/post/DehrWOTADqW))
+  - Photo: Several bright pink flamingos forage in dark, reflective water, with one wearing a blue leg band. Their vibrant colors create a striking contrast against the dark pond, and lush green foliage lines the near edge.
+- **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DehrP5vkZWY))
+  - Photo: A white and tan rooster with a bright red comb looks out from behind a wire fence in a grassy yard.
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
 - **abnerabel125**: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))

@@ -4,13 +4,14 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (34)
+## Needs Like (36)
 
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
 - michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
+- mcwilliams2509: Gorgeous ([link](https://www.threads.com/@mcwilliams2509/post/Dehwb3wEa6q))
 - ahowardflfotos: Yup! ([link](https://www.threads.com/@ahowardflfotos/post/Dehb7c5EXJA))
 - thehoodedclot: i don't actually know what had their interest there, I didn't want to spoil their moment ([link](https://www.threads.com/@thehoodedclot/post/DehcCnhjryj))
 - bugs_eye_view_of_you: Lol ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DehNq06Ebmv))
@@ -23,6 +24,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Water Wednesday 🌊 Niagara, because sometimes water just sho… ([thread](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx))
 - srravi: 🙏🙏🙏 ([link](https://www.threads.com/@srravi/post/DegP4XVka-D))
 - briansmithphotography67: A jetty across a Estuary 🙂 ([link](https://www.threads.com/@briansmithphotography67/post/Def6C8xk-mm))
+- keithreid__photography: Thank you ([link](https://www.threads.com/@keithreid__photography/post/Dehyfninwi7))
 - dave19aber: Something that will live with me forever. ([link](https://www.threads.com/@dave19aber/post/DefVqfDDbKh))
 - michaelgiancarlo772: Thx u bro ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFkVmkujT))
 - michaelgiancarlo772: 👁️🌊 Ketika Air Mata Menjadi Semesta ✨ Di luar batas logika, air mata berubah menjadi samudra, ikan berenang dalam keajaiban, dan dunia tersembunyi lahir dari tatapan. Inilah surealisme, ketika yang mustahil menjadi nyata. #KelasAiSurrealism #DjancukCrew #Surrealism ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFRuNErzw))
