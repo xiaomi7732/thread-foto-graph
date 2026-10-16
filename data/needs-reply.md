@@ -4,7 +4,7 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (6)
+## Needs Reply (8)
 
 ### Animal Thursday favorites 🏆 Five animals that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DejvrXrG5gQ))
 - **meservelee**:  ([link](https://www.threads.com/@meservelee/post/DekFe_PGPbs))
@@ -14,6 +14,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: A white-tailed buck with large antlers peers out from a dense thicket of vibrant green foliage.
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
+- **terryleeballard**:  ([link](https://www.threads.com/@terryleeballard/post/DekcXidluSI))
+  - Photo: This vintage photo, captured through a window, shows the "Williams Boat Co" sign over a weathered dock filled with small boats, under autumn leaves.
+- **gailtustin**: Driving the coast highway in California… SO BEAUTIFUL ([link](https://www.threads.com/@gailtustin/post/DekU2vnmilo))
+  - Photo: A rolling landscape of green hills and dense forests is partially obscured by low-hanging clouds under a partly cloudy sky. Utility poles and a thin wire stretch across the foreground, suggesting a roadside view of the scenic countryside.
+  - Photo: A lone red barn sits in a plowed field below a rolling, green hillside covered in scattered trees and a misty, overcast sky. Power lines and a wooden utility pole cut across the foreground, while a small white building is tucked away in the lower-left landscape.
+  - Photo: A high-angle, wide shot shows a coastal view from a highway with a weathered metal guardrail and green grass in the foreground. In the background, the sea stretches out to meet the horizon under a clear blue sky, with large rock formations rising from the water near a sandy beach.
 - **trayjayhay**:  ([link](https://www.threads.com/@trayjayhay/post/DekG6pVGIwJ))
   - Photo: A storefront sign above a multi-paned glass window reads "ZAPATERIA" in bold lettering. Inside, wooden shelves display an assortment of brightly colored, whimsical clown shoes in hues of red, yellow, blue, and black.
 - **smilingjeannie**: Scotland Eilen Donan Castle ([link](https://www.threads.com/@smilingjeannie/post/DekCiO8Ef58))
