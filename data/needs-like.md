@@ -4,11 +4,10 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (37)
+## Needs Like (31)
 
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
-- michaelgiancarlo772: Congratulation 🏆 ([link](https://www.threads.com/@michaelgiancarlo772/post/DehLKtvkgbE))
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
 - mcwilliams2509: Gorgeous ([link](https://www.threads.com/@mcwilliams2509/post/Dehwb3wEa6q))
@@ -27,11 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - briansmithphotography67: A jetty across a Estuary 🙂 ([link](https://www.threads.com/@briansmithphotography67/post/Def6C8xk-mm))
 - keithreid__photography: Thank you ([link](https://www.threads.com/@keithreid__photography/post/Dehyfninwi7))
 - dave19aber: Something that will live with me forever. ([link](https://www.threads.com/@dave19aber/post/DefVqfDDbKh))
-- michaelgiancarlo772: Thx u bro ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFkVmkujT))
-- michaelgiancarlo772: 👁️🌊 Ketika Air Mata Menjadi Semesta ✨ Di luar batas logika, air mata berubah menjadi samudra, ikan berenang dalam keajaiban, dan dunia tersembunyi lahir dari tatapan. Inilah surealisme, ketika yang mustahil menjadi nyata. #KelasAiSurrealism #DjancukCrew #Surrealism ([link](https://www.threads.com/@michaelgiancarlo772/post/DefFRuNErzw))
 
 ### Pattern Tuesday favorites 🏆 Five patterns that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/DeekTCTERN5))
-- michaelgiancarlo772: Thx u bro 🤝 ([link](https://www.threads.com/@michaelgiancarlo772/post/DeenYqtklOi))
 - mapletreephotography_wpm: ❤️👀 ([link](https://www.threads.com/@mapletreephotography_wpm/post/Deeor-gkXZy))
 - medium.gords7: Thank you! 💙 ([link](https://www.threads.com/@medium.gords7/post/DeelZekkSjT))
 - yvetime: it’s Sorbaria sorbifolia ‘Sem’. Its leaves emerge bronze-red in spring, mature to deep green with burgundy tips in summer, and turn brilliant orange-red in fall. 🍂 ([link](https://www.threads.com/@yvetime/post/DeeooHyjYls))
@@ -46,8 +42,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - bklynbjb: Ty ([link](https://www.threads.com/@bklynbjb/post/DecWWbJnLeL))
 - mazpaz46: 🙏 ([link](https://www.threads.com/@mazpaz46/post/DecTpL2iKIk))
 - powder_love_eat: 😍 ([link](https://www.threads.com/@powder_love_eat/post/DecGUUCmv0J))
-- michaelgiancarlo772: Thx u ([link](https://www.threads.com/@michaelgiancarlo772/post/DecJMqQEryf))
-- michaelgiancarlo772: Thx u ([link](https://www.threads.com/@michaelgiancarlo772/post/DecDzEkktRR))
 - photog84: Wow!! Amazing image!! Love the pattern and color!!📷 ([link](https://www.threads.com/@photog84/post/DeccVHVFxkw))
 - citizenb: Thank you! ([link](https://www.threads.com/@citizenb/post/DecdpyRIErD))
 - citizenb: 😊 ([link](https://www.threads.com/@citizenb/post/DecdxMdIMFM))
