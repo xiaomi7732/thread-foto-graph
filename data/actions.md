@@ -6,13 +6,11 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (5)
+## Needs Reply (4)
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
 - **howard_83kg**:  ([link](https://www.threads.com/@howard_83kg/post/DeiJh-yERcZ))
   - Photo: A mother cheetah stands watchfully in tall grass while her playful cubs engage her; one cub stands on its hind legs looking up affectionately, and another nuzzles near her back leg.
-- **raylehr1783**: What are You looking at? ([link](https://www.threads.com/@raylehr1783/post/DeiHrhMIENy))
-  - Photo: A curious black cow with a white patch on its forehead rests in tall grass behind a barbed wire fence. In the background, rolling green hills and autumn-colored trees under an overcast sky create a peaceful rural landscape.
 - **carolpeett**:  ([link](https://www.threads.com/@carolpeett/post/DeiG1kZjPTO))
   - Photo: A light-colored mare and her foal stand inside a rustic barn with stone walls, surrounded by straw and hay bales. Both horses wear simple halters, and the mare holds a wisp of hay in her mouth.
   - Photo: A light gray foal with dark legs and a dark mane stands outdoors near a wooden gate and a stone wall. The young horse appears to be stretching its neck forward, perhaps toward an object on top of the wall.

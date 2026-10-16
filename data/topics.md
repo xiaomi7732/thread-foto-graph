@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, cut, evergreen, seattle
+## Topic: morning, evergreen, cut, sunbeams
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -21,8 +21,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
   - **[NEEDS REPLY]** Reply by howard_83kg:  ([link](https://www.threads.com/@howard_83kg/post/DeiJh-yERcZ))
     - Photo: A mother cheetah stands watchfully in tall grass while her playful cubs engage her; one cub stands on its hind legs looking up affectionately, and another nuzzles near her back leg.
-  - **[NEEDS REPLY]** Reply by raylehr1783: What are You looking at? ([link](https://www.threads.com/@raylehr1783/post/DeiHrhMIENy))
-    - Photo: A curious black cow with a white patch on its forehead rests in tall grass behind a barbed wire fence. In the background, rolling green hills and autumn-colored trees under an overcast sky create a peaceful rural landscape.
   - **[NEEDS REPLY]** Reply by carolpeett:  ([link](https://www.threads.com/@carolpeett/post/DeiG1kZjPTO))
     - Photo: A light-colored mare and her foal stand inside a rustic barn with stone walls, surrounded by straw and hay bales. Both horses wear simple halters, and the mare holds a wisp of hay in her mouth.
     - Photo: A light gray foal with dark legs and a dark mane stands outdoors near a wooden gate and a stone wall. The young horse appears to be stretching its neck forward, perhaps toward an object on top of the wall.
@@ -60,7 +58,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
     - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
       - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
-  _(+95 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  _(+97 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
