@@ -4,12 +4,14 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (35)
+## Needs Like (37)
 
 ### Animal Thursday favorites 🏆 Five animals that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DejvrXrG5gQ))
 - ahowardflfotos: I think they were already at it when I arrived! That's what caught my attention. Thanks for sharing it! ([link](https://www.threads.com/@ahowardflfotos/post/Dej6iOekbBx))
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
+- i.m.doing.fine: It's Vražje jezero in Montenegro. ([link](https://www.threads.com/@i.m.doing.fine/post/DekBWzUCEOe))
+- tallerthanyou2026: Me too- was white thrn pink then gone ! ([link](https://www.threads.com/@tallerthanyou2026/post/Dej-10_Gi2A))
 - citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
 - srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
 
