@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, cut, sunbeams, evergreen
+## Topic: morning, sunbeams, unbelievable, seattle
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -19,16 +19,12 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
-  - **[NEEDS REPLY]** Reply by joanmduffy: Someone needs a comb ([link](https://www.threads.com/@joanmduffy/post/DeioaAWlrDq))
-    - Photo: A slightly ruffled seagull walks away from the camera, leaving faint tracks in the sand. Its feathers are tousled by the wind, casting a long shadow on the damp beach.
-  - **[NEEDS REPLY]** Reply by kenneth.paul.oconnor:  ([link](https://www.threads.com/@kenneth.paul.oconnor/post/DeibYW4gNSJ))
-    - Photo: A single white swan gracefully glides across the tranquil blue water of a lake, framed by lush green reeds and leafy branches in the foreground.
-  - **[NEEDS REPLY]** Reply by cordazone:  ([link](https://www.threads.com/@cordazone/post/DeiZiF1Gy_S))
-    - Photo: A close-up selfie shows a white-faced capuchin monkey looking directly into the camera with its arms outstretched toward the chain-link fence.
-  - **[NEEDS REPLY]** Reply by brian.bill.02:  ([link](https://www.threads.com/@brian.bill.02/post/DeiZM1hGvs4))
-    - Photo: Three turtles sunbathe on a fallen log floating in a tranquil pond, their reflections clearly visible in the rippling water below.
-  - **[NEEDS REPLY]** Reply by dorieannh:  ([link](https://www.threads.com/@dorieannh/post/DeiWtyRjcbp))
-    - Photo: A white cat with black spots sits perched on a stone wall next to a couple of small cacti. In the background, an off-white stone building features a window and tangled vines.
+  - **[NEEDS REPLY]** Reply by wang_fong_ya: A curious little squirrel I met on an autumn walk. 🐿️🍂 One of those unexpected moments that makes photography so special! 🤎 ([link](https://www.threads.com/@wang_fong_ya/post/DeiyLhLD06V))
+    - Photo: A red squirrel stands upright amid a thick blanket of fallen yellow and orange leaves in a wooded park. Sunlight filters through the trees in the background, highlighting the vibrant autumn foliage.
+  - **[NEEDS REPLY]** Reply by dontfollow_baugh:  ([link](https://www.threads.com/@dontfollow_baugh/post/Deiwzwtm5TG))
+    - Photo: A full-body shot of a deer standing on a hillside, viewed from behind in a misty forest. The deer is positioned on a layer of reddish-brown leaves, surrounded by greenery and large, grey rocks. In the background, a wooden structure is visible among the foggy trees.
+  - **[NEEDS REPLY]** Reply by lisahaa2:  ([link](https://www.threads.com/@lisahaa2/post/DeisImblO-g))
+    - Photo: Several sea lions lounge on grey rock formations under an overcast sky. Two sea lions on the right face each other, while another looks back over its shoulder.
   - Reply by nzurisana23:  ([link](https://www.threads.com/@nzurisana23/post/Dehn7c0iNuE))
     - Photo: A close-up of a majestic male lion peeking through lush green foliage, with the background cropped to black. The lion’s intense gaze is partially obscured by the leaves, adding a sense of stealth and wild beauty.
     _(+1 more reply already answered under this, see archive)_
@@ -66,7 +62,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
     - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
       - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
-  _(+99 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  _(+109 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
