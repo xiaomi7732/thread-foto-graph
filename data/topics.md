@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, evergreen, cut, sunbeams
+## Topic: morning, seattle, sunbeams, cut
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -19,16 +19,22 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
-  - **[NEEDS REPLY]** Reply by howard_83kg:  ([link](https://www.threads.com/@howard_83kg/post/DeiJh-yERcZ))
-    - Photo: A mother cheetah stands watchfully in tall grass while her playful cubs engage her; one cub stands on its hind legs looking up affectionately, and another nuzzles near her back leg.
-  - **[NEEDS REPLY]** Reply by carolpeett:  ([link](https://www.threads.com/@carolpeett/post/DeiG1kZjPTO))
-    - Photo: A light-colored mare and her foal stand inside a rustic barn with stone walls, surrounded by straw and hay bales. Both horses wear simple halters, and the mare holds a wisp of hay in her mouth.
-    - Photo: A light gray foal with dark legs and a dark mane stands outdoors near a wooden gate and a stone wall. The young horse appears to be stretching its neck forward, perhaps toward an object on top of the wall.
-    - Photo: A little girl in a white shirt, purple skirt, and red rainboots stands at a rustic wooden gate, reaching out to pet one of four donkeys lined up behind it. The donkeys, a mix of brown and grey, curiously watch the child from a muddy enclosure surrounded by lush green foliage.
+  - **[NEEDS REPLY]** Reply by kenneth.paul.oconnor:  ([link](https://www.threads.com/@kenneth.paul.oconnor/post/DeibYW4gNSJ))
+    - Photo: A single white swan gracefully glides across the tranquil blue water of a lake, framed by lush green reeds and leafy branches in the foreground.
+  - **[NEEDS REPLY]** Reply by cordazone:  ([link](https://www.threads.com/@cordazone/post/DeiZiF1Gy_S))
+    - Photo: A close-up selfie shows a white-faced capuchin monkey looking directly into the camera with its arms outstretched toward the chain-link fence.
+  - **[NEEDS REPLY]** Reply by brian.bill.02:  ([link](https://www.threads.com/@brian.bill.02/post/DeiZM1hGvs4))
+    - Photo: Three turtles sunbathe on a fallen log floating in a tranquil pond, their reflections clearly visible in the rippling water below.
+  - **[NEEDS REPLY]** Reply by dorieannh:  ([link](https://www.threads.com/@dorieannh/post/DeiWtyRjcbp))
+    - Photo: A white cat with black spots sits perched on a stone wall next to a couple of small cacti. In the background, an off-white stone building features a window and tangled vines.
   - Reply by nzurisana23:  ([link](https://www.threads.com/@nzurisana23/post/Dehn7c0iNuE))
     - Photo: A close-up of a majestic male lion peeking through lush green foliage, with the background cropped to black. The lion’s intense gaze is partially obscured by the leaves, adding a sense of stealth and wild beauty.
     _(+1 more reply already answered under this, see archive)_
     - **[NEEDS LIKE]** Reply by mcwilliams2509: Gorgeous ([link](https://www.threads.com/@mcwilliams2509/post/Dehwb3wEa6q))
+  - Reply by abbytabby13: Backyard visitor.... ([link](https://www.threads.com/@abbytabby13/post/DehZzQgFnBC))
+    - Photo: A close-up shot captures a pronghorn looking directly at the camera, with the afternoon sun highlighting its face and distinctive black-tipped horns. The animal's light brown and white coat contrasts against a blurred, dark background.
+    - Reply by saars.foto: Backyard pronghorn. ([link](https://www.threads.com/@saars.foto/post/DehpgFuj3W2))
+      - **[NEEDS LIKE]** Reply by abbytabby13: Yep! ([link](https://www.threads.com/@abbytabby13/post/DeiW7D2lhfO))
   - Reply by ahowardflfotos:  ([link](https://www.threads.com/@ahowardflfotos/post/DehZUxbEU5g))
     - Photo: Two great egrets in full breeding plumage court each other amidst a dense tree canopy. The bird on the right faces upward with its bill pointed straight into the air while the bird on the left leans toward it, their long, flowing plumes creating a dramatic display against the dark background.
     - Reply by saars.foto: Egret courtship. ([link](https://www.threads.com/@saars.foto/post/DehbobWkVHV))
@@ -58,7 +64,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
     - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
       - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
-  _(+97 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  _(+99 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
