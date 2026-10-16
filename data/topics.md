@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, evergreen, unbelievable, cut
+## Topic: morning, sunbeams, seattle, cut
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -15,19 +15,32 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: Two majestic great egrets in full breeding plumage, with their delicate, lace-like feathers flared out in an elaborate display, stand amidst dark green foliage against a shadowy background.
   - Photo: A group of chickens stands in a dewy field at sunrise, illuminated by a warm, golden glow. The misty background features silhouetted trees, creating a peaceful, rustic farm scene.
   - Photo: A close-up vertical shot captures a shaggy brown bison grazing in a grassy field, its dark eye alert as it looks to the side. Behind it, another bison is partially visible, while the foreground is filled with dry, wispy grasses and soft green shoots.
-  - All 5 replies already answered. ✅ ([full thread](threads/18125165482954076.md))
+  - Reply by saars.foto: How long were you watching before the courtship display started? @ahowardflfotos ([link](https://www.threads.com/@saars.foto/post/Dejv8JQnEx7))
+    - **[NEEDS LIKE]** Reply by ahowardflfotos: I think they were already at it when I arrived! That's what caught my attention. Thanks for sharing it! ([link](https://www.threads.com/@ahowardflfotos/post/Dej6iOekbBx))
+  _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18125165482954076.md))_
 - **Thread** [18116585114012762](https://www.threads.com/@saars.foto/post/DejtnFoG5tp): Made Me Stop Friday 🛑 Show me the photo that made you stop. The one that made you pull the car over, stop mid-walk, or just stare for a second too long. This rainbow over red trees did that to me. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A vibrant rainbow cuts through a dramatic gray, cloudy sky, positioned just above a tree with striking red and green autumn leaves.
-  - **[NEEDS REPLY]** Reply by i.m.doing.fine:  ([link](https://www.threads.com/@i.m.doing.fine/post/Dej4B4WiNzk))
-    - Photo: A vibrant, turquoise blue alpine lake sits cradled within dry, rolling golden hills under a dramatic sky filled with scattered white cumulus clouds. Distant mountains stretch across the horizon, completing the serene wilderness landscape.
-  - **[NEEDS REPLY]** Reply by cerlie61:  ([link](https://www.threads.com/@cerlie61/post/Dej3wlYDenU))
-    - Photo: A vibrant rainbow arches across a dramatic, dark gray storm sky above a neighborhood of traditional brick homes with orange-tiled roofs and lush green trees.
-  - **[NEEDS REPLY]** Reply by maureenozerimages:  ([link](https://www.threads.com/@maureenozerimages/post/Dej3phyjUmM))
+  - **[NEEDS REPLY]** Reply by jackletrade:  ([link](https://www.threads.com/@jackletrade/post/Dej-hM4CNcP))
+    - Photo: A large, weathered tree root sits prominently on a grassy field, with a striking tree displaying vibrant autumn colors directly behind it under a cloudy sky.
+  - **[NEEDS REPLY]** Reply by njyhjtj7andtilly:  ([link](https://www.threads.com/@njyhjtj7andtilly/post/Dej-c7HGj_K))
+    - Photo: A bright, double rainbow stretches across a gray, cloudy sky above a desert landscape with small trees and cacti. The low evening sun casts long shadows, illuminating the gravelly foreground of what appears to be a rural or suburban yard.
+    - Photo: A bright, vibrant rainbow stretches horizontally across a wide blue sky filled with dramatic, heavy clouds. Below, a desert landscape features dry soil, sparse vegetation, prickly pear cacti, and scattered rural homes.
+    - Photo: A vibrant rainbow stretches across a gray, overcast sky, its luminous colors contrasting sharply with the somber backdrop. Below, utility poles, overhead wires, and arid desert vegetation, including cacti and agave plants, silhouette against the light.
+  - **[NEEDS REPLY]** Reply by difishing:  ([link](https://www.threads.com/@difishing/post/Dej-Cp7FMNR))
+    - Photo: A squirrel climbs a textured tree trunk with a scenic waterfront park in the background. Across the sparkling water, a wooden boardwalk leads through lush green trees under a bright blue sky.
+  - **[NEEDS REPLY]** Reply by catmac720: Bridge of Sighs, Venice. Kinda spooky feeling… ([link](https://www.threads.com/@catmac720/post/Dej8GGoFRKw))
+    - Photo: A vertical, nighttime, medium shot shows the Bridge of Sighs in Venice, Italy, spanning a dark canal. The narrow body of water is framed by stone buildings on either side, with the illuminated bridge centered in the upper portion of the frame. The bridge's reflection shimmers on the water's surface, creating a long trail of light that leads toward the viewer.
+  - **[NEEDS REPLY]** Reply by genie202606:  ([link](https://www.threads.com/@genie202606/post/Dej7BD9EeEd))
+    - Photo: A vibrant sunset paints the sky in shades of orange and blue, with the sun just dipping below a silhouetted treeline. The entire scene is perfectly mirrored in the calm, reflective waters of a still body of water below.
+  - **[NEEDS REPLY]** Reply by abbytabby13:  ([link](https://www.threads.com/@abbytabby13/post/Dej61wXFgRF))
+    - Photo: A small island with thin trees sits in the middle of a clear blue alpine lake, framed by tall evergreen trees in the foreground and a dense forest on the far shore.
+  - **[NEEDS REPLY]** Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/Dej4HVzGDlr))
+    - Photo: An elderly woman sits on stone steps, knitting with yarn while surrounded by handmade dolls, colorful crafts, and her wares displayed for sale in a rustic village setting.
+  - Reply by maureenozerimages:  ([link](https://www.threads.com/@maureenozerimages/post/Dej3phyjUmM))
     - Photo: A wide-angle, low-angle shot captures a vibrant rainbow arcing over a vast, windswept moorland under a dramatic sky of dark, rolling clouds and patches of blue. The barren landscape is bathed in a warm, golden light, with patches of dry grass and low-lying vegetation stretching towards the horizon.
-  - **[NEEDS REPLY]** Reply by meservelee:  ([link](https://www.threads.com/@meservelee/post/Dej2ZKdEY_U))
-    - Photo: A vibrant golden sunset beams through the tall pine trees, casting a warm glow over a serene lake. The tranquil water reflects the fading light while a paved path covered in fallen pine needles leads the eye toward the water's edge.
-  - **[NEEDS REPLY]** Reply by tallerthanyou2026: Napa, California ([link](https://www.threads.com/@tallerthanyou2026/post/Dej0QTuGxtJ))
-    - Photo: A vibrant pink and orange sunset paints the sky with wispy, feather-like clouds above a suburban neighborhood. Silhouetted trees and the roof of a house frame the lower edges of the colorful evening scene.
+    - Reply by saars.foto: Moor rainbow. Did you chase that light or did it find you? ([link](https://www.threads.com/@saars.foto/post/Dej5Q6qEWSa))
+      - **[NEEDS REPLY]** Reply by maureenozerimages: We were driving towards Glencoe & we had to pull the car over to get this never to be seen again shot (yes I was standing in the middle of the road for the shot) ([link](https://www.threads.com/@maureenozerimages/post/Dej6C3SjcMq))
+        - Photo: A straight asphalt road stretches into the distance through a desolate, golden-brown moorland under a dramatic sky. A vibrant rainbow arcs across the clouds to the right of the road, creating a striking contrast against the moody, overcast weather.
   - Reply by citizenb: Amalia Glacier ([link](https://www.threads.com/@citizenb/post/DejvZ-2kQ3g))
     - Photo: A massive blue glacier flows down between dark mountain peaks, ending at the water's edge. Icebergs float in the gray water in the foreground, suggesting a cold, remote wilderness environment.
     - Reply by saars.foto: Breath taking 👍 ([link](https://www.threads.com/@saars.foto/post/Dejv8WFG6zX))
@@ -36,7 +49,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A vibrant rainbow arcs across a dramatic, cloudy sky, casting a colorful glow over a calm body of water with a distant city skyline along the horizon.
     - Reply by saars.foto: Rainbow encore. ([link](https://www.threads.com/@saars.foto/post/Dej0XlVm5Bn))
       - **[NEEDS LIKE]** Reply by srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
-  _(+3 more replies elsewhere in this thread already answered, see [full thread](threads/18116585114012762.md))_
+  _(+15 more replies elsewhere in this thread already answered, see [full thread](threads/18116585114012762.md))_
 - **Thread** [18110609696261412](https://www.threads.com/@saars.foto/post/DehIRF0EYmL): Water Wednesday favorites 🏆 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.
   - Photo: A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.
   - Photo: A long-exposure shot shows a gentle waterfall cascading over dark, mossy rocks, framed by lush foliage and scattered autumn leaves.
