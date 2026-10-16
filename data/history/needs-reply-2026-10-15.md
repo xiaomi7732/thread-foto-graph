@@ -4,9 +4,11 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (6)
+## Needs Reply (7)
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
+- **joanmduffy**: Someone needs a comb ([link](https://www.threads.com/@joanmduffy/post/DeioaAWlrDq))
+  - Photo: A slightly ruffled seagull walks away from the camera, leaving faint tracks in the sand. Its feathers are tousled by the wind, casting a long shadow on the damp beach.
 - **kenneth.paul.oconnor**:  ([link](https://www.threads.com/@kenneth.paul.oconnor/post/DeibYW4gNSJ))
   - Photo: A single white swan gracefully glides across the tranquil blue water of a lake, framed by lush green reeds and leafy branches in the foreground.
 - **cordazone**:  ([link](https://www.threads.com/@cordazone/post/DeiZiF1Gy_S))

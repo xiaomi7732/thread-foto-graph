@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, seattle, sunbeams, cut
+## Topic: morning, cut, sunbeams, evergreen
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -19,6 +19,8 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
+  - **[NEEDS REPLY]** Reply by joanmduffy: Someone needs a comb ([link](https://www.threads.com/@joanmduffy/post/DeioaAWlrDq))
+    - Photo: A slightly ruffled seagull walks away from the camera, leaving faint tracks in the sand. Its feathers are tousled by the wind, casting a long shadow on the damp beach.
   - **[NEEDS REPLY]** Reply by kenneth.paul.oconnor:  ([link](https://www.threads.com/@kenneth.paul.oconnor/post/DeibYW4gNSJ))
     - Photo: A single white swan gracefully glides across the tranquil blue water of a lake, framed by lush green reeds and leafy branches in the foreground.
   - **[NEEDS REPLY]** Reply by cordazone:  ([link](https://www.threads.com/@cordazone/post/DeiZiF1Gy_S))
