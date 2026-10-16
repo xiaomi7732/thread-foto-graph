@@ -6,30 +6,15 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (8)
-
-### Animal Thursday favorites 🏆 Five animals that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DejvrXrG5gQ))
-- **meservelee**:  ([link](https://www.threads.com/@meservelee/post/DekFe_PGPbs))
-  - Photo: A small, striped chipmunk is perched on a fallen log in a lush green forest, blending into its natural woodland habitat.
-  - Photo: A high-angle, vertical shot captures an eastern box turtle nestled among the leaf litter on a hiking trail. The turtle has a dark, domed shell with striking yellow markings and bright orange-spotted legs, while its head features a distinctive red eye.
-  - Photo: Two white-tailed deer stand alert in a frosty field of tall, dry grass. The morning sun illuminates the scene, catching the light frost on the vegetation as the deer turn to look directly toward the camera.
-  - Photo: A white-tailed buck with large antlers peers out from a dense thicket of vibrant green foliage.
+## Needs Reply (4)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
-- **terryleeballard**:  ([link](https://www.threads.com/@terryleeballard/post/DekcXidluSI))
-  - Photo: This vintage photo, captured through a window, shows the "Williams Boat Co" sign over a weathered dock filled with small boats, under autumn leaves.
+- **whoissilver**: I was just dropping off and this Japanese Acer seed pod, backlit by the evening sun, caught my eye and I just had to get out and investigate. ([link](https://www.threads.com/@whoissilver/post/DekkXiJDXsT))
+  - Photo: A close-up captures a bright red maple seed perched delicately on a twig amidst dark, backlit foliage against a clear blue sky. The golden hour light illuminates the translucent leaves, creating a warm, autumnal atmosphere.
 - **gailtustin**: Driving the coast highway in California… SO BEAUTIFUL ([link](https://www.threads.com/@gailtustin/post/DekU2vnmilo))
   - Photo: A rolling landscape of green hills and dense forests is partially obscured by low-hanging clouds under a partly cloudy sky. Utility poles and a thin wire stretch across the foreground, suggesting a roadside view of the scenic countryside.
   - Photo: A lone red barn sits in a plowed field below a rolling, green hillside covered in scattered trees and a misty, overcast sky. Power lines and a wooden utility pole cut across the foreground, while a small white building is tucked away in the lower-left landscape.
   - Photo: A high-angle, wide shot shows a coastal view from a highway with a weathered metal guardrail and green grass in the foreground. In the background, the sea stretches out to meet the horizon under a clear blue sky, with large rock formations rising from the water near a sandy beach.
-- **trayjayhay**:  ([link](https://www.threads.com/@trayjayhay/post/DekG6pVGIwJ))
-  - Photo: A storefront sign above a multi-paned glass window reads "ZAPATERIA" in bold lettering. Inside, wooden shelves display an assortment of brightly colored, whimsical clown shoes in hues of red, yellow, blue, and black.
-- **smilingjeannie**: Scotland Eilen Donan Castle ([link](https://www.threads.com/@smilingjeannie/post/DekCiO8Ef58))
-  - Photo: A large pile of tangled brown fishing rope rests on the grass next to stacks of green and blue lobster traps. In the background, Eilean Donan Castle stands on a small island in Loch Duich, surrounded by calm water and majestic Scottish mountains under a cloudy sky.
-
-### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
-- **meservelee**:  ([link](https://www.threads.com/@meservelee/post/DekFqwaGCE1))
-  - Photo: An orange tabby cat lies completely upside down on a dark brown recliner, with all four paws in the air and a relaxed expression on its face. The cat appears deeply comfortable and unbothered, making for a funny and relatable pet snapshot.
 
 ### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
 - **abnerabel125**: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))
@@ -44,12 +29,12 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (37)
-
-### Animal Thursday favorites 🏆 Five animals that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DejvrXrG5gQ))
-- ahowardflfotos: I think they were already at it when I arrived! That's what caught my attention. Thanks for sharing it! ([link](https://www.threads.com/@ahowardflfotos/post/Dej6iOekbBx))
+## Needs Like (39)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
+- charhedman: Stunning! Love the light on the red helicopter 🍁 ([link](https://www.threads.com/@charhedman/post/DeklDT8AcPM))
+- smilingjeannie: Yes, I got much closer for photos but our group did not tour the castle. This was my favorite photo from that stop. ([link](https://www.threads.com/@smilingjeannie/post/DeknrTTkdyL))
+- abbytabby13: Maybe in the past I would have..but now? Nah..I'm happy just to admire it😉 ([link](https://www.threads.com/@abbytabby13/post/Dekqo0Vllj0))
 - i.m.doing.fine: It's Vražje jezero in Montenegro. ([link](https://www.threads.com/@i.m.doing.fine/post/DekBWzUCEOe))
 - tallerthanyou2026: Me too- was white thrn pink then gone ! ([link](https://www.threads.com/@tallerthanyou2026/post/Dej-10_Gi2A))
 - citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
