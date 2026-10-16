@@ -4,12 +4,17 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (31)
+## Needs Like (34)
+
+### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
+- citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
+- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
 
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
 
 ### Animal Thursday 🦆 Show me your best animal shot. Pets being… ([thread](https://www.threads.com/@saars.foto/post/DehGX__m_N1))
+- matt.wilson.gc: He is that😂 ([link](https://www.threads.com/@matt.wilson.gc/post/Dej13K2jR0a))
 - mcwilliams2509: Gorgeous ([link](https://www.threads.com/@mcwilliams2509/post/Dehwb3wEa6q))
 - abbytabby13: Yep! ([link](https://www.threads.com/@abbytabby13/post/DeiW7D2lhfO))
 - ahowardflfotos: Yup! ([link](https://www.threads.com/@ahowardflfotos/post/Dehb7c5EXJA))

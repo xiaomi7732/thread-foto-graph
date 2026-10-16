@@ -2,12 +2,12 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: morning, cut, seattle, unbelievable
+## Topic: morning, evergreen, unbelievable, cut
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
 
-## Topic: water, shot, green, white
+## Topic: water, sky, shot, green
 
 - **Thread** [18125165482954076](https://www.threads.com/@saars.foto/post/DejvrXrG5gQ): Animal Thursday favorites 🏆 Five animals that stopped my scroll. @howard_83kg @special_ed04 @ahowardflfotos @eye.mac @empty_suit - beautiful work, all of you.
   - Photo: A mother cheetah stands watch in tall dry grass while her two playful cubs interact with her, one standing up on its hind legs and the other resting near her feet.
@@ -18,10 +18,24 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - All 5 replies already answered. ✅ ([full thread](threads/18125165482954076.md))
 - **Thread** [18116585114012762](https://www.threads.com/@saars.foto/post/DejtnFoG5tp): Made Me Stop Friday 🛑 Show me the photo that made you stop. The one that made you pull the car over, stop mid-walk, or just stare for a second too long. This rainbow over red trees did that to me. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A vibrant rainbow cuts through a dramatic gray, cloudy sky, positioned just above a tree with striking red and green autumn leaves.
-  - **[NEEDS REPLY]** Reply by annette7926: Love ([link](https://www.threads.com/@annette7926/post/Dejx0y1iBck))
-    - Photo: A young couple stands close together in a dimly lit museum, admiring art displays on a purple wall. In the background, another visitor in a long dress walks away, adding depth to the scene.
-  - **[NEEDS REPLY]** Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DejvNDRGkYp))
+  - **[NEEDS REPLY]** Reply by i.m.doing.fine:  ([link](https://www.threads.com/@i.m.doing.fine/post/Dej4B4WiNzk))
+    - Photo: A vibrant, turquoise blue alpine lake sits cradled within dry, rolling golden hills under a dramatic sky filled with scattered white cumulus clouds. Distant mountains stretch across the horizon, completing the serene wilderness landscape.
+  - **[NEEDS REPLY]** Reply by cerlie61:  ([link](https://www.threads.com/@cerlie61/post/Dej3wlYDenU))
+    - Photo: A vibrant rainbow arches across a dramatic, dark gray storm sky above a neighborhood of traditional brick homes with orange-tiled roofs and lush green trees.
+  - **[NEEDS REPLY]** Reply by maureenozerimages:  ([link](https://www.threads.com/@maureenozerimages/post/Dej3phyjUmM))
+    - Photo: A wide-angle, low-angle shot captures a vibrant rainbow arcing over a vast, windswept moorland under a dramatic sky of dark, rolling clouds and patches of blue. The barren landscape is bathed in a warm, golden light, with patches of dry grass and low-lying vegetation stretching towards the horizon.
+  - **[NEEDS REPLY]** Reply by meservelee:  ([link](https://www.threads.com/@meservelee/post/Dej2ZKdEY_U))
+    - Photo: A vibrant golden sunset beams through the tall pine trees, casting a warm glow over a serene lake. The tranquil water reflects the fading light while a paved path covered in fallen pine needles leads the eye toward the water's edge.
+  - **[NEEDS REPLY]** Reply by tallerthanyou2026: Napa, California ([link](https://www.threads.com/@tallerthanyou2026/post/Dej0QTuGxtJ))
+    - Photo: A vibrant pink and orange sunset paints the sky with wispy, feather-like clouds above a suburban neighborhood. Silhouetted trees and the roof of a house frame the lower edges of the colorful evening scene.
+  - Reply by citizenb: Amalia Glacier ([link](https://www.threads.com/@citizenb/post/DejvZ-2kQ3g))
+    - Photo: A massive blue glacier flows down between dark mountain peaks, ending at the water's edge. Icebergs float in the gray water in the foreground, suggesting a cold, remote wilderness environment.
+    - Reply by saars.foto: Breath taking 👍 ([link](https://www.threads.com/@saars.foto/post/Dejv8WFG6zX))
+      - **[NEEDS LIKE]** Reply by citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
+  - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DejvNDRGkYp))
     - Photo: A vibrant rainbow arcs across a dramatic, cloudy sky, casting a colorful glow over a calm body of water with a distant city skyline along the horizon.
+    - Reply by saars.foto: Rainbow encore. ([link](https://www.threads.com/@saars.foto/post/Dej0XlVm5Bn))
+      - **[NEEDS LIKE]** Reply by srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
   _(+3 more replies elsewhere in this thread already answered, see [full thread](threads/18116585114012762.md))_
 - **Thread** [18110609696261412](https://www.threads.com/@saars.foto/post/DehIRF0EYmL): Water Wednesday favorites 🏆 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.
   - Photo: A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.
@@ -32,38 +46,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18110609696261412.md))_
 - **Thread** [18110779829230964](https://www.threads.com/@saars.foto/post/DehGX__m_N1): Animal Thursday 🦆 Show me your best animal shot. Pets being pets, ducks with opinions, squirrels mid-heist, anything with fur, feathers, or scales. This duck stopped me mid-walk and posed like it owned the pond. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground.
-  - **[NEEDS REPLY]** Reply by empty_suit:  ([link](https://www.threads.com/@empty_suit/post/Dejk0zooC5T))
-    - Photo: A close-up portrait of a bison in a field of tall dry grass, with a second bison visible in the softly blurred background.
-  - **[NEEDS REPLY]** Reply by buzz.crunch:  ([link](https://www.threads.com/@buzz.crunch/post/DejfkeVHwUo))
-    - Photo: A close-up vertical shot captures a Jungle Carpet Python resting its head on a mossy branch in its enclosure, with foliage and wood visible in the blurred background.
-  - **[NEEDS REPLY]** Reply by lmk3.mama:  ([link](https://www.threads.com/@lmk3.mama/post/DejeCB3AVMe))
-    - Photo: A close-up vertical medium shot captures a small, chubby owl with brown feathers mottled with black and white standing on a perch covered in artificial green grass. The owl, which looks a bit like a tawny owl, stares intently down and to the left of the frame. The background is a mix of colors and textures, including dark wood, brick-like tiles, and artificial green plants. The room is dimly lit, with a blue and purple light cast on the scene.
-  - **[NEEDS REPLY]** Reply by matt.wilson.gc:  ([link](https://www.threads.com/@matt.wilson.gc/post/Dejcm7CjckN))
+  - Reply by matt.wilson.gc:  ([link](https://www.threads.com/@matt.wilson.gc/post/Dejcm7CjckN))
     - Photo: A brindle whippet is draped over the back of a brown leather sofa in a sunlit living room, its head resting on the top cushion while its back legs dangle down to the floor.
-  - **[NEEDS REPLY]** Reply by bluemoonbeachwalks:  ([link](https://www.threads.com/@bluemoonbeachwalks/post/DejQFB8FPdv))
-    - Photo: A little pied cormorant dries its wings on a rocky outcrop overlooking green water, its white chest and black back contrasting against the landscape.
-  - **[NEEDS REPLY]** Reply by biernatzki62: 👀 ([link](https://www.threads.com/@biernatzki62/post/DejLYKtDZj1))
-    - Photo: An extreme close-up shot captures the profile of a gorilla's face in soft light, highlighting the intricate texture of its skin, fur, and expressive, thoughtful eye.
-  - **[NEEDS REPLY]** Reply by bevans3629:  ([link](https://www.threads.com/@bevans3629/post/DejKCWcjPB2))
-    - Photo: A majestic male lion with a dark, thick mane rests on the ground amidst dry brush, looking back over his shoulder with piercing yellow eyes.
-  - **[NEEDS REPLY]** Reply by granddoggydaycare:  ([link](https://www.threads.com/@granddoggydaycare/post/DejE_ukjC0w))
-    - Photo: A close-up captures a white cow with black patches and long, curved horns, looking up and tilting its head as if it's about to moo. It stands among trees in a grassy enclosure, with a brick building and lush green foliage in the background.
-  - **[NEEDS REPLY]** Reply by thetonbridgegardener:  ([link](https://www.threads.com/@thetonbridgegardener/post/Dei_Yq9CIlR))
-    - Photo: A seagull perches on a moss-covered rock in the foreground of a wide, overcast beach, while two distant figures wade in the surf.
-  - **[NEEDS REPLY]** Reply by mrr59_60:  ([link](https://www.threads.com/@mrr59_60/post/Dei7Hhtl3JV))
-    - Photo: A common moorhen forages on the ground, surrounded by sparse grass and scattered dry leaves. The bird’s distinct red beak and shield stand out against its dark feathers, while its bright yellow-green legs are clearly visible as it navigates the terrain.
-    - Photo: A close-up shot captures a majestic white swan standing gracefully on a lush green lawn, its long neck arched slightly as it gazes directly at the camera. The bright sunlight filters through the trees, casting gentle dappled shadows on its pristine feathers and the surrounding grass, highlighting the swan's impressive size and bright orange beak.
-    - Photo: A small gray squirrel sits in the grass, nibbling on seeds scattered on the ground. Its bushy tail, tipped with white, is curled up behind its back.
-  - **[NEEDS REPLY]** Reply by redgnome2020:  ([link](https://www.threads.com/@redgnome2020/post/Dei51PRk7RZ))
-    - Photo: A small turtle suns itself on a partially submerged rock in a clear pond, with a gentle waterfall cascading down a rocky ledge in the background.
-  - **[NEEDS REPLY]** Reply by 02657printer:  ([link](https://www.threads.com/@02657printer/post/Dei3cpjEUki))
-    - Photo: A large wild turkey with iridescent black feathers and a fanned tail struts proudly across a grassy lawn. In the background, the sunlit porch of a historic house stands next to a large tree trunk.
-  - **[NEEDS REPLY]** Reply by wang_fong_ya: A curious little squirrel I met on an autumn walk. 🐿️🍂 One of those unexpected moments that makes photography so special! 🤎 ([link](https://www.threads.com/@wang_fong_ya/post/DeiyLhLD06V))
-    - Photo: A red squirrel stands upright amid a thick blanket of fallen yellow and orange leaves in a wooded park. Sunlight filters through the trees in the background, highlighting the vibrant autumn foliage.
-  - **[NEEDS REPLY]** Reply by dontfollow_baugh:  ([link](https://www.threads.com/@dontfollow_baugh/post/Deiwzwtm5TG))
-    - Photo: A full-body shot of a deer standing on a hillside, viewed from behind in a misty forest. The deer is positioned on a layer of reddish-brown leaves, surrounded by greenery and large, grey rocks. In the background, a wooden structure is visible among the foggy trees.
-  - **[NEEDS REPLY]** Reply by lisahaa2:  ([link](https://www.threads.com/@lisahaa2/post/DeisImblO-g))
-    - Photo: Several sea lions lounge on grey rock formations under an overcast sky. Two sea lions on the right face each other, while another looks back over its shoulder.
+    - Reply by saars.foto: Liquid whippet. ([link](https://www.threads.com/@saars.foto/post/Dej0cpdlXMU))
+      - **[NEEDS LIKE]** Reply by matt.wilson.gc: He is that😂 ([link](https://www.threads.com/@matt.wilson.gc/post/Dej13K2jR0a))
   - Reply by nzurisana23:  ([link](https://www.threads.com/@nzurisana23/post/Dehn7c0iNuE))
     - Photo: A close-up of a majestic male lion peeking through lush green foliage, with the background cropped to black. The lion’s intense gaze is partially obscured by the leaves, adding a sense of stealth and wild beauty.
     _(+1 more reply already answered under this, see archive)_
@@ -101,7 +87,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A Greater Roadrunner stands alert in a desert garden, its long tail and distinctive crest angled upward. Surrounded by sparse foliage and rocky ground, the bird is posed in profile against the natural, arid landscape.
     - Reply by saars.foto: Beep beep. ([link](https://www.threads.com/@saars.foto/post/DehKFihFfbF))
       - **[NEEDS LIKE]** Reply by d1xshooter: Yup!! ([link](https://www.threads.com/@d1xshooter/post/DehRjcSEev6))
-  _(+109 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
+  _(+137 more replies elsewhere in this thread already answered, see [full thread](threads/18110779829230964.md))_
 - **Thread** [18349649833269301](https://www.threads.com/@saars.foto/post/Dee8tE6IGPx): Water Wednesday 🌊 Niagara, because sometimes water just shows off. Show me your best water shot - puddles, lakes, rain on glass, the ocean doing its thing. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A low-angle, medium shot shows a massive, rushing waterfall pouring off a rocky cliff into the water below, creating a thick mist that obscures the bottom-right side of the scene. The top of the cliff is dotted with greenery, and the sky is filled with light clouds.
   - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DegFAZVGvm2))
