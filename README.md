@@ -47,11 +47,10 @@ Outputs (smallest/most-frequent read first):
 - `data/history/needs-reply-<yyyy-mm-dd>.md` /
   `data/history/needs-like-<yyyy-mm-dd>.md` — a dated snapshot of each
   day's `needs-reply.md`/`needs-like.md`, written every run and overwritten
-  through the day until the date rolls over (dated by Pacific local time,
-  matching the schedule window below — not UTC, since UTC midnight falls
-  mid-business-day), at which point that day's file becomes a frozen
-  historical record. Not for day-to-day reads (point at the live files for
-  that) — useful for "what was still outstanding on a given day"
+  through the day until the date rolls over (dated by Pacific local time, not
+  UTC, so the calendar day matches the local day), at which point that day's
+  file becomes a frozen historical record. Not for day-to-day reads (point at
+  the live files for that) — useful for "what was still outstanding on a given day"
   drill-down.
 - `docs/graph.json` + `docs/index.html` — visual topic graph (graph view +
   click-through detail panel with full text, replies, photo descriptions,
@@ -173,7 +172,7 @@ Flash-Lite is used here specifically because image description is a simple
 task that doesn't need full Flash's reasoning, and 500/day comfortably covers
 busy days. On days that still exceed the cap, the run stops at
 `MAX_VISION_REQUESTS_PER_RUN` and leaves the rest uncached — they're picked up
-automatically on the next scheduled run, since the cache persists across runs.
+automatically on the next run, since the cache persists across runs.
 Gemini model availability/names change over time (several older model names
 have been retired or renamed) — if calls start failing with 404, check
 https://ai.google.dev/gemini-api/docs/models for current model IDs.
@@ -235,7 +234,7 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    Git Credential Manager) so `git push` in the task doesn't prompt for a
    password.
 
-## Running on a schedule (GitHub Actions)
+## Running on demand (GitHub Actions)
 
 Alternative to Task Scheduler if you'd rather not keep a machine running:
 `.github/workflows/thread-foto-graph.yml` runs the same pipeline on GitHub's
@@ -251,44 +250,14 @@ hosted runners and commits/pushes any changes itself.
    - `GEMINI_MODEL`, `LOOKBACK_DAYS`, `MAX_ROOT_THREADS`,
      `MAX_VISION_REQUESTS_PER_RUN`, `HARD_CUTOFF_DATE` — all optional, same
      defaults as `src/config.py` if left unset.
-3. That's it — the workflow is already scheduled and also supports
-   **Actions → Update Thread Topic Graph → Run workflow** for an on-demand
-   run, optionally overriding `lookback_days`/`max_root_threads`/
+3. Start a run with **Actions → Update Thread Topic Graph → Run workflow**.
+   You can optionally override `lookback_days`/`max_root_threads`/
    `hard_cutoff_date` for that run only (handy for testing, or for pushing
    out a new cutoff immediately, without touching the repo variables).
 
-### Schedule: Mon-Fri, 8am-10pm Seattle time, hourly
-
-GitHub Actions `cron` is UTC-only and has no concept of time zones or DST, so
-it can't directly express "8am-10pm Pacific" (that boundary moves by an hour
-between PST and PDT). Instead:
-- The cron trigger (`0 15-23,0-6 * * *`) fires **every hour, every day**,
-  across a UTC window wide enough to cover 8am-10pm Pacific under *either*
-  PST (UTC-8) or PDT (UTC-7).
-- A "Check Seattle business-hours window" step computes the real, DST-aware
-  current time in `America/Los_Angeles` and skips the rest of the job
-  (install/run/commit) unless it's actually Mon-Fri, 8am-10pm there. Runs
-  outside the window still show up in the Actions log (as a quick, ~5 second
-  skip), they just don't do any work or consume Gemini vision quota.
-- Manual **Run workflow** dispatches always proceed regardless of time —
-  the window check only applies to the scheduled trigger.
-- **"Check for a running queue before the new action executes"** was
-  considered as an explicit pre-flight API check, but GitHub's own
-  `concurrency:` group (below) already fully covers this without any extra
-  code: at most one run per group is ever *in progress* at a time, and if
-  more than one run is *queued* behind it, only the newest queued run
-  survives — GitHub automatically cancels any older queued run the moment
-  a newer one is queued for the same group (confirmed via GitHub's
-  concurrency docs: this holds even with `cancel-in-progress: false`,
-  which only protects the currently-*running* job from cancellation, not
-  queued ones). So there's no scenario where a slow run leaves a growing
-  backlog of queued runs piling up — at most one is ever waiting. An
-  earlier version of this doc described an explicit `gh run list
-  --status=in_progress` step to guard against that; it was removed because
-  it could never actually find another in-progress run (by the time a
-  job's steps execute, `concurrency:` already guarantees it's the only one
-  running) — it was dead code that looked protective without doing
-  anything.
+The workflow runs only when manually triggered; it has no scheduled trigger.
+Its `concurrency:` group prevents overlapping runs from racing to commit and
+push changes.
 
 Notes on how it differs from the Task Scheduler setup:
 - `cache/*.json` (described-photo cache + the auto-refreshed Threads token)
@@ -301,8 +270,7 @@ Notes on how it differs from the Task Scheduler setup:
   `restore-keys` is a prefix match so the most recent entry is always
   restored). GitHub evicts a cache entry if it goes **7 days unused**, or
   under **least-recently-used** pressure once the repo's cache storage
-  exceeds **10 GB** (neither is a practical concern here — this workflow
-  runs hourly and the cached files are a couple KB). If an entry is ever
+  exceeds **10 GB** (the cached files are only a couple KB). If an entry is ever
   evicted anyway, the run falls back to bootstrapping straight from the
   `THREADS_ACCESS_TOKEN` secret and re-describing any photos described
   since the last surviving cache snapshot (Gemini free-tier calls, not a
@@ -311,7 +279,7 @@ Notes on how it differs from the Task Scheduler setup:
   anyone who can trigger a `pull_request`-triggered workflow against this
   repo could in principle read cache contents, including the auto-refreshed
   Threads token in `cache/token_store.json`. This workflow only triggers on
-  `schedule`/`workflow_dispatch` (never `pull_request`), so that avenue
+  `workflow_dispatch` (never `pull_request`), so that avenue
   isn't currently exposed — but avoid adding a `pull_request` trigger to
   this workflow (or any workflow that restores this cache key) without
   reconsidering this. Excluding `token_store.json` from the cached path
@@ -414,7 +382,7 @@ needed.
   repo variable, or overridden for a single on-demand run via the
   `hard_cutoff_date` **Run workflow** input (see "Alternative: GitHub
   Actions" above) -- handy when you need the new cutoff to take effect
-  immediately rather than waiting for the next scheduled run.
+  immediately rather than waiting for the next run.
 - Replies you've hidden via Threads' own hide/unhide-reply feature (e.g. a
   scam/spam reply) are excluded from `needs-reply.md`/`needs-like.md`/
   `actions.md`/`topics.md` entirely -- they're resolved, not actionable.
