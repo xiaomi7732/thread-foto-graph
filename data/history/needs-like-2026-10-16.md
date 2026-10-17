@@ -4,16 +4,12 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (39)
+## Needs Like (35)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
 - charhedman: Stunning! Love the light on the red helicopter 🍁 ([link](https://www.threads.com/@charhedman/post/DeklDT8AcPM))
-- smilingjeannie: Yes, I got much closer for photos but our group did not tour the castle. This was my favorite photo from that stop. ([link](https://www.threads.com/@smilingjeannie/post/DeknrTTkdyL))
-- abbytabby13: Maybe in the past I would have..but now? Nah..I'm happy just to admire it😉 ([link](https://www.threads.com/@abbytabby13/post/Dekqo0Vllj0))
-- i.m.doing.fine: It's Vražje jezero in Montenegro. ([link](https://www.threads.com/@i.m.doing.fine/post/DekBWzUCEOe))
 - tallerthanyou2026: Me too- was white thrn pink then gone ! ([link](https://www.threads.com/@tallerthanyou2026/post/Dej-10_Gi2A))
 - citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
-- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
 
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))

@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: seattle, sunbeams, morning, hued
+## Topic: seattle, sunbeams, morning, early
 
 - **Thread** [17930724060410076](https://www.threads.com/@saars.foto/post/DegXvOFG4L-): Seattle’s morning is so unbelievable
   - Photo: Sunbeams cut through a misty, amber-hued morning, illuminating a quiet suburban street lined with tall evergreen trees and early autumn foliage.
@@ -18,6 +18,14 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - All 11 replies already answered. ✅ ([full thread](threads/18125165482954076.md))
 - **Thread** [18116585114012762](https://www.threads.com/@saars.foto/post/DejtnFoG5tp): Made Me Stop Friday 🛑 Show me the photo that made you stop. The one that made you pull the car over, stop mid-walk, or just stare for a second too long. This rainbow over red trees did that to me. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and standouts may land in a weekend IG roundup with full credit.
   - Photo: A vibrant rainbow cuts through a dramatic gray, cloudy sky, positioned just above a tree with striking red and green autumn leaves.
+  - **[NEEDS REPLY]** Reply by juliahh:  ([link](https://www.threads.com/@juliahh/post/DelZpvGiGcF))
+    - Photo: A single tree with pale bark and vibrant yellow-green leaves grows directly out of clear, turquoise water in a narrow, rocky canyon. Towering gray cliffs rise on either side, creating a secluded and natural landscape.
+  - **[NEEDS REPLY]** Reply by ulrike6417:  ([link](https://www.threads.com/@ulrike6417/post/DelTHBpjM7x))
+    - Photo: A vibrant red Amanita muscaria mushroom with characteristic white spots grows on the forest floor, surrounded by green moss, pine needles, and twigs.
+    - Photo: A majestic eagle with dark plumage and white wing accents soars gracefully against a backdrop of a rugged, rocky mountain slope and sparse pine forests.
+    - Photo: A vertical, eye-level shot captures a large, fluffy, cumulus cloud glowing with a warm yellow and peachy pink light, resembling a fiery explosion against a dusky gray sky. On the left edge, dark silhouettes of tree leaves frame the lower corner.
+  - **[NEEDS REPLY]** Reply by susanedwinarose:  ([link](https://www.threads.com/@susanedwinarose/post/DelJzSOgMVS))
+    - Photo: Sunlight dapples the forest floor, covered in autumn leaves, as tall trees showcase vibrant fall foliage in shades of red, yellow, and green.
   - Reply by whoissilver: I was just dropping off and this Japanese Acer seed pod, backlit by the evening sun, caught my eye and I just had to get out and investigate. ([link](https://www.threads.com/@whoissilver/post/DekkXiJDXsT))
     - Photo: A close-up captures a bright red maple seed perched delicately on a twig amidst dark, backlit foliage against a clear blue sky. The golden hour light illuminates the translucent leaves, creating a warm, autumnal atmosphere.
     _(+1 more reply already answered under this, see archive)_
@@ -26,18 +34,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A rolling landscape of green hills and dense forests is partially obscured by low-hanging clouds under a partly cloudy sky. Utility poles and a thin wire stretch across the foreground, suggesting a roadside view of the scenic countryside.
     - Photo: A lone red barn sits in a plowed field below a rolling, green hillside covered in scattered trees and a misty, overcast sky. Power lines and a wooden utility pole cut across the foreground, while a small white building is tucked away in the lower-left landscape.
     - Photo: A high-angle, wide shot shows a coastal view from a highway with a weathered metal guardrail and green grass in the foreground. In the background, the sea stretches out to meet the horizon under a clear blue sky, with large rock formations rising from the water near a sandy beach.
-  - Reply by smilingjeannie: Scotland Eilen Donan Castle ([link](https://www.threads.com/@smilingjeannie/post/DekCiO8Ef58))
-    - Photo: A large pile of tangled brown fishing rope rests on the grass next to stacks of green and blue lobster traps. In the background, Eilean Donan Castle stands on a small island in Loch Duich, surrounded by calm water and majestic Scottish mountains under a cloudy sky.
-    - Reply by saars.foto: Castle ropes. Did you get to the castle? ([link](https://www.threads.com/@saars.foto/post/Dekm2tKHzzD))
-      - **[NEEDS LIKE]** Reply by smilingjeannie: Yes, I got much closer for photos but our group did not tour the castle. This was my favorite photo from that stop. ([link](https://www.threads.com/@smilingjeannie/post/DeknrTTkdyL))
-  - Reply by abbytabby13:  ([link](https://www.threads.com/@abbytabby13/post/Dej61wXFgRF))
-    - Photo: A small island with thin trees sits in the middle of a clear blue alpine lake, framed by tall evergreen trees in the foreground and a dense forest on the far shore.
-    - Reply by saars.foto: Island lake. Did you swim out to it? ([link](https://www.threads.com/@saars.foto/post/Dej_xxdlSLi))
-      - **[NEEDS LIKE]** Reply by abbytabby13: Maybe in the past I would have..but now? Nah..I'm happy just to admire it😉 ([link](https://www.threads.com/@abbytabby13/post/Dekqo0Vllj0))
-  - Reply by i.m.doing.fine:  ([link](https://www.threads.com/@i.m.doing.fine/post/Dej4B4WiNzk))
-    - Photo: A vibrant, turquoise blue alpine lake sits cradled within dry, rolling golden hills under a dramatic sky filled with scattered white cumulus clouds. Distant mountains stretch across the horizon, completing the serene wilderness landscape.
-    - Reply by saars.foto: Turquoise dream. Which lake is this? ([link](https://www.threads.com/@saars.foto/post/Dej5TzblQuh))
-      - **[NEEDS LIKE]** Reply by i.m.doing.fine: It's Vražje jezero in Montenegro. ([link](https://www.threads.com/@i.m.doing.fine/post/DekBWzUCEOe))
   - Reply by tallerthanyou2026: Napa, California ([link](https://www.threads.com/@tallerthanyou2026/post/Dej0QTuGxtJ))
     - Photo: A vibrant pink and orange sunset paints the sky with wispy, feather-like clouds above a suburban neighborhood. Silhouetted trees and the roof of a house frame the lower edges of the colorful evening scene.
     - Reply by saars.foto: Napa glow. How long did the pink last? ([link](https://www.threads.com/@saars.foto/post/Dej5OEqoP5H))
@@ -48,11 +44,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A massive blue glacier flows down between dark mountain peaks, ending at the water's edge. Icebergs float in the gray water in the foreground, suggesting a cold, remote wilderness environment.
     - Reply by saars.foto: Breath taking 👍 ([link](https://www.threads.com/@saars.foto/post/Dejv8WFG6zX))
       - **[NEEDS LIKE]** Reply by citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
-  - Reply by srravi:  ([link](https://www.threads.com/@srravi/post/DejvNDRGkYp))
-    - Photo: A vibrant rainbow arcs across a dramatic, cloudy sky, casting a colorful glow over a calm body of water with a distant city skyline along the horizon.
-    - Reply by saars.foto: Rainbow encore. ([link](https://www.threads.com/@saars.foto/post/Dej0XlVm5Bn))
-      - **[NEEDS LIKE]** Reply by srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
-  _(+31 more replies elsewhere in this thread already answered, see [full thread](threads/18116585114012762.md))_
+  _(+47 more replies elsewhere in this thread already answered, see [full thread](threads/18116585114012762.md))_
 - **Thread** [18110609696261412](https://www.threads.com/@saars.foto/post/DehIRF0EYmL): Water Wednesday favorites 🏆 Four waters that stopped my scroll. @peanutbutterscotch_ @keithreid__photography @eye.mac @paulsparks85 - beautiful work, all of you.
   - Photo: A high-angle view captures McWay Falls in Big Sur, California, flowing from a rugged cliff onto a secluded sandy beach next to the crashing turquoise waves of the Pacific Ocean. In the foreground, a dense patch of delicate pinkish-white morning glory flowers frames the picturesque coastal landscape under a moody, overcast sky.
   - Photo: A long-exposure shot shows a gentle waterfall cascading over dark, mossy rocks, framed by lush foliage and scattered autumn leaves.

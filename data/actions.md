@@ -6,9 +6,17 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (3)
+## Needs Reply (6)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
+- **juliahh**:  ([link](https://www.threads.com/@juliahh/post/DelZpvGiGcF))
+  - Photo: A single tree with pale bark and vibrant yellow-green leaves grows directly out of clear, turquoise water in a narrow, rocky canyon. Towering gray cliffs rise on either side, creating a secluded and natural landscape.
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DelTHBpjM7x))
+  - Photo: A vibrant red Amanita muscaria mushroom with characteristic white spots grows on the forest floor, surrounded by green moss, pine needles, and twigs.
+  - Photo: A majestic eagle with dark plumage and white wing accents soars gracefully against a backdrop of a rugged, rocky mountain slope and sparse pine forests.
+  - Photo: A vertical, eye-level shot captures a large, fluffy, cumulus cloud glowing with a warm yellow and peachy pink light, resembling a fiery explosion against a dusky gray sky. On the left edge, dark silhouettes of tree leaves frame the lower corner.
+- **susanedwinarose**:  ([link](https://www.threads.com/@susanedwinarose/post/DelJzSOgMVS))
+  - Photo: Sunlight dapples the forest floor, covered in autumn leaves, as tall trees showcase vibrant fall foliage in shades of red, yellow, and green.
 - **gailtustin**: Driving the coast highway in California… SO BEAUTIFUL ([link](https://www.threads.com/@gailtustin/post/DekU2vnmilo))
   - Photo: A rolling landscape of green hills and dense forests is partially obscured by low-hanging clouds under a partly cloudy sky. Utility poles and a thin wire stretch across the foreground, suggesting a roadside view of the scenic countryside.
   - Photo: A lone red barn sits in a plowed field below a rolling, green hillside covered in scattered trees and a misty, overcast sky. Power lines and a wooden utility pole cut across the foreground, while a small white building is tucked away in the lower-left landscape.
@@ -27,16 +35,12 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (39)
+## Needs Like (35)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
 - charhedman: Stunning! Love the light on the red helicopter 🍁 ([link](https://www.threads.com/@charhedman/post/DeklDT8AcPM))
-- smilingjeannie: Yes, I got much closer for photos but our group did not tour the castle. This was my favorite photo from that stop. ([link](https://www.threads.com/@smilingjeannie/post/DeknrTTkdyL))
-- abbytabby13: Maybe in the past I would have..but now? Nah..I'm happy just to admire it😉 ([link](https://www.threads.com/@abbytabby13/post/Dekqo0Vllj0))
-- i.m.doing.fine: It's Vražje jezero in Montenegro. ([link](https://www.threads.com/@i.m.doing.fine/post/DekBWzUCEOe))
 - tallerthanyou2026: Me too- was white thrn pink then gone ! ([link](https://www.threads.com/@tallerthanyou2026/post/Dej-10_Gi2A))
 - citizenb: 🤍💙🥶 ([link](https://www.threads.com/@citizenb/post/Dejz2NBEa7j))
-- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dej1TFJmmQ1))
 
 ### Water Wednesday favorites 🏆 Four waters that stopped my scr… ([thread](https://www.threads.com/@saars.foto/post/DehIRF0EYmL))
 - paulsparks85: Thanks for sharing 🙏🏻🙂 ([link](https://www.threads.com/@paulsparks85/post/DehOlK8iDoI))
