@@ -549,20 +549,15 @@ def _render_archive_thread(thread: dict) -> str:
 def _write_dated_history(needs_reply_md: str, needs_like_md: str) -> None:
     """Writes a dated snapshot of each of today's needs-reply/needs-like
     content to data/history/ (e.g. needs-reply-2026-01-15.md), in addition
-    to the live needs-reply.md/needs-like.md files. Overwritten every run
-    for the current date -- since the pipeline runs hourly, each day's file
-    simply reflects its latest state until the date rolls over, at which
+    to the live needs-reply.md/needs-like.md files. It is overwritten every
+    run for the current date. Each day's file simply reflects its latest
+    state until the date rolls over, at which
     point it becomes a frozen historical record of that day. This is purely
     additive: it never changes what the live files contain or how Muse
     should read them day-to-day.
 
-    Dated by America/Los_Angeles (Pacific) local date, not UTC -- the
-    scheduled workflow only runs Mon-Fri 8am-10pm Pacific (see
-    .github/workflows/thread-foto-graph.yml), and UTC midnight falls
-    *inside* that window (4-5pm Pacific depending on DST). Dating by UTC
-    would mean each evening's last few runs silently overwrite the next
-    UTC-day's file instead of completing the current day's record -- the
-    exact "frozen record of that day" promise above would never hold.
+    Dated by America/Los_Angeles (Pacific) local date, not UTC, so records
+    align with the local calendar day rather than rolling over at UTC midnight.
     """
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     today = datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
