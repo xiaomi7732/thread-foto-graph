@@ -4,11 +4,9 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (4)
+## Needs Reply (3)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
-- **whoissilver**: I was just dropping off and this Japanese Acer seed pod, backlit by the evening sun, caught my eye and I just had to get out and investigate. ([link](https://www.threads.com/@whoissilver/post/DekkXiJDXsT))
-  - Photo: A close-up captures a bright red maple seed perched delicately on a twig amidst dark, backlit foliage against a clear blue sky. The golden hour light illuminates the translucent leaves, creating a warm, autumnal atmosphere.
 - **gailtustin**: Driving the coast highway in California… SO BEAUTIFUL ([link](https://www.threads.com/@gailtustin/post/DekU2vnmilo))
   - Photo: A rolling landscape of green hills and dense forests is partially obscured by low-hanging clouds under a partly cloudy sky. Utility poles and a thin wire stretch across the foreground, suggesting a roadside view of the scenic countryside.
   - Photo: A lone red barn sits in a plowed field below a rolling, green hillside covered in scattered trees and a misty, overcast sky. Power lines and a wooden utility pole cut across the foreground, while a small white building is tucked away in the lower-left landscape.

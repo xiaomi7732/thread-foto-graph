@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17930724060410076",
-      "label": "seattle, sunbeams, morning, cut",
+      "label": "seattle, sunbeams, morning, hued",
       "group": 0,
       "snippet": "Seattle\u2019s morning is so unbelievable",
       "text": "Seattle\u2019s morning is so unbelievable",
@@ -161,7 +161,7 @@
       "photos": [
         "A vibrant rainbow cuts through a dramatic gray, cloudy sky, positioned just above a tree with striking red and green autumn leaves."
       ],
-      "reply_count": 54,
+      "reply_count": 55,
       "replies": [
         {
           "username": "whoissilver",
@@ -170,10 +170,20 @@
           "photos": [
             "A close-up captures a bright red maple seed perched delicately on a twig amidst dark, backlit foliage against a clear blue sky. The golden hour light illuminates the translucent leaves, creating a warm, autumnal atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Seed pod. Was it the light or the shape that stopped you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DektyUZmVRK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "charhedman",
               "text": "Stunning! Love the light on the red helicopter \ud83c\udf41",
@@ -884,7 +894,7 @@
       "photos": [
         "A male mallard duck stands on a curved stone ledge beside a reflective pond in a park, with fallen autumn leaves scattered on the ground."
       ],
-      "reply_count": 170,
+      "reply_count": 172,
       "replies": [
         {
           "username": "meservelee",
@@ -1378,7 +1388,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dorieannh",
+                  "text": "Portuguese wall cat!",
+                  "permalink": "https://www.threads.com/@dorieannh/post/Dekt0D3jU2W",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83d\ude06\ud83d\ude06\ud83d\ude06 yes sir",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dekt3lCDyhw",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
