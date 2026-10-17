@@ -4,27 +4,15 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (6)
+## Needs Reply (3)
 
 ### Made Me Stop Friday 🛑 Show me the photo that made you stop.… ([thread](https://www.threads.com/@saars.foto/post/DejtnFoG5tp))
-- **juliahh**:  ([link](https://www.threads.com/@juliahh/post/DelZpvGiGcF))
-  - Photo: A single tree with pale bark and vibrant yellow-green leaves grows directly out of clear, turquoise water in a narrow, rocky canyon. Towering gray cliffs rise on either side, creating a secluded and natural landscape.
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DelTHBpjM7x))
-  - Photo: A vibrant red Amanita muscaria mushroom with characteristic white spots grows on the forest floor, surrounded by green moss, pine needles, and twigs.
-  - Photo: A majestic eagle with dark plumage and white wing accents soars gracefully against a backdrop of a rugged, rocky mountain slope and sparse pine forests.
-  - Photo: A vertical, eye-level shot captures a large, fluffy, cumulus cloud glowing with a warm yellow and peachy pink light, resembling a fiery explosion against a dusky gray sky. On the left edge, dark silhouettes of tree leaves frame the lower corner.
-- **susanedwinarose**:  ([link](https://www.threads.com/@susanedwinarose/post/DelJzSOgMVS))
-  - Photo: Sunlight dapples the forest floor, covered in autumn leaves, as tall trees showcase vibrant fall foliage in shades of red, yellow, and green.
+- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/Del4lhPkdZT))
+  - Photo: A straight-on, low-angle, eye-level shot looks down the dark center beneath a pier, its supporting posts illuminated in a warm orange hue, contrasting with the dark night sky populated with stars.
+- **alwaysmuddy**:  ([link](https://www.threads.com/@alwaysmuddy/post/DelwgG_CGO9))
+  - Photo: A vertical high-angle shot depicts mountain ridges receding into the distance, with the highest range silhouetted against a pale yellow sky. In the foreground, a valley is filled with greenery and trees, all cast in a hazy, atmospheric light.
 - **gailtustin**: Driving the coast highway in California… SO BEAUTIFUL ([link](https://www.threads.com/@gailtustin/post/DekU2vnmilo))
   - Photo: A rolling landscape of green hills and dense forests is partially obscured by low-hanging clouds under a partly cloudy sky. Utility poles and a thin wire stretch across the foreground, suggesting a roadside view of the scenic countryside.
   - Photo: A lone red barn sits in a plowed field below a rolling, green hillside covered in scattered trees and a misty, overcast sky. Power lines and a wooden utility pole cut across the foreground, while a small white building is tucked away in the lower-left landscape.
   - Photo: A high-angle, wide shot shows a coastal view from a highway with a weathered metal guardrail and green grass in the foreground. In the background, the sea stretches out to meet the horizon under a clear blue sky, with large rock formations rising from the water near a sandy beach.
-
-### Photographers, Pattern Tuesday 📸📸📸 This playground floor is… ([thread](https://www.threads.com/@saars.foto/post/Deb-hntkVX8))
-- **abnerabel125**: I actually like that photo. I like the way it looks and from a different perspective ([link](https://www.threads.com/@abnerabel125/post/DedGGhkGW6A))
-  - Photo: A close-up shot of a curved wall made of textured, light-colored concrete blocks, with a shallow depth of field drawing focus to the foreground stones.
-  - _Replying to: Gray bricks with just enough unevenness to keep it interest…_
-- **matt.wilson.gc**: Shot mine 20 years ago as well as this. Defo some similarities ([link](https://www.threads.com/@matt.wilson.gc/post/DednhW9DVHu))
-  - Photo: A wide shot captures a striking wine cellar with curved walls completely lined with thousands of bottles, creating a hypnotic pattern of lights. A brightly illuminated staircase ascends centrally, drawing the eye upwards between the curved shelves and echoing the cool ambiance of the space.
-  - _Replying to: That looks very similar to a project we have done before!_
 
