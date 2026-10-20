@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: train, station, platform, week
+## Topic: train, platform, station, week
 
 - **Thread** [17977317813144878](https://www.threads.com/@saars.foto/post/Den4vNBlWJN): Best of the week is up on Instagram as a reel. Five favorites from this week's prompts — night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/
   - Photo: A low-angle, street-level shot captures a train platform at night, with the text "BEST OF THE WEEK" overlaid in the upper portion. The textured ground fills the foreground, while a train with white, red, and yellow stripes sits on the left alongside an arched, brightly lit canopy overhead.
@@ -12,11 +12,9 @@ _Compact, actionable-first view: only replies still awaiting a response are show
 
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
-  - **[NEEDS REPLY]** Reply by funkygmacman:  ([link](https://www.threads.com/@funkygmacman/post/DeuD0mKnBwq))
-    - Photo: A wooden footbridge with metal railings spans a stream in a lush forest on an autumn day. The trees in the background are transitioning to vibrant shades of orange, yellow, and green.
-  - **[NEEDS REPLY]** Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/DeuDTCpFEeD))
-    - Photo: A vertical shot captures a path lined with a traditional white and tiled wall, overhung by brilliant autumn foliage of yellow and red maple leaves in Kyoto, Japan. In the background, out-of-focus tourists stroll near a temple entrance, adding a touch of life to the vibrant seasonal scene.
-  _(+21 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  - **[NEEDS REPLY]** Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR))
+    - Photo: A stone wall with three arched windows overlooks a cityscape with modern buildings. The old, weathered stonework contrasts sharply with the contemporary skyline visible through the empty frames.
+  _(+25 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.

@@ -4,13 +4,11 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (3)
+## Needs Reply (2)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **funkygmacman**:  ([link](https://www.threads.com/@funkygmacman/post/DeuD0mKnBwq))
-  - Photo: A wooden footbridge with metal railings spans a stream in a lush forest on an autumn day. The trees in the background are transitioning to vibrant shades of orange, yellow, and green.
-- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/DeuDTCpFEeD))
-  - Photo: A vertical shot captures a path lined with a traditional white and tiled wall, overhung by brilliant autumn foliage of yellow and red maple leaves in Kyoto, Japan. In the background, out-of-focus tourists stroll near a temple entrance, adding a touch of life to the vibrant seasonal scene.
+- **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR))
+  - Photo: A stone wall with three arched windows overlooks a cityscape with modern buildings. The old, weathered stonework contrasts sharply with the contemporary skyline visible through the empty frames.
 
 ### Made Me Stop favorites 🏆 Five photos that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DemWvl_Eegh))
 - **whoissilver**: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))

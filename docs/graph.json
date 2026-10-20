@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17977317813144878",
-      "label": "train, station, platform, week",
+      "label": "train, platform, station, week",
       "group": 0,
       "snippet": "Best of the week is up on Instagram as a reel. Five favorit\u2026",
       "text": "Best of the week is up on Instagram as a reel. Five favorites from this week's prompts \u2014 night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/",
@@ -47,8 +47,20 @@
       "photos": [
         "A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky."
       ],
-      "reply_count": 23,
+      "reply_count": 26,
       "replies": [
+        {
+          "username": "vuurenbernadettevan",
+          "text": "",
+          "permalink": "https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR",
+          "photos": [
+            "A stone wall with three arched windows overlooks a cityscape with modern buildings. The old, weathered stonework contrasts sharply with the contemporary skyline visible through the empty frames."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "funkygmacman",
           "text": "",
@@ -56,10 +68,21 @@
           "photos": [
             "A wooden footbridge with metal railings spans a stream in a lush forest on an autumn day. The trees in the background are transitioning to vibrant shades of orange, yellow, and green."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That bridge is doing autumn's PR work. Did you cross it, or just stop and admire it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuE183modI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "taiwanese726",
@@ -68,10 +91,21 @@
           "photos": [
             "A vertical shot captures a path lined with a traditional white and tiled wall, overhung by brilliant autumn foliage of yellow and red maple leaves in Kyoto, Japan. In the background, out-of-focus tourists stroll near a temple entrance, adding a touch of life to the vibrant seasonal scene."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Kyoto showing off again. Was that peak color, or still warming up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuE21bmrZ1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "winestains.ca",
