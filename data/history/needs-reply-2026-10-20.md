@@ -7,12 +7,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (3)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **winestains.ca**:  ([link](https://www.threads.com/@winestains.ca/post/DeuDF7oFqJ0))
-  - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
-- **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/DeuCKGwm-Fq))
-  - Photo: A large maple tree bursts with vibrant red and orange autumn foliage under a clear blue sky. A solitary picnic table rests quietly in the dappled shade beneath its branches, surrounded by a carpet of fallen leaves.
-  - Photo: A top-down, medium shot shows a dried, tan-colored maple seed, or samara, against a light-colored, textured background. The samara is positioned vertically, with the wing expanding upwards and to the right, and the seed end pointing towards the bottom left. The wing features delicate, slightly raised veins running from the base to the edge, creating a striped pattern of light and shadow.
-  - Photo: A tight arrangement of vibrant yellow and deep red marigolds sits upright in a small glass vase decorated with blue yarn.
+- **funkygmacman**:  ([link](https://www.threads.com/@funkygmacman/post/DeuD0mKnBwq))
+  - Photo: A wooden footbridge with metal railings spans a stream in a lush forest on an autumn day. The trees in the background are transitioning to vibrant shades of orange, yellow, and green.
+- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/DeuDTCpFEeD))
+  - Photo: A vertical shot captures a path lined with a traditional white and tiled wall, overhung by brilliant autumn foliage of yellow and red maple leaves in Kyoto, Japan. In the background, out-of-focus tourists stroll near a temple entrance, adding a touch of life to the vibrant seasonal scene.
 
 ### Made Me Stop favorites 🏆 Five photos that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DemWvl_Eegh))
 - **whoissilver**: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))
