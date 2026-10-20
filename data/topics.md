@@ -16,6 +16,15 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A calm lake mirrors a snow-dusted mountain range under a cloudy sky, with autumn foliage lining the far shore. In the foreground, a grassy bank with a patch of stone pavers and rocks borders the water's edge.
   - **[NEEDS REPLY]** Reply by musulnamja:  ([link](https://www.threads.com/@musulnamja/post/DeucE3EmUh-))
     - Photo: A small New England town features a white church with a tall steeple, situated next to a parking lot and a two-lane road at dusk. In the background, a mountain ridge is lit up by the warm glow of the setting sun, contrasting with the cool blue and gray clouds in the sky above.
+  - Reply by ulrike6417:  ([link](https://www.threads.com/@ulrike6417/post/DeuY625kW8K))
+    - Photo: A vibrant red amanita mushroom with white spots stands out amidst the earthy tones of a forest floor, surrounded by fallen twigs, moss, and pine needles. The forest floor is dappled with sunlight, creating an inviting and magical woodland scene.
+    - Photo: A close-up captures an oak tree branch laden with clusters of acorns nestled among green and yellowing autumn leaves.
+    - Reply by saars.foto: A storybook mushroom, and acorns by the cluster - autumn brought props. Do the amanitas pop up in the same spot every year? ([link](https://www.threads.com/@saars.foto/post/DeueVTtmT_I))
+      - **[NEEDS LIKE]** Reply by ulrike6417: Google say yes!😉😃 ([link](https://www.threads.com/@ulrike6417/post/Deuf9CAEajW))
+  - Reply by bojonvelvet2.0:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuYa1EHXc6))
+    - Photo: A vertical, medium, eye-level shot captures a white church with brown doors and an enormous red tree in autumn foliage. The church is situated on the left, its white siding and dark shingle roof contrasting with the vibrant red leaves of the large tree on the right. The church's white door is closed and has two panels, each with small wooden slats. The tree's leaves are a brilliant red, some turning orange towards the top, creating a vivid display of autumn colors. The ground in front of the church and tree is covered with fallen red leaves. The sky above is a bright, overcast white.
+    - Reply by saars.foto: That tree is upstaging the whole church. Does it turn this red every year, or is this a special one? ([link](https://www.threads.com/@saars.foto/post/DeueXESGdu8))
+      - **[NEEDS LIKE]** Reply by bojonvelvet2.0: Every year. It’s up the coast in Bolinas. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuhccAj10P))
   - **[NEEDS REPLY]** Reply by rhetta_schultz: My Ginkgo Biloba has turned golden💛 ([link](https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx))
     - Photo: A vibrant ginkgo tree with bright, golden-yellow fan-shaped leaves stands against a clear blue sky. The sunlight illuminates the canopy, showcasing the changing autumn foliage in full display.
   - Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR))
@@ -30,7 +39,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
     - Reply by saars.foto: That tree owns the whole road. Peak color there, or just getting started? ([link](https://www.threads.com/@saars.foto/post/DeuD4P5FYty))
       - **[NEEDS LIKE]** Reply by winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
-  _(+33 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  _(+29 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.
