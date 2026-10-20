@@ -4,12 +4,14 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (8)
+## Needs Like (10)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
+- gerrycud: It was one tree showing off. ([link](https://www.threads.com/@gerrycud/post/DeuxBY0EsYC))
+- maureenozerimages: It was a chilly day, early November a couple of years ago at Loch Venacher. ([link](https://www.threads.com/@maureenozerimages/post/DeuvLjIDMln))
 - ulrike6417: Google say yes!😉😃 ([link](https://www.threads.com/@ulrike6417/post/Deuf9CAEajW))
 - bojonvelvet2.0: Every year. It’s up the coast in Bolinas. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuhccAj10P))
-- pappaga11a: I think driving in! One of those moments the photographer’s eye catches. ([link](https://www.threads.com/@pappaga11a/post/DeuqDbrlD-2))
+- alwaysmuddy: The berries stay dark and get eaten by birds before long ([link](https://www.threads.com/@alwaysmuddy/post/DeuxXzzkTCz))
 - vuurenbernadettevan: Hi... took it in late winter.. ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuH-Lkl23Q))
 - funkygmacman: I crossed it! Not much to report on the other side unfortunately. ([link](https://www.threads.com/@funkygmacman/post/DeuIF4bHBqG))
 - winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))

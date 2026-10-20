@@ -6,17 +6,13 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (5)
+## Needs Reply (3)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **gerrycud**:  ([link](https://www.threads.com/@gerrycud/post/Deuq5mvEnt6))
-  - Photo: A close-up shot captures vibrant, fiery red autumn leaves hanging from branches, creating a striking contrast against a softly blurred background of green and earthy tones. Sunlight illuminates the leaves, highlighting their detailed textures and the arrival of the autumn season.
-- **maureenozerimages**: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ([link](https://www.threads.com/@maureenozerimages/post/DeudSOQiLN9))
-  - Photo: A calm lake mirrors a snow-dusted mountain range under a cloudy sky, with autumn foliage lining the far shore. In the foreground, a grassy bank with a patch of stone pavers and rocks borders the water's edge.
-- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DeucE3EmUh-))
-  - Photo: A small New England town features a white church with a tall steeple, situated next to a parking lot and a two-lane road at dusk. In the background, a mountain ridge is lit up by the warm glow of the setting sun, contrasting with the cool blue and gray clouds in the sky above.
-- **rhetta_schultz**: My Ginkgo Biloba has turned golden💛 ([link](https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx))
-  - Photo: A vibrant ginkgo tree with bright, golden-yellow fan-shaped leaves stands against a clear blue sky. The sunlight illuminates the canopy, showcasing the changing autumn foliage in full display.
+- **nanceharder81**:  ([link](https://www.threads.com/@nanceharder81/post/Deu7_gaiYMw))
+  - Photo: A serene landscape photo captures a lake reflecting a cloudy blue sky under dramatic, puffy clouds. In the background, a line of trees adorned with autumn foliage stands tall, while tall grass peeks through the water in the foreground, enhancing the natural beauty of the scene.
+- **joanmduffy**:  ([link](https://www.threads.com/@joanmduffy/post/Deu1RMFFJLg))
+  - Photo: A rustic, weathered wooden lighthouse stands against a vibrant backdrop of autumn foliage, with rich red, orange, and yellow trees blanketing the hillside. The historical structure, featuring a stone foundation and dark, boarded-up windows, is positioned along a calm shoreline under an overcast sky.
 
 ### Made Me Stop favorites 🏆 Five photos that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DemWvl_Eegh))
 - **whoissilver**: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))
@@ -28,12 +24,14 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (8)
+## Needs Like (10)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
+- gerrycud: It was one tree showing off. ([link](https://www.threads.com/@gerrycud/post/DeuxBY0EsYC))
+- maureenozerimages: It was a chilly day, early November a couple of years ago at Loch Venacher. ([link](https://www.threads.com/@maureenozerimages/post/DeuvLjIDMln))
 - ulrike6417: Google say yes!😉😃 ([link](https://www.threads.com/@ulrike6417/post/Deuf9CAEajW))
 - bojonvelvet2.0: Every year. It’s up the coast in Bolinas. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuhccAj10P))
-- pappaga11a: I think driving in! One of those moments the photographer’s eye catches. ([link](https://www.threads.com/@pappaga11a/post/DeuqDbrlD-2))
+- alwaysmuddy: The berries stay dark and get eaten by birds before long ([link](https://www.threads.com/@alwaysmuddy/post/DeuxXzzkTCz))
 - vuurenbernadettevan: Hi... took it in late winter.. ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuH-Lkl23Q))
 - funkygmacman: I crossed it! Not much to report on the other side unfortunately. ([link](https://www.threads.com/@funkygmacman/post/DeuIF4bHBqG))
 - winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
