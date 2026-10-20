@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: train, platform, station, week
+## Topic: train, station, platform, week
 
 - **Thread** [17977317813144878](https://www.threads.com/@saars.foto/post/Den4vNBlWJN): Best of the week is up on Instagram as a reel. Five favorites from this week's prompts — night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/
   - Photo: A low-angle, street-level shot captures a train platform at night, with the text "BEST OF THE WEEK" overlaid in the upper portion. The textured ground fills the foreground, while a train with white, red, and yellow stripes sits on the left alongside an arched, brightly lit canopy overhead.
@@ -16,7 +16,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A wooden footbridge with metal railings spans a stream in a lush forest on an autumn day. The trees in the background are transitioning to vibrant shades of orange, yellow, and green.
   - **[NEEDS REPLY]** Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/DeuDTCpFEeD))
     - Photo: A vertical shot captures a path lined with a traditional white and tiled wall, overhung by brilliant autumn foliage of yellow and red maple leaves in Kyoto, Japan. In the background, out-of-focus tourists stroll near a temple entrance, adding a touch of life to the vibrant seasonal scene.
-  _(+19 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  _(+21 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.
