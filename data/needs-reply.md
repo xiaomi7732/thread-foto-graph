@@ -4,17 +4,15 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (5)
+## Needs Reply (3)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **matt.wilson.gc**:  ([link](https://www.threads.com/@matt.wilson.gc/post/DeuBueMjZOZ))
-  - Photo: A middle-aged man in a dark grey sweatshirt and trousers sits perched on a low stone wall, drinking from a green glass bottle with a red stopper. He is framed by bright red autumn leaves on the left, with more scattered across the wall beneath him, against a soft background of lush green trees.
-- **danielslagerman**:  ([link](https://www.threads.com/@danielslagerman/post/DeuBsgSkRDj))
-  - Photo: A wooden bench sits on a concrete overlook, facing a serene lake surrounded by vibrant autumn foliage. The low sun bursts through the branches of the trees, casting a warm glow and long shadows across the ground.
-- **heidi.undefined**:  ([link](https://www.threads.com/@heidi.undefined/post/DeuBkh9jRv1))
-  - Photo: A single, reddish-brown fallen leaf rests on green grass heavily dusted with dew. The background is a soft blur of bokeh, creating a peaceful, autumnal atmosphere.
-- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3))
-  - Photo: A vibrant red maple leaf floats in calm, glassy water, surrounded by other fallen autumn leaves in shades of yellow and brown. The scene captures the quiet, reflective beauty of a crisp fall day.
+- **winestains.ca**:  ([link](https://www.threads.com/@winestains.ca/post/DeuDF7oFqJ0))
+  - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
+- **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/DeuCKGwm-Fq))
+  - Photo: A large maple tree bursts with vibrant red and orange autumn foliage under a clear blue sky. A solitary picnic table rests quietly in the dappled shade beneath its branches, surrounded by a carpet of fallen leaves.
+  - Photo: A top-down, medium shot shows a dried, tan-colored maple seed, or samara, against a light-colored, textured background. The samara is positioned vertically, with the wing expanding upwards and to the right, and the seed end pointing towards the bottom left. The wing features delicate, slightly raised veins running from the base to the edge, creating a striped pattern of light and shadow.
+  - Photo: A tight arrangement of vibrant yellow and deep red marigolds sits upright in a small glass vase decorated with blue yarn.
 
 ### Made Me Stop favorites 🏆 Five photos that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DemWvl_Eegh))
 - **whoissilver**: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))

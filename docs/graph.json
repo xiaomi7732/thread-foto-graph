@@ -39,7 +39,7 @@
     },
     {
       "id": "18098217035651918",
-      "label": "autumn, vine, red, wall",
+      "label": "autumn, red, vine, vibrant",
       "group": 1,
       "snippet": "Autumn Tuesday \ud83c\udf42 Show me your best autumn shot. Red trees, \u2026",
       "text": "Autumn Tuesday \ud83c\udf42 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.",
@@ -47,8 +47,57 @@
       "photos": [
         "A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky."
       ],
-      "reply_count": 4,
+      "reply_count": 13,
       "replies": [
+        {
+          "username": "winestains.ca",
+          "text": "",
+          "permalink": "https://www.threads.com/@winestains.ca/post/DeuDF7oFqJ0",
+          "photos": [
+            "A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "nanceharder81",
+          "text": "",
+          "permalink": "https://www.threads.com/@nanceharder81/post/DeuCi6ukes9",
+          "photos": [
+            "A medium shot captures a carved pumpkin with large eyes and a jagged smile sitting on a wooden surface in a softly lit room. The pumpkin is illuminated from the inside, casting a warm glow, and a row of smaller photo thumbnails is visible across the bottom of the screen."
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Halloween \ud83c\udf83 on a screen shot? \ud83e\udd28",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuDCVSGx3a",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "mdalida378",
+          "text": "",
+          "permalink": "https://www.threads.com/@mdalida378/post/DeuCKGwm-Fq",
+          "photos": [
+            "A large maple tree bursts with vibrant red and orange autumn foliage under a clear blue sky. A solitary picnic table rests quietly in the dappled shade beneath its branches, surrounded by a carpet of fallen leaves.",
+            "A top-down, medium shot shows a dried, tan-colored maple seed, or samara, against a light-colored, textured background. The samara is positioned vertically, with the wing expanding upwards and to the right, and the seed end pointing towards the bottom left. The wing features delicate, slightly raised veins running from the base to the edge, creating a striped pattern of light and shadow.",
+            "A tight arrangement of vibrant yellow and deep red marigolds sits upright in a small glass vase decorated with blue yarn."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "matt.wilson.gc",
           "text": "",
@@ -56,10 +105,21 @@
           "photos": [
             "A middle-aged man in a dark grey sweatshirt and trousers sits perched on a low stone wall, drinking from a green glass bottle with a red stopper. He is framed by bright red autumn leaves on the left, with more scattered across the wall beneath him, against a soft background of lush green trees."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red leaves framed him better than any studio backdrop. Did he know he was the model, or was that a lucky catch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuCu9slP7_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "danielslagerman",
@@ -68,10 +128,21 @@
           "photos": [
             "A wooden bench sits on a concrete overlook, facing a serene lake surrounded by vibrant autumn foliage. The low sun bursts through the branches of the trees, casting a warm glow and long shadows across the ground."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That bench has the best seat in autumn. Did you sit for a while, or take the photo and go?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuCwenlS22",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "heidi.undefined",
@@ -80,10 +151,21 @@
           "photos": [
             "A single, reddish-brown fallen leaf rests on green grass heavily dusted with dew. The background is a soft blur of bokeh, creating a peaceful, autumnal atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One leaf, first dew, the whole season in a single frame. Early morning hunt, or did it find you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuCy0elUvK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "paul.moorman91",
@@ -92,16 +174,38 @@
           "photos": [
             "A vibrant red maple leaf floats in calm, glassy water, surrounded by other fallen autumn leaves in shades of yellow and brown. The scene captures the quiet, reflective beauty of a crisp fall day."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The big red one is running the whole pond. Did it pop like that in person, or is autumn showing off?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuC0Wqm7Q_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "paul.moorman91",
+                  "text": "I was looking for small things along the shoreline yesterday on the walk around the pond, saw this guy and stopped immediately lol Yes it definitely stood out",
+                  "permalink": "https://www.threads.com/@paul.moorman91/post/DeuDJ3ZlqGU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "id": "17992998429107117",
-      "label": "autumn, vine, red, wall",
+      "label": "autumn, red, vine, vibrant",
       "group": 1,
       "snippet": "Red vine taking over the wall. October doing its thing.",
       "text": "Red vine taking over the wall. October doing its thing.",
@@ -114,8 +218,8 @@
     },
     {
       "id": "18141005737571115",
-      "label": "bridge, water, stone, canal",
-      "group": 2,
+      "label": "autumn, red, vine, vibrant",
+      "group": 1,
       "snippet": "Made Me Stop favorites \ud83c\udfc6 Five photos that stopped my scroll\u2026",
       "text": "Made Me Stop favorites \ud83c\udfc6 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.",
       "permalink": "https://www.threads.com/@saars.foto/post/DemWvl_Eegh",
@@ -258,150 +362,16 @@
           "replies": []
         }
       ]
-    },
-    {
-      "id": "18125165482954076",
-      "label": "eye, dry, field, green",
-      "group": 3,
-      "snippet": "Animal Thursday favorites \ud83c\udfc6 Five animals that stopped my sc\u2026",
-      "text": "Animal Thursday favorites \ud83c\udfc6 Five animals that stopped my scroll. @howard_83kg @special_ed04 @ahowardflfotos @eye.mac @empty_suit - beautiful work, all of you.",
-      "permalink": "https://www.threads.com/@saars.foto/post/DejvrXrG5gQ",
-      "photos": [
-        "A mother cheetah stands watch in tall dry grass while her two playful cubs interact with her, one standing up on its hind legs and the other resting near her feet.",
-        "Two dogs sprint dynamically across a snow-covered landscape, with a blue merle Australian Shepherd in the foreground showing an intense expression and a brown-and-white dog following closely behind.",
-        "Two majestic great egrets in full breeding plumage, with their delicate, lace-like feathers flared out in an elaborate display, stand amidst dark green foliage against a shadowy background.",
-        "A group of chickens stands in a dewy field at sunrise, illuminated by a warm, golden glow. The misty background features silhouetted trees, creating a peaceful, rustic farm scene.",
-        "A close-up vertical shot captures a shaggy brown bison grazing in a grassy field, its dark eye alert as it looks to the side. Behind it, another bison is partially visible, while the foreground is filled with dry, wispy grasses and soft green shoots."
-      ],
-      "reply_count": 11,
-      "replies": [
-        {
-          "username": "meservelee",
-          "text": "",
-          "permalink": "https://www.threads.com/@meservelee/post/DekFe_PGPbs",
-          "photos": [
-            "A small, striped chipmunk is perched on a fallen log in a lush green forest, blending into its natural woodland habitat.",
-            "A high-angle, vertical shot captures an eastern box turtle nestled among the leaf litter on a hiking trail. The turtle has a dark, domed shell with striking yellow markings and bright orange-spotted legs, while its head features a distinctive red eye.",
-            "Two white-tailed deer stand alert in a frosty field of tall, dry grass. The morning sun illuminates the scene, catching the light frost on the vegetation as the deer turn to look directly toward the camera.",
-            "A white-tailed buck with large antlers peers out from a dense thicket of vibrant green foliage."
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "Forest quartet.",
-              "permalink": "https://www.threads.com/@saars.foto/post/Dekm9Jflr8O",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": []
-            }
-          ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "How close were you when the cub reached up to mom? @howard_83kg",
-          "permalink": "https://www.threads.com/@saars.foto/post/Dejv94jEWL2",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
-        },
-        {
-          "username": "saars.foto",
-          "text": "How long were you watching before the courtship display started? @ahowardflfotos",
-          "permalink": "https://www.threads.com/@saars.foto/post/Dejv8JQnEx7",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "ahowardflfotos",
-              "text": "I think they were already at it when I arrived! That's what caught my attention. Thanks for sharing it!",
-              "permalink": "https://www.threads.com/@ahowardflfotos/post/Dej6iOekbBx",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "saars.foto",
-                  "text": "Nice capture of the moment \ud83d\udc4d",
-                  "permalink": "https://www.threads.com/@saars.foto/post/DeknoACD67l",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Are these your dogs? That Aussie looks like it's racing you. @special_ed04",
-          "permalink": "https://www.threads.com/@saars.foto/post/Dejvy_mG5Fo",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "special_ed04",
-              "text": "Yes, they are mine. Scarlet is on the left and Quill is on the right. They love the snow!",
-              "permalink": "https://www.threads.com/@special_ed04/post/Dej8MRumzon",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "saars.foto",
-                  "text": "So cool \ud83d\udc4d",
-                  "permalink": "https://www.threads.com/@saars.foto/post/Dej-WgpGpFB",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Did you lie down in the dew for that low angle? @eye.mac",
-          "permalink": "https://www.threads.com/@saars.foto/post/DejvxUPG1wI",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
-        },
-        {
-          "username": "saars.foto",
-          "text": "How close did you get to this one? @empty_suit",
-          "permalink": "https://www.threads.com/@saars.foto/post/Dejvv-oG_pS",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
-        }
-      ]
     }
   ],
   "edges": [
     {
       "from": "18098217035651918",
       "to": "17992998429107117"
+    },
+    {
+      "from": "18098217035651918",
+      "to": "18141005737571115"
     }
   ]
 }
