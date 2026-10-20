@@ -2,16 +2,18 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: train, station, platform, week
+## Topic: train, platform, station, week
 
 - **Thread** [17977317813144878](https://www.threads.com/@saars.foto/post/Den4vNBlWJN): Best of the week is up on Instagram as a reel. Five favorites from this week's prompts — night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/
   - Photo: A low-angle, street-level shot captures a train platform at night, with the text "BEST OF THE WEEK" overlaid in the upper portion. The textured ground fills the foreground, while a train with white, red, and yellow stripes sits on the left alongside an arched, brightly lit canopy overhead.
   - All 2 replies already answered. ✅ ([full thread](threads/17977317813144878.md))
 
-## Topic: autumn, red, vine, vibrant
+## Topic: autumn, red, vine, leaves
 
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
+  - **[NEEDS REPLY]** Reply by gerrycud:  ([link](https://www.threads.com/@gerrycud/post/Deuq5mvEnt6))
+    - Photo: A close-up shot captures vibrant, fiery red autumn leaves hanging from branches, creating a striking contrast against a softly blurred background of green and earthy tones. Sunlight illuminates the leaves, highlighting their detailed textures and the arrival of the autumn season.
   - **[NEEDS REPLY]** Reply by maureenozerimages: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ([link](https://www.threads.com/@maureenozerimages/post/DeudSOQiLN9))
     - Photo: A calm lake mirrors a snow-dusted mountain range under a cloudy sky, with autumn foliage lining the far shore. In the foreground, a grassy bank with a patch of stone pavers and rocks borders the water's edge.
   - **[NEEDS REPLY]** Reply by musulnamja:  ([link](https://www.threads.com/@musulnamja/post/DeucE3EmUh-))
@@ -27,6 +29,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       - **[NEEDS LIKE]** Reply by bojonvelvet2.0: Every year. It’s up the coast in Bolinas. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuhccAj10P))
   - **[NEEDS REPLY]** Reply by rhetta_schultz: My Ginkgo Biloba has turned golden💛 ([link](https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx))
     - Photo: A vibrant ginkgo tree with bright, golden-yellow fan-shaped leaves stands against a clear blue sky. The sunlight illuminates the canopy, showcasing the changing autumn foliage in full display.
+  - Reply by pappaga11a: Also from a parking garage! ([link](https://www.threads.com/@pappaga11a/post/DeuGuCPFB7I))
+    - Photo: A tree with vibrant red autumn leaves is framed by a concrete architectural opening, creating a striking contrast between industrial structure and natural beauty. The composition captures the essence of the fall season, viewed from what appears to be a parking garage or balcony.
+    - Reply by saars.foto: Parking garages: the unofficial autumn observatories. Did you spot it driving in, or on the way out? ([link](https://www.threads.com/@saars.foto/post/DeuSKyQFMQ7))
+      - **[NEEDS LIKE]** Reply by pappaga11a: I think driving in! One of those moments the photographer’s eye catches. ([link](https://www.threads.com/@pappaga11a/post/DeuqDbrlD-2))
   - Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR))
     - Photo: A stone wall with three arched windows overlooks a cityscape with modern buildings. The old, weathered stonework contrasts sharply with the contemporary skyline visible through the empty frames.
     - Reply by saars.foto: Three windows, three eras of the same city. Did you take this one in fall? ([link](https://www.threads.com/@saars.foto/post/DeuFjLbmoOr))
@@ -39,7 +45,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
     - Reply by saars.foto: That tree owns the whole road. Peak color there, or just getting started? ([link](https://www.threads.com/@saars.foto/post/DeuD4P5FYty))
       - **[NEEDS LIKE]** Reply by winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
-  _(+29 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  _(+27 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.

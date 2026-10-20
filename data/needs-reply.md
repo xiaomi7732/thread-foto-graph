@@ -4,9 +4,11 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (4)
+## Needs Reply (5)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
+- **gerrycud**:  ([link](https://www.threads.com/@gerrycud/post/Deuq5mvEnt6))
+  - Photo: A close-up shot captures vibrant, fiery red autumn leaves hanging from branches, creating a striking contrast against a softly blurred background of green and earthy tones. Sunlight illuminates the leaves, highlighting their detailed textures and the arrival of the autumn season.
 - **maureenozerimages**: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ([link](https://www.threads.com/@maureenozerimages/post/DeudSOQiLN9))
   - Photo: A calm lake mirrors a snow-dusted mountain range under a cloudy sky, with autumn foliage lining the far shore. In the foreground, a grassy bank with a patch of stone pavers and rocks borders the water's edge.
 - **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DeucE3EmUh-))
