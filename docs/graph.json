@@ -47,8 +47,32 @@
       "photos": [
         "A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky."
       ],
-      "reply_count": 26,
+      "reply_count": 35,
       "replies": [
+        {
+          "username": "alwaysmuddy",
+          "text": "",
+          "permalink": "https://www.threads.com/@alwaysmuddy/post/DeuLQc_iFY9",
+          "photos": [
+            "A close-up of vibrant red autumn leaves climbing a weathered stone wall, interspersed with small clusters of dark berries. Sunlight casts soft shadows across the foliage, highlighting the rich seasonal colors and natural textures."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "pappaga11a",
+          "text": "Also from a parking garage!",
+          "permalink": "https://www.threads.com/@pappaga11a/post/DeuGuCPFB7I",
+          "photos": [
+            "A tree with vibrant red autumn leaves is framed by a concrete architectural opening, creating a striking contrast between industrial structure and natural beauty. The composition captures the essence of the fall season, viewed from what appears to be a parking garage or balcony."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "vuurenbernadettevan",
           "text": "",
@@ -56,10 +80,32 @@
           "photos": [
             "A stone wall with three arched windows overlooks a cityscape with modern buildings. The old, weathered stonework contrasts sharply with the contemporary skyline visible through the empty frames."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Three windows, three eras of the same city. Did you take this one in fall?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeuFjLbmoOr",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "vuurenbernadettevan",
+                  "text": "Hi... took it in late winter..",
+                  "permalink": "https://www.threads.com/@vuurenbernadettevan/post/DeuH-Lkl23Q",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "funkygmacman",
@@ -80,7 +126,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "funkygmacman",
+                  "text": "I crossed it! Not much to report on the other side unfortunately.",
+                  "permalink": "https://www.threads.com/@funkygmacman/post/DeuIF4bHBqG",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -103,7 +160,21 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "taiwanese726",
+                  "text": "Feel like peak color",
+                  "permalink": "https://www.threads.com/@taiwanese726/post/DeuFGyqFJnK",
+                  "photos": [
+                    "A vertical close-up shot captures vibrant golden-orange Japanese maple leaves on slender branches, contrasting with the dark red and purple fallen leaves blanketing the ground below, creating a cozy autumn scene.",
+                    "A lush canopy of vibrant red Japanese maple leaves is viewed from above against a dense carpet of fallen autumn foliage."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -126,7 +197,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "winestains.ca",
+                  "text": "That one is peak. It\u2019s from another year. I visited yesterday and colour is nowhere as far along this year yet.",
+                  "permalink": "https://www.threads.com/@winestains.ca/post/DeuE8-plkDu",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -219,7 +301,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "matt.wilson.gc",
+                  "text": "He did. We did a three day shoot at the winery he works at. I always prefer to say its a lucky catch but this was well set up",
+                  "permalink": "https://www.threads.com/@matt.wilson.gc/post/DeuFx55DZZB",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Nice work \ud83d\udc4d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DeuF37MmyqK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
