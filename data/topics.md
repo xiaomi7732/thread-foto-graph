@@ -12,10 +12,13 @@ _Compact, actionable-first view: only replies still awaiting a response are show
 
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
-  - **[NEEDS REPLY]** Reply by alwaysmuddy:  ([link](https://www.threads.com/@alwaysmuddy/post/DeuLQc_iFY9))
-    - Photo: A close-up of vibrant red autumn leaves climbing a weathered stone wall, interspersed with small clusters of dark berries. Sunlight casts soft shadows across the foliage, highlighting the rich seasonal colors and natural textures.
-  - **[NEEDS REPLY]** Reply by pappaga11a: Also from a parking garage! ([link](https://www.threads.com/@pappaga11a/post/DeuGuCPFB7I))
-    - Photo: A tree with vibrant red autumn leaves is framed by a concrete architectural opening, creating a striking contrast between industrial structure and natural beauty. The composition captures the essence of the fall season, viewed from what appears to be a parking garage or balcony.
+  - **[NEEDS REPLY]** Reply by ulrike6417:  ([link](https://www.threads.com/@ulrike6417/post/DeuY625kW8K))
+    - Photo: A vibrant red amanita mushroom with white spots stands out amidst the earthy tones of a forest floor, surrounded by fallen twigs, moss, and pine needles. The forest floor is dappled with sunlight, creating an inviting and magical woodland scene.
+    - Photo: A close-up captures an oak tree branch laden with clusters of acorns nestled among green and yellowing autumn leaves.
+  - **[NEEDS REPLY]** Reply by bojonvelvet2.0:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuYa1EHXc6))
+    - Photo: A vertical, medium, eye-level shot captures a white church with brown doors and an enormous red tree in autumn foliage. The church is situated on the left, its white siding and dark shingle roof contrasting with the vibrant red leaves of the large tree on the right. The church's white door is closed and has two panels, each with small wooden slats. The tree's leaves are a brilliant red, some turning orange towards the top, creating a vivid display of autumn colors. The ground in front of the church and tree is covered with fallen red leaves. The sky above is a bright, overcast white.
+  - **[NEEDS REPLY]** Reply by rhetta_schultz: My Ginkgo Biloba has turned golden💛 ([link](https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx))
+    - Photo: (description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)
   - Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR))
     - Photo: A stone wall with three arched windows overlooks a cityscape with modern buildings. The old, weathered stonework contrasts sharply with the contemporary skyline visible through the empty frames.
     - Reply by saars.foto: Three windows, three eras of the same city. Did you take this one in fall? ([link](https://www.threads.com/@saars.foto/post/DeuFjLbmoOr))
@@ -24,17 +27,11 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A wooden footbridge with metal railings spans a stream in a lush forest on an autumn day. The trees in the background are transitioning to vibrant shades of orange, yellow, and green.
     - Reply by saars.foto: That bridge is doing autumn's PR work. Did you cross it, or just stop and admire it? ([link](https://www.threads.com/@saars.foto/post/DeuE183modI))
       - **[NEEDS LIKE]** Reply by funkygmacman: I crossed it! Not much to report on the other side unfortunately. ([link](https://www.threads.com/@funkygmacman/post/DeuIF4bHBqG))
-  - Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/DeuDTCpFEeD))
-    - Photo: A vertical shot captures a path lined with a traditional white and tiled wall, overhung by brilliant autumn foliage of yellow and red maple leaves in Kyoto, Japan. In the background, out-of-focus tourists stroll near a temple entrance, adding a touch of life to the vibrant seasonal scene.
-    - Reply by saars.foto: Kyoto showing off again. Was that peak color, or still warming up? ([link](https://www.threads.com/@saars.foto/post/DeuE21bmrZ1))
-      - **[NEEDS REPLY]** Reply by taiwanese726: Feel like peak color ([link](https://www.threads.com/@taiwanese726/post/DeuFGyqFJnK))
-        - Photo: A vertical close-up shot captures vibrant golden-orange Japanese maple leaves on slender branches, contrasting with the dark red and purple fallen leaves blanketing the ground below, creating a cozy autumn scene.
-        - Photo: A lush canopy of vibrant red Japanese maple leaves is viewed from above against a dense carpet of fallen autumn foliage.
   - Reply by winestains.ca:  ([link](https://www.threads.com/@winestains.ca/post/DeuDF7oFqJ0))
     - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
     - Reply by saars.foto: That tree owns the whole road. Peak color there, or just getting started? ([link](https://www.threads.com/@saars.foto/post/DeuD4P5FYty))
       - **[NEEDS LIKE]** Reply by winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
-  _(+21 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  _(+29 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.

@@ -7,14 +7,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (4)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **alwaysmuddy**:  ([link](https://www.threads.com/@alwaysmuddy/post/DeuLQc_iFY9))
-  - Photo: A close-up of vibrant red autumn leaves climbing a weathered stone wall, interspersed with small clusters of dark berries. Sunlight casts soft shadows across the foliage, highlighting the rich seasonal colors and natural textures.
-- **pappaga11a**: Also from a parking garage! ([link](https://www.threads.com/@pappaga11a/post/DeuGuCPFB7I))
-  - Photo: A tree with vibrant red autumn leaves is framed by a concrete architectural opening, creating a striking contrast between industrial structure and natural beauty. The composition captures the essence of the fall season, viewed from what appears to be a parking garage or balcony.
-- **taiwanese726**: Feel like peak color ([link](https://www.threads.com/@taiwanese726/post/DeuFGyqFJnK))
-  - Photo: A vertical close-up shot captures vibrant golden-orange Japanese maple leaves on slender branches, contrasting with the dark red and purple fallen leaves blanketing the ground below, creating a cozy autumn scene.
-  - Photo: A lush canopy of vibrant red Japanese maple leaves is viewed from above against a dense carpet of fallen autumn foliage.
-  - _Replying to: Kyoto showing off again. Was that peak color, or still warm…_
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DeuY625kW8K))
+  - Photo: A vibrant red amanita mushroom with white spots stands out amidst the earthy tones of a forest floor, surrounded by fallen twigs, moss, and pine needles. The forest floor is dappled with sunlight, creating an inviting and magical woodland scene.
+  - Photo: A close-up captures an oak tree branch laden with clusters of acorns nestled among green and yellowing autumn leaves.
+- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuYa1EHXc6))
+  - Photo: A vertical, medium, eye-level shot captures a white church with brown doors and an enormous red tree in autumn foliage. The church is situated on the left, its white siding and dark shingle roof contrasting with the vibrant red leaves of the large tree on the right. The church's white door is closed and has two panels, each with small wooden slats. The tree's leaves are a brilliant red, some turning orange towards the top, creating a vivid display of autumn colors. The ground in front of the church and tree is covered with fallen red leaves. The sky above is a bright, overcast white.
+- **rhetta_schultz**: My Ginkgo Biloba has turned golden💛 ([link](https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx))
+  - Photo: (description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)
 
 ### Made Me Stop favorites 🏆 Five photos that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DemWvl_Eegh))
 - **whoissilver**: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))
