@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17977317813144878",
-      "label": "train, platform, station, week",
+      "label": "train, station, platform, week",
       "group": 0,
       "snippet": "Best of the week is up on Instagram as a reel. Five favorit\u2026",
       "text": "Best of the week is up on Instagram as a reel. Five favorites from this week's prompts \u2014 night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/",
@@ -47,8 +47,32 @@
       "photos": [
         "A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky."
       ],
-      "reply_count": 41,
+      "reply_count": 45,
       "replies": [
+        {
+          "username": "maureenozerimages",
+          "text": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+          "permalink": "https://www.threads.com/@maureenozerimages/post/DeudSOQiLN9",
+          "photos": [
+            "A calm lake mirrors a snow-dusted mountain range under a cloudy sky, with autumn foliage lining the far shore. In the foreground, a grassy bank with a patch of stone pavers and rocks borders the water's edge."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "musulnamja",
+          "text": "",
+          "permalink": "https://www.threads.com/@musulnamja/post/DeucE3EmUh-",
+          "photos": [
+            "A small New England town features a white church with a tall steeple, situated next to a parking lot and a two-lane road at dusk. In the background, a mountain ridge is lit up by the warm glow of the setting sun, contrasting with the cool blue and gray clouds in the sky above."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ulrike6417",
           "text": "",
@@ -57,10 +81,21 @@
             "A vibrant red amanita mushroom with white spots stands out amidst the earthy tones of a forest floor, surrounded by fallen twigs, moss, and pine needles. The forest floor is dappled with sunlight, creating an inviting and magical woodland scene.",
             "A close-up captures an oak tree branch laden with clusters of acorns nestled among green and yellowing autumn leaves."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A storybook mushroom, and acorns by the cluster - autumn brought props. Do the amanitas pop up in the same spot every year?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeueVTtmT_I",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bojonvelvet2.0",
@@ -69,17 +104,28 @@
           "photos": [
             "A vertical, medium, eye-level shot captures a white church with brown doors and an enormous red tree in autumn foliage. The church is situated on the left, its white siding and dark shingle roof contrasting with the vibrant red leaves of the large tree on the right. The church's white door is closed and has two panels, each with small wooden slats. The tree's leaves are a brilliant red, some turning orange towards the top, creating a vivid display of autumn colors. The ground in front of the church and tree is covered with fallen red leaves. The sky above is a bright, overcast white."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tree is upstaging the whole church. Does it turn this red every year, or is this a special one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeueXESGdu8",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rhetta_schultz",
           "text": "My Ginkgo Biloba has turned golden\ud83d\udc9b",
           "permalink": "https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx",
           "photos": [
-            "(description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)"
+            "A vibrant ginkgo tree with bright, golden-yellow fan-shaped leaves stands against a clear blue sky. The sunlight illuminates the canopy, showcasing the changing autumn foliage in full display."
           ],
           "needs_response": true,
           "action": "reply",

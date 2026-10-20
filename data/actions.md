@@ -9,13 +9,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (4)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DeuY625kW8K))
-  - Photo: A vibrant red amanita mushroom with white spots stands out amidst the earthy tones of a forest floor, surrounded by fallen twigs, moss, and pine needles. The forest floor is dappled with sunlight, creating an inviting and magical woodland scene.
-  - Photo: A close-up captures an oak tree branch laden with clusters of acorns nestled among green and yellowing autumn leaves.
-- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DeuYa1EHXc6))
-  - Photo: A vertical, medium, eye-level shot captures a white church with brown doors and an enormous red tree in autumn foliage. The church is situated on the left, its white siding and dark shingle roof contrasting with the vibrant red leaves of the large tree on the right. The church's white door is closed and has two panels, each with small wooden slats. The tree's leaves are a brilliant red, some turning orange towards the top, creating a vivid display of autumn colors. The ground in front of the church and tree is covered with fallen red leaves. The sky above is a bright, overcast white.
+- **maureenozerimages**: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ([link](https://www.threads.com/@maureenozerimages/post/DeudSOQiLN9))
+  - Photo: A calm lake mirrors a snow-dusted mountain range under a cloudy sky, with autumn foliage lining the far shore. In the foreground, a grassy bank with a patch of stone pavers and rocks borders the water's edge.
+- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DeucE3EmUh-))
+  - Photo: A small New England town features a white church with a tall steeple, situated next to a parking lot and a two-lane road at dusk. In the background, a mountain ridge is lit up by the warm glow of the setting sun, contrasting with the cool blue and gray clouds in the sky above.
 - **rhetta_schultz**: My Ginkgo Biloba has turned golden💛 ([link](https://www.threads.com/@rhetta_schultz/post/DeuTFtdmisx))
-  - Photo: (description unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent)
+  - Photo: A vibrant ginkgo tree with bright, golden-yellow fan-shaped leaves stands against a clear blue sky. The sunlight illuminates the canopy, showcasing the changing autumn foliage in full display.
 
 ### Made Me Stop favorites 🏆 Five photos that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DemWvl_Eegh))
 - **whoissilver**: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))
