@@ -78,8 +78,68 @@
       "photos": [
         "A framed view of Niagara Falls viewed through a metal spiral."
       ],
-      "reply_count": 103,
+      "reply_count": 139,
       "replies": [
+        {
+          "username": "l_faefife",
+          "text": "",
+          "permalink": "https://www.threads.com/@l_faefife/post/DexLxsECPbK",
+          "photos": [
+            "A high-angle shot captures two people paddling a red canoe on a tranquil body of water under a partly cloudy sky. The foreground shows mossy rocks emerging from the water."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "susannemariehelene",
+          "text": "",
+          "permalink": "https://www.threads.com/@susannemariehelene/post/DexK6ClERT1",
+          "photos": [
+            "A close-up shot captures a series of six dew drops sitting on a vibrant green blade of grass, reflecting light and the environment around them. The background is softly blurred, highlighting the delicate water droplets and the texture of the leaf."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "candyandersonallen",
+          "text": "",
+          "permalink": "https://www.threads.com/@candyandersonallen/post/DexKcsBEcTe",
+          "photos": [
+            "A sun-drenched mountain stream flows through a lush, green valley at sunset, with light rays piercing through the sky. Distant rolling hills and sparse trees frame the tranquil wilderness scene."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "hydrophd",
+          "text": "Weekapaug Pond, Westerly RI",
+          "permalink": "https://www.threads.com/@hydrophd/post/DexKThulNTm",
+          "photos": [
+            "A tranquil body of water mirrors a dramatic sunset with pink and orange clouds, while two weathered wooden pilings rise from the calm surface. In the distance, a coastline featuring a row of houses silhouettes against the vibrant evening sky."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "wearn3",
+          "text": "Lake 12,000 ft elevation on the continental divide.",
+          "permalink": "https://www.threads.com/@wearn3/post/DexKLTslk0H",
+          "photos": [
+            "A frozen pond and snow-covered landscape under a gray, overcast sky evoke a quiet winter mood. Patches of brown, frost-dusted grass poke through the snow in the foreground, adding a touch of texture to the cold, stark scenery."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "candyandersonallen",
           "text": "",
@@ -87,10 +147,21 @@
           "photos": [
             "A two-panel vertical shot captures a humpback whale diving, with its dark, sleek back surfacing in the upper frame and its massive flukes\u2014dripping with water\u2014breaking the calm sea's surface in the lower frame."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Back, then flukes - the full dive in two frames. Right place, or were you tracking it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexM4ZXD5Kc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "candyandersonallen",
@@ -99,10 +170,21 @@
           "photos": [
             "A close-up shot captures several vibrant red roses, their petals glistening with countless sparkling raindrops. The soft-focus background highlights the rich, dewy texture of the flowers, creating a serene and refreshing morning garden scene."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Roses after rain, still beaded. Your garden showing off on a schedule?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexM5z3D0en",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "carianne80",
@@ -111,10 +193,34 @@
           "photos": [
             "A golden sun sets over a tranquil river, casting a warm orange glow across the sky and reflecting on the water's smooth surface. Silhouetted trees and grassy banks frame the scenic view, creating a peaceful and serene atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The river caught the whole sunset. Evenings like that make the walk worth it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexM7SVj-b6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "carianne80",
+                  "text": "Oh, that was sunrise\u2026and so worth it! It\u2019s part of why I take my phone on runs. This was my other favorite from that moment.",
+                  "permalink": "https://www.threads.com/@carianne80/post/DexNgnbGDDv",
+                  "photos": [
+                    "A spider waits in the center of its intricately woven web against the backdrop of a vibrant sunset over a rural landscape. The low evening sun casts a golden glow, silhouetting the spider and illuminating the delicate threads of the web."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ccaldwellrn",
@@ -123,10 +229,21 @@
           "photos": [
             "A traditional Viking longship rests peacefully on calm blue waters, moored near a scenic, grassy coastline."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A longship at rest. Replica out for a sail, or a working boat?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexM8ssAUdx",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jimrudloff",
@@ -137,10 +254,21 @@
             "A picturesque waterfall flows into a tranquil pool surrounded by lush green foliage, with people enjoying the water and rocks on a sunny day. The dreamy, tilt-shift effect highlights the serene nature scene, making it an idyllic spot for a summer getaway.",
             "A bright sun sets or rises over a tranquil, dark ocean, casting a golden glow across the water and clouds in a peaceful seascape."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Three waters, three moods - the dusk bridge is my pick. That far shore glows like it's expecting company.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexM-OIgfBm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "norbertlange9",
@@ -149,10 +277,21 @@
           "photos": [
             "A vertical, high-angle, long shot of a wet asphalt road, pavement, and crosswalk with white painted lines that reflect the city's yellow and white streetlights in the dark night. The light from a streetlamp at the upper right creates an ethereal lens flare that stretches from its source to the lamp post in the right foreground. The lamp post is covered in stickers and a street sign points to the right. Beyond the glistening road, the city is lit up with streetlights and illuminated signs on the buildings, including one in red with the letters OSP."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Rain turned the whole street into a mirror with traffic lines. That flare earned its keep.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNBRAmUMT",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jimrudloff",
@@ -161,10 +300,21 @@
           "photos": [
             "A full-vertical, eye-level shot captures a vibrant, green-hued Niagara Falls in the distance, partially framed by bare, brown tree branches in the upper foreground. A white, misty cloud rises from the base of the falls, partially obscuring the water. In the lower right corner, a red boat can be seen sailing on the water, while tall green grass and a few leafy bushes grow in the lower foreground. The sky is bright blue with white, fluffy clouds, creating a clear and sunny day."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The famous one, and it still lands - falls, mist, and the little red boat for scale. Some views earn their reputation.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNAAelOYb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "elobernstein",
@@ -173,10 +323,21 @@
           "photos": [
             "A rainy city street view through a window, with blurry skyscrapers and warm bokeh lights creating a cozy mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Rainy glass, warm bokeh - the coziest way to watch a city get wet.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNDbxmONP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "silvialittardi",
@@ -185,10 +346,21 @@
           "photos": [
             "Heavy rain and sleet fall across a grassy courtyard in front of a European-style estate featuring stone walls and yellow dog statues."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Raining cats and dogs, and the courtyard has actual dog statues standing guard. They look thrilled about it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNEqqlGHu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "suzethecrone",
@@ -197,10 +369,21 @@
           "photos": [
             "A vibrant waterfall plunges over a rocky ledge, framed by tall evergreen trees in a dense forest with a bright sun peaking through. The base of the waterfall is partially covered in melting snow, suggesting an early spring or late winter setting."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Troll Falls with snow still at its feet. Spring there takes its time leaving.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNGoKHyvG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "john.the.postie",
@@ -209,10 +392,21 @@
           "photos": [
             "A group of people relax in a steaming geothermal lagoon under a bright, sunny sky with wispy clouds, surrounded by dark volcanic rock formations. The low sun creates a lens flare on the water's surface, highlighting the serene atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A lagoon with steam for a roof. Hard to call that a hardship.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNIN8D_mP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "garnome",
@@ -221,10 +415,21 @@
           "photos": [
             "A high-contrast black-and-white photo features a lone boater cruising in a small inflatable dinghy across calm harbor waters. In the background, several sailboats rest at anchor under a hazy sky, with a low-slung shoreline visible in the distance."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Black and white suits that little dinghy - one boat moving, the rest all patience.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNJn5Gz2R",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ferrytrip",
@@ -233,10 +438,21 @@
           "photos": [
             "A wide shot captures a coastal slipway on an overcast day, with people gathered on the pier and swimming in the dark water. In the distance, flat-topped mountains rise across the bay beneath a dramatic sky heavy with clouds."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Swimmers, a slipway, and mountains holding the backdrop. Cold water, warm scene?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNLFeIOXt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "keltainentalorannalla",
@@ -245,10 +461,21 @@
           "photos": [
             "A vertical shot features thin streams of water pouring from a stone ledge into a fountain pool below, each stream creating expanding concentric ripples. Scattered autumn leaves rest on the stone ledge and in the water near the right edge of the frame."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Every stream drawing its own ripple circles. The autumn leaves in the pool clocked the season too.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNMuvndjQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "anouc90",
@@ -257,10 +484,21 @@
           "photos": [
             "A small wave breaks along the sandy shoreline under a bright sky. In the distance, a dark breakwater cuts across the water beneath a horizon line that meets the pale clouds."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Lake Michigan doing its ocean impression again. That little wave landed right on cue.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNPPIn5Ze",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "melissa.loves.nature",
@@ -269,10 +507,21 @@
           "photos": [
             "A close-up shot captures a cluster of green and reddish leaves, heavily speckled with dew drops, glistening under the natural light. The background is softly blurred with hints of other foliage, creating a serene and natural ambiance ideal for a nature-loving post."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Dew on every leaf like it was placed there. Early round or a lucky window?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNQ6oFDU5",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "coperez",
@@ -281,10 +530,21 @@
           "photos": [
             "A high-angle twilight shot shows a calm river mirroring the warm lights of a waterfront town in Pittsford, New York, captured by Charles O. Perez. The tranquil scene features a tall, slender grain elevator on the left, boats moored along the banks, and a deep blue sky transitioning into dusk."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Blue hour on the canal, every light doubled. Pittsford knows how to dress for dusk.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNR_Jo3L6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hannele.heikkinen",
@@ -293,10 +553,21 @@
           "photos": [
             "An icy rock, resembling a frozen phoenix rising from dark blue water, rests in the middle of a river. The river bank is covered in white snow, emphasizing the cold, wintery environment."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A frozen phoenix parked mid-river. Winter leaves the strangest sculptures behind.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNT6AHdxt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "estella.haines",
@@ -305,10 +576,21 @@
           "photos": [
             "A close-up vertical shot of two glistening water droplets clinging to the tips of a vibrant green leaf, illuminated by sunlight."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two droplets, perfectly balanced on the leaf tips. They held still for you beautifully.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNVPnn2Q8",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artgowie",
@@ -317,10 +599,21 @@
           "photos": [
             "A night shot captures a starry sky over a body of water, with a rocky shoreline in the foreground. A few faint lights twinkle on the horizon across the water."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Stars over water, shore in silhouette - the quietest photo in today's thread.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNWjCH8aN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "smithavary",
@@ -330,10 +623,21 @@
             "A wide-angle, slightly low-angle, eye-level shot captures a moody, overcast day along the water. In the background, across a wide body of water, a cluster of smokestacks from a power plant or industrial facility billows white smoke into the dramatic gray clouds. To the left, a line of tall trees with hints of changing autumn colors edges the shoreline, which is a mix of dirt, rocks, and a concrete boat ramp in the foreground. On the right, a tall, white concrete or metal pole stands upright, stretching vertically into the frame. The overall color palette is muted, dominated by grays, browns, and dull greens under a heavy, overcast sky.",
             "This vertical shot shows a calm river under a bright blue sky, with three white pillars on a concrete bank to the right and lush green trees casting dappled shadows on the ground to the left."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two rivers, two tempers - the industry shot has real mood to it. Same stretch of water or two different days?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNX1UnWxK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rkober",
@@ -342,10 +646,21 @@
           "photos": [
             "A vertical, eye-level shot captures a river rushing through a rocky landscape on a bright, sunny day, with a line of lush green trees on the horizon under a clear blue sky. White foam crests the dark water as it tumbles over jagged gray boulders, highlighting the powerful currents."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Great Falls earning the name - that water is in a hurry. Loud spot to stand?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNZJDD4Kc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "torontotwinb",
@@ -354,10 +669,21 @@
           "photos": [
             "A calm, shallow body of water flows toward the ocean between a rocky, tree-lined cliff on the left and a sandy beach on the right, under a partly cloudy blue sky. A few people can be seen in the distance on the black rocks where the river meets the sea."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A stream clocking out into the ocean. Best of both waters in one frame.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNahGid_K",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "_olliemorgan",
@@ -366,10 +692,21 @@
           "photos": [
             "A bright, overcast sky casts a silvery glare over rippling water, with distant land visible on the horizon. In the foreground, a dark stone sea wall lines a paved path, creating a tranquil coastal scene."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Silver light on rippled water, not a soul in frame. The sea wall path all to yourself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNcMZG9r7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "smasso9015",
@@ -378,10 +715,21 @@
           "photos": [
             "A rusted, old iron anchor lies on a grassy hill, with a stone wall to its left and the sea in the background. Framing the view through the anchor's loop, a distant lighthouse stands on a pier under a partly cloudy sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Framed the lighthouse through the anchor's loop - today's cleverest frame. Did you spot the trick walking up, or only at the anchor?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DexNdniIKxm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kes_ward",
@@ -441,10 +789,21 @@
                   "text": "Actually, it\u2019s the Saco River in Dayton, Maine.",
                   "permalink": "https://www.threads.com/@meservelee/post/Dew6vHbiWt0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A river wearing a lake's disguise - fair correction. Light like that earns the disguise.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DexNfMpiX_T",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -654,7 +1013,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "diaher1043",
+                  "text": "A tiny bit scrappy but nothing major. So much fun though!!!!!\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                  "permalink": "https://www.threads.com/@diaher1043/post/DexMv_DEoFY",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Hahaha, good experience \ud83d\udc4d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DexNVPekkvh",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -841,10 +1222,21 @@
                   "text": "Yes, to discuss action to be taken on unseasonably low water levels, green algae from local agriculture and worst of all the idiotic local fishermen who are somehow allowed to throw sharp hooks on thin nylon lines into the water. The Duck Committee also has coots, moorhens and various geese and swans as honorary members.",
                   "permalink": "https://www.threads.com/@thetonbridgegardener/post/DexBWaHkfAq",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The Duck Committee's agenda is more serious than most council meetings. Honored to hear coots get seats.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DexNgU_D1oS",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1186,7 +1578,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "juliahh",
+                  "text": "These are glazed tiles on a terrace.",
+                  "permalink": "https://www.threads.com/@juliahh/post/DexKOriEToT",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

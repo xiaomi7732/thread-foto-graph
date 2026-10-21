@@ -4,19 +4,18 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (20)
+## Needs Like (19)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - norbertlange9: beautiful long exposure ([link](https://www.threads.com/@norbertlange9/post/DexEYuFDkxQ))
-- meservelee: Actually, it’s the Saco River in Dayton, Maine. ([link](https://www.threads.com/@meservelee/post/Dew6vHbiWt0))
 - miketaricani: Location is Strasbourg France. Last year on one of our trips. ([link](https://www.threads.com/@miketaricani/post/DexBDe9mB5m))
 - nordique0829: Shot with just a phone camera. There is a little space behind the fountain that I found with the view of the palace. Most people wander by without knowing it’s there. ([link](https://www.threads.com/@nordique0829/post/Dew6rBiFHrJ))
 - christin.terra: Just a lake we were kayaking on ❤️￼ ([link](https://www.threads.com/@christin.terra/post/Dew7YB2mFUV))
 - demidova_nadezda: Rather, I'm in the right place at the right time, everything came together: sunset, bridge, ferry, ocean and San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/Dew8aUumCq3))
-- thetonbridgegardener: Yes, to discuss action to be taken on unseasonably low water levels, green algae from local agriculture and worst of all the idiotic local fishermen who are somehow allowed to throw sharp hooks on thin nylon lines into the water. The Duck Committee also has coots, moorhens and various geese and swans as honorary members. ([link](https://www.threads.com/@thetonbridgegardener/post/DexBWaHkfAq))
 - abnerabel125: Dusk is a really great time for photos . It’s not always calm at the harbor . I’m glad you liked my photo . ([link](https://www.threads.com/@abnerabel125/post/DexBGbXD3UR))
 - carmenjitano: Jesus 🙏🙏❤️❤️ God bless you and your family, thank you ([link](https://www.threads.com/@carmenjitano/post/DewvfEZkbm7))
 - kelzkidz03: Great framing ([link](https://www.threads.com/@kelzkidz03/post/DewuzZWDudY))
+- juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
 - cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
