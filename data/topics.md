@@ -12,8 +12,8 @@ _Compact, actionable-first view: only replies still awaiting a response are show
 
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
-  - **[NEEDS REPLY]** Reply by photography_cac: Door Co., WI ([link](https://www.threads.com/@photography_cac/post/DevBxuZFelP))
-    - Photo: A low-angle view captures a forest canopy in peak autumn color, with vibrant orange, red, and yellow leaves illuminated by the morning sun. Beams of sunlight pierce through the trees, casting a warm, glowing light on the forest floor below.
+  - **[NEEDS REPLY]** Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
+    - Photo: A high-angle view captures a winding stream flowing through a rocky gorge in autumn, its banks and ledges blanketed with vibrant yellow and orange fallen leaves. Several people stand on a stone pathway carved into the cliffside in the upper right, admiring the scenic landscape.
   - Reply by gerrycud:  ([link](https://www.threads.com/@gerrycud/post/Deuq5mvEnt6))
     - Photo: A close-up shot captures vibrant, fiery red autumn leaves hanging from branches, creating a striking contrast against a softly blurred background of green and earthy tones. Sunlight illuminates the leaves, highlighting their detailed textures and the arrival of the autumn season.
     - Reply by saars.foto: Red, lit from inside. Is that one tree showing off, or a whole hillside turning? ([link](https://www.threads.com/@saars.foto/post/Deus6ydH5h4))
@@ -47,7 +47,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
     - Reply by saars.foto: That tree owns the whole road. Peak color there, or just getting started? ([link](https://www.threads.com/@saars.foto/post/DeuD4P5FYty))
       - **[NEEDS LIKE]** Reply by winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
-  _(+43 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  _(+47 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.

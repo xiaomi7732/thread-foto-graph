@@ -47,8 +47,20 @@
       "photos": [
         "A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky."
       ],
-      "reply_count": 68,
+      "reply_count": 72,
       "replies": [
+        {
+          "username": "trayjayhay",
+          "text": "",
+          "permalink": "https://www.threads.com/@trayjayhay/post/DevTQAXDoXc",
+          "photos": [
+            "A high-angle view captures a winding stream flowing through a rocky gorge in autumn, its banks and ledges blanketed with vibrant yellow and orange fallen leaves. Several people stand on a stone pathway carved into the cliffside in the upper right, admiring the scenic landscape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "photography_cac",
           "text": "Door Co., WI",
@@ -56,10 +68,43 @@
           "photos": [
             "A low-angle view captures a forest canopy in peak autumn color, with vibrant orange, red, and yellow leaves illuminated by the morning sun. Beams of sunlight pierce through the trees, casting a warm, glowing light on the forest floor below."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Peak color from underneath - the canopy doing its stained-glass impression. How long did that light hold?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DevQ96eFOzj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "photography_cac",
+                  "text": "Not long at all. Pictures like this remind me of how light will maybe be that way for a short time and the picture I got will never be taken again.",
+                  "permalink": "https://www.threads.com/@photography_cac/post/DevRHf0lewg",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83d\udcaf",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DevSVQnFGWh",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "nanceharder81",

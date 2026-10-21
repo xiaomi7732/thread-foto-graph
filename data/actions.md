@@ -9,8 +9,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (1)
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
-- **photography_cac**: Door Co., WI ([link](https://www.threads.com/@photography_cac/post/DevBxuZFelP))
-  - Photo: A low-angle view captures a forest canopy in peak autumn color, with vibrant orange, red, and yellow leaves illuminated by the morning sun. Beams of sunlight pierce through the trees, casting a warm, glowing light on the forest floor below.
+- **trayjayhay**:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
+  - Photo: A high-angle view captures a winding stream flowing through a rocky gorge in autumn, its banks and ledges blanketed with vibrant yellow and orange fallen leaves. Several people stand on a stone pathway carved into the cliffside in the upper right, admiring the scenic landscape.
 
 
 _Flat list of text-only replies still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for the (bigger) photo replies that need an actual reply._
