@@ -4,9 +4,35 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (14)
+## Needs Reply (26)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
+- **candyandersonallen**:  ([link](https://www.threads.com/@candyandersonallen/post/DexJfQKkZhF))
+  - Photo: A two-panel vertical shot captures a humpback whale diving, with its dark, sleek back surfacing in the upper frame and its massive flukes—dripping with water—breaking the calm sea's surface in the lower frame.
+- **candyandersonallen**:  ([link](https://www.threads.com/@candyandersonallen/post/DexJIXWEUNZ))
+  - Photo: A close-up shot captures several vibrant red roses, their petals glistening with countless sparkling raindrops. The soft-focus background highlights the rich, dewy texture of the flowers, creating a serene and refreshing morning garden scene.
+- **carianne80**:  ([link](https://www.threads.com/@carianne80/post/DexJEfwmC85))
+  - Photo: A golden sun sets over a tranquil river, casting a warm orange glow across the sky and reflecting on the water's smooth surface. Silhouetted trees and grassy banks frame the scenic view, creating a peaceful and serene atmosphere.
+- **ccaldwellrn**:  ([link](https://www.threads.com/@ccaldwellrn/post/DexH_iun2sf))
+  - Photo: A traditional Viking longship rests peacefully on calm blue waters, moored near a scenic, grassy coastline.
+- **jimrudloff**:  ([link](https://www.threads.com/@jimrudloff/post/DexFFLAFgwB))
+  - Photo: A dusk-lit landscape shows a wooden bridge leading towards a serene lake, reflecting the warm glow of distant illuminated buildings on the far shore under a blue twilight sky.
+  - Photo: A picturesque waterfall flows into a tranquil pool surrounded by lush green foliage, with people enjoying the water and rocks on a sunny day. The dreamy, tilt-shift effect highlights the serene nature scene, making it an idyllic spot for a summer getaway.
+  - Photo: A bright sun sets or rises over a tranquil, dark ocean, casting a golden glow across the water and clouds in a peaceful seascape.
+- **norbertlange9**: Rain ... ([link](https://www.threads.com/@norbertlange9/post/DexEPFWjsiR))
+  - Photo: A vertical, high-angle, long shot of a wet asphalt road, pavement, and crosswalk with white painted lines that reflect the city's yellow and white streetlights in the dark night. The light from a streetlamp at the upper right creates an ethereal lens flare that stretches from its source to the lamp post in the right foreground. The lamp post is covered in stickers and a street sign points to the right. Beyond the glistening road, the city is lit up with streetlights and illuminated signs on the buildings, including one in red with the letters OSP.
+- **jimrudloff**: I’ll offer this one of a fairly well-known waterfall. ([link](https://www.threads.com/@jimrudloff/post/DexDey8Fuiq))
+  - Photo: A full-vertical, eye-level shot captures a vibrant, green-hued Niagara Falls in the distance, partially framed by bare, brown tree branches in the upper foreground. A white, misty cloud rises from the base of the falls, partially obscuring the water. In the lower right corner, a red boat can be seen sailing on the water, while tall green grass and a few leafy bushes grow in the lower foreground. The sky is bright blue with white, fluffy clouds, creating a clear and sunny day.
+- **elobernstein**:  ([link](https://www.threads.com/@elobernstein/post/DexDX0amKlG))
+  - Photo: A rainy city street view through a window, with blurry skyscrapers and warm bokeh lights creating a cozy mood.
+- **silvialittardi**: It was raining cats and dogs ([link](https://www.threads.com/@silvialittardi/post/DexCu4-kchV))
+  - Photo: Heavy rain and sleet fall across a grassy courtyard in front of a European-style estate featuring stone walls and yellow dog statues.
+- **suzethecrone**: Troll Falls, Kananaskis Alberta, Canada ([link](https://www.threads.com/@suzethecrone/post/DexB1eSmc9G))
+  - Photo: A vibrant waterfall plunges over a rocky ledge, framed by tall evergreen trees in a dense forest with a bright sun peaking through. The base of the waterfall is partially covered in melting snow, suggesting an early spring or late winter setting.
+- **john.the.postie**:  ([link](https://www.threads.com/@john.the.postie/post/DexBVbmjAnm))
+  - Photo: A group of people relax in a steaming geothermal lagoon under a bright, sunny sky with wispy clouds, surrounded by dark volcanic rock formations. The low sun creates a lens flare on the water's surface, highlighting the serene atmosphere.
+- **garnome**:  ([link](https://www.threads.com/@garnome/post/DexAd7hlGDQ))
+  - Photo: A high-contrast black-and-white photo features a lone boater cruising in a small inflatable dinghy across calm harbor waters. In the background, several sailboats rest at anchor under a hazy sky, with a low-slung shoreline visible in the distance.
 - **ferrytrip**:  ([link](https://www.threads.com/@ferrytrip/post/Dew_Rg-Gn9p))
   - Photo: A wide shot captures a coastal slipway on an overcast day, with people gathered on the pier and swimming in the dark water. In the distance, flat-topped mountains rise across the bay beneath a dramatic sky heavy with clouds.
 - **keltainentalorannalla**:  ([link](https://www.threads.com/@keltainentalorannalla/post/Dew9zp6iDuQ))
