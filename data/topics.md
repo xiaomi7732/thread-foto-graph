@@ -8,9 +8,44 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
   - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.
   - Photo: A fallen, brown autumn leaf rests on a bed of dewy grass, surrounded by a glistening field of water droplets that catch the light in a soft, dreamy blur.
-  - All 5 replies already answered. ✅ ([full thread](threads/17980137651136213.md))
+  - All 7 replies already answered. ✅ ([full thread](threads/17980137651136213.md))
 - **Thread** [18118551631977488](https://www.threads.com/@saars.foto/post/Dewkudim4IN): Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddles, fountains - show me water doing its thing. Framed this one through the railing at Niagara - the falls did the rest ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A framed view of Niagara Falls viewed through a metal spiral.
+  - **[NEEDS REPLY]** Reply by coldhollowfarm:  ([link](https://www.threads.com/@coldhollowfarm/post/Dexc4cnkR0g))
+    - Photo: A vibrant sunset casts an orange glow across a calm expanse of water, with the sun dipping just below the distant horizon. Wispy clouds float overhead, tinged with pink and gold from the fading light.
+  - **[NEEDS REPLY]** Reply by greghillman11:  ([link](https://www.threads.com/@greghillman11/post/DexaznVE5qz))
+    - Photo: A woman with dark hair and tattoos on her arms is captured in mid-motion against a black background, with dynamic splashes of water surrounding her body. The dramatic lighting casts a reddish glow on her lower body as she strikes an expressive pose.
+  - **[NEEDS REPLY]** Reply by therealranameehan:  ([link](https://www.threads.com/@therealranameehan/post/DexaS-Pkcis))
+    - Photo: A close-up shot captures vibrant purple lilac blossoms glistening with fresh morning rain droplets. The blurred green background enhances the focus on the delicate, dewy petals, creating a serene and refreshing spring aesthetic.
+  - **[NEEDS REPLY]** Reply by suzanne2363:  ([link](https://www.threads.com/@suzanne2363/post/DexZaUAjwn_))
+    - Photo: A scenic shot of a rushing river in the woods, with exposed tree roots framing the rocky foreground and autumn foliage beginning to show on the trees across the water.
+  - **[NEEDS REPLY]** Reply by bojonvelvet2.0:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DexYxOjgaiR))
+    - Photo: A stunning sunset paints the sky in vibrant shades of pink and purple over a calm ocean, silhouetting a dreamcatcher, a boat, and figures on the shore.
+  - **[NEEDS REPLY]** Reply by monroe22: Downtown Spokane ([link](https://www.threads.com/@monroe22/post/DexYRtQAXGk))
+    - Photo: A wide-angle, eye-level shot captures a river flowing under a road bridge on a sunny day. The river has rapids in the foreground and a calm stretch in the background, where a large, dark rock sits in the middle. The banks are lined with lush green trees and shrubs, with buildings and a pavilion visible on the right. The clear blue sky is filled with fluffy white clouds, and the bright sunlight sparkles on the water's surface, creating a peaceful and scenic atmosphere.
+    - Photo: An eye-level shot captures a large concrete bridge spanning a river in a bustling city. The bridge features numerous arches and pillars, and spans across a river flowing between rocky banks covered with autumn foliage, with a city skyline visible in the distance under a blue sky dotted with white clouds.
+  - **[NEEDS REPLY]** Reply by toooldforthiscrap21: Takakkaw Falls.. ([link](https://www.threads.com/@toooldforthiscrap21/post/DexVmZQmYwx))
+    - Photo: A towering waterfall plunges down a sheer, rocky cliff face into a rushing, glacier-fed river below. The landscape is framed by evergreen trees and autumn-tinted foliage, creating a serene wilderness scene.
+  - **[NEEDS REPLY]** Reply by dwordops:  ([link](https://www.threads.com/@dwordops/post/DexUOl5GGOf))
+    - Photo: A black-and-white high-angle medium shot of an older couple in a rowboat with the man rowing.
+  - **[NEEDS REPLY]** Reply by halfmoonswoon:  ([link](https://www.threads.com/@halfmoonswoon/post/DexT3Z9FZ5u))
+    - Photo: An abandoned brick building covered in vines sits beside a river, with a large rusted bridge spanning the water in the background. The surreal color palette of vibrant red foliage and cyan water creates an eerie, almost apocalyptic atmosphere.
+  - **[NEEDS REPLY]** Reply by angelaaudleyphotography: Cedarburg Creek Waterfall in downtown behind the shops ([link](https://www.threads.com/@angelaaudleyphotography/post/DexTZT1FrX2))
+    - Photo: A wide, man-made dam spans a winding river, creating a gentle waterfall surrounded by lush green trees on a bright afternoon. The calm water reflects the surrounding foliage, with homes faintly visible in the background.
+  - **[NEEDS REPLY]** Reply by neridafarrer:  ([link](https://www.threads.com/@neridafarrer/post/DexSe5Uk0S0))
+    - Photo: An adult black swan leads a line of five fluffy grey cygnets across a calm lake at dusk, with the distant city skyline silhouetted against a cloudy sky.
+  - **[NEEDS REPLY]** Reply by linlakeville: Rainy day sunset ([link](https://www.threads.com/@linlakeville/post/DexRlUvmPm7))
+    - Photo: A misty landscape of bare trees is viewed through a window covered in raindrops, creating a textured, moody scene. A warm, golden glow peeks through the horizon at the base of the trees.
+  - **[NEEDS REPLY]** Reply by mauricevergoossen:  ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8ZKCvaJ))
+    - Photo: A serene dusk view features the city skyline of Roermond reflected on the still surface of the Maas River, with a pink-toned sky above.
+    - Photo: A serene landscape shot captures a vibrant sunset casting a warm golden and purple glow over a city skyline and a calm river, creating a clear mirror reflection. The horizon is filled with silhouettes of buildings, trees, and a distant church tower, with a watermark in the bottom left corner reading "Maurice Vergoossen."
+    - Photo: A wide-angle, eye-level shot captures a city skyline across a body of water under a pale, overcast sky. The skyline features a variety of architectural styles, including a tall, slender church steeple on the left, a pyramidal building in the center, and a modern communication tower on the right, all reflecting softly in the water's surface. In the bottom left corner, the name "Maurice Vergoossen" is written in a stylized white font.
+    - Photo: A high-angle, wide shot shows a sunset over the city skyline of Roermond in the Netherlands, viewed across a grassy field and a river. The skyline is dominated by a modern skyscraper with two distinct conical peaks on the left, next to the towering spire of Roermond's historic cathedral. Other modern residential and office buildings line the riverbank. The sky is a mix of pale blue and pink clouds.
+    - **[NEEDS LIKE]** Reply by mauricevergoossen: ..My hometown Roermond, The Netherlands, among the river Meuse due sunrise, Photographed during several days this year.. ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8IwClCz))
+  - **[NEEDS REPLY]** Reply by picsall:  ([link](https://www.threads.com/@picsall/post/DexOep3GcYg))
+    - Photo: A distant thunderstorm looms over a low mountain range, with grey storm clouds and rain shafts visible against a pale sky. The low foreground features a paved road edge and sparse desert brush, suggesting a remote southwestern landscape.
+  - **[NEEDS REPLY]** Reply by sgoodwandering: Ice ice baby ([link](https://www.threads.com/@sgoodwandering/post/DexNmcBDVWs))
+    - Photo: An intricate pattern of frost covers a glass window, creating delicate, fern-like ice crystals across the pane. Faint, blurred lights glow through the partially obscured glass, suggesting a chilly evening or early morning scene.
   - **[NEEDS REPLY]** Reply by l_faefife:  ([link](https://www.threads.com/@l_faefife/post/DexLxsECPbK))
     - Photo: A high-angle shot captures two people paddling a red canoe on a tranquil body of water under a partly cloudy sky. The foreground shows mossy rocks emerging from the water.
   - **[NEEDS REPLY]** Reply by susannemariehelene:  ([link](https://www.threads.com/@susannemariehelene/post/DexK6ClERT1))
@@ -21,15 +56,42 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A tranquil body of water mirrors a dramatic sunset with pink and orange clouds, while two weathered wooden pilings rise from the calm surface. In the distance, a coastline featuring a row of houses silhouettes against the vibrant evening sky.
   - **[NEEDS REPLY]** Reply by wearn3: Lake 12,000 ft elevation on the continental divide. ([link](https://www.threads.com/@wearn3/post/DexKLTslk0H))
     - Photo: A frozen pond and snow-covered landscape under a gray, overcast sky evoke a quiet winter mood. Patches of brown, frost-dusted grass poke through the snow in the foreground, adding a touch of texture to the cold, stark scenery.
-  - Reply by carianne80:  ([link](https://www.threads.com/@carianne80/post/DexJEfwmC85))
-    - Photo: A golden sun sets over a tranquil river, casting a warm orange glow across the sky and reflecting on the water's smooth surface. Silhouetted trees and grassy banks frame the scenic view, creating a peaceful and serene atmosphere.
-    - Reply by saars.foto: The river caught the whole sunset. Evenings like that make the walk worth it. ([link](https://www.threads.com/@saars.foto/post/DexM7SVj-b6))
-      - **[NEEDS REPLY]** Reply by carianne80: Oh, that was sunrise…and so worth it! It’s part of why I take my phone on runs. This was my other favorite from that moment. ([link](https://www.threads.com/@carianne80/post/DexNgnbGDDv))
-        - Photo: A spider waits in the center of its intricately woven web against the backdrop of a vibrant sunset over a rural landscape. The low evening sun casts a golden glow, silhouetting the spider and illuminating the delicate threads of the web.
+  - Reply by candyandersonallen:  ([link](https://www.threads.com/@candyandersonallen/post/DexJfQKkZhF))
+    - Photo: A two-panel vertical shot captures a humpback whale diving, with its dark, sleek back surfacing in the upper frame and its massive flukes—dripping with water—breaking the calm sea's surface in the lower frame.
+    - Reply by saars.foto: Back, then flukes - the full dive in two frames. Right place, or were you tracking it? ([link](https://www.threads.com/@saars.foto/post/DexM4ZXD5Kc))
+      - **[NEEDS LIKE]** Reply by candyandersonallen: I was at the right place at the right time ([link](https://www.threads.com/@candyandersonallen/post/DexVOB4kTd5))
+  - Reply by suzethecrone: Troll Falls, Kananaskis Alberta, Canada ([link](https://www.threads.com/@suzethecrone/post/DexB1eSmc9G))
+    - Photo: A vibrant waterfall plunges over a rocky ledge, framed by tall evergreen trees in a dense forest with a bright sun peaking through. The base of the waterfall is partially covered in melting snow, suggesting an early spring or late winter setting.
+    - Reply by saars.foto: Troll Falls with snow still at its feet. Spring there takes its time leaving. ([link](https://www.threads.com/@saars.foto/post/DexNGoKHyvG))
+      - **[NEEDS LIKE]** Reply by suzethecrone: It's also in the shade, so it takes quite a long time. This was mid-May. My kids took me on a hike out here for Mother's Day. You used to be able to walk behind the falls (I have) but theyve blocked it off now. ([link](https://www.threads.com/@suzethecrone/post/DexOC0xkuTh))
+  - Reply by john.the.postie:  ([link](https://www.threads.com/@john.the.postie/post/DexBVbmjAnm))
+    - Photo: A group of people relax in a steaming geothermal lagoon under a bright, sunny sky with wispy clouds, surrounded by dark volcanic rock formations. The low sun creates a lens flare on the water's surface, highlighting the serene atmosphere.
+    - Reply by saars.foto: A lagoon with steam for a roof. Hard to call that a hardship. ([link](https://www.threads.com/@saars.foto/post/DexNIN8D_mP))
+      - **[NEEDS LIKE]** Reply by john.the.postie: It was my wife’s 60th birthday so I had to take her somewhere nice for a treat ([link](https://www.threads.com/@john.the.postie/post/DexT5CXjJlk))
+  - Reply by ferrytrip:  ([link](https://www.threads.com/@ferrytrip/post/Dew_Rg-Gn9p))
+    - Photo: A wide shot captures a coastal slipway on an overcast day, with people gathered on the pier and swimming in the dark water. In the distance, flat-topped mountains rise across the bay beneath a dramatic sky heavy with clouds.
+    - Reply by saars.foto: Swimmers, a slipway, and mountains holding the backdrop. Cold water, warm scene? ([link](https://www.threads.com/@saars.foto/post/DexNLFeIOXt))
+      - **[NEEDS LIKE]** Reply by ferrytrip: Well the kids were wearing wet suits. Sligo coast, NW Ireland, North Atlantic Ocean. I swam in the Irish Sea as a kid with no wet suit & I think it was warmer than the water off Vancouver Island, British Columbia. ([link](https://www.threads.com/@ferrytrip/post/DexSvm0GkEH))
+  - Reply by hannele.heikkinen:  ([link](https://www.threads.com/@hannele.heikkinen/post/Dew661RDgCW))
+    - Photo: An icy rock, resembling a frozen phoenix rising from dark blue water, rests in the middle of a river. The river bank is covered in white snow, emphasizing the cold, wintery environment.
+    - Reply by saars.foto: A frozen phoenix parked mid-river. Winter leaves the strangest sculptures behind. ([link](https://www.threads.com/@saars.foto/post/DexNT6AHdxt))
+      _(+4 more replies already answered under this, see archive)_
+      - **[NEEDS LIKE]** Reply by hannele.heikkinen: Yes...winter is doing its magic. ([link](https://www.threads.com/@hannele.heikkinen/post/DexOGdnjkmd))
+  - Reply by rkober: Great Falls Virginia USA ([link](https://www.threads.com/@rkober/post/Dew4053lSyg))
+    - Photo: A vertical, eye-level shot captures a river rushing through a rocky landscape on a bright, sunny day, with a line of lush green trees on the horizon under a clear blue sky. White foam crests the dark water as it tumbles over jagged gray boulders, highlighting the powerful currents.
+    - Reply by saars.foto: Great Falls earning the name - that water is in a hurry. Loud spot to stand? ([link](https://www.threads.com/@saars.foto/post/DexNZJDD4Kc))
+      - **[NEEDS REPLY]** Reply by rkober: Not loud but interesting to watch a kayak paddling against current ([link](https://www.threads.com/@rkober/post/DexTHCEj9bx))
+        - Photo: A lone kayaker navigates the swift, choppy waters of a wide river, dwarfed by towering, craggy rock formations along the bank. Lush green foliage frames the scene from the foreground and the forested hills above under a bright sky.
+  - Reply by _olliemorgan:  ([link](https://www.threads.com/@_olliemorgan/post/Dew3nW4FpXi))
+    - Photo: A bright, overcast sky casts a silvery glare over rippling water, with distant land visible on the horizon. In the foreground, a dark stone sea wall lines a paved path, creating a tranquil coastal scene.
+    - Reply by saars.foto: Silver light on rippled water, not a soul in frame. The sea wall path all to yourself? ([link](https://www.threads.com/@saars.foto/post/DexNcMZG9r7))
+      - **[NEEDS LIKE]** Reply by _olliemorgan: I’m always careful to exclude other people unless they’re friends of mine. ([link](https://www.threads.com/@_olliemorgan/post/DexQqf3Fis7))
   - Reply by kes_ward:  ([link](https://www.threads.com/@kes_ward/post/Dew2eXWjifB))
     - Photo: A long-exposure photograph captures the moody atmosphere of the Giant's Causeway in Northern Ireland, where iconic hexagonal basalt columns emerge from a misty, glass-like sea under a twilight sky.
-    _(+1 more reply already answered under this, see archive)_
     - **[NEEDS LIKE]** Reply by norbertlange9: beautiful long exposure ([link](https://www.threads.com/@norbertlange9/post/DexEYuFDkxQ))
+      - **[NEEDS LIKE]** Reply by kes_ward: Thank you so much. 🙏 It’s sits amongst my favourite images. Was a very early rise to capture this one. ([link](https://www.threads.com/@kes_ward/post/DexWmGfmQ6i))
+    - Reply by saars.foto: Basalt columns walking straight into a glassy sea. Does the Causeway ever get a quiet evening, or did you win the timing lottery? ([link](https://www.threads.com/@saars.foto/post/Dew4-9sGmH5))
+      - **[NEEDS LIKE]** Reply by kes_ward: That was about 7am give or take. I was staying in the Causeway Hotel right by it. I love an early rise for photography. My favourite time of day. ([link](https://www.threads.com/@kes_ward/post/DexWPHpma-e))
   - Reply by miketaricani:  ([link](https://www.threads.com/@miketaricani/post/Dew1duMleiL))
     - Photo: A high-angle, vertical shot captures lily pads and tiny yellow flowers scattered across the dark water of a pond. The water surface reflects the blue sky, creating a peaceful atmosphere.
     - Photo: A tranquil stream flows through a lush autumn forest, its banks lined with vibrant yellow and red foliage. Fallen leaves cover the ground, creating a serene and picturesque seasonal landscape.
@@ -44,10 +106,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A vibrant, magenta water lily floats on the dark, reflective surface of a pond, nestled between two large, bright green lily pads. In the background, a scattered field of lily pads creates a peaceful, sunlit nature scene.
     - Reply by saars.foto: That magenta is not being subtle about anything. Your pond or a garden visit? ([link](https://www.threads.com/@saars.foto/post/Dew5Uf2FOM1))
       - **[NEEDS LIKE]** Reply by christin.terra: Just a lake we were kayaking on ❤️￼ ([link](https://www.threads.com/@christin.terra/post/Dew7YB2mFUV))
-  - Reply by demidova_nadezda:  ([link](https://www.threads.com/@demidova_nadezda/post/DewzE0LmGMT))
-    - Photo: A large suspension bridge spans across calm water at sunset, with a white, green, and blue ferry crossing beneath its towers. Hilly terrain is visible in the background under a pale yellow sky.
-    - Reply by saars.foto: The ferry timed its crossing perfectly for you. Planned, or right place, right minute? ([link](https://www.threads.com/@saars.foto/post/Dew5Vtomnqg))
-      - **[NEEDS LIKE]** Reply by demidova_nadezda: Rather, I'm in the right place at the right time, everything came together: sunset, bridge, ferry, ocean and San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/Dew8aUumCq3))
   - **[NEEDS REPLY]** Reply by remalysh: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
     - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
   - Reply by abnerabel125:  ([link](https://www.threads.com/@abnerabel125/post/DewwRWcm3e8))
@@ -61,7 +119,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Raindrops doing their glisten. What surface caught them this well? ([link](https://www.threads.com/@saars.foto/post/Dew5mPOmhKR))
       - **[NEEDS LIKE]** Reply by juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+106 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+104 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
