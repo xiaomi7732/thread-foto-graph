@@ -238,12 +238,19 @@ def _action_category(reply: dict) -> str:
     return "reply" if _photo_lines(reply) else "like"
 
 
+def _needs_action(reply: dict) -> bool:
+    """A text-only reply needs no further action if the owner already liked it."""
+    return _needs_response(reply) and not (
+        _action_category(reply) == "like" and reply.get("is_liked") is True
+    )
+
+
 def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
     """Recursively prunes a nested reply tree down to only what's still
     actionable, for the compact data/topics.md view.
 
-    A reply is kept (annotated with '_needs_response' and '_answered_overflow')
-    if it itself needs a response, OR if any of its descendants still need a
+    A reply is kept (annotated with '_needs_action' and '_answered_overflow')
+    if it itself needs an action, OR if any of its descendants still need an
     response (kept as context so Muse can see what it's replying to/within).
     A reply -- and its entire subtree -- is dropped entirely when every
     reply in it is already resolved (the owner's own replies, or replies the
@@ -265,11 +272,11 @@ def _prune_for_action(replies: list[dict]) -> tuple[list[dict], int]:
             dropped += 1 + len(list(_iter_replies(reply.get("replies", []))))
             continue
         child_kept, child_dropped = _prune_for_action(reply.get("replies", []))
-        own_needs = _needs_response(reply)
-        if own_needs or child_kept:
+        own_needs_action = _needs_action(reply)
+        if own_needs_action or child_kept:
             pruned_reply = dict(reply)
             pruned_reply["replies"] = child_kept
-            pruned_reply["_needs_response"] = own_needs
+            pruned_reply["_needs_action"] = own_needs_action
             pruned_reply["_answered_overflow"] = child_dropped
             kept.append(pruned_reply)
         else:
@@ -305,7 +312,7 @@ def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = Fals
     marker = ""
     if hidden:
         marker = "🚫 **[HIDDEN]** "
-    elif show_action_marker and reply.get("_needs_response"):
+    elif show_action_marker and reply.get("_needs_action"):
         marker = "**[NEEDS REPLY]** " if _action_category(reply) == "reply" else "**[NEEDS LIKE]** "
     out = [
         f"{indent}- {marker}Reply by {reply.get('username', 'unknown')}: "
@@ -332,7 +339,7 @@ def _reply_node(reply: dict, ancestor_hidden: bool = False) -> dict:
     dropped.
     """
     hidden = ancestor_hidden or _is_hidden(reply)
-    needs_response = False if hidden else _needs_response(reply)
+    needs_response = False if hidden else _needs_action(reply)
     return {
         "username": reply.get("username", "unknown"),
         "text": _snippet(reply.get("text", ""), length=None),
@@ -358,7 +365,7 @@ def _flatten_actionable(replies: list[dict], parent_text: str | None = None):
             # A hidden reply's entire subtree is resolved -- never surface it
             # (or anything nested under it) as actionable.
             continue
-        if _needs_response(reply):
+        if _needs_action(reply):
             yield reply, parent_text
         own_text = _snippet(reply.get("text", ""), length=60) if reply.get("text") else "(photo reply, no text)"
         yield from _flatten_actionable(reply.get("replies", []), own_text)
