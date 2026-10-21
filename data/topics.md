@@ -12,10 +12,8 @@ _Compact, actionable-first view: only replies still awaiting a response are show
 
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
-  - **[NEEDS REPLY]** Reply by nanceharder81:  ([link](https://www.threads.com/@nanceharder81/post/Deu7_gaiYMw))
-    - Photo: A serene landscape photo captures a lake reflecting a cloudy blue sky under dramatic, puffy clouds. In the background, a line of trees adorned with autumn foliage stands tall, while tall grass peeks through the water in the foreground, enhancing the natural beauty of the scene.
-  - **[NEEDS REPLY]** Reply by joanmduffy:  ([link](https://www.threads.com/@joanmduffy/post/Deu1RMFFJLg))
-    - Photo: A rustic, weathered wooden lighthouse stands against a vibrant backdrop of autumn foliage, with rich red, orange, and yellow trees blanketing the hillside. The historical structure, featuring a stone foundation and dark, boarded-up windows, is positioned along a calm shoreline under an overcast sky.
+  - **[NEEDS REPLY]** Reply by photography_cac: Door Co., WI ([link](https://www.threads.com/@photography_cac/post/DevBxuZFelP))
+    - Photo: A low-angle view captures a forest canopy in peak autumn color, with vibrant orange, red, and yellow leaves illuminated by the morning sun. Beams of sunlight pierce through the trees, casting a warm, glowing light on the forest floor below.
   - Reply by gerrycud:  ([link](https://www.threads.com/@gerrycud/post/Deuq5mvEnt6))
     - Photo: A close-up shot captures vibrant, fiery red autumn leaves hanging from branches, creating a striking contrast against a softly blurred background of green and earthy tones. Sunlight illuminates the leaves, highlighting their detailed textures and the arrival of the autumn season.
     - Reply by saars.foto: Red, lit from inside. Is that one tree showing off, or a whole hillside turning? ([link](https://www.threads.com/@saars.foto/post/Deus6ydH5h4))
@@ -49,7 +47,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A vibrant tree with golden-orange autumn foliage stands prominently beside a harvested field under a deep blue sky filled with wispy, streaked white clouds. A paved road curves alongside the tree, completing a quintessential rural landscape scene.
     - Reply by saars.foto: That tree owns the whole road. Peak color there, or just getting started? ([link](https://www.threads.com/@saars.foto/post/DeuD4P5FYty))
       - **[NEEDS LIKE]** Reply by winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
-  _(+37 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
+  _(+43 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
 - **Thread** [17992998429107117](https://www.threads.com/@saars.foto/post/Demb1gIm5zt): Red vine taking over the wall. October doing its thing.
   - Photo: A close-up captures vibrant red autumn leaves on a vine covering the side of a building, with a parking lot and trees softly blurred in the background.
 - **Thread** [18141005737571115](https://www.threads.com/@saars.foto/post/DemWvl_Eegh): Made Me Stop favorites 🏆 Five photos that stopped my scroll. @i.m.doing.fine @whoissilver @annette7926 @citizenb @catmac720 - beautiful work, all of you.
@@ -62,9 +60,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by i.m.doing.fine: Yes, the lake is known for its water changing from turquoise to deep blue with the seasons and weather conditions. ([link](https://www.threads.com/@i.m.doing.fine/post/DemX3CdCK1W))
       - Reply by saars.foto: Such a cool place! Beautiful picture! Thanks for playing the game and for sharing the photo! ([link](https://www.threads.com/@saars.foto/post/DemYML8G1XD))
         - **[NEEDS LIKE]** Reply by i.m.doing.fine: Thank you for your kind words 🫶 ([link](https://www.threads.com/@i.m.doing.fine/post/DemYRGRiMOn))
-  - Reply by saars.foto: How long did you stand there watching it? @whoissilver ([link](https://www.threads.com/@saars.foto/post/DemW5v_m3oG))
-    - **[NEEDS REPLY]** Reply by whoissilver: I took quite a few photos anyhow, also returned the following week for a different perspective. ([link](https://www.threads.com/@whoissilver/post/DemauY-DSqu))
-      - Photo: A close-up shot of a single, vibrant red maple seedpod perched atop a delicate stem, framed by a web of branches and autumn foliage. The background features a soft, golden bokeh created by sunlight filtering through the trees, evoking a warm, peaceful autumn morning.
   - Reply by saars.foto: Were you on a boat when you took this? @citizenb ([link](https://www.threads.com/@saars.foto/post/DemWyuom_W1))
     - **[NEEDS LIKE]** Reply by citizenb: Yes, on a boat! ([link](https://www.threads.com/@citizenb/post/DemZUQsEch3))
-  _(+4 more replies elsewhere in this thread already answered, see [full thread](threads/18141005737571115.md))_
+  _(+9 more replies elsewhere in this thread already answered, see [full thread](threads/18141005737571115.md))_
