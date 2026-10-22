@@ -11,10 +11,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - All 7 replies already answered. ✅ ([full thread](threads/17980137651136213.md))
 - **Thread** [18118551631977488](https://www.threads.com/@saars.foto/post/Dewkudim4IN): Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddles, fountains - show me water doing its thing. Framed this one through the railing at Niagara - the falls did the rest ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A framed view of Niagara Falls viewed through a metal spiral.
-  - **[NEEDS REPLY]** Reply by _enotsytsur_:  ([link](https://www.threads.com/@_enotsytsur_/post/DeyKbbOm5O8))
-    - Photo: A high-angle view captures a distant, rugged rock outcrop emerging from white-flecked, rolling blue waves of the ocean, framed by dense evergreen trees on the left and right.
-  - **[NEEDS REPLY]** Reply by john.stephen.reinhart.27:  ([link](https://www.threads.com/@john.stephen.reinhart.27/post/DeyI9BSHElF))
-    - Photo: A low angle shot looks up through a glass window covered in water droplets against a bright blue sky with white clouds.
   - **[NEEDS LIKE]** Reply by khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
   - **[NEEDS LIKE]** Reply by desibotanista: #MahimbayMumbai #BandraWorliSeaLink, Mumbai 🇮🇳 ([link](https://www.threads.com/@desibotanista/post/Dex1maOgtyk))
   - **[NEEDS LIKE]** Reply by wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
@@ -113,7 +109,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Raindrops doing their glisten. What surface caught them this well? ([link](https://www.threads.com/@saars.foto/post/Dew5mPOmhKR))
       - **[NEEDS LIKE]** Reply by juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+177 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+181 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
