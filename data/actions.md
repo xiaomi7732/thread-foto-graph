@@ -6,9 +6,13 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (8)
+## Needs Reply (10)
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- **topsyturvymercy**: 🎃 ([link](https://www.threads.com/@topsyturvymercy/post/DezNVjGFQhX))
+  - Photo: A headless figure stands on a path covered in leaves, with a glowing jack-o'-lantern held where their head should be.
+- **bugs_eye_view_of_you**:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DezMFK4kS2J))
+  - Photo: A large, plastic, human-like skeleton emerges from a patch of green grass in front of a house decorated for Halloween. The decoration consists of the skeleton's upper body and a pair of outstretched arms, with the hands resting on the grass, surrounded by fake spiderwebs and dead leaves.
 - **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/DezKVAuG5OV))
   - Photo: A spooky Halloween display features an archway of glowing purple skulls and a skeleton playing a green guitar beneath it. In the background, a pirate statue and a graveyard scene complete the yard's festive decor.
 
@@ -36,7 +40,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (41)
+## Needs Like (40)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
@@ -62,7 +66,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - kes_ward: Thank you so much. 🙏 It’s sits amongst my favourite images. Was a very early rise to capture this one. ([link](https://www.threads.com/@kes_ward/post/DexWmGfmQ6i))
 - kes_ward: That was about 7am give or take. I was staying in the Causeway Hotel right by it. I love an early rise for photography. My favourite time of day. ([link](https://www.threads.com/@kes_ward/post/DexWPHpma-e))
 - miketaricani: Location is Strasbourg France. Last year on one of our trips. ([link](https://www.threads.com/@miketaricani/post/DexBDe9mB5m))
-- sean_portley: Thank you, Saar! ([link](https://www.threads.com/@sean_portley/post/DezHSuYlTcR))
 - nordique0829: Shot with just a phone camera. There is a little space behind the fountain that I found with the view of the palace. Most people wander by without knowing it’s there. ([link](https://www.threads.com/@nordique0829/post/Dew6rBiFHrJ))
 - christin.terra: Just a lake we were kayaking on ❤️￼ ([link](https://www.threads.com/@christin.terra/post/Dew7YB2mFUV))
 - mur.locations: Absolutely!! ([link](https://www.threads.com/@mur.locations/post/DexjmCQjyoK))

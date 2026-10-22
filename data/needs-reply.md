@@ -4,9 +4,13 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (8)
+## Needs Reply (10)
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- **topsyturvymercy**: 🎃 ([link](https://www.threads.com/@topsyturvymercy/post/DezNVjGFQhX))
+  - Photo: A headless figure stands on a path covered in leaves, with a glowing jack-o'-lantern held where their head should be.
+- **bugs_eye_view_of_you**:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DezMFK4kS2J))
+  - Photo: A large, plastic, human-like skeleton emerges from a patch of green grass in front of a house decorated for Halloween. The decoration consists of the skeleton's upper body and a pair of outstretched arms, with the hands resting on the grass, surrounded by fake spiderwebs and dead leaves.
 - **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/DezKVAuG5OV))
   - Photo: A spooky Halloween display features an archway of glowing purple skulls and a skeleton playing a green guitar beneath it. In the background, a pirate statue and a graveyard scene complete the yard's festive decor.
 

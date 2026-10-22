@@ -2,16 +2,25 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: halloween, yard, festive, skeleton
+## Topic: skeleton, halloween, yard, festive
 
 - **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
+  - **[NEEDS REPLY]** Reply by topsyturvymercy: 🎃 ([link](https://www.threads.com/@topsyturvymercy/post/DezNVjGFQhX))
+    - Photo: A headless figure stands on a path covered in leaves, with a glowing jack-o'-lantern held where their head should be.
+  - **[NEEDS REPLY]** Reply by bugs_eye_view_of_you:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DezMFK4kS2J))
+    - Photo: A large, plastic, human-like skeleton emerges from a patch of green grass in front of a house decorated for Halloween. The decoration consists of the skeleton's upper body and a pair of outstretched arms, with the hands resting on the grass, surrounded by fake spiderwebs and dead leaves.
   - **[NEEDS REPLY]** Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/DezKVAuG5OV))
     - Photo: A spooky Halloween display features an archway of glowing purple skulls and a skeleton playing a green guitar beneath it. In the background, a pirate statue and a graveyard scene complete the yard's festive decor.
   ([full thread](threads/18046748195835295.md))
 
-## Topic: autumn, water, sky, leaves
+## Topic: autumn, water, sky, red
 
+- **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
+  - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
+  - Photo: A macro shot shows a row of six clear, glistening water droplets balanced precariously along the edge of a vibrant green blade of grass, capturing the delicate beauty of a rainy morning. The background is a soft, out-of-focus blend of muted greens and whites, creating a serene and contemplative atmosphere.
+  - Photo: A person wearing a hat pilots a small motorized dinghy through calm harbor waters, with a passenger resting nearby. In the background, numerous sailboats are anchored against a hazy shoreline.
+  - All 3 replies already answered. ✅ ([full thread](threads/18135581695736524.md))
 - **Thread** [17980137651136213](https://www.threads.com/@saars.foto/post/DewrNxkmwgB): Autumn Tuesday favorites 🏆 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/
   - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
   - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.
@@ -111,12 +120,6 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A long stone and stucco bridge spans a calm body of water, featuring a row of arched openings along the lower level and rectangular windows on the upper floor, with its architecture clearly mirrored on the glassy water's surface beneath a bright blue sky.
     - Reply by saars.foto: Three for one - the bridge with its mirror twin is my pick of the set. Where is that? It looks purpose-built for reflections. ([link](https://www.threads.com/@saars.foto/post/Dew5BSOGkju))
       - **[NEEDS LIKE]** Reply by miketaricani: Location is Strasbourg France. Last year on one of our trips. ([link](https://www.threads.com/@miketaricani/post/DexBDe9mB5m))
-  - Reply by sean_portley:  ([link](https://www.threads.com/@sean_portley/post/Dew1YgflOQT))
-    - Photo: Framed by the cutouts of a white concrete wall, a motorboat speeds across sparkling blue water under a bright sky with scattered clouds.
-    - Reply by saars.foto: A boat, framed by the wall itself. Did you spot the cutout first or the boat? ([link](https://www.threads.com/@saars.foto/post/Dew5CnOGp2f))
-      - Reply by sean_portley: I spotted the cut out first and was trying to capture the symmetry and fortunately the boat started coming across so I waited until I got centered ([link](https://www.threads.com/@sean_portley/post/Dexi3LoFC2K))
-        - Reply by saars.foto: Cutout first, then patience until the boat centered itself - the plan worked exactly as drawn. ([link](https://www.threads.com/@saars.foto/post/Dex6Y11jCxt))
-          - **[NEEDS LIKE]** Reply by sean_portley: Thank you, Saar! ([link](https://www.threads.com/@sean_portley/post/DezHSuYlTcR))
   - Reply by nordique0829:  ([link](https://www.threads.com/@nordique0829/post/DewzwQPFHTZ))
     - Photo: A low-angle, eye-level shot looks through splashing water at the Schönbrunn Palace in Vienna, Austria, with tourists walking through its grand, flower-lined gardens in the distance. The bright daylight is slightly obscured by the water's mist, while the sky above is mostly blue with scattered fluffy white clouds.
     - Reply by saars.foto: Shot through the spray, palace and all. Did the lens stay dry? ([link](https://www.threads.com/@saars.foto/post/Dew5L1YFD3y))
@@ -142,7 +145,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Raindrops doing their glisten. What surface caught them this well? ([link](https://www.threads.com/@saars.foto/post/Dew5mPOmhKR))
       - **[NEEDS LIKE]** Reply by juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+176 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+182 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
