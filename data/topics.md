@@ -2,19 +2,21 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: skeleton, halloween, yard, festive
+## Topic: halloween, skeleton, pumpkin, festive
 
 - **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
-  - **[NEEDS REPLY]** Reply by topsyturvymercy: 🎃 ([link](https://www.threads.com/@topsyturvymercy/post/DezNVjGFQhX))
-    - Photo: A headless figure stands on a path covered in leaves, with a glowing jack-o'-lantern held where their head should be.
-  - **[NEEDS REPLY]** Reply by bugs_eye_view_of_you:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DezMFK4kS2J))
-    - Photo: A large, plastic, human-like skeleton emerges from a patch of green grass in front of a house decorated for Halloween. The decoration consists of the skeleton's upper body and a pair of outstretched arms, with the hands resting on the grass, surrounded by fake spiderwebs and dead leaves.
-  - **[NEEDS REPLY]** Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/DezKVAuG5OV))
-    - Photo: A spooky Halloween display features an archway of glowing purple skulls and a skeleton playing a green guitar beneath it. In the background, a pirate statue and a graveyard scene complete the yard's festive decor.
-  ([full thread](threads/18046748195835295.md))
+  - **[NEEDS REPLY]** Reply by difishing:  ([link](https://www.threads.com/@difishing/post/Dezc8J9lqYR))
+    - Photo: A weathered, blue and red truck bed is creatively decorated as a festive autumn and Halloween display, topped with a large, grinning metal alligator. Pumpkins, ghosts, and various whimsical decorations surround the vehicle in a welcoming seasonal setup.
+  - **[NEEDS REPLY]** Reply by maureenozerimages:  ([link](https://www.threads.com/@maureenozerimages/post/DezXPLgDUDV))
+    - Photo: A menacing, black-and-white-clad killer clown glares into the camera, brandishing a bloody knife in one hand while reaching out threateningly with the other. The dramatic, shadowy lighting and sinister makeup create the ultimate horror-movie vibe, perfect for Halloween thrills.
+  - **[NEEDS REPLY]** Reply by paul.moorman91:  ([link](https://www.threads.com/@paul.moorman91/post/DezWdrMFtAG))
+    - Photo: A black and white, low-angle, vertical photo captures a narrow, brick-walled alleyway at night. A wrought-iron fence frames the bottom, featuring vertical spikes and scrollwork designs. Beyond the fence, stone steps ascend through the tight space, illuminated by two vintage wall-mounted lamps. The primary lamp in the lower-left foreground is large and bright, while the smaller lamp is positioned further up the dark alley. The stark contrast between the bright lights and dark shadows creates a moody, gothic atmosphere.
+  - **[NEEDS REPLY]** Reply by medium.gords7:  ([link](https://www.threads.com/@medium.gords7/post/DezSS7ykbaP))
+    - Photo: A tall, spooky Halloween decoration featuring a grinning pumpkin head and a hunchbacked, gaunt body stands in front of a house, its tattered greenish-yellow robes draped over tree-bark-textured limbs as its long, clawed fingers reach forward.
+  _(+6 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
 
-## Topic: autumn, water, sky, red
+## Topic: autumn, water, sky, leaves
 
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
@@ -28,27 +30,16 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - All 7 replies already answered. ✅ ([full thread](threads/17980137651136213.md))
 - **Thread** [18118551631977488](https://www.threads.com/@saars.foto/post/Dewkudim4IN): Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddles, fountains - show me water doing its thing. Framed this one through the railing at Niagara - the falls did the rest ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A framed view of Niagara Falls viewed through a metal spiral.
-  - **[NEEDS REPLY]** Reply by the_american_expat:  ([link](https://www.threads.com/@the_american_expat/post/DezEI_jHF0U))
-    - Photo: A scenic view shows a sunset over a river running along a city.
-  - **[NEEDS REPLY]** Reply by lmk3.mama:  ([link](https://www.threads.com/@lmk3.mama/post/Dey7oaJAY6l))
-    - Photo: A picturesque coastal view on a clear, sunny day shows people gathered on a sandy beach next to a tranquil blue bay. In the background, lush green hills rise against a blue sky filled with wispy white clouds, while a few windsurfers navigate the calm waters.
-  - **[NEEDS REPLY]** Reply by issyoli: Beautiful Scotland ([link](https://www.threads.com/@issyoli/post/Dey1BnFDM37))
-    - Photo: A calm body of water perfectly reflects a majestic mountain landscape, with lush green foliage framing the foreground.
-    - Photo: An eye-level, horizontal, wide shot displays a body of water in the foreground and a mountain covered in grass and rock in the background under a cloudy sky. The water in the foreground is calm and glassy with reflections of the mountain on the right and clouds above. The water has a light green and gray hue with reflections of the white and gray clouds above. The mountain is covered in patchy grass and crags of rock and stone. The top of the mountain is covered with a green and brown grass with hints of red-brown. The sky is filled with clouds that are tinged with yellow and white from the sun, which is behind the clouds.
-    - Photo: A vibrant sunset casts warm orange and pink hues across a textured cloud-filled sky, reflecting on the calm water below. Rolling green hills line the horizon, while a rocky shoreline and grassy embankment frame the foreground.
-    - Photo: A long shot captures the iconic Falkirk Wheel in Scotland, featuring its large, interlocking steel arches and their reflection in the calm water of the canal below. Tourists can be seen walking along the path, enjoying the architecture, under a grey, overcast sky.
-  - **[NEEDS REPLY]** Reply by mysterious21introvert:  ([link](https://www.threads.com/@mysterious21introvert/post/Dey03xrgOPV))
-    - Photo: A close-up shot captures several dew drops resting on the surface of a green plant leaf.
-  - **[NEEDS REPLY]** Reply by miqui822:  ([link](https://www.threads.com/@miqui822/post/DeywmGSkX1t))
-    - Photo: A high-angle view captures a three-tiered waterfall flowing into a river on a bright, sunny day. The clear blue sky complements the natural landscape, featuring lush green trees on the banks, with a stone dam on the right side and stairs descending to the river on the left, where a few people walk.
-  - **[NEEDS REPLY]** Reply by helen.voller:  ([link](https://www.threads.com/@helen.voller/post/Deyu1ISEcjv))
-    - Photo: An older man and a young boy ride a water flume shaped like a hollowed-out log at Clacton Pier, with the man holding his arms up in the air and smiling. In the background, amusement park booths and a sign reading "Sweet Sensations" are visible.
   - **[NEEDS LIKE]** Reply by khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
   - **[NEEDS LIKE]** Reply by desibotanista: #MahimbayMumbai #BandraWorliSeaLink, Mumbai 🇮🇳 ([link](https://www.threads.com/@desibotanista/post/Dex1maOgtyk))
   - Reply by desibotanista: ▓Niagara Falls .. 2022 visit ▓▓ ([link](https://www.threads.com/@desibotanista/post/Dex1MXJAiGN))
     - Photo: A low-angle, medium shot shows a bright blue sky above Niagara Falls in Ontario, Canada, with light mist rising up from the base of the waterfall to the right and a blue observation tower to the left of center. The water is clear blue, with the white spray of the falls cascading down over gray-colored rocks. The view from the water shows the observation tower on the left, which has a circular walkway at the top and a bridge extending to the main shoreline.
     - Reply by saars.foto: Niagara from the waterline - tower watching, mist rising. Third falls framing in this thread today, and each one found a different angle. ([link](https://www.threads.com/@saars.foto/post/DeyEVfvlZND))
       - **[NEEDS LIKE]** Reply by desibotanista: We did the ‘Maid of the Mist🌫️’ & captured the falls 🤍 🌫️ ([link](https://www.threads.com/@desibotanista/post/DeywK9NE8BR))
+  - Reply by ladybug81980:  ([link](https://www.threads.com/@ladybug81980/post/Dexr-ArFsVl))
+    - Photo: A stunning mountain landscape features a calm lake in the foreground reflecting the bright daylight, with a dense forest of evergreen trees and bright yellow aspens blanketing the hillside. Towering, rugged mountain peaks with patches of rust-colored stone rise dramatically in the background beneath a blue sky filled with puffy white clouds.
+    - Reply by saars.foto: Aspens turning, peaks standing guard, lake holding the reflection. That's the full postcard stack. ([link](https://www.threads.com/@saars.foto/post/DeyEYJyEarH))
+      - **[NEEDS LIKE]** Reply by ladybug81980: Thanks! It’s Trout Lake in Colorado it’s near Telluride ([link](https://www.threads.com/@ladybug81980/post/DezgD-5lq6f))
   - **[NEEDS LIKE]** Reply by wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
   - **[NEEDS LIKE]** Reply by chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
   - Reply by jeniene: Barbados yesterday ([link](https://www.threads.com/@jeniene/post/DexkGsMllCM))
@@ -145,7 +136,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Raindrops doing their glisten. What surface caught them this well? ([link](https://www.threads.com/@saars.foto/post/Dew5mPOmhKR))
       - **[NEEDS LIKE]** Reply by juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+182 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+192 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))

@@ -6,32 +6,19 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (10)
+## Needs Reply (5)
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
-- **topsyturvymercy**: 🎃 ([link](https://www.threads.com/@topsyturvymercy/post/DezNVjGFQhX))
-  - Photo: A headless figure stands on a path covered in leaves, with a glowing jack-o'-lantern held where their head should be.
-- **bugs_eye_view_of_you**:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DezMFK4kS2J))
-  - Photo: A large, plastic, human-like skeleton emerges from a patch of green grass in front of a house decorated for Halloween. The decoration consists of the skeleton's upper body and a pair of outstretched arms, with the hands resting on the grass, surrounded by fake spiderwebs and dead leaves.
-- **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/DezKVAuG5OV))
-  - Photo: A spooky Halloween display features an archway of glowing purple skulls and a skeleton playing a green guitar beneath it. In the background, a pirate statue and a graveyard scene complete the yard's festive decor.
+- **difishing**:  ([link](https://www.threads.com/@difishing/post/Dezc8J9lqYR))
+  - Photo: A weathered, blue and red truck bed is creatively decorated as a festive autumn and Halloween display, topped with a large, grinning metal alligator. Pumpkins, ghosts, and various whimsical decorations surround the vehicle in a welcoming seasonal setup.
+- **maureenozerimages**:  ([link](https://www.threads.com/@maureenozerimages/post/DezXPLgDUDV))
+  - Photo: A menacing, black-and-white-clad killer clown glares into the camera, brandishing a bloody knife in one hand while reaching out threateningly with the other. The dramatic, shadowy lighting and sinister makeup create the ultimate horror-movie vibe, perfect for Halloween thrills.
+- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DezWdrMFtAG))
+  - Photo: A black and white, low-angle, vertical photo captures a narrow, brick-walled alleyway at night. A wrought-iron fence frames the bottom, featuring vertical spikes and scrollwork designs. Beyond the fence, stone steps ascend through the tight space, illuminated by two vintage wall-mounted lamps. The primary lamp in the lower-left foreground is large and bright, while the smaller lamp is positioned further up the dark alley. The stark contrast between the bright lights and dark shadows creates a moody, gothic atmosphere.
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DezSS7ykbaP))
+  - Photo: A tall, spooky Halloween decoration featuring a grinning pumpkin head and a hunchbacked, gaunt body stands in front of a house, its tattered greenish-yellow robes draped over tree-bark-textured limbs as its long, clawed fingers reach forward.
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
-- **the_american_expat**:  ([link](https://www.threads.com/@the_american_expat/post/DezEI_jHF0U))
-  - Photo: A scenic view shows a sunset over a river running along a city.
-- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/Dey7oaJAY6l))
-  - Photo: A picturesque coastal view on a clear, sunny day shows people gathered on a sandy beach next to a tranquil blue bay. In the background, lush green hills rise against a blue sky filled with wispy white clouds, while a few windsurfers navigate the calm waters.
-- **issyoli**: Beautiful Scotland ([link](https://www.threads.com/@issyoli/post/Dey1BnFDM37))
-  - Photo: A calm body of water perfectly reflects a majestic mountain landscape, with lush green foliage framing the foreground.
-  - Photo: An eye-level, horizontal, wide shot displays a body of water in the foreground and a mountain covered in grass and rock in the background under a cloudy sky. The water in the foreground is calm and glassy with reflections of the mountain on the right and clouds above. The water has a light green and gray hue with reflections of the white and gray clouds above. The mountain is covered in patchy grass and crags of rock and stone. The top of the mountain is covered with a green and brown grass with hints of red-brown. The sky is filled with clouds that are tinged with yellow and white from the sun, which is behind the clouds.
-  - Photo: A vibrant sunset casts warm orange and pink hues across a textured cloud-filled sky, reflecting on the calm water below. Rolling green hills line the horizon, while a rocky shoreline and grassy embankment frame the foreground.
-  - Photo: A long shot captures the iconic Falkirk Wheel in Scotland, featuring its large, interlocking steel arches and their reflection in the calm water of the canal below. Tourists can be seen walking along the path, enjoying the architecture, under a grey, overcast sky.
-- **mysterious21introvert**:  ([link](https://www.threads.com/@mysterious21introvert/post/Dey03xrgOPV))
-  - Photo: A close-up shot captures several dew drops resting on the surface of a green plant leaf.
-- **miqui822**:  ([link](https://www.threads.com/@miqui822/post/DeywmGSkX1t))
-  - Photo: A high-angle view captures a three-tiered waterfall flowing into a river on a bright, sunny day. The clear blue sky complements the natural landscape, featuring lush green trees on the banks, with a stone dam on the right side and stairs descending to the river on the left, where a few people walk.
-- **helen.voller**:  ([link](https://www.threads.com/@helen.voller/post/Deyu1ISEcjv))
-  - Photo: An older man and a young boy ride a water flume shaped like a hollowed-out log at Clacton Pier, with the man holding his arms up in the air and smiling. In the background, amusement park booths and a sign reading "Sweet Sensations" are visible.
 - **remalysh**: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
 
@@ -40,12 +27,13 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (40)
+## Needs Like (41)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
 - desibotanista: #MahimbayMumbai #BandraWorliSeaLink, Mumbai 🇮🇳 ([link](https://www.threads.com/@desibotanista/post/Dex1maOgtyk))
 - desibotanista: We did the ‘Maid of the Mist🌫️’ & captured the falls 🤍 🌫️ ([link](https://www.threads.com/@desibotanista/post/DeywK9NE8BR))
+- ladybug81980: Thanks! It’s Trout Lake in Colorado it’s near Telluride ([link](https://www.threads.com/@ladybug81980/post/DezgD-5lq6f))
 - wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
 - chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
 - jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))

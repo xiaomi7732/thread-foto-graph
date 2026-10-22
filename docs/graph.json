@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18046748195835295",
-      "label": "skeleton, halloween, yard, festive",
+      "label": "halloween, skeleton, pumpkin, festive",
       "group": 0,
       "snippet": "Haunted Thursday \ud83c\udf83 Show me your Halloween. Pumpkin patches,\u2026",
       "text": "Haunted Thursday \ud83c\udf83 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.",
@@ -10,8 +10,56 @@
       "photos": [
         "A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it."
       ],
-      "reply_count": 3,
+      "reply_count": 10,
       "replies": [
+        {
+          "username": "difishing",
+          "text": "",
+          "permalink": "https://www.threads.com/@difishing/post/Dezc8J9lqYR",
+          "photos": [
+            "A weathered, blue and red truck bed is creatively decorated as a festive autumn and Halloween display, topped with a large, grinning metal alligator. Pumpkins, ghosts, and various whimsical decorations surround the vehicle in a welcoming seasonal setup."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "maureenozerimages",
+          "text": "",
+          "permalink": "https://www.threads.com/@maureenozerimages/post/DezXPLgDUDV",
+          "photos": [
+            "A menacing, black-and-white-clad killer clown glares into the camera, brandishing a bloody knife in one hand while reaching out threateningly with the other. The dramatic, shadowy lighting and sinister makeup create the ultimate horror-movie vibe, perfect for Halloween thrills."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "paul.moorman91",
+          "text": "",
+          "permalink": "https://www.threads.com/@paul.moorman91/post/DezWdrMFtAG",
+          "photos": [
+            "A black and white, low-angle, vertical photo captures a narrow, brick-walled alleyway at night. A wrought-iron fence frames the bottom, featuring vertical spikes and scrollwork designs. Beyond the fence, stone steps ascend through the tight space, illuminated by two vintage wall-mounted lamps. The primary lamp in the lower-left foreground is large and bright, while the smaller lamp is positioned further up the dark alley. The stark contrast between the bright lights and dark shadows creates a moody, gothic atmosphere."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "medium.gords7",
+          "text": "",
+          "permalink": "https://www.threads.com/@medium.gords7/post/DezSS7ykbaP",
+          "photos": [
+            "A tall, spooky Halloween decoration featuring a grinning pumpkin head and a hunchbacked, gaunt body stands in front of a house, its tattered greenish-yellow robes draped over tree-bark-textured limbs as its long, clawed fingers reach forward."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "topsyturvymercy",
           "text": "\ud83c\udf83",
@@ -19,10 +67,21 @@
           "photos": [
             "A headless figure stands on a path covered in leaves, with a glowing jack-o'-lantern held where their head should be."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Headless, but still carrying the pumpkin with total confidence. The leaves on the path finish the whole look.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezPLwpFPKq",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bugs_eye_view_of_you",
@@ -31,10 +90,21 @@
           "photos": [
             "A large, plastic, human-like skeleton emerges from a patch of green grass in front of a house decorated for Halloween. The decoration consists of the skeleton's upper body and a pair of outstretched arms, with the hands resting on the grass, surrounded by fake spiderwebs and dead leaves."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Climbing out of the lawn and already posing. The spiderwebs say he's been down there a while.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezPM0JkSCN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tallerthanyou2026",
@@ -43,16 +113,27 @@
           "photos": [
             "A spooky Halloween display features an archway of glowing purple skulls and a skeleton playing a green guitar beneath it. In the background, a pirate statue and a graveyard scene complete the yard's festive decor."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A skull archway AND a skeleton on guitar duty - this yard has a full production budget. The pirate running security in the back completes it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN2SlFcLh",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         }
       ]
     },
     {
       "id": "18135581695736524",
-      "label": "autumn, water, sky, red",
+      "label": "autumn, water, sky, leaves",
       "group": 1,
       "snippet": "Water Wednesday favorites \ud83c\udfc6 Three waters that stopped my sc\u2026",
       "text": "Water Wednesday favorites \ud83c\udfc6 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/",
@@ -98,7 +179,7 @@
     },
     {
       "id": "17980137651136213",
-      "label": "autumn, water, sky, red",
+      "label": "autumn, water, sky, leaves",
       "group": 1,
       "snippet": "Autumn Tuesday favorites \ud83c\udfc6 Three frames of fall that stoppe\u2026",
       "text": "Autumn Tuesday favorites \ud83c\udfc6 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/",
@@ -188,7 +269,7 @@
     },
     {
       "id": "18118551631977488",
-      "label": "autumn, water, sky, red",
+      "label": "autumn, water, sky, leaves",
       "group": 1,
       "snippet": "Water Wednesday \ud83d\udca7 Rivers, rain on glass, ocean edges, puddl\u2026",
       "text": "Water Wednesday \ud83d\udca7 Rivers, rain on glass, ocean edges, puddles, fountains - show me water doing its thing. Framed this one through the railing at Niagara - the falls did the rest ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.",
@@ -196,7 +277,7 @@
       "photos": [
         "A framed view of Niagara Falls viewed through a metal spiral."
       ],
-      "reply_count": 266,
+      "reply_count": 273,
       "replies": [
         {
           "username": "the_american_expat",
@@ -205,10 +286,21 @@
           "photos": [
             "A scenic view shows a sunset over a river running along a city."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A river borrowing the whole sunset. The city just watches from the banks.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN3yfEfsw",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lmk3.mama",
@@ -217,10 +309,21 @@
           "photos": [
             "A picturesque coastal view on a clear, sunny day shows people gathered on a sandy beach next to a tranquil blue bay. In the background, lush green hills rise against a blue sky filled with wispy white clouds, while a few windsurfers navigate the calm waters."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Beach full, bay calm, windsurfers on shift. That coastline does summer properly.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN5HPEY5X",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "issyoli",
@@ -232,10 +335,21 @@
             "A vibrant sunset casts warm orange and pink hues across a textured cloud-filled sky, reflecting on the calm water below. Rolling green hills line the horizon, while a rocky shoreline and grassy embankment frame the foreground.",
             "A long shot captures the iconic Falkirk Wheel in Scotland, featuring its large, interlocking steel arches and their reflection in the calm water of the canal below. Tourists can be seen walking along the path, enjoying the architecture, under a grey, overcast sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four shots in and Scotland hasn't repeated itself once - mountain mirror, sunset, then the Falkirk Wheel. You packed a whole trip into one reply.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN6tyluLZ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mysterious21introvert",
@@ -244,10 +358,21 @@
           "photos": [
             "A close-up shot captures several dew drops resting on the surface of a green plant leaf."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Every drop a tiny lens. The leaf is doing all the posing here.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN76Gjpaa",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "miqui822",
@@ -256,10 +381,21 @@
           "photos": [
             "A high-angle view captures a three-tiered waterfall flowing into a river on a bright, sunny day. The clear blue sky complements the natural landscape, featuring lush green trees on the banks, with a stone dam on the right side and stairs descending to the river on the left, where a few people walk."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Three tiers, and the river takes them all in stride. Those stairs on the left get the best seat in the park.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN9UpHHAu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "helen.voller",
@@ -268,10 +404,21 @@
           "photos": [
             "An older man and a young boy ride a water flume shaped like a hollowed-out log at Clacton Pier, with the man holding his arms up in the air and smiling. In the background, amusement park booths and a sign reading \"Sweet Sensations\" are visible."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Arms up, full commitment - the log flume brings it out of everyone.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezN-nEEaqG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pari.kaul",
@@ -471,7 +618,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ladybug81980",
+                  "text": "Thanks! It\u2019s Trout Lake in Colorado it\u2019s near Telluride",
+                  "permalink": "https://www.threads.com/@ladybug81980/post/DezgD-5lq6f",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3252,7 +3410,7 @@
     },
     {
       "id": "18098217035651918",
-      "label": "autumn, water, sky, red",
+      "label": "autumn, water, sky, leaves",
       "group": 1,
       "snippet": "Autumn Tuesday \ud83c\udf42 Show me your best autumn shot. Red trees, \u2026",
       "text": "Autumn Tuesday \ud83c\udf42 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.",
