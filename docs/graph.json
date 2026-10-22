@@ -100,8 +100,132 @@
       "photos": [
         "A framed view of Niagara Falls viewed through a metal spiral."
       ],
-      "reply_count": 211,
+      "reply_count": 237,
       "replies": [
+        {
+          "username": "agingpunkboris",
+          "text": "Botanical garden, Austin TX",
+          "permalink": "https://www.threads.com/@agingpunkboris/post/DeyC7IFgHC6",
+          "photos": [
+            "A small, tiered waterfall trickles down a rocky grotto, surrounded by lush green ferns and amber-toned foliage. The water collects in a shallow, algae-dappled pond at the base, creating a serene, natural sanctuary ideal for a mindful outdoor retreat."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dag66",
+          "text": "Winter - Topsail Beach, NC",
+          "permalink": "https://www.threads.com/@dag66/post/Dex4GXUjfa2",
+          "photos": [
+            "A low-angle view captures a vast sandy beach where the wet sand reflects a dramatic sky filled with scattered white clouds and the golden light of a setting sun. In the distance, silhouetted against the horizon, a line of beachfront houses stands alongside gentle, rolling waves under a bright, expansive sky."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "khoojosie",
+          "text": "",
+          "permalink": "https://www.threads.com/@khoojosie/post/Dex28ZuFdCK",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "desibotanista",
+          "text": "#MahimbayMumbai #BandraWorliSeaLink, Mumbai \ud83c\uddee\ud83c\uddf3",
+          "permalink": "https://www.threads.com/@desibotanista/post/Dex1maOgtyk",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "desibotanista",
+          "text": "\u2593Niagara Falls .. 2022 visit \u2593\u2593",
+          "permalink": "https://www.threads.com/@desibotanista/post/Dex1MXJAiGN",
+          "photos": [
+            "A low-angle, medium shot shows a bright blue sky above Niagara Falls in Ontario, Canada, with light mist rising up from the base of the waterfall to the right and a blue observation tower to the left of center. The water is clear blue, with the white spray of the falls cascading down over gray-colored rocks. The view from the water shows the observation tower on the left, which has a circular walkway at the top and a bridge extending to the main shoreline."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "clules1der2",
+          "text": "",
+          "permalink": "https://www.threads.com/@clules1der2/post/Dex0KdOG7MG",
+          "photos": [
+            "A low-riding small motorboat is wedged tightly under a concrete bridge with its top nearly touching the steel beam, creating an unexpectedly humorous parking spot. In the foreground, bright green leafy plants contrast with the calm, dark water of the canal."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ladybug81980",
+          "text": "",
+          "permalink": "https://www.threads.com/@ladybug81980/post/Dexr-ArFsVl",
+          "photos": [
+            "A stunning mountain landscape features a calm lake in the foreground reflecting the bright daylight, with a dense forest of evergreen trees and bright yellow aspens blanketing the hillside. Towering, rugged mountain peaks with patches of rust-colored stone rise dramatically in the background beneath a blue sky filled with puffy white clouds."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "wang_fong_ya",
+          "text": "Where the calm sea meets the rugged coastline. \ud83c\udf0a\ud83e\udd0d I love the contrast between the gentle water and the dramatic textures of the rocks.",
+          "permalink": "https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "michelpbeaudry",
+          "text": "",
+          "permalink": "https://www.threads.com/@michelpbeaudry/post/DexpYecGV6G",
+          "photos": [
+            "A high-angle close-up shows vibrant, rich, deep crimson red Japanese maple leaves covered in clear water droplets against a blurry green background."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "paulajgriffin1965",
+          "text": "Isfahan, Iran. Always wonder about her story and her thoughts as she watched the river.",
+          "permalink": "https://www.threads.com/@paulajgriffin1965/post/DexpJBRiB3-",
+          "photos": [
+            "A woman dressed in a black abaya and hijab sits on stone steps, looking down at churning white water as the sun glistens across the surface."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "chiapet65",
+          "text": "Whistler, Wasaga Beach, Niagara Falls \ud83c\udf0a\ud83d\udc99",
+          "permalink": "https://www.threads.com/@chiapet65/post/DexoT9CgIP9",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "nancyaroll",
           "text": "",
@@ -109,10 +233,21 @@
           "photos": [
             "A rushing, churning river flows through a rocky canyon, its white-capped rapids creating a sense of powerful motion. The steep, dry hillsides are dotted with evergreen trees and sparse vegetation, capturing a rugged wilderness landscape."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That river is not asking the canyon's permission. White water the whole way down?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6KJzkXtm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "soultosolehealingmassage",
@@ -121,10 +256,21 @@
           "photos": [
             "A low-angle, vertical shot captures a rocky beach foreground with glistening wet pebbles and sand reflecting the bright sun just above the horizon. In the background, calm ocean waves gently wash ashore under a dramatic sky filled with scattered, dark clouds lit by the sun's rays."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Glistening pebbles, low sun, storm clouds arguing overhead. Low angles win again.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6LfQFTl_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jeniene",
@@ -133,10 +279,32 @@
           "photos": [
             "Two tall palm trees sway against a bright blue sky filled with fluffy white clouds, with turquoise ocean waves gently rolling onto the shore below."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Barbados yesterday - turquoise doing its usual showing off. Hard to take a bad photo there; harder to take one this clean.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6NNSjjB4",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "jeniene",
+                  "text": "View from the pool at the Coconut Court Beach Hotel. Was lovely.",
+                  "permalink": "https://www.threads.com/@jeniene/post/Dex6bIalgcD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -145,10 +313,21 @@
           "photos": [
             "A green iron railing frames a scenic view of a lake dotted with fish pens, set against a backdrop of rolling, green hills under a partly cloudy sky. The eye-level perspective makes the landscape feel open and inviting, perfect for an outdoor travel post."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A railing, a lake, and fish pens dotting the middle distance. Framed like a postcard someone actually sends.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6PQ5EQ8o",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fargodadx2",
@@ -158,10 +337,21 @@
             "A serene daytime view of a tranquil river in the foreground, with the skyline of a city including a tall residential building reflected on the water's calm surface under a clear sky.",
             "A serene lake view with green grass and rocks along the shore. The far shore has a dense line of trees under a clear blue sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two calm waters - the city one with its skyline doubled is my pick. Same day out or two favorites?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6Qw-DUlG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "philipjcantone",
@@ -170,10 +360,21 @@
           "photos": [
             "A serene lake view is framed by trees with autumn leaves in shades of red, green, and gold against a clear blue sky. The water reflects the vibrant foliage, making it a peaceful spot for a scenic nature walk or an autumn day outdoors."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Autumn trees leaning in to frame their own reflection. The lake just had to hold still.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6SBIjWWA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "watsjoey",
@@ -183,10 +384,34 @@
             "A waterfall cascades over a rocky ledge into a churning pool, with a forested hillside and a bridge visible in the background under a clear blue sky.",
             "A powerful waterfall cascades through rugged, layered rock formations framed by evergreen trees and autumn foliage. In the background, a turquoise river flows past a dense forest under a clear sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two falls for the price of one - the layered-rock one with the turquoise river behind it is a stunner. Same hike?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6TULDmtr",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "watsjoey",
+                  "text": "Both in Alberta . First one Lundbreck Falls. Second is Athabasca Falls . Definitely not the same hike! Athabasca is my favorite",
+                  "permalink": "https://www.threads.com/@watsjoey/post/DeyBLuTm8R1",
+                  "photos": [
+                    "A powerful waterfall crashes over layered, grey rock formations into a vibrant, turquoise river, with a dense green forest and a towering, rugged mountain under a clear blue sky in the background."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ronaldbernalb",
@@ -198,10 +423,21 @@
             "A vibrant, sunlit view shows a tranquil infinity pool overlooking a sprawling lake surrounded by lush green hills under a bright, cloudy sky. The glistening water creates a shimmering reflection that stretches across the vast lake, capturing a serene and picturesque tropical landscape.",
             "A serene body of water stretches towards a range of distant, arid mountains under a pale blue sky with scattered clouds. A small boat with an outrigger floats peacefully on the right side of the frame, with a timestamp in the bottom right corner reading \"2022.06.07 06:26\"."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four waters, but the cathedral standing in a puddle wins it for me. Davao after rain hands out free mirrors.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dex6Uu9FlMW",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "coldhollowfarm",
@@ -268,7 +504,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "therealranameehan",
+                  "text": "Thank you",
+                  "permalink": "https://www.threads.com/@therealranameehan/post/Dext6kPEYIu",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -314,7 +561,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bojonvelvet2.0",
+                  "text": "That was on Koh Lipe, my favorite island out of four months total in Thailand. It was simple huts twenty years ago with footpaths thru the jungle connecting the three beaches. Satellite views now show it completely developed with large resorts. It was special. Went to a Thai funeral on the mainland with the owner of the bungalows.",
+                  "permalink": "https://www.threads.com/@bojonvelvet2.0/post/Dexprv_GZnh",
+                  "photos": [
+                    "A satellite map of Koh Lipe, Thailand, displaying local points of interest such as resorts, beaches, and bars."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -400,10 +660,21 @@
                   "text": "Rowing her out into a boat in the harbor, and back, in the rain, that\u2019s love",
                   "permalink": "https://www.threads.com/@dwordops/post/DexfDyRmBOu",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Rowing her out and back in the rain - you're right, that's the caption the photo deserved.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dex6XX5jNct",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -624,10 +895,21 @@
                     "A serene vertical landscape features a calm, reflective body of water stretching toward distant, hazy mountains under a soft twilight sky. Framed by dark green foliage in the foreground, the tranquil scene evokes a peaceful evening by a Scottish loch.",
                     "A serene sunset paints the sky in soft golden hues above a calm lake, with silhouetted mountains in the background. In the foreground, two canoes rest on a concrete pier next to a small motorboat docked in the shallow water."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The whole Loch Eil evening, unspooled - boats ashore, the couple setting off, then that twilight. You shot the whole story from the land, start to finish.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dex6WDeljdQ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1693,10 +1975,21 @@
                   "text": "I spotted the cut out first and was trying to capture the symmetry and fortunately the boat started coming across so I waited until I got centered",
                   "permalink": "https://www.threads.com/@sean_portley/post/Dexi3LoFC2K",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Cutout first, then patience until the boat centered itself - the plan worked exactly as drawn.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dex6Y11jCxt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3435,7 +3728,7 @@
     },
     {
       "id": "17977317813144878",
-      "label": "train, station, week, platform",
+      "label": "train, station, platform, week",
       "group": 1,
       "snippet": "Best of the week is up on Instagram as a reel. Five favorit\u2026",
       "text": "Best of the week is up on Instagram as a reel. Five favorites from this week's prompts \u2014 night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/",

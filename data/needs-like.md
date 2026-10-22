@@ -4,10 +4,15 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (29)
+## Needs Like (33)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
-- dwordops: Rowing her out into a boat in the harbor, and back, in the rain, that’s love ([link](https://www.threads.com/@dwordops/post/DexfDyRmBOu))
+- khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
+- desibotanista: #MahimbayMumbai #BandraWorliSeaLink, Mumbai 🇮🇳 ([link](https://www.threads.com/@desibotanista/post/Dex1maOgtyk))
+- wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
+- chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
+- jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))
+- therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
 - angelaaudleyphotography: Yes! Most of Cedarburg,WI looks like a fairy tale no matter where you go. It's a must see town in Wisconsin ([link](https://www.threads.com/@angelaaudleyphotography/post/Dexmx3dlkR1))
 - mauricevergoossen: ..My hometown Roermond, The Netherlands, among the river Meuse due sunrise, Photographed during several days this year.. ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8IwClCz))
 - candyandersonallen: I was at the right place at the right time ([link](https://www.threads.com/@candyandersonallen/post/DexVOB4kTd5))
@@ -18,7 +23,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - kes_ward: Thank you so much. 🙏 It’s sits amongst my favourite images. Was a very early rise to capture this one. ([link](https://www.threads.com/@kes_ward/post/DexWmGfmQ6i))
 - kes_ward: That was about 7am give or take. I was staying in the Causeway Hotel right by it. I love an early rise for photography. My favourite time of day. ([link](https://www.threads.com/@kes_ward/post/DexWPHpma-e))
 - miketaricani: Location is Strasbourg France. Last year on one of our trips. ([link](https://www.threads.com/@miketaricani/post/DexBDe9mB5m))
-- sean_portley: I spotted the cut out first and was trying to capture the symmetry and fortunately the boat started coming across so I waited until I got centered ([link](https://www.threads.com/@sean_portley/post/Dexi3LoFC2K))
 - nordique0829: Shot with just a phone camera. There is a little space behind the fountain that I found with the view of the palace. Most people wander by without knowing it’s there. ([link](https://www.threads.com/@nordique0829/post/Dew6rBiFHrJ))
 - christin.terra: Just a lake we were kayaking on ❤️￼ ([link](https://www.threads.com/@christin.terra/post/Dew7YB2mFUV))
 - mur.locations: Absolutely!! ([link](https://www.threads.com/@mur.locations/post/DexjmCQjyoK))
