@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18046748195835295",
-      "label": "halloween, skeleton, pumpkin, festive",
+      "label": "halloween, skeleton, pumpkin, display",
       "group": 0,
       "snippet": "Haunted Thursday \ud83c\udf83 Show me your Halloween. Pumpkin patches,\u2026",
       "text": "Haunted Thursday \ud83c\udf83 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.",
@@ -10,8 +10,32 @@
       "photos": [
         "A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it."
       ],
-      "reply_count": 10,
+      "reply_count": 16,
       "replies": [
+        {
+          "username": "juliahh",
+          "text": "",
+          "permalink": "https://www.threads.com/@juliahh/post/Dezs3-RERiW",
+          "photos": [
+            "A skeleton dressed as a Victorian-era person, complete with a dark coat and hat, stands in the warmly lit entryway of a home, framed by a large window. The spooky yet amusing display hints at Halloween celebrations."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "colourbugs",
+          "text": "\u2026\ud83e\ude76\ud83e\udde1\ud83e\ude76",
+          "permalink": "https://www.threads.com/@colourbugs/post/Dezi3I_DSV0",
+          "photos": [
+            "A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "difishing",
           "text": "",
@@ -19,10 +43,21 @@
           "photos": [
             "A weathered, blue and red truck bed is creatively decorated as a festive autumn and Halloween display, topped with a large, grinning metal alligator. Pumpkins, ghosts, and various whimsical decorations surround the vehicle in a welcoming seasonal setup."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A grinning metal alligator riding in a truck bed full of pumpkins - this display stopped improving and kept going anyway. The ghosts approve.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dezk__Wm1Cv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "maureenozerimages",
@@ -31,10 +66,21 @@
           "photos": [
             "A menacing, black-and-white-clad killer clown glares into the camera, brandishing a bloody knife in one hand while reaching out threateningly with the other. The dramatic, shadowy lighting and sinister makeup create the ultimate horror-movie vibe, perfect for Halloween thrills."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Full horror-movie energy, straight into the lens. You did not come to decorate, you came to menace.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezlBiTI4QF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "paul.moorman91",
@@ -43,10 +89,21 @@
           "photos": [
             "A black and white, low-angle, vertical photo captures a narrow, brick-walled alleyway at night. A wrought-iron fence frames the bottom, featuring vertical spikes and scrollwork designs. Beyond the fence, stone steps ascend through the tight space, illuminated by two vintage wall-mounted lamps. The primary lamp in the lower-left foreground is large and bright, while the smaller lamp is positioned further up the dark alley. The stark contrast between the bright lights and dark shadows creates a moody, gothic atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Brick, lamplight, and an iron fence doing atmosphere overtime. That alley was haunted long before Halloween.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezlDYsmuad",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "medium.gords7",
@@ -55,10 +112,21 @@
           "photos": [
             "A tall, spooky Halloween decoration featuring a grinning pumpkin head and a hunchbacked, gaunt body stands in front of a house, its tattered greenish-yellow robes draped over tree-bark-textured limbs as its long, clawed fingers reach forward."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A pumpkin-headed greeter with claws like that does not need a doorbell. Nobody's ringing twice.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DezlEialBL2",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "topsyturvymercy",
