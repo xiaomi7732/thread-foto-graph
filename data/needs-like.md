@@ -4,7 +4,13 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (41)
+## Needs Like (44)
+
+### Water Wednesday favorites 🏆 Three waters that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DezMtDJETct))
+- kes_ward: Thank you so much. Congrats to all too. I just love the soft light that made this image what it is. I was very fortunate with the weather conditions that morning too. It’s also a peaceful image for me. ([link](https://www.threads.com/@kes_ward/post/Dez5W6-mbnZ))
+
+### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
@@ -15,6 +21,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
 - jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))
 - posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
+- fargodadx2: Two favorites ([link](https://www.threads.com/@fargodadx2/post/Dezvz9BGslu))
 - greghillman11: They're frozen with the strobe lighting, thrown by an assistant. Couldn't believe it looked like a pink Tutu. 😁 ([link](https://www.threads.com/@greghillman11/post/DeyD1Q-k9VP))
 - therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
 - bojonvelvet2.0: It’s happened to three of my absolute favorite places; Koh Lipe in Thailand, Isla Holbox in MX and Jericocoara in Brasil. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyJReDm9Jj))

@@ -6,13 +6,17 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (3)
+## Needs Reply (5)
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
-- **juliahh**:  ([link](https://www.threads.com/@juliahh/post/Dezs3-RERiW))
-  - Photo: A skeleton dressed as a Victorian-era person, complete with a dark coat and hat, stands in the warmly lit entryway of a home, framed by a large window. The spooky yet amusing display hints at Halloween celebrations.
-- **colourbugs**: …🩶🧡🩶 ([link](https://www.threads.com/@colourbugs/post/Dezi3I_DSV0))
-  - Photo: A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch.
+- **tiffany.art2020**:  ([link](https://www.threads.com/@tiffany.art2020/post/De0CKrfm030))
+  - Photo: An unsettling close-up shot depicts the upper body and skull of a human skeleton, overlaid with a grunge texture. The image is bathed in a dark and somber red hue, creating a spooky and gothic mood, perfect for Halloween.
+- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/Dez7U4lkxfT))
+  - Photo: A cozy corner features cheerful Halloween decorations, including several white-sheet ghosts wearing witch hats, a basket overflowing with plush pumpkins, and a decorated tree branch. Sunlight streams through large windows behind the festive display, highlighting a playful indoor holiday setup.
+- **bojonvelvet2.0**: Treat Street goes all out ([link](https://www.threads.com/@bojonvelvet2.0/post/Dez6BTkEhHh))
+  - Photo: At night, people wearing Halloween costumes gather on a sloped residential street. The street slopes downward toward the brightly lit skyscrapers of a city in the distance, and cars are parked on either side of the road.
+- **remalysh**: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
+  - Photo: A toddler in brown and white striped pajamas and a black and red cape plays with a carved pumpkin on a porch.
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - **remalysh**: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
@@ -23,7 +27,13 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (41)
+## Needs Like (44)
+
+### Water Wednesday favorites 🏆 Three waters that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DezMtDJETct))
+- kes_ward: Thank you so much. Congrats to all too. I just love the soft light that made this image what it is. I was very fortunate with the weather conditions that morning too. It’s also a peaceful image for me. ([link](https://www.threads.com/@kes_ward/post/Dez5W6-mbnZ))
+
+### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
@@ -34,6 +44,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
 - jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))
 - posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
+- fargodadx2: Two favorites ([link](https://www.threads.com/@fargodadx2/post/Dezvz9BGslu))
 - greghillman11: They're frozen with the strobe lighting, thrown by an assistant. Couldn't believe it looked like a pink Tutu. 😁 ([link](https://www.threads.com/@greghillman11/post/DeyD1Q-k9VP))
 - therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
 - bojonvelvet2.0: It’s happened to three of my absolute favorite places; Koh Lipe in Thailand, Isla Holbox in MX and Jericocoara in Brasil. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyJReDm9Jj))

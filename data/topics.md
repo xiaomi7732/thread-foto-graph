@@ -2,23 +2,29 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: halloween, skeleton, pumpkin, display
-
-- **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
-  - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
-  - **[NEEDS REPLY]** Reply by juliahh:  ([link](https://www.threads.com/@juliahh/post/Dezs3-RERiW))
-    - Photo: A skeleton dressed as a Victorian-era person, complete with a dark coat and hat, stands in the warmly lit entryway of a home, framed by a large window. The spooky yet amusing display hints at Halloween celebrations.
-  - **[NEEDS REPLY]** Reply by colourbugs: …🩶🧡🩶 ([link](https://www.threads.com/@colourbugs/post/Dezi3I_DSV0))
-    - Photo: A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch.
-  _(+14 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
-
 ## Topic: autumn, water, sky, leaves
 
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
   - Photo: A macro shot shows a row of six clear, glistening water droplets balanced precariously along the edge of a vibrant green blade of grass, capturing the delicate beauty of a rainy morning. The background is a soft, out-of-focus blend of muted greens and whites, creating a serene and contemplative atmosphere.
   - Photo: A person wearing a hat pilots a small motorized dinghy through calm harbor waters, with a passenger resting nearby. In the background, numerous sailboats are anchored against a hazy shoreline.
-  - All 3 replies already answered. ✅ ([full thread](threads/18135581695736524.md))
+  - **[NEEDS LIKE]** Reply by kes_ward: Thank you so much. Congrats to all too. I just love the soft light that made this image what it is. I was very fortunate with the weather conditions that morning too. It’s also a peaceful image for me. ([link](https://www.threads.com/@kes_ward/post/Dez5W6-mbnZ))
+  _(+3 more replies elsewhere in this thread already answered, see [full thread](threads/18135581695736524.md))_
+- **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
+  - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
+  - **[NEEDS REPLY]** Reply by tiffany.art2020:  ([link](https://www.threads.com/@tiffany.art2020/post/De0CKrfm030))
+    - Photo: An unsettling close-up shot depicts the upper body and skull of a human skeleton, overlaid with a grunge texture. The image is bathed in a dark and somber red hue, creating a spooky and gothic mood, perfect for Halloween.
+  - **[NEEDS REPLY]** Reply by lmk3.mama:  ([link](https://www.threads.com/@lmk3.mama/post/Dez7U4lkxfT))
+    - Photo: A cozy corner features cheerful Halloween decorations, including several white-sheet ghosts wearing witch hats, a basket overflowing with plush pumpkins, and a decorated tree branch. Sunlight streams through large windows behind the festive display, highlighting a playful indoor holiday setup.
+  - **[NEEDS REPLY]** Reply by bojonvelvet2.0: Treat Street goes all out ([link](https://www.threads.com/@bojonvelvet2.0/post/Dez6BTkEhHh))
+    - Photo: At night, people wearing Halloween costumes gather on a sloped residential street. The street slopes downward toward the brightly lit skyscrapers of a city in the distance, and cars are parked on either side of the road.
+  - **[NEEDS REPLY]** Reply by remalysh: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
+    - Photo: A toddler in brown and white striped pajamas and a black and red cape plays with a carved pumpkin on a porch.
+  - Reply by colourbugs: …🩶🧡🩶 ([link](https://www.threads.com/@colourbugs/post/Dezi3I_DSV0))
+    - Photo: A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch.
+    - Reply by saars.foto: A porch that whispers instead of shouts. The little two-tone pumpkin runs the whole arrangement. ([link](https://www.threads.com/@saars.foto/post/Dezv3KVIElu))
+      - **[NEEDS LIKE]** Reply by colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
+  _(+16 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
 - **Thread** [17980137651136213](https://www.threads.com/@saars.foto/post/DewrNxkmwgB): Autumn Tuesday favorites 🏆 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/
   - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
   - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.
@@ -46,6 +52,11 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A green iron railing frames a scenic view of a lake dotted with fish pens, set against a backdrop of rolling, green hills under a partly cloudy sky. The eye-level perspective makes the landscape feel open and inviting, perfect for an outdoor travel post.
     - Reply by saars.foto: A railing, a lake, and fish pens dotting the middle distance. Framed like a postcard someone actually sends. ([link](https://www.threads.com/@saars.foto/post/Dex6PQ5EQ8o))
       - **[NEEDS LIKE]** Reply by posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
+  - Reply by fargodadx2:  ([link](https://www.threads.com/@fargodadx2/post/DexifzLmntw))
+    - Photo: A serene daytime view of a tranquil river in the foreground, with the skyline of a city including a tall residential building reflected on the water's calm surface under a clear sky.
+    - Photo: A serene lake view with green grass and rocks along the shore. The far shore has a dense line of trees under a clear blue sky.
+    - Reply by saars.foto: Two calm waters - the city one with its skyline doubled is my pick. Same day out or two favorites? ([link](https://www.threads.com/@saars.foto/post/Dex6Qw-DUlG))
+      - **[NEEDS LIKE]** Reply by fargodadx2: Two favorites ([link](https://www.threads.com/@fargodadx2/post/Dezvz9BGslu))
   - Reply by greghillman11:  ([link](https://www.threads.com/@greghillman11/post/DexaznVE5qz))
     - Photo: A woman with dark hair and tattoos on her arms is captured in mid-motion against a black background, with dynamic splashes of water surrounding her body. The dramatic lighting casts a reddish glow on her lower body as she strikes an expressive pose.
     - Reply by saars.foto: Water as a dance partner - those splashes froze mid-choreography. Studio work? ([link](https://www.threads.com/@saars.foto/post/DexerJHlBLt))
@@ -132,7 +143,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Raindrops doing their glisten. What surface caught them this well? ([link](https://www.threads.com/@saars.foto/post/Dew5mPOmhKR))
       - **[NEEDS LIKE]** Reply by juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+192 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+190 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
