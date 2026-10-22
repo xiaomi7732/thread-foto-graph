@@ -6,29 +6,13 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (10)
+## Needs Reply (3)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
-- **agingpunkboris**: Botanical garden, Austin TX ([link](https://www.threads.com/@agingpunkboris/post/DeyC7IFgHC6))
-  - Photo: A small, tiered waterfall trickles down a rocky grotto, surrounded by lush green ferns and amber-toned foliage. The water collects in a shallow, algae-dappled pond at the base, creating a serene, natural sanctuary ideal for a mindful outdoor retreat.
-- **dag66**: Winter - Topsail Beach, NC ([link](https://www.threads.com/@dag66/post/Dex4GXUjfa2))
-  - Photo: A low-angle view captures a vast sandy beach where the wet sand reflects a dramatic sky filled with scattered white clouds and the golden light of a setting sun. In the distance, silhouetted against the horizon, a line of beachfront houses stands alongside gentle, rolling waves under a bright, expansive sky.
-- **desibotanista**: ▓Niagara Falls .. 2022 visit ▓▓ ([link](https://www.threads.com/@desibotanista/post/Dex1MXJAiGN))
-  - Photo: A low-angle, medium shot shows a bright blue sky above Niagara Falls in Ontario, Canada, with light mist rising up from the base of the waterfall to the right and a blue observation tower to the left of center. The water is clear blue, with the white spray of the falls cascading down over gray-colored rocks. The view from the water shows the observation tower on the left, which has a circular walkway at the top and a bridge extending to the main shoreline.
-- **clules1der2**:  ([link](https://www.threads.com/@clules1der2/post/Dex0KdOG7MG))
-  - Photo: A low-riding small motorboat is wedged tightly under a concrete bridge with its top nearly touching the steel beam, creating an unexpectedly humorous parking spot. In the foreground, bright green leafy plants contrast with the calm, dark water of the canal.
-- **ladybug81980**:  ([link](https://www.threads.com/@ladybug81980/post/Dexr-ArFsVl))
-  - Photo: A stunning mountain landscape features a calm lake in the foreground reflecting the bright daylight, with a dense forest of evergreen trees and bright yellow aspens blanketing the hillside. Towering, rugged mountain peaks with patches of rust-colored stone rise dramatically in the background beneath a blue sky filled with puffy white clouds.
-- **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/DexpYecGV6G))
-  - Photo: A high-angle close-up shows vibrant, rich, deep crimson red Japanese maple leaves covered in clear water droplets against a blurry green background.
-- **paulajgriffin1965**: Isfahan, Iran. Always wonder about her story and her thoughts as she watched the river. ([link](https://www.threads.com/@paulajgriffin1965/post/DexpJBRiB3-))
-  - Photo: A woman dressed in a black abaya and hijab sits on stone steps, looking down at churning white water as the sun glistens across the surface.
-- **watsjoey**: Both in Alberta . First one Lundbreck Falls. Second is Athabasca Falls . Definitely not the same hike! Athabasca is my favorite ([link](https://www.threads.com/@watsjoey/post/DeyBLuTm8R1))
-  - Photo: A powerful waterfall crashes over layered, grey rock formations into a vibrant, turquoise river, with a dense green forest and a towering, rugged mountain under a clear blue sky in the background.
-  - _Replying to: Two falls for the price of one - the layered-rock one with …_
-- **bojonvelvet2.0**: That was on Koh Lipe, my favorite island out of four months total in Thailand. It was simple huts twenty years ago with footpaths thru the jungle connecting the three beaches. Satellite views now show it completely developed with large resorts. It was special. Went to a Thai funeral on the mainland with the owner of the bungalows. ([link](https://www.threads.com/@bojonvelvet2.0/post/Dexprv_GZnh))
-  - Photo: A satellite map of Koh Lipe, Thailand, displaying local points of interest such as resorts, beaches, and bars.
-  - _Replying to: A dreamcatcher, a boat, and that pink sky - the shore stage…_
+- **_enotsytsur_**:  ([link](https://www.threads.com/@_enotsytsur_/post/DeyKbbOm5O8))
+  - Photo: A high-angle view captures a distant, rugged rock outcrop emerging from white-flecked, rolling blue waves of the ocean, framed by dense evergreen trees on the left and right.
+- **john.stephen.reinhart.27**:  ([link](https://www.threads.com/@john.stephen.reinhart.27/post/DeyI9BSHElF))
+  - Photo: A low angle shot looks up through a glass window covered in water droplets against a bright blue sky with white clouds.
 - **remalysh**: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
 
@@ -37,7 +21,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (33)
+## Needs Like (39)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
@@ -45,9 +29,15 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
 - chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
 - jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))
+- posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
+- greghillman11: They're frozen with the strobe lighting, thrown by an assistant. Couldn't believe it looked like a pink Tutu. 😁 ([link](https://www.threads.com/@greghillman11/post/DeyD1Q-k9VP))
 - therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
+- bojonvelvet2.0: It’s happened to three of my absolute favorite places; Koh Lipe in Thailand, Isla Holbox in MX and Jericocoara in Brasil. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyJReDm9Jj))
+- bojonvelvet2.0: But yes, I treasure my time there and the relationships made.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyK5uoG1HU))
 - angelaaudleyphotography: Yes! Most of Cedarburg,WI looks like a fairy tale no matter where you go. It's a must see town in Wisconsin ([link](https://www.threads.com/@angelaaudleyphotography/post/Dexmx3dlkR1))
+- mauricevergoossen: ..Yes.., It is mine too.. With on top of the Saint Christopher Cathedral the statue of Saint Christopher with Jesus Christ held in his right hand, watching over the city and the river Meuse.. Saint Christopher is the keeper of the city of Roermond.. It is a beautiful building to see from outside as from inside, with its restored brand glasses.. ([link](https://www.threads.com/@mauricevergoossen/post/DeyG1WZjWHP))
 - mauricevergoossen: ..My hometown Roermond, The Netherlands, among the river Meuse due sunrise, Photographed during several days this year.. ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8IwClCz))
+- susannemariehelene: A bit of both I guess, I’ve got so many pictures of drops in my gallery ([link](https://www.threads.com/@susannemariehelene/post/DeyJw5ADRIe))
 - candyandersonallen: I was at the right place at the right time ([link](https://www.threads.com/@candyandersonallen/post/DexVOB4kTd5))
 - ferrytrip: Well the kids were wearing wet suits. Sligo coast, NW Ireland, North Atlantic Ocean. I swam in the Irish Sea as a kid with no wet suit & I think it was warmer than the water off Vancouver Island, British Columbia. ([link](https://www.threads.com/@ferrytrip/post/DexSvm0GkEH))
 - hannele.heikkinen: Yes...winter is doing its magic. ([link](https://www.threads.com/@hannele.heikkinen/post/DexOGdnjkmd))

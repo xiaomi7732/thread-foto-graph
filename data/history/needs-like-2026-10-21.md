@@ -4,7 +4,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (33)
+## Needs Like (39)
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
 - khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
@@ -12,9 +12,15 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
 - chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
 - jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))
+- posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
+- greghillman11: They're frozen with the strobe lighting, thrown by an assistant. Couldn't believe it looked like a pink Tutu. 😁 ([link](https://www.threads.com/@greghillman11/post/DeyD1Q-k9VP))
 - therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
+- bojonvelvet2.0: It’s happened to three of my absolute favorite places; Koh Lipe in Thailand, Isla Holbox in MX and Jericocoara in Brasil. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyJReDm9Jj))
+- bojonvelvet2.0: But yes, I treasure my time there and the relationships made.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyK5uoG1HU))
 - angelaaudleyphotography: Yes! Most of Cedarburg,WI looks like a fairy tale no matter where you go. It's a must see town in Wisconsin ([link](https://www.threads.com/@angelaaudleyphotography/post/Dexmx3dlkR1))
+- mauricevergoossen: ..Yes.., It is mine too.. With on top of the Saint Christopher Cathedral the statue of Saint Christopher with Jesus Christ held in his right hand, watching over the city and the river Meuse.. Saint Christopher is the keeper of the city of Roermond.. It is a beautiful building to see from outside as from inside, with its restored brand glasses.. ([link](https://www.threads.com/@mauricevergoossen/post/DeyG1WZjWHP))
 - mauricevergoossen: ..My hometown Roermond, The Netherlands, among the river Meuse due sunrise, Photographed during several days this year.. ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8IwClCz))
+- susannemariehelene: A bit of both I guess, I’ve got so many pictures of drops in my gallery ([link](https://www.threads.com/@susannemariehelene/post/DeyJw5ADRIe))
 - candyandersonallen: I was at the right place at the right time ([link](https://www.threads.com/@candyandersonallen/post/DexVOB4kTd5))
 - ferrytrip: Well the kids were wearing wet suits. Sligo coast, NW Ireland, North Atlantic Ocean. I swam in the Irish Sea as a kid with no wet suit & I think it was warmer than the water off Vancouver Island, British Columbia. ([link](https://www.threads.com/@ferrytrip/post/DexSvm0GkEH))
 - hannele.heikkinen: Yes...winter is doing its magic. ([link](https://www.threads.com/@hannele.heikkinen/post/DexOGdnjkmd))

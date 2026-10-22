@@ -100,8 +100,32 @@
       "photos": [
         "A framed view of Niagara Falls viewed through a metal spiral."
       ],
-      "reply_count": 237,
+      "reply_count": 254,
       "replies": [
+        {
+          "username": "_enotsytsur_",
+          "text": "",
+          "permalink": "https://www.threads.com/@_enotsytsur_/post/DeyKbbOm5O8",
+          "photos": [
+            "A high-angle view captures a distant, rugged rock outcrop emerging from white-flecked, rolling blue waves of the ocean, framed by dense evergreen trees on the left and right."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "john.stephen.reinhart.27",
+          "text": "",
+          "permalink": "https://www.threads.com/@john.stephen.reinhart.27/post/DeyI9BSHElF",
+          "photos": [
+            "A low angle shot looks up through a glass window covered in water droplets against a bright blue sky with white clouds."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "agingpunkboris",
           "text": "Botanical garden, Austin TX",
@@ -109,10 +133,21 @@
           "photos": [
             "A small, tiered waterfall trickles down a rocky grotto, surrounded by lush green ferns and amber-toned foliage. The water collects in a shallow, algae-dappled pond at the base, creating a serene, natural sanctuary ideal for a mindful outdoor retreat."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A grotto hiding in a botanical garden - ferns, amber leaves, and a waterfall that whispers. Austin keeps secrets.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEPnWHNul",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dag66",
@@ -121,10 +156,21 @@
           "photos": [
             "A low-angle view captures a vast sandy beach where the wet sand reflects a dramatic sky filled with scattered white clouds and the golden light of a setting sun. In the distance, silhouetted against the horizon, a line of beachfront houses stands alongside gentle, rolling waves under a bright, expansive sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Winter at Topsail - wet sand doing mirror work under that sky. The beach houses get a quiet season too.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEUNRjojM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "khoojosie",
@@ -153,10 +199,21 @@
           "photos": [
             "A low-angle, medium shot shows a bright blue sky above Niagara Falls in Ontario, Canada, with light mist rising up from the base of the waterfall to the right and a blue observation tower to the left of center. The water is clear blue, with the white spray of the falls cascading down over gray-colored rocks. The view from the water shows the observation tower on the left, which has a circular walkway at the top and a bridge extending to the main shoreline."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Niagara from the waterline - tower watching, mist rising. Third falls framing in this thread today, and each one found a different angle.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEVfvlZND",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "clules1der2",
@@ -165,10 +222,21 @@
           "photos": [
             "A low-riding small motorboat is wedged tightly under a concrete bridge with its top nearly touching the steel beam, creating an unexpectedly humorous parking spot. In the foreground, bright green leafy plants contrast with the calm, dark water of the canal."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Precision parking. That boat is one inch of optimism away from a very bad day.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEW7mDppT",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ladybug81980",
@@ -177,10 +245,21 @@
           "photos": [
             "A stunning mountain landscape features a calm lake in the foreground reflecting the bright daylight, with a dense forest of evergreen trees and bright yellow aspens blanketing the hillside. Towering, rugged mountain peaks with patches of rust-colored stone rise dramatically in the background beneath a blue sky filled with puffy white clouds."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Aspens turning, peaks standing guard, lake holding the reflection. That's the full postcard stack.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEYJyEarH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wang_fong_ya",
@@ -199,10 +278,21 @@
           "photos": [
             "A high-angle close-up shows vibrant, rich, deep crimson red Japanese maple leaves covered in clear water droplets against a blurry green background."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Crimson, beaded, and unreasonably rich. The droplets are doing fine jewelry work.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEZFnFdF1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "paulajgriffin1965",
@@ -211,10 +301,21 @@
           "photos": [
             "A woman dressed in a black abaya and hijab sits on stone steps, looking down at churning white water as the sun glistens across the surface."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Some photos ask a question and leave it open. She sat with that river a while, by the look of it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DeyEakglhTO",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "chiapet65",
@@ -325,7 +426,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "posts.by.norman",
+                  "text": "Thank you for the appreciation! \u2593",
+                  "permalink": "https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -404,10 +516,21 @@
                   "photos": [
                     "A powerful waterfall crashes over layered, grey rock formations into a vibrant, turquoise river, with a dense green forest and a towering, rugged mountain under a clear blue sky in the background."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Athabasca takes the favorite title - turquoise river, layered rock, mountain behind it. Lundbreck put up a good fight, though.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DeyEcMZlalJ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -481,7 +604,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "greghillman11",
+                  "text": "They're frozen with the strobe lighting, thrown by an assistant. Couldn't believe it looked like a pink Tutu. \ud83d\ude01",
+                  "permalink": "https://www.threads.com/@greghillman11/post/DeyD1Q-k9VP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -569,10 +703,43 @@
                   "photos": [
                     "A satellite map of Koh Lipe, Thailand, displaying local points of interest such as resorts, beaches, and bars."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Twenty years from huts and jungle footpaths to a satellite full of resorts. The sunset you kept is the version that stays yours.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DeyEfjikTmT",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "bojonvelvet2.0",
+                          "text": "It\u2019s happened to three of my absolute favorite places; Koh Lipe in Thailand, Isla Holbox in MX and Jericocoara in Brasil.",
+                          "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DeyJReDm9Jj",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": [
+                            {
+                              "username": "bojonvelvet2.0",
+                              "text": "But yes, I treasure my time there and the relationships made..",
+                              "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DeyK5uoG1HU",
+                              "photos": [],
+                              "needs_response": true,
+                              "action": "like",
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -805,7 +972,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mauricevergoossen",
+                  "text": "..Yes.., It is mine too.. With on top of the Saint Christopher Cathedral the statue of Saint Christopher with Jesus Christ held in his right hand, watching over the city and the river Meuse.. Saint Christopher is the keeper of the city of Roermond.. It is a beautiful building to see from outside as from inside, with its restored brand glasses..",
+                  "permalink": "https://www.threads.com/@mauricevergoossen/post/DeyG1WZjWHP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "mauricevergoossen",
@@ -934,7 +1112,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "susannemariehelene",
+                  "text": "A bit of both I guess, I\u2019ve got so many pictures of drops in my gallery",
+                  "permalink": "https://www.threads.com/@susannemariehelene/post/DeyJw5ADRIe",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3721,43 +3910,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17977317813144878",
-      "label": "train, station, platform, week",
-      "group": 1,
-      "snippet": "Best of the week is up on Instagram as a reel. Five favorit\u2026",
-      "text": "Best of the week is up on Instagram as a reel. Five favorites from this week's prompts \u2014 night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/",
-      "permalink": "https://www.threads.com/@saars.foto/post/Den4vNBlWJN",
-      "photos": [
-        "A low-angle, street-level shot captures a train platform at night, with the text \"BEST OF THE WEEK\" overlaid in the upper portion. The textured ground fills the foreground, while a train with white, red, and yellow stripes sits on the left alongside an arched, brightly lit canopy overhead."
-      ],
-      "reply_count": 2,
-      "replies": [
-        {
-          "username": "riobunetz",
-          "text": "",
-          "permalink": "https://www.threads.com/@riobunetz/post/Deo3gEuCR7A",
-          "photos": [
-            "A bright blue vertical sign reading \"JAKARTA KOTA\" stands out in the foreground of a mostly empty train station platform. The station features an industrial white-painted steel and wooden roof structure overhead, overlooking a set of parallel train tracks."
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "That blue could stop a train. Was the platform really that empty, or just perfectly timed?",
-              "permalink": "https://www.threads.com/@saars.foto/post/DetJW3ukW_l",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": []
             }
           ]
         }

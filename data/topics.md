@@ -11,34 +11,26 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - All 7 replies already answered. ✅ ([full thread](threads/17980137651136213.md))
 - **Thread** [18118551631977488](https://www.threads.com/@saars.foto/post/Dewkudim4IN): Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddles, fountains - show me water doing its thing. Framed this one through the railing at Niagara - the falls did the rest ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A framed view of Niagara Falls viewed through a metal spiral.
-  - **[NEEDS REPLY]** Reply by agingpunkboris: Botanical garden, Austin TX ([link](https://www.threads.com/@agingpunkboris/post/DeyC7IFgHC6))
-    - Photo: A small, tiered waterfall trickles down a rocky grotto, surrounded by lush green ferns and amber-toned foliage. The water collects in a shallow, algae-dappled pond at the base, creating a serene, natural sanctuary ideal for a mindful outdoor retreat.
-  - **[NEEDS REPLY]** Reply by dag66: Winter - Topsail Beach, NC ([link](https://www.threads.com/@dag66/post/Dex4GXUjfa2))
-    - Photo: A low-angle view captures a vast sandy beach where the wet sand reflects a dramatic sky filled with scattered white clouds and the golden light of a setting sun. In the distance, silhouetted against the horizon, a line of beachfront houses stands alongside gentle, rolling waves under a bright, expansive sky.
+  - **[NEEDS REPLY]** Reply by _enotsytsur_:  ([link](https://www.threads.com/@_enotsytsur_/post/DeyKbbOm5O8))
+    - Photo: A high-angle view captures a distant, rugged rock outcrop emerging from white-flecked, rolling blue waves of the ocean, framed by dense evergreen trees on the left and right.
+  - **[NEEDS REPLY]** Reply by john.stephen.reinhart.27:  ([link](https://www.threads.com/@john.stephen.reinhart.27/post/DeyI9BSHElF))
+    - Photo: A low angle shot looks up through a glass window covered in water droplets against a bright blue sky with white clouds.
   - **[NEEDS LIKE]** Reply by khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
   - **[NEEDS LIKE]** Reply by desibotanista: #MahimbayMumbai #BandraWorliSeaLink, Mumbai 🇮🇳 ([link](https://www.threads.com/@desibotanista/post/Dex1maOgtyk))
-  - **[NEEDS REPLY]** Reply by desibotanista: ▓Niagara Falls .. 2022 visit ▓▓ ([link](https://www.threads.com/@desibotanista/post/Dex1MXJAiGN))
-    - Photo: A low-angle, medium shot shows a bright blue sky above Niagara Falls in Ontario, Canada, with light mist rising up from the base of the waterfall to the right and a blue observation tower to the left of center. The water is clear blue, with the white spray of the falls cascading down over gray-colored rocks. The view from the water shows the observation tower on the left, which has a circular walkway at the top and a bridge extending to the main shoreline.
-  - **[NEEDS REPLY]** Reply by clules1der2:  ([link](https://www.threads.com/@clules1der2/post/Dex0KdOG7MG))
-    - Photo: A low-riding small motorboat is wedged tightly under a concrete bridge with its top nearly touching the steel beam, creating an unexpectedly humorous parking spot. In the foreground, bright green leafy plants contrast with the calm, dark water of the canal.
-  - **[NEEDS REPLY]** Reply by ladybug81980:  ([link](https://www.threads.com/@ladybug81980/post/Dexr-ArFsVl))
-    - Photo: A stunning mountain landscape features a calm lake in the foreground reflecting the bright daylight, with a dense forest of evergreen trees and bright yellow aspens blanketing the hillside. Towering, rugged mountain peaks with patches of rust-colored stone rise dramatically in the background beneath a blue sky filled with puffy white clouds.
   - **[NEEDS LIKE]** Reply by wang_fong_ya: Where the calm sea meets the rugged coastline. 🌊🤍 I love the contrast between the gentle water and the dramatic textures of the rocks. ([link](https://www.threads.com/@wang_fong_ya/post/DexrhKXj88S))
-  - **[NEEDS REPLY]** Reply by michelpbeaudry:  ([link](https://www.threads.com/@michelpbeaudry/post/DexpYecGV6G))
-    - Photo: A high-angle close-up shows vibrant, rich, deep crimson red Japanese maple leaves covered in clear water droplets against a blurry green background.
-  - **[NEEDS REPLY]** Reply by paulajgriffin1965: Isfahan, Iran. Always wonder about her story and her thoughts as she watched the river. ([link](https://www.threads.com/@paulajgriffin1965/post/DexpJBRiB3-))
-    - Photo: A woman dressed in a black abaya and hijab sits on stone steps, looking down at churning white water as the sun glistens across the surface.
   - **[NEEDS LIKE]** Reply by chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
   - Reply by jeniene: Barbados yesterday ([link](https://www.threads.com/@jeniene/post/DexkGsMllCM))
     - Photo: Two tall palm trees sway against a bright blue sky filled with fluffy white clouds, with turquoise ocean waves gently rolling onto the shore below.
     - Reply by saars.foto: Barbados yesterday - turquoise doing its usual showing off. Hard to take a bad photo there; harder to take one this clean. ([link](https://www.threads.com/@saars.foto/post/Dex6NNSjjB4))
       - **[NEEDS LIKE]** Reply by jeniene: View from the pool at the Coconut Court Beach Hotel. Was lovely. ([link](https://www.threads.com/@jeniene/post/Dex6bIalgcD))
-  - Reply by watsjoey:  ([link](https://www.threads.com/@watsjoey/post/Dexfjy1ma1z))
-    - Photo: A waterfall cascades over a rocky ledge into a churning pool, with a forested hillside and a bridge visible in the background under a clear blue sky.
-    - Photo: A powerful waterfall cascades through rugged, layered rock formations framed by evergreen trees and autumn foliage. In the background, a turquoise river flows past a dense forest under a clear sky.
-    - Reply by saars.foto: Two falls for the price of one - the layered-rock one with the turquoise river behind it is a stunner. Same hike? ([link](https://www.threads.com/@saars.foto/post/Dex6TULDmtr))
-      - **[NEEDS REPLY]** Reply by watsjoey: Both in Alberta . First one Lundbreck Falls. Second is Athabasca Falls . Definitely not the same hike! Athabasca is my favorite ([link](https://www.threads.com/@watsjoey/post/DeyBLuTm8R1))
-        - Photo: A powerful waterfall crashes over layered, grey rock formations into a vibrant, turquoise river, with a dense green forest and a towering, rugged mountain under a clear blue sky in the background.
+  - Reply by posts.by.norman:  ([link](https://www.threads.com/@posts.by.norman/post/Dexi1EFEwm5))
+    - Photo: A green iron railing frames a scenic view of a lake dotted with fish pens, set against a backdrop of rolling, green hills under a partly cloudy sky. The eye-level perspective makes the landscape feel open and inviting, perfect for an outdoor travel post.
+    - Reply by saars.foto: A railing, a lake, and fish pens dotting the middle distance. Framed like a postcard someone actually sends. ([link](https://www.threads.com/@saars.foto/post/Dex6PQ5EQ8o))
+      - **[NEEDS LIKE]** Reply by posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
+  - Reply by greghillman11:  ([link](https://www.threads.com/@greghillman11/post/DexaznVE5qz))
+    - Photo: A woman with dark hair and tattoos on her arms is captured in mid-motion against a black background, with dynamic splashes of water surrounding her body. The dramatic lighting casts a reddish glow on her lower body as she strikes an expressive pose.
+    - Reply by saars.foto: Water as a dance partner - those splashes froze mid-choreography. Studio work? ([link](https://www.threads.com/@saars.foto/post/DexerJHlBLt))
+      - **[NEEDS LIKE]** Reply by greghillman11: They're frozen with the strobe lighting, thrown by an assistant. Couldn't believe it looked like a pink Tutu. 😁 ([link](https://www.threads.com/@greghillman11/post/DeyD1Q-k9VP))
   - Reply by therealranameehan:  ([link](https://www.threads.com/@therealranameehan/post/DexaS-Pkcis))
     - Photo: A close-up shot captures vibrant purple lilac blossoms glistening with fresh morning rain droplets. The blurred green background enhances the focus on the delicate, dewy petals, creating a serene and refreshing spring aesthetic.
     - Reply by saars.foto: Lilacs beaded with rain - the droplets are your water entry, and they qualify easily. ([link](https://www.threads.com/@saars.foto/post/Dexesi8Gp1S))
@@ -46,8 +38,11 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Reply by bojonvelvet2.0:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DexYxOjgaiR))
     - Photo: A stunning sunset paints the sky in vibrant shades of pink and purple over a calm ocean, silhouetting a dreamcatcher, a boat, and figures on the shore.
     - Reply by saars.foto: A dreamcatcher, a boat, and that pink sky - the shore staged the whole scene for you. ([link](https://www.threads.com/@saars.foto/post/DexewhIj-K3))
-      - **[NEEDS REPLY]** Reply by bojonvelvet2.0: That was on Koh Lipe, my favorite island out of four months total in Thailand. It was simple huts twenty years ago with footpaths thru the jungle connecting the three beaches. Satellite views now show it completely developed with large resorts. It was special. Went to a Thai funeral on the mainland with the owner of the bungalows. ([link](https://www.threads.com/@bojonvelvet2.0/post/Dexprv_GZnh))
+      - Reply by bojonvelvet2.0: That was on Koh Lipe, my favorite island out of four months total in Thailand. It was simple huts twenty years ago with footpaths thru the jungle connecting the three beaches. Satellite views now show it completely developed with large resorts. It was special. Went to a Thai funeral on the mainland with the owner of the bungalows. ([link](https://www.threads.com/@bojonvelvet2.0/post/Dexprv_GZnh))
         - Photo: A satellite map of Koh Lipe, Thailand, displaying local points of interest such as resorts, beaches, and bars.
+        - Reply by saars.foto: Twenty years from huts and jungle footpaths to a satellite full of resorts. The sunset you kept is the version that stays yours. ([link](https://www.threads.com/@saars.foto/post/DeyEfjikTmT))
+          - **[NEEDS LIKE]** Reply by bojonvelvet2.0: It’s happened to three of my absolute favorite places; Koh Lipe in Thailand, Isla Holbox in MX and Jericocoara in Brasil. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyJReDm9Jj))
+            - **[NEEDS LIKE]** Reply by bojonvelvet2.0: But yes, I treasure my time there and the relationships made.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DeyK5uoG1HU))
   - Reply by angelaaudleyphotography: Cedarburg Creek Waterfall in downtown behind the shops ([link](https://www.threads.com/@angelaaudleyphotography/post/DexTZT1FrX2))
     - Photo: A wide, man-made dam spans a winding river, creating a gentle waterfall surrounded by lush green trees on a bright afternoon. The calm water reflects the surrounding foliage, with homes faintly visible in the background.
     - Reply by saars.foto: A waterfall hiding behind the shops - downtown's worst-kept secret, apparently. Worth ducking behind the stores for. ([link](https://www.threads.com/@saars.foto/post/Dexe6eTj75w))
@@ -57,8 +52,13 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A serene landscape shot captures a vibrant sunset casting a warm golden and purple glow over a city skyline and a calm river, creating a clear mirror reflection. The horizon is filled with silhouettes of buildings, trees, and a distant church tower, with a watermark in the bottom left corner reading "Maurice Vergoossen."
     - Photo: A wide-angle, eye-level shot captures a city skyline across a body of water under a pale, overcast sky. The skyline features a variety of architectural styles, including a tall, slender church steeple on the left, a pyramidal building in the center, and a modern communication tower on the right, all reflecting softly in the water's surface. In the bottom left corner, the name "Maurice Vergoossen" is written in a stylized white font.
     - Photo: A high-angle, wide shot shows a sunset over the city skyline of Roermond in the Netherlands, viewed across a grassy field and a river. The skyline is dominated by a modern skyscraper with two distinct conical peaks on the left, next to the towering spire of Roermond's historic cathedral. Other modern residential and office buildings line the riverbank. The sky is a mix of pale blue and pink clouds.
-    _(+1 more reply already answered under this, see archive)_
+    - Reply by saars.foto: Four mornings of Roermond on the Maas - the river hands you a different mirror every day. The cathedral spire reflection is my favorite of the set. ([link](https://www.threads.com/@saars.foto/post/Dexe-bTD6qK))
+      - **[NEEDS LIKE]** Reply by mauricevergoossen: ..Yes.., It is mine too.. With on top of the Saint Christopher Cathedral the statue of Saint Christopher with Jesus Christ held in his right hand, watching over the city and the river Meuse.. Saint Christopher is the keeper of the city of Roermond.. It is a beautiful building to see from outside as from inside, with its restored brand glasses.. ([link](https://www.threads.com/@mauricevergoossen/post/DeyG1WZjWHP))
     - **[NEEDS LIKE]** Reply by mauricevergoossen: ..My hometown Roermond, The Netherlands, among the river Meuse due sunrise, Photographed during several days this year.. ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8IwClCz))
+  - Reply by susannemariehelene:  ([link](https://www.threads.com/@susannemariehelene/post/DexK6ClERT1))
+    - Photo: A close-up shot captures a series of six dew drops sitting on a vibrant green blade of grass, reflecting light and the environment around them. The background is softly blurred, highlighting the delicate water droplets and the texture of the leaf.
+    - Reply by saars.foto: Six drops in a row, each holding its own little reflection. Patience or luck to catch them lined up like that? ([link](https://www.threads.com/@saars.foto/post/DexfEJkIxpz))
+      - **[NEEDS LIKE]** Reply by susannemariehelene: A bit of both I guess, I’ve got so many pictures of drops in my gallery ([link](https://www.threads.com/@susannemariehelene/post/DeyJw5ADRIe))
   - Reply by candyandersonallen:  ([link](https://www.threads.com/@candyandersonallen/post/DexJfQKkZhF))
     - Photo: A two-panel vertical shot captures a humpback whale diving, with its dark, sleek back surfacing in the upper frame and its massive flukes—dripping with water—breaking the calm sea's surface in the lower frame.
     - Reply by saars.foto: Back, then flukes - the full dive in two frames. Right place, or were you tracking it? ([link](https://www.threads.com/@saars.foto/post/DexM4ZXD5Kc))
@@ -113,7 +113,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Raindrops doing their glisten. What surface caught them this well? ([link](https://www.threads.com/@saars.foto/post/Dew5mPOmhKR))
       - **[NEEDS LIKE]** Reply by juliahh: These are glazed tiles on a terrace. ([link](https://www.threads.com/@juliahh/post/DexKOriEToT))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+165 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+177 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by trayjayhay:  ([link](https://www.threads.com/@trayjayhay/post/DevTQAXDoXc))
@@ -154,9 +154,3 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: That tree owns the whole road. Peak color there, or just getting started? ([link](https://www.threads.com/@saars.foto/post/DeuD4P5FYty))
       - **[NEEDS LIKE]** Reply by winestains.ca: That one is peak. It’s from another year. I visited yesterday and colour is nowhere as far along this year yet. ([link](https://www.threads.com/@winestains.ca/post/DeuE8-plkDu))
   _(+51 more replies elsewhere in this thread already answered, see [full thread](threads/18098217035651918.md))_
-
-## Topic: train, station, platform, week
-
-- **Thread** [17977317813144878](https://www.threads.com/@saars.foto/post/Den4vNBlWJN): Best of the week is up on Instagram as a reel. Five favorites from this week's prompts — night station, mirrored tree, courting egrets, golden-hour hens, bison. Which one stopped you? https://www.instagram.com/reel/Demg-VTj14Q/
-  - Photo: A low-angle, street-level shot captures a train platform at night, with the text "BEST OF THE WEEK" overlaid in the upper portion. The textured ground fills the foreground, while a train with white, red, and yellow stripes sits on the left alongside an arched, brightly lit canopy overhead.
-  - All 2 replies already answered. ✅ ([full thread](threads/17977317813144878.md))
