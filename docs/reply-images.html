@@ -736,6 +736,7 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
   <script>
     const storageKey = 'thread-foto-graph:reply-image-favorites:v1';
     const favorites = new Set();
+    const pendingFavoriteChanges = [];
     const cards = [...document.querySelectorAll('article[data-reply-url]')];
     const favoriteView = document.getElementById('favorite-view');
     const copyFavorites = document.getElementById('copy-favorites');
@@ -745,38 +746,76 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
     const storageStatus = document.getElementById('storage-status');
     let storageError = false;
     let favoritesOnly = false;
+    let savingFavorites = false;
+
+    function readSavedFavorites() {
+      const raw = window.localStorage.getItem(storageKey);
+      const saved = raw === null ? [] : JSON.parse(raw);
+      if (!Array.isArray(saved) || !saved.every(id => typeof id === 'string' && id.length > 0)) {
+        throw new Error('Invalid saved favorites');
+      }
+      return new Set(saved);
+    }
+
+    function applyFavoriteChanges(values) {
+      for (const {id, selected} of pendingFavoriteChanges) {
+        if (id === null) values.clear();
+        else if (selected) values.add(id);
+        else values.delete(id);
+      }
+    }
 
     function loadFavorites() {
       try {
-        const raw = window.localStorage.getItem(storageKey);
-        const saved = raw === null ? [] : JSON.parse(raw);
-        if (!Array.isArray(saved) || !saved.every(id => typeof id === 'string' && id.length > 0)) {
-          throw new Error('Invalid saved favorites');
-        }
+        const saved = readSavedFavorites();
+        applyFavoriteChanges(saved);
         favorites.clear();
         saved.forEach(id => favorites.add(id));
-        storageError = false;
-        storageStatus.textContent = '';
+        storageError = !navigator.locks?.request || pendingFavoriteChanges.length > 0;
+        storageStatus.textContent = !navigator.locks?.request
+          ? 'This browser cannot safely coordinate saved favorites across tabs. Changes will apply to this page only; use a browser with Web Locks support over HTTPS or localhost to save them.'
+          : pendingFavoriteChanges.length > 0
+            ? 'Some favorite changes are not saved. They will be retried on your next change or Reset; refreshing may lose them.'
+            : '';
       } catch (error) {
         storageError = true;
         storageStatus.textContent = 'Could not load saved favorites. Browser storage may be blocked or the saved data invalid. Selections work for this page; use Reset favorites to try clearing saved picks.';
       }
     }
 
-    function saveFavorites() {
+    async function saveFavorites(id, selected) {
+      if (id === null) pendingFavoriteChanges.length = 0;
+      pendingFavoriteChanges.push({id, selected});
+      applyFavoriteChanges(favorites);
+      savingFavorites = true;
+      updateFavorites();
+      let saved = false;
       try {
-        if (favorites.size > 0) {
-          window.localStorage.setItem(storageKey, JSON.stringify([...favorites]));
-        } else {
-          window.localStorage.removeItem(storageKey);
+        if (!navigator.locks?.request) {
+          throw new Error('Web Locks unavailable');
         }
-        storageError = false;
-        storageStatus.textContent = '';
+        await navigator.locks.request(storageKey, () => {
+          const latest = pendingFavoriteChanges.some(change => change.id === null)
+            ? new Set() : readSavedFavorites();
+          applyFavoriteChanges(latest);
+          if (latest.size > 0) {
+            window.localStorage.setItem(storageKey, JSON.stringify([...latest]));
+          } else {
+            window.localStorage.removeItem(storageKey);
+          }
+          pendingFavoriteChanges.length = 0;
+        });
+        saved = true;
         return true;
       } catch (error) {
+        loadFavorites();
         storageError = true;
-        storageStatus.textContent = 'Could not save favorites in browser storage. Your changes apply to this page only and may be lost after refresh.';
+        storageStatus.textContent = 'Could not save favorites in browser storage. Your changes apply to this page only and will be retried on your next change or Reset; refreshing may lose them.';
         return false;
+      } finally {
+        savingFavorites = false;
+        if (saved) loadFavorites();
+        updateFavorites();
       }
     }
 
@@ -789,6 +828,7 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
         const button = card.querySelector('.favorite-toggle');
         button.setAttribute('aria-pressed', String(selected));
         button.textContent = selected ? 'Favorited' : 'Favorite';
+        button.setAttribute('aria-disabled', String(savingFavorites));
       });
       document.querySelectorAll('.gallery-thread').forEach(thread => {
         thread.hidden = favoritesOnly && ![...thread.querySelectorAll('article')].some(card => favorites.has(card.dataset.photoId));
@@ -803,7 +843,8 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
       favoriteView.setAttribute('aria-pressed', String(favoritesOnly));
       favoriteView.textContent = favoritesOnly ? 'Show all images' : 'Show favorites';
       copyFavorites.disabled = selectedCards.length === 0;
-      resetFavorites.disabled = favorites.size === 0 && !storageError;
+      resetFavorites.disabled = !savingFavorites && favorites.size === 0 && !storageError;
+      resetFavorites.setAttribute('aria-disabled', String(savingFavorites || resetFavorites.disabled));
       manual.hidden = true;
       manual.value = '';
       status.textContent = '';
@@ -822,13 +863,11 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
     document.addEventListener('click', async event => {
       const button = event.target.closest('button');
       if (!button) return;
+      if (savingFavorites && (button.classList.contains('favorite-toggle') || button === resetFavorites)) return;
       if (button.classList.contains('favorite-toggle')) {
         const card = button.closest('article');
         const id = card.dataset.photoId;
-        if (favorites.has(id)) favorites.delete(id);
-        else favorites.add(id);
-        saveFavorites();
-        updateFavorites();
+        await saveFavorites(id, !favorites.has(id));
         return;
       }
       if (button === favoriteView) {
@@ -837,9 +876,7 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
         return;
       }
       if (button === resetFavorites) {
-        favorites.clear();
-        const saved = saveFavorites();
-        updateFavorites();
+        const saved = await saveFavorites(null);
         status.textContent = saved ? 'Favorites reset.' : 'Favorites cleared for this page only; saved favorites could not be reset.';
         return;
       }
@@ -864,7 +901,7 @@ https://www.threads.com/@paul.moorman91/post/DeuBYO1FtC3" data-kind="all-links">
       }
     });
     window.addEventListener('storage', event => {
-      if (event.key === storageKey || event.key === null) {
+      if (!savingFavorites && (event.key === storageKey || event.key === null)) {
         loadFavorites();
         updateFavorites();
       }
