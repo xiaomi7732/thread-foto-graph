@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (11)
+## Needs Like (12)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
@@ -13,6 +13,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - christy.logsdon.5: Fence line ([link](https://www.threads.com/@christy.logsdon.5/post/De2rYq1Ad3g))
 - mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
 - nmpinkoyote: Damn!!! Beautiful!!! ([link](https://www.threads.com/@nmpinkoyote/post/De2CoG4G5c-))
+- tallerthanyou2026: Yes!! ([link](https://www.threads.com/@tallerthanyou2026/post/De2ui6Ljwk9))
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
 - debbiedunlap79: 😁 ([link](https://www.threads.com/@debbiedunlap79/post/De2FAv4lZYg))
