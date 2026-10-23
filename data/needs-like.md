@@ -4,12 +4,23 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (48)
+## Needs Like (57)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
 - bugs_eye_view_of_you: Hi, this belongs to my neighbor. They put it up October 1st every year. I love how realistic it looks. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1yZzcnI_G))
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
+
+### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
+- _olliemorgan: Bubble wrap with sun coming through the window. ([link](https://www.threads.com/@_olliemorgan/post/De10TmQlnbW))
+- taiwanese726: I took this photo from a distance at eye level, using a mobile phone. ([link](https://www.threads.com/@taiwanese726/post/De10S0OGDq-))
+- heidi.undefined: You can access it by visiting the art exhibitions held down there. I come here every year because they change the exhibition every year! ([link](https://www.threads.com/@heidi.undefined/post/De11PuzirOO))
+- tallerthanyou2026: It quickly disappeared ([link](https://www.threads.com/@tallerthanyou2026/post/De10TsJG55W))
+- medium.gords7: I was the passenger in a car and happened to look to my right and saw this light and quickly snapped a photo. ￼￼ ([link](https://www.threads.com/@medium.gords7/post/De12FThEQCy))
+- vuurenbernadettevan: I think i was just shooting.. ([link](https://www.threads.com/@vuurenbernadettevan/post/De10ztjF9Ps))
+- beapersaud: My husband usually put some sunflower seeds for them most mornings. We love the feeding frenzy...lots of action ([link](https://www.threads.com/@beapersaud/post/De16lS8kf_b))
+- yvetime: The park where I walk my dog every day. ([link](https://www.threads.com/@yvetime/post/De14kkEDUzR))
+- schemenme: I played with the exposure just a little but the color was amazing ([link](https://www.threads.com/@schemenme/post/De10QS3m5YB))
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
 - deputysec: Found it walking in and loved it ! Btw yours is so fun!!!! ([link](https://www.threads.com/@deputysec/post/De1yWzQlUhS))

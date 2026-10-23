@@ -15,29 +15,77 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+2 more replies elsewhere in this thread already answered, see [full thread](threads/18190947304409568.md))_
 - **Thread** [18089706719271990](https://www.threads.com/@saars.foto/post/De1uZZrESrB): Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. Fog and first light on my street - all gold for about a minute. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: Sunlight filters through the misty air of a quiet residential street, casting dramatic rays over autumn-colored trees and a parked truck.
-  - **[NEEDS REPLY]** Reply by _olliemorgan:  ([link](https://www.threads.com/@_olliemorgan/post/De1ycuzFg7O))
+  - **[NEEDS REPLY]** Reply by michael.nairn: iPhone 17 ProMax ([link](https://www.threads.com/@michael.nairn/post/De17bLbEWLA))
+    - Photo: A breathtaking view of a wildfire creates a dramatic sky filled with vibrant shades of orange and yellow, casting an eerie glow over the landscape. The dark silhouettes of trees stand out sharply against the fiery backdrop, emphasizing the intensity and power of the natural event.
+  - **[NEEDS REPLY]** Reply by brendamayderosier:  ([link](https://www.threads.com/@brendamayderosier/post/De16s5pkTvO))
+    - Photo: Against a dusky sky, a golden cloud formation resembles a dragon breathing fire. The silhouette of a street lamp is visible at the bottom left.
+  - **[NEEDS REPLY]** Reply by steff_r13: Last photo of my dog. 🐶🪽✨ ([link](https://www.threads.com/@steff_r13/post/De15P6BFSr2))
+    - Photo: A small white and tan terrier mix wearing a blue mesh harness lies comfortably on a brown textured armchair, looking intently to the side. Nearby toys suggest a cozy indoor setting, perfect for a relaxed pet portrait.
+  - **[NEEDS REPLY]** Reply by bybaird: Pakistan ([link](https://www.threads.com/@bybaird/post/De14y06lJlx))
+    - Photo: Golden sunlight casts a warm glow on the snow-capped peaks of towering mountains, contrasting sharply with the deep, cool shadows of the rocky slopes below.
+  - **[NEEDS REPLY]** Reply by tnakluck:  ([link](https://www.threads.com/@tnakluck/post/De14lJ3FG9c))
+    - Photo: A vibrant orange sunset illuminates a mountain range with a rugged trail winding up a slope in the foreground.
+  - **[NEEDS REPLY]** Reply by asi.osbourne:  ([link](https://www.threads.com/@asi.osbourne/post/De14LX-iL90))
+    - Photo: Golden sunlight filters through a misty, autumnal forest, casting dramatic rays over a forest floor covered in fallen brown leaves. Tall trees stand on a sloping hill, creating a serene and magical morning landscape.
+  - **[NEEDS REPLY]** Reply by findbeauty831: My golden eye! ([link](https://www.threads.com/@findbeauty831/post/De13QHnIFXw))
+    - Photo: A glowing, bright yellow sun hovers over a silhouetted treeline and body of water, casting brilliant orange and yellow light across a dramatic sky of layered clouds.
+  - **[NEEDS REPLY]** Reply by robmajor111:  ([link](https://www.threads.com/@robmajor111/post/De12gFrlVnx))
+    - Photo: A vast field of vibrant yellow wildflowers stretches out beneath a cloudy sky, with two palm trees standing near a body of water in the distance.
+  - **[NEEDS REPLY]** Reply by susan54856:  ([link](https://www.threads.com/@susan54856/post/De11pXlkf3O))
+    - Photo: An impressionistic painting of a flock of sandhill cranes stands on a rustic wooden tabletop. The textured artwork captures the elegant birds in shades of gray, orange, and white, with their characteristic red crests highlighted against a muted background.
+  - **[NEEDS REPLY]** Reply by jimsutton.vn: An April sunrise over the rooftops of Bắc Giang. ([link](https://www.threads.com/@jimsutton.vn/post/De11KOwk_jt))
+    - Photo: A bright, hazy sun casts a golden glow over a densely packed city skyline at dawn. The warm yellow light bathes the rooftops and buildings in a dreamlike, hazy atmosphere.
+  - **[NEEDS REPLY]** Reply by watsjoey: Bonavista, Newfoundland ([link](https://www.threads.com/@watsjoey/post/De10v9dG-7N))
+    - Photo: A vibrant sunset paints the sky in shades of orange and pink over a tranquil ocean. A weathered wooden fence runs along the rocky shoreline, leading the eye toward a small, red cottage perched on the cliffside.
+  - **[NEEDS REPLY]** Reply by resnicklr:  ([link](https://www.threads.com/@resnicklr/post/De10qOqFP80))
+    - Photo: Looking straight up at a circular, domed ceiling, this image captures a detailed golden sunburst with a glowing Eye of Providence at its center. The burst is set against a vibrant red circular background, surrounded by decorative panels radiating outwards in pale green and gold.
+  - **[NEEDS REPLY]** Reply by isadoralovesscarves:  ([link](https://www.threads.com/@isadoralovesscarves/post/De10mUUCpze))
+    - Photo: A vibrant orange sun sets over a calm body of water, framed by the dark, intricate branches of trees in the foreground. The sky glows with warm hues, casting a serene light on the distant mountains and rocky shoreline below.
+  - **[NEEDS REPLY]** Reply by taracee_2017:  ([link](https://www.threads.com/@taracee_2017/post/De10NsCjl0x))
+    - Photo: A view overlooking a coastal city shows sun rays breaking through clouds during sunset or sunrise. The hazy, sepia-toned light casts a warm glow over the water, distant hills, and dark silhouettes of trees in the foreground.
+  - **[NEEDS REPLY]** Reply by abbytabby13:  ([link](https://www.threads.com/@abbytabby13/post/De10AYGDlYX))
+    - Photo: A vibrant, golden-yellow cactus flower is in full bloom against a dark, out-of-focus background. Sharp, spiky thorns surround the delicate blossom, highlighting the contrast between the plant's harsh defenses and its soft, luminous petals.
+  - **[NEEDS REPLY]** Reply by paul.moorman91:  ([link](https://www.threads.com/@paul.moorman91/post/De1zlhUFm6Z))
+    - Photo: A high-angle view captures a city skyline silhouetted against a dramatic sunset with gold and grey clouds. In the foreground, illuminated parking garages and palm trees anchor the urban scene.
+  - Reply by _olliemorgan:  ([link](https://www.threads.com/@_olliemorgan/post/De1ycuzFg7O))
     - Photo: A close-up, high-angle shot reveals the textured surface of crinkled, shiny cellophane or plastic wrap, catching warm light that creates bright, glittering highlights across its uneven expanse.
-  - **[NEEDS REPLY]** Reply by rattlesnakelaw:  ([link](https://www.threads.com/@rattlesnakelaw/post/De1yD9Blt3q))
-    - Photo: The "Welcome to Roswell" sign stands tall in a flat, arid landscape under a cloudy sunset sky, featuring a UFO on top and graffiti on its base. The quirky monument highlights the area's famous UFO lore, making it a must-visit roadside stop for alien enthusiasts.
-  - **[NEEDS REPLY]** Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/De1x4PHFJbO))
+    - Reply by saars.foto: Macro on crinkled cellophane, and every fold is catching its own highlight - a field of tiny mirrors. What was the light, straight window sun? ([link](https://www.threads.com/@saars.foto/post/De1z_hFkWq1))
+      - **[NEEDS LIKE]** Reply by _olliemorgan: Bubble wrap with sun coming through the window. ([link](https://www.threads.com/@_olliemorgan/post/De10TmQlnbW))
+  - Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/De1x4PHFJbO))
     - Photo: A caravan of silhouetted camels and riders crests a sand dune against a vibrant sunset sky that fades from deep orange to pale blue. This picturesque desert scene evokes a serene and adventurous travel vibe.
-  - **[NEEDS REPLY]** Reply by heidi.undefined: Golden light underground inside a drained old cistern. ([link](https://www.threads.com/@heidi.undefined/post/De1x2RJCqSk))
+    - Reply by saars.foto: You put the caravan right on the crest line so the silhouettes read clean against the gradient. Were you down in the sand, shooting up at them? ([link](https://www.threads.com/@saars.foto/post/De10BymFneU))
+      - **[NEEDS LIKE]** Reply by taiwanese726: I took this photo from a distance at eye level, using a mobile phone. ([link](https://www.threads.com/@taiwanese726/post/De10S0OGDq-))
+  - Reply by heidi.undefined: Golden light underground inside a drained old cistern. ([link](https://www.threads.com/@heidi.undefined/post/De1x2RJCqSk))
     - Photo: This low-angle vertical shot shows an underground room with a high ceiling supported by concrete arches. The concrete columns frame the room, and there is a wet floor.
-  - **[NEEDS REPLY]** Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/De1xqx_G59W))
+    - Reply by saars.foto: Low angle, arches carrying the whole frame, wet floor doubling what little light there is. How did you get access down there? ([link](https://www.threads.com/@saars.foto/post/De10DiAkVjJ))
+      - **[NEEDS LIKE]** Reply by heidi.undefined: You can access it by visiting the art exhibitions held down there. I come here every year because they change the exhibition every year! ([link](https://www.threads.com/@heidi.undefined/post/De11PuzirOO))
+  - Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/De1xqx_G59W))
     - Photo: A vertical, outdoor shot captures a vibrant sunset against a pale sky filled with light, wispy, horizontal clouds, tinged with a warm, golden glow in the center. A roofline with trees on either side anchors the bottom of the image, while the silhouette of a tree frames the left side.
-  - **[NEEDS REPLY]** Reply by medium.gords7:  ([link](https://www.threads.com/@medium.gords7/post/De1xFzGkWZW))
+    - Reply by saars.foto: You gave the sky four-fifths of the frame and let the roofline just anchor it. Was this the peak of the glow, or did it build after? ([link](https://www.threads.com/@saars.foto/post/De10FF3Eejm))
+      - **[NEEDS LIKE]** Reply by tallerthanyou2026: It quickly disappeared ([link](https://www.threads.com/@tallerthanyou2026/post/De10TsJG55W))
+  - Reply by medium.gords7:  ([link](https://www.threads.com/@medium.gords7/post/De1xFzGkWZW))
     - Photo: A dense forest of tall trees is bathed in warm, golden sunlight filtering through the canopy, creating a peaceful and serene atmosphere. The vibrant green leaves and glowing light make it a perfect backdrop for a nature-loving social media post.
-  - **[NEEDS REPLY]** Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/De1wWwmFxgK))
+    - Reply by saars.foto: Backlit canopy - you shot into the light and let the leaves glow instead of flattening green. Did the light find you on the path, or did you go looking for the gap? ([link](https://www.threads.com/@saars.foto/post/De10Gtujvyy))
+      - **[NEEDS LIKE]** Reply by medium.gords7: I was the passenger in a car and happened to look to my right and saw this light and quickly snapped a photo. ￼￼ ([link](https://www.threads.com/@medium.gords7/post/De12FThEQCy))
+  - Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/De1wWwmFxgK))
     - Photo: A lone bird soars high in the pale sky against a backdrop of hazy, rolling hills and a soft sunset glow.
-  - **[NEEDS REPLY]** Reply by beapersaud: Sunrise by the lake in my neighborhood ([link](https://www.threads.com/@beapersaud/post/De1vqGlEbmA))
+    - Reply by saars.foto: All that negative space with one bird in it - that's a patience shot. How long were you watching that sky before it crossed? ([link](https://www.threads.com/@saars.foto/post/De10IDnEb57))
+      - **[NEEDS LIKE]** Reply by vuurenbernadettevan: I think i was just shooting.. ([link](https://www.threads.com/@vuurenbernadettevan/post/De10ztjF9Ps))
+  - Reply by beapersaud: Sunrise by the lake in my neighborhood ([link](https://www.threads.com/@beapersaud/post/De1vqGlEbmA))
     - Photo: A flock of seagulls takes flight from a wooden dock overlooking a serene lake during a golden sunset, with dark forest treelines lining the horizon under a cloudy sky.
+    - Reply by saars.foto: You caught the gulls mid-liftoff, so a still lake gets a burst of motion. One lucky burst, or were you set up on that dock a while? ([link](https://www.threads.com/@saars.foto/post/De10JhGEXFg))
+      - **[NEEDS LIKE]** Reply by beapersaud: My husband usually put some sunflower seeds for them most mornings. We love the feeding frenzy...lots of action ([link](https://www.threads.com/@beapersaud/post/De16lS8kf_b))
   - Reply by thetonbridgegardener: Sunrise in the Churnet Valley, Staffordshire, September. ([link](https://www.threads.com/@thetonbridgegardener/post/De1vLjtjYYK))
     - Photo: A row of silhouetted trees stands against a vibrant sunset sky that transitions from bright orange near the horizon to soft pink and purple above. The stark contrast between the dark trees and the colorful twilight creates a peaceful and moody atmosphere.
-    - Reply by saars.foto: You let the trees go full silhouette and kept every layer of that sky, orange up to violet. Did you expose for the sky and let the valley fall to black on purpose? ([link](https://www.threads.com/@saars.foto/post/De1xO3gIFB8))
-      - **[NEEDS REPLY]** Reply by thetonbridgegardener: I did in that pic...and it was only with this crappy old Samsung phone camera. Took this one a few seconds before. Usually phone cameras do not do sunrise/set colours justice, they just bleach everything out. But I think I got this because the sun wasn't over the horizon yet. ([link](https://www.threads.com/@thetonbridgegardener/post/De1xqc0jaJK))
-        - Photo: A vibrant sunset with streaks of purple and pink paints the sky behind the dark silhouettes of trees, creating a serene and picturesque view.
-    - **[NEEDS REPLY]** Reply by yvetime:  ([link](https://www.threads.com/@yvetime/post/De1vyXvDWMs))
+    _(+3 more replies already answered under this, see archive)_
+    - Reply by yvetime:  ([link](https://www.threads.com/@yvetime/post/De1vyXvDWMs))
       - Photo: A bright sun sets behind a silhouetted treeline, casting a warm golden glow over a verdant park at dusk. Wispy, scattered clouds create an ethereal backdrop in the evening sky, perfect for a peaceful nature post.
+      - Reply by saars.foto: Treeline kept low, sun sitting right on it, and the glow spills into the bottom third. Your local park, or were you passing through? ([link](https://www.threads.com/@saars.foto/post/De10KqQFHgd))
+        - **[NEEDS LIKE]** Reply by yvetime: The park where I walk my dog every day. ([link](https://www.threads.com/@yvetime/post/De14kkEDUzR))
+  - Reply by schemenme:  ([link](https://www.threads.com/@schemenme/post/De1vA0YG-O1))
+    - Photo: A vibrant golden and dark cloud-filled sunset spreads across the horizon, casting a warm glow over a calm body of water and a silhouetted shoreline.
+    - Reply by saars.foto: Shot low across the water so the reflection doubles the sky. That dark cloud mass pressing on the glow - did it really sit that heavy, or did you lean into it in the exposure? ([link](https://www.threads.com/@saars.foto/post/De1xQn8IIPZ))
+      - **[NEEDS LIKE]** Reply by schemenme: I played with the exposure just a little but the color was amazing ([link](https://www.threads.com/@schemenme/post/De10QS3m5YB))
   _(+4 more replies elsewhere in this thread already answered, see [full thread](threads/18089706719271990.md))_
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
@@ -68,7 +116,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch.
     - Reply by saars.foto: A porch that whispers instead of shouts. The little two-tone pumpkin runs the whole arrangement. ([link](https://www.threads.com/@saars.foto/post/Dezv3KVIElu))
       - **[NEEDS LIKE]** Reply by colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
-  _(+24 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
+  _(+26 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
 - **Thread** [17980137651136213](https://www.threads.com/@saars.foto/post/DewrNxkmwgB): Autumn Tuesday favorites 🏆 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/
   - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
   - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.
