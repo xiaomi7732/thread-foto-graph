@@ -4,9 +4,15 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (44)
+## Needs Like (48)
+
+### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
+- bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
+- bugs_eye_view_of_you: Hi, this belongs to my neighbor. They put it up October 1st every year. I love how realistic it looks. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1yZzcnI_G))
+- tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- deputysec: Found it walking in and loved it ! Btw yours is so fun!!!! ([link](https://www.threads.com/@deputysec/post/De1yWzQlUhS))
 - bojonvelvet2.0: SF takes Halloween seriously.. 😆 ([link](https://www.threads.com/@bojonvelvet2.0/post/De0lj-GGzpl))
 - colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
 

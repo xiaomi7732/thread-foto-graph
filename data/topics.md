@@ -2,38 +2,56 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: kes_ward, garnome, passenger, susannemariehelene
+## Topic: sky, autumn, water, vibrant
 
+- **Thread** [18190947304409568](https://www.threads.com/@saars.foto/post/De1x21vFGoT): Haunted Thursday favorites 🏆 Three haunts that stopped my scroll. @juliahh @bugs_eye_view_of_you @tiffany.art2020 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De1xcL1E2Sh/
+  - Photo: A life-sized skeleton dressed in a black robe and hat stands behind a glass front door, bathed in the warm, bright glow of an indoor light at night.
+  - Photo: A large, plastic, cream-colored Halloween skeleton appears to be bursting out of the grass in a front yard, with fake spider webs draped over the bushes and porch behind it.
+  - Photo: An eerie photo shows an illuminated white human skeleton standing against a textured, rustic brown backdrop.
+  - **[NEEDS LIKE]** Reply by bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
+  - Reply by saars.foto: He climbed out and immediately struck a pose. How long does the full lawn setup take you each year? @bugs_eye_view_of_you ([link](https://www.threads.com/@saars.foto/post/De1x-X7lpKy))
+    - **[NEEDS LIKE]** Reply by bugs_eye_view_of_you: Hi, this belongs to my neighbor. They put it up October 1st every year. I love how realistic it looks. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1yZzcnI_G))
+  - **[NEEDS LIKE]** Reply by tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
+  _(+2 more replies elsewhere in this thread already answered, see [full thread](threads/18190947304409568.md))_
+- **Thread** [18089706719271990](https://www.threads.com/@saars.foto/post/De1uZZrESrB): Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. Fog and first light on my street - all gold for about a minute. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
+  - Photo: Sunlight filters through the misty air of a quiet residential street, casting dramatic rays over autumn-colored trees and a parked truck.
+  - **[NEEDS REPLY]** Reply by _olliemorgan:  ([link](https://www.threads.com/@_olliemorgan/post/De1ycuzFg7O))
+    - Photo: A close-up, high-angle shot reveals the textured surface of crinkled, shiny cellophane or plastic wrap, catching warm light that creates bright, glittering highlights across its uneven expanse.
+  - **[NEEDS REPLY]** Reply by rattlesnakelaw:  ([link](https://www.threads.com/@rattlesnakelaw/post/De1yD9Blt3q))
+    - Photo: The "Welcome to Roswell" sign stands tall in a flat, arid landscape under a cloudy sunset sky, featuring a UFO on top and graffiti on its base. The quirky monument highlights the area's famous UFO lore, making it a must-visit roadside stop for alien enthusiasts.
+  - **[NEEDS REPLY]** Reply by taiwanese726:  ([link](https://www.threads.com/@taiwanese726/post/De1x4PHFJbO))
+    - Photo: A caravan of silhouetted camels and riders crests a sand dune against a vibrant sunset sky that fades from deep orange to pale blue. This picturesque desert scene evokes a serene and adventurous travel vibe.
+  - **[NEEDS REPLY]** Reply by heidi.undefined: Golden light underground inside a drained old cistern. ([link](https://www.threads.com/@heidi.undefined/post/De1x2RJCqSk))
+    - Photo: This low-angle vertical shot shows an underground room with a high ceiling supported by concrete arches. The concrete columns frame the room, and there is a wet floor.
+  - **[NEEDS REPLY]** Reply by tallerthanyou2026:  ([link](https://www.threads.com/@tallerthanyou2026/post/De1xqx_G59W))
+    - Photo: A vertical, outdoor shot captures a vibrant sunset against a pale sky filled with light, wispy, horizontal clouds, tinged with a warm, golden glow in the center. A roofline with trees on either side anchors the bottom of the image, while the silhouette of a tree frames the left side.
+  - **[NEEDS REPLY]** Reply by medium.gords7:  ([link](https://www.threads.com/@medium.gords7/post/De1xFzGkWZW))
+    - Photo: A dense forest of tall trees is bathed in warm, golden sunlight filtering through the canopy, creating a peaceful and serene atmosphere. The vibrant green leaves and glowing light make it a perfect backdrop for a nature-loving social media post.
+  - **[NEEDS REPLY]** Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/De1wWwmFxgK))
+    - Photo: A lone bird soars high in the pale sky against a backdrop of hazy, rolling hills and a soft sunset glow.
+  - **[NEEDS REPLY]** Reply by beapersaud: Sunrise by the lake in my neighborhood ([link](https://www.threads.com/@beapersaud/post/De1vqGlEbmA))
+    - Photo: A flock of seagulls takes flight from a wooden dock overlooking a serene lake during a golden sunset, with dark forest treelines lining the horizon under a cloudy sky.
+  - Reply by thetonbridgegardener: Sunrise in the Churnet Valley, Staffordshire, September. ([link](https://www.threads.com/@thetonbridgegardener/post/De1vLjtjYYK))
+    - Photo: A row of silhouetted trees stands against a vibrant sunset sky that transitions from bright orange near the horizon to soft pink and purple above. The stark contrast between the dark trees and the colorful twilight creates a peaceful and moody atmosphere.
+    - Reply by saars.foto: You let the trees go full silhouette and kept every layer of that sky, orange up to violet. Did you expose for the sky and let the valley fall to black on purpose? ([link](https://www.threads.com/@saars.foto/post/De1xO3gIFB8))
+      - **[NEEDS REPLY]** Reply by thetonbridgegardener: I did in that pic...and it was only with this crappy old Samsung phone camera. Took this one a few seconds before. Usually phone cameras do not do sunrise/set colours justice, they just bleach everything out. But I think I got this because the sun wasn't over the horizon yet. ([link](https://www.threads.com/@thetonbridgegardener/post/De1xqc0jaJK))
+        - Photo: A vibrant sunset with streaks of purple and pink paints the sky behind the dark silhouettes of trees, creating a serene and picturesque view.
+    - **[NEEDS REPLY]** Reply by yvetime:  ([link](https://www.threads.com/@yvetime/post/De1vyXvDWMs))
+      - Photo: A bright sun sets behind a silhouetted treeline, casting a warm golden glow over a verdant park at dusk. Wispy, scattered clouds create an ethereal backdrop in the evening sky, perfect for a peaceful nature post.
+  _(+4 more replies elsewhere in this thread already answered, see [full thread](threads/18089706719271990.md))_
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
   - Photo: A macro shot shows a row of six clear, glistening water droplets balanced precariously along the edge of a vibrant green blade of grass, capturing the delicate beauty of a rainy morning. The background is a soft, out-of-focus blend of muted greens and whites, creating a serene and contemplative atmosphere.
   - Photo: A person wearing a hat pilots a small motorized dinghy through calm harbor waters, with a passenger resting nearby. In the background, numerous sailboats are anchored against a hazy shoreline.
   - All 5 replies already answered. ✅ ([full thread](threads/18135581695736524.md))
-
-## Topic: autumn, water, leaves, sky
-
-- **Thread** [18089706719271990](https://www.threads.com/@saars.foto/post/De1uZZrESrB): Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. Fog and first light on my street - all gold for about a minute. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
-  - Photo: Sunlight filters through the misty air of a quiet residential street, casting dramatic rays over autumn-colored trees and a parked truck.
-  - **[NEEDS REPLY]** Reply by thetonbridgegardener: Sunrise in the Churnet Valley, Staffordshire, September. ([link](https://www.threads.com/@thetonbridgegardener/post/De1vLjtjYYK))
-    - Photo: A row of silhouetted trees stands against a vibrant sunset sky that transitions from bright orange near the horizon to soft pink and purple above. The stark contrast between the dark trees and the colorful twilight creates a peaceful and moody atmosphere.
-  - **[NEEDS REPLY]** Reply by schemenme:  ([link](https://www.threads.com/@schemenme/post/De1vA0YG-O1))
-    - Photo: A vibrant golden and dark cloud-filled sunset spreads across the horizon, casting a warm glow over a calm body of water and a silhouetted shoreline.
-  - **[NEEDS REPLY]** Reply by jellyfish07262026:  ([link](https://www.threads.com/@jellyfish07262026/post/De1uwcClKVt))
-    - Photo: A low-angle shot captures a red metal truss bridge against a bright, hazy sky at sunset. Tall, feathery grasses line the foreground, illuminated by the warm, golden light of the sun peeking from beneath the bridge.
-    - Photo: A close-up shot of tall, feathery grasses sways gently in a field at sunset, their delicate plumes catching the warm, golden light of the fading sun.
-    - Photo: A striking, golden-flowered tree stands centered against a setting sun, creating a luminous silhouette. The tranquil rural scene is complemented by train tracks running in the background.
-    - Photo: A low-angle, eye-level shot captures a modern pedestrian bridge featuring sweeping, tubular steel arches and a curved walkway, with bright sunlight breaking through the structure. The sunlight creates a vibrant starburst effect at the center of the frame and a horizontal lens flare stretching across the image, casting long shadows across the pathway.
-  ([full thread](threads/18089706719271990.md))
 - **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
-  - **[NEEDS REPLY]** Reply by deputysec: 🎃🫶🏽 ([link](https://www.threads.com/@deputysec/post/De1fh7LlTNF))
+  - Reply by deputysec: 🎃🫶🏽 ([link](https://www.threads.com/@deputysec/post/De1fh7LlTNF))
     - Photo: A dimly lit restaurant corridor is decorated for a magical or witchy theme, featuring floating candles, witch hats, and a rose-covered archway. The ceiling sparkles with purple fairy lights, creating an enchanting ambiance as patrons dine inside.
     - Photo: A dark corridor, reminiscent of the Great Hall at Hogwarts, is adorned with floating candles and wizard hats suspended from the ceiling. The walls are lined with vintage, dark-framed portraits, and a door at the end glows with blue light, displaying a graphic of a long hallway.
     - Photo: A humorous Hocus Pocus-themed t-shirt reads, "Sanderson Sisters Bed and Breakfast Kids Stay Free." The background features a watercolor wash of orange, purple, and green behind black silhouettes of witches flying on brooms.
-  - **[NEEDS REPLY]** Reply by brendj08:  ([link](https://www.threads.com/@brendj08/post/De1e7PQmglR))
-    - Photo: An orange cat peeks from beneath pumpkins on the porch of a yellow house, which is festively decorated with autumn decor like pumpkins and leaves.
-  - **[NEEDS REPLY]** Reply by debbiedunlap79:  ([link](https://www.threads.com/@debbiedunlap79/post/De1epAqFTKp))
-    - Photo: A tall ghost-like grim reaper figure stands next to a lamppost, draped in tattered grey fabric and with a skeletal head and hands, outside a house with a blue exterior and white porch. The front porch is heavily decorated for Halloween, featuring another skeleton, a "Graveyard" sign, and orange pumpkins with goofy expressions amidst potted plants.
+    - Reply by saars.foto: That corridor is all one-point perspective - floating candles pulling the eye straight to the blue-lit door at the end. Planned center frame, or did you find it walking in? ([link](https://www.threads.com/@saars.foto/post/De1xTrLFaGB))
+      - **[NEEDS LIKE]** Reply by deputysec: Found it walking in and loved it ! Btw yours is so fun!!!! ([link](https://www.threads.com/@deputysec/post/De1yWzQlUhS))
   - Reply by bojonvelvet2.0: Treat Street goes all out ([link](https://www.threads.com/@bojonvelvet2.0/post/Dez6BTkEhHh))
     - Photo: At night, people wearing Halloween costumes gather on a sloped residential street. The street slopes downward toward the brightly lit skyscrapers of a city in the distance, and cars are parked on either side of the road.
     - Reply by saars.foto: A whole street of costumes sloping down toward the skyline. Treat Street understood the assignment at scale. ([link](https://www.threads.com/@saars.foto/post/De0HCDXFjdY))
@@ -50,7 +68,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch.
     - Reply by saars.foto: A porch that whispers instead of shouts. The little two-tone pumpkin runs the whole arrangement. ([link](https://www.threads.com/@saars.foto/post/Dezv3KVIElu))
       - **[NEEDS LIKE]** Reply by colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
-  _(+20 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
+  _(+24 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
 - **Thread** [17980137651136213](https://www.threads.com/@saars.foto/post/DewrNxkmwgB): Autumn Tuesday favorites 🏆 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/
   - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
   - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.

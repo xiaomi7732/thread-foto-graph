@@ -6,28 +6,33 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (8)
+## Needs Reply (12)
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
-- **thetonbridgegardener**: Sunrise in the Churnet Valley, Staffordshire, September. ([link](https://www.threads.com/@thetonbridgegardener/post/De1vLjtjYYK))
-  - Photo: A row of silhouetted trees stands against a vibrant sunset sky that transitions from bright orange near the horizon to soft pink and purple above. The stark contrast between the dark trees and the colorful twilight creates a peaceful and moody atmosphere.
-- **schemenme**:  ([link](https://www.threads.com/@schemenme/post/De1vA0YG-O1))
-  - Photo: A vibrant golden and dark cloud-filled sunset spreads across the horizon, casting a warm glow over a calm body of water and a silhouetted shoreline.
-- **jellyfish07262026**:  ([link](https://www.threads.com/@jellyfish07262026/post/De1uwcClKVt))
-  - Photo: A low-angle shot captures a red metal truss bridge against a bright, hazy sky at sunset. Tall, feathery grasses line the foreground, illuminated by the warm, golden light of the sun peeking from beneath the bridge.
-  - Photo: A close-up shot of tall, feathery grasses sways gently in a field at sunset, their delicate plumes catching the warm, golden light of the fading sun.
-  - Photo: A striking, golden-flowered tree stands centered against a setting sun, creating a luminous silhouette. The tranquil rural scene is complemented by train tracks running in the background.
-  - Photo: A low-angle, eye-level shot captures a modern pedestrian bridge featuring sweeping, tubular steel arches and a curved walkway, with bright sunlight breaking through the structure. The sunlight creates a vibrant starburst effect at the center of the frame and a horizontal lens flare stretching across the image, casting long shadows across the pathway.
+- **_olliemorgan**:  ([link](https://www.threads.com/@_olliemorgan/post/De1ycuzFg7O))
+  - Photo: A close-up, high-angle shot reveals the textured surface of crinkled, shiny cellophane or plastic wrap, catching warm light that creates bright, glittering highlights across its uneven expanse.
+- **rattlesnakelaw**:  ([link](https://www.threads.com/@rattlesnakelaw/post/De1yD9Blt3q))
+  - Photo: The "Welcome to Roswell" sign stands tall in a flat, arid landscape under a cloudy sunset sky, featuring a UFO on top and graffiti on its base. The quirky monument highlights the area's famous UFO lore, making it a must-visit roadside stop for alien enthusiasts.
+- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/De1x4PHFJbO))
+  - Photo: A caravan of silhouetted camels and riders crests a sand dune against a vibrant sunset sky that fades from deep orange to pale blue. This picturesque desert scene evokes a serene and adventurous travel vibe.
+- **heidi.undefined**: Golden light underground inside a drained old cistern. ([link](https://www.threads.com/@heidi.undefined/post/De1x2RJCqSk))
+  - Photo: This low-angle vertical shot shows an underground room with a high ceiling supported by concrete arches. The concrete columns frame the room, and there is a wet floor.
+- **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/De1xqx_G59W))
+  - Photo: A vertical, outdoor shot captures a vibrant sunset against a pale sky filled with light, wispy, horizontal clouds, tinged with a warm, golden glow in the center. A roofline with trees on either side anchors the bottom of the image, while the silhouette of a tree frames the left side.
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/De1xFzGkWZW))
+  - Photo: A dense forest of tall trees is bathed in warm, golden sunlight filtering through the canopy, creating a peaceful and serene atmosphere. The vibrant green leaves and glowing light make it a perfect backdrop for a nature-loving social media post.
+- **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/De1wWwmFxgK))
+  - Photo: A lone bird soars high in the pale sky against a backdrop of hazy, rolling hills and a soft sunset glow.
+- **beapersaud**: Sunrise by the lake in my neighborhood ([link](https://www.threads.com/@beapersaud/post/De1vqGlEbmA))
+  - Photo: A flock of seagulls takes flight from a wooden dock overlooking a serene lake during a golden sunset, with dark forest treelines lining the horizon under a cloudy sky.
+- **thetonbridgegardener**: I did in that pic...and it was only with this crappy old Samsung phone camera. Took this one a few seconds before. Usually phone cameras do not do sunrise/set colours justice, they just bleach everything out. But I think I got this because the sun wasn't over the horizon yet. ([link](https://www.threads.com/@thetonbridgegardener/post/De1xqc0jaJK))
+  - Photo: A vibrant sunset with streaks of purple and pink paints the sky behind the dark silhouettes of trees, creating a serene and picturesque view.
+  - _Replying to: You let the trees go full silhouette and kept every layer o…_
+- **yvetime**:  ([link](https://www.threads.com/@yvetime/post/De1vyXvDWMs))
+  - Photo: A bright sun sets behind a silhouetted treeline, casting a warm golden glow over a verdant park at dusk. Wispy, scattered clouds create an ethereal backdrop in the evening sky, perfect for a peaceful nature post.
+  - _Replying to: Sunrise in the Churnet Valley, Staffordshire, September._
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
-- **deputysec**: 🎃🫶🏽 ([link](https://www.threads.com/@deputysec/post/De1fh7LlTNF))
-  - Photo: A dimly lit restaurant corridor is decorated for a magical or witchy theme, featuring floating candles, witch hats, and a rose-covered archway. The ceiling sparkles with purple fairy lights, creating an enchanting ambiance as patrons dine inside.
-  - Photo: A dark corridor, reminiscent of the Great Hall at Hogwarts, is adorned with floating candles and wizard hats suspended from the ceiling. The walls are lined with vintage, dark-framed portraits, and a door at the end glows with blue light, displaying a graphic of a long hallway.
-  - Photo: A humorous Hocus Pocus-themed t-shirt reads, "Sanderson Sisters Bed and Breakfast Kids Stay Free." The background features a watercolor wash of orange, purple, and green behind black silhouettes of witches flying on brooms.
-- **brendj08**:  ([link](https://www.threads.com/@brendj08/post/De1e7PQmglR))
-  - Photo: An orange cat peeks from beneath pumpkins on the porch of a yellow house, which is festively decorated with autumn decor like pumpkins and leaves.
-- **debbiedunlap79**:  ([link](https://www.threads.com/@debbiedunlap79/post/De1epAqFTKp))
-  - Photo: A tall ghost-like grim reaper figure stands next to a lamppost, draped in tattered grey fabric and with a skeletal head and hands, outside a house with a blue exterior and white porch. The front porch is heavily decorated for Halloween, featuring another skeleton, a "Graveyard" sign, and orange pumpkins with goofy expressions amidst potted plants.
 - **remalysh**: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
   - Photo: A toddler in brown and white striped pajamas and a black and red cape plays with a carved pumpkin on a porch.
 
@@ -40,9 +45,15 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (44)
+## Needs Like (48)
+
+### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
+- bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
+- bugs_eye_view_of_you: Hi, this belongs to my neighbor. They put it up October 1st every year. I love how realistic it looks. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1yZzcnI_G))
+- tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- deputysec: Found it walking in and loved it ! Btw yours is so fun!!!! ([link](https://www.threads.com/@deputysec/post/De1yWzQlUhS))
 - bojonvelvet2.0: SF takes Halloween seriously.. 😆 ([link](https://www.threads.com/@bojonvelvet2.0/post/De0lj-GGzpl))
 - colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
 
