@@ -180,12 +180,13 @@ def _photo_lines(item: dict) -> list[str]:
 
     Always one entry per actual photo, even if Gemini hasn't described it yet
     (e.g. daily quota hit) -- so an empty list unambiguously means "no
-    photos", never "photos not described yet".
+    photos", never "photos not described yet". Collapse whitespace so a
+    multi-section description stays inside its Markdown photo bullet.
     """
     descriptions = item.get("photo_descriptions")
     if not descriptions:
         return []
-    return [d if d else PENDING_PHOTO_TEXT for d in descriptions]
+    return [_snippet(d, length=None) if d else PENDING_PHOTO_TEXT for d in descriptions]
 
 
 
