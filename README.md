@@ -333,6 +333,58 @@ Notes on how it differs from the Task Scheduler setup:
 3. Save. Your graph will be viewable at
    `https://xiaomi7732.github.io/thread-foto-graph/` after the next push.
 
+### Reply image thumbnail gallery
+
+The separate **Generate Reply Image Gallery** action runs after a successful
+**Update Thread Topic Graph** run on `main`, or manually from the Actions tab.
+It uses exactly the root threads in the latest `docs/graph.json` and fetches
+fresh reply media URLs, without calling Gemini or changing the topic graph.
+It includes **all visible reply images** (answered or not, including nested
+replies and every image in a carousel), but not root-post photos, videos, or
+hidden reply branches.
+
+After the workflow is pushed to `main` and run, use the gallery link in the
+run summary (also linked from the graph). With Pages publishing `/docs`,
+the gallery is at `https://xiaomi7732.github.io/thread-foto-graph/reply-images.html`;
+with the repository-root Pages source, it is under `/docs/reply-images.html`.
+The downloadable Markdown is hosted as `reply-images.txt` (saved as
+`reply-images.md` by the download button) so a repository-root Jekyll build
+serves it unchanged without conflicting with the HTML gallery. `docs/.nojekyll`
+also supports publishing `/docs` directly. The existing repository-root Jekyll
+site is left unchanged. Thumbnails are grouped by topic and thread;
+each has direct **Reply** and **Thread** links. Use **Copy Markdown** for a
+linked thumbnail, **Copy reply link**, or the page-wide copy buttons. Copying
+Markdown copies the embed text, not image files. If the browser blocks clipboard
+access, a selected text box lets you copy manually.
+
+Click **Favorite** on individual images, then **Show favorites** to review only
+your picks. **Copy favorite reply links** copies one link per selected reply
+(deduplicated when several selected photos belong to the same reply).
+**Reset favorites** clears all picks. Selections are in memory only: reloading
+or closing the page also clears them; nothing is saved to browser storage or
+the repository.
+
+The workflow commits `data/reply-images.md` plus
+`docs/reply-images.html` / `docs/reply-images.txt`, and uploads a
+`reply-image-gallery` artifact. The run summary links to the published page
+and Markdown. It reuses the existing `THREADS_ACCESS_TOKEN` and `GH_PATH`
+secrets, writer concurrency group, and token/vision cache. No additional
+secrets or Pages configuration are needed.
+
+Graph and gallery runs share a queued writer lock so pending updates are not
+replaced by gallery runs. If an external push changes `docs/graph.json` during
+generation, the gallery workflow regenerates against the new topics before
+retrying publication.
+
+Threads' image URLs expire; the gallery deliberately uses remote images rather
+than archiving other people's photos. Rerun the action to refresh expired
+thumbnails. The gallery and Markdown are public, like the existing graph.
+To generate locally using the configured Threads token:
+
+```powershell
+.venv\Scripts\python.exe -m src.reply_gallery
+```
+
 ## Pointing AI at the text tree
 
 Since the repo is public, give AI the raw URL so it reads text only. Point a

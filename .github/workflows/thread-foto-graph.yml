@@ -20,6 +20,7 @@ on:
 concurrency:
   group: thread-foto-graph
   cancel-in-progress: false
+  queue: max
 
 permissions:
   contents: write

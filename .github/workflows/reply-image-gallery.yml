@@ -1,0 +1,123 @@
+name: Generate Reply Image Gallery
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Update Thread Topic Graph"]
+    types: [completed]
+    branches: [main]
+
+# Share the writer lock and token cache with the topic-graph pipeline.
+concurrency:
+  group: thread-foto-graph
+  cancel-in-progress: false
+  queue: max
+
+permissions:
+  contents: write
+  pages: read
+
+jobs:
+  gallery:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout latest published topics
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GH_PATH }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore local cache
+        id: cache
+        uses: actions/cache/restore@v4
+        with:
+          path: cache
+          key: thread-foto-graph-cache-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            thread-foto-graph-cache-
+
+      - name: Generate gallery without Gemini
+        id: generate
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python -m src.reply_gallery
+
+      - name: Publish gallery
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/reply-images.html docs/reply-images.txt data/reply-images.md
+          if git diff --cached --quiet; then
+            echo "No gallery changes."
+            exit 0
+          fi
+          git commit -m "Update reply image gallery"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            graph_changed=false
+            if ! git diff --quiet HEAD origin/main -- docs/graph.json; then
+              graph_changed=true
+            fi
+            git rebase origin/main
+            if [ "$graph_changed" = true ]; then
+              echo "Topics changed upstream; regenerating the gallery before publishing."
+              python -m src.reply_gallery
+              git add docs/reply-images.html docs/reply-images.txt data/reply-images.md
+              if ! git diff --cached --quiet; then
+                git commit -m "Refresh reply image gallery for updated topics"
+              fi
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "::error::Failed to push reply image gallery."
+          exit 1
+
+      - name: Save refreshed token and existing vision cache
+        if: always() && steps.cache.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: cache
+          key: thread-foto-graph-cache-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Upload gallery
+        if: always() && steps.generate.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: reply-image-gallery
+          path: |
+            docs/reply-images.html
+            docs/reply-images.txt
+            data/reply-images.md
+          if-no-files-found: error
+
+      - name: Link gallery in run summary
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          site_url=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url')
+          source_path=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.source.path')
+          gallery_path=reply-images.html
+          if [ "$source_path" != "/docs" ]; then
+            gallery_path=docs/reply-images.html
+          fi
+          echo '## Reply image gallery' >> "$GITHUB_STEP_SUMMARY"
+          echo "[Open thumbnail gallery](${site_url%/}/$gallery_path)" >> "$GITHUB_STEP_SUMMARY"
+          echo '[Copy Markdown from the repository](https://github.com/xiaomi7732/thread-foto-graph/blob/main/data/reply-images.md)' >> "$GITHUB_STEP_SUMMARY"
+          echo 'The gallery is also available in the reply-image-gallery artifact. GitHub Pages may take a minute to update.' >> "$GITHUB_STEP_SUMMARY"
