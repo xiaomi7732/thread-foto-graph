@@ -42,6 +42,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -253,6 +254,30 @@ def _needs_response(reply: dict) -> bool:
     )
 
 
+def _text_words(text: str) -> list[str]:
+    """Keeps combining marks, internal apostrophes, and joiners within words."""
+    text = re.sub(r"[0-9#*]\ufe0f?\u20e3|\u2139\ufe0f", " ", text)
+    text = unicodedata.normalize("NFC", text)
+    words = []
+    word = []
+    for index, char in enumerate(text):
+        if char.isalnum() or (word and unicodedata.category(char).startswith("M")):
+            word.append(char)
+        elif (
+            char in "'\u2019\u200c\u200d"
+            and word
+            and index + 1 < len(text)
+            and text[index + 1].isalnum()
+        ):
+            word.append(char)
+        elif word:
+            words.append("".join(word))
+            word = []
+    if word:
+        words.append("".join(word))
+    return words
+
+
 def _action_category(reply: dict) -> str:
     """Categorizes an unanswered reply into what it's actually worth doing:
     photos and explicit questions need a written reply. Common acknowledgements
@@ -265,7 +290,7 @@ def _action_category(reply: dict) -> str:
     text = reply.get("text") or ""
     if re.search(r"[?\u061f\uff1f]", text):
         return "reply"
-    words = re.findall(r"\b\w+(?:['\u2019]\w+)*\b", text)
+    words = _text_words(text)
     if " ".join(words).casefold() in LIKE_ONLY_PHRASES:
         return "like"
     return "reply" if len(words) > MAX_LIKE_ONLY_WORDS else "like"

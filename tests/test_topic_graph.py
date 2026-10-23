@@ -106,6 +106,18 @@ class NeedsLikeTests(unittest.TestCase):
             ("", "like"),
             (" \t\n ", "like"),
             ("\U0001f44d \U0001f44d \U0001f44d", "like"),
+            ("Nice shot _", "like"),
+            ("1\ufe0f\u20e3 2\ufe0f\u20e3 3\ufe0f\u20e3", "like"),
+            ("1\u20e3 2\u20e3 3\u20e3", "like"),
+            ("#\ufe0f\u20e3 *\ufe0f\u20e3", "like"),
+            ("nai\u0308ve photo", "like"),
+            ("\u0915\u093f photo", "like"),
+            ("\u0905\u091a\u094d\u200d\u091b\u0940 \u092b\u094b\u091f\u094b", "like"),
+            ("\u0639\u06a9\u0633\u200c\u0647\u0627 \u0632\u06cc\u0628\u0627\u0633\u062a", "like"),
+            ("\u2139\ufe0f \u2139\ufe0f \u2139\ufe0f", "like"),
+            ("Nice shot \u2139\ufe0f", "like"),
+            ("nai\u0308ve warm photo", "reply"),
+            ("1 2 3", "reply"),
             ("Thank you!", "like"),
             ("Thank you !!! \U0001f44d", "like"),
             ("THANK YOU SO MUCH!!!", "like"),
@@ -128,6 +140,25 @@ class NeedsLikeTests(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertEqual(topic_graph._action_category({"text": text}), expected)
 
+    def test_unicode_word_tokenization_preserves_words_and_contractions(self):
+        cases = [
+            ("nai\u0308ve photo", ["na\u00efve", "photo"]),
+            ("\u0915\u093f photo", ["\u0915\u093f", "photo"]),
+            ("\u0905\u091a\u094d\u200d\u091b\u0940 photo", ["\u0905\u091a\u094d\u200d\u091b\u0940", "photo"]),
+            ("\u0639\u06a9\u0633\u200c\u0647\u0627 photo", ["\u0639\u06a9\u0633\u200c\u0647\u0627", "photo"]),
+            ("\u2139\ufe0f \u2139\ufe0f", []),
+            ("Nice shot \u2139\ufe0f", ["Nice", "shot"]),
+            ("A\ufe0f photo", ["A\ufe0f", "photo"]),
+            ("Don't stop", ["Don't", "stop"]),
+            ("Don\u2019t stop", ["Don\u2019t", "stop"]),
+            ("Nice_shot _", ["Nice", "shot"]),
+            ("_\u0308 \U0001f44d", []),
+            ("1\ufe0f\u20e3 2\u20e3 #\ufe0f\u20e3 *\u20e3", []),
+        ]
+        for text, expected in cases:
+            with self.subTest(text=text):
+                self.assertEqual(topic_graph._text_words(text), expected)
+
     def test_liked_substantive_text_still_needs_a_written_reply(self):
         for text in ("I tried this yesterday", "What camera?"):
             for liked in (False, True):
@@ -147,14 +178,26 @@ class NeedsLikeTests(unittest.TestCase):
                     self.assertEqual(topic_graph._reply_node(reply)["action"], "reply")
 
     def test_liked_common_acknowledgement_is_resolved(self):
-        reply = {
-            "username": "commenter",
-            "text": "Thank you so much!",
-            "is_liked": True,
-        }
-        self.assertFalse(topic_graph._needs_action(reply))
-        self.assertEqual(topic_graph._prune_for_action([reply]), ([], 1))
-        self.assertIsNone(topic_graph._reply_node(reply)["action"])
+        for text in (
+            "Thank you so much!",
+            "Nice shot _",
+            "1\ufe0f\u20e3 2\ufe0f\u20e3 3\ufe0f\u20e3",
+            "nai\u0308ve photo",
+            "\u0915\u093f photo",
+            "\u0905\u091a\u094d\u200d\u091b\u0940 \u092b\u094b\u091f\u094b",
+            "\u0639\u06a9\u0633\u200c\u0647\u0627 \u0632\u06cc\u0628\u0627\u0633\u062a",
+            "\u2139\ufe0f \u2139\ufe0f \u2139\ufe0f",
+            "Nice shot \u2139\ufe0f",
+        ):
+            with self.subTest(text=text):
+                reply = {
+                    "username": "commenter",
+                    "text": text,
+                    "is_liked": True,
+                }
+                self.assertFalse(topic_graph._needs_action(reply))
+                self.assertEqual(topic_graph._prune_for_action([reply]), ([], 1))
+                self.assertIsNone(topic_graph._reply_node(reply)["action"])
 
     def test_pending_photo_overrides_acknowledgement(self):
         reply = {

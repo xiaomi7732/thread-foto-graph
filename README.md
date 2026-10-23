@@ -160,9 +160,16 @@ Phrase matching ignores case and surrounding punctuation/emoji but must
 match the **whole reply**: `Thank you so much, but where was this taken`
 is not treated as a simple acknowledgement. Punctuation and emoji alone
 do not count as words, and contractions such as "don't" count as one word.
+Unicode combining marks and internal joiners stay within their words;
+standalone underscores, keycap emoji, and the information emoji `ℹ️` do
+not count as words.
 These deterministic rules add no AI calls, but are only a heuristic, not
 general intent detection across languages or phrasing; questions without
-a question mark can still fall through to the word-count rule.
+a question mark can still fall through to the word-count rule. There is no
+dictionary-based segmentation: an unspaced Chinese, Japanese, or Thai
+sentence can count as one word and be classified as like-only. Liking
+such an item resolves it; review those languages manually rather than
+treating this rule as a reliable measure of substance.
 Photos need a reply even while their descriptions are pending. Liking an
 item classified as needs-reply does not resolve it: it stays actionable
 until you reply to it.
