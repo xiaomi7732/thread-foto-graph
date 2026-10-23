@@ -4,9 +4,10 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (43)
+## Needs Like (44)
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
+- bojonvelvet2.0: SF takes Halloween seriously.. 😆 ([link](https://www.threads.com/@bojonvelvet2.0/post/De0lj-GGzpl))
 - colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
 
 ### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))

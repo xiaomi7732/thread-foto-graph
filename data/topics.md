@@ -2,23 +2,48 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: autumn, water, sky, red
+## Topic: kes_ward, garnome, passenger, susannemariehelene
 
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
   - Photo: A macro shot shows a row of six clear, glistening water droplets balanced precariously along the edge of a vibrant green blade of grass, capturing the delicate beauty of a rainy morning. The background is a soft, out-of-focus blend of muted greens and whites, creating a serene and contemplative atmosphere.
   - Photo: A person wearing a hat pilots a small motorized dinghy through calm harbor waters, with a passenger resting nearby. In the background, numerous sailboats are anchored against a hazy shoreline.
   - All 5 replies already answered. ✅ ([full thread](threads/18135581695736524.md))
+
+## Topic: autumn, water, leaves, sky
+
+- **Thread** [18089706719271990](https://www.threads.com/@saars.foto/post/De1uZZrESrB): Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. Fog and first light on my street - all gold for about a minute. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
+  - Photo: Sunlight filters through the misty air of a quiet residential street, casting dramatic rays over autumn-colored trees and a parked truck.
+  - **[NEEDS REPLY]** Reply by thetonbridgegardener: Sunrise in the Churnet Valley, Staffordshire, September. ([link](https://www.threads.com/@thetonbridgegardener/post/De1vLjtjYYK))
+    - Photo: A row of silhouetted trees stands against a vibrant sunset sky that transitions from bright orange near the horizon to soft pink and purple above. The stark contrast between the dark trees and the colorful twilight creates a peaceful and moody atmosphere.
+  - **[NEEDS REPLY]** Reply by schemenme:  ([link](https://www.threads.com/@schemenme/post/De1vA0YG-O1))
+    - Photo: A vibrant golden and dark cloud-filled sunset spreads across the horizon, casting a warm glow over a calm body of water and a silhouetted shoreline.
+  - **[NEEDS REPLY]** Reply by jellyfish07262026:  ([link](https://www.threads.com/@jellyfish07262026/post/De1uwcClKVt))
+    - Photo: A low-angle shot captures a red metal truss bridge against a bright, hazy sky at sunset. Tall, feathery grasses line the foreground, illuminated by the warm, golden light of the sun peeking from beneath the bridge.
+    - Photo: A close-up shot of tall, feathery grasses sways gently in a field at sunset, their delicate plumes catching the warm, golden light of the fading sun.
+    - Photo: A striking, golden-flowered tree stands centered against a setting sun, creating a luminous silhouette. The tranquil rural scene is complemented by train tracks running in the background.
+    - Photo: A low-angle, eye-level shot captures a modern pedestrian bridge featuring sweeping, tubular steel arches and a curved walkway, with bright sunlight breaking through the structure. The sunlight creates a vibrant starburst effect at the center of the frame and a horizontal lens flare stretching across the image, casting long shadows across the pathway.
+  ([full thread](threads/18089706719271990.md))
 - **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
+  - **[NEEDS REPLY]** Reply by deputysec: 🎃🫶🏽 ([link](https://www.threads.com/@deputysec/post/De1fh7LlTNF))
+    - Photo: A dimly lit restaurant corridor is decorated for a magical or witchy theme, featuring floating candles, witch hats, and a rose-covered archway. The ceiling sparkles with purple fairy lights, creating an enchanting ambiance as patrons dine inside.
+    - Photo: A dark corridor, reminiscent of the Great Hall at Hogwarts, is adorned with floating candles and wizard hats suspended from the ceiling. The walls are lined with vintage, dark-framed portraits, and a door at the end glows with blue light, displaying a graphic of a long hallway.
+    - Photo: A humorous Hocus Pocus-themed t-shirt reads, "Sanderson Sisters Bed and Breakfast Kids Stay Free." The background features a watercolor wash of orange, purple, and green behind black silhouettes of witches flying on brooms.
+  - **[NEEDS REPLY]** Reply by brendj08:  ([link](https://www.threads.com/@brendj08/post/De1e7PQmglR))
+    - Photo: An orange cat peeks from beneath pumpkins on the porch of a yellow house, which is festively decorated with autumn decor like pumpkins and leaves.
+  - **[NEEDS REPLY]** Reply by debbiedunlap79:  ([link](https://www.threads.com/@debbiedunlap79/post/De1epAqFTKp))
+    - Photo: A tall ghost-like grim reaper figure stands next to a lamppost, draped in tattered grey fabric and with a skeletal head and hands, outside a house with a blue exterior and white porch. The front porch is heavily decorated for Halloween, featuring another skeleton, a "Graveyard" sign, and orange pumpkins with goofy expressions amidst potted plants.
   - Reply by bojonvelvet2.0: Treat Street goes all out ([link](https://www.threads.com/@bojonvelvet2.0/post/Dez6BTkEhHh))
     - Photo: At night, people wearing Halloween costumes gather on a sloped residential street. The street slopes downward toward the brightly lit skyscrapers of a city in the distance, and cars are parked on either side of the road.
     - Reply by saars.foto: A whole street of costumes sloping down toward the skyline. Treat Street understood the assignment at scale. ([link](https://www.threads.com/@saars.foto/post/De0HCDXFjdY))
-      - **[NEEDS REPLY]** Reply by bojonvelvet2.0: The whole street gets decorated, haunted houses in garages, bar setups for adults, every house goes all out. ([link](https://www.threads.com/@bojonvelvet2.0/post/De0ItfqD7Ns))
+      - Reply by bojonvelvet2.0: The whole street gets decorated, haunted houses in garages, bar setups for adults, every house goes all out. ([link](https://www.threads.com/@bojonvelvet2.0/post/De0ItfqD7Ns))
         - Photo: An illuminated Halloween animatronic of a creepy girl with glowing eyes swings on a rope in front of a building at night.
         - Photo: An indoor Halloween graveyard display features multiple gravestones lit by strings of warm yellow fairy lights and tiny orange candles, with scattered skulls and skeletal hands rising from the green ground. The spooky scene is set against a backdrop of blue-lit plastic sheeting and wood-paneled walls, complete with a lone wooden chair and an altar draped in a spiderweb-covered cloth in the back.
         - Photo: A group of people wearing costumes are gathered outside a house at night for a Halloween party, with colorful lights illuminating the scene. A red tent with "Area 1594 Check-In" signs stands at the entrance, surrounded by caution tape and spooky decorations.
         - Photo: Three children in diverse Halloween costumes pose joyfully together in front of a house, their faces illuminated by colorful glow necklaces. The one on the left is wrapped in white bandages like a mummy, the middle child wears a pirate hat and dark jacket, and the one on the right sports long reddish-brown hair and a blue jacket with studded details.
+        - Reply by saars.foto: The whole street goes all out - haunted houses in garages AND bar setups for the adults. Treat Street runs a full Halloween department. The swinging greeter at the door is a strong door policy. ([link](https://www.threads.com/@saars.foto/post/De0juyUlUjp))
+          - **[NEEDS LIKE]** Reply by bojonvelvet2.0: SF takes Halloween seriously.. 😆 ([link](https://www.threads.com/@bojonvelvet2.0/post/De0lj-GGzpl))
   - **[NEEDS REPLY]** Reply by remalysh: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
     - Photo: A toddler in brown and white striped pajamas and a black and red cape plays with a carved pumpkin on a porch.
   - Reply by colourbugs: …🩶🧡🩶 ([link](https://www.threads.com/@colourbugs/post/Dezi3I_DSV0))
