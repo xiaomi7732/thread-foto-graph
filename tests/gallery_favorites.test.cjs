@@ -39,6 +39,8 @@ function tab(shared, options = {}) {
     attributes: {},
     classList: { contains: name => favorite && name === 'favorite-toggle' },
     setAttribute(name, value) { this.attributes[name] = value; },
+    focus() { this.focused = true; },
+    select() { this.selected = true; },
     hasAttribute() { return false; },
     closest() { return this; },
   });
@@ -85,7 +87,12 @@ function tab(shared, options = {}) {
       localStorage: storage,
       addEventListener: (event, handler) => { handlers[event] = handler; },
     },
-    navigator: { locks: options.noLocks ? undefined : shared.locks },
+    navigator: {
+      locks: options.noLocks ? undefined : shared.locks,
+      clipboard: { writeText: async () => {
+        if (options.clipboardDenied) throw new Error('Clipboard denied');
+      } },
+    },
   });
   vm.runInContext(script, context);
   const click = target => {
@@ -96,6 +103,7 @@ function tab(shared, options = {}) {
     flags, elements, cards,
     favorite: id => click(cards.find(card => card.dataset.photoId === id).querySelector()),
     reset: () => click(elements['reset-favorites']),
+    copy: () => click(elements['copy-favorites']),
     synchronize: () => handlers.storage({ key }),
     selected: () => JSON.parse(vm.runInContext('JSON.stringify([...favorites].sort())', context)),
   };
@@ -244,4 +252,23 @@ test('a failed pending save reconciles a remote reset without losing its own int
   assert.deepEqual(shared.saved(), []);
   assert.deepEqual(a.selected(), ['b']);
   assert.match(a.elements['storage-status'].textContent, /Could not save/);
+});
+
+test('passive synchronization preserves an active manual-copy snapshot and instructions', async () => {
+  const shared = sharedState(['a']);
+  const a = tab(shared, { clipboardDenied: true });
+  await a.copy();
+  const manual = a.elements['manual-copy'];
+  const instructions = a.elements.status.textContent;
+  shared.data.set(key, JSON.stringify(['b']));
+  a.synchronize();
+  assert.deepEqual(a.selected(), ['b']);
+  assert.equal(manual.hidden, false);
+  assert.equal(manual.value, 'https://example.com/a');
+  assert.equal(manual.focused, true);
+  assert.equal(manual.selected, true);
+  assert.equal(a.elements.status.textContent, instructions);
+  await a.favorite('a');
+  assert.equal(manual.hidden, true);
+  assert.equal(manual.value, '');
 });

@@ -89,7 +89,14 @@
       }
     }
 
+    function clearCopyState() {
+      manual.hidden = true;
+      manual.value = '';
+      status.textContent = '';
+    }
+
     async function saveFavorites(id, selected) {
+      clearCopyState();
       if (id === null) pendingFavoriteChanges.length = 0;
       pendingFavoriteChanges.push({id, selected});
       applyFavoriteChanges(favorites);
@@ -151,9 +158,6 @@
       copyFavorites.disabled = selectedCards.length === 0;
       resetFavorites.disabled = !savingFavorites && favorites.size === 0 && !storageError;
       resetFavorites.setAttribute('aria-disabled', String(savingFavorites || resetFavorites.disabled));
-      manual.hidden = true;
-      manual.value = '';
-      status.textContent = '';
     }
 
     document.querySelectorAll('.thumbnail img').forEach(image => {
@@ -178,6 +182,7 @@
       }
       if (button === favoriteView) {
         favoritesOnly = !favoritesOnly;
+        clearCopyState();
         updateFavorites();
         return;
       }
@@ -196,7 +201,7 @@
       }
       try {
         await navigator.clipboard.writeText(text);
-        manual.hidden = true;
+        clearCopyState();
         status.textContent = 'Copied.';
       } catch (error) {
         manual.hidden = false;
