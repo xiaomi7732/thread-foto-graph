@@ -4,7 +4,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (57)
+## Needs Like (69)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
@@ -12,7 +12,17 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
+- michael.nairn: That was morning fog actually. I took it from my balcony using 8x telephoto I think. ([link](https://www.threads.com/@michael.nairn/post/De1-qEUkbFx))
+- brendamayderosier: Picture taken from my car ([link](https://www.threads.com/@brendamayderosier/post/De1-rofFjYd))
+- tnakluck: This was the way up. This is sunrise, as you have to start early to avoid afternoon thunderstorms. It is 14,000ft summit. The way back down is the same route. ([link](https://www.threads.com/@tnakluck/post/De2Ebs4lNNt))
+- findbeauty831: No just a shot off my balcony! ([link](https://www.threads.com/@findbeauty831/post/De1_u9WoGyT))
+- susan54856: It is my original. 16"x20" ([link](https://www.threads.com/@susan54856/post/De1-c0RkZWy))
+- jimsutton.vn: 12th floor of my apartment building. ￼ the farmers were burning rice straw after the harvest. Not great for the lungs but it does wonders for a moody sunrise😊 ([link](https://www.threads.com/@jimsutton.vn/post/De2CylyEwyU))
+- watsjoey: Standing straight. Lay of the land was a perfect set up. ([link](https://www.threads.com/@watsjoey/post/De2Bi3HGnCi))
+- taracee_2017: From my balcony, top floor ([link](https://www.threads.com/@taracee_2017/post/De1-7gEjl9W))
+- paul.moorman91: Fort Lauderdale hotel window 😊 ([link](https://www.threads.com/@paul.moorman91/post/De1_gnzFipO))
 - _olliemorgan: Bubble wrap with sun coming through the window. ([link](https://www.threads.com/@_olliemorgan/post/De10TmQlnbW))
+- nmpinkoyote: Damn!!! Beautiful!!! ([link](https://www.threads.com/@nmpinkoyote/post/De2CoG4G5c-))
 - taiwanese726: I took this photo from a distance at eye level, using a mobile phone. ([link](https://www.threads.com/@taiwanese726/post/De10S0OGDq-))
 - heidi.undefined: You can access it by visiting the art exhibitions held down there. I come here every year because they change the exhibition every year! ([link](https://www.threads.com/@heidi.undefined/post/De11PuzirOO))
 - tallerthanyou2026: It quickly disappeared ([link](https://www.threads.com/@tallerthanyou2026/post/De10TsJG55W))
@@ -21,9 +31,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - beapersaud: My husband usually put some sunflower seeds for them most mornings. We love the feeding frenzy...lots of action ([link](https://www.threads.com/@beapersaud/post/De16lS8kf_b))
 - yvetime: The park where I walk my dog every day. ([link](https://www.threads.com/@yvetime/post/De14kkEDUzR))
 - schemenme: I played with the exposure just a little but the color was amazing ([link](https://www.threads.com/@schemenme/post/De10QS3m5YB))
+- jellyfish07262026: These are two completely different locations. You could call this a kind of bridge hunting. I love the afternoon sunlight, and I also like to plan my photography routes in advance. ([link](https://www.threads.com/@jellyfish07262026/post/De17pMnms1A))
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
 - deputysec: Found it walking in and loved it ! Btw yours is so fun!!!! ([link](https://www.threads.com/@deputysec/post/De1yWzQlUhS))
+- debbiedunlap79: 😁 ([link](https://www.threads.com/@debbiedunlap79/post/De2FAv4lZYg))
 - bojonvelvet2.0: SF takes Halloween seriously.. 😆 ([link](https://www.threads.com/@bojonvelvet2.0/post/De0lj-GGzpl))
 - colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
 
