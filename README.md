@@ -360,9 +360,23 @@ access, a selected text box lets you copy manually.
 Click **Favorite** on individual images, then **Show favorites** to review only
 your picks. **Copy favorite reply links** copies one link per selected reply
 (deduplicated when several selected photos belong to the same reply).
-**Reset favorites** clears all picks. Selections are in memory only: reloading
-or closing the page also clears them; nothing is saved to browser storage or
-the repository.
+**Reset favorites** clears all saved picks. Selections are saved in this
+browser's local storage, so refreshing or reopening the same gallery keeps
+them. Stable photo IDs retain picks when the gallery refreshes image URLs.
+Saved picks outside the current gallery are retained and counted separately;
+only currently displayed picks contribute to copied reply links.
+Selections are not uploaded to the repository or synced across browsers,
+devices, or different origins (local files and GitHub Pages are separate).
+Updates from multiple gallery tabs are serialized with Web Locks and applied
+to the latest stored picks, so one tab cannot overwrite another tab's
+unrelated picks or restore selections cleared by Reset. Browsers without
+Web Locks support (or a secure context such as HTTPS or localhost) do not
+write favorites; they show an explicit page-only warning instead.
+Clearing site data or private browsing can remove them. If browser storage
+is blocked, full, or invalid, the gallery explicitly warns that persistence
+is unavailable; picking and copying still work for the current page.
+Failed local edits remain selected and are retried as individual changes on
+the next edit or Reset, rather than silently disappearing after storage recovers.
 
 The workflow commits `data/reply-images.md` plus
 `docs/reply-images.html` / `docs/reply-images.txt`, and uploads a

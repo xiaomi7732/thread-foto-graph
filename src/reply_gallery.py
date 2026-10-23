@@ -48,6 +48,7 @@ def collect_gallery(graph: dict) -> list[dict]:
                             flush=True,
                         )
                     thread["photos"].append({
+                        "id": photo["id"],
                         "url": _https_url(media_url) if media_url else "",
                         "reply_url": _https_url(reply.get("permalink") or thread["url"]),
                         "username": reply.get("username") or "unknown",
@@ -123,7 +124,8 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
                     if photo["url"] else '<span>Image unavailable; open the reply.</span>'
                 )
                 sections.append(
-                    f'<article data-reply-url="{escape(photo["reply_url"], quote=True)}">'
+                    f'<article data-photo-id="{escape(photo["id"], quote=True)}" '
+                    f'data-reply-url="{escape(photo["reply_url"], quote=True)}">'
                     f'<a class="thumbnail" href="{escape(photo["reply_url"], quote=True)}">'
                     f'{image}</a><p><strong>@{username}</strong> '
                     f'&middot; photo {photo["number"]}</p><p class="caption">{caption}</p>'

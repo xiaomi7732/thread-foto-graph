@@ -67,6 +67,7 @@ class ReplyGalleryTests(unittest.TestCase):
         ]
         threads = self.collect(replies)
         self.assertEqual(len(threads[0]["photos"]), 3)
+        self.assertEqual([p["id"] for p in threads[0]["photos"]], ["photo", "one", "two"])
         self.assertEqual([p["number"] for p in threads[0]["photos"]], [1, 1, 2])
         self.assertEqual(threads[0]["photos"][1]["reply_url"], self.node["permalink"])
 
@@ -143,6 +144,7 @@ class ReplyGalleryTests(unittest.TestCase):
         self.assertTrue(all(
             card["data-reply-url"] == self.photo["permalink"] for card in parser.cards
         ))
+        self.assertEqual([card["data-photo-id"] for card in parser.cards], ["photo", "second"])
         self.assertEqual(len(parser.favorite_buttons), 2)
         self.assertTrue(all(
             button["aria-pressed"] == "false" for button in parser.favorite_buttons
@@ -151,8 +153,29 @@ class ReplyGalleryTests(unittest.TestCase):
         self.assertIn("disabled", parser.elements["copy-favorites"])
         self.assertIn("disabled", parser.elements["reset-favorites"])
         self.assertNotIn("favorite-toggle", markdown)
-        self.assertNotIn("localStorage", html)
+        self.assertIn("window.localStorage", html)
         self.assertNotIn("sessionStorage", html)
+
+    def test_photo_identity_survives_media_url_and_reply_order_changes(self):
+        original = self.collect([self.photo])[0]["photos"][0]
+        refreshed = self.collect([
+            {**self.photo, "id": "new-reply"},
+            {**self.photo, "media_url": "https://example.com/refreshed.jpg"},
+        ])[0]["photos"][1]
+        self.assertEqual(original["id"], refreshed["id"])
+        self.assertNotEqual(original["url"], refreshed["url"])
+        html, _ = reply_gallery.render_gallery(
+            [{**self.node, "topic": "Nature", "url": self.node["permalink"], "photos": [refreshed]}],
+            "now",
+        )
+        self.assertIn('data-photo-id="photo"', html)
+
+    def test_photo_identity_is_escaped_in_generated_attribute(self):
+        html, _ = reply_gallery.render_gallery(
+            self.collect([{**self.photo, "id": 'id" onclick="alert(1)'}]), "now"
+        )
+        self.assertIn('data-photo-id="id&quot; onclick=&quot;alert(1)"', html)
+        self.assertNotIn('data-photo-id="id" onclick=', html)
 
     def test_main_writes_all_outputs_without_touching_graph(self):
         with tempfile.TemporaryDirectory() as directory:
