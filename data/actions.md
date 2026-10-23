@@ -6,23 +6,21 @@ _Flat list of replies still awaiting a reply -- no topic grouping, no already-an
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (9)
+## Needs Reply (8)
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
-- **debcastle1969**:  ([link](https://www.threads.com/@debcastle1969/post/De2L_pUo5IU))
-  - Photo: Description: A thin, bare tree stands near the edge of a calm pond as wisps of morning mist rise from the water's surface. In the background, a dense tree line displays autumn foliage in shades of gold, orange, and green under a clear blue sky. Photograph read: The centered subject creates a balanced, peaceful composition bathed in warm morning light that enhances the serene and quiet mood.
-- **picchic17**:  ([link](https://www.threads.com/@picchic17/post/De2LTWLGVfe))
-  - Photo: Description: A line of five dark birds flies low across the glistening waters of a bay at sunset, with rolling green hills visible in the distance beneath a dramatic, cloudy sky. This serene coastal scene is perfect for a nature post celebrating the peaceful close of the day. Photograph read: The wide-angle landscape composition uses strong horizontal lines and dramatic backlit golden hour lighting to create a calm yet atmospheric mood, centered on the striking silhouettes of the flying birds against the sun's glittering reflection.
-- **picsall**:  ([link](https://www.threads.com/@picsall/post/De2LFCfGeuJ))
-  - Photo: Description: A bright, almost white sun hangs centrally in a thick, amber-hued sky above distant, dark mountains. The monochromatic, golden-orange atmosphere suggests a hazy day or smoke-filled air, making this a striking image for posts about weather, sunsets, or environmental conditions. Photograph read: The monochromatic warm palette and high-key exposure emphasize the hazy, diffuse light, creating a stark, moody contrast with the silhouetted hills and sparse branches below.
-- **nanceharder81**: A foggy sunrise in Springvale Twp. ([link](https://www.threads.com/@nanceharder81/post/De2KX66iZFI))
-  - Photo: Description: A barren tree stands in a misty field at sunrise, with a bright orange glow rising over a distant treeline. This serene, atmospheric landscape evokes a quiet morning in the countryside. Photograph read: The wide-angle composition uses rule of thirds placement for the skeletal tree, creating a melancholic mood enhanced by the soft morning light diffusing through the low-lying fog.
-- **kmwehrle**:  ([link](https://www.threads.com/@kmwehrle/post/De2JGe4nTWh))
-  - Photo: Description: A bright orange and yellow single rose is centered in the frame, featuring delicate overlapping petals and a prominent cluster of golden stamens at its core. A single water droplet rests on the lower petal, set against a backdrop of green leaves and dark gravel. Photograph read: The top-down composition captures the flower in natural daylight, creating a vibrant and tranquil mood against the textured, out-of-focus background.
-- **yong_cabal**: After the rain. *shot on iPhone ([link](https://www.threads.com/@yong_cabal/post/De2H6i5G2B0))
-  - Photo: Description: A brightly lit corner building housing "Bistrot de la Gare" stands out against a dark, rainy night in Paris, with pedestrians holding umbrellas walking along the wet, reflective sidewalk. The warm yellow glow from the streetlights and restaurant windows creates a cozy, inviting atmosphere amid the damp city environment. Photograph read: The wide-angle, eye-level shot captures a vibrant night scene with strong contrast between the warm artificial lighting and the dark sky, enhanced by mirror-like reflections on the wet asphalt.
-- **jim.nichlsn**:  ([link](https://www.threads.com/@jim.nichlsn/post/De2HKgBGDAa))
-  - Photo: Description: A vibrant orange sunset glows over the ocean, viewed from a balcony overlooking a rocky coastline and a patio area below. This serene evening landscape makes a great scenic post for travel or coastal relaxation. Photograph read: The horizontally banded composition frames the glowing sky above a dark sea, creating a calm and tranquil mood under natural twilight illumination.
+- **brownieone**:  ([link](https://www.threads.com/@brownieone/post/De2dVa1CL17))
+  - Photo: Description: A coastal town skyline sits on the horizon under a golden sunset, with its lights beginning to twinkle across a flat, reflective expanse of wet sand or shallow water. The warm, luminous glow creates a tranquil evening mood ideal for sharing a coastal travel moment. Photograph read: The horizontal composition uses a centered urban silhouette set against a vast monochrome tidal flat, bathed in warm golden light that creates a serene and quiet atmosphere.
+- **ssaccoccia**: Winter Park, CO at golden hour 🏔️ ([link](https://www.threads.com/@ssaccoccia/post/De2anguEtd5))
+  - Photo: Description: A vibrant orange and purple sunrise lights up the cloudy sky over a snowy valley surrounded by dark, rolling mountains. In the foreground, a frosty garden fence and a snow-dusted evergreen tree frame the tranquil morning scene. Photograph read: The wide-angle composition contrasts the warm, glowing horizon with the cool tones of the frost-covered landscape, creating a peaceful and serene mood.
+- **whodat505**: At the Grapevine Meow Wolf ([link](https://www.threads.com/@whodat505/post/De2Y79_ls6j))
+  - Photo: Description: A gallery wall displays various whimsical, painted ceramic or clay heads mounted on individual small shelves against a dark patterned wallpaper. The eccentric collection includes a blue horned creature, a white rabbit, a frowning woman in a red headscarf, and other colorful, expressive faces. Photograph read: The straight-on composition emphasizes the whimsical arrangement of colorful sculptures, captured under warm indoor lighting that casts soft shadows and creates a playful, theatrical mood.
+- **bojonvelvet2.0**: What glows brighter than Dolly?? ([link](https://www.threads.com/@bojonvelvet2.0/post/De2UleQAXaQ))
+  - Photo: Description: A large boulder outdoors features a vibrant painting of Dolly Parton styled like a religious icon, with a gold-painted halo against a clear blue sky. The artwork is framed by a dusty dirt path, dry brush, and green trees. Photograph read: The centered, medium shot uses bright, direct sunlight to cast stark shadows on the boulder, creating a vibrant, celebratory mood against the deep blue sky.
+- **bluegrass_renaissance_man**:  ([link](https://www.threads.com/@bluegrass_renaissance_man/post/De2SawXIHr8))
+  - Photo: Description: A calm, hazy morning scene features a grassy field bordered by silhouetted trees with sunlight breaking through the low-hanging fog and lighting the horizon. Photograph read: The vertical framing emphasizes the vast gradient of the blue sky above the darker field, while backlit trees create a serene, atmospheric mood.
+- **christy.logsdon.5**:  ([link](https://www.threads.com/@christy.logsdon.5/post/De2P21HgSs9))
+  - Photo: Description: A wide rural landscape stretches beneath a fiery orange sunset, with silhouetted mountains in the distance and a wire fence cutting across the foreground. The warm glow creates a peaceful, rustic scene ideal for sharing a quiet evening view. Photograph read: The horizontal composition uses layered silhouettes of the fence and mountains to anchor the frame, while the warm directional light from the sunset sets a tranquil, serene mood.
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
 - **remalysh**: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
@@ -37,7 +35,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (80)
+## Needs Like (87)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
@@ -45,18 +43,25 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
+- nanceharder81: Not sure! Being retired, I'm usually not out and about at this hour! ([link](https://www.threads.com/@nanceharder81/post/De2UmZDCXM_))
+- kmwehrle: Yes it’s in my front yard. ([link](https://www.threads.com/@kmwehrle/post/De2c20wHS6u))
+- jim.nichlsn: Last vacation. Pismo Beach CA ([link](https://www.threads.com/@jim.nichlsn/post/De2UwLMgYSU))
 - kodybundy: That’s just how he rolls! Ha ha ([link](https://www.threads.com/@kodybundy/post/De2L4sZj88J))
 - stews72: End of the round 🙂 ([link](https://www.threads.com/@stews72/post/De2LnVLmeFN))
+- krisanewman: I did. Many times. I loved how the town water tower was just in my line of sight. I would have some morning coffee and watch the day wake up. Me and Jesus talking about the day. 🙂 ([link](https://www.threads.com/@krisanewman/post/De2TB-im0jD))
 - mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
 - brianroffe: No, was taken in Mallorca whilst on holiday. Was actually a row of them, but couldn't get the focus right ([link](https://www.threads.com/@brianroffe/post/De2M7CHCJZP))
+- blueeyes_florida_girl: Yes, they are herons . This was taken from the edge of my yard . ([link](https://www.threads.com/@blueeyes_florida_girl/post/De2PV8hnbVr))
 - signhildthomas: All different days😊 ([link](https://www.threads.com/@signhildthomas/post/De2Mb0sAmNK))
 - hessu.timonen: Really still night in western part of Finland. We have bright nights during midsummer here here . ([link](https://www.threads.com/@hessu.timonen/post/De2MCL_iCUE))
 - beeeze: It’s a card of bobby pins :) ([link](https://www.threads.com/@beeeze/post/De2JT69DQeK))
 - luvsravens59: The sea of Cortez, San Carlos Mexico. ([link](https://www.threads.com/@luvsravens59/post/De2NbV4lR3x))
+- sam_photo_81: We were all barefoot. As the tide was coming in. This is in manzanita Oregon. Absolutely beautiful place. ([link](https://www.threads.com/@sam_photo_81/post/De2RFopj03E))
 - datamutt1: Phone photos greatest hits. ([link](https://www.threads.com/@datamutt1/post/De2L5V5mW10))
 - momentulist: i saw it while walking the dog, so i went for it. Up and close with my iphone. ([link](https://www.threads.com/@momentulist/post/De2NC-9iF_t))
 - michael.nairn: That was morning fog actually. I took it from my balcony using 8x telephoto I think. ([link](https://www.threads.com/@michael.nairn/post/De1-qEUkbFx))
 - brendamayderosier: Picture taken from my car ([link](https://www.threads.com/@brendamayderosier/post/De1-rofFjYd))
+- bybaird: From the valley and I think this was in the Karakoram, since we were mainly in the Gilgit region. ([link](https://www.threads.com/@bybaird/post/De2Wx6OlCxb))
 - tnakluck: This was the way up. This is sunrise, as you have to start early to avoid afternoon thunderstorms. It is 14,000ft summit. The way back down is the same route. ([link](https://www.threads.com/@tnakluck/post/De2Ebs4lNNt))
 - asi.osbourne: I mean, it was around 9 o’clock one day in November. A small mountain peak in the Bavarian Alps… ([link](https://www.threads.com/@asi.osbourne/post/De2MC2Bkd4B))
 - findbeauty831: No just a shot off my balcony! ([link](https://www.threads.com/@findbeauty831/post/De1_u9WoGyT))

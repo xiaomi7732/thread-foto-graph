@@ -4,7 +4,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (80)
+## Needs Like (87)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
@@ -12,18 +12,25 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
+- nanceharder81: Not sure! Being retired, I'm usually not out and about at this hour! ([link](https://www.threads.com/@nanceharder81/post/De2UmZDCXM_))
+- kmwehrle: Yes it’s in my front yard. ([link](https://www.threads.com/@kmwehrle/post/De2c20wHS6u))
+- jim.nichlsn: Last vacation. Pismo Beach CA ([link](https://www.threads.com/@jim.nichlsn/post/De2UwLMgYSU))
 - kodybundy: That’s just how he rolls! Ha ha ([link](https://www.threads.com/@kodybundy/post/De2L4sZj88J))
 - stews72: End of the round 🙂 ([link](https://www.threads.com/@stews72/post/De2LnVLmeFN))
+- krisanewman: I did. Many times. I loved how the town water tower was just in my line of sight. I would have some morning coffee and watch the day wake up. Me and Jesus talking about the day. 🙂 ([link](https://www.threads.com/@krisanewman/post/De2TB-im0jD))
 - mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
 - brianroffe: No, was taken in Mallorca whilst on holiday. Was actually a row of them, but couldn't get the focus right ([link](https://www.threads.com/@brianroffe/post/De2M7CHCJZP))
+- blueeyes_florida_girl: Yes, they are herons . This was taken from the edge of my yard . ([link](https://www.threads.com/@blueeyes_florida_girl/post/De2PV8hnbVr))
 - signhildthomas: All different days😊 ([link](https://www.threads.com/@signhildthomas/post/De2Mb0sAmNK))
 - hessu.timonen: Really still night in western part of Finland. We have bright nights during midsummer here here . ([link](https://www.threads.com/@hessu.timonen/post/De2MCL_iCUE))
 - beeeze: It’s a card of bobby pins :) ([link](https://www.threads.com/@beeeze/post/De2JT69DQeK))
 - luvsravens59: The sea of Cortez, San Carlos Mexico. ([link](https://www.threads.com/@luvsravens59/post/De2NbV4lR3x))
+- sam_photo_81: We were all barefoot. As the tide was coming in. This is in manzanita Oregon. Absolutely beautiful place. ([link](https://www.threads.com/@sam_photo_81/post/De2RFopj03E))
 - datamutt1: Phone photos greatest hits. ([link](https://www.threads.com/@datamutt1/post/De2L5V5mW10))
 - momentulist: i saw it while walking the dog, so i went for it. Up and close with my iphone. ([link](https://www.threads.com/@momentulist/post/De2NC-9iF_t))
 - michael.nairn: That was morning fog actually. I took it from my balcony using 8x telephoto I think. ([link](https://www.threads.com/@michael.nairn/post/De1-qEUkbFx))
 - brendamayderosier: Picture taken from my car ([link](https://www.threads.com/@brendamayderosier/post/De1-rofFjYd))
+- bybaird: From the valley and I think this was in the Karakoram, since we were mainly in the Gilgit region. ([link](https://www.threads.com/@bybaird/post/De2Wx6OlCxb))
 - tnakluck: This was the way up. This is sunrise, as you have to start early to avoid afternoon thunderstorms. It is 14,000ft summit. The way back down is the same route. ([link](https://www.threads.com/@tnakluck/post/De2Ebs4lNNt))
 - asi.osbourne: I mean, it was around 9 o’clock one day in November. A small mountain peak in the Bavarian Alps… ([link](https://www.threads.com/@asi.osbourne/post/De2MC2Bkd4B))
 - findbeauty831: No just a shot off my balcony! ([link](https://www.threads.com/@findbeauty831/post/De1_u9WoGyT))
