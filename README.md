@@ -15,13 +15,15 @@ entirely from the primary read) instead of being re-read in full every time
 file (see below).
 
 Outputs (smallest/most-frequent read first):
-- `data/needs-reply.md` — **flat list of photo replies that still need a
-  reply**, no topic clustering, no reply tree to walk, items grouped under a
+- `data/needs-reply.md` — **flat list of photos, questions, and substantive
+  text replies that still need a written reply**, no topic clustering,
+  no reply tree to walk, items grouped under a
   `### <thread>` header written **once per thread**. This carries the bulk
   of the data (full photo descriptions), since a thoughtful reply usually
   needs to reference what's in the photo.
-- `data/needs-like.md` — **flat list of text-only replies that still need a
-  like.** No photo descriptions to carry, so this file stays small (in
+- `data/needs-like.md` — **flat list of short text-only acknowledgements and
+  common thanks/praise that still need a like.** No photo descriptions to
+  carry, so this file stays small (in
   practice roughly a fifth the size of `needs-reply.md`) — point a
   like-only worker/cron at this file specifically rather than the combined
   `actions.md`, so it isn't paying to load reply-drafting content it never
@@ -134,6 +136,44 @@ total conversation volume, so a 300-reply giveaway thread that's mostly
 already-answered doesn't bloat them — only the genuinely unanswered items do.
 `data/topics.md` keeps the fuller tree/topic view for when hierarchy matters.
 
+#### Reply or like?
+
+**Two words is a fallback, not the sole criterion.** `_action_category()`
+applies these rules in order:
+
+1. A photo or explicit question (containing `?`, `？`, or `؟`) needs a written reply.
+2. An exact match in the small English thanks/praise phrase list needs a like.
+3. Otherwise, text with **more than two words** needs a written reply;
+   shorter text only needs a like.
+
+| Reply content | Action | Reason |
+| --- | --- | --- |
+| `What camera?` | Reply | Questions override word count. |
+| `Thank you so much!` | Like | Common acknowledgement, despite having four words. |
+| `I love this!` | Like | Common praise in the phrase list. |
+| `I tried this yesterday` | Reply | Longer text, not a canned acknowledgement. |
+| `Thank you` | Like | Two words, no question or photo. |
+| Emoji only | Like | No words, question, or photo. |
+| Photo with `Thank you` | Reply | Photos take precedence over acknowledgements. |
+
+Phrase matching ignores case and surrounding punctuation/emoji but must
+match the **whole reply**: `Thank you so much, but where was this taken`
+is not treated as a simple acknowledgement. Punctuation and emoji alone
+do not count as words, and contractions such as "don't" count as one word.
+Unicode combining marks and internal joiners stay within their words;
+standalone underscores, keycap emoji, and the information emoji `ℹ️` do
+not count as words.
+These deterministic rules add no AI calls, but are only a heuristic, not
+general intent detection across languages or phrasing; questions without
+a question mark can still fall through to the word-count rule. There is no
+dictionary-based segmentation: an unspaced Chinese, Japanese, or Thai
+sentence can count as one word and be classified as like-only. Liking
+such an item resolves it; review those languages manually rather than
+treating this rule as a reliable measure of substance.
+Photos need a reply even while their descriptions are pending. Liking an
+item classified as needs-reply does not resolve it: it stays actionable
+until you reply to it.
+
 ### Actionable-first pruning (what keeps topics.md small)
 
 A reply is considered **"needs a response"** if it's not your own reply
@@ -144,12 +184,13 @@ walks each thread's reply tree and:
   (your own replies, or replies you've already responded to, with nothing
   unanswered underneath) — these never get written out in `topics.md`.
 - **Keeps** a reply if it itself still needs a response, marking it
-  **`[NEEDS REPLY]`** if it has a photo (worth a thoughtful written reply) or
-  **`[NEEDS LIKE]`** if it's text-only (a like is usually enough) --
+  **`[NEEDS REPLY]`** for photos, questions, or substantive text, or
+  **`[NEEDS LIKE]`** for short text-only acknowledgements and common thanks/praise --
   `_action_category()` makes that call. Ancestors of a kept reply are kept
   too (unmarked, as context) so Muse can see what it's replying within —
   already-answered siblings/descendants just collapse into a one-line
   `(+N more replies already answered under this, see archive)` note.
+- Short like-only replies that you've already liked are resolved too.
 - A thread where every reply is already answered collapses to a single
   `All N replies already answered. ✅` line.
 
