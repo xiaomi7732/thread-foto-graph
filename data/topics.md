@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (has a photo -- worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is usually enough). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: autumn, water, sky, leaves
+## Topic: autumn, water, sky, red
 
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
@@ -12,19 +12,21 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+3 more replies elsewhere in this thread already answered, see [full thread](threads/18135581695736524.md))_
 - **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
-  - **[NEEDS REPLY]** Reply by tiffany.art2020:  ([link](https://www.threads.com/@tiffany.art2020/post/De0CKrfm030))
-    - Photo: An unsettling close-up shot depicts the upper body and skull of a human skeleton, overlaid with a grunge texture. The image is bathed in a dark and somber red hue, creating a spooky and gothic mood, perfect for Halloween.
-  - **[NEEDS REPLY]** Reply by lmk3.mama:  ([link](https://www.threads.com/@lmk3.mama/post/Dez7U4lkxfT))
-    - Photo: A cozy corner features cheerful Halloween decorations, including several white-sheet ghosts wearing witch hats, a basket overflowing with plush pumpkins, and a decorated tree branch. Sunlight streams through large windows behind the festive display, highlighting a playful indoor holiday setup.
-  - **[NEEDS REPLY]** Reply by bojonvelvet2.0: Treat Street goes all out ([link](https://www.threads.com/@bojonvelvet2.0/post/Dez6BTkEhHh))
+  - Reply by bojonvelvet2.0: Treat Street goes all out ([link](https://www.threads.com/@bojonvelvet2.0/post/Dez6BTkEhHh))
     - Photo: At night, people wearing Halloween costumes gather on a sloped residential street. The street slopes downward toward the brightly lit skyscrapers of a city in the distance, and cars are parked on either side of the road.
+    - Reply by saars.foto: A whole street of costumes sloping down toward the skyline. Treat Street understood the assignment at scale. ([link](https://www.threads.com/@saars.foto/post/De0HCDXFjdY))
+      - **[NEEDS REPLY]** Reply by bojonvelvet2.0: The whole street gets decorated, haunted houses in garages, bar setups for adults, every house goes all out. ([link](https://www.threads.com/@bojonvelvet2.0/post/De0ItfqD7Ns))
+        - Photo: An illuminated Halloween animatronic of a creepy girl with glowing eyes swings on a rope in front of a building at night.
+        - Photo: An indoor Halloween graveyard display features multiple gravestones lit by strings of warm yellow fairy lights and tiny orange candles, with scattered skulls and skeletal hands rising from the green ground. The spooky scene is set against a backdrop of blue-lit plastic sheeting and wood-paneled walls, complete with a lone wooden chair and an altar draped in a spiderweb-covered cloth in the back.
+        - Photo: A group of people wearing costumes are gathered outside a house at night for a Halloween party, with colorful lights illuminating the scene. A red tent with "Area 1594 Check-In" signs stands at the entrance, surrounded by caution tape and spooky decorations.
+        - Photo: Three children in diverse Halloween costumes pose joyfully together in front of a house, their faces illuminated by colorful glow necklaces. The one on the left is wrapped in white bandages like a mummy, the middle child wears a pirate hat and dark jacket, and the one on the right sports long reddish-brown hair and a blue jacket with studded details.
   - **[NEEDS REPLY]** Reply by remalysh: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
     - Photo: A toddler in brown and white striped pajamas and a black and red cape plays with a carved pumpkin on a porch.
   - Reply by colourbugs: …🩶🧡🩶 ([link](https://www.threads.com/@colourbugs/post/Dezi3I_DSV0))
     - Photo: A rustic wooden folding stool sits against a brick wall, holding a galvanized metal watering can and a small, two-toned orange pumpkin. To the left, part of a bicycle wheel and another metal bucket add to the weathered, autumn-themed display on the porch.
     - Reply by saars.foto: A porch that whispers instead of shouts. The little two-tone pumpkin runs the whole arrangement. ([link](https://www.threads.com/@saars.foto/post/Dezv3KVIElu))
       - **[NEEDS LIKE]** Reply by colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
-  _(+16 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
+  _(+20 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
 - **Thread** [17980137651136213](https://www.threads.com/@saars.foto/post/DewrNxkmwgB): Autumn Tuesday favorites 🏆 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/
   - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
   - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.
