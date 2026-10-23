@@ -4,10 +4,7 @@ _Flat list of text-only replies still awaiting a like -- no topic grouping, each
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (44)
-
-### Water Wednesday favorites 🏆 Three waters that stopped my sc… ([thread](https://www.threads.com/@saars.foto/post/DezMtDJETct))
-- kes_ward: Thank you so much. Congrats to all too. I just love the soft light that made this image what it is. I was very fortunate with the weather conditions that morning too. It’s also a peaceful image for me. ([link](https://www.threads.com/@kes_ward/post/Dez5W6-mbnZ))
+## Needs Like (43)
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
 - colourbugs: why thank you 🥹 ([link](https://www.threads.com/@colourbugs/post/DezyrCYje2f))
