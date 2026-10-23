@@ -32,13 +32,15 @@
     <button type="button" id="favorite-view" aria-pressed="false">Show favorites</button>
     <button type="button" id="copy-favorites" disabled>Copy favorite reply links</button>
     <button type="button" id="reset-favorites" disabled>Reset favorites</button>
-    <p>Favorites last only until you reload or close this page. Reply links are copied once per reply, even if you pick several images from it.</p>
+    <p>Favorites are saved in this browser across refreshes and visits. Reset clears all saved picks. They do not sync across browsers or devices. Reply links are copied once per reply, even if you pick several images from it.</p>
+    <p id="storage-status" role="alert"></p>
   </div>
   <p id="status" role="status" aria-live="polite"></p>
   <textarea id="manual-copy" aria-label="Copy manually" hidden readonly></textarea>
-  <p id="no-favorites" hidden>No favorites yet. Choose Show all images to start picking.</p>
+  <p id="no-favorites" hidden>No favorites in this gallery. Choose Show all images to start picking.</p>
   <main>{{CONTENT}}</main>
   <script>
+    const storageKey = 'thread-foto-graph:reply-image-favorites:v1';
     const favorites = new Set();
     const cards = [...document.querySelectorAll('article[data-reply-url]')];
     const favoriteView = document.getElementById('favorite-view');
@@ -46,11 +48,48 @@
     const resetFavorites = document.getElementById('reset-favorites');
     const status = document.getElementById('status');
     const manual = document.getElementById('manual-copy');
+    const storageStatus = document.getElementById('storage-status');
+    let storageError = false;
     let favoritesOnly = false;
 
+    function loadFavorites() {
+      try {
+        const raw = window.localStorage.getItem(storageKey);
+        const saved = raw === null ? [] : JSON.parse(raw);
+        if (!Array.isArray(saved) || !saved.every(id => typeof id === 'string' && id.length > 0)) {
+          throw new Error('Invalid saved favorites');
+        }
+        favorites.clear();
+        saved.forEach(id => favorites.add(id));
+        storageError = false;
+        storageStatus.textContent = '';
+      } catch (error) {
+        storageError = true;
+        storageStatus.textContent = 'Could not load saved favorites. Browser storage may be blocked or the saved data invalid. Selections work for this page; use Reset favorites to try clearing saved picks.';
+      }
+    }
+
+    function saveFavorites() {
+      try {
+        if (favorites.size > 0) {
+          window.localStorage.setItem(storageKey, JSON.stringify([...favorites]));
+        } else {
+          window.localStorage.removeItem(storageKey);
+        }
+        storageError = false;
+        storageStatus.textContent = '';
+        return true;
+      } catch (error) {
+        storageError = true;
+        storageStatus.textContent = 'Could not save favorites in browser storage. Your changes apply to this page only and may be lost after refresh.';
+        return false;
+      }
+    }
+
     function updateFavorites() {
+      const selectedCards = cards.filter(card => favorites.has(card.dataset.photoId));
       cards.forEach(card => {
-        const selected = favorites.has(card);
+        const selected = favorites.has(card.dataset.photoId);
         card.classList.toggle('favorite', selected);
         card.hidden = favoritesOnly && !selected;
         const button = card.querySelector('.favorite-toggle');
@@ -58,18 +97,19 @@
         button.textContent = selected ? 'Favorited' : 'Favorite';
       });
       document.querySelectorAll('.gallery-thread').forEach(thread => {
-        thread.hidden = favoritesOnly && ![...thread.querySelectorAll('article')].some(card => favorites.has(card));
+        thread.hidden = favoritesOnly && ![...thread.querySelectorAll('article')].some(card => favorites.has(card.dataset.photoId));
       });
       document.querySelectorAll('.gallery-topic').forEach(topic => {
         topic.hidden = favoritesOnly && ![...topic.querySelectorAll('.gallery-thread')].some(thread => !thread.hidden);
       });
       document.getElementById('favorite-count').textContent =
-        `${favorites.size} favorite${favorites.size === 1 ? '' : 's'}`;
-      document.getElementById('no-favorites').hidden = !favoritesOnly || favorites.size > 0;
+        `${selectedCards.length} favorite${selectedCards.length === 1 ? '' : 's'}` +
+        (favorites.size > selectedCards.length ? ` (${favorites.size - selectedCards.length} saved picks not in this gallery)` : '');
+      document.getElementById('no-favorites').hidden = !favoritesOnly || selectedCards.length > 0;
       favoriteView.setAttribute('aria-pressed', String(favoritesOnly));
       favoriteView.textContent = favoritesOnly ? 'Show all images' : 'Show favorites';
-      copyFavorites.disabled = favorites.size === 0;
-      resetFavorites.disabled = favorites.size === 0;
+      copyFavorites.disabled = selectedCards.length === 0;
+      resetFavorites.disabled = favorites.size === 0 && !storageError;
       manual.hidden = true;
       manual.value = '';
       status.textContent = '';
@@ -90,8 +130,10 @@
       if (!button) return;
       if (button.classList.contains('favorite-toggle')) {
         const card = button.closest('article');
-        if (favorites.has(card)) favorites.delete(card);
-        else favorites.add(card);
+        const id = card.dataset.photoId;
+        if (favorites.has(id)) favorites.delete(id);
+        else favorites.add(id);
+        saveFavorites();
         updateFavorites();
         return;
       }
@@ -102,13 +144,14 @@
       }
       if (button === resetFavorites) {
         favorites.clear();
+        const saved = saveFavorites();
         updateFavorites();
-        status.textContent = 'Favorites reset.';
+        status.textContent = saved ? 'Favorites reset.' : 'Favorites cleared for this page only; saved favorites could not be reset.';
         return;
       }
       let text;
       if (button === copyFavorites) {
-        text = [...new Set(cards.filter(card => favorites.has(card)).map(card => card.dataset.replyUrl))].join('\n');
+        text = [...new Set(cards.filter(card => favorites.has(card.dataset.photoId)).map(card => card.dataset.replyUrl))].join('\n');
       } else if (button.hasAttribute('data-copy')) {
         text = button.dataset.copy;
       } else {
@@ -126,6 +169,13 @@
         status.textContent = 'Clipboard unavailable. Copy the selected text manually (Ctrl+C or Cmd+C).';
       }
     });
+    window.addEventListener('storage', event => {
+      if (event.key === storageKey || event.key === null) {
+        loadFavorites();
+        updateFavorites();
+      }
+    });
+    loadFavorites();
     updateFavorites();
   </script>
 </body>
