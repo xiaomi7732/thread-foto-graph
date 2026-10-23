@@ -7,14 +7,15 @@ is required at this small daily scale).
 
 Produces:
   - data/needs-reply.md     flat list of replies that still need a reply
-                            (photo replies), each a self-contained bullet
+                            (photos, questions, or substantive text), each a
+                            self-contained bullet
                             (own text/photo + one line of immediate parent
                             context + thread backlink) -- no topic grouping,
                             no tree to walk. This is the bulk of the data
                             (full photo descriptions), so it's split out from
                             needs-like.md to keep the like-watch's read small.
   - data/needs-like.md      flat list of replies that still need a like
-                            (text-only replies, no photo description to
+                            (short acknowledgements, no photo description to
                             carry) -- a much smaller file, meant for a
                             worker/cron that only decides likes and has no
                             use for the reply-drafting bulk.
@@ -52,6 +53,28 @@ from . import config, vision
 
 SIMILARITY_THRESHOLD = 0.2
 TOP_KEYWORDS = 4
+MAX_LIKE_ONLY_WORDS = 2
+LIKE_ONLY_PHRASES = frozenset({
+    "thank you so much",
+    "thank you very much",
+    "thank you for sharing",
+    "thanks so much",
+    "thanks very much",
+    "thanks a lot",
+    "thanks for sharing",
+    "very nice shot",
+    "very nice photo",
+    "what a beautiful shot",
+    "such a beautiful photo",
+    "this is beautiful",
+    "this is gorgeous",
+    "this is lovely",
+    "this is stunning",
+    "i love this",
+    "i love it",
+    "love this photo",
+    "love this shot",
+})
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 ACTIONS_MD_PATH = ROOT_DIR / "data" / "actions.md"
@@ -232,15 +255,24 @@ def _needs_response(reply: dict) -> bool:
 
 def _action_category(reply: dict) -> str:
     """Categorizes an unanswered reply into what it's actually worth doing:
-    a reply with a photo is worth a thoughtful written reply, while a
-    plain-text reply usually just warrants a like rather than a full
-    suggested response.
+    photos and explicit questions need a written reply. Common acknowledgements
+    just need a like; otherwise text longer than two words needs a reply.
+    Count Unicode words, keeping contractions together and ignoring standalone
+    punctuation and emoji.
     """
-    return "reply" if _photo_lines(reply) else "like"
+    if _photo_lines(reply):
+        return "reply"
+    text = reply.get("text") or ""
+    if re.search(r"[?\u061f\uff1f]", text):
+        return "reply"
+    words = re.findall(r"\b\w+(?:['\u2019]\w+)*\b", text)
+    if " ".join(words).casefold() in LIKE_ONLY_PHRASES:
+        return "like"
+    return "reply" if len(words) > MAX_LIKE_ONLY_WORDS else "like"
 
 
 def _needs_action(reply: dict) -> bool:
-    """A text-only reply needs no further action if the owner already liked it."""
+    """A like-only reply needs no further action if the owner already liked it."""
     return _needs_response(reply) and not (
         _action_category(reply) == "like" and reply.get("is_liked") is True
     )
@@ -290,9 +322,9 @@ def _render_reply_lines(reply: dict, depth: int, show_action_marker: bool = Fals
     real reply-to-reply hierarchy is visible (not flattened).
 
     When show_action_marker is set (compact data/topics.md view), replies
-    still needing a response are prefixed **[NEEDS REPLY]** (has a photo --
-    worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like is
-    usually enough) so Muse doesn't have to re-derive that itself, and a
+    still needing a response are prefixed **[NEEDS REPLY]** (photo, question,
+    or substantive text) or **[NEEDS LIKE]** (short acknowledgement)
+    so Muse doesn't have to re-derive that itself, and a
     kept-but-already-resolved reply with further answered descendants gets a
     one-line overflow note instead of those descendants being spelled out.
 
@@ -445,19 +477,20 @@ BROWSER_ONLY_NOTE = (
 
 
 def _render_needs_reply_md(reply_items: list[tuple[dict, dict, str | None]]) -> str:
-    """Builds data/needs-reply.md -- just the photo replies still awaiting a
-    reply. This carries the bulk of the data (full photo descriptions), so
+    """Builds data/needs-reply.md -- photos, questions, and substantive text awaiting a
+    written reply. This carries the bulk of the data (full photo descriptions), so
     it's kept separate from needs-like.md: a worker that only decides likes
     shouldn't have to load all this to get to its much smaller list."""
     lines = [
         "# Needs Reply",
         "",
-        "_Flat list of replies still awaiting a reply -- no topic grouping, "
+        "_Flat list of photos, questions, and substantive text replies still "
+        "awaiting a written reply -- no topic grouping, "
         "no already-answered branches, no reply tree to walk, and each "
         "thread's link shown only once. See data/topics.md for fuller "
         "structural/thread context, or data/threads/<id>.md for the full "
         "conversation. See data/needs-like.md for the (much smaller) "
-        "text-only replies that just need a like._",
+        "short acknowledgements and common thanks/praise that just need a like._",
         "",
         BROWSER_ONLY_NOTE,
         "",
@@ -465,23 +498,24 @@ def _render_needs_reply_md(reply_items: list[tuple[dict, dict, str | None]]) -> 
         "",
     ]
     if not reply_items:
-        lines.append("_Nothing -- all photo replies answered._")
+        lines.append("_Nothing -- all replies needing a written reply answered._")
     else:
         lines.extend(_render_action_section(reply_items))
     return "\n".join(lines) + "\n"
 
 
 def _render_needs_like_md(like_items: list[tuple[dict, dict, str | None]]) -> str:
-    """Builds data/needs-like.md -- just the text-only replies still
+    """Builds data/needs-like.md -- just the short text-only replies still
     awaiting a like. Deliberately tiny (no photo descriptions to carry) so a
     like-only worker/cron can load this instead of the much bigger
     needs-reply.md."""
     lines = [
         "# Needs Like",
         "",
-        "_Flat list of text-only replies still awaiting a like -- no topic "
+        "_Flat list of short text-only acknowledgements and common thanks/praise "
+        "still awaiting a like -- no topic "
         "grouping, each thread's link shown only once. See "
-        "data/needs-reply.md for the (bigger) photo replies that need an "
+        "data/needs-reply.md for photos, questions, and substantive text that need an "
         "actual reply._",
         "",
         BROWSER_ONLY_NOTE,
@@ -490,7 +524,7 @@ def _render_needs_like_md(like_items: list[tuple[dict, dict, str | None]]) -> st
         "",
     ]
     if not like_items:
-        lines.append("_Nothing -- all text replies answered._")
+        lines.append("_Nothing -- all like-only replies already liked or answered._")
     else:
         for thread, entries in _group_by_thread(like_items):
             thread_link = f" ([thread]({thread.get('permalink', '')}))" if thread.get("permalink") else ""
@@ -575,8 +609,8 @@ def _write_dated_history(needs_reply_md: str, needs_like_md: str) -> None:
 
 def build_topic_graph(threads: list[dict]) -> dict:
     """Returns the full graph structure and writes:
-      - data/needs-reply.md     flat list of photo replies needing a reply
-      - data/needs-like.md      flat list of text-only replies needing a like
+      - data/needs-reply.md     photos, questions, and substantive text needing a reply
+      - data/needs-like.md      text-only acknowledgements needing a like
       - data/actions.md         combined convenience copy of the above two
       - data/topics.md          compact, actionable-first structural view
       - data/threads/<id>.md    full per-thread archive
@@ -624,9 +658,9 @@ def build_topic_graph(threads: list[dict]) -> dict:
         "# Thread Topics",
         "",
         "_Compact, actionable-first view: only replies still awaiting a "
-        "response are shown in full, marked **[NEEDS REPLY]** (has a photo -- "
-        "worth a thoughtful reply) or **[NEEDS LIKE]** (text-only -- a like "
-        "is usually enough). Already-answered replies collapse to a count -- "
+        "response are shown in full, marked **[NEEDS REPLY]** (photo, question, "
+        "or substantive text) or **[NEEDS LIKE]** (short acknowledgement or "
+        "common thanks/praise). Already-answered replies collapse to a count -- "
         "see the linked archive for the complete conversation._",
         "",
     ]
