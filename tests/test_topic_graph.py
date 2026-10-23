@@ -3,6 +3,33 @@ import unittest
 from src import threads_client, topic_graph
 
 
+class PhotoDescriptionTests(unittest.TestCase):
+    def test_multiline_photograph_read_stays_in_its_reply_bullet(self):
+        expected = (
+            "Description: A mountain at sunrise. "
+            "Photograph read: Warm light emphasizes the ridges."
+        )
+        for separator in ("\n", "\n\n", "\r\n\r\n"):
+            with self.subTest(separator=separator):
+                description = separator.join([
+                    "Description: A mountain at sunrise.",
+                    "Photograph read: Warm light emphasizes the ridges.",
+                ])
+                reply = {
+                    "username": "photographer",
+                    "photo_descriptions": [description, None],
+                }
+
+                lines = topic_graph._render_reply_lines(reply, 1)
+
+                self.assertEqual(lines[1], f"      - Photo: {expected}")
+                self.assertEqual(
+                    lines[2], f"      - Photo: {topic_graph.PENDING_PHOTO_TEXT}"
+                )
+                self.assertTrue(all("\n" not in line and "\r" not in line for line in lines))
+                self.assertEqual(reply["photo_descriptions"], [description, None])
+
+
 class NeedsLikeTests(unittest.TestCase):
     def setUp(self):
         self.thread = {"id": "thread-1", "text": "Root post"}
