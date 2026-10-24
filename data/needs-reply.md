@@ -4,31 +4,24 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (23)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - **bugs_eye_view_of_you**: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
-- **cooee_pet**: A Golden Orb Spider ([link](https://www.threads.com/@cooee_pet/post/De3J88en2dX))
-  - Photo: Description: A large orb-weaver spider hangs centrally in its intricate web inside a dim, industrial or barn-like structure. Bright sunlight streams through rectangular windows in the background, silhouetting the scene and highlighting the delicate threads of the web. Photograph read: The strong backlighting creates a high-contrast, moody silhouette effect with blown-out windows, while the centered spider draws sharp focus amidst the hazy, atmospheric interior.
-- **greenvelvetgarden**:  ([link](https://www.threads.com/@greenvelvetgarden/post/De3JVDZmMBr))
-  - Photo: Description: A tranquil, turquoise-green stream flows through a lush, moss-draped forest flanked by rocky banks. Bright sunlight filters through the dense overhead canopy, creating sparkling reflections on the clear water's surface. Photograph read: The vertical framing creates a natural leading-line composition that draws the eye down the glassy stream, capturing a quiet, serene mood illuminated by soft, dappled light.
-- **coldhollowfarm**:  ([link](https://www.threads.com/@coldhollowfarm/post/De3B8ISke4Q))
-  - Photo: Description: A vibrant cluster of orange shelf fungi grows horizontally along a dark, decaying log on a forest floor. The scene highlights the rich textures of the fungi and provides a close-up glimpse of woodland biodiversity. Photograph read: The shot uses a shallow depth of field to isolate the sharp, colorful fungi against a softly blurred, dark forest background, creating a moody and intimate perspective.
-  - Photo: Description: A dense, overlapping carpet of fan-shaped ginkgo leaves creates a vibrant tapestry of autumn colors. Ranging from bright yellow to touches of remaining green, the foliage provides a seasonal texture well-suited for nature or fall-themed social media content. Photograph read: The top-down flat lay composition utilizes bright, even lighting and rich autumnal hues to create a textured, repeating pattern with a cozy, seasonal mood.
-- **jenspixx**: Sunrise 💫 ([link](https://www.threads.com/@jenspixx/post/De3BM_xAZYV))
-  - Photo: Description: A person carrying a surfboard and a small dog walk together down a wide, wet sandy beach toward the ocean at sunset. The glowing sun hangs directly over the horizon, casting long, dramatic shadows and golden light across the entire scene. Photograph read: The symmetrical, centered composition creates a serene and expansive mood, highlighted by the warm, monochromatic golden-hour light and high-contrast silhouettes.
+- **pgibby58**: Evening in southern highlands NSW Australia ([link](https://www.threads.com/@pgibby58/post/De3TVcsI7PR))
+  - Photo: Description: A serene landscape at dawn features a vast, dark green grassy lawn stretching toward a distant horizon where the sky glows in vibrant bands of orange and deep blue. Silhouetted trees line the midground, and a modern lounge chair sits solitary on the grass, offering a peaceful vantage point for the morning sunrise. Photograph read: The wide composition emphasizes the expansive horizon, lit by the natural golden-hour glow of sunrise that casts a calm, contemplative mood over the shadowed foreground.
+- **cooee_pet**: A few weeks ago we went for a walk in the wetlands in Moreton Bay area. This spider is a resident of the bird hide. Hello from Australia 💫 ([link](https://www.threads.com/@cooee_pet/post/De3NqWen7_S))
+  - _Replying to: Backlit through the barn windows, the spider dead center in…_
+- **coldhollowfarm**: Same day, two different places. 😎 ([link](https://www.threads.com/@coldhollowfarm/post/De3NWgukarv))
+  - _Replying to: A two-for-one: orange shelf fungi along the log, then a who…_
 - **kiwi_girl_half_dead**: That's an awesome pic ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3FKB5AaqC))
   - _Replying to: Sunrise 💫_
 - **jenspixx**: Yeah one of my old faves :) ([link](https://www.threads.com/@jenspixx/post/De3FqofgWyl))
   - _Replying to: That's an awesome pic_
 - **kiwi_girl_half_dead**: It's a good fave..I haven't seen it before ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3Fv0rgc7G))
   - _Replying to: Yeah one of my old faves :)_
-- **greghillman11**: There was frequent birds flying past, I was hoping to catch one in front of the sun but this was the closest I managed to capture. ([link](https://www.threads.com/@greghillman11/post/De3EpSck028))
-  - _Replying to: Dead center, the bird parked right under the sun - one silh…_
-- **ruebsi**: A sunrise view of Cabo Froward in the Straight of Magellan. ([link](https://www.threads.com/@ruebsi/post/De3FZq8FGij))
-  - _Replying to: The reflection finishes what the sky starts - color top and…_
 - **buzz.crunch**: 😂 … It was a photogenic drive I took a dozen or so that are very similar 👌 ([link](https://www.threads.com/@buzz.crunch/post/De3AVXqHzUG))
   - _Replying to: Five minutes of glow, shot out the car window at 80 - and i…_
 - **picsall**: Dust storm coming! ([link](https://www.threads.com/@picsall/post/De2glAYklOt))
