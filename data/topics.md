@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (photo, question, or substantive text) or **[NEEDS LIKE]** (short acknowledgement or common thanks/praise). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: autumn, sky, water, halloween
+## Topic: autumn, water, sky, halloween
 
 - **Thread** [18190947304409568](https://www.threads.com/@saars.foto/post/De1x21vFGoT): Haunted Thursday favorites 🏆 Three haunts that stopped my scroll. @juliahh @bugs_eye_view_of_you @tiffany.art2020 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De1xcL1E2Sh/
   - Photo: A life-sized skeleton dressed in a black robe and hat stands behind a glass front door, bathed in the warm, bright glow of an indoor light at night.
@@ -13,10 +13,32 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   _(+5 more replies elsewhere in this thread already answered, see [full thread](threads/18190947304409568.md))_
 - **Thread** [18089706719271990](https://www.threads.com/@saars.foto/post/De1uZZrESrB): Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. Fog and first light on my street - all gold for about a minute. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: Sunlight filters through the misty air of a quiet residential street, casting dramatic rays over autumn-colored trees and a parked truck.
+  - **[NEEDS REPLY]** Reply by cooee_pet: A Golden Orb Spider ([link](https://www.threads.com/@cooee_pet/post/De3J88en2dX))
+    - Photo: Description: A large orb-weaver spider hangs centrally in its intricate web inside a dim, industrial or barn-like structure. Bright sunlight streams through rectangular windows in the background, silhouetting the scene and highlighting the delicate threads of the web. Photograph read: The strong backlighting creates a high-contrast, moody silhouette effect with blown-out windows, while the centered spider draws sharp focus amidst the hazy, atmospheric interior.
+  - **[NEEDS REPLY]** Reply by greenvelvetgarden:  ([link](https://www.threads.com/@greenvelvetgarden/post/De3JVDZmMBr))
+    - Photo: Description: A tranquil, turquoise-green stream flows through a lush, moss-draped forest flanked by rocky banks. Bright sunlight filters through the dense overhead canopy, creating sparkling reflections on the clear water's surface. Photograph read: The vertical framing creates a natural leading-line composition that draws the eye down the glassy stream, capturing a quiet, serene mood illuminated by soft, dappled light.
+  - **[NEEDS REPLY]** Reply by coldhollowfarm:  ([link](https://www.threads.com/@coldhollowfarm/post/De3B8ISke4Q))
+    - Photo: Description: A vibrant cluster of orange shelf fungi grows horizontally along a dark, decaying log on a forest floor. The scene highlights the rich textures of the fungi and provides a close-up glimpse of woodland biodiversity. Photograph read: The shot uses a shallow depth of field to isolate the sharp, colorful fungi against a softly blurred, dark forest background, creating a moody and intimate perspective.
+    - Photo: Description: A dense, overlapping carpet of fan-shaped ginkgo leaves creates a vibrant tapestry of autumn colors. Ranging from bright yellow to touches of remaining green, the foliage provides a seasonal texture well-suited for nature or fall-themed social media content. Photograph read: The top-down flat lay composition utilizes bright, even lighting and rich autumnal hues to create a textured, repeating pattern with a cozy, seasonal mood.
+  - **[NEEDS REPLY]** Reply by jenspixx: Sunrise 💫 ([link](https://www.threads.com/@jenspixx/post/De3BM_xAZYV))
+    - Photo: Description: A person carrying a surfboard and a small dog walk together down a wide, wet sandy beach toward the ocean at sunset. The glowing sun hangs directly over the horizon, casting long, dramatic shadows and golden light across the entire scene. Photograph read: The symmetrical, centered composition creates a serene and expansive mood, highlighted by the warm, monochromatic golden-hour light and high-contrast silhouettes.
+    - **[NEEDS REPLY]** Reply by kiwi_girl_half_dead: That's an awesome pic ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3FKB5AaqC))
+      - **[NEEDS REPLY]** Reply by jenspixx: Yeah one of my old faves :) ([link](https://www.threads.com/@jenspixx/post/De3FqofgWyl))
+        - **[NEEDS REPLY]** Reply by kiwi_girl_half_dead: It's a good fave..I haven't seen it before ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3Fv0rgc7G))
+  - Reply by greghillman11:  ([link](https://www.threads.com/@greghillman11/post/De220I9k5i8))
+    - Photo: Description: A lone seabird silhouettes in mid-flight directly below a large, glowing golden sun over dark ocean waves. The misty, monochrome yellow and amber tones create a serene and atmospheric coastal scene. Photograph read: The centered composition places the backlit bird and sun as the primary focal points, creating a tranquil yet dramatic mood through strong contrast against the dark sea.
+    - Reply by saars.foto: Dead center, the bird parked right under the sun - one silhouette carrying a whole amber sky. Frozen mid-flight on purpose, or a lucky pass? ([link](https://www.threads.com/@saars.foto/post/De28GM_EQlh))
+      - **[NEEDS REPLY]** Reply by greghillman11: There was frequent birds flying past, I was hoping to catch one in front of the sun but this was the closest I managed to capture. ([link](https://www.threads.com/@greghillman11/post/De3EpSck028))
+  - Reply by ruebsi:  ([link](https://www.threads.com/@ruebsi/post/De2x7SwDy2w))
+    - Photo: Description: A fiery orange and red sunset burns across a dramatic sky above the dark silhouette of a rugged mountain range bordering a vast body of water. The glowing colors reflect vividly on the rippling surface of the sea, creating a serene yet vibrant coastal landscape view. Photograph read: The horizontal composition balances the dramatic, brightly lit cloudscape against the dark, monolithic mountain silhouette, capturing a warm and intensely colored twilight mood.
+    - Reply by saars.foto: The reflection finishes what the sky starts - color top and bottom, the dark range holding the middle. Coast, or a big lake? ([link](https://www.threads.com/@saars.foto/post/De28JIgCVpG))
+      - **[NEEDS REPLY]** Reply by ruebsi: A sunrise view of Cabo Froward in the Straight of Magellan. ([link](https://www.threads.com/@ruebsi/post/De3FZq8FGij))
   - Reply by buzz.crunch:  ([link](https://www.threads.com/@buzz.crunch/post/De2x536nx0B))
     - Photo: Description: Sunlight breaks through a thick morning mist behind a large tree standing near a dark, paved road. The backlit fog creates a glowing golden atmosphere over the distant fields and sparse foliage. Photograph read: The back-lighting and mist create a dramatic interplay of light and shadow, with the central tree framing the bright sun and casting a prominent vertical dark cast onto the foreground road.
     - Reply by saars.foto: Backlit mist, the tree standing in the sun's way and its shadow thrown down the road at you. Was that glow gone in minutes? ([link](https://www.threads.com/@saars.foto/post/De28Ka6FZ2T))
-      - **[NEEDS REPLY]** Reply by buzz.crunch: It lasted for about 5 mins … I was running late for work and that shot was snapped out the car window driving at 80km’s 😀 ([link](https://www.threads.com/@buzz.crunch/post/De29vV4n4fL))
+      - Reply by buzz.crunch: It lasted for about 5 mins … I was running late for work and that shot was snapped out the car window driving at 80km’s 😀 ([link](https://www.threads.com/@buzz.crunch/post/De29vV4n4fL))
+        - Reply by saars.foto: Five minutes of glow, shot out the car window at 80 - and it's the cleanest frame of the day. Being late never paid off so well. ([link](https://www.threads.com/@saars.foto/post/De3AJRCDqf1))
+          - **[NEEDS REPLY]** Reply by buzz.crunch: 😂 … It was a photogenic drive I took a dozen or so that are very similar 👌 ([link](https://www.threads.com/@buzz.crunch/post/De3AVXqHzUG))
   - Reply by christy.logsdon.5:  ([link](https://www.threads.com/@christy.logsdon.5/post/De2P21HgSs9))
     - Photo: Description: A wide rural landscape stretches beneath a fiery orange sunset, with silhouetted mountains in the distance and a wire fence cutting across the foreground. The warm glow creates a peaceful, rustic scene ideal for sharing a quiet evening view. Photograph read: The horizontal composition uses layered silhouettes of the fence and mountains to anchor the frame, while the warm directional light from the sunset sets a tranquil, serene mood.
     - Reply by saars.foto: Layered silhouettes - fence first, mountains behind, all that fire on top. Your fence line, or a roadside stop? ([link](https://www.threads.com/@saars.foto/post/De2kGf0mIN_))
@@ -33,16 +55,15 @@ _Compact, actionable-first view: only replies still awaiting a response are show
           - **[NEEDS LIKE]** Reply by kodybundy: Woohoo!!! ([link](https://www.threads.com/@kodybundy/post/De2vVk8j13w))
   - Reply by krisanewman: The last sunrise out of the first house I bought on my own. Bittersweet. ([link](https://www.threads.com/@krisanewman/post/De2DWm4EfV1))
     - Photo: Description: A hazy sunrise peeks through a natural tree frame, illuminating a rural scene with a distant water tower and a barn roof. The moody landscape evokes a quiet, early morning small-town vibe. Photograph read: The framing created by dark, silhouetted foliage creates a natural vignette around the glowing, overcast sky, establishing a still and atmospheric mood.
-    _(+9 more replies already answered under this, see archive)_
+    - Reply by saars.foto: The trees make a natural vignette around that hazy sky - a quiet frame for a goodbye. Did you stand in this same spot for it on other mornings? ([link](https://www.threads.com/@saars.foto/post/De2JFDTlBLl))
+      - Reply by krisanewman: I did. Many times. I loved how the town water tower was just in my line of sight. I would have some morning coffee and watch the day wake up. Me and Jesus talking about the day. 🙂 ([link](https://www.threads.com/@krisanewman/post/De2TB-im0jD))
+        - Reply by saars.foto: Coffee, the water tower, and the day waking up - that's not a view, that's a ritual. The new house has big mornings to live up to. ([link](https://www.threads.com/@saars.foto/post/De2tsIVlPzQ))
+          _(+4 more replies already answered under this, see archive)_
+          - Reply by krisanewman: And now back in Milwaukee for more than ten. Somehow I always have great views ([link](https://www.threads.com/@krisanewman/post/De2vGWWEV54))
+            - Photo: Description: A lush green peace lily sits on a windowsill, looking out onto an overcast suburban courtyard with apartment buildings and tall evergreen trees. The indoor plant features dark glossy leaves and a couple of pale, drooping blooms, creating a quiet domestic scene that feels like a cozy morning at home. Photograph read: Shot from inside looking out, the frame uses the windowpane and houseplant to anchor the foreground, contrasting the deep green foliage against the cool, diffused daylight of an overcast day.
+            - Reply by saars.foto: Milwaukee for a decade, and the views keep finding you - the peace lily has front-row seats now. ([link](https://www.threads.com/@saars.foto/post/De28QsNEd1k))
+              - **[NEEDS LIKE]** Reply by krisanewman: Facts. ([link](https://www.threads.com/@krisanewman/post/De3AXLnkXbq))
     - **[NEEDS LIKE]** Reply by mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
-  - Reply by luvsravens59:  ([link](https://www.threads.com/@luvsravens59/post/De1-clulX27))
-    - Photo: Description: A bright sun sets near a mountainous coastline, casting a golden reflection across calm ocean waters and onto a wet sandy beach. Gentle waves lap at the shore, creating a serene coastal view perfect for a peaceful evening social media post. Photograph read: The horizontal composition uses natural framing and strong sidelighting to create a tranquil, golden-hour mood that emphasizes the contrast between dark silhouettes and glowing reflections.
-    - Reply by saars.foto: The reflection runs from the water straight onto the wet sand - two mirrors in one frame. Which coast is this? ([link](https://www.threads.com/@saars.foto/post/De2JOxeI3pa))
-      - Reply by luvsravens59: The sea of Cortez, San Carlos Mexico. ([link](https://www.threads.com/@luvsravens59/post/De2NbV4lR3x))
-        - Reply by saars.foto: San Carlos on the Sea of Cortez - that coastline knows how to end a day. ([link](https://www.threads.com/@saars.foto/post/De2t0fHllVn))
-          - Reply by luvsravens59: Yes it does. Some of the best sunrises and sunsets I’ve ever seen. ([link](https://www.threads.com/@luvsravens59/post/De2xyjajcQd))
-            - Reply by saars.foto: The best you've ever seen, after a lifetime of watching them - San Carlos keeps the title, then. ([link](https://www.threads.com/@saars.foto/post/De28TIkDs0h))
-              - **[NEEDS REPLY]** Reply by luvsravens59: Next to my hometown sunrise’s and sunsets yeah pretty much. lol ([link](https://www.threads.com/@luvsravens59/post/De29wrZjX3h))
   - Reply by rattlesnakelaw:  ([link](https://www.threads.com/@rattlesnakelaw/post/De1yD9Blt3q))
     - Photo: The "Welcome to Roswell" sign stands tall in a flat, arid landscape under a cloudy sunset sky, featuring a UFO on top and graffiti on its base. The quirky monument highlights the area's famous UFO lore, making it a must-visit roadside stop for alien enthusiasts.
     _(+1 more reply already answered under this, see archive)_
@@ -53,7 +74,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       - Reply by tallerthanyou2026: It quickly disappeared ([link](https://www.threads.com/@tallerthanyou2026/post/De10TsJG55W))
         - Reply by saars.foto: Gone fast - you caught the peak, then. That's the discipline: shoot first. ([link](https://www.threads.com/@saars.foto/post/De2uM-HkYl-))
           - **[NEEDS LIKE]** Reply by tallerthanyou2026: Yes!! ([link](https://www.threads.com/@tallerthanyou2026/post/De2ui6Ljwk9))
-  _(+198 more replies elsewhere in this thread already answered, see [full thread](threads/18089706719271990.md))_
+  _(+204 more replies elsewhere in this thread already answered, see [full thread](threads/18089706719271990.md))_
 - **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
   - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
   - Photo: A macro shot shows a row of six clear, glistening water droplets balanced precariously along the edge of a vibrant green blade of grass, capturing the delicate beauty of a rainy morning. The background is a soft, out-of-focus blend of muted greens and whites, creating a serene and contemplative atmosphere.
@@ -124,10 +145,16 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       - **[NEEDS LIKE]** Reply by mur.locations: Absolutely!! ([link](https://www.threads.com/@mur.locations/post/DexjmCQjyoK))
   - **[NEEDS REPLY]** Reply by remalysh: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
     - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
+  - Reply by abnerabel125:  ([link](https://www.threads.com/@abnerabel125/post/DewwRWcm3e8))
+    - Photo: At dusk, several boats are docked in a harbor, with their bright lights reflecting on the dark water.
+    - Reply by saars.foto: Harbor lights doubled on the water. Dusk is that place's best hour. ([link](https://www.threads.com/@saars.foto/post/Dew5gIgFaTg))
+      - Reply by abnerabel125: Dusk is a really great time for photos . It’s not always calm at the harbor . I’m glad you liked my photo . ([link](https://www.threads.com/@abnerabel125/post/DexBGbXD3UR))
+        - Reply by saars.foto: Glad it landed - dusk at that harbor earned the compliment. ([link](https://www.threads.com/@saars.foto/post/De2uzumGWEF))
+          - **[NEEDS REPLY]** Reply by abnerabel125: Thank you my friend . ([link](https://www.threads.com/@abnerabel125/post/De3M3wjFPyD))
   - **[NEEDS REPLY]** Reply by carmenjitano: Jesus 🙏🙏❤️❤️ God bless you and your family, thank you ([link](https://www.threads.com/@carmenjitano/post/DewvfEZkbm7))
   - **[NEEDS LIKE]** Reply by kelzkidz03: Great framing ([link](https://www.threads.com/@kelzkidz03/post/DewuzZWDudY))
   - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+254 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+250 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
 - **Thread** [18098217035651918](https://www.threads.com/@saars.foto/post/DeuAti8lfbp): Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, golden leaves, foggy mornings, pumpkins, whatever fall looks like where you are. Caught this one from a parking garage - autumn framing the view. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Follow for more prompts.
   - Photo: A view of a foggy autumn day featuring vibrant red ivy framing a window opening. The misty background reveals tall evergreen and deciduous trees against a muted gray sky.
   - Reply by vuurenbernadettevan:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DeuEuXSl9xR))

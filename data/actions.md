@@ -6,18 +6,35 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (17)
+## Needs Reply (26)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - **bugs_eye_view_of_you**: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
 
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
-- **buzz.crunch**: It lasted for about 5 mins … I was running late for work and that shot was snapped out the car window driving at 80km’s 😀 ([link](https://www.threads.com/@buzz.crunch/post/De29vV4n4fL))
-  - _Replying to: Backlit mist, the tree standing in the sun's way and its sh…_
+- **cooee_pet**: A Golden Orb Spider ([link](https://www.threads.com/@cooee_pet/post/De3J88en2dX))
+  - Photo: Description: A large orb-weaver spider hangs centrally in its intricate web inside a dim, industrial or barn-like structure. Bright sunlight streams through rectangular windows in the background, silhouetting the scene and highlighting the delicate threads of the web. Photograph read: The strong backlighting creates a high-contrast, moody silhouette effect with blown-out windows, while the centered spider draws sharp focus amidst the hazy, atmospheric interior.
+- **greenvelvetgarden**:  ([link](https://www.threads.com/@greenvelvetgarden/post/De3JVDZmMBr))
+  - Photo: Description: A tranquil, turquoise-green stream flows through a lush, moss-draped forest flanked by rocky banks. Bright sunlight filters through the dense overhead canopy, creating sparkling reflections on the clear water's surface. Photograph read: The vertical framing creates a natural leading-line composition that draws the eye down the glassy stream, capturing a quiet, serene mood illuminated by soft, dappled light.
+- **coldhollowfarm**:  ([link](https://www.threads.com/@coldhollowfarm/post/De3B8ISke4Q))
+  - Photo: Description: A vibrant cluster of orange shelf fungi grows horizontally along a dark, decaying log on a forest floor. The scene highlights the rich textures of the fungi and provides a close-up glimpse of woodland biodiversity. Photograph read: The shot uses a shallow depth of field to isolate the sharp, colorful fungi against a softly blurred, dark forest background, creating a moody and intimate perspective.
+  - Photo: Description: A dense, overlapping carpet of fan-shaped ginkgo leaves creates a vibrant tapestry of autumn colors. Ranging from bright yellow to touches of remaining green, the foliage provides a seasonal texture well-suited for nature or fall-themed social media content. Photograph read: The top-down flat lay composition utilizes bright, even lighting and rich autumnal hues to create a textured, repeating pattern with a cozy, seasonal mood.
+- **jenspixx**: Sunrise 💫 ([link](https://www.threads.com/@jenspixx/post/De3BM_xAZYV))
+  - Photo: Description: A person carrying a surfboard and a small dog walk together down a wide, wet sandy beach toward the ocean at sunset. The glowing sun hangs directly over the horizon, casting long, dramatic shadows and golden light across the entire scene. Photograph read: The symmetrical, centered composition creates a serene and expansive mood, highlighted by the warm, monochromatic golden-hour light and high-contrast silhouettes.
+- **kiwi_girl_half_dead**: That's an awesome pic ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3FKB5AaqC))
+  - _Replying to: Sunrise 💫_
+- **jenspixx**: Yeah one of my old faves :) ([link](https://www.threads.com/@jenspixx/post/De3FqofgWyl))
+  - _Replying to: That's an awesome pic_
+- **kiwi_girl_half_dead**: It's a good fave..I haven't seen it before ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3Fv0rgc7G))
+  - _Replying to: Yeah one of my old faves :)_
+- **greghillman11**: There was frequent birds flying past, I was hoping to catch one in front of the sun but this was the closest I managed to capture. ([link](https://www.threads.com/@greghillman11/post/De3EpSck028))
+  - _Replying to: Dead center, the bird parked right under the sun - one silh…_
+- **ruebsi**: A sunrise view of Cabo Froward in the Straight of Magellan. ([link](https://www.threads.com/@ruebsi/post/De3FZq8FGij))
+  - _Replying to: The reflection finishes what the sky starts - color top and…_
+- **buzz.crunch**: 😂 … It was a photogenic drive I took a dozen or so that are very similar 👌 ([link](https://www.threads.com/@buzz.crunch/post/De3AVXqHzUG))
+  - _Replying to: Five minutes of glow, shot out the car window at 80 - and i…_
 - **picsall**: Dust storm coming! ([link](https://www.threads.com/@picsall/post/De2glAYklOt))
   - _Replying to: (photo reply, no text)_
-- **luvsravens59**: Next to my hometown sunrise’s and sunsets yeah pretty much. lol ([link](https://www.threads.com/@luvsravens59/post/De29wrZjX3h))
-  - _Replying to: The best you've ever seen, after a lifetime of watching the…_
 
 ### Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches,… ([thread](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7))
 - **remalysh**: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
@@ -41,6 +58,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: beautiful long exposure_
 - **remalysh**: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
+- **abnerabel125**: Thank you my friend . ([link](https://www.threads.com/@abnerabel125/post/De3M3wjFPyD))
+  - _Replying to: Glad it landed - dusk at that harbor earned the compliment._
 - **carmenjitano**: Jesus 🙏🙏❤️❤️ God bless you and your family, thank you ([link](https://www.threads.com/@carmenjitano/post/DewvfEZkbm7))
 
 ### Autumn Tuesday 🍂 Show me your best autumn shot. Red trees, … ([thread](https://www.threads.com/@saars.foto/post/DeuAti8lfbp))
@@ -52,7 +71,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (13)
+## Needs Like (14)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
@@ -60,6 +79,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
 - christy.logsdon.5: Fence line ([link](https://www.threads.com/@christy.logsdon.5/post/De2rYq1Ad3g))
 - kodybundy: Woohoo!!! ([link](https://www.threads.com/@kodybundy/post/De2vVk8j13w))
+- krisanewman: Facts. ([link](https://www.threads.com/@krisanewman/post/De3AXLnkXbq))
 - mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
 - nmpinkoyote: Damn!!! Beautiful!!! ([link](https://www.threads.com/@nmpinkoyote/post/De2CoG4G5c-))
 - tallerthanyou2026: Yes!! ([link](https://www.threads.com/@tallerthanyou2026/post/De2ui6Ljwk9))
