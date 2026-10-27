@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (13)
+## Needs Like (8)
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
@@ -14,14 +14,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - kodybundy: Woohoo!!! ([link](https://www.threads.com/@kodybundy/post/De2vVk8j13w))
 - krisanewman: Facts. ([link](https://www.threads.com/@krisanewman/post/De3AXLnkXbq))
 - mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
+- steff_r13: 13 years 💔 ([link](https://www.threads.com/@steff_r13/post/De7LNbglSM2))
 - nmpinkoyote: Damn!!! Beautiful!!! ([link](https://www.threads.com/@nmpinkoyote/post/De2CoG4G5c-))
 - tallerthanyou2026: Yes!! ([link](https://www.threads.com/@tallerthanyou2026/post/De2ui6Ljwk9))
-
-### Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddl… ([thread](https://www.threads.com/@saars.foto/post/Dewkudim4IN))
-- khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
-- fargodadx2: Two favorites ([link](https://www.threads.com/@fargodadx2/post/Dezvz9BGslu))
-- therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
-- mur.locations: Absolutely!! ([link](https://www.threads.com/@mur.locations/post/DexjmCQjyoK))
-- kelzkidz03: Great framing ([link](https://www.threads.com/@kelzkidz03/post/DewuzZWDudY))
-- cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
 

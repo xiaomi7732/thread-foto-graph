@@ -2,7 +2,17 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (photo, question, or substantive text) or **[NEEDS LIKE]** (short acknowledgement or common thanks/praise). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: sky, water, halloween, light
+## Topic: skeleton, year, looks, thank
+
+- **Thread** [18190947304409568](https://www.threads.com/@saars.foto/post/De1x21vFGoT): Haunted Thursday favorites 🏆 Three haunts that stopped my scroll. @juliahh @bugs_eye_view_of_you @tiffany.art2020 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De1xcL1E2Sh/
+  - Photo: A life-sized skeleton dressed in a black robe and hat stands behind a glass front door, bathed in the warm, bright glow of an indoor light at night.
+  - Photo: A large, plastic, cream-colored Halloween skeleton appears to be bursting out of the grass in a front yard, with fake spider webs draped over the bushes and porch behind it.
+  - Photo: An eerie photo shows an illuminated white human skeleton standing against a textured, rustic brown backdrop.
+  - **[NEEDS REPLY]** Reply by bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
+  - **[NEEDS LIKE]** Reply by tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
+  _(+5 more replies elsewhere in this thread already answered, see [full thread](threads/18190947304409568.md))_
+
+## Topic: sky, read, description, photograph
 
 - **Thread** [18238804897319771](https://www.threads.com/@saars.foto/post/De4dgU3oFdP): 🤏 A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.
   - Photo: Description: A pale, nearly full moon hangs low in a clear turquoise sky above a distant layer of clouds and the dark silhouettes of evergreen treetops. The daytime twilight ambiance suggests a peaceful evening transition or early morning moment suitable for nature appreciation. Photograph read: The minimalist composition relies on ample negative space in the sky to emphasize the solitary moon floating above the distant horizon.
@@ -12,23 +22,12 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Photo: Description: A congested street in Hong Kong is filled with double-decker buses and cars traveling toward a bright, low-angled sun during golden hour. The dense, tall buildings lining the urban canyon cast long shadows, framing the busy traffic scene. Photograph read: The vertically framed street-level shot uses strong linear perspective to guide the eye toward the glowing horizon, with high-contrast shadows emphasizing the urban density and warm, late-afternoon mood.
   - Photo: Description: Two people are silhouetted against a brilliant sunset on a beach, with one person standing closer to the foreground in the shallow surf and another further out in the waves. The vibrant orange sky and reflective wet sand create a serene, picturesque scene ideal for a travel or vacation post. Photograph read: The vertical composition uses strong backlighting to cast the subjects into silhouette against a glowing orange palette, creating a tranquil and contemplative mood.
   - All 7 replies already answered. ✅ ([full thread](threads/18440202316176936.md))
-- **Thread** [18190947304409568](https://www.threads.com/@saars.foto/post/De1x21vFGoT): Haunted Thursday favorites 🏆 Three haunts that stopped my scroll. @juliahh @bugs_eye_view_of_you @tiffany.art2020 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De1xcL1E2Sh/
-  - Photo: A life-sized skeleton dressed in a black robe and hat stands behind a glass front door, bathed in the warm, bright glow of an indoor light at night.
-  - Photo: A large, plastic, cream-colored Halloween skeleton appears to be bursting out of the grass in a front yard, with fake spider webs draped over the bushes and porch behind it.
-  - Photo: An eerie photo shows an illuminated white human skeleton standing against a textured, rustic brown backdrop.
-  - **[NEEDS REPLY]** Reply by bugs_eye_view_of_you: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
-  - **[NEEDS LIKE]** Reply by tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
-  _(+5 more replies elsewhere in this thread already answered, see [full thread](threads/18190947304409568.md))_
 - **Thread** [18089706719271990](https://www.threads.com/@saars.foto/post/De1uZZrESrB): Golden Friday 🌟 Show me the most golden thing in your camera roll. A sunflower, a sunset, a streetlamp glowing at dusk - if it glows gold, it counts. Fog and first light on my street - all gold for about a minute. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
   - Photo: Sunlight filters through the misty air of a quiet residential street, casting dramatic rays over autumn-colored trees and a parked truck.
-  - Reply by philpalma119:  ([link](https://www.threads.com/@philpalma119/post/De4A94RjXKV))
-    - Photo: Description: A vibrant sky is filled with bright orange and yellow clouds, creating a fiery and dramatic backdrop. This glowing scene is ideal for nature-focused or atmospheric social media posts. Photograph read: The monochromatic warm color palette and soft, diffused light create a striking, fiery mood, with dense cloud formations filling the entire frame.
-    - Reply by saars.foto: No horizon, no ground - you let the clouds take the whole frame and it works. Did the sky really burn that orange, or is this its peak minute? ([link](https://www.threads.com/@saars.foto/post/De4aa3ZlSBl))
-      - **[NEEDS REPLY]** Reply by philpalma119: Yes, the sky was that orange. Peak minute and the light was starting to hide behind mountains. ([link](https://www.threads.com/@philpalma119/post/De4cxkzDeA4))
-  - Reply by outdoorguyks:  ([link](https://www.threads.com/@outdoorguyks/post/De3cjNxEV4D))
-    - Photo: Description: A crimson-red sun hangs low in a dark, hazy sky above a vast forest canopy, with thick atmospheric conditions creating a dramatic, fiery horizon line. A small cursive signature is visible in the lower left corner. Photograph read: The balanced composition frames the glowing sun between dark, silhouetted evergreens, casting a somber, ominous mood through high-contrast lighting and a monochromatic red and black palette.
-    - Reply by saars.foto: That sun is an ember in a dark sky - haze turned the whole scene red over the treeline. Smoke in the air, or a dusty evening doing it? ([link](https://www.threads.com/@saars.foto/post/De4ae3GEVHE))
-      - **[NEEDS REPLY]** Reply by outdoorguyks: Yes, smoke was in the air. There had been a forest fire not far from there and the smoke was in the air and the sun setting made for a spectacular sunset. ([link](https://www.threads.com/@outdoorguyks/post/De4beR-FPIb))
+  - Reply by stevenalot: Darwin ([link](https://www.threads.com/@stevenalot/post/De31xgyGdUX))
+    - Photo: Description: A fiery orange sun dips below the horizon of a calm ocean, silhouetting a distant boat as scattered clouds glow against the twilight sky. Photograph read: The centered composition and strong golden hour lighting create a serene yet striking mood, framed by horizontal layers of sea, sun, and clouds.
+    - Reply by saars.foto: Darwin showing off - the boat sits right on the sun's path, layers of sea and sky doing the rest. Heading in for the night, or just crossing at the perfect minute? ([link](https://www.threads.com/@saars.foto/post/De4adYXFEul))
+      - **[NEEDS REPLY]** Reply by stevenalot: Nice summary, the Northern Territory has its own mind and colours. Dangerously beautiful. ([link](https://www.threads.com/@stevenalot/post/De6rhS3mUJq))
   - Reply by pgibby58: Evening in southern highlands NSW Australia ([link](https://www.threads.com/@pgibby58/post/De3TVcsI7PR))
     - Photo: Description: A serene landscape at dawn features a vast, dark green grassy lawn stretching toward a distant horizon where the sky glows in vibrant bands of orange and deep blue. Silhouetted trees line the midground, and a modern lounge chair sits solitary on the grass, offering a peaceful vantage point for the morning sunrise. Photograph read: The wide composition emphasizes the expansive horizon, lit by the natural golden-hour glow of sunrise that casts a calm, contemplative mood over the shadowed foreground.
     - Reply by saars.foto: A lawn the size of a field, one lounge chair parked for the show, and the sky banding orange over deep blue. Is that chair a permanent resident out there? ([link](https://www.threads.com/@saars.foto/post/De3VEoHEUln))
@@ -80,6 +79,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
             - Reply by saars.foto: Milwaukee for a decade, and the views keep finding you - the peace lily has front-row seats now. ([link](https://www.threads.com/@saars.foto/post/De28QsNEd1k))
               - **[NEEDS LIKE]** Reply by krisanewman: Facts. ([link](https://www.threads.com/@krisanewman/post/De3AXLnkXbq))
     - **[NEEDS LIKE]** Reply by mke_photo_steve: Wow 🤩 ([link](https://www.threads.com/@mke_photo_steve/post/De2I46GG7XO))
+  - Reply by steff_r13: Last photo of my dog. 🐶🪽✨ ([link](https://www.threads.com/@steff_r13/post/De15P6BFSr2))
+    - Photo: A small white and tan terrier mix wearing a blue mesh harness lies comfortably on a brown textured armchair, looking intently to the side. Nearby toys suggest a cozy indoor setting, perfect for a relaxed pet portrait.
+    - Reply by saars.foto: A quiet portrait - soft indoor light, head turned like he's listening for something. Last photos carry a weight the others don't. How long was he with you? ([link](https://www.threads.com/@saars.foto/post/De1-H6YHAzv))
+      - **[NEEDS LIKE]** Reply by steff_r13: 13 years 💔 ([link](https://www.threads.com/@steff_r13/post/De7LNbglSM2))
   - Reply by rattlesnakelaw:  ([link](https://www.threads.com/@rattlesnakelaw/post/De1yD9Blt3q))
     - Photo: The "Welcome to Roswell" sign stands tall in a flat, arid landscape under a cloudy sunset sky, featuring a UFO on top and graffiti on its base. The quirky monument highlights the area's famous UFO lore, making it a must-visit roadside stop for alien enthusiasts.
     _(+1 more reply already answered under this, see archive)_
@@ -90,78 +93,4 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       - Reply by tallerthanyou2026: It quickly disappeared ([link](https://www.threads.com/@tallerthanyou2026/post/De10TsJG55W))
         - Reply by saars.foto: Gone fast - you caught the peak, then. That's the discipline: shoot first. ([link](https://www.threads.com/@saars.foto/post/De2uM-HkYl-))
           - **[NEEDS LIKE]** Reply by tallerthanyou2026: Yes!! ([link](https://www.threads.com/@tallerthanyou2026/post/De2ui6Ljwk9))
-  _(+232 more replies elsewhere in this thread already answered, see [full thread](threads/18089706719271990.md))_
-- **Thread** [18135581695736524](https://www.threads.com/@saars.foto/post/DezMtDJETct): Water Wednesday favorites 🏆 Three waters that stopped my scroll. @kes_ward @susannemariehelene @garnome - beautiful work, all of you. Reel: https://www.instagram.com/reel/DezMhddjtMg/
-  - Photo: At the Giant's Causeway in Northern Ireland, a long exposure captures the ethereal, misty ocean lapping against the iconic, tightly packed hexagonal basalt columns under a dramatic, cloudy sky.
-  - Photo: A macro shot shows a row of six clear, glistening water droplets balanced precariously along the edge of a vibrant green blade of grass, capturing the delicate beauty of a rainy morning. The background is a soft, out-of-focus blend of muted greens and whites, creating a serene and contemplative atmosphere.
-  - Photo: A person wearing a hat pilots a small motorized dinghy through calm harbor waters, with a passenger resting nearby. In the background, numerous sailboats are anchored against a hazy shoreline.
-  - All 5 replies already answered. ✅ ([full thread](threads/18135581695736524.md))
-- **Thread** [18046748195835295](https://www.threads.com/@saars.foto/post/DezJ5OFEcU7): Haunted Thursday 🎃 Show me your Halloween. Pumpkin patches, porch carvings, decorations, foggy corners, odd shadows - festive or full-on creepy, all of it counts. This big guy is on pumpkin duty all October. ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
-  - Photo: A full-sized skeleton stands in a front yard as part of a Halloween decoration, leaning on a weed whacker. Three carved plastic pumpkins rest on the grass in front of it.
-  - **[NEEDS REPLY]** Reply by remalysh: Happy Halloween ([link](https://www.threads.com/@remalysh/post/Dezwl2YGgz2))
-    - Photo: A toddler in brown and white striped pajamas and a black and red cape plays with a carved pumpkin on a porch.
-  _(+40 more replies elsewhere in this thread already answered, see [full thread](threads/18046748195835295.md))_
-- **Thread** [17980137651136213](https://www.threads.com/@saars.foto/post/DewrNxkmwgB): Autumn Tuesday favorites 🏆 Three frames of fall that stopped my scroll. @danielslagerman @pappaga11a @heidi.undefined - beautiful work, all of you. Reel: https://www.instagram.com/reel/Dewqqaoj2EX/
-  - Photo: An eye-level, medium shot depicts a dark wooden bench with concrete legs sitting on a small concrete platform facing a body of water during the autumn season. The sun is setting over the water, and its bright rays shine through the trees. The bare trees have brown and orange leaves, and a few are green. There are also yellow-green and green bushes. The ground is covered in brown and orange leaves and dirt.
-  - Photo: Framed by the concrete pillars and metal railing of what appears to be a parking garage, a mature tree bursts with vibrant autumn foliage in shades of orange and red. The industrial architecture of the surrounding structure contrasts with the organic beauty of the changing leaves seen through the opening.
-  - Photo: A fallen, brown autumn leaf rests on a bed of dewy grass, surrounded by a glistening field of water droplets that catch the light in a soft, dreamy blur.
-  - All 7 replies already answered. ✅ ([full thread](threads/17980137651136213.md))
-- **Thread** [18118551631977488](https://www.threads.com/@saars.foto/post/Dewkudim4IN): Water Wednesday 💧 Rivers, rain on glass, ocean edges, puddles, fountains - show me water doing its thing. Framed this one through the railing at Niagara - the falls did the rest ONE photo. Replying is consent: 3 favorites featured tomorrow and pinned to the profile, and may also be featured in an Instagram reel or weekend IG roundup with full credit. Best of the week lands on Instagram on the weekend.
-  - Photo: A framed view of Niagara Falls viewed through a metal spiral.
-  - **[NEEDS LIKE]** Reply by khoojosie:  ([link](https://www.threads.com/@khoojosie/post/Dex28ZuFdCK))
-  - Reply by desibotanista: #MahimbayMumbai #BandraWorliSeaLink, Mumbai 🇮🇳 ([link](https://www.threads.com/@desibotanista/post/Dex1maOgtyk))
-    - Reply by saars.foto: The Bandra-Worli Sea Link - that cable-stayed sweep is unmistakable, and Mahim Bay frames it perfectly. Mumbai gave you a grand subject. ([link](https://www.threads.com/@saars.foto/post/De4a2-9FT7w))
-      - **[NEEDS REPLY]** Reply by desibotanista: Evening & Night illuminated view of Bandra Worli Sea 🌊 🔗 is just Magical ([link](https://www.threads.com/@desibotanista/post/De5iqAjCPYO))
-        - Photo: Description: A vibrant pastel sunset illuminates the sky above a dense urban skyline bordering a large body of water. The warm pink and orange clouds contrast with the cool grey tones of the city buildings and calm sea, creating a scenic view for an evening post. Photograph read: The wide composition balances the heavy skyline in the lower half with a sweeping sky of soft pink and orange clouds lit by the setting sun, evoking a tranquil and serene mood.
-        - Photo: Description: An elevated night view of a coastal city skyline across a dark expanse of water, with building lights and a prominent illuminated hospital sign reflecting on the surface. In the foreground, streetlights illuminate a low-rise area and a road running parallel to the waterfront. Photograph read: The wide composition balances the dark, expansive sky and water with a dense band of city lights, creating a calm, atmospheric nocturnal cityscape.
-        - Photo: Description: A night cityscape view features a glowing urban skyline across a dark expanse of water, with bright building lights reflecting sharply on the surface. In the foreground, dimly lit rooftops and a roadside billboard are visible under a clear, dark sky. Photograph read: The wide composition emphasizes the horizontal band of city lights and their vertical water reflections, creating a quiet and expansive nocturnal mood.
-  - Reply by desibotanista: ▓Niagara Falls .. 2022 visit ▓▓ ([link](https://www.threads.com/@desibotanista/post/Dex1MXJAiGN))
-    - Photo: A low-angle, medium shot shows a bright blue sky above Niagara Falls in Ontario, Canada, with light mist rising up from the base of the waterfall to the right and a blue observation tower to the left of center. The water is clear blue, with the white spray of the falls cascading down over gray-colored rocks. The view from the water shows the observation tower on the left, which has a circular walkway at the top and a bridge extending to the main shoreline.
-    - Reply by saars.foto: Niagara from the waterline - tower watching, mist rising. Third falls framing in this thread today, and each one found a different angle. ([link](https://www.threads.com/@saars.foto/post/DeyEVfvlZND))
-      - Reply by desibotanista: We did the ‘Maid of the Mist🌫️’ & captured the falls 🤍 🌫️ ([link](https://www.threads.com/@desibotanista/post/DeywK9NE8BR))
-        - Reply by saars.foto: Maid of the Mist puts you inside the weather, not just near it - that capture is the falls at full volume. ([link](https://www.threads.com/@saars.foto/post/De2uaX8mIrd))
-          - **[NEEDS REPLY]** Reply by desibotanista: Yes… I experienced the falls & Maid of mist twice 👌👍 2008 from Canada 🇨🇦 & 2022 from USA 🇺🇸 side all the way from India 🇮🇳 👏🏻 Just Magical & Wonderful moments both times 🩵 ([link](https://www.threads.com/@desibotanista/post/De5iFU2CGn-))
-  - Reply by chiapet65: Whistler, Wasaga Beach, Niagara Falls 🌊💙 ([link](https://www.threads.com/@chiapet65/post/DexoT9CgIP9))
-    - Reply by saars.foto: Three waters, three moods - Whistler, Wasaga, and Niagara doing its thunder. Which of the three do you find yourself shooting most? ([link](https://www.threads.com/@saars.foto/post/De4arl-EWm5))
-      - **[NEEDS REPLY]** Reply by chiapet65: Well I live in niagara falls now so...but id rather be out vancouver way for sure! 🇨🇦 ([link](https://www.threads.com/@chiapet65/post/De5a3wPAELQ))
-  - Reply by posts.by.norman:  ([link](https://www.threads.com/@posts.by.norman/post/Dexi1EFEwm5))
-    - Photo: A green iron railing frames a scenic view of a lake dotted with fish pens, set against a backdrop of rolling, green hills under a partly cloudy sky. The eye-level perspective makes the landscape feel open and inviting, perfect for an outdoor travel post.
-    - Reply by saars.foto: A railing, a lake, and fish pens dotting the middle distance. Framed like a postcard someone actually sends. ([link](https://www.threads.com/@saars.foto/post/Dex6PQ5EQ8o))
-      - **[NEEDS REPLY]** Reply by posts.by.norman: Thank you for the appreciation! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DeyGvNHHwrv))
-  - Reply by fargodadx2:  ([link](https://www.threads.com/@fargodadx2/post/DexifzLmntw))
-    - Photo: A serene daytime view of a tranquil river in the foreground, with the skyline of a city including a tall residential building reflected on the water's calm surface under a clear sky.
-    - Photo: A serene lake view with green grass and rocks along the shore. The far shore has a dense line of trees under a clear blue sky.
-    - Reply by saars.foto: Two calm waters - the city one with its skyline doubled is my pick. Same day out or two favorites? ([link](https://www.threads.com/@saars.foto/post/Dex6Qw-DUlG))
-      - **[NEEDS LIKE]** Reply by fargodadx2: Two favorites ([link](https://www.threads.com/@fargodadx2/post/Dezvz9BGslu))
-  - Reply by therealranameehan:  ([link](https://www.threads.com/@therealranameehan/post/DexaS-Pkcis))
-    - Photo: A close-up shot captures vibrant purple lilac blossoms glistening with fresh morning rain droplets. The blurred green background enhances the focus on the delicate, dewy petals, creating a serene and refreshing spring aesthetic.
-    - Reply by saars.foto: Lilacs beaded with rain - the droplets are your water entry, and they qualify easily. ([link](https://www.threads.com/@saars.foto/post/Dexesi8Gp1S))
-      - **[NEEDS LIKE]** Reply by therealranameehan: Thank you ([link](https://www.threads.com/@therealranameehan/post/Dext6kPEYIu))
-  - Reply by mauricevergoossen:  ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8ZKCvaJ))
-    - Photo: A serene dusk view features the city skyline of Roermond reflected on the still surface of the Maas River, with a pink-toned sky above.
-    - Photo: A serene landscape shot captures a vibrant sunset casting a warm golden and purple glow over a city skyline and a calm river, creating a clear mirror reflection. The horizon is filled with silhouettes of buildings, trees, and a distant church tower, with a watermark in the bottom left corner reading "Maurice Vergoossen."
-    - Photo: A wide-angle, eye-level shot captures a city skyline across a body of water under a pale, overcast sky. The skyline features a variety of architectural styles, including a tall, slender church steeple on the left, a pyramidal building in the center, and a modern communication tower on the right, all reflecting softly in the water's surface. In the bottom left corner, the name "Maurice Vergoossen" is written in a stylized white font.
-    - Photo: A high-angle, wide shot shows a sunset over the city skyline of Roermond in the Netherlands, viewed across a grassy field and a river. The skyline is dominated by a modern skyscraper with two distinct conical peaks on the left, next to the towering spire of Roermond's historic cathedral. Other modern residential and office buildings line the riverbank. The sky is a mix of pale blue and pink clouds.
-    _(+3 more replies already answered under this, see archive)_
-    - **[NEEDS REPLY]** Reply by mauricevergoossen: ..My hometown Roermond, The Netherlands, among the river Meuse due sunrise, Photographed during several days this year.. ([link](https://www.threads.com/@mauricevergoossen/post/DexQ8IwClCz))
-  - Reply by kes_ward:  ([link](https://www.threads.com/@kes_ward/post/Dew2eXWjifB))
-    - Photo: A long-exposure photograph captures the moody atmosphere of the Giant's Causeway in Northern Ireland, where iconic hexagonal basalt columns emerge from a misty, glass-like sea under a twilight sky.
-    _(+3 more replies already answered under this, see archive)_
-    - **[NEEDS REPLY]** Reply by norbertlange9: beautiful long exposure ([link](https://www.threads.com/@norbertlange9/post/DexEYuFDkxQ))
-      - **[NEEDS REPLY]** Reply by kes_ward: Thank you so much. 🙏 It’s sits amongst my favourite images. Was a very early rise to capture this one. ([link](https://www.threads.com/@kes_ward/post/DexWmGfmQ6i))
-  - Reply by mur.locations: Nerano, Italy. On the Sorrento Peninsula. Tuesday (yesterday) morning) 😁 ([link](https://www.threads.com/@mur.locations/post/DewyKu9m9ed))
-    - Photo: A high angle shot captures a pebble beach with a small pier, with several small boats floating in the water. The sun sets behind a lush, dark green hill with buildings on it, illuminating the sea with a soft glow.
-    - Reply by saars.foto: Shot yesterday morning and already looking like a postcard. Worth the early alarm? ([link](https://www.threads.com/@saars.foto/post/Dew5ZdYIB5Z))
-      - **[NEEDS LIKE]** Reply by mur.locations: Absolutely!! ([link](https://www.threads.com/@mur.locations/post/DexjmCQjyoK))
-  - **[NEEDS REPLY]** Reply by remalysh: Cinque Terre Italy ([link](https://www.threads.com/@remalysh/post/Dewxij7IKYl))
-    - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
-  - Reply by abnerabel125:  ([link](https://www.threads.com/@abnerabel125/post/DewwRWcm3e8))
-    - Photo: At dusk, several boats are docked in a harbor, with their bright lights reflecting on the dark water.
-    - Reply by saars.foto: Harbor lights doubled on the water. Dusk is that place's best hour. ([link](https://www.threads.com/@saars.foto/post/Dew5gIgFaTg))
-      - Reply by abnerabel125: Dusk is a really great time for photos . It’s not always calm at the harbor . I’m glad you liked my photo . ([link](https://www.threads.com/@abnerabel125/post/DexBGbXD3UR))
-        - Reply by saars.foto: Glad it landed - dusk at that harbor earned the compliment. ([link](https://www.threads.com/@saars.foto/post/De2uzumGWEF))
-          - **[NEEDS REPLY]** Reply by abnerabel125: Thank you my friend . ([link](https://www.threads.com/@abnerabel125/post/De3M3wjFPyD))
-  - **[NEEDS REPLY]** Reply by carmenjitano: Jesus 🙏🙏❤️❤️ God bless you and your family, thank you ([link](https://www.threads.com/@carmenjitano/post/DewvfEZkbm7))
-  - **[NEEDS LIKE]** Reply by kelzkidz03: Great framing ([link](https://www.threads.com/@kelzkidz03/post/DewuzZWDudY))
-  - **[NEEDS LIKE]** Reply by cindyreedgallery: Superb! ([link](https://www.threads.com/@cindyreedgallery/post/DewrSk7Gx7b))
-  _(+256 more replies elsewhere in this thread already answered, see [full thread](threads/18118551631977488.md))_
+  _(+236 more replies elsewhere in this thread already answered, see [full thread](threads/18089706719271990.md))_
