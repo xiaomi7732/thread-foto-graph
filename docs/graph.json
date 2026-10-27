@@ -10,8 +10,44 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 179,
+      "reply_count": 210,
       "replies": [
+        {
+          "username": "andrea_ibryce",
+          "text": "NYC store front",
+          "permalink": "https://www.threads.com/@andrea_ibryce/post/DfAqo1DEs0q",
+          "photos": [
+            "Description: A white mannequin stands in a storefront window, wearing a pale peach and bright orange layered tulle dress. The display features a dramatic backdrop of black-and-white optical illusion patterns, while reflections of classic architecture and city streets overlay the scene. Photograph read: The eye-level composition uses natural exterior reflections to blend the urban streetscape into the graphic backdrop, creating a complex, layered visual mood with high-contrast patterns and warm afternoon light."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tiv34",
+          "text": "Cyprus",
+          "permalink": "https://www.threads.com/@tiv34/post/DfAqDiQiou-",
+          "photos": [
+            "Description: An overhead shot captures an intricate stone mosaic walkway featuring flowing, heart-like geometric patterns in alternating shades of gray and white. The textured surface is divided by thin, straight seams separating the tiled sections. Photograph read: The high-angle framing emphasizes the rhythmic, repeating pattern and flat, even lighting across the textured stone surface, creating a calm and orderly mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "gnd_moments_in_paradise",
+          "text": "",
+          "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/DfAmK00iJVs",
+          "photos": [
+            "Description: Palm trees stand within a large, modern structure featuring a complex, curved white trellis roof and glass panels against a clear blue sky. The photo captures a scenic perspective suited for a travel post about modern architecture and tropical landscaping. Photograph read: The symmetrical composition uses vertical palm trunks to frame the sweeping, repetitive arches of the trellis overhead, creating a bright and clean mood under natural daylight."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "sue_wigs",
           "text": "",
@@ -19,10 +55,21 @@
           "photos": [
             "Description: Looking straight up from inside a modern church, the camera captures a high dome ceiling made of concrete ribs with a glowing stained-glass skylight at the apex. A large, circular metal chandelier hangs centrally beneath the skylight, illuminating the grand, patterned interior space. Photograph read: The symmetrical, low-angle perspective creates a strong sense of scale, with natural light filtering through the colorful skylight to establish a reverent mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Looking straight up was the brave call - the ribs pull the eye right to that glowing skylight, and the chandelier anchors the whole dome. Did you lie on the floor for this one, or just crane your neck and hope?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAm_6Tj188",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "irie1913_26.2",
@@ -31,10 +78,21 @@
           "photos": [
             "Description: A group of tourists faces forward on a boat tour, with the distinctive rounded concrete towers of Chicago's Marina City and a dark skyscraper towering in the background under a clear blue sky. Photograph read: The eye-level, sunlit composition captures an architectural landmark from the water, creating an everyday scene filled with vacationers."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Shooting the Marina City towers from the water was the right move - the rounded concrete reads so much stronger against the sky than from street level. Was the boat tour the plan, or a lucky detour?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnBXYj6Lf",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ballwithme21",
@@ -43,10 +101,32 @@
           "photos": [
             "Description: Visitors gather outside the National Museum of African American History and Culture in Washington, D.C., showcasing its distinctive bronze-clad corona architecture and reflecting pool. The wide-angle shot captures the bustling entrance plaza on a bright day, appealing to travelers interested in cultural landmarks. Photograph read: The low-angle composition emphasizes the building's massive tiered structure against a clear sky, while natural daylight highlights the intricate exterior facade and creates an inviting, documentary mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That low angle does the heavy lifting - the tiered bronze corona stacks up against the sky instead of flattening out. Did the reflecting pool pull you in, or was the facade the whole reason you stopped?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnGFLAWhL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "ballwithme21",
+                  "text": "The facade.",
+                  "permalink": "https://www.threads.com/@ballwithme21/post/DfApskvkm5o",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "pete_noons",
@@ -55,10 +135,21 @@
           "photos": [
             "Description: A young woman in a black dress stands alone outside a modern building with striking white vertical pillars, looking down at her phone with a light blue cross-body bag at her side. The geometric architecture dwarfs the figure, creating a sense of urban solitude and waiting. Photograph read: The wide-angle composition uses the strong vertical lines and rhythmic repetition of the architectural pillars to anchor the lone subject in the lower right, framed by a cool, muted color palette and soft natural light."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Framing her small against those white pillars is what makes it - the repetition dwarfs her just enough to feel like a real waiting moment. Did you wait for her to look down at her phone, or was that the lucky frame?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnHgbgSML",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "deputysec",
@@ -68,10 +159,42 @@
             "Description: This high-angle interior shot looks down the multi-story atrium of a large hotel or shopping center, showcasing curved balconies and vertical panels filled with trailing green plants. The modern architecture creates a striking grid pattern that could serve as an architectural backdrop for social media sharing. Photograph read: The steep downward perspective emphasizes the vertical scale and repeating geometry of the balconies, captured in bright, even interior light that creates an airy, spacious mood.",
             "Description: A vertical shot captures the multi-story interior atrium of a large hotel or building, featuring tiered balconies with warm string lights lining the railings. A lone silhouetted figure stands far across on one of the walkways, looking out toward a distant city view visible through tall glass windows spanning the back wall. Photograph read: Captured from a high vantage point with a straight-on, symmetrical composition, the linear elements and repeating balcony tiers create a strong sense of depth and architectural scale under soft, ambient light."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Shooting down the atrium turns the balconies into a grid - the plants softening all that geometry is the nice surprise. Which floor did you shoot from, the top or somewhere mid-drop?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnI9fmiE1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "deputysec",
+                  "text": "Oh no I did two photos . Sorry",
+                  "permalink": "https://www.threads.com/@deputysec/post/DfAovqyAfAj",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "deputysec",
+                  "text": "30th floor 3/4s roughly . Good guess!",
+                  "permalink": "https://www.threads.com/@deputysec/post/DfAor8NAfJa",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "photopattyrn",
@@ -80,10 +203,21 @@
           "photos": [
             "Description: An abstract, monochromatic view showcases the complex architectural grid and overlapping geometric shadows of a modern glass-and-steel building facade. The interlocking frames and reflections create a layered, multi-dimensional pattern well-suited for minimalist or urban design feeds. Photograph read: High-contrast black and white tones emphasize the sharp structural lines and dynamic shadows, creating a graphic, industrial mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Going black and white was the right call - without color the shadows and frames do all the talking, and the layers stack beautifully. Was it the shadows that stopped you, or the grid itself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnKQaGFv3",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jeniene",
@@ -92,10 +226,21 @@
           "photos": [
             "Description: A low-angle nighttime shot of the iconic circular facade of the Kia Forum in Inglewood, California, with illuminated white letters spelling out \"BRUUUUUCE!\" across the roofline. The glowing sign and red-lit panels underneath suggest a concert or special event honoring Bruce Springsteen. Photograph read: The symmetrical architectural composition, framed by a dark night sky, is illuminated by the glowing marquee and warm interior lighting, creating an electric and anticipatory mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The night framing sells it - the glowing ring and that marquee turn a plain facade into a marquee moment. Were you there for Bruce, or did the sign stop you on the way past?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnLyGCaWL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bybaird",
@@ -104,10 +249,32 @@
           "photos": [
             "Description: A long, multi-arched concrete bridge spans a wide, muddy river on a clear day, with green grass in the foreground and tree leaves framing the top. This peaceful river landscape photo would fit a post about a scenic travel destination or a local landmark. Photograph read: The horizontal composition uses natural framing from tree foliage and a grassy foreground to create a tranquil, daytime river view dominated by warm golden light on the bridge's arches and the water's surface."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Framing the arches through the leaves was the smart move - the repeat of the arches carries the whole shot, and the golden light does the rest. Is this a regular walk for you, or a first visit?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnNZQiWUC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bybaird",
+                  "text": "Just a visit.",
+                  "permalink": "https://www.threads.com/@bybaird/post/DfAnUYsFE7W",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lehmann7882",
@@ -116,10 +283,21 @@
           "photos": [
             "Description: A close-up, top-down shot of a backyard fire pit shows several logs burning inside a black metal ring with a diamond-pattern mesh wall. Wisps of smoke curl up from the glowing embers and charred wood, suggesting a cozy evening outdoors. Photograph read: Captured from a direct top-down angle, the shot uses natural daylight to highlight the rich textures of the charred wood and glowing flames, creating a warm, inviting mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Top-down was the right angle - the diamond mesh turns a fire pit into a pattern study, and the embers glow through it perfectly. Was this a planned shot, or did the fire just look too good to leave alone?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnO5XG1NR",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tommybenston",
@@ -128,10 +306,21 @@
           "photos": [
             "Description: A circular convex security mirror is mounted on a textured tan wall below a white warning sign that reads \"BEWARE VEHICLES CROSSING.\" The mirror reflects an abstract, geometric architectural pattern with a strong turquoise-green tint. Photograph read: The shot uses a tight, asymmetric composition where the circular mirror contrasts sharply with the flat vertical lines of the wall, creating a moody, urban aesthetic under diffused light."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Spotting the pattern inside the mirror instead of the street is the whole trick - that turquoise geometry against the plain wall is a great catch. Did you see the reflection first, or the warning sign?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnQD1FnQi",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shiriselishusness",
@@ -144,10 +333,32 @@
             "Description: Vibrant coleus leaves featuring lime green centers and deep maroon borders dominate the foreground of a plant nursery display. Behind them, bright magenta cockscomb flowers add a whimsical pop of texture, creating a lively botanical scene ideal for a garden update post. Photograph read: The tight framing highlights the striking contrast of leaf patterns under bright, natural daylight, creating a fresh and energetic mood.",
             "Description: A close-up top-down view shows vibrantly colored coleus leaves with deep purple centers, bright magenta accents, and distinct chartreuse margins. The dense arrangement fills the frame, creating a striking natural pattern well-suited for plant enthusiasts. Photograph read: The tight vertical framing and even, diffused lighting emphasize the rich textures and saturated contrasting colors of the foliage, evoking a lush and vivid mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tiled corner is the star for me - the glossy green and orange against the white mortar is such a confident color stack. With five patterns in one post, which one did you spot first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnRcDD8WT",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "shiriselishusness",
+                  "text": "Same! That tiled corner struck me first..",
+                  "permalink": "https://www.threads.com/@shiriselishusness/post/DfAoosSDfi2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "dr0ma_",
@@ -156,10 +367,21 @@
           "photos": [
             "Description: A symmetrical concrete staircase structure features multiple levels with metal railings and warm lighting illuminating the landings. Rain streaks are visibly falling throughout the frame, suggesting an outdoor architectural scene during a downpour. Photograph read: The symmetrical, head-on composition emphasizes the brutalist architecture, while overcast lighting and visible rain create a stark, moody atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Head-on and symmetrical was the right call - the concrete levels stack like a diagram, and shooting it in the rain adds that moody sheen. Did you wait out the downpour for this, or just get caught in it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAnSpbmrrm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kennenkaufmann",
@@ -186,10 +408,32 @@
                   "text": "Drying yard was the find\u2026I wanted to create the feeling of infinite coconuts.",
                   "permalink": "https://www.threads.com/@kennenkaufmann/post/DfAdJssE2Lf",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Infinite coconuts is exactly what it feels like - the straight-down angle erases the edges so the halves just keep going. How big was that drying yard in real life?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAnUbXGgYm",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "kennenkaufmann",
+                          "text": "Not very big.",
+                          "permalink": "https://www.threads.com/@kennenkaufmann/post/DfAoUJ1EyC0",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -220,10 +464,32 @@
                   "text": "Originally shot as a colour image but I thought it looked more graphic in b/w",
                   "permalink": "https://www.threads.com/@anthony.deighton.73/post/DfAcaP5iL0x",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The black and white conversion pays off - stripping the color leaves the graphic bones of the facade to carry it. Do you convert to black and white often, or did this facade demand it?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAnVuSI3LU",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "anthony.deighton.73",
+                          "text": "I try it with many shots doesn't always work though",
+                          "permalink": "https://www.threads.com/@anthony.deighton.73/post/DfAnfoTiOK_",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -292,10 +558,32 @@
                   "text": "Stairs are a favorite subject for me to draw, the shadows were the big bonus.",
                   "permalink": "https://www.threads.com/@jim.nichlsn/post/DfAcdjjmbwW",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Drawing stairs yourself explains the eye here - you shot them like someone who knows how the shadows fall. Do you draw from your own photos, or straight from the scene?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAnXdllL4u",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "jim.nichlsn",
+                          "text": "Both, and my imagination",
+                          "permalink": "https://www.threads.com/@jim.nichlsn/post/DfAn6gzkk33",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -351,10 +639,21 @@
                   "text": "The canopy got me going!!!",
                   "permalink": "https://www.threads.com/@bumpy120/post/DfAl8_XH8-p",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The canopy clearly won you over - of the three low angles, which one did you shoot first?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAnYpUD34i",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -385,10 +684,21 @@
                   "text": "It was a lucky find! Thank you for the input. The place is Oregon Inlet on the Outer Banks of North Carolina. Never a shortage of subjects there!",
                   "permalink": "https://www.threads.com/@coldhollowfarm/post/DfAj-HsFkup",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Oregon Inlet sounds like a place that keeps giving - a lucky find that turns into a whole subject list is the best kind. What else did you shoot there that day?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAnbMpIPoK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1143,7 +1453,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "schemenme",
+                  "text": "Random piece of cloth I found outside. I couldn\u2019t stop looking at the pattern and thought it would make an interesting photo",
+                  "permalink": "https://www.threads.com/@schemenme/post/DfApRKBgR3q",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1413,10 +1734,21 @@
                   "text": "On path in Lincoln Park, Chicago",
                   "permalink": "https://www.threads.com/@resnicklr/post/DfAfTC1lOvo",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lincoln Park on foot was the right way to catch it - the path puts you right under that canopy instead of looking at it from outside. Did you set out to shoot the canopy, or did the path lead you to it?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAncyOif9z",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1605,10 +1937,21 @@
                   "text": "As I remember, we climbed a bit \ud83d\ude04",
                   "permalink": "https://www.threads.com/@tomirvin44/post/DfAdEANHUDi",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A bit of a climb for stacked hills is a fair trade - the telephoto compression makes those bands feel endless. Was the climb worth it for this frame alone, or did you get more up there?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAnetflkdH",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
