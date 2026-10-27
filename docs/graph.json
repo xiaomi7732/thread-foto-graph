@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18113737274272185",
-      "label": "sky, read, photograph, description",
+      "label": "read, photograph, sky, description",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -10,8 +10,80 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 57,
+      "reply_count": 82,
       "replies": [
+        {
+          "username": "steve.cozort",
+          "text": "Trolly tracks somewhere in Germany a few years back. Steve Cozort Photography",
+          "permalink": "https://www.threads.com/@steve.cozort/post/DfARoohkRu6",
+          "photos": [
+            "Description: This photo features an intricate intersection of streetcar tracks embedded in a cobblestone street, creating a prominent diamond shape in the center. The warm tones and weathered textures of the stone and metal suggest a historic urban setting. Photograph read: The high-angle perspective emphasizes the geometric symmetry of the intersecting tracks, while the warm, natural light enhances the rich textures of the cobblestones."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "corwyn671",
+          "text": "",
+          "permalink": "https://www.threads.com/@corwyn671/post/DfARFcCml_E",
+          "photos": [
+            "Description: A low-angle, centered shot captures a complex, circular, multi-tiered chandelier suspended from a vaulted ceiling. The warm, monochromatic, sepia-toned finish and geometric pattern of the fixture create a classic, retro aesthetic. Photograph read: The symmetrical, centered composition emphasizes the repeating geometric pattern, while soft, even lighting across the sepia-toned frame creates a calm, nostalgic mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "funkygmacman",
+          "text": "",
+          "permalink": "https://www.threads.com/@funkygmacman/post/DfAQ9U0nJkE",
+          "photos": [
+            "Description: A cascade of translucent, colorful, pyramid-shaped sculptures hangs inside a modern architectural atrium with glass walls and exposed steel framing. Water streams down from one of the lower green triangles, adding a dynamic, fountain-like element to the hanging art installation. Photograph read: Taken from a low-angle perspective, the vertical composition emphasizes the soaring height of the atrium while contrasting the colorful, glowing geometry of the hanging installation against the rigid, industrial steel and glass structure."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "nimaalaa1",
+          "text": "",
+          "permalink": "https://www.threads.com/@nimaalaa1/post/DfAQyiJCA5C",
+          "photos": [
+            "Description: A large, radiant circular art installation composed of small white lights glows on a dark body of water at night. Above the water, a brightly colored bridge and distant urban buildings create a vibrant city backdrop. Photograph read: The high-contrast composition centers on the glowing light display, casting soft reflections across the dark water and creating a serene, luminous mood against the urban nightscape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "beckiefitzgerald",
+          "text": "",
+          "permalink": "https://www.threads.com/@beckiefitzgerald/post/DfAQmd1IJlT",
+          "photos": [
+            "Description: A high-angle, straight-on shot captures an asphalt surface painted to mimic a herringbone brick crosswalk, featuring dark gray rectangular blocks outlined in vibrant orange against a gray backdrop. Thick white painted lines frame the textured crosswalk on either side, adding a clean, graphic edge to the composition. Photograph read: The symmetrical, centered composition emphasizes the repeating geometric pattern, while soft, natural lighting enhances the high-contrast textures and crisp colors of the urban pavement."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tyler.cole.tuszynski",
+          "text": "",
+          "permalink": "https://www.threads.com/@tyler.cole.tuszynski/post/DfAQN6bka72",
+          "photos": [
+            "Description: A sepia-toned interior shot features massive structural scaffolding in the foreground, framing a towering hotel atrium with rows of repeating balconies. The vast, industrial space emphasizes the geometric scale typical of a massive brutalist or modern architectural design. Photograph read: The layered composition creates strong depth, utilizing vertical and diagonal scaffolding to frame the orderly grid of windows under bright overhead skylights, resulting in a stark, industrial mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "anto_acz",
           "text": "",
@@ -19,10 +91,32 @@
           "photos": [
             "Description: This close-up photo shows weathered, multi-hued rock featuring honeycomb patterns and eroded hollows created by natural weathering. The intricate textures and earth tones provide a striking abstract view of coastal geology. Photograph read: The flat, top-down framing captures the dense geometric patterns of the rock face, while direct lighting casts sharp shadows that emphasize the rough texture and create a grounded, natural mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That flat top-down framing turns the rock into pure geometry - the honeycomb hollows read like something carved on purpose. Was this a coastal walk find, or did you go hunting for texture?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQy8_Fte9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "anto_acz",
+                  "text": "I was walking down the mountain toward the cliff, in Sardinia, Italy.",
+                  "permalink": "https://www.threads.com/@anto_acz/post/DfARJxojV3z",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "newblueday",
@@ -31,10 +125,21 @@
           "photos": [
             "Description: A close-up shot captures the tightly overlapping, fan-like stalks of a traveler's palm, displaying a vibrant palette of purples, greens, and warm oranges. Wisps of Spanish moss cling to the right edge of the plant, adding a textured accent to the natural abstract pattern. Photograph read: The tight vertical crop emphasizes the geometric V-shapes of the leaf bases, utilizing flat, even lighting to highlight the rich, natural color gradients and create an organic, patterned mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The tight vertical crop is doing the work here - those fan-like stalks stack into a perfect V rhythm, and the moss at the edge is a nice unruly accent. Was the purple-orange gradient what caught your eye first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQ0dMlbsN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "taracee_2017",
@@ -43,10 +148,21 @@
           "photos": [
             "Description: A low-angle shot captures the intricate, waffle-like wooden structure of the Metropol Parasol in Seville, looming over colorful surrounding buildings under an overcast sky. A circular metal fixture hangs suspended beneath the undulating canopy, adding an industrial touch to the architectural marvel. Photograph read: The upward-looking composition emphasizes the sweeping scale and rhythmic grid pattern of the wooden architecture, rendered in soft, diffuse light that highlights warm neutral tones against a pale sky."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Shooting straight up under the Parasol turns that waffle grid into a whole sky - the soft overcast light keeps every beam readable. Did you stand right underneath it, or find this angle from the edge?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQ1takQ6e",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "schemenme",
@@ -55,10 +171,21 @@
           "photos": [
             "Description: A close-up shot captures the dense, tactile texture of a woven beige material featuring a repeating zigzag or herringbone pattern. The surface fills the frame entirely, showcasing the fine fibers and embossed detail suitable for a design or textile texture post. Photograph read: Soft, directional light rakes across the textured surface from the upper left, casting gentle shadows that emphasize the repeating zig-zag pattern and create a warm, calm mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Filling the whole frame with the weave was the right call - the raking light from the upper left makes every zigzag stand up. Is this a favorite textile of yours, or a found texture out in the wild?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQ2_GFriF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "s.a.genius",
@@ -67,10 +194,32 @@
           "photos": [
             "Description: This low-angle, black-and-white photograph captures the complex, weathered steel underbelly of a large bridge spanning across a city street at night. A row of bright streetlights illuminates the base of the structure, casting a warm, glowing contrast against the dark, metallic geometry above. Photograph read: The dramatic low-angle perspective and high-contrast monochrome lighting emphasize the intricate, ribbed composition of the bridge's structural beams, creating a moody, industrial atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The low angle plus black-and-white turns a bridge belly into pure ribbed geometry - those streetlights glowing along the base are the perfect warm counterpoint. Did you spot this walking underneath, or go looking for it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQ6YClJrz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "s.a.genius",
+                  "text": "Drove under it and decided to stop and take a picture.",
+                  "permalink": "https://www.threads.com/@s.a.genius/post/DfARa9TlY7E",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "buzz.crunch",
@@ -79,10 +228,21 @@
           "photos": [
             "Description: A vertical close-up shot shows a wet, gritty ground surface stained with dark liquids below a dark, circular metallic fixture and a vertical corrugated wall. The grimy environment and fluid pooling suggest industrial wear and potential maintenance issues. Photograph read: The high-angle, top-down composition emphasizes raw textures and stark contrast between bright surface glares and dark, grimy recesses, creating a gritty, utilitarian mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That top-down framing turns a patch of gritty ground into an abstract - the dark fixture anchors it like a full stop. What drew your eye down to this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQ7d8lKs5",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "whoissilver",
@@ -91,10 +251,21 @@
           "photos": [
             "Description: A patterned ceramic cup rests centrally on a stack of white saucers against a solid, dark background. The stark black-and-white contrast emphasizes the geometric design of the teacup. Photograph read: The centered composition and high-contrast lighting create a moody, minimalist aesthetic that highlights the intricate patterns of the cup and saucers."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The centered framing against that dark background lets the cup's geometry do all the talking - it reads almost like a little portrait. Is this a favorite cup, or did the pattern itself stop you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAQ9BQkVTd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "paul.moorman91",
@@ -125,10 +296,21 @@
                     "Description: A low-angle shot captures a series of parallel, golden-brown architectural beams extending diagonally across a clear blue sky, casting stark shadows onto a beige stone wall below. The strong geometric alignment creates a visually striking pattern, ideal for modern design or minimalist social media feeds. Photograph read: The upward perspective and dynamic diagonal composition create a clean, graphic interplay of light, shadow, and warm earth tones against the vivid sky.",
                     "Description: This low-angle view highlights a complex geometric wooden pergola with slats and solid panels, creating patterns against a clear blue sky. The architectural structure suggests an outdoor public space, park, or modern building exterior. Photograph read: The strong upward composition uses dynamic diagonal lines and warm wood tones contrasted sharply against the vivid blue sky, creating a modern, graphic mood."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "14 to 16 feet - that scale makes the geometry even better, those diagonals suddenly feel monumental. Thanks for coming back with the extra angles.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAQ-QxFnEv",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -251,10 +433,21 @@
                   "text": "A path I frequently pass \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@peanutbutterscotch_/post/DfANVirGwPl",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A path you pass often and still notice - that is the whole game right there. Glad the mossy herringbone found a fellow fan.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAQ_WQlZEI",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -279,7 +472,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "maureenozerimages",
+                  "text": "It\u2019s the parking lot of a local train station. The flood lights were illuminating all the patterns & I had to stop the car & take a snap",
+                  "permalink": "https://www.threads.com/@maureenozerimages/post/DfAQHakDaW7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -308,10 +512,21 @@
                   "text": "Thank you very much \ud83d\ude4f its one of my favorite picture of urban architecture. I took it in Asni\u00e8res sur Seine, basically in the first circle of cities around Paris, and yeah I live not too far from there",
                   "permalink": "https://www.threads.com/@antoine.mouret.lh/post/DfANygYiBdy",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A favorite shot from your own neighborhood - even better. Asnieres-sur-Seine clearly treats you well on the architecture front.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfARDuTlft6",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -359,7 +574,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tallerthanyou2026",
+                  "text": "Watching by inspection",
+                  "permalink": "https://www.threads.com/@tallerthanyou2026/post/DfAQtAgm2Jd",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -405,7 +631,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bojonvelvet2.0",
+                  "text": "I don\u2019t think there was anyone else around. There\u2019s a few parks dtwn along the waterfront and the dog and me head down for a little change of scenery adventure. Plus she loves riding BART!! This might be part of the Hyatt.",
+                  "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DfAQ4OemvAW",
+                  "photos": [
+                    "Description: A brown and white dog wearing a plaid hoodie sits upright on a bright green priority seat inside a moving subway car. Passengers are visible in the background, seated quietly while looking at their phones as the dog looks eagerly toward the camera. Photograph read: Captured from a low angle with a wide-angle perspective, the shot uses interior fluorescent lighting to emphasize the dog's joyful expression and create a humorous, candid snapshot of public transit."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -454,10 +693,21 @@
                           "text": "My pleasure. I love this building so much. And since it\u2019s in San Francisco, it looks to me like a \u201cregular\u201d building that somehow survived The Big One.",
                           "permalink": "https://www.threads.com/@jessgperry/post/DfANj6Imr3c",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "A regular-looking San Francisco building with earthquake-survivor energy - that is a wonderful way to love a building. Thanks for sharing its story.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DfARFIpFoxA",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -504,7 +754,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "kes_ward",
+                          "text": "You\u2019re welcome. You\u2019ll love it when you get there.",
+                          "permalink": "https://www.threads.com/@kes_ward/post/DfAQ3BPjn7F",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -555,10 +816,21 @@
                           "text": "You bet! Thanks!",
                           "permalink": "https://www.threads.com/@32groove/post/DfAOjqZEf2N",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "You bet right back - a rest-stop teepee is not a pattern I saw coming, and that is exactly why it worked.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DfARGcaEbdf",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -611,10 +883,21 @@
                           "text": "Thanks for the kind appreciation",
                           "permalink": "https://www.threads.com/@akmaleky/post/DfAP8c1n5d7",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Always a pleasure - a coffee joint that photogenic deserves a second visit, and maybe a third.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DfARII-IOgW",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -673,7 +956,7 @@
     },
     {
       "id": "18238804897319771",
-      "label": "sky, read, photograph, description",
+      "label": "read, photograph, sky, description",
       "group": 0,
       "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
       "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
@@ -687,7 +970,7 @@
     },
     {
       "id": "18440202316176936",
-      "label": "sky, read, photograph, description",
+      "label": "read, photograph, sky, description",
       "group": 0,
       "snippet": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scrol\u2026",
       "text": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scroll. @taiwanese726 @nickydaphotography @sam_photo_81 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De4RYl_idro/",
