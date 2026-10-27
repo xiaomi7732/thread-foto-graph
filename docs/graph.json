@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18113737274272185",
-      "label": "read, photograph, sky, description",
+      "label": "read, photograph, description, sky",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -10,8 +10,20 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 113,
+      "reply_count": 124,
       "replies": [
+        {
+          "username": "dmoi2encore",
+          "text": "Taken on a very smoke filled day last July in Milton, Ontario.",
+          "permalink": "https://www.threads.com/@dmoi2encore/post/DfAWwJEETLN",
+          "photos": [
+            "Description: A large, square geometric art installation hangs on a weathered red brick wall above a bed of wood mulch. The mural features a vibrant grid of triangles in shifting shades of red, purple, blue, and yellow, creating a colorful contrast with the industrial backdrop. Photograph read: The straight-on composition emphasizes the symmetrical geometric patterns of the mural, captured in bright, even daylight that highlights the textured brick and wood elements."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "wrj_arts",
           "text": "",
@@ -31,10 +43,21 @@
           "photos": [
             "Description: A wall features intricate blue, white, and red ceramic tiles with traditional floral and geometric patterns, interrupted by a modern soap dispenser on the left and a metal water spigot on the lower right. Photograph read: The flat, even lighting highlights the symmetrical tile design, creating a clean yet slightly utilitarian mood where modern fixtures contrast with classical ornamentation."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Going flat and frontal was the right call - those blue, white and red tiles repeat so cleanly that the soap dispenser and spigot feel like uninvited guests crashing a very orderly party. Was the pattern the find, or did the fixtures photobomb a shot you were already lining up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAVuMpEQLC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "micawbersmu",
@@ -43,10 +66,32 @@
           "photos": [
             "Description: An overhead, tightly cropped view reveals an extensive, orderly grid of weathered concrete cubes receding into the distance, creating a striking minimalist geometric pattern. The stark, uniform layout with deep cast shadows offers a modern architectural aesthetic well-suited for design or abstract photography feeds. Photograph read: The high-contrast side lighting accentuates the textured surfaces and geometric shadows of the receding cube grid, creating a moody and architectural composition."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That overhead crop plus the hard side light is doing all the work - the cubes march off into the distance and the deep shadows turn a plain grid into something almost moody. Did you climb above it for the shot, or did the angle find you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAVvt3lUvX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "micawbersmu",
+                  "text": "I stood right in front and tried to position myself to get the best geometry. It slopes up a hill and I was at the bottom. So I was actually below instead of above.",
+                  "permalink": "https://www.threads.com/@micawbersmu/post/DfAWJVckQeL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "meandmywoofers",
@@ -55,10 +100,34 @@
           "photos": [
             "Description: A low-angle, eye-level shot captures a modern indoor shopping arcade with a dramatic diagrid glass ceiling and textured white walls. A curving line of large, faceted golden pendant lights snakes through the space, leading the eye toward a distant John Lewis storefront. Photograph read: The symmetrical, upward-angled composition creates a sense of soaring architectural height, illuminated by the bright daylight filtering through the complex geometric roof."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Looking straight up into that diagrid roof was the move - the golden pendants snake through the frame like a dotted line leading the eye on. Was the ceiling the plan when you walked in, or did the lights pull your head up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAVxGykSrI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "meandmywoofers",
+                  "text": "It was the curvature and lighting, really beautiful and unexpected in a new shopping development \ud83e\udd70",
+                  "permalink": "https://www.threads.com/@meandmywoofers/post/DfAWNkqlwEA",
+                  "photos": [
+                    "Description: A low-angle shot captures the ornate glass ceiling and multi-tiered pendant lights of a high-end shopping arcade, with storefronts like Rolex lining the right side. The vibrant purple and warm lighting create a luxurious and modern atmosphere. Photograph read: The upward-looking composition emphasizes strong geometric lines and warm metallic accents against a cool violet ceiling, creating a sophisticated and polished mood."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "michaudstefan",
@@ -113,10 +182,21 @@
                           "text": "Truly appreciate the support and the feedback!",
                           "permalink": "https://www.threads.com/@steve.cozort/post/DfAT5HkCbG2",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Right back at you - glad the tracks read the way you shot them, and thanks for coming back to say so.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DfAV13PFOXQ",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -219,10 +299,21 @@
                   "text": "This is the floating light installation called \u201cillusion hole\u201d in winter lights festival in London. It was more interested when patterned geometric rows of lights on water-floating trays to simulate a dynamic, luminous whirlpool pulling downward into the dark water. Thanks for your comment \ud83e\udd17\ud83d\udc95",
                   "permalink": "https://www.threads.com/@nimaalaa1/post/DfATrtZCG7l",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "An illusion hole that pulls the lights down into a whirlpool - that backstory makes the ring even better, and thanks for sharing how it was made.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAV3LgIPRR",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -387,10 +478,21 @@
                   "text": "No, it was the geometry.",
                   "permalink": "https://www.threads.com/@newblueday/post/DfAVBjIHFFj",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Geometry it is - and the tighter you held it, the harder those fans get to ignore. Glad that one found its frame.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAV4kqnHR-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -667,7 +769,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "consie18",
+                  "text": "I wish it was mine but it was just one I spotted. Loved the hood.",
+                  "permalink": "https://www.threads.com/@consie18/post/DfAVSyPFCpm",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -912,7 +1025,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "tallerthanyou2026",
+                          "text": "Agreed",
+                          "permalink": "https://www.threads.com/@tallerthanyou2026/post/DfAVR-jmqYc",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1298,7 +1422,7 @@
     },
     {
       "id": "18238804897319771",
-      "label": "read, photograph, sky, description",
+      "label": "read, photograph, description, sky",
       "group": 0,
       "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
       "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
@@ -1312,7 +1436,7 @@
     },
     {
       "id": "18440202316176936",
-      "label": "read, photograph, sky, description",
+      "label": "read, photograph, description, sky",
       "group": 0,
       "snippet": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scrol\u2026",
       "text": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scroll. @taiwanese726 @nickydaphotography @sam_photo_81 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De4RYl_idro/",
