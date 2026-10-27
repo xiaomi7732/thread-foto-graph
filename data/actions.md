@@ -6,36 +6,34 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (12)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
-- **andrea_ibryce**: NYC store front ([link](https://www.threads.com/@andrea_ibryce/post/DfAqo1DEs0q))
-  - Photo: Description: A white mannequin stands in a storefront window, wearing a pale peach and bright orange layered tulle dress. The display features a dramatic backdrop of black-and-white optical illusion patterns, while reflections of classic architecture and city streets overlay the scene. Photograph read: The eye-level composition uses natural exterior reflections to blend the urban streetscape into the graphic backdrop, creating a complex, layered visual mood with high-contrast patterns and warm afternoon light.
-- **tiv34**: Cyprus ([link](https://www.threads.com/@tiv34/post/DfAqDiQiou-))
-  - Photo: Description: An overhead shot captures an intricate stone mosaic walkway featuring flowing, heart-like geometric patterns in alternating shades of gray and white. The textured surface is divided by thin, straight seams separating the tiled sections. Photograph read: The high-angle framing emphasizes the rhythmic, repeating pattern and flat, even lighting across the textured stone surface, creating a calm and orderly mood.
-- **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/DfAmK00iJVs))
-  - Photo: Description: Palm trees stand within a large, modern structure featuring a complex, curved white trellis roof and glass panels against a clear blue sky. The photo captures a scenic perspective suited for a travel post about modern architecture and tropical landscaping. Photograph read: The symmetrical composition uses vertical palm trunks to frame the sweeping, repetitive arches of the trellis overhead, creating a bright and clean mood under natural daylight.
-- **deputysec**: Oh no I did two photos . Sorry ([link](https://www.threads.com/@deputysec/post/DfAovqyAfAj))
-  - _Replying to: Shooting down the atrium turns the balconies into a grid - …_
-- **deputysec**: 30th floor 3/4s roughly . Good guess! ([link](https://www.threads.com/@deputysec/post/DfAor8NAfJa))
-  - _Replying to: Shooting down the atrium turns the balconies into a grid - …_
-- **bybaird**: Just a visit. ([link](https://www.threads.com/@bybaird/post/DfAnUYsFE7W))
-  - _Replying to: Framing the arches through the leaves was the smart move - …_
-- **shiriselishusness**: Same! That tiled corner struck me first.. ([link](https://www.threads.com/@shiriselishusness/post/DfAoosSDfi2))
-  - _Replying to: That tiled corner is the star for me - the glossy green and…_
-- **kennenkaufmann**: Not very big. ([link](https://www.threads.com/@kennenkaufmann/post/DfAoUJ1EyC0))
-  - _Replying to: Infinite coconuts is exactly what it feels like - the strai…_
-- **anthony.deighton.73**: I try it with many shots doesn't always work though ([link](https://www.threads.com/@anthony.deighton.73/post/DfAnfoTiOK_))
-  - _Replying to: The black and white conversion pays off - stripping the col…_
+- **tiffany.art2020**:  ([link](https://www.threads.com/@tiffany.art2020/post/DfAvi00myHQ))
+  - Photo: Description: A detailed, overhead shot of a handmade quilt featuring alternating blocks of intricate geometric patterns in black, white, blue, and red fabrics, interspersed with heavily quilted cream panels accented by delicate red stitching. The visible wear, textured fabric puckering, and fine hand-stitching evoke a cozy, vintage aesthetic ideal for showcasing traditional textile arts or crafting inspiration. Photograph read: The flat-lay composition fills the frame evenly with sharp focus across the varied textures, while soft, natural lighting highlights the dimensional quality of the hand-stitching and fabric grain, creating an intimate and nostalgic mood.
+- **jh1962bike**: Not pieces of paper, but the gills under a mushroom. ([link](https://www.threads.com/@jh1962bike/post/DfAt500CEIn))
+  - Photo: Description: This close-up photo shows the intricate, wavy white gills underneath a mushroom cap, with a bit of soil and a small green leaf visible along the top edge. The textured, folded pattern creates a dynamic natural abstraction that would work well for nature or mycology appreciation posts. Photograph read: This tightly cropped, vertical shot uses soft, diffused light to highlight the delicate contours and organic symmetry of the creamy white gills, creating a serene and intricate botanical study.
+- **tiv34**: On a raised walkway ([link](https://www.threads.com/@tiv34/post/DfAtpd-ikDn))
+  - Photo: Description: Four tourists stand on an elevated wooden viewing platform against a bright, hazy sky. The two figures on the right, an older man in a bucket hat and a woman in sunglasses, look down at a handheld device together while the man on the left looks outward. Photograph read: The strong backlight casts the subjects into heavy silhouette, creating a stark contrast with the washed-out sky and emphasizing the geometric pattern of the wooden railing.
+  - Photo: Description: A weathered stone floor mosaic features intricate geometric patterns and interlocking knot motifs in muted earth tones of brown, beige, and reddish-pink. The ancient artwork is shown from a high-angle perspective, capturing its textured surface and historical charm. Photograph read: The high-angle framing highlights the repeating geometric symmetry under bright, even daylight, creating a dusty and timeless mood.
+  - _Replying to: That overhead angle is the whole trick - flat light, no sha…_
+- **bybaird**: We have stayed at the same hotel on the river several times, and I always loved taking pictures of that bridge. ([link](https://www.threads.com/@bybaird/post/DfAyThGFEs7))
+  - _Replying to: Just a visit._
 - **jim.nichlsn**: Yes, and thank you ([link](https://www.threads.com/@jim.nichlsn/post/DfAfKrPGdAY))
   - _Replying to: Are those your work? Stunning 🤩_
 - **jim.nichlsn**: Both, and my imagination ([link](https://www.threads.com/@jim.nichlsn/post/DfAn6gzkk33))
   - _Replying to: Drawing stairs yourself explains the eye here - you shot th…_
+- **coldhollowfarm**:  ([link](https://www.threads.com/@coldhollowfarm/post/DfAvcxfkoBa))
+  - Photo: Description: Three seagulls stand and sit on a sandy beach near a body of water under bright daylight. The gull on the left is sitting low with its feathers puffed, while the two on the right stand on long, thin legs, all facing forward. Photograph read: Shot at eye level with the birds, this horizontal image uses natural sunlight to cast sharp shadows on the sand, creating a crisp, daytime seaside mood.
+  - Photo: Description: A windy day at the beach, featuring white-capped ocean waves crashing against a shoreline under a clear blue sky. In the foreground, tall dune grass and green brush frame sandy dunes sloping downward toward the water. Photograph read: Captured from a low vantage point behind sandy dunes, this sunlit coastal view uses tall sea oats on the right to frame the choppy ocean, creating a natural vignette with an airy, breezy mood.
+  - _Replying to: Oregon Inlet sounds like a place that keeps giving - a luck…_
 - **michaudstefan**: https://photos.app.goo.gl/gkt1kQazfzZBQeKF6 ([link](https://www.threads.com/@michaudstefan/post/DfASGBnlWmV))
 - **taracee_2017**: Yes you are right ,it was 5 years ago so another visit needed . ([link](https://www.threads.com/@taracee_2017/post/DfAUBKIDgPC))
   - _Replying to: A walk-around top closed on the day is a perfect excuse to …_
-- **schemenme**: Random piece of cloth I found outside. I couldn’t stop looking at the pattern and thought it would make an interesting photo ([link](https://www.threads.com/@schemenme/post/DfApRKBgR3q))
-  - _Replying to: Filling the whole frame with the weave was the right call -…_
+- **schemenme**: It was flat outside, I brought it inside, casually tossed it on the dining room table then decided to photograph it where it lay on the table. Very casual, odd thing to photograph but I really liked the pattern ([link](https://www.threads.com/@schemenme/post/DfAt2KjEim4))
+  - _Replying to: Found cloth beats staged cloth - the fact that you stopped …_
+- **buzz.crunch**: It’s the colours and patterns that attract me … There’s something amongst the irregularities that gives it symmetry … It’s akin to the way a good modern chef will present their food on a plate 😀 ([link](https://www.threads.com/@buzz.crunch/post/DfAu1AOE4Nz))
+  - _Replying to: That top-down framing turns a patch of gritty ground into a…_
 - **kes_ward**: You’re welcome. You’ll love it when you get there. ([link](https://www.threads.com/@kes_ward/post/DfAQ3BPjn7F))
   - _Replying to: Axel Towers - noted for the next Copenhagen wander. A build…_
 
@@ -44,9 +42,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (7)
+## Needs Like (8)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
+- andrea_ibryce: Both. ☺️ ([link](https://www.threads.com/@andrea_ibryce/post/DfAzl1GEpua))
 - ballwithme21: The facade. ([link](https://www.threads.com/@ballwithme21/post/DfApskvkm5o))
 - arigari33: Thank you! ([link](https://www.threads.com/@arigari33/post/DfAbK2yFdAj))
 - beckiefitzgerald: Crossing ([link](https://www.threads.com/@beckiefitzgerald/post/DfATzqaoNIc))

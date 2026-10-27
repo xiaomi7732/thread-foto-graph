@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18113737274272185",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -10,8 +10,32 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 210,
+      "reply_count": 228,
       "replies": [
+        {
+          "username": "tiffany.art2020",
+          "text": "",
+          "permalink": "https://www.threads.com/@tiffany.art2020/post/DfAvi00myHQ",
+          "photos": [
+            "Description: A detailed, overhead shot of a handmade quilt featuring alternating blocks of intricate geometric patterns in black, white, blue, and red fabrics, interspersed with heavily quilted cream panels accented by delicate red stitching. The visible wear, textured fabric puckering, and fine hand-stitching evoke a cozy, vintage aesthetic ideal for showcasing traditional textile arts or crafting inspiration. Photograph read: The flat-lay composition fills the frame evenly with sharp focus across the varied textures, while soft, natural lighting highlights the dimensional quality of the hand-stitching and fabric grain, creating an intimate and nostalgic mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jh1962bike",
+          "text": "Not pieces of paper, but the gills under a mushroom.",
+          "permalink": "https://www.threads.com/@jh1962bike/post/DfAt500CEIn",
+          "photos": [
+            "Description: This close-up photo shows the intricate, wavy white gills underneath a mushroom cap, with a bit of soil and a small green leaf visible along the top edge. The textured, folded pattern creates a dynamic natural abstraction that would work well for nature or mycology appreciation posts. Photograph read: This tightly cropped, vertical shot uses soft, diffused light to highlight the delicate contours and organic symmetry of the creamy white gills, creating a serene and intricate botanical study."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "andrea_ibryce",
           "text": "NYC store front",
@@ -19,10 +43,32 @@
           "photos": [
             "Description: A white mannequin stands in a storefront window, wearing a pale peach and bright orange layered tulle dress. The display features a dramatic backdrop of black-and-white optical illusion patterns, while reflections of classic architecture and city streets overlay the scene. Photograph read: The eye-level composition uses natural exterior reflections to blend the urban streetscape into the graphic backdrop, creating a complex, layered visual mood with high-contrast patterns and warm afternoon light."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The reflections are doing half the work here - the street melts into that black-and-white backdrop and suddenly the mannequin is standing in two places at once. Was the tulle dress what stopped you, or the optical illusion wall behind it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAtXAkICRE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "andrea_ibryce",
+                  "text": "Both. \u263a\ufe0f",
+                  "permalink": "https://www.threads.com/@andrea_ibryce/post/DfAzl1GEpua",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tiv34",
@@ -31,10 +77,35 @@
           "photos": [
             "Description: An overhead shot captures an intricate stone mosaic walkway featuring flowing, heart-like geometric patterns in alternating shades of gray and white. The textured surface is divided by thin, straight seams separating the tiled sections. Photograph read: The high-angle framing emphasizes the rhythmic, repeating pattern and flat, even lighting across the textured stone surface, creating a calm and orderly mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That overhead angle is the whole trick - flat light, no shadows fighting the pattern, and the hearts just march on across the seams. Did you climb up for this height, or is the walkway itself on a slope?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAtYZAmmH6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "tiv34",
+                  "text": "On a raised walkway",
+                  "permalink": "https://www.threads.com/@tiv34/post/DfAtpd-ikDn",
+                  "photos": [
+                    "Description: Four tourists stand on an elevated wooden viewing platform against a bright, hazy sky. The two figures on the right, an older man in a bucket hat and a woman in sunglasses, look down at a handheld device together while the man on the left looks outward. Photograph read: The strong backlight casts the subjects into heavy silhouette, creating a stark contrast with the washed-out sky and emphasizing the geometric pattern of the wooden railing.",
+                    "Description: A weathered stone floor mosaic features intricate geometric patterns and interlocking knot motifs in muted earth tones of brown, beige, and reddish-pink. The ancient artwork is shown from a high-angle perspective, capturing its textured surface and historical charm. Photograph read: The high-angle framing highlights the repeating geometric symmetry under bright, even daylight, creating a dusty and timeless mood."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "gnd_moments_in_paradise",
@@ -43,10 +114,21 @@
           "photos": [
             "Description: Palm trees stand within a large, modern structure featuring a complex, curved white trellis roof and glass panels against a clear blue sky. The photo captures a scenic perspective suited for a travel post about modern architecture and tropical landscaping. Photograph read: The symmetrical composition uses vertical palm trunks to frame the sweeping, repetitive arches of the trellis overhead, creating a bright and clean mood under natural daylight."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The symmetry sells it - those palm trunks line up like columns under the trellis arches, and the blue sky keeps it airy instead of heavy. Did you shoot from dead center, or step to one side to line the palms up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAtZ6NH2vp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sue_wigs",
@@ -177,20 +259,42 @@
                   "text": "Oh no I did two photos . Sorry",
                   "permalink": "https://www.threads.com/@deputysec/post/DfAovqyAfAj",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAt0qiErfW",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 },
                 {
                   "username": "deputysec",
                   "text": "30th floor 3/4s roughly . Good guess!",
                   "permalink": "https://www.threads.com/@deputysec/post/DfAor8NAfJa",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "No apology needed - two angles on the same grid is a bonus, not a problem. And the height is what makes it - the balconies stack into a pattern instead of a building. Did you shoot straight down over the rail, or through the glass?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAtbVEAX6j",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -267,10 +371,31 @@
                   "text": "Just a visit.",
                   "permalink": "https://www.threads.com/@bybaird/post/DfAnUYsFE7W",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "bybaird",
+                      "text": "We have stayed at the same hotel on the river several times, and I always loved taking pictures of that bridge.",
+                      "permalink": "https://www.threads.com/@bybaird/post/DfAyThGFEs7",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    },
+                    {
+                      "username": "saars.foto",
+                      "text": "A visit that still found the frame - shooting the arches through the leaves softened the stone and kept the pattern sharp. Did you wander in looking for this shot, or did the arches catch you mid-walk?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAtczyHzXK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -351,10 +476,21 @@
                   "text": "Same! That tiled corner struck me first..",
                   "permalink": "https://www.threads.com/@shiriselishusness/post/DfAoosSDfi2",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That corner earns its starring role - the gloss pulls your eye first and the rest of the tiles fall in behind it. Did you frame it tight on purpose, or crop in after?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAteFcoKSZ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -426,10 +562,21 @@
                           "text": "Not very big.",
                           "permalink": "https://www.threads.com/@kennenkaufmann/post/DfAoUJ1EyC0",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Not very big, but the rows make it feel endless - the pattern just runs past the frame and your brain fills in the rest. How long do the coconuts sit out drying before they move on?",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DfAtftkgRnX",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -482,10 +629,21 @@
                           "text": "I try it with many shots doesn't always work though",
                           "permalink": "https://www.threads.com/@anthony.deighton.73/post/DfAnfoTiOK_",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "That is the honest version - black and white only pays off when the shapes are strong enough to carry it without color. What makes you pick a shot to try it on - the contrast, or the lines?",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DfAthdXgXMB",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -696,7 +854,21 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "coldhollowfarm",
+                          "text": "",
+                          "permalink": "https://www.threads.com/@coldhollowfarm/post/DfAvcxfkoBa",
+                          "photos": [
+                            "Description: Three seagulls stand and sit on a sandy beach near a body of water under bright daylight. The gull on the left is sitting low with its feathers puffed, while the two on the right stand on long, thin legs, all facing forward. Photograph read: Shot at eye level with the birds, this horizontal image uses natural sunlight to cast sharp shadows on the sand, creating a crisp, daytime seaside mood.",
+                            "Description: A windy day at the beach, featuring white-capped ocean waves crashing against a shoreline under a clear blue sky. In the foreground, tall dune grass and green brush frame sandy dunes sloping downward toward the water. Photograph read: Captured from a low vantage point behind sandy dunes, this sunlit coastal view uses tall sea oats on the right to frame the choppy ocean, creating a natural vignette with an airy, breezy mood."
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1459,10 +1631,32 @@
                   "text": "Random piece of cloth I found outside. I couldn\u2019t stop looking at the pattern and thought it would make an interesting photo",
                   "permalink": "https://www.threads.com/@schemenme/post/DfApRKBgR3q",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Found cloth beats staged cloth - the fact that you stopped for it is the whole photo, and filling the frame with the weave lets the pattern do the talking. Was it lying flat when you found it, or did you drape it for the shot?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAti1eASV7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "schemenme",
+                          "text": "It was flat outside, I brought it inside, casually tossed it on the dining room table then decided to photograph it where it lay on the table. Very casual, odd thing to photograph but I really liked the pattern",
+                          "permalink": "https://www.threads.com/@schemenme/post/DfAt2KjEim4",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -1532,7 +1726,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "buzz.crunch",
+                  "text": "It\u2019s the colours and patterns that attract me \u2026 There\u2019s something amongst the irregularities that gives it symmetry \u2026 It\u2019s akin to the way a good modern chef will present their food on a plate \ud83d\ude00",
+                  "permalink": "https://www.threads.com/@buzz.crunch/post/DfAu1AOE4Nz",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2402,7 +2607,7 @@
     },
     {
       "id": "18238804897319771",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
       "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
@@ -2416,7 +2621,7 @@
     },
     {
       "id": "18440202316176936",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scrol\u2026",
       "text": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scroll. @taiwanese726 @nickydaphotography @sam_photo_81 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De4RYl_idro/",
