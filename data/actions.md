@@ -6,26 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (4)
+## Needs Reply (2)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
-- **32groove**: Patterns: ([link](https://www.threads.com/@32groove/post/DfAEzSSEcoS))
-  - Photo: Description: This abstract black and white photo features multiple dark, angular beams converging toward a small circular opening in the center, resembling a camera aperture. The stark contrast between the black beams and the bright background creates a striking geometric pattern. Photograph read: The high-contrast, symmetrical composition relies on leading lines to draw the viewer's eye directly into the central aperture, creating a clinical and precise mood.
-- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DfAEjvaHxg5))
-  - Photo: Description: This outdoor scene features a modern black metal staircase leading up to a tiered patio area enclosed by patterned concrete breeze blocks and metal railings. Green plants, tall grasses, and outdoor seating are visible on the upper level, while the ground is covered in loose gravel. Photograph read: The shot uses a vertical composition with natural daylight casting soft shadows, creating a calm and modern architectural mood.
-- **taiwanese726**: Such like this? ([link](https://www.threads.com/@taiwanese726/post/DfADMwplCaF))
-  - Photo: Description: A low-angle, vertical shot captures an ornate, dark wrought-iron balcony railing casting crisp, shadowed scrolls onto a textured stone ledge. Below and beyond the railing, a traditional cobblestone street and old-world building facade hint at a historic European town square. Photograph read: The vertical composition creates a dynamic diagonal line through the frame, utilizing harsh sunlight to emphasize the interplay between the intricate metalwork and its sharp shadows for a textural, classic mood.
-
-### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
-- **bugs_eye_view_of_you**: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
+- **jessgperry**:  ([link](https://www.threads.com/@jessgperry/post/DfAFiFHGvDJ))
+  - Photo: Description: A low-angle, black-and-white shot captures the striking facade of a modern high-rise building with a heavily fractured, pixelated texture formed by offset balconies and windows. The monochromatic palette emphasizes the dizzying scale and intricate, chaotic geometric pattern against an overcast sky. Photograph read: Taken from a low-angle perspective, the monochrome composition uses harsh contrast and dramatic lines to evoke a sense of architectural vertigo.
+- **kes_ward**:  ([link](https://www.threads.com/@kes_ward/post/DfAFMhxjjdh))
+  - Photo: Description: Looking straight up from inside a modern courtyard, the photo captures the curving, terraced walls of a building framing a teardrop-shaped patch of bright blue sky. The warm, metallic louvers and repetitive window frames create a striking contrast against the pale clouds above. Photograph read: The low-angle, vertical composition creates a dramatic sense of depth and upward movement, enhanced by the strong contrast between the dark metallic structure and the bright, natural light from the sky opening.
 
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (1)
+## Needs Like (0)
 
-### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
-- tiffany.art2020: Thank you! ([link](https://www.threads.com/@tiffany.art2020/post/De1x7q_IJos))
-
+_Nothing -- all like-only replies already liked or answered._
