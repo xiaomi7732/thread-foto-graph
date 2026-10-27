@@ -10,8 +10,70 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 131,
+      "reply_count": 140,
       "replies": [
+        {
+          "username": "jim.nichlsn",
+          "text": "",
+          "permalink": "https://www.threads.com/@jim.nichlsn/post/DfAaVqJGNKw",
+          "photos": [
+            "Description: A top-down, first-person view looks down a set of weathered wooden stairs leading directly onto a sandy beach. Bright sunlight creates sharp, linear shadows across the steps from the wooden railings. Photograph read: The high-contrast lighting and repeating diagonal shadows create a graphic composition with a bright, coastal mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "don.greene",
+          "text": "",
+          "permalink": "https://www.threads.com/@don.greene/post/DfAZrQdmLc-",
+          "photos": [
+            "Description: This low-angle, black-and-white shot features a concrete wall embossed with repeating concentric circle patterns. The textured surfaces create a modern, industrial feel that would pair well with design or architecture-focused social media content. Photograph read: The diagonal composition and strong directional lighting emphasize the tactile grooves of the concrete, establishing an industrial and rhythmic mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bumpy120",
+          "text": "",
+          "permalink": "https://www.threads.com/@bumpy120/post/DfAY_NEnHE5",
+          "photos": [
+            "Description: A grand, curved train station facade features a striking canopy of alternating red, yellow, and clear panels overhead, casting vibrant reflections across its multi-tiered structure. Below, a wide public plaza leads toward the entrance, dotted with pedestrians and a seated person in the foreground. Photograph read: Captured from a low-angle perspective under bright, diffuse daylight, the symmetrical composition emphasizes the monumental scale and vivid geometry of the overhead colored ribs, creating a modern, architectural mood.",
+            "Description: A low-angle shot captures a building facade covered in a large, vibrant mural composed of colorful, angled geometric shapes made from textured tiles. A few red-and-white construction barriers stand at the base of the wall, contrasting with the artistic exterior under an overcast sky. Photograph read: Taken from a low vantage point, the upward-angled composition emphasizes the scale of the mural, while soft, diffuse daylight highlights the textured surface and bold geometric palette, creating a modern and vibrant mood.",
+            "Description: This low-angle view captures the sweeping, vaulted glass ceiling of a modern transit station or terminal, adorned with vibrant blocks of orange, pink, teal, and yellow. Overhead lines and structural framework crisscross the frame, emphasizing the architectural scale. Photograph read: The upward-looking composition emphasizes dynamic converging lines and vivid pops of color against a bright, diffused sky, creating a modern, graphic mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "coldhollowfarm",
+          "text": "",
+          "permalink": "https://www.threads.com/@coldhollowfarm/post/DfAYqMQFl6q",
+          "photos": [
+            "Description: Sunlight filters through shallow water, creating intricate patterns of light and shadow across the ribbed sand of a beach. The textured, abstract surface of the shoreline offers a calming, natural backdrop well-suited for a nature post. Photograph read: Captured from directly overhead, the vertical composition emphasizes the rhythmic repeating lines of the sandy ripples, illuminated by bright daylight to evoke a tranquil, meditative mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "chrillino",
+          "text": "",
+          "permalink": "https://www.threads.com/@chrillino/post/DfAYolZjslH",
+          "photos": [
+            "Description: A tall, dark skyscraper towers over a dusty urban construction site enclosed by chain-link fencing and warning signs, with overcast skies partially breaking to reveal golden sunlight. Photograph read: Captured from a low-angle perspective, the vertical composition emphasizes the building's height against a dramatic sky, with warm, muted tones and strong contrast highlighting the urban landscape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "arigari33",
           "text": "A break in the pattern.",
@@ -19,10 +81,32 @@
           "photos": [
             "Description: A vertical, upward-looking shot of an apartment building exterior features a combination of textures, including warm brown horizontal wood paneling on the left, a large expanse of vibrant blue vertical metal siding in the center and right, and dark blue brick at the base, all punctuated by a grid of rectangular windows. One of the upper windows is ajar, casting a distinct shadow on the blue wall, and the reflections in the glass show white clouds against a blue sky, suggesting an urban residential scene suitable for an architectural or design-focused social media post. Photograph read: The flat, symmetrical facade composition and bright, direct light create a graphic, minimalist mood with strong emphasis on texture and color contrast."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That upward look flattens the whole facade into a graphic - blue siding, brown paneling, a tidy window grid, and then one ajar window breaking the rhythm. Was that open window the catch that made you stop, or a happy accident you spotted later?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAY27dlI2O",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "arigari33",
+                  "text": "It was the open window that I noticed first.",
+                  "permalink": "https://www.threads.com/@arigari33/post/DfAZJktlb4p",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "dmoi2encore",
@@ -49,10 +133,21 @@
                   "text": "The mural is much brighter on a clear day.",
                   "permalink": "https://www.threads.com/@dmoi2encore/post/DfAXgGUETM1",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Clear-day light suits it perfectly - the triangle grid reads bolder and brighter, and your straight-on framing lets every triangle do its work.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAY4RFFtjp",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -730,7 +825,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "whoissilver",
+                  "text": "It was actually purely coincidental. I was reading the instructions (first time for everything ) for my new Godox IM30 Pro flash and someone \ud83d\ude2c had left a cup and plate on the sofa over the room. So I played. Favourite coffee cup, I have many, but I've been banned from buying coffee cups, so I've moved to Japanese Tea Cups. Just the right size for a cortado or flat white \ud83e\udd23\ud83e\udd23",
+                  "permalink": "https://www.threads.com/@whoissilver/post/DfAaDcskV4c",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
