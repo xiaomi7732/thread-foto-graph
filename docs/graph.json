@@ -10,8 +10,20 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 124,
+      "reply_count": 131,
       "replies": [
+        {
+          "username": "arigari33",
+          "text": "A break in the pattern.",
+          "permalink": "https://www.threads.com/@arigari33/post/DfAYcgGFQ7b",
+          "photos": [
+            "Description: A vertical, upward-looking shot of an apartment building exterior features a combination of textures, including warm brown horizontal wood paneling on the left, a large expanse of vibrant blue vertical metal siding in the center and right, and dark blue brick at the base, all punctuated by a grid of rectangular windows. One of the upper windows is ajar, casting a distinct shadow on the blue wall, and the reflections in the glass show white clouds against a blue sky, suggesting an urban residential scene suitable for an architectural or design-focused social media post. Photograph read: The flat, symmetrical facade composition and bright, direct light create a graphic, minimalist mood with strong emphasis on texture and color contrast."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dmoi2encore",
           "text": "Taken on a very smoke filled day last July in Milton, Ontario.",
@@ -19,10 +31,32 @@
           "photos": [
             "Description: A large, square geometric art installation hangs on a weathered red brick wall above a bed of wood mulch. The mural features a vibrant grid of triangles in shifting shades of red, purple, blue, and yellow, creating a colorful contrast with the industrial backdrop. Photograph read: The straight-on composition emphasizes the symmetrical geometric patterns of the mural, captured in bright, even daylight that highlights the textured brick and wood elements."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That straight-on framing lets the triangle grid do all the talking - the bright geometry against the weathered brick is a great contrast. Did the smoky light soften the colors, or did the mural punch through the haze just like this?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfAXI-Km5Nn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "dmoi2encore",
+                  "text": "The mural is much brighter on a clear day.",
+                  "permalink": "https://www.threads.com/@dmoi2encore/post/DfAXgGUETM1",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "wrj_arts",
@@ -84,10 +118,21 @@
                   "text": "I stood right in front and tried to position myself to get the best geometry. It slopes up a hill and I was at the bottom. So I was actually below instead of above.",
                   "permalink": "https://www.threads.com/@micawbersmu/post/DfAWJVckQeL",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Standing below and framing up the slope was the right call then - the geometry still lands, and the hill did half the work for you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAXKX6oGa-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -120,10 +165,21 @@
                   "photos": [
                     "Description: A low-angle shot captures the ornate glass ceiling and multi-tiered pendant lights of a high-end shopping arcade, with storefronts like Rolex lining the right side. The vibrant purple and warm lighting create a luxurious and modern atmosphere. Photograph read: The upward-looking composition emphasizes strong geometric lines and warm metallic accents against a cool violet ceiling, creating a sophisticated and polished mood."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Unexpected is exactly the right word for it - a shopping arcade ceiling that stops you mid-errand is a find worth the look up.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAXL_MlGqn",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -775,10 +831,21 @@
                   "text": "I wish it was mine but it was just one I spotted. Loved the hood.",
                   "permalink": "https://www.threads.com/@consie18/post/DfAVSyPFCpm",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Spotted is even better - a pattern you notice out in the wild beats one you own, and that hood clearly earned the photo.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfAXNd6IGya",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1063,7 +1130,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "qwerasd_0800",
+                  "text": "\u9019\u662f\u4e00\u500b\u6d77\u6d0b\u516c\u5712\u7684\u6dbc\u4ead\ud83d\ude01",
+                  "permalink": "https://www.threads.com/@qwerasd_0800/post/DfAW7Rpj0Jo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
