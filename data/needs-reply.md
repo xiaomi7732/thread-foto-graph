@@ -4,28 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (10)
+## Needs Reply (4)
+
+### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
+- **32groove**: Patterns: ([link](https://www.threads.com/@32groove/post/DfAEzSSEcoS))
+  - Photo: Description: This abstract black and white photo features multiple dark, angular beams converging toward a small circular opening in the center, resembling a camera aperture. The stark contrast between the black beams and the bright background creates a striking geometric pattern. Photograph read: The high-contrast, symmetrical composition relies on leading lines to draw the viewer's eye directly into the central aperture, creating a clinical and precise mood.
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DfAEjvaHxg5))
+  - Photo: Description: This outdoor scene features a modern black metal staircase leading up to a tiered patio area enclosed by patterned concrete breeze blocks and metal railings. Green plants, tall grasses, and outdoor seating are visible on the upper level, while the ground is covered in loose gravel. Photograph read: The shot uses a vertical composition with natural daylight casting soft shadows, creating a calm and modern architectural mood.
+- **taiwanese726**: Such like this? ([link](https://www.threads.com/@taiwanese726/post/DfADMwplCaF))
+  - Photo: Description: A low-angle, vertical shot captures an ornate, dark wrought-iron balcony railing casting crisp, shadowed scrolls onto a textured stone ledge. Below and beyond the railing, a traditional cobblestone street and old-world building facade hint at a historic European town square. Photograph read: The vertical composition creates a dynamic diagonal line through the frame, utilizing harsh sunlight to emphasize the interplay between the intricate metalwork and its sharp shadows for a textural, classic mood.
 
 ### Haunted Thursday favorites 🏆 Three haunts that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/De1x21vFGoT))
 - **bugs_eye_view_of_you**: Thank you for that, feel very honored. ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/De1x_O7nNIs))
-
-### Golden Friday 🌟 Show me the most golden thing in your camer… ([thread](https://www.threads.com/@saars.foto/post/De1uZZrESrB))
-- **stevenalot**: Nice summary, the Northern Territory has its own mind and colours. Dangerously beautiful. ([link](https://www.threads.com/@stevenalot/post/De6rhS3mUJq))
-  - _Replying to: Darwin showing off - the boat sits right on the sun's path,…_
-- **pgibby58**: It’s actually a sculpture ([link](https://www.threads.com/@pgibby58/post/De3VT5Xo6Jc))
-  - _Replying to: A lawn the size of a field, one lounge chair parked for the…_
-- **jenspixx**: Yes it was a bit surreal actually. ([link](https://www.threads.com/@jenspixx/post/De44D2fgZCw))
-  - _Replying to: Early starts pay rent when the light does that. Surfer, dog…_
-- **kiwi_girl_half_dead**: That's an awesome pic ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3FKB5AaqC))
-  - _Replying to: Sunrise 💫_
-- **jenspixx**: Yeah one of my old faves :) ([link](https://www.threads.com/@jenspixx/post/De3FqofgWyl))
-  - _Replying to: That's an awesome pic_
-- **kiwi_girl_half_dead**: It's a good fave..I haven't seen it before ([link](https://www.threads.com/@kiwi_girl_half_dead/post/De3Fv0rgc7G))
-  - _Replying to: Yeah one of my old faves :)_
-- **ulrike6417**: I know that i am a lucky person!🍀 ([link](https://www.threads.com/@ulrike6417/post/De4cDbQgKpG))
-  - _Replying to: From your own garden, with the Alps for a backdrop - that i…_
-- **buzz.crunch**: 😂 … It was a photogenic drive I took a dozen or so that are very similar 👌 ([link](https://www.threads.com/@buzz.crunch/post/De3AVXqHzUG))
-  - _Replying to: Five minutes of glow, shot out the car window at 80 - and i…_
-- **picsall**: Dust storm coming! ([link](https://www.threads.com/@picsall/post/De2glAYklOt))
-  - _Replying to: (photo reply, no text)_
 
