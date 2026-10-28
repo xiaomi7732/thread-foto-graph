@@ -41,7 +41,7 @@ def main() -> int:
     consecutive_failures = 0
     consecutive_image_fetch_failures = 0
     consecutive_non_retryable_failures = 0
-    attempted_media_ids = set()
+    attempted_media_ids = {}
     budget_exhausted_announced = False
     seen_uncached_photo_ids = set()
 

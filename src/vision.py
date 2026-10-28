@@ -602,7 +602,7 @@ def describe_images(
     consecutive_transient_failures: int = 0,
     consecutive_image_fetch_failures: int = 0,
     consecutive_non_retryable_failures: int = 0,
-    attempted_media_ids: set[str] | None = None,
+    attempted_media_ids: dict[str, str | None] | None = None,
 ) -> tuple[int, bool, int, int, int]:
     """Describes every uncached photo in each item in place, storing a
     'photo_descriptions' list on the item (one entry per photo -- a
@@ -630,9 +630,10 @@ def describe_images(
     an outage/quota/auth failure detected on one batch wouldn't stop the
     very next batch from trying fresh calls anyway.
 
-    `attempted_media_ids`, when supplied, tracks photos already attempted
-    across batches/passes in one run. A repeated ID stays pending rather than
-    consuming more request budget; the next scheduled run can retry it.
+    `attempted_media_ids`, when supplied, tracks outcomes for photos already
+    attempted across batches/passes in one run. Repeated IDs reuse their
+    outcome rather than consuming more request budget; the next scheduled run
+    can retry failures.
 
     `requests_made` counts actual Gemini POST attempts, not photos -- a
     single photo can cost several real Gemini requests (429/5xx/timeout
@@ -646,7 +647,7 @@ def describe_images(
     """
     requests_made = 0
     if attempted_media_ids is None:
-        attempted_media_ids = set()
+        attempted_media_ids = {}
 
     for item in media_items:
         photos = threads_client.photo_items(item)
@@ -673,7 +674,7 @@ def describe_images(
                 descriptions.append(cache[media_id])
                 continue
             if media_id in attempted_media_ids:
-                descriptions.append(None)
+                descriptions.append(attempted_media_ids[media_id])
                 continue
             if stop_calls or requests_made >= max_requests:
                 # Leave as None (pending) -- topic_graph.py distinguishes
@@ -681,7 +682,7 @@ def describe_images(
                 descriptions.append(None)
                 continue
 
-            attempted_media_ids.add(media_id)
+            attempted_media_ids[media_id] = None
             try:
                 description, attempts = describe_image(
                     photo["media_url"], max_attempts=max(1, max_requests - requests_made)
@@ -708,7 +709,9 @@ def describe_images(
                 # otherwise a run full of these is invisible until someone
                 # reads the committed markdown.
                 print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
-                descriptions.append(f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})")
+                unavailable = f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})"
+                attempted_media_ids[media_id] = unavailable
+                descriptions.append(unavailable)
                 if isinstance(exc, ImageFetchError):
                     # No Gemini call was ever attempted for this photo -- don't
                     # charge it against this run's Gemini request budget, and

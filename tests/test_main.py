@@ -87,8 +87,8 @@ class MainIterationTests(unittest.TestCase):
                 for item in items
                 for photo in main.threads_client.photo_items(item)
             }
-            new_photo_ids = photo_ids - attempted_media_ids
-            attempted_media_ids.update(new_photo_ids)
+            new_photo_ids = photo_ids - attempted_media_ids.keys()
+            attempted_media_ids.update({photo_id: None for photo_id in new_photo_ids})
             return (len(new_photo_ids), stop_calls, failures, image_failures, non_retryable)
 
         self.describe.side_effect = fail_only_once_per_photo
@@ -97,7 +97,7 @@ class MainIterationTests(unittest.TestCase):
 
         self.assertEqual(self.collect.call_count, 2)
         self.assertEqual(self.describe.call_count, 4)
-        self.assertEqual(self.describe.call_args.kwargs["attempted_media_ids"], {"thread-1"})
+        self.assertEqual(self.describe.call_args.kwargs["attempted_media_ids"], {"thread-1": None})
 
     def test_stops_after_first_pass_when_no_new_recognition_is_needed(self):
         self.load_cache.return_value = {"thread-1": "cached description"}
