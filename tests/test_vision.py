@@ -31,6 +31,21 @@ class VisionPromptTests(unittest.TestCase):
         self.assertEqual(attempts, 1)
         post.assert_called_once()
 
+    @patch.object(vision, "describe_image")
+    def test_previously_attempted_photo_is_left_pending(self, describe_image):
+        item = {"id": "photo-1", "media_type": "IMAGE", "media_url": "https://example.com/photo.jpg"}
+
+        result = vision.describe_images(
+            [item],
+            {},
+            10,
+            attempted_media_ids={"photo-1"},
+        )
+
+        self.assertEqual(result[0], 0)
+        self.assertEqual(item["photo_descriptions"], [None])
+        describe_image.assert_not_called()
+
 
 if __name__ == "__main__":
     unittest.main()

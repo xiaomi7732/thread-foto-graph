@@ -41,6 +41,7 @@ def main() -> int:
     consecutive_failures = 0
     consecutive_image_fetch_failures = 0
     consecutive_non_retryable_failures = 0
+    attempted_media_ids = set()
     budget_exhausted_announced = False
     seen_uncached_photo_ids = set()
 
@@ -95,6 +96,7 @@ def main() -> int:
                 consecutive_failures,
                 consecutive_image_fetch_failures,
                 consecutive_non_retryable_failures,
+                attempted_media_ids=attempted_media_ids,
             )
             requests_made += made
             # Walk the full nested reply tree (not just top-level replies) so
@@ -135,6 +137,7 @@ def main() -> int:
                 consecutive_failures,
                 consecutive_image_fetch_failures,
                 consecutive_non_retryable_failures,
+                attempted_media_ids=attempted_media_ids,
             )
             requests_made += made
             print(

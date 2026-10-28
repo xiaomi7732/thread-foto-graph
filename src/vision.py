@@ -602,6 +602,7 @@ def describe_images(
     consecutive_transient_failures: int = 0,
     consecutive_image_fetch_failures: int = 0,
     consecutive_non_retryable_failures: int = 0,
+    attempted_media_ids: set[str] | None = None,
 ) -> tuple[int, bool, int, int, int]:
     """Describes every uncached photo in each item in place, storing a
     'photo_descriptions' list on the item (one entry per photo -- a
@@ -629,6 +630,10 @@ def describe_images(
     an outage/quota/auth failure detected on one batch wouldn't stop the
     very next batch from trying fresh calls anyway.
 
+    `attempted_media_ids`, when supplied, tracks photos already attempted
+    across batches/passes in one run. A repeated ID stays pending rather than
+    consuming more request budget; the next scheduled run can retry it.
+
     `requests_made` counts actual Gemini POST attempts, not photos -- a
     single photo can cost several real Gemini requests (429/5xx/timeout
     retries inside describe_image()) before succeeding or giving up, and
@@ -640,6 +645,9 @@ def describe_images(
     already-described photos.
     """
     requests_made = 0
+    if attempted_media_ids is None:
+        attempted_media_ids = set()
+
     for item in media_items:
         photos = threads_client.photo_items(item)
         if not photos:
@@ -664,12 +672,16 @@ def describe_images(
             if media_id in cache:
                 descriptions.append(cache[media_id])
                 continue
+            if media_id in attempted_media_ids:
+                descriptions.append(None)
+                continue
             if stop_calls or requests_made >= max_requests:
                 # Leave as None (pending) -- topic_graph.py distinguishes
                 # this from "no photo" via the list entry existing at all.
                 descriptions.append(None)
                 continue
 
+            attempted_media_ids.add(media_id)
             try:
                 description, attempts = describe_image(
                     photo["media_url"], max_attempts=max(1, max_requests - requests_made)
