@@ -4,20 +4,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (56)
+## Needs Reply (57)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
+- **craigkeepingbusy**: I just finished making these out of a cedar 4X4. Do they count? ([link](https://www.threads.com/@craigkeepingbusy/post/DfDhjJDGxPP))
+  - Photo: Description: Several handcrafted wooden pumpkins, each featuring segmented sections and twig stems, are arranged on a well-worn workshop workbench. In the cluttered background, woodworking tools, scraps of lumber, and sawdust hint at an active DIY or carpentry project. Photograph read: The high-angle, slightly angled composition captures the rustic textures and warm wood tones under even workshop lighting, conveying a productive and crafty mood.
 - **melisagogo**: Throwback to when my son was 3 at the most expensive pumpkin patch in Nebraska ([link](https://www.threads.com/@melisagogo/post/DfDZbn5oJJE))
   - Photo: Description: A smiling young boy wearing a red baseball cap and a camouflage jacket poses among scattered pumpkins in a harvested field, making a classic autumn post. Photograph read: The subject is centered in a medium shot under bright, direct daylight, creating an upbeat and cheerful outdoor mood.
-- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfDXLj1mZyb))
-  - Photo: Description: A large pumpkin mosaic made from bright orange painted clam shells is arranged on sandy ground, surrounded by sea grass, several real orange pumpkins, and a small scarecrow figure. Photograph read: Captured from a high angle in bright daylight, the composition centers the shell mosaic amid natural coastal textures, creating a whimsical and cheerful seasonal mood.
-- **mapletreephotography_wpm**: Ask my wife, her party…😎❤️😎 ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDU0n-gbHY))
-  - _Replying to: That vertical medium frame is the move - the pumpkin gets t…_
+- **mapletreephotography_wpm**: Yes, yes it did…❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDdDmFARoW))
+  - _Replying to: Then your wife gets the credit and your vertical frame gets…_
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
   - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
-- **bojonvelvet2.0**: Old photo. I haven’t even bothered to get down my snoring witch this year. The drunk Russian bear in the corner is the base of an antique bar lamp that belonged to my grandfather. You can see it a little better in this old Xmas photo. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDaOwfko1P))
-  - Photo: Description: A sparse, makeshift pine branch with a single shiny red ornament stands on a wooden cross-base next to a vintage table lamp shaped like a bear leaning against a vodka bottle. The quirky, minimalist holiday decor sits on a wooden surface against a muted wall, creating an eccentric and humorous festive aesthetic. Photograph read: The tight composition features warm, directional light from the lamp that casts strong shadows, evoking a quirky and nostalgic mood.
-  - _Replying to: That overhead angle turns the whole table into a little sta…_
+- **bojonvelvet2.0**: The bear lamp is a fixture on that table. Resides between two vintage Adrian Pearsall mid-century chairs.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDdNRhgY-X))
+  - Photo: Description: Two orange mid-century modern armchairs flank a small wooden side table beneath a blue wall decorated with framed vintage photographs, floating shelves, and a globe. A lime-green ottoman sits in the foreground, and a tall stack of books stands beside the right-hand chair. Photograph read: Captured from a wide angle, the brightly lit indoor scene uses a symmetrical composition of furniture and wall art to create a cozy, eclectic atmosphere.
+  - _Replying to: That tight frame is the whole joke - a bare little branch w…_
 - **aimeeday5883**: Hubbard is my favorite winter squash - it keeps beautifully and has super dense, sweet, nutty flesh that works great for pies, soups, and straight eating. ([link](https://www.threads.com/@aimeeday5883/post/DfDDGbTD5w9))
   - _Replying to: Thanksgiving last year and it still reads fresh - that top-…_
 - **encinitasditka**: Right when I saw it, 6:30 am, sunrise was at 7…moon was giving off a lot of light ([link](https://www.threads.com/@encinitasditka/post/DfDNrhEgSlS))
@@ -112,6 +112,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Flipping it over was the whole trick - most people shoot th…_
 - **gnd_moments_in_paradise**: As I recall it took an age to get what should have been a simple composition right. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/DfBJNBKCFrj))
   - _Replying to: Dead centre was the right call - the palm trunks line up li…_
+- **sue_wigs**: Craned my neck, ouch! ([link](https://www.threads.com/@sue_wigs/post/DfDfAQ-CBhz))
+  - _Replying to: Looking straight up was the brave call - the ribs pull the …_
 - **bybaird**: We have stayed at the same hotel on the river several times, and I always loved taking pictures of that bridge. ([link](https://www.threads.com/@bybaird/post/DfAyThGFEs7))
   - _Replying to: Just a visit._
 - **jim.nichlsn**: Yes, and thank you ([link](https://www.threads.com/@jim.nichlsn/post/DfAfKrPGdAY))
