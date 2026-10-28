@@ -6,21 +6,27 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (45)
+## Needs Reply (48)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/DfC0tmYlmnc))
-  - Photo: Description: A large, menacing Halloween prop featuring a sculpted pumpkin head with a jagged, toothy grin and stitched details wears tattered dark robes while holding a banjo. The figure is mounted against a dark curtain backdrop adorned with string lights, suggesting a festive stage or venue setup. Photograph read: The centered vertical composition utilizes dramatic overhead blue lighting and warm ambient string lights to create an eerie, theatrical mood against the dark background.
-- **brianmccloskeyphotography**:  ([link](https://www.threads.com/@brianmccloskeyphotography/post/DfCzmShoGMj))
-  - Photo: Description: A carved pumpkin sits on stone steps, appearing to vomit its own pulp onto the steps below. The scene is viewed from behind dark metal railings, adding a humorous and festive Halloween touch suitable for seasonal sharing. Photograph read: The shot uses a natural eye-level perspective framed by out-of-focus vertical railings, creating a candid, voyeuristic mood in daylight.
-- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DfCyp8dnAI7))
-  - Photo: Description: A single orange pumpkin sits on a slatted park bench surrounded by a flurry of autumn leaves caught in mid-air amidst a wooded backdrop. The scene evokes a classic seasonal mood, perfect for an autumn-themed social media post. Photograph read: The centered composition highlights the pumpkin against the warm tones of the bench and the dappled forest lighting, creating a serene and nostalgic autumn atmosphere.
-- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfCyXGJG1a-))
-  - Photo: Description: A vibrant, densely packed display of numerous round, orange pumpkins and a few speckled green ones fills the frame, creating a festive autumn harvest scene. This colorful arrangement is ideal for seasonal social media posts celebrating fall, Halloween, or a trip to the pumpkin patch. Photograph read: The tight framing and shallow depth of field create a rich, tactile pattern of curved lines and varied orange and green tones under soft, even lighting.
+- **lehmann7882**:  ([link](https://www.threads.com/@lehmann7882/post/DfC3VJDFlpB))
+  - Photo: Description: A massive orange pumpkin, weighing 744.5 pounds and named Seymour, is the centerpiece of a seasonal autumn display surrounded by smaller pumpkins and gourds of various colors. A purple informational sign stands behind the giant gourd, providing details from the 2022 Giant Pumpkin Weigh-Off. Photograph read: Captured from a slightly elevated angle in bright, overcast daylight, the composition emphasizes the sheer scale of the central pumpkin by contrasting it with a scattering of smaller gourds on a wooden pallet below.
+- **encinitasditka**: This morning on the beach ([link](https://www.threads.com/@encinitasditka/post/DfC2kK_miD8))
+  - Photo: Description: A carved orange jack-o'-lantern rests on a damp, dark sand beach with the ocean and a cloudy sky in the background. The offbeat placement of a Halloween decoration by the sea creates a playful contrast that works well for seasonal social media posts. Photograph read: The centered pumpkin forms the focal point against horizontal bands of sand, surf, and sky, rendered in cool, overcast daylight that gives the scene a moody, melancholic tone.
+- **jdicillo**: That was taken at the Sportsman's Tavern in Buffalo NY. That is one of their stage decorations. ([link](https://www.threads.com/@jdicillo/post/DfC2RQaFmOR))
+  - _Replying to: That overhead blue light turning a pumpkin-headed banjo pla…_
+- **brianmccloskeyphotography**: Thanks, actually spotted this while walking through a neighborhood in Ireland a few years back.... not my staging at all... looks pretty intentional to me though! ([link](https://www.threads.com/@brianmccloskeyphotography/post/DfC2L6SoLSE))
+  - _Replying to: Shooting through the railings was the smart move - those so…_
+- **wj.fox**: It took awhile ([link](https://www.threads.com/@wj.fox/post/DfC19wrHJ1M))
+  - _Replying to: Catching the leaves mid-air is what sells this one - the ce…_
+- **drbethie**: Oh, I love your analysis. We call that a photo vignette. The scene is from an amazing pumpkin festival at Naumkeag museum and garden in Stockbridge, MA. The intact pumpkins and gourds are real but the carved ones are cardboard.😉 ([link](https://www.threads.com/@drbethie/post/DfC1tHdEUhx))
+  - _Replying to: That close-up framing turns the hay bale into a little stag…_
 - **bendlesmaid269**: No she takes orders and has a Facebook and instagram page She only started doing it in July, for a charity event, she’s so clever ([link](https://www.threads.com/@bendlesmaid269/post/DfCysoBijlX))
   - Photo: Description: Four handmade crochet angel ornaments hang in a row from a rustic wooden branch against a festive holiday backdrop. The ornaments feature wooden bead heads with painted smiling faces and rosy cheeks, white crocheted wing dresses, and fringed skirts. Photograph read: The horizontally aligned composition is evenly lit by warm fairy lights, creating a cozy and inviting holiday atmosphere.
   - Photo: Description: A top-down shot shows a cluster of handmade crochet poppy brooches with black centers and green leaf accents, arranged on a textured burlap surface atop a wooden table. The handcrafted red flowers are popular symbols for remembrance day displays and charity fundraisers. Photograph read: The flat-lay composition features vibrant red and green textures highlighted by even, natural light, creating a warm, artisanal mood.
   - _Replying to: Monday to Wednesday for a whole pumpkin patch plus angels a…_
+- **consie18**: It was a farm stand and they did an excellent job. ([link](https://www.threads.com/@consie18/post/DfC1o0BlOhp))
+  - _Replying to: That wide eye-level frame turns a truckload into a postcard…_
 - **three_little_burdes**: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds 😂 ([link](https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u))
   - _Replying to: That doggo on the left looks an awful lot like our Harper L…_
 - **mizgreenjeans**:  ([link](https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN))
