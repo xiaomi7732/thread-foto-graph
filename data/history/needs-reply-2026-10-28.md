@@ -4,13 +4,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (42)
+## Needs Reply (45)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **drbethie**:  ([link](https://www.threads.com/@drbethie/post/DfCxhQBkc8g))
-  - Photo: Description: A festive autumn display features various pumpkins and gourds resting on a bale of hay outdoors. A large white pumpkin carved with a pirate motif sits alongside an orange pumpkin carved with a starfish and a textured green gourd. Photograph read: Captured in natural daylight, the vertical composition uses a close-up framing that emphasizes the varied textures and rustic autumn mood.
-- **bendlesmaid269**: My friend crocheted them for me, ordered on the Monday, she had made them, by the Wednesday along with 4 Angel Christmas decorations and 3 Poppies She is so clever ([link](https://www.threads.com/@bendlesmaid269/post/DfCxa_giti1))
-  - _Replying to: That high angle does the yarn justice - the three pumpkins …_
+- **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/DfC0tmYlmnc))
+  - Photo: Description: A large, menacing Halloween prop featuring a sculpted pumpkin head with a jagged, toothy grin and stitched details wears tattered dark robes while holding a banjo. The figure is mounted against a dark curtain backdrop adorned with string lights, suggesting a festive stage or venue setup. Photograph read: The centered vertical composition utilizes dramatic overhead blue lighting and warm ambient string lights to create an eerie, theatrical mood against the dark background.
+- **brianmccloskeyphotography**:  ([link](https://www.threads.com/@brianmccloskeyphotography/post/DfCzmShoGMj))
+  - Photo: Description: A carved pumpkin sits on stone steps, appearing to vomit its own pulp onto the steps below. The scene is viewed from behind dark metal railings, adding a humorous and festive Halloween touch suitable for seasonal sharing. Photograph read: The shot uses a natural eye-level perspective framed by out-of-focus vertical railings, creating a candid, voyeuristic mood in daylight.
+- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DfCyp8dnAI7))
+  - Photo: Description: A single orange pumpkin sits on a slatted park bench surrounded by a flurry of autumn leaves caught in mid-air amidst a wooded backdrop. The scene evokes a classic seasonal mood, perfect for an autumn-themed social media post. Photograph read: The centered composition highlights the pumpkin against the warm tones of the bench and the dappled forest lighting, creating a serene and nostalgic autumn atmosphere.
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfCyXGJG1a-))
+  - Photo: Description: A vibrant, densely packed display of numerous round, orange pumpkins and a few speckled green ones fills the frame, creating a festive autumn harvest scene. This colorful arrangement is ideal for seasonal social media posts celebrating fall, Halloween, or a trip to the pumpkin patch. Photograph read: The tight framing and shallow depth of field create a rich, tactile pattern of curved lines and varied orange and green tones under soft, even lighting.
+- **bendlesmaid269**: No she takes orders and has a Facebook and instagram page She only started doing it in July, for a charity event, she’s so clever ([link](https://www.threads.com/@bendlesmaid269/post/DfCysoBijlX))
+  - Photo: Description: Four handmade crochet angel ornaments hang in a row from a rustic wooden branch against a festive holiday backdrop. The ornaments feature wooden bead heads with painted smiling faces and rosy cheeks, white crocheted wing dresses, and fringed skirts. Photograph read: The horizontally aligned composition is evenly lit by warm fairy lights, creating a cozy and inviting holiday atmosphere.
+  - Photo: Description: A top-down shot shows a cluster of handmade crochet poppy brooches with black centers and green leaf accents, arranged on a textured burlap surface atop a wooden table. The handcrafted red flowers are popular symbols for remembrance day displays and charity fundraisers. Photograph read: The flat-lay composition features vibrant red and green textures highlighted by even, natural light, creating a warm, artisanal mood.
+  - _Replying to: Monday to Wednesday for a whole pumpkin patch plus angels a…_
 - **three_little_burdes**: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds 😂 ([link](https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u))
   - _Replying to: That doggo on the left looks an awful lot like our Harper L…_
 - **mizgreenjeans**:  ([link](https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN))
@@ -18,8 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds…_
 - **mizgreenjeans**: I admit I had never heard of a Treeing Walker Coonhound before in my life. I mean, coonhound sure. But not that specific one. ([link](https://www.threads.com/@mizgreenjeans/post/DfCqymMoHV-))
   - _Replying to: Oh wow!!!_
-- **tiffany.art2020**: I grew these in my garden. No pre-arrangement…just set aside after harvesting! ([link](https://www.threads.com/@tiffany.art2020/post/DfCu0F7IM-Y))
-  - _Replying to: That tight top-down crop makes a harvest mosaic - and the o…_
+- **tiffany.art2020**: These were actually last year…I’ve moved now and have no garden…just flora memories! I did like the white ones, tho! ([link](https://www.threads.com/@tiffany.art2020/post/DfCydKOmwwE))
+  - _Replying to: Homegrown and just set aside after harvesting - that top-do…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
 - **nanceharder81**: It was a very misty night in downtown Minneapolis ([link](https://www.threads.com/@nanceharder81/post/DfCqeCYEfEf))
