@@ -6,11 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (54)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **aimeeday5883**: It’s actually from Thanksgiving last year, and if I remember right it was a Hubbard squash but that’s just a blue pumpkin :) ([link](https://www.threads.com/@aimeeday5883/post/DfC-trFmEs-))
-  - _Replying to: Top-down was the right call - both pies read in one glance,…_
+- **ell_carpinelli**:  ([link](https://www.threads.com/@ell_carpinelli/post/DfDGZesmavH))
+  - Photo: Description: A tiny tortoise crawls across a wooden floor beside a small ceramic pumpkin and its matching lid. The scene has an autumnal feel, making it suitable for a seasonal pet post. Photograph read: The tight close-up and low-angle composition create an intimate, whimsical mood, enhanced by dramatic, directional lighting that carves the subjects out of deep shadow against the wooden surface.
+- **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
+  - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
+- **myteddybear724**:  ([link](https://www.threads.com/@myteddybear724/post/DfDDHGvmP42))
+  - Photo: Description: A carved jack-o'-lantern glows from within, featuring an intricate, asymmetrical face with deep-set eyes and a wide, jagged grin. The pumpkin sits isolated against a pitch-black background, creating a moody, quintessential Halloween scene. Photograph read: The tight framing centers the illuminated pumpkin against a dark background, where the warm, internal light casts strong shadows and highlights the carved details to create an eerie, festive mood.
+- **ritaveeps**:  ([link](https://www.threads.com/@ritaveeps/post/DfDCiKkGdiM))
+  - Photo: Description: A carved jack-o'-lantern with a stylized, grumpy face sits on a metallic surface, lit from within by a warm glow. The carving features exaggerated slanted eyes, a crooked mouth, and heavy black marker outlines, perfect for a spooky autumn post. Photograph read: The tight vertical framing focuses entirely on the illuminated pumpkin against a cool, dark background, creating a moody and festive atmosphere with high-contrast interior lighting.
+- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDAQ10GP4n))
+  - Photo: Description: An overhead shot captures a Halloween scene featuring a witch doll holding Esmerelda's Book of Spells, a small pumpkin, a bowl of candy corn, and a devil figurine on a wooden surface. The spooky tableau creates a festive holiday atmosphere suitable for seasonal sharing. Photograph read: The high-angle composition is unified by a heavy red wash of light, creating a dramatic, eerie mood with deep, shadowy textures across the rustic wooden backdrop.
+- **aimeeday5883**: Hubbard is my favorite winter squash - it keeps beautifully and has super dense, sweet, nutty flesh that works great for pies, soups, and straight eating. ([link](https://www.threads.com/@aimeeday5883/post/DfDDGbTD5w9))
+  - _Replying to: Thanksgiving last year and it still reads fresh - that top-…_
+- **encinitasditka**: He was there when I got there, which was before sunrise. Surprised pumpkin survived 4 am high tide as it was super high ([link](https://www.threads.com/@encinitasditka/post/DfDBEngD68_))
+  - _Replying to: Centering him against those flat bands of sand, surf, and s…_
 - **jdicillo**: Halloween time only. It's usually a black curtain behind the musicians. ([link](https://www.threads.com/@jdicillo/post/DfC6sL-lp4T))
   - Photo: Description: A bearded male musician stands on a dimly lit stage, strumming an acoustic-electric guitar with a sunburst finish while wearing a dark t-shirt and jeans. In
   - _Replying to: A tavern stage decoration explains everything - that overhe…_
@@ -36,6 +48,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Pattern Tuesday favorites 🏆 Three patterns that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DfB3FbdldSK))
 - **remalysh**: Playing with Light ([link](https://www.threads.com/@remalysh/post/DfC5ujwGliU))
   - Photo: Description: Brightly colored light trails form a dynamic, swirling spiral pattern against a solid black background, creating a vibrant hypnotic effect ideal for a psychedelic art post. Photograph read: The long-exposure composition centers on concentric rings of saturated red, blue, and green dotted lights, producing an energetic and mesmerizing mood.
+- **kes_ward**: So far the straight up teardrop is my favourite. But that is a very good question… there are definitely more angles I haven’t caught yet. I do have some other images I captured from my time there but I have grown since then as a photographer. So I look forward to returning at some point in the future. ([link](https://www.threads.com/@kes_ward/post/DfDEStXjiHy))
+  - _Replying to: @kes_ward - the Axel Towers courtyard: you said that buildi…_
+- **demidova_nadezda**: I specially photographed it during the day, as the night changes its appearance. But it's also beautiful during the day. ([link](https://www.threads.com/@demidova_nadezda/post/DfDCivymLir))
+  - Photo: Description: A low-angle shot captures the dramatic, twisting facade of a modern high-rise building stretching up against a clear blue sky. The geometric windows and stacked, rotated floors create a dynamic, sculptural texture ideal for architecture and urban design feeds. Photograph read: The symmetrical, upward-looking composition emphasizes the dizzying height and intricate architectural rhythm of the twisting tower under bright daylight.
+  - Photo: Description: A low-angle shot captures two contrasting modern skyscrapers against a clear blue sky, framed overhead by dark green tree foliage. The skyscraper in the center features a striking, stacked, and twisted architectural design with reflective white and glass panels. Photograph read: The low-angle perspective emphasizes the soaring height of the towers, utilizing a natural leaf frame at the top to contrast organic textures with clean, geometric urban lines under bright daylight.
+  - Photo: Description: A low-angle shot captures a modern skyscraper featuring an undulating, textured facade with staggered, angled windows that create a complex geometric pattern against a clear blue sky. A small portion of a light fixture or sign appears at the top left edge. Photograph read: The dramatic low-angle composition emphasizes the building's twisting height, utilizing bright daylight to highlight the clean lines and dynamic shadows across the facade for a striking, modern aesthetic.
+  - _Replying to: 🤭🤭🤭 Thanka for sharing the story! Nice shot!_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
 - **nanceharder81**: It was a very misty night in downtown Minneapolis ([link](https://www.threads.com/@nanceharder81/post/DfCqeCYEfEf))
@@ -123,9 +142,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (13)
+## Needs Like (14)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
+- rositayarnold: 🤷‍♀️ ([link](https://www.threads.com/@rositayarnold/post/DfDE0RXCG-M))
 - janeannnorman: Thank you ([link](https://www.threads.com/@janeannnorman/post/DfCslHxDBZT))
 - three_little_burdes: Oh wow!!! ([link](https://www.threads.com/@three_little_burdes/post/DfCpuBuliY8))
 
