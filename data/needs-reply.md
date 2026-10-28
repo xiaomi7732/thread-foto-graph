@@ -4,18 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (43)
+## Needs Reply (42)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DfCr80Skar9))
-  - Photo: Description: A large wall display features rows of wooden crates, each filled with a different pumpkin or gourd of varying sizes, colors, and textures, creating a festive autumn backdrop. A few loose pumpkins rest on the gravel ground directly in front of the rustic structure. Photograph read: The straight-on grid composition emphasizes the variety and symmetry of the display, rendered in natural daylight that highlights the warm earthy tones and textures of the gourds.
-- **bendlesmaid269**:  ([link](https://www.threads.com/@bendlesmaid269/post/DfCreG3DGR0))
-  - Photo: Description: Three handmade crocheted orange pumpkins with brown stems sit on a wooden table, arranged from largest to smallest. In the background, a wooden bowl with painted jellyfish and several small ceramic bunny figurines add a cozy, decorative touch to the autumn scene. Photograph read: Shot from a high angle in soft, natural indoor light, the close-up composition highlights the rich textures of the yarn against the polished wood surface, creating a warm and homey mood.
-- **rositayarnold**:  ([link](https://www.threads.com/@rositayarnold/post/DfCrbSMiKXH))
-  - Photo: Description: A colorful painting of a rooster stands atop a wooden crate overflowing with an assortment of pumpkins and gourds of varying shapes, sizes, and colors, creating a rustic autumn display. Additional pumpkins spill out onto the lower surfaces against a translucent greenhouse backdrop. Photograph read: The vertically framed composition centers on the painted rooster against a soft, even light, conveying a warm and festive harvest mood.
-  - Photo: Description: A large, overflowing wooden bin is piled high with a colorful variety of pumpkins and gourds in shades of orange, yellow, and green. In the background, a painted wooden pumpkin face and a rustic building under an overcast sky create a festive autumn atmosphere suitable for a seasonal harvest post. Photograph read: The eye-level composition captures the rich textures and saturated colors of the gourds against the weathered wood, rendered in soft, diffuse daylight that creates a quiet, overcast mood.
-- **mizgreenjeans**: Just a lookalike but then again Harper gets along with most dogs so could be family if they ever meet. ([link](https://www.threads.com/@mizgreenjeans/post/DfCsPR6oABS))
-  - _Replying to: That eye-level couch shot sells the resemblance instantly -…_
+- **drbethie**:  ([link](https://www.threads.com/@drbethie/post/DfCxhQBkc8g))
+  - Photo: Description: A festive autumn display features various pumpkins and gourds resting on a bale of hay outdoors. A large white pumpkin carved with a pirate motif sits alongside an orange pumpkin carved with a starfish and a textured green gourd. Photograph read: Captured in natural daylight, the vertical composition uses a close-up framing that emphasizes the varied textures and rustic autumn mood.
+- **bendlesmaid269**: My friend crocheted them for me, ordered on the Monday, she had made them, by the Wednesday along with 4 Angel Christmas decorations and 3 Poppies She is so clever ([link](https://www.threads.com/@bendlesmaid269/post/DfCxa_giti1))
+  - _Replying to: That high angle does the yarn justice - the three pumpkins …_
 - **three_little_burdes**: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds 😂 ([link](https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u))
   - _Replying to: That doggo on the left looks an awful lot like our Harper L…_
 - **mizgreenjeans**:  ([link](https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN))
@@ -23,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds…_
 - **mizgreenjeans**: I admit I had never heard of a Treeing Walker Coonhound before in my life. I mean, coonhound sure. But not that specific one. ([link](https://www.threads.com/@mizgreenjeans/post/DfCqymMoHV-))
   - _Replying to: Oh wow!!!_
+- **tiffany.art2020**: I grew these in my garden. No pre-arrangement…just set aside after harvesting! ([link](https://www.threads.com/@tiffany.art2020/post/DfCu0F7IM-Y))
+  - _Replying to: That tight top-down crop makes a harvest mosaic - and the o…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
 - **nanceharder81**: It was a very misty night in downtown Minneapolis ([link](https://www.threads.com/@nanceharder81/post/DfCqeCYEfEf))

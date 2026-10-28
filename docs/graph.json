@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18119252560982332",
-      "label": "read, photograph, description, composition",
+      "label": "read, photograph, description, angle",
       "group": 0,
       "snippet": "Pumpkin Wednesday \ud83c\udf83 Show me your pumpkin. Pumpkin patches, \u2026",
       "text": "Pumpkin Wednesday \ud83c\udf83 Show me your pumpkin. Pumpkin patches, porch carvings, jack-o-lanterns - festive or full-on spooky, all of it counts. A carved pumpkin face keeping watch over the Stocker Farms sign, corn on both sides. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What does pumpkin season look like where you are?",
@@ -10,8 +10,20 @@
       "photos": [
         "Description: A large, brightly colored sign for Stocker Farms features a carved jack-o'-lantern flanked by ears of corn beneath a miniature roof, with a smaller hanging sign that reads \"WELCOME.\" The autumn-themed entrance sign stands against a pale, overcast sky. Photograph read: Shot from a low upward angle against a diffuse, overcast sky, the rustic sign is centrally framed to highlight its whimsical textures and autumn aesthetic."
       ],
-      "reply_count": 22,
+      "reply_count": 30,
       "replies": [
+        {
+          "username": "drbethie",
+          "text": "",
+          "permalink": "https://www.threads.com/@drbethie/post/DfCxhQBkc8g",
+          "photos": [
+            "Description: A festive autumn display features various pumpkins and gourds resting on a bale of hay outdoors. A large white pumpkin carved with a pirate motif sits alongside an orange pumpkin carved with a starfish and a textured green gourd. Photograph read: Captured in natural daylight, the vertical composition uses a close-up framing that emphasizes the varied textures and rustic autumn mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "medium.gords7",
           "text": "",
@@ -19,10 +31,21 @@
           "photos": [
             "Description: A large wall display features rows of wooden crates, each filled with a different pumpkin or gourd of varying sizes, colors, and textures, creating a festive autumn backdrop. A few loose pumpkins rest on the gravel ground directly in front of the rustic structure. Photograph read: The straight-on grid composition emphasizes the variety and symmetry of the display, rendered in natural daylight that highlights the warm earthy tones and textures of the gourds."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That straight-on grid turns a wall of crates into a harvest catalog - every crate a different color and texture, and the loose ones on the gravel keep it from feeling staged. Did you hunt for the oddest gourd in each crate, or did the display hand you that variety ready-made?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCu_yYjmQA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bendlesmaid269",
@@ -31,10 +54,32 @@
           "photos": [
             "Description: Three handmade crocheted orange pumpkins with brown stems sit on a wooden table, arranged from largest to smallest. In the background, a wooden bowl with painted jellyfish and several small ceramic bunny figurines add a cozy, decorative touch to the autumn scene. Photograph read: Shot from a high angle in soft, natural indoor light, the close-up composition highlights the rich textures of the yarn against the polished wood surface, creating a warm and homey mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That high angle does the yarn justice - the three pumpkins stepping down in size, and the soft indoor light catching every stitch against the polished wood. Did you crochet the whole trio in one sitting, or did they pile up over the season?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCvBKklFLI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bendlesmaid269",
+                  "text": "My friend crocheted them for me, ordered on the Monday, she had made them, by the Wednesday along with 4 Angel Christmas decorations and 3 Poppies She is so clever",
+                  "permalink": "https://www.threads.com/@bendlesmaid269/post/DfCxa_giti1",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "rositayarnold",
@@ -44,10 +89,21 @@
             "Description: A colorful painting of a rooster stands atop a wooden crate overflowing with an assortment of pumpkins and gourds of varying shapes, sizes, and colors, creating a rustic autumn display. Additional pumpkins spill out onto the lower surfaces against a translucent greenhouse backdrop. Photograph read: The vertically framed composition centers on the painted rooster against a soft, even light, conveying a warm and festive harvest mood.",
             "Description: A large, overflowing wooden bin is piled high with a colorful variety of pumpkins and gourds in shades of orange, yellow, and green. In the background, a painted wooden pumpkin face and a rustic building under an overcast sky create a festive autumn atmosphere suitable for a seasonal harvest post. Photograph read: The eye-level composition captures the rich textures and saturated colors of the gourds against the weathered wood, rendered in soft, diffuse daylight that creates a quiet, overcast mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The painted rooster stealing the top of the crate is a perfect gatekeeper - and then that overflowing bin, shot eye-level and piled high, delivers the harvest he is guarding. Which came first, the rooster painting or the pumpkin pile?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCvGGllfro",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "nanceharder81",
@@ -74,10 +130,21 @@
                   "text": "Freehand",
                   "permalink": "https://www.threads.com/@nanceharder81/post/DfCrwrQkSnS",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Freehand with edges that sharp is the flex - no stencil to blame, just a steady hand and a candle doing the lighting design. Do you sketch the face on the pumpkin first, or go straight in with the knife?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfCvIuKFGOi",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -186,10 +253,21 @@
                       "text": "Just a lookalike but then again Harper gets along with most dogs so could be family if they ever meet.",
                       "permalink": "https://www.threads.com/@mizgreenjeans/post/DfCsPR6oABS",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "Family in spirit, then - a dog who gets along with most dogs would probably claim the flower-crown pup as a cousin on sight. Does Harper greet every new dog like an old friend, or was this lookalike special?",
+                          "permalink": "https://www.threads.com/@saars.foto/post/DfCvHeBnHv5",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 },
@@ -261,7 +339,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tiffany.art2020",
+                  "text": "I grew these in my garden. No pre-arrangement\u2026just set aside after harvesting!",
+                  "permalink": "https://www.threads.com/@tiffany.art2020/post/DfCu0F7IM-Y",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         }
@@ -269,7 +358,7 @@
     },
     {
       "id": "18640966342017909",
-      "label": "read, photograph, description, composition",
+      "label": "read, photograph, description, angle",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 Three patterns that stopped my \u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 Three patterns that stopped my scroll. @kes_ward @funkygmacman @demidova_nadezda - beautiful work, all of you. Reel: https://www.instagram.com/reel/DfB2833j8hK/",
@@ -380,7 +469,7 @@
     },
     {
       "id": "18113737274272185",
-      "label": "read, photograph, description, composition",
+      "label": "read, photograph, description, angle",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -4182,20 +4271,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "18238804897319771",
-      "label": "read, photograph, description, composition",
-      "group": 0,
-      "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
-      "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
-      "permalink": "https://www.threads.com/@saars.foto/post/De4dgU3oFdP",
-      "photos": [
-        "Description: A pale, nearly full moon hangs low in a clear turquoise sky above a distant layer of clouds and the dark silhouettes of evergreen treetops. The daytime twilight ambiance suggests a peaceful evening transition or early morning moment suitable for nature appreciation. Photograph read: The minimalist composition relies on ample negative space in the sky to emphasize the solitary moon floating above the distant horizon.",
-        "Description: A vertically oriented shot captures the tops of autumn trees against a gradient blue sky, with warm sunlight catching the foliage in the lower half. The sparse composition leaves ample negative space above, suggesting a tranquil nature aesthetic. Photograph read: The sparse composition, illuminated by soft golden hour light, creates a tranquil and minimalistic mood against the vast blue sky."
-      ],
-      "reply_count": 0,
-      "replies": []
     }
   ],
   "edges": [
@@ -4206,10 +4281,6 @@
     {
       "from": "18119252560982332",
       "to": "18113737274272185"
-    },
-    {
-      "from": "18119252560982332",
-      "to": "18238804897319771"
     }
   ]
 }
