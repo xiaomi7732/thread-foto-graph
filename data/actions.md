@@ -6,20 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (52)
+## Needs Reply (53)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
+- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDOqWBgerJ))
+  - Photo: Description: A smiling woman stands in a kitchen behind a large carved pumpkin featuring skewers of cubed cheese and meat arranged to look like turkey feathers for an autumn party. Additional fall-themed snacks and decorative leaves sit nearby on the granite countertop. Photograph read: The medium shot is framed vertically in a home kitchen under bright indoor lighting, creating a warm, festive mood.
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
   - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
-- **ritaveeps**: A pumpkin up to no good vibes ([link](https://www.threads.com/@ritaveeps/post/DfDI7rfH7n2))
-  - _Replying to: That tight vertical crop is all attitude - the slanted eyes…_
 - **aimeeday5883**: Hubbard is my favorite winter squash - it keeps beautifully and has super dense, sweet, nutty flesh that works great for pies, soups, and straight eating. ([link](https://www.threads.com/@aimeeday5883/post/DfDDGbTD5w9))
   - _Replying to: Thanksgiving last year and it still reads fresh - that top-…_
+- **encinitasditka**: Right when I saw it, 6:30 am, sunrise was at 7…moon was giving off a lot of light ([link](https://www.threads.com/@encinitasditka/post/DfDNrhEgSlS))
+  - _Replying to: A survivor story beats a staged shot every time - that cent…_
+- **encinitasditka**:  ([link](https://www.threads.com/@encinitasditka/post/DfDN43lgUlQ))
+  - Photo: Description: A glowing full moon illuminates the night sky above a calm ocean, casting a bright reflection on the breaking waves of a sandy beach. This peaceful coastal night scene creates a serene backdrop for quiet midnight reflection. Photograph read: The vertical composition centers the luminous moon directly above a dark horizon, creating a cool, monochromatic color palette and a tranquil, contemplative mood.
+  - _Replying to: Right when I saw it, 6:30 am, sunrise was at 7…moon was giv…_
 - **jdicillo**: Halloween time only. It's usually a black curtain behind the musicians. ([link](https://www.threads.com/@jdicillo/post/DfC6sL-lp4T))
   - Photo: Description: A bearded male musician stands on a dimly lit stage, strumming an acoustic-electric guitar with a sunburst finish while wearing a dark t-shirt and jeans. In
   - _Replying to: A tavern stage decoration explains everything - that overhe…_
-- **khoojosie**: Just unexpected saw this wall of pumpkins and took a photo. ([link](https://www.threads.com/@khoojosie/post/DfDGmwCj6Jt))
-  - _Replying to: That tight crop turns a pumpkin pile into pure texture - th…_
 - **drbethie**: The gardens were outstanding but the pumpkins took center stage ([link](https://www.threads.com/@drbethie/post/DfC_LH8EdXL))
   - Photo: Description: Several lit jack-o'-lanterns featuring carved video game characters from the Super Mario series are arranged on wooden pallets and hay bales against an indoor wall. The display includes pumpkins carved to resemble Mario, a Shy Guy, a Boo, a brick block, and a Super Star, creating a festive scene for a Halloween or gaming-themed post. Photograph read: The shot utilizes soft ambient light to highlight the warm, orange glow emanating from the carved pumpkins, creating a cozy and playful mood centered on the rustic wooden textures.
   - _Replying to: Photo vignette is the perfect word for it - and knowing the…_
