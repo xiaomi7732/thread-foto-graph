@@ -15,6 +15,10 @@ on:
         description: "Override HARD_CUTOFF_DATE for this run only (ISO 8601, e.g. 2026-10-13T00:00:00Z; blank = use the repo variable/no cutoff)"
         required: false
         type: string
+      max_iterations:
+        description: "Override MAX_ITERATIONS for this run only (default: 3)"
+        required: false
+        type: string
 
 # Avoid two runs racing to commit/push at the same time.
 concurrency:
@@ -93,6 +97,7 @@ jobs:
           MAX_ROOT_THREADS: ${{ inputs.max_root_threads || vars.MAX_ROOT_THREADS }}
           MAX_VISION_REQUESTS_PER_RUN: ${{ vars.MAX_VISION_REQUESTS_PER_RUN || '1400' }}
           HARD_CUTOFF_DATE: ${{ inputs.hard_cutoff_date || vars.HARD_CUTOFF_DATE }}
+          MAX_ITERATIONS: ${{ inputs.max_iterations || vars.MAX_ITERATIONS || '3' }}
         run: python -m src.main
 
       # actions/cache@v4's combined restore+save action only saves via an
