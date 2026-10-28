@@ -4,13 +4,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (56)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDOqWBgerJ))
-  - Photo: Description: A smiling woman stands in a kitchen behind a large carved pumpkin featuring skewers of cubed cheese and meat arranged to look like turkey feathers for an autumn party. Additional fall-themed snacks and decorative leaves sit nearby on the granite countertop. Photograph read: The medium shot is framed vertically in a home kitchen under bright indoor lighting, creating a warm, festive mood.
+- **melisagogo**: Throwback to when my son was 3 at the most expensive pumpkin patch in Nebraska ([link](https://www.threads.com/@melisagogo/post/DfDZbn5oJJE))
+  - Photo: Description: A smiling young boy wearing a red baseball cap and a camouflage jacket poses among scattered pumpkins in a harvested field, making a classic autumn post. Photograph read: The subject is centered in a medium shot under bright, direct daylight, creating an upbeat and cheerful outdoor mood.
+- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfDXLj1mZyb))
+  - Photo: Description: A large pumpkin mosaic made from bright orange painted clam shells is arranged on sandy ground, surrounded by sea grass, several real orange pumpkins, and a small scarecrow figure. Photograph read: Captured from a high angle in bright daylight, the composition centers the shell mosaic amid natural coastal textures, creating a whimsical and cheerful seasonal mood.
+- **mapletreephotography_wpm**: Ask my wife, her party…😎❤️😎 ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDU0n-gbHY))
+  - _Replying to: That vertical medium frame is the move - the pumpkin gets t…_
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
   - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
+- **bojonvelvet2.0**: Old photo. I haven’t even bothered to get down my snoring witch this year. The drunk Russian bear in the corner is the base of an antique bar lamp that belonged to my grandfather. You can see it a little better in this old Xmas photo. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDaOwfko1P))
+  - Photo: Description: A sparse, makeshift pine branch with a single shiny red ornament stands on a wooden cross-base next to a vintage table lamp shaped like a bear leaning against a vodka bottle. The quirky, minimalist holiday decor sits on a wooden surface against a muted wall, creating an eccentric and humorous festive aesthetic. Photograph read: The tight composition features warm, directional light from the lamp that casts strong shadows, evoking a quirky and nostalgic mood.
+  - _Replying to: That overhead angle turns the whole table into a little sta…_
 - **aimeeday5883**: Hubbard is my favorite winter squash - it keeps beautifully and has super dense, sweet, nutty flesh that works great for pies, soups, and straight eating. ([link](https://www.threads.com/@aimeeday5883/post/DfDDGbTD5w9))
   - _Replying to: Thanksgiving last year and it still reads fresh - that top-…_
 - **encinitasditka**: Right when I saw it, 6:30 am, sunrise was at 7…moon was giving off a lot of light ([link](https://www.threads.com/@encinitasditka/post/DfDNrhEgSlS))
