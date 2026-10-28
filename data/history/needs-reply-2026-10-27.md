@@ -4,15 +4,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (19)
+## Needs Reply (23)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
-- **wang_fong_ya**: A quiet rhythm of windows, balconies, and shadows. I love finding beauty in the repetition of everyday architecture. 🤍📷 ([link](https://www.threads.com/@wang_fong_ya/post/DfBL5TOD8iW))
-  - Photo: Description: This sun-drenched, cream-colored Mediterranean building features symmetrical balconies, dark wrought-iron railings, and warm afternoon light casting long, geometric shadows against the facade. The calm, serene aesthetic evokes a relaxing vacation vibe perfect for a travel post. Photograph read: The symmetrical, head-on composition emphasizes architectural rhythm, while low-angle evening light creates a warm mood defined by high contrast and sharp shadows.
-- **pedro_berruecos**: State Farm Stadium Glendale, Az ([link](https://www.threads.com/@pedro_berruecos/post/DfBJ85blqZL))
-  - Photo: Description: A high-angle, black-and-white photograph captures rows upon rows of empty stadium seats stretching into the distance. The repetitive geometry and stark contrast create a minimalist look well-suited for architectural appreciation or a thoughtful post about anticipation and solitude. Photograph read: The high-contrast black-and-white tones and sweeping diagonal lines create an abstract, graphic composition that evokes a sense of stillness and scale.
-- **flannelsandphotos**: I tilted to get the texture without the additional details. This was the wall of a bathroom stall. ([link](https://www.threads.com/@flannelsandphotos/post/DfBJNcgEZPD))
-  - _Replying to: That steep diagonal is doing the work - the ovals march dow…_
+- **moniecerae**:  ([link](https://www.threads.com/@moniecerae/post/DfBSzWhGkfh))
+  - Photo: Description: A symmetrical, wide-angle interior view of a grand hotel or convention center lobby features a long hallway framed by ornate metallic structures with red panels and warm lamps. A large, circular floral installation sits in the center of the tiled floor beneath an expansive coffered ceiling. Photograph read: The symmetrical, wide-angle composition creates a strong sense of formal perspective, enhanced by even, warm lighting that emphasizes the grand architectural details and creates an inviting mood.
+- **craigkeepingbusy**: This pattern caught my eye in a geothermal stream in New Zealand. ([link](https://www.threads.com/@craigkeepingbusy/post/DfBOCzVG94i))
+  - Photo: Description: A close-up, high-angle view captures mineral-rich, terraced earth formations with rippling ridges and shallow pools of water. Sunlight glints off the wet edges of the shelves, creating an earthy and textured pattern suitable for an outdoor nature post. Photograph read: The top-down perspective emphasizes the flowing, organic lines of the mineral deposits, while harsh direct light creates stark highlights and deep shadows that enhance the rugged texture and warm, natural mood.
+- **mlb21153**:  ([link](https://www.threads.com/@mlb21153/post/DfBMkxtEfTB))
+  - Photo: Description: A harvested cornfield stretches across the foreground and midground, featuring neatly aligned rows of golden-brown stubble under a clear blue sky. In the background, a dense line of bare deciduous trees marks the edge of the field, suggesting a rural, late autumn landscape. Photograph read: The low-angle composition emphasizes the strong converging lines of the crop rows, creating a sense of depth under bright, even daylight.
+- **rawelementproductions**:  ([link](https://www.threads.com/@rawelementproductions/post/DfBMTbZFdx_))
+  - Photo: Description: A low-angle, black-and-white shot captures the exterior of a curved modernist building with stacked balconies and an exterior staircase zig-zagging up the right side. The plain, overcast sky above and the repetitive concrete forms evoke an urban architectural aesthetic. Photograph read: The vertical composition uses a dramatic low angle and stark monochrome contrast to emphasize the geometric repetition and imposing scale of the industrial balconies.
+- **wang_fong_ya**: Thank you so much! 🤍 The light caught my eye as I was walking by. I love those unexpected moments when light and architecture come together so beautifully. 📷✨ ([link](https://www.threads.com/@wang_fong_ya/post/DfBMuJQj2Xq))
+  - _Replying to: Shooting it head-on was the right call - the balconies and …_
+- **flannelsandphotos**: I wouldn't say that I hunt for it, but I keep an eye out for it. My Monochrome Monday post was actually all textures from a recent hike. ([link](https://www.threads.com/@flannelsandphotos/post/DfBNvB1EXWE))
+  - _Replying to: A bathroom stall wall - the tilt earned its keep, cropping …_
 - **fanahshapeless**:  ([link](https://www.threads.com/@fanahshapeless/post/DfBFvtKiFFM))
   - Photo: Description: Several colorful postcards and stickers featuring architectural designs of The Imperial Hotel are arranged artfully on a wooden tabletop. This flat lay highlights graphic art prints with a vibrant, mid-century modern aesthetic. Photograph read: Captured from directly above, the clean composition and soft, even lighting create a bright, organized, and inviting flat lay.
   - Photo: Description: A hand holds a colorful fan of art prints or postcards depicting iconic brutalist architecture, such as the Barbican Estate and National Theatre. The casual, indoors setting with framed artwork and trailing plants suggests a creative home or studio space, making this a great share for fans of design and city culture. Photograph read: Captured in soft, natural indoor light, the centered close-up shot highlights the vibrant colors and geometric designs of the cards against a warm, gallery-like background.
@@ -46,6 +52,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The chef's-plate comparison is perfect - finding symmetry i…_
 - **mike.matthews.37266**: I walk in the area occasionally ([link](https://www.threads.com/@mike.matthews.37266/post/DfBL3_vCTIQ))
   - _Replying to: A working dock explains everything - those braids are not d…_
+- **scott_parsons_art**: Super fun building to shoot ([link](https://www.threads.com/@scott_parsons_art/post/DfBO4-XGoqe))
+  - Photo: Description: A low-angle, black-and-white architectural shot looks up the twisting facade of a modern high-rise. The geometric balconies and layered windows create a striking, abstract pattern against the bright sky. Photograph read: The high-contrast monochromatic palette and upward diagonal composition create a dynamic, abstract mood that emphasizes the building's complex geometry.
+  - Photo: Description: A low-angle, vertical shot captures the striking facade of a modern skyscraper, featuring a dynamic pattern of offset, cantilevered balconies and large, dark windows. The monochromatic palette emphasizes the dizzying, staggered geometry of the building as it twists upward against a dark sky. Photograph read: The high-contrast black-and-white treatment accentuates the complex, repetitive geometry and creates a crisp, graphic mood.
+  - _Replying to: (photo reply, no text)_
 - **kes_ward**: You’re welcome. You’ll love it when you get there. ([link](https://www.threads.com/@kes_ward/post/DfAQ3BPjn7F))
   - _Replying to: Axel Towers - noted for the next Copenhagen wander. A build…_
 
