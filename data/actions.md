@@ -6,26 +6,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (54)
+## Needs Reply (52)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **ell_carpinelli**:  ([link](https://www.threads.com/@ell_carpinelli/post/DfDGZesmavH))
-  - Photo: Description: A tiny tortoise crawls across a wooden floor beside a small ceramic pumpkin and its matching lid. The scene has an autumnal feel, making it suitable for a seasonal pet post. Photograph read: The tight close-up and low-angle composition create an intimate, whimsical mood, enhanced by dramatic, directional lighting that carves the subjects out of deep shadow against the wooden surface.
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
   - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
-- **myteddybear724**:  ([link](https://www.threads.com/@myteddybear724/post/DfDDHGvmP42))
-  - Photo: Description: A carved jack-o'-lantern glows from within, featuring an intricate, asymmetrical face with deep-set eyes and a wide, jagged grin. The pumpkin sits isolated against a pitch-black background, creating a moody, quintessential Halloween scene. Photograph read: The tight framing centers the illuminated pumpkin against a dark background, where the warm, internal light casts strong shadows and highlights the carved details to create an eerie, festive mood.
-- **ritaveeps**:  ([link](https://www.threads.com/@ritaveeps/post/DfDCiKkGdiM))
-  - Photo: Description: A carved jack-o'-lantern with a stylized, grumpy face sits on a metallic surface, lit from within by a warm glow. The carving features exaggerated slanted eyes, a crooked mouth, and heavy black marker outlines, perfect for a spooky autumn post. Photograph read: The tight vertical framing focuses entirely on the illuminated pumpkin against a cool, dark background, creating a moody and festive atmosphere with high-contrast interior lighting.
-- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDAQ10GP4n))
-  - Photo: Description: An overhead shot captures a Halloween scene featuring a witch doll holding Esmerelda's Book of Spells, a small pumpkin, a bowl of candy corn, and a devil figurine on a wooden surface. The spooky tableau creates a festive holiday atmosphere suitable for seasonal sharing. Photograph read: The high-angle composition is unified by a heavy red wash of light, creating a dramatic, eerie mood with deep, shadowy textures across the rustic wooden backdrop.
+- **ritaveeps**: A pumpkin up to no good vibes ([link](https://www.threads.com/@ritaveeps/post/DfDI7rfH7n2))
+  - _Replying to: That tight vertical crop is all attitude - the slanted eyes…_
 - **aimeeday5883**: Hubbard is my favorite winter squash - it keeps beautifully and has super dense, sweet, nutty flesh that works great for pies, soups, and straight eating. ([link](https://www.threads.com/@aimeeday5883/post/DfDDGbTD5w9))
   - _Replying to: Thanksgiving last year and it still reads fresh - that top-…_
-- **encinitasditka**: He was there when I got there, which was before sunrise. Surprised pumpkin survived 4 am high tide as it was super high ([link](https://www.threads.com/@encinitasditka/post/DfDBEngD68_))
-  - _Replying to: Centering him against those flat bands of sand, surf, and s…_
 - **jdicillo**: Halloween time only. It's usually a black curtain behind the musicians. ([link](https://www.threads.com/@jdicillo/post/DfC6sL-lp4T))
   - Photo: Description: A bearded male musician stands on a dimly lit stage, strumming an acoustic-electric guitar with a sunburst finish while wearing a dark t-shirt and jeans. In
   - _Replying to: A tavern stage decoration explains everything - that overhe…_
+- **khoojosie**: Just unexpected saw this wall of pumpkins and took a photo. ([link](https://www.threads.com/@khoojosie/post/DfDGmwCj6Jt))
+  - _Replying to: That tight crop turns a pumpkin pile into pure texture - th…_
 - **drbethie**: The gardens were outstanding but the pumpkins took center stage ([link](https://www.threads.com/@drbethie/post/DfC_LH8EdXL))
   - Photo: Description: Several lit jack-o'-lanterns featuring carved video game characters from the Super Mario series are arranged on wooden pallets and hay bales against an indoor wall. The display includes pumpkins carved to resemble Mario, a Shy Guy, a Boo, a brick block, and a Super Star, creating a festive scene for a Halloween or gaming-themed post. Photograph read: The shot utilizes soft ambient light to highlight the warm, orange glow emanating from the carved pumpkins, creating a cozy and playful mood centered on the rustic wooden textures.
   - _Replying to: Photo vignette is the perfect word for it - and knowing the…_
@@ -46,6 +40,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Homegrown and just set aside after harvesting - that top-do…_
 
 ### Pattern Tuesday favorites 🏆 Three patterns that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DfB3FbdldSK))
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfDHRDHD_RF))
+  - Photo: Description: A low-angle, upward-facing shot captures the complex steel truss structure and large glass windows of a modern terminal or concourse. The symmetrical framework creates an architectural pattern against a bright, clear sky, with warm wooden ceiling panels framing the top corners. Photograph read: The symmetrical, low-angle composition emphasizes the strong geometric lines and industrial forms, lit by bright, even daylight that creates a clean and minimalist mood.
 - **remalysh**: Playing with Light ([link](https://www.threads.com/@remalysh/post/DfC5ujwGliU))
   - Photo: Description: Brightly colored light trails form a dynamic, swirling spiral pattern against a solid black background, creating a vibrant hypnotic effect ideal for a psychedelic art post. Photograph read: The long-exposure composition centers on concentric rings of saturated red, blue, and green dotted lights, producing an energetic and mesmerizing mood.
 - **kes_ward**: So far the straight up teardrop is my favourite. But that is a very good question… there are definitely more angles I haven’t caught yet. I do have some other images I captured from my time there but I have grown since then as a photographer. So I look forward to returning at some point in the future. ([link](https://www.threads.com/@kes_ward/post/DfDEStXjiHy))
