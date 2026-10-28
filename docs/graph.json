@@ -10,8 +10,44 @@
       "photos": [
         "Description: A large, brightly colored sign for Stocker Farms features a carved jack-o'-lantern flanked by ears of corn beneath a miniature roof, with a smaller hanging sign that reads \"WELCOME.\" The autumn-themed entrance sign stands against a pale, overcast sky. Photograph read: Shot from a low upward angle against a diffuse, overcast sky, the rustic sign is centrally framed to highlight its whimsical textures and autumn aesthetic."
       ],
-      "reply_count": 2,
+      "reply_count": 12,
       "replies": [
+        {
+          "username": "nanceharder81",
+          "text": "",
+          "permalink": "https://www.threads.com/@nanceharder81/post/DfCqwhxkTBI",
+          "photos": [
+            "Description: A carved jack-o'-lantern features the distinct mask design of the character Deadpool, complete with wide, angular eyes and a jagged smile. The illuminated pumpkin sits indoors, likely on a table, ready for Halloween festivities. Photograph read: The centered, medium close-up composition is lit brightly from within by a candle, casting a warm, glowing amber light that creates an eerie yet playful mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "janeannnorman",
+          "text": "",
+          "permalink": "https://www.threads.com/@janeannnorman/post/DfCqR2bDI7X",
+          "photos": [
+            "Description: A colorful turban squash hangs from a leafy vine in a garden, displaying a bright orange top half and a striped green and white base. The unique, whimsical gourd makes a fun subject for a late-summer harvest post. Photograph read: Direct sunlight illuminates the textured gourd against a soft-focus background of foliage, creating an organic and cheerful mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "consie18",
+          "text": "",
+          "permalink": "https://www.threads.com/@consie18/post/DfCpQwNnJmK",
+          "photos": [
+            "Description: A vintage red truck loaded with vibrant orange pumpkins and autumn flowers sits parked on a gravel drive against a backdrop of tall green trees and a bright blue sky. This rustic autumn scene is perfect for celebrating the fall harvest season. Photograph read: The wide-angle, eye-level composition captures the scene in crisp daylight, creating a cheerful, nostalgic mood with rich contrasts between the red truck, orange pumpkins, and blue sky."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "three_little_burdes",
           "text": "",
@@ -19,10 +55,79 @@
           "photos": [
             "Description: Two dogs dressed in Halloween costumes stand on a wooden deck next to a large orange pumpkin. One dog wears a colorful flower crown and sniffs the pumpkin's stem, while the other wears a bumblebee outfit and playfully bites the stem. Photograph read: Captured from a high angle in warm, natural daylight, this sharply focused shot highlights the playful interaction and textures of the dogs' costumes and the wooden planks."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Shooting from above turned the deck into a stage - both costumes read in one glance, and the pumpkin stem is clearly the shared prize. Who lasted longer in costume, the flower crown or the bee?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCp9BuG6Li",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
+            {
+              "username": "mizgreenjeans",
+              "text": "That doggo on the left looks an awful lot like our Harper Lee!",
+              "permalink": "https://www.threads.com/@mizgreenjeans/post/DfCov29IJO6",
+              "photos": [
+                "Description: A brown and white dog lounges comfortably on a textured green couch, resting its head against a blue-and-white patterned throw pillow. Its long body stretches across the cushions, paws relaxed while it gazes off to the side with a calm, cozy demeanor. Photograph read: The eye-level composition uses soft, natural lighting to create a warm, tranquil mood that highlights the relaxed textures of the couch and pillow."
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "three_little_burdes",
+                  "text": "Oh my gosh totally! We did her dna \ud83e\uddec & she\u2019s like 19 breeds \ud83d\ude02",
+                  "permalink": "https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "mizgreenjeans",
+                      "text": "",
+                      "permalink": "https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN",
+                      "photos": [
+                        "Description: A screenshot of a dog DNA breed summary for a mixed-breed puppy named Harper Lee, featuring a colorful pie chart, a small circular photo of the puppy, and a percentage breakdown of its heritage. Photograph read: The central circular portrait employs tight, centered composition and soft interior lighting to highlight the curious puppy against a neutral backdrop, creating a friendly and informative aesthetic suitable for social media sharing."
+                      ],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "three_little_burdes",
+                          "text": "Oh wow!!!",
+                          "permalink": "https://www.threads.com/@three_little_burdes/post/DfCpuBuliY8",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": [
+                            {
+                              "username": "mizgreenjeans",
+                              "text": "I admit I had never heard of a Treeing Walker Coonhound before in my life. I mean, coonhound sure. But not that specific one.",
+                              "permalink": "https://www.threads.com/@mizgreenjeans/post/DfCqymMoHV-",
+                              "photos": [],
+                              "needs_response": true,
+                              "action": "reply",
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tiffany.art2020",
@@ -31,10 +136,21 @@
           "photos": [
             "Description: Several vibrant orange pumpkins and one pale white gourd are clustered together, accented by dry corn husks for a classic autumn display. This cozy arrangement is ideal for a seasonal harvest or Thanksgiving-themed social media post. Photograph read: The tight top-down crop and directional light highlight the smooth textures and earthy orange tones of the pumpkins, creating a warm and rustic mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight top-down crop makes a harvest mosaic - and the one pale gourd in the middle of all that orange steals the whole frame. Did you build this arrangement, or did the patch hand it to you ready-made?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCqBoJG2f7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         }
       ]
     },
@@ -159,7 +275,7 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 330,
+      "reply_count": 333,
       "replies": [
         {
           "username": "nanceharder81",
@@ -168,10 +284,32 @@
           "photos": [
             "Description: A low-angle shot captures a wet, tiled urban sidewalk stretching into the distance beneath a line of structural pillars. The damp ground gleams with subtle reflections under overcast city lighting. Photograph read: The vertical composition uses strong leading lines from the tiled pathway to create a quiet, moody urban atmosphere defined by muted tones and wet-surface textures."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That low angle lets the wet tiles run forever - the pillars marching off and the damp gleam do all the mood work. Did the rain just pass, or did you catch it still deciding?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCqFKum5d5",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "nanceharder81",
+                  "text": "It was a very misty night in downtown Minneapolis",
+                  "permalink": "https://www.threads.com/@nanceharder81/post/DfCqeCYEfEf",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "susanrutledge",
@@ -182,10 +320,21 @@
             "Description: A daytime shot captures the Toronto skyline, featuring the CN Tower and nearby skyscrapers in the background behind a highway overpass supported by concrete pillars. In the foreground, calm water reflects the structure's supports, while a bird rests on floating debris near the rocky shore, and construction equipment operates in the lower left. Photograph read: The image is composed from a low-angle perspective across the water, utilizing soft daylight that casts gentle reflections on the surface and creates a calm, urban atmosphere.",
             "Description: A low-angle shot captures the sweeping, undulating balconies of a modern apartment building against a clear blue sky. The warm-toned facade and organic curves create a striking geometric pattern, complemented by leafy green trees visible at the base of the building. Photograph read: The dramatic low-angle composition emphasizes the rhythmic waves of the balconies, utilizing natural daylight to highlight the building's textures and create a clean, contemporary mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Centering the bridge lets the arches set the rhythm and the river doubles it in reflection - a pattern with a built-in repeat. Is this a hometown crossing or a travel find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfCqJpKm7zz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "benson_jpeg",

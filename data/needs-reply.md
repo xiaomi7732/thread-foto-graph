@@ -4,21 +4,29 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (39)
+## Needs Reply (43)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **three_little_burdes**:  ([link](https://www.threads.com/@three_little_burdes/post/DfCn2RhFk1S))
-  - Photo: Description: Two dogs dressed in Halloween costumes stand on a wooden deck next to a large orange pumpkin. One dog wears a colorful flower crown and sniffs the pumpkin's stem, while the other wears a bumblebee outfit and playfully bites the stem. Photograph read: Captured from a high angle in warm, natural daylight, this sharply focused shot highlights the playful interaction and textures of the dogs' costumes and the wooden planks.
-- **tiffany.art2020**:  ([link](https://www.threads.com/@tiffany.art2020/post/DfCmtbbIB1w))
-  - Photo: Description: Several vibrant orange pumpkins and one pale white gourd are clustered together, accented by dry corn husks for a classic autumn display. This cozy arrangement is ideal for a seasonal harvest or Thanksgiving-themed social media post. Photograph read: The tight top-down crop and directional light highlight the smooth textures and earthy orange tones of the pumpkins, creating a warm and rustic mood.
+- **nanceharder81**:  ([link](https://www.threads.com/@nanceharder81/post/DfCqwhxkTBI))
+  - Photo: Description: A carved jack-o'-lantern features the distinct mask design of the character Deadpool, complete with wide, angular eyes and a jagged smile. The illuminated pumpkin sits indoors, likely on a table, ready for Halloween festivities. Photograph read: The centered, medium close-up composition is lit brightly from within by a candle, casting a warm, glowing amber light that creates an eerie yet playful mood.
+- **janeannnorman**:  ([link](https://www.threads.com/@janeannnorman/post/DfCqR2bDI7X))
+  - Photo: Description: A colorful turban squash hangs from a leafy vine in a garden, displaying a bright orange top half and a striped green and white base. The unique, whimsical gourd makes a fun subject for a late-summer harvest post. Photograph read: Direct sunlight illuminates the textured gourd against a soft-focus background of foliage, creating an organic and cheerful mood.
+- **consie18**:  ([link](https://www.threads.com/@consie18/post/DfCpQwNnJmK))
+  - Photo: Description: A vintage red truck loaded with vibrant orange pumpkins and autumn flowers sits parked on a gravel drive against a backdrop of tall green trees and a bright blue sky. This rustic autumn scene is perfect for celebrating the fall harvest season. Photograph read: The wide-angle, eye-level composition captures the scene in crisp daylight, creating a cheerful, nostalgic mood with rich contrasts between the red truck, orange pumpkins, and blue sky.
+- **mizgreenjeans**: That doggo on the left looks an awful lot like our Harper Lee! ([link](https://www.threads.com/@mizgreenjeans/post/DfCov29IJO6))
+  - Photo: Description: A brown and white dog lounges comfortably on a textured green couch, resting its head against a blue-and-white patterned throw pillow. Its long body stretches across the cushions, paws relaxed while it gazes off to the side with a calm, cozy demeanor. Photograph read: The eye-level composition uses soft, natural lighting to create a warm, tranquil mood that highlights the relaxed textures of the couch and pillow.
+  - _Replying to: (photo reply, no text)_
+- **three_little_burdes**: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds 😂 ([link](https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u))
+  - _Replying to: That doggo on the left looks an awful lot like our Harper L…_
+- **mizgreenjeans**:  ([link](https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN))
+  - Photo: Description: A screenshot of a dog DNA breed summary for a mixed-breed puppy named Harper Lee, featuring a colorful pie chart, a small circular photo of the puppy, and a percentage breakdown of its heritage. Photograph read: The central circular portrait employs tight, centered composition and soft interior lighting to highlight the curious puppy against a neutral backdrop, creating a friendly and informative aesthetic suitable for social media sharing.
+  - _Replying to: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds…_
+- **mizgreenjeans**: I admit I had never heard of a Treeing Walker Coonhound before in my life. I mean, coonhound sure. But not that specific one. ([link](https://www.threads.com/@mizgreenjeans/post/DfCqymMoHV-))
+  - _Replying to: Oh wow!!!_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
-- **nanceharder81**:  ([link](https://www.threads.com/@nanceharder81/post/DfCm_mPkUgn))
-  - Photo: Description: A low-angle shot captures a wet, tiled urban sidewalk stretching into the distance beneath a line of structural pillars. The damp ground gleams with subtle reflections under overcast city lighting. Photograph read: The vertical composition uses strong leading lines from the tiled pathway to create a quiet, moody urban atmosphere defined by muted tones and wet-surface textures.
-- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DfCj5vqm8MH))
-  - Photo: Description: A multi-arched stone bridge spans across a calm river under a bright blue sky with wispy clouds, with traditional European buildings and a distant domed structure lining the banks. This peaceful daytime urban scene evokes a sense of travel and architectural exploration. Photograph read: The horizontal composition emphasizes the repeating rhythm of the bridge arches, captured in crisp daylight that casts clear reflections upon the still water below.
-  - Photo: Description: A daytime shot captures the Toronto skyline, featuring the CN Tower and nearby skyscrapers in the background behind a highway overpass supported by concrete pillars. In the foreground, calm water reflects the structure's supports, while a bird rests on floating debris near the rocky shore, and construction equipment operates in the lower left. Photograph read: The image is composed from a low-angle perspective across the water, utilizing soft daylight that casts gentle reflections on the surface and creates a calm, urban atmosphere.
-  - Photo: Description: A low-angle shot captures the sweeping, undulating balconies of a modern apartment building against a clear blue sky. The warm-toned facade and organic curves create a striking geometric pattern, complemented by leafy green trees visible at the base of the building. Photograph read: The dramatic low-angle composition emphasizes the rhythmic waves of the balconies, utilizing natural daylight to highlight the building's textures and create a clean, contemporary mood.
+- **nanceharder81**: It was a very misty night in downtown Minneapolis ([link](https://www.threads.com/@nanceharder81/post/DfCqeCYEfEf))
+  - _Replying to: That low angle lets the wet tiles run forever - the pillars…_
 - **benson_jpeg**:  ([link](https://www.threads.com/@benson_jpeg/post/DfCZ8Z6llmG))
   - Photo: Description: A low-angle shot captures the corner of a modern high-rise building with a grid-like concrete facade and recessed windows. The repetitive geometric pattern creates a stark, imposing urban canyon look, making it a great backdrop for architecture appreciation or a city-life post. Photograph read: The worm’s-eye view creates a dramatic upward convergence, emphasizing the monolithic scale and rigid geometry of the building under soft, even daylight.
 - **pycturesforyou**:  ([link](https://www.threads.com/@pycturesforyou/post/DfCV0RUiOOg))
