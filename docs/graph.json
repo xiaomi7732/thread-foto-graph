@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18113737274272185",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -10,8 +10,32 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 264,
+      "reply_count": 274,
       "replies": [
+        {
+          "username": "wang_fong_ya",
+          "text": "A quiet rhythm of windows, balconies, and shadows. I love finding beauty in the repetition of everyday architecture. \ud83e\udd0d\ud83d\udcf7",
+          "permalink": "https://www.threads.com/@wang_fong_ya/post/DfBL5TOD8iW",
+          "photos": [
+            "Description: This sun-drenched, cream-colored Mediterranean building features symmetrical balconies, dark wrought-iron railings, and warm afternoon light casting long, geometric shadows against the facade. The calm, serene aesthetic evokes a relaxing vacation vibe perfect for a travel post. Photograph read: The symmetrical, head-on composition emphasizes architectural rhythm, while low-angle evening light creates a warm mood defined by high contrast and sharp shadows."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "pedro_berruecos",
+          "text": "State Farm Stadium Glendale, Az",
+          "permalink": "https://www.threads.com/@pedro_berruecos/post/DfBJ85blqZL",
+          "photos": [
+            "Description: A high-angle, black-and-white photograph captures rows upon rows of empty stadium seats stretching into the distance. The repetitive geometry and stark contrast create a minimalist look well-suited for architectural appreciation or a thoughtful post about anticipation and solitude. Photograph read: The high-contrast black-and-white tones and sweeping diagonal lines create an abstract, graphic composition that evokes a sense of stillness and scale."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "flannelsandphotos",
           "text": "",
@@ -19,10 +43,32 @@
           "photos": [
             "Description: An extreme vertical close-up of a dark, perforated industrial surface that creates a striking geometric pattern. The repeating oval impressions recede into deep shadow toward the lower left, while bright light rakes across the upper right. Photograph read: The steep diagonal perspective and stark monochromatic contrast emphasize the rhythm of the repeating texture, generating a sleek, modern industrial mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That steep diagonal is doing the work - the ovals march down into shadow while the raking light holds the top edge, so the whole surface reads like a rhythm section. Did you tilt for the diagonal on purpose, or did the surface hand it to you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBI5qdEZDL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "flannelsandphotos",
+                  "text": "I tilted to get the texture without the additional details. This was the wall of a bathroom stall.",
+                  "permalink": "https://www.threads.com/@flannelsandphotos/post/DfBJNcgEZPD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "keltainentalorannalla",
@@ -31,10 +77,21 @@
           "photos": [
             "Description: A close-up overhead shot reveals a brown metal grate, its geometric grid outlined in delicate white frost crystals. The stark contrast between the warm brown surface and the cold white frost creates a striking seasonal texture ideal for a crisp winter morning update. Photograph read: The flat, even lighting emphasizes the sharp geometric pattern and tactile crystal textures across the tightly framed, repeating composition."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The flat overhead framing is the whole trick - the frost draws the grid for you, white crystals on warm brown, and nothing distracts from the geometry. Was this a frosty-morning find, or did you go out hunting for the cold to do its outlining?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBI7CWDYMb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fanahshapeless",
@@ -66,10 +123,20 @@
                   "text": "I have a print club where I celebrate brutalist architecture around London every month, so I usually make a walk and architecture hunt as joined adventure.:)",
                   "permalink": "https://www.threads.com/@fanahshapeless/post/DfBCzo3CI_H",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A print club plus a walk-and-hunt is a perfect pairing - the monthly ritual gives the wandering a reason, and the postcards turn the facades into something you can hold. The fan of prints with the Barbican and the National Theatre in it is a lovely shelf of a city. Which month's walk produced your favorite print so far?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfBI8YRnA1Z",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "fanahshapeless",
                       "text": "",
@@ -114,10 +181,21 @@
                   "text": "I\u2019m inclined to argue it was the grid that caught my eye.",
                   "permalink": "https://www.threads.com/@nate.b.88/post/DfBCOUujv_f",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Grid it is - and the straight-on framing lets it argue its own case, every window in its place and the warm light just keeping it from going flat. When the grid wins like this, do you find yourself hunting for more grids, or does the next facade have to earn it fresh?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfBI9w0llo7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -472,10 +550,32 @@
               "text": "Pretty much dead centre.",
               "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/DfA7HaNCDTH",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Dead centre was the right call - the palm trunks line up like columns and the trellis arches stack evenly overhead, no lean to fight. Centering a symmetrical shot like this looks easy and rarely is. Did you check the edges twice, or did it just fall into place?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfBI_LSHaiK",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "gnd_moments_in_paradise",
+                      "text": "As I recall it took an age to get what should have been a simple composition right.",
+                      "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/DfBJNBKCFrj",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -2266,7 +2366,18 @@
                   "needs_response": false,
                   "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "mike.matthews.37266",
+                      "text": "I walk in the area occasionally",
+                      "permalink": "https://www.threads.com/@mike.matthews.37266/post/DfBL3_vCTIQ",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -3020,7 +3131,7 @@
     },
     {
       "id": "18238804897319771",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
       "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
@@ -3034,7 +3145,7 @@
     },
     {
       "id": "18440202316176936",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scrol\u2026",
       "text": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scroll. @taiwanese726 @nickydaphotography @sam_photo_81 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De4RYl_idro/",
