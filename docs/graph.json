@@ -10,8 +10,32 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 301,
+      "reply_count": 308,
       "replies": [
+        {
+          "username": "shelldogg68",
+          "text": "Quebec City",
+          "permalink": "https://www.threads.com/@shelldogg68/post/DfBnMVtFb_r",
+          "photos": [
+            "Description: A lively cobblestone street is canopied by a colorful display of suspended umbrellas under a clear blue sky, flanked by historic European-style buildings and outdoor cafes. Pedestrians stroll along the walkway, casting distinct shadows on the ground below. Photograph read: Captured from a low-angle perspective, the high-contrast sunlight creates a cheerful mood with sharp umbrella shadows cast along the narrow passage."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lmk3.mama",
+          "text": "",
+          "permalink": "https://www.threads.com/@lmk3.mama/post/DfBk75gAZ7u",
+          "photos": [
+            "Description: A low-angle upward shot captures a dark brown wooden trellis supporting interwoven tree branches and lush green foliage, with a single trunk curving upward from a garden floor. In the background, a wire fence runs horizontally across the scene amidst low-lying green plants and sparse trees. Photograph read: The symmetrical grid of the overhead trellis creates strong geometric lines that frame the organic, twisting branches and foliage above, while bright, diffused daylight filters through the canopy to create an airy mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jeffkurvink",
           "text": "",
@@ -19,10 +43,32 @@
           "photos": [
             "Description: A daytime cityscape view of Los Angeles features several prominent skyscrapers rising behind a brightly colored, striped parking structure and a vintage-style lamppost. The clear blue sky dominates the upper portion of the frame, providing an airy backdrop for an urban snapshot. Photograph read: The low-angle composition frames the prominent vertical striped pattern of the parking structure directly against the taller skyscrapers, captured in bright midday sunlight that creates a clean, graphic mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That low angle does the work - the striped parking deck stacks up against the towers behind it, and the lamppost gives the whole frame a foreground anchor. Were you standing right under the deck for this, or did you step back to fit the towers in too?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBg8j1kdTK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "jeffkurvink",
+                  "text": "Street level about a block away. Downtown Los Angeles .",
+                  "permalink": "https://www.threads.com/@jeffkurvink/post/DfBm_ToFA0s",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "highlanddesignsbydeb",
@@ -49,10 +95,21 @@
                   "text": "This is taken inside the music hall. There is a massive staircase to the left and the right faces the street. I\u2019m not a professional photographer, but I wanted to capture this wall. It took my breath away.",
                   "permalink": "https://www.threads.com/@highlanddesignsbydeb/post/DfBalFckcJy",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Inside the music hall changes everything - a staircase on one side, the street on the other, and that wall still stealing the whole frame. No wonder it took your breath away. Did you go back for a second look, or did one shot settle it?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfBg-JFlQFH",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -77,7 +134,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kennethekelov",
+                  "text": "I did go for the pattern. It's a logo for our comuter trains/busses",
+                  "permalink": "https://www.threads.com/@kennethekelov/post/DfBipCtiLZC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3376,7 +3444,20 @@
                               "needs_response": false,
                               "action": null,
                               "hidden": false,
-                              "replies": []
+                              "replies": [
+                                {
+                                  "username": "akmaleky",
+                                  "text": "Wider shot",
+                                  "permalink": "https://www.threads.com/@akmaleky/post/DfBiUIXml_S",
+                                  "photos": [
+                                    "Description: A modern outdoor patio features a black metal staircase on the left, a textured concrete block wall, and a pebble-covered ground, all viewed from beneath a sloped metal roof. In the foreground on the right, the thick, textured trunk of a tree and vibrant green plants anchor the frame, while distant buildings and greenery are visible beyond the patio barrier. Photograph read: The framing utilizes strong vertical and diagonal architectural lines to create depth, captured in bright, natural daylight that casts soft shadows across the gravel and foliage."
+                                  ],
+                                  "needs_response": true,
+                                  "action": "reply",
+                                  "hidden": false,
+                                  "replies": []
+                                }
+                              ]
                             }
                           ]
                         }

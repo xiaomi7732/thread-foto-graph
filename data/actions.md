@@ -6,13 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (23)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
-- **jeffkurvink**:  ([link](https://www.threads.com/@jeffkurvink/post/DfBfZazFLdR))
-  - Photo: Description: A daytime cityscape view of Los Angeles features several prominent skyscrapers rising behind a brightly colored, striped parking structure and a vintage-style lamppost. The clear blue sky dominates the upper portion of the frame, providing an airy backdrop for an urban snapshot. Photograph read: The low-angle composition frames the prominent vertical striped pattern of the parking structure directly against the taller skyscrapers, captured in bright midday sunlight that creates a clean, graphic mood.
-- **highlanddesignsbydeb**: This is taken inside the music hall. There is a massive staircase to the left and the right faces the street. I’m not a professional photographer, but I wanted to capture this wall. It took my breath away. ([link](https://www.threads.com/@highlanddesignsbydeb/post/DfBalFckcJy))
-  - _Replying to: Looking straight up was the move - the hexagons stack into …_
+- **shelldogg68**: Quebec City ([link](https://www.threads.com/@shelldogg68/post/DfBnMVtFb_r))
+  - Photo: Description: A lively cobblestone street is canopied by a colorful display of suspended umbrellas under a clear blue sky, flanked by historic European-style buildings and outdoor cafes. Pedestrians stroll along the walkway, casting distinct shadows on the ground below. Photograph read: Captured from a low-angle perspective, the high-contrast sunlight creates a cheerful mood with sharp umbrella shadows cast along the narrow passage.
+- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/DfBk75gAZ7u))
+  - Photo: Description: A low-angle upward shot captures a dark brown wooden trellis supporting interwoven tree branches and lush green foliage, with a single trunk curving upward from a garden floor. In the background, a wire fence runs horizontally across the scene amidst low-lying green plants and sparse trees. Photograph read: The symmetrical grid of the overhead trellis creates strong geometric lines that frame the organic, twisting branches and foliage above, while bright, diffused daylight filters through the canopy to create an airy mood.
+- **jeffkurvink**: Street level about a block away. Downtown Los Angeles . ([link](https://www.threads.com/@jeffkurvink/post/DfBm_ToFA0s))
+  - _Replying to: That low angle does the work - the striped parking deck sta…_
+- **kennethekelov**: I did go for the pattern. It's a logo for our comuter trains/busses ([link](https://www.threads.com/@kennethekelov/post/DfBipCtiLZC))
+  - _Replying to: That high angle turns pavement into a graphic - the grate o…_
 - **flannelsandphotos**: I wouldn't say that I hunt for it, but I keep an eye out for it. My Monochrome Monday post was actually all textures from a recent hike. ([link](https://www.threads.com/@flannelsandphotos/post/DfBNvB1EXWE))
   - _Replying to: A bathroom stall wall - the tilt earned its keep, cropping …_
 - **fanahshapeless**:  ([link](https://www.threads.com/@fanahshapeless/post/DfBFvtKiFFM))
@@ -52,6 +56,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Both is the honest answer - and the twist proves it, those …_
 - **kes_ward**: You’re welcome. You’ll love it when you get there. ([link](https://www.threads.com/@kes_ward/post/DfAQ3BPjn7F))
   - _Replying to: Axel Towers - noted for the next Copenhagen wander. A build…_
+- **akmaleky**: Wider shot ([link](https://www.threads.com/@akmaleky/post/DfBiUIXml_S))
+  - Photo: Description: A modern outdoor patio features a black metal staircase on the left, a textured concrete block wall, and a pebble-covered ground, all viewed from beneath a sloped metal roof. In the foreground on the right, the thick, textured trunk of a tree and vibrant green plants anchor the frame, while distant buildings and greenery are visible beyond the patio barrier. Photograph read: The framing utilizes strong vertical and diagonal architectural lines to create depth, captured in bright, natural daylight that casts soft shadows across the gravel and foliage.
+  - _Replying to: Always a pleasure - a coffee joint that photogenic deserves…_
 
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
