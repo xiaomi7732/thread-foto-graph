@@ -10,7 +10,7 @@
       "photos": [
         "Description: A large, brightly colored sign for Stocker Farms features a carved jack-o'-lantern flanked by ears of corn beneath a miniature roof, with a smaller hanging sign that reads \"WELCOME.\" The autumn-themed entrance sign stands against a pale, overcast sky. Photograph read: Shot from a low upward angle against a diffuse, overcast sky, the rustic sign is centrally framed to highlight its whimsical textures and autumn aesthetic."
       ],
-      "reply_count": 61,
+      "reply_count": 65,
       "replies": [
         {
           "username": "beckiefitzgerald",
@@ -20,10 +20,21 @@
             "Description: A vibrant cluster of ripe orange pumpkins fills the frame, showcasing varied shapes and textures ideal for a fall harvest social media post. Photograph read: Soft overhead lighting highlights the rich textures and organic contours of the pumpkins, creating a warm, autumnal mood with a tight, full-frame composition.",
             "Description: A vibrant assortment of autumn produce, including bright orange pumpkins, uniquely patterned green gourds, and rows of budding yellow mums, is arranged vertically on a rustic wooden display. Lush green evergreens and textured foliage frame the arrangement, evoking a festive harvest market scene. Photograph read: Captured from a high angle, the vertical composition uses a natural color palette and even, diffused lighting to create a warm, inviting autumnal mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight full-frame crop on the first shot is the move - the pumpkins fill every corner so the eye just wanders the textures, and then the high angle on the market display pulls back to show the whole harvest. Was this a farm stand you visit every fall, or a lucky find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfC9A9AmiDa",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "aimeeday5883",
@@ -32,10 +43,32 @@
           "photos": [
             "Description: Two freshly baked pumpkin pies rest side-by-side on a fall-themed tablecloth decorated with autumn leaves. The warm, orange custard fillings and fluted crusts evoke a cozy holiday baking vibe. Photograph read: Captured from a top-down angle in soft, even lighting, the warm color palette creates an inviting, seasonal mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Top-down was the right call - both pies read in one glance, fluted crusts and all, and that leaf tablecloth does the seasonal styling for you. Are these headed straight to a table tonight, or did one get sacrificed to a taste test first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfC9FzKGKv_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "aimeeday5883",
+                  "text": "It\u2019s actually from Thanksgiving last year, and if I remember right it was a Hubbard squash but that\u2019s just a blue pumpkin :)",
+                  "permalink": "https://www.threads.com/@aimeeday5883/post/DfC-trFmEs-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lehmann7882",
@@ -291,7 +324,20 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "drbethie",
+                          "text": "The gardens were outstanding but the pumpkins took center stage",
+                          "permalink": "https://www.threads.com/@drbethie/post/DfC_LH8EdXL",
+                          "photos": [
+                            "Description: Several lit jack-o'-lanterns featuring carved video game characters from the Super Mario series are arranged on wooden pallets and hay bales against an indoor wall. The display includes pumpkins carved to resemble Mario, a Shy Guy, a Boo, a brick block, and a Super Star, creating a festive scene for a Halloween or gaming-themed post. Photograph read: The shot utilizes soft ambient light to highlight the warm, orange glow emanating from the carved pumpkins, creating a cozy and playful mood centered on the rustic wooden textures."
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
