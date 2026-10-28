@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18113737274272185",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -10,8 +10,20 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 294,
+      "reply_count": 301,
       "replies": [
+        {
+          "username": "jeffkurvink",
+          "text": "",
+          "permalink": "https://www.threads.com/@jeffkurvink/post/DfBfZazFLdR",
+          "photos": [
+            "Description: A daytime cityscape view of Los Angeles features several prominent skyscrapers rising behind a brightly colored, striped parking structure and a vintage-style lamppost. The clear blue sky dominates the upper portion of the frame, providing an airy backdrop for an urban snapshot. Photograph read: The low-angle composition frames the prominent vertical striped pattern of the parking structure directly against the taller skyscrapers, captured in bright midday sunlight that creates a clean, graphic mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "highlanddesignsbydeb",
           "text": "Not today, but one of the most stunning examples of pattern in architecture I\u2019ve seen. Reykjavik, Iceland.",
@@ -19,10 +31,32 @@
           "photos": [
             "Description: A tall, multi-story wall of geometric, hexagonal glass windows dominates an interior space, with three small figures standing at the base for scale. The architecture suggests a modern cultural center or concert hall, with a few stained glass panels adding subtle bursts of color among the grays and whites. Photograph read: The upward-looking vertical composition emphasizes the dramatic scale and repetitive pattern of the hexagonal facade, while diffuse natural light creates an even, contemplative mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Looking straight up was the move - the hexagons stack into a wall of glass and those three tiny figures at the base hand the whole facade its scale. Did you tilt up to lose the street, or did the interior leave you no other angle?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBaPPWjP9I",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "highlanddesignsbydeb",
+                  "text": "This is taken inside the music hall. There is a massive staircase to the left and the right faces the street. I\u2019m not a professional photographer, but I wanted to capture this wall. It took my breath away.",
+                  "permalink": "https://www.threads.com/@highlanddesignsbydeb/post/DfBalFckcJy",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "kennethekelov",
@@ -31,10 +65,21 @@
           "photos": [
             "Description: This high-angle, vertical shot shows a paved walkway with a metal drainage grate on the left and a glass structure on the right. Strong sunlight casts sharp geometric shadows across the concrete tiles, creating a stark contrast of light and dark. Photograph read: The composition uses strong diagonal lines and high-contrast, directional light to create a graphic, minimalist mood emphasizing abstract shadow patterns on urban pavement."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That high angle turns pavement into a graphic - the grate on one side, the glass on the other, and hard sun drawing sharp geometry across the tiles. Were you up above hunting the shadows, or did the pattern catch you mid-walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBaQ1DjFzK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "moniecerae",
@@ -107,10 +152,21 @@
                   "text": "I'm short, so this is standing on the edge of the field.",
                   "permalink": "https://www.threads.com/@mlb21153/post/DfBTlC7kfbr",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The field edge did the work then - low enough for the rows to converge, high enough to keep the whole diagram in frame. Do you shoot a lot from the edge like this, or was the stubble too good to walk past?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfBaSU9ERGO",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3053,10 +3109,32 @@
                       "text": "Both. It also exaggerated the twist.",
                       "permalink": "https://www.threads.com/@scott_parsons_art/post/DfBXREwmyZa",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "Both is the honest answer - and the twist proves it, those balconies lean harder from straight underneath than from anywhere else. Is this one you keep coming back to, or did the one angle settle it?",
+                          "permalink": "https://www.threads.com/@saars.foto/post/DfBaTuhjqRC",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": [
+                            {
+                              "username": "scott_parsons_art",
+                              "text": "It's all about the angle.",
+                              "permalink": "https://www.threads.com/@scott_parsons_art/post/DfBadLvG4c2",
+                              "photos": [],
+                              "needs_response": true,
+                              "action": "reply",
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -3359,7 +3437,7 @@
     },
     {
       "id": "18238804897319771",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
       "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
@@ -3373,7 +3451,7 @@
     },
     {
       "id": "18440202316176936",
-      "label": "read, photograph, description, sky",
+      "label": "photograph, read, description, sky",
       "group": 0,
       "snippet": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scrol\u2026",
       "text": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scroll. @taiwanese726 @nickydaphotography @sam_photo_81 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De4RYl_idro/",

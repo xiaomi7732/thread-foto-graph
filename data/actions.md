@@ -6,15 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (20)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
-- **highlanddesignsbydeb**: Not today, but one of the most stunning examples of pattern in architecture I’ve seen. Reykjavik, Iceland. ([link](https://www.threads.com/@highlanddesignsbydeb/post/DfBZUCtERDs))
-  - Photo: Description: A tall, multi-story wall of geometric, hexagonal glass windows dominates an interior space, with three small figures standing at the base for scale. The architecture suggests a modern cultural center or concert hall, with a few stained glass panels adding subtle bursts of color among the grays and whites. Photograph read: The upward-looking vertical composition emphasizes the dramatic scale and repetitive pattern of the hexagonal facade, while diffuse natural light creates an even, contemplative mood.
-- **kennethekelov**:  ([link](https://www.threads.com/@kennethekelov/post/DfBTYbkCAkw))
-  - Photo: Description: This high-angle, vertical shot shows a paved walkway with a metal drainage grate on the left and a glass structure on the right. Strong sunlight casts sharp geometric shadows across the concrete tiles, creating a stark contrast of light and dark. Photograph read: The composition uses strong diagonal lines and high-contrast, directional light to create a graphic, minimalist mood emphasizing abstract shadow patterns on urban pavement.
-- **mlb21153**: I'm short, so this is standing on the edge of the field. ([link](https://www.threads.com/@mlb21153/post/DfBTlC7kfbr))
-  - _Replying to: That low angle turns stubble into a diagram - the rows conv…_
+- **jeffkurvink**:  ([link](https://www.threads.com/@jeffkurvink/post/DfBfZazFLdR))
+  - Photo: Description: A daytime cityscape view of Los Angeles features several prominent skyscrapers rising behind a brightly colored, striped parking structure and a vintage-style lamppost. The clear blue sky dominates the upper portion of the frame, providing an airy backdrop for an urban snapshot. Photograph read: The low-angle composition frames the prominent vertical striped pattern of the parking structure directly against the taller skyscrapers, captured in bright midday sunlight that creates a clean, graphic mood.
+- **highlanddesignsbydeb**: This is taken inside the music hall. There is a massive staircase to the left and the right faces the street. I’m not a professional photographer, but I wanted to capture this wall. It took my breath away. ([link](https://www.threads.com/@highlanddesignsbydeb/post/DfBalFckcJy))
+  - _Replying to: Looking straight up was the move - the hexagons stack into …_
 - **flannelsandphotos**: I wouldn't say that I hunt for it, but I keep an eye out for it. My Monochrome Monday post was actually all textures from a recent hike. ([link](https://www.threads.com/@flannelsandphotos/post/DfBNvB1EXWE))
   - _Replying to: A bathroom stall wall - the tilt earned its keep, cropping …_
 - **fanahshapeless**:  ([link](https://www.threads.com/@fanahshapeless/post/DfBFvtKiFFM))
@@ -50,8 +48,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The chef's-plate comparison is perfect - finding symmetry i…_
 - **mike.matthews.37266**: I walk in the area occasionally ([link](https://www.threads.com/@mike.matthews.37266/post/DfBL3_vCTIQ))
   - _Replying to: A working dock explains everything - those braids are not d…_
-- **scott_parsons_art**: Both. It also exaggerated the twist. ([link](https://www.threads.com/@scott_parsons_art/post/DfBXREwmyZa))
-  - _Replying to: Shooting straight up in black and white is the bold call - …_
+- **scott_parsons_art**: It's all about the angle. ([link](https://www.threads.com/@scott_parsons_art/post/DfBadLvG4c2))
+  - _Replying to: Both is the honest answer - and the twist proves it, those …_
 - **kes_ward**: You’re welcome. You’ll love it when you get there. ([link](https://www.threads.com/@kes_ward/post/DfAQ3BPjn7F))
   - _Replying to: Axel Towers - noted for the next Copenhagen wander. A build…_
 
