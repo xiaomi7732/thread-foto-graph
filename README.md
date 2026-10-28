@@ -114,6 +114,11 @@ Outputs (smallest/most-frequent read first):
    the per-thread archives + `graph.json` (`src/topic_graph.py`). Reply/thread text is
    written in full (not truncated) wherever it's shown, since the whole
    point is to replace images, not compress text.
+4. If a pass finds uncached photos to recognize, fetch the threads again and
+   repeat the recognition pass, up to `MAX_ITERATIONS` times (3 by default).
+   This catches images posted while a slower recognition pass was running;
+   the loop stops when no new uncached photo is found. The vision request
+   budget is shared across all passes.
 
 ### Flat action lists (what to point Muse at day-to-day)
 
@@ -289,12 +294,13 @@ hosted runners and commits/pushes any changes itself.
    sensitive on its own:
    - `THREADS_USERNAME` (required — no default).
    - `GEMINI_MODEL`, `LOOKBACK_DAYS`, `MAX_ROOT_THREADS`,
-     `MAX_VISION_REQUESTS_PER_RUN`, `HARD_CUTOFF_DATE` — all optional, same
+     `MAX_VISION_REQUESTS_PER_RUN`, `HARD_CUTOFF_DATE`, `MAX_ITERATIONS` — all optional, same
      defaults as `src/config.py` if left unset.
 3. Start a run with **Actions → Update Thread Topic Graph → Run workflow**.
    You can optionally override `lookback_days`/`max_root_threads`/
-   `hard_cutoff_date` for that run only (handy for testing, or for pushing
-   out a new cutoff immediately, without touching the repo variables).
+   `hard_cutoff_date`/`max_iterations` for that run only (handy for testing,
+   or for pushing out a new cutoff immediately, without touching the repo
+   variables).
 
 The workflow runs only when manually triggered; it has no scheduled trigger.
 Its `concurrency:` group prevents overlapping runs from racing to commit and

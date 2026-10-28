@@ -20,17 +20,6 @@ def main() -> int:
     config.require("THREADS_USERNAME", config.THREADS_USERNAME)
     config.require("GEMINI_API_KEY", config.GEMINI_API_KEY)
 
-    scope = (
-        f"last {config.LOOKBACK_DAYS} day(s)"
-        if config.MAX_ROOT_THREADS is None
-        else f"last {config.LOOKBACK_DAYS} day(s), capped to {config.MAX_ROOT_THREADS} post(s)"
-    )
-    print(f"Fetching threads ({scope})...", flush=True)
-    threads = threads_client.collect_threads_with_replies(
-        config.LOOKBACK_DAYS, config.MAX_ROOT_THREADS
-    )
-    print(f"Found {len(threads)} root thread(s).", flush=True)
-
     cache = load_cache()
     requests_made = 0
     budget = config.MAX_VISION_REQUESTS_PER_RUN
@@ -52,95 +41,143 @@ def main() -> int:
     consecutive_failures = 0
     consecutive_image_fetch_failures = 0
     consecutive_non_retryable_failures = 0
+    attempted_media_ids = {}
     budget_exhausted_announced = False
+    seen_uncached_photo_ids = set()
 
-    def persist_progress():
-        # Flush to disk after every single new description, so a slow or
-        # interrupted run never has to re-describe an already-processed photo.
-        save_cache(cache)
+    scope = (
+        f"last {config.LOOKBACK_DAYS} day(s)"
+        if config.MAX_ROOT_THREADS is None
+        else f"last {config.LOOKBACK_DAYS} day(s), capped to {config.MAX_ROOT_THREADS} post(s)"
+    )
 
-    for i, thread in enumerate(threads, start=1):
-        # Root post photo (vision.describe_images expects a list of media items)
-        (
-            made,
-            stop_calls,
-            consecutive_failures,
-            consecutive_image_fetch_failures,
-            consecutive_non_retryable_failures,
-        ) = vision.describe_images(
-            [thread],
-            cache,
-            budget - requests_made,
-            persist_progress,
-            stop_calls,
-            consecutive_failures,
-            consecutive_image_fetch_failures,
-            consecutive_non_retryable_failures,
-        )
-        requests_made += made
-        # Walk the full nested reply tree (not just top-level replies) so
-        # every reply-to-a-reply photo gets described too. Newest-first, so
-        # a budget/quota-limited run spends its vision requests on the most
-        # recent activity (what's actually actionable soon) instead of
-        # working through the backlog in arrival order and never reaching
-        # the latest replies. Parsed to real datetimes (not raw string
-        # comparison) since ISO 8601 strings don't sort correctly across
-        # differing UTC offsets.
-        def _reply_sort_key(reply: dict) -> dt.datetime:
-            raw = reply.get("timestamp")
-            if not raw:
-                return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
-            try:
-                return threads_client.parse_timestamp(raw)
-            except ValueError:
-                return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
+    for iteration in range(1, config.MAX_ITERATIONS + 1):
+        cache_at_iteration_start = dict(cache)
+        new_recognition_needed = False
 
-        all_replies = sorted(
-            threads_client.iter_replies(thread.get("replies", [])),
-            key=_reply_sort_key,
-            reverse=True,
-        )
-        (
-            made,
-            stop_calls,
-            consecutive_failures,
-            consecutive_image_fetch_failures,
-            consecutive_non_retryable_failures,
-        ) = vision.describe_images(
-            all_replies,
-            cache,
-            budget - requests_made,
-            persist_progress,
-            stop_calls,
-            consecutive_failures,
-            consecutive_image_fetch_failures,
-            consecutive_non_retryable_failures,
-        )
-        requests_made += made
+        def find_new_uncached_photos(items):
+            nonlocal new_recognition_needed
+            for item in items:
+                for photo in threads_client.photo_items(item):
+                    media_id = photo["id"]
+                    if media_id not in cache and media_id not in seen_uncached_photo_ids:
+                        seen_uncached_photo_ids.add(media_id)
+                        new_recognition_needed = True
+
         print(
-            f"[{i}/{len(threads)}] thread {thread['id']}: "
-            f"{len(all_replies)} replies processed "
-            f"({requests_made} vision requests so far)",
+            f"Iteration {iteration}/{config.MAX_ITERATIONS}: fetching threads ({scope})...",
             flush=True,
         )
-        if requests_made >= budget and not budget_exhausted_announced:
+        threads = threads_client.collect_threads_with_replies(
+            config.LOOKBACK_DAYS, config.MAX_ROOT_THREADS
+        )
+        print(f"Found {len(threads)} root thread(s).", flush=True)
+
+        def persist_progress():
+            # Flush to disk after every single new description, so a slow or
+            # interrupted run never has to re-describe an already-processed photo.
+            save_cache(cache)
+
+        for i, thread in enumerate(threads, start=1):
+            # Root post photo (vision.describe_images expects a list of media items)
+            find_new_uncached_photos([thread])
+            (
+                made,
+                stop_calls,
+                consecutive_failures,
+                consecutive_image_fetch_failures,
+                consecutive_non_retryable_failures,
+            ) = vision.describe_images(
+                [thread],
+                cache,
+                budget - requests_made,
+                persist_progress,
+                stop_calls,
+                consecutive_failures,
+                consecutive_image_fetch_failures,
+                consecutive_non_retryable_failures,
+                attempted_media_ids=attempted_media_ids,
+            )
+            requests_made += made
+            # Walk the full nested reply tree (not just top-level replies) so
+            # every reply-to-a-reply photo gets described too. Newest-first, so
+            # a budget/quota-limited run spends its vision requests on the most
+            # recent activity (what's actually actionable soon) instead of
+            # working through the backlog in arrival order and never reaching
+            # the latest replies. Parsed to real datetimes (not raw string
+            # comparison) since ISO 8601 strings don't sort correctly across
+            # differing UTC offsets.
+            def _reply_sort_key(reply: dict) -> dt.datetime:
+                raw = reply.get("timestamp")
+                if not raw:
+                    return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
+                try:
+                    return threads_client.parse_timestamp(raw)
+                except ValueError:
+                    return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
+
+            all_replies = sorted(
+                threads_client.iter_replies(thread.get("replies", [])),
+                key=_reply_sort_key,
+                reverse=True,
+            )
+            find_new_uncached_photos(all_replies)
+            (
+                made,
+                stop_calls,
+                consecutive_failures,
+                consecutive_image_fetch_failures,
+                consecutive_non_retryable_failures,
+            ) = vision.describe_images(
+                all_replies,
+                cache,
+                budget - requests_made,
+                persist_progress,
+                stop_calls,
+                consecutive_failures,
+                consecutive_image_fetch_failures,
+                consecutive_non_retryable_failures,
+                attempted_media_ids=attempted_media_ids,
+            )
+            requests_made += made
             print(
-                "Vision request budget exhausted for this run; remaining photos "
-                "will be described on the next scheduled run.",
+                f"[{i}/{len(threads)}] thread {thread['id']}: "
+                f"{len(all_replies)} replies processed "
+                f"({requests_made} vision requests so far)",
                 flush=True,
             )
-            budget_exhausted_announced = True
-        # Deliberately do NOT break when the budget is exhausted or
-        # stop_calls is True: describe_images() must still be called for
-        # every remaining thread so photo_descriptions gets set (even if
-        # only to pending placeholders) -- otherwise topic_graph.py would
-        # see a *missing* key for unvisited threads (which it treats as "no
-        # photos at all", not "pending"), silently dropping their photos
-        # and misfiling photo replies into needs-like.md. Once either
-        # condition holds, each remaining describe_images() call is a cheap
-        # no-network walk (see vision.py), so looping on is fine.
+            if requests_made >= budget and not budget_exhausted_announced:
+                print(
+                    "Vision request budget exhausted for this run; remaining photos "
+                    "will be described on the next scheduled run.",
+                    flush=True,
+                )
+                budget_exhausted_announced = True
+            # Deliberately do NOT break when the budget is exhausted or
+            # stop_calls is True: describe_images() must still be called for
+            # every remaining thread so photo_descriptions gets set (even if
+            # only to pending placeholders) -- otherwise topic_graph.py would
+            # see a *missing* key for unvisited threads (which it treats as "no
+            # photos at all", not "pending"), silently dropping their photos
+            # and misfiling photo replies into needs-like.md. Once either
+            # condition holds, each remaining describe_images() call is a cheap
+            # no-network walk (see vision.py), so looping on is fine.
 
-    save_cache(cache)
+        save_cache(cache)
+        if cache != cache_at_iteration_start:
+            new_recognition_needed = True
+        if not new_recognition_needed:
+            print("No new image recognition needed; stopping.", flush=True)
+            break
+        if iteration < config.MAX_ITERATIONS:
+            print("New image recognition work found; fetching again for new photos.", flush=True)
+        else:
+            print(
+                f"Reached the {config.MAX_ITERATIONS}-iteration limit; "
+                "remaining new photos will be picked up on the next run.",
+                flush=True,
+            )
+
     print(f"Made {requests_made} new vision request(s) this run.", flush=True)
 
     graph = topic_graph.build_topic_graph(threads)

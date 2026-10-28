@@ -25,6 +25,12 @@ MAX_ROOT_THREADS = int(_max_root_threads_raw) if _max_root_threads_raw else None
 # per run and let unprocessed images carry over to the next scheduled run.
 MAX_VISION_REQUESTS_PER_RUN = int(os.environ.get("MAX_VISION_REQUESTS_PER_RUN", "1400"))
 
+# Re-fetch the conversation after describing new images so photos posted
+# during a long run can be picked up before the next scheduled run.
+MAX_ITERATIONS = int(os.environ.get("MAX_ITERATIONS", "3"))
+if MAX_ITERATIONS < 1:
+    raise ValueError("MAX_ITERATIONS must be at least 1")
+
 
 def require(name: str, value: str) -> str:
     if not value:
