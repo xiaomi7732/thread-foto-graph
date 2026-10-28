@@ -6,17 +6,25 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (57)
+## Needs Reply (61)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **craigkeepingbusy**: I just finished making these out of a cedar 4X4. Do they count? ([link](https://www.threads.com/@craigkeepingbusy/post/DfDhjJDGxPP))
-  - Photo: Description: Several handcrafted wooden pumpkins, each featuring segmented sections and twig stems, are arranged on a well-worn workshop workbench. In the cluttered background, woodworking tools, scraps of lumber, and sawdust hint at an active DIY or carpentry project. Photograph read: The high-angle, slightly angled composition captures the rustic textures and warm wood tones under even workshop lighting, conveying a productive and crafty mood.
+- **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
+  - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
+- **jbald84**:  ([link](https://www.threads.com/@jbald84/post/DfDmBaMjX67))
+  - Photo: Description: A painted white pumpkin decorated to look like a Maruchan Instant Lunch cup sits on a desk in an office setting. The pumpkin features hand-painted branding, a mound of yarn on top representing noodles, and two wooden sticks crossed to mimic chopsticks. Photograph read: Shot at eye level with a wide-angle perspective, the brightly lit office environment creates a cheerful and humorous snapshot.
+- **photography_cac**:  ([link](https://www.threads.com/@photography_cac/post/DfDl0jEFWvr))
+  - Photo: Description: A carved pumpkin decorated to resemble an owl sits on a round glass table, flanked by smaller white and orange pumpkins and autumn leaves. The owl pumpkin features a crown of artificial flowers and ribbons, seed-outlined eyes with glowing cutouts, and painted feather details, creating a festive autumn aesthetic suitable for seasonal social media posts. Photograph read: Captured from a slightly elevated eye-level angle with a softly blurred background, the diffused outdoor light creates a warm, inviting mood that highlights the textured details of the carved and decorated pumpkin.
 - **melisagogo**: Throwback to when my son was 3 at the most expensive pumpkin patch in Nebraska ([link](https://www.threads.com/@melisagogo/post/DfDZbn5oJJE))
   - Photo: Description: A smiling young boy wearing a red baseball cap and a camouflage jacket poses among scattered pumpkins in a harvested field, making a classic autumn post. Photograph read: The subject is centered in a medium shot under bright, direct daylight, creating an upbeat and cheerful outdoor mood.
+- **jeandi2**: A local homeowner on the beach does this display for every holiday . ([link](https://www.threads.com/@jeandi2/post/DfDoSWakdgl))
+  - _Replying to: That high angle is what makes it - a pumpkin built out of p…_
 - **mapletreephotography_wpm**: Yes, yes it did…❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDdDmFARoW))
   - _Replying to: Then your wife gets the credit and your vertical frame gets…_
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
   - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
+- **ritaveeps**: Looked like trouble even before it was lit up.. ([link](https://www.threads.com/@ritaveeps/post/DfDiMJ-jsRg))
+  - _Replying to: Up to no good is exactly the read - that tight vertical cro…_
 - **bojonvelvet2.0**: The bear lamp is a fixture on that table. Resides between two vintage Adrian Pearsall mid-century chairs.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDdNRhgY-X))
   - Photo: Description: Two orange mid-century modern armchairs flank a small wooden side table beneath a blue wall decorated with framed vintage photographs, floating shelves, and a globe. A lime-green ottoman sits in the foreground, and a tall stack of books stands beside the right-hand chair. Photograph read: Captured from a wide angle, the brightly lit indoor scene uses a symmetrical composition of furniture and wall art to create a cozy, eclectic atmosphere.
   - _Replying to: That tight frame is the whole joke - a bare little branch w…_
