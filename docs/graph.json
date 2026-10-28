@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18113737274272185",
-      "label": "photograph, read, description, sky",
+      "label": "read, photograph, description, sky",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -10,8 +10,32 @@
       "photos": [
         "Description: A low-angle, vertical shot captures the modern facade of a multi-story building featuring warm copper-toned vertical louvers against a clear blue sky. The lower level includes glass windows and a concrete staircase with railings leading up to the entrance. Photograph read: The low-angle vertical composition emphasizes the building's height, with strong directional sunlight creating a striking interplay of light and shadow across the warm-toned facade, conveying a clean and modern architectural mood."
       ],
-      "reply_count": 284,
+      "reply_count": 294,
       "replies": [
+        {
+          "username": "highlanddesignsbydeb",
+          "text": "Not today, but one of the most stunning examples of pattern in architecture I\u2019ve seen. Reykjavik, Iceland.",
+          "permalink": "https://www.threads.com/@highlanddesignsbydeb/post/DfBZUCtERDs",
+          "photos": [
+            "Description: A tall, multi-story wall of geometric, hexagonal glass windows dominates an interior space, with three small figures standing at the base for scale. The architecture suggests a modern cultural center or concert hall, with a few stained glass panels adding subtle bursts of color among the grays and whites. Photograph read: The upward-looking vertical composition emphasizes the dramatic scale and repetitive pattern of the hexagonal facade, while diffuse natural light creates an even, contemplative mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kennethekelov",
+          "text": "",
+          "permalink": "https://www.threads.com/@kennethekelov/post/DfBTYbkCAkw",
+          "photos": [
+            "Description: This high-angle, vertical shot shows a paved walkway with a metal drainage grate on the left and a glass structure on the right. Strong sunlight casts sharp geometric shadows across the concrete tiles, creating a stark contrast of light and dark. Photograph read: The composition uses strong diagonal lines and high-contrast, directional light to create a graphic, minimalist mood emphasizing abstract shadow patterns on urban pavement."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "moniecerae",
           "text": "",
@@ -19,10 +43,21 @@
           "photos": [
             "Description: A symmetrical, wide-angle interior view of a grand hotel or convention center lobby features a long hallway framed by ornate metallic structures with red panels and warm lamps. A large, circular floral installation sits in the center of the tiled floor beneath an expansive coffered ceiling. Photograph read: The symmetrical, wide-angle composition creates a strong sense of formal perspective, enhanced by even, warm lighting that emphasizes the grand architectural details and creates an inviting mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That dead-centre wide angle is doing the work - the hallway pulls you straight to the floral piece and the coffered ceiling keeps the whole thing grand instead of busy. Did you crouch for the symmetry, or did the lobby hand you the centre line?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBTYuhm5ny",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "craigkeepingbusy",
@@ -31,10 +66,21 @@
           "photos": [
             "Description: A close-up, high-angle view captures mineral-rich, terraced earth formations with rippling ridges and shallow pools of water. Sunlight glints off the wet edges of the shelves, creating an earthy and textured pattern suitable for an outdoor nature post. Photograph read: The top-down perspective emphasizes the flowing, organic lines of the mineral deposits, while harsh direct light creates stark highlights and deep shadows that enhance the rugged texture and warm, natural mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Top-down was the right call - the terraces read like contour lines and the harsh light makes every wet edge glint. Were you standing right over the stream for this, or did you find a bank that gave you the height?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBTaAtDfkS",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mlb21153",
@@ -43,10 +89,32 @@
           "photos": [
             "Description: A harvested cornfield stretches across the foreground and midground, featuring neatly aligned rows of golden-brown stubble under a clear blue sky. In the background, a dense line of bare deciduous trees marks the edge of the field, suggesting a rural, late autumn landscape. Photograph read: The low-angle composition emphasizes the strong converging lines of the crop rows, creating a sense of depth under bright, even daylight."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That low angle turns stubble into a diagram - the rows converge so cleanly under that blue sky that the field reads like a textile. Did you get down low on purpose for the lines, or was the field edge the only place to stand?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBTbfSoKPp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "mlb21153",
+                  "text": "I'm short, so this is standing on the edge of the field.",
+                  "permalink": "https://www.threads.com/@mlb21153/post/DfBTlC7kfbr",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "rawelementproductions",
@@ -55,10 +123,21 @@
           "photos": [
             "Description: A low-angle, black-and-white shot captures the exterior of a curved modernist building with stacked balconies and an exterior staircase zig-zagging up the right side. The plain, overcast sky above and the repetitive concrete forms evoke an urban architectural aesthetic. Photograph read: The vertical composition uses a dramatic low angle and stark monochrome contrast to emphasize the geometric repetition and imposing scale of the industrial balconies."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The low angle plus black and white is a strong pairing - the curved balconies stack into pure geometry and the zig-zag stair gives the eye a way up. Did you go low to cut the sky out, or to make the building loom?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfBTcwuDuZ9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wang_fong_ya",
@@ -85,10 +164,21 @@
                   "text": "Thank you so much! \ud83e\udd0d The light caught my eye as I was walking by. I love those unexpected moments when light and architecture come together so beautifully. \ud83d\udcf7\u2728",
                   "permalink": "https://www.threads.com/@wang_fong_ya/post/DfBMuJQj2Xq",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Walk-by light is the best kind - unplanned, just the facade and the sun agreeing for a second. Do you pass that same building often, or was this a first-time catch?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfBTfGsnNHg",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2945,10 +3035,32 @@
                 "Description: A low-angle, black-and-white architectural shot looks up the twisting facade of a modern high-rise. The geometric balconies and layered windows create a striking, abstract pattern against the bright sky. Photograph read: The high-contrast monochromatic palette and upward diagonal composition create a dynamic, abstract mood that emphasizes the building's complex geometry.",
                 "Description: A low-angle, vertical shot captures the striking facade of a modern skyscraper, featuring a dynamic pattern of offset, cantilevered balconies and large, dark windows. The monochromatic palette emphasizes the dizzying, staggered geometry of the building as it twists upward against a dark sky. Photograph read: The high-contrast black-and-white treatment accentuates the complex, repetitive geometry and creates a crisp, graphic mood."
               ],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Shooting straight up in black and white is the bold call - the balconies twist into pure graphic and the dark sky keeps every edge sharp. Did you pick this angle to lose the street below, or to make the twist feel taller?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfBTghYjfTJ",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "scott_parsons_art",
+                      "text": "Both. It also exaggerated the twist.",
+                      "permalink": "https://www.threads.com/@scott_parsons_art/post/DfBXREwmyZa",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -3247,7 +3359,7 @@
     },
     {
       "id": "18238804897319771",
-      "label": "photograph, read, description, sky",
+      "label": "read, photograph, description, sky",
       "group": 0,
       "snippet": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into t\u2026",
       "text": "\ud83e\udd0f A pinchable post Yesterday afternoon's moon, split into two vertical photos. Side by side in your feed they make the whole picture - pinch them together to merge it back.",
@@ -3261,7 +3373,7 @@
     },
     {
       "id": "18440202316176936",
-      "label": "photograph, read, description, sky",
+      "label": "read, photograph, description, sky",
       "group": 0,
       "snippet": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scrol\u2026",
       "text": "Golden Friday favorites \ud83c\udfc6 Three golds that stopped my scroll. @taiwanese726 @nickydaphotography @sam_photo_81 - beautiful work, all of you. Reel: https://www.instagram.com/reel/De4RYl_idro/",
