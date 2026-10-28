@@ -6,19 +6,27 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (16)
+## Needs Reply (19)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
 - **flannelsandphotos**:  ([link](https://www.threads.com/@flannelsandphotos/post/DfBAYz6Ecru))
-  - Photo: (description unavailable: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60))
+  - Photo: Description: An extreme vertical close-up of a dark, perforated industrial surface that creates a striking geometric pattern. The repeating oval impressions recede into deep shadow toward the lower left, while bright light rakes across the upper right. Photograph read: The steep diagonal perspective and stark monochromatic contrast emphasize the rhythm of the repeating texture, generating a sleek, modern industrial mood.
 - **keltainentalorannalla**:  ([link](https://www.threads.com/@keltainentalorannalla/post/DfA9H_mCA45))
-  - Photo: (description unavailable: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60))
-- **demidova_nadezda**: Just raise your head up and everything fits ([link](https://www.threads.com/@demidova_nadezda/post/DfA_LXND57w))
-  - _Replying to: Shooting straight up at night was the brave call - the twis…_
-- **ritaveeps**: A local farmers market decked out all season on a historic site.. was late but enjoyed the empty space and light. ([link](https://www.threads.com/@ritaveeps/post/DfA_mg3jn5O))
-  - _Replying to: Looking up was the whole trick - the banners layer diagonal…_
+  - Photo: Description: A close-up overhead shot reveals a brown metal grate, its geometric grid outlined in delicate white frost crystals. The stark contrast between the warm brown surface and the cold white frost creates a striking seasonal texture ideal for a crisp winter morning update. Photograph read: The flat, even lighting emphasizes the sharp geometric pattern and tactile crystal textures across the tightly framed, repeating composition.
+- **fanahshapeless**: I have a print club where I celebrate brutalist architecture around London every month, so I usually make a walk and architecture hunt as joined adventure.:) ([link](https://www.threads.com/@fanahshapeless/post/DfBCzo3CI_H))
+  - _Replying to: Six low angles and every facade stacks its own rhythm - the…_
+- **fanahshapeless**:  ([link](https://www.threads.com/@fanahshapeless/post/DfBFvtKiFFM))
+  - Photo: Description: Several colorful postcards and stickers featuring architectural designs of The Imperial Hotel are arranged artfully on a wooden tabletop. This flat lay highlights graphic art prints with a vibrant, mid-century modern aesthetic. Photograph read: Captured from directly above, the clean composition and soft, even lighting create a bright, organized, and inviting flat lay.
+  - Photo: Description: A hand holds a colorful fan of art prints or postcards depicting iconic brutalist architecture, such as the Barbican Estate and National Theatre. The casual, indoors setting with framed artwork and trailing plants suggests a creative home or studio space, making this a great share for fans of design and city culture. Photograph read: Captured in soft, natural indoor light, the centered close-up shot highlights the vibrant colors and geometric designs of the cards against a warm, gallery-like background.
+  - _Replying to: I have a print club where I celebrate brutalist architectur…_
+- **nate.b.88**: I’m inclined to argue it was the grid that caught my eye. ([link](https://www.threads.com/@nate.b.88/post/DfBCOUujv_f))
+  - _Replying to: Straight-on and frame-filling was the right call - the red-…_
+- **ritaveeps**: Shot at 2 pm on a dazzling fall afternoon. ([link](https://www.threads.com/@ritaveeps/post/DfBEQWQDswL))
+  - _Replying to: Late and empty was the gift then - no crowd to shoot around…_
 - **tiffany.art2020**: Thanks so much! Appreciate you noticing so much detail! My grandmother made this quilt when she was in her teens. She would be 139 yrs old now. ([link](https://www.threads.com/@tiffany.art2020/post/DfA1XlQm6Os))
   - _Replying to: That overhead flat-lay was the right call - every block sta…_
+- **tiffany.art2020**: Thank you! Yes, that’s my grandmother who made the quilt. ♥️ ([link](https://www.threads.com/@tiffany.art2020/post/DfBEMbPDqeM))
+  - _Replying to: A grandmother's quilt and now a century-old studio portrait…_
 - **gnd_moments_in_paradise**: Pretty much dead centre. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/DfA7HaNCDTH))
   - _Replying to: (photo reply, no text)_
 - **bybaird**: We have stayed at the same hotel on the river several times, and I always loved taking pictures of that bridge. ([link](https://www.threads.com/@bybaird/post/DfAyThGFEs7))
