@@ -6,27 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (48)
+## Needs Reply (46)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **lehmann7882**:  ([link](https://www.threads.com/@lehmann7882/post/DfC3VJDFlpB))
-  - Photo: Description: A massive orange pumpkin, weighing 744.5 pounds and named Seymour, is the centerpiece of a seasonal autumn display surrounded by smaller pumpkins and gourds of various colors. A purple informational sign stands behind the giant gourd, providing details from the 2022 Giant Pumpkin Weigh-Off. Photograph read: Captured from a slightly elevated angle in bright, overcast daylight, the composition emphasizes the sheer scale of the central pumpkin by contrasting it with a scattering of smaller gourds on a wooden pallet below.
-- **encinitasditka**: This morning on the beach ([link](https://www.threads.com/@encinitasditka/post/DfC2kK_miD8))
-  - Photo: Description: A carved orange jack-o'-lantern rests on a damp, dark sand beach with the ocean and a cloudy sky in the background. The offbeat placement of a Halloween decoration by the sea creates a playful contrast that works well for seasonal social media posts. Photograph read: The centered pumpkin forms the focal point against horizontal bands of sand, surf, and sky, rendered in cool, overcast daylight that gives the scene a moody, melancholic tone.
-- **jdicillo**: That was taken at the Sportsman's Tavern in Buffalo NY. That is one of their stage decorations. ([link](https://www.threads.com/@jdicillo/post/DfC2RQaFmOR))
-  - _Replying to: That overhead blue light turning a pumpkin-headed banjo pla…_
-- **brianmccloskeyphotography**: Thanks, actually spotted this while walking through a neighborhood in Ireland a few years back.... not my staging at all... looks pretty intentional to me though! ([link](https://www.threads.com/@brianmccloskeyphotography/post/DfC2L6SoLSE))
-  - _Replying to: Shooting through the railings was the smart move - those so…_
-- **wj.fox**: It took awhile ([link](https://www.threads.com/@wj.fox/post/DfC19wrHJ1M))
-  - _Replying to: Catching the leaves mid-air is what sells this one - the ce…_
-- **drbethie**: Oh, I love your analysis. We call that a photo vignette. The scene is from an amazing pumpkin festival at Naumkeag museum and garden in Stockbridge, MA. The intact pumpkins and gourds are real but the carved ones are cardboard.😉 ([link](https://www.threads.com/@drbethie/post/DfC1tHdEUhx))
-  - _Replying to: That close-up framing turns the hay bale into a little stag…_
+- **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/DfC7rKuINvc))
+  - Photo: Description: A vibrant cluster of ripe orange pumpkins fills the frame, showcasing varied shapes and textures ideal for a fall harvest social media post. Photograph read: Soft overhead lighting highlights the rich textures and organic contours of the pumpkins, creating a warm, autumnal mood with a tight, full-frame composition.
+  - Photo: Description: A vibrant assortment of autumn produce, including bright orange pumpkins, uniquely patterned green gourds, and rows of budding yellow mums, is arranged vertically on a rustic wooden display. Lush green evergreens and textured foliage frame the arrangement, evoking a festive harvest market scene. Photograph read: Captured from a high angle, the vertical composition uses a natural color palette and even, diffused lighting to create a warm, inviting autumnal mood.
+- **aimeeday5883**:  ([link](https://www.threads.com/@aimeeday5883/post/DfC5p0BGqS4))
+  - Photo: Description: Two freshly baked pumpkin pies rest side-by-side on a fall-themed tablecloth decorated with autumn leaves. The warm, orange custard fillings and fluted crusts evoke a cozy holiday baking vibe. Photograph read: Captured from a top-down angle in soft, even lighting, the warm color palette creates an inviting, seasonal mood.
+- **jdicillo**: Halloween time only. It's usually a black curtain behind the musicians. ([link](https://www.threads.com/@jdicillo/post/DfC6sL-lp4T))
+  - Photo: Description: A bearded male musician stands on a dimly lit stage, strumming an acoustic-electric guitar with a sunburst finish while wearing a dark t-shirt and jeans. In
+  - _Replying to: A tavern stage decoration explains everything - that overhe…_
 - **bendlesmaid269**: No she takes orders and has a Facebook and instagram page She only started doing it in July, for a charity event, she’s so clever ([link](https://www.threads.com/@bendlesmaid269/post/DfCysoBijlX))
   - Photo: Description: Four handmade crochet angel ornaments hang in a row from a rustic wooden branch against a festive holiday backdrop. The ornaments feature wooden bead heads with painted smiling faces and rosy cheeks, white crocheted wing dresses, and fringed skirts. Photograph read: The horizontally aligned composition is evenly lit by warm fairy lights, creating a cozy and inviting holiday atmosphere.
   - Photo: Description: A top-down shot shows a cluster of handmade crochet poppy brooches with black centers and green leaf accents, arranged on a textured burlap surface atop a wooden table. The handcrafted red flowers are popular symbols for remembrance day displays and charity fundraisers. Photograph read: The flat-lay composition features vibrant red and green textures highlighted by even, natural light, creating a warm, artisanal mood.
   - _Replying to: Monday to Wednesday for a whole pumpkin patch plus angels a…_
-- **consie18**: It was a farm stand and they did an excellent job. ([link](https://www.threads.com/@consie18/post/DfC1o0BlOhp))
-  - _Replying to: That wide eye-level frame turns a truckload into a postcard…_
+- **nanceharder81**: Sketch first. I'm not that good!! ([link](https://www.threads.com/@nanceharder81/post/DfC6BYiCWiv))
+  - _Replying to: Freehand with edges that sharp is the flex - no stencil to …_
 - **three_little_burdes**: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds 😂 ([link](https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u))
   - _Replying to: That doggo on the left looks an awful lot like our Harper L…_
 - **mizgreenjeans**:  ([link](https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN))
@@ -36,6 +32,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Oh wow!!!_
 - **tiffany.art2020**: These were actually last year…I’ve moved now and have no garden…just flora memories! I did like the white ones, tho! ([link](https://www.threads.com/@tiffany.art2020/post/DfCydKOmwwE))
   - _Replying to: Homegrown and just set aside after harvesting - that top-do…_
+
+### Pattern Tuesday favorites 🏆 Three patterns that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DfB3FbdldSK))
+- **remalysh**: Playing with Light ([link](https://www.threads.com/@remalysh/post/DfC5ujwGliU))
+  - Photo: Description: Brightly colored light trails form a dynamic, swirling spiral pattern against a solid black background, creating a vibrant hypnotic effect ideal for a psychedelic art post. Photograph read: The long-exposure composition centers on concentric rings of saturated red, blue, and green dotted lights, producing an energetic and mesmerizing mood.
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
 - **nanceharder81**: It was a very misty night in downtown Minneapolis ([link](https://www.threads.com/@nanceharder81/post/DfCqeCYEfEf))
@@ -123,13 +123,14 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (12)
+## Needs Like (13)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
 - janeannnorman: Thank you ([link](https://www.threads.com/@janeannnorman/post/DfCslHxDBZT))
 - three_little_burdes: Oh wow!!! ([link](https://www.threads.com/@three_little_burdes/post/DfCpuBuliY8))
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfACewYHAF5))
+- susanrutledge: Florence ([link](https://www.threads.com/@susanrutledge/post/DfC7u9HGj0L))
 - mapletreephotography_wpm: ❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfA88g5EfHJ))
 - andrea_ibryce: Both. ☺️ ([link](https://www.threads.com/@andrea_ibryce/post/DfAzl1GEpua))
 - ballwithme21: The facade. ([link](https://www.threads.com/@ballwithme21/post/DfApskvkm5o))
