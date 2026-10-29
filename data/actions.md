@@ -6,13 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (67)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/DfDyAhKEvPu))
-  - Photo: Description: A row of six carved jack-o'-lanterns lines up diagonally along a wooden porch floor, resting against a weathered white railing. The autumn decor creates a festive, seasonal scene well-suited for a fall post. Photograph read: The high-angle shot uses leading lines created by the diagonal arrangement of pumpkins and the vertical railing slats, captured in bright daylight that creates a clean, cheerful mood.
-- **jeness.maresa**:  ([link](https://www.threads.com/@jeness.maresa/post/DfDxcSggLUX))
-  - Photo: Description: A single orange pumpkin sits on a gray railing draped with tangled, glowing holiday lights against a red wooden wall and a multi-paned window. This cozy autumn scene is perfect for sharing seasonal vibes on social media. Photograph read: Captured from a straight-on eye-level angle, the vertical composition centers the pumpkin in front of the window, creating a warm, nostalgic holiday mood through soft lighting and rich contrasting colors.
+- **veteranbaker**: Pumpkin bread 🎃 ([link](https://www.threads.com/@veteranbaker/post/DfD7rWXEXLn))
+  - Photo: Description: Several small paper loaf pans hold freshly baked pumpkin breads topped with green pumpkin seeds, cooling on wire racks. The warm autumn hues and cozy baking theme make this ideal for a seasonal food post. Photograph read: The tight top-down crop emphasizes the repetition of golden loaves and seed textures, illuminated by soft indoor lighting that creates an inviting, homemade mood.
+- **steff_r13**:  ([link](https://www.threads.com/@steff_r13/post/DfD5QamgChV))
+  - Photo: Description: A large orange pumpkin sits outdoors, resting on a bed of mulch and colorful fallen autumn leaves with a lush green and gold forest in the background. A few vibrant yellow and red maple leaves rest directly on the pumpkin's side, creating a seasonal scene ideal for an autumn social media post. Photograph read: Captured in bright, natural daylight, the vertical composition centers the detailed pumpkin against a softly blurred woodland background, creating a warm and inviting seasonal mood.
+- **irishrose_3**:  ([link](https://www.threads.com/@irishrose_3/post/DfD46m9nAnU))
+  - Photo: Description: Numerous bright orange pumpkins are stacked on rustic wooden tables and scattered amongst fallen autumn leaves at an outdoor farm stand. A vibrant bush of rust-colored mums sits near the foreground, completing a quintessential fall harvest scene ready for seasonal social media sharing. Photograph read: The high-angle composition captures a rich tapestry of autumn textures under diffuse natural light, creating a warm, festive mood.
 - **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
   - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
 - **photography_cac**: Definitely craft store mission. I would feel so bad treating real flowers with a hot glue gun 😉 ([link](https://www.threads.com/@photography_cac/post/DfDwzNelZjv))
@@ -68,6 +70,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Homegrown and just set aside after harvesting - that top-do…_
 
 ### Pattern Tuesday favorites 🏆 Three patterns that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DfB3FbdldSK))
+- **wrj_arts**:  ([link](https://www.threads.com/@wrj_arts/post/DfD9w6vkY8d))
+  - Photo: Description: A modern high-rise apartment building glows against a dark night sky, featuring a prominent vertical strip of exterior architectural lighting and warmly lit windows. Below, streaks of colorful light from passing traffic create a sense of vibrant city life at street level. Photograph read: Captured from a low-angle perspective, the vertical composition emphasizes the towering height of the structure, while long-exposure lighting creates dynamic streaks of motion across the urban street.
 - **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfDHRDHD_RF))
   - Photo: Description: A low-angle, upward-facing shot captures the complex steel truss structure and large glass windows of a modern terminal or concourse. The symmetrical framework creates an architectural pattern against a bright, clear sky, with warm wooden ceiling panels framing the top corners. Photograph read: The symmetrical, low-angle composition emphasizes the strong geometric lines and industrial forms, lit by bright, even daylight that creates a clean and minimalist mood.
 - **remalysh**: Playing with Light ([link](https://www.threads.com/@remalysh/post/DfC5ujwGliU))
