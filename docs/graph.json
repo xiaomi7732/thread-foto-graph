@@ -10,7 +10,7 @@
       "photos": [
         "Description: A large, brightly colored sign for Stocker Farms features a carved jack-o'-lantern flanked by ears of corn beneath a miniature roof, with a smaller hanging sign that reads \"WELCOME.\" The autumn-themed entrance sign stands against a pale, overcast sky. Photograph read: Shot from a low upward angle against a diffuse, overcast sky, the rustic sign is centrally framed to highlight its whimsical textures and autumn aesthetic."
       ],
-      "reply_count": 127,
+      "reply_count": 128,
       "replies": [
         {
           "username": "meloartistic",
@@ -21,10 +21,21 @@
             "Description: A creatively carved jack-o'-lantern resembles an anglerfish, complete with sharp plastic teeth, fins, and a glowing lure dangling in front of its wide-open mouth. Set on a dark porch at night with other lit pumpkins in the background, it makes a festive and spooky Halloween display. Photograph read: The centered composition relies on the warm, intense glow from within the pumpkin to cast dramatic light against the dark, moody backdrop of the porch.",
             "Description: This three-panel photo shows a man smiling alongside an anglerfish-themed jack-o'-lantern he carved, complete with plastic teeth and a hanging mini-gourd lure. The bottom two panels show the illuminated pumpkin glowing from within against an orange background and in daylight with the lure hanging overhead. Photograph read: The collage combines close-up and medium self-shot angles in natural and interior lighting, capturing a cheerful, creative, and seasonal mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The low straight-on daylight shot is what sells it - you get every fork tooth and the wire lure in one read, and then the night shot lets the glow do the rest. Plastic forks for teeth is the kind of detail that makes a carving. Were the forks the plan from the first cut, or did the anglerfish idea come first and the forks follow?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfEFALllDGt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "veteranbaker",
