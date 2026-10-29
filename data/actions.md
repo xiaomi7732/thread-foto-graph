@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (64)
+## Needs Reply (68)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
+- **mamawokka**:  ([link](https://www.threads.com/@mamawokka/post/DfE-n59kXyP))
+  - Photo: Description: A tightly cropped cluster of round, orange pumpkins fills the frame, featuring a uniquely mottled, pale pink and orange gourd in the center. The variety of textures and warm autumn hues create a festive mood well-suited for a fall harvest social media post. Photograph read: The tight framing and overhead perspective compress the composition, while direct lighting accentuates the deep ridges and cast shadows for a rustic, autumnal mood.
+- **bibliojo**: Paris fair ([link](https://www.threads.com/@bibliojo/post/DfE-DBvkbWh))
+  - Photo: Description: A display of several prize-winning pumpkins and gourds of varying shapes, sizes, and colors rests on white wooden staging beneath a hand-painted "Fruits & Vegetables" sign. People browse the agricultural fair exhibit, with a Canadian flag visible in the background. Photograph read: The eye-level composition uses natural indoor lighting to highlight the rich textures and varied colors of the pumpkins against the neutral backdrop of the exhibition hall.
+- **craigthomaswhite**:  ([link](https://www.threads.com/@craigthomaswhite/post/DfE9ktanLh2))
+  - Photo: Description: A gray squirrel is buried deep inside a large orange pumpkin on a wooden deck, with only its bushy tail visible outside as it chews through the rind. Chunks of pumpkin flesh and seeds litter the weathered boards beneath the makeshift feeding hole. Photograph read: Shot at eye level with the subject, the vertical composition highlights the textured orange pumpkin and the squirrel's flurry of motion against a soft-focused green and brown background illuminated by natural morning light, creating a humorous and autumnal mood.
+- **veteranbaker**: They went on before the bake. I try to make my bakery pictures more than just "here's a loaf of bread" or " here's a cupcake". ([link](https://www.threads.com/@veteranbaker/post/DfEpsAXkV1M))
+  - _Replying to: That tight top-down crop turns the cooling rack into a bake…_
 - **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
   - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
 - **photography_cac**: Definitely craft store mission. I would feel so bad treating real flowers with a hot glue gun 😉 ([link](https://www.threads.com/@photography_cac/post/DfDwzNelZjv))
