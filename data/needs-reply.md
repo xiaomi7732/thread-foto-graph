@@ -4,19 +4,22 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (61)
+## Needs Reply (63)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
+- **kleinman.leslie**:  ([link](https://www.threads.com/@kleinman.leslie/post/DfDqupWDiNO))
+  - Photo: Description: A festive autumn display sits on a grassy lawn featuring a hay bale topped with pumpkins, purple mums, and a small scarecrow. Nearby, a wooden bucket holds colorful artificial leaves, yellow-flowered mums, and ornamental kale, while a vertical stack of diverse pumpkins stands to the right. Photograph read: Captured in bright, natural daylight, the eye-level composition highlights the rich autumn colors and textures with clear shadows cast across the green lawn.
 - **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
   - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
-- **jbald84**:  ([link](https://www.threads.com/@jbald84/post/DfDmBaMjX67))
-  - Photo: Description: A painted white pumpkin decorated to look like a Maruchan Instant Lunch cup sits on a desk in an office setting. The pumpkin features hand-painted branding, a mound of yarn on top representing noodles, and two wooden sticks crossed to mimic chopsticks. Photograph read: Shot at eye level with a wide-angle perspective, the brightly lit office environment creates a cheerful and humorous snapshot.
-- **photography_cac**:  ([link](https://www.threads.com/@photography_cac/post/DfDl0jEFWvr))
-  - Photo: Description: A carved pumpkin decorated to resemble an owl sits on a round glass table, flanked by smaller white and orange pumpkins and autumn leaves. The owl pumpkin features a crown of artificial flowers and ribbons, seed-outlined eyes with glowing cutouts, and painted feather details, creating a festive autumn aesthetic suitable for seasonal social media posts. Photograph read: Captured from a slightly elevated eye-level angle with a softly blurred background, the diffused outdoor light creates a warm, inviting mood that highlights the textured details of the carved and decorated pumpkin.
+- **photography_cac**: Crown was the plan. I wanted to make a forest fairy owl. I feel like I mostly accomplished the goal! ([link](https://www.threads.com/@photography_cac/post/DfDtgQXlVxd))
+  - _Replying to: That slightly elevated eye-level frame lets the seed-outlin…_
+- **craigkeepingbusy**: The posts ([link](https://www.threads.com/@craigkeepingbusy/post/DfDvCCgm6G2))
+  - Photo: Description: Several wooden posts lean against a weathered dark wood fence, resting on a bed of gravel dotted with scattered autumn leaves. The composition and outdoor setting suggest a weekend DIY or backyard renovation project in progress. Photograph read: The vertical lines of the leaning lumber create a strong diagonal rhythm against the vertical planks of the fence, rendered in natural daylight with an earthy, rustic mood.
+  - _Replying to: They absolutely count - that high, slightly angled view ove…_
+- **craigkeepingbusy**: Each one was numbered and then assembled in order and yes they all came from the same post. ([link](https://www.threads.com/@craigkeepingbusy/post/DfDu6XemzX5))
+  - _Replying to: They absolutely count - that high, slightly angled view ove…_
 - **melisagogo**: Throwback to when my son was 3 at the most expensive pumpkin patch in Nebraska ([link](https://www.threads.com/@melisagogo/post/DfDZbn5oJJE))
   - Photo: Description: A smiling young boy wearing a red baseball cap and a camouflage jacket poses among scattered pumpkins in a harvested field, making a classic autumn post. Photograph read: The subject is centered in a medium shot under bright, direct daylight, creating an upbeat and cheerful outdoor mood.
-- **jeandi2**: A local homeowner on the beach does this display for every holiday . ([link](https://www.threads.com/@jeandi2/post/DfDoSWakdgl))
-  - _Replying to: That high angle is what makes it - a pumpkin built out of p…_
 - **mapletreephotography_wpm**: Yes, yes it did…❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDdDmFARoW))
   - _Replying to: Then your wife gets the credit and your vertical frame gets…_
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
@@ -135,6 +138,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A windy day at the beach, featuring white-capped ocean waves crashing against a shoreline under a clear blue sky. In the foreground, tall dune grass and green brush frame sandy dunes sloping downward toward the water. Photograph read: Captured from a low vantage point behind sandy dunes, this sunlit coastal view uses tall sea oats on the right to frame the choppy ocean, creating a natural vignette with an airy, breezy mood.
   - _Replying to: Oregon Inlet sounds like a place that keeps giving - a luck…_
 - **michaudstefan**: https://photos.app.goo.gl/gkt1kQazfzZBQeKF6 ([link](https://www.threads.com/@michaudstefan/post/DfASGBnlWmV))
+- **corwyn671**: Ceiling in North Carolina ([link](https://www.threads.com/@corwyn671/post/DfDp_QSGUIt))
+  - _Replying to: Shooting straight up into it was the right call - the tiers…_
 - **taracee_2017**: Yes you are right ,it was 5 years ago so another visit needed . ([link](https://www.threads.com/@taracee_2017/post/DfAUBKIDgPC))
   - _Replying to: A walk-around top closed on the day is a perfect excuse to …_
 - **schemenme**: It was flat outside, I brought it inside, casually tossed it on the dining room table then decided to photograph it where it lay on the table. Very casual, odd thing to photograph but I really liked the pattern ([link](https://www.threads.com/@schemenme/post/DfAt2KjEim4))
