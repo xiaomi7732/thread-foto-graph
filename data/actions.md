@@ -6,37 +6,48 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (114)
+## Needs Reply (117)
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
-- **cfisher831**:  ([link](https://www.threads.com/@cfisher831/post/DfF5ZE_GSVd))
-  - Photo: Description: A brown garden snail with a coiled shell crawls upward across a rough, grey gravel path. A tiny piece of green grass clings to the side of the shell, adding a subtle touch of color to the textured scene. Photograph read: Shot from above in direct sunlight, the vertical composition isolates the snail against the stark, high-contrast gravel, creating a crisp and focused macro study.
-- **kendragothmommy**:  ([link](https://www.threads.com/@kendragothmommy/post/DfF38XlEsD4))
-  - Photo: Description: A top-down close-up shot of a white rose against a solid black background, with the tightly wound petals drawing the eye inward. The dramatic contrast and solitary subject create an elegant, timeless mood ideal for aesthetic social media feeds. Photograph read: The high-contrast monochrome palette emphasizes the delicate textures of the petals, while the centered, tight framing creates a moody and hypnotic composition.
-- **thomasj.moore**:  ([link](https://www.threads.com/@thomasj.moore/post/DfF3mZwkp4F))
-  - Photo: Description: A fuzzy bumblebee rests on the bright yellow petals of a blooming flower, surrounded by green foliage. This close-up nature shot captures a peaceful moment in a garden, perfect for a spring or summer social media post. Photograph read: The tight vertical composition frames the bee as the clear focal point, enhanced by warm, direct sunlight that creates a vibrant, cheerful mood and highlights the insect's textured fur.
-- **jeanne2014**: Dragonfly ([link](https://www.threads.com/@jeanne2014/post/DfF3ZuXGk-r))
-  - Photo: Description: A close-up shot captures a dragonfly perched atop an ornate, dark metal fence post, with its translucent wings catching the light. The background consists of soft, dappled green and blue tones, creating a tranquil outdoor setting. Photograph read: The low-angle, eye-level composition emphasizes the dragonfly as the central subject, rendered sharp against a softly blurred, bokeh-filled background that creates a bright, serene mood.
-- **juditaflower**:  ([link](https://www.threads.com/@juditaflower/post/DfF2FnODFxK))
-  - Photo: Description: A monochrome, close-up photograph captures a dragonfly perched atop a weathered wooden post, its delicate, veined wings catching the light. The composition emphasizes the insect’s intricate details and textures against a softly blurred, neutral background. Photograph read: High contrast and stark backlighting accentuate the intricate venation of the translucent wings, creating a dramatic, contemplative mood.
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DfFzhOUkZ69))
-  - Photo: Description: A vibrant yellow dandelion blossom is captured in close-up against a soft, out-of-focus green background of leaves and grass. The symmetrical flower head, with its dense array of finely toothed petals, creates a bright, cheerful spring aesthetic well-suited for a nature post. Photograph read: The centered composition and shallow depth of field create a crisp, isolated focus on the textured yellow petals, contrasting sharply with the cool, blurred greens of the natural background to evoke a serene and lively mood.
-- **christinabreitenfeldt**: I was trying to get the flower center without disturbing her but I had to lean in a little bit to get the resolution I wanted. That's Nadja, the yard's resident valley carpenter bee. ([link](https://www.threads.com/@christinabreitenfeldt/post/DfF5XiZErg7))
+- **melochemical**: It was a tiny thing in the middle of the grass; it wasn't the white color that caught my attention ("what is that?"), and I could have stepped on it without realizing it. ([link](https://www.threads.com/@melochemical/post/DfF_vzQiIYp))
+  - Photo: Description: A smooth, white mushroom with a rounded cap stands upright among vibrant green grass and twigs. This nature scene offers a tranquil aesthetic well-suited for a post about foraging or outdoor exploration. Photograph read: The eye-level composition frames the central mushroom against a soft-focus background of foliage, creating a serene and grounded mood under even, natural light.
+- **photoart_by_bettina**:  ([link](https://www.threads.com/@photoart_by_bettina/post/DfF-qaIjvFE))
+  - Photo: Description: A close-up shot of a weathered stone Buddha statue, focusing on its serene face with closed eyes and a gentle smile. The textured, carved features and traditional ushnisha hairstyle highlight the ancient, meditative quality of the sculpture. Photograph read: The tight, centered framing and shallow depth of field draw immediate focus to the detailed textures of the stone face, creating a peaceful and contemplative mood under soft, directional lighting.
+- **eugeneevon**:  ([link](https://www.threads.com/@eugeneevon/post/DfF7fNlEx6X))
+  - Photo: Description: A large water droplet clings to a rusty strand of barbed wire, reflecting an upside-down landscape within its curved surface. In the soft-focus background, rows of green vines suggest a vineyard under an overcast sky. Photograph read: The macro composition isolates the sharp, weathered texture of the wire against a heavily blurred background, creating a moody and contemplative atmosphere under diffuse natural light.
+- **shelldogg68**:  ([link](https://www.threads.com/@shelldogg68/post/DfF7YyhE0es))
+  - Photo: Description: A macro view shows a small beetle with a bright orange head and a shiny black body resting on a pale green leaf. The insect faces forward, creating a candid wildlife observation that works well for nature appreciation posts. Photograph read: The extreme close-up centers the subject in sharp focus with a shallow depth of field, utilizing natural daylight to highlight the glossy texture of the beetle's carapace.
+- **an_m_flm**:  ([link](https://www.threads.com/@an_m_flm/post/DfF6py7GKwL))
+  - Photo: Description: This vertical, black-and-white close-up showcases the rough, weathered texture of old wooden planks, with a single rusty nail protruding near the bottom right. The background is heavily blurred, suggesting an outdoor structure or forest setting. Photograph read: The extreme shallow depth of field sharply isolates the splintered grain and dark nail in the foreground against a soft, dreamy background, creating a rustic and contemplative mood.
+- **dianelynnturnbull**:  ([link](https://www.threads.com/@dianelynnturnbull/post/DfF5_U7Enpi))
+  - Photo: Description: An orb-weaving spider rests at the center of an intricate web completely beaded with tiny morning dew drops, set against a soft, out-of-focus natural backdrop of grass and dried vegetation. Photograph read: The macro composition centers tightly on the patterned spider and glistening web elements, utilizing morning sunlight to highlight the sparkling dew against a subdued, earthy background.
+- **dianelynnturnbull**: Spiders are not among my favorite insects. Webs on the other hand fascinate me. There is a lesson here... ([link](https://www.threads.com/@dianelynnturnbull/post/DfF5_UtEs-C))
   - _Replying to: (photo reply, no text)_
-- **dougkeel**: Standing, one foot on each side. ([link](https://www.threads.com/@dougkeel/post/DfF2UjMEtOm))
-  - _Replying to: That flat overhead angle is so calm - pale purple blossoms …_
-- **sebduperphoto**: Thank you. Very kind. It was deliberate. I've been going through the book Still, by Mary-Jo Hoffman. When I found this mushroom in the forest, I had to pick it and take it to my studio. ([link](https://www.threads.com/@sebduperphoto/post/DfF08sgGhNx))
-  - _Replying to: That centered vertical framing turns a mushroom into a spec…_
-- **jerseylilly**: Honestly I don’t remember, it’s been in my photos for ages, I just love the colour 🤷‍♀️ ([link](https://www.threads.com/@jerseylilly/post/DfF0B_JDULS))
-  - _Replying to: That top-down angle is lovely - tightly furled magenta peta…_
-- **naturerich_photography**: Thanks so much Saar! It actually stayed still for me for a little while and flicked his tongue a bunch. I think I was blocking the way he wanted to go, so I took my shots quick and let him be. ([link](https://www.threads.com/@naturerich_photography/post/DfF1HzUIK6h))
-  - _Replying to: That shallow depth is perfect - snake scales and flicking t…_
+- **cfisher831**: Hmmmm, being a novice, I would say I simply leaned over and zoomed in… ([link](https://www.threads.com/@cfisher831/post/DfF7LBJGdI3))
+  - _Replying to: That overhead angle is perfect - the snail's coiled shell p…_
+- **jeanne2014**: Fence post did the composing! ([link](https://www.threads.com/@jeanne2014/post/DfF6ZtamvqI))
+  - _Replying to: That low eye-level angle is lovely - the dragonfly sharp ag…_
+- **juditaflower**: Personally, I thought the black-and-white photo was nicer. In colour, the wings were green, and I didn’t like that. However, I’d photographed another dragonfly a few days earlier. The wings look much nicer in that one. ([link](https://www.threads.com/@juditaflower/post/DfF6l6jjOAq))
+  - Photo: Description: A large dragonfly perches atop a weathered, rusted metal rod, its detailed green-and-gold wings catching the light. The blurred background suggests an outdoor setting, making it a great wildlife close-up for nature lovers. Photograph read: The low-angle composition places the textured pole centrally in the foreground, while warm backlighting highlights the intricate venation and translucent quality of the dragonfly's wings against a softly blurred, neutral backdrop.
+  - Photo: Description: A vibrant red and metallic-winged dragonfly rests near the top of a thick, vertical green plant stalk against a soft-focus, earthy background. The composition captures the insect from above in a moment of quiet stillness outdoors. Photograph read: Shot from a top-down perspective, the sharp focus on the iridescent wings and red body stands out against the heavily blurred background, creating a calm, natural mood under soft daylight.
+  - _Replying to: Going monochrome was a bold call and it pays off - the back…_
+- **christinabreitenfeldt**: She likes these as well. ([link](https://www.threads.com/@christinabreitenfeldt/post/DfF7pS-kv5S))
+  - Photo: Description: A dark, fuzzy bumblebee dives deep into one of several pale pink bell-shaped blossoms growing on a single stem. The background shows a simple outdoor setting with muted green and gray elements, making a lovely nature snapshot for spring. Photograph read: The tight medium shot frames the central bloom cluster against a softly blurred, neutral background with direct, bright lighting that highlights the bee's textured body and the delicate petals of the flowers.
+  - _Replying to: I was trying to get the flower center without disturbing he…_
+- **christinabreitenfeldt**: Her favorite is green bean flowers which is amusing to watch. She's at least double their size. She, or one of her progeny, is a regular every year. It used to be primarily the males but now it's mostly females. ([link](https://www.threads.com/@christinabreitenfeldt/post/DfF7cKhkqiz))
+  - _Replying to: I was trying to get the flower center without disturbing he…_
+- **dougkeel**: Not often. This was a patch of color that caught my eye. ([link](https://www.threads.com/@dougkeel/post/DfF9grAktJ0))
+  - _Replying to: One foot on each side is the most honest tripod there is - …_
+- **jh1962bike**: From the side. ([link](https://www.threads.com/@jh1962bike/post/DfF7O9-COXn))
+  - _Replying to: Diving inside the tulip is a brave frame - magenta petals w…_
+- **maureenozerimages**: I’m not gonna lie, this was taken on my kitchen counter with a mushroom I’d bought for dinner 🫣 ([link](https://www.threads.com/@maureenozerimages/post/DfF9CdPjfIi))
+  - _Replying to: Looking straight up at the gills is such a smart angle - fa…_
+- **naturerich_photography**: Saw the snake first…the yellow flower was definitely a bonus and I tried my best to feature it in the background! ([link](https://www.threads.com/@naturerich_photography/post/DfF8m2RoLRU))
+  - _Replying to: Quick and respectful is exactly right - it stayed still, fl…_
+- **brandy_fletcher004**: I was on a walk and saw them out of the corner of my eye, sweet friend. They were the most colorful leaves 🍁 on the tree with so much vibrance. I feel blessed that I didn’t need a filter for them. 🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfF66L7kkoh))
+  - _Replying to: That dense cluster of orange, yellow and red leaves fills t…_
 - **cornelisse74**: I enjoy getting flowers close up. It’s beautiful nature. ([link](https://www.threads.com/@cornelisse74/post/DfF2ezdILZL))
   - _Replying to: Crouching in with a 40mm macro is exactly the commitment th…_
-- **photography.by.gemivy**: I didn’t notice the bee, until I transfer the photo from the camera to my tablet! ([link](https://www.threads.com/@photography.by.gemivy/post/DfFzrq2D9-k))
-  - _Replying to: Diving right into the rosy heart of the azalea is a brave f…_
-- **hayleycbliss**: Straight in front with phone camera. I love the colour 😍 ([link](https://www.threads.com/@hayleycbliss/post/DfFzuvUkx2c))
-  - _Replying to: That top-down framing is beautiful - maroon petals swirling…_
 - **seniorfitgal**: I chase them on walks. ([link](https://www.threads.com/@seniorfitgal/post/DfFzxA_n_N7))
   - _Replying to: Hundreds of frames for one hovering moment makes this one e…_
 - **janatopping**: The Moon last night ([link](https://www.threads.com/@janatopping/post/DfFh5_qEQ9V))
@@ -90,8 +101,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **mopixcle**: I am more willing to experiment with it now, that's for sure. I've been experimenting with dusk photography where the colors are soft and muted, and it almost looks black and white, or like a photo that has been colorized. ([link](https://www.threads.com/@mopixcle/post/DfFWYI9oU-v))
   - _Replying to: That is exactly the trade - color forgives, black and white…_
-- **kosato1967**: I sat for about 20 minutes shooting the backlit bees. I got a handful of good shots but this was the only one that had one facing me. ([link](https://www.threads.com/@kosato1967/post/DfF1M42kssI))
-  - _Replying to: Catching a bee hovering face-on with its wings still blurre…_
 - **heidi.undefined**: I started with the photos, then canvas and this pottery is from 2024 ([link](https://www.threads.com/@heidi.undefined/post/DfFWTvnDbm2))
   - Photo: Description: A handcrafted ceramic object rests against a plain white background, featuring a rounded, speckled base and a top shaped like an open flower with radiating petals. Dark glaze accents the center of the floral lid and outlines the texture of the clay, highlighting its handmade nature. Photograph read: The centered composition and soft, neutral lighting emphasize the tactile qualities and earthy tones of the pottery against a seamless backdrop.
   - _Replying to: A seed pod earning its way onto canvas and into ceramics - …_
@@ -276,7 +285,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (14)
+## Needs Like (15)
+
+### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
+- kim_sheltra: Morning light ([link](https://www.threads.com/@kim_sheltra/post/DfF5l2SlM-n))
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
 - rositayarnold: 🤷‍♀️ ([link](https://www.threads.com/@rositayarnold/post/DfDE0RXCG-M))
