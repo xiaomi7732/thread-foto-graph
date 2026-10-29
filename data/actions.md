@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (64)
+## Needs Reply (66)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
+- **revdeb95**:  ([link](https://www.threads.com/@revdeb95/post/DfEM_I-jt8Y))
+  - Photo: Description: A brindle and white dog with a pink collar stands proudly on a wooden porch surrounded by an array of autumn pumpkins, gourds, and potted yellow flowers. The front steps are flanked by festive fall decor against a dark red house with a light-colored door. Photograph read: The symmetrical arrangement of pumpkins and foliage frames the central subject nicely under even daylight, creating a cheerful and welcoming seasonal mood.
+- **pattymooney69**:  ([link](https://www.threads.com/@pattymooney69/post/DfEMM1VlMWo))
+  - Photo: Description: Two smiling people stand beside two costumed participants wearing carved jack-o'-lanterns on their heads, complete with race bibs numbered 2414 and 2413 in an outdoor autumn setting. The scene captures a quirky race or festival moment, perfect for sharing a fun Halloween or event flashback. Photograph read: Captured in natural outdoor light, this medium shot frames the four figures symmetrically against a backdrop of bare trees and autumn foliage, creating a lighthearted and festive mood.
 - **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
   - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
 - **photography_cac**: Definitely craft store mission. I would feel so bad treating real flowers with a hot glue gun 😉 ([link](https://www.threads.com/@photography_cac/post/DfDwzNelZjv))
