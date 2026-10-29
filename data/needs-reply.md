@@ -4,33 +4,45 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (103)
+## Needs Reply (112)
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
+- **christinabreitenfeldt**:  ([link](https://www.threads.com/@christinabreitenfeldt/post/DfFy5KqktEi))
+  - Photo: Description: A large, dark insect, possibly a bumblebee, rests inside the bright yellow petals of a blooming squash or pumpkin flower. The green center and surrounding foliage suggest a close-up garden shot, perfect for nature or pollination-themed posts. Photograph read: This tight vertical composition highlights the radiant yellow textures and green center of the flower under bright, natural light, creating a vivid and intimate botanical scene.
+- **eva.s.mcpherson**: Ripening blackberries ([link](https://www.threads.com/@eva.s.mcpherson/post/DfFyoRmIGvy))
+  - Photo: Description: A close-up shot captures vibrant red and ripening blackberries growing on a bush, with a green garden stake running vertically through the frame. The varying stages of ripeness among the berries suggest a sunny day harvest in a garden. Photograph read: Shot in bright, natural daylight with a shallow depth of field, the vertical green stake creates a strong central line that separates clusters of textured berries against a soft-focus green backdrop.
+- **victorvoltaphoto**: Frozen leaf, Hope Valley ([link](https://www.threads.com/@victorvoltaphoto/post/DfFxZ6gEuj6))
+  - Photo: Description: A close-up shot captures a brownish-gold leaf frozen inside a translucent chunk of textured ice, with a small pine needle resting across the top right. The background features a warm, golden-orange blur, creating a high-contrast seasonal composition. Photograph read: The macro composition centers the frozen leaf, utilizing warm, golden backlighting that highlights the intricate textures of the melting ice and creates a peaceful, wintry mood.
+- **dougkeel**:  ([link](https://www.threads.com/@dougkeel/post/DfFvPZ9Er6x))
+  - Photo: Description: Several small, pale purple flowers with yellow centers are scattered among blades of green grass and dry straw. The overhead view captures a natural patch of wildflowers and lawn, suggesting a casual, sunlit garden setting. Photograph read: Captured in bright, direct overhead light, the flat composition emphasizes the scattered texture and natural contrast between the delicate blossoms and the chaotic, sun-bleached grass.
+- **sebduperphoto**: Mushroom. ([link](https://www.threads.com/@sebduperphoto/post/DfFu17zGiN1))
+  - Photo: Description: A single whole mushroom with a thick, textured stem and a smooth, rounded brown cap stands vertically against a stark white background. The base of the stem retains bits of dark soil and root fibers, suggesting it was freshly foraged. Photograph read: The centered vertical composition and bright, shadowless lighting isolate the specimen cleanly, creating a scientific and botanical mood.
+- **musei69**:  ([link](https://www.threads.com/@musei69/post/DfFucJyE_t1))
+  - Photo: Description: A honeybee gathers pollen from the center of a pale, ruffled white rose in this striking garden close-up. The dramatic contrast and natural subject make it an eye-catching post for nature lovers and gardening enthusiasts alike. Photograph read: The tight framing places the glowing bee against a backlit white blossom, creating a high-contrast and dramatic mood accentuated by the heavy textures and deep shadows.
+- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/DfFuRTRCHUJ))
+  - Photo: Description: A vibrant macro shot of the inside of a pink tulip reveals its delicate yellow stamens and green pistil. The striking magenta petals frame the intricate floral anatomy, making it an eye-catching image for nature appreciation or spring garden content. Photograph read: The tight close-up composition highlights the sharp textures of the pollen-dusted anthers under even daylight, creating an intimate and luminous botanical study.
+- **jerseylilly**:  ([link](https://www.threads.com/@jerseylilly/post/DfFtvpvDS2g))
+  - Photo: Description: A vibrant magenta rose is captured from a top-down angle, showcasing tightly furled inner petals and a few stray water droplets on its outer edges. The soft, evenly diffused light and blurred green background create a peaceful, garden-fresh atmosphere ideal for a nature post. Photograph read: The shallow depth of field isolates the deep pink blossom against a hazy green background, drawing focus directly to the intricate folds of the petals under soft, natural lighting.
+- **ben.bennion**:  ([link](https://www.threads.com/@ben.bennion/post/DfFtQd8EooD))
+  - Photo: Description: A close-up horizontal shot captures a severely weathered window sill with heavily cracked and peeling paint, revealing the bare, dry wood underneath. Through the dusty glass above and below the sill, a soft, out-of-focus background of muted green and gray creates an abstract, natural frame. Photograph read: The tight, linear composition emphasizes the gritty texture and decay of the peeling paint under flat, even light, conveying a moody and neglected aesthetic.
+- **maureenozerimages**: Macro mushroom ([link](https://www.threads.com/@maureenozerimages/post/DfFs5BojbSF))
+  - Photo: Description: This extreme close-up view looks straight up at the underside of a mushroom cap, showing the intricate, fan-like pattern of its gills radiating from the central stalk. The muted, earthy tones and tiny soil particles scattered across the surface give it a natural, organic feel suited for nature appreciation. Photograph read: The macro composition creates an abstract, rhythmic design with soft, even lighting that emphasizes the delicate texture and subtle color gradations of the mushroom gills.
+- **naturerich_photography**:  ([link](https://www.threads.com/@naturerich_photography/post/DfFsS8FIBMc))
+  - Photo: Description: A patterned garter snake rests among green leaves with its red tongue flicking outward, posed beneath a single bright yellow flower. The closeup macro perspective and vibrant natural colors create an engaging wildlife portrait. Photograph read: The shot uses a shallow depth of field to isolate the sharp details of the snake's scales and forked tongue against a softly blurred botanical background, creating an intimate and alert mood.
 - **crazyaries98**:  ([link](https://www.threads.com/@crazyaries98/post/DfFqtKwmkNu))
   - Photo: Description: A modern white sedan is parked outdoors at night beneath a vibrant, deep red sky, likely illuminated by an intense aurora. Dark tree silhouettes frame the horizon, and fallen leaves crowd the foreground, giving the scene an eerie, otherworldly vibe. Photograph read: The low-angle composition emphasizes the front corner of the car against a dramatic crimson sky, creating a high-contrast and surreal mood.
-- **judy.julian77**:  ([link](https://www.threads.com/@judy.julian77/post/DfFqrmFG0I5))
-  - Photo: Description: A detailed, high-angle close-up shot shows a single honeybee resting on a textured, light-colored concrete surface. The bee faces to the right, its striped abdomen and translucent wings clearly visible in the bright daylight. Photograph read: Direct overhead lighting casts sharp shadows beneath the bee, accentuating the fine texture of the concrete and the intricate details of the insect's anatomy.
-- **beeeze**: Sunflower ([link](https://www.threads.com/@beeeze/post/DfFnynODZJu))
-  - Photo: Description: An extreme macro shot captures the intricate, geometric pattern of developing sunflower florets, featuring bright yellow tips and dark, pointed bracts. The detailed texture and vibrant colors offer a mesmerizing abstract view suitable for nature appreciation posts. Photograph read: Shot from a high-magnification macro perspective, the diagonal composition and shallow depth of field create a dynamic, textured rhythm with a warm and intimate mood.
-- **blueeyes_florida_girl**: Pretty close ([link](https://www.threads.com/@blueeyes_florida_girl/post/DfFnOg5nd9m))
-  - Photo: Description: A delicate dandelion seed head is captured in extreme close-up, perfectly framing a warm, glowing sunset directly behind it. The golden hour light turns the translucent seeds into a radiant, fiery halo, making this a serene and striking visual for nature-loving social media feeds. Photograph read: The centered composition and strong backlighting create a glowing silhouette effect that highlights the intricate radial pattern of the seed head with a warm, peaceful mood.
+- **blueeyes_florida_girl**: Pure luck interspersed with lots of joy. ([link](https://www.threads.com/@blueeyes_florida_girl/post/DfFvVMfnZHe))
+  - _Replying to: That centered backlight is gorgeous - dandelion seeds glowi…_
 - **brandy_fletcher004**:  ([link](https://www.threads.com/@brandy_fletcher004/post/DfFnHlQktMc))
   - Photo: Description: A vibrant autumn tree in full fall foliage displays overlapping leaves in shades of bright orange, yellow, and red. In the background, a residential street and sidewalk curve away under a clear sky, capturing a crisp, seasonal neighborhood scene. Photograph read: The eye-level, slightly low-angle composition emphasizes the dense cluster of foreground leaves, which are illuminated by warm sunlight that contrasts with the cooler tones of the paved road and distant greenery.
-- **cornelisse74**:  ([link](https://www.threads.com/@cornelisse74/post/DfFm4l_IMKS))
-  - Photo: Description: A close-up shot captures the detailed, textured dark center of a yellow coneflower, with its bright petals softly blurred in the foreground and background. The vibrant natural colors and macro perspective make this an eye-catching image for nature photography feeds or summer-themed posts. Photograph read: The tight, centered macro composition uses a very shallow depth of field to isolate the sharply focused, dark disc florets against a dreamy, diffused wash of yellow and green tones.
-- **photography.by.gemivy**:  ([link](https://www.threads.com/@photography.by.gemivy/post/DfFmyUyD3-v))
-  - Photo: Description: A close-up shot captures a bee nestled deep inside the vibrant pink center of a blooming azalea flower. Long stamens reach outward from the center, framing the bee against the textured petals. Photograph read: The macro composition draws the eye directly into the saturated, rosy heart of the blossom, creating an intimate, natural mood under soft, even light.
-- **hayleycbliss**:  ([link](https://www.threads.com/@hayleycbliss/post/DfFmgtPAeOa))
-  - Photo: Description: A top-down close-up shot captures a vibrant maroon flowering maple blossom, its petals swirling inward toward a textured cluster of bright yellow pollen. The soft-focus green leaves in the background create a natural, tranquil garden setting. Photograph read: The tight framing and centered composition emphasize the rich colors and delicate textures of the flower, set against a softly blurred, luminous backdrop that creates an intimate, botanical mood.
-- **localnavy433photography**: The rain had stopped for a few minutes and I jumped on getting the photo. Honestly the rain drops is what drew me in for the photo. Thanks for looking ([link](https://www.threads.com/@localnavy433photography/post/DfFrGz1GVHh))
-  - _Replying to: That directly-above angle is so calm - velvety purple aster…_
-- **seniorfitgal**: Lucky. I’ve taken hundreds of pictures and have never gotten one in that hovering position. ([link](https://www.threads.com/@seniorfitgal/post/DfFlyRQlpXY))
-  - _Replying to: That vertical centering is perfect - dark swallowtail sharp…_
+- **cornelisse74**: 40mm Marco crouch in.. and thank you. ([link](https://www.threads.com/@cornelisse74/post/DfFukpDoJXC))
+  - _Replying to: That tight centered macro is lovely - dark disc florets sha…_
 - **janatopping**: The Moon last night ([link](https://www.threads.com/@janatopping/post/DfFh5_qEQ9V))
   - Photo: Description: A glowing full moon rises through dense tree branches and power lines during twilight. The urban landscape blends nature and infrastructure under a purple-grey evening sky. Photograph read: The vertical composition creates a layered nightscape where harsh utility lines intersect with the soft, luminous orb of the moon and foliage, evoking a quiet, everyday evening mood.
-- **bumpy120**: I walk one and a half hours every day for my health. I snap photos everywhere I go. It's a passion. ([link](https://www.threads.com/@bumpy120/post/DfFp_uclQdj))
-  - _Replying to: What a set - ladybug centered on its leaf, then seed head, …_
+- **bumpy120**: I'm lucky to live by the lake of two mountain Montreal Quebec. There's always something to capture. ([link](https://www.threads.com/@bumpy120/post/DfFstiXn38i))
+  - _Replying to: An hour and a half walk with a camera in hand is the best k…_
+- **hilarieshea**: It’s a picture just from my cellphone🤓 (Which is generally in my back pocket🙄) ([link](https://www.threads.com/@hilarieshea/post/DfFtcgVlOwj))
+  - _Replying to: An overcast walk paying off like that is the best kind - so…_
 - **sunflower4smiles**: It was lightly snowing and most were nothing special until I saw that amazing Lil snowflake! Took the pic and it was a keeper! ([link](https://www.threads.com/@sunflower4smiles/post/DfFn42slXKx))
   - _Replying to: Lightly coming down and you still caught one crisp six-poin…_
 - **hannele.heikkinen**: It didn't come naturally, the icicle was hanging from a rose bush branch, I needed to find the perfect camera angle which was low. ([link](https://www.threads.com/@hannele.heikkinen/post/DfFmiisjvKJ))
@@ -38,14 +50,18 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **hannele.heikkinen**: This is the same icicle without light ([link](https://www.threads.com/@hannele.heikkinen/post/DfFlFuRjhQS))
   - Photo: Description: A large icicle hangs delicately from a bare tree branch against a soft, sunlit winter sky, capturing a quiet morning moment. The smooth, glistening ice contrasts with the dark, jagged twigs, evoking a crisp, freezing day. Photograph read: The low-angle vertical composition frames the translucent ice against a gradient sky, creating a serene and contemplative mood defined by natural morning light.
   - _Replying to: Thank you, ice called me outside, I saw it through window a…_
-- **mgollhardt**: It was lying on the ground on our property at Lake Eufaula, OK 😍 ([link](https://www.threads.com/@mgollhardt/post/DfFnwdtiTrs))
-  - _Replying to: That extreme macro turns one red oak leaf into a whole land…_
+- **bobdee_photo**: Same day.....the yellow are Hibiscus ([link](https://www.threads.com/@bobdee_photo/post/DfFyQNSDIuj))
+  - Photo: Description: A close-up shot captures a brilliant green blowfly clinging to a thin, textured branch against a vibrant yellow background. The insect's metallic iridescent exoskeleton and large red compound eye are prominently displayed in profile. Photograph read: The extreme macro composition isolates the subject with sharp clarity, using a bright, contrasting background to emphasize the rich metallic textures and colors of the fly.
+  - _Replying to: A fly that actually sits still is a gift - that iridescence…_
 - **apo_regnu**: Just needed a little help. ([link](https://www.threads.com/@apo_regnu/post/DfFjsiZCJhY))
   - _Replying to: Setting just the decorated cow upright and leaving the rest…_
 - **ylvack**: I spend many hours sitting in the paddock with my two horses. We share many moments where we simply exist in the present, enjoying the stillness—side by side. ([link](https://www.threads.com/@ylvack/post/DfFfxlUDu1Z))
   - _Replying to: Sitting with him in the paddock and catching that still mom…_
-- **rehmeyermary**: I was on a nature walk & came upon it near the woods row. It was opening up. In another day or two it was opened. ([link](https://www.threads.com/@rehmeyermary/post/DfFm4DOG6zE))
-  - _Replying to: The shallow depth does lovely work here - that yellow cup s…_
+- **thejowatson**: Thank you! I'm sure it's after a rain. I have a tendency to "stalk" rain drenched flowers. 🙂 ([link](https://www.threads.com/@thejowatson/post/DfFsmgklK1M))
+  - Photo: Description: A vibrant purple periwinkle flower is covered in glistening water droplets after a recent rain. Lush green leaves and unopened buds surround the bloom, creating a fresh, botanical scene ideal for nature-focused social media. Photograph read: The tight vertical composition centers on the dew-drenched flower under soft natural light, creating a calm and refreshing mood with sharp detail on the water beads.
+  - _Replying to: That vertical cascade works beautifully - pale green calyxe…_
+- **rehmeyermary**: Yes I did😁 ([link](https://www.threads.com/@rehmeyermary/post/DfFs3Q9GzOz))
+  - _Replying to: Catching it mid-opening on a nature walk is perfect timing …_
 - **luvsravens59**:  ([link](https://www.threads.com/@luvsravens59/post/DfFhoj4lZVI))
   - Photo: Description: A dense cluster of brown mushrooms with distinctive cracked, white-patterned caps grows directly from a patch of green grass. A few smaller, detached caps lie scattered to the right of the main group. Photograph read: Shot from directly above in bright daylight, the vertical composition uses sharp focus and strong contrast to highlight the intricate web-like textures of the mushroom caps against the blades of grass.
   - _Replying to: That top-down view turns a mushroom cluster into a whole la…_
@@ -65,6 +81,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: No garden needed - an eye that spots a magenta calla like t…_
 - **cheeks1969**: Special trip back it was, cheers 🍻 ([link](https://www.threads.com/@cheeks1969/post/DfFaLH9FVMV))
   - _Replying to: Thank you appreciate the detailed comment, and it was rain …_
+- **frances.gander**: Every year we get mushrooms there. Last year was the first time we saw the accordion caps. ([link](https://www.threads.com/@frances.gander/post/DfFsDohDmw9))
+  - _Replying to: Crouched on a railway sleeper in your own back garden - tha…_
+- **shel_bee_g**: It was terrified, first day out of nest, mom and dad no where to be founded. There were two, so scared. At my front door. ([link](https://www.threads.com/@shel_bee_g/post/DfFysUrkk69))
+  - _Replying to: That tight close-up on the squirrel's glossy eye against we…_
 - **tuckerstyle**: At that time, I lived in one of the leafy suburbs of Dallas. I had two oaks and three big pecan trees on my lot, so there were plenty of cicadas. They are the sound of summer in Texas. ([link](https://www.threads.com/@tuckerstyle/post/DfFediDIHnX))
   - _Replying to: (photo reply, no text)_
 - **mopixcle**: I am more willing to experiment with it now, that's for sure. I've been experimenting with dusk photography where the colors are soft and muted, and it almost looks black and white, or like a photo that has been colorized. ([link](https://www.threads.com/@mopixcle/post/DfFWYI9oU-v))
