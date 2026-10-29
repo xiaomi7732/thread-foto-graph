@@ -2,10 +2,6 @@ name: Generate Reply Image Gallery
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Update Thread Topic Graph"]
-    types: [completed]
-    branches: [main]
 
 # Share the writer lock and token cache with the topic-graph pipeline.
 concurrency:
@@ -19,9 +15,6 @@ permissions:
 
 jobs:
   gallery:
-    if: >-
-      github.event_name == 'workflow_dispatch' ||
-      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
