@@ -10,7 +10,7 @@
       "photos": [
         "Description: A large, brightly colored sign for Stocker Farms features a carved jack-o'-lantern flanked by ears of corn beneath a miniature roof, with a smaller hanging sign that reads \"WELCOME.\" The autumn-themed entrance sign stands against a pale, overcast sky. Photograph read: Shot from a low upward angle against a diffuse, overcast sky, the rustic sign is centrally framed to highlight its whimsical textures and autumn aesthetic."
       ],
-      "reply_count": 130,
+      "reply_count": 132,
       "replies": [
         {
           "username": "revdeb95",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A brindle and white dog with a pink collar stands proudly on a wooden porch surrounded by an array of autumn pumpkins, gourds, and potted yellow flowers. The front steps are flanked by festive fall decor against a dark red house with a light-colored door. Photograph read: The symmetrical arrangement of pumpkins and foliage frames the central subject nicely under even daylight, creating a cheerful and welcoming seasonal mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That symmetrical porch setup frames the dog like the star of the show - pumpkins and gourds lined up on both sides, pink collar popping against the dark red house, all in that even daylight. Did she pose herself among the pumpkins, or was she just guarding the porch and you caught her at it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfESNq6kZ8f",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pattymooney69",
@@ -31,10 +42,21 @@
           "photos": [
             "Description: Two smiling people stand beside two costumed participants wearing carved jack-o'-lanterns on their heads, complete with race bibs numbered 2414 and 2413 in an outdoor autumn setting. The scene captures a quirky race or festival moment, perfect for sharing a fun Halloween or event flashback. Photograph read: Captured in natural outdoor light, this medium shot frames the four figures symmetrically against a backdrop of bare trees and autumn foliage, creating a lighthearted and festive mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The medium shot framing all four in a row is the joke delivery - two smiling faces, then two carved pumpkin heads with race bibs 2414 and 2413, bare trees behind them like the crowd. Did the pumpkin-heads actually run the race, or was the finish line photo the whole event?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfESPBVjoyD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "meloartistic",
