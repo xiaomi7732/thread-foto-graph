@@ -4,22 +4,29 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (63)
+## Needs Reply (65)
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **kleinman.leslie**:  ([link](https://www.threads.com/@kleinman.leslie/post/DfDqupWDiNO))
-  - Photo: Description: A festive autumn display sits on a grassy lawn featuring a hay bale topped with pumpkins, purple mums, and a small scarecrow. Nearby, a wooden bucket holds colorful artificial leaves, yellow-flowered mums, and ornamental kale, while a vertical stack of diverse pumpkins stands to the right. Photograph read: Captured in bright, natural daylight, the eye-level composition highlights the rich autumn colors and textures with clear shadows cast across the green lawn.
+- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/DfDyAhKEvPu))
+  - Photo: Description: A row of six carved jack-o'-lanterns lines up diagonally along a wooden porch floor, resting against a weathered white railing. The autumn decor creates a festive, seasonal scene well-suited for a fall post. Photograph read: The high-angle shot uses leading lines created by the diagonal arrangement of pumpkins and the vertical railing slats, captured in bright daylight that creates a clean, cheerful mood.
+- **jeness.maresa**:  ([link](https://www.threads.com/@jeness.maresa/post/DfDxcSggLUX))
+  - Photo: Description: A single orange pumpkin sits on a gray railing draped with tangled, glowing holiday lights against a red wooden wall and a multi-paned window. This cozy autumn scene is perfect for sharing seasonal vibes on social media. Photograph read: Captured from a straight-on eye-level angle, the vertical composition centers the pumpkin in front of the window, creating a warm, nostalgic holiday mood through soft lighting and rich contrasting colors.
 - **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
   - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
-- **photography_cac**: Crown was the plan. I wanted to make a forest fairy owl. I feel like I mostly accomplished the goal! ([link](https://www.threads.com/@photography_cac/post/DfDtgQXlVxd))
-  - _Replying to: That slightly elevated eye-level frame lets the seed-outlin…_
+- **photography_cac**: Definitely craft store mission. I would feel so bad treating real flowers with a hot glue gun 😉 ([link](https://www.threads.com/@photography_cac/post/DfDwzNelZjv))
+  - _Replying to: Forest fairy owl, crown and all - mostly accomplished is un…_
 - **craigkeepingbusy**: The posts ([link](https://www.threads.com/@craigkeepingbusy/post/DfDvCCgm6G2))
   - Photo: Description: Several wooden posts lean against a weathered dark wood fence, resting on a bed of gravel dotted with scattered autumn leaves. The composition and outdoor setting suggest a weekend DIY or backyard renovation project in progress. Photograph read: The vertical lines of the leaning lumber create a strong diagonal rhythm against the vertical planks of the fence, rendered in natural daylight with an earthy, rustic mood.
   - _Replying to: They absolutely count - that high, slightly angled view ove…_
-- **craigkeepingbusy**: Each one was numbered and then assembled in order and yes they all came from the same post. ([link](https://www.threads.com/@craigkeepingbusy/post/DfDu6XemzX5))
-  - _Replying to: They absolutely count - that high, slightly angled view ove…_
 - **melisagogo**: Throwback to when my son was 3 at the most expensive pumpkin patch in Nebraska ([link](https://www.threads.com/@melisagogo/post/DfDZbn5oJJE))
   - Photo: Description: A smiling young boy wearing a red baseball cap and a camouflage jacket poses among scattered pumpkins in a harvested field, making a classic autumn post. Photograph read: The subject is centered in a medium shot under bright, direct daylight, creating an upbeat and cheerful outdoor mood.
+- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfD1VO1kY69))
+  - Photo: Description: An American flag mosaic made from painted red, white, and blue seashells rests on sandy dunes, with a beach and ocean visible in the background under a clear sky. This patriotic beach art makes a great share for a summer holiday post. Photograph read: The high-angle, eye-level composition captures the vibrant shell flag sharply in the foreground against the natural tones of the sand and ocean, illuminated by bright daylight to create a warm and cheerful mood.
+  - Photo: Description: A sprawling beach features a large mosaic made of colorful shells in the sand, depicting a pot of gold with rainbows reaching toward shamrocks. Nearby, a decorated pine tree stands near the surf, while a line of beachfront homes stretches along the dunes under a bright blue sky. Photograph read: Captured from a high-angle perspective, the composition uses leading lines from the beach and dune grass to draw the eye toward the distant horizon under bright midday sunlight, creating a whimsical and cheerful mood.
+  - _Replying to: A beach homeowner who redecorates for every holiday - that …_
+- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfD04UFEfdN))
+  - Photo: Description: An American flag made from painted seashells rests in the sand of a coastal dune overlooking the ocean under a clear blue sky. A wooden boardwalk railing and sparse beach grass frame the scene, suggesting a patriotic summer display at the beach. Photograph read: Taken from a slightly elevated eye-level angle, the horizontal composition balances the vibrant seashell flag against the muted earth tones of the sand and sea under bright, direct daylight, creating a cheerful, patriotic mood.
+  - _Replying to: A beach homeowner who redecorates for every holiday - that …_
 - **mapletreephotography_wpm**: Yes, yes it did…❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDdDmFARoW))
   - _Replying to: Then your wife gets the credit and your vertical frame gets…_
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
