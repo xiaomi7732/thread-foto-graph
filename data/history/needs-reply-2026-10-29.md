@@ -4,21 +4,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (121)
+## Needs Reply (122)
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
-- **debruys**: Caddisfly ([link](https://www.threads.com/@debruys/post/DfGmaCcEWpe))
-  - Photo: Description: A dark-bodied insect with long antennae rests on a mottled, speckled beige surface covered in tiny droplets. A bright white specular highlight gleams on the insect's head, contrasting with its dark coloring. Photograph read: The top-down macro shot centers the isolated subject against a textured, reflective background, creating a stark, high-contrast urban macro scene.
-- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/DfGjVx2GYTv))
-  - Photo: Description: A close-up shot captures three ribbed plantain seed heads and a single small yellow flower amid a lush green meadow, highlighting the textures of late-stage wildflowers. This natural scene offers a calming, earthy aesthetic well-suited for nature appreciation posts. Photograph read: The tight close-up composition highlights the intricate textures of the plantain heads against a soft-focus green background, rendered in even daylight that creates an intimate, observational mood.
+- **goinwalking**:  ([link](https://www.threads.com/@goinwalking/post/DfGr1x-lJSP))
+  - Photo: Description: A fuzzy, pollen-covered bee hovers in mid-air next to a pale, round flower bloom. Soft, out-of-focus floral elements create a dreamy, light-filled backdrop. Photograph read: Captured with a shallow depth of field, the high-key lighting and delicate focus isolate the hovering insect against a soft, bright background, creating a serene and ethereal mood.
+- **therealranameehan**: The common house fly ([link](https://www.threads.com/@therealranameehan/post/DfGrr1VkQ2O))
+  - Photo: Description: A close-up shot captures a bristly fly perched on the edge of a white flower petal against a soft, pale background. Photograph read: The tight framing and shallow depth of field isolate the insect in profile, creating a sharp, clinical study against a cool, muted backdrop.
+- **sandrae34231**: Joro spider. ([link](https://www.threads.com/@sandrae34231/post/DfGpqj5EXM9))
+  - Photo: Description: A brightly colored yellow, red, and black spider hangs suspended in its intricate web against a lush, out-of-focus green background. Photograph read: The vertical composition uses a narrow depth of field to isolate the sharply detailed spider, while natural daylight highlights its vibrant patterns against a moody green forest backdrop.
 - **davidwiewel**:  ([link](https://www.threads.com/@davidwiewel/post/DfGg6LKkc0J))
   - Photo: Description: A gravel road winds through a vibrant autumn forest under a clear blue sky, flanked by trees with early signs of changing yellow leaves and grassy verges. Perfect for sharing a quiet morning hike or a scenic autumn drive on social media. Photograph read: The straight-on eye-level composition uses the curving dirt path as a natural leading line into the dense, sunlit trees, creating a peaceful and inviting woodland mood.
+- **callejero098**: I shot closely the bloom. ([link](https://www.threads.com/@callejero098/post/DfGsXxskUP7))
+  - _Replying to: That tight centered framing puts the stamen front and cente…_
+- **marisilues**: Appreciate the words. Thank you! ([link](https://www.threads.com/@marisilues/post/DfGrLefDWEo))
+  - _Replying to: A little bit of both is the honest answer - you framed it, …_
 - **buzz.crunch**: You’ve always got stuff crawling on you in Australia 😀 ([link](https://www.threads.com/@buzz.crunch/post/DfGl27EHyle))
   - _Replying to: Feeling it crawl on you and still getting the shot is real …_
-- **mcklarken**: Just crouched down and took it close up with my iPhone 14! The blooms are actually very small. ([link](https://www.threads.com/@mcklarken/post/DfGm6WLFMwr))
-  - Photo: Description: This top-down photo captures a cluster of delicate wildflowers with tiny yellow blossoms and pale green stems nestled among tall, wild grass. The natural, unfiltered perspective offers an earthy, rustic vibe suited for a nature or botany post. Photograph read: Taken from a high-angle perspective, the composition creates an organic pattern of overlapping blades and stems under even, natural light, conveying a quiet, outdoorsy mood.
-  - Photo: Description: Slender stems of a wild plant with small, yellow flowers and fuzzy buds weave through a dense background of long green grass. The close-up perspective captures delicate details of the foliage and stems, ideal for nature-focused social media posts. Photograph read: The vertically oriented shot features a centered subject with soft, natural lighting that emphasizes the fuzzy texture of the stems against a blurred grassy background, creating a calm and earthy mood.
-  - _Replying to: That macro isolation is lovely - one tiny star-shaped bloom…_
 - **kohllock**: Thank you, I’m learning 😄 ([link](https://www.threads.com/@kohllock/post/DfGU8D5GtH8))
   - _Replying to: Focusing on that tiny bloom was the right instinct - the pi…_
 - **dianelynnturnbull**: Spiders are not among my favorite insects. Webs on the other hand fascinate me. There is a lesson here... ([link](https://www.threads.com/@dianelynnturnbull/post/DfF5_UtEs-C))
@@ -89,8 +91,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Gathering favorites over years and posting them when they f…_
 - **wendy.wilkinson.photography**: Haha not usually but I'd gone to the gardens at a nearby Country Hall and took my macro lens. It wasn't that breezy at home but was different when I got there and my flash decided not to work. I only managed about 6 or 7 decent photos lol ([link](https://www.threads.com/@wendy.wilkinson.photography/post/DfFgsQmEWyU))
   - _Replying to: Handheld, breezy, no flash - and still that sharp? That pat…_
-- **carocaluwe263**: First I see the leaf with the amazing color. When I looked deeply ,I see the green and red veins. At least the shape. ([link](https://www.threads.com/@carocaluwe263/post/DfGmTXADOfK))
-  - _Replying to: The centered frame lets that heart-shaped leaf do all the t…_
 - **dan.farkas**: L. Thunderhead, MO ([link](https://www.threads.com/@dan.farkas/post/DfFdvhuoGs7))
   - _Replying to: A winter walk by the lake turning up a twig frozen in an ic…_
 - **friendlyvonne**: Yes, the sign surprised me! ([link](https://www.threads.com/@friendlyvonne/post/DfFd_Szk5Hq))
