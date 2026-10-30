@@ -6,32 +6,24 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (156)
+## Needs Reply (151)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **tiv34**:  ([link](https://www.threads.com/@tiv34/post/DfH8BQ4CvXT))
-  - Photo: Description: A close-up shot captures a pale purple poppy covered in shimmering raindrops after a shower, its delicate petals drooping slightly against a soft, green garden backdrop. Hidden deep within its dark, velvety center is a bumblebee, sheltering from the wet weather. Photograph read: The tight framing and shallow depth of field emphasize the vibrant texture of the water droplets and the rich tones of the flower, creating a moody, intimate nature scene under overcast light.
-- **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DfH7XPsGq3n))
-  - Photo: Description: A dense bed of small, globe-like pink and white flowers covers the ground, with dark green leaves and trailing stems visible beneath them. In the soft-focused background, a low concrete wall and leafy trees are silhouetted against a bright, hazy sky during what appears to be late afternoon or early morning. Photograph read: Captured from a low angle, the shot uses a shallow depth of field to sharply isolate the foreground blossoms while warm, diffused light creates a tranquil and serene mood.
-- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/DfH6xtvmMRU))
-  - Photo: Description: Vibrant magenta bougainvillea branches cascade down against a brilliant blue sky, framing the corner of a white building below. The bright, sunlit composition evokes a warm, cheerful vacation aesthetic. Photograph read: The low-angle vertical framing creates dynamic diagonal lines, emphasizing the striking contrast between the vivid pink blossoms and the deep blue sky under harsh midday sun.
-- **hanssensally**:  ([link](https://www.threads.com/@hanssensally/post/DfH5eysG_7Z))
-  - Photo: Description: A close-up shot captures a vibrant cluster of garden roses in full bloom, featuring gradients of soft pink and warm orange. The lush green foliage provides a natural, garden-fresh backdrop suitable for a spring or nature-themed social media post. Photograph read: The tight vertical composition emphasizes the velvety texture of the petals, illuminated by soft, diffused daylight that creates a warm, cheerful mood.
-- **beautifulnatureinmyeyes**:  ([link](https://www.threads.com/@beautifulnatureinmyeyes/post/DfH4-ofoEri))
-  - Photo: Description: A vibrant, deep red hibiscus flower blooms fully in the center of the frame, showcasing its prominent yellow stamen and textured petals. Surrounded by lush green foliage, this eye-catching floral close-up is ideal for nature-focused social media posts celebrating the beauty of the outdoors. Photograph read: The centered composition and sharp focus highlight the intricate texture of the petals, while bright, direct lighting creates a dramatic contrast against the softly blurred, leafy background.
-- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DfH47Obn_tN))
-  - Photo: Description: A vibrant cluster of pink plumeria flowers and bright green leaves extends from a woody branch against a solid grey wall. Delicate water droplets cling to the foliage, suggesting a recent rain. Photograph read: The vertical composition uses natural outdoor lighting to highlight the rich textures and colors of the flora against a neutral backdrop, creating a serene and refreshing mood.
-- **perrywlamarche**: I was just having some fun with a bouquet I got for my wife for our eighth anniversary, and I just started playing with my little VW which I just got in Mexico City, the orange is a canvas for what hopefully will one day become a work of art. Thanks for the feedback! ([link](https://www.threads.com/@perrywlamarche/post/DfH7EPem1Eq))
-  - Photo: Description: A small, yellow toy Volkswagen Beetle is parked in profile on a vibrant orange surface against a lush backdrop of pink and burgundy flowers. The cheerful color combination and whimsical staging create a playful, nostalgic scene suitable for a spring or vintage-themed social media post. Photograph read: The eye-level composition highlights the car's classic silhouette, while soft, natural light and saturated colors create a warm, cheerful mood.
-  - _Replying to: Putting the little yellow Beetle front and center was a fun…_
-- **craigkeepingbusy**: I was just standing on the path and thought that would make a good picture . ([link](https://www.threads.com/@craigkeepingbusy/post/DfH5bKem3Lb))
-  - _Replying to: That top-down framing turns the bed into pure pattern - rin…_
+- **bojonvelvet2.0**: Flowers left as a memorial for Claude, the beloved Cal Academy of Science’s albino alligator.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfH8qNEGmJ2))
+  - Photo: Description: A makeshift memorial featuring bouquets of various flowers, loose stems, and a wrapped pastry rests at the base of a curved stone wall beneath a large photograph of an all-white alligator. Photograph read: The centered vertical composition creates a solemn and reverent mood, highlighted by natural diffuse lighting that softly illuminates the stone niche and floral arrangements.
+- **tiv34**: Thank you, but sorry to disappoint, those poppies have spots and centres that look like bumbles. ([link](https://www.threads.com/@tiv34/post/DfH_RvwCohL))
+  - Photo: Description: A damp pink poppy with a dark center hangs its head, covered in fresh raindrops in an outdoor garden. Other poppy buds and flowers bloom softly in the blurred background under an overcast sky. Photograph read: The eye-level, slightly low-angle shot captures the delicate texture of the petals and water droplets under even, diffused daylight, conveying a serene and melancholic mood.
+  - Photo: Description: A vibrant magenta poppy with a yellow center and white stamens blooms prominently in a sunlit garden, surrounded by other flowers, green foliage, and a seed pod. The sunny backyard setting with a partial view of a house in the background adds a cheerful, everyday quality to the scene. Photograph read: Bright natural sunlight illuminates the textured petals of the main poppy, creating a sharp focus against the softly blurred garden background.
+  - Photo: Description: Several purple poppy flowers bloom with bright yellow-centered pistils amidst ruffled green foliage, growing in a black pot filled with dark mulch beside a red brick wall. The scene is illuminated by bright sunlight casting sharp shadows, creating a cheerful, natural garden aesthetic ideal for a seasonal nature post. Photograph read: The shot uses a tight, vertical composition with harsh, direct sunlight that creates crisp shadows and emphasizes the rich textures of the brickwork, crinkled petals, and jagged leaves, evoking a bright, summery mood.
+  - _Replying to: That tight framing turns a rainy poppy into a little hideaw…_
+- **taiwanese726**: Vacation in Santorini ([link](https://www.threads.com/@taiwanese726/post/DfH9irXmGRy))
+  - _Replying to: That low angle turns the bougainvillea into pure diagonal e…_
+- **beautifulnatureinmyeyes**: I was just lucky that day .. thank you ([link](https://www.threads.com/@beautifulnatureinmyeyes/post/DfH9jBNIKxU))
+  - _Replying to: Centering that hibiscus was the move - the red petals go bo…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
-- **maureenozerimages**: My friend bought it for a photoshoot she was doing & I took a pic while it was sat on the window ledge. The calm of the photo shows no indication of the chaos behind me 😆 ([link](https://www.threads.com/@maureenozerimages/post/DfH8CoaDeeE))
-  - _Replying to: That low angle against the pale sky turns the orchids into …_
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/DfHri1ykzuM))
