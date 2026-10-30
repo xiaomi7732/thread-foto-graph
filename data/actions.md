@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (148)
+## Needs Reply (152)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
+- **titiesti2020**:  ([link](https://www.threads.com/@titiesti2020/post/DfHxzurH4pL))
+  - Photo: Description: A cat's whiskers plant blooms in a garden, showing off its unique white flowers with exceptionally long, thread-like stamens radiating outward beneath a tapered green spike of unopened buds. The natural outdoor setting makes this a lovely candidate for nature or botany-themed social media posts. Photograph read: Soft natural light illuminates the central flower cluster against a softly blurred background of green foliage and brown earth, creating a calm and organic mood with a centered vertical composition.
+- **jeness.maresa**:  ([link](https://www.threads.com/@jeness.maresa/post/DfHxr6doD8_))
+  - Photo: Description: A single oxeye daisy with white petals and a bright yellow center stands upright, nestled amid a dense patch of tall green grass. The outdoor nature setting provides a fresh, natural aesthetic. Photograph read: The eye-level composition frames the daisy centrally amidst a crisscross of tall grass blades, lit by soft, diffused daylight that creates a serene and secluded mood.
+- **votivevault**:  ([link](https://www.threads.com/@votivevault/post/DfHxoEWG207))
+  - Photo: Description: A vibrant magenta zinnia flower fills the frame, showcasing its distinct tubular petals radiating around a textured yellow center. Soft green foliage and a blurred brownish background provide a natural setting, ideal for a garden update or botanical post. Photograph read: The centered composition and shallow depth of field draw full attention to the flower's intricate textures, lit evenly in natural daylight to create a lively and refreshing mood.
+- **maureenozerimages**: Blue orchid ([link](https://www.threads.com/@maureenozerimages/post/DfHxlovDYFV))
+  - Photo: Description: A vibrant cluster of blue orchids is shown in close-up against a pale blue sky, with a stem of unopened buds extending downward. The striking floral display creates a natural, eye-catching subject well-suited for a botanical or nature-themed social media post. Photograph read: The low-angle, tight composition frames the vivid blue petals against an even sky, producing a serene and striking mood through natural backlighting.
 - **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DfHxaX1lias))
   - Photo: Description: A close-up black and white photograph of a tight cluster of roses fills the frame, with a central rosebud in sharp focus. The detailed petals create a moody, romantic atmosphere suitable for a floral appreciation post. Photograph read: The high-contrast monochrome lighting accentuates the delicate texture of the petals, creating a dramatic and elegant composition centered on the prominent rose.
 - **kes_ward**:  ([link](https://www.threads.com/@kes_ward/post/DfHxSEjDp8g))
