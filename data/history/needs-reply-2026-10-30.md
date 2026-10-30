@@ -4,19 +4,29 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (154)
+## Needs Reply (159)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **liddell1618**: The sweet pea ([link](https://www.threads.com/@liddell1618/post/DfIjv8KDgDv))
-  - Photo: Description: A close-up shot captures a delicate pink and magenta sweet pea flower in full bloom, showcasing its intricate petal veining. The soft-focus green background highlights the vibrant colors of the blossom, making it an ideal post for celebrating spring. Photograph read: The tight vertical framing and shallow depth of field isolate the textured petals against a blurred natural background, creating an intimate and serene botanical study.
-- **valeriebray103**: The day before. ([link](https://www.threads.com/@valeriebray103/post/DfIhw80Edxq))
-  - _Replying to: Centering your own wedding arrangement like a portrait - li…_
-- **victorinawahyuniarimbi**: I go for a jog every morning... and the flowers I photograph are ones I come across along the way. At home, I only have Balinese frangipani, Adenium (desert rose), jasmine, and two-colored bougainvillea. ([link](https://www.threads.com/@victorinawahyuniarimbi/post/DfIYiFak-dt))
-  - _Replying to: That tight crop lets the ruffled crimson petals do all the …_
+- **juliet.4066**:  ([link](https://www.threads.com/@juliet.4066/post/DfIq0ZfDvgm))
+  - Photo: Description: A vibrant patch of bright red poppies blooms amidst tall, dry grasses and seed pods under a partly cloudy blue sky. This rustic, sun-drenched meadow scene evokes a peaceful summer countryside aesthetic. Photograph read: The eye-level composition captures a dense cluster of wildflowers bathed in warm afternoon sunlight, creating a bright and serene pastoral mood.
+- **reef_ausic**:  ([link](https://www.threads.com/@reef_ausic/post/DfIpnGyktvx))
+  - Photo: Description: A vibrant pink zinnia flower fills the center of the frame, showcasing layers of soft petals and a textured yellow and dark red center. Surrounding the main bloom are several other pink zinnia flowers and green foliage, creating a lively garden scene. Photograph read: The top-down, centered composition highlights the symmetrical petals and intricate center of the primary flower, set against a softly blurred garden background under even daylight.
+- **greghillman11**: With a tiny bush Bee fully loaded. ([link](https://www.threads.com/@greghillman11/post/DfIm4ZbE6Zl))
+  - Photo: Description: A small, dark bee with bright yellow pollen sacs on its legs hovers in mid-air near the vibrant red and green reproductive structures of a flower. The bold primary colors and striking macro perspective create an eye-catching nature scene ideal for a botanical or wildlife post. Photograph read: The macro composition balances the floating bee on the left against the intricate, textured floral anatomy on the right under bright, even light that emphasizes the vivid red and pale green hues with a sharp focus.
+- **carolanne1066**: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖 ([link](https://www.threads.com/@carolanne1066/post/DfIn_qxDoe1))
+  - _Replying to: The sweet pea_
+- **liddell1618**: Right back atcha Carolanne 💜💙❤️🥰😘 ([link](https://www.threads.com/@liddell1618/post/DfIpFF3jnob))
+  - _Replying to: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖_
+- **liddell1618**: Grown myself , sweet peas make for great shots ([link](https://www.threads.com/@liddell1618/post/DfIlzZCDnWn))
+  - _Replying to: That tight vertical framing lets the sweet pea do all the t…_
+- **oznatureart**: Thank you... yes it was soft light... always amazes me, although obvious, the effects different light has on subject matter ([link](https://www.threads.com/@oznatureart/post/DfIo6SPkw2T))
+  - _Replying to: That tight framing turns the crape myrtle into a little bot…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
+- **kes_ward**: Thank you my friend. Very kind words. ☺️ I do enjoy playing around at home sometimes instead of my usual getting outdoors. 😁 ([link](https://www.threads.com/@kes_ward/post/DfIpMfhDu_o))
+  - _Replying to: A lounge turned studio - curtains closed, two little LED gr…_
 - **abnerabel125**: I bet that you are . There are some really talented people out there . I enjoy looking at all the photos people post . It gives me ideas of different ways of looking at things. Keep up the great work . ([link](https://www.threads.com/@abnerabel125/post/DfIQxw_jwKH))
   - _Replying to: 🤣🤣🤣 You know what, I am really struggling to pick only 3 of…_
 
