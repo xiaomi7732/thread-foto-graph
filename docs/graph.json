@@ -10,8 +10,56 @@
       "photos": [
         "Description: A fallen brown leaf rests among green grass blades in a park during autumn. Sunlight catches the leaf's edge, highlighting its veins and texture against the muted background. Photograph read: The low-angle composition emphasizes the textured surface of the leaf under bright, directional light, creating an intimate, nostalgic mood."
       ],
-      "reply_count": 433,
+      "reply_count": 464,
       "replies": [
+        {
+          "username": "davidwiewel",
+          "text": "",
+          "permalink": "https://www.threads.com/@davidwiewel/post/DfGg6LKkc0J",
+          "photos": [
+            "Description: A gravel road winds through a vibrant autumn forest under a clear blue sky, flanked by trees with early signs of changing yellow leaves and grassy verges. Perfect for sharing a quiet morning hike or a scenic autumn drive on social media. Photograph read: The straight-on eye-level composition uses the curving dirt path as a natural leading line into the dense, sunlit trees, creating a peaceful and inviting woodland mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "callejero098",
+          "text": "",
+          "permalink": "https://www.threads.com/@callejero098/post/DfGgEpRkUl6",
+          "photos": [
+            "Description: A vibrant macro shot captures the intricate center of a red flower, radiating outward with bold petals and pale, tubular stamen tips. Perfect for a nature-loving post celebrating the fine details of summer blooms. Photograph read: The tight, centered composition and sharp focus on the yellow-tipped stamen create a vivid, intimate perspective illuminated by bright, even light."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "margaretkovalart",
+          "text": "Found these tiny shrooms right next to my driveway.",
+          "permalink": "https://www.threads.com/@margaretkovalart/post/DfGdYAQlkZa",
+          "photos": [
+            "Description: Two vibrant, glossy red mushrooms sprout from a damp forest floor covered in green moss, tiny plants, and dark soil. The low-angle perspective highlights the striking contrast of the bright red caps against the natural woodland background. Photograph read: Captured at ground level, the eye-level macro perspective uses soft, natural daylight to emphasize the damp, glossy texture of the subjects against a blurred forest background, creating an earthy and tranquil mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "fephi",
+          "text": "",
+          "permalink": "https://www.threads.com/@fephi/post/DfGdKsfm18B",
+          "photos": [
+            "Description: A small cluster of pale, slender mushrooms with ribbed caps grows amidst dewy green grass blades. The low-angle viewpoint places the viewer at ground level, creating a serene, natural scene reminiscent of a morning lawn discovery. Photograph read: Captured at a low angle with a shallow depth of field, the natural morning light glints off dew drops on the vivid green grass, creating an intimate and tranquil mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "chantel_eliz",
           "text": "",
@@ -19,10 +67,21 @@
           "photos": [
             "Description: A fluffy bumblebee rests on the textured center of a vibrant yellow sunflower in full bloom. The close-up view captures the natural beauty of a warm sunny day in the garden. Photograph read: The vertical composition centers the flower while a shallow depth of field softly blurs the background, creating a bright and serene mood under natural daylight."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That vertical framing puts the bee right in the sunflower's heart - soft background melting away while the textured center stays sharp. Did you wait for the bee to settle dead center, or did it just cooperate while you were already in close?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdGaIjrGh",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "marisilues",
@@ -31,10 +90,32 @@
           "photos": [
             "Description: A patterned brown butterfly rests quietly on a vibrant green palm frond, its wings folded shut. Soft, natural light illuminates the scene against a lush, out-of-focus background of foliage. Photograph read: The subject is framed by sweeping diagonal lines of foliage that create a natural leading line toward the butterfly, establishing a calm and serene mood through shallow depth of field."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those sweeping diagonal fronds do lovely leading-line work - guiding the eye straight to the butterfly with its wings folded shut. Did you angle along the frond on purpose, or did the butterfly just pick the perfect perch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdH3mlBwV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "marisilues",
+                  "text": "I\u2019d say I little bit of both. I tried to \u201cframe\u201d it but the perfect spot was already chosen.",
+                  "permalink": "https://www.threads.com/@marisilues/post/DfGf9tTjYhX",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "mapletreephotography_wpm",
@@ -43,10 +124,21 @@
           "photos": [
             "Description: A vibrant red and black ladybug rests on a dew-covered green blade of grass, surrounded by a dense tangle of wet foliage. The damp environment and fresh droplets create a serene, post-rain scene that makes for a peaceful nature post. Photograph read: The tight composition frames the ladybug diagonally against a soft-focus background, using natural daylight to highlight the dew droplets and create a tranquil, intimate mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight diagonal framing is so calm - a red and black ladybug sharp against wet green, dew drops catching the light all around it. Did you get low to isolate the one blade, or did the post-rain light just hand it to you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdI9YFvir",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "darrincastle",
@@ -55,10 +147,32 @@
           "photos": [
             "Description: Bright orange and pale grey lichens grow on a rough rock face, creating a vibrant patch of natural color. The close-up shot highlights the distinct textures and cup-like structures of the organisms, making it an engaging nature detail for social media. Photograph read: The macro composition creates a striking diagonal split of contrasting textures and colors, illuminated by even, natural light that establishes a calm, observational mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That diagonal split is striking - bright orange against pale grey lichen, rough rock texture holding both sides together. Did you frame the split on purpose, or did the rock face just offer it up like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdKEeja4n",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "darrincastle",
+                  "text": "Pure luck on my part, I'm just learning how to do close up shots",
+                  "permalink": "https://www.threads.com/@darrincastle/post/DfGdj1cm9Yk",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "mlb21153",
@@ -67,10 +181,21 @@
           "photos": [
             "Description: A bumblebee gathers nectar from a cluster of vibrant purple Dame's rocket flowers, surrounded by lush green foliage. This close-up nature shot captures a quiet, sunlit moment in a garden or wooded area, ideal for a nature appreciation post. Photograph read: The vertical composition frames the central flower cluster tightly against a soft-focus green background, creating a calm and natural mood illuminated by bright daylight."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight vertical framing is lovely - the bee buried in purple blooms, soft green melting behind it. Did you wait for it to work the center cluster, or did it just wander into your frame?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdLW9gEu6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dag66",
@@ -79,10 +204,32 @@
           "photos": [
             "Description: A large, dark bumblebee hovers near a cluster of small buds and bright blue flowers amidst vibrant green leaves. The bright daylight and natural setting create a cheerful, garden-like atmosphere. Photograph read: The shot captures a dynamic macro moment with a high-key background and a shallow depth of field that isolates the bee and foliage in sharp focus."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That hovering moment is wonderful - the big dark bee sharp against a bright, high-key background, buds and blue flowers framing it. Did you catch it mid-hover by luck, or were you tracking it for a while?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdMaOIKXV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "dag66",
+                  "text": "I was tracking him for a while and just kept taking shots\u2026.he was very busy and taking his time so it was easy to catch him",
+                  "permalink": "https://www.threads.com/@dag66/post/DfGekDejZVh",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "elizaunder",
@@ -91,10 +238,21 @@
           "photos": [
             "Description: A bright green praying mantis perches alertly on a textured, weathered metal railing outdoors. Soft, natural light highlights the insect's spiky forelegs and triangular head as it gazes directly upward. Photograph read: Captured from a low, diagonal angle, the shallow depth of field isolates the mantis against a softly blurred background, creating an intimate, observant mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That low diagonal angle is perfect - the mantis alert on the railing, spiky forelegs and triangular head sharp against a soft blur. Did you crouch low to meet its gaze, or did it just look up at exactly the right moment?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdNnujXTb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "thejoshcain",
@@ -103,10 +261,21 @@
           "photos": [
             "Description: An extreme close-up view fills the frame with the mesmerizing, intricate seed head of a sunflower. The interlocking florets spiral outward in a hypnotic geometric pattern, shifting in color from a verdant green center to warm, golden-brown edges. Photograph read: The tight macro composition emphasizes the Fibonacci spiral, utilizing natural overhead light to create sharp textural contrast and a meditative, organic mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight macro is hypnotic - the spiral of florets filling the whole frame, green center melting into golden-brown edges. Did you shoot straight overhead to keep the spiral centered, or did the pattern just demand it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdPMYliBb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kenalexander59",
@@ -115,10 +284,32 @@
           "photos": [
             "Description: A large reddish-brown and yellow hornet is shown on a rough surface, surrounded by several much smaller black ants that appear to be scavenging it. The overhead outdoor shot captures a moment of harsh insect predation or scavenging in a natural setting. Photograph read: The macro shot features a shallow depth of field that isolates the central subjects against a softly blurred, neutral background under bright natural sunlight, creating a tense, documentary-style mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That overhead framing turns a harsh little moment into a documentary - the big hornet isolated while tiny ants work around it in soft daylight. Did you spot the scene and shoot straight down, or did you watch it unfold for a while first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdQOckdcX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "kenalexander59",
+                  "text": "On a flight of stairs so crouched a couple of stairs down. Could see the ants clustering round the hornet. Nikon 105mm macro lens.",
+                  "permalink": "https://www.threads.com/@kenalexander59/post/DfGeCr-iF5n",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "buzz.crunch",
@@ -127,10 +318,32 @@
           "photos": [
             "Description: A vibrant, lime-green spider rests centrally in the palm of a person's hand, contrasting sharply against the pink skin texture. The tiny arachnid's legs splay outward as it sits on the human skin. Photograph read: An extreme close-up shot uses natural, diffuse lighting to highlight the translucent green texture of the spider against the pink background, creating an intimate and curious mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That extreme close-up is so curious - a tiny lime-green spider sharp against pink skin, legs splayed, translucent texture glowing in diffuse light. Did it just wander onto your hand, or did you place it there for the shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdRaWAGAA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "buzz.crunch",
+                  "text": "I felt him crawling on me and thought I\u2019d get a shot \u2026 I like his little black eyes \ud83d\udc4c",
+                  "permalink": "https://www.threads.com/@buzz.crunch/post/DfGhnPdn7vo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "sophiatesch",
@@ -139,10 +352,32 @@
           "photos": [
             "Description: A striking red beetle with distinctive black wing-tip markings rests on a dry, pebbly dirt trail. The high-contrast coloring makes it stand out against the earthy ground, perfect for an outdoor or nature-spotting post. Photograph read: Direct overhead lighting casts a sharp shadow to the left of the vivid red insect, accentuating the rough texture of the gravel path in a clean, vertical composition."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That clean vertical framing is striking - the vivid red beetle sharp against rough gravel, its shadow falling neatly to one side. Did you shoot straight down to keep the trail texture in play, or did the beetle just pause in perfect light?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGdSzKkSIX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "sophiatesch",
+                  "text": "I was over them. I didn\u2019t have my glasses on at the time so I thought it was one beetle in morning shadow light. Turns out I was intruding on an intimate moment with two beetles but I still like the photo \ud83e\udd2dbut it explains why they were still enough for the photo.",
+                  "permalink": "https://www.threads.com/@sophiatesch/post/DfGdwnOG4Ni",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "glendagh25",
@@ -169,10 +404,21 @@
                   "text": "I just saw something interesting and zoomed in with my phone camera. Nothing was intentional.",
                   "permalink": "https://www.threads.com/@glendagh25/post/DfGZ72PlNiv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Nothing intentional and yet it landed perfectly - a phone zoom, a dried seed head glowing, and the frame did the rest. That is the best kind of accident.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdUGnEaJR",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -203,10 +449,21 @@
                   "text": "I am slightly obsessed with reflections. I just happened to be sitting beside her as she looked out the window and could see the window reflected in her eye",
                   "permalink": "https://www.threads.com/@monicamurty/post/DfGWvJlDp4z",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A reflection obsession paying off like that is wonderful - sitting beside her, window light doing all the composing. A quiet, lovely frame.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdVJ_DBEE",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -237,10 +494,21 @@
                   "text": "Just the one lone leaf i took it from above at an angle, just got lucky the sun was shining thru the trees above.",
                   "permalink": "https://www.threads.com/@christinemiller8770/post/DfGZqTeiZOq",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "One lone leaf, sun shining through the trees, and the angle did the rest. Lucky light, well caught.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdWh0ES7n",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -271,10 +539,21 @@
                   "text": "I flip my phone upside down and tilted it a little to get that angle.",
                   "permalink": "https://www.threads.com/@ballwithme21/post/DfGZolCGmo4",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Flipping the phone upside down for that low angle was the whole trick - the mug towers because of it. Clever, simple, and it worked.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGda-Zjev8",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -305,10 +584,21 @@
                   "text": "I caught it in the morning. I thought it would make a good photo. I waited for ever it seems. I wanted to try to catch water droplets on flowers .",
                   "permalink": "https://www.threads.com/@abnerabel125/post/DfGZRMKmoRt",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A morning wait for dew is patience well spent - the rosebud kept its droplets just for you. Worth every minute of the wait.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdcSCnBS4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -543,10 +833,21 @@
                   "text": "The spider just sat there and let me go in for a closeup. I live in a magical place where spiders abound and webs are everywhere.",
                   "permalink": "https://www.threads.com/@beccac1957/post/DfGXlIamJpg",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A spider that sits still for its close-up is a gift, and a place full of webs is a photographer's luck. Enjoy every one of them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdddyjHex",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -601,10 +902,21 @@
                   "text": "I took the picture straight down to get the whole top of the peony.. It was so big that I wanted to make sure to capture all of it",
                   "permalink": "https://www.threads.com/@maregracie67/post/DfGVcc6oCF_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Straight down was exactly right - a peony that big deserves the whole top in frame, ruffles and all. A joyful, full-bloom shot.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGde3_jUQ4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -691,10 +1003,32 @@
                   "text": "The color among the dead leaves",
                   "permalink": "https://www.threads.com/@retiredbadger/post/DfGYXapmhk7",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That one vivid leaf among the dead ones is the whole story - color holding out against faded foliage. A clean, sharp eye for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdgKMDEH3",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "retiredbadger",
+                          "text": "Thank you",
+                          "permalink": "https://www.threads.com/@retiredbadger/post/DfGdmYflAOs",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -815,10 +1149,21 @@
                   "text": "Thanks so much! I waded into the creek with my tripod and 105 macro to capture this image",
                   "permalink": "https://www.threads.com/@mike_w_robinson/post/DfGaRkDGiWi",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Wading into the creek with a tripod and a 105 macro is real commitment - and the leaf on wet stone paid it back. A calm, beautiful frame.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGdhUskZQo",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
