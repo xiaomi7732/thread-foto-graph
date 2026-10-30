@@ -6,21 +6,24 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (151)
+## Needs Reply (152)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **darrincastle**:  ([link](https://www.threads.com/@darrincastle/post/DfIE7PrGI7l))
-  - Photo: Description: A close-up shot captures a single white flower in full bloom, featuring delicate petals and a vibrant yellow center. Tiny droplets of water glisten on the petals, suggesting a recent morning dew or light rain. Photograph read: The tight framing centers the flower against a soft, out-of-focus background of greenery, creating a peaceful and refreshing mood under even daylight.
-- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DfIEWL2nClM))
-  - Photo: Description: A close-up shot captures the vibrant center of a white and pale pink lotus flower, highlighting its bright green seed pod and radiating golden stamens. This detailed botanical view would make a striking and serene addition to a nature-focused social media post. Photograph read: The tight top-down composition emphasizes the geometric patterns of the seed pod and stamens against the soft white petals, creating a clean, high-contrast, and tranquil mood.
-- **donbstevens**: I did indeed find a patch of shade. The blue petals were mesmerizing. ([link](https://www.threads.com/@donbstevens/post/DfIDhscEU_V))
-  - _Replying to: That tight vertical framing makes the blue do all the work …_
+- **wanie_and_family84**: 🌻🌻🌻. ([link](https://www.threads.com/@wanie_and_family84/post/DfII7NAn5K8))
+  - Photo: Description: A close-up shot captures a unique sunflower whose dark green center and surrounding yellow petals naturally form a distinct heart shape. The flower stands outdoors in bright sunlight against a softly blurred background of distant hills and green foliage. Photograph read: The vertical framing centers the heart-shaped sunflower in sharp detail, utilizing natural daylight to cast soft shadows and create a cheerful, romantic mood.
+  - Photo: Description: A vibrant sunflower takes center stage in a sunlit field, its bright yellow petals framing a textured green center. In the background, rolling green hills and sparse trees under a clear blue sky complete the serene outdoor scene. Photograph read: Captured in bright daylight, the centered composition emphasizes the bold yellow of the blossom against the earthy tones of the field and foliage, creating a cheerful and natural mood.
+- **georgiaphotopro**:  ([link](https://www.threads.com/@georgiaphotopro/post/DfIIb3TCRym))
+  - Photo: Description: A vibrant blanket flower is captured from a top-down perspective, showcasing its striking red petals tipped with bright yellow surrounding a dark central disc. Surrounding the flower are serrated green leaves, providing natural context that makes this a cheerful image for a garden-themed social media post. Photograph read: The high-angle, centered composition emphasizes the bold radial symmetry of the flower, rendered with even natural lighting and a lively, uplifting mood.
+- **rhetta_schultz**:  ([link](https://www.threads.com/@rhetta_schultz/post/DfIH35gmJAW))
+  - Photo: Description: Two pale pink and white plumeria flowers bloom among vibrant green leaves, accompanied by a tight cluster of unopened pink buds. The vertical arrangement of blossoms and foliage creates a peaceful, natural close-up. Photograph read: The vertical composition uses a shallow depth of field to isolate the blossoms against a soft, neutral background, enhanced by bright, even lighting that highlights the smooth texture of the petals and rich green of the leaves.
+- **chezvies_shop**:  ([link](https://www.threads.com/@chezvies_shop/post/DfIGn4Cn5sp))
+  - Photo: Description: A single white rose blossom sits centered among green leaves against a dark, out-of-focus background. The flower's petals show slight signs of age with hints of browning at the edges, adding a touch of natural realism suitable for a nature post. Photograph read: The subject is captured in soft natural light that highlights the texture of the white petals against a heavily blurred, moody background.
+- **darrincastle**: Morning dew. Caught it before it had burned off ([link](https://www.threads.com/@darrincastle/post/DfIG0ZMHRHK))
+  - _Replying to: That tight framing lets the droplets do the talking - the w…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
-- **kes_ward**: This was shot in my lounge. Closed the curtains. Set the camera so that there was no ambient light to be captured and adjusted the lighting to suit, 2 very small LED grids held either side just inches away. 😁 ([link](https://www.threads.com/@kes_ward/post/DfIE9wajs6E))
-  - _Replying to: That side lighting against the black backdrop turns a sunfl…_
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/DfHri1ykzuM))
@@ -375,7 +378,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (20)
+## Needs Like (21)
+
+### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
+- abnerabel125: Great photos! ([link](https://www.threads.com/@abnerabel125/post/DfIJs-ymW2R))
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - fephi: Crouched down! ([link](https://www.threads.com/@fephi/post/DfGuaK0m6mW))
