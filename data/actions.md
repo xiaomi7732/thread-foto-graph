@@ -6,23 +6,52 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (159)
+## Needs Reply (170)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **juliet.4066**:  ([link](https://www.threads.com/@juliet.4066/post/DfIq0ZfDvgm))
-  - Photo: Description: A vibrant patch of bright red poppies blooms amidst tall, dry grasses and seed pods under a partly cloudy blue sky. This rustic, sun-drenched meadow scene evokes a peaceful summer countryside aesthetic. Photograph read: The eye-level composition captures a dense cluster of wildflowers bathed in warm afternoon sunlight, creating a bright and serene pastoral mood.
-- **reef_ausic**:  ([link](https://www.threads.com/@reef_ausic/post/DfIpnGyktvx))
-  - Photo: Description: A vibrant pink zinnia flower fills the center of the frame, showcasing layers of soft petals and a textured yellow and dark red center. Surrounding the main bloom are several other pink zinnia flowers and green foliage, creating a lively garden scene. Photograph read: The top-down, centered composition highlights the symmetrical petals and intricate center of the primary flower, set against a softly blurred garden background under even daylight.
-- **greghillman11**: With a tiny bush Bee fully loaded. ([link](https://www.threads.com/@greghillman11/post/DfIm4ZbE6Zl))
-  - Photo: Description: A small, dark bee with bright yellow pollen sacs on its legs hovers in mid-air near the vibrant red and green reproductive structures of a flower. The bold primary colors and striking macro perspective create an eye-catching nature scene ideal for a botanical or wildlife post. Photograph read: The macro composition balances the floating bee on the left against the intricate, textured floral anatomy on the right under bright, even light that emphasizes the vivid red and pale green hues with a sharp focus.
+- **kusnirah1985**:  ([link](https://www.threads.com/@kusnirah1985/post/DfIy9S5E34p))
+  - Photo: Description: A close-up shot captures a delicate, pale pink rose in full bloom, showcasing its layered petals and prominent yellow center. The flower is centered against a soft-focus background of lush green leaves and hints of other garden foliage, evoking a tranquil outdoor setting. Photograph read: The tight vertical framing and shallow depth of field draw immediate attention to the flower's intricate textures and warm natural light, creating a serene and intimate mood.
+- **jglass8**: Lady Slipper Orchid ([link](https://www.threads.com/@jglass8/post/DfIywzWj5lP))
+  - Photo: Description: A close-up shot captures a striking Paphiopedilum orchid in full bloom, showcasing its distinctive pouch-like lip and marbled purple and white petals. The flower is centered against a soft, out-of-focus background of green foliage, making for an eye-catching botanical display. Photograph read: The tight vertical composition emphasizes the intricate textures and rich coloration of the orchid, lit evenly to create a vibrant, natural mood.
+- **bongapostol**:  ([link](https://www.threads.com/@bongapostol/post/DfIya5ZiSb4))
+  - Photo: Description: A vibrant bed of purple and white pansies fills the frame, creating a dense carpet of blossoms in an outdoor garden setting. A low white barrier runs along the bottom foreground near a small sign with Korean text, suggesting this is a manicured park display meant to be admired from afar. Photograph read: Taken from a high-angle perspective, the shot uses a shallow depth of field to emphasize the dense cluster of flowers under natural, dappled daylight, creating a cheerful and serene mood.
+  - Photo: Description: A dense cluster of pink daisies with bright yellow centers fills the frame, creating a cheerful, garden-like scene. The vibrant floral pattern would make a lively background for a spring or nature-themed social media post. Photograph read: The vertical overhead composition creates a flat-lay effect, illuminated by even natural light that highlights the crisp textures of the petals and a cheerful, uplifting mood.
+  - Photo: Description: A vibrant cluster of golden-yellow marigolds blooms in a sidewalk garden, with textured pom-pom-like petals and dark green foliage. The urban backdrop suggests a cultivated city planter box or street-side flower bed. Photograph read: The eye-level, slightly angled shot utilizes a shallow depth of field to keep the sharp foreground blossoms in focus against a softly blurred, neutral background.
+  - Photo: Description: A cluster of vibrant pink snapdragon flowers blooms amidst lush green foliage in an outdoor garden setting. The tall stalks of blossoms stand out against a dark, shaded background, creating a charming scene ideal for a nature post. Photograph read: The composition features the pink blossoms staggered across the frame with natural lighting that highlights their texture against a deeply shadowed background, establishing a serene mood.
+  - Photo: Description: Tall stalks of purple foxglove flowers bloom in an outdoor garden setting, with buildings and a tree visible in the soft-focus background. The dense cluster of bell-shaped blossoms features speckled patterns inside their petals, making this a fitting photo for a nature or gardening social media post. Photograph read: The eye-level, slightly angled composition captures the flowers in natural daylight against a subdued, blurred background, creating an organic and peaceful mood.
+  - Photo: Description: A dense cluster of vibrant yellow snapdragon flowers blooms in full sun, creating a cheerful spring garden scene. The tightly packed stalks and bright petals make this an eye-catching shot for sharing a sunny day outdoors. Photograph read: The tight composition fills the frame with rich layers of yellow blossoms, illuminated by bright natural light that casts soft shadows and creates a warm, cheerful mood.
+  - Photo: Description: Two tall stalks of purple and white foxglove flowers stand in full bloom, featuring distinct speckled throats. The background shows a softly blurred outdoor area, suggesting a garden or public park setting. Photograph read: The vertical composition captures the intricate patterns of the flowers in crisp focus against a softly blurred background, creating a bright and natural mood.
+- **2killamockingbird**:  ([link](https://www.threads.com/@2killamockingbird/post/DfIwAuhjLFG))
+  - Photo: Description: A black-and-white macro photograph captures a dahlia blossom in full bloom, filling the frame with its densely layered, curling petals. The striking monochrome contrast and intricate floral details make it a captivating subject for nature photography enthusiasts. Photograph read: The tight, centered composition and directional lighting create a high-contrast study of form and texture, establishing a dramatic and elegant mood.
+- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DfIv8-qj2Di))
+  - Photo: Description: This photo captures a lush dragon fruit cactus draped over a dark volcanic rock wall, bursting with numerous large, pale yellow blossoms. In the background, tall, slender stalks and sparse trees rise against an overcast sky, creating a natural and serene outdoor scene. Photograph read: The shot uses a straight-on, eye-level composition that emphasizes the dense clustering of blossoms against the textured stone, all rendered in the soft, even light of an overcast day for a calm, botanical mood.
+- **david.harms5**:  ([link](https://www.threads.com/@david.harms5/post/DfIvtHvgW3x))
+  - Photo: Description: A soft, pale pink peony blossom is centered against a dark, mottled background with warm ochre tones. The artistic presentation and muted colors lend a vintage, painterly feel well-suited for a mood-focused social media post. Photograph read: The centered composition and muted, low-contrast lighting create a quiet, contemplative mood reminiscent of an antique photograph or botanical print.
+- **david.harms5**: You are very Sweet ([link](https://www.threads.com/@david.harms5/post/DfIxWqMmaXA))
+  - _Replying to: Beautiful ..._
+- **2killamockingbird**: And you are very talented my dear friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DfIxkcijJHa))
+  - _Replying to: You are very Sweet_
+- **coasting09**:  ([link](https://www.threads.com/@coasting09/post/DfIucFNmF7v))
+  - Photo: Description: Two large, white mandevilla flowers with bright yellow centers bloom amidst dark green foliage, with a small pink bud nestled between them. This close-up nature shot provides vibrant color contrast, perfect for a garden update or botanical post. Photograph read: The tight, centered composition highlights the contrasting textures and vibrant color accents of the petals, illuminated by soft, natural light that creates a calm, fresh mood.
+- **juliet.4066**: A walk by ([link](https://www.threads.com/@juliet.4066/post/DfItHF5jqgf))
+  - _Replying to: That eye-level framing drops us right into the meadow - red…_
+- **reef_ausic**: I used my mobile phone (iPhone 18 PM) with new feature : reference . Apart form photo, portrait , panorama and spatial ([link](https://www.threads.com/@reef_ausic/post/DfIsfLfEnCx))
+  - _Replying to: Going straight top-down was a great call - that pink zinnia…_
+- **reef_ausic**: All from my garden ([link](https://www.threads.com/@reef_ausic/post/DfIsXCbknfs))
+  - Photo: Description: A vibrant pink zinnia flower is captured in sharp focus against a soft, heavily blurred green and pink background. The flower's layered petals and detailed yellow center stand out prominently, making it an ideal subject for nature appreciation. Photograph read: The centered composition and shallow depth of field create a serene, tranquil mood that emphasizes the flower's vivid texture against the dreamlike, motion-blurred backdrop.
+  - Photo: Description: A vibrant pink zinnia flower with a yellow-and-red center stands out in sharp focus against a soft-focus garden background filled with other colorful blooms. This cheerful floral shot would make a lovely post to celebrate the arrival of spring or a sunny day in the garden. Photograph read: The subject is centrally placed and sharply isolated from a dreamily blurred background through a shallow depth of field, creating a peaceful, natural mood under soft, even daylight.
+  - Photo: Description: A top-down, close-up shot captures a vibrant magenta zinnia flower in full bloom, featuring a central ring of bright yellow stamens and a textured brownish-green center. The soft-focus background reveals muted green foliage and earthy tones, highlighting the vivid color and symmetry of the blossom. Photograph read: The centered composition and shallow depth of field create a bright, natural mood that emphasizes the intricate textures of the flower's petals and center against a softly blurred background.
+  - _Replying to: Going straight top-down was a great call - that pink zinnia…_
+- **reef_ausic**: That homegrown zinia. Taken yesterday after I watered it. Zinia ratw easy to grow, they grow everywhere ([link](https://www.threads.com/@reef_ausic/post/DfIsUJUkprL))
+  - _Replying to: Going straight top-down was a great call - that pink zinnia…_
+- **greghillman11**: I was using a tripod and flash on high speed sync, Bee's were coming and going ...my subject I wanted,especially in flight. I shot probably 30 frames to capture this one. 😊 ([link](https://www.threads.com/@greghillman11/post/DfIs_b6Ewno))
+  - _Replying to: That macro framing is a lovely balancing act - the bee floa…_
 - **carolanne1066**: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖 ([link](https://www.threads.com/@carolanne1066/post/DfIn_qxDoe1))
   - _Replying to: The sweet pea_
 - **liddell1618**: Right back atcha Carolanne 💜💙❤️🥰😘 ([link](https://www.threads.com/@liddell1618/post/DfIpFF3jnob))
   - _Replying to: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖_
-- **liddell1618**: Grown myself , sweet peas make for great shots ([link](https://www.threads.com/@liddell1618/post/DfIlzZCDnWn))
-  - _Replying to: That tight vertical framing lets the sweet pea do all the t…_
-- **oznatureart**: Thank you... yes it was soft light... always amazes me, although obvious, the effects different light has on subject matter ([link](https://www.threads.com/@oznatureart/post/DfIo6SPkw2T))
-  - _Replying to: That tight framing turns the crape myrtle into a little bot…_
+- **picsall**: It was on the side of the road that we live down so I stopped and shot the wildflowers. ([link](https://www.threads.com/@picsall/post/DfIup9DCfIq))
+  - _Replying to: That top-down framing turns a tiny ground-hugger into a lit…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
@@ -230,6 +259,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Eye-level at the fair stalls is the right call - the white …_
 - **craigthomaswhite**: Not its first pumpkin - it does all its own carving. ([link](https://www.threads.com/@craigthomaswhite/post/DfFJumXHIhI))
   - _Replying to: Eye-level with a squirrel mid-snack is perfect - just a tai…_
+- **pattymooney69**: They did race, But I don't think they wore the pumpkins... ([link](https://www.threads.com/@pattymooney69/post/DfIrnbBAVLv))
+  - _Replying to: The medium shot framing all four in a row is the joke deliv…_
 - **jeness.maresa**: I spotted this at a local restaurant, and I loved the juxtaposition of seasons ([link](https://www.threads.com/@jeness.maresa/post/DfFOP8PoLIA))
   - _Replying to: That straight-on eye-level frame lets the tangled lights do…_
 - **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
@@ -391,9 +422,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (25)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
+- 2killamockingbird: Beautiful ... ([link](https://www.threads.com/@2killamockingbird/post/DfIwDHYDHa0))
 - carolanne1066: Thankyou 😘😘😘😘🫶🫶🫶💖💖💖 ([link](https://www.threads.com/@carolanne1066/post/DfIpLOfjmH2))
 - beckiefitzgerald: Thank you 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfIiEa_gZOz))
 - p2tlushamiza: My pleasure ([link](https://www.threads.com/@p2tlushamiza/post/DfIgSkkEyVo))
