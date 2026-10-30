@@ -1,8 +1,124 @@
 {
   "nodes": [
     {
+      "id": "18096761108677148",
+      "label": "photograph, read, description, pumpkin",
+      "group": 0,
+      "snippet": "Flower Friday \ud83c\udf38 Show me a flower from your camera roll. Gar\u2026",
+      "text": "Flower Friday \ud83c\udf38 Show me a flower from your camera roll. Garden blooms, wildflowers, a bouquet on the table, a single stem doing its best - if it flowers, it counts. A white begonia, yellow heart, deep green behind it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What flowers are hiding in your camera roll?",
+      "permalink": "https://www.threads.com/@saars.foto/post/DfHwLlUFOdt",
+      "photos": [
+        "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
+      ],
+      "reply_count": 4,
+      "replies": [
+        {
+          "username": "paul.moorman91",
+          "text": "",
+          "permalink": "https://www.threads.com/@paul.moorman91/post/DfHxaX1lias",
+          "photos": [
+            "Description: A close-up black and white photograph of a tight cluster of roses fills the frame, with a central rosebud in sharp focus. The detailed petals create a moody, romantic atmosphere suitable for a floral appreciation post. Photograph read: The high-contrast monochrome lighting accentuates the delicate texture of the petals, creating a dramatic and elegant composition centered on the prominent rose."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kes_ward",
+          "text": "",
+          "permalink": "https://www.threads.com/@kes_ward/post/DfHxSEjDp8g",
+          "photos": [
+            "Description: A close-up, profile shot of a vibrant yellow sunflower against a solid black background, highlighting its textured petals and fuzzy green stem. Photograph read: The dramatic side lighting and stark black background create a high-contrast composition that emphasizes the intricate details and velvety texture of the flower in a striking, moody manner."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "karen_osato_photography",
+          "text": "",
+          "permalink": "https://www.threads.com/@karen_osato_photography/post/DfHwm2smwBm",
+          "photos": [
+            "Description: A close-up shot captures the delicate layers of a creamy white rose in full bloom, with softly blurred petals visible in the background. The gentle, natural lighting accentuates the smooth texture of the flower, making it a peaceful and elegant subject for nature appreciation. Photograph read: The tight framing and shallow depth of field create an intimate, dreamy mood, with soft, diffused light highlighting the subtle cream tones against the muted background."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "Yesterday's Get Close Thursday favorites are up too: https://www.threads.com/@saars.foto/post/DfG7GalFuwI",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfHwNJxlm29",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "17916171195537763",
+      "label": "photograph, read, description, pumpkin",
+      "group": 0,
+      "snippet": "Get Close Thursday favorites \ud83c\udfc6 Three close-ups that stopped\u2026",
+      "text": "Get Close Thursday favorites \ud83c\udfc6 Three close-ups that stopped my scroll: Karen Osato Wells @kosato1967 - bee in flight Hannele Heikkinen @hannele.heikkinen - ice-wrapped twig Michael Robinson @mike_w_robinson - leaf on stone Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfG64B0jgDE/",
+      "permalink": "https://www.threads.com/@saars.foto/post/DfG7GalFuwI",
+      "photos": [
+        "Description: A close-up shot captures a bee suspended in mid-air, facing the camera with its wings blurred by motion. Sunlight catches the fuzzy contours of its body against a soft, out-of-focus background of muted greens and browns. Photograph read: The subject is captured in sharp focus against a heavily blurred background, with dramatic backlit lighting that creates a bright rim effect and a warm, tranquil mood.",
+        "Description: Large, translucent icicles hang precariously from thin, bare branches against a glowing, hazy sunset sky and a snowy ground. The golden hour light catches the jagged edges and textured surfaces of the melting ice, creating a serene, wintery atmosphere. Photograph read: The low-angle, close-up composition uses natural backlighting to highlight the intricate textures and crystalline transparency of the ice against a warm, softly blurred background.",
+        "Description: A bright orange and yellow maple leaf rests on a dark, wet stone submerged in clear, shallow water above a pebbled streambed. A white watermark with the text \"Michael Robinson\" and a website URL appears in the bottom left corner. Photograph read: The top-down composition emphasizes the vibrant leaf as a focal point against the muted, blurred background of submerged rocks, creating a serene and contemplative mood."
+      ],
+      "reply_count": 4,
+      "replies": [
+        {
+          "username": "design_sv_arq",
+          "text": "Muy bella fotograf\u00eda \ud83d\udcf8\ud83d\ude4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc",
+          "permalink": "https://www.threads.com/@design_sv_arq/post/DfHh48yoDzD",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@kosato1967 - the bee in flight, face-on and sharp: how many tries did that take? Were you tracking the bee, or waiting in one spot for it to come to you?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfG7LQekQ3k",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@hannele.heikkinen - the ice wrapped around your twig, sunset sky shining through it: were you out looking for ice that day, or did the light catch your eye first?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfG7Jh8FiT4",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@mike_w_robinson - the orange leaf on the wet stone: it sits so perfectly still, the water settled around it. Did you find it exactly like that, or did the scene come together while you watched?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfG7IArlsix",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "18116894168106116",
-      "label": "pumpkin, read, photograph, description",
+      "label": "photograph, read, description, pumpkin",
       "group": 0,
       "snippet": "Get Close Thursday \ud83c\udf42 Show me a close-up. Macros, fine detai\u2026",
       "text": "Get Close Thursday \ud83c\udf42 Show me a close-up. Macros, fine details, the small print of the world - get as close as your lens allows. A fallen leaf at ground level - backlit, its veins lit through, grass all around. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What does the world look like from an inch away?",
@@ -10,8 +126,105 @@
       "photos": [
         "Description: A fallen brown leaf rests among green grass blades in a park during autumn. Sunlight catches the leaf's edge, highlighting its veins and texture against the muted background. Photograph read: The low-angle composition emphasizes the textured surface of the leaf under bright, directional light, creating an intimate, nostalgic mood."
       ],
-      "reply_count": 489,
+      "reply_count": 520,
       "replies": [
+        {
+          "username": "kazz_bo_",
+          "text": "",
+          "permalink": "https://www.threads.com/@kazz_bo_/post/DfHri1ykzuM",
+          "photos": [
+            "Description: A worm's-eye view captures the underside of a large mushroom cap, highlighting the fine, radiating gills leading to a central stalk against a bright background. This nature macro shot emphasizes organic geometry and woodland details, suitable for a nature or mycology-focused post. Photograph read: The worm's-eye perspective creates a striking, symmetrical composition with soft, even lighting that illuminates the delicate gill patterns, evoking a serene and immersive mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kayvaughan38",
+          "text": "Here you go! \ufffc",
+          "permalink": "https://www.threads.com/@kayvaughan38/post/DfHrE--mwmZ",
+          "photos": [
+            "Description: A vibrant red autumn leaf lies flat on a textured, speckled concrete surface, showcasing the seasonal transition. The close-up view highlights the leaf's rich color gradient and intricate veins, making it a fitting post to welcome the fall season. Photograph read: Captured from directly overhead, the crisp, natural daylight accentuates the vivid red and orange tones of the leaf against the neutral, gritty texture of the pavement, creating a simple and reflective mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "joecow",
+          "text": "Buttery Butterfly",
+          "permalink": "https://www.threads.com/@joecow/post/DfHkC-KHKS1",
+          "photos": [
+            "Description: A close-up shot captures a monarch butterfly resting on a vibrant red flower, its wings folded upright to showcase their striking orange and black patterns. The soft, dreamy backdrop enhances the delicate, tranquil nature of the scene. Photograph read: The macro composition uses an extremely shallow depth of field to isolate the sharply focused forewing against a soft, blurred background, creating an intimate and peaceful mood under natural light."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "travellersbook9821",
+          "text": "",
+          "permalink": "https://www.threads.com/@travellersbook9821/post/DfHQD0kkzEt",
+          "photos": [
+            "Description: Three small, pale mushrooms peek out from a dense bed of damp moss and dark, textured foliage, creating a serene woodland scene. The moody, natural atmosphere is ideal for a nature lover's social media post about foraging or a quiet forest walk. Photograph read: The vertical composition uses a shallow depth of field to frame the light-colored mushrooms sharply against dark, moody greens, evoking a quiet and earthy forest atmosphere."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "staravia2",
+          "text": "",
+          "permalink": "https://www.threads.com/@staravia2/post/DfHJwumEQrT",
+          "photos": [
+            "Description: Numerous dew drops blanket a decaying oak leaf nestled among damp green grass. The close-up perspective captures a serene, rain-kissed autumn morning scene. Photograph read: The tight vertical composition utilizes a shallow depth of field to isolate the glistening water droplets against the textured leaf and soft-focus foliage, creating an intimate and tranquil mood.",
+            "Description: A close-up shot captures a dense spiderweb spun amongst green grass, dry twigs, and fallen brown and yellow leaves. Countless tiny, glowing dew drops cling to every delicate strand, making the intricate web structure clearly visible against the dark, earthy background. Photograph read: The high-angle macro perspective highlights the intricate texture of the beaded web and damp foliage under soft, natural light, creating a serene and moody woodland atmosphere."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "margieannemanuelli",
+          "text": "",
+          "permalink": "https://www.threads.com/@margieannemanuelli/post/DfHI93GlLtY",
+          "photos": [
+            "Description: A close-up, upward-angled view captures the layered green leaves and reddish stems of a succulent plant, with bright light filtering through the dense foliage from above. This vibrant, natural composition would make a refreshing post for a plant enthusiast or nature lover. Photograph read: The low-angle framing and shallow depth of field create an immersive perspective, highlighting the translucent edges of the leaves under bright, diffused daylight for a serene, organic mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ranchopinot",
+          "text": "",
+          "permalink": "https://www.threads.com/@ranchopinot/post/DfG2gC4lFtp",
+          "photos": [
+            "Description: This extreme close-up shot focuses on the furry front legs and paws of a tabby cat resting on a rustic wooden surface. The cat's dense fur features a mix of grey, brown, and black stripes, and one small white claw peeks out from the paw on the left. Photograph read: The tight framing and shallow depth of field highlight the fine texture of the fur and create an intimate, cozy mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "everydayweeks",
+          "text": "",
+          "permalink": "https://www.threads.com/@everydayweeks/post/DfGw7jJm0UM",
+          "photos": [
+            "Description: A macro view shows the head and patterned wings of a dragonfly from directly behind, facing upward against a soft, out-of-focus green background. The insect's large dark eyes, textured thorax, and intricately veined amber-and-black wings are shown in sharp detail. Photograph read: The tight vertical crop centers the dragonfly, utilizing natural daylight to highlight the glossy texture of its eyes and the translucent amber tones of its patterned wings against a softly blurred green bokeh."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "goinwalking",
           "text": "",
@@ -19,10 +232,32 @@
           "photos": [
             "Description: A fuzzy, pollen-covered bee hovers in mid-air next to a pale, round flower bloom. Soft, out-of-focus floral elements create a dreamy, light-filled backdrop. Photograph read: Captured with a shallow depth of field, the high-key lighting and delicate focus isolate the hovering insect against a soft, bright background, creating a serene and ethereal mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That hovering bee is pure patience caught mid-air - pollen-dusted and sharp while the pale bloom melts into dreamy high-key light behind it. Did you track it in flight, or did it just pause long enough for the shallow depth to do its magic?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGxAe8lsqD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "goinwalking",
+                  "text": "The bees were very active on the tree so I started tracking from one bloom to the next. Sun was in just the right position. Nikon 105 macro on Nikon d850",
+                  "permalink": "https://www.threads.com/@goinwalking/post/DfGzf6UlFox",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "therealranameehan",
@@ -31,10 +266,32 @@
           "photos": [
             "Description: A close-up shot captures a bristly fly perched on the edge of a white flower petal against a soft, pale background. Photograph read: The tight framing and shallow depth of field isolate the insect in profile, creating a sharp, clinical study against a cool, muted backdrop."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A house fly, given the full portrait treatment - bristly profile sharp against the white petal, shallow depth turning an everyday visitor into a proper study. Did you crouch in for that tight profile, or did the fly just hold still long enough to earn it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGxCiIjkQg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "therealranameehan",
+                  "text": "The fly was very cooperative. He /she/they landed on a flower and I was able to zoom and snap",
+                  "permalink": "https://www.threads.com/@therealranameehan/post/DfGxkZ2EeHs",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "sandrae34231",
@@ -43,10 +300,32 @@
           "photos": [
             "Description: A brightly colored yellow, red, and black spider hangs suspended in its intricate web against a lush, out-of-focus green background. Photograph read: The vertical composition uses a narrow depth of field to isolate the sharply detailed spider, while natural daylight highlights its vibrant patterns against a moody green forest backdrop."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That vertical framing lets the web do the staging - the Joro sharp and jewel-bright in yellow, red and black while the green forest melts away behind it. Did you wait for the daylight to catch those colors, or did the web just hang perfectly where the light fell?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfGxD8pESaM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "sandrae34231",
+                  "text": "The spider was just lit up. Such a colorful girl!",
+                  "permalink": "https://www.threads.com/@sandrae34231/post/DfHj96pkar2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "debruys",
@@ -67,7 +346,30 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "debruys",
+                  "text": "Good question about what led me to it. It was a while back . I\u2019m sorry, I don\u2019t remember.",
+                  "permalink": "https://www.threads.com/@debruys/post/DfHgD_roPaC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "debruys",
+                  "text": "I went back through my photos. I think I do the top down in part because the back is usually the prettiest part of the bug. Here\u2019s one that isn\u2019t top down.",
+                  "permalink": "https://www.threads.com/@debruys/post/DfHfQ8SoCyS",
+                  "photos": [
+                    "Description: A dragonfly with a patterned blue-and-brown abdomen and outstretched translucent wings rests against a dark, vertical surface. Wisps of spider silk stretch across the background, suggesting a quiet, undisturbed outdoor corner. Photograph read: The vertical composition centers the dragonfly sharply against the grooved surface under cool, even lighting, creating a calm and still mood."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -131,10 +433,21 @@
                   "text": "I shot closely the bloom.",
                   "permalink": "https://www.threads.com/@callejero098/post/DfGsXxskUP7",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Shooting in close was the right call - that centered framing puts the stamen front and center, pale tips glowing against bold red. A bloom shot this tight needs no extra story.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGxFMbAFe0",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -295,7 +608,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mapletreephotography_wpm",
+                  "text": "It was hand delivered.",
+                  "permalink": "https://www.threads.com/@mapletreephotography_wpm/post/DfG_olqlg9Y",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -848,7 +1172,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ibrahimceline",
+                  "text": "I wanted to focus on the texture and contrast of colours",
+                  "permalink": "https://www.threads.com/@ibrahimceline/post/DfHHeVdjPlq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -871,7 +1206,31 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "whirlingestdervish",
+                  "text": "Thanks. It\u2019s a style I\u2019ve developed. Usually try to get mountains and clouds in the corners but I wanted the detail on this one. Elephant heads, hundreds of them. I shoot at angles most of the time",
+                  "permalink": "https://www.threads.com/@whirlingestdervish/post/DfHgi0Qlhs3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "whirlingestdervish",
+                      "text": "",
+                      "permalink": "https://www.threads.com/@whirlingestdervish/post/DfHgn3KllPk",
+                      "photos": [
+                        "Description: A vibrant magenta elephant's head flower stands in sharp focus in the foreground of a high-alpine meadow, with rugged mountains and a partly cloudy blue sky stretching across the background. The lush green hillside is dotted with smaller yellow wildflowers and patches of melting snow. Photograph read: The narrow depth of field creates a strong vertical separation between the detailed blossom and the softer mountain landscape, captured under bright, diffuse daylight that accentuates the saturated colors and creates an uplifting, adventurous mood."
+                      ],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1005,7 +1364,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "mcklarken",
+                          "text": "I just loved the perfect tiny star.",
+                          "permalink": "https://www.threads.com/@mcklarken/post/DfG2g7klNqL",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1483,7 +1853,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "melochemical",
+                  "text": "I know I don't have a \"photographer's eye,\" but I'm curious. I wasn't expecting to see a tiny white spot on that piece of land, so I bent down to check what it was. I came across this simple marvel; it was scandalously obvious to the eye. I just grabbed my phone and took a picture\u2014nothing special. What I like about the photo is the symbolism of the story behind it: the sublime can be in a small detail; if we don't keep an open mind, it not only goes unnoticed but we can also trample on it.",
+                  "permalink": "https://www.threads.com/@melochemical/post/DfHJMO9iJoM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "melochemical",
+                      "text": "I was lucky that the cell phone camera saw the same thing my eyes saw; otherwise, I wouldn't have known how to find the best angle, compose a photo, and all those photographer things. All I had to do was put myself at the same level as what I wanted to photograph, with all due respect to its identity. And so, the subject of the photo allowed me to capture its beauty.",
+                      "permalink": "https://www.threads.com/@melochemical/post/DfHJMMUCGg4",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1506,7 +1898,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "photoart_by_bettina",
+                  "text": "I purposely only photographed the face to fully capture its gentleness and serenity.",
+                  "permalink": "https://www.threads.com/@photoart_by_bettina/post/DfG-ieQDlBf",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2423,7 +2826,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "joecow",
+                          "text": "This is an AI response - the whole post and responses by AI.",
+                          "permalink": "https://www.threads.com/@joecow/post/DfHkO0cHK7i",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -2524,7 +2938,26 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "crazyaries98",
+                          "text": "I have tons more pics of the northern lights bruv, here\u2019s a few more",
+                          "permalink": "https://www.threads.com/@crazyaries98/post/DfGzcQ_keEK",
+                          "photos": [
+                            "Description: Two white cars are parked in silhouette against a vibrant, multicolored night sky filled with stars and glowing green and purple bands. A utility pole with power lines cuts across the horizon behind the vehicles, adding a rustic, roadside feel. Photograph read: The low-angle composition frames the cars against a brilliant celestial display, creating a moody, atmospheric contrast between the dark foreground and the colorful northern lights.",
+                            "Description: A vibrant aurora borealis blankets the night sky in shades of neon green and magenta, dotted with faint stars above a dark landscape featuring a silhouetted utility pole and power lines. This striking natural display makes for an awe-inspiring late-night snapshot. Photograph read: The wide composition balances the glowing auroral bands against a grounded rural foreground, creating a tranquil yet dramatic nighttime mood illuminated by ambient celestial light.",
+                            "Description: A vibrant aurora borealis blankets the night sky in horizontal bands of glowing green and deep magenta, speckled with distant stars. Silhouetted power lines cut diagonally across the frame against the bright celestial display above a dark horizon. Photograph read: The low-angle composition frames the striking green-and-purple light show against the dark earth, creating a serene and awe-inspiring night-sky mood.",
+                            "Description: A vibrant aurora borealis displays striking red and green lights dancing across a starry night sky, with two diagonal power lines cutting across the frame above a dark horizon. Photograph read: The wide composition emphasizes the expansive night sky with a balanced display of red and green atmospheric glow, creating a serene and awe-inspiring mood.",
+                            "Description: A vibrant aurora borealis lights up the night sky with brilliant red overhead and bright green along the horizon, dotted with visible stars. Two dark utility lines stretch diagonally across the upper right portion of the frame above a silhouetted landscape. Photograph read: The wide composition emphasizes the expansive night sky with low-angle framing, while the contrast between the green glow and deep red overhead creates a dramatic, awe-inspiring mood.",
+                            "Description: Two cars are parked in a field at night against a vibrant sky filled with bright green auroras and a deep magenta backdrop dotted with stars. Power lines stretch across the upper portion of the frame above the vehicles. Photograph read: The low-angle framing emphasizes the sleek silhouette of the primary white vehicle against the striking contrast of green and magenta celestial light, creating a dramatic and serene mood.",
+                            "Description: A white sedan is parked outside at night against a vibrant sky filled with glowing red and green auroral light. Power lines and a dark rectangular trailer frame the car in a rural or suburban setting. Photograph read: The low-angle, centered composition emphasizes the car as a silhouette against the luminous, multicolored night sky, creating a moody and surreal atmosphere."
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -2813,6 +3246,19 @@
               "replies": [
                 {
                   "username": "hayleycbliss",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@hayleycbliss/post/DfGxADIgW-j",
+                  "photos": [
+                    "Description: A vibrant magenta clematis flower is captured in close-up, showcasing its prominent, pale yellow central stamens surrounded by seven broad, textured petals. Lush green foliage frames the blossom against a natural backdrop, perfect for nature and gardening social media posts. Photograph read: The symmetrical, centered composition creates a striking botanical study, illuminated by natural daylight that highlights the rich purple tones and intricate petal textures with a serene, focused mood.",
+                    "Description: A fuzzy bumblebee busily gathers pollen at the center of a vibrant, fully bloomed dark pink dahlia. The garden setting features soft green foliage and other blossoms blurred in the background, creating a serene outdoor atmosphere. Photograph read: Captured in bright, even daylight, this close-up features a centered composition that emphasizes the geometric symmetry of the flower petals and isolates the bee against the textured yellow center."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "hayleycbliss",
                   "text": "Straight in front with phone camera. I love the colour \ud83d\ude0d",
                   "permalink": "https://www.threads.com/@hayleycbliss/post/DfFzuvUkx2c",
                   "photos": [],
@@ -2828,7 +3274,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "hayleycbliss",
+                          "text": "Use phone most of the time \ud83d\ude0a",
+                          "permalink": "https://www.threads.com/@hayleycbliss/post/DfGw9HrATma",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -3463,7 +3920,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "y_marjorie",
+                  "text": "I was trying too capture on window as it wandered upwards. iPhone couldn\u2019t focus on it until it was on roof peering at me\u2026 (must have captured a ride as we left Costco with so many littles crowding in for the snacks.)",
+                  "permalink": "https://www.threads.com/@y_marjorie/post/DfHrpf3G1Ey",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4443,7 +4911,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "keltainentalorannalla",
+                  "text": "I happened to see this while I was taking photos in my own yard\ud83d\ude42",
+                  "permalink": "https://www.threads.com/@keltainentalorannalla/post/DfHYLS4iPFF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5575,7 +6054,7 @@
     },
     {
       "id": "18115827395030481",
-      "label": "pumpkin, read, photograph, description",
+      "label": "photograph, read, description, pumpkin",
       "group": 0,
       "snippet": "Pumpkin Wednesday favorites \ud83c\udfc6 Three pumpkins that stopped m\u2026",
       "text": "Pumpkin Wednesday favorites \ud83c\udfc6 Three pumpkins that stopped my scroll. @three_little_burdes @meloartistic @steff_r13 - beautiful work, all of you. Reel: https://www.instagram.com/reel/DfEZmBjDoRK/",
@@ -5621,7 +6100,7 @@
     },
     {
       "id": "18119252560982332",
-      "label": "pumpkin, read, photograph, description",
+      "label": "photograph, read, description, pumpkin",
       "group": 0,
       "snippet": "Pumpkin Wednesday \ud83c\udf83 Show me your pumpkin. Pumpkin patches, \u2026",
       "text": "Pumpkin Wednesday \ud83c\udf83 Show me your pumpkin. Pumpkin patches, porch carvings, jack-o-lanterns - festive or full-on spooky, all of it counts. A carved pumpkin face keeping watch over the Stocker Farms sign, corn on both sides. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What does pumpkin season look like where you are?",
@@ -5629,7 +6108,7 @@
       "photos": [
         "Description: A large, brightly colored sign for Stocker Farms features a carved jack-o'-lantern flanked by ears of corn beneath a miniature roof, with a smaller hanging sign that reads \"WELCOME.\" The autumn-themed entrance sign stands against a pale, overcast sky. Photograph read: Shot from a low upward angle against a diffuse, overcast sky, the rustic sign is centrally framed to highlight its whimsical textures and autumn aesthetic."
       ],
-      "reply_count": 145,
+      "reply_count": 146,
       "replies": [
         {
           "username": "mamawokka",
@@ -6287,10 +6766,21 @@
                   "text": "I wish I could say he just wandered right in because that would be perfect, but I put in there",
                   "permalink": "https://www.threads.com/@ell_carpinelli/post/DfGkq0yF5nK",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83d\udc4d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfGzXGwlLi8",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -7295,7 +7785,7 @@
     },
     {
       "id": "18640966342017909",
-      "label": "pumpkin, read, photograph, description",
+      "label": "photograph, read, description, pumpkin",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 Three patterns that stopped my \u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 Three patterns that stopped my scroll. @kes_ward @funkygmacman @demidova_nadezda - beautiful work, all of you. Reel: https://www.instagram.com/reel/DfB2833j8hK/",
@@ -7468,7 +7958,7 @@
     },
     {
       "id": "18113737274272185",
-      "label": "pumpkin, read, photograph, description",
+      "label": "photograph, read, description, pumpkin",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This facade is just one long rhythm of fins - find me a pattern. ONE photo. Replying is consent: 3 favorites featured tomorrow in a Threads post and an Instagram reel, pinned to the profile, with full credit. Standout replies may also appear in an occasional best-of-the-week reel. What pattern did you walk past today?",
@@ -11307,19 +11797,27 @@
   ],
   "edges": [
     {
-      "from": "18116894168106116",
+      "from": "18096761108677148",
+      "to": "17916171195537763"
+    },
+    {
+      "from": "18096761108677148",
+      "to": "18116894168106116"
+    },
+    {
+      "from": "18096761108677148",
       "to": "18115827395030481"
     },
     {
-      "from": "18116894168106116",
+      "from": "18096761108677148",
       "to": "18119252560982332"
     },
     {
-      "from": "18116894168106116",
+      "from": "18096761108677148",
       "to": "18640966342017909"
     },
     {
-      "from": "18116894168106116",
+      "from": "18096761108677148",
       "to": "18113737274272185"
     }
   ]
