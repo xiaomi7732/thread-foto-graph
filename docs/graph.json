@@ -10,8 +10,20 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 89,
+      "reply_count": 98,
       "replies": [
+        {
+          "username": "donbstevens",
+          "text": "Poppy anemone",
+          "permalink": "https://www.threads.com/@donbstevens/post/DfIBu-2EUDi",
+          "photos": [
+            "Description: A vibrant, deep blue anemone flower is shown in close-up against a soft, out-of-focus garden background. The intricately textured petals surround a dark, circular center filled with tiny stamens, making it a striking subject for a nature post. Photograph read: The tight vertical composition frames the rich blue blossom in bright daylight, creating a clean, high-contrast botanical study with a serene mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "bojonvelvet2.0",
           "text": "Flowers left as a memorial for Claude, the beloved Cal Academy of Science\u2019s albino alligator..",
@@ -19,10 +31,32 @@
           "photos": [
             "Description: A makeshift memorial featuring bouquets of various flowers, loose stems, and a wrapped pastry rests at the base of a curved stone wall beneath a large photograph of an all-white alligator. Photograph read: The centered vertical composition creates a solemn and reverent mood, highlighted by natural diffuse lighting that softly illuminates the stone niche and floral arrangements."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That centered vertical framing keeps it solemn - the bouquets piled at the base of the stone niche, his photo watching over them, soft light on all of it. Was this a visit to pay respects, or a memorial you came across by chance?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH_xnNFXzu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bojonvelvet2.0",
+                  "text": "It was big news here when it happened, dog n me just happened to be out at Golden Gate Park shortly thereafter and decided to head over to the Academy to see the memorial. He was born there, lived to be thirty and was their official mascot.",
+                  "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DfIB-2gGtep",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tiv34",
@@ -53,10 +87,21 @@
                     "Description: A vibrant magenta poppy with a yellow center and white stamens blooms prominently in a sunlit garden, surrounded by other flowers, green foliage, and a seed pod. The sunny backyard setting with a partial view of a house in the background adds a cheerful, everyday quality to the scene. Photograph read: Bright natural sunlight illuminates the textured petals of the main poppy, creating a sharp focus against the softly blurred garden background.",
                     "Description: Several purple poppy flowers bloom with bright yellow-centered pistils amidst ruffled green foliage, growing in a black pot filled with dark mulch beside a red brick wall. The scene is illuminated by bright sunlight casting sharp shadows, creating a cheerful, natural garden aesthetic ideal for a seasonal nature post. Photograph read: The shot uses a tight, vertical composition with harsh, direct sunlight that creates crisp shadows and emphasizes the rich textures of the brickwork, crinkled petals, and jagged leaves, evoking a bright, summery mood."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ha, the spots fooled us both then - a poppy doing its best bumblebee impression, raindrops and all. Thanks for setting the record straight, and for the lovely rainy-garden set.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfH_y3zFCja",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -81,7 +126,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "peanutbutterscotch_",
+                  "text": "Thank you! A patch in Jack London Square in Oakland California",
+                  "permalink": "https://www.threads.com/@peanutbutterscotch_/post/DfIBznGmi4b",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -110,10 +166,21 @@
                   "text": "Vacation in Santorini",
                   "permalink": "https://www.threads.com/@taiwanese726/post/DfH9irXmGRy",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Santorini explains everything - that blue sky and white wall were doing half the work before the bougainvillea even showed up. Thanks for bringing a little Greek-island color to the thread.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfH_0NiEWIB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -167,10 +234,21 @@
                   "text": "I was just lucky that day .. thank you",
                   "permalink": "https://www.threads.com/@beautifulnatureinmyeyes/post/DfH9jBNIKxU",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Luck like that is the best kind - the direct light landing exactly right on that red hibiscus, yellow stamen front and center. Thanks for sharing the lucky day with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfH_1XJlI06",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -503,7 +581,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "joseph_dtyyz",
+                  "text": "Thanks! It was overcast.",
+                  "permalink": "https://www.threads.com/@joseph_dtyyz/post/DfICKTOGybu",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -609,6 +698,16 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "suzypuzy03",
+              "text": "Siskiyou lewisia and cliff maids.",
+              "permalink": "https://www.threads.com/@suzypuzy03/post/DfIBV-Gkaiz",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "The tight vertical crop works beautifully - star-shaped petals packed edge to edge, with those little orange stamens giving each one a spark. Do you know what these are called, or were they just too pretty to walk past?",
@@ -8786,7 +8885,7 @@
         "Description: A dramatic low-angle shot captures a cascade of colorful, translucent triangular shapes hanging within a tall, modern glass atrium, with water trickling down from one of the lower prisms. The surrounding multi-story interior features exposed steel beams and glass paneling, creating a sleek, contemporary atmosphere ideal for a post about striking public art. Photograph read: The steep upward perspective emphasizes the vertical height of the architectural space, while bright daylight filtering through the transparent structures creates a vibrant interplay of colored shadows and highlights.",
         "Description: A low-angle night shot captures a modern skyscraper with a striking twisted, geometric facade of white panels and protruding windows. The illuminated windows create a mosaic of warm and cool light against the dark night sky, with a dark tree silhouetted on the right. Photograph read: The steep upward perspective emphasizes the dizzying height and complex angles of the architecture, creating a sleek, futuristic mood under nighttime illumination."
       ],
-      "reply_count": 14,
+      "reply_count": 16,
       "replies": [
         {
           "username": "wrj_arts",
@@ -8886,6 +8985,16 @@
               "replies": [
                 {
                   "username": "saars.foto",
+                  "text": "Ten minutes circling a crowded fountain and still keeping people out of frame - that patience is the shot. Thanks for sharing how it came together.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfIAKsMmjHt",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "saars.foto",
                   "text": "Thank you so much for sharing the photo and the story with us.",
                   "permalink": "https://www.threads.com/@saars.foto/post/DfCm9hpG07k",
                   "photos": [],
@@ -8916,6 +9025,16 @@
               "action": null,
               "hidden": false,
               "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Less impressive by day makes sense - that twist only earns its drama after dark. Glad you found it again among the towers, and thank you for letting us feature it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfIAO-cGmsM",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                },
                 {
                   "username": "saars.foto",
                   "text": "\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d Thanka for sharing the story! Nice shot!",

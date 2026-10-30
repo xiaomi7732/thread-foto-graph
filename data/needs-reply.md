@@ -4,22 +4,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (151)
+## Needs Reply (152)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **bojonvelvet2.0**: Flowers left as a memorial for Claude, the beloved Cal Academy of Science’s albino alligator.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfH8qNEGmJ2))
-  - Photo: Description: A makeshift memorial featuring bouquets of various flowers, loose stems, and a wrapped pastry rests at the base of a curved stone wall beneath a large photograph of an all-white alligator. Photograph read: The centered vertical composition creates a solemn and reverent mood, highlighted by natural diffuse lighting that softly illuminates the stone niche and floral arrangements.
-- **tiv34**: Thank you, but sorry to disappoint, those poppies have spots and centres that look like bumbles. ([link](https://www.threads.com/@tiv34/post/DfH_RvwCohL))
-  - Photo: Description: A damp pink poppy with a dark center hangs its head, covered in fresh raindrops in an outdoor garden. Other poppy buds and flowers bloom softly in the blurred background under an overcast sky. Photograph read: The eye-level, slightly low-angle shot captures the delicate texture of the petals and water droplets under even, diffused daylight, conveying a serene and melancholic mood.
-  - Photo: Description: A vibrant magenta poppy with a yellow center and white stamens blooms prominently in a sunlit garden, surrounded by other flowers, green foliage, and a seed pod. The sunny backyard setting with a partial view of a house in the background adds a cheerful, everyday quality to the scene. Photograph read: Bright natural sunlight illuminates the textured petals of the main poppy, creating a sharp focus against the softly blurred garden background.
-  - Photo: Description: Several purple poppy flowers bloom with bright yellow-centered pistils amidst ruffled green foliage, growing in a black pot filled with dark mulch beside a red brick wall. The scene is illuminated by bright sunlight casting sharp shadows, creating a cheerful, natural garden aesthetic ideal for a seasonal nature post. Photograph read: The shot uses a tight, vertical composition with harsh, direct sunlight that creates crisp shadows and emphasizes the rich textures of the brickwork, crinkled petals, and jagged leaves, evoking a bright, summery mood.
-  - _Replying to: That tight framing turns a rainy poppy into a little hideaw…_
-- **taiwanese726**: Vacation in Santorini ([link](https://www.threads.com/@taiwanese726/post/DfH9irXmGRy))
-  - _Replying to: That low angle turns the bougainvillea into pure diagonal e…_
-- **beautifulnatureinmyeyes**: I was just lucky that day .. thank you ([link](https://www.threads.com/@beautifulnatureinmyeyes/post/DfH9jBNIKxU))
-  - _Replying to: Centering that hibiscus was the move - the red petals go bo…_
+- **donbstevens**: Poppy anemone ([link](https://www.threads.com/@donbstevens/post/DfIBu-2EUDi))
+  - Photo: Description: A vibrant, deep blue anemone flower is shown in close-up against a soft, out-of-focus garden background. The intricately textured petals surround a dark, circular center filled with tiny stamens, making it a striking subject for a nature post. Photograph read: The tight vertical composition frames the rich blue blossom in bright daylight, creating a clean, high-contrast botanical study with a serene mood.
+- **bojonvelvet2.0**: It was big news here when it happened, dog n me just happened to be out at Golden Gate Park shortly thereafter and decided to head over to the Academy to see the memorial. He was born there, lived to be thirty and was their official mascot. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfIB-2gGtep))
+  - _Replying to: That centered vertical framing keeps it solemn - the bouque…_
+- **peanutbutterscotch_**: Thank you! A patch in Jack London Square in Oakland California ([link](https://www.threads.com/@peanutbutterscotch_/post/DfIBznGmi4b))
+  - _Replying to: Shooting low was the right call - those little globe blosso…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
+- **joseph_dtyyz**: Thanks! It was overcast. ([link](https://www.threads.com/@joseph_dtyyz/post/DfICKTOGybu))
+  - _Replying to: The soft light does lovely work here - the white petals sta…_
+- **suzypuzy03**: Siskiyou lewisia and cliff maids. ([link](https://www.threads.com/@suzypuzy03/post/DfIBV-Gkaiz))
+  - _Replying to: (photo reply, no text)_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
 
