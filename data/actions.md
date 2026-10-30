@@ -6,29 +6,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (123)
+## Needs Reply (121)
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
+- **debruys**: Caddisfly ([link](https://www.threads.com/@debruys/post/DfGmaCcEWpe))
+  - Photo: Description: A dark-bodied insect with long antennae rests on a mottled, speckled beige surface covered in tiny droplets. A bright white specular highlight gleams on the insect's head, contrasting with its dark coloring. Photograph read: The top-down macro shot centers the isolated subject against a textured, reflective background, creating a stark, high-contrast urban macro scene.
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/DfGjVx2GYTv))
+  - Photo: Description: A close-up shot captures three ribbed plantain seed heads and a single small yellow flower amid a lush green meadow, highlighting the textures of late-stage wildflowers. This natural scene offers a calming, earthy aesthetic well-suited for nature appreciation posts. Photograph read: The tight close-up composition highlights the intricate textures of the plantain heads against a soft-focus green background, rendered in even daylight that creates an intimate, observational mood.
 - **davidwiewel**:  ([link](https://www.threads.com/@davidwiewel/post/DfGg6LKkc0J))
   - Photo: Description: A gravel road winds through a vibrant autumn forest under a clear blue sky, flanked by trees with early signs of changing yellow leaves and grassy verges. Perfect for sharing a quiet morning hike or a scenic autumn drive on social media. Photograph read: The straight-on eye-level composition uses the curving dirt path as a natural leading line into the dense, sunlit trees, creating a peaceful and inviting woodland mood.
-- **callejero098**:  ([link](https://www.threads.com/@callejero098/post/DfGgEpRkUl6))
-  - Photo: Description: A vibrant macro shot captures the intricate center of a red flower, radiating outward with bold petals and pale, tubular stamen tips. Perfect for a nature-loving post celebrating the fine details of summer blooms. Photograph read: The tight, centered composition and sharp focus on the yellow-tipped stamen create a vivid, intimate perspective illuminated by bright, even light.
-- **margaretkovalart**: Found these tiny shrooms right next to my driveway. ([link](https://www.threads.com/@margaretkovalart/post/DfGdYAQlkZa))
-  - Photo: Description: Two vibrant, glossy red mushrooms sprout from a damp forest floor covered in green moss, tiny plants, and dark soil. The low-angle perspective highlights the striking contrast of the bright red caps against the natural woodland background. Photograph read: Captured at ground level, the eye-level macro perspective uses soft, natural daylight to emphasize the damp, glossy texture of the subjects against a blurred forest background, creating an earthy and tranquil mood.
-- **fephi**:  ([link](https://www.threads.com/@fephi/post/DfGdKsfm18B))
-  - Photo: Description: A small cluster of pale, slender mushrooms with ribbed caps grows amidst dewy green grass blades. The low-angle viewpoint places the viewer at ground level, creating a serene, natural scene reminiscent of a morning lawn discovery. Photograph read: Captured at a low angle with a shallow depth of field, the natural morning light glints off dew drops on the vivid green grass, creating an intimate and tranquil mood.
-- **marisilues**: I’d say I little bit of both. I tried to “frame” it but the perfect spot was already chosen. ([link](https://www.threads.com/@marisilues/post/DfGf9tTjYhX))
-  - _Replying to: Those sweeping diagonal fronds do lovely leading-line work …_
-- **darrincastle**: Pure luck on my part, I'm just learning how to do close up shots ([link](https://www.threads.com/@darrincastle/post/DfGdj1cm9Yk))
-  - _Replying to: That diagonal split is striking - bright orange against pal…_
-- **dag66**: I was tracking him for a while and just kept taking shots….he was very busy and taking his time so it was easy to catch him ([link](https://www.threads.com/@dag66/post/DfGekDejZVh))
-  - _Replying to: That hovering moment is wonderful - the big dark bee sharp …_
-- **kenalexander59**: On a flight of stairs so crouched a couple of stairs down. Could see the ants clustering round the hornet. Nikon 105mm macro lens. ([link](https://www.threads.com/@kenalexander59/post/DfGeCr-iF5n))
-  - _Replying to: That overhead framing turns a harsh little moment into a do…_
-- **buzz.crunch**: I felt him crawling on me and thought I’d get a shot … I like his little black eyes 👌 ([link](https://www.threads.com/@buzz.crunch/post/DfGhnPdn7vo))
-  - _Replying to: That extreme close-up is so curious - a tiny lime-green spi…_
-- **sophiatesch**: I was over them. I didn’t have my glasses on at the time so I thought it was one beetle in morning shadow light. Turns out I was intruding on an intimate moment with two beetles but I still like the photo 🤭but it explains why they were still enough for the photo. ([link](https://www.threads.com/@sophiatesch/post/DfGdwnOG4Ni))
-  - _Replying to: That clean vertical framing is striking - the vivid red bee…_
+- **buzz.crunch**: You’ve always got stuff crawling on you in Australia 😀 ([link](https://www.threads.com/@buzz.crunch/post/DfGl27EHyle))
+  - _Replying to: Feeling it crawl on you and still getting the shot is real …_
+- **mcklarken**: Just crouched down and took it close up with my iPhone 14! The blooms are actually very small. ([link](https://www.threads.com/@mcklarken/post/DfGm6WLFMwr))
+  - Photo: Description: This top-down photo captures a cluster of delicate wildflowers with tiny yellow blossoms and pale green stems nestled among tall, wild grass. The natural, unfiltered perspective offers an earthy, rustic vibe suited for a nature or botany post. Photograph read: Taken from a high-angle perspective, the composition creates an organic pattern of overlapping blades and stems under even, natural light, conveying a quiet, outdoorsy mood.
+  - Photo: Description: Slender stems of a wild plant with small, yellow flowers and fuzzy buds weave through a dense background of long green grass. The close-up perspective captures delicate details of the foliage and stems, ideal for nature-focused social media posts. Photograph read: The vertically oriented shot features a centered subject with soft, natural lighting that emphasizes the fuzzy texture of the stems against a blurred grassy background, creating a calm and earthy mood.
+  - _Replying to: That macro isolation is lovely - one tiny star-shaped bloom…_
 - **kohllock**: Thank you, I’m learning 😄 ([link](https://www.threads.com/@kohllock/post/DfGU8D5GtH8))
   - _Replying to: Focusing on that tiny bloom was the right instinct - the pi…_
 - **dianelynnturnbull**: Spiders are not among my favorite insects. Webs on the other hand fascinate me. There is a lesson here... ([link](https://www.threads.com/@dianelynnturnbull/post/DfF5_UtEs-C))
@@ -99,6 +91,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Gathering favorites over years and posting them when they f…_
 - **wendy.wilkinson.photography**: Haha not usually but I'd gone to the gardens at a nearby Country Hall and took my macro lens. It wasn't that breezy at home but was different when I got there and my flash decided not to work. I only managed about 6 or 7 decent photos lol ([link](https://www.threads.com/@wendy.wilkinson.photography/post/DfFgsQmEWyU))
   - _Replying to: Handheld, breezy, no flash - and still that sharp? That pat…_
+- **carocaluwe263**: First I see the leaf with the amazing color. When I looked deeply ,I see the green and red veins. At least the shape. ([link](https://www.threads.com/@carocaluwe263/post/DfGmTXADOfK))
+  - _Replying to: The centered frame lets that heart-shaped leaf do all the t…_
 - **dan.farkas**: L. Thunderhead, MO ([link](https://www.threads.com/@dan.farkas/post/DfFdvhuoGs7))
   - _Replying to: A winter walk by the lake turning up a twig frozen in an ic…_
 - **friendlyvonne**: Yes, the sign surprised me! ([link](https://www.threads.com/@friendlyvonne/post/DfFd_Szk5Hq))
@@ -128,6 +122,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two minutes in your own back garden and you got those orang…_
 - **greghillman11**: The face of a leach ([link](https://www.threads.com/@greghillman11/post/DfFNALzkxtA))
   - Photo: Description: A close-up, head-on view of a tiny turtle peering directly up through a circular opening in its shell or surrounding environment. The focus is tightly on its curious little face, creating a quirky, engaging portrait. Photograph read: The macro composition uses extreme background blur to draw the viewer's eye straight to the sharp details of the turtle's face, creating an intimate and humorous mood.
+- **momentulist**: They complimented each other 😃 ([link](https://www.threads.com/@momentulist/post/DfGkWmRiLrK))
+  - _Replying to: The everyday walk delivering the shot - that is the whole s…_
 - **brownieone**: Well , I am 66 so it’s costed me some effort 😜 but I like the photo. I think it’s not bad for an amateur 👍🏻 ([link](https://www.threads.com/@brownieone/post/DfFXo9yiB6l))
   - _Replying to: Phone on the park floor is commitment to the angle - and it…_
 - **shiawasemainichi5**: Thank you. The petals of this rose were a beautiful, mystical mix of red, pink, and orange. ([link](https://www.threads.com/@shiawasemainichi5/post/DfGKQcgk1xB))
@@ -164,6 +160,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A beach homeowner who redecorates for every holiday - that …_
 - **mapletreephotography_wpm**: Yes, yes it did…❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDdDmFARoW))
   - _Replying to: Then your wife gets the credit and your vertical frame gets…_
+- **ell_carpinelli**: I wish I could say he just wandered right in because that would be perfect, but I put in there ([link](https://www.threads.com/@ell_carpinelli/post/DfGkq0yF5nK))
+  - _Replying to: That low angle turns a tiny tortoise into a proper leading …_
 - **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
   - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
 - **ritaveeps**: Looked like trouble even before it was lit up.. ([link](https://www.threads.com/@ritaveeps/post/DfDiMJ-jsRg))
