@@ -6,29 +6,32 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (155)
+## Needs Reply (156)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **rita01400**:  ([link](https://www.threads.com/@rita01400/post/DfH38dFGp3t))
-  - Photo: Description: A vibrant, deep blue butterfly pea flower blooms amidst lush green foliage, with tiny water droplets clinging to its textured petals. The fresh garden setting creates a peaceful, natural atmosphere ideal for nature-focused social media content. Photograph read: Soft, natural daylight illuminates the deep blue and contrasting green hues, creating a serene and crisp macro composition with a shallow depth of field.
-- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/DfH3TX7CP2Y))
-  - Photo: Description: A vibrant purple flower with a bright yellow center sits isolated against a deep black background, positioned diagonally below several large yellow daisy-like flowers. The high-contrast color pairing creates a striking visual suitable for a dramatic botanical post. Photograph read: The tight framing uses selective, bright lighting to make the flowers pop from the dark background, establishing a moody and intense botanical atmosphere.
-- **perrywlamarche**:  ([link](https://www.threads.com/@perrywlamarche/post/DfH2eN_kRQH))
-  - Photo: Description: A small yellow toy Volkswagen Beetle sits centered on a vibrant orange surface against a soft-focus backdrop of pale pink and lavender roses. The playful composition and cheerful color palette give the scene a whimsical, spring-like feel well-suited for a creative social media post. Photograph read: The subject is captured in bright, even lighting with a shallow depth of field that keeps the toy car in sharp focus while softly blurring the floral background, creating a playful and cheerful mood.
-- **dwordops**: This was a chance discovery, mid-walk ([link](https://www.threads.com/@dwordops/post/DfH2tJHkZu6))
-  - _Replying to: That centered framing lets the lily own the shot - the oran…_
-- **bbingco**: It's my daughter's neighbor's bougainvillea in their subdivision. I spotted it while walking around chasing the sunset. It's quite tall, so I just zoomed in to capture those lovely clusters against the blue sky. 😀 ([link](https://www.threads.com/@bbingco/post/DfH3WOFEjkw))
-  - _Replying to: Shooting low against that blue sky was the right call - the…_
-- **blue.cheese.ranch**: I loved the glow ✨️ Its natural. They're planted around our tomatoes and we've been covering them with fabric to survive the cold nights. It makes for some great light and shadow when the sun comes around ([link](https://www.threads.com/@blue.cheese.ranch/post/DfH2kS_kSLH))
-  - _Replying to: I looked - sorry, could not resist. That shadowy background…_
-- **simon_summerisle**: It's a semi wild rugosa rose ([link](https://www.threads.com/@simon_summerisle/post/DfH2vPSCJfJ))
-  - _Replying to: Letting the rose sit in all that busy green was a brave fra…_
-- **little_salty_canadian**: Thank you. I actually did take it this summer with thoughts of Remembrance Day. A red Poppy always reminds me to be grateful. ([link](https://www.threads.com/@little_salty_canadian/post/DfH2qz1EfLL))
-  - _Replying to: That shallow depth of field gives the poppy real presence -…_
-- **hannele.heikkinen**: It is wild, I finally managed to find it, it's rare and small, protected wildflower. A bit difficult to take a picture because of the size and the bent stem, and mosquitoes. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH3JxJDiE7))
+- **tiv34**:  ([link](https://www.threads.com/@tiv34/post/DfH8BQ4CvXT))
+  - Photo: Description: A close-up shot captures a pale purple poppy covered in shimmering raindrops after a shower, its delicate petals drooping slightly against a soft, green garden backdrop. Hidden deep within its dark, velvety center is a bumblebee, sheltering from the wet weather. Photograph read: The tight framing and shallow depth of field emphasize the vibrant texture of the water droplets and the rich tones of the flower, creating a moody, intimate nature scene under overcast light.
+- **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DfH7XPsGq3n))
+  - Photo: Description: A dense bed of small, globe-like pink and white flowers covers the ground, with dark green leaves and trailing stems visible beneath them. In the soft-focused background, a low concrete wall and leafy trees are silhouetted against a bright, hazy sky during what appears to be late afternoon or early morning. Photograph read: Captured from a low angle, the shot uses a shallow depth of field to sharply isolate the foreground blossoms while warm, diffused light creates a tranquil and serene mood.
+- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/DfH6xtvmMRU))
+  - Photo: Description: Vibrant magenta bougainvillea branches cascade down against a brilliant blue sky, framing the corner of a white building below. The bright, sunlit composition evokes a warm, cheerful vacation aesthetic. Photograph read: The low-angle vertical framing creates dynamic diagonal lines, emphasizing the striking contrast between the vivid pink blossoms and the deep blue sky under harsh midday sun.
+- **hanssensally**:  ([link](https://www.threads.com/@hanssensally/post/DfH5eysG_7Z))
+  - Photo: Description: A close-up shot captures a vibrant cluster of garden roses in full bloom, featuring gradients of soft pink and warm orange. The lush green foliage provides a natural, garden-fresh backdrop suitable for a spring or nature-themed social media post. Photograph read: The tight vertical composition emphasizes the velvety texture of the petals, illuminated by soft, diffused daylight that creates a warm, cheerful mood.
+- **beautifulnatureinmyeyes**:  ([link](https://www.threads.com/@beautifulnatureinmyeyes/post/DfH4-ofoEri))
+  - Photo: Description: A vibrant, deep red hibiscus flower blooms fully in the center of the frame, showcasing its prominent yellow stamen and textured petals. Surrounded by lush green foliage, this eye-catching floral close-up is ideal for nature-focused social media posts celebrating the beauty of the outdoors. Photograph read: The centered composition and sharp focus highlight the intricate texture of the petals, while bright, direct lighting creates a dramatic contrast against the softly blurred, leafy background.
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DfH47Obn_tN))
+  - Photo: Description: A vibrant cluster of pink plumeria flowers and bright green leaves extends from a woody branch against a solid grey wall. Delicate water droplets cling to the foliage, suggesting a recent rain. Photograph read: The vertical composition uses natural outdoor lighting to highlight the rich textures and colors of the flora against a neutral backdrop, creating a serene and refreshing mood.
+- **perrywlamarche**: I was just having some fun with a bouquet I got for my wife for our eighth anniversary, and I just started playing with my little VW which I just got in Mexico City, the orange is a canvas for what hopefully will one day become a work of art. Thanks for the feedback! ([link](https://www.threads.com/@perrywlamarche/post/DfH7EPem1Eq))
+  - Photo: Description: A small, yellow toy Volkswagen Beetle is parked in profile on a vibrant orange surface against a lush backdrop of pink and burgundy flowers. The cheerful color combination and whimsical staging create a playful, nostalgic scene suitable for a spring or vintage-themed social media post. Photograph read: The eye-level composition highlights the car's classic silhouette, while soft, natural light and saturated colors create a warm, cheerful mood.
+  - _Replying to: Putting the little yellow Beetle front and center was a fun…_
+- **craigkeepingbusy**: I was just standing on the path and thought that would make a good picture . ([link](https://www.threads.com/@craigkeepingbusy/post/DfH5bKem3Lb))
+  - _Replying to: That top-down framing turns the bed into pure pattern - rin…_
+- **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
+  - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
+- **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
-- **jeness.maresa**: Just caught my eye in my garden 😊 ([link](https://www.threads.com/@jeness.maresa/post/DfH3BdaIO5W))
-  - _Replying to: Shooting it eye-level from inside the grass was the right c…_
+- **maureenozerimages**: My friend bought it for a photoshoot she was doing & I took a pic while it was sat on the window ledge. The calm of the photo shows no indication of the chaos behind me 😆 ([link](https://www.threads.com/@maureenozerimages/post/DfH8CoaDeeE))
+  - _Replying to: That low angle against the pale sky turns the orchids into …_
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/DfHri1ykzuM))
