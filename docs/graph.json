@@ -10,8 +10,32 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 98,
+      "reply_count": 107,
       "replies": [
+        {
+          "username": "darrincastle",
+          "text": "",
+          "permalink": "https://www.threads.com/@darrincastle/post/DfIE7PrGI7l",
+          "photos": [
+            "Description: A close-up shot captures a single white flower in full bloom, featuring delicate petals and a vibrant yellow center. Tiny droplets of water glisten on the petals, suggesting a recent morning dew or light rain. Photograph read: The tight framing centers the flower against a soft, out-of-focus background of greenery, creating a peaceful and refreshing mood under even daylight."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bumpy120",
+          "text": "",
+          "permalink": "https://www.threads.com/@bumpy120/post/DfIEWL2nClM",
+          "photos": [
+            "Description: A close-up shot captures the vibrant center of a white and pale pink lotus flower, highlighting its bright green seed pod and radiating golden stamens. This detailed botanical view would make a striking and serene addition to a nature-focused social media post. Photograph read: The tight top-down composition emphasizes the geometric patterns of the seed pod and stamens against the soft white petals, creating a clean, high-contrast, and tranquil mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "donbstevens",
           "text": "Poppy anemone",
@@ -19,10 +43,32 @@
           "photos": [
             "Description: A vibrant, deep blue anemone flower is shown in close-up against a soft, out-of-focus garden background. The intricately textured petals surround a dark, circular center filled with tiny stamens, making it a striking subject for a nature post. Photograph read: The tight vertical composition frames the rich blue blossom in bright daylight, creating a clean, high-contrast botanical study with a serene mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight vertical framing makes the blue do all the work - the petals stay rich against that soft garden blur, and the dark center with its tiny stamens anchors the whole thing. Was this shot in open daylight, or did you find a patch of shade to keep the color that deep?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfIDQ4FGofk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "donbstevens",
+                  "text": "I did indeed find a patch of shade. The blue petals were mesmerizing.",
+                  "permalink": "https://www.threads.com/@donbstevens/post/DfIDhscEU_V",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "bojonvelvet2.0",
@@ -49,10 +95,21 @@
                   "text": "It was big news here when it happened, dog n me just happened to be out at Golden Gate Park shortly thereafter and decided to head over to the Academy to see the memorial. He was born there, lived to be thirty and was their official mascot.",
                   "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DfIB-2gGtep",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Thirty years as the Academy's mascot - no wonder the news hit hard, and heading over with the dog while you were already in Golden Gate Park feels just right. Thanks for sharing Claude's story and the memorial with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIDSPAkQ70",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -132,10 +189,21 @@
                   "text": "Thank you! A patch in Jack London Square in Oakland California",
                   "permalink": "https://www.threads.com/@peanutbutterscotch_/post/DfIBznGmi4b",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Jack London Square makes perfect sense - that low angle over a groundcover patch, wall and trees melting into haze behind it, is a lovely Oakland find. Thanks for sharing where it grows.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIDTXYlljb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -587,10 +655,21 @@
                   "text": "Thanks! It was overcast.",
                   "permalink": "https://www.threads.com/@joseph_dtyyz/post/DfICKTOGybu",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Overcast light was kind to it - the white petals stay clean, and the deep pink center and yellow stamen still pull the eye straight in. Thanks for sharing the soft-light hibiscus.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIDUrllHoH",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -703,10 +782,21 @@
               "text": "Siskiyou lewisia and cliff maids.",
               "permalink": "https://www.threads.com/@suzypuzy03/post/DfIBV-Gkaiz",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Siskiyou lewisia and cliff maids - thank you, that solves the mystery nicely, and those star-shaped petals with orange stamens were worth naming. Thanks for coming back with the IDs and for the lovely cluster.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfIDVvwGw82",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -1089,7 +1179,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kes_ward",
+                  "text": "This was shot in my lounge. Closed the curtains. Set the camera so that there was no ambient light to be captured and adjusted the lighting to suit, 2 very small LED grids held either side just inches away. \ud83d\ude01",
+                  "permalink": "https://www.threads.com/@kes_ward/post/DfIE9wajs6E",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

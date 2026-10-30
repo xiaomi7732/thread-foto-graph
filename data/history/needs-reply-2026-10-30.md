@@ -4,23 +4,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (152)
+## Needs Reply (151)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **donbstevens**: Poppy anemone ([link](https://www.threads.com/@donbstevens/post/DfIBu-2EUDi))
-  - Photo: Description: A vibrant, deep blue anemone flower is shown in close-up against a soft, out-of-focus garden background. The intricately textured petals surround a dark, circular center filled with tiny stamens, making it a striking subject for a nature post. Photograph read: The tight vertical composition frames the rich blue blossom in bright daylight, creating a clean, high-contrast botanical study with a serene mood.
-- **bojonvelvet2.0**: It was big news here when it happened, dog n me just happened to be out at Golden Gate Park shortly thereafter and decided to head over to the Academy to see the memorial. He was born there, lived to be thirty and was their official mascot. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfIB-2gGtep))
-  - _Replying to: That centered vertical framing keeps it solemn - the bouque…_
-- **peanutbutterscotch_**: Thank you! A patch in Jack London Square in Oakland California ([link](https://www.threads.com/@peanutbutterscotch_/post/DfIBznGmi4b))
-  - _Replying to: Shooting low was the right call - those little globe blosso…_
+- **darrincastle**:  ([link](https://www.threads.com/@darrincastle/post/DfIE7PrGI7l))
+  - Photo: Description: A close-up shot captures a single white flower in full bloom, featuring delicate petals and a vibrant yellow center. Tiny droplets of water glisten on the petals, suggesting a recent morning dew or light rain. Photograph read: The tight framing centers the flower against a soft, out-of-focus background of greenery, creating a peaceful and refreshing mood under even daylight.
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DfIEWL2nClM))
+  - Photo: Description: A close-up shot captures the vibrant center of a white and pale pink lotus flower, highlighting its bright green seed pod and radiating golden stamens. This detailed botanical view would make a striking and serene addition to a nature-focused social media post. Photograph read: The tight top-down composition emphasizes the geometric patterns of the seed pod and stamens against the soft white petals, creating a clean, high-contrast, and tranquil mood.
+- **donbstevens**: I did indeed find a patch of shade. The blue petals were mesmerizing. ([link](https://www.threads.com/@donbstevens/post/DfIDhscEU_V))
+  - _Replying to: That tight vertical framing makes the blue do all the work …_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
-- **joseph_dtyyz**: Thanks! It was overcast. ([link](https://www.threads.com/@joseph_dtyyz/post/DfICKTOGybu))
-  - _Replying to: The soft light does lovely work here - the white petals sta…_
-- **suzypuzy03**: Siskiyou lewisia and cliff maids. ([link](https://www.threads.com/@suzypuzy03/post/DfIBV-Gkaiz))
-  - _Replying to: (photo reply, no text)_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
+- **kes_ward**: This was shot in my lounge. Closed the curtains. Set the camera so that there was no ambient light to be captured and adjusted the lighting to suit, 2 very small LED grids held either side just inches away. 😁 ([link](https://www.threads.com/@kes_ward/post/DfIE9wajs6E))
+  - _Replying to: That side lighting against the black backdrop turns a sunfl…_
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/DfHri1ykzuM))
