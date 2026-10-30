@@ -7,7 +7,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Like (21)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- abnerabel125: Great photos! ([link](https://www.threads.com/@abnerabel125/post/DfIJs-ymW2R))
+- hanssensally: My backyard. ([link](https://www.threads.com/@hanssensally/post/DfIKPmnmfPM))
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - fephi: Crouched down! ([link](https://www.threads.com/@fephi/post/DfGuaK0m6mW))

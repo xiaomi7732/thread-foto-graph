@@ -7,17 +7,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (152)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **wanie_and_family84**: 🌻🌻🌻. ([link](https://www.threads.com/@wanie_and_family84/post/DfII7NAn5K8))
-  - Photo: Description: A close-up shot captures a unique sunflower whose dark green center and surrounding yellow petals naturally form a distinct heart shape. The flower stands outdoors in bright sunlight against a softly blurred background of distant hills and green foliage. Photograph read: The vertical framing centers the heart-shaped sunflower in sharp detail, utilizing natural daylight to cast soft shadows and create a cheerful, romantic mood.
-  - Photo: Description: A vibrant sunflower takes center stage in a sunlit field, its bright yellow petals framing a textured green center. In the background, rolling green hills and sparse trees under a clear blue sky complete the serene outdoor scene. Photograph read: Captured in bright daylight, the centered composition emphasizes the bold yellow of the blossom against the earthy tones of the field and foliage, creating a cheerful and natural mood.
-- **georgiaphotopro**:  ([link](https://www.threads.com/@georgiaphotopro/post/DfIIb3TCRym))
-  - Photo: Description: A vibrant blanket flower is captured from a top-down perspective, showcasing its striking red petals tipped with bright yellow surrounding a dark central disc. Surrounding the flower are serrated green leaves, providing natural context that makes this a cheerful image for a garden-themed social media post. Photograph read: The high-angle, centered composition emphasizes the bold radial symmetry of the flower, rendered with even natural lighting and a lively, uplifting mood.
-- **rhetta_schultz**:  ([link](https://www.threads.com/@rhetta_schultz/post/DfIH35gmJAW))
-  - Photo: Description: Two pale pink and white plumeria flowers bloom among vibrant green leaves, accompanied by a tight cluster of unopened pink buds. The vertical arrangement of blossoms and foliage creates a peaceful, natural close-up. Photograph read: The vertical composition uses a shallow depth of field to isolate the blossoms against a soft, neutral background, enhanced by bright, even lighting that highlights the smooth texture of the petals and rich green of the leaves.
-- **chezvies_shop**:  ([link](https://www.threads.com/@chezvies_shop/post/DfIGn4Cn5sp))
-  - Photo: Description: A single white rose blossom sits centered among green leaves against a dark, out-of-focus background. The flower's petals show slight signs of age with hints of browning at the edges, adding a touch of natural realism suitable for a nature post. Photograph read: The subject is captured in soft natural light that highlights the texture of the white petals against a heavily blurred, moody background.
-- **darrincastle**: Morning dew. Caught it before it had burned off ([link](https://www.threads.com/@darrincastle/post/DfIG0ZMHRHK))
-  - _Replying to: That tight framing lets the droplets do the talking - the w…_
+- **p2tlushamiza**:  ([link](https://www.threads.com/@p2tlushamiza/post/DfIPiKYk-8J))
+  - Photo: Description: Several white blossoms with yellow centers rest among dark green leaves, glistening with scattered raindrops. The moody, low-light setting creates a quiet, contemplative atmosphere suitable for a nature-focused post. Photograph read: The tight framing centers on the dewy white petals against a deep, shadowed background, creating a moody and dramatic macro composition.
+- **mathilda49**:  ([link](https://www.threads.com/@mathilda49/post/DfIOlVAkZ7E))
+  - Photo: Description: A single purple cosmos flower with a bright yellow center is viewed in profile against a dark, moody background. A small watermark signature is visible in the lower-left corner. Photograph read: The vertical framing and stark lighting isolate the delicate blossom, creating a dramatic and elegant botanical study.
+- **wanie_and_family84**: It's suprised me that place planting this shape of sun flowers.i spot it before... ([link](https://www.threads.com/@wanie_and_family84/post/DfIL8PcH5Nr))
+  - _Replying to: That vertical framing lets the heart do the talking - the d…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
@@ -112,6 +107,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: Two cars are parked in a field at night against a vibrant sky filled with bright green auroras and a deep magenta backdrop dotted with stars. Power lines stretch across the upper portion of the frame above the vehicles. Photograph read: The low-angle framing emphasizes the sleek silhouette of the primary white vehicle against the striking contrast of green and magenta celestial light, creating a dramatic and serene mood.
   - Photo: Description: A white sedan is parked outside at night against a vibrant sky filled with glowing red and green auroral light. Power lines and a dark rectangular trailer frame the car in a rural or suburban setting. Photograph read: The low-angle, centered composition emphasizes the car as a silhouette against the luminous, multicolored night sky, creating a moody and surreal atmosphere.
   - _Replying to: Twenty minutes of aurora and the car parked in exactly the …_
+- **beeeze**: Oh I definitely hunted. It’s a prime macro lens 😁 ([link](https://www.threads.com/@beeeze/post/DfIL6xJjWxc))
+  - _Replying to: That diagonal macro turns a sunflower head into pure geomet…_
 - **blueeyes_florida_girl**: This picture is from 2013 or so , when I was younger and took pictures to pass the time of being a new widow . ([link](https://www.threads.com/@blueeyes_florida_girl/post/DfGG8MmHVzT))
   - _Replying to: Pure luck and joy is the best combination - that glowing ha…_
 - **cornelisse74**: I enjoy getting flowers close up. It’s beautiful nature. ([link](https://www.threads.com/@cornelisse74/post/DfF2ezdILZL))
@@ -129,6 +126,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Jumping out the second the rain paused is exactly the insti…_
 - **seniorfitgal**: I chase them on walks. ([link](https://www.threads.com/@seniorfitgal/post/DfFzxA_n_N7))
   - _Replying to: Hundreds of frames for one hovering moment makes this one e…_
+- **theshuttersniper**: Yo! Saars- Nice prose. The wasp was on the water, I waited for the moment he busted and grabbed it. I have more that are similar, but they were different wasps. I got some cool reflections too, so that it looks like two wasps coming at me from above are doubled below with the reflection. ([link](https://www.threads.com/@theshuttersniper/post/DfIPs9fG4BE))
+  - _Replying to: That tight framing freezes a blink of a moment - bright was…_
 - **janatopping**: The Moon last night ([link](https://www.threads.com/@janatopping/post/DfFh5_qEQ9V))
   - Photo: Description: A glowing full moon rises through dense tree branches and power lines during twilight. The urban landscape blends nature and infrastructure under a purple-grey evening sky. Photograph read: The vertical composition creates a layered nightscape where harsh utility lines intersect with the soft, luminous orb of the moon and foliage, evoking a quiet, everyday evening mood.
 - **bumpy120**: I'm lucky to live by the lake of two mountain Montreal Quebec. There's always something to capture. ([link](https://www.threads.com/@bumpy120/post/DfFstiXn38i))
