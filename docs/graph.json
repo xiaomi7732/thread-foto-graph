@@ -10,8 +10,44 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 30,
+      "reply_count": 55,
       "replies": [
+        {
+          "username": "rita01400",
+          "text": "",
+          "permalink": "https://www.threads.com/@rita01400/post/DfH38dFGp3t",
+          "photos": [
+            "Description: A vibrant, deep blue butterfly pea flower blooms amidst lush green foliage, with tiny water droplets clinging to its textured petals. The fresh garden setting creates a peaceful, natural atmosphere ideal for nature-focused social media content. Photograph read: Soft, natural daylight illuminates the deep blue and contrasting green hues, creating a serene and crisp macro composition with a shallow depth of field."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jh1962bike",
+          "text": "",
+          "permalink": "https://www.threads.com/@jh1962bike/post/DfH3TX7CP2Y",
+          "photos": [
+            "Description: A vibrant purple flower with a bright yellow center sits isolated against a deep black background, positioned diagonally below several large yellow daisy-like flowers. The high-contrast color pairing creates a striking visual suitable for a dramatic botanical post. Photograph read: The tight framing uses selective, bright lighting to make the flowers pop from the dark background, establishing a moody and intense botanical atmosphere."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "perrywlamarche",
+          "text": "",
+          "permalink": "https://www.threads.com/@perrywlamarche/post/DfH2eN_kRQH",
+          "photos": [
+            "Description: A small yellow toy Volkswagen Beetle sits centered on a vibrant orange surface against a soft-focus backdrop of pale pink and lavender roses. The playful composition and cheerful color palette give the scene a whimsical, spring-like feel well-suited for a creative social media post. Photograph read: The subject is captured in bright, even lighting with a shallow depth of field that keeps the toy car in sharp focus while softly blurring the floral background, creating a playful and cheerful mood."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dwordops",
           "text": "",
@@ -19,10 +55,32 @@
           "photos": [
             "Description: A vibrant, multi-colored lily in full bloom dominates the foreground with orange and deep red petals, accented by dark stamens and speckled details. In the background, a garden path, stone wall, and green lawn create a natural, outdoor setting. Photograph read: The centered composition and natural, diffused lighting emphasize the rich colors and fine textures of the flower, conveying a serene and summery mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That centered framing lets the lily own the shot - the orange and deep red petals read even richer against the soft garden path and stone wall behind. Was this a planned portrait of that one bloom, or did it stop you mid-walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2KQIFT3c",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "dwordops",
+                  "text": "This was a chance discovery, mid-walk",
+                  "permalink": "https://www.threads.com/@dwordops/post/DfH2tJHkZu6",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "craigkeepingbusy",
@@ -31,10 +89,21 @@
           "photos": [
             "Description: A circular flowerbed filled with concentric rings of hyacinths in yellow, blue, and purple surrounds a slender young tree in a manicured garden. In the background, a patch of white flowers blooms beneath lush green bushes and tall trees on a sunny day. Photograph read: The centered composition and natural overhead light emphasize the geometric symmetry of the floral rings, creating a vibrant and orderly spring mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That top-down framing turns the bed into pure pattern - rings of hyacinths circling the young tree. Were you up high for that overhead angle, or did the rings just line up from where you stood?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2LrmEX3b",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bbingco",
@@ -43,10 +112,32 @@
           "photos": [
             "Description: A lush bush filled with vibrant peach-colored flowers and green leaves sits in front of tall palm fronds reaching toward a clear blue sky. This tropical scene evokes a warm, vacation-like feel perfect for sharing on social media. Photograph read: The low-angle vertical composition contrasts the soft texture of the dense flower clusters with the sharp, radiating fronds of the palm trees under soft daylight, creating a peaceful and refreshing mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Shooting low against that blue sky was the right call - the peach clusters stay soft while the palm fronds cut sharp lines above them. Is this a garden you visit often, or a vacation find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2NLLkTJ7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bbingco",
+                  "text": "It's my daughter's neighbor's bougainvillea in their subdivision. I spotted it while walking around chasing the sunset. It's quite tall, so I just zoomed in to capture those lovely clusters against the blue sky. \ud83d\ude00",
+                  "permalink": "https://www.threads.com/@bbingco/post/DfH3WOFEjkw",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "blue.cheese.ranch",
@@ -56,10 +147,32 @@
             "Description: A vibrant, multi-layered orange zinnia flower is captured in close-up, its geometric petals radiating outward from a yellow center. The surrounding foliage and background are shrouded in deep shadow, making the bright blossom stand out vividly. Photograph read: The centered composition and focused lighting emphasize the rich textures and gradient tones of the petals against the dark, moody background.",
             "Description: A close-up shot captures a vibrant orange zinnia flower in full bloom, set against a dark, shadowy background that makes the rich colors stand out. The meticulously layered petals radiate outward, creating a lush, textured focal point ideal for a nature-themed post. Photograph read: The centered composition and strong directional light on the blossom create a dramatic, moody contrast against the deeply shadowed foliage, evoking a quiet, contemplative atmosphere."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I looked - sorry, could not resist. That shadowy background lets the orange petals glow like a lantern, and the tight crop keeps every layer in play. Was the shade behind it natural, or did you wait for the light to drop?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2QG1lHKS",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "blue.cheese.ranch",
+                  "text": "I loved the glow \u2728\ufe0f Its natural. They're planted around our tomatoes and we've been covering them with fabric to survive the cold nights. It makes for some great light and shadow when the sun comes around",
+                  "permalink": "https://www.threads.com/@blue.cheese.ranch/post/DfH2kS_kSLH",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "joseph_dtyyz",
@@ -68,10 +181,21 @@
           "photos": [
             "Description: A close-up shot of a pristine white hibiscus flower featuring a deep reddish-pink center and a prominent yellow stamen, surrounded by soft-focus green foliage. Photograph read: The centered composition and natural, diffused lighting emphasize the delicate textures of the petals, creating a serene and botanical mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The soft light does lovely work here - the white petals stay clean while that deep pink center and yellow stamen pull the eye straight in. Did you wait for cloud cover to soften it, or is this shade doing the work?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2RQXkTPy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "simon_summerisle",
@@ -80,10 +204,32 @@
           "photos": [
             "Description: A single bright pink wild rose bloom with a yellow center is centered amidst lush green foliage. This close-up nature shot is ideal for a spring or summer garden appreciation post. Photograph read: Soft natural light highlights the vibrant pink petals against a busy background of textured green leaves, creating a calm and naturalistic mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Letting the rose sit in all that busy green was a brave framing choice - the pink still wins, and the yellow center anchors it. Was this a wild find on a walk, or a garden rose doing its thing?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2S1olTnj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "simon_summerisle",
+                  "text": "It's a semi wild rugosa rose",
+                  "permalink": "https://www.threads.com/@simon_summerisle/post/DfH2vPSCJfJ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ca_girl_living_in_mt",
@@ -92,10 +238,20 @@
           "photos": [
             "Description: A cluster of bright yellow arrowleaf balsamroot wildflowers blooms in a sunny field, with large, textured green leaves visible at the base of their tall stalks. The fresh, vibrant spring scene makes a cheerful post for nature lovers or a weekend hike update. Photograph read: The vertically oriented shot uses natural, direct sunlight to highlight the vibrant yellow petals and casts soft shadows across the layered green leaves for a bright, cheerful mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That vertical framing suits them - tall stalks of yellow balsamroot rising out of those big textured leaves, all in direct sun. Was this a hike stop, or a field you already knew would be blooming?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2UVSEQyY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "tryan2thomas",
               "text": "",
@@ -103,10 +259,21 @@
               "photos": [
                 "Description: A vibrant bouquet of yellow daffodils with bright orange cups fills the frame, radiating a cheerful spring vibe. The flowers are arranged closely together, creating a lush, festive display ideal for a seasonal greeting. Photograph read: The tight framing and shallow depth of field highlight the intricate petal textures under bright, natural light, creating a warm, uplifting mood."
               ],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Filling the frame with that bouquet was the move - the tight crop and shallow depth turn a bunch of daffodils into pure spring color, orange cups and all. Were these from your own garden, or a market bunch brought home for the camera?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfH2ZAUIBQU",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -117,10 +284,21 @@
           "photos": [
             "Description: A dense cluster of pale yellow and white blossoms fills the frame, showcasing star-shaped petals with delicate orange stamens. This vibrant floral close-up is ideal for sharing the arrival of spring or a moment of natural beauty. Photograph read: The tight vertical composition utilizes soft natural light and a shallow depth of field to create a serene, uplifting mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The tight vertical crop works beautifully - star-shaped petals packed edge to edge, with those little orange stamens giving each one a spark. Do you know what these are called, or were they just too pretty to walk past?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2agYEeC2",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "little_salty_canadian",
@@ -129,10 +307,32 @@
           "photos": [
             "Description: A vibrant red poppy with a dark center is captured in sharp focus against a sunlit meadow of green foliage and distant wildflowers. This picturesque scene evokes a bright spring or summer day, perfect for nature lovers sharing seasonal blooms. Photograph read: The narrow depth of field isolates the crisp foreground poppy from the softly blurred background, creating a bright, cheerful mood bathed in natural daylight."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That shallow depth of field gives the poppy real presence - crisp red against a meadow gone soft behind it. Was this shot with Remembrance Day in mind, or did it earn the occasion after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2bxplaNf",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "little_salty_canadian",
+                  "text": "Thank you. I actually did take it this summer with thoughts of Remembrance Day. A red Poppy always reminds me to be grateful.",
+                  "permalink": "https://www.threads.com/@little_salty_canadian/post/DfH2qz1EfLL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "suz_sharperphotos",
@@ -141,10 +341,21 @@
           "photos": [
             "Description: A close-up view captures a vibrant purple globe artichoke flower in full bloom, showcasing its densely packed, bristly petals emerging from dark purple bracts. The soft, natural lighting and blurred green background highlight the intricate textures of the blossom, making it a striking subject for a nature post. Photograph read: The macro composition uses a shallow depth of field to isolate the sharply focused pink florets against a soft, muted green backdrop, creating a calm and organic mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Going macro on an artichoke flower is such a good surprise - those bristly purple florets turn almost architectural at this range, with the green gone soft behind. Did you know it would look this wild up close, or did the close-up reveal it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2c5cEdru",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hannele.heikkinen",
@@ -153,10 +364,32 @@
           "photos": [
             "Description: A close-up shot captures a delicate, vibrant purple orchid hanging upside down against a lush green background. The flower features slender petals and a pale lower lip, evoking a sense of tranquil woodland beauty. Photograph read: The subject is centered in a tight horizontal frame with soft, diffused lighting that enhances the rich purple and green tones, creating an intimate and serene mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Catching the orchid hanging upside down gives it such a quiet, woodland feel - the tight frame and soft light keep the purple rich without losing the pale lip. Was this growing wild, or a greenhouse orchid caught at a lucky angle?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfH2eH4EXsW",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "hannele.heikkinen",
+                  "text": "It is wild, I finally managed to find it, it's rare and small, protected wildflower. A bit difficult to take a picture because of the size and the bent stem, and mosquitoes.",
+                  "permalink": "https://www.threads.com/@hannele.heikkinen/post/DfH3JxJDiE7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "titiesti2020",
@@ -183,10 +416,21 @@
                   "text": "Thank you... I found it on my morning walk. We call it \"kumis kucing\"",
                   "permalink": "https://www.threads.com/@titiesti2020/post/DfHzW32n114",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A morning-walk find makes it even better - and kumis kucing is a perfect name for those whisker stamens. Thanks for sharing the story behind it, and for the morning walk magic.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfH2fPdFcyy",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -211,7 +455,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jeness.maresa",
+                  "text": "Just caught my eye in my garden \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@jeness.maresa/post/DfH3BdaIO5W",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -242,10 +497,21 @@
                   "photos": [
                     "Description: A tall planter overflows with colorful zinnia flowers in shades of pink, yellow, and orange, positioned on a patio beside a decorative painted lantern. In the background, a lush green yard, a wooden fence, and leafy trees set a peaceful backyard scene. Photograph read: Captured from a slightly elevated eye-level angle in soft, overcast daylight, this vertical shot creates a cheerful and natural garden portrait with balanced composition."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Seed-saving gardeners are my favorite kind - bees doing the pollinating, you keeping the zinnias coming back year after year. That planter shot is a lovely little portrait of the whole cycle.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfH2gsVFMS6",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -299,10 +565,21 @@
                   "text": "Thx! I remember seeing this bouquet in a flower stand. The colour version just seemed a bit ordinary so I tried B&W. The shadows & petal texture popped a lot more and I like how this turned out. FWIW I really appreciate the comments and the questions you ask re your photo challenges. It\u2019s what this space is designed to do and ultimately helps make us better photographers \ud83d\udc4d",
                   "permalink": "https://www.threads.com/@paul.moorman91/post/DfHz74CFu8Y",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That is exactly what this space is for - and your B&W instinct was spot on, the shadows and petal texture carry the whole frame. Thanks for saying so, and for bringing such a thoughtful eye to the thread.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfH2h7aFV0P",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
