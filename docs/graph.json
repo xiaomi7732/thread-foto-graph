@@ -10,8 +10,20 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 154,
+      "reply_count": 164,
       "replies": [
+        {
+          "username": "liddell1618",
+          "text": "The sweet pea",
+          "permalink": "https://www.threads.com/@liddell1618/post/DfIjv8KDgDv",
+          "photos": [
+            "Description: A close-up shot captures a delicate pink and magenta sweet pea flower in full bloom, showcasing its intricate petal veining. The soft-focus green background highlights the vibrant colors of the blossom, making it an ideal post for celebrating spring. Photograph read: The tight vertical framing and shallow depth of field isolate the textured petals against a blurred natural background, creating an intimate and serene botanical study."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "oznatureart",
           "text": "",
@@ -19,10 +31,21 @@
           "photos": [
             "Description: A close-up shot of delicate white crape myrtle blossoms and tightly closed buds clustered along reddish-brown branches amid deep green leaves. The bright, natural outdoor lighting highlights the intricate textures of the ruffled petals and prominent stamens, making it ideal for a nature appreciation post. Photograph read: The tight framing and shallow depth of field draw focus to the intricate textures of the blossoms and buds, creating a vibrant, intimate botanical study."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tight framing turns the crape myrtle into a little botanical study - ruffled white petals and closed buds sharing the frame, the reddish branches giving it structure. Was this bright sun doing the work, or did you find a patch of soft light to keep the whites from blowing out?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfIeIaClL9y",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "picsall",
@@ -66,7 +89,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "valeriebray103",
+                  "text": "The day before.",
+                  "permalink": "https://www.threads.com/@valeriebray103/post/DfIhw80Edxq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -95,10 +129,21 @@
                   "text": "This hibiscus tree is quite large\u2026 because it was allowed to grow freely in front of the fence.",
                   "permalink": "https://www.threads.com/@victorinawahyuniarimbi/post/DfIYxwuE7Cl",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A big free-growing hibiscus by the fence is the best kind - room to spread, and that tight crop catching the ruffled crimson at its best. Thanks for sharing the tree behind the bloom.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIeJyAFvSK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 },
                 {
                   "username": "victorinawahyuniarimbi",
@@ -139,10 +184,32 @@
                   "text": "Probably morning light.",
                   "permalink": "https://www.threads.com/@beckiefitzgerald/post/DfIXswPARk4",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Morning light was kind to it - soft enough to keep those curled golden stamens glowing against the creamy petals. A lovely quiet magnolia portrait, thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIeLPpgTIu",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "beckiefitzgerald",
+                          "text": "Thank you \ud83d\ude0a",
+                          "permalink": "https://www.threads.com/@beckiefitzgerald/post/DfIiEa_gZOz",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -177,10 +244,21 @@
                   "text": "I am so glad you could see it too! Not all on the same day but in the same area.",
                   "permalink": "https://www.threads.com/@tiabird_brain23/post/DfIXnEQGcji",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Same area, different days - that explains the turn perfectly, one wandering patch holding a night path and a whole spring parade. Thanks for sharing the whole set with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIeMhVGoML",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -211,10 +289,32 @@
                   "text": "This photo was taken in the afternoon after the rain had stopped, and the sky was still overcast. I didn't edit this photo, I just used Pro mode on my Samsung galaxi A14.",
                   "permalink": "https://www.threads.com/@p2tlushamiza/post/DfIXmKlExT2",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Pro mode on an overcast afternoon was the right call - no edit needed, the rain and the grey sky did the mood all on their own. Lovely honest shooting, thanks for sharing how it was made.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfIeN5_FmPH",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "p2tlushamiza",
+                          "text": "My pleasure",
+                          "permalink": "https://www.threads.com/@p2tlushamiza/post/DfIgSkkEyVo",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -1374,10 +1474,21 @@
               "photos": [
                 "Description: A close-up shot captures three vibrant purple bellflowers nestled among rich green foliage, their distinct star-shaped petals open wide. The striking contrast and natural setting make this ideal for a garden update or a nature-themed post. Photograph read: The tight framing and shallow depth of field draw focus to the crisp details of the central blossoms, creating a serene and natural mood under soft ambient light."
               ],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "That tight framing lets the bellflowers glow - three star-shaped purples nested in the green, the soft light keeping every petal crisp. Were these a garden find, or a wild patch you stopped for on a walk?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfIePIWn90v",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",

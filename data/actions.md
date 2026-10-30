@@ -6,26 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (158)
+## Needs Reply (154)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **oznatureart**:  ([link](https://www.threads.com/@oznatureart/post/DfIYD6Tk4Xn))
-  - Photo: Description: A close-up shot of delicate white crape myrtle blossoms and tightly closed buds clustered along reddish-brown branches amid deep green leaves. The bright, natural outdoor lighting highlights the intricate textures of the ruffled petals and prominent stamens, making it ideal for a nature appreciation post. Photograph read: The tight framing and shallow depth of field draw focus to the intricate textures of the blossoms and buds, creating a vibrant, intimate botanical study.
-- **victorinawahyuniarimbi**: This hibiscus tree is quite large… because it was allowed to grow freely in front of the fence. ([link](https://www.threads.com/@victorinawahyuniarimbi/post/DfIYxwuE7Cl))
-  - _Replying to: That tight crop lets the ruffled crimson petals do all the …_
+- **liddell1618**: The sweet pea ([link](https://www.threads.com/@liddell1618/post/DfIjv8KDgDv))
+  - Photo: Description: A close-up shot captures a delicate pink and magenta sweet pea flower in full bloom, showcasing its intricate petal veining. The soft-focus green background highlights the vibrant colors of the blossom, making it an ideal post for celebrating spring. Photograph read: The tight vertical framing and shallow depth of field isolate the textured petals against a blurred natural background, creating an intimate and serene botanical study.
+- **valeriebray103**: The day before. ([link](https://www.threads.com/@valeriebray103/post/DfIhw80Edxq))
+  - _Replying to: Centering your own wedding arrangement like a portrait - li…_
 - **victorinawahyuniarimbi**: I go for a jog every morning... and the flowers I photograph are ones I come across along the way. At home, I only have Balinese frangipani, Adenium (desert rose), jasmine, and two-colored bougainvillea. ([link](https://www.threads.com/@victorinawahyuniarimbi/post/DfIYiFak-dt))
   - _Replying to: That tight crop lets the ruffled crimson petals do all the …_
-- **beckiefitzgerald**: Probably morning light. ([link](https://www.threads.com/@beckiefitzgerald/post/DfIXswPARk4))
-  - _Replying to: Going macro on a magnolia's heart - those curled golden sta…_
-- **tiabird_brain23**: I am so glad you could see it too! Not all on the same day but in the same area. ([link](https://www.threads.com/@tiabird_brain23/post/DfIXnEQGcji))
-  - _Replying to: That carousel takes a turn - a moody night path, then sudde…_
-- **p2tlushamiza**: This photo was taken in the afternoon after the rain had stopped, and the sky was still overcast. I didn't edit this photo, I just used Pro mode on my Samsung galaxi A14. ([link](https://www.threads.com/@p2tlushamiza/post/DfIXmKlExT2))
-  - _Replying to: That tight framing turns the raindrops into the whole mood …_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
-- **rmrashotte**:  ([link](https://www.threads.com/@rmrashotte/post/DfIbdqRATz4))
-  - Photo: Description: A close-up shot captures three vibrant purple bellflowers nestled among rich green foliage, their distinct star-shaped petals open wide. The striking contrast and natural setting make this ideal for a garden update or a nature-themed post. Photograph read: The tight framing and shallow depth of field draw focus to the crisp details of the central blossoms, creating a serene and natural mood under soft ambient light.
-  - _Replying to: (photo reply, no text)_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
 - **abnerabel125**: I bet that you are . There are some really talented people out there . I enjoy looking at all the photos people post . It gives me ideas of different ways of looking at things. Keep up the great work . ([link](https://www.threads.com/@abnerabel125/post/DfIQxw_jwKH))
@@ -390,9 +381,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (21)
+## Needs Like (23)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
+- beckiefitzgerald: Thank you 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfIiEa_gZOz))
+- p2tlushamiza: My pleasure ([link](https://www.threads.com/@p2tlushamiza/post/DfIgSkkEyVo))
 - craigkeepingbusy: Thank you ([link](https://www.threads.com/@craigkeepingbusy/post/DfIVfb_GzH7))
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
