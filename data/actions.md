@@ -6,19 +6,33 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (152)
+## Needs Reply (158)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **p2tlushamiza**:  ([link](https://www.threads.com/@p2tlushamiza/post/DfIPiKYk-8J))
-  - Photo: Description: Several white blossoms with yellow centers rest among dark green leaves, glistening with scattered raindrops. The moody, low-light setting creates a quiet, contemplative atmosphere suitable for a nature-focused post. Photograph read: The tight framing centers on the dewy white petals against a deep, shadowed background, creating a moody and dramatic macro composition.
-- **mathilda49**:  ([link](https://www.threads.com/@mathilda49/post/DfIOlVAkZ7E))
-  - Photo: Description: A single purple cosmos flower with a bright yellow center is viewed in profile against a dark, moody background. A small watermark signature is visible in the lower-left corner. Photograph read: The vertical framing and stark lighting isolate the delicate blossom, creating a dramatic and elegant botanical study.
-- **wanie_and_family84**: It's suprised me that place planting this shape of sun flowers.i spot it before... ([link](https://www.threads.com/@wanie_and_family84/post/DfIL8PcH5Nr))
-  - _Replying to: That vertical framing lets the heart do the talking - the d…_
+- **picsall**:  ([link](https://www.threads.com/@picsall/post/DfIWeIqEn6p))
+  - Photo: Description: A high-angle, close-up shot shows a small, low-growing plant with vibrant red, branching stems and tiny white, fluffy flower clusters centered against dry, gravelly earth. Photograph read: The centered, top-down composition emphasizes the plant's radial symmetry, captured in even, natural light with an earthy, minimalist mood.
+- **valeriebray103**: The flower arrangement I created for my own wedding.. ([link](https://www.threads.com/@valeriebray103/post/DfIVU8rEQQ3))
+  - Photo: Description: A large floral arrangement of white lilies, chrysanthemums, and baby's breath sits atop a dark wooden pedestal in a room with hardwood floors. In the background, a staircase with dark balusters and red carpeted steps curves upward along a pale wall. Photograph read: The symmetrical, vertically oriented composition centers the floral display against a neutral backdrop, creating a formal and elegant mood under soft, even indoor lighting.
+- **victorinawahyuniarimbi**:  ([link](https://www.threads.com/@victorinawahyuniarimbi/post/DfITuG1k19d))
+  - Photo: Description: A close-up shot of a vibrant, deeply ruffled red hibiscus flower in full bloom, surrounded by blurred green leaves. The intense crimson petals create a lush, textured focal point against a soft background. Photograph read: The tight framing and shallow depth of field emphasize the intricate texture and rich color of the blossoms under even, natural light, creating a serene and captivating mood.
+- **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/DfIR8GXoFi4))
+  - Photo: Description: A close-up shot captures the intricate center of a large, creamy white magnolia blossom in full bloom. The delicate petals curve gracefully around a textured cone featuring tiny, curled golden-brown stamens. Photograph read: The tight macro composition emphasizes the rich textures of the flower's reproductive parts against soft white petals, rendered in bright, natural light that creates a serene and elegant mood.
+- **tiabird_brain23**:  ([link](https://www.threads.com/@tiabird_brain23/post/DfIRpejmQ7s))
+  - Photo: Description: A dark, ominous forest path at night is framed by large trees on the left and a scattering of dry leaves on the ground, creating a suspenseful atmosphere. In the distant darkness, two small, vertical reddish lights glow faintly, suggesting a hidden presence. Photograph read: The low-light, handheld composition creates a grainy texture and motion blur that heightens the eerie, unsettling mood of the nocturnal woodland scene.
+  - Photo: Description: Rows of potted chrysanthemums in yellow, white, and purple sit outdoors in bright sunlight, likely at a garden center or store parking lot display. In the foreground, a dense bed of vibrant purple flowers features several bees gathering nectar. Photograph read: The high-angle shot uses sharp focus on the foreground flowers to create a bright, lively mood under natural sunlight, with a shallow depth of field softly blurring the background plants.
+  - Photo: Description: A cluster of bright purple aster flowers with vibrant yellow centers blooms against a soft, sun-dappled green background, creating a vibrant scene perfect for sharing the beauty of a garden stroll. Photograph read: The subject is shot in a sunlit outdoor environment with a shallow depth of field that softens the background greenery, highlighting the sharp details and rich purple and yellow colors of the flowers.
+  - Photo: Description: Several small, pale purple wildflowers with vibrant yellow centers bloom among lush green foliage and unopened buds. The natural setting suggests a casual, outdoor snapshot ideal for nature appreciation posts. Photograph read: The top-down composition captures the delicate flowers in soft, even daylight, creating a peaceful and serene mood.
+  - Photo: Description: A vibrant, full-bloomed pink cherry blossom tree stands prominently on a lush green lawn beside an asphalt road under a bright blue sky. Overhead utility lines cut across the top of the frame, hinting at a roadside or suburban setting. Photograph read: The bright, direct sunlight casts a crisp shadow from the tree onto the grass, while the horizontal lines of the road, utility wires, and distant tree line create a structured composition with a cheerful, spring-like mood.
+- **mathilda49**: Thanks for the lovely compliment! I did indeed wait deliberately until the light was just right, in order to isolate the cosmos flower against the dark background. It’s great that you noticed the vertical framing and the details. Thank you!!💜 ([link](https://www.threads.com/@mathilda49/post/DfIRRKKFhBD))
+  - _Replying to: That vertical framing isolates the cosmos beautifully - one…_
+- **akmaleky**: It was after the heavy rain after such a long dry season in Indonesia ([link](https://www.threads.com/@akmaleky/post/DfIQniwE78u))
+  - _Replying to: That grey wall is a quiet genius of a backdrop - the pink p…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
   - _Replying to: Catching the orchid hanging upside down gives it such a qui…_
+- **abnerabel125**: I bet that you are . There are some really talented people out there . I enjoy looking at all the photos people post . It gives me ideas of different ways of looking at things. Keep up the great work . ([link](https://www.threads.com/@abnerabel125/post/DfIQxw_jwKH))
+  - _Replying to: 🤣🤣🤣 You know what, I am really struggling to pick only 3 of…_
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/DfHri1ykzuM))
@@ -57,6 +71,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That tight diagonal framing is so calm - a red and black la…_
 - **buzz.crunch**: You’ve always got stuff crawling on you in Australia 😀 ([link](https://www.threads.com/@buzz.crunch/post/DfGl27EHyle))
   - _Replying to: Feeling it crawl on you and still getting the shot is real …_
+- **christinemiller8770**: Thank you, appreciate your kind words. ([link](https://www.threads.com/@christinemiller8770/post/DfIQ3Voj5pi))
+  - _Replying to: One lone leaf, sun shining through the trees, and the angle…_
 - **ibrahimceline**: I wanted to focus on the texture and contrast of colours ([link](https://www.threads.com/@ibrahimceline/post/DfHHeVdjPlq))
   - _Replying to: That tight vertical framing turns weathered iron into a who…_
 - **whirlingestdervish**: Thanks. It’s a style I’ve developed. Usually try to get mountains and clouds in the corners but I wanted the detail on this one. Elephant heads, hundreds of them. I shoot at angles most of the time ([link](https://www.threads.com/@whirlingestdervish/post/DfHgi0Qlhs3))
@@ -380,7 +396,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Like (21)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- hanssensally: My backyard. ([link](https://www.threads.com/@hanssensally/post/DfIKPmnmfPM))
+- craigkeepingbusy: Thank you ([link](https://www.threads.com/@craigkeepingbusy/post/DfIVfb_GzH7))
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
 - fephi: Crouched down! ([link](https://www.threads.com/@fephi/post/DfGuaK0m6mW))
