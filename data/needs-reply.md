@@ -4,29 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (172)
+## Needs Reply (168)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **nanaindra**: I only have frangipani photo ([link](https://www.threads.com/@nanaindra/post/DfJEJbMkuXN))
-  - Photo: Description: A close-up shot captures several delicate white and yellow plumeria flowers, glistening with raindrops, against a backdrop of lush green leaves and blurred branches. The fresh, rain-kissed blossoms create a serene and natural ambiance ideal for a botanical or nature-themed social media post. Photograph read: The vertical composition frames the dew-covered blossoms sharply in the foreground, while soft, natural backlighting illuminates the translucent green leaves, creating a tranquil and refreshing mood.
-- **linda.crandall956**:  ([link](https://www.threads.com/@linda.crandall956/post/DfJBekim8QZ))
-  - Photo: Description: Two large, star-shaped clematis blossoms in shades of pink and white stand out against a dense background of lush green leaves. Perfect for a garden update or a floral appreciation post. Photograph read: Captured in soft, even daylight, the vertical composition centers on the two textured blooms and deep green foliage, creating a calm and natural mood.
-- **franciesdogs**: Today! ([link](https://www.threads.com/@franciesdogs/post/DfJAYVDgNtc))
-  - Photo: Description: A potted holiday cactus in a white ceramic pot features unique yellow-peach blooms with bright pink accents, showcasing its indoor home setting. Photograph read: Captured from a high angle in natural indoor light, the shot highlights the warm tones of the blossoms against the rich green leaves for a cozy domestic mood.
-  - Photo: Description: A potted Thanksgiving cactus in a white ceramic pot sits on a table, displaying soft yellow and peach-toned blossoms among its flat, green segments. Other house plants and a hint of a lived-in room are visible in the background, suggesting a cozy indoor setting. Photograph read: Natural, diffused daylight from the side illuminates the plant and creates a warm, domestic mood with a medium-close framing centered on the blooming cactus.
-  - Photo: Description: A potted holiday cactus displays a striking yellow blossom with delicate white stamens and a bright magenta tip. The plant sits indoors in what appears to be a bedroom setting with soft natural light filtering through a nearby window. Photograph read: The vertical composition centers tightly on the blooming flower against a softly blurred indoor background, creating a calm and intimate botanical study.
-- **kimspettel**:  ([link](https://www.threads.com/@kimspettel/post/DfJASODEWxv))
-  - Photo: Description: A small cluster of bright purple phlox flowers blooms amidst a forest floor covered in dry, brown autumn leaves and scattered green foliage. This natural woodland scene captures a lovely splash of color during a seasonal transition. Photograph read: The top-down, centered composition places sharp focus on the vibrant purple blossoms against a softly blurred, earthy background lit by diffused natural light, creating a serene and grounded mood.
-- **sandrae34231**: It was in the Selby Gardens greenhouse, so a very controlled environment and soft light. ([link](https://www.threads.com/@sandrae34231/post/DfJA5TDEf8m))
-  - _Replying to: That vertical centering turns the bat flower into a little …_
-- **seniorfitgal**: Both! It was a drizzly day. I was in southern Chile last December. So many beautiful flowers ([link](https://www.threads.com/@seniorfitgal/post/DfJA7URFiXQ))
-  - _Replying to: That tight vertical framing makes the rain do half the work…_
-- **scottbalows**: It was at the Art Barn School of Art (located in Valparaiso, Indiana). They host an annual open house event and my buddy was giving a pottery class. They had a giant signature sunflower field. ([link](https://www.threads.com/@scottbalows/post/DfJFQvvjjF_))
-  - _Replying to: That dense field of sunflowers reads like pure summer energ…_
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DfJNZEbDGfE))
+  - Photo: Description: A close-up shot captures a blooming white citrus flower with a vibrant yellow center, surrounded by lush green leaves. The bright daylight highlights the delicate texture of the petals, suggesting a peaceful garden setting. Photograph read: The tight framing centers on the flower against dark foliage, utilizing bright overhead sunlight to create sharp contrasts and a fresh, lively mood.
+- **nanaindra**: It's after rainy ([link](https://www.threads.com/@nanaindra/post/DfJMKgWElOD))
+  - _Replying to: That vertical framing lets the rain do half the work - dew-…_
+- **franciesdogs**: I bought it last year when it was in bloom. I was struck by the delicate yellow peach color. ([link](https://www.threads.com/@franciesdogs/post/DfJJTNwAIVm))
+  - _Replying to: That set is a cozy indoor study - the high angle on the pot…_
+- **marilynheaney**: Spotted on my morning walk. ([link](https://www.threads.com/@marilynheaney/post/DfJJEG7kxE4))
+  - _Replying to: That vertical framing lets the pale yellow roses glow again…_
 - **brandy_fletcher004**: You are very welcome, sweet friend. 🙏🏼🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfJCbgrmyjx))
   - _Replying to: Blessed timing is a fine way to shoot - waiting until the m…_
-- **marysouckar**: A garden in France. ([link](https://www.threads.com/@marysouckar/post/DfJEa33kdBD))
-  - _Replying to: Going straight overhead was a great call - the yellow dahli…_
 - **gerrycud**: Thanks. I’m guessing they are the last flowers of the season. Snow will be falling soon. ([link](https://www.threads.com/@gerrycud/post/DfJDHeMm0fn))
   - _Replying to: A mountain wander for fall color turning up a quiet patch o…_
 - **ahowardflfotos**: Glad you liked it! ([link](https://www.threads.com/@ahowardflfotos/post/DfJA-1pEYaS))
