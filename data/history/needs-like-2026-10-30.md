@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (28)
+## Needs Like (29)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
 - amphibiologist: 🙌🙌😍 ([link](https://www.threads.com/@amphibiologist/post/DfI7zJODeNd))
@@ -23,6 +23,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - ulrike6417: Thank you! ([link](https://www.threads.com/@ulrike6417/post/DfGIjK4DOPK))
 - kim_sheltra: Morning light ([link](https://www.threads.com/@kim_sheltra/post/DfF5l2SlM-n))
 - taracee_2017: Thankyou smile 😃 ([link](https://www.threads.com/@taracee_2017/post/DfGIXykDT4g))
+
+### Pumpkin Wednesday favorites 🏆 Three pumpkins that stopped m… ([thread](https://www.threads.com/@saars.foto/post/DfEZvF3G1Fh))
+- reef_ausic: 😀😀😀🥰🥰 ([link](https://www.threads.com/@reef_ausic/post/DfJRdSNEorX))
 
 ### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
 - rositayarnold: 🤷‍♀️ ([link](https://www.threads.com/@rositayarnold/post/DfDE0RXCG-M))

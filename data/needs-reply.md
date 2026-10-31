@@ -4,17 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (168)
+## Needs Reply (170)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DfJNZEbDGfE))
-  - Photo: Description: A close-up shot captures a blooming white citrus flower with a vibrant yellow center, surrounded by lush green leaves. The bright daylight highlights the delicate texture of the petals, suggesting a peaceful garden setting. Photograph read: The tight framing centers on the flower against dark foliage, utilizing bright overhead sunlight to create sharp contrasts and a fresh, lively mood.
-- **nanaindra**: It's after rainy ([link](https://www.threads.com/@nanaindra/post/DfJMKgWElOD))
-  - _Replying to: That vertical framing lets the rain do half the work - dew-…_
-- **franciesdogs**: I bought it last year when it was in bloom. I was struck by the delicate yellow peach color. ([link](https://www.threads.com/@franciesdogs/post/DfJJTNwAIVm))
-  - _Replying to: That set is a cozy indoor study - the high angle on the pot…_
-- **marilynheaney**: Spotted on my morning walk. ([link](https://www.threads.com/@marilynheaney/post/DfJJEG7kxE4))
-  - _Replying to: That vertical framing lets the pale yellow roses glow again…_
+- **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/DfJQNZBlP9S))
+  - Photo: Description: A vibrant peach and yellow dahlia bloom fills the frame, showcasing layers of pointed petals and a tightly packed center. Water droplets cling to the petals against a soft-focus garden background. Photograph read: The centered, top-down composition emphasizes the flower's radial symmetry under soft, diffused daylight, creating a fresh and serene mood.
+- **lindafedor6**: I know this isn’t what you meant but what’s closer than this? 💕 ([link](https://www.threads.com/@lindafedor6/post/DfJPeafHHJS))
+  - Photo: Description: An older woman in a bright pink shirt sits next to a younger girl with glasses who lovingly tilts her head up against the woman's shoulder, creating a warm family moment at a restaurant table. Photograph read: Captured from a high angle in warm indoor restaurant lighting, the candid medium shot features a natural, affectionate composition focused on the joyful expressions of the two subjects.
+- **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfJOlM8nIH8))
+  - Photo: Description: A close-up view frames a large, pale pink rose in full bloom, nestled among vibrant green leaves. The delicate petals swirl inward toward a deeper pink center, creating a tranquil garden scene. Photograph read: The subject is centered in a tight, vertical composition with even, natural light that highlights the velvety texture of the petals against the lush green foliage, creating a serene and timeless mood.
+- **its_me_myles25**:  ([link](https://www.threads.com/@its_me_myles25/post/DfJOfQFH7Wi))
+  - Photo: Description: A lush indoor garden features dense tropical foliage, moss-covered mounds, and red-and-white Lego sculptures resembling giant pitcher plants and Rafflesia flowers, all bordering a still, dark pool. The curved glass ceiling of a large greenhouse arches overhead, suggesting a botanical display. Photograph read: Soft daylight filters through the greenhouse glass, casting gentle illumination on the vibrant textures and creating a serene, immersive mood with balanced vertical composition.
 - **brandy_fletcher004**: You are very welcome, sweet friend. 🙏🏼🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfJCbgrmyjx))
   - _Replying to: Blessed timing is a fine way to shoot - waiting until the m…_
 - **gerrycud**: Thanks. I’m guessing they are the last flowers of the season. Snow will be falling soon. ([link](https://www.threads.com/@gerrycud/post/DfJDHeMm0fn))
@@ -36,6 +36,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Beautiful ..._
 - **2killamockingbird**: And you are very talented my dear friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DfIxkcijJHa))
   - _Replying to: You are very Sweet_
+- **reef_ausic**: You are very welcome 🌹🌹🌹 ([link](https://www.threads.com/@reef_ausic/post/DfJRZ79EuVs))
+  - _Replying to: A phone in hand and a garden full of homegrown zinnias is a…_
 - **reef_ausic**: All from my garden ([link](https://www.threads.com/@reef_ausic/post/DfIsXCbknfs))
   - Photo: Description: A vibrant pink zinnia flower is captured in sharp focus against a soft, heavily blurred green and pink background. The flower's layered petals and detailed yellow center stand out prominently, making it an ideal subject for nature appreciation. Photograph read: The centered composition and shallow depth of field create a serene, tranquil mood that emphasizes the flower's vivid texture against the dreamlike, motion-blurred backdrop.
   - Photo: Description: A vibrant pink zinnia flower with a yellow-and-red center stands out in sharp focus against a soft-focus garden background filled with other colorful blooms. This cheerful floral shot would make a lovely post to celebrate the arrival of spring or a sunny day in the garden. Photograph read: The subject is centrally placed and sharply isolated from a dreamily blurred background through a shallow depth of field, creating a peaceful, natural mood under soft, even daylight.
@@ -47,6 +49,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The sweet pea_
 - **liddell1618**: Right back atcha Carolanne 💜💙❤️🥰😘 ([link](https://www.threads.com/@liddell1618/post/DfIpFF3jnob))
   - _Replying to: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖_
+- **chezvies_shop**: Thank you! It’s from my own garden 🪴 ([link](https://www.threads.com/@chezvies_shop/post/DfJPo1rn9aW))
+  - _Replying to: Centering that white rose against the dark blur was a lovel…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
   - _Replying to: Sunset-chasing paid off - that zoom against the blue sky ke…_
 - **hannele.heikkinen**: Thank you, I felt really blessed when I found it. I found there also a yellow orchid, which is bigger and stronger. At the area are also white and pink ones, which are more common. ([link](https://www.threads.com/@hannele.heikkinen/post/DfH6D3JjnwJ))
