@@ -79,6 +79,12 @@ class ReplyGalleryTests(unittest.TestCase):
         html, markdown = reply_gallery.render_gallery(threads, "now")
         self.assertIn("Image unavailable", html)
         self.assertIn("(image unavailable)", markdown)
+        self.assertIn('data-image-url=""', html)
+        self.assertIn(
+            f'data-copy="{self.photo["permalink"]}" data-kind="">Copy reply link',
+            html,
+        )
+        self.assertIn(f'href="{self.photo["permalink"]}"', markdown)
 
     def test_untrusted_content_is_escaped_and_links_are_copyable(self):
         self.node["text"] = '<script>alert("root")</script>'
@@ -93,12 +99,40 @@ class ReplyGalleryTests(unittest.TestCase):
         self.assertNotIn('<img src=x', html)
         self.assertIn("&lt;unsafe topic&gt;", html)
         self.assertIn('width="160"', markdown)
-        self.assertIn(self.photo["permalink"], markdown)
+        self.assertIn(self.photo["permalink"], html)
         self.assertIn("Copy all Markdown", html)
-        self.assertIn("Copy all reply links", html)
+        self.assertIn("Copy all image links", html)
         self.assertIn(self.node["permalink"], markdown)
         self.assertIn("a=1&amp;b=2", markdown)
         self.assertIn("Copy the selected text manually", html)
+
+    def test_carousel_copies_specific_images_without_repeated_thread_links(self):
+        threads = self.collect([{
+            **self.photo,
+            "media_type": "CAROUSEL_ALBUM",
+            "children": {"data": [
+                {"id": "one", "media_type": "IMAGE", "media_url": "https://example.com/1"},
+                {"id": "two", "media_type": "IMAGE", "media_url": "https://example.com/2"},
+            ]},
+        }])
+        html, markdown = reply_gallery.render_gallery(threads, "now")
+        self.assertIn(
+            'data-copy="https://example.com/1\nhttps://example.com/2" '
+            'data-kind="all-links">Copy all image links', html,
+        )
+        cards = html.split("<article ")[1:]
+        self.assertEqual(len(cards), 2)
+        for index, card in enumerate(cards, start=1):
+            card = card.split("</article>", 1)[0]
+            image_url = f"https://example.com/{index}"
+            self.assertIn(f'data-image-url="{image_url}"', card)
+            self.assertIn(f'class="thumbnail" href="{image_url}"', card)
+            self.assertIn(f'data-copy="{image_url}" data-kind="">Copy image link', card)
+            self.assertIn(f'href="{self.photo["permalink"]}">Reply</a>', card)
+            self.assertNotIn(self.node["permalink"], card)
+            self.assertIn(f'<a href="{image_url}"><img src="{image_url}"', markdown)
+        self.assertEqual(html.count("Copy thread link"), 1)
+        self.assertNotIn(">Thread</a>", html)
 
     def test_unsafe_url_fails_instead_of_publishing(self):
         with self.assertRaises(ValueError):

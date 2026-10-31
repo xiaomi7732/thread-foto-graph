@@ -398,20 +398,24 @@ The downloadable Markdown is hosted as `reply-images.txt` (saved as
 `reply-images.md` by the download button) so a repository-root Jekyll build
 serves it unchanged without conflicting with the HTML gallery. `docs/.nojekyll`
 also supports publishing `/docs` directly. The existing repository-root Jekyll
-site is left unchanged. Thumbnails are grouped by topic and thread;
-each has direct **Reply** and **Thread** links. Use **Copy Markdown** for a
-linked thumbnail, **Copy reply link**, or the page-wide copy buttons. Copying
+site is left unchanged. Thumbnails are grouped by topic and thread.
+Click a thumbnail to open that specific image; each card retains a **Reply**
+link, while the thread link and **Copy thread link** appear once in its heading.
+Use **Copy Markdown** for a linked thumbnail, **Copy image link**, or the
+page-wide copy buttons. Image links point directly to individual photos, so
+photos in the same reply have distinct links. If an image URL is missing,
+copies fall back to its reply link. Copying
 Markdown copies the embed text, not image files. If the browser blocks clipboard
 access, a selected text box lets you copy manually.
 
 Click **Favorite** on individual images, then **Show favorites** to review only
-your picks. **Copy favorite reply links** copies one link per selected reply
-(deduplicated when several selected photos belong to the same reply).
+your picks. **Copy favorite image links** copies one link per selected photo,
+including separate links for photos from the same reply.
 **Reset favorites** clears all saved picks. Selections are saved in this
 browser's local storage, so refreshing or reopening the same gallery keeps
 them. Stable photo IDs retain picks when the gallery refreshes image URLs.
 Saved picks outside the current gallery are retained and counted separately;
-only currently displayed picks contribute to copied reply links.
+only currently displayed picks contribute to copied image links.
 Selections are not uploaded to the repository or synced across browsers,
 devices, or different origins (local files and GitHub Pages are separate).
 Updates from multiple gallery tabs are serialized with Web Locks and applied
@@ -439,7 +443,7 @@ retrying publication.
 
 Threads' image URLs expire; the gallery deliberately uses remote images rather
 than archiving other people's photos. Rerun the action to refresh expired
-thumbnails. The gallery and Markdown are public, like the existing graph.
+thumbnails and copied image links. The gallery and Markdown are public, like the existing graph.
 To generate locally using the configured Threads token:
 
 ```powershell
