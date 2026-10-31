@@ -75,7 +75,7 @@ def _photo_markdown(photo: dict) -> str:
     if not photo["url"]:
         return f'<a href="{reply_url}">{label} (image unavailable)</a>'
     return (
-        f'<a href="{reply_url}"><img src="{escape(photo["url"], quote=True)}" '
+        f'<a href="{escape(photo["url"], quote=True)}"><img src="{escape(photo["url"], quote=True)}" '
         f'alt="{label}" width="160" /></a>'
     )
 
@@ -125,15 +125,19 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
                 )
                 sections.append(
                     f'<article data-photo-id="{escape(photo["id"], quote=True)}" '
+                    f'data-image-url="{escape(photo["url"], quote=True)}" '
                     f'data-reply-url="{escape(photo["reply_url"], quote=True)}">'
-                    f'<a class="thumbnail" href="{escape(photo["reply_url"], quote=True)}">'
+                    f'<a class="thumbnail" href="{escape(photo["url"] or photo["reply_url"], quote=True)}">'
                     f'{image}</a><p><strong>@{username}</strong> '
                     f'&middot; photo {photo["number"]}</p><p class="caption">{caption}</p>'
                     f'<p><a href="{escape(photo["reply_url"], quote=True)}">Reply</a>'
-                    f' &middot; <a href="{url}">Thread</a></p>'
+                    '</p>'
                     '<button type="button" class="favorite-toggle" '
                     'aria-pressed="false">Favorite</button>'
-                    + _button("Copy reply link", photo["reply_url"])
+                    + _button(
+                        "Copy image link" if photo["url"] else "Copy reply link",
+                        photo["url"] or photo["reply_url"],
+                    )
                     + _button("Copy Markdown", snippet)
                     + "</article>"
                 )
@@ -143,11 +147,12 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
         markdown.extend(["No current topics.", ""])
         sections.append("<p>No current topics.</p>")
     md = "\n".join(markdown)
-    links = "\n".join(dict.fromkeys(
-        photo["reply_url"] for thread in threads for photo in thread["photos"]
-    ))
+    links = "\n".join(
+        photo["url"] or photo["reply_url"]
+        for thread in threads for photo in thread["photos"]
+    )
     controls = _button("Copy all Markdown", md, "all-markdown")
-    controls += _button("Copy all reply links", links, "all-links")
+    controls += _button("Copy all image links", links, "all-links")
     template = (Path(__file__).with_name("reply_gallery.html")).read_text(encoding="utf-8")
     html = template.replace("{{NOTE}}", escape(note)).replace(
         "{{CONTENT}}", controls + "\n".join(sections)

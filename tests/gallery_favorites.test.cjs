@@ -51,7 +51,11 @@ function tab(shared, options = {}) {
   const cards = ['a', 'b'].map(id => {
     const favoriteButton = button(true);
     const card = {
-      dataset: { photoId: id, replyUrl: `https://example.com/${id}` },
+      dataset: {
+        photoId: id,
+        replyUrl: 'https://example.com/reply',
+        imageUrl: `https://example.com/${id}`,
+      },
       hidden: false,
       classList: { toggle() {} },
       querySelector: () => favoriteButton,
@@ -271,4 +275,17 @@ test('passive synchronization preserves an active manual-copy snapshot and instr
   await a.favorite('a');
   assert.equal(manual.hidden, true);
   assert.equal(manual.value, '');
+});
+
+test('favorite copies distinguish photos in the same reply', async () => {
+  const a = tab(sharedState(['a', 'b']), { clipboardDenied: true });
+  await a.copy();
+  assert.equal(a.elements['manual-copy'].value, 'https://example.com/a\nhttps://example.com/b');
+});
+
+test('favorite copies fall back to the reply only when an image URL is missing', async () => {
+  const a = tab(sharedState(['a', 'b']), { clipboardDenied: true });
+  a.cards[1].dataset.imageUrl = '';
+  await a.copy();
+  assert.equal(a.elements['manual-copy'].value, 'https://example.com/a\nhttps://example.com/reply');
 });
