@@ -6,33 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (139)
+## Needs Reply (134)
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
   - _Replying to: My pleasure. I picked the colored, I also loved that b&w a …_
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **nofussgus_**:  ([link](https://www.threads.com/@nofussgus_/post/DfKSXWfkxzi))
-  - Photo: Description: A close-up shot captures two richly textured, ruffled bearded iris flowers in vibrant shades of deep purple and bright violet. Sunlight catches the delicate edges of the petals, highlighting their velvety appearance against a garden backdrop of green grass and soft-focus rocks. Photograph read: The tight framing and overhead sunlight emphasize the intense color saturation and tactile texture of the iris petals, creating a bright and vivid botanical study.
-- **aoi.isn027**:  ([link](https://www.threads.com/@aoi.isn027/post/DfKSFhTCXJ3))
-  - Photo: Description: A close-up shot captures a delicate daisy-like wildflower with crisp white petals and a vibrant yellow center against a soft-focus green leafy background. The natural setting suggests a casual garden snapshot or a nature post celebrating simple flora. Photograph read: The tight macro composition centers the bright blossom sharply in the frame, using diffused natural light to create an intimate, calm, and serene mood.
-- **kayvaughan38**: Thank you, and I did shoot it in one go. ￼ ([link](https://www.threads.com/@kayvaughan38/post/DfKZuqgGyuH))
-  - _Replying to: That tight macro framing lets the dahlia do all the talking…_
-- **therealbrianrupp**: I grow mums ([link](https://www.threads.com/@therealbrianrupp/post/DfKU0kalf8w))
-  - Photo: Description: Rows of vibrant, blooming potted chrysanthemums in brilliant yellows, purples, and oranges stretch across the expansive interior of a large commercial greenhouse. The industrial framework of the greenhouse roof looms overhead under an overcast sky, creating a great scene for autumn gardening posts. Photograph read: The vertical composition captures an upward-looking perspective that contrasts the industrial symmetry of the greenhouse ceiling with the natural, rounded masses of colorful flowers below under even, diffused light.
-  - _Replying to: That tight crop makes the split coloration impossible to mi…_
-- **hilarieshea**: It was at Monet’s Giverny garden - practically impossible to take a bad photograph.🥰 ([link](https://www.threads.com/@hilarieshea/post/DfKSJV1FF9R))
-  - _Replying to: That top-down centered framing turns the dahlia into pure g…_
-- **d5cs**: thank you. this caight my eye while running. i had to stop and take a shot. ([link](https://www.threads.com/@d5cs/post/DfKPUdMH6aV))
-  - _Replying to: That centered eye-level framing lets the sunflower own the …_
-- **visage159**: I practice mindful meandering. I walk around my home streets and take pictures of whatever catches my eye. It's mostly colour / structure that appeals to me. It's like they are waving at me. Like these. ([link](https://www.threads.com/@visage159/post/DfKRK5iCPG_))
-  - Photo: Description: A full, pale pink rose blooms in a garden, its delicate petals dotted with fresh water droplets. In the blurred background, green leaves and a multi-paned window hint at a residential setting, adding a domestic charm to the floral close-up. Photograph read: Captured in soft, natural daylight with a shallow depth of field, the centered composition emphasizes the intricate texture and dewy freshness of the rose petals, creating a serene and gentle mood.
-  - Photo: Description: A full, pale pink dahlia blossom with narrow, pointed petals is centered against a soft, leafy green background. The intricate arrangement of the petals and the pale yellow center create a vibrant spring or summer botanical display. Photograph read: The symmetrical, top-down composition captures the flower in bright, even daylight, creating a clean, crisp mood that highlights the delicate texture of the petals.
-  - Photo: Description: A macro shot captures a vibrant, globe-shaped purple allium flower resting on a textured gray surface. The dense cluster of tiny, petal-like florets creates a geometric pattern against the soft, out-of-focus green garden backdrop. Photograph read: The tight framing and shallow depth of field emphasize the intricate texture and rich magenta color of the flower, creating a serene, natural mood.
-  - _Replying to: That high angle turns the stonecrop into a little carpet of…_
-- **joshwill.jpg**: it was a plant that my friend had in front in their garden (close but not so close to home). I was surprised. At the time it was my time seeing a birds of paradise in person. ([link](https://www.threads.com/@joshwill.jpg/post/DfKkO17ERq0))
-  - _Replying to: That tight vertical framing lets the bird of paradise own i…_
+- **jacqrho**: These are in my garden. ([link](https://www.threads.com/@jacqrho/post/DfK2mFbk8J8))
+  - _Replying to: That tight vertical framing suits the amaryllis perfectly -…_
+- **iain_36**: I planted the Nerines many years ago and they continue to provide excellent autumn colour. Thank you for your kind comments. 🌱 ([link](https://www.threads.com/@iain_36/post/DfLBx5hDAVe))
+  - _Replying to: That tight vertical framing stacks the Nerine lilies into a…_
+- **joshwill.jpg**: thank you for engaging and for your compliments. it was certainly a surprise I was blessed by. ([link](https://www.threads.com/@joshwill.jpg/post/DfKr3_0kS69))
+  - _Replying to: A first bird of paradise in person is a keeper - tight vert…_
 - **lindafedor6**: I know this isn’t what you meant but what’s closer than this? 💕 ([link](https://www.threads.com/@lindafedor6/post/DfJPeafHHJS))
   - Photo: Description: An older woman in a bright pink shirt sits next to a younger girl with glasses who lovingly tilts her head up against the woman's shoulder, creating a warm family moment at a restaurant table. Photograph read: Captured from a high angle in warm indoor restaurant lighting, the candid medium shot features a natural, affectionate composition focused on the joyful expressions of the two subjects.
 - **brandy_fletcher004**: You are very welcome, sweet friend. 🙏🏼🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfJCbgrmyjx))
@@ -41,8 +27,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A mountain wander for fall color turning up a quiet patch o…_
 - **ahowardflfotos**: Glad you liked it! ([link](https://www.threads.com/@ahowardflfotos/post/DfJA-1pEYaS))
   - _Replying to: Super quick on portrait mode, and it still lands - the top-…_
-- **jglass8**: This was at an orchid exhibition. ([link](https://www.threads.com/@jglass8/post/DfKSFIZm_Jq))
-  - _Replying to: That tight vertical framing turns the lady slipper into a l…_
 - **bongapostol**:  ([link](https://www.threads.com/@bongapostol/post/DfI63odDHfd))
   - Photo: Description: A dense, vibrant cluster of bright pink petunias blooms outdoors in a garden bed, creating a lively carpet of color against a green backdrop. Part of a small green object, possibly a tool or tag, is partially visible in the lower right corner. Photograph read: The low-angle composition emphasizes the dense carpet of flowers under soft daylight, creating a cheerful and immersive botanical mood with a shallow depth of field.
   - Photo: Description: A vibrant floral display features a dense bed of yellow flowers in the foreground, a prominent row of tall purple foxglove-like blooms in the center, and oversized colorful tulip sculptures in the background. Visitors and whimsical European-style architecture are visible on the left, suggesting a lively theme park or garden setting. Photograph read: Captured at eye-level under bright daylight, the composition layers distinct color bands from foreground to background, creating a lively and cheerful mood.
@@ -68,6 +52,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **reef_ausic**: That homegrown zinia. Taken yesterday after I watered it. Zinia ratw easy to grow, they grow everywhere ([link](https://www.threads.com/@reef_ausic/post/DfIsUJUkprL))
   - _Replying to: Going straight top-down was a great call - that pink zinnia…_
 - **carolanne1066**: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖 ([link](https://www.threads.com/@carolanne1066/post/DfIn_qxDoe1))
+  - _Replying to: The sweet pea_
+- **liddell1618**: Right back atcha Carolanne 💜💙❤️🥰😘 ([link](https://www.threads.com/@liddell1618/post/DfIpFF3jnob))
+  - _Replying to: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖_
 - **abnerabel125**: I bet that you are . There are some really talented people out there . I enjoy looking at all the photos people post . It gives me ideas of different ways of looking at things. Keep up the great work . ([link](https://www.threads.com/@abnerabel125/post/DfIQxw_jwKH))
   - _Replying to: 🤣🤣🤣 You know what, I am really struggling to pick only 3 of…_
 - **chezvies_shop**: Thank you! It’s from my own garden 🪴 ([link](https://www.threads.com/@chezvies_shop/post/DfJPo1rn9aW))
@@ -357,14 +344,19 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (20)
+## Needs Like (24)
+
+### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
+- traceartography: 100% ([link](https://www.threads.com/@traceartography/post/DfKy-GLGSDh))
+- beckiefitzgerald: Absolutely 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfKp_YnoN92))
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- mydobsmonster: Intentionally ! ([link](https://www.threads.com/@mydobsmonster/post/DfKgFoeoJrP))
 - amphibiologist: 🙌🙌😍 ([link](https://www.threads.com/@amphibiologist/post/DfI7zJODeNd))
 - bongapostol: Here's more ([link](https://www.threads.com/@bongapostol/post/DfI63haDLNI))
 - 2killamockingbird: Beautiful ... ([link](https://www.threads.com/@2killamockingbird/post/DfIwDHYDHa0))
 - carolanne1066: Thankyou 😘😘😘😘🫶🫶🫶💖💖💖 ([link](https://www.threads.com/@carolanne1066/post/DfIpLOfjmH2))
+- liddell1618: ❤️🥰😘 ([link](https://www.threads.com/@liddell1618/post/DfJivVbDn8P))
+- liddell1618: Thank you 🙏 ([link](https://www.threads.com/@liddell1618/post/DfJijpPjjC4))
 - beckiefitzgerald: Thank you 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfIiEa_gZOz))
 - p2tlushamiza: My pleasure ([link](https://www.threads.com/@p2tlushamiza/post/DfIgSkkEyVo))
 - hanssensally: Welcome ([link](https://www.threads.com/@hanssensally/post/DfJAeNsm2iO))
@@ -377,6 +369,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - fephi: Crouched down! ([link](https://www.threads.com/@fephi/post/DfGuaK0m6mW))
 - retiredbadger: Thank you ([link](https://www.threads.com/@retiredbadger/post/DfGdmYflAOs))
 - cfisher831: Thanks! ☺️ ([link](https://www.threads.com/@cfisher831/post/DfGJP8nGVOO))
+- thomasj.moore: My pleasure. ([link](https://www.threads.com/@thomasj.moore/post/DfK9D7pki9X))
 - ulrike6417: Thank you! ([link](https://www.threads.com/@ulrike6417/post/DfGIjK4DOPK))
 - kim_sheltra: Morning light ([link](https://www.threads.com/@kim_sheltra/post/DfF5l2SlM-n))
 - taracee_2017: Thankyou smile 😃 ([link](https://www.threads.com/@taracee_2017/post/DfGIXykDT4g))
