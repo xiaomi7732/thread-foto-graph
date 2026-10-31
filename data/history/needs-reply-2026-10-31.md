@@ -4,17 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (134)
+## Needs Reply (135)
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
   - _Replying to: My pleasure. I picked the colored, I also loved that b&w a …_
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **jacqrho**: These are in my garden. ([link](https://www.threads.com/@jacqrho/post/DfK2mFbk8J8))
-  - _Replying to: That tight vertical framing suits the amaryllis perfectly -…_
-- **iain_36**: I planted the Nerines many years ago and they continue to provide excellent autumn colour. Thank you for your kind comments. 🌱 ([link](https://www.threads.com/@iain_36/post/DfLBx5hDAVe))
-  - _Replying to: That tight vertical framing stacks the Nerine lilies into a…_
+- **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/DfLMtvfCAoI))
+  - Photo: Description: A succulent plant features two arched stems laden with vibrant red, bell-shaped flowers and dark-tipped buds. The pale, softly lit background contrasts with the rich colors of the blossoms, while a timestamp in the lower right corner displays the date October 31, 2026. Photograph read: The symmetrical, downward-arching stems create a natural frame centered in the vertical composition under soft, even lighting that emphasizes the smooth textures of the petals and leaves.
+- **nofussgus_**: This was the first iris to come out in my garden. A friend gave me about thirty mixed colours. I wonder what the others will be? ([link](https://www.threads.com/@nofussgus_/post/DfLEJvvk6x7))
+  - _Replying to: That tight framing lets the overhead sun do the work - the …_
+- **kim_sheltra**: It was there and I just snapped the picture ([link](https://www.threads.com/@kim_sheltra/post/DfLIbpHlGq7))
+  - _Replying to: That tight framing turns a tiny visitor into the star - a d…_
 - **joshwill.jpg**: thank you for engaging and for your compliments. it was certainly a surprise I was blessed by. ([link](https://www.threads.com/@joshwill.jpg/post/DfKr3_0kS69))
   - _Replying to: A first bird of paradise in person is a keeper - tight vert…_
 - **lindafedor6**: I know this isn’t what you meant but what’s closer than this? 💕 ([link](https://www.threads.com/@lindafedor6/post/DfJPeafHHJS))

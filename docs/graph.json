@@ -196,8 +196,20 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 375,
+      "reply_count": 380,
       "replies": [
+        {
+          "username": "brianroffe",
+          "text": "",
+          "permalink": "https://www.threads.com/@brianroffe/post/DfLMtvfCAoI",
+          "photos": [
+            "Description: A succulent plant features two arched stems laden with vibrant red, bell-shaped flowers and dark-tipped buds. The pale, softly lit background contrasts with the rich colors of the blossoms, while a timestamp in the lower right corner displays the date October 31, 2026. Photograph read: The symmetrical, downward-arching stems create a natural frame centered in the vertical composition under soft, even lighting that emphasizes the smooth textures of the petals and leaves."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "haphazard.homesteader",
           "text": "A neighbor in my hood",
@@ -240,7 +252,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nofussgus_",
+                  "text": "This was the first iris to come out in my garden. A friend gave me about thirty mixed colours. I wonder what the others will be?",
+                  "permalink": "https://www.threads.com/@nofussgus_/post/DfLEJvvk6x7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -334,7 +357,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kim_sheltra",
+                  "text": "It was there and I just snapped the picture",
+                  "permalink": "https://www.threads.com/@kim_sheltra/post/DfLIbpHlGq7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -640,10 +674,21 @@
                   "text": "These are in my garden.",
                   "permalink": "https://www.threads.com/@jacqrho/post/DfK2mFbk8J8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Your own garden explains that glow - the tight vertical framing lets the creamy amaryllis layers stack like a celebration, reddish-pink edges bright against soft green. Thanks for sharing your garden blooms with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfLDT3RmMU4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -674,10 +719,21 @@
                   "text": "I planted the Nerines many years ago and they continue to provide excellent autumn colour. Thank you for your kind comments. \ud83c\udf31",
                   "permalink": "https://www.threads.com/@iain_36/post/DfLBx5hDAVe",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Planting them years ago and still getting that autumn colour is the best payoff - the tight vertical framing stacks the pink Nerine lilies into a real pop against the fence and green. Thanks for sharing the long-grown blooms with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfLDVtimp19",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
