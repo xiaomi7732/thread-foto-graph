@@ -6,34 +6,33 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (173)
+## Needs Reply (172)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **sandrae34231**:  ([link](https://www.threads.com/@sandrae34231/post/DfJADndkbmS))
-  - Photo: Description: A striking close-up shot captures the alien-like bloom of a black bat flower (Tacca chantrieri), showcasing its dark, velvety petals and long, trailing bracts. The unusual structure of the flower stands out dramatically against a soft-focus background of lush green leaves and brown mulch, perfect for a nature appreciation post. Photograph read: The vertical composition centers the intricate flower head, utilizing natural daylight to highlight the rich textures of the dark petals against the blurred, earthy background, creating a moody and exotic atmosphere.
-- **seniorfitgal**:  ([link](https://www.threads.com/@seniorfitgal/post/DfI_3Ghlkwc))
-  - Photo: Description: A dewy pink rose blooms in close-up, its petals heavily dotted with rain droplets and its golden center partially visible. Several green buds and spent stems cluster below the flower against a soft, out-of-focus background of leaves. Photograph read: The tight vertical framing highlights the textural contrast between the wet petals and dry buds under even, diffused light, creating a serene, rainy-day mood.
-- **marilynheaney**:  ([link](https://www.threads.com/@marilynheaney/post/DfI9Q6Ik_Uq))
-  - Photo: Description: A cluster of pale yellow roses and tight buds blooms amidst lush green foliage under a bright blue sky. The sunlit scene evokes a peaceful, springtime garden atmosphere. Photograph read: The vertical composition uses natural outdoor lighting to highlight the soft texture of the rose petals against a textured backdrop of leaves and blue sky, creating a vibrant and cheerful mood.
-- **scottbalows**:  ([link](https://www.threads.com/@scottbalows/post/DfI7WNtjrgg))
-  - Photo: Description: A vibrant field of bright yellow sunflowers in full bloom under bright daylight, stretching out beneath a dark line of distant trees. The dense patch of flowers makes a cheerful, summery scene perfect for nature appreciation. Photograph read: Captured in natural sunlight, this densely packed floral landscape creates an energetic and optimistic mood through high-contrast colors and a lively, overlapping composition.
-- **traceartography**:  ([link](https://www.threads.com/@traceartography/post/DfI6kpklnbx))
-  - Photo: Description: A close-up shot captures the vibrant center of a white and purple flower, with its petals radiating outwards. The innermost petals feature deep purple tips and dark centers, drawing the eye toward the flower's heart. Photograph read: The tight macro composition centers on the flower's core, utilizing natural lighting to highlight the soft gradient from white to rich purple across the petals, creating a serene and captivating mood.
-  - Photo: Description: A dramatic macro shot captures the reverse side of a vibrant sunflower, focusing on its heavily textured, fuzzy green sepals and the rich yellow tips of its radiating petals against a dark, moody background. This striking perspective highlights the intricate architecture of the bloom, perfect for nature photography showcases. Photograph read: The tight close-up composition emphasizes rich textures and sharp contrasts under directional light, creating a dramatic and contemplative mood.
-  - Photo: Description: A vibrant orange and yellow daisy-like flower rests against a dark, crinkled plastic background. The image is accented by an iridescent light flare in the upper right corner and a signature overlaying the scene. Photograph read: The overhead composition emphasizes the contrasting textures of the crisp petals and crumpled plastic, rendered in moody tones with a colorful, ethereal light leak crossing the frame.
-- **brandy_fletcher004**: It was a blessed timing sweet friend. I like to take shots when the moment looks right. 🙏🏼🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfI63XhGpuO))
-  - _Replying to: That tight vertical framing turns the petunia into a little…_
-- **gerrycud**: My daughter and I were up in the mountains last weekend looking for fall colors, and I happened upon this little patch of flowers. ([link](https://www.threads.com/@gerrycud/post/DfI77roGiza))
-  - _Replying to: That soft light does lovely work on a quiet patch - tiny wh…_
-- **ms.craftyk**: This is in a field behind my house. All sorts of pretty things bloom there ([link](https://www.threads.com/@ms.craftyk/post/DfI64ryFaLV))
-  - Photo: Description: A vast meadow bursts with vibrant blue cornflowers under a clear, bright sky, creating an uplifting and serene natural landscape perfect for an outdoor post. Photograph read: The low-angle composition emphasizes the dense carpet of wildflowers leading toward a distant treeline, captured in bright daylight that enhances the vivid blue and green tones with a joyful, summery mood.
-  - _Replying to: That vertical framing turns a tangle of vines into a quiet …_
-- **ahowardflfotos**: I just shot this one super quick on portrait mode on my phone actually! ([link](https://www.threads.com/@ahowardflfotos/post/DfI7dBEEd5o))
-  - _Replying to: Going top-down was a great call - the two dahlias turn into…_
-- **amphibiologist**: From different walks ([link](https://www.threads.com/@amphibiologist/post/DfI7w5zDbaz))
-  - _Replying to: What a set - the glossy red bud, the speckled yellow tropic…_
-- **eugeneevon**: It was a public park garden find in Tiburon, California. I was killing time exploring with the camera while my son was getting lacrosse skills training. I’d never seen one before. ([link](https://www.threads.com/@eugeneevon/post/DfJAGx3GuX-))
-  - _Replying to: That tight framing turns the grevillea into pure fireworks …_
+- **nanaindra**: I only have frangipani photo ([link](https://www.threads.com/@nanaindra/post/DfJEJbMkuXN))
+  - Photo: Description: A close-up shot captures several delicate white and yellow plumeria flowers, glistening with raindrops, against a backdrop of lush green leaves and blurred branches. The fresh, rain-kissed blossoms create a serene and natural ambiance ideal for a botanical or nature-themed social media post. Photograph read: The vertical composition frames the dew-covered blossoms sharply in the foreground, while soft, natural backlighting illuminates the translucent green leaves, creating a tranquil and refreshing mood.
+- **linda.crandall956**:  ([link](https://www.threads.com/@linda.crandall956/post/DfJBekim8QZ))
+  - Photo: Description: Two large, star-shaped clematis blossoms in shades of pink and white stand out against a dense background of lush green leaves. Perfect for a garden update or a floral appreciation post. Photograph read: Captured in soft, even daylight, the vertical composition centers on the two textured blooms and deep green foliage, creating a calm and natural mood.
+- **franciesdogs**: Today! ([link](https://www.threads.com/@franciesdogs/post/DfJAYVDgNtc))
+  - Photo: Description: A potted holiday cactus in a white ceramic pot features unique yellow-peach blooms with bright pink accents, showcasing its indoor home setting. Photograph read: Captured from a high angle in natural indoor light, the shot highlights the warm tones of the blossoms against the rich green leaves for a cozy domestic mood.
+  - Photo: Description: A potted Thanksgiving cactus in a white ceramic pot sits on a table, displaying soft yellow and peach-toned blossoms among its flat, green segments. Other house plants and a hint of a lived-in room are visible in the background, suggesting a cozy indoor setting. Photograph read: Natural, diffused daylight from the side illuminates the plant and creates a warm, domestic mood with a medium-close framing centered on the blooming cactus.
+  - Photo: Description: A potted holiday cactus displays a striking yellow blossom with delicate white stamens and a bright magenta tip. The plant sits indoors in what appears to be a bedroom setting with soft natural light filtering through a nearby window. Photograph read: The vertical composition centers tightly on the blooming flower against a softly blurred indoor background, creating a calm and intimate botanical study.
+- **kimspettel**:  ([link](https://www.threads.com/@kimspettel/post/DfJASODEWxv))
+  - Photo: Description: A small cluster of bright purple phlox flowers blooms amidst a forest floor covered in dry, brown autumn leaves and scattered green foliage. This natural woodland scene captures a lovely splash of color during a seasonal transition. Photograph read: The top-down, centered composition places sharp focus on the vibrant purple blossoms against a softly blurred, earthy background lit by diffused natural light, creating a serene and grounded mood.
+- **sandrae34231**: It was in the Selby Gardens greenhouse, so a very controlled environment and soft light. ([link](https://www.threads.com/@sandrae34231/post/DfJA5TDEf8m))
+  - _Replying to: That vertical centering turns the bat flower into a little …_
+- **seniorfitgal**: Both! It was a drizzly day. I was in southern Chile last December. So many beautiful flowers ([link](https://www.threads.com/@seniorfitgal/post/DfJA7URFiXQ))
+  - _Replying to: That tight vertical framing makes the rain do half the work…_
+- **scottbalows**: It was at the Art Barn School of Art (located in Valparaiso, Indiana). They host an annual open house event and my buddy was giving a pottery class. They had a giant signature sunflower field. ([link](https://www.threads.com/@scottbalows/post/DfJFQvvjjF_))
+  - _Replying to: That dense field of sunflowers reads like pure summer energ…_
+- **brandy_fletcher004**: You are very welcome, sweet friend. 🙏🏼🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfJCbgrmyjx))
+  - _Replying to: Blessed timing is a fine way to shoot - waiting until the m…_
+- **marysouckar**: A garden in France. ([link](https://www.threads.com/@marysouckar/post/DfJEa33kdBD))
+  - _Replying to: Going straight overhead was a great call - the yellow dahli…_
+- **gerrycud**: Thanks. I’m guessing they are the last flowers of the season. Snow will be falling soon. ([link](https://www.threads.com/@gerrycud/post/DfJDHeMm0fn))
+  - _Replying to: A mountain wander for fall color turning up a quiet patch o…_
+- **ahowardflfotos**: Glad you liked it! ([link](https://www.threads.com/@ahowardflfotos/post/DfJA-1pEYaS))
+  - _Replying to: Super quick on portrait mode, and it still lands - the top-…_
 - **bongapostol**:  ([link](https://www.threads.com/@bongapostol/post/DfI63odDHfd))
   - Photo: Description: A dense, vibrant cluster of bright pink petunias blooms outdoors in a garden bed, creating a lively carpet of color against a green backdrop. Part of a small green object, possibly a tool or tag, is partially visible in the lower right corner. Photograph read: The low-angle composition emphasizes the dense carpet of flowers under soft daylight, creating a cheerful and immersive botanical mood with a shallow depth of field.
   - Photo: Description: A vibrant floral display features a dense bed of yellow flowers in the foreground, a prominent row of tall purple foxglove-like blooms in the center, and oversized colorful tulip sculptures in the background. Visitors and whimsical European-style architecture are visible on the left, suggesting a lively theme park or garden setting. Photograph read: Captured at eye-level under bright daylight, the composition layers distinct color bands from foreground to background, creating a lively and cheerful mood.
@@ -45,8 +44,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Everland Park explains the whole parade - pansy beds, daisi…_
 - **2killamockingbird**: My pleasure 🙏 thank you for your comments... ([link](https://www.threads.com/@2killamockingbird/post/DfI6wFYjPse))
   - _Replying to: Keeping the color version because it suits how you feel is …_
-- **musulnamja**: They are lower ([link](https://www.threads.com/@musulnamja/post/DfI_9EwocTc))
-  - _Replying to: That straight-on framing lets the blossom cluster do all th…_
 - **david.harms5**: You are very Sweet ([link](https://www.threads.com/@david.harms5/post/DfIxWqMmaXA))
   - _Replying to: Beautiful ..._
 - **2killamockingbird**: And you are very talented my dear friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DfIxkcijJHa))
@@ -435,13 +432,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Like (28)
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- robin.monahan2: My backyard ([link](https://www.threads.com/@robin.monahan2/post/DfI73WXGqBk))
 - amphibiologist: 🙌🙌😍 ([link](https://www.threads.com/@amphibiologist/post/DfI7zJODeNd))
 - bongapostol: Here's more ([link](https://www.threads.com/@bongapostol/post/DfI63haDLNI))
 - 2killamockingbird: Beautiful ... ([link](https://www.threads.com/@2killamockingbird/post/DfIwDHYDHa0))
 - carolanne1066: Thankyou 😘😘😘😘🫶🫶🫶💖💖💖 ([link](https://www.threads.com/@carolanne1066/post/DfIpLOfjmH2))
 - beckiefitzgerald: Thank you 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfIiEa_gZOz))
 - p2tlushamiza: My pleasure ([link](https://www.threads.com/@p2tlushamiza/post/DfIgSkkEyVo))
+- hanssensally: Welcome ([link](https://www.threads.com/@hanssensally/post/DfJAeNsm2iO))
 - craigkeepingbusy: Thank you ([link](https://www.threads.com/@craigkeepingbusy/post/DfIVfb_GzH7))
 
 ### Get Close Thursday 🍂 Show me a close-up. Macros, fine detai… ([thread](https://www.threads.com/@saars.foto/post/DfFLPNnlbyH))
