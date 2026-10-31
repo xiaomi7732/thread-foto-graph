@@ -11,13 +11,15 @@ class PhotoDescriptionTests(unittest.TestCase):
     def test_multiline_photograph_read_stays_in_its_reply_bullet(self):
         expected = (
             "Description: A mountain at sunrise. "
-            "Photograph read: Warm light emphasizes the ridges."
+            "Photograph read: Warm light emphasizes the ridges. "
+            "Photo type: Artistic landscape."
         )
         for separator in ("\n", "\n\n", "\r\n\r\n"):
             with self.subTest(separator=separator):
                 description = separator.join([
                     "Description: A mountain at sunrise.",
                     "Photograph read: Warm light emphasizes the ridges.",
+                    "Photo type: Artistic landscape.",
                 ])
                 reply = {
                     "username": "photographer",
