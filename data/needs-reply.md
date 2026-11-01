@@ -4,23 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (135)
+## Needs Reply (133)
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
   - _Replying to: My pleasure. I picked the colored, I also loved that b&w a …_
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
-- **anouc90**:  ([link](https://www.threads.com/@anouc90/post/DfLYabQIZqc))
-  - Photo: Description: A small, vibrant cluster of yellow snapdragon flowers blooms alone amidst patchy soil, scattered small rocks, and dried debris in a garden bed. The vertical composition draws attention to the solitary blossom set against the surrounding foliage and a dark cylindrical garden stake. Photograph read: Captured from a high angle in diffuse daylight, the centered subject creates a natural, earthy, and quiet mood.
-- **aoi.isn027**: Yes, I found it on the side of the road, then took a few pictures with my mobile phone camera ([link](https://www.threads.com/@aoi.isn027/post/DfLfc1jE1T6))
-  - Photo: Description: A close-up shot of a small daisy-like flower with white petals and a vibrant yellow center, set against a softly blurred background of green leaves. Photograph read: The tight framing and shallow depth of field create a crisp, natural focus on the flower's delicate textures and bright colors, evoking a calm, botanical mood.
-  - Photo: Description: A close-up shot captures a delicate white daisy-like flower with a vibrant yellow center, set against a soft, leafy green backdrop. The simple floral composition offers a calm, refreshing nature aesthetic suitable for a botanical post. Photograph read: The tight macro framing emphasizes the fine textures of the white petals and golden stamens, while natural daylight and a softly blurred background create a serene, organic mood.
-  - Photo: Description: A close-up shot of a small daisy-like flower featuring bright white petals and a textured, golden-yellow center, with a slender green stem reaching upward. The background consists of soft-focus green foliage, creating a natural, outdoorsy setting ideal for a nature post. Photograph read: The vertical framing centers the bloom sharply against a blurred, leafy backdrop, utilizing soft, natural light to create a tranquil and serene botanical mood.
-  - Photo: Description: Two white and yellow Spanish needle wildflowers bloom among vibrant green foliage, creating a fresh, nature-focused scene suitable for a botanical post. Photograph read: The vertical composition uses natural daylight to highlight the crisp white petals and textured yellow centers against dark green leaves, evoking a serene and organic mood.
-  - Photo: Description: A close-up shot captures a white and yellow daisy-like flower surrounded by lush green foliage. The simple composition and natural subject make it suitable for nature-focused social media posts or botanical updates. Photograph read: Soft, diffused daylight illuminates the flower, creating a serene, natural mood with sharp focus on the textured yellow center against the crisp white petals.
-  - Photo: Description: A close-up shot shows a pale pink bougainvillea flower cluster with three triangular bracts and small green buds nestled in the center. Vibrant green leaves frame the base of the flower against an out-of-focus background. Photograph read: The tight vertical composition centers the blossom with sharp, clear focus on the veins of the bracts, creating a bright and delicate mood under natural outdoor light.
-  - _Replying to: That tight macro framing keeps the little wildflower so cal…_
 - **kim_sheltra**: You are welcome ([link](https://www.threads.com/@kim_sheltra/post/DfLjcxwFHbL))
   - _Replying to: Snapped in the moment is the best kind of photobomb - that …_
 - **joshwill.jpg**: thank you for engaging and for your compliments. it was certainly a surprise I was blessed by. ([link](https://www.threads.com/@joshwill.jpg/post/DfKr3_0kS69))

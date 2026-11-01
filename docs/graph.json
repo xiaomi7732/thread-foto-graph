@@ -196,7 +196,7 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 386,
+      "reply_count": 388,
       "replies": [
         {
           "username": "anouc90",
@@ -205,10 +205,21 @@
           "photos": [
             "Description: A small, vibrant cluster of yellow snapdragon flowers blooms alone amidst patchy soil, scattered small rocks, and dried debris in a garden bed. The vertical composition draws attention to the solitary blossom set against the surrounding foliage and a dark cylindrical garden stake. Photograph read: Captured from a high angle in diffuse daylight, the centered subject creates a natural, earthy, and quiet mood."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That high angle does the lonely little snapdragon cluster a real favor - the patchy soil and scattered stones frame it like a small stage, and the dark stake behind keeps the yellow popping. Was this a volunteer that showed up on its own, or one you planted and watched for?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfLzaYzjkzG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "brianroffe",
@@ -333,10 +344,21 @@
                     "Description: A close-up shot captures a white and yellow daisy-like flower surrounded by lush green foliage. The simple composition and natural subject make it suitable for nature-focused social media posts or botanical updates. Photograph read: Soft, diffused daylight illuminates the flower, creating a serene, natural mood with sharp focus on the textured yellow center against the crisp white petals.",
                     "Description: A close-up shot shows a pale pink bougainvillea flower cluster with three triangular bracts and small green buds nestled in the center. Vibrant green leaves frame the base of the flower against an out-of-focus background. Photograph read: The tight vertical composition centers the blossom with sharp, clear focus on the veins of the bracts, creating a bright and delicate mood under natural outdoor light."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A roadside find turned into a whole little series - that is the best kind of stop. The soft daylight and tight framing let those white petals and golden centers carry the whole set.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfLzbvxHGpk",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
