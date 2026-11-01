@@ -14,7 +14,8 @@ class VisionPromptTests(unittest.TestCase):
         text = (
             "Description: A mountain at sunrise.\n"
             "Photograph read: Warm side light emphasizes the layered ridges "
-            "and creates a quiet mood."
+            "and creates a quiet mood.\n"
+            "Photo type: Artistic landscape."
         )
         post.return_value = Mock(status_code=200)
         post.return_value.json.return_value = {
@@ -26,6 +27,8 @@ class VisionPromptTests(unittest.TestCase):
         prompt = post.call_args.kwargs["json"]["contents"][0]["parts"][0]["text"]
         self.assertIn("Description:", prompt)
         self.assertIn("Photograph read:", prompt)
+        self.assertIn("Photo type:", prompt)
+        self.assertIn("snapshot, artistic, documentary, or storytelling", prompt)
         self.assertIn("composition, light, and mood", prompt)
         self.assertEqual(description, text)
         self.assertEqual(attempts, 1)

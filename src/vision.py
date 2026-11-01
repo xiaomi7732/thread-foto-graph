@@ -57,12 +57,15 @@ GEMINI_URL_TMPL = (
 )
 
 PROMPT = (
-    "Respond in plain text using exactly these two labeled sections:\n"
+    "Respond in plain text using exactly these three labeled sections:\n"
     "Description: Describe this photo in one or two concise sentences, focusing "
     "on the subject matter and any context clues relevant to a social media post.\n"
     "Photograph read: Give a brief photography-focused interpretation in one "
     "concise sentence, noting composition, light, and mood where relevant. "
     "Base the read on visible details; do not invent camera settings or intent.\n"
+    "Photo type: Classify the overall style or feel in one concise phrase "
+    "(for example, snapshot, artistic, documentary, or storytelling). Choose "
+    "the closest fit based only on what is visible; do not invent intent.\n"
     "Do not mention that you are an AI or that this is a described image."
 )
 

@@ -67,7 +67,9 @@ Outputs (smallest/most-frequent read first):
    (`src/threads_auth.py`); auth is sent as an `Authorization: Bearer` header,
    never a query param, so it can't leak into logged URLs.
 2. For every photo (root post or reply) not already described, call Gemini
-   for a one-to-two-sentence description (`src/vision.py`). `CAROUSEL_ALBUM`
+   for a consistent three-part result: a one-to-two-sentence description, a
+   photography-focused read, and a concise photo-type classification
+   (`src/vision.py`). `CAROUSEL_ALBUM`
    items are expanded via the `children{media_type,media_url}` field
    (`src/threads_client.py`'s `photo_items()`) so **every photo in a
    multi-image carousel is described individually** — not just its cover
