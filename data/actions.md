@@ -6,13 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (106)
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
   - _Replying to: My pleasure. I picked the colored, I also loved that b&w a …_
 
 ### Flower Friday 🌸 Show me a flower from your camera roll. Gar… ([thread](https://www.threads.com/@saars.foto/post/DfHwLlUFOdt))
+- **anouc90**: It was a stray from previous years....among some much different plants ([link](https://www.threads.com/@anouc90/post/DfNQ9daoVYK))
+  - _Replying to: That high angle does the lonely little snapdragon cluster a…_
+- **brianroffe**: I did try to catch it, and was pleasantly surprised how it turned out. ([link](https://www.threads.com/@brianroffe/post/DfMaFg8iFfd))
+  - _Replying to: Those twin arches make a natural frame - red bells hanging …_
 - **kim_sheltra**: You are welcome ([link](https://www.threads.com/@kim_sheltra/post/DfLjcxwFHbL))
   - _Replying to: Snapped in the moment is the best kind of photobomb - that …_
 - **joshwill.jpg**: thank you for engaging and for your compliments. it was certainly a surprise I was blessed by. ([link](https://www.threads.com/@joshwill.jpg/post/DfKr3_0kS69))
@@ -97,6 +101,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That top-down framing is so stark - the dark caddisfly held…_
 - **davidwiewel**:  ([link](https://www.threads.com/@davidwiewel/post/DfGg6LKkc0J))
   - Photo: Description: A gravel road winds through a vibrant autumn forest under a clear blue sky, flanked by trees with early signs of changing yellow leaves and grassy verges. Perfect for sharing a quiet morning hike or a scenic autumn drive on social media. Photograph read: The straight-on eye-level composition uses the curving dirt path as a natural leading line into the dense, sunlit trees, creating a peaceful and inviting woodland mood.
+- **margaretkovalart**: I also took the picture upside down with my iPhone. 🤷‍♀️ ([link](https://www.threads.com/@margaretkovalart/post/DfNSmc8FsU6))
+  - _Replying to: Ground level was the right call - those glossy red caps pop…_
+- **margaretkovalart**: I was about to get in my car to go out! Glad I didn’t miss them. ([link](https://www.threads.com/@margaretkovalart/post/DfNShmzlgby))
+  - _Replying to: Ground level was the right call - those glossy red caps pop…_
 - **marisilues**: Appreciate the words. Thank you! ([link](https://www.threads.com/@marisilues/post/DfGrLefDWEo))
   - _Replying to: A little bit of both is the honest answer - you framed it, …_
 - **mapletreephotography_wpm**: It was hand delivered. ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfG_olqlg9Y))
@@ -257,92 +265,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **places.and.frames**: You always take such amazing photos! 😍 ([link](https://www.threads.com/@places.and.frames/post/DfFzdDsjE0U))
   - _Replying to: (photo reply, no text)_
 
-### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- **mamawokka**: The color contrast caught my eye. ([link](https://www.threads.com/@mamawokka/post/DfFnO50j9_Z))
-  - _Replying to: That tight overhead crop turns the pile into a texture stud…_
-- **bibliojo**: Thanks ! I liked the one that would be best for carving ! Second left top row .:) ([link](https://www.threads.com/@bibliojo/post/DfFINepEX1W))
-  - _Replying to: Eye-level at the fair stalls is the right call - the white …_
-- **craigthomaswhite**: Not its first pumpkin - it does all its own carving. ([link](https://www.threads.com/@craigthomaswhite/post/DfFJumXHIhI))
-  - _Replying to: Eye-level with a squirrel mid-snack is perfect - just a tai…_
-- **pattymooney69**: They did race, But I don't think they wore the pumpkins... ([link](https://www.threads.com/@pattymooney69/post/DfIrnbBAVLv))
-  - _Replying to: The medium shot framing all four in a row is the joke deliv…_
-- **jeness.maresa**: I spotted this at a local restaurant, and I loved the juxtaposition of seasons ([link](https://www.threads.com/@jeness.maresa/post/DfFOP8PoLIA))
-  - _Replying to: That straight-on eye-level frame lets the tangled lights do…_
-- **the_way_i_see_it_phototography**: Pumpkin roll ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/DfDocSWIB_G))
-  - Photo: Description: Two young children wearing matching red-and-black plaid shirts explore a pumpkin patch, with the older boy in the foreground playfully trying to lift a large pumpkin. Countless bright orange pumpkins of varying sizes scatter the grassy field under bright daylight, capturing a quintessential autumn family activity. Photograph read: Captured in bright, direct sunlight that casts sharp shadows, the medium shot uses a low angle to emphasize the children's interaction with the oversized pumpkins in a lively, cheerful atmosphere.
-- **photography_cac**: Definitely craft store mission. I would feel so bad treating real flowers with a hot glue gun 😉 ([link](https://www.threads.com/@photography_cac/post/DfDwzNelZjv))
-  - _Replying to: Forest fairy owl, crown and all - mostly accomplished is un…_
-- **craigkeepingbusy**: The posts ([link](https://www.threads.com/@craigkeepingbusy/post/DfDvCCgm6G2))
-  - Photo: Description: Several wooden posts lean against a weathered dark wood fence, resting on a bed of gravel dotted with scattered autumn leaves. The composition and outdoor setting suggest a weekend DIY or backyard renovation project in progress. Photograph read: The vertical lines of the leaning lumber create a strong diagonal rhythm against the vertical planks of the fence, rendered in natural daylight with an earthy, rustic mood.
-  - _Replying to: They absolutely count - that high, slightly angled view ove…_
-- **melisagogo**: Throwback to when my son was 3 at the most expensive pumpkin patch in Nebraska ([link](https://www.threads.com/@melisagogo/post/DfDZbn5oJJE))
-  - Photo: Description: A smiling young boy wearing a red baseball cap and a camouflage jacket poses among scattered pumpkins in a harvested field, making a classic autumn post. Photograph read: The subject is centered in a medium shot under bright, direct daylight, creating an upbeat and cheerful outdoor mood.
-- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfD1VO1kY69))
-  - Photo: Description: An American flag mosaic made from painted red, white, and blue seashells rests on sandy dunes, with a beach and ocean visible in the background under a clear sky. This patriotic beach art makes a great share for a summer holiday post. Photograph read: The high-angle, eye-level composition captures the vibrant shell flag sharply in the foreground against the natural tones of the sand and ocean, illuminated by bright daylight to create a warm and cheerful mood.
-  - Photo: Description: A sprawling beach features a large mosaic made of colorful shells in the sand, depicting a pot of gold with rainbows reaching toward shamrocks. Nearby, a decorated pine tree stands near the surf, while a line of beachfront homes stretches along the dunes under a bright blue sky. Photograph read: Captured from a high-angle perspective, the composition uses leading lines from the beach and dune grass to draw the eye toward the distant horizon under bright midday sunlight, creating a whimsical and cheerful mood.
-  - _Replying to: A beach homeowner who redecorates for every holiday - that …_
-- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfD04UFEfdN))
-  - Photo: Description: An American flag made from painted seashells rests in the sand of a coastal dune overlooking the ocean under a clear blue sky. A wooden boardwalk railing and sparse beach grass frame the scene, suggesting a patriotic summer display at the beach. Photograph read: Taken from a slightly elevated eye-level angle, the horizontal composition balances the vibrant seashell flag against the muted earth tones of the sand and sea under bright, direct daylight, creating a cheerful, patriotic mood.
-  - _Replying to: A beach homeowner who redecorates for every holiday - that …_
-- **mapletreephotography_wpm**: Yes, yes it did…❤️😎❤️ ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfDdDmFARoW))
-  - _Replying to: Then your wife gets the credit and your vertical frame gets…_
-- **crisc2343**:  ([link](https://www.threads.com/@crisc2343/post/DfDEDN5GnBm))
-  - Photo: Description: A young child with blonde hair wearing a star-patterned shirt stands with arms outstretched in a pumpkin patch, holding an orange trick-or-treat bag among scattered pumpkins. Photograph read: Captured from a high angle, the shot highlights the child surrounded by pumpkins under bright daylight, creating a playful and festive autumn mood.
-- **ritaveeps**: Looked like trouble even before it was lit up.. ([link](https://www.threads.com/@ritaveeps/post/DfDiMJ-jsRg))
-  - _Replying to: Up to no good is exactly the read - that tight vertical cro…_
-- **bojonvelvet2.0**: The bear lamp is a fixture on that table. Resides between two vintage Adrian Pearsall mid-century chairs.. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfDdNRhgY-X))
-  - Photo: Description: Two orange mid-century modern armchairs flank a small wooden side table beneath a blue wall decorated with framed vintage photographs, floating shelves, and a globe. A lime-green ottoman sits in the foreground, and a tall stack of books stands beside the right-hand chair. Photograph read: Captured from a wide angle, the brightly lit indoor scene uses a symmetrical composition of furniture and wall art to create a cozy, eclectic atmosphere.
-  - _Replying to: That tight frame is the whole joke - a bare little branch w…_
-- **aimeeday5883**: Hubbard is my favorite winter squash - it keeps beautifully and has super dense, sweet, nutty flesh that works great for pies, soups, and straight eating. ([link](https://www.threads.com/@aimeeday5883/post/DfDDGbTD5w9))
-  - _Replying to: Thanksgiving last year and it still reads fresh - that top-…_
-- **encinitasditka**: Right when I saw it, 6:30 am, sunrise was at 7…moon was giving off a lot of light ([link](https://www.threads.com/@encinitasditka/post/DfDNrhEgSlS))
-  - _Replying to: A survivor story beats a staged shot every time - that cent…_
-- **encinitasditka**:  ([link](https://www.threads.com/@encinitasditka/post/DfDN43lgUlQ))
-  - Photo: Description: A glowing full moon illuminates the night sky above a calm ocean, casting a bright reflection on the breaking waves of a sandy beach. This peaceful coastal night scene creates a serene backdrop for quiet midnight reflection. Photograph read: The vertical composition centers the luminous moon directly above a dark horizon, creating a cool, monochromatic color palette and a tranquil, contemplative mood.
-  - _Replying to: Right when I saw it, 6:30 am, sunrise was at 7…moon was giv…_
-- **jdicillo**: Halloween time only. It's usually a black curtain behind the musicians. ([link](https://www.threads.com/@jdicillo/post/DfC6sL-lp4T))
-  - Photo: Description: A bearded male musician stands on a dimly lit stage, strumming an acoustic-electric guitar with a sunburst finish while wearing a dark t-shirt and jeans. In
-  - _Replying to: A tavern stage decoration explains everything - that overhe…_
-- **drbethie**: The gardens were outstanding but the pumpkins took center stage ([link](https://www.threads.com/@drbethie/post/DfC_LH8EdXL))
-  - Photo: Description: Several lit jack-o'-lanterns featuring carved video game characters from the Super Mario series are arranged on wooden pallets and hay bales against an indoor wall. The display includes pumpkins carved to resemble Mario, a Shy Guy, a Boo, a brick block, and a Super Star, creating a festive scene for a Halloween or gaming-themed post. Photograph read: The shot utilizes soft ambient light to highlight the warm, orange glow emanating from the carved pumpkins, creating a cozy and playful mood centered on the rustic wooden textures.
-  - _Replying to: Photo vignette is the perfect word for it - and knowing the…_
-- **bendlesmaid269**: No she takes orders and has a Facebook and instagram page She only started doing it in July, for a charity event, she’s so clever ([link](https://www.threads.com/@bendlesmaid269/post/DfCysoBijlX))
-  - Photo: Description: Four handmade crochet angel ornaments hang in a row from a rustic wooden branch against a festive holiday backdrop. The ornaments feature wooden bead heads with painted smiling faces and rosy cheeks, white crocheted wing dresses, and fringed skirts. Photograph read: The horizontally aligned composition is evenly lit by warm fairy lights, creating a cozy and inviting holiday atmosphere.
-  - Photo: Description: A top-down shot shows a cluster of handmade crochet poppy brooches with black centers and green leaf accents, arranged on a textured burlap surface atop a wooden table. The handcrafted red flowers are popular symbols for remembrance day displays and charity fundraisers. Photograph read: The flat-lay composition features vibrant red and green textures highlighted by even, natural light, creating a warm, artisanal mood.
-  - _Replying to: Monday to Wednesday for a whole pumpkin patch plus angels a…_
-- **nanceharder81**: Sketch first. I'm not that good!! ([link](https://www.threads.com/@nanceharder81/post/DfC6BYiCWiv))
-  - _Replying to: Freehand with edges that sharp is the flex - no stencil to …_
-- **three_little_burdes**: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds 😂 ([link](https://www.threads.com/@three_little_burdes/post/DfCo0Zylu7u))
-  - _Replying to: That doggo on the left looks an awful lot like our Harper L…_
-- **mizgreenjeans**:  ([link](https://www.threads.com/@mizgreenjeans/post/DfCo5uEIPWN))
-  - Photo: Description: A screenshot of a dog DNA breed summary for a mixed-breed puppy named Harper Lee, featuring a colorful pie chart, a small circular photo of the puppy, and a percentage breakdown of its heritage. Photograph read: The central circular portrait employs tight, centered composition and soft interior lighting to highlight the curious puppy against a neutral backdrop, creating a friendly and informative aesthetic suitable for social media sharing.
-  - _Replying to: Oh my gosh totally! We did her dna 🧬 & she’s like 19 breeds…_
-- **mizgreenjeans**: I admit I had never heard of a Treeing Walker Coonhound before in my life. I mean, coonhound sure. But not that specific one. ([link](https://www.threads.com/@mizgreenjeans/post/DfCqymMoHV-))
-  - _Replying to: Oh wow!!!_
-- **tiffany.art2020**: These were actually last year…I’ve moved now and have no garden…just flora memories! I did like the white ones, tho! ([link](https://www.threads.com/@tiffany.art2020/post/DfCydKOmwwE))
-  - _Replying to: Homegrown and just set aside after harvesting - that top-do…_
-
-### Pattern Tuesday favorites 🏆 Three patterns that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DfB3FbdldSK))
-- **wrj_arts**:  ([link](https://www.threads.com/@wrj_arts/post/DfD9w6vkY8d))
-  - Photo: Description: A modern high-rise apartment building glows against a dark night sky, featuring a prominent vertical strip of exterior architectural lighting and warmly lit windows. Below, streaks of colorful light from passing traffic create a sense of vibrant city life at street level. Photograph read: Captured from a low-angle perspective, the vertical composition emphasizes the towering height of the structure, while long-exposure lighting creates dynamic streaks of motion across the urban street.
-- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfDHRDHD_RF))
-  - Photo: Description: A low-angle, upward-facing shot captures the complex steel truss structure and large glass windows of a modern terminal or concourse. The symmetrical framework creates an architectural pattern against a bright, clear sky, with warm wooden ceiling panels framing the top corners. Photograph read: The symmetrical, low-angle composition emphasizes the strong geometric lines and industrial forms, lit by bright, even daylight that creates a clean and minimalist mood.
-- **remalysh**: Playing with Light ([link](https://www.threads.com/@remalysh/post/DfC5ujwGliU))
-  - Photo: Description: Brightly colored light trails form a dynamic, swirling spiral pattern against a solid black background, creating a vibrant hypnotic effect ideal for a psychedelic art post. Photograph read: The long-exposure composition centers on concentric rings of saturated red, blue, and green dotted lights, producing an energetic and mesmerizing mood.
-- **kes_ward**: So far the straight up teardrop is my favourite. But that is a very good question… there are definitely more angles I haven’t caught yet. I do have some other images I captured from my time there but I have grown since then as a photographer. So I look forward to returning at some point in the future. ([link](https://www.threads.com/@kes_ward/post/DfDEStXjiHy))
-  - _Replying to: @kes_ward - the Axel Towers courtyard: you said that buildi…_
-- **demidova_nadezda**: I specially photographed it during the day, as the night changes its appearance. But it's also beautiful during the day. ([link](https://www.threads.com/@demidova_nadezda/post/DfDCivymLir))
-  - Photo: Description: A low-angle shot captures the dramatic, twisting facade of a modern high-rise building stretching up against a clear blue sky. The geometric windows and stacked, rotated floors create a dynamic, sculptural texture ideal for architecture and urban design feeds. Photograph read: The symmetrical, upward-looking composition emphasizes the dizzying height and intricate architectural rhythm of the twisting tower under bright daylight.
-  - Photo: Description: A low-angle shot captures two contrasting modern skyscrapers against a clear blue sky, framed overhead by dark green tree foliage. The skyscraper in the center features a striking, stacked, and twisted architectural design with reflective white and glass panels. Photograph read: The low-angle perspective emphasizes the soaring height of the towers, utilizing a natural leaf frame at the top to contrast organic textures with clean, geometric urban lines under bright daylight.
-  - Photo: Description: A low-angle shot captures a modern skyscraper featuring an undulating, textured facade with staggered, angled windows that create a complex geometric pattern against a clear blue sky. A small portion of a light fixture or sign appears at the top left edge. Photograph read: The dramatic low-angle composition emphasizes the building's twisting height, utilizing bright daylight to highlight the clean lines and dynamic shadows across the facade for a striking, modern aesthetic.
-  - _Replying to: 🤭🤭🤭 Thanka for sharing the story! Nice shot!_
-
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (21)
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - traceartography: 100% ([link](https://www.threads.com/@traceartography/post/DfKy-GLGSDh))
@@ -374,9 +302,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Pumpkin Wednesday favorites 🏆 Three pumpkins that stopped m… ([thread](https://www.threads.com/@saars.foto/post/DfEZvF3G1Fh))
 - reef_ausic: 😀😀😀🥰🥰 ([link](https://www.threads.com/@reef_ausic/post/DfJRdSNEorX))
-
-### Pumpkin Wednesday 🎃 Show me your pumpkin. Pumpkin patches, … ([thread](https://www.threads.com/@saars.foto/post/DfCmXhdkYWR))
-- rositayarnold: 🤷‍♀️ ([link](https://www.threads.com/@rositayarnold/post/DfDE0RXCG-M))
-- janeannnorman: Thank you ([link](https://www.threads.com/@janeannnorman/post/DfCslHxDBZT))
-- three_little_burdes: Oh wow!!! ([link](https://www.threads.com/@three_little_burdes/post/DfCpuBuliY8))
 
