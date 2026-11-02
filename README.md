@@ -533,8 +533,8 @@ rate-limit errors abort the run without publishing a replacement feed.
 Transient failures get at most three retries with exponential backoff and
 jittered 2–4-second gaps between requests. A failed comment read is
 `unreachable`, never `no_answer`; missing like data is `null`, never zero.
-An empty expansion with `has_replies: true`, incomplete pagination, or
-missing answer metadata is an error. If every selected comment is
+An empty expansion with `has_replies: true`, incomplete pagination, missing
+answer metadata, or a follow-up without an author is an error. If every selected comment is
 unreachable, the run fails rather than publishing an all-failure snapshot.
 Individual errors make the JSON status `partial` and appear in the feed and
 run summary. Last successful counts remain separate from current failures.

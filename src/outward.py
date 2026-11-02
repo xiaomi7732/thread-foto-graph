@@ -128,6 +128,11 @@ class Client:
                 raise ObservationError("ANSWER_METADATA_UNAVAILABLE")
             children = self.edge(answer["id"], answer, ITEM_FIELDS)
             if any(
+                not isinstance(child.get("username"), str) or not child["username"].strip()
+                for child in children
+            ):
+                raise ObservationError("CHILD_AUTHOR_UNAVAILABLE")
+            if any(
                 child.get("replied_to") and child["replied_to"].get("id") != answer["id"]
                 for child in children
             ):

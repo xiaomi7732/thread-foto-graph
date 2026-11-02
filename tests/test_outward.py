@@ -81,6 +81,18 @@ class ClientTests(unittest.TestCase):
         _, replies = self.client.answers("our-comment")
         self.assertEqual(replies[0]["replies"][0]["username"], "owner")
 
+    def test_incomplete_child_authors_fail_before_deriving_actions(self):
+        for metadata in ({}, {"username": None}, {"username": ""}, {"username": " "}, {"username": 7}):
+            with self.subTest(metadata=metadata):
+                direct = answer(has_replies=True, replies={
+                    "data": [{"id": "child", **metadata}],
+                })
+                self.client.get = Mock(return_value={
+                    **comment(), "has_replies": True, "replies": {"data": [direct]},
+                })
+                with self.assertRaisesRegex(outward.ObservationError, "CHILD_AUTHOR_UNAVAILABLE"):
+                    self.client.answers("our-comment")
+
     def test_parent_mismatch_and_pagination_loops_fail(self):
         self.client.get = Mock(return_value={
             **comment(), "has_replies": True,
