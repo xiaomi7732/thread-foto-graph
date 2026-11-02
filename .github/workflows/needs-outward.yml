@@ -1,0 +1,103 @@
+name: Generate Needs Outward
+
+on:
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Days of our outward replies to inspect (default: 14)"
+        required: false
+        type: string
+      max_replies:
+        description: "Maximum newest outward candidates to inspect (pilot default: 40)"
+        required: false
+        type: string
+
+concurrency:
+  group: thread-foto-graph
+  cancel-in-progress: false
+  queue: max
+
+permissions:
+  contents: write
+
+jobs:
+  outward:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout latest published baseline
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GH_PATH }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore local cache
+        id: cache
+        uses: actions/cache/restore@v4
+        with:
+          path: cache
+          key: thread-foto-graph-cache-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            thread-foto-graph-cache-
+
+      - name: Generate outward feed without browser or Gemini
+        id: generate
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USERNAME: ${{ vars.THREADS_USERNAME }}
+          OUTWARD_LOOKBACK_DAYS: ${{ inputs.lookback_days || vars.OUTWARD_LOOKBACK_DAYS || '14' }}
+          OUTWARD_MAX_REPLIES: ${{ inputs.max_replies || vars.OUTWARD_MAX_REPLIES || '40' }}
+        run: python -m src.outward
+
+      - name: Publish outward feed and snapshot
+        run: |
+          baseline=$(git rev-parse HEAD)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/needs-outward.md data/needs-outward.json data/history/needs-outward-*.json
+          git commit -m "Update outward reply feed"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if ! git diff --quiet "$baseline" origin/main -- data/needs-outward.json; then
+              echo "::error::The outward baseline changed upstream; rerun instead of publishing a stale diff."
+              exit 1
+            fi
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "::error::Failed to publish outward feed."
+          exit 1
+
+      - name: Save refreshed token and existing vision cache
+        if: always() && steps.cache.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: cache
+          key: thread-foto-graph-cache-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Upload outward pilot artifacts
+        if: always() && steps.generate.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: needs-outward
+          path: |
+            data/needs-outward.md
+            data/needs-outward.json
+            data/history/needs-outward-*.json
+          if-no-files-found: error
+
+      - name: Link published outward feed
+        run: |
+          echo '[Read needs-outward.md](https://github.com/${{ github.repository }}/blob/main/data/needs-outward.md)' >> "$GITHUB_STEP_SUMMARY"
+          echo 'The JSON feed and per-run snapshots are also available in the needs-outward artifact.' >> "$GITHUB_STEP_SUMMARY"
