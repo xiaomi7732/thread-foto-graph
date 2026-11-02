@@ -1,28 +1,20 @@
 # Needs Outward
 
-Generated 2026-11-02T00:02:53.904507-08:00 for @saars.foto. 49 of 49 outward candidates checked (last 14 days; limit 120).
+Generated 2026-11-02T10:41:42.129147-08:00 for @saars.foto. 52 of 52 outward candidates checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors are unknown when the API omits parent metadata; unknown attribution is never treated as an author answer. New means first observed since the previous published snapshot, not unread._
 
-## New Answers (5)
+## New Answers (1)
 
-- **@pattykl**: Thank you kindly for sharing. Happy weekend!! ✨🩷 ([answer](<https://www.threads.com/@pattykl/post/DfIlYwnnzMC>))
-  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfA3NNwkoMm>)); answered after 72.0h.
-
-- **@mazpaz46**: Lovely ([answer](<https://www.threads.com/@mazpaz46/post/DfAKtMOiLWw>))
-  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfAHUbzG5R8>)); answered after 0.5h.
-
-- **@charhedman**: Thank you! It does, doesn't it? 🕸️🕷️ ([answer](<https://www.threads.com/@charhedman/post/Dexfo7-GYpY>))
-  - Our comment: Looks like a giant spider 🕷️ look at the light. Cool shot! ([our reply](<https://www.threads.com/@saars.foto/post/Dexe6RDD4ia>)); answered after 0.1h.
-
-- **@jadedsoul77**: Cemetery Sunrise, NE Philadelphia ([answer](<https://www.threads.com/@jadedsoul77/post/DevIO9oFUo->))
-  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DevD7QFmV6Y>)); answered after 0.6h.
+- **@remondiazart**: Sketches in the conceptual sense. I don't usually go back to chasing after photos...even though some end up looking similar. ([answer](<https://www.threads.com/@remondiazart/post/DfPrXMMkVkh>))
+  - Our comment: Using the phone as a sketchbook when the cameras stay home makes sense. Do the sketches change what you shoot next time the real camera comes out? ([our reply](<https://www.threads.com/@saars.foto/post/DfPrA48lmMR>)); answered after 0.0h.
   - Photo present; open the answer to view it.
 
-- **@hjohnssonphoto**: Beautiful ([answer](<https://www.threads.com/@hjohnssonphoto/post/DerlrZmjM58>))
-  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/Dere2AJG5D1>)); answered after 1.0h.
+## Needs Reply (21)
 
-## Needs Reply (20)
+- **@remondiazart**: Sketches in the conceptual sense. I don't usually go back to chasing after photos...even though some end up looking similar. ([answer](<https://www.threads.com/@remondiazart/post/DfPrXMMkVkh>))
+  - Our comment: Using the phone as a sketchbook when the cameras stay home makes sense. Do the sketches change what you shoot next time the real camera comes out? ([our reply](<https://www.threads.com/@saars.foto/post/DfPrA48lmMR>)); answered after 0.0h.
+  - Photo present; open the answer to view it.
 
 - **@michellehy**: No climbing needed 🙂 ([answer](<https://www.threads.com/@michellehy/post/DfOPmeKm0Ny>))
   - Our comment: Frame on frame is exactly right - you lined the lift bridge up so Rainier sits dead center in it, then let the orange leaves crowd the bottom like a second frame. Did you climb for that exact alignment, or did the bridge and the mountain line up while you were just passing through? ([our reply](<https://www.threads.com/@saars.foto/post/DfNnkNlAcls>)); answered after 5.8h.
@@ -87,7 +79,7 @@ _API-only pilot. Full answer text; no photo descriptions or Threads writes. Targ
   - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DevD7QFmV6Y>)); answered after 0.6h.
   - Photo present; open the answer to view it.
 
-## Needs Like (5)
+## Needs Like (4)
 
 - **@pattykl**: ✨✨☺️ ([answer](<https://www.threads.com/@pattykl/post/DfOJWgdDsPF>))
   - Our comment: I think they are marvelous! 👍 ([our reply](<https://www.threads.com/@saars.foto/post/DfN8IRPD2jQ>)); answered after 1.9h.
@@ -101,11 +93,16 @@ _API-only pilot. Full answer text; no photo descriptions or Threads writes. Targ
 - **@mazpaz46**: Lovely ([answer](<https://www.threads.com/@mazpaz46/post/DfAKtMOiLWw>))
   - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfAHUbzG5R8>)); answered after 0.5h.
 
-- **@hjohnssonphoto**: Beautiful ([answer](<https://www.threads.com/@hjohnssonphoto/post/DerlrZmjM58>))
-  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/Dere2AJG5D1>)); answered after 1.0h.
-
 ## All Tracked Replies
 
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfPrA48lmMR>) (2026-11-02T15:52:27+0000): **answered**; likes: 1; answers: 1.
+  - Using the phone as a sketchbook when the cameras stay home makes sense. Do the sketches change what you shoot next time the real camera comes out?
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>) (2026-11-02T15:52:12+0000): **no_answer**; likes: 0; answers: 0.
+  - Two years waiting for the figure, then a break in the rain under a bush on the roadside. Did you scout that spot first, or did the rain pause hand you the scene?
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfPq-CeFOa5>) (2026-11-02T15:52:02+0000): **no_answer**; likes: 0; answers: 0.
+  - That title fits the mood perfectly. Were you waiting for the leopard to step out of the shade, or did it decide the timing and you just kept up?
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfPpOINGlRr>) (2026-11-02T15:36:43+0000): **no_answer**; likes: 1; answers: 0.
+  - Smooth sailing, Mike. Hope everything goes well. See you soon!
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfN8IRPD2jQ>) (2026-11-01T23:43:27+0000): **answered**; likes: 1; answers: 1.
   - I think they are marvelous! 👍
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfNnzJtFGsX>) (2026-11-01T20:45:52+0000): **no_answer**; likes: 0; answers: 0.
@@ -201,6 +198,4 @@ _API-only pilot. Full answer text; no photo descriptions or Threads writes. Targ
 - [Our reply](<https://www.threads.com/@saars.foto/post/Dexe6RDD4ia>) (2026-10-21T22:29:24+0000): **answered**; likes: 1; answers: 1.
   - Looks like a giant spider 🕷️ look at the light. Cool shot!
 - [Our reply](<https://www.threads.com/@saars.foto/post/DevD7QFmV6Y>) (2026-10-20T23:55:08+0000): **answered**; likes: 3; answers: 1.
-  - (media-only comment)
-- [Our reply](<https://www.threads.com/@saars.foto/post/Dere2AJG5D1>) (2026-10-19T14:33:23+0000): **answered**; likes: 5; answers: 1.
   - (media-only comment)
