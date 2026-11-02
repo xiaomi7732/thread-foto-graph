@@ -109,6 +109,16 @@ class ClientTests(unittest.TestCase):
             self.client.edge("our-comment", node, "id")
 
     @patch.object(outward.time, "sleep")
+    @patch.object(outward.random, "uniform", return_value=0.75)
+    def test_request_uses_short_politeness_delay(self, uniform, sleep):
+        response = Mock(status_code=200)
+        response.json.return_value = {"id": "our-comment"}
+        with patch.object(self.client.session, "get", return_value=response):
+            self.assertEqual(self.client.get("me", {}), {"id": "our-comment"})
+        uniform.assert_called_once_with(0.5, 1)
+        sleep.assert_called_once_with(0.75)
+
+    @patch.object(outward.time, "sleep")
     def test_rate_limit_auth_and_access_errors_abort_without_retry(self, sleep):
         for status, code, message in (
             (429, 4, "RATE_LIMITED"),

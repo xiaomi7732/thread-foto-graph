@@ -46,7 +46,7 @@ class Client:
 
     def get(self, path: str, params: dict) -> dict:
         for attempt in range(4):
-            time.sleep(random.uniform(2, 4))
+            time.sleep(random.uniform(0.5, 1))
             try:
                 response = self.session.get(
                     f"{threads_client.BASE_URL}/{path}",
