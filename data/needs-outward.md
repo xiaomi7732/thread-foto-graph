@@ -1,16 +1,28 @@
 # Needs Outward
 
-Generated 2026-11-01T23:56:47.303561-08:00 for @saars.foto. 40 of 49 outward candidates checked (last 14 days; limit 40).
+Generated 2026-11-02T00:02:53.904507-08:00 for @saars.foto. 49 of 49 outward candidates checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors are unknown when the API omits parent metadata; unknown attribution is never treated as an author answer. New means first observed since the previous published snapshot, not unread._
 
-**Scope capped: older outward candidates were not checked.**
+## New Answers (5)
 
-## New Answers (0)
+- **@pattykl**: Thank you kindly for sharing. Happy weekend!! ✨🩷 ([answer](<https://www.threads.com/@pattykl/post/DfIlYwnnzMC>))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfA3NNwkoMm>)); answered after 72.0h.
 
-_Nothing outstanding._
+- **@mazpaz46**: Lovely ([answer](<https://www.threads.com/@mazpaz46/post/DfAKtMOiLWw>))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfAHUbzG5R8>)); answered after 0.5h.
 
-## Needs Reply (17)
+- **@charhedman**: Thank you! It does, doesn't it? 🕸️🕷️ ([answer](<https://www.threads.com/@charhedman/post/Dexfo7-GYpY>))
+  - Our comment: Looks like a giant spider 🕷️ look at the light. Cool shot! ([our reply](<https://www.threads.com/@saars.foto/post/Dexe6RDD4ia>)); answered after 0.1h.
+
+- **@jadedsoul77**: Cemetery Sunrise, NE Philadelphia ([answer](<https://www.threads.com/@jadedsoul77/post/DevIO9oFUo->))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DevD7QFmV6Y>)); answered after 0.6h.
+  - Photo present; open the answer to view it.
+
+- **@hjohnssonphoto**: Beautiful ([answer](<https://www.threads.com/@hjohnssonphoto/post/DerlrZmjM58>))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/Dere2AJG5D1>)); answered after 1.0h.
+
+## Needs Reply (20)
 
 - **@michellehy**: No climbing needed 🙂 ([answer](<https://www.threads.com/@michellehy/post/DfOPmeKm0Ny>))
   - Our comment: Frame on frame is exactly right - you lined the lift bridge up so Rainier sits dead center in it, then let the orange leaves crowd the bottom like a second frame. Did you climb for that exact alignment, or did the bridge and the mountain line up while you were just passing through? ([our reply](<https://www.threads.com/@saars.foto/post/DfNnkNlAcls>)); answered after 5.8h.
@@ -57,6 +69,9 @@ _Nothing outstanding._
 - **@iamkylegrisham**: No i was positioning myself for the cliff and people ([answer](<https://www.threads.com/@iamkylegrisham/post/DfKyo15jzTw>))
   - Our comment: You kept the two tiny figures at the foot of the cliff and let the gulls take over the whole sky - that scale trick is what makes it. Was the flock already swirling when you framed it, or did the accident happen after you pressed the shutter? ([our reply](<https://www.threads.com/@saars.foto/post/DfKx4btFcEd>)); answered after 0.1h.
 
+- **@pattykl**: Thank you kindly for sharing. Happy weekend!! ✨🩷 ([answer](<https://www.threads.com/@pattykl/post/DfIlYwnnzMC>))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfA3NNwkoMm>)); answered after 72.0h.
+
 - **@42\_z\_photos**: (media-only answer) ([answer](<https://www.threads.com/@42_z_photos/post/DfGNbI3lqx8>))
   - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfFN8lgmwBQ>)); answered after 9.2h.
   - Photo present; open the answer to view it.
@@ -65,7 +80,14 @@ _Nothing outstanding._
   - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfFN8lgmwBQ>)); answered after 0.1h.
   - Photo present; open the answer to view it.
 
-## Needs Like (3)
+- **@charhedman**: Thank you! It does, doesn't it? 🕸️🕷️ ([answer](<https://www.threads.com/@charhedman/post/Dexfo7-GYpY>))
+  - Our comment: Looks like a giant spider 🕷️ look at the light. Cool shot! ([our reply](<https://www.threads.com/@saars.foto/post/Dexe6RDD4ia>)); answered after 0.1h.
+
+- **@jadedsoul77**: Cemetery Sunrise, NE Philadelphia ([answer](<https://www.threads.com/@jadedsoul77/post/DevIO9oFUo->))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DevD7QFmV6Y>)); answered after 0.6h.
+  - Photo present; open the answer to view it.
+
+## Needs Like (5)
 
 - **@pattykl**: ✨✨☺️ ([answer](<https://www.threads.com/@pattykl/post/DfOJWgdDsPF>))
   - Our comment: I think they are marvelous! 👍 ([our reply](<https://www.threads.com/@saars.foto/post/DfN8IRPD2jQ>)); answered after 1.9h.
@@ -75,6 +97,12 @@ _Nothing outstanding._
 
 - **@charhedman**: Thank you so much! ([answer](<https://www.threads.com/@charhedman/post/DfKeNnrGz_u>))
   - Our comment: B&amp;w, very clean shot! Good job Char! ([our reply](<https://www.threads.com/@saars.foto/post/DfKeH6vm4LH>)); answered after 0.0h.
+
+- **@mazpaz46**: Lovely ([answer](<https://www.threads.com/@mazpaz46/post/DfAKtMOiLWw>))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/DfAHUbzG5R8>)); answered after 0.5h.
+
+- **@hjohnssonphoto**: Beautiful ([answer](<https://www.threads.com/@hjohnssonphoto/post/DerlrZmjM58>))
+  - Our comment: (media-only comment) ([our reply](<https://www.threads.com/@saars.foto/post/Dere2AJG5D1>)); answered after 1.0h.
 
 ## All Tracked Replies
 
@@ -157,4 +185,22 @@ _Nothing outstanding._
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfIAWLeGs_P>) (2026-10-30T16:24:52+0000): **answered**; likes: 1; answers: 1.
   - They are so beautiful! I like the moody soft light, nice shots 👍
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfFN8lgmwBQ>) (2026-10-29T14:25:59+0000): **answered**; likes: 7; answers: 2.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfFNCLaGwwO>) (2026-10-29T14:18:00+0000): **no_answer**; likes: 3; answers: 0.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfA3NNwkoMm>) (2026-10-27T21:50:19+0000): **answered**; likes: 1; answers: 1.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfAHUbzG5R8>) (2026-10-27T14:51:52+0000): **answered**; likes: 6; answers: 1.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfAD7sQm-OU>) (2026-10-27T14:22:17+0000): **no_answer**; likes: 1; answers: 0.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/De-xGYHlMw2>) (2026-10-27T02:18:28+0000): **no_answer**; likes: 2; answers: 0.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/De2mQtmktdH>) (2026-10-23T22:09:50+0000): **no_answer**; likes: 0; answers: 0.
+  - lol
+- [Our reply](<https://www.threads.com/@saars.foto/post/Dexe6RDD4ia>) (2026-10-21T22:29:24+0000): **answered**; likes: 1; answers: 1.
+  - Looks like a giant spider 🕷️ look at the light. Cool shot!
+- [Our reply](<https://www.threads.com/@saars.foto/post/DevD7QFmV6Y>) (2026-10-20T23:55:08+0000): **answered**; likes: 3; answers: 1.
+  - (media-only comment)
+- [Our reply](<https://www.threads.com/@saars.foto/post/Dere2AJG5D1>) (2026-10-19T14:33:23+0000): **answered**; likes: 5; answers: 1.
   - (media-only comment)
