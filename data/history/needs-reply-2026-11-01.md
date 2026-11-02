@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (106)
+## Needs Reply (108)
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
@@ -57,6 +57,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Beautiful night lovely sweet dreams 😘😘😘😘🫶💖_
 - **abnerabel125**: I bet that you are . There are some really talented people out there . I enjoy looking at all the photos people post . It gives me ideas of different ways of looking at things. Keep up the great work . ([link](https://www.threads.com/@abnerabel125/post/DfIQxw_jwKH))
   - _Replying to: 🤣🤣🤣 You know what, I am really struggling to pick only 3 of…_
+- **georgiaphotopro**: I put my camera next to my knee. Straight on level. ([link](https://www.threads.com/@georgiaphotopro/post/DfN0CICD_ZG))
+  - _Replying to: Going straight top-down was a great call - that blanket flo…_
 - **chezvies_shop**: Thank you! It’s from my own garden 🪴 ([link](https://www.threads.com/@chezvies_shop/post/DfJPo1rn9aW))
   - _Replying to: Centering that white rose against the dark blur was a lovel…_
 - **bbingco**: Thank you! Still enjoying and learning with every shot. I'm not a photographer, I just love capturing beautiful moments. 😊 ([link](https://www.threads.com/@bbingco/post/DfH5Y79kiJj))
@@ -137,6 +139,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I was trying to get the flower center without disturbing he…_
 - **christinabreitenfeldt**: Her favorite is green bean flowers which is amusing to watch. She's at least double their size. She, or one of her progeny, is a regular every year. It used to be primarily the males but now it's mostly females. ([link](https://www.threads.com/@christinabreitenfeldt/post/DfF7cKhkqiz))
   - _Replying to: I was trying to get the flower center without disturbing he…_
+- **eva.s.mcpherson**: It was framed to get the stake centered. We enjoyed growing the berries for our grandkids. ([link](https://www.threads.com/@eva.s.mcpherson/post/DfOCeAfILNH))
+  - _Replying to: That vertical stake is a brilliant anchor - red and ripenin…_
 - **dougkeel**: Not often. This was a patch of color that caught my eye. ([link](https://www.threads.com/@dougkeel/post/DfF9grAktJ0))
   - _Replying to: One foot on each side is the most honest tripod there is - …_
 - **ben.bennion**: I get in free and it’s only 30 minutes from me ([link](https://www.threads.com/@ben.bennion/post/DfGPyyDCLrQ))

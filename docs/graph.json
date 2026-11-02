@@ -196,7 +196,7 @@
       "photos": [
         "Description: A close-up shot of a delicate white flower with a yellow center, surrounded by lush green foliage. The natural, garden setting makes this an ideal image for spring or nature-themed social media posts. Photograph read: The shot features a tight composition with a soft-focus green background, creating a serene and gentle mood accentuated by natural lighting and visible film grain."
       ],
-      "reply_count": 390,
+      "reply_count": 391,
       "replies": [
         {
           "username": "anouc90",
@@ -3200,7 +3200,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "georgiaphotopro",
+                  "text": "I put my camera next to my knee. Straight on level.",
+                  "permalink": "https://www.threads.com/@georgiaphotopro/post/DfN0CICD_ZG",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4744,7 +4755,7 @@
       "photos": [
         "Description: A fallen brown leaf rests among green grass blades in a park during autumn. Sunlight catches the leaf's edge, highlighting its veins and texture against the muted background. Photograph read: The low-angle composition emphasizes the textured surface of the leaf under bright, directional light, creating an intimate, nostalgic mood."
       ],
-      "reply_count": 528,
+      "reply_count": 529,
       "replies": [
         {
           "username": "lidai9952",
@@ -7123,7 +7134,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "eva.s.mcpherson",
+                  "text": "It was framed to get the stake centered. We enjoyed growing the berries for our grandkids.",
+                  "permalink": "https://www.threads.com/@eva.s.mcpherson/post/DfOCeAfILNH",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
