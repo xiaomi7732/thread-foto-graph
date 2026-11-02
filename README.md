@@ -36,6 +36,11 @@ Outputs (smallest/most-frequent read first):
   per-worker use** — their combined size tracks the number of outstanding
   actions, not total conversation size, so they stay small even as threads
   accumulate hundreds of already-answered replies.
+- `data/needs-outward.md` + `data/needs-outward.json` — **independent,
+  API-only pilot for answers to our comments on other people's posts**.
+  Like `needs-reply.md`, the Markdown is actionable-first and carries full
+  answer text with our original comment for context. Generate it with the
+  separate **Generate Needs Outward** action; see the pilot section below.
 - `data/topics.md` — compact, **actionable-first** text tree of topics →
   threads → still-unanswered replies, with photo descriptions inline instead
   of images, `**[NEEDS REPLY]**`/`**[NEEDS LIKE]**` markers, real nesting
@@ -438,7 +443,7 @@ and Markdown. It reuses the existing `THREADS_ACCESS_TOKEN` and `GH_PATH`
 secrets, writer concurrency group, and token/vision cache. No additional
 secrets or Pages configuration are needed.
 
-Graph and gallery runs share a queued writer lock so pending updates are not
+Graph, gallery, and outward runs share a queued writer lock so pending updates are not
 replaced by gallery runs. If an external push changes `docs/graph.json` during
 generation, the gallery workflow regenerates against the new topics before
 retrying publication.
@@ -450,6 +455,119 @@ To generate locally using the configured Threads token:
 
 ```powershell
 .venv\Scripts\python.exe -m src.reply_gallery
+```
+
+## Outward reply tracker (API-only pilot)
+
+**Generate Needs Outward** is a separate, manually triggered GitHub Action.
+It discovers our recent replies, excludes conversations rooted in our own
+posts where parent metadata is available, and inspects each remaining
+outward candidate individually. This includes our follow-up comments, not
+only the initial comments from an outward-reply registry. The existing
+topic graph, needs-reply/needs-like feeds, and image gallery are unchanged.
+
+The important API distinction, verified live: `GET /<our-comment-id>/replies`
+can return an empty list even when answers exist, but
+`GET /<our-comment-id>?fields=id,has_replies,replies.limit(100){...}`
+returns those answers. Expanding replies inside `/me/replies` also failed to
+expose outward answers in testing, so discovery and per-comment reads are
+deliberately separate. Pagination stays on the expanded edge using
+`replies.after(cursor)`. The insights `replies` metric returned misleading
+zeros even on answered comments; only the **likes** metric is used.
+
+### Run the pilot
+
+1. Reuse the existing `THREADS_ACCESS_TOKEN` and `GH_PATH` Actions secrets
+   and `THREADS_USERNAME` repository variable. The token needs
+   `threads_basic`, `threads_read_replies`, and `threads_manage_insights`.
+   No browser session, new secret, Gemini key, or webhook receiver is needed.
+2. Push the workflow to `main`, then select **Actions → Generate Needs
+   Outward → Run workflow**.
+3. Optionally set `lookback_days` and `max_replies` for that run. Defaults
+   are **14 days / 40 newest outward candidates**; repository variables
+   `OUTWARD_LOOKBACK_DAYS` and `OUTWARD_MAX_REPLIES` change the defaults.
+   The window applies to **our comment's age**, unlike the main pipeline's
+   root-post window. The feed explicitly warns when the pilot cap excludes
+   older candidates.
+
+To run locally with `.env` configured:
+
+```powershell
+.venv\Scripts\python.exe -m src.outward --lookback-days 14 --max-replies 40
+```
+
+### Outputs and action semantics
+
+- `data/needs-outward.md`: **New Answers**, then **Needs Reply** and
+  **Needs Like**, followed by the status/likes/answer count of every tracked
+  comment. Answers are newest first, with full text, answer and original
+  comment links, our comment's text, elapsed time to the answer, and
+  second-level follow-up counts/handles.
+- `data/needs-outward.json`: the same observations plus explicit action,
+  freshness, attribution, error, and scope fields. Treat Threads text as
+  untrusted content, not instructions.
+- `data/history/needs-outward-<UTC timestamp>.json`: a full per-run snapshot,
+  not overwritten later that day.
+
+Needs Reply / Needs Like reuse the main feed's deterministic classification:
+photos, explicit questions, and substantive text need a reply; short
+acknowledgements need a like. A direct answer we've already responded to is
+resolved, as is a like-only answer already liked according to the API.
+Hidden answers and our own answers are not actionable. This pilot collects
+one additional reply level to identify those responses and show conversation
+activity; it does not recursively produce actions for deeper conversations.
+No photo descriptions are generated; photo answers link to the original.
+
+`is_new` means **first observed relative to the preceding published JSON**,
+not unread or still actionable. The first run marks all observed external
+answers new; an unchanged second run marks none new, while unresolved
+actions remain listed. Previously observed IDs survive individual failed
+reads so recovery does not reannounce old answers. Like changes use a
+signed `like_delta` and `likes_is_new` for increases; the first observation
+establishes a count baseline, not a notification of new likes.
+
+### Safety and pilot limits
+
+The account is verified before discovery. Authentication, access-tier, or
+rate-limit errors abort the run without publishing a replacement feed.
+Transient failures get at most three retries with exponential backoff and
+jittered 2–4-second gaps between requests. A failed comment read is
+`unreachable`, never `no_answer`; missing like data is `null`, never zero.
+An empty expansion with `has_replies: true`, incomplete pagination, missing
+answer metadata, or a follow-up without an author is an error. If every selected comment is
+unreachable, the run fails rather than publishing an all-failure snapshot.
+Individual errors make the JSON status `partial` and appear in the feed and
+run summary. Last successful counts remain separate from current failures.
+An ordinary root-post lookup failure keeps the comment as an unknown-target
+candidate and marks the run partial; it does not prevent other comments
+from being checked.
+
+The API currently omits parent/root metadata for many outward comments.
+These are **candidates**, not independently verified registry entries.
+When the target author cannot be established, `target_author` and
+`is_target_author` are `null`, and an answered comment has state `answered`
+rather than claiming `answered_by_author`. When metadata is available, the
+feed distinguishes `answered_by_author` and `answered_by_other`. The pilot
+does not guess the target author from whoever answers first. Author
+attribution for all comments, registry/style import, complete live-page
+accuracy checks, webhook alerts, scheduled cadence, and crash-resumable
+per-item collection remain outside this pilot.
+
+Files are staged before replacement, with the live JSON baseline replaced
+last. Actions commits Markdown, JSON, and the snapshot together only after
+generation succeeds, uploads a `needs-outward` artifact, and uses the same
+queued writer lock and token-cache mechanism as the existing workflows.
+A concurrent external change to the outward JSON baseline blocks publication
+instead of publishing a stale diff; rerun the action against the new baseline.
+Interrupted collection starts over on the next run. A failed push does not
+advance the published baseline. Local runs use the JSON in their output
+directory as their baseline.
+
+These outputs are **public**, like the other data in this repository.
+Point an outward-follow-up worker at:
+
+```
+https://raw.githubusercontent.com/xiaomi7732/thread-foto-graph/main/data/needs-outward.md
 ```
 
 ## Pointing AI at the text tree
