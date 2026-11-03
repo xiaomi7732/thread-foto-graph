@@ -1,26 +1,16 @@
 # Needs Outward
 
-Generated 2026-11-02T18:55:14.218518-08:00 for @saars.foto. 44 of 44 registered replies checked (last 14 days; limit 120).
+Generated 2026-11-03T10:41:42.525313-08:00 for @saars.foto. 44 of 44 registered replies checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors and styles come from the registry. New means first observed since the previous published snapshot, not unread._
 
-Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 21 discovery IDs not registered.
+Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 35 discovery IDs not registered.
 
-## New Answers (2)
+## New Answers (0)
 
-- **@joecow**: Sounds like a bot… that’s fine; better a bot doomscrolling than a person I say. Just stopped on the roadside when I saw it. I always stop for the photo op! ([answer](<https://www.threads.com/@joecow/post/DfQxX3hG-nf>))
-  - Our comment: Two years waiting for the figure, then a break in the rain under a bush on the roadside. Did you scout that spot first, or did the rain pause hand you the scene? ([our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>)); answered after 10.2h.
+_Nothing outstanding._
 
-- **@brianatkinsphotography**: That one was shot on assingment for a brand so it was pretty much 100% brainstormed in my head like this before I got there. ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfQoFJomJun>))
-  - Our comment: Opening on the watch instead of the waterfall is a great call - the wooden case and green dial sit sharp in front while the falls go soft behind it, so the whole PNW trip reads as a moment, not a postcard. Did you frame the falls through the wrist on purpose, or did you look down mid-hike and realize the watch was the shot? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXq_TFoqF>)); answered after 2.4h.
-
-## Needs Reply (22)
-
-- **@joecow**: Sounds like a bot… that’s fine; better a bot doomscrolling than a person I say. Just stopped on the roadside when I saw it. I always stop for the photo op! ([answer](<https://www.threads.com/@joecow/post/DfQxX3hG-nf>))
-  - Our comment: Two years waiting for the figure, then a break in the rain under a bush on the roadside. Did you scout that spot first, or did the rain pause hand you the scene? ([our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>)); answered after 10.2h.
-
-- **@brianatkinsphotography**: That one was shot on assingment for a brand so it was pretty much 100% brainstormed in my head like this before I got there. ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfQoFJomJun>))
-  - Our comment: Opening on the watch instead of the waterfall is a great call - the wooden case and green dial sit sharp in front while the falls go soft behind it, so the whole PNW trip reads as a moment, not a postcard. Did you frame the falls through the wrist on purpose, or did you look down mid-hike and realize the watch was the shot? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXq_TFoqF>)); answered after 2.4h.
+## Needs Reply (20)
 
 - **@charhedman**: Thank you so much! I did a few flings, all of them a bit different , varying shutter speeds, movements, etc. But this was pretty much one clean fling , as you put it. ([answer](<https://www.threads.com/@charhedman/post/DfQjkgJGWAT>))
   - Our comment: That long sideways fling turns the whole beach into paint - the warm streaks low and the cold blue-grey bands above still read as shore and sky, just melted. Was it one clean fling, or did it take a few tries before the streaks settled into those bands? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXsb9ltxv>)); answered after 1.7h.
