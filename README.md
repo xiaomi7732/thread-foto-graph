@@ -531,7 +531,7 @@ establishes a count baseline, not a notification of new likes.
 The account is verified before discovery. Authentication, access-tier, or
 rate-limit errors abort the run without publishing a replacement feed.
 Transient failures get at most three retries with exponential backoff and
-jittered 2–4-second gaps between requests. A failed comment read is
+jittered 0.5–1-second gaps between requests. A failed comment read is
 `unreachable`, never `no_answer`; missing like data is `null`, never zero.
 An empty expansion with `has_replies: true`, incomplete pagination, missing
 answer metadata, or a follow-up without an author is an error. If every selected comment is
