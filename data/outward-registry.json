@@ -495,7 +495,7 @@
       "style": "question",
       "posted_on": "2026-11-03",
       "source": "briefing-target",
-      "status": "no answer"
+      "status": "posted"
     },
     {
       "reply_id": "18120196750956635",
@@ -505,7 +505,7 @@
       "style": "question",
       "posted_on": "2026-11-03",
       "source": "briefing-target",
-      "status": "no answer"
+      "status": "posted"
     },
     {
       "reply_id": "17918860848263192",
@@ -515,7 +515,7 @@
       "style": "question",
       "posted_on": "2026-11-03",
       "source": "briefing-target",
-      "status": "no answer"
+      "status": "posted"
     }
   ]
 }
