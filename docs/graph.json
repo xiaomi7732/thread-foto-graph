@@ -10,8 +10,32 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 274,
+      "reply_count": 290,
       "replies": [
+        {
+          "username": "5x120.65",
+          "text": "",
+          "permalink": "https://www.threads.com/@5x120.65/post/DfSx63jGyPt",
+          "photos": [
+            "Description: The image shows a close-up, angled view of a textured purple-gray building facade, characterized by vertical and horizontal paneled sections with narrow green vertical channels and protruding hexagonal light fixtures. The composition emphasizes geometric patterns and industrial architecture. Photograph read: The tight framing and oblique angle create a structured composition, illuminated by flat light that casts soft, cool tones across the textured surface. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "botanicaldriftstudios",
+          "text": "@botanicaldriftstudios",
+          "permalink": "https://www.threads.com/@botanicaldriftstudios/post/DfSwDDIiFHc",
+          "photos": [
+            "Description: A macro view shows an intensely magnified, iridescent exoskeleton of an insect displaying a riot of purple, copper, and bright blue colors with scattered fine hairs. Photograph read: The extreme close-up highlights a rich tapestry of micro-textures and prismatic light refraction across a vibrant, multicolored biological surface. Photo type: Macro documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "carolformanphotography",
           "text": "",
@@ -19,10 +43,21 @@
           "photos": [
             "Description: This black-and-white photo shows a dirt path winding through a dense forest with bare trees and leaf-covered ground. The perspective looks down the trail as it leads deeper into the woods under bright sunlight. Photograph read: The eye-level, linear composition creates strong depth, while high-contrast lighting casts distinct horizontal shadows across the trail, evoking a quiet, solitary mood. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The striped shadows across the path are doing half the work here - they turn a walk in the woods into a rhythm. What made you go black and white for it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfSthTtj-fC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wj.fox",
@@ -31,10 +66,32 @@
           "photos": [
             "Description: A rectangular metal storm drain with a rusted, patterned grate sits flush within a textured gray concrete sidewalk. Sunlight creates harsh shadows within the grate's open spaces. Photograph read: The top-down composition emphasizes geometric textures and contrasting materials under direct sunlight, creating an urban mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A drain grate as a pattern study - I love that. The rusted bars against plain concrete make the grid pop. Was this a look-down-and-stop moment, or do you collect these?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfStjF_H462",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "wj.fox",
+                  "text": "Rust Art from Philadelphia, I like taking photos of rusty things",
+                  "permalink": "https://www.threads.com/@wj.fox/post/DfSupl5Ggyd",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "janfred1903",
@@ -43,10 +100,32 @@
           "photos": [
             "Description: This vertical, eye-level shot looks straight up into the wooden framework of a rustic roof or bridge interior. Layers of weathered beams, planks, and support structures recede symmetrically into the dim peak above. Photograph read: The symmetrical, low-angle composition draws the eye upward through a rhythmic, repeating pattern of structural lines under soft, even light. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Were you standing right underneath this looking straight up? The beams stack into a perfect rhythm going back, and I think the low angle is what makes it feel so tall.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfStkkGlKbD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "janfred1903",
+                  "text": "This is the Creamery Covered Bridge in Brattleboro, VT. I was standing inside but I don't think it was straight up. I took this last fall so memory is a little hazy.",
+                  "permalink": "https://www.threads.com/@janfred1903/post/DfSxJPAFD9m",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "jonniemike",
@@ -98,10 +177,21 @@
                   "photos": [
                     "Description: A top-down view of a potted Dracaena compacta plant showcases its vibrant green and yellow-green leaves spiraling outward in a neat, symmetrical pattern. The plant rests on a textured grey concrete surface, which provides a neutral backdrop that highlights its bold foliage. Photograph read: The symmetrical, overhead composition emphasizes the natural pinwheel geometry of the foliage under even, diffused lighting, creating a clean and geometric mood. Photo type: Snapshot"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "One pot putting on a whole pinwheel show - I love that. Thanks for the wider view, it is a beautiful follow-up to the first shot.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfStmVDHQYx",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -246,10 +336,32 @@
                   "text": "It's actually a mosque, the stool is used to put your Koran. It's always empty after prayer.",
                   "permalink": "https://www.threads.com/@akmaleky/post/DfSq7Afk8Tr",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Thank you for explaining that - the quiet hall and the empty stool say so much about the space after prayer. A beautiful, peaceful frame.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfStoGwFnjM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "akmaleky",
+                          "text": "Thank you for always sharing photo challenge and appreciating my contribution",
+                          "permalink": "https://www.threads.com/@akmaleky/post/DfSukVRk_t3",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -280,10 +392,21 @@
                   "text": "The whole tree was like that but I thought the pattern would make an interesting picture.",
                   "permalink": "https://www.threads.com/@gerrycud/post/DfSm4bVgRNp",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The whole tree wearing that pattern, and you spotted the picture inside it - that is exactly the kind of noticing this thread is about. Lovely eye.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfStpjrgQzF",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -353,7 +476,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ssquiresc1290",
+                  "text": "I wish I had thought to take a picture of the whole thing. It\u2019s an art installation in Golden Gate Park. About 5 feet high, roughly egg shaped except with flat planes for sides if that makes sense. The whole thing is perforated. There were openings on both sides so you can walk in.",
+                  "permalink": "https://www.threads.com/@ssquiresc1290/post/DfStKmQEgS7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "ssquiresc1290",
+                      "text": "I took a variety of pictures from the outside, and then I peeked inside and saw the orangey rust and the how bright green the grass looked through the holes. \ufffc The sun was low and was shining through the holes on one side, onto the wall inner wall, and then you\u2019re also seeing through the holes on that inner wall.",
+                      "permalink": "https://www.threads.com/@ssquiresc1290/post/DfStKprkt41",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -684,7 +829,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "curt_wig",
+                  "text": "Not really, but also yes in a time-lapse kind of way. I look whenever I visit. The light, shadows, and lack of plants (it's a nursery) combined in a way that I hadn't seen before.",
+                  "permalink": "https://www.threads.com/@curt_wig/post/DfSvPF-mLE8",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -961,10 +1117,21 @@
                   "text": "Yes. It\u2019s a special place for sipping on your coffee while enjoying the sunrise.",
                   "permalink": "https://www.threads.com/@michelpbeaudry/post/DfSq4CWEvWB",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Coffee and sunrise under that striped shade sounds like a perfect morning ritual - thanks for sharing the story behind the pergola.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfStrh5gWn1",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1264,10 +1431,21 @@
                   "text": "Was a Xmas display- lots of different colors too. Hard to look away",
                   "permalink": "https://www.threads.com/@tallerthanyou2026/post/DfSnLMPkgyd",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A Christmas display explains the glow - no wonder it was hard to look away. Thanks for the backstory, it makes the colors shine even brighter.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfSts9ZAQOz",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

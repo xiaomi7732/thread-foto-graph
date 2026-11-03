@@ -9,36 +9,35 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (21)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **carolformanphotography**:  ([link](https://www.threads.com/@carolformanphotography/post/DfSr17gFnC_))
-  - Photo: Description: This black-and-white photo shows a dirt path winding through a dense forest with bare trees and leaf-covered ground. The perspective looks down the trail as it leads deeper into the woods under bright sunlight. Photograph read: The eye-level, linear composition creates strong depth, while high-contrast lighting casts distinct horizontal shadows across the trail, evoking a quiet, solitary mood. Photo type: Artistic
-- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DfSqnvnmiOn))
-  - Photo: Description: A rectangular metal storm drain with a rusted, patterned grate sits flush within a textured gray concrete sidewalk. Sunlight creates harsh shadows within the grate's open spaces. Photograph read: The top-down composition emphasizes geometric textures and contrasting materials under direct sunlight, creating an urban mood. Photo type: Snapshot
-- **janfred1903**:  ([link](https://www.threads.com/@janfred1903/post/DfSoiNpFFpk))
-  - Photo: Description: This vertical, eye-level shot looks straight up into the wooden framework of a rustic roof or bridge interior. Layers of weathered beams, planks, and support structures recede symmetrically into the dim peak above. Photograph read: The symmetrical, low-angle composition draws the eye upward through a rhythmic, repeating pattern of structural lines under soft, even light. Photo type: Documentary
-- **cruscher53**:  ([link](https://www.threads.com/@cruscher53/post/DfSnYcwj_TS))
-  - Photo: Description: A top-down view of a potted Dracaena compacta plant showcases its vibrant green and yellow-green leaves spiraling outward in a neat, symmetrical pattern. The plant rests on a textured grey concrete surface, which provides a neutral backdrop that highlights its bold foliage. Photograph read: The symmetrical, overhead composition emphasizes the natural pinwheel geometry of the foliage under even, diffused lighting, creating a clean and geometric mood. Photo type: Snapshot
-  - _Replying to: Was this a single plant doing all that swirling, or a whole…_
+- **5x120.65**:  ([link](https://www.threads.com/@5x120.65/post/DfSx63jGyPt))
+  - Photo: Description: The image shows a close-up, angled view of a textured purple-gray building facade, characterized by vertical and horizontal paneled sections with narrow green vertical channels and protruding hexagonal light fixtures. The composition emphasizes geometric patterns and industrial architecture. Photograph read: The tight framing and oblique angle create a structured composition, illuminated by flat light that casts soft, cool tones across the textured surface. Photo type: Architectural
+- **botanicaldriftstudios**: @botanicaldriftstudios ([link](https://www.threads.com/@botanicaldriftstudios/post/DfSwDDIiFHc))
+  - Photo: Description: A macro view shows an intensely magnified, iridescent exoskeleton of an insect displaying a riot of purple, copper, and bright blue colors with scattered fine hairs. Photograph read: The extreme close-up highlights a rich tapestry of micro-textures and prismatic light refraction across a vibrant, multicolored biological surface. Photo type: Macro documentary
+- **wj.fox**: Rust Art from Philadelphia, I like taking photos of rusty things ([link](https://www.threads.com/@wj.fox/post/DfSupl5Ggyd))
+  - _Replying to: A drain grate as a pattern study - I love that. The rusted …_
+- **janfred1903**: This is the Creamery Covered Bridge in Brattleboro, VT. I was standing inside but I don't think it was straight up. I took this last fall so memory is a little hazy. ([link](https://www.threads.com/@janfred1903/post/DfSxJPAFD9m))
+  - _Replying to: Were you standing right underneath this looking straight up…_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/DfSl_JFEkII))
   - Photo: Description: A vibrant green, densely textured evergreen bush rises prominently in the center of the frame against a soft, overcast sky and a blurred background of distant trees. The bright green foliage displays intricate detail, making it an appealing nature subject for outdoor or botanical social media posts. Photograph read: Captured in even, diffused daylight under an overcast sky, this straightforward, centered composition emphasizes the rich textures and vertical form of the bush against a softly blurred background. Photo type: Snapshot
   - _Replying to: Those streaks read like wind through grass and fur at the s…_
-- **akmaleky**: It's actually a mosque, the stool is used to put your Koran. It's always empty after prayer. ([link](https://www.threads.com/@akmaleky/post/DfSq7Afk8Tr))
-  - _Replying to: This one stopped me. The quiet hall, the patterned carpet r…_
-- **gerrycud**: The whole tree was like that but I thought the pattern would make an interesting picture. ([link](https://www.threads.com/@gerrycud/post/DfSm4bVgRNp))
-  - _Replying to: I think getting this close was a good call - the bark turns…_
+- **akmaleky**: Thank you for always sharing photo challenge and appreciating my contribution ([link](https://www.threads.com/@akmaleky/post/DfSukVRk_t3))
+  - _Replying to: Thank you for explaining that - the quiet hall and the empt…_
+- **ssquiresc1290**: I wish I had thought to take a picture of the whole thing. It’s an art installation in Golden Gate Park. About 5 feet high, roughly egg shaped except with flat planes for sides if that makes sense. The whole thing is perforated. There were openings on both sides so you can walk in. ([link](https://www.threads.com/@ssquiresc1290/post/DfStKmQEgS7))
+  - _Replying to: Those green dots winking through the rust are my favorite p…_
+- **ssquiresc1290**: I took a variety of pictures from the outside, and then I peeked inside and saw the orangey rust and the how bright green the grass looked through the holes. ￼ The sun was low and was shining through the holes on one side, onto the wall inner wall, and then you’re also seeing through the holes on that inner wall. ([link](https://www.threads.com/@ssquiresc1290/post/DfStKprkt41))
+  - _Replying to: I wish I had thought to take a picture of the whole thing. …_
 - **yunitain_**:  ([link](https://www.threads.com/@yunitain_/post/DfSfWTBEtVd))
   - Photo: Description: Towering, weathered rock pillars rise dramatically from a churning sea, with powerful waves crashing and sending spray high into
 - **simongladman**: Cheers! I appreciate your insights 🥰 ([link](https://www.threads.com/@simongladman/post/DfSnfpaASbB))
   - _Replying to: Noticing the reflections only afterward is the best kind of…_
+- **curt_wig**: Not really, but also yes in a time-lapse kind of way. I look whenever I visit. The light, shadows, and lack of plants (it's a nursery) combined in a way that I hadn't seen before. ([link](https://www.threads.com/@curt_wig/post/DfSvPF-mLE8))
+  - _Replying to: Looking straight up into that pergola grid against the blue…_
 - **annferdy**: Wow! Love this ([link](https://www.threads.com/@annferdy/post/DfSdSfPoOCP))
   - _Replying to: (photo reply, no text)_
-- **michelpbeaudry**: Yes. It’s a special place for sipping on your coffee while enjoying the sunrise. ([link](https://www.threads.com/@michelpbeaudry/post/DfSq4CWEvWB))
-  - _Replying to: The pergola slats lay down a striped shadow show, and then …_
 - **calm_and_co.journal**: The ordinary things are the interesting ones 🤍 Most people walk past them — noticing is a skill, and it makes the world so much richer. Keep looking down. ([link](https://www.threads.com/@calm_and_co.journal/post/DfSaUK5D3hS))
   - _Replying to: I often notice little details that most people simply walk …_
 - **citizenb**: Welcome! 🤗 P.S. I think we made a pit stop at the brand new Allsup’s down the road. Nothing interesting to photograph there. ☺️ ([link](https://www.threads.com/@citizenb/post/DfSh3lwoPaa))
   - _Replying to: A gas station restroom in disguise is a brilliant use of a …_
-- **tallerthanyou2026**: Was a Xmas display- lots of different colors too. Hard to look away ([link](https://www.threads.com/@tallerthanyou2026/post/DfSnLMPkgyd))
-  - _Replying to: Glowing cubes at dusk, and then the ground gets a second pa…_
 - **larry_usselman**:  ([link](https://www.threads.com/@larry_usselman/post/DfSU1XQlrME))
   - Photo: Description: A child is captured mid-air, leaping over dark stone cobblestones in an urban setting. Bright sunlight slants from the upper left, casting a sharp shadow onto the textured ground below. Photograph read: The high-angle composition emphasizes the repeating pattern of the cobblestone street, while stark morning light creates a dynamic contrast and an energetic, playful mood. Photo type: Snapshot
 - **l_faefife**: Here’s our townhouse one I took recently. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ([link](https://www.threads.com/@l_faefife/post/DfSbFubCJnm))
