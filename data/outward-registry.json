@@ -486,6 +486,36 @@
       "source": "daily-batch",
       "author_followers": 2382,
       "status": "posted"
+    },
+    {
+      "reply_id": "18112525112337885",
+      "target_author": "bradcarterphoto",
+      "target_post_url": "https://www.threads.com/@bradcarterphoto/post/DfSMS2GkVh4",
+      "target_post_id": "18136676242678894",
+      "style": "question",
+      "posted_on": "2026-11-03",
+      "source": "briefing-target",
+      "status": "no answer"
+    },
+    {
+      "reply_id": "18120196750956635",
+      "target_author": "mdmullen1",
+      "target_post_url": "https://www.threads.com/@mdmullen1/post/DfSN9k6EYHo",
+      "target_post_id": "18178801144450916",
+      "style": "question",
+      "posted_on": "2026-11-03",
+      "source": "briefing-target",
+      "status": "no answer"
+    },
+    {
+      "reply_id": "17918860848263192",
+      "target_author": "as_it_is_____",
+      "target_post_url": "https://www.threads.com/@as_it_is_____/post/DfSKnNCDQxf",
+      "target_post_id": "18134524981703418",
+      "style": "question",
+      "posted_on": "2026-11-03",
+      "source": "briefing-target",
+      "status": "no answer"
     }
   ]
 }
