@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18219980083346746",
-      "label": "photo, photograph, description, read",
+      "label": "photograph, photo, read, description",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",
@@ -10,8 +10,140 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 18,
+      "reply_count": 45,
       "replies": [
+        {
+          "username": "bojonvelvet2.0",
+          "text": "",
+          "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DfSP67KGiih",
+          "photos": [
+            "Description: A view of a city street and tall skyscrapers framed by a large, ornate metal structure made of stacked horizontal bars, with lush green trees lining the street below under a bright blue sky. Photograph read: The symmetrical, centered composition uses the heavy horizontal lines of the metallic foreground framing element to draw the eye toward the verticality of the distant skyscrapers. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "myownkindacrazy",
+          "text": "",
+          "permalink": "https://www.threads.com/@myownkindacrazy/post/DfSP5RPFi3W",
+          "photos": [
+            "Description: Colorful threads stretch outward from overhead spools through the metal guides of an industrial loom in a textile mill. The composition highlights the precision and scale of manufacturing. Photograph read: The shot uses a low angle with a wide-angle lens, centering the converging threads under natural industrial lighting to create an organized yet atmospheric mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "gteam0",
+          "text": "Pattern",
+          "permalink": "https://www.threads.com/@gteam0/post/DfSPpiGGjMX",
+          "photos": [
+            "Description: A dramatic black-and-white image captures a long concrete walkway bounded by a tall, ridged wall that casts sharp, diagonal shadows across the ground. The low-angle perspective and strong geometric lines draw the eye down the path toward distant structures under bright daylight. Photograph read: The high-contrast black-and-white tones emphasize stark graphic lines and deep shadows, creating a clean, modern architectural study. Photo type: artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "srravi",
+          "text": "",
+          "permalink": "https://www.threads.com/@srravi/post/DfSPZB2Eupl",
+          "photos": [
+            "Description: A grand, high-ceilinged entrance hall features a striking black and white checkered floor stretching toward a central set of glass doors. Stone pillars and recessed ceiling lighting add to the formal, elegant atmosphere of the architectural space. Photograph read: The symmetrical, wide-angle composition emphasizes the converging lines of the checkerboard floor, rendered in high-contrast monochrome with bright overhead illumination. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lizetteguy",
+          "text": "",
+          "permalink": "https://www.threads.com/@lizetteguy/post/DfSPY8zmsks",
+          "photos": [
+            "Description: A top-down, symmetrical close-up captures vibrant green fern fronds radiating outward from a central point, creating a mesmerizing natural pattern. The rich green and yellow hues emphasize the lush texture of the foliage. Photograph read: The centered, radial composition creates a balanced and harmonious feel, enhanced by bright, even lighting that highlights the intricate details of the fronds. Photo type: Artistic nature snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "2killamockingbird",
+          "text": "",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/DfSPN8Uji4a",
+          "photos": [
+            "Description: Fallen brown and green leaves rest at the bottom of clear water, illuminated by dappled sunlight filtering through the surface. The ripple patterns on the water create bright, distorted lines across the submerged foliage, making a striking natural still life. Photograph read: Bright, direct sunlight highlights the intricate patterns of water caustics over the textured bed of leaves, creating a vibrant, high-contrast composition with a tranquil mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "sean_portley",
+          "text": "Inside of an etched glass",
+          "permalink": "https://www.threads.com/@sean_portley/post/DfSPA8KFPdP",
+          "photos": [
+            "Description: An abstract, close-up photograph creates the striking optical illusion of a giant human eye, complete with a dark pupil and shimmering, radiating iris-like patterns of gold and silver against a stark black background. The mesmerizing composition evokes the look of a cosmic portal or a futuristic sci-fi graphic. Photograph read: The centered composition and sharp contrasts between the brilliant metallic highlights and deep shadows create a mysterious, hypnotic mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tiv34",
+          "text": "",
+          "permalink": "https://www.threads.com/@tiv34/post/DfSO8MHis5S",
+          "photos": [
+            "Description: A close-up shot shows a striped crochet project in progress, featuring alternating rows of green, cream, and brown yarn. A thin white working yarn stretches across the top of the handmade textile. Photograph read: The tight top-down composition emphasizes the rich texture and diagonal color gradients under soft, even lighting, creating a cozy and craft-focused mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "vuurenbernadettevan",
+          "text": "",
+          "permalink": "https://www.threads.com/@vuurenbernadettevan/post/DfSO3n9F0Hx",
+          "photos": [
+            "Description: A dirt road runs parallel to a tall, dark metal security fence stretching into the distance beneath a pale, overcast sky. Tall utility poles line the path behind the fence, and patches of green weeds grow along the roadside. Photograph read: The shot uses a low angle and a strong diagonal composition to emphasize the receding perspective of the fence and road under flat, even daylight. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "landlockedgator",
+          "text": "",
+          "permalink": "https://www.threads.com/@landlockedgator/post/DfSOpi8IQRp",
+          "photos": [
+            "Description: A dense, interlocking metal mesh screen fills the frame diagonally, filtering the bright light of a city day and offering a distorted glimpse of brick buildings in the background. The repetition of the metal links creates a continuous, textured pattern that stretches across the entire composition. Photograph read: The shot uses a tight perspective to emphasize the geometric repetition of the metallic weave, with bright daylight creating sharp shadows that enhance the graphic, textured mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "hannele.heikkinen",
+          "text": "",
+          "permalink": "https://www.threads.com/@hannele.heikkinen/post/DfSOb1WDhgn",
+          "photos": [
+            "Description: A close-up shot captures a metal chain-link fence or grid covered in delicate frost crystals, creating a repeating pattern of white jagged edges around dark voids. The macro perspective highlights the frozen texture of winter, offering a clean, geometric composition ideal for a seasonal post. Photograph read: The diagonal composition uses soft daylight against deep shadows to emphasize the intricate, spiky frost formation with a crisp focus on the foreground. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "silmarillioncollector",
           "text": "",
@@ -19,10 +151,53 @@
           "photos": [
             "Description: This photo features a weathered red brick wall with an outside corner, showing varied earthy tones and rough mortar lines. The close-up angle highlights the textured surface and rustic architectural detail. Photograph read: The shot uses a shallow depth of field with soft, directional lighting that emphasizes the textured brick and creates a warm, rustic mood. Photo type: Architectural detail"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That corner is doing all the work - two brick faces meeting, no two shades quite the same. The speckled mortar is the quiet detail. What made you stop at this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfSOaPMlMwB",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "silmarillioncollector",
+                  "text": "And thank you for the appreciation!",
+                  "permalink": "https://www.threads.com/@silmarillioncollector/post/DfSPaMEDAbp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "silmarillioncollector",
+                  "text": "That I was meant to be enjoying dinner out with my wife and daughter, who were starting to get annoyed that I was spending time with my camera ;-)",
+                  "permalink": "https://www.threads.com/@silmarillioncollector/post/DfSOj9LjHqf",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Oh, yeah, Andrew, what were you doing? Have time with your family! \ud83d\ude0c",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfSO-Y-GnUj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "birdsbyboris",
@@ -31,10 +206,35 @@
           "photos": [
             "Description: A close-up shot shows a brushed metal surface punched with a grid of circular holes, with one row cleverly altered to resemble the classic arcade game characters Pac-Man and ghosts. The textured, industrial background contrasts playfully with the retro gaming shapes. Photograph read: The tight framing highlights the texture of the brushed metal under soft, even lighting, creating an industrial yet whimsical mood. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Pac-Man loose in a sheet of punched metal - did you spot the ghosts first, or did the camera find them for you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfSObikkUST",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "birdsbyboris",
+                  "text": "They can be found in the Sthlm underground, in certain trains. Different patterns also occur",
+                  "permalink": "https://www.threads.com/@birdsbyboris/post/DfSPNVYiBuh",
+                  "photos": [
+                    "Description: A close-up shot of a metallic surface perforated with a grid of circular holes, except for a few cutouts in the center row shaped like media playback symbols\u2014a triangle, a circle, two vertical lines, and a square. The warm, brushed texture of the metal creates a tactile, industrial feel. Photograph read: The tight, straight-on composition emphasizes the geometric pattern and textural quality, enhanced by even, warm lighting that casts soft shadows inside the cutouts. Photo type: Artistic",
+                    "Description: A macro view shows a grid-like pattern of round holes punched into a weathered metallic surface, with three crown-shaped cutouts appearing diagonally among the circles. The muted, industrial texture suggests a close-up of a manufactured object or architectural detail. Photograph read: The tight framing and shallow depth of field emphasize the metallic texture and subtle shadows cast within the cutouts, creating a clean, geometric composition. Photo type: Artistic"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "dwordops",
@@ -43,10 +243,32 @@
           "photos": [
             "Description: A person stands in the middle of a grand, covered colonnade with a striking black-and-white checkered floor, taking a photo outward. The corridor is lined with tall columns and pink marble arches, glowing in the warm light of a low sun. Photograph read: The long, vanishing-point composition emphasizes the scale of the architecture, enhanced by golden sunlight streaming across the glossy checkered tiles to create a serene and majestic mood. Photo type: Travel documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Where does your eye land first in this corridor? The checkerboard racing away, the low sun, the lone photographer at the end - I keep bouncing between all three.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfSOcw9Dg6U",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "dwordops",
+                  "text": "I focused on capturing the checkboard and the the photographer before she moved\u2026 everything else was chance\u2026",
+                  "permalink": "https://www.threads.com/@dwordops/post/DfSO8wBoJbK",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "brianroffe",
@@ -55,10 +277,32 @@
           "photos": [
             "Description: A colorful rope climbing structure stands on a bright blue playground surface against the backdrop of the sea and a distant lighthouse. The scene captures an empty coastal playground under an overcast sky. Photograph read: Captured in a straightforward, centered composition with diffused daylight, the image emphasizes the vibrant primary colors of the play equipment against the muted tones of the sea and sky. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think centering the frame on that red cap was a good call - the ropes fan out like a maypole and the lighthouse anchors the whole scene. Do the kids climbing it know they have the best view in town?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfSOeKsFbjM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "brianroffe",
+                  "text": "Oh yes, it's well used..",
+                  "permalink": "https://www.threads.com/@brianroffe/post/DfSOuMtCFNH",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "rajesh__dixit",
@@ -79,7 +323,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "rajesh__dixit",
+                  "text": "This picture is taken at Mumbai airport. I have been here 100s of time and it still fascinates me. The architecture, the lighting, the symmetry.",
+                  "permalink": "https://www.threads.com/@rajesh__dixit/post/DfSPZrzn90_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -131,10 +386,34 @@
                   "text": "Its upward from hotel facade",
                   "permalink": "https://www.threads.com/@dabozky13/post/DfSNN6Cn8v8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "An upward look at a hotel facade - that explains the punch-card rhythm. Thanks for sharing it, it fits this thread beautifully.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfSOfe2oBbj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "dabozky13",
+                          "text": "Im really nobody actually. Really newbie. Just looking something new perspective. Like this foto i took it today",
+                          "permalink": "https://www.threads.com/@dabozky13/post/DfSOrQfHzRR",
+                          "photos": [
+                            "Description: A single fallen vibrant orange tulip flower rests on rough gray asphalt under bright sunlight. A small dark insect is visible near the center of the petals. Photograph read: Shot from above, harsh sunlight creates a sharp shadow alongside the textured flower on the gritty pavement, lending a somber, solitary mood. Photo type: Snapshot"
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -165,10 +444,32 @@
                   "text": "It's a shop wall inside Terminal 5 at Heathrow airport",
                   "permalink": "https://www.threads.com/@neil_pugh1966/post/DfSNUywCPlN",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Heathrow Terminal 5, of all places - a wave hiding in a shop wall. Lovely catch, and thanks for telling us where it lives.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfSOgoqG6qg",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "neil_pugh1966",
+                          "text": "It's The Macallan whiskey shop to be precise",
+                          "permalink": "https://www.threads.com/@neil_pugh1966/post/DfSP2YSCHc-",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -199,10 +500,21 @@
                   "text": "I don't even remember, it's a photo from 2016. \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
                   "permalink": "https://www.threads.com/@remondiazart/post/DfSNPhvFjDj",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A frame from 2016 still holding up this well - that grid earned its second life here. Thanks for digging it out of the archive.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfSOiC9oCro",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -222,7 +534,7 @@
     },
     {
       "id": "17886276300628785",
-      "label": "photo, photograph, description, read",
+      "label": "photograph, photo, read, description",
       "group": 0,
       "snippet": "Flower Friday favorites \ud83c\udfc6 3 blooms that stopped my scroll: \u2026",
       "text": "Flower Friday favorites \ud83c\udfc6 3 blooms that stopped my scroll: Trace Deaton @traceartography - backlit sunflower Dee @2killamockingbird - blush dahlia B. Fitzgerald @beckiefitzgerald - magnolia heart Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfJiqOaDwxR/",
