@@ -4,19 +4,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (6)
+## Needs Reply (8)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **rajesh__dixit**:  ([link](https://www.threads.com/@rajesh__dixit/post/DfSMHp-jJQ8))
-  - Photo: Description: This low-angle shot captures the intricate, latticed waffle ceiling and massive supporting column of an expansive terminal, featuring a vast glass wall below. The striking architectural design creates a strong sense of scale and modern travel infrastructure. Photograph read: Centered symmetry and strong vertical lines emphasize the grand geometry of the vaulted structure, highlighted by even, ambient light and a muted, earthy color palette. Photo type: Architectural
-- **steve.cozort**: Natures patterns are the best! Steve Cozort Photography 2026 ([link](https://www.threads.com/@steve.cozort/post/DfSL9SQEZa8))
-  - Photo: Description: A top-down close-up captures a bright yellow strawflower centered in the frame, surrounded by soft green foliage and two blurred flower buds. The vibrant petals create a striking geometric pattern, perfect for a cheerful nature post. Photograph read: Centered composition and soft, even lighting highlight the intricate, glossy texture of the flower petals against a dark, out-of-focus background. Photo type: Artistic
-- **dabozky13**:  ([link](https://www.threads.com/@dabozky13/post/DfSK_bvHz_0))
-  - Photo: Description: This upward-angled shot features a white building facade perforated with numerous dark, rounded cutouts of varying sizes arranged in vertical columns. The pattern creates an abstract geometric visual against the daylight sky. Photograph read: The vertical composition uses strong leading lines and soft natural light to create a clean, minimalist, and orderly mood. Photo type: Architectural
-- **neil_pugh1966**:  ([link](https://www.threads.com/@neil_pugh1966/post/DfSK-N-CPga))
-  - Photo: Description: This vertical, black-and-white photograph shows an abstract, repeating pattern of overlapping, curved shapes that resemble a honeycomb or scale-like texture. The pattern is viewed from a low-angle perspective, receding into the distance to emphasize depth. Photograph read: The high-contrast lighting creates deep shadows and stark highlights, accentuating the three-dimensional geometry and creating a clean, graphic mood. Photo type: Artistic
-- **remondiazart**:  ([link](https://www.threads.com/@remondiazart/post/DfSKJ9gFun9))
-  - Photo: Description: The image fills the frame with a rhythmic, repeating grid of modern building balconies and windows under bright daylight. Reflections of sky and clouds dance across the glass panes, creating a geometric pattern of light and shadow. Photograph read: The tight framing, head-on perspective, and sharp focus emphasize architectural symmetry and clean lines, creating a cool, graphic mood. Photo type: Architectural
+- **silmarillioncollector**:  ([link](https://www.threads.com/@silmarillioncollector/post/DfSN9txjJiT))
+  - Photo: Description: This photo features a weathered red brick wall with an outside corner, showing varied earthy tones and rough mortar lines. The close-up angle highlights the textured surface and rustic architectural detail. Photograph read: The shot uses a shallow depth of field with soft, directional lighting that emphasizes the textured brick and creates a warm, rustic mood. Photo type: Architectural detail
+- **birdsbyboris**:  ([link](https://www.threads.com/@birdsbyboris/post/DfSNuetCPl-))
+  - Photo: Description: A close-up shot shows a brushed metal surface punched with a grid of circular holes, with one row cleverly altered to resemble the classic arcade game characters Pac-Man and ghosts. The textured, industrial background contrasts playfully with the retro gaming shapes. Photograph read: The tight framing highlights the texture of the brushed metal under soft, even lighting, creating an industrial yet whimsical mood. Photo type: Artistic
+- **dwordops**:  ([link](https://www.threads.com/@dwordops/post/DfSNbttICsl))
+  - Photo: Description: A person stands in the middle of a grand, covered colonnade with a striking black-and-white checkered floor, taking a photo outward. The corridor is lined with tall columns and pink marble arches, glowing in the warm light of a low sun. Photograph read: The long, vanishing-point composition emphasizes the scale of the architecture, enhanced by golden sunlight streaming across the glossy checkered tiles to create a serene and majestic mood. Photo type: Travel documentary
+- **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/DfSNPlECM4G))
+  - Photo: Description: A colorful rope climbing structure stands on a bright blue playground surface against the backdrop of the sea and a distant lighthouse. The scene captures an empty coastal playground under an overcast sky. Photograph read: Captured in a straightforward, centered composition with diffused daylight, the image emphasizes the vibrant primary colors of the play equipment against the muted tones of the sea and sky. Photo type: Snapshot
+- **dabozky13**: Its upward from hotel facade ([link](https://www.threads.com/@dabozky13/post/DfSNN6Cn8v8))
+  - _Replying to: Polka dots or a giant punch card - either way, the way the …_
+- **neil_pugh1966**: It's a shop wall inside Terminal 5 at Heathrow airport ([link](https://www.threads.com/@neil_pugh1966/post/DfSNUywCPlN))
+  - _Replying to: Going black and white turned a wall into a wave - what is t…_
+- **remondiazart**: I don't even remember, it's a photo from 2016. 👍👍👍 ([link](https://www.threads.com/@remondiazart/post/DfSNPhvFjDj))
+  - _Replying to: Head-on and tight - that framing choice turns a whole apart…_
 
 ### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
 - **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
