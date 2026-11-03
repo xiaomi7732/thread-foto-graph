@@ -6,44 +6,39 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (23)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **jonniemike**: KCMO ([link](https://www.threads.com/@jonniemike/post/DfSlLH2llZN))
-  - Photo: Description: An urban scene shows a multi-story brick and tan building on the left, a tall construction crane in the center, and a modern glass-and-steel building behind low walls and utility poles under a bright blue sky. Photograph read: Captured from a low, street-level angle in bright daylight, the composition contrasts old and new architecture with sharp structural lines against a clear blue sky. Photo type: Documentary
-- **cruscher53**:  ([link](https://www.threads.com/@cruscher53/post/DfSkvFDCXa8))
-  - Photo: Description: A black-and-white top-down view shows a plant with broad leaves arranged in a tight, swirling rosette pattern. The central foliage draws the eye inward against a dark, textured background. Photograph read: The high-contrast monochromatic lighting emphasizes the swirling geometric composition and creates a dramatic, moody aesthetic. Photo type: Artistic
-- **reemarooo**:  ([link](https://www.threads.com/@reemarooo/post/DfSkL8diInP))
-  - Photo: Description: A tall stone obelisk stands in the foreground, overlooking a courtyard with historic red-brick and yellow-brick multi-story buildings under a dramatic sky filled with large, white-and-gray cumulus clouds. People walk in the courtyard below, adding a sense of scale to the urban plaza. Photograph read: The wide-angle composition contrasts the monolithic stone foreground with the repeating vertical lines of the historic architecture, framed by a high-contrast, moody blue sky. Photo type: Travel snapshot
+- **carolformanphotography**:  ([link](https://www.threads.com/@carolformanphotography/post/DfSr17gFnC_))
+  - Photo: Description: This black-and-white photo shows a dirt path winding through a dense forest with bare trees and leaf-covered ground. The perspective looks down the trail as it leads deeper into the woods under bright sunlight. Photograph read: The eye-level, linear composition creates strong depth, while high-contrast lighting casts distinct horizontal shadows across the trail, evoking a quiet, solitary mood. Photo type: Artistic
+- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DfSqnvnmiOn))
+  - Photo: Description: A rectangular metal storm drain with a rusted, patterned grate sits flush within a textured gray concrete sidewalk. Sunlight creates harsh shadows within the grate's open spaces. Photograph read: The top-down composition emphasizes geometric textures and contrasting materials under direct sunlight, creating an urban mood. Photo type: Snapshot
+- **janfred1903**:  ([link](https://www.threads.com/@janfred1903/post/DfSoiNpFFpk))
+  - Photo: Description: This vertical, eye-level shot looks straight up into the wooden framework of a rustic roof or bridge interior. Layers of weathered beams, planks, and support structures recede symmetrically into the dim peak above. Photograph read: The symmetrical, low-angle composition draws the eye upward through a rhythmic, repeating pattern of structural lines under soft, even light. Photo type: Documentary
+- **cruscher53**:  ([link](https://www.threads.com/@cruscher53/post/DfSnYcwj_TS))
+  - Photo: Description: A top-down view of a potted Dracaena compacta plant showcases its vibrant green and yellow-green leaves spiraling outward in a neat, symmetrical pattern. The plant rests on a textured grey concrete surface, which provides a neutral backdrop that highlights its bold foliage. Photograph read: The symmetrical, overhead composition emphasizes the natural pinwheel geometry of the foliage under even, diffused lighting, creating a clean and geometric mood. Photo type: Snapshot
+  - _Replying to: Was this a single plant doing all that swirling, or a whole…_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/DfSl_JFEkII))
   - Photo: Description: A vibrant green, densely textured evergreen bush rises prominently in the center of the frame against a soft, overcast sky and a blurred background of distant trees. The bright green foliage displays intricate detail, making it an appealing nature subject for outdoor or botanical social media posts. Photograph read: Captured in even, diffused daylight under an overcast sky, this straightforward, centered composition emphasizes the rich textures and vertical form of the bush against a softly blurred background. Photo type: Snapshot
   - _Replying to: Those streaks read like wind through grass and fur at the s…_
-- **debdipmaitra**: Tree leaves using icm ([link](https://www.threads.com/@debdipmaitra/post/DfSlyBCknKG))
-  - _Replying to: Those streaks read like wind through grass and fur at the s…_
-- **niggato_orochi**: It suprised me actually. I've been going to this mall for like 15 years, but photography taught me to slow down and take things in at all angles. This time, that angle was up.😂 It looks awesome on the film I shot👌 ([link](https://www.threads.com/@niggato_orochi/post/DfSkEv0mho-))
-  - _Replying to: The beams fan out like a starburst in black and white - wer…_
+- **akmaleky**: It's actually a mosque, the stool is used to put your Koran. It's always empty after prayer. ([link](https://www.threads.com/@akmaleky/post/DfSq7Afk8Tr))
+  - _Replying to: This one stopped me. The quiet hall, the patterned carpet r…_
+- **gerrycud**: The whole tree was like that but I thought the pattern would make an interesting picture. ([link](https://www.threads.com/@gerrycud/post/DfSm4bVgRNp))
+  - _Replying to: I think getting this close was a good call - the bark turns…_
 - **yunitain_**:  ([link](https://www.threads.com/@yunitain_/post/DfSfWTBEtVd))
   - Photo: Description: Towering, weathered rock pillars rise dramatically from a churning sea, with powerful waves crashing and sending spray high into
-- **natazlody**: well... i dont think it was very polite from my side to call these huge Gates a "door"... 😊 it was much more than 9 panels... ([link](https://www.threads.com/@natazlody/post/DfSk6pYjOay))
-  - Photo: Description: This close-up photo shows an ornate, paneled metal door or gate featuring symmetrical wrought iron scrollwork and floral rosettes. The sepia-toned finish and classic architecture evoke a sense of historic travel or European exploration. Photograph read: The symmetrical composition and even lighting highlight the intricate textures of the metalwork, creating an elegant and timeless mood. Photo type: Artistic
-  - Photo: Description: A close-up shot of a large, heavy metal door painted a muted greenish-gray, featuring intricate scrollwork patterns and symmetrical floral rosettes within gridded panels. The door is set within a light-colored stone or stucco doorframe, creating a dramatic architectural contrast. Photograph read: Captured from a low, angled perspective, the shot uses natural, even lighting to emphasize the textured relief and geometric harmony of the ornate metalwork against the smooth vertical frame. Photo type: Architectural snapshot
-  - _Replying to: Nine identical panels, and still each rosette looks a littl…_
-- **musulnamja**: Unbelievable craftsmanship, not only the carpentry but the design that pulls you into the corners. ([link](https://www.threads.com/@musulnamja/post/DfSl3e-gdid))
-  - _Replying to: What made you tilt up for this one? The red eaves stacking …_
-- **anto_acz**: Yes, the framing was intentional. It’s an interior room in the theater... ([link](https://www.threads.com/@anto_acz/post/DfSk09ukb9S))
-  - _Replying to: All that gold, and the low angle makes it run off the frame…_
-- **simongladman**: This building is 70 St Mary Axe in London. I don't think I even really noticed the reflections until after I took the photograph. I loved the parallel lines on the curved shape of the skyscraper and how they converged in the distance. I also like the fluorescent lights inside the building - shame there aren't more of them! ([link](https://www.threads.com/@simongladman/post/DfSkLIXgZwS))
-  - _Replying to: The curve in black and white is doing a lot here - was it t…_
+- **simongladman**: Cheers! I appreciate your insights 🥰 ([link](https://www.threads.com/@simongladman/post/DfSnfpaASbB))
+  - _Replying to: Noticing the reflections only afterward is the best kind of…_
 - **annferdy**: Wow! Love this ([link](https://www.threads.com/@annferdy/post/DfSdSfPoOCP))
   - _Replying to: (photo reply, no text)_
-- **kidsdrs**: Thanks It was taken on my trip to Greece Taken from inside of the tour bus we were travelling. ([link](https://www.threads.com/@kidsdrs/post/DfSlgz8GN5s))
-  - _Replying to: Four white triangles marching across the water - that rhyth…_
+- **michelpbeaudry**: Yes. It’s a special place for sipping on your coffee while enjoying the sunrise. ([link](https://www.threads.com/@michelpbeaudry/post/DfSq4CWEvWB))
+  - _Replying to: The pergola slats lay down a striped shadow show, and then …_
 - **calm_and_co.journal**: The ordinary things are the interesting ones 🤍 Most people walk past them — noticing is a skill, and it makes the world so much richer. Keep looking down. ([link](https://www.threads.com/@calm_and_co.journal/post/DfSaUK5D3hS))
   - _Replying to: I often notice little details that most people simply walk …_
 - **citizenb**: Welcome! 🤗 P.S. I think we made a pit stop at the brand new Allsup’s down the road. Nothing interesting to photograph there. ☺️ ([link](https://www.threads.com/@citizenb/post/DfSh3lwoPaa))
   - _Replying to: A gas station restroom in disguise is a brilliant use of a …_
-- **craigkeepingbusy**: We were just wandering around Lisbon and I pointed out the pattern to my wife and then took this picture. We walked all the way down to Pink Street. ([link](https://www.threads.com/@craigkeepingbusy/post/DfSkQupmwJi))
-  - _Replying to: (photo reply, no text)_
+- **tallerthanyou2026**: Was a Xmas display- lots of different colors too. Hard to look away ([link](https://www.threads.com/@tallerthanyou2026/post/DfSnLMPkgyd))
+  - _Replying to: Glowing cubes at dusk, and then the ground gets a second pa…_
 - **larry_usselman**:  ([link](https://www.threads.com/@larry_usselman/post/DfSU1XQlrME))
   - Photo: Description: A child is captured mid-air, leaping over dark stone cobblestones in an urban setting. Bright sunlight slants from the upper left, casting a sharp shadow onto the textured ground below. Photograph read: The high-angle composition emphasizes the repeating pattern of the cobblestone street, while stark morning light creates a dynamic contrast and an energetic, playful mood. Photo type: Snapshot
 - **l_faefife**: Here’s our townhouse one I took recently. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ([link](https://www.threads.com/@l_faefife/post/DfSbFubCJnm))
@@ -69,11 +64,14 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (14)
+## Needs Like (17)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
+- debdipmaitra: Thank you so much 😊 ([link](https://www.threads.com/@debdipmaitra/post/DfSntd5kpT1))
+- natazlody: ☺️ ([link](https://www.threads.com/@natazlody/post/DfSnplPDGt-))
 - a_lone_crow_: Thank you 😊 ([link](https://www.threads.com/@a_lone_crow_/post/DfSfcHWiP6h))
 - retrograde_60: The succulents ([link](https://www.threads.com/@retrograde_60/post/DfSeV-gGTOt))
+- kidsdrs: Thanks. ([link](https://www.threads.com/@kidsdrs/post/DfSo8DemI27))
 - dr0ma_: 📷 ([link](https://www.threads.com/@dr0ma_/post/DfSShGYCC8C))
 - gteam0: Any time ([link](https://www.threads.com/@gteam0/post/DfSSy-ylGUV))
 - citizenb: Beautiful! 😍 ([link](https://www.threads.com/@citizenb/post/DfSXNxiIEYe))
