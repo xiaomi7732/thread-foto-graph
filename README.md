@@ -460,11 +460,14 @@ To generate locally using the configured Threads token:
 ## Outward reply tracker (API-only pilot)
 
 **Generate Needs Outward** is a separate, manually triggered GitHub Action.
-It discovers our recent replies, excludes conversations rooted in our own
-posts where parent metadata is available, and inspects each remaining
-outward candidate individually. This includes our follow-up comments, not
-only the initial comments from an outward-reply registry. The existing
-topic graph, needs-reply/needs-like feeds, and image gallery are unchanged.
+When `data/outward-registry.json` exists, it tracks the posted engine replies
+listed there, using the registry's authoritative target authors and styles.
+Discovery still runs, but only to audit differences; extra discovered
+comments and follow-ups never enter the registered tracked set.
+Without that file, the original discovery-based behavior is retained:
+recent replies outside identifiable own-post conversations are outward
+candidates, including manual replies and follow-ups. The existing topic
+graph, needs-reply/needs-like feeds, and image gallery are unchanged.
 
 The important API distinction, verified live: `GET /<our-comment-id>/replies`
 can return an empty list even when answers exist, but
@@ -484,17 +487,47 @@ zeros even on answered comments; only the **likes** metric is used.
 2. Push the workflow to `main`, then select **Actions → Generate Needs
    Outward → Run workflow**.
 3. Optionally set `lookback_days` and `max_replies` for that run. Defaults
-   are **14 days / 40 newest outward candidates**; repository variables
+   are **14 days / 40 newest replies**; repository variables
    `OUTWARD_LOOKBACK_DAYS` and `OUTWARD_MAX_REPLIES` change the defaults.
    The window applies to **our comment's age**, unlike the main pipeline's
-   root-post window. The feed explicitly warns when the pilot cap excludes
-   older candidates.
+   root-post window. In registry mode the cap applies to registered entries,
+   not the discovery population. Set it high enough to cover the full
+   registry if that is the desired scope; the feed warns about excluded rows.
 
 To run locally with `.env` configured:
 
 ```powershell
 .venv\Scripts\python.exe -m src.outward --lookback-days 14 --max-replies 40
 ```
+
+### Canonical registry and discovery audit
+
+The posting flow maintains and syncs `data/outward-registry.json`; the tracker
+never edits it. Schema version 1 has an `account` and an `entries` list.
+Each entry identifies a numeric-string `reply_id`, `target_author`, `style`
+(`question` or `closer`), `posted_on` (`YYYY-MM-DD`), and `status`.
+Only `status: "posted"` entries in the lookback window are selected.
+Optional `target_post_url` and `source` are carried through; a missing target
+URL can be filled from the API, but the registry's author and style are never
+replaced by API guesses. Exact comment timestamps and permalinks come from
+the individual node read. Until that read succeeds, the date-only registry
+timestamp uses noon UTC for filtering; entries are selected newest date first.
+
+Registry-mode JSON adds `mode: "registry"`, `registry_count`
+(in-window posted entries before the cap), and `audit`. In registry mode,
+`audit.registered_missing_from_discovery` and
+`audit.discovered_not_registered` are sorted ID lists over the full window,
+not just the capped selection. Audit differences are informational, not
+reasons to drop registered replies or add unregistered ones. Each tracked
+registry row includes `from_registry`, `style`, and `source`. Discovery
+fallback preserves the previous JSON shape, without these registry-only fields.
+
+An empty registry intentionally tracks nothing; it does not switch back to
+discovery. Malformed files, duplicate IDs, invalid required metadata or
+dates, unsupported schemas, and account mismatches abort with
+`INVALID_REGISTRY` before any API calls or output replacement. Only an absent
+file enables discovery fallback. With `--output-dir`, the registry is loaded
+from that output directory, alongside the JSON baseline.
 
 ### Outputs and action semantics
 
@@ -542,16 +575,16 @@ An ordinary root-post lookup failure keeps the comment as an unknown-target
 candidate and marks the run partial; it does not prevent other comments
 from being checked.
 
-The API currently omits parent/root metadata for many outward comments.
+In discovery fallback, the API omits parent/root metadata for many comments.
 These are **candidates**, not independently verified registry entries.
 When the target author cannot be established, `target_author` and
 `is_target_author` are `null`, and an answered comment has state `answered`
 rather than claiming `answered_by_author`. When metadata is available, the
 feed distinguishes `answered_by_author` and `answered_by_other`. The pilot
-does not guess the target author from whoever answers first. Author
-attribution for all comments, registry/style import, complete live-page
-accuracy checks, webhook alerts, scheduled cadence, and crash-resumable
-per-item collection remain outside this pilot.
+does not guess the target author from whoever answers first. Registry mode
+supplies this attribution independently of missing API root metadata.
+Complete live-page accuracy checks, webhook alerts, scheduled cadence, and
+crash-resumable per-item collection remain outside this pilot.
 
 Files are staged before replacement, with the live JSON baseline replaced
 last. Actions commits Markdown, JSON, and the snapshot together only after
