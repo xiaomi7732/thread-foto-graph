@@ -1,39 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T00:35:51.656753+00:00",
-  "run_id": "1bb1f33dbb2f47f5b3b54ff5d7c241c1",
+  "generated_at": "2026-11-03T02:55:14.218518+00:00",
+  "run_id": "41569000179",
   "account": "saars.foto",
   "status": "ok",
   "lookback_days": 14,
-  "max_replies": 100,
-  "mode": "registry",
-  "registry_count": 44,
-  "audit": {
-    "registered_missing_from_discovery": [],
-    "discovered_not_registered": [
-      "17873717376642427",
-      "17875741794636270",
-      "17918991783258983",
-      "17940607986379458",
-      "17995079208058399",
-      "18001532979010085",
-      "18003307061796964",
-      "18037837544852284",
-      "18051170975820814",
-      "18058796663795992",
-      "18098045987660337",
-      "18098370080449771",
-      "18108669740215610",
-      "18110455430351087",
-      "18112908998180243",
-      "18121220932996194",
-      "18130647226833281",
-      "18151738612516345",
-      "18222628690352452",
-      "18349805641265780",
-      "18664985203037385"
-    ]
-  },
+  "max_replies": 120,
   "discovered_count": 65,
   "capped": false,
   "seen_answer_ids": [
@@ -63,10 +35,12 @@
     "18127237490315979",
     "18133009180783347",
     "18134158867753188",
+    "18134439058680450",
     "18135152225497078",
     "18145949446606611",
     "18170775202490345",
     "18199987930390973",
+    "18209494138369711",
     "18440075746177179",
     "18605700886071345",
     "18642239806037839",
@@ -81,16 +55,16 @@
       "target_author": "talal92",
       "target_post_url": "https://www.threads.com/@talal92/post/DfPp6Z2Dndc",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "17900744382608293",
@@ -100,16 +74,31 @@
       "target_author": "joecow",
       "target_post_url": "https://www.threads.com/@joecow/post/DfPi2tFm2Fq",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
-      "state": "no_answer",
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
+      "state": "answered_by_author",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
-      "answer_count": 0,
-      "answers": []
+      "answer_count": 1,
+      "answers": [
+        {
+          "id": "18134439058680450",
+          "author": "joecow",
+          "is_target_author": true,
+          "text": "Sounds like a bot… that’s fine; better a bot doomscrolling than a person I say. Just stopped on the roadside when I saw it. I always stop for the photo op!",
+          "timestamp": "2026-11-03T02:07:11+0000",
+          "permalink": "https://www.threads.com/@joecow/post/DfQxX3hG-nf",
+          "media_type": "TEXT_POST",
+          "is_new": true,
+          "action": "reply",
+          "is_liked": null,
+          "child_reply_count": 0,
+          "child_reply_handles": []
+        }
+      ],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "18229320814327205",
@@ -119,10 +108,7 @@
       "target_author": "remondiazart",
       "target_post_url": "https://www.threads.com/@remondiazart/post/DfPlan0EU-G",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -143,7 +129,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "17909842359570198",
@@ -153,16 +142,31 @@
       "target_author": "brianatkinsphotography",
       "target_post_url": "https://www.threads.com/@brianatkinsphotography/post/DfPmbRrG9t2",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
+      "state": "answered_by_author",
+      "like_count": 0,
+      "like_delta": 0,
+      "likes_is_new": false,
+      "answer_count": 1,
+      "answers": [
+        {
+          "id": "18209494138369711",
+          "author": "brianatkinsphotography",
+          "is_target_author": true,
+          "text": "That one was shot on assingment for a brand so it was pretty much 100% brainstormed in my head like this before I got there.",
+          "timestamp": "2026-11-03T00:45:59+0000",
+          "permalink": "https://www.threads.com/@brianatkinsphotography/post/DfQoFJomJun",
+          "media_type": "TEXT_POST",
+          "is_new": true,
+          "action": "reply",
+          "is_liked": null,
+          "child_reply_count": 0,
+          "child_reply_handles": []
+        }
+      ],
       "style": "question",
       "source": "daily-batch",
-      "from_registry": true,
-      "state": "no_answer",
-      "like_count": 0,
-      "like_delta": null,
-      "likes_is_new": false,
-      "answer_count": 0,
-      "answers": []
+      "from_registry": true
     },
     {
       "reply_id": "18175503349457735",
@@ -172,13 +176,10 @@
       "target_author": "charhedman",
       "target_post_url": "https://www.threads.com/@charhedman/post/DfPl8SDm8et",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 1,
       "answers": [
@@ -190,13 +191,16 @@
           "timestamp": "2026-11-03T00:06:35+0000",
           "permalink": "https://www.threads.com/@charhedman/post/DfQjkgJGWAT",
           "media_type": "TEXT_POST",
-          "is_new": true,
+          "is_new": false,
           "action": "reply",
           "is_liked": null,
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17973161040195757",
@@ -206,13 +210,10 @@
       "target_author": "foutsphotos",
       "target_post_url": "https://www.threads.com/@foutsphotos/post/DfPWNrKm2ro",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 0,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 1,
       "answers": [
@@ -224,13 +225,16 @@
           "timestamp": "2026-11-02T22:28:57+0000",
           "permalink": "https://www.threads.com/@foutsphotos/post/DfQYZdMAV5V",
           "media_type": "TEXT_POST",
-          "is_new": true,
+          "is_new": false,
           "action": "reply",
           "is_liked": null,
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17867947680678787",
@@ -240,16 +244,16 @@
       "target_author": "julie.cameranz",
       "target_post_url": "https://www.threads.com/@julie.cameranz/post/DfP6hmJGQbs",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "closer",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "closer",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18013301453975100",
@@ -259,16 +263,16 @@
       "target_author": "amygadabout",
       "target_post_url": "https://www.threads.com/@amygadabout/post/DfP7aKxD8KE",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "closer",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "closer",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18360394285216394",
@@ -278,16 +282,16 @@
       "target_author": "consie18",
       "target_post_url": "https://www.threads.com/@consie18/post/DfP8XBCFJg7",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18134169146498028",
@@ -297,16 +301,16 @@
       "target_author": "allevifrancesco",
       "target_post_url": "https://www.threads.com/@allevifrancesco/post/DfP-RwHlMUP",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18100913222645143",
@@ -316,13 +320,10 @@
       "target_author": "d.obrien.photos",
       "target_post_url": "https://www.threads.com/@d.obrien.photos/post/DfP1hXwDdNg",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 1,
       "answers": [
@@ -334,13 +335,16 @@
           "timestamp": "2026-11-02T22:45:51+0000",
           "permalink": "https://www.threads.com/@d.obrien.photos/post/DfQaVMCjW_T",
           "media_type": "TEXT_POST",
-          "is_new": true,
+          "is_new": false,
           "action": "reply",
           "is_liked": null,
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18118157906097667",
@@ -350,13 +354,10 @@
       "target_author": "abnerabel125",
       "target_post_url": "https://www.threads.com/@abnerabel125/post/DfP9i5rj3lk",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 1,
       "answers": [
@@ -368,13 +369,16 @@
           "timestamp": "2026-11-03T00:01:02+0000",
           "permalink": "https://www.threads.com/@abnerabel125/post/DfQi70xD79e",
           "media_type": "TEXT_POST",
-          "is_new": true,
+          "is_new": false,
           "action": "reply",
           "is_liked": null,
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17914724790506986",
@@ -384,16 +388,16 @@
       "target_author": "jaychan_nz",
       "target_post_url": "https://www.threads.com/@jaychan_nz/post/DfPeIdGEgCX",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 1,
-      "like_delta": null,
+      "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18018866417959565",
@@ -403,16 +407,16 @@
       "target_author": "timetobehave",
       "target_post_url": "https://www.threads.com/@timetobehave/post/DfM7XAJjlxc",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "closer",
-      "source": "morning-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "closer",
+      "source": "morning-targets",
+      "from_registry": true
     },
     {
       "reply_id": "17994856413105129",
@@ -422,10 +426,7 @@
       "target_author": "rhiannonnahviessen",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "morning-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -446,7 +447,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "morning-targets",
+      "from_registry": true
     },
     {
       "reply_id": "17912299521574880",
@@ -456,16 +460,16 @@
       "target_author": "islalunesleep",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "morning-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "morning-targets",
+      "from_registry": true
     },
     {
       "reply_id": "17951996991313556",
@@ -475,10 +479,7 @@
       "target_author": "taro.su1b",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "morning-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -501,7 +502,10 @@
             "saars.foto"
           ]
         }
-      ]
+      ],
+      "style": "question",
+      "source": "morning-targets",
+      "from_registry": true
     },
     {
       "reply_id": "18077637026466692",
@@ -511,16 +515,16 @@
       "target_author": "christian_faber_fotos",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 1,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "18131709502833151",
@@ -530,10 +534,7 @@
       "target_author": "foutsphotos",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -554,7 +555,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "18351415141286012",
@@ -564,16 +568,16 @@
       "target_author": "prairie.wanderer",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "18129692257819844",
@@ -583,16 +587,16 @@
       "target_author": "brych.photography",
       "target_post_url": null,
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "briefing-targets",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "briefing-targets",
+      "from_registry": true
     },
     {
       "reply_id": "18102284828420950",
@@ -602,10 +606,7 @@
       "target_author": "iamweebler",
       "target_post_url": "https://www.threads.com/@iamweebler/post/DfNPalbFtp8",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -626,7 +627,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17878479312572886",
@@ -636,10 +640,7 @@
       "target_author": "michellehy",
       "target_post_url": "https://www.threads.com/@michellehy/post/DfNWBtej4vD",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -660,7 +661,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18042963350652812",
@@ -670,16 +674,16 @@
       "target_author": "allevifrancesco",
       "target_post_url": "https://www.threads.com/@allevifrancesco/post/DfNYYN6FL-c",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18066086249790375",
@@ -689,10 +693,7 @@
       "target_author": "pattykl",
       "target_post_url": "https://www.threads.com/@pattykl/post/DfNYLaJn-9p",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -715,7 +716,10 @@
             "saars.foto"
           ]
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18650608492050959",
@@ -725,10 +729,7 @@
       "target_author": "easytigercreative",
       "target_post_url": "https://www.threads.com/@easytigercreative/post/DfNT3i4mjMY",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -749,7 +750,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17932869933161305",
@@ -759,10 +763,7 @@
       "target_author": "friskygeek",
       "target_post_url": "https://www.threads.com/@friskygeek/post/DfNXPk-mOmB",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -783,7 +784,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18383615344241322",
@@ -793,10 +797,7 @@
       "target_author": "matthewraifman",
       "target_post_url": "https://www.threads.com/@matthewraifman/post/DfNUofsjxMk",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "closer",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -817,7 +818,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "closer",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18190875307407771",
@@ -827,10 +831,7 @@
       "target_author": "jaycepablo88",
       "target_post_url": "https://www.threads.com/@jaycepablo88/post/DfNVqNAk6GB",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -851,7 +852,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17986618854135153",
@@ -861,10 +865,7 @@
       "target_author": "dgwildphotography",
       "target_post_url": "https://www.threads.com/@dgwildphotography/post/DfNXxdGE3ol",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -885,7 +886,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18117452618324707",
@@ -895,16 +899,16 @@
       "target_author": "patricklouise07",
       "target_post_url": "https://www.threads.com/@patricklouise07/post/DfNU9aYiJFq",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18219152956351766",
@@ -914,16 +918,16 @@
       "target_author": "jack.haobijam._",
       "target_post_url": "https://www.threads.com/@jack.haobijam._/post/DfNZGKgm-8I",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17911639281484126",
@@ -933,16 +937,16 @@
       "target_author": "joakkin_street",
       "target_post_url": "https://www.threads.com/@joakkin_street/post/DfJ5BkxiP3e",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "pilot",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "pilot",
+      "from_registry": true
     },
     {
       "reply_id": "17979129090147047",
@@ -952,10 +956,7 @@
       "target_author": "charhedman",
       "target_post_url": "https://www.threads.com/@charhedman/post/DfKafnwGw2u",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "pilot",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -978,7 +979,10 @@
             "saars.foto"
           ]
         }
-      ]
+      ],
+      "style": "question",
+      "source": "pilot",
+      "from_registry": true
     },
     {
       "reply_id": "18034721654903973",
@@ -988,10 +992,7 @@
       "target_author": "brianatkinsphotography",
       "target_post_url": "https://www.threads.com/@brianatkinsphotography/post/DfKrhvEmAAh",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 0,
       "like_delta": 0,
@@ -1012,7 +1013,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18103831565178035",
@@ -1022,10 +1026,7 @@
       "target_author": "momentulist",
       "target_post_url": "https://www.threads.com/@momentulist/post/DfKnVaniOQj",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 0,
       "like_delta": 0,
@@ -1046,7 +1047,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17906319612355532",
@@ -1056,16 +1060,16 @@
       "target_author": "photosbymilestone",
       "target_post_url": "https://www.threads.com/@photosbymilestone/post/DfKsrQJFDJy",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18351500713266189",
@@ -1075,10 +1079,7 @@
       "target_author": "iamkylegrisham",
       "target_post_url": "https://www.threads.com/@iamkylegrisham/post/DfKrO3OmNYr",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -1099,7 +1100,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18114323660168141",
@@ -1109,10 +1113,7 @@
       "target_author": "project52_nyc",
       "target_post_url": "https://www.threads.com/@project52_nyc/post/DfKtsf2HA1T",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -1133,7 +1134,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "17953186887050222",
@@ -1143,10 +1147,7 @@
       "target_author": "domcoutard",
       "target_post_url": "https://www.threads.com/@domcoutard/post/DfHkhdClkFx",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -1167,7 +1168,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18136315456676993",
@@ -1177,10 +1181,7 @@
       "target_author": "rich.doak.photography",
       "target_post_url": "https://www.threads.com/@rich.doak.photography/post/DfKnsEBjQ1_",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "answered_by_author",
       "like_count": 1,
       "like_delta": 0,
@@ -1201,7 +1202,10 @@
           "child_reply_count": 0,
           "child_reply_handles": []
         }
-      ]
+      ],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18102052871407852",
@@ -1211,16 +1215,16 @@
       "target_author": "adamburtonphotography",
       "target_post_url": "https://www.threads.com/@adamburtonphotography/post/DfKVXG2DZQZ",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18574175578072626",
@@ -1230,16 +1234,16 @@
       "target_author": "tristanjcbs",
       "target_post_url": "https://www.threads.com/@tristanjcbs/post/DfIYezViMPK",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     },
     {
       "reply_id": "18128218018846401",
@@ -1249,16 +1253,44 @@
       "target_author": "burak_res90",
       "target_post_url": "https://www.threads.com/@burak_res90/post/DfKjvbeDosT",
       "target_metadata_available": true,
-      "checked_at": "2026-11-03T00:35:51.656753+00:00",
-      "style": "question",
-      "source": "daily-batch",
-      "from_registry": true,
+      "checked_at": "2026-11-03T02:55:14.218518+00:00",
       "state": "no_answer",
       "like_count": 0,
       "like_delta": 0,
       "likes_is_new": false,
       "answer_count": 0,
-      "answers": []
+      "answers": [],
+      "style": "question",
+      "source": "daily-batch",
+      "from_registry": true
     }
-  ]
+  ],
+  "mode": "registry",
+  "registry_count": 44,
+  "audit": {
+    "registered_missing_from_discovery": [],
+    "discovered_not_registered": [
+      "17873717376642427",
+      "17875741794636270",
+      "17918991783258983",
+      "17940607986379458",
+      "17995079208058399",
+      "18001532979010085",
+      "18003307061796964",
+      "18037837544852284",
+      "18051170975820814",
+      "18058796663795992",
+      "18098045987660337",
+      "18098370080449771",
+      "18108669740215610",
+      "18110455430351087",
+      "18112908998180243",
+      "18121220932996194",
+      "18130647226833281",
+      "18151738612516345",
+      "18222628690352452",
+      "18349805641265780",
+      "18664985203037385"
+    ]
+  }
 }

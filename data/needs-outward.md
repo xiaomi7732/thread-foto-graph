@@ -1,26 +1,26 @@
 # Needs Outward
 
-Generated 2026-11-02T16:35:51.656753-08:00 for @saars.foto. 44 of 44 registered replies checked (last 14 days; limit 100).
+Generated 2026-11-02T18:55:14.218518-08:00 for @saars.foto. 44 of 44 registered replies checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors and styles come from the registry. New means first observed since the previous published snapshot, not unread._
 
 Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 21 discovery IDs not registered.
 
-## New Answers (4)
+## New Answers (2)
 
-- **@charhedman**: Thank you so much! I did a few flings, all of them a bit different , varying shutter speeds, movements, etc. But this was pretty much one clean fling , as you put it. ([answer](<https://www.threads.com/@charhedman/post/DfQjkgJGWAT>))
-  - Our comment: That long sideways fling turns the whole beach into paint - the warm streaks low and the cold blue-grey bands above still read as shore and sky, just melted. Was it one clean fling, or did it take a few tries before the streaks settled into those bands? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXsb9ltxv>)); answered after 1.7h.
+- **@joecow**: Sounds like a bot… that’s fine; better a bot doomscrolling than a person I say. Just stopped on the roadside when I saw it. I always stop for the photo op! ([answer](<https://www.threads.com/@joecow/post/DfQxX3hG-nf>))
+  - Our comment: Two years waiting for the figure, then a break in the rain under a bush on the roadside. Did you scout that spot first, or did the rain pause hand you the scene? ([our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>)); answered after 10.2h.
 
-- **@abnerabel125**: The photo was taken around noon. It was overcast and the sun peeked out just at time. I just got lucky. ([answer](<https://www.threads.com/@abnerabel125/post/DfQi70xD79e>))
-  - Our comment: You kept the camera low and let the leaf carpet run the whole show - gold all the way to the trunks, with the light raking across it in patches. Morning light doing that, or did you catch the sun slipping through the canopy at just the right hour? ([our reply](<https://www.threads.com/@saars.foto/post/DfQX2z-FhHn>)); answered after 1.6h.
+- **@brianatkinsphotography**: That one was shot on assingment for a brand so it was pretty much 100% brainstormed in my head like this before I got there. ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfQoFJomJun>))
+  - Our comment: Opening on the watch instead of the waterfall is a great call - the wooden case and green dial sit sharp in front while the falls go soft behind it, so the whole PNW trip reads as a moment, not a postcard. Did you frame the falls through the wrist on purpose, or did you look down mid-hike and realize the watch was the shot? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXq_TFoqF>)); answered after 2.4h.
 
-- **@d.obrien.photos**: Thanks. I am pretty sure that at this point she had not noticed me 😁 ([answer](<https://www.threads.com/@d.obrien.photos/post/DfQaVMCjW_T>))
-  - Our comment: Framing the fruit stall big in front and letting the Song Wat mural and the vendor peek out behind it is perfect street layering - the apples do the color, the wall does the story. Did she hold still for you, or did you catch her between customers while the stall did the talking? ([our reply](<https://www.threads.com/@saars.foto/post/DfQX1eMkftg>)); answered after 0.4h.
+## Needs Reply (22)
 
-- **@foutsphotos**: I got there as the fog lifted. I did a slow walk across the bridge taking shots and got this. I got lucky because as I walked the light softened ([answer](<https://www.threads.com/@foutsphotos/post/DfQYZdMAV5V>))
-  - Our comment: You let the grey sit heavy up top and still kept the whole waterfront glowing - that row of orange trees along the river does all the warming, and the skyline just stands in it. Did you catch it just as the fog lifted, or wait out the grey until the light went soft like this? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXuAMGSKS>)); answered after 0.1h.
+- **@joecow**: Sounds like a bot… that’s fine; better a bot doomscrolling than a person I say. Just stopped on the roadside when I saw it. I always stop for the photo op! ([answer](<https://www.threads.com/@joecow/post/DfQxX3hG-nf>))
+  - Our comment: Two years waiting for the figure, then a break in the rain under a bush on the roadside. Did you scout that spot first, or did the rain pause hand you the scene? ([our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>)); answered after 10.2h.
 
-## Needs Reply (20)
+- **@brianatkinsphotography**: That one was shot on assingment for a brand so it was pretty much 100% brainstormed in my head like this before I got there. ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfQoFJomJun>))
+  - Our comment: Opening on the watch instead of the waterfall is a great call - the wooden case and green dial sit sharp in front while the falls go soft behind it, so the whole PNW trip reads as a moment, not a postcard. Did you frame the falls through the wrist on purpose, or did you look down mid-hike and realize the watch was the shot? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXq_TFoqF>)); answered after 2.4h.
 
 - **@charhedman**: Thank you so much! I did a few flings, all of them a bit different , varying shutter speeds, movements, etc. But this was pretty much one clean fling , as you put it. ([answer](<https://www.threads.com/@charhedman/post/DfQjkgJGWAT>))
   - Our comment: That long sideways fling turns the whole beach into paint - the warm streaks low and the cold blue-grey bands above still read as shore and sky, just melted. Was it one clean fling, or did it take a few tries before the streaks settled into those bands? ([our reply](<https://www.threads.com/@saars.foto/post/DfQXsb9ltxv>)); answered after 1.7h.
@@ -92,13 +92,13 @@ _Nothing outstanding._
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfPq-CeFOa5>) (2026-11-02T15:52:02+0000): **no_answer**; likes: 0; answers: 0.
   - That title fits the mood perfectly. Were you waiting for the leopard to step out of the shade, or did it decide the timing and you just kept up?
   - Target: @talal92; style: question; source: briefing-targets.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>) (2026-11-02T15:52:12+0000): **no_answer**; likes: 0; answers: 0.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfPq_KwlPrs>) (2026-11-02T15:52:12+0000): **answered_by_author**; likes: 0; answers: 1.
   - Two years waiting for the figure, then a break in the rain under a bush on the roadside. Did you scout that spot first, or did the rain pause hand you the scene?
   - Target: @joecow; style: question; source: briefing-targets.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfPrA48lmMR>) (2026-11-02T15:52:27+0000): **answered_by_author**; likes: 1; answers: 1.
   - Using the phone as a sketchbook when the cameras stay home makes sense. Do the sketches change what you shoot next time the real camera comes out?
   - Target: @remondiazart; style: question; source: briefing-targets.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DfQXq_TFoqF>) (2026-11-02T22:22:40+0000): **no_answer**; likes: 0; answers: 0.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfQXq_TFoqF>) (2026-11-02T22:22:40+0000): **answered_by_author**; likes: 0; answers: 1.
   - Opening on the watch instead of the waterfall is a great call - the wooden case and green dial sit sharp in front while the falls go soft behind it, so the whole PNW trip reads as a moment, not a postcard. Did you frame the falls through the wrist on purpose, or did you look down mid-hike and realize the watch was the shot?
   - Target: @brianatkinsphotography; style: question; source: daily-batch.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfQXsb9ltxv>) (2026-11-02T22:22:52+0000): **answered_by_author**; likes: 1; answers: 1.
