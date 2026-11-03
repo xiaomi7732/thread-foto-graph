@@ -10,7 +10,7 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 290,
+      "reply_count": 302,
       "replies": [
         {
           "username": "5x120.65",
@@ -19,10 +19,42 @@
           "photos": [
             "Description: The image shows a close-up, angled view of a textured purple-gray building facade, characterized by vertical and horizontal paneled sections with narrow green vertical channels and protruding hexagonal light fixtures. The composition emphasizes geometric patterns and industrial architecture. Photograph read: The tight framing and oblique angle create a structured composition, illuminated by flat light that casts soft, cool tones across the textured surface. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those little green channels are doing all the work here - they turn a flat wall into a rhythm. Did you tilt the frame on purpose to make the panels lean like that, or was that just where you were standing?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfS0G4qia6O",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "5x120.65",
+                  "text": "it's also real high focal length lens ~400mm so it flattens the wall really well",
+                  "permalink": "https://www.threads.com/@5x120.65/post/DfS5U7zncRA",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "5x120.65",
+                  "text": "i mostly just wanted all of the drain channels parallel with the frame, they're level with the ground so the camera was pretty much exactly level, as for the green(and purple), that's from the camera lol, it's circuit bent, and even with all of the switches set to off it still doesn't perfectly align all of the color channels so you get some ghosting/ringing",
+                  "permalink": "https://www.threads.com/@5x120.65/post/DfS5KZPnVuB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "botanicaldriftstudios",
@@ -31,10 +63,34 @@
           "photos": [
             "Description: A macro view shows an intensely magnified, iridescent exoskeleton of an insect displaying a riot of purple, copper, and bright blue colors with scattered fine hairs. Photograph read: The extreme close-up highlights a rich tapestry of micro-textures and prismatic light refraction across a vibrant, multicolored biological surface. Photo type: Macro documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "This looks like jewelry more than a bug - all that copper and blue shimmer. What insect is this, and how close did you have to get for those hairs to show?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfS0IRHH8Yo",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "botanicaldriftstudios",
+                  "text": "Blue bottle eye I used macro on my older iPhone believe it or not ! I have a dragonfly too.",
+                  "permalink": "https://www.threads.com/@botanicaldriftstudios/post/DfS1BkVjFRI",
+                  "photos": [
+                    "Description: A close-up view of a dark, fine mesh material with a repeating hexagonal or interlocking pattern. The texture fills the frame diagonally, with soft shading across the surface. Photograph read: The tight diagonal composition creates an abstract pattern under diffuse light, conveying a sleek and industrial mood. Photo type: Artistic"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "carolformanphotography",
@@ -55,7 +111,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "carolformanphotography",
+                  "text": "Thanks. I usually shoot black and white 4x5 large format so that\u2019s kinda how I see. Sometimes color can be distracting to what catches my eye \ud83d\udc95\ud83d\udc9c\ud83d\udc99",
+                  "permalink": "https://www.threads.com/@carolformanphotography/post/DfS0iqJFqXD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -84,10 +151,32 @@
                   "text": "Rust Art from Philadelphia, I like taking photos of rusty things",
                   "permalink": "https://www.threads.com/@wj.fox/post/DfSupl5Ggyd",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Rust Art from Philadelphia is a fine beat to have - a whole city of textures hiding in the rust, and you have the eye for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfS0JqKGqHb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "wj.fox",
+                          "text": "Thanks",
+                          "permalink": "https://www.threads.com/@wj.fox/post/DfS00wHnKbg",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -118,10 +207,21 @@
                   "text": "This is the Creamery Covered Bridge in Brattleboro, VT. I was standing inside but I don't think it was straight up. I took this last fall so memory is a little hazy.",
                   "permalink": "https://www.threads.com/@janfred1903/post/DfSxJPAFD9m",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A covered bridge from the inside is a lovely catch, hazy memory and all. Last fall light through all that wood must have been worth the stop.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfS0LTiCe1_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -482,10 +582,20 @@
                   "text": "I wish I had thought to take a picture of the whole thing. It\u2019s an art installation in Golden Gate Park. About 5 feet high, roughly egg shaped except with flat planes for sides if that makes sense. The whole thing is perforated. There were openings on both sides so you can walk in.",
                   "permalink": "https://www.threads.com/@ssquiresc1290/post/DfStKmQEgS7",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A walk-in egg in Golden Gate Park, perforated all the way around - that sounds worth the peek inside alone. The low sun doing double duty through both walls is a gift.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfS0Mr-FHDf",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "ssquiresc1290",
                       "text": "I took a variety of pictures from the outside, and then I peeked inside and saw the orangey rust and the how bright green the grass looked through the holes. \ufffc The sun was low and was shining through the holes on one side, onto the wall inner wall, and then you\u2019re also seeing through the holes on that inner wall.",
@@ -835,10 +945,21 @@
                   "text": "Not really, but also yes in a time-lapse kind of way. I look whenever I visit. The light, shadows, and lack of plants (it's a nursery) combined in a way that I hadn't seen before.",
                   "permalink": "https://www.threads.com/@curt_wig/post/DfSvPF-mLE8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A time-lapse kind of yes is a perfect answer. Same pergola, different light every visit, and this time the nursery emptiness let the grid sing.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfS0OXGI600",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1443,7 +1564,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "tallerthanyou2026",
+                          "text": "You are most welcome",
+                          "permalink": "https://www.threads.com/@tallerthanyou2026/post/DfS05vlEv7J",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
