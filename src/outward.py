@@ -226,6 +226,77 @@ def _answer_record(answer: dict, username: str, target: str | None, seen: set[st
     }
 
 
+def load_registry(path: Path, account: str | None = None) -> list[dict]:
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        raise RunAborted("INVALID_REGISTRY") from None
+    if (
+        not isinstance(data, dict)
+        or type(data.get("schema_version")) is not int
+        or data["schema_version"] != 1
+        or not isinstance(data.get("account"), str)
+        or not data["account"].strip()
+        or not isinstance(data.get("entries"), list)
+    ):
+        raise RunAborted("INVALID_REGISTRY")
+    if account is not None and _handle(data["account"]) != _handle(account):
+        raise RunAborted("INVALID_REGISTRY")
+    seen = set()
+    for entry in data["entries"]:
+        if not isinstance(entry, dict):
+            raise RunAborted("INVALID_REGISTRY")
+        for field in ("reply_id", "target_author", "posted_on"):
+            if not isinstance(entry.get(field), str) or not entry[field].strip():
+                raise RunAborted("INVALID_REGISTRY")
+        if (
+            entry["reply_id"] in seen
+            or not entry["reply_id"].isascii()
+            or not entry["reply_id"].isdecimal()
+            or not _handle(entry["target_author"]).strip()
+            or not isinstance(entry.get("style"), str)
+            or entry["style"] not in {"question", "closer"}
+            or not isinstance(entry.get("status"), str)
+            or (entry.get("target_post_url") is not None and not isinstance(entry["target_post_url"], str))
+            or (entry.get("source") is not None and not isinstance(entry["source"], str))
+        ):
+            raise RunAborted("INVALID_REGISTRY")
+        try:
+            posted = dt.date.fromisoformat(entry["posted_on"])
+        except ValueError:
+            raise RunAborted("INVALID_REGISTRY") from None
+        if posted.isoformat() != entry["posted_on"]:
+            raise RunAborted("INVALID_REGISTRY")
+        seen.add(entry["reply_id"])
+    return data["entries"]
+
+
+def _registry_candidates(entries: list[dict], cutoff: dt.datetime) -> list[dict]:
+    candidates = []
+    for entry in entries:
+        if entry.get("status") != "posted":
+            continue
+        posted = dt.datetime.combine(
+            dt.date.fromisoformat(entry["posted_on"]),
+            dt.time(12),
+            tzinfo=dt.timezone.utc,
+        )
+        if posted < cutoff:
+            continue
+        candidates.append({
+            "id": entry["reply_id"],
+            "timestamp": posted.isoformat(),
+            "permalink": None,
+            "text": "",
+            "root_post": {
+                "username": entry["target_author"],
+                "permalink": entry.get("target_post_url"),
+            },
+            "_registry": entry,
+        })
+    return sorted(candidates, key=lambda reply: reply["timestamp"], reverse=True)
+
+
 def collect(
     client: Client,
     username: str,
@@ -233,12 +304,23 @@ def collect(
     now: dt.datetime,
     lookback_days: int,
     max_replies: int,
+    registry: list[dict] | None = None,
 ) -> dict:
     identity = client.get("me", {"fields": "id,username"})
     if _handle(identity.get("username", "")) != _handle(username):
         raise RunAborted("ACCOUNT_MISMATCH")
     discovered = client.discover(username, now - dt.timedelta(days=lookback_days), now)
-    selected = discovered[:max_replies]
+    audit = {}
+    candidates = discovered
+    if registry is not None:
+        candidates = _registry_candidates(registry, now - dt.timedelta(days=lookback_days))
+        registered_ids = {reply["id"] for reply in candidates}
+        discovered_ids = {reply["id"] for reply in discovered}
+        audit = {
+            "registered_missing_from_discovery": sorted(registered_ids - discovered_ids),
+            "discovered_not_registered": sorted(discovered_ids - registered_ids),
+        }
+    selected = candidates[:max_replies]
     old = {item["reply_id"]: item for item in previous.get("replies", [])}
     seen = set(previous.get("seen_answer_ids", []))
     for item in old.values():
@@ -247,6 +329,7 @@ def collect(
     results = []
     for index, reply in enumerate(selected, 1):
         reply_id = reply["id"]
+        entry = reply.get("_registry") or {}
         root = reply.get("root_post") or {}
         target = root.get("username")
         prior = old.get(reply_id, {})
@@ -275,11 +358,21 @@ def collect(
             "answer_count": None,
             "answers": [],
         }
+        if entry:
+            result.update(
+                style=entry.get("style"), source=entry.get("source"), from_registry=True,
+            )
         if root.get("lookup_error"):
             result["target_metadata_error"] = root["lookup_error"]
         try:
             node, answers = client.answers(reply_id)
             result["text"] = node.get("text") or result["text"]
+            if entry:
+                node_root = node.get("root_post") or {}
+                if not result["target_post_url"]:
+                    result["target_post_url"] = node_root.get("permalink")
+                result["reply_permalink"] = node.get("permalink") or result["reply_permalink"]
+                result["posted_at"] = node.get("timestamp") or result["posted_at"]
             result["answers"] = [_answer_record(a, username, target, seen) for a in answers]
             external = [a for a in result["answers"] if _handle(a["author"]) != _handle(username)]
             result["answer_count"] = len(external)
@@ -325,7 +418,7 @@ def collect(
         print(f"[{index}/{len(selected)}] {reply_id}: {result['state']}", flush=True)
     if results and all(item["state"] == "unreachable" for item in results):
         raise RunAborted("ALL_ITEMS_UNREACHABLE")
-    return {
+    snapshot = {
         "schema_version": 1,
         "generated_at": now.isoformat(),
         "run_id": os.environ.get("GITHUB_RUN_ID") or uuid.uuid4().hex,
@@ -337,10 +430,13 @@ def collect(
         "lookback_days": lookback_days,
         "max_replies": max_replies,
         "discovered_count": len(discovered),
-        "capped": len(discovered) > max_replies,
+        "capped": len(candidates) > max_replies,
         "seen_answer_ids": sorted(observed),
         "replies": results,
     }
+    if registry is not None:
+        snapshot.update(mode="registry", registry_count=len(candidates), audit=audit)
+    return snapshot
 
 
 def _text(value: str) -> str:
@@ -362,21 +458,41 @@ def render(snapshot: dict) -> str:
     entries = [(reply, answer) for reply in replies for answer in reply["answers"]]
     entries.sort(key=lambda pair: threads_client.parse_timestamp(pair[1]["timestamp"]), reverse=True)
     generated = threads_client.parse_timestamp(snapshot["generated_at"]).astimezone(ZoneInfo("America/Los_Angeles"))
+    registry_mode = snapshot.get("mode") == "registry"
+    population = snapshot["registry_count"] if registry_mode else snapshot["discovered_count"]
+    population_label = "registered replies" if registry_mode else "outward candidates"
+    attribution = (
+        "Target authors and styles come from the registry. "
+        if registry_mode else
+        "Target authors are unknown when the API omits parent metadata; "
+        "unknown attribution is never treated as an author answer. "
+    )
     lines = [
         "# Needs Outward",
         "",
         f"Generated {generated.isoformat()} for @{_text(snapshot['account'])}. "
-        f"{len(replies)} of {snapshot['discovered_count']} outward candidates checked "
+        f"{len(replies)} of {population} {population_label} checked "
         f"(last {snapshot['lookback_days']} days; limit {snapshot['max_replies']}).",
         "",
         "_API-only pilot. Full answer text; no photo descriptions or Threads writes. "
-        "Target authors are unknown when the API omits parent metadata; "
-        "unknown attribution is never treated as an author answer. "
+        + attribution +
         "New means first observed since the previous published snapshot, not unread._",
         "",
     ]
+    if registry_mode:
+        audit = snapshot["audit"]
+        lines.extend([
+            "Registry mode: the registry defines the tracked set; discovery is audit-only. "
+            f"{len(audit['registered_missing_from_discovery'])} registered IDs absent from discovery; "
+            f"{len(audit['discovered_not_registered'])} discovery IDs not registered.",
+            "",
+        ])
     if snapshot["capped"]:
-        lines.extend(["**Scope capped: older outward candidates were not checked.**", ""])
+        warning = (
+            "**Scope capped: older registered replies were not checked.**"
+            if registry_mode else "**Scope capped: older outward candidates were not checked.**"
+        )
+        lines.extend([warning, ""])
     for title, matches in (
         ("New Answers", [(r, a) for r, a in entries if a["is_new"]]),
         ("Needs Reply", [(r, a) for r, a in entries if a["action"] == "reply"]),
@@ -415,6 +531,11 @@ def render(snapshot: dict) -> str:
             f"**{reply['state']}**; likes: {likes}; answers: {count}."
         )
         lines.append(f"  - {_text(reply['text']) or '(media-only comment)'}")
+        if reply.get("from_registry"):
+            lines.append(
+                f"  - Target: @{_text(reply['target_author'])}; style: {_text(reply['style'])}; "
+                f"source: {_text(reply['source'] or 'unknown')}."
+            )
         if reply.get("error") or reply.get("like_error"):
             lines.append(f"  - **Unavailable:** {reply.get('error') or reply.get('like_error')}.")
         if reply.get("target_metadata_error"):
@@ -468,10 +589,12 @@ def main(argv: list[str] | None = None) -> int:
             raise RunAborted("INVALID_BASELINE")
         if previous.get("account") and _handle(previous["account"]) != _handle(username):
             raise RunAborted("BASELINE_ACCOUNT_MISMATCH")
+        registry_path = args.output_dir / "outward-registry.json"
+        registry = load_registry(registry_path, username) if registry_path.exists() else None
         client = Client(threads_auth.get_valid_access_token())
         snapshot = collect(
             client, username, previous, dt.datetime.now(dt.timezone.utc),
-            args.lookback_days, args.max_replies,
+            args.lookback_days, args.max_replies, registry=registry,
         )
         write_outputs(snapshot, args.output_dir)
         summary = (

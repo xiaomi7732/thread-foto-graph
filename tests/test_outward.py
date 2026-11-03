@@ -36,6 +36,85 @@ def answer(media_id="answer", **extra):
     }
 
 
+def registry_entry(media_id="our-comment", **extra):
+    return {
+        "reply_id": media_id,
+        "target_author": "photographer",
+        "target_post_url": None,
+        "target_post_id": None,
+        "style": "question",
+        "posted_on": "2026-11-01",
+        "source": "daily-batch",
+        "status": "posted",
+        **extra,
+    }
+
+
+class RegistryTests(unittest.TestCase):
+    def test_load_registry_validates_and_preserves_metadata(self):
+        entry = registry_entry("123", style="closer")
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "registry.json"
+            path.write_text(json.dumps({
+                "schema_version": 1, "account": "owner", "entries": [entry],
+            }), encoding="utf-8")
+            self.assertEqual(outward.load_registry(path, "@OWNER"), [entry])
+            with self.assertRaisesRegex(outward.RunAborted, "INVALID_REGISTRY"):
+                outward.load_registry(path, "someone_else")
+
+    def test_invalid_registry_never_silently_falls_back(self):
+        entry = registry_entry("123")
+        invalid_entries = [
+            None,
+            {},
+            {**entry, "reply_id": None},
+            {**entry, "reply_id": 123},
+            {**entry, "reply_id": "123/insights"},
+            {**entry, "target_author": []},
+            {**entry, "target_author": "@"},
+            {**entry, "posted_on": "2026-02-31"},
+            {**entry, "posted_on": "20261101"},
+            {**entry, "posted_on": None},
+            {**entry, "style": []},
+            {**entry, "style": "unknown"},
+            {**entry, "status": None},
+            {**entry, "target_post_url": {}},
+        ]
+        documents = [
+            None, [], {}, {"entries": []},
+            {"schema_version": 2, "account": "owner", "entries": []},
+            {"schema_version": 1, "account": None, "entries": []},
+            {"schema_version": 1, "account": "owner", "entries": {}},
+            {"schema_version": 1, "account": "owner", "entries": [entry, entry]},
+        ] + [
+            {"schema_version": 1, "account": "owner", "entries": [bad]}
+            for bad in invalid_entries
+        ]
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "registry.json"
+            for document in documents:
+                with self.subTest(document=document):
+                    path.write_text(json.dumps(document), encoding="utf-8")
+                    with self.assertRaisesRegex(outward.RunAborted, "INVALID_REGISTRY"):
+                        outward.load_registry(path)
+            path.write_text("{", encoding="utf-8")
+            with self.assertRaisesRegex(outward.RunAborted, "INVALID_REGISTRY"):
+                outward.load_registry(path)
+
+    def test_registry_window_uses_noon_utc_and_only_posted_entries(self):
+        cutoff = dt.datetime(2026, 11, 1, 12, tzinfo=dt.timezone.utc)
+        candidates = outward._registry_candidates([
+            registry_entry("old", posted_on="2026-10-31"),
+            registry_entry("boundary"),
+            registry_entry("newer", posted_on="2026-11-02"),
+            registry_entry("failed", status="failed"),
+        ], cutoff)
+        self.assertEqual([row["id"] for row in candidates], ["newer", "boundary"])
+        self.assertEqual(candidates[1]["timestamp"], cutoff.isoformat())
+        self.assertIsNone(candidates[1]["permalink"])
+        self.assertEqual(candidates[1]["root_post"]["username"], "photographer")
+
+
 class ClientTests(unittest.TestCase):
     def setUp(self):
         self.client = outward.Client("test-token")
@@ -197,6 +276,103 @@ class OutwardTestCase(unittest.TestCase):
 
 
 class CollectionTests(OutwardTestCase):
+    def test_registry_mode_tracks_registry_and_uses_discovery_only_for_audit(self):
+        client = self.client([answer()], candidates=[comment("stray")])
+        client.answers.return_value = (comment(root_post={
+            "username": "not-the-target",
+            "permalink": "https://www.threads.com/@photographer/post/root",
+        }), [answer()])
+        snapshot = outward.collect(
+            client, "owner", {}, NOW, 14, 40, registry=[registry_entry()],
+        )
+        self.assertEqual(snapshot["mode"], "registry")
+        self.assertEqual(snapshot["registry_count"], 1)
+        self.assertEqual([r["reply_id"] for r in snapshot["replies"]], ["our-comment"])
+        client.answers.assert_called_once_with("our-comment")
+        item = snapshot["replies"][0]
+        self.assertTrue(item["from_registry"])
+        self.assertEqual(item["style"], "question")
+        self.assertEqual(item["source"], "daily-batch")
+        self.assertEqual(item["target_author"], "photographer")
+        self.assertEqual(item["state"], "answered_by_author")
+        self.assertEqual(item["posted_at"], comment()["timestamp"])
+        self.assertEqual(item["reply_permalink"], comment()["permalink"])
+        self.assertEqual(item["target_post_url"], "https://www.threads.com/@photographer/post/root")
+        self.assertEqual(snapshot["audit"], {
+            "discovered_not_registered": ["stray"],
+            "registered_missing_from_discovery": ["our-comment"],
+        })
+        markdown = outward.render(snapshot)
+        self.assertIn("1 of 1 registered replies checked", markdown)
+        self.assertIn("discovery is audit-only", markdown)
+        self.assertIn("Target: @photographer; style: question", markdown)
+
+    def test_registry_metadata_wins_over_node_metadata(self):
+        client = self.client([answer()])
+        client.answers.return_value = (comment(root_post={
+            "username": "wrong", "permalink": "https://www.threads.com/@wrong/post/wrong",
+        }), [answer()])
+        entry = registry_entry(
+            style="closer", target_post_url="https://www.threads.com/@photographer/post/canonical",
+        )
+        first = outward.collect(client, "owner", {}, NOW, 14, 40, registry=[entry])
+        item = first["replies"][0]
+        self.assertEqual(item["target_post_url"], entry["target_post_url"])
+        self.assertEqual(item["style"], "closer")
+        self.assertTrue(item["answers"][0]["is_target_author"])
+        second = outward.collect(client, "owner", first, NOW, 14, 40, registry=[entry])
+        self.assertFalse(second["replies"][0]["answers"][0]["is_new"])
+
+    def test_registry_cap_and_audit_use_whole_registered_window(self):
+        client = self.client(candidates=[comment("one")])
+        snapshot = outward.collect(
+            client, "owner", {}, NOW, 14, 2,
+            registry=[registry_entry("one"), registry_entry("two"), registry_entry("three")],
+        )
+        self.assertTrue(snapshot["capped"])
+        self.assertEqual(snapshot["registry_count"], 3)
+        self.assertEqual(len(snapshot["replies"]), 2)
+        self.assertEqual(snapshot["audit"]["registered_missing_from_discovery"], ["three", "two"])
+        client = self.client(candidates=[comment("one"), comment("two"), comment("three")])
+        snapshot = outward.collect(client, "owner", {}, NOW, 14, 2, registry=[registry_entry("one")])
+        self.assertFalse(snapshot["capped"])
+        self.assertEqual(snapshot["registry_count"], 1)
+
+    def test_absent_registry_preserves_discovery_output_shape(self):
+        snapshot = self.collect(self.client([answer()]))
+        self.assertEqual(set(snapshot), {
+            "schema_version", "generated_at", "run_id", "account", "status",
+            "lookback_days", "max_replies", "discovered_count", "capped",
+            "seen_answer_ids", "replies",
+        })
+        self.assertFalse({"style", "source", "from_registry"} & snapshot["replies"][0].keys())
+
+    def test_empty_registry_is_authoritative_not_discovery_fallback(self):
+        client = self.client(candidates=[comment()])
+        snapshot = outward.collect(client, "owner", {}, NOW, 14, 40, registry=[])
+        self.assertEqual(snapshot["mode"], "registry")
+        self.assertEqual(snapshot["registry_count"], 0)
+        self.assertEqual(snapshot["replies"], [])
+        self.assertFalse(snapshot["capped"])
+        client.answers.assert_not_called()
+
+    def test_registry_failed_read_stays_unreachable_with_author_metadata(self):
+        client = self.client()
+        client.answers.side_effect = [
+            outward.ObservationError("API_ERROR_HTTP_400_CODE_100"),
+            (comment("healthy"), []),
+        ]
+        snapshot = outward.collect(
+            client, "owner", {}, NOW, 14, 40,
+            registry=[registry_entry(), registry_entry("healthy")],
+        )
+        failed = snapshot["replies"][0]
+        self.assertEqual(snapshot["status"], "partial")
+        self.assertEqual(failed["state"], "unreachable")
+        self.assertIsNone(failed["answer_count"])
+        self.assertEqual(failed["target_author"], "photographer")
+        self.assertTrue(failed["from_registry"])
+
     def test_new_answers_repeat_quietly_and_like_deltas_are_observed(self):
         client = self.client([answer()])
         first = self.collect(client)
@@ -301,6 +477,36 @@ class CollectionTests(OutwardTestCase):
 
 
 class OutputTests(OutwardTestCase):
+    def test_main_loads_registry_next_to_outputs(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory)
+            (path / "outward-registry.json").write_text(json.dumps({
+                "schema_version": 1, "account": "owner", "entries": [registry_entry("123")],
+            }), encoding="utf-8")
+            client = self.client(candidates=[comment("stray")])
+            client.answers.return_value = (comment("123"), [])
+            with patch.object(outward.config, "THREADS_USERNAME", "owner"), patch.object(
+                outward.threads_auth, "get_valid_access_token", return_value="token"
+            ), patch.object(outward, "Client", return_value=client):
+                self.assertEqual(outward.main(["--output-dir", str(path)]), 0)
+            snapshot = json.loads((path / "needs-outward.json").read_text(encoding="utf-8"))
+            self.assertEqual(snapshot["mode"], "registry")
+            self.assertEqual([r["reply_id"] for r in snapshot["replies"]], ["123"])
+
+    def test_invalid_registry_preserves_feed_before_any_api_calls(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory)
+            previous = self.collect(self.client([answer()]))
+            outward.write_outputs(previous, path)
+            (path / "outward-registry.json").write_text("{", encoding="utf-8")
+            before = {p: p.read_bytes() for p in path.rglob("*") if p.is_file()}
+            with patch.object(outward.config, "THREADS_USERNAME", "owner"), patch.object(
+                outward, "Client"
+            ) as client:
+                self.assertEqual(outward.main(["--output-dir", str(path)]), 1)
+            client.assert_not_called()
+            self.assertEqual({p: p.read_bytes() for p in path.rglob("*") if p.is_file()}, before)
+
     def test_markdown_context_action_sections_and_timestamped_history(self):
         snapshot = self.collect(self.client([answer(text="<script>Not trusted</script> [link](bad)")]))
         with tempfile.TemporaryDirectory() as directory:
