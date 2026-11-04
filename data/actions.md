@@ -6,21 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (24)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/DfTA0EAk10w))
-  - Photo: Description: A dense arrangement of fuzzy red and white candy-themed ornaments fills the frame, creating a festive holiday pattern. Price tags are still attached to several of the stems, suggesting they are on display in a store. Photograph read: The overhead shot creates a flat, repeating pattern of swirling shapes, lit softly from above to cast gentle shadows that emphasize the plush texture of the ornaments. Photo type: Snapshot
-- **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DfS_n4vDzLV))
-  - Photo: Description: A high-angle vertical shot shows weathered grey paving stones laid in a herringbone pattern with vibrant green moss filling all the gaps. The texture of the rough stone contrasts with the plush, neon-like moss lines. Photograph read: The shot captures even daylight from an overhead angle, highlighting the sharp geometric contrast between grey stone and vibrant green lines. Photo type: Snapshot
-- **prefers_rain**:  ([link](https://www.threads.com/@prefers_rain/post/DfS_VVxlnST))
-  - Photo: Description: This photo captures the upper sections of two gridded, modern high-rise buildings against a dramatic, dark gray sky. The buildings feature a repeating pattern of rectangular windows and light-colored facades. Photograph read: The tight framing emphasizes the geometric grid of the architecture, with the stark contrast between the warm-toned buildings and the cool, overcast sky creating a moody urban feel. Photo type: Architectural
-- **edithbruurs**:  ([link](https://www.threads.com/@edithbruurs/post/DfS-fkwDKSu))
-  - Photo: Description: Looking straight up, this vertical shot captures a modern architectural atrium featuring a repeating pattern of arched, slatted skylights overhead. Warm circular lights line a dark wall on the left, contrasting with a vertical glass and steel structure reflecting the ceiling on the right. Photograph read: The symmetrical, low-angle perspective creates strong vertical leading lines, while the high-contrast lighting between the bright skylights and dark interior framing produces a sleek, urban mood. Photo type: Architectural
+- **casanovesmariana**:  ([link](https://www.threads.com/@casanovesmariana/post/DfTDTaZCVh8))
+  - Photo: Description: A black plastic seedling tray holds numerous small green sprouts planted in individual cylindrical pots. The tray is positioned inside a dark, rustic enclosure, possibly a fireplace or hearth, with exposed brick or stone walls visible in the background. Photograph read: The vertical framing highlights the length of the deep seedling pots, illuminated by natural light filtering into the dark hearth to create an earthy, functional mood. Photo type: Documentary
+- **lerwin54**:  ([link](https://www.threads.com/@lerwin54/post/DfTB1f_FtCy))
+  - Photo: Description: A dark lampshade featuring an intricate pattern of cutout shapes sits on a wooden surface, casting a warm, glowing light against a wall. The lamp creates a cozy, ambient atmosphere suitable for a relaxing evening at home. Photograph read: The centered composition emphasizes the brightly lit shade against a simple wall, creating a warm, cozy mood with soft, glowing illumination. Photo type: Snapshot
 - **chickievegas**: Hurlburt GCA. ([link](https://www.threads.com/@chickievegas/post/DfS76vHgV7b))
   - Photo: Description: A mobile radar unit painted in a red-and-white checkered pattern sits on a grassy airfield under a clear blue sky. Various antennas, a horizontal rotating scanner, and connected trailers complete the military communications setup. Photograph read: The subject is captured in a centered, side-on composition under bright daylight that casts crisp shadows, conveying a functional, documentary mood. Photo type: Documentary
-- **knifebox**:  ([link](https://www.threads.com/@knifebox/post/DfS7hg8E_7X))
-  - Photo: Description: This low-angle, black-and-white image captures the ornate corner roof structure of a traditional East Asian building, showcasing its intricate bracket system and tiled eaves against a plain sky. The centered composition emphasizes the symmetrical geometric patterns and detailed craftsmanship of the wooden architecture. Photograph read: The symmetrical, centered composition and sharp focus highlight the intricate details and textures of the wooden architecture, while the black-and-white treatment emphasizes high-contrast patterns and form. Photo type: Architectural
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
   - _Replying to: Those little green channels are doing all the work here - t…_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/DfSl_JFEkII))
@@ -48,8 +42,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A low-angle shot captures a lavish interior featuring a coffered wooden ceiling adorned with numerous colorful family crests and small built-in lights. A large, ornate crystal chandelier dominates the foreground against a deep red wall with draped windows and portraits below. Photograph read: The dramatic low-angle composition emphasizes the height of the ornate ceiling and the intricate detail of the foreground chandelier, illuminated by a mix of warm artificial lights and soft daylight from the windows. Photo type: Architectural capture
   - Photo: Description: This low-angle shot captures a rich wooden ceiling organized into a grid of panels, each showcasing a unique, colorful coat of arms with a family or place name banner. Small lights punctuate the intersections of the ornate wooden framing, casting a warm glow upward across the symmetrical display. Photograph read: The symmetrical, head-on composition emphasizes the orderly grid of the historic architecture, while warm interior lights create a soft, reverent mood. Photo type: Architectural photography
   - _Replying to: Just the ones you like is a fine rule - it clearly led you …_
-- **corwyn671**: Here in San Diego it's a back of the couch long table. I was like this is cool. I don't do it justice with my photo. At all. ([link](https://www.threads.com/@corwyn671/post/DfS_DJxD6iL))
-  - _Replying to: Are those coasters, or tiny suns someone left on the table?…_
+- **corwyn671**: I should have shot the whole table. ([link](https://www.threads.com/@corwyn671/post/DfTCZAkmVNz))
+  - _Replying to: A back-of-the-couch long table in San Diego sounds like exa…_
 - **citizenb**: Welcome, that’s a gorgeous photo. ([link](https://www.threads.com/@citizenb/post/DfSc8T4oDom))
   - _Replying to: Thank you 😊_
 - **hannele.heikkinen**: It was a unique sight, I had perfect timing. ([link](https://www.threads.com/@hannele.heikkinen/post/DfST72uDhVE))
@@ -69,12 +63,13 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (19)
+## Needs Like (20)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
 - botanicaldriftstudios: Thank you so much ! ([link](https://www.threads.com/@botanicaldriftstudios/post/DfTAg1fCGtR))
 - wj.fox: Thanks ([link](https://www.threads.com/@wj.fox/post/DfS00wHnKbg))
 - debdipmaitra: Thank you so much 😊 ([link](https://www.threads.com/@debdipmaitra/post/DfSntd5kpT1))
+- gerrycud: Thanks! ([link](https://www.threads.com/@gerrycud/post/DfTB1atj0Oq))
 - natazlody: ☺️ ([link](https://www.threads.com/@natazlody/post/DfSnplPDGt-))
 - a_lone_crow_: Thank you 😊 ([link](https://www.threads.com/@a_lone_crow_/post/DfSfcHWiP6h))
 - retrograde_60: The succulents ([link](https://www.threads.com/@retrograde_60/post/DfSeV-gGTOt))
