@@ -10,8 +10,32 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 323,
+      "reply_count": 338,
       "replies": [
+        {
+          "username": "leearthur1109",
+          "text": "",
+          "permalink": "https://www.threads.com/@leearthur1109/post/DfTJkvgD9j4",
+          "photos": [
+            "Description: This centered photograph shows a square window featuring a repeating geometric pattern of white chevrons against a warm yellow and translucent background, set within a dark wall. The strong grid and sharp angles create a striking graphic contrast. Photograph read: The symmetrical, head-on composition emphasizes the repeating architectural pattern, lit evenly from behind to make the geometric shapes stand out sharply against the darker surroundings. Photo type: Architectural detail"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jbrucewilcox",
+          "text": "",
+          "permalink": "https://www.threads.com/@jbrucewilcox/post/DfTI5Nqlvo7",
+          "photos": [
+            "Description: Bright green light shines through a grid or fence, casting a geometric pattern onto a concrete sidewalk. The high-contrast illumination creates a vivid, graphic interplay of light and shadow on the ground. Photograph read: The high-angle composition emphasizes the repeating rectangular shapes, while the intense green hue and harsh shadows create a striking, abstract visual mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "casanovesmariana",
           "text": "",
@@ -19,10 +43,32 @@
           "photos": [
             "Description: A black plastic seedling tray holds numerous small green sprouts planted in individual cylindrical pots. The tray is positioned inside a dark, rustic enclosure, possibly a fireplace or hearth, with exposed brick or stone walls visible in the background. Photograph read: The vertical framing highlights the length of the deep seedling pots, illuminated by natural light filtering into the dark hearth to create an earthy, functional mood. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "What is growing in those deep pots? The vertical framing shows off the whole row, roots and all, and the dark hearth behind makes the green pop.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTIk_8mdPg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "casanovesmariana",
+                  "text": "Well, I\u2019m not sure \ud83e\udd13. My son-in-law is the gardener, and I was the one in charge of watering them over the weekend when they were away.",
+                  "permalink": "https://www.threads.com/@casanovesmariana/post/DfTJ7jiFThj",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lerwin54",
@@ -31,10 +77,21 @@
           "photos": [
             "Description: A dark lampshade featuring an intricate pattern of cutout shapes sits on a wooden surface, casting a warm, glowing light against a wall. The lamp creates a cozy, ambient atmosphere suitable for a relaxing evening at home. Photograph read: The centered composition emphasizes the brightly lit shade against a simple wall, creating a warm, cozy mood with soft, glowing illumination. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That shade turns one lamp into a whole glowing forest. I think the centered framing is a good call - nothing distracts from the cutouts. What lights it from inside?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTImvVGTdY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -55,7 +112,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "posts.by.norman",
+                  "text": "Christmas tree decor at a nearby department store. Christmas is already in full swing here in the Philippines. It's the red-and-white stripes that got my attention. \u2593",
+                  "permalink": "https://www.threads.com/@posts.by.norman/post/DfTIXR3Hztc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -101,7 +169,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "prefers_rain",
+                  "text": "I hadn\u2019t thought about counting, I just saw two buildings that looked pleasing to the eye and carried on with a mind full of ideas for them.",
+                  "permalink": "https://www.threads.com/@prefers_rain/post/DfTN-Pell1b",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -135,10 +214,32 @@
           "photos": [
             "Description: A mobile radar unit painted in a red-and-white checkered pattern sits on a grassy airfield under a clear blue sky. Various antennas, a horizontal rotating scanner, and connected trailers complete the military communications setup. Photograph read: The subject is captured in a centered, side-on composition under bright daylight that casts crisp shadows, conveying a functional, documentary mood. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A radar unit in full checkerboard is not an everyday sight, and the side-on framing shows off every antenna and trailer. Hurlburt GCA - is that unit still in service, or a retired piece posing on the grass?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTIn_Cjxng",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "chickievegas",
+                  "text": "Long retired.",
+                  "permalink": "https://www.threads.com/@chickievegas/post/DfTOwKQCca-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "knifebox",
@@ -313,7 +414,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "carolformanphotography",
+                          "text": "So you get it \ud83d\ude4f\ud83c\udffb\ud83d\udc99\ud83d\udc9c\u2764\ufe0f",
+                          "permalink": "https://www.threads.com/@carolformanphotography/post/DfTKuknls_Y",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -825,10 +937,21 @@
           "photos": [
             "Description: Towering, weathered rock pillars rise dramatically from a churning sea, with powerful waves crashing and sending spray high into"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those rock pillars make their own rhythm against the sea - was the pattern what caught your eye, or the spray between them?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTN8pnDaXg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "remalysh",
@@ -1190,7 +1313,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "aaronschwartz1",
+                  "text": "The light was like that as I passed by",
+                  "permalink": "https://www.threads.com/@aaronschwartz1/post/DfTMINNjhOj",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1483,7 +1617,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dazystarz",
+                  "text": "Nope\u2026 No one said a thing",
+                  "permalink": "https://www.threads.com/@dazystarz/post/DfTKzcLjMAH",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1645,10 +1790,21 @@
                       "text": "The ordinary things are the interesting ones \ud83e\udd0d Most people walk past them \u2014 noticing is a skill, and it makes the world so much richer. Keep looking down.",
                       "permalink": "https://www.threads.com/@calm_and_co.journal/post/DfSaUK5D3hS",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "The ordinary things are the interesting ones, you are right - noticing them is the skill. What ordinary thing stopped you most recently?",
+                          "permalink": "https://www.threads.com/@saars.foto/post/DfTN_dkFD8J",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -2853,10 +3009,20 @@
                       "text": "Welcome, that\u2019s a gorgeous photo.",
                       "permalink": "https://www.threads.com/@citizenb/post/DfSc8T4oDom",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
                       "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "Welcome indeed - that photo is a beauty. What caught your eye first in it?",
+                          "permalink": "https://www.threads.com/@saars.foto/post/DfTN-HejCjF",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": []
+                        },
                         {
                           "username": "2killamockingbird",
                           "text": "\ud83d\ude0a",

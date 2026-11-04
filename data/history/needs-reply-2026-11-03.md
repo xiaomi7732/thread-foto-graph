@@ -4,17 +4,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (23)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **casanovesmariana**:  ([link](https://www.threads.com/@casanovesmariana/post/DfTDTaZCVh8))
-  - Photo: Description: A black plastic seedling tray holds numerous small green sprouts planted in individual cylindrical pots. The tray is positioned inside a dark, rustic enclosure, possibly a fireplace or hearth, with exposed brick or stone walls visible in the background. Photograph read: The vertical framing highlights the length of the deep seedling pots, illuminated by natural light filtering into the dark hearth to create an earthy, functional mood. Photo type: Documentary
-- **lerwin54**:  ([link](https://www.threads.com/@lerwin54/post/DfTB1f_FtCy))
-  - Photo: Description: A dark lampshade featuring an intricate pattern of cutout shapes sits on a wooden surface, casting a warm, glowing light against a wall. The lamp creates a cozy, ambient atmosphere suitable for a relaxing evening at home. Photograph read: The centered composition emphasizes the brightly lit shade against a simple wall, creating a warm, cozy mood with soft, glowing illumination. Photo type: Snapshot
-- **chickievegas**: Hurlburt GCA. ([link](https://www.threads.com/@chickievegas/post/DfS76vHgV7b))
-  - Photo: Description: A mobile radar unit painted in a red-and-white checkered pattern sits on a grassy airfield under a clear blue sky. Various antennas, a horizontal rotating scanner, and connected trailers complete the military communications setup. Photograph read: The subject is captured in a centered, side-on composition under bright daylight that casts crisp shadows, conveying a functional, documentary mood. Photo type: Documentary
+- **leearthur1109**:  ([link](https://www.threads.com/@leearthur1109/post/DfTJkvgD9j4))
+  - Photo: Description: This centered photograph shows a square window featuring a repeating geometric pattern of white chevrons against a warm yellow and translucent background, set within a dark wall. The strong grid and sharp angles create a striking graphic contrast. Photograph read: The symmetrical, head-on composition emphasizes the repeating architectural pattern, lit evenly from behind to make the geometric shapes stand out sharply against the darker surroundings. Photo type: Architectural detail
+- **jbrucewilcox**:  ([link](https://www.threads.com/@jbrucewilcox/post/DfTI5Nqlvo7))
+  - Photo: Description: Bright green light shines through a grid or fence, casting a geometric pattern onto a concrete sidewalk. The high-contrast illumination creates a vivid, graphic interplay of light and shadow on the ground. Photograph read: The high-angle composition emphasizes the repeating rectangular shapes, while the intense green hue and harsh shadows create a striking, abstract visual mood. Photo type: Artistic
+- **casanovesmariana**: Well, I’m not sure 🤓. My son-in-law is the gardener, and I was the one in charge of watering them over the weekend when they were away. ([link](https://www.threads.com/@casanovesmariana/post/DfTJ7jiFThj))
+  - _Replying to: What is growing in those deep pots? The vertical framing sh…_
+- **posts.by.norman**: Christmas tree decor at a nearby department store. Christmas is already in full swing here in the Philippines. It's the red-and-white stripes that got my attention. ▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTIXR3Hztc))
+  - _Replying to: The price tags still on the stems give it away - this is a …_
+- **prefers_rain**: I hadn’t thought about counting, I just saw two buildings that looked pleasing to the eye and carried on with a mind full of ideas for them. ([link](https://www.threads.com/@prefers_rain/post/DfTN-Pell1b))
+  - _Replying to: How many windows did you count before giving up? The tight …_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
   - _Replying to: Those little green channels are doing all the work here - t…_
+- **carolformanphotography**: So you get it 🙏🏻💙💜❤️ ([link](https://www.threads.com/@carolformanphotography/post/DfTKuknls_Y))
+  - _Replying to: That 4x5 way of seeing comes through here - stripes and sha…_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/DfSl_JFEkII))
   - Photo: Description: A vibrant green, densely textured evergreen bush rises prominently in the center of the frame against a soft, overcast sky and a blurred background of distant trees. The bright green foliage displays intricate detail, making it an appealing nature subject for outdoor or botanical social media posts. Photograph read: Captured in even, diffused daylight under an overcast sky, this straightforward, centered composition emphasizes the rich textures and vertical form of the bush against a softly blurred background. Photo type: Snapshot
   - _Replying to: Those streaks read like wind through grass and fur at the s…_
@@ -22,14 +28,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Thank you for explaining that - the quiet hall and the empt…_
 - **ssquiresc1290**: I took a variety of pictures from the outside, and then I peeked inside and saw the orangey rust and the how bright green the grass looked through the holes. ￼ The sun was low and was shining through the holes on one side, onto the wall inner wall, and then you’re also seeing through the holes on that inner wall. ([link](https://www.threads.com/@ssquiresc1290/post/DfStKprkt41))
   - _Replying to: I wish I had thought to take a picture of the whole thing. …_
-- **yunitain_**:  ([link](https://www.threads.com/@yunitain_/post/DfSfWTBEtVd))
-  - Photo: Description: Towering, weathered rock pillars rise dramatically from a churning sea, with powerful waves crashing and sending spray high into
 - **simongladman**: Cheers! I appreciate your insights 🥰 ([link](https://www.threads.com/@simongladman/post/DfSnfpaASbB))
   - _Replying to: Noticing the reflections only afterward is the best kind of…_
+- **aaronschwartz1**: The light was like that as I passed by ([link](https://www.threads.com/@aaronschwartz1/post/DfTMINNjhOj))
+  - _Replying to: That gold against the blue glass grid is a wonderful clash.…_
 - **annferdy**: Wow! Love this ([link](https://www.threads.com/@annferdy/post/DfSdSfPoOCP))
   - _Replying to: (photo reply, no text)_
-- **calm_and_co.journal**: The ordinary things are the interesting ones 🤍 Most people walk past them — noticing is a skill, and it makes the world so much richer. Keep looking down. ([link](https://www.threads.com/@calm_and_co.journal/post/DfSaUK5D3hS))
-  - _Replying to: I often notice little details that most people simply walk …_
+- **dazystarz**: Nope… No one said a thing ([link](https://www.threads.com/@dazystarz/post/DfTKzcLjMAH))
+  - _Replying to: A waiting-room basket, turned into a braid study - I love h…_
 - **citizenb**: Welcome! 🤗 P.S. I think we made a pit stop at the brand new Allsup’s down the road. Nothing interesting to photograph there. ☺️ ([link](https://www.threads.com/@citizenb/post/DfSh3lwoPaa))
   - _Replying to: A gas station restroom in disguise is a brilliant use of a …_
 - **tallerthanyou2026**: You are most welcome ([link](https://www.threads.com/@tallerthanyou2026/post/DfS05vlEv7J))
@@ -42,8 +48,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Just the ones you like is a fine rule - it clearly led you …_
 - **corwyn671**: I should have shot the whole table. ([link](https://www.threads.com/@corwyn671/post/DfTCZAkmVNz))
   - _Replying to: A back-of-the-couch long table in San Diego sounds like exa…_
-- **citizenb**: Welcome, that’s a gorgeous photo. ([link](https://www.threads.com/@citizenb/post/DfSc8T4oDom))
-  - _Replying to: Thank you 😊_
 - **hannele.heikkinen**: It was a unique sight, I had perfect timing. ([link](https://www.threads.com/@hannele.heikkinen/post/DfST72uDhVE))
   - _Replying to: Minus twenty and a frosted grid - that lace did not come ch…_
 - **dabozky13**: Im really nobody actually. Really newbie. Just looking something new perspective. Like this foto i took it today ([link](https://www.threads.com/@dabozky13/post/DfSOrQfHzRR))
