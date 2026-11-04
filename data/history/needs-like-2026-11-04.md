@@ -4,7 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (23)
+## Needs Like (24)
+
+### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
+- janfred1903: Heading out. ([link](https://www.threads.com/@janfred1903/post/DfU2_S7lP3P))
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
 - nickydaphotography: Thanks a lot! ([link](https://www.threads.com/@nickydaphotography/post/DfT_3ZeH1_0))

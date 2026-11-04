@@ -4,23 +4,30 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (31)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **tnakluck**:  ([link](https://www.threads.com/@tnakluck/post/DfU2JuvlCfN))
-  - Photo: Description: Several luxury yachts and sailboats anchor in the turquoise cove of a sandy beach, where two straw umbrellas shade loungers and sunbathers. The steep, rocky shoreline is covered with low green vegetation under a clear blue sky. Photograph read: Shot from an elevated perspective, the brightly lit scene uses strong horizontal layers of sand, turquoise water, and deep blue sky to evoke a warm, relaxed beach atmosphere. Photo type: Snapshot
-- **silmarillioncollector**:  ([link](https://www.threads.com/@silmarillioncollector/post/DfU2JSIjPaC))
-  - Photo: Description: A lone person walks along the edge of a sandy beach as gentle waves wash ashore, with a rocky headland and buildings visible in the distance. The overcast sky and calm coastal landscape create a peaceful atmosphere. Photograph read: The wide-angle composition contrasts the vast foreground of textured sand against the distant coastline under soft, even daylight, creating a calm and contemplative mood. Photo type: Snapshot
-- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DfU162VGyz_))
-  - Photo: Description: A rocky stream flows through a lush, green forest with moss-covered trees and a fallen log across the water. A distant hiker in a blue jacket is visible on an elevated trail along the upper left bank. Photograph read: The vertical framing captures the rushing water centrally with a natural vignette of dense foliage, creating an immersive, cool-toned woodland scene. Photo type: Nature documentary
-- **jemalovett**:  ([link](https://www.threads.com/@jemalovett/post/DfU0m4sFGae))
-  - Photo: Description: A powerful, churning waterfall cascades through a rocky gorge surrounded by dense green and bare tree branches. The high water flow and frothy white and amber current suggest a spring thaw scene. Photograph read: Framed by trees in the foreground, natural daylight illuminates the rushing water, creating a dynamic and immersive mood. Photo type: Snapshot
-- **jackletrade**: The morning is still ([link](https://www.threads.com/@jackletrade/post/DfU0mRtiCHU))
-  - Photo: Description: A misty river stretches across the middle ground, bordered by autumn-colored trees under a pale blue sky. In the foreground, grassy banks and sparse wooden posts frame the view, creating a tranquil morning landscape. Photograph read: Framed by natural foliage on either side, the centered composition uses soft morning light and mist over the water to evoke a serene, quiet mood. Photo type: Landscape
-- **whoissilver**: There's a causeway to an island in the River Tay. Usually covered by water and drivable by tractors and "proper" off road vehicles. During this years hot summer the river level was low meaning it was dry. I assume some young child had misplaced his Ray gun. This was exactly as found. Envisioned the focus and blur along with a muted colour palette 📷 ([link](https://www.threads.com/@whoissilver/post/DfUzrEZEdwa))
-  - _Replying to: A toy ray gun parked on the wire mesh, steeple soft in the …_
+- **goranka.miladinovic**: Rgds from Belgrade, Serbia 🥰 ([link](https://www.threads.com/@goranka.miladinovic/post/DfU4j7kjbyX))
+  - Photo: Description: A wide-angle aerial shot captures a blue river with a central fountain, bordered by lush autumn trees and docks under a clear sky. A few small boats are visible on the water. Photograph read: The high-angle perspective creates a vast sense of scale, with bright daylight illuminating the scene and casting soft shadows. Photo type: Documentary
+- **vuurenbernadettevan**: Singapore Changi Airport ([link](https://www.threads.com/@vuurenbernadettevan/post/DfU36KfETGq))
+  - Photo: Description: A high-angle view shows an indoor shopping mall featuring a central canal with a red boat, a large circular water feature, and a curved pedestrian bridge above the water. Shoppers walk along the multi-level balconies under a geometric glass atrium roof. Photograph read: The high-angle, symmetrical composition emphasizes the central water features, illuminated by natural overhead light filtering through the glass roof to create a bright, architectural mood. Photo type: Documentary
+- **resnicklr**: Blue Waves of Maine! ([link](https://www.threads.com/@resnicklr/post/DfU20-flITi))
+  - Photo: Description: Turquoise ocean waves lap at a sandy shore under a hazy blue sky. In the background, a rugged, tree-lined coastline rises along the water's edge. Photograph read: The horizontal composition balances the textured rocks on the right with the expansive sea, captured under soft, even daylight that evokes a tranquil coastal atmosphere. Photo type: Landscape
+- **silmarillioncollector**: I'd have kept the shot anyway, but only posted it because of the walker. ([link](https://www.threads.com/@silmarillioncollector/post/DfU3qnqjGRi))
+  - _Replying to: Quiet in the best way. That one walker against all that emp…_
+- **medium.gords7**: If I recall correctly, there’s a little bridge nearby that we stopped on for the photo. ([link](https://www.threads.com/@medium.gords7/post/DfU3x7iG-GE))
+  - _Replying to: I think framing the stream straight down its middle is a go…_
+- **jemalovett**: Yes, felt the spray. The area to the right is normally dry-no waterfall. And the gorge has a much lower water level. Cascade River. Northern Minnesota. I did not stand in that spot the last time I was there this fall. Less land to stand on. ([link](https://www.threads.com/@jemalovett/post/DfU4AS3lN1H))
+  - _Replying to: That is a lot of river in a hurry. Did you feel the spray f…_
+- **dr0ma_**: I saw the reflection first but then waited until the walkers were centre stage before snapping the shot ([link](https://www.threads.com/@dr0ma_/post/DfU4y5GCAiQ))
+  - _Replying to: The dog stealing the middle of the frame while the walkers …_
+- **perrywlamarche**: I’m not sure, maybe it reflected my mood of the day. There were other ships in the vicinity and mountains in the background, but I chose this one for some reason. ([link](https://www.threads.com/@perrywlamarche/post/DfU3AK2mko-))
+  - _Replying to: So much empty sea for one small ship, and it works - the qu…_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
   - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
+- **goranka.miladinovic**:  ([link](https://www.threads.com/@goranka.miladinovic/post/DfU5eS8EdNb))
+  - Photo: Description: An aerial view looks down a wide, blue river on a clear day, highlighting a prominent water fountain on a platform and forested banks showing autumn colors. Several small boats are scattered on the water, and docks line the right shore. Photograph read: The high-angle vertical composition captures bright daylight casting crisp shadows, creating a serene and expansive mood. Photo type: Documentary
+  - _Replying to: Yesterday's Pattern Tuesday favorites are up 🏆 Glowing cube…_
 
 ### Pattern Tuesday favorites 🏆 3 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfT8-0TGyBu))
 - **tallerthanyou2026**: Was at night 😊 ([link](https://www.threads.com/@tallerthanyou2026/post/DfUcq14m68S))
