@@ -10,8 +10,20 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 354,
+      "reply_count": 359,
       "replies": [
+        {
+          "username": "cynthia_radcliff",
+          "text": "",
+          "permalink": "https://www.threads.com/@cynthia_radcliff/post/DfTg5RilCy-",
+          "photos": [
+            "Description: A straight-on vertical shot captures the pale gray trunk of a young tree that grew through the diamond-shaped mesh of a chain-link fence, resulting in a dark, embossed diamond pattern wrapped around its bark. In the background, other slender tree trunks, green foliage, and scattered brown leaves are visible behind the silver wire fencing. Photograph read: The centered composition emphasizes the unusual diamond pattern formed by the fence, lit by even, natural light that highlights the contrast between the pale bark and dark indentations. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "friendlyvonne",
           "text": "",
@@ -19,10 +31,32 @@
           "photos": [
             "Description: A close-up, straight-on view of a modern building facade features a grid of golden-yellow balconies with curved, wave-like edges and glass railings. The repeating geometric pattern fills the frame, creating a striking architectural texture. Photograph read: The flat, even daylight emphasizes the clean geometric grid and warm mustard-yellow tones, resulting in a graphic, ordered mood. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those wavy balcony edges are doing something lovely to a straight grid - did you spot the curve first, or the color?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTdB8-jpEc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "friendlyvonne",
+                  "text": "Both",
+                  "permalink": "https://www.threads.com/@friendlyvonne/post/DfTiruWEw_I",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "abnerabel125",
@@ -43,7 +77,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "abnerabel125",
+                  "text": "It\u2019s a piece hanging on the wall in the motel room I\u2019m staying at tonight. I thought it would be a good piece for texture .",
+                  "permalink": "https://www.threads.com/@abnerabel125/post/DfTdBBJGwvU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -134,7 +179,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jbrucewilcox",
+                  "text": "Oh thanks. It's a bus stop shelter with sunlight coming through the roof at the right angle to project this image onto the pavement. I just happened to be there at the right time waiting for the next bus!",
+                  "permalink": "https://www.threads.com/@jbrucewilcox/post/DfTgmCTlnmL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
