@@ -6,23 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (28)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **dr0ma_**:  ([link](https://www.threads.com/@dr0ma_/post/DfU0G78CJNF))
-  - Photo: Description: Two people are walking their dog along a narrow dirt path beside a scenic waterway. The pond in the foreground features algae and rippled reflections of the surrounding trees and walkers. Photograph read: The wide-angle composition frames the figures in the middle distance with a natural foreground element in the water, captured in bright daylight that creates soft, dappled shadows. Photo type: Snapshot
-- **perrywlamarche**:  ([link](https://www.threads.com/@perrywlamarche/post/DfUz7Vbmt8y))
-  - Photo: Description: A large cargo ship sits small and centered on a vast, calm sea beneath an overcast sky. The muted tones create a peaceful yet isolated atmosphere that would pair well with a post about quiet travels or vast oceans. Photograph read: The symmetrical, minimalist composition places the distant vessel directly on the horizon line, bathed in soft, flat daylight that evokes a tranquil and contemplative mood. Photo type: Documentary
+- **tnakluck**:  ([link](https://www.threads.com/@tnakluck/post/DfU2JuvlCfN))
+  - Photo: Description: Several luxury yachts and sailboats anchor in the turquoise cove of a sandy beach, where two straw umbrellas shade loungers and sunbathers. The steep, rocky shoreline is covered with low green vegetation under a clear blue sky. Photograph read: Shot from an elevated perspective, the brightly lit scene uses strong horizontal layers of sand, turquoise water, and deep blue sky to evoke a warm, relaxed beach atmosphere. Photo type: Snapshot
+- **silmarillioncollector**:  ([link](https://www.threads.com/@silmarillioncollector/post/DfU2JSIjPaC))
+  - Photo: Description: A lone person walks along the edge of a sandy beach as gentle waves wash ashore, with a rocky headland and buildings visible in the distance. The overcast sky and calm coastal landscape create a peaceful atmosphere. Photograph read: The wide-angle composition contrasts the vast foreground of textured sand against the distant coastline under soft, even daylight, creating a calm and contemplative mood. Photo type: Snapshot
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DfU162VGyz_))
+  - Photo: Description: A rocky stream flows through a lush, green forest with moss-covered trees and a fallen log across the water. A distant hiker in a blue jacket is visible on an elevated trail along the upper left bank. Photograph read: The vertical framing captures the rushing water centrally with a natural vignette of dense foliage, creating an immersive, cool-toned woodland scene. Photo type: Nature documentary
+- **jemalovett**:  ([link](https://www.threads.com/@jemalovett/post/DfU0m4sFGae))
+  - Photo: Description: A powerful, churning waterfall cascades through a rocky gorge surrounded by dense green and bare tree branches. The high water flow and frothy white and amber current suggest a spring thaw scene. Photograph read: Framed by trees in the foreground, natural daylight illuminates the rushing water, creating a dynamic and immersive mood. Photo type: Snapshot
+- **jackletrade**: The morning is still ([link](https://www.threads.com/@jackletrade/post/DfU0mRtiCHU))
+  - Photo: Description: A misty river stretches across the middle ground, bordered by autumn-colored trees under a pale blue sky. In the foreground, grassy banks and sparse wooden posts frame the view, creating a tranquil morning landscape. Photograph read: Framed by natural foliage on either side, the centered composition uses soft morning light and mist over the water to evoke a serene, quiet mood. Photo type: Landscape
 - **whoissilver**: There's a causeway to an island in the River Tay. Usually covered by water and drivable by tractors and "proper" off road vehicles. During this years hot summer the river level was low meaning it was dry. I assume some young child had misplaced his Ray gun. This was exactly as found. Envisioned the focus and blur along with a muted colour palette 📷 ([link](https://www.threads.com/@whoissilver/post/DfUzrEZEdwa))
   - _Replying to: A toy ray gun parked on the wire mesh, steeple soft in the …_
-- **whoissilver**: I did pick the ray gun up and place it, in an obvious place, on the Park side of the causeway; save plastic entering the river and also make it easier to find should the owner come looking. ([link](https://www.threads.com/@whoissilver/post/DfUzvojkb2q))
-  - _Replying to: There's a causeway to an island in the River Tay. Usually c…_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
   - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
-- **srravi**: It was fast and my family was holding my shirt so that I didn’t fall overboard 😀 Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfU0f7ckr5R))
-  - _Replying to: This one made me grin. I think putting the motor front and …_
-- **paul.moorman91**: This courtyard had multiple fountains and water features. Catching them at the end of day was definitely a plus lol I tend to crop tighter a lot which can be a good thing …. sometimes lol ([link](https://www.threads.com/@paul.moorman91/post/DfUzCJOFo0q))
-  - _Replying to: How did you catch the water mid-twist like that? I think th…_
 
 ### Pattern Tuesday favorites 🏆 3 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfT8-0TGyBu))
 - **tallerthanyou2026**: Was at night 😊 ([link](https://www.threads.com/@tallerthanyou2026/post/DfUcq14m68S))
@@ -48,6 +48,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Thank you for explaining that - the quiet hall and the empt…_
 - **ssquiresc1290**: I took a variety of pictures from the outside, and then I peeked inside and saw the orangey rust and the how bright green the grass looked through the holes. ￼ The sun was low and was shining through the holes on one side, onto the wall inner wall, and then you’re also seeing through the holes on that inner wall. ([link](https://www.threads.com/@ssquiresc1290/post/DfStKprkt41))
   - _Replying to: I wish I had thought to take a picture of the whole thing. …_
+- **johnifinlay**: Hi, it is mat on a bar counter to stop glasses slipping ([link](https://www.threads.com/@johnifinlay/post/DfU0l5VAl6a))
+  - _Replying to: This one made me stop and squint - a whole field of little …_
 - **simongladman**: Cheers! I appreciate your insights 🥰 ([link](https://www.threads.com/@simongladman/post/DfSnfpaASbB))
   - _Replying to: Noticing the reflections only afterward is the best kind of…_
 - **annferdy**: Wow! Love this ([link](https://www.threads.com/@annferdy/post/DfSdSfPoOCP))
