@@ -57,7 +57,7 @@ GEMINI_URL_TMPL = (
 )
 
 PROMPT = (
-    "Respond in plain text using exactly these three labeled sections:\n"
+    "Respond in plain text using exactly these four labeled sections:\n"
     "Description: Describe this photo in one or two concise sentences, focusing "
     "on the subject matter and any context clues relevant to a social media post.\n"
     "Photograph read: Give a brief photography-focused interpretation in one "
@@ -66,6 +66,18 @@ PROMPT = (
     "Photo type: Classify the overall style or feel in one concise phrase "
     "(for example, snapshot, artistic, documentary, or storytelling). Choose "
     "the closest fit based only on what is visible; do not invent intent.\n"
+    "Watch-outs: Leave this section empty unless there is a clearly visible "
+    "technical observation relevant before praising a photographic choice "
+    "(such as clipped highlights, flare, focus softness, a tilted horizon, "
+    "or background clutter overlapping the subject). Empty is a valid and "
+    "common value; do not search for faults. Use at most one or two short "
+    "clauses of observable facts only: no scores, grades, overall verdicts, "
+    "praise, blame, or good/bad composition judgments. Do not prescribe fixes. "
+    "When softness, high-key exposure, or motion blur could be deliberate, "
+    "state that intent cannot be determined from the image. For example: "
+    "'Sun disc clipped to white with halo and flare streaks' or "
+    "'Soft overall; intentional or missed focus not determinable from the image'. "
+    "These notes are private drafting input, never text to quote to the photographer.\n"
     "Do not mention that you are an AI or that this is a described image."
 )
 
@@ -596,6 +608,27 @@ def _is_stale_cached_placeholder(value: str) -> bool:
     return bool(match) and match.group(1) not in _TRUSTED_BLOCK_REASONS
 
 
+_WATCH_OUTS_RE = re.compile(
+    r"^Watch-outs:[ \t]*(.*?)(?=^(?:Description|Photograph read|Photo type):|\Z)",
+    re.IGNORECASE | re.MULTILINE | re.DOTALL,
+)
+
+
+def split_watch_outs(description: str | None) -> tuple[str | None, str]:
+    """Separate drafting-only notes from the description used for clustering.
+
+    Cache entries remain plain strings, including the new labeled section;
+    legacy descriptions without it are kept unchanged (no cache invalidation).
+    """
+    if not description:
+        return description, ""
+    match = _WATCH_OUTS_RE.search(description)
+    if not match:
+        return description, ""
+    text = (description[:match.start()] + description[match.end():]).strip()
+    return text, " ".join(match.group(1).split())
+
+
 def describe_images(
     media_items: list[dict],
     cache: dict,
@@ -817,7 +850,13 @@ def describe_images(
             consecutive_non_retryable_failures = 0
             time.sleep(MIN_SECONDS_BETWEEN_CALLS)
 
-        item["photo_descriptions"] = descriptions
+        parsed = [split_watch_outs(description) for description in descriptions]
+        item["photo_descriptions"] = [description for description, _ in parsed]
+        watch_outs = [notes for _, notes in parsed]
+        if any(watch_outs):
+            item["watch_outs"] = watch_outs
+        else:
+            item.pop("watch_outs", None)
 
     return (
         requests_made,
