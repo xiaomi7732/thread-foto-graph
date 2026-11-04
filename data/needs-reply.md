@@ -4,26 +4,25 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (29)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **brownieone**:  ([link](https://www.threads.com/@brownieone/post/DfU8E-1CLt7))
-  - Photo: Description: Scattered yellowed leaves and tall, dark reeds rest on the surface of calm water, reflecting a pale sky and silhouetted foliage. This natural autumn scene captures a quiet, moody wetlands view. Photograph read: The vertical composition uses natural framing and dappled light to create a reflective, textured mood on the water's surface. Photo type: Documentary
-- **ritaveeps**:  ([link](https://www.threads.com/@ritaveeps/post/DfU6zX0FOr9))
-  - Photo: Description: A close-up shot captures lush green foliage and delicate white lily of the valley flowers glistening with fresh raindrops. The plants grow along a low stone border next to a dark metal fence. Photograph read: The eye-level perspective and soft, even lighting highlight the intricate textures of the wet leaves and create a tranquil, refreshing mood. Photo type: Snapshot
-- **lozejectthetape**:  ([link](https://www.threads.com/@lozejectthetape/post/DfU6RbOmrCs))
-  - Photo: Description: A lone surfer in a dark wetsuit rides a cresting wave against an overcast sky. The pale blue ocean stretches wide, emphasizing the solitude and energy of the moment. Photograph read: The wide landscape composition captures the surfer near the center, lit by flat daylight that highlights the turquoise transparency of the breaking wave and evokes a calm, focused mood. Photo type: Documentary
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DfU6Jqqkfqj))
-  - Photo: Description: A black crow stands perched on a rough stone ledge overlooking calm, greenish water. The tranquil lakeside setting creates a moody, atmospheric backdrop for the solitary bird. Photograph read: Captured from a high angle, the vertical composition centers on the textured rock and bird against the softly rippled, muted green water under diffused daylight. Photo type: Nature snapshot
-  - Photo: Description: A weathered wooden trough filled with shallow water sits against a sloping, moss-covered hillside next to a dirt path. The rustic structure blends naturally into the damp, green forest environment. Photograph read: The high-angle diagonal composition leads the eye through the frame under soft, even daylight, creating a grounded, earthy mood. Photo type: Snapshot
-- **vuurenbernadettevan**: I was on holiday, Indonesia 🇮🇩 and Singapore 🇸🇬 ([link](https://www.threads.com/@vuurenbernadettevan/post/DfU6qVREesj))
-  - _Replying to: Singapore Changi Airport_
+- **kes_ward**:  ([link](https://www.threads.com/@kes_ward/post/DfVAZTHjnZ6))
+  - Photo: Description: A wide, black-and-white landscape captures a river weir flowing strongly under a dramatic, cloudy sky, with a metal walkway curving along the left bank. The churning water appears smooth and blurred, creating a serene contrast with the dark trees and stormy clouds. Photograph read: The wide-angle composition follows the sweeping curve of the weir and walkway, utilizing high-contrast monochrome lighting to enhance the moody, ethereal texture of the blurred water. Photo type: Artistic
+- **karen_osato_photography**: The only picture I’m posting today 😊 ([link](https://www.threads.com/@karen_osato_photography/post/DfVALoBmMWT))
+  - Photo: Description: A small wave curls gracefully, its translucent, glassy blue crest catching bright sunlight against a backdrop of churned-up white foam. Photograph read: The tight framing and shallow depth of field emphasize the smooth, silky texture of the water under crisp, natural lighting, creating a dynamic and serene mood. Photo type: Artistic
+- **joel_chapman**:  ([link](https://www.threads.com/@joel_chapman/post/DfU-ZbcETZJ))
+  - Photo: Description: A top-down aerial view captures dark ocean water crashing against rugged, rocky cliffs on the right side of the frame. White foam patterns swirl where the waves meet the shore, highlighting the contrast between the deep sea and the textured earth. Photograph read: The high-angle vertical composition creates a stark divide between the dark textured water and the rugged coastline, with bright sunlight glinting off the surface and creating a moody, dramatic atmosphere. Photo type: Documentary
+- **goranka.miladinovic**: I was in a balloon cca 150m high ([link](https://www.threads.com/@goranka.miladinovic/post/DfU_ShvEYqv))
+  - Photo: Description: An elevated, wide-angle daytime shot captures a wide river spanned by a towering cable-stayed bridge, with dense, autumn-hued trees lining the near bank and moored boats lining the docks. In the distance, a hazy city skyline stretches across the horizon under a bright blue sky. Photograph read: The composition uses a high vantage point to emphasize the converging lines of the bridge and the curving river, illuminated by bright daylight that casts crisp details across the vibrant foliage and docks. Photo type: Travel snapshot
+  - Photo: Description: A tethered white hot air balloon with branding for Expo 2027 floats high in the clear blue sky. Bright autumn foliage frames the top of the frame, with the tops of distant green and golden trees visible along the bottom. Photograph read: Captured from a low-angle perspective under bright, clear daylight, the image uses the natural frame of golden autumn leaves to draw the eye toward the centered balloon against a vibrant blue sky. Photo type: Snapshot
+  - _Replying to: The fountain sitting right in the middle of all that blue i…_
+- **resnicklr**: End of a hike. ([link](https://www.threads.com/@resnicklr/post/DfU9w7jmhvf))
+  - _Replying to: That turquoise against the dark cliffs is the whole postcar…_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
   - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
 - **srravi**: It was with a Nikon D610 paired with a Tamron 15-30mm f/2.8VR with aperture priority at f/5.6. Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfU6H_NEiCm))
   - _Replying to: Held on by family and still got the shot - that is the best…_
-- **abbytabby13**: Not too far actually. We were attending a festival in IL and this was one of the stops along the way...always a favorute.. ([link](https://www.threads.com/@abbytabby13/post/DfU6quMFuwC))
-  - _Replying to: The trees frame it so neatly that the bridge almost sneaks …_
 - **goranka.miladinovic**:  ([link](https://www.threads.com/@goranka.miladinovic/post/DfU5eS8EdNb))
   - Photo: Description: An aerial view looks down a wide, blue river on a clear day, highlighting a prominent water fountain on a platform and forested banks showing autumn colors. Several small boats are scattered on the water, and docks line the right shore. Photograph read: The high-angle vertical composition captures bright daylight casting crisp shadows, creating a serene and expansive mood. Photo type: Documentary
   - _Replying to: Yesterday's Pattern Tuesday favorites are up 🏆 Glowing cube…_

@@ -10,8 +10,44 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 73,
+      "reply_count": 84,
       "replies": [
+        {
+          "username": "kes_ward",
+          "text": "",
+          "permalink": "https://www.threads.com/@kes_ward/post/DfVAZTHjnZ6",
+          "photos": [
+            "Description: A wide, black-and-white landscape captures a river weir flowing strongly under a dramatic, cloudy sky, with a metal walkway curving along the left bank. The churning water appears smooth and blurred, creating a serene contrast with the dark trees and stormy clouds. Photograph read: The wide-angle composition follows the sweeping curve of the weir and walkway, utilizing high-contrast monochrome lighting to enhance the moody, ethereal texture of the blurred water. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "karen_osato_photography",
+          "text": "The only picture I\u2019m posting today \ud83d\ude0a",
+          "permalink": "https://www.threads.com/@karen_osato_photography/post/DfVALoBmMWT",
+          "photos": [
+            "Description: A small wave curls gracefully, its translucent, glassy blue crest catching bright sunlight against a backdrop of churned-up white foam. Photograph read: The tight framing and shallow depth of field emphasize the smooth, silky texture of the water under crisp, natural lighting, creating a dynamic and serene mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "joel_chapman",
+          "text": "",
+          "permalink": "https://www.threads.com/@joel_chapman/post/DfU-ZbcETZJ",
+          "photos": [
+            "Description: A top-down aerial view captures dark ocean water crashing against rugged, rocky cliffs on the right side of the frame. White foam patterns swirl where the waves meet the shore, highlighting the contrast between the deep sea and the textured earth. Photograph read: The high-angle vertical composition creates a stark divide between the dark textured water and the rugged coastline, with bright sunlight glinting off the surface and creating a moody, dramatic atmosphere. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "brownieone",
           "text": "",
@@ -19,10 +55,21 @@
           "photos": [
             "Description: Scattered yellowed leaves and tall, dark reeds rest on the surface of calm water, reflecting a pale sky and silhouetted foliage. This natural autumn scene captures a quiet, moody wetlands view. Photograph read: The vertical composition uses natural framing and dappled light to create a reflective, textured mood on the water's surface. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That trail of yellow leaves down the middle does all the work - it pulls your eye straight through the reeds and into the reflections. Did you wait for the water to settle, or was the ripple part of the plan?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfU9otQlL6R",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ritaveeps",
@@ -31,10 +78,21 @@
           "photos": [
             "Description: A close-up shot captures lush green foliage and delicate white lily of the valley flowers glistening with fresh raindrops. The plants grow along a low stone border next to a dark metal fence. Photograph read: The eye-level perspective and soft, even lighting highlight the intricate textures of the wet leaves and create a tranquil, refreshing mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "So fresh you can almost feel the rain still on the leaves. I think the close crop is a good call - it lets those little white bells peek out between the green. Were these along your own garden path?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfU9p0HFTvg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lozejectthetape",
@@ -43,10 +101,21 @@
           "photos": [
             "Description: A lone surfer in a dark wetsuit rides a cresting wave against an overcast sky. The pale blue ocean stretches wide, emphasizing the solitude and energy of the moment. Photograph read: The wide landscape composition captures the surfer near the center, lit by flat daylight that highlights the turquoise transparency of the breaking wave and evokes a calm, focused mood. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Just one surfer and all that empty ocean - how long did you watch before this wave lined up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfU9rMdoE_n",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ulrike6417",
@@ -56,10 +125,21 @@
             "Description: A black crow stands perched on a rough stone ledge overlooking calm, greenish water. The tranquil lakeside setting creates a moody, atmospheric backdrop for the solitary bird. Photograph read: Captured from a high angle, the vertical composition centers on the textured rock and bird against the softly rippled, muted green water under diffused daylight. Photo type: Nature snapshot",
             "Description: A weathered wooden trough filled with shallow water sits against a sloping, moss-covered hillside next to a dirt path. The rustic structure blends naturally into the damp, green forest environment. Photograph read: The high-angle diagonal composition leads the eye through the frame under soft, even daylight, creating a grounded, earthy mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The crow gets the first frame and the old trough gets the second, and somehow they belong together - both quiet, both watching water. Which one did you spot first on the walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfU9tBOFNaw",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "goranka.miladinovic",
@@ -80,7 +160,21 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "goranka.miladinovic",
+                  "text": "I was in a balloon cca 150m high",
+                  "permalink": "https://www.threads.com/@goranka.miladinovic/post/DfU_ShvEYqv",
+                  "photos": [
+                    "Description: An elevated, wide-angle daytime shot captures a wide river spanned by a towering cable-stayed bridge, with dense, autumn-hued trees lining the near bank and moored boats lining the docks. In the distance, a hazy city skyline stretches across the horizon under a bright blue sky. Photograph read: The composition uses a high vantage point to emphasize the converging lines of the bridge and the curving river, illuminated by bright daylight that casts crisp details across the vibrant foliage and docks. Photo type: Travel snapshot",
+                    "Description: A tethered white hot air balloon with branding for Expo 2027 floats high in the clear blue sky. Bright autumn foliage frames the top of the frame, with the tops of distant green and golden trees visible along the bottom. Photograph read: Captured from a low-angle perspective under bright, clear daylight, the image uses the natural frame of golden autumn leaves to draw the eye toward the centered balloon against a vibrant blue sky. Photo type: Snapshot"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -100,10 +194,21 @@
               "text": "I was on holiday, Indonesia \ud83c\uddee\ud83c\udde9 and Singapore \ud83c\uddf8\ud83c\uddec",
               "permalink": "https://www.threads.com/@vuurenbernadettevan/post/DfU6qVREesj",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Two holidays in one answer - Indonesia and Singapore both sound like a fine place to find a canal and a red boat indoors. Thanks for sharing the backstory, it makes the photo even better.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfU9uLQiXD_",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -136,7 +241,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "resnicklr",
+                  "text": "End of a hike.",
+                  "permalink": "https://www.threads.com/@resnicklr/post/DfU9w7jmhvf",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -806,10 +922,21 @@
                   "text": "Not too far actually. We were attending a festival in IL and this was one of the stops along the way...always a favorute..",
                   "permalink": "https://www.threads.com/@abbytabby13/post/DfU6quMFuwC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A festival stop that turned into a favorite - that is exactly the kind of detour worth keeping. Thanks for telling the story behind the bridge.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfU9vklkYzL",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
