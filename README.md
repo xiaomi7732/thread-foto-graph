@@ -72,8 +72,9 @@ Outputs (smallest/most-frequent read first):
    (`src/threads_auth.py`); auth is sent as an `Authorization: Bearer` header,
    never a query param, so it can't leak into logged URLs.
 2. For every photo (root post or reply) not already described, call Gemini
-   for a consistent three-part result: a one-to-two-sentence description, a
-   photography-focused read, and a concise photo-type classification
+   for a consistent four-part result: a one-to-two-sentence description, a
+   photography-focused read, a concise photo-type classification, and an
+   optional observations-only `Watch-outs:` section
    (`src/vision.py`). `CAROUSEL_ALBUM`
    items are expanded via the `children{media_type,media_url}` field
    (`src/threads_client.py`'s `photo_items()`) so **every photo in a
@@ -84,6 +85,23 @@ Outputs (smallest/most-frequent read first):
    (`cache/media_cache.json`, local-only) so a photo is never re-described on
    later runs, and the cache is flushed to disk after *every* new
    description — an interrupted run never loses progress.
+   - **Watch-outs** are at most one or two short clauses about visible
+     technical facts (e.g. clipped highlights or flare), not scores,
+     verdicts, or advice. Ambiguous stylistic choices explicitly leave
+     intent undetermined; an empty value is normal. Nonempty notes appear
+     beneath their photo in `needs-reply.md` (and its `actions.md` copy).
+     In `graph.json`, root/reply nodes with observations have a `watch_outs`
+     string array aligned with `photos`; empty strings preserve carousel
+     positions. Nodes without observations are unchanged. Notes are kept
+     separate from descriptions used for topic clustering and do not affect
+     ranking, shortlisting, or reply/like classification.
+     **Gradual rollout:** existing media-ID cache entries remain valid and
+     are not re-described just to add this section, avoiding a full
+     re-description cost. Newly described photos gain coverage.
+     These are private drafting cues, never to be quoted to photographers
+     or used alone to skip/hold a reply. Verify the actual photo before
+     making public claims or praising what a photographic choice achieved;
+     model observations are not ground truth.
    - On a 429 (rate limit), a single photo is retried in-process up to twice
      — but only when Gemini actually tells us how long to wait, via its
      `Retry-After` header or `retryDelay` body field. If neither is present,

@@ -403,6 +403,7 @@ def _reply_node(reply: dict, ancestor_hidden: bool = False) -> dict:
         "text": _snippet(reply.get("text", ""), length=None),
         "permalink": reply.get("permalink", ""),
         "photos": _photo_lines(reply),
+        **({"watch_outs": reply["watch_outs"]} if any(reply.get("watch_outs", [])) else {}),
         "needs_response": needs_response,
         "action": _action_category(reply) if needs_response else None,
         "hidden": hidden,
@@ -438,8 +439,11 @@ def _render_action_item(reply: dict, parent_text: str | None) -> list[str]:
     """
     reply_link = f" ([link]({reply['permalink']}))" if reply.get("permalink") else ""
     out = [f"- **{reply.get('username', 'unknown')}**: {_snippet(reply.get('text', ''), length=None)}{reply_link}"]
-    for photo in _photo_lines(reply):
+    watch_outs = reply.get("watch_outs", [])
+    for index, photo in enumerate(_photo_lines(reply)):
         out.append(f"  - Photo: {photo}")
+        if index < len(watch_outs) and watch_outs[index]:
+            out.append(f"    - Watch-outs: {_snippet(watch_outs[index], length=None)}")
     if parent_text:
         out.append(f"  - _Replying to: {parent_text}_")
     return out
@@ -739,6 +743,7 @@ def build_topic_graph(threads: list[dict]) -> dict:
                     "text": _snippet(thread.get("text", ""), length=None),
                     "permalink": thread.get("permalink", ""),
                     "photos": thread_photos,
+                    **({"watch_outs": thread["watch_outs"]} if any(thread.get("watch_outs", [])) else {}),
                     "reply_count": total_replies,
                     "replies": [_reply_node(reply) for reply in thread.get("replies", [])],
                 }

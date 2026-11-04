@@ -4,10 +4,67 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from src import threads_client, topic_graph
+from src import threads_client, topic_graph, vision
 
 
 class PhotoDescriptionTests(unittest.TestCase):
+    def test_watch_outs_render_per_photo_without_affecting_clustering_or_actions(self):
+        description = "Description: Sun over water."
+        notes = "Sun disc clipped to white; flare streaks."
+        reply = {
+            "username": "photographer",
+            "text": "Thank you",
+            "photo_descriptions": [None, description, "Description: A lake."],
+            "watch_outs": ["", notes, ""],
+        }
+        nested = {"username": "nested", "text": "What camera?"}
+        reply["replies"] = [nested]
+        thread = {
+            "id": "thread-1", "text": "Water Wednesday",
+            "photo_descriptions": ["Description: A stream."],
+            "watch_outs": ["Bright water clipped."],
+            "replies": [reply],
+        }
+        without_notes = {key: value for key, value in reply.items() if key != "watch_outs"}
+        baseline = {key: value for key, value in thread.items() if key != "watch_outs"}
+        baseline["replies"] = [without_notes]
+        self.assertEqual(topic_graph._thread_document(thread), topic_graph._thread_document(baseline))
+        self.assertEqual(topic_graph._action_category(reply), topic_graph._action_category(without_notes))
+        self.assertEqual(topic_graph._split_action_items([thread])[1], [])
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            paths = {
+                name: root / filename for name, filename in (
+                    ("ACTIONS_MD_PATH", "actions.md"), ("NEEDS_REPLY_MD_PATH", "needs-reply.md"),
+                    ("NEEDS_LIKE_MD_PATH", "needs-like.md"), ("TOPICS_MD_PATH", "topics.md"),
+                    ("THREADS_DIR", "threads"), ("HISTORY_DIR", "history"),
+                    ("GRAPH_JSON_PATH", "graph.json"),
+                )
+            }
+            with patch.multiple(topic_graph, **paths):
+                graph = topic_graph.build_topic_graph([thread])
+            markdown = paths["NEEDS_REPLY_MD_PATH"].read_text(encoding="utf-8")
+            self.assertIn(f"  - Photo: {description}\n    - Watch-outs: {notes}\n", markdown)
+            self.assertEqual(markdown.count("Watch-outs:"), 1)
+            self.assertIn(f"Watch-outs: {notes}", paths["ACTIONS_MD_PATH"].read_text(encoding="utf-8"))
+            stored = json.loads(paths["GRAPH_JSON_PATH"].read_text(encoding="utf-8"))
+            self.assertEqual(stored, graph)
+            self.assertEqual(stored["nodes"][0]["watch_outs"], thread["watch_outs"])
+            node = stored["nodes"][0]["replies"][0]
+            self.assertEqual(node["watch_outs"], ["", notes, ""])
+            self.assertEqual(len(node["photos"]), len(node["watch_outs"]))
+            self.assertNotIn("watch_outs", node["replies"][0])
+
+    def test_empty_watch_outs_leave_markdown_and_json_unchanged(self):
+        for raw in ("A mountain.", "Description: A mountain.\nWatch-outs:"):
+            with self.subTest(raw=raw):
+                description, notes = vision.split_watch_outs(raw)
+                reply = {"username": "photographer", "photo_descriptions": [description]}
+                with_notes = {**reply, "watch_outs": [notes]}
+                self.assertEqual(topic_graph._render_action_item(reply, None), topic_graph._render_action_item(with_notes, None))
+                self.assertEqual(topic_graph._reply_node(reply), topic_graph._reply_node(with_notes))
+
     def test_multiline_photograph_read_stays_in_its_reply_bullet(self):
         expected = (
             "Description: A mountain at sunrise. "
