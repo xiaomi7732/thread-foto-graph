@@ -6,19 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (27)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **whoissilver**:  ([link](https://www.threads.com/@whoissilver/post/DfUynXjkZ5M))
-  - Photo: Description: A brightly colored toy ray gun rests on a tangle of wire mesh and dark stones near a body of water. In the blurred background, a distant church steeple rises against an overcast sky. Photograph read: The composition uses a shallow depth of field to isolate the sharply focused toy in the foreground against a softly blurred, cool-toned landscape, creating a whimsical and surreal mood. Photo type: Artistic
-- **sarahcahillsena**:  ([link](https://www.threads.com/@sarahcahillsena/post/DfUyamSFIuY))
-  - Photo: Description: Two sea turtles rest on a dark volcanic sand beach near the ocean shore, with one closer in the lower right foreground and another further back near the rocky surf. Photograph read: Captured in bright daylight with a high-angle medium shot, the image highlights the contrast between the pale turtle shells and the dark sand under choppy blue waves. Photo type: Snapshot
-- **janfred1903**:  ([link](https://www.threads.com/@janfred1903/post/DfUxtBnFGqI))
-  - Photo: Description: A wooden pier extends into a glistening body of water under a bright sun and scattered white clouds. Several boats are moored near the docks, creating a serene and picturesque waterfront scene. Photograph read: The vertical composition uses strong backlighting to create sparkling highlights on the water's surface, framing a calm and radiant maritime mood. Photo type: Snapshot
-- **muppy007**: I took a chance when the breeze stopped. And thank you 😊 ([link](https://www.threads.com/@muppy007/post/DfUyTysiCTm))
-  - _Replying to: The yellow tree in the middle is what my eye keeps returnin…_
-- **nanceharder81**: Grand Marais, Minnesota ([link](https://www.threads.com/@nanceharder81/post/DfUyUtOETmc))
-  - _Replying to: Where were you standing when that rock, those pebbles and t…_
+- **dr0ma_**:  ([link](https://www.threads.com/@dr0ma_/post/DfU0G78CJNF))
+  - Photo: Description: Two people are walking their dog along a narrow dirt path beside a scenic waterway. The pond in the foreground features algae and rippled reflections of the surrounding trees and walkers. Photograph read: The wide-angle composition frames the figures in the middle distance with a natural foreground element in the water, captured in bright daylight that creates soft, dappled shadows. Photo type: Snapshot
+- **perrywlamarche**:  ([link](https://www.threads.com/@perrywlamarche/post/DfUz7Vbmt8y))
+  - Photo: Description: A large cargo ship sits small and centered on a vast, calm sea beneath an overcast sky. The muted tones create a peaceful yet isolated atmosphere that would pair well with a post about quiet travels or vast oceans. Photograph read: The symmetrical, minimalist composition places the distant vessel directly on the horizon line, bathed in soft, flat daylight that evokes a tranquil and contemplative mood. Photo type: Documentary
+- **whoissilver**: There's a causeway to an island in the River Tay. Usually covered by water and drivable by tractors and "proper" off road vehicles. During this years hot summer the river level was low meaning it was dry. I assume some young child had misplaced his Ray gun. This was exactly as found. Envisioned the focus and blur along with a muted colour palette 📷 ([link](https://www.threads.com/@whoissilver/post/DfUzrEZEdwa))
+  - _Replying to: A toy ray gun parked on the wire mesh, steeple soft in the …_
+- **whoissilver**: I did pick the ray gun up and place it, in an obvious place, on the Park side of the causeway; save plastic entering the river and also make it easier to find should the owner come looking. ([link](https://www.threads.com/@whoissilver/post/DfUzvojkb2q))
+  - _Replying to: There's a causeway to an island in the River Tay. Usually c…_
+- **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
+  - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
+- **srravi**: It was fast and my family was holding my shirt so that I didn’t fall overboard 😀 Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfU0f7ckr5R))
+  - _Replying to: This one made me grin. I think putting the motor front and …_
+- **paul.moorman91**: This courtyard had multiple fountains and water features. Catching them at the end of day was definitely a plus lol I tend to crop tighter a lot which can be a good thing …. sometimes lol ([link](https://www.threads.com/@paul.moorman91/post/DfUzCJOFo0q))
+  - _Replying to: How did you catch the water mid-twist like that? I think th…_
 
 ### Pattern Tuesday favorites 🏆 3 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfT8-0TGyBu))
 - **tallerthanyou2026**: Was at night 😊 ([link](https://www.threads.com/@tallerthanyou2026/post/DfUcq14m68S))

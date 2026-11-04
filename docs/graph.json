@@ -10,8 +10,32 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 18,
+      "reply_count": 30,
       "replies": [
+        {
+          "username": "dr0ma_",
+          "text": "",
+          "permalink": "https://www.threads.com/@dr0ma_/post/DfU0G78CJNF",
+          "photos": [
+            "Description: Two people are walking their dog along a narrow dirt path beside a scenic waterway. The pond in the foreground features algae and rippled reflections of the surrounding trees and walkers. Photograph read: The wide-angle composition frames the figures in the middle distance with a natural foreground element in the water, captured in bright daylight that creates soft, dappled shadows. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "perrywlamarche",
+          "text": "",
+          "permalink": "https://www.threads.com/@perrywlamarche/post/DfUz7Vbmt8y",
+          "photos": [
+            "Description: A large cargo ship sits small and centered on a vast, calm sea beneath an overcast sky. The muted tones create a peaceful yet isolated atmosphere that would pair well with a post about quiet travels or vast oceans. Photograph read: The symmetrical, minimalist composition places the distant vessel directly on the horizon line, bathed in soft, flat daylight that evokes a tranquil and contemplative mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "whoissilver",
           "text": "",
@@ -19,10 +43,43 @@
           "photos": [
             "Description: A brightly colored toy ray gun rests on a tangle of wire mesh and dark stones near a body of water. In the blurred background, a distant church steeple rises against an overcast sky. Photograph read: The composition uses a shallow depth of field to isolate the sharply focused toy in the foreground against a softly blurred, cool-toned landscape, creating a whimsical and surreal mood. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A toy ray gun parked on the wire mesh, steeple soft in the distance - the shallow focus makes the toy feel huge and the town feel far away. What made you stop for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfUzKWPG1eb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "whoissilver",
+                  "text": "There's a causeway to an island in the River Tay. Usually covered by water and drivable by tractors and \"proper\" off road vehicles. During this years hot summer the river level was low meaning it was dry. I assume some young child had misplaced his Ray gun. This was exactly as found. Envisioned the focus and blur along with a muted colour palette \ud83d\udcf7",
+                  "permalink": "https://www.threads.com/@whoissilver/post/DfUzrEZEdwa",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "whoissilver",
+                      "text": "I did pick the ray gun up and place it, in an obvious place, on the Park side of the causeway; save plastic entering the river and also make it easier to find should the owner come looking.",
+                      "permalink": "https://www.threads.com/@whoissilver/post/DfUzvojkb2q",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "sarahcahillsena",
@@ -31,10 +88,21 @@
           "photos": [
             "Description: Two sea turtles rest on a dark volcanic sand beach near the ocean shore, with one closer in the lower right foreground and another further back near the rocky surf. Photograph read: Captured in bright daylight with a high-angle medium shot, the image highlights the contrast between the pale turtle shells and the dark sand under choppy blue waves. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "This one made me smile - two turtles sunning on black sand while the surf rolls in behind them. I think the high angle is a good call, those pale shells really pop against the dark sand. How close were you when you took this?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfUzMEIGwwc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "janfred1903",
@@ -43,10 +111,21 @@
           "photos": [
             "Description: A wooden pier extends into a glistening body of water under a bright sun and scattered white clouds. Several boats are moored near the docks, creating a serene and picturesque waterfront scene. Photograph read: The vertical composition uses strong backlighting to create sparkling highlights on the water's surface, framing a calm and radiant maritime mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think facing straight into the sun is a good call - that glitter path across the water carries the whole frame. Were you heading out or coming in when you caught it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfUzNvjmwNo",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "muppy007",
@@ -73,10 +152,32 @@
                   "text": "I took a chance when the breeze stopped. And thank you \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@muppy007/post/DfUyTysiCTm",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That patience paid off - waiting for the breeze to stop gave you that still, glassy moment. Thanks for sharing the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfUzPSvG0Sj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "muppy007",
+                          "text": "Your very welcome \ud83d\ude0a",
+                          "permalink": "https://www.threads.com/@muppy007/post/DfUz4vDCH-6",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -101,7 +202,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "srravi",
+                  "text": "It was fast and my family was holding my shirt so that I didn\u2019t fall overboard \ud83d\ude00 Many thanks \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@srravi/post/DfU0f7ckr5R",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -124,7 +236,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "paul.moorman91",
+                  "text": "This courtyard had multiple fountains and water features. Catching them at the end of day was definitely a plus lol I tend to crop tighter a lot which can be a good thing \u2026. sometimes lol",
+                  "permalink": "https://www.threads.com/@paul.moorman91/post/DfUzCJOFo0q",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -176,10 +299,21 @@
                   "text": "Grand Marais, Minnesota",
                   "permalink": "https://www.threads.com/@nanceharder81/post/DfUyUtOETmc",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Grand Marais on the map now - I can picture that pebbled shore even better with a place name attached. Thanks for sharing where it was.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfUzRE3m8Ap",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
