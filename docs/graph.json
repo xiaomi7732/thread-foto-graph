@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18103312391535326",
-      "label": "photo, photograph, read, description",
+      "label": "photo, photograph, description, read",
       "group": 0,
       "snippet": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Stre\u2026",
       "text": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did you last stop for water?",
@@ -10,8 +10,44 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 97,
+      "reply_count": 104,
       "replies": [
+        {
+          "username": "syldelteglia",
+          "text": "",
+          "permalink": "https://www.threads.com/@syldelteglia/post/DfVJ_YLnG4X",
+          "photos": [
+            "Description: A grand, ornate stone building clings to a rugged cliffside that drops dramatically into the deep blue sea. In the distance, a coastline and marine structures stretch under a clear blue sky, evoking a coastal European vacation vibe. Photograph read: Captured in bright, direct daylight, the vertical composition emphasizes the towering height of the cliffside architecture against the vast expanse of the sea. Photo type: Travel snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "darrincastle",
+          "text": "",
+          "permalink": "https://www.threads.com/@darrincastle/post/DfVJiDqj6g7",
+          "photos": [
+            "Description:"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "cynthia_radcliff",
+          "text": "",
+          "permalink": "https://www.threads.com/@cynthia_radcliff/post/DfVIpZfmT-n",
+          "photos": [
+            "Description: A narrow stream meanders through dense foliage, with the bright sky reflecting on its surface. Trees showing early autumn colors frame the banks on either side. Photograph read: The vertical composition uses the stream as a central leading line, illuminated by natural daylight casting soft reflections on the water's surface. Photo type: Landscape snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hannele.heikkinen",
           "text": "",
@@ -19,10 +55,32 @@
           "photos": [
             "Description: A narrow waterfall plunges through a deep, moss-covered rocky gorge into a vivid blue stream. The steep vertical perspective emphasizes the dramatic depth of the canyon. Photograph read: The vertical composition uses the natural framing of the gorge walls to draw the eye downward from the distant waterfall to the deep blue water below. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That thread of white water dropping into the blue below is the whole shot for me. Was this a long walk in to find it, or right off the trail?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVIFi0CRTW",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "hannele.heikkinen",
+                  "text": "It was only a short walk from the parking place",
+                  "permalink": "https://www.threads.com/@hannele.heikkinen/post/DfVIuEmjjWU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "susanrutledge",
@@ -123,10 +181,21 @@
                   "photos": [
                     "Description: A high-angle coastal view captures rugged green cliffs meeting a deep blue ocean under a clear sky. Waves crash against the rocky shorelines in the foreground and along the distant headlands. Photograph read: The vertical composition uses natural sunlight to highlight the textured cliffs and the frothy white sea foam, creating a serene and expansive coastal mood. Photo type: Landscape"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That coastline holds up from every angle. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVIHTqIBf0",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -151,7 +220,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "brownieone",
+                  "text": "It was a part of the plan. I liked the slight movement \ud83d\ude42",
+                  "permalink": "https://www.threads.com/@brownieone/post/DfVKP9lCJGc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1119,7 +1199,7 @@
     },
     {
       "id": "17911773306484146",
-      "label": "photo, photograph, read, description",
+      "label": "photo, photograph, description, read",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scroll: Arizona Dweller @tallerthanyou2026 - glowing patterned cubes Conrad Skillen @stickyshutterphotography - blue lattice tunnel Anthony Chila @cruscher53 - monochrome rosette spiral Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfT81ZDjmpK/",
@@ -1187,7 +1267,7 @@
     },
     {
       "id": "18219980083346746",
-      "label": "photo, photograph, read, description",
+      "label": "photo, photograph, description, read",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",
@@ -1195,7 +1275,7 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 391,
+      "reply_count": 393,
       "replies": [
         {
           "username": "gazzybear76",
@@ -1273,7 +1353,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "syldelteglia",
+                  "text": "Thank you! I guess that, since those little crowns are heraldic symbols that represent the Pope and the King (this is the Palais des Papes in Avignon), they didn't want to cut them to fit the arch.",
+                  "permalink": "https://www.threads.com/@syldelteglia/post/DfVJOwSHMs-",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Yeah, I bet \ud83d\ude03\ud83d\udc4d",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVJkrqjzpT",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
