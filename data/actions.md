@@ -8,6 +8,20 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ## Needs Reply (26)
 
+### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
+- **muppy007**:  ([link](https://www.threads.com/@muppy007/post/DfUxSrLCO1Q))
+  - Photo: Description: A calm pond is surrounded by dense green and yellow trees under a clear blue sky. The still water mirrors the foliage and a patch of white cloud above. Photograph read: The high-angle perspective and bright daylight create a clean, crisp composition with natural reflections and a peaceful mood. Photo type: Snapshot
+- **srravi**: Ulun Danu Beratan ([link](https://www.threads.com/@srravi/post/DfUxLJdGosN))
+  - Photo: Description: A motorboat speeds across a large lake, leaving a white wake in the water. Lush, green hills and distant buildings line the shores under a dramatic sky filled with dark storm clouds and patches of bright blue. Photograph read: The wide-angle shot centers on the boat's motor in the foreground, capturing a dynamic, high-contrast scene where dark storm clouds on the left contrast with bright, sunlit skies on the right. Photo type: Travel snapshot
+- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DfUxKfkFisu))
+  - Photo: Description: Water cascades down a textured, illuminated surface, with dynamic droplets frozen mid-air in the foreground. Golden lights glow from beneath the water, creating a warm contrast against the cool, cascading stream. Photograph read: The vertical composition uses a fast shutter speed to freeze individual droplets, while overhead warm lighting creates glowing highlights amidst deep shadows and textured foam. Photo type: artistic
+- **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/DfUwlhECFle))
+  - Photo: Description: A set of dark railings frames a view of a choppy, dark sea under a heavy, moody sky, with the steps seemingly descending directly into the water. The scene evokes a chilling, otherworldly atmosphere suited for atmospheric storytelling or moody night photography. Photograph read: The symmetrical framing of the dark railings creates a strong leading line toward the luminous center of the sea, cast in a deep monochromatic blue twilight that feels mysterious and solitary. Photo type: Artistic
+- **nanceharder81**: Water - up close and far away. ([link](https://www.threads.com/@nanceharder81/post/DfUvhvFkYS9))
+  - Photo: Description: A calm, clear body of water reveals a pebbled red-brown lakebed in the foreground, with several distant sailboats resting on the horizon under a bright blue sky. A large, dark rock anchors the lower left corner of the frame. Photograph read: The vertical composition creates a layered view from the rocky shore through crystal-clear water to distant boats, illuminated by bright daylight that evokes a tranquil, peaceful mood. Photo type: Snapshot
+- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/DfUvY2vFj9X))
+  - Photo: Description: A calm river flows through a wooded landscape under a clear blue sky, framed by trees in the foreground with a rustic metal bridge visible in the distance. A person holding a phone is partially visible in the lower right corner, suggesting a casual outdoor snapshot taken during a walk. Photograph read: Framed by vertical tree trunks on the left and right, the composition uses natural elements to draw the eye toward the distant bridge under bright, direct daylight. Photo type: Snapshot
+
 ### Pattern Tuesday favorites 🏆 3 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfT8-0TGyBu))
 - **tallerthanyou2026**: Was at night 😊 ([link](https://www.threads.com/@tallerthanyou2026/post/DfUcq14m68S))
   - _Replying to: @tallerthanyou2026 Glowing cubes that print their own patte…_
@@ -15,22 +29,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @stickyshutterphotography That blue lattice tunnel pulls yo…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **gazzybear76**:  ([link](https://www.threads.com/@gazzybear76/post/DfUnJhYjGul))
-  - Photo: Description: This close-up, vertical shot captures the intricate, geometric facade of a modern building at night. Rows of angled, perforated metal panels create a striking, textured pattern across the entire frame. Photograph read: The tight vertical composition emphasizes the rhythmic, repeating facade elements under dim ambient lighting, creating a sleek, moody, and architectural atmosphere. Photo type: Architectural
-- **akarinzxzx**:  ([link](https://www.threads.com/@akarinzxzx/post/DfUmSw4ozJl))
-  - Photo: Description: Warm sunlight streams through a window, casting bright rectangular shapes and long shadows across a textured, rustic indoor wall. In the lower right corner, the dusty remains of cobwebs catch the golden light, adding a quiet, abandoned atmosphere to the scene. Photograph read: The vertical composition uses strong diagonal shadow lines and soft, golden light to create a quiet, contemplative mood. Photo type: Artistic
-- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/DfUUZJAgF9v))
-  - Photo: Description: A tall, arched stained-glass window with a grid pattern of red and blue panes sits deep within a recessed stone wall. The patterned glass features repeated crown motifs, suggesting a historical or ecclesiastical setting. Photograph read: The vertically framed composition centers the brightly illuminated window between dark, textured stone reveals, creating a moody contrast that emphasizes the rich colors of the stained glass. Photo type: Architectural capture
-- **c0de420_**:  ([link](https://www.threads.com/@c0de420_/post/DfUHUnBoHr0))
-  - Photo: Description: This low-angle shot captures the modern architectural exterior of a building featuring ribbed bronze-toned paneling and a large cantilevered roof overhang. The overcast sky creates a diffused, even light across the facade. Photograph read: The low-angle perspective emphasizes the sweeping geometric lines and metallic textures under soft, flat daylight. Photo type: Architectural
-- **parkera16**:  ([link](https://www.threads.com/@parkera16/post/DfUAo-bETRa))
-  - Photo: Description: A close-up macro view showcases the intricate, spiraled petals of a yellow and reddish dahlia flower in full bloom. The tightly packed layers draw the eye toward the vibrant center. Photograph read: The tight macro composition creates a bold, symmetrical pattern with warm, even lighting that emphasizes the smooth texture of the tubular petals. Photo type: Artistic
-- **demidova_nadezda**: Unfortunately, I didn't find this fern where I live, so I can't answer your question. But he was really handsome. ([link](https://www.threads.com/@demidova_nadezda/post/DfT4ERQGxyF))
-  - _Replying to: That green-to-gold gradient does all the talking - the fron…_
+- **gazzybear76**: I was after the texture of the building rather than the surrounding area. It was more interesting shot closer up. ([link](https://www.threads.com/@gazzybear76/post/DfUsZ46jKKN))
+  - _Replying to: That corner where the two faces meet is the quiet star here…_
+- **c0de420_**: from the outside of Tanah Abang Train Station, Jakarta, Indonesia. ([link](https://www.threads.com/@c0de420_/post/DfUq_AZEpcD))
+  - _Replying to: I think the low angle is a good call - it lets those bronze…_
 - **posts.by.norman**: In the Philippines, the holiday season starts at the onset of the -ber months, i.e., September. Hehe. ▓▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTQiHxn5RY))
   - _Replying to: A department store already in full Christmas swing, and the…_
-- **edithbruurs**: Thanks! It’s in a shoppingmall in Breda, the Netherlands. Called the ‘Barones’. ([link](https://www.threads.com/@edithbruurs/post/DfUKiMeDSNO))
-  - _Replying to: I think looking straight up was exactly the right call - th…_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
   - _Replying to: Those little green channels are doing all the work here - t…_
 - **carolformanphotography**: So you get it 🙏🏻💙💜❤️ ([link](https://www.threads.com/@carolformanphotography/post/DfTKuknls_Y))
@@ -66,16 +70,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **neil_pugh1966**: It's The Macallan whiskey shop to be precise ([link](https://www.threads.com/@neil_pugh1966/post/DfSP2YSCHc-))
   - _Replying to: Heathrow Terminal 5, of all places - a wave hiding in a sho…_
 
-### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
-- **2killamockingbird**: Im so grateful 🙏 you have really made my day... ([link](https://www.threads.com/@2killamockingbird/post/DfKgVi_DjQ-))
-  - _Replying to: My pleasure. I picked the colored, I also loved that b&w a …_
-
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (25)
+## Needs Like (23)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
 - nickydaphotography: Thanks a lot! ([link](https://www.threads.com/@nickydaphotography/post/DfT_3ZeH1_0))
@@ -101,8 +101,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - landlockedgator: parking garage. ([link](https://www.threads.com/@landlockedgator/post/DfSUhNLoU1Z))
 - dwordops: Thank you ! ([link](https://www.threads.com/@dwordops/post/DfSR6TloFZ8))
 - brianroffe: Thank you ([link](https://www.threads.com/@brianroffe/post/DfSSR_biHpq))
-
-### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
-- traceartography: 100% ([link](https://www.threads.com/@traceartography/post/DfKy-GLGSDh))
-- beckiefitzgerald: Absolutely 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfKp_YnoN92))
 

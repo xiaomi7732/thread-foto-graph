@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (25)
+## Needs Like (23)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
 - nickydaphotography: Thanks a lot! ([link](https://www.threads.com/@nickydaphotography/post/DfT_3ZeH1_0))
@@ -30,8 +30,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - landlockedgator: parking garage. ([link](https://www.threads.com/@landlockedgator/post/DfSUhNLoU1Z))
 - dwordops: Thank you ! ([link](https://www.threads.com/@dwordops/post/DfSR6TloFZ8))
 - brianroffe: Thank you ([link](https://www.threads.com/@brianroffe/post/DfSSR_biHpq))
-
-### Flower Friday favorites 🏆 3 blooms that stopped my scroll: … ([thread](https://www.threads.com/@saars.foto/post/DfKVw6nkRYP))
-- traceartography: 100% ([link](https://www.threads.com/@traceartography/post/DfKy-GLGSDh))
-- beckiefitzgerald: Absolutely 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfKp_YnoN92))
 
