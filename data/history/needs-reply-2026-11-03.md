@@ -4,15 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (18)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **cynthia_radcliff**:  ([link](https://www.threads.com/@cynthia_radcliff/post/DfTg5RilCy-))
-  - Photo: Description: A straight-on vertical shot captures the pale gray trunk of a young tree that grew through the diamond-shaped mesh of a chain-link fence, resulting in a dark, embossed diamond pattern wrapped around its bark. In the background, other slender tree trunks, green foliage, and scattered brown leaves are visible behind the silver wire fencing. Photograph read: The centered composition emphasizes the unusual diamond pattern formed by the fence, lit by even, natural light that highlights the contrast between the pale bark and dark indentations. Photo type: Documentary
-- **abnerabel125**: It’s a piece hanging on the wall in the motel room I’m staying at tonight. I thought it would be a good piece for texture . ([link](https://www.threads.com/@abnerabel125/post/DfTdBBJGwvU))
-  - _Replying to: That front block catching the light is doing all the work -…_
-- **jbrucewilcox**: Oh thanks. It's a bus stop shelter with sunlight coming through the roof at the right angle to project this image onto the pavement. I just happened to be there at the right time waiting for the next bus! ([link](https://www.threads.com/@jbrucewilcox/post/DfTgmCTlnmL))
-  - _Replying to: That green grid stopped me cold. I think shooting it from a…_
+- **demidova_nadezda**: The pattern is natural ([link](https://www.threads.com/@demidova_nadezda/post/DfTny7DlOkD))
+  - Photo: Description: This top-down view shows a dense cluster of fern fronds transitioning from vibrant green to a dry, golden-brown hue. The intricate geometry of the leaves fills the frame completely, creating a rich natural pattern. Photograph read: The flat, even lighting highlights the fine textures and earthy color gradient, creating a calm and orderly mood. Photo type: Nature study
 - **posts.by.norman**: In the Philippines, the holiday season starts at the onset of the -ber months, i.e., September. Hehe. ▓▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTQiHxn5RY))
   - _Replying to: A department store already in full Christmas swing, and the…_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))

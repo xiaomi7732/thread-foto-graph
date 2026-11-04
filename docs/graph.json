@@ -10,8 +10,20 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 359,
+      "reply_count": 364,
       "replies": [
+        {
+          "username": "demidova_nadezda",
+          "text": "The pattern is natural",
+          "permalink": "https://www.threads.com/@demidova_nadezda/post/DfTny7DlOkD",
+          "photos": [
+            "Description: This top-down view shows a dense cluster of fern fronds transitioning from vibrant green to a dry, golden-brown hue. The intricate geometry of the leaves fills the frame completely, creating a rich natural pattern. Photograph read: The flat, even lighting highlights the fine textures and earthy color gradient, creating a calm and orderly mood. Photo type: Nature study"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "cynthia_radcliff",
           "text": "",
@@ -19,10 +31,21 @@
           "photos": [
             "Description: A straight-on vertical shot captures the pale gray trunk of a young tree that grew through the diamond-shaped mesh of a chain-link fence, resulting in a dark, embossed diamond pattern wrapped around its bark. In the background, other slender tree trunks, green foliage, and scattered brown leaves are visible behind the silver wire fencing. Photograph read: The centered composition emphasizes the unusual diamond pattern formed by the fence, lit by even, natural light that highlights the contrast between the pale bark and dark indentations. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The diamond pressed into the bark is what got me - the tree just kept growing and took the fence with it. Do you pass this one often, or was it a lucky glance on a walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTj-MzjhUF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "friendlyvonne",
@@ -83,10 +106,32 @@
                   "text": "It\u2019s a piece hanging on the wall in the motel room I\u2019m staying at tonight. I thought it would be a good piece for texture .",
                   "permalink": "https://www.threads.com/@abnerabel125/post/DfTdBBJGwvU",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A motel-room wall piece turning into a pattern entry is exactly the kind of find this prompt is for. Glad you grabbed it before checkout.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfTj_d9jRNd",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "abnerabel125",
+                          "text": "Me too !",
+                          "permalink": "https://www.threads.com/@abnerabel125/post/DfTkpUVlMXa",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -185,10 +230,21 @@
                   "text": "Oh thanks. It's a bus stop shelter with sunlight coming through the roof at the right angle to project this image onto the pavement. I just happened to be there at the right time waiting for the next bus!",
                   "permalink": "https://www.threads.com/@jbrucewilcox/post/DfTgmCTlnmL",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Right place, right sun, right bus wait - that grid landing on the pavement for just a few minutes makes the shot. Lovely bit of timing.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfTkBKPDj3K",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
