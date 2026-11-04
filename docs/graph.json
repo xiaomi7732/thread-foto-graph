@@ -10,8 +10,59 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 104,
+      "reply_count": 121,
       "replies": [
+        {
+          "username": "reverendbenzo",
+          "text": "",
+          "permalink": "https://www.threads.com/@reverendbenzo/post/DfVQ5XDCb37",
+          "photos": [
+            "Description: A distant view of Alcatraz Island sits in the middle of a body of water under a hazy, overcast sky. A ferry or boat appears near the right side of the island. Photograph read: Captured from afar at eye level, the low-contrast lighting and atmospheric haze create a calm yet distant mood. Photo type: Documentary snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "craigkeepingbusy",
+          "text": "",
+          "permalink": "https://www.threads.com/@craigkeepingbusy/post/DfVPDZHm_sU",
+          "photos": [
+            "Description: A wide, terraced landscape with shimmering pools of water extends toward a distant treeline under a cloudy sky, with a walking path on the left. A person wearing a white jacket and dark trousers walks along the gravel path in the foreground. Photograph read: The wide-angle composition frames the reflective terraces receding toward the background, lit by diffused daylight under an overcast sky that creates a cool, moody atmosphere. Photo type: Documentary snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "gndandweroffofficial",
+          "text": "",
+          "permalink": "https://www.threads.com/@gndandweroffofficial/post/DfVN4SNkas6",
+          "photos": [
+            "Description: Water splashes vigorously against a textured brown rock, sending a spray of distinct droplets into the air. The bright, natural light highlights the clear, glistening droplets suspended against a softly blurred background. Photograph read: Captured with a fast shutter speed to freeze motion, the vertical composition emphasizes the rising spray illuminated by direct light, creating a dynamic and refreshing mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "fragilita_12",
+          "text": "",
+          "permalink": "https://www.threads.com/@fragilita_12/post/DfVMq-6iMcH",
+          "photos": [
+            "Description: A scenic alpine lake with sparkling deep blue water features several moored sailboats under a partly cloudy sky, framed by bright green overhead foliage and a towering dark mountain in the background. Photograph read: The vertically framed landscape employs natural framing with tree branches to guide the eye toward the distant mountain and sunlit water, creating a serene and expansive outdoor mood. Photo type: Travel snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "syldelteglia",
           "text": "",
@@ -19,10 +70,32 @@
           "photos": [
             "Description: A grand, ornate stone building clings to a rugged cliffside that drops dramatically into the deep blue sea. In the distance, a coastline and marine structures stretch under a clear blue sky, evoking a coastal European vacation vibe. Photograph read: Captured in bright, direct daylight, the vertical composition emphasizes the towering height of the cliffside architecture against the vast expanse of the sea. Photo type: Travel snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That glitter on the water at the foot of the cliff steals the whole frame. What made you stop at this spot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVMSZ9mCBo",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "syldelteglia",
+                  "text": "The view was breathtaking, but I couldn't capture the turquoise hues that stopped me in my tracks.",
+                  "permalink": "https://www.threads.com/@syldelteglia/post/DfVQvB9Ft9k",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "darrincastle",
@@ -31,10 +104,32 @@
           "photos": [
             "Description:"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two ducks, one quiet pond, and a sky on fire - how long did you sit with this one before shooting?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVMXjKoJJI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "darrincastle",
+                  "text": "I had been scoping it out for a few days, and the ducks were there one morning. Has D to wait a out a half hour for them to come out to the middle. And by then the sky color worked even better",
+                  "permalink": "https://www.threads.com/@darrincastle/post/DfVQk5wkhId",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "cynthia_radcliff",
@@ -43,10 +138,32 @@
           "photos": [
             "Description: A narrow stream meanders through dense foliage, with the bright sky reflecting on its surface. Trees showing early autumn colors frame the banks on either side. Photograph read: The vertical composition uses the stream as a central leading line, illuminated by natural daylight casting soft reflections on the water's surface. Photo type: Landscape snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think standing above the stream was a good call - the sky lands right down the middle of the water. Do you walk this stretch often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVMY82lKQ-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "cynthia_radcliff",
+                  "text": "It's new to me but it could be a favorite soon",
+                  "permalink": "https://www.threads.com/@cynthia_radcliff/post/DfVMpnLARKL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "hannele.heikkinen",
@@ -73,10 +190,21 @@
                   "text": "It was only a short walk from the parking place",
                   "permalink": "https://www.threads.com/@hannele.heikkinen/post/DfVIuEmjjWU",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Thanks for sharing it - that blue is still in my head.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVMaL5iSM2",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -150,7 +278,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "karen_osato_photography",
+                  "text": "This was taken down in Laguna when there was still sand. I was on a rock and parallel with the shore. It was one of the few times I\u2019ve tried slow shutter on waves. I need to get back out and do some more.",
+                  "permalink": "https://www.threads.com/@karen_osato_photography/post/DfVLjraAeAs",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -185,6 +324,16 @@
                   "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "joel_chapman",
+                      "text": "Yeah the Pembroke coastline is pretty amazing",
+                      "permalink": "https://www.threads.com/@joel_chapman/post/DfVQbv8EYYi",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "saars.foto",
                       "text": "That coastline holds up from every angle. Thanks for sharing it.",
@@ -226,10 +375,32 @@
                   "text": "It was a part of the plan. I liked the slight movement \ud83d\ude42",
                   "permalink": "https://www.threads.com/@brownieone/post/DfVKP9lCJGc",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A keeper, plain and simple. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVMbZ8GKKm",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "brownieone",
+                          "text": "Thank you \ud83d\ude42",
+                          "permalink": "https://www.threads.com/@brownieone/post/DfVPv_mCCBo",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -254,7 +425,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ritaveeps",
+                  "text": "No, a church garden",
+                  "permalink": "https://www.threads.com/@ritaveeps/post/DfVNk1GjyP4",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -864,7 +1046,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sarahcahillsena",
+                  "text": "We had to stay 20 feet back - so there was a little bit of zoom They were the highlight of the day",
+                  "permalink": "https://www.threads.com/@sarahcahillsena/post/DfVPuOulCWg",
+                  "photos": [
+                    "Description: Several sea turtles rest on a black sand beach next to crashing ocean waves under a sunny sky. A sign in the foreground reads \"LET THE HONU REST\" while onlookers observe from a distance. Photograph read: The wide-angle composition captures a bright, sunny coastal scene with natural lighting, creating a documentary mood that highlights the juxtaposition of wildlife and tourism. Photo type: Documentary snapshot"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
