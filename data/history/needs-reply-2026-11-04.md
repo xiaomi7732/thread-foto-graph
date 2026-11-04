@@ -4,21 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (26)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **kes_ward**:  ([link](https://www.threads.com/@kes_ward/post/DfVAZTHjnZ6))
-  - Photo: Description: A wide, black-and-white landscape captures a river weir flowing strongly under a dramatic, cloudy sky, with a metal walkway curving along the left bank. The churning water appears smooth and blurred, creating a serene contrast with the dark trees and stormy clouds. Photograph read: The wide-angle composition follows the sweeping curve of the weir and walkway, utilizing high-contrast monochrome lighting to enhance the moody, ethereal texture of the blurred water. Photo type: Artistic
-- **karen_osato_photography**: The only picture I’m posting today 😊 ([link](https://www.threads.com/@karen_osato_photography/post/DfVALoBmMWT))
-  - Photo: Description: A small wave curls gracefully, its translucent, glassy blue crest catching bright sunlight against a backdrop of churned-up white foam. Photograph read: The tight framing and shallow depth of field emphasize the smooth, silky texture of the water under crisp, natural lighting, creating a dynamic and serene mood. Photo type: Artistic
-- **joel_chapman**:  ([link](https://www.threads.com/@joel_chapman/post/DfU-ZbcETZJ))
-  - Photo: Description: A top-down aerial view captures dark ocean water crashing against rugged, rocky cliffs on the right side of the frame. White foam patterns swirl where the waves meet the shore, highlighting the contrast between the deep sea and the textured earth. Photograph read: The high-angle vertical composition creates a stark divide between the dark textured water and the rugged coastline, with bright sunlight glinting off the surface and creating a moody, dramatic atmosphere. Photo type: Documentary
-- **goranka.miladinovic**: I was in a balloon cca 150m high ([link](https://www.threads.com/@goranka.miladinovic/post/DfU_ShvEYqv))
-  - Photo: Description: An elevated, wide-angle daytime shot captures a wide river spanned by a towering cable-stayed bridge, with dense, autumn-hued trees lining the near bank and moored boats lining the docks. In the distance, a hazy city skyline stretches across the horizon under a bright blue sky. Photograph read: The composition uses a high vantage point to emphasize the converging lines of the bridge and the curving river, illuminated by bright daylight that casts crisp details across the vibrant foliage and docks. Photo type: Travel snapshot
-  - Photo: Description: A tethered white hot air balloon with branding for Expo 2027 floats high in the clear blue sky. Bright autumn foliage frames the top of the frame, with the tops of distant green and golden trees visible along the bottom. Photograph read: Captured from a low-angle perspective under bright, clear daylight, the image uses the natural frame of golden autumn leaves to draw the eye toward the centered balloon against a vibrant blue sky. Photo type: Snapshot
-  - _Replying to: The fountain sitting right in the middle of all that blue i…_
-- **resnicklr**: End of a hike. ([link](https://www.threads.com/@resnicklr/post/DfU9w7jmhvf))
-  - _Replying to: That turquoise against the dark cliffs is the whole postcar…_
+- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DfVBV6dGmGd))
+  - Photo: Description: A lone sculler rows a single scull across calm water, passing beneath a multi-arched stone bridge under a clear blue sky. Photograph read: Captured from an elevated perspective, the scene relies on natural horizontal lines and soft morning light to create a tranquil, contemplative mood. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **lozejectthetape**: I sit for hours sometimes. Patience. ([link](https://www.threads.com/@lozejectthetape/post/DfVB4cNmRpF))
+  - _Replying to: Just one surfer and all that empty ocean - how long did you…_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
   - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
 - **srravi**: It was with a Nikon D610 paired with a Tamron 15-30mm f/2.8VR with aperture priority at f/5.6. Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfU6H_NEiCm))

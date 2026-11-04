@@ -10,8 +10,23 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 84,
+      "reply_count": 91,
       "replies": [
+        {
+          "username": "susanrutledge",
+          "text": "",
+          "permalink": "https://www.threads.com/@susanrutledge/post/DfVBV6dGmGd",
+          "photos": [
+            "Description: A lone sculler rows a single scull across calm water, passing beneath a multi-arched stone bridge under a clear blue sky. Photograph read: Captured from an elevated perspective, the scene relies on natural horizontal lines and soft morning light to create a tranquil, contemplative mood. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kes_ward",
           "text": "",
@@ -19,10 +34,21 @@
           "photos": [
             "Description: A wide, black-and-white landscape captures a river weir flowing strongly under a dramatic, cloudy sky, with a metal walkway curving along the left bank. The churning water appears smooth and blurred, creating a serene contrast with the dark trees and stormy clouds. Photograph read: The wide-angle composition follows the sweeping curve of the weir and walkway, utilizing high-contrast monochrome lighting to enhance the moody, ethereal texture of the blurred water. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The walkway curve leads the eye right into that silk-smooth water. How long did the exposure run to turn the weir into this?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVCYgImrKE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "karen_osato_photography",
@@ -31,10 +57,21 @@
           "photos": [
             "Description: A small wave curls gracefully, its translucent, glassy blue crest catching bright sunlight against a backdrop of churned-up white foam. Photograph read: The tight framing and shallow depth of field emphasize the smooth, silky texture of the water under crisp, natural lighting, creating a dynamic and serene mood. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That glassy curl stopped my scroll cold. Were you in the water for this one, or watching from the shore?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVCZwTGPmO",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joel_chapman",
@@ -43,10 +80,21 @@
           "photos": [
             "Description: A top-down aerial view captures dark ocean water crashing against rugged, rocky cliffs on the right side of the frame. White foam patterns swirl where the waves meet the shore, highlighting the contrast between the deep sea and the textured earth. Photograph read: The high-angle vertical composition creates a stark divide between the dark textured water and the rugged coastline, with bright sunlight glinting off the surface and creating a moody, dramatic atmosphere. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "What does this stretch of coast look like from the ground, after seeing it straight down like this?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVCasHGPjt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "brownieone",
@@ -113,7 +161,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "lozejectthetape",
+                  "text": "I sit for hours sometimes. Patience.",
+                  "permalink": "https://www.threads.com/@lozejectthetape/post/DfVB4cNmRpF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -169,10 +228,21 @@
                     "Description: An elevated, wide-angle daytime shot captures a wide river spanned by a towering cable-stayed bridge, with dense, autumn-hued trees lining the near bank and moored boats lining the docks. In the distance, a hazy city skyline stretches across the horizon under a bright blue sky. Photograph read: The composition uses a high vantage point to emphasize the converging lines of the bridge and the curving river, illuminated by bright daylight that casts crisp details across the vibrant foliage and docks. Photo type: Travel snapshot",
                     "Description: A tethered white hot air balloon with branding for Expo 2027 floats high in the clear blue sky. Bright autumn foliage frames the top of the frame, with the tops of distant green and golden trees visible along the bottom. Photograph read: Captured from a low-angle perspective under bright, clear daylight, the image uses the natural frame of golden autumn leaves to draw the eye toward the centered balloon against a vibrant blue sky. Photo type: Snapshot"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "150 metres up explains that wide river view, and the autumn leaves framing the balloon back on the ground ties the whole outing together beautifully.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVCb6RmL1M",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -247,10 +317,21 @@
                   "text": "End of a hike.",
                   "permalink": "https://www.threads.com/@resnicklr/post/DfU9w7jmhvf",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "End of a hike is the perfect caption for it. That turquoise looks like a reward after the climb.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVCdrTHd9R",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
