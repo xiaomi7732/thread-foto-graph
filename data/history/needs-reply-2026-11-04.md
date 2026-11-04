@@ -7,11 +7,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (26)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DfVBV6dGmGd))
-  - Photo: Description: A lone sculler rows a single scull across calm water, passing beneath a multi-arched stone bridge under a clear blue sky. Photograph read: Captured from an elevated perspective, the scene relies on natural horizontal lines and soft morning light to create a tranquil, contemplative mood. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **lozejectthetape**: I sit for hours sometimes. Patience. ([link](https://www.threads.com/@lozejectthetape/post/DfVB4cNmRpF))
-  - _Replying to: Just one surfer and all that empty ocean - how long did you…_
+- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DfVFbMwjvzn))
+  - Photo: Description: A narrow waterfall plunges through a deep, moss-covered rocky gorge into a vivid blue stream. The steep vertical perspective emphasizes the dramatic depth of the canyon. Photograph read: The vertical composition uses the natural framing of the gorge walls to draw the eye downward from the distant waterfall to the deep blue water below. Photo type: Documentary
+- **joel_chapman**:  ([link](https://www.threads.com/@joel_chapman/post/DfVF6gOETV6))
+  - Photo: Description: A high-angle coastal view captures rugged green cliffs meeting a deep blue ocean under a clear sky. Waves crash against the rocky shorelines in the foreground and along the distant headlands. Photograph read: The vertical composition uses natural sunlight to highlight the textured cliffs and the frothy white sea foam, creating a serene and expansive coastal mood. Photo type: Landscape
+  - _Replying to: What does this stretch of coast look like from the ground, …_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
   - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
 - **srravi**: It was with a Nikon D610 paired with a Tamron 15-30mm f/2.8VR with aperture priority at f/5.6. Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfU6H_NEiCm))

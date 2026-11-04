@@ -10,8 +10,20 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 91,
+      "reply_count": 97,
       "replies": [
+        {
+          "username": "hannele.heikkinen",
+          "text": "",
+          "permalink": "https://www.threads.com/@hannele.heikkinen/post/DfVFbMwjvzn",
+          "photos": [
+            "Description: A narrow waterfall plunges through a deep, moss-covered rocky gorge into a vivid blue stream. The steep vertical perspective emphasizes the dramatic depth of the canyon. Photograph read: The vertical composition uses the natural framing of the gorge walls to draw the eye downward from the distant waterfall to the deep blue water below. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "susanrutledge",
           "text": "",
@@ -22,10 +34,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tiny sculler under the big stone arch - the scale of it stopped me. Was the morning really that still, or did the water just look it from up high?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVEGCwGJW2",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kes_ward",
@@ -92,7 +115,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "joel_chapman",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@joel_chapman/post/DfVF6gOETV6",
+                  "photos": [
+                    "Description: A high-angle coastal view captures rugged green cliffs meeting a deep blue ocean under a clear sky. Waves crash against the rocky shorelines in the foreground and along the distant headlands. Photograph read: The vertical composition uses natural sunlight to highlight the textured cliffs and the frothy white sea foam, creating a serene and expansive coastal mood. Photo type: Landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -167,10 +203,21 @@
                   "text": "I sit for hours sometimes. Patience.",
                   "permalink": "https://www.threads.com/@lozejectthetape/post/DfVB4cNmRpF",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Hours of waiting for one clean wave, and it shows - that patience is the whole shot.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVEHshGFew",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -196,7 +243,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ulrike6417",
+                  "text": "The crow!",
+                  "permalink": "https://www.threads.com/@ulrike6417/post/DfVFQG-kczs",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -240,7 +298,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "goranka.miladinovic",
+                          "text": "Thank you \ud83e\udd70\ud83c\udf39",
+                          "permalink": "https://www.threads.com/@goranka.miladinovic/post/DfVFFPNEUZp",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
