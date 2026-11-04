@@ -6,15 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (18)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **abnerabel125**:  ([link](https://www.threads.com/@abnerabel125/post/DfTUGUXmjcy))
-  - Photo: Description: This close-up photo shows a textured wall installation made of angled wooden blocks with varying grain patterns and warm orange tones. The diagonal alignment and repetition create a strong geometric pattern, making it suitable for a design-focused post. Photograph read: The shallow depth of field sharply focuses on the foreground blocks while the background softly blurs, creating an intimate, warm mood under directional lighting that accentuates the wood grain. Photo type: Artistic
-- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/DfTTIt3ATm_))
-  - Photo: Description: Rows of tall, dark-wood display cabinets with glass doors line the wall of a historic room, filled with illuminated silverware and plates. Small round tables with white-covered chairs are arranged neatly in front of the cabinets on a checkerboard floor. Photograph read: The wide-angle composition captures the length of the grand display wall under soft, warm lighting that highlights the polished silverware and tiled floor. Photo type: Documentary
-- **leearthur1109**: I was just passing by, so it would be backlit. ([link](https://www.threads.com/@leearthur1109/post/DfTQE1KD61y))
-  - _Replying to: Those gold diamonds are doing all the work - the white chev…_
+- **friendlyvonne**:  ([link](https://www.threads.com/@friendlyvonne/post/DfTceW0E4jt))
+  - Photo: Description: A close-up, straight-on view of a modern building facade features a grid of golden-yellow balconies with curved, wave-like edges and glass railings. The repeating geometric pattern fills the frame, creating a striking architectural texture. Photograph read: The flat, even daylight emphasizes the clean geometric grid and warm mustard-yellow tones, resulting in a graphic, ordered mood. Photo type: Architectural
 - **posts.by.norman**: In the Philippines, the holiday season starts at the onset of the -ber months, i.e., September. Hehe. ▓▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTQiHxn5RY))
   - _Replying to: A department store already in full Christmas swing, and the…_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
