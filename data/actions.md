@@ -6,11 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (18)
+## Needs Reply (19)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **demidova_nadezda**: The pattern is natural ([link](https://www.threads.com/@demidova_nadezda/post/DfTny7DlOkD))
-  - Photo: Description: This top-down view shows a dense cluster of fern fronds transitioning from vibrant green to a dry, golden-brown hue. The intricate geometry of the leaves fills the frame completely, creating a rich natural pattern. Photograph read: The flat, even lighting highlights the fine textures and earthy color gradient, creating a calm and orderly mood. Photo type: Nature study
+- **nickydaphotography**:  ([link](https://www.threads.com/@nickydaphotography/post/DfTwcjDn1qr))
+  - Photo: Description: A low-angle, close-up shot captures the dense facade of a massive residential building with repeating rows of protruding balconies and air conditioning units. The strong vertical lines and geometric patterns fill the frame against a pale blue sky. Photograph read: The tight, diagonal framing emphasizes the rhythmic repetition of architectural elements, while harsh sunlight creates deep, contrasting shadows that enhance the geometric texture of the building. Photo type: Architectural
+- **cynthia_radcliff**: Went to a restaurant we'd never been to and wound up parked in front of the tree. ([link](https://www.threads.com/@cynthia_radcliff/post/DfTsLD8lNcx))
+  - _Replying to: The diamond pressed into the bark is what got me - the tree…_
 - **posts.by.norman**: In the Philippines, the holiday season starts at the onset of the -ber months, i.e., September. Hehe. ▓▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTQiHxn5RY))
   - _Replying to: A department store already in full Christmas swing, and the…_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
