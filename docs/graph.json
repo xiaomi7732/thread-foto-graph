@@ -10,8 +10,20 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 367,
+      "reply_count": 371,
       "replies": [
+        {
+          "username": "the_real_jdu",
+          "text": "",
+          "permalink": "https://www.threads.com/@the_real_jdu/post/DfT0PGNFenX",
+          "photos": [
+            "Description: A detailed, centered close-up of a dark wooden door features an ornate, light gray metal grill insert. A small blue plaque with white text reading \"13 a\" is affixed above the intricate grille, which centers around a classic sculptural face relief. Photograph read: The shot uses a straight-on, symmetrical composition and even, diffused lighting to emphasize the rich textures and craftsmanship of the wood and ironwork. Photo type: Architectural detail"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "nickydaphotography",
           "text": "",
@@ -19,10 +31,32 @@
           "photos": [
             "Description: A low-angle, close-up shot captures the dense facade of a massive residential building with repeating rows of protruding balconies and air conditioning units. The strong vertical lines and geometric patterns fill the frame against a pale blue sky. Photograph read: The tight, diagonal framing emphasizes the rhythmic repetition of architectural elements, while harsh sunlight creates deep, contrasting shadows that enhance the geometric texture of the building. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Every window seems to have its own little air-con box keeping time - I think the low angle is a good call, it turns the whole facade into a rhythm. Did you tilt up to catch that diagonal, or was the building doing all the work?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfTx03QG6L9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "nickydaphotography",
+                  "text": "I guess the sunlight did the most of it",
+                  "permalink": "https://www.threads.com/@nickydaphotography/post/DfTzA28H2Bo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "demidova_nadezda",
@@ -72,10 +106,21 @@
                   "text": "Went to a restaurant we'd never been to and wound up parked in front of the tree.",
                   "permalink": "https://www.threads.com/@cynthia_radcliff/post/DfTsLD8lNcx",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "What a happy accident - a first visit, and the tree was waiting right there in front of you. That kind of luck is worth parking for.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfTx2TtG_G9",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

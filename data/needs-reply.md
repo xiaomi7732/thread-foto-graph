@@ -7,10 +7,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (19)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **nickydaphotography**:  ([link](https://www.threads.com/@nickydaphotography/post/DfTwcjDn1qr))
-  - Photo: Description: A low-angle, close-up shot captures the dense facade of a massive residential building with repeating rows of protruding balconies and air conditioning units. The strong vertical lines and geometric patterns fill the frame against a pale blue sky. Photograph read: The tight, diagonal framing emphasizes the rhythmic repetition of architectural elements, while harsh sunlight creates deep, contrasting shadows that enhance the geometric texture of the building. Photo type: Architectural
-- **cynthia_radcliff**: Went to a restaurant we'd never been to and wound up parked in front of the tree. ([link](https://www.threads.com/@cynthia_radcliff/post/DfTsLD8lNcx))
-  - _Replying to: The diamond pressed into the bark is what got me - the tree…_
+- **the_real_jdu**:  ([link](https://www.threads.com/@the_real_jdu/post/DfT0PGNFenX))
+  - Photo: Description: A detailed, centered close-up of a dark wooden door features an ornate, light gray metal grill insert. A small blue plaque with white text reading "13 a" is affixed above the intricate grille, which centers around a classic sculptural face relief. Photograph read: The shot uses a straight-on, symmetrical composition and even, diffused lighting to emphasize the rich textures and craftsmanship of the wood and ironwork. Photo type: Architectural detail
+- **nickydaphotography**: I guess the sunlight did the most of it ([link](https://www.threads.com/@nickydaphotography/post/DfTzA28H2Bo))
+  - _Replying to: Every window seems to have its own little air-con box keepi…_
 - **posts.by.norman**: In the Philippines, the holiday season starts at the onset of the -ber months, i.e., September. Hehe. ▓▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTQiHxn5RY))
   - _Replying to: A department store already in full Christmas swing, and the…_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
