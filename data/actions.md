@@ -6,15 +6,31 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (19)
+## Needs Reply (26)
+
+### Pattern Tuesday favorites 🏆 3 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfT8-0TGyBu))
+- **tallerthanyou2026**: Was at night 😊 ([link](https://www.threads.com/@tallerthanyou2026/post/DfUcq14m68S))
+  - _Replying to: @tallerthanyou2026 Glowing cubes that print their own patte…_
+- **stickyshutterphotography**: It's the ceiling at Kingscross railway station in London, it changes colour with lights fixed around the outer edge. You can see different effects if you have a look on Google. ([link](https://www.threads.com/@stickyshutterphotography/post/DfUFr9djh0c))
+  - _Replying to: @stickyshutterphotography That blue lattice tunnel pulls yo…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
-- **the_real_jdu**:  ([link](https://www.threads.com/@the_real_jdu/post/DfT0PGNFenX))
-  - Photo: Description: A detailed, centered close-up of a dark wooden door features an ornate, light gray metal grill insert. A small blue plaque with white text reading "13 a" is affixed above the intricate grille, which centers around a classic sculptural face relief. Photograph read: The shot uses a straight-on, symmetrical composition and even, diffused lighting to emphasize the rich textures and craftsmanship of the wood and ironwork. Photo type: Architectural detail
-- **nickydaphotography**: I guess the sunlight did the most of it ([link](https://www.threads.com/@nickydaphotography/post/DfTzA28H2Bo))
-  - _Replying to: Every window seems to have its own little air-con box keepi…_
+- **gazzybear76**:  ([link](https://www.threads.com/@gazzybear76/post/DfUnJhYjGul))
+  - Photo: Description: This close-up, vertical shot captures the intricate, geometric facade of a modern building at night. Rows of angled, perforated metal panels create a striking, textured pattern across the entire frame. Photograph read: The tight vertical composition emphasizes the rhythmic, repeating facade elements under dim ambient lighting, creating a sleek, moody, and architectural atmosphere. Photo type: Architectural
+- **akarinzxzx**:  ([link](https://www.threads.com/@akarinzxzx/post/DfUmSw4ozJl))
+  - Photo: Description: Warm sunlight streams through a window, casting bright rectangular shapes and long shadows across a textured, rustic indoor wall. In the lower right corner, the dusty remains of cobwebs catch the golden light, adding a quiet, abandoned atmosphere to the scene. Photograph read: The vertical composition uses strong diagonal shadow lines and soft, golden light to create a quiet, contemplative mood. Photo type: Artistic
+- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/DfUUZJAgF9v))
+  - Photo: Description: A tall, arched stained-glass window with a grid pattern of red and blue panes sits deep within a recessed stone wall. The patterned glass features repeated crown motifs, suggesting a historical or ecclesiastical setting. Photograph read: The vertically framed composition centers the brightly illuminated window between dark, textured stone reveals, creating a moody contrast that emphasizes the rich colors of the stained glass. Photo type: Architectural capture
+- **c0de420_**:  ([link](https://www.threads.com/@c0de420_/post/DfUHUnBoHr0))
+  - Photo: Description: This low-angle shot captures the modern architectural exterior of a building featuring ribbed bronze-toned paneling and a large cantilevered roof overhang. The overcast sky creates a diffused, even light across the facade. Photograph read: The low-angle perspective emphasizes the sweeping geometric lines and metallic textures under soft, flat daylight. Photo type: Architectural
+- **parkera16**:  ([link](https://www.threads.com/@parkera16/post/DfUAo-bETRa))
+  - Photo: Description: A close-up macro view showcases the intricate, spiraled petals of a yellow and reddish dahlia flower in full bloom. The tightly packed layers draw the eye toward the vibrant center. Photograph read: The tight macro composition creates a bold, symmetrical pattern with warm, even lighting that emphasizes the smooth texture of the tubular petals. Photo type: Artistic
+- **demidova_nadezda**: Unfortunately, I didn't find this fern where I live, so I can't answer your question. But he was really handsome. ([link](https://www.threads.com/@demidova_nadezda/post/DfT4ERQGxyF))
+  - _Replying to: That green-to-gold gradient does all the talking - the fron…_
 - **posts.by.norman**: In the Philippines, the holiday season starts at the onset of the -ber months, i.e., September. Hehe. ▓▓ ([link](https://www.threads.com/@posts.by.norman/post/DfTQiHxn5RY))
   - _Replying to: A department store already in full Christmas swing, and the…_
+- **edithbruurs**: Thanks! It’s in a shoppingmall in Breda, the Netherlands. Called the ‘Barones’. ([link](https://www.threads.com/@edithbruurs/post/DfUKiMeDSNO))
+  - _Replying to: I think looking straight up was exactly the right call - th…_
 - **5x120.65**: it's also real high focal length lens ~400mm so it flattens the wall really well ([link](https://www.threads.com/@5x120.65/post/DfS5U7zncRA))
   - _Replying to: Those little green channels are doing all the work here - t…_
 - **carolformanphotography**: So you get it 🙏🏻💙💜❤️ ([link](https://www.threads.com/@carolformanphotography/post/DfTKuknls_Y))
@@ -59,9 +75,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (25)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfSKCoDDoTC))
+- nickydaphotography: Thanks a lot! ([link](https://www.threads.com/@nickydaphotography/post/DfT_3ZeH1_0))
 - friendlyvonne: Both ([link](https://www.threads.com/@friendlyvonne/post/DfTiruWEw_I))
 - abnerabel125: Me too ! ([link](https://www.threads.com/@abnerabel125/post/DfTkpUVlMXa))
 - lerwin54: Rechargeable lights. ([link](https://www.threads.com/@lerwin54/post/DfTRpAuDPmA))
