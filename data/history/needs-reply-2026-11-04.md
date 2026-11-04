@@ -4,33 +4,24 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (31)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **reverendbenzo**:  ([link](https://www.threads.com/@reverendbenzo/post/DfVQ5XDCb37))
-  - Photo: Description: A distant view of Alcatraz Island sits in the middle of a body of water under a hazy, overcast sky. A ferry or boat appears near the right side of the island. Photograph read: Captured from afar at eye level, the low-contrast lighting and atmospheric haze create a calm yet distant mood. Photo type: Documentary snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **craigkeepingbusy**:  ([link](https://www.threads.com/@craigkeepingbusy/post/DfVPDZHm_sU))
-  - Photo: Description: A wide, terraced landscape with shimmering pools of water extends toward a distant treeline under a cloudy sky, with a walking path on the left. A person wearing a white jacket and dark trousers walks along the gravel path in the foreground. Photograph read: The wide-angle composition frames the reflective terraces receding toward the background, lit by diffused daylight under an overcast sky that creates a cool, moody atmosphere. Photo type: Documentary snapshot
-- **gndandweroffofficial**:  ([link](https://www.threads.com/@gndandweroffofficial/post/DfVN4SNkas6))
-  - Photo: Description: Water splashes vigorously against a textured brown rock, sending a spray of distinct droplets into the air. The bright, natural light highlights the clear, glistening droplets suspended against a softly blurred background. Photograph read: Captured with a fast shutter speed to freeze motion, the vertical composition emphasizes the rising spray illuminated by direct light, creating a dynamic and refreshing mood. Photo type: Snapshot
-- **fragilita_12**:  ([link](https://www.threads.com/@fragilita_12/post/DfVMq-6iMcH))
-  - Photo: Description: A scenic alpine lake with sparkling deep blue water features several moored sailboats under a partly cloudy sky, framed by bright green overhead foliage and a towering dark mountain in the background. Photograph read: The vertically framed landscape employs natural framing with tree branches to guide the eye toward the distant mountain and sunlit water, creating a serene and expansive outdoor mood. Photo type: Travel snapshot
-- **syldelteglia**: The view was breathtaking, but I couldn't capture the turquoise hues that stopped me in my tracks. ([link](https://www.threads.com/@syldelteglia/post/DfVQvB9Ft9k))
-  - _Replying to: That glitter on the water at the foot of the cliff steals t…_
-- **darrincastle**: I had been scoping it out for a few days, and the ducks were there one morning. Has D to wait a out a half hour for them to come out to the middle. And by then the sky color worked even better ([link](https://www.threads.com/@darrincastle/post/DfVQk5wkhId))
-  - _Replying to: Two ducks, one quiet pond, and a sky on fire - how long did…_
-- **cynthia_radcliff**: It's new to me but it could be a favorite soon ([link](https://www.threads.com/@cynthia_radcliff/post/DfVMpnLARKL))
-  - _Replying to: I think standing above the stream was a good call - the sky…_
-- **karen_osato_photography**: This was taken down in Laguna when there was still sand. I was on a rock and parallel with the shore. It was one of the few times I’ve tried slow shutter on waves. I need to get back out and do some more. ([link](https://www.threads.com/@karen_osato_photography/post/DfVLjraAeAs))
-  - _Replying to: That glassy curl stopped my scroll cold. Were you in the wa…_
+- **greghillman11**:  ([link](https://www.threads.com/@greghillman11/post/DfVYPEWk75j))
+  - Photo: Description: A flock of dark birds flies in front of a powerful, churning waterfall cascading past dark rock faces and thick mist. The dramatic, high-energy scene creates a striking contrast between the tiny birds and the massive scale of the falls. Photograph read: The high-contrast diagonal composition emphasizes movement, with bright, blown-out highlights in the rushing water and muted natural lighting that creates a moody atmosphere. Photo type: Documentary
+    - Watch-outs: Highlights clipped to white in the turbulent water and mist.
+- **reverendbenzo**: I didn't want to pay to go out there and that's as close as I could get. I actually reached as far as I could over a barrier. ([link](https://www.threads.com/@reverendbenzo/post/DfVT27AiWCB))
+  - _Replying to: That haze turns the island into a silhouette with a story. …_
+- **craigkeepingbusy**: Wai-O-Tapu, NZ ([link](https://www.threads.com/@craigkeepingbusy/post/DfVSzFQGwEL))
+  - _Replying to: A whole landscape of shallow water and sky. Where was this …_
+- **gndandweroffofficial**: Fast capture and up to my thighs in the water. ([link](https://www.threads.com/@gndandweroffofficial/post/DfVWb7WEeyb))
+  - _Replying to: I think freezing the splash mid-air was a good call - every…_
+- **fragilita_12**: Qiut long. I was speachless ([link](https://www.threads.com/@fragilita_12/post/DfVVQN5CN43))
+  - _Replying to: How long did you sit with this view before taking the shot?_
+- **kes_ward**: This was 5s at f8, ISO 64. I was also lucky to have the sky too as I feel it adds just the right amount of texture. It’s a lovely spot to stop at. Must go back. ([link](https://www.threads.com/@kes_ward/post/DfVXXvEGY3t))
+  - _Replying to: The walkway curve leads the eye right into that silk-smooth…_
 - **joel_chapman**: Yeah the Pembroke coastline is pretty amazing ([link](https://www.threads.com/@joel_chapman/post/DfVQbv8EYYi))
   - _Replying to: (photo reply, no text)_
-- **ritaveeps**: No, a church garden ([link](https://www.threads.com/@ritaveeps/post/DfVNk1GjyP4))
-  - _Replying to: So fresh you can almost feel the rain still on the leaves. …_
-- **sarahcahillsena**: We had to stay 20 feet back - so there was a little bit of zoom They were the highlight of the day ([link](https://www.threads.com/@sarahcahillsena/post/DfVPuOulCWg))
-  - Photo: Description: Several sea turtles rest on a black sand beach next to crashing ocean waves under a sunny sky. A sign in the foreground reads "LET THE HONU REST" while onlookers observe from a distance. Photograph read: The wide-angle composition captures a bright, sunny coastal scene with natural lighting, creating a documentary mood that highlights the juxtaposition of wildlife and tourism. Photo type: Documentary snapshot
-  - _Replying to: This one made me smile - two turtles sunning on black sand …_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
   - _Replying to: That patience paid off - waiting for the breeze to stop gav…_
 - **srravi**: It was with a Nikon D610 paired with a Tamron 15-30mm f/2.8VR with aperture priority at f/5.6. Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfU6H_NEiCm))
