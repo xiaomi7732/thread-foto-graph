@@ -6,21 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (25)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **muppy007**:  ([link](https://www.threads.com/@muppy007/post/DfUxSrLCO1Q))
-  - Photo: Description: A calm pond is surrounded by dense green and yellow trees under a clear blue sky. The still water mirrors the foliage and a patch of white cloud above. Photograph read: The high-angle perspective and bright daylight create a clean, crisp composition with natural reflections and a peaceful mood. Photo type: Snapshot
-- **srravi**: Ulun Danu Beratan ([link](https://www.threads.com/@srravi/post/DfUxLJdGosN))
-  - Photo: Description: A motorboat speeds across a large lake, leaving a white wake in the water. Lush, green hills and distant buildings line the shores under a dramatic sky filled with dark storm clouds and patches of bright blue. Photograph read: The wide-angle shot centers on the boat's motor in the foreground, capturing a dynamic, high-contrast scene where dark storm clouds on the left contrast with bright, sunlit skies on the right. Photo type: Travel snapshot
-- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DfUxKfkFisu))
-  - Photo: Description: Water cascades down a textured, illuminated surface, with dynamic droplets frozen mid-air in the foreground. Golden lights glow from beneath the water, creating a warm contrast against the cool, cascading stream. Photograph read: The vertical composition uses a fast shutter speed to freeze individual droplets, while overhead warm lighting creates glowing highlights amidst deep shadows and textured foam. Photo type: artistic
-- **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/DfUwlhECFle))
-  - Photo: Description: A set of dark railings frames a view of a choppy, dark sea under a heavy, moody sky, with the steps seemingly descending directly into the water. The scene evokes a chilling, otherworldly atmosphere suited for atmospheric storytelling or moody night photography. Photograph read: The symmetrical framing of the dark railings creates a strong leading line toward the luminous center of the sea, cast in a deep monochromatic blue twilight that feels mysterious and solitary. Photo type: Artistic
-- **nanceharder81**: Water - up close and far away. ([link](https://www.threads.com/@nanceharder81/post/DfUvhvFkYS9))
-  - Photo: Description: A calm, clear body of water reveals a pebbled red-brown lakebed in the foreground, with several distant sailboats resting on the horizon under a bright blue sky. A large, dark rock anchors the lower left corner of the frame. Photograph read: The vertical composition creates a layered view from the rocky shore through crystal-clear water to distant boats, illuminated by bright daylight that evokes a tranquil, peaceful mood. Photo type: Snapshot
-- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/DfUvY2vFj9X))
-  - Photo: Description: A calm river flows through a wooded landscape under a clear blue sky, framed by trees in the foreground with a rustic metal bridge visible in the distance. A person holding a phone is partially visible in the lower right corner, suggesting a casual outdoor snapshot taken during a walk. Photograph read: Framed by vertical tree trunks on the left and right, the composition uses natural elements to draw the eye toward the distant bridge under bright, direct daylight. Photo type: Snapshot
+- **whoissilver**:  ([link](https://www.threads.com/@whoissilver/post/DfUynXjkZ5M))
+  - Photo: Description: A brightly colored toy ray gun rests on a tangle of wire mesh and dark stones near a body of water. In the blurred background, a distant church steeple rises against an overcast sky. Photograph read: The composition uses a shallow depth of field to isolate the sharply focused toy in the foreground against a softly blurred, cool-toned landscape, creating a whimsical and surreal mood. Photo type: Artistic
+- **sarahcahillsena**:  ([link](https://www.threads.com/@sarahcahillsena/post/DfUyamSFIuY))
+  - Photo: Description: Two sea turtles rest on a dark volcanic sand beach near the ocean shore, with one closer in the lower right foreground and another further back near the rocky surf. Photograph read: Captured in bright daylight with a high-angle medium shot, the image highlights the contrast between the pale turtle shells and the dark sand under choppy blue waves. Photo type: Snapshot
+- **janfred1903**:  ([link](https://www.threads.com/@janfred1903/post/DfUxtBnFGqI))
+  - Photo: Description: A wooden pier extends into a glistening body of water under a bright sun and scattered white clouds. Several boats are moored near the docks, creating a serene and picturesque waterfront scene. Photograph read: The vertical composition uses strong backlighting to create sparkling highlights on the water's surface, framing a calm and radiant maritime mood. Photo type: Snapshot
+- **muppy007**: I took a chance when the breeze stopped. And thank you 😊 ([link](https://www.threads.com/@muppy007/post/DfUyTysiCTm))
+  - _Replying to: The yellow tree in the middle is what my eye keeps returnin…_
+- **nanceharder81**: Grand Marais, Minnesota ([link](https://www.threads.com/@nanceharder81/post/DfUyUtOETmc))
+  - _Replying to: Where were you standing when that rock, those pebbles and t…_
 
 ### Pattern Tuesday favorites 🏆 3 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfT8-0TGyBu))
 - **tallerthanyou2026**: Was at night 😊 ([link](https://www.threads.com/@tallerthanyou2026/post/DfUcq14m68S))
