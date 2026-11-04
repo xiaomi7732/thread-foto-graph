@@ -6,22 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (28)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **greghillman11**:  ([link](https://www.threads.com/@greghillman11/post/DfVYPEWk75j))
-  - Photo: Description: A flock of dark birds flies in front of a powerful, churning waterfall cascading past dark rock faces and thick mist. The dramatic, high-energy scene creates a striking contrast between the tiny birds and the massive scale of the falls. Photograph read: The high-contrast diagonal composition emphasizes movement, with bright, blown-out highlights in the rushing water and muted natural lighting that creates a moody atmosphere. Photo type: Documentary
-    - Watch-outs: Highlights clipped to white in the turbulent water and mist.
-- **reverendbenzo**: I didn't want to pay to go out there and that's as close as I could get. I actually reached as far as I could over a barrier. ([link](https://www.threads.com/@reverendbenzo/post/DfVT27AiWCB))
-  - _Replying to: That haze turns the island into a silhouette with a story. …_
-- **craigkeepingbusy**: Wai-O-Tapu, NZ ([link](https://www.threads.com/@craigkeepingbusy/post/DfVSzFQGwEL))
-  - _Replying to: A whole landscape of shallow water and sky. Where was this …_
-- **gndandweroffofficial**: Fast capture and up to my thighs in the water. ([link](https://www.threads.com/@gndandweroffofficial/post/DfVWb7WEeyb))
-  - _Replying to: I think freezing the splash mid-air was a good call - every…_
-- **fragilita_12**: Qiut long. I was speachless ([link](https://www.threads.com/@fragilita_12/post/DfVVQN5CN43))
-  - _Replying to: How long did you sit with this view before taking the shot?_
-- **kes_ward**: This was 5s at f8, ISO 64. I was also lucky to have the sky too as I feel it adds just the right amount of texture. It’s a lovely spot to stop at. Must go back. ([link](https://www.threads.com/@kes_ward/post/DfVXXvEGY3t))
-  - _Replying to: The walkway curve leads the eye right into that silk-smooth…_
+- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/DfVfHYIE2kF))
+  - Photo: Description: A bright, sunlit fountain erupts in the foreground with historical European architecture silhouetted against a clear blue sky. The vibrant splash of water creates a lively urban scene perfect for a travel post. Photograph read: The vertically framed shot features strong backlighting from the sun positioned high in the sky, casting the buildings and fountain base into stark shadow while highlighting the glistening water droplets. Photo type: Travel snapshot
+    - Watch-outs: Sun disc clipped to white; foreground elements in deep shadow.
+- **sallybloor1**:  ([link](https://www.threads.com/@sallybloor1/post/DfVexVqDaSX))
+  - Photo: Description: A single brown maple leaf floats on dark water, creating a slight reflection beneath its crumpled edges. Other smaller yellow leaves and green reflections dot the water's surface around it. Photograph read: The centered composition and soft focus on the water's surface create a tranquil, painterly mood. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
+  - _Replying to: Some views really do leave you speechless. Thanks for shari…_
 - **joel_chapman**: Yeah the Pembroke coastline is pretty amazing ([link](https://www.threads.com/@joel_chapman/post/DfVQbv8EYYi))
   - _Replying to: (photo reply, no text)_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
@@ -87,9 +82,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (30)
+## Needs Like (31)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
+- greghillman11: The later 😊 ([link](https://www.threads.com/@greghillman11/post/DfVbTAHE755))
 - hank_diss:  ([link](https://www.threads.com/@hank_diss/post/DfVSPoykqPa))
 - brownieone: Thank you 🙂 ([link](https://www.threads.com/@brownieone/post/DfVPv_mCCBo))
 - ulrike6417: The crow! ([link](https://www.threads.com/@ulrike6417/post/DfVFQG-kczs))
