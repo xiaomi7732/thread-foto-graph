@@ -10,8 +10,20 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 173,
+      "reply_count": 175,
       "replies": [
+        {
+          "username": "demidova_nadezda",
+          "text": "San Francisco",
+          "permalink": "https://www.threads.com/@demidova_nadezda/post/DfWFVCZFLy7",
+          "photos": [
+            "Description: A wide-angle evening shot captures a river reflecting the city lights and a colorful sunset sky filled with wispy clouds. Buildings line both banks of the waterway under the fading twilight. Photograph read: Centered composition capturing twilight lighting, creating a calm and reflective mood over the water. Photo type: Landscape snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "retrograde_60",
           "text": "Morning Dew",
@@ -103,10 +115,21 @@
                   "text": "Yes still, an inlet from the ocean.",
                   "permalink": "https://www.threads.com/@mapletreephotography_wpm/post/DfV-GO4DdaP",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A still inlet is hard to beat. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfWB31iG4Ir",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

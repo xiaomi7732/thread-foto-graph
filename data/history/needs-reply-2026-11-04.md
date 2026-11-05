@@ -7,10 +7,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (29)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
+- **demidova_nadezda**: San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/DfWFVCZFLy7))
+  - Photo: Description: A wide-angle evening shot captures a river reflecting the city lights and a colorful sunset sky filled with wispy clouds. Buildings line both banks of the waterway under the fading twilight. Photograph read: Centered composition capturing twilight lighting, creating a calm and reflective mood over the water. Photo type: Landscape snapshot
 - **retrograde_60**: Morning Dew ([link](https://www.threads.com/@retrograde_60/post/DfWBTf3FItI))
   - Photo: Description: A single fallen leaf rests on the ground surrounded by wood chips, dotted with numerous glistening water droplets. The image is rendered in high-contrast black and white. Photograph read: The high-contrast monochromatic lighting emphasizes the intricate vein structure of the leaf and the specular highlights on the water droplets. Photo type: Artistic
-- **mapletreephotography_wpm**: Yes still, an inlet from the ocean. ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfV-GO4DdaP))
-  - _Replying to: Was the harbor really that still? The low angle on those we…_
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
