@@ -1,8 +1,68 @@
 {
   "nodes": [
     {
+      "id": "18097715618142021",
+      "label": "water, description, photo, type",
+      "group": 0,
+      "snippet": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a\u2026",
+      "text": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a sapling, bark up close, branches against the sky - whatever caught your eye. This bark is all ridges and lichen, a whole landscape in one trunk - find me a tree with character in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Which tree do you keep going back to?",
+      "permalink": "https://www.threads.com/@saars.foto/post/DfXTpjPGwOd",
+      "photos": [
+        "Description: This vertical close-up shot features the rough, deeply furrowed brown bark of a tree trunk, punctuated by patches of pale green lichen and moss. The background is softly blurred, suggesting an outdoor or park setting. Photograph read: The tight framing emphasizes the intricate textures and earthy tones of the bark under natural daylight, creating a grounded, organic mood. Photo type: Detail study"
+      ],
+      "reply_count": 4,
+      "replies": [
+        {
+          "username": "madremyers",
+          "text": "The moss has taken over.",
+          "permalink": "https://www.threads.com/@madremyers/post/DfXUsseGxdW",
+          "photos": [
+            "Description: A low-angle shot captures a moss-covered, split tree trunk in a sunlit forest, reaching toward a clear blue sky. The rich textures of rough bark and vibrant green moss create a striking focal point surrounded by woodland foliage. Photograph read: The low-angle vertical composition emphasizes the height of the weathered tree against a bright, dappled canopy, illuminated by natural overhead light. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dcolwes",
+          "text": "",
+          "permalink": "https://www.threads.com/@dcolwes/post/DfXUemUkUT_",
+          "photos": [
+            "Description: A stark, weathered tree root system sits in the foreground on a hillside, overlooking a vast, rolling valley and distant mountains under a partly cloudy sky. This landscape view provides context for a hiking or nature"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "raylehr1783",
+          "text": "",
+          "permalink": "https://www.threads.com/@raylehr1783/post/DfXURUtkcNz",
+          "photos": [
+            "Description: A small cluster of white cherry blossoms emerges from the rough bark of a large, gnarled tree branch. In the background, water and a railing are visible under a bright blue sky. Photograph read: Warm, golden hour light illuminates the textured tree bark and delicate blossoms, creating a high-contrast composition with a tranquil mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "Yesterday's Water Wednesday favorites are up \ud83c\udfc6 An electric blue shoreline, birds over a waterfall, and a lone red paraglider: https://www.threads.com/@saars.foto/post/DfWnxKvnBoC",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfXT5LdFESl",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "17942310048383159",
-      "label": "water, description, photo, photograph",
+      "label": "water, description, photo, type",
       "group": 0,
       "snippet": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll\u2026",
       "text": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll: Brian Smith @briansmithphotography67 - electric blue shoreline Greg Hillman @greghillman11 - birds over waterfall Maurice @corwyn671 - lone red paraglider Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfWnjUdDwMB/",
@@ -12,7 +72,7 @@
         "Description: A massive, turbulent waterfall surges past dark, wet rock faces while a flock of small dark birds flies through the dense mist and spray. The image includes centered text near the bottom reading \"WATER WEDNESDAY FAVORITES\" and attribution to photographer Greg Hillman. Photograph read: Captured from a distance with a balanced composition, the high-contrast scene features bright, churning white water",
         "Description: A lone paraglider soars under a cloudy sky above coastal cliffs and breaking ocean waves. The graphic overlay reads \"WATER WEDNESDAY FAVORITES\" and credits \"Maurice @corwyn671.\" Photograph read"
       ],
-      "reply_count": 9,
+      "reply_count": 12,
       "replies": [
         {
           "username": "saars.foto",
@@ -28,10 +88,21 @@
               "text": "The lake has very few natural sediments or muddy runoff . All this allows the light to penetrate deeply before reflecting back to surface, the colour along the shoreline is shallow water. This shot is a JPEG Sooc of the camera , thank you for featuring my shot \ud83d\ude42",
               "permalink": "https://www.threads.com/@briansmithphotography67/post/DfWrWmmk7Nj",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Thanks for telling the story behind that blue. It makes the shot even better.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfXSSmpkZAk",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -70,10 +141,21 @@
               "text": "Not many, I rarely set my camera to burst mode, probably 4 or 5. This frame had the most birds so that's why I chose it. \u263a\ufe0f",
               "permalink": "https://www.threads.com/@greghillman11/post/DfWo-3iEw1E",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "That frame earned its place. Thanks for sharing how it came together.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfXSUH4FbY3",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -101,10 +183,21 @@
               "text": "I just did one I'm old school from the film days of photography. Make every shot count my teacher would say. Don't waste film.",
               "permalink": "https://www.threads.com/@corwyn671/post/DfW-jtkGwPB",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "That discipline shows in the frame. Thanks for sharing the story behind it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfXSV-DoOd4",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         }
@@ -112,7 +205,7 @@
     },
     {
       "id": "18103312391535326",
-      "label": "water, description, photo, photograph",
+      "label": "water, description, photo, type",
       "group": 0,
       "snippet": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Stre\u2026",
       "text": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did you last stop for water?",
@@ -120,16 +213,14 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 209,
+      "reply_count": 228,
       "replies": [
         {
           "username": "wrj_arts",
           "text": "",
-          "permalink": "https://www.threads.com/@wrj_arts/post/DfXPkxZEepK",
+          "permalink": "https://www.threads.com/@wrj_arts/post/DfXR12MEf1N",
           "photos": [
-            "Description: A waterfall cascades down a rocky ledge surrounded by lush autumn foliage with yellow and",
-            "Description: A slow-moving stream flows through a rocky, tree-lined",
-            "Description: A vertical shot captures a tall waterfall cascading over a dark rocky ledge into a pool below, with a person sitting in the recess behind the falling water. The scene is framed by dark soil,"
+            "Description: A waterfall cascades down a rocky ledge, framed by vibrant autumn foliage in shades of yellow and green under"
           ],
           "needs_response": true,
           "action": "reply",
@@ -143,10 +234,32 @@
           "photos": [
             "Description: A wide waterfall cascades down a rocky cliff face, surrounded by dense evergreen forests under a clear blue sky. The foreground features vibrant green foliage and a rocky stream bed carrying"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That is a lot of falling water in one frame. Did you hike in for this one, or is it right off the trail?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXR332Gusz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "kennethlimb",
+                  "text": "To the falls and back was a 17 mile hike.",
+                  "permalink": "https://www.threads.com/@kennethlimb/post/DfXSuALFJdc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "omeara8106",
@@ -155,10 +268,32 @@
           "photos": [
             "Description: A black dog wearing a blue collar and harness stands in shallow, shimmering water, looking back toward the left. A light-colored leash extends downward from the dog toward the bottom edge of the frame against the rippled surface. Photograph read: The high-angle, centered composition places the small silhouette of the dog amidst expansive, reflective water under bright, diffused lighting, creating a calm and contemplative mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Does he always wade in like he owns the lake, or was this a first? That look back over the shoulder is pure patience.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXR5j_m5VG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "omeara8106",
+                  "text": "He loves water.He chases seagulls at the beach.",
+                  "permalink": "https://www.threads.com/@omeara8106/post/DfXS-XPCKwP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "anthony.deighton.73",
@@ -167,10 +302,21 @@
           "photos": [
             "Description:"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think getting right down to the surface was a good call - the trees turn to ribbons on the water. Was this a deliberate abstract, or did the water surprise you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXR7gvG0xn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bobdee_photo",
@@ -179,10 +325,32 @@
           "photos": [
             "Description: A close-up shot captures a hand tightly"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That arc is doing all the work - frozen mid-air like glass. How many tries did the timing take?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXR8-uEar4",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bobdee_photo",
+                  "text": "Shot on a 1Dxmkii",
+                  "permalink": "https://www.threads.com/@bobdee_photo/post/DfXSYWYjGs4",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "hummingbird411",
@@ -191,10 +359,32 @@
           "photos": [
             "Description: A rushing stream cuts across the foreground of a rocky, alpine forest under a heavily overcast sky. Tall pine trees line the banks of the water, creating a moody wilderness landscape. Photograph read: The wide-angle composition captures the flowing river and dense tree"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Properly wild, that stream cutting across the rock under a grey sky. What made you stop at this stretch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXR-nWIHwn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "hummingbird411",
+                  "text": "It was just so raw.",
+                  "permalink": "https://www.threads.com/@hummingbird411/post/DfXSUlOG3Yl",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "dmarschman",
@@ -203,10 +393,21 @@
           "photos": [
             "Description: A small zodiac boat with a person in a bright yellow jacket navig"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That little yellow jacket against a wall of blue ice is the whole story - the scale does all the work. How close did the boat get?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXSAvukWd9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "abnerabel125",
@@ -226,10 +427,21 @@
             "",
             ""
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Five falls in one post - which one made you stop longest? I think the tiered one over the mossy rock is my pick, the layers hold the eye.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXSCgcnKYk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mydobsmonster",
@@ -238,10 +450,32 @@
           "photos": [
             "Description:"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That golden path on the water is doing all the work - the moon just hangs there above it. Did you wait long for the moon to clear the trees?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXSEJ_oCLY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "mydobsmonster",
+                  "text": "No about 10 minutes",
+                  "permalink": "https://www.threads.com/@mydobsmonster/post/DfXShsMIFIi",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "skjrobinson",
@@ -250,10 +484,21 @@
           "photos": [
             "Description: A calm lake reflects a dramatic, heavy cloudscape under a soft, diffused twilight sky in a remote, mountainous landscape. A low footbridge connects rocky shorelines on either side of the water, framed by distant hills and sparse trees. Photograph read: The wide composition emphasizes the expansive sky and its clear reflection on the water's surface, illuminated by the muted, cool light of a cloudy day. Photo type: Landscape snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think letting the sky take half the frame was a good call - the reflection doubles the whole cloudscape. What made you stop at this lake?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXSF2LFOd6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "chuppitophoto2019",
@@ -262,10 +507,21 @@
           "photos": [
             "Description: A low-angle outdoor shot captures a linear water feature with active fountains extending down a pedestrian promenade under a bright blue sky. Wooden pergolas and lush green landscaping frame the scene alongside classic European-style buildings. Photograph read: Taken from a ground-level perspective just above the water's surface, the composition uses leading lines and deep perspective in harsh daylight to create a spacious, summery mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "What drew you down to the surface for this one? Down at water level the whole promenade turns into a leading line.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXSKttkXA0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "xmericlemamix",
@@ -287,10 +543,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Caught right at the burst - the spray hangs in the air. How long did you wait for that wave?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfXSMJ-FsTF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "nyoenn",
@@ -332,10 +599,21 @@
                   "text": "It was on small boat riding in Banjarmasin, South Borneo, Indonesia. The boat called \u201ckelotok\u201d. It\u2019s a common transport for locals and tourists",
                   "permalink": "https://www.threads.com/@nyoenn/post/DfWajnZEnDY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That is the kind of local detail that makes a photo worth lingering on. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfXSNtykW-s",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -389,10 +667,21 @@
                   "text": "This is a old coal mine in Collie Western Australia ,the mine was flooded to create a lake.",
                   "permalink": "https://www.threads.com/@briansmithphotography67/post/DfWet7ME1Jw",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "What a backstory for that blue. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfXSPRikdRz",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -760,10 +1049,21 @@
                   "text": "It was intentional. I wanted to catch the heavy rain approaching to the left, the blue sky, the rainbow and the sea.",
                   "permalink": "https://www.threads.com/@severina_moone/post/DfWv4gyDdCQ",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That patience paid off in a big way. Thanks for sharing the shot.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfXSQzkEUe9",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2551,7 +2851,7 @@
     },
     {
       "id": "17911773306484146",
-      "label": "water, description, photo, photograph",
+      "label": "water, description, photo, type",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scroll: Arizona Dweller @tallerthanyou2026 - glowing patterned cubes Conrad Skillen @stickyshutterphotography - blue lattice tunnel Anthony Chila @cruscher53 - monochrome rosette spiral Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfT81ZDjmpK/",
@@ -2619,7 +2919,7 @@
     },
     {
       "id": "18219980083346746",
-      "label": "water, description, photo, photograph",
+      "label": "water, description, photo, type",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",
@@ -7071,15 +7371,19 @@
   ],
   "edges": [
     {
-      "from": "17942310048383159",
+      "from": "18097715618142021",
+      "to": "17942310048383159"
+    },
+    {
+      "from": "18097715618142021",
       "to": "18103312391535326"
     },
     {
-      "from": "17942310048383159",
+      "from": "18097715618142021",
       "to": "17911773306484146"
     },
     {
-      "from": "17942310048383159",
+      "from": "18097715618142021",
       "to": "18219980083346746"
     }
   ]
