@@ -7,9 +7,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Reply (28)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **ca_girl_living_in_mt**:  ([link](https://www.threads.com/@ca_girl_living_in_mt/post/DfVoreymesj))
-  - Photo: Description: A close-up view captures sharp icicles hanging from a snow-covered rock formation on a sunny winter day. The bright daylight highlights the translucent texture of the ice against the dark, textured stone. Photograph read: Bright, direct sunlight emphasizes the crystalline textures and transparency of the icicles, creating a crisp, high-contrast winter scene. Photo type: Nature snapshot
-    - Watch-outs: Highlights clipped to white on the sunlit upper snow surface.
+- **ca_girl_living_in_mt**: I just walked upon it this morning on my hike. I didn’t anticipate that much snow where I was hiking. ([link](https://www.threads.com/@ca_girl_living_in_mt/post/DfVtryRDcwQ))
+  - _Replying to: That one long icicle right in the middle steals the whole f…_
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))

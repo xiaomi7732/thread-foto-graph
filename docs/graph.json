@@ -10,7 +10,7 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 162,
+      "reply_count": 164,
       "replies": [
         {
           "username": "ca_girl_living_in_mt",
@@ -22,10 +22,32 @@
           "watch_outs": [
             "Highlights clipped to white on the sunlit upper snow surface."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That one long icicle right in the middle steals the whole frame - was it already that long when you found it, or did you watch it grow over a few cold mornings?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVtg5tI4VQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "ca_girl_living_in_mt",
+                  "text": "I just walked upon it this morning on my hike. I didn\u2019t anticipate that much snow where I was hiking.",
+                  "permalink": "https://www.threads.com/@ca_girl_living_in_mt/post/DfVtryRDcwQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lindafedor6",
