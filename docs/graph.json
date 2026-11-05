@@ -10,8 +10,52 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 164,
+      "reply_count": 168,
       "replies": [
+        {
+          "username": "steve.cozort",
+          "text": "Just another day in Antarctica. Nov 2025 Steve Cozort Photography",
+          "permalink": "https://www.threads.com/@steve.cozort/post/DfV5_CQkXao",
+          "photos": [
+            "Description: A motorboat tows a line of yellow and red kayaks across calm dark water, with a massive iceberg dominating the background under a cloudy blue sky. Distant snow-covered mountains line the horizon in the soft polar light. Photograph read: The horizontal composition emphasizes the immense scale of the iceberg against the small watercraft, captured with natural lighting that highlights the textured ice under a dramatic sky. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jeandi2",
+          "text": "",
+          "permalink": "https://www.threads.com/@jeandi2/post/DfV33x_kZ-2",
+          "photos": [
+            "Description: A formal garden features a rectangular reflection pool in the foreground, mirroring a white arched trellis situated at the end of a brick pathway. Two potted plants with reddish leaves flank the pool, set against a backdrop of lush green lawns, manicured hedges, and mature trees under a clear blue sky. Photograph read: The image is captured with a symmetrical front-facing composition, using natural daylight to illuminate the scene and create clear reflections in the calm water. Photo type: Landscape snapshot",
+            "Description: A large, silvery sculpture of a human head in profile emerges from a mist-filled pond, set against a backdrop of lush green foliage and a distant outdoor dining area. Photograph read: Centrally framed by dark trees and bright water, the bright daylight illuminates the scene with high contrast and a cool, serene mood. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "Highlights clipped to white on the top edge of the stone basin.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mapletreephotography_wpm",
+          "text": "",
+          "permalink": "https://www.threads.com/@mapletreephotography_wpm/post/DfV3XesjSWE",
+          "photos": [
+            "Description: A low-angle close-up of weathered wooden planks on a dock, with the foreground in sharp focus and the marina background heavily blurred. The tranquil scene evokes a quiet day by the water, ideal for a peaceful maritime social media post. Photograph read: The shallow depth of field creates a strong sense of perspective, drawing the eye along the dock's edge toward the calm, overcast harbor under soft daylight. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Background marina elements softly blurred; intentional or shallow depth of field effect not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ca_girl_living_in_mt",
           "text": "",
@@ -40,10 +84,21 @@
                   "text": "I just walked upon it this morning on my hike. I didn\u2019t anticipate that much snow where I was hiking.",
                   "permalink": "https://www.threads.com/@ca_girl_living_in_mt/post/DfVtryRDcwQ",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A morning-hike surprise like that is hard to beat. Thanks for sharing the find.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfV0I-6DG9v",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
