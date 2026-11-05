@@ -4,16 +4,58 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (45)
+
+### Water Wednesday favorites 🏆 3 waters that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/DfWnxKvnBoC))
+- **briansmithphotography67**: The lake has very few natural sediments or muddy runoff . All this allows the light to penetrate deeply before reflecting back to surface, the colour along the shoreline is shallow water. This shot is a JPEG Sooc of the camera , thank you for featuring my shot 🙂 ([link](https://www.threads.com/@briansmithphotography67/post/DfWrWmmk7Nj))
+  - _Replying to: @briansmithphotography67 That blue is unreal - is it really…_
+- **greghillman11**: Not many, I rarely set my camera to burst mode, probably 4 or 5. This frame had the most birds so that's why I chose it. ☺️ ([link](https://www.threads.com/@greghillman11/post/DfWo-3iEw1E))
+  - _Replying to: @greghillman11 You told me the birds were a lucky fly-throu…_
+- **corwyn671**: I just did one I'm old school from the film days of photography. Make every shot count my teacher would say. Don't waste film. ([link](https://www.threads.com/@corwyn671/post/DfW-jtkGwPB))
+  - _Replying to: @corwyn671 One red canopy carrying the whole grey sky - did…_
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **nyoenn**:  ([link](https://www.threads.com/@nyoenn/post/DfWXunhEvVf))
-  - Photo: Description: A mosque with a prominent minaret stands along a calm waterfront, casting a clear reflection on the water's surface beneath a bright sky. The sun is positioned directly behind the minaret, creating a striking backlit silhouette effect. Photograph read: The wide composition centers the mosque and its reflection symmetrically, captured in warm daylight with soft, hazy lighting that creates a peaceful and serene mood. Photo type: Landscape documentary
-    - Watch-outs: Sun disc clipped to white
-- **daveharbon**:  ([link](https://www.threads.com/@daveharbon/post/DfWXXTNjJ-t))
-  - Photo: Description: A vibrant, colorful pillar supports an overhead walkway in an urban plaza, with pedestrians walking along a reflective surface in the foreground. This lively architectural scene captures a busy day in a modern city center. Photograph read: The symmetrical low-angle composition
-- **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
-  - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
+- **wrj_arts**:  ([link](https://www.threads.com/@wrj_arts/post/DfXPkxZEepK))
+  - Photo: Description: A waterfall cascades down a rocky ledge surrounded by lush autumn foliage with yellow and
+  - Photo: Description: A slow-moving stream flows through a rocky, tree-lined
+  - Photo: Description: A vertical shot captures a tall waterfall cascading over a dark rocky ledge into a pool below, with a person sitting in the recess behind the falling water. The scene is framed by dark soil,
+- **kennethlimb**:  ([link](https://www.threads.com/@kennethlimb/post/DfXNIFqFCqp))
+  - Photo: Description: A wide waterfall cascades down a rocky cliff face, surrounded by dense evergreen forests under a clear blue sky. The foreground features vibrant green foliage and a rocky stream bed carrying
+- **omeara8106**: My dog in Derwentwater. ([link](https://www.threads.com/@omeara8106/post/DfXMw3IiHNK))
+  - Photo: Description: A black dog wearing a blue collar and harness stands in shallow, shimmering water, looking back toward the left. A light-colored leash extends downward from the dog toward the bottom edge of the frame against the rippled surface. Photograph read: The high-angle, centered composition places the small silhouette of the dog amidst expansive, reflective water under bright, diffused lighting, creating a calm and contemplative mood. Photo type: Snapshot
+- **anthony.deighton.73**:  ([link](https://www.threads.com/@anthony.deighton.73/post/DfXBJz_CKiF))
+  - Photo: Description:
+- **bobdee_photo**: Hosepipe ([link](https://www.threads.com/@bobdee_photo/post/DfW7JeODDQe))
+  - Photo: Description: A close-up shot captures a hand tightly
+- **hummingbird411**: Inyo National Forest ([link](https://www.threads.com/@hummingbird411/post/DfW6QE8m7K9))
+  - Photo: Description: A rushing stream cuts across the foreground of a rocky, alpine forest under a heavily overcast sky. Tall pine trees line the banks of the water, creating a moody wilderness landscape. Photograph read: The wide-angle composition captures the flowing river and dense tree
+- **dmarschman**:  ([link](https://www.threads.com/@dmarschman/post/DfW3jf6Eb31))
+  - Photo: Description: A small zodiac boat with a person in a bright yellow jacket navig
+- **abnerabel125**: Here’s a few water photos ([link](https://www.threads.com/@abnerabel125/post/DfWmCyam9eQ))
+  - Photo: Description: A narrow multi-tiered waterfall drops down a rocky basalt cliff surrounded by dense evergreen trees and foliage. The tranquil scene evokes a remote wilderness hike suitable for a nature travel post. Photograph read: Framed naturally by trees in the foreground, the vertical composition uses a slow shutter speed to smooth the cascading water under diffused daylight. Photo type: Documentary
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - Photo: Description: A multi-tiered waterfall cascades over
+  - Photo: Description: A tiered waterfall cascades down mossy rock formations into a calm, dark pool of water, surrounded by lush green forest foliage. This serene nature scene is well-suited for an outdoor or travel social media post. Photograph read: Captured in diffused, overcast daylight, the wide shot emphasizes the horizontal layers of the waterfall, creating a tranquil and grounded mood. Photo type: Documentary
+  - Photo: Description: A small, gentle stream flows over mossy rocks in a lush, green forest, with a pebble-strewn bank on the left and driftwood in the calm pool below. The tranquil woodland setting evokes a serene, natural atmosphere suitable for an outdoor nature post. Photograph read: Captured with an eye-level perspective under
+  - Photo: Description: A small, gentle waterfall flows over dark rocks in a lush, forested stream, captured with a long exposure that blurs the moving water into silky white streaks. Lush green moss and a delicate fern anchor the foreground, while the calm pool above reflects the surrounding trees and canopy. Photograph read: The horizontal composition balances the textured foreground moss against the silky water blur, rendered
+- **mydobsmonster**:  ([link](https://www.threads.com/@mydobsmonster/post/DfWjsRdliBB))
+  - Photo: Description:
+- **skjrobinson**: Narvik, Norway 🇳🇴 ([link](https://www.threads.com/@skjrobinson/post/DfWe0iwjbqt))
+  - Photo: Description: A calm lake reflects a dramatic, heavy cloudscape under a soft, diffused twilight sky in a remote, mountainous landscape. A low footbridge connects rocky shorelines on either side of the water, framed by distant hills and sparse trees. Photograph read: The wide composition emphasizes the expansive sky and its clear reflection on the water's surface, illuminated by the muted, cool light of a cloudy day. Photo type: Landscape snapshot
+- **chuppitophoto2019**:  ([link](https://www.threads.com/@chuppitophoto2019/post/DfWesN6DVJh))
+  - Photo: Description: A low-angle outdoor shot captures a linear water feature with active fountains extending down a pedestrian promenade under a bright blue sky. Wooden pergolas and lush green landscaping frame the scene alongside classic European-style buildings. Photograph read: Taken from a ground-level perspective just above the water's surface, the composition uses leading lines and deep perspective in harsh daylight to create a spacious, summery mood. Photo type: Snapshot
+- **nofussgus_**:  ([link](https://www.threads.com/@nofussgus_/post/DfWaGj2IFCj))
+  - Photo: Description: A small wave crashes against a rocky shoreline, sending fine white spray upward against the backdrop of a calm sea and an overcast sky. The cool, muted tones create a tranquil coastal scene well-suited for a relaxing nature update. Photograph read: The centered horizon and layered horizontal planes create a calm composition under soft, overcast light and cool color tones. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **nyoenn**: This is the boat like 😊 ([link](https://www.threads.com/@nyoenn/post/DfWa2m_krSh))
+  - Photo: Description: A narrow passenger boat carrying a group of people travels down a wide, murky brown river. Lush green trees line the far bank behind a white decorative fence. Photograph read: Captured from a distance with natural daylight, the composition centers the moving boat against a wide expanse of water and a dense treeline. Photo type: Documentary snapshot
+  - _Replying to: The minaret reflection does the heavy lifting here - it dou…_
+- **nyoenn**: It was on small boat riding in Banjarmasin, South Borneo, Indonesia. The boat called “kelotok”. It’s a common transport for locals and tourists ([link](https://www.threads.com/@nyoenn/post/DfWajnZEnDY))
+  - _Replying to: The minaret reflection does the heavy lifting here - it dou…_
+- **briansmithphotography67**: This is a old coal mine in Collie Western Australia ,the mine was flooded to create a lake. ([link](https://www.threads.com/@briansmithphotography67/post/DfWet7ME1Jw))
+  - _Replying to: Wow, that blue. The deep water against the pale rocky shore…_
+- **severina_moone**: It was intentional. I wanted to catch the heavy rain approaching to the left, the blue sky, the rainbow and the sea. ([link](https://www.threads.com/@severina_moone/post/DfWv4gyDdCQ))
+  - _Replying to: A whole ocean and then that faint rainbow tucked in at the …_
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
   - _Replying to: Some views really do leave you speechless. Thanks for shari…_
 - **joel_chapman**: Yeah the Pembroke coastline is pretty amazing ([link](https://www.threads.com/@joel_chapman/post/DfVQbv8EYYi))
