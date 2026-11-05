@@ -4,15 +4,22 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (36)
+## Needs Reply (39)
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
-- **madremyers**: The moss has taken over. ([link](https://www.threads.com/@madremyers/post/DfXUsseGxdW))
-  - Photo: Description: A low-angle shot captures a moss-covered, split tree trunk in a sunlit forest, reaching toward a clear blue sky. The rich textures of rough bark and vibrant green moss create a striking focal point surrounded by woodland foliage. Photograph read: The low-angle vertical composition emphasizes the height of the weathered tree against a bright, dappled canopy, illuminated by natural overhead light. Photo type: Snapshot
-- **dcolwes**:  ([link](https://www.threads.com/@dcolwes/post/DfXUemUkUT_))
-  - Photo: Description: A stark, weathered tree root system sits in the foreground on a hillside, overlooking a vast, rolling valley and distant mountains under a partly cloudy sky. This landscape view provides context for a hiking or nature
-- **raylehr1783**:  ([link](https://www.threads.com/@raylehr1783/post/DfXURUtkcNz))
-  - Photo: Description: A small cluster of white cherry blossoms emerges from the rough bark of a large, gnarled tree branch. In the background, water and a railing are visible under a bright blue sky. Photograph read: Warm, golden hour light illuminates the textured tree bark and delicate blossoms, creating a high-contrast composition with a tranquil mood. Photo type: Artistic
+- **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DfXWfOCEWhJ))
+  - Photo: Description: This vertical shot centers on a massive, gnarled tree with thick roots and sprawling branches in a dense, green forest. The trunk features prominent burls, knots, and dark markings that add to
+- **bugs_eye_view_of_you**:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DfXWCYdIDqH))
+  - Photo: Description: A large tree with a dense bush at its base stands in an open field, both covered in yellow autumn leaves. Fallen leaves blanket the grass around the base of the tree under an overcast sky. Photograph read: Captured from a straight-on perspective under diffuse daylight, the composition centers the vibrant yellow foliage against a muted sky, creating a calm and seasonal mood. Photo type: Snapshot
+- **silmarillioncollector**:  ([link](https://www.threads.com/@silmarillioncollector/post/DfXV3RIDLYw))
+  - Photo: Description: A close-up photograph displays a segmented, dark caterpillar resting on the textured, peeling bark of a birch tree, exhibiting natural camouflage. The earthy tones and organic patterns create a seamless blend between the insect and its wooden background. Photograph read: The tight framing centers on the caterpillar, utilizing natural, diffused lighting to highlight the tactile qualities and rich textures of both the insect and the birch bark. Photo type: Documentary
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **zapravljivka**:  ([link](https://www.threads.com/@zapravljivka/post/DfXVpockdQ0))
+  - Photo: Description: This close-up shot features a tree trunk with a heart-shaped hollow nestled among other vertical tree trunks in a softly blurred forest setting. The natural formation makes it an engaging visual for nature appreciation posts. Photograph read: The vertical composition centers on the distinctive hollow trunk, illuminated by directional light that casts sharp shadows and highlights the textured bark against a muted, out-of-focus background. Photo type: Nature study
+- **jeness.maresa**:  ([link](https://www.threads.com/@jeness.maresa/post/DfXVejBoL0j))
+  - Photo: Description: A uniquely twisted, spindly tree stands prominently in the foreground on a grassy hill under an overcast sky. In the background, other sparse trees and rolling fields complete the quiet landscape. Photograph read: The centered subject is captured under flat, overcast
+- **madremyers**: Moss first then the ragged break, then the missing bark bringing all together ([link](https://www.threads.com/@madremyers/post/DfXV-14m1q7))
+  - _Replying to: Moss 1, tree 0. That low angle makes the split trunk feel h…_
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
 - **wrj_arts**:  ([link](https://www.threads.com/@wrj_arts/post/DfXR12MEf1N))
