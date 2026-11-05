@@ -4,19 +4,48 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (38)
+## Needs Reply (49)
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
-- **donswingley**:  ([link](https://www.threads.com/@donswingley/post/DfXXZFCGjJ5))
-  - Photo: Description: A tall pine tree stands vertically in the center of the frame, framed tightly between two towering red rock canyon walls under a clear blue sky. The upward perspective emphasizes the immense height of the tree rising from the canyon floor. Photograph read: Shot from a low angle with a vertical orientation, the symmetrical framing of the textured tree trunk between the eroded rock walls creates a striking sense of scale and natural architecture under bright daylight. Photo type: Landscape documentary
-- **mgollhardt**: Great bark! 😍 Here’s mine ([link](https://www.threads.com/@mgollhardt/post/DfXXUwNlgDI))
+- **vuurenbernadettevan**: The Jacaranda Tree ([link](https://www.threads.com/@vuurenbernadettevan/post/DfXd2pdEWAj))
+  - Photo: Description: A dense network of dark tree branches heavily laden with clusters of purple flowers fills the frame against an overcast, pale sky. The composition captures the intricate canopy from a low angle, highlighting the seasonal bloom. Photograph read: The dense grid of branches and blooms creates a flat, textural pattern lit by diffused overcast light, establishing a tranquil and botanical mood. Photo type: Nature snapshot
+    - Watch-outs: Bright sky areas clipped to white; intentional or blown-out exposure not determinable from the image.
+- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/DfXd2Z6lo5L))
+  - Photo: Description: A weathered, gnarled tree stump twists upward against a backdrop of dense evergreen forest and sparse ground vegetation, resembling a mythical creature's head. Bright daylight filters through the canopy, highlighting the textured, sun-bleached wood. Photograph read: The eye-level composition centers on the textured wooden sculpture, framed by darker, shadowy trees in the background under natural sunlight, creating a moody, fantastical feel. Photo type: Nature snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **atabor66**:  ([link](https://www.threads.com/@atabor66/post/DfXdt2bkalP))
+  - Photo: Description: A large, bare tree stands centrally in dense fog at night, silhouetted against a bright light source hidden behind its trunk. A metal fence and the faint outline of a vehicle appear in the foreground and background. Photograph read: Low-key composition centered on the dark silhouette of a tree illuminated from behind by a harsh light source diffusing through thick fog, creating a moody, atmospheric night scene. Photo type: Atmospheric
+    - Watch-outs: Highlights clipped to white around the light source behind the tree trunk.
+- **bojonvelvet2.0**: Not a single tree but there’s literally nothing else in the world like the candelabra redwoods of Usal Beach. On maps, it’s labeled the Enchanted Forest. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfXc9cSGpP9))
+  - Photo: Description: This low-angle view captures tall, slender trees with unusually curving trunks growing out of a sloping, needle-strewn forest floor. Sunlight filters through the dense canopy from the upper right, highlighting the textures of the bark and ground. Photograph read: The wide-angle, low-perspective composition emphasizes the verticality and bizarre growth patterns of the trees, while harsh backlighting creates lens flare and high-contrast silhouettes. Photo type: Snapshot
+    - Watch-outs: Highlights clipped to white in the upper right sky with lens flare.
+- **hua_singingbowl**: Nature is slowly taking back this abandoned historic mansion in Taiwan. The way these massive banyan roots wrap around the old brick walls always stops me in my tracks. It feels like the tree is keeping the house's secrets alive. ([link](https://www.threads.com/@hua_singingbowl/post/DfXcstfk0TF))
   - Photo: Description:
-- **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/DfXXDc9oA7w))
-  - Photo: Description: A lone pine tree stands on a rocky overlook against a backdrop of rolling, forest-covered mountains and a dramatic, cloudy sky. Low-hanging fog drifts through the distant valleys, adding depth to the scenic mountain view. Photograph read: The centered composition places the pine tree as the primary focal point against a layered landscape lit by diffused, overcast daylight. Photo type: Artistic
-- **bugs_eye_view_of_you**: A park that I go to allott with my dog. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DfXXbIBoIAE))
-  - _Replying to: The bare branches up top against that gold skirt below - th…_
-- **silmarillioncollector**: I *think* it's all bark! Where do you see the caterpillar? ([link](https://www.threads.com/@silmarillioncollector/post/DfXXb41jMBF))
-  - _Replying to: Took me a second to find it - that caterpillar is wearing t…_
+- **jglass8**: I love these living gifts of nature. ([link](https://www.threads.com/@jglass8/post/DfXa5dqGgZu))
+  - Photo: Description: This vertical photo shows the textured trunk of a tree featuring two prominent, dark hollows or pruned branch scars that resemble eyes. The tree stands amidst a dense, leafy green forest undergrowth. Photograph read: The centered composition emphasizes the verticality of the gray bark against a brightly lit background of lush green foliage under diffuse daylight, creating a quiet and natural mood. Photo type: Snapshot
+- **travellady**:  ([link](https://www.threads.com/@travellady/post/DfXa2zKmjsj))
+  - Photo: Description: A small white cat walks along a wet path next to a massive banyan tree with thick, twisting aerial roots. A small brown plaque near the base of the tree reads "V. A. CARVALHO OCT. 5. 1935." Photograph read: The wide-angle,
+- **sean_portley**: Tree at Miami Beach Boutanical Gardens ([link](https://www.threads.com/@sean_portley/post/DfXaTrXlJzS))
+  - Photo: Description: A dense tangle of dark, wet branches fills the frame against a backdrop of lush green foliage. A few small clusters of bright green leaves are visible near the top right. Photograph read: The tight framing emphasizes the chaotic, interwoven patterns of the wet wood, illuminated by even daylight that creates bright highlights on the slick surfaces. Photo type: Nature study
+- **citizenb**: Gnarly. ([link](https://www.threads.com/@citizenb/post/DfXaBV3EUFp))
+  - Photo: Description: A close-up shot captures the heavily textured, gnarled trunk of an old
+- **suzanne_raimondi_gallagher**: This tree blends ([link](https://www.threads.com/@suzanne_raimondi_gallagher/post/DfXZ-o6iZ-u))
+  - Photo: Description: This vertical shot features a mature river birch tree with distinctive peeling, papery bark standing in front of a brick building. Dappled sunlight filters through the upper foliage, casting intricate patterns of light and shadow across the reddish-brown bricks and the mulched ground below. Photograph read: The centered vertical composition highlights the textured bark against the contrasting brick wall under bright daylight. Photo type: Snapshot
+- **landlockedgator**:  ([link](https://www.threads.com/@landlockedgator/post/DfXYR27odaH))
+  - Photo: Description: A close-up, black-and-white photograph shows the heavily textured, peeling bark of a tree trunk dominating the frame. Bare branches spread outward against a pale, overcast sky in the background. Photograph read: The centered composition and monochromatic treatment emphasize the intricate patterns and rough textures of the bark under diffused, flat lighting. Photo type:
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DfXX3bqFcPF))
+  - Photo: Description: A close-up shot fills the frame with the textured bark of a mature tree trunk, highlighted by bright sunlight and deep shadows. The vertical ridges create a natural, earthy pattern well-suited for nature appreciation posts. Photograph read: The vertical framing and low-angled lighting emphasize the rugged texture and deep grooves of the bark, creating a warm, organic mood. Photo type: Detail study
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **thebeachfleas**: Potential ([link](https://www.threads.com/@thebeachfleas/post/DfXX2AVGrkE))
+  - Photo: Description: A sprouting coconut rests upright on white sand at a tropical beach, with turquoise water and distant palm trees in the background under a blue sky. The scene conveys a tranquil, vacation-like atmosphere suitable for travel sharing. Photograph read: Captured from a low eye-level perspective with a shallow depth of field, the image isolates the central coconut sprout against a softly blurred coastal backdrop under bright daylight. Photo type: Snapshot
+- **mgollhardt**: This tree is on the edge of the town where I grew up. I’ve shot it several times at sunrise. It’s always beautiful! ([link](https://www.threads.com/@mgollhardt/post/DfXbsl5ifHO))
+  - _Replying to: The sun tucked into the branches like that - the whole fiel…_
+- **zapravljivka**: It was the trees that caught my eye, but than I saw a heart and that stopped me even more.🫶 ([link](https://www.threads.com/@zapravljivka/post/DfXY6EIEQCH))
+  - _Replying to: A heart, right there in the trunk. I love how the backgroun…_
+- **jeness.maresa**: This is a Young's Weeping Birch, and they are intentionally and manually sculpted to curve and bend. It lives at the Rural Cemetery in Poughkeepsie, NY which was designed in the mid-1800s to also be a botanical sanctuary. And I appreciate you asking because I've learned things I never knew about a landmark I've been driving by for decades 😊 ([link](https://www.threads.com/@jeness.maresa/post/DfXbrXQoMgz))
+  - _Replying to: That corkscrew bend halfway up stopped me cold. What do you…_
+- **dcolwes**: Black Canyon rim hike! Gorg! ([link](https://www.threads.com/@dcolwes/post/DfXZ-jdEQlH))
+  - _Replying to: How far up the trail were you when this one stopped you? Th…_
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
 - **wrj_arts**:  ([link](https://www.threads.com/@wrj_arts/post/DfXR12MEf1N))
@@ -34,8 +63,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **nyoenn**: This is the boat like 😊 ([link](https://www.threads.com/@nyoenn/post/DfWa2m_krSh))
   - Photo: Description: A narrow passenger boat carrying a group of people travels down a wide, murky brown river. Lush green trees line the far bank behind a white decorative fence. Photograph read: Captured from a distance with natural daylight, the composition centers the moving boat against a wide expanse of water and a dense treeline. Photo type: Documentary snapshot
   - _Replying to: The minaret reflection does the heavy lifting here - it dou…_
-- **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
-  - _Replying to: Some views really do leave you speechless. Thanks for shari…_
 - **joel_chapman**: Yeah the Pembroke coastline is pretty amazing ([link](https://www.threads.com/@joel_chapman/post/DfVQbv8EYYi))
   - _Replying to: (photo reply, no text)_
 - **muppy007**: Your very welcome 😊 ([link](https://www.threads.com/@muppy007/post/DfUz4vDCH-6))
