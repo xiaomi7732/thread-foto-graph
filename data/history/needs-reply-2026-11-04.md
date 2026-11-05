@@ -4,18 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (29)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **steve.cozort**: Just another day in Antarctica. Nov 2025 Steve Cozort Photography ([link](https://www.threads.com/@steve.cozort/post/DfV5_CQkXao))
-  - Photo: Description: A motorboat tows a line of yellow and red kayaks across calm dark water, with a massive iceberg dominating the background under a cloudy blue sky. Distant snow-covered mountains line the horizon in the soft polar light. Photograph read: The horizontal composition emphasizes the immense scale of the iceberg against the small watercraft, captured with natural lighting that highlights the textured ice under a dramatic sky. Photo type: Documentary
-- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/DfV33x_kZ-2))
-  - Photo: Description: A formal garden features a rectangular reflection pool in the foreground, mirroring a white arched trellis situated at the end of a brick pathway. Two potted plants with reddish leaves flank the pool, set against a backdrop of lush green lawns, manicured hedges, and mature trees under a clear blue sky. Photograph read: The image is captured with a symmetrical front-facing composition, using natural daylight to illuminate the scene and create clear reflections in the calm water. Photo type: Landscape snapshot
-    - Watch-outs: Highlights clipped to white on the top edge of the stone basin.
-  - Photo: Description: A large, silvery sculpture of a human head in profile emerges from a mist-filled pond, set against a backdrop of lush green foliage and a distant outdoor dining area. Photograph read: Centrally framed by dark trees and bright water, the bright daylight illuminates the scene with high contrast and a cool, serene mood. Photo type: Documentary
-- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfV3XesjSWE))
-  - Photo: Description: A low-angle close-up of weathered wooden planks on a dock, with the foreground in sharp focus and the marina background heavily blurred. The tranquil scene evokes a quiet day by the water, ideal for a peaceful maritime social media post. Photograph read: The shallow depth of field creates a strong sense of perspective, drawing the eye along the dock's edge toward the calm, overcast harbor under soft daylight. Photo type: Snapshot
-    - Watch-outs: Background marina elements softly blurred; intentional or shallow depth of field effect not determinable from the image.
+- **retrograde_60**: Morning Dew ([link](https://www.threads.com/@retrograde_60/post/DfWBTf3FItI))
+  - Photo: Description: A single fallen leaf rests on the ground surrounded by wood chips, dotted with numerous glistening water droplets. The image is rendered in high-contrast black and white. Photograph read: The high-contrast monochromatic lighting emphasizes the intricate vein structure of the leaf and the specular highlights on the water droplets. Photo type: Artistic
+- **mapletreephotography_wpm**: Yes still, an inlet from the ocean. ([link](https://www.threads.com/@mapletreephotography_wpm/post/DfV-GO4DdaP))
+  - _Replying to: Was the harbor really that still? The low angle on those we…_
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
