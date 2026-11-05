@@ -10,8 +10,23 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 156,
+      "reply_count": 162,
       "replies": [
+        {
+          "username": "ca_girl_living_in_mt",
+          "text": "",
+          "permalink": "https://www.threads.com/@ca_girl_living_in_mt/post/DfVoreymesj",
+          "photos": [
+            "Description: A close-up view captures sharp icicles hanging from a snow-covered rock formation on a sunny winter day. The bright daylight highlights the translucent texture of the ice against the dark, textured stone. Photograph read: Bright, direct sunlight emphasizes the crystalline textures and transparency of the icicles, creating a crisp, high-contrast winter scene. Photo type: Nature snapshot"
+          ],
+          "watch_outs": [
+            "Highlights clipped to white on the sunlit upper snow surface."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lindafedor6",
           "text": "",
@@ -31,10 +46,21 @@
           "photos": [
             "Description: A solo paraglider soars through the overcast sky above a rugged coastline, with waves rolling onto the beach below. The vibrant red canopy stands out against the muted gray atmosphere. Photograph read: Captured in a wide vertical composition under diffused overcast light, creating a calm and expansive mood with the red glider serving as a solitary focal point in the upper frame. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That one red canopy doing all the work against all that grey - it reads like a full stop in the sky. Was the paraglider the plan, or a lucky passer-by while you were shooting the coast?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVm2tRib1V",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "severina_moone",
@@ -43,10 +69,21 @@
           "photos": [
             "Description: A vast expanse of the open ocean stretches to the horizon beneath a dramatic sky filled with heavy grey and white clouds. A faint rainbow dips into the water on the right side of the frame. Photograph read: The wide composition emphasizes the expansive scale of the sea under overcast daylight, creating a serene and moody atmosphere. Photo type: Landscape snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole ocean and then that faint rainbow tucked in at the edge - easy to miss, impossible to unsee once you spot it. Were you out there for the clouds, or did the rainbow sneak in while you were looking elsewhere?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVm4NNHOOJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joanmduffy",
@@ -58,10 +95,21 @@
           "watch_outs": [
             "Highlights clipped to white in the central water stream; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the close crop is a good call - the water turns into pure sparkle against that soft green. How did you catch it like this, fast shutter or just the sun hitting the spray?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfVm5mioxm_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "taiwanese726",
@@ -91,10 +139,21 @@
                   "text": "Valencia Plaza del Ayuntamiento",
                   "permalink": "https://www.threads.com/@taiwanese726/post/DfVgHz7kxZk",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Valencia suits that glowing spray. Thanks for sharing the square with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVm7F5kZUa",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -128,10 +187,21 @@
                   "text": "It was one of them I saw it fall and the way it landed I snapped it quick the moment that just caught my eye \u263a\ufe0f",
                   "permalink": "https://www.threads.com/@sallybloor1/post/DfVf4SSjW_4",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Some moments only last a blink - glad your camera was ready. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfVm8c3owrz",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

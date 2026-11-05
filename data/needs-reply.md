@@ -4,22 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (28)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
+- **ca_girl_living_in_mt**:  ([link](https://www.threads.com/@ca_girl_living_in_mt/post/DfVoreymesj))
+  - Photo: Description: A close-up view captures sharp icicles hanging from a snow-covered rock formation on a sunny winter day. The bright daylight highlights the translucent texture of the ice against the dark, textured stone. Photograph read: Bright, direct sunlight emphasizes the crystalline textures and transparency of the icicles, creating a crisp, high-contrast winter scene. Photo type: Nature snapshot
+    - Watch-outs: Highlights clipped to white on the sunlit upper snow surface.
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
-- **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/DfVjwgVmQ4b))
-  - Photo: Description: A solo paraglider soars through the overcast sky above a rugged coastline, with waves rolling onto the beach below. The vibrant red canopy stands out against the muted gray atmosphere. Photograph read: Captured in a wide vertical composition under diffused overcast light, creating a calm and expansive mood with the red glider serving as a solitary focal point in the upper frame. Photo type: Documentary
-- **severina_moone**:  ([link](https://www.threads.com/@severina_moone/post/DfVgW1GjXff))
-  - Photo: Description: A vast expanse of the open ocean stretches to the horizon beneath a dramatic sky filled with heavy grey and white clouds. A faint rainbow dips into the water on the right side of the frame. Photograph read: The wide composition emphasizes the expansive scale of the sea under overcast daylight, creating a serene and moody atmosphere. Photo type: Landscape snapshot
-- **joanmduffy**: Close up to the fountain ([link](https://www.threads.com/@joanmduffy/post/DfVfXSCFC1f))
-  - Photo: Description: A vertical close-up shot captures a stream of water with a shimmering, speckled texture, set against a blurred background of green grass. The water appears intensely reflective and scattered with bright points of light, creating an abstract and textured visual against the natural backdrop. Photograph read: Bright, direct lighting highlights the sparkling texture of the water stream centrally positioned against the out-of-focus green background. Photo type: Artistic
-    - Watch-outs: Highlights clipped to white in the central water stream; intentional or missed focus not determinable from the image.
-- **taiwanese726**: Valencia Plaza del Ayuntamiento ([link](https://www.threads.com/@taiwanese726/post/DfVgHz7kxZk))
-  - _Replying to: Where is this square? The fountain spray glowing against th…_
-- **sallybloor1**: It was one of them I saw it fall and the way it landed I snapped it quick the moment that just caught my eye ☺️ ([link](https://www.threads.com/@sallybloor1/post/DfVf4SSjW_4))
-  - _Replying to: Lovely and still - one leaf floating in all that dark, gree…_
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
   - _Replying to: Some views really do leave you speechless. Thanks for shari…_
 - **joel_chapman**: Yeah the Pembroke coastline is pretty amazing ([link](https://www.threads.com/@joel_chapman/post/DfVQbv8EYYi))
