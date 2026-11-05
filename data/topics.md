@@ -2,14 +2,22 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (photo, question, or substantive text) or **[NEEDS LIKE]** (short acknowledgement or common thanks/praise). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: photo, photograph, read, description
+## Topic: photo, photograph, description, read
 
 - **Thread** [18103312391535326](https://www.threads.com/@saars.foto/post/DfUu26lkVP6): Water Wednesday 💧 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: • Top 3 featured tomorrow: Threads post + Instagram reel, pinned • Full credit to the author everywhere • Standouts may join a best-of-the-week reel Where did you last stop for water?
   - Photo: Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot
-  - **[NEEDS REPLY]** Reply by demidova_nadezda: San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/DfWFVCZFLy7))
-    - Photo: Description: A wide-angle evening shot captures a river reflecting the city lights and a colorful sunset sky filled with wispy clouds. Buildings line both banks of the waterway under the fading twilight. Photograph read: Centered composition capturing twilight lighting, creating a calm and reflective mood over the water. Photo type: Landscape snapshot
-  - **[NEEDS REPLY]** Reply by retrograde_60: Morning Dew ([link](https://www.threads.com/@retrograde_60/post/DfWBTf3FItI))
+  - **[NEEDS REPLY]** Reply by briansmithphotography67:  ([link](https://www.threads.com/@briansmithphotography67/post/DfWKUyrEw9W))
+    - Photo: Description:
+  - **[NEEDS REPLY]** Reply by brenddoll: Stepping stone crossing on the Wissahickon Creek in SE PA ([link](https://www.threads.com/@brenddoll/post/DfWJYWwjtrF))
+    - Photo: Description: This top-down view shows two people standing on stone stepping stones in a shallow stream, surrounded by scattered autumn leaves. The sunlight casts distinct shadows, highlighting the clear, flowing water and the seasonal setting. Photograph read: Taken from a high-angle perspective, the composition frames the stream directly
+  - Reply by retrograde_60: Morning Dew ([link](https://www.threads.com/@retrograde_60/post/DfWBTf3FItI))
     - Photo: Description: A single fallen leaf rests on the ground surrounded by wood chips, dotted with numerous glistening water droplets. The image is rendered in high-contrast black and white. Photograph read: The high-contrast monochromatic lighting emphasizes the intricate vein structure of the leaf and the specular highlights on the water droplets. Photo type: Artistic
+    - Reply by saars.foto: Those droplets are doing all the work here - each one catching the light on its own. I think the black-and-white choice was a good call, it lets them stand out instead of competing with the leaf. Was this an early-morning find? ([link](https://www.threads.com/@saars.foto/post/DfWIy2OFojA))
+      - **[NEEDS REPLY]** Reply by retrograde_60: Yes…It completely caught me by surprise…Early morning, after the fog had lifted and the sun was breaking through. ([link](https://www.threads.com/@retrograde_60/post/DfWMz5ilEss))
+  - Reply by steve.cozort: Just another day in Antarctica. Nov 2025 Steve Cozort Photography ([link](https://www.threads.com/@steve.cozort/post/DfV5_CQkXao))
+    - Photo: Description: A motorboat tows a line of yellow and red kayaks across calm dark water, with a massive iceberg dominating the background under a cloudy blue sky. Distant snow-covered mountains line the horizon in the soft polar light. Photograph read: The horizontal composition emphasizes the immense scale of the iceberg against the small watercraft, captured with natural lighting that highlights the textured ice under a dramatic sky. Photo type: Documentary
+    - Reply by saars.foto: That little train of kayaks trailing behind the boat is the detail that sells the scale - the iceberg does the rest. Was the tow how you got out to the ice? ([link](https://www.threads.com/@saars.foto/post/DfV7J9AjVuZ))
+      - **[NEEDS LIKE]** Reply by steve.cozort: Thank you! ([link](https://www.threads.com/@steve.cozort/post/DfWI3bUkfpj))
   - **[NEEDS REPLY]** Reply by lindafedor6:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
     - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
   - Reply by greghillman11:  ([link](https://www.threads.com/@greghillman11/post/DfVYPEWk75j))

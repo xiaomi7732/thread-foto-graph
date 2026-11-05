@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18103312391535326",
-      "label": "photo, photograph, read, description",
+      "label": "photo, photograph, description, read",
       "group": 0,
       "snippet": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Stre\u2026",
       "text": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did you last stop for water?",
@@ -10,8 +10,32 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 175,
+      "reply_count": 181,
       "replies": [
+        {
+          "username": "briansmithphotography67",
+          "text": "",
+          "permalink": "https://www.threads.com/@briansmithphotography67/post/DfWKUyrEw9W",
+          "photos": [
+            "Description:"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "brenddoll",
+          "text": "Stepping stone crossing on the Wissahickon Creek in SE PA",
+          "permalink": "https://www.threads.com/@brenddoll/post/DfWJYWwjtrF",
+          "photos": [
+            "Description: This top-down view shows two people standing on stone stepping stones in a shallow stream, surrounded by scattered autumn leaves. The sunlight casts distinct shadows, highlighting the clear, flowing water and the seasonal setting. Photograph read: Taken from a high-angle perspective, the composition frames the stream directly"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "demidova_nadezda",
           "text": "San Francisco",
@@ -19,10 +43,21 @@
           "photos": [
             "Description: A wide-angle evening shot captures a river reflecting the city lights and a colorful sunset sky filled with wispy clouds. Buildings line both banks of the waterway under the fading twilight. Photograph read: Centered composition capturing twilight lighting, creating a calm and reflective mood over the water. Photo type: Landscape snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How long did that pink streak in the sky last? The river is already doubling every lit window, and the dusk is doing the rest of the show.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfWIxfqAAGK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "retrograde_60",
@@ -31,10 +66,32 @@
           "photos": [
             "Description: A single fallen leaf rests on the ground surrounded by wood chips, dotted with numerous glistening water droplets. The image is rendered in high-contrast black and white. Photograph read: The high-contrast monochromatic lighting emphasizes the intricate vein structure of the leaf and the specular highlights on the water droplets. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those droplets are doing all the work here - each one catching the light on its own. I think the black-and-white choice was a good call, it lets them stand out instead of competing with the leaf. Was this an early-morning find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfWIy2OFojA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "retrograde_60",
+                  "text": "Yes\u2026It completely caught me by surprise\u2026Early morning, after the fog had lifted and the sun was breaking through.",
+                  "permalink": "https://www.threads.com/@retrograde_60/post/DfWMz5ilEss",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "steve.cozort",
@@ -55,7 +112,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "steve.cozort",
+                  "text": "Thank you!",
+                  "permalink": "https://www.threads.com/@steve.cozort/post/DfWI3bUkfpj",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2023,7 +2091,7 @@
     },
     {
       "id": "17911773306484146",
-      "label": "photo, photograph, read, description",
+      "label": "photo, photograph, description, read",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scroll: Arizona Dweller @tallerthanyou2026 - glowing patterned cubes Conrad Skillen @stickyshutterphotography - blue lattice tunnel Anthony Chila @cruscher53 - monochrome rosette spiral Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfT81ZDjmpK/",
@@ -2091,7 +2159,7 @@
     },
     {
       "id": "18219980083346746",
-      "label": "photo, photograph, read, description",
+      "label": "photo, photograph, description, read",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",

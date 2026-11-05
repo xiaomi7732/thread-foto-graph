@@ -4,13 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (30)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **demidova_nadezda**: San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/DfWFVCZFLy7))
-  - Photo: Description: A wide-angle evening shot captures a river reflecting the city lights and a colorful sunset sky filled with wispy clouds. Buildings line both banks of the waterway under the fading twilight. Photograph read: Centered composition capturing twilight lighting, creating a calm and reflective mood over the water. Photo type: Landscape snapshot
-- **retrograde_60**: Morning Dew ([link](https://www.threads.com/@retrograde_60/post/DfWBTf3FItI))
-  - Photo: Description: A single fallen leaf rests on the ground surrounded by wood chips, dotted with numerous glistening water droplets. The image is rendered in high-contrast black and white. Photograph read: The high-contrast monochromatic lighting emphasizes the intricate vein structure of the leaf and the specular highlights on the water droplets. Photo type: Artistic
+- **briansmithphotography67**:  ([link](https://www.threads.com/@briansmithphotography67/post/DfWKUyrEw9W))
+  - Photo: Description:
+- **brenddoll**: Stepping stone crossing on the Wissahickon Creek in SE PA ([link](https://www.threads.com/@brenddoll/post/DfWJYWwjtrF))
+  - Photo: Description: This top-down view shows two people standing on stone stepping stones in a shallow stream, surrounded by scattered autumn leaves. The sunlight casts distinct shadows, highlighting the clear, flowing water and the seasonal setting. Photograph read: Taken from a high-angle perspective, the composition frames the stream directly
+- **retrograde_60**: Yes…It completely caught me by surprise…Early morning, after the fog had lifted and the sun was breaking through. ([link](https://www.threads.com/@retrograde_60/post/DfWMz5ilEss))
+  - _Replying to: Those droplets are doing all the work here - each one catch…_
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
