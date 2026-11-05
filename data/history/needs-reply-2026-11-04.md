@@ -4,15 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (29)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **demidova_nadezda**: everything in this frame is random (time, place, probability of my being there). But in San Francisco, the sun sets over the mountain and the sunset light does not last long, a soft pink for 10-15 minutes, and then 10-15 minutes and that's it. ([link](https://www.threads.com/@demidova_nadezda/post/DfWQgVNFNhH))
-  - Photo: Description: A wide shot captures calm, dark blue ocean water in the foreground, with distant rolling hills and a dusky skyline under a soft orange and pale blue twilight sky. A few small structures and a sailboat sit near the horizon on the left. Photograph read: The composition uses a low horizontal divide between the textured water and vast pastel sky, creating a serene and expansive mood under natural ambient evening light. Photo type: Landscape documentary
-  - Photo: Description: A large suspension bridge spans across the water, with a single small sailboat passing by the base of its central tower. In the background, distant hills and city buildings glow under a soft, golden sunset sky. Photograph read: The symmetrical bridge structure creates a strong vertical anchor, balanced by
-  - Photo: Description: A calm expanse of water fills the foreground under a vibrant pink and orange sunset sky, with a distant city skyline and rolling hills stretching across the horizon. This tranquil coastal view makes a serene share for evening updates or travel posts. Photograph read: Captured with a centered horizon and natural light, the scene conveys a serene and peaceful mood through its soft pastel sky and reflective water. Photo type: Landscape snapshot
-    - Watch-outs: Soft
-  - _Replying to: How long did that pink streak in the sky last? The river is…_
+- **nyoenn**:  ([link](https://www.threads.com/@nyoenn/post/DfWXunhEvVf))
+  - Photo: Description: A mosque with a prominent minaret stands along a calm waterfront, casting a clear reflection on the water's surface beneath a bright sky. The sun is positioned directly behind the minaret, creating a striking backlit silhouette effect. Photograph read: The wide composition centers the mosque and its reflection symmetrically, captured in warm daylight with soft, hazy lighting that creates a peaceful and serene mood. Photo type: Landscape documentary
+    - Watch-outs: Sun disc clipped to white
+- **daveharbon**:  ([link](https://www.threads.com/@daveharbon/post/DfWXXTNjJ-t))
+  - Photo: Description: A vibrant, colorful pillar supports an overhead walkway in an urban plaza, with pedestrians walking along a reflective surface in the foreground. This lively architectural scene captures a busy day in a modern city center. Photograph read: The symmetrical low-angle composition
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))

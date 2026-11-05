@@ -10,8 +10,35 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 186,
+      "reply_count": 189,
       "replies": [
+        {
+          "username": "nyoenn",
+          "text": "",
+          "permalink": "https://www.threads.com/@nyoenn/post/DfWXunhEvVf",
+          "photos": [
+            "Description: A mosque with a prominent minaret stands along a calm waterfront, casting a clear reflection on the water's surface beneath a bright sky. The sun is positioned directly behind the minaret, creating a striking backlit silhouette effect. Photograph read: The wide composition centers the mosque and its reflection symmetrically, captured in warm daylight with soft, hazy lighting that creates a peaceful and serene mood. Photo type: Landscape documentary"
+          ],
+          "watch_outs": [
+            "Sun disc clipped to white"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "daveharbon",
+          "text": "",
+          "permalink": "https://www.threads.com/@daveharbon/post/DfWXXTNjJ-t",
+          "photos": [
+            "Description: A vibrant, colorful pillar supports an overhead walkway in an urban plaza, with pedestrians walking along a reflective surface in the foreground. This lively architectural scene captures a busy day in a modern city center. Photograph read: The symmetrical low-angle composition"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "briansmithphotography67",
           "text": "",
@@ -103,10 +130,21 @@
                     "",
                     "Soft"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That fleeting light is worth every bit of the wait. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfWWdYMGw07",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
