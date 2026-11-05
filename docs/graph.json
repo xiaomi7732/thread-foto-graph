@@ -10,7 +10,7 @@
       "photos": [
         "Description: A long, narrow water feature with dark pebbles lines a paved outdoor area, cascading into a small basin in the foreground. Autumn leaves are scattered on the surrounding ground and the water's surface reflects trees. Photograph read: The vertical perspective creates strong linear symmetry, with bright natural light highlighting the clear water and creating crisp reflections. Photo type: Snapshot"
       ],
-      "reply_count": 181,
+      "reply_count": 186,
       "replies": [
         {
           "username": "briansmithphotography67",
@@ -19,10 +19,21 @@
           "photos": [
             "Description:"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Wow, that blue. The deep water against the pale rocky shore is striking - where was this taken, or is it one of those spots you stumble on?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfWPqGaFQ2G",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "brenddoll",
@@ -31,10 +42,32 @@
           "photos": [
             "Description: This top-down view shows two people standing on stone stepping stones in a shallow stream, surrounded by scattered autumn leaves. The sunlight casts distinct shadows, highlighting the clear, flowing water and the seasonal setting. Photograph read: Taken from a high-angle perspective, the composition frames the stream directly"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you pause mid-crossing just to look down? Those leaves drifting past the stones in the clear water are a lovely little detail.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfWPrRwHD29",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "brenddoll",
+                  "text": "I did!",
+                  "permalink": "https://www.threads.com/@brenddoll/post/DfWU54HFfDi",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "demidova_nadezda",
@@ -55,7 +88,27 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "demidova_nadezda",
+                  "text": "everything in this frame is random (time, place, probability of my being there). But in San Francisco, the sun sets over the mountain and the sunset light does not last long, a soft pink for 10-15 minutes, and then 10-15 minutes and that's it.",
+                  "permalink": "https://www.threads.com/@demidova_nadezda/post/DfWQgVNFNhH",
+                  "photos": [
+                    "Description: A wide shot captures calm, dark blue ocean water in the foreground, with distant rolling hills and a dusky skyline under a soft orange and pale blue twilight sky. A few small structures and a sailboat sit near the horizon on the left. Photograph read: The composition uses a low horizontal divide between the textured water and vast pastel sky, creating a serene and expansive mood under natural ambient evening light. Photo type: Landscape documentary",
+                    "Description: A large suspension bridge spans across the water, with a single small sailboat passing by the base of its central tower. In the background, distant hills and city buildings glow under a soft, golden sunset sky. Photograph read: The symmetrical bridge structure creates a strong vertical anchor, balanced by",
+                    "Description: A calm expanse of water fills the foreground under a vibrant pink and orange sunset sky, with a distant city skyline and rolling hills stretching across the horizon. This tranquil coastal view makes a serene share for evening updates or travel posts. Photograph read: Captured with a centered horizon and natural light, the scene conveys a serene and peaceful mood through its soft pastel sky and reflective water. Photo type: Landscape snapshot"
+                  ],
+                  "watch_outs": [
+                    "",
+                    "",
+                    "Soft"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -84,10 +137,21 @@
                   "text": "Yes\u2026It completely caught me by surprise\u2026Early morning, after the fog had lifted and the sun was breaking through.",
                   "permalink": "https://www.threads.com/@retrograde_60/post/DfWMz5ilEss",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That is exactly the kind of morning worth getting up for. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfWPsiLEfjk",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

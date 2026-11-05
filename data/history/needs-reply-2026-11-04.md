@@ -4,15 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (28)
 
 ### Water Wednesday 💧 Show me water, up close or far away. Stre… ([thread](https://www.threads.com/@saars.foto/post/DfUu26lkVP6))
-- **briansmithphotography67**:  ([link](https://www.threads.com/@briansmithphotography67/post/DfWKUyrEw9W))
-  - Photo: Description:
-- **brenddoll**: Stepping stone crossing on the Wissahickon Creek in SE PA ([link](https://www.threads.com/@brenddoll/post/DfWJYWwjtrF))
-  - Photo: Description: This top-down view shows two people standing on stone stepping stones in a shallow stream, surrounded by scattered autumn leaves. The sunlight casts distinct shadows, highlighting the clear, flowing water and the seasonal setting. Photograph read: Taken from a high-angle perspective, the composition frames the stream directly
-- **retrograde_60**: Yes…It completely caught me by surprise…Early morning, after the fog had lifted and the sun was breaking through. ([link](https://www.threads.com/@retrograde_60/post/DfWMz5ilEss))
-  - _Replying to: Those droplets are doing all the work here - each one catch…_
+- **demidova_nadezda**: everything in this frame is random (time, place, probability of my being there). But in San Francisco, the sun sets over the mountain and the sunset light does not last long, a soft pink for 10-15 minutes, and then 10-15 minutes and that's it. ([link](https://www.threads.com/@demidova_nadezda/post/DfWQgVNFNhH))
+  - Photo: Description: A wide shot captures calm, dark blue ocean water in the foreground, with distant rolling hills and a dusky skyline under a soft orange and pale blue twilight sky. A few small structures and a sailboat sit near the horizon on the left. Photograph read: The composition uses a low horizontal divide between the textured water and vast pastel sky, creating a serene and expansive mood under natural ambient evening light. Photo type: Landscape documentary
+  - Photo: Description: A large suspension bridge spans across the water, with a single small sailboat passing by the base of its central tower. In the background, distant hills and city buildings glow under a soft, golden sunset sky. Photograph read: The symmetrical bridge structure creates a strong vertical anchor, balanced by
+  - Photo: Description: A calm expanse of water fills the foreground under a vibrant pink and orange sunset sky, with a distant city skyline and rolling hills stretching across the horizon. This tranquil coastal view makes a serene share for evening updates or travel posts. Photograph read: Captured with a centered horizon and natural light, the scene conveys a serene and peaceful mood through its soft pastel sky and reflective water. Photo type: Landscape snapshot
+    - Watch-outs: Soft
+  - _Replying to: How long did that pink streak in the sky last? The river is…_
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/DfVkWFXneJj))
   - Photo: Description: A young boy stands on a sandy beach, seen from behind as he looks out toward the ocean and incoming waves. The overcast daylight creates an even, calm mood with soft shadows on the sand. Photograph read: Centered from behind, the subject divides the vertical frame with the ocean horizon cutting across the upper third under diffuse daylight. Photo type: Snapshot
 - **fragilita_12**: I'm so glad that you like it. ([link](https://www.threads.com/@fragilita_12/post/DfVZZgKiB6B))
