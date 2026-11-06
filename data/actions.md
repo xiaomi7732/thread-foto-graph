@@ -6,41 +6,85 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (82)
+## Needs Reply (103)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
+- **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/Dfakoh1CCuW))
+  - Photo: Description: A wooden bench sits inside a symmetrical, glass-enclosed shelter during a rainy day, with drops visible on the panes. The monochrome blue color palette evokes a solitary, melancholy mood suitable for a moody travel or weather post. Photograph read: Symmetrical composition frames a central wooden bench illuminated by even, cool light, creating a moody and atmospheric scene. Photo type: Atmospheric
+- **mcoger55**: My mom’s kitty (BeeBee) resting on her cushion in her chair after she passed away at 92 in March. 😭 ([link](https://www.threads.com/@mcoger55/post/DfajxDUlJEg))
+  - Photo: Description: A grey and white tabby cat sleeps curled up on a black pad resting in a large grey armchair. A brightly colored blanket with red, yellow, and green stripes hangs over the chair's armrest. Photograph read: The overhead perspective centers on the resting cat, captured in soft indoor lighting with a relaxed, domestic mood. Photo type: Snapshot
+- **patricahewitt**: Family heirloom (Notice the hole where great-grandmother would twirl her knitting needle when talking to someone.) ([link](https://www.threads.com/@patricahewitt/post/DfaiI7KHxtA))
+  - Photo: Description: A wooden rocking chair sits indoors, draped with a patchwork quilt and featuring a purple throw pillow. Slanted bars of sunlight stretch across the wall and the chair's textiles. Photograph read: The composition centers squarely on the chair, utilizing natural side-light through a window to create strong diagonal shadow patterns that establish a warm, quiet mood. Photo type: Snapshot
+    - Watch-outs: Highlight clipping on the sunlit wall and window frame.
+- **mattleopold**:  ([link](https://www.threads.com/@mattleopold/post/Dfadt7AmQOU))
+  - Photo: Description: A vibrant pink park bench sits on the edge of a grassy clearing, contrasted against dark evergreen trees and a sunlit autumnal path. This serene scene could be shared on social media to highlight a peaceful spot for quiet reflection or a colorful pop of nature. Photograph read: The wide-angle composition contrasts the bold color of the bench against natural greens and golden sunlight filtering through the canopy, creating a calm and inviting mood. Photo type: Snapshot
+    - Watch-outs: Highlights clipped to white in the sunlit background area; intentional or missed exposure not determinable from the image.
+- **nancychevalier**:  ([link](https://www.threads.com/@nancychevalier/post/DfadcHJnwVI))
+  - Photo: Description: A traveler wearing a white sunhat and red garment rests on a public bench at night, flanked by several backpacks. The scene is set on a paved sidewalk in front of colorful multi-story buildings with lit windows. Photograph read: Captured from a straight-on eye-level angle, the vertically framed shot is softly focused under ambient street lighting, creating a somber mood. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **nancychevalier**: Waiting for a night bus from Cusco to the Amason. ([link](https://www.threads.com/@nancychevalier/post/DfadcF5nyLZ))
+  - _Replying to: (photo reply, no text)_
+- **oznatureart**: My contemplation bench... also good for spotting whales ([link](https://www.threads.com/@oznatureart/post/DfabZF3gc3a))
+  - Photo: Description: A simple wooden bench sits beside a coastal walking path overlooking a rocky shoreline and the blue sea. The sunny day and scenic viewpoint suggest a restful stop along a nature trail. Photograph read: Captured in bright, direct daylight, the scene uses natural framing from gnarled trees to draw the eye toward the distant ocean horizon. Photo type: Snapshot
+- **clmharper**:  ([link](https://www.threads.com/@clmharper/post/DfaYs9dGzy9))
+  - Photo: Description: An older woman with gray hair stands on a wooden dock beside a calm lake during autumn. Vibrant orange and yellow trees reflect on the water's surface behind her, and a small figurine of a boy fishing sits on the dock nearby. Photograph read: The subject stands in the left-center of a wide-angle composition, illuminated by bright daylight under a clear sky, creating a calm and casual outdoor mood. Photo type: Snapshot
+    - Watch-outs: Bright background highlights clipped to white.
+- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DfaWNrEmTOs))
+  - Photo: Description: A man with a mustache sits squarely in the center of a tall, elaborate red leather chair framed by giant antlers, positioned between two luggage carts in what appears to be a hotel lobby. Photograph read: Captured from a direct front angle with balanced interior lighting, creating a humorous, posed portrait. Photo type: Snapshot
+- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DfaWCRxmQGJ))
+  - Photo: Description: A newly sanded wooden porch swing hangs suspended inside a rustic workshop, framed by open structural beams. The surrounding background features cluttered shelves and outdoor greenery visible through the open structure. Photograph read: The centered composition places the swing squarely in the frame under diffuse, even lighting, creating a straightforward and documentary mood. Photo type: Documentary
+    - Watch-outs: Background clutter directly overlaps the swing from behind.
+  - Photo: Description: A freshly varnished wooden porch swing hangs suspended in front of a cluttered green shed and a gravel ground. The glossy finish on the wood highlights its rich grain and contours. Photograph read: Centrally framed with even lighting inside a rustic workspace, the shot highlights the glossy textures and warm tones of the finished wood. Photo type: Documentary
+- **steve.cozort**: Just a painted ally and chair..Wichita KS ([link](https://www.threads.com/@steve.cozort/post/DfaVTmnHWiA))
+  - Photo: Description: A single bright yellow chair sits centered in the foreground on a cobblestone alleyway painted with a vibrant, multicolored geometric pattern of pink, yellow, and turquoise. The path leads the eye into the distance between building walls, creating a striking pop of color. Photograph read: The shot uses a centered, symmetrical composition with bright, saturated daylight casting soft shadows, evoking a cheerful and whimsical mood. Photo type: Artistic
+- **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/DfaPzjsCNjB))
+  - Photo: Description: Two wicker chairs sit along a cobblestone alleyway, adorned with vibrant purple and pink potted flowers against a whitewashed wall. This charming street scene evokes a warm, inviting travel atmosphere. Photograph read: The diagonal composition leads the eye along the flower-filled alley, captured in even, natural light that highlights the vivid colors and textures. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DfaPLqzDhKo))
+  - Photo: Description: A scenic stone terrace overlooks a calm body of water beneath a dense canopy of trees framing the bright sky. A solitary bench sits near the edge of the overlook next to a metal railing. Photograph read: Framed by dark tree silhouettes, the bright daylight creates a strong contrast and a calm, secluded mood. Photo type: Snapshot
+    - Watch-outs: Bright sky area clipped to white.
+- **thegumguy**: (shanghai) ([link](https://www.threads.com/@thegumguy/post/DfaO6krk9gO))
+  - Photo: Description: A weathered wooden door decorated with traditional red New Year couplets stands alongside a gray wall in a narrow alley. A moped is parked nearby on the concrete walkway next to a red broom and potted plants. Photograph read: The straight-on composition captures the everyday details of an alleyway under flat daylight, creating a quiet, documentary mood. Photo type: Documentary
+- **katiep_0_0**:  ([link](https://www.threads.com/@katiep_0_0/post/DfaNZ_tDs0o))
+  - Photo: Description: A black-and-white vertical shot shows an outdoor cafe setup with an old wooden chair, a small metal table holding a cup, and a wooden stool, all positioned against a wall covered in dense ivy. Photograph read: The high-contrast monochromatic lighting highlights the textured weave of the chair seat and the dense pattern of the ivy, creating a quiet and rustic mood. Photo type: Documentary
+    - Watch-outs: Highlight clipping on the lower right area.
+- **winestains.ca**: These benches draw me whenever I’m in Niagara-on-the-Lake. ([link](https://www.threads.com/@winestains.ca/post/DfaM0n_lofh))
+  - Photo: Description: This wide panoramic photo shows a row of silhouetted bare trees and empty park benches along a shoreline at sunset. The glowing orange sky contrasts with the dark foreground, creating a tranquil waterside scene. Photograph read: The wide panoramic composition uses silhouetted trees to frame a vibrant sunset over the water, creating a serene and contemplative mood. Photo type: Landscape
+- **londonlightcreative**: Bench in Richmond Park, London ([link](https://www.threads.com/@londonlightcreative/post/DfaMNzhAk0c))
+  - Photo: Description: An S-shaped wooden park bench curves across a dark cobblestone pathway in a high-contrast black-and-white composition. The winding lines of the bench create a rhythmic pattern that draws the viewer's eye through the frame. Photograph read: The high-contrast black-and-white treatment emphasizes the graphic curves and textures of the wooden slats and cobblestones, creating a moody, architectural study. Photo type: Artistic
+- **ritaveeps**: Above a mill operating since 1846!! ([link](https://www.threads.com/@ritaveeps/post/DfaMKk8EdpO))
+  - Photo: Description: A vibrant red Adirondack chair sits on a grassy bank overlooking a calm blue lake, framed by tall reeds and distant autumn trees. This peaceful scene evokes a sense of quiet relaxation and solitude in nature. Photograph read: The bright red chair acts as a strong focal point in the lower foreground, contrasting with the cool blue tones of the water under natural daylight. Photo type: Snapshot
+- **pattykl**: Theme: A Seat With A Story Greece • • #greece #travel ([link](https://www.threads.com/@pattykl/post/DfaKtjCkiZO))
+  - Photo: Description: A traditional white-painted chair with a woven seat sits on a stone patio overlooking a bright blue sea with anchored boats. The sunlit Mediterranean scene is framed by leafy branches and a white-washed tree trunk, creating a tranquil travel setting. Photograph read: Framed by overhanging foliage and a textured tree trunk, the vertical composition uses dappled natural light to highlight the white chair against the expansive blue sea. Photo type: Travel snapshot
+- **akmaleky**: The Science of Sleep ([link](https://www.threads.com/@akmaleky/post/DfaKgp2n92J))
+  - Photo: Description: A person lies fast asleep on their side on a green park bench, with their sandals placed neatly on the ground underneath. Lush green trees and a tiled pathway surround the scene, captured from a high-angle overhead perspective. Photograph read: Captured from a high angle, the composition centers on the solitary figure sleeping on a green bench against a backdrop of textured pavement and leafy foliage under even, diffused light. Photo type: Documentary
 - **traceartography**: My favorite chair. ([link](https://www.threads.com/@traceartography/post/DfaJmtGllAz))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
-- **storycatcher52**: Cameron Lake, Ontario Canada ([link](https://www.threads.com/@storycatcher52/post/DfaIUM8lIJ0))
-  - Photo: Description: Two teal Adirondack chairs sit on a wooden dock overlooking a calm lake at sunset. The warm golden light reflects off the water and highlights the edges of the chairs, creating a peaceful lakeside atmosphere. Photograph read: The low-angle composition frames the chairs diagonally against a glowing sunset, casting long highlights across the wooden slats in a serene and tranquil mood. Photo type: Snapshot
-- **kes_ward**: This bench is in the New Forest. Found this on a walk on a trip there. It is a beautifully peaceful place to stop. ([link](https://www.threads.com/@kes_ward/post/DfaHvElDp_3))
-  - Photo: Description: A wooden bench sits at the foreground of a dirt path winding through a dense forest flanked by autumn-colored ferns. The canopy overhead frames a bright opening down the center trail, evoking a quiet, contemplative mood. Photograph read: Captured from a straight-on perspective, the composition uses the bench and converging path lines to draw the eye into the moody, softly lit woodland scene. Photo type: Atmospheric
-- **jeannepickering**:  ([link](https://www.threads.com/@jeannepickering/post/DfaHDrjkVXs))
-  - Photo: Description: A park bench sits on a snow-covered bank, facing a frozen body of water under a bright blue sky. Tall trees frame the scene, and footpaths are visible in the snow around the bench. Photograph read: The wide-angle composition frames the bench centrally amidst snow and trees under bright daylight, creating a peaceful and wintry mood. Photo type: Snapshot
-- **vuurenbernadettevan**: On the wild side? ([link](https://www.threads.com/@vuurenbernadettevan/post/DfaGc5eF7hh))
-  - Photo: Description: A weathered green wooden bench rests outdoors, partially obscured by fallen palm fronds and debris. The rustic setting suggests an abandoned or forgotten resting spot in a natural environment. Photograph read: Captured from a low angle with soft, diffused light, the image creates a melancholic and still mood through the contrast of vibrant paint against decaying foliage. Photo type: Documentary
-- **eleanorangelaholohan**: Time stands still in Drumboe Woods Stranorlar Ireland ([link](https://www.threads.com/@eleanorangelaholohan/post/DfaGdEbjLA0))
-  - Photo: Description: A dirt path winds through a vibrant autumn forest, blanketed in fallen leaves with a rustic wooden bench sitting quietly to the left. Sunlight filters through the green and golden canopy overhead, creating a peaceful scene for a seasonal walk. Photograph read: The symmetrical framing of large trees creates a natural leading line down the path, illuminated by bright, filtered sunlight that highlights the autumn colors. Photo type: Snapshot
-- **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/DfaGSwGkzlL))
-  - Photo: Description: A single rectangular throw pillow rests centrally on a worn, dark brown armchair. Sunlight streams across the upper left side of the chair, highlighting the textured fabric. Photograph read: Captured from a straight-on perspective, the warm directional light creates soft shadows that emphasize the varied textures of the chair and the patterned pillow, establishing a quiet, domestic mood. Photo type: Snapshot
-- **mattgrosp**: india ([link](https://www.threads.com/@mattgrosp/post/DfaE6aRjQjG))
-  - Photo: Description: This photo shows the exterior of a cluttered repair workshop at dusk, featuring plastic blue chairs arranged in front of a brightly lit doorway stocked with spare parts. A garden hose hangs on the textured wall, and a large generator sits to the right under the evening light. Photograph read: The wide-angle composition contrasts the warm, low sunlit wall with the cool, vibrant turquoise interior glow, creating a striking color temperature split and a utilitarian mood. Photo type: Documentary
-- **pamelahudson1012**:  ([link](https://www.threads.com/@pamelahudson1012/post/DfaEB2Fm5qP))
-  - Photo: Description: A cozy outdoor patio setup features a black hanging egg chair with a plush off-white cushion and a blue fish-patterned pillow. Nearby, a potted fiddle-leaf fig plant and a wall shelf holding a blue mug complete the relaxing, lived-in space. Photograph read: The shot is captured with a straight-on composition in soft, even daylight, creating a calm and inviting mood. Photo type: Snapshot
-- **watsjoey**: I felt this chair had many stories to tell. ([link](https://www.threads.com/@watsjoey/post/DfaDqxAG8G9))
-  - Photo: Description: A vintage wooden rocking chair with red velvet upholstery sits in a historic room featuring patterned wallpaper, patterned floor tiles, and a wooden dresser with a large mirror. The bright window light suggests daytime, offering a glimpse into a period-style interior suitable for a heritage or antique post. Photograph read: Captured from an elevated angle, the composition features natural side light from a window that creates an airy, nostalgic interior mood. Photo type: Documentary
-    - Watch-outs: Highlights clipped to pure white on the window curtains.
-- **nicoangler**: A chair to discourage smokers.. ([link](https://www.threads.com/@nicoangler/post/DfaDYaegCoA))
-  - Photo: Description: A modern metal chair and a matching cylindrical trash can are mounted on single pedestals outdoors against a dark brick building at night. Warm light glows from one of the vertical windows in the background, contrasting with the cool blue tones of the scene. Photograph read: Centered straight-on composition featuring sharp metallic highlights and deep blue shadows, creating a stark, moody nighttime aesthetic. Photo type: Artistic
-- **wj.fox**: Will never know ([link](https://www.threads.com/@wj.fox/post/DfaFrTIHKvl))
-  - _Replying to: Two benches, fresh snow, nobody sitting. How long before so…_
-- **whoissilver**: I sit there fairly regularly. Probably more in winter than summer. It's a lovely view in the changing light, but when there's a mist on the river it's spectacular... ([link](https://www.threads.com/@whoissilver/post/DfaEq_7HKk3))
-  - Photo: Description: Looking down from a high vantage point, bare autumn branches frame a wide river valley filled with low-lying morning fog. In the distance, layers of hills and distant mountains stretch toward a pale blue sky. Photograph read: The scene is framed naturally by tree silhouettes in the foreground, creating depth beneath bright morning light that highlights the winding river below. Photo type: Landscape
-  - _Replying to: One bench, one hilltop, and the whole Tay Valley below it. …_
-- **ashu_anu87**: If phone stays in the pocket it’s distraction for peaceful moment ☺️ ([link](https://www.threads.com/@ashu_anu87/post/DfaHPeGoUf9))
-  - _Replying to: A bench made of logs, facing nothing but water and trees. I…_
+- **jeannepickering**: Just in front of the bench is the bank to a beautiful pond. When it freezes people skate on it. ([link](https://www.threads.com/@jeannepickering/post/DfalX8VG8Et))
+  - _Replying to: The footprints say plenty of people walked past, and the be…_
+- **vuurenbernadettevan**: The color is so bold, i immediately saw it, on a pathway, so went closer and took the shot... ([link](https://www.threads.com/@vuurenbernadettevan/post/DfaM08hkd5n))
+  - _Replying to: On the wild side, and then some - the fronds are halfway to…_
+- **eleanorangelaholohan**: I regularly walk there and take time out to relax on the bench. ([link](https://www.threads.com/@eleanorangelaholohan/post/DfaNDXFDGxz))
+  - _Replying to: What stopped you long enough to spot it - that little bench…_
+- **mattgrosp**: some night strolling in a unremembered town deep down india ([link](https://www.threads.com/@mattgrosp/post/DfaP8BZjard))
+  - _Replying to: Those blue chairs have seen some evenings. The workshop glo…_
+- **pamelahudson1012**: Hours and hours!! My view is the San Jacinto Mountains ⛰️⛰️ ([link](https://www.threads.com/@pamelahudson1012/post/DfaRVh_j90v))
+  - _Replying to: The fish pillow sold it for me - a hanging chair with its o…_
+- **watsjoey**: Apparently there are many who think that chair still holds a presence as it has been seen rocking on its own. ([link](https://www.threads.com/@watsjoey/post/Dfae9CAj-tS))
+  - _Replying to: The red velvet against all that patterned wallpaper is a bo…_
+- **nicoangler**: The bin. Partly ashtray ([link](https://www.threads.com/@nicoangler/post/DfaOuBlACyq))
+  - _Replying to: Is the bin the ashtray, or is the whole setup the ashtray?_
+- **artiekay2**: Through my lunch time, several days. ([link](https://www.threads.com/@artiekay2/post/DfaXP_TFl_-))
+  - _Replying to: The Spanish moss hung the curtains and the bench got the be…_
+- **bibliojo**: I might choose yellow just because ‘ 😏 ([link](https://www.threads.com/@bibliojo/post/DfaS599IIxY))
+  - _Replying to: Which color gets claimed first on a sunny afternoon - the b…_
+- **bobherrmann6**: Be glad to Thanks ([link](https://www.threads.com/@bobherrmann6/post/DfahbmBlW3k))
+  - _Replying to: Take a seat_
 - **srravi**: Many thanks, indeed! Would like to go there again. This was an extempore trip planned just before my twin granddaughters were born since after that we’ll get busy…it was way back in 2022… ([link](https://www.threads.com/@srravi/post/DfZ9ILNGnvF))
   - _Replying to: That sounds like a room worth going back to. Thanks for tel…_
+- **fephi**:  ([link](https://www.threads.com/@fephi/post/DfaPNrkkz_g))
+  - Photo: Description: Three empty lounge chairs line the edge of a backyard pool overlooking a coastal horizon at sunset. The setting sun glints off the ocean water in the distance, framed by silhouetted palm trees and rooftops. Photograph read: The shot uses strong backlighting to cast sharp shadows from the loungers across the wooden deck, creating a serene, end-of-day mood. Photo type: Snapshot
+  - _Replying to: (photo reply, no text)_
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DfZ6xl7jpXO))
   - Photo: Description: A large tree with an intricate network of exposed roots stands in a sunlit forest, surrounded by other trees and green foliage. This scene evokes a peaceful hike or nature exploration. Photograph read: The vertical framing emphasizes the height of the tree and the sprawling foundation of its roots, captured in natural daylight with a tranquil mood. Photo type: Nature snapshot
     - Watch-outs: Bright sky areas clipped to white.
@@ -57,12 +101,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A tall palm tree stands in silhouette against a colorful twilight sky with soft pink and blue clouds. The low angle captures the tree's fronds against the fading light of a horizon dotted with distant trees. Photograph read: Captured from a low vantage point, the vertical framing emphasizes the height of the silhouetted palm against a gradient sunset sky. Photo type: Snapshot
 - **joafro**: A nature trail within Spring Lake park outside of Petoskey, MI ([link](https://www.threads.com/@joafro/post/DfZ4RmtkRsd))
   - _Replying to: Those shelf fungi marching up the trunk like steps - I coun…_
+- **rowyourownboat_**: Unsure I was camping near it, no dog that's a log on the ground and it's just a burnt trunk there's a tree behind it with the green leaves ([link](https://www.threads.com/@rowyourownboat_/post/DfaV6b2k6wm))
+  - _Replying to: Burnt black at the base and green all over the top - quite …_
 - **ron_glum**: Amazed me how nature can recover. ([link](https://www.threads.com/@ron_glum/post/DfZTSK3DJKk))
   - Photo: Description: A large, bare-branched deciduous tree stands prominently in the center of a grassy field under an overcast sky. In the background, rolling green fields and distant trees stretch toward the horizon on a quiet, wintry day. Photograph read: The centered composition emphasizes the bare tree against a uniform, bright overcast sky, creating a quiet and subdued rural mood. Photo type: Documenting
 - **mattgrosp**: as always curiosity we spent weekends over there with friend , shooting videos, photos and having a few beers together ([link](https://www.threads.com/@mattgrosp/post/DfZ23yrDZZA))
   - _Replying to: A lone palm holding down a gravel island at midnight, with …_
 - **fnpmaf**: The horn shape attracted me. Reminds me of a whale or a bird ([link](https://www.threads.com/@fnpmaf/post/DfaIvDVn50n))
   - _Replying to: Did you see the horn shape first, or the whole tangle of gr…_
+- **_olliemorgan**: No. But in my neighbourhood ([link](https://www.threads.com/@_olliemorgan/post/DfahrGfln3I))
+  - _Replying to: I think getting in that close was a good call - the bark tu…_
 - **kayizok**:  ([link](https://www.threads.com/@kayizok/post/DfY84iUlvL1))
   - Photo: Description: A suburban street features a sidewalk alongside a grassy hill, with bright red autumn trees contrasting against beige siding houses and a clear blue sky. A dark SUV parked by a leasing office sign sits near the center of the frame under bright daylight. Photograph read: Captured in bright, direct daylight under a clear blue sky, this composition highlights the vibrant red autumn foliage against the neutral suburban backdrop. Photo type: Snapshot
   - _Replying to: The trees here in PA are incredible this year ... There's b…_
@@ -97,6 +145,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: It’s a well known street and Favorite for tourists to Take …_
 - **howellbch**: Date palm lining street ([link](https://www.threads.com/@howellbch/post/DfX9pjBkl3I))
   - _Replying to: (photo reply, no text)_
+- **mjsmithaug5233**: No age noted ([link](https://www.threads.com/@mjsmithaug5233/post/DfadjH1I_0Q))
+  - _Replying to: Ancient olive tree in Greece_
 - **callmekate44msncom**: There's a dancer in that tangle...maybe two. ([link](https://www.threads.com/@callmekate44msncom/post/DfYqp-9ka3H))
   - _Replying to: Ancient olive tree in Greece_
 - **irina.mck**: I'm glad you liked it ☺️ ([link](https://www.threads.com/@irina.mck/post/DfZGkUWkVLx))
@@ -210,9 +260,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (54)
+## Needs Like (55)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
+- aaronschwartz1: Lucky hour 😊 ([link](https://www.threads.com/@aaronschwartz1/post/DfaMkxjkUvq))
 - jh1962bike: Love ([link](https://www.threads.com/@jh1962bike/post/DfaIegviJNh))
 - kelzkidz03: My daughters ([link](https://www.threads.com/@kelzkidz03/post/DfZ9QstDj9U))
 
