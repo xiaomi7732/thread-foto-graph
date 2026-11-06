@@ -4,10 +4,13 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (46)
+## Needs Like (49)
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
+- qwerasd_0800: 它的告示牌寫著它有一千六百年的樹齡😁😁 ([link](https://www.threads.com/@qwerasd_0800/post/DfYllzzDxta))
 - bgoll: My neighbors. ([link](https://www.threads.com/@bgoll/post/DfYGp4Wn7p4))
+- pammied01: Within feet. ([link](https://www.threads.com/@pammied01/post/DfYrjM4nF2V))
+- d1xshooter: Thank You ([link](https://www.threads.com/@d1xshooter/post/DfYvqa0lTco))
 - cordazone: Not sure ([link](https://www.threads.com/@cordazone/post/DfYJTS7j0Zl))
 - wj.fox: 830am ([link](https://www.threads.com/@wj.fox/post/DfX1p9QmjN2))
 - chrislexicon: Thx ([link](https://www.threads.com/@chrislexicon/post/DfXs4wSiBSG))
