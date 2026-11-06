@@ -1,8 +1,54 @@
 {
   "nodes": [
     {
+      "id": "18075040217745964",
+      "label": "description, tree, photo, photograph",
+      "group": 0,
+      "snippet": "Tree Thursday favorites \ud83c\udfc6 3 trees that stopped my scroll: D\u2026",
+      "text": "Tree Thursday favorites \ud83c\udfc6 3 trees that stopped my scroll: Don Swingley @donswingley - pine between canyon walls Ray Lehr @raylehr1783 - blossom on an ancient cherry Aiga Alhasova @eye_gah - a 400-year-old oak Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfZMQkuE1Wh/",
+      "permalink": "https://www.threads.com/@saars.foto/post/DfZM7CclQm3",
+      "photos": [
+        "Description: A tall pine tree stands centered between rugged red rock canyon walls under a clear blue sky, viewed from a low angle. The vertical composition emphasizes the height of the tree. Photograph read: Captured from below with a vertical composition, the natural daylight illuminates the textured bark and sandstone canyon walls, creating a striking contrast against the blue sky. Photo type: Nature photography",
+        "Description: A small cluster of white blossoms sprouts from a crevice in the thick, textured trunk of a gnarled tree, framing a view of water and a walkway in the background. Overhead branches with more blossoms reach toward a blue sky bathed in warm golden hour light. Photograph read: Taken from a low angle, the vertical composition centers the stark contrast between rough tree bark and delicate white flowers under warm directional light, creating a serene and scenic mood. Photo type: Artistic",
+        "Description: A large, bare-branched ancient tree stands prominently amidst a surrounding forest with autumn foliage under a blue and cloudy sky. Below the image, bold text reads TREE THURSDAY FAVORITES, with attribution to photographer Aiga Alhasova. Photograph read: The vertical composition centers the stark, sprawling branches against a bright sky, flanked by golden-yellow autumn trees illuminated by natural daylight. Photo type: Nature photography"
+      ],
+      "reply_count": 3,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "@donswingley That pine on the Navajo Trail sits between the two red walls like it was planted in a slot - was this shot from the trail, or did you get below it for the straight-up angle?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfZNDToFck0",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@raylehr1783 A thousand frames that morning and this one blossom sprig on the old Tidal Basin cherry is the keeper - how did you spot it growing straight out of the trunk?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfZNBVyHGbL",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@eye_gah Your 400-year-old oak was once a shrine tree - do people still visit it that way today, or does it stand quiet now?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfZM_2mnFGU",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "18097715618142021",
-      "label": "description, photo, photograph, water",
+      "label": "description, tree, photo, photograph",
       "group": 0,
       "snippet": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a\u2026",
       "text": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a sapling, bark up close, branches against the sky - whatever caught your eye. This bark is all ridges and lichen, a whole landscape in one trunk - find me a tree with character in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Which tree do you keep going back to?",
@@ -10,8 +56,161 @@
       "photos": [
         "Description: This vertical close-up shot features the rough, deeply furrowed brown bark of a tree trunk, punctuated by patches of pale green lichen and moss. The background is softly blurred, suggesting an outdoor or park setting. Photograph read: The tight framing emphasizes the intricate textures and earthy tones of the bark under natural daylight, creating a grounded, organic mood. Photo type: Detail study"
       ],
-      "reply_count": 488,
+      "reply_count": 518,
       "replies": [
+        {
+          "username": "garber_elaine",
+          "text": "",
+          "permalink": "https://www.threads.com/@garber_elaine/post/DfZjrSYEcrd",
+          "photos": [
+            "Description: This high-angle shot captures a gnarled, twisting tree with weathered bark and patchy green foliage rooted against a red rock landscape. The arid desert setting and stark shadows provide natural contrast suitable for an outdoor nature post. Photograph read: Captured from above with strong directional side-lighting, this high-contrast composition emphasizes the winding textures of the tree and the reddish earth below. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "joafro",
+          "text": "",
+          "permalink": "https://www.threads.com/@joafro/post/DfZgom2EWL2",
+          "photos": [
+            "Description: A tall birch tree trunk with numerous shelf fungi growing vertically up its side is framed by an overcast forest canopy of bare branches and evergreens. This low-angle view captures a natural woodland scene during late autumn or winter. Photograph read: The vertical framing emphasizes the height of the central birch tree under diffuse, overcast light, creating a calm and naturalistic mood. Photo type: Documentary snapshot"
+          ],
+          "watch_outs": [
+            "Bright sky clipped to white"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "rowyourownboat_",
+          "text": "",
+          "permalink": "https://www.threads.com/@rowyourownboat_/post/DfZdZ16k9Vl",
+          "photos": [
+            "Description: A massive tree with a deeply charred, hollowed-out trunk stands prominently in a sunlit forest clearing, showing new green foliage sprouting from its upper branches. This striking contrast of fire damage and resilient growth makes for a powerful nature photograph. Photograph read: The vertical framing centers the charred trunk with dappled sunlight filtering through the canopy, creating an observant and grounded mood. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "Highlights clipped to white in the upper right sky."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tuckhead2023",
+          "text": "",
+          "permalink": "https://www.threads.com/@tuckhead2023/post/DfZdCwlkc3V",
+          "photos": [
+            "Description: A close-up shot of weathered tree bark shows swirling natural patterns of green, tan, and dark brown. A circular knot creates a focal point that resembles an eye in the organic texture. Photograph read: The vertical framing emphasizes the linear grain and swirling patterns, rendered in soft, even light that highlights the natural color variations. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "aureliafschanz",
+          "text": "",
+          "permalink": "https://www.threads.com/@aureliafschanz/post/DfZagj4EelC",
+          "photos": [
+            "Description: A low-angle, eye-level shot captures the thick, heavily textured trunk and twisting branches of an old juniper tree. The background reveals a rocky, arid landscape with scattered sagebrush under an open sky. Photograph read: The centered composition and natural light emphasize the rugged textures and warm tones of the bark, creating a grounded, earthy mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "t.f.j.8",
+          "text": "",
+          "permalink": "https://www.threads.com/@t.f.j.8/post/DfZV4oCFJ2E",
+          "photos": [
+            "Description: A vibrant sunrise casts a brilliant golden reflection across a calm lake, framed by distant mountains, a rocky shoreline, and a bare tree on the right. The moody sky shifts from bright yellow near the horizon to dark, textured clouds above. Photograph read: The wide-angle landscape uses natural framing with a foreground tree trunk to guide the eye toward the glowing horizon and serene water. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ron_glum",
+          "text": "Amazed me how nature can recover.",
+          "permalink": "https://www.threads.com/@ron_glum/post/DfZTSK3DJKk",
+          "photos": [
+            "Description: A large, bare-branched deciduous tree stands prominently in the center of a grassy field under an overcast sky. In the background, rolling green fields and distant trees stretch toward the horizon on a quiet, wintry day. Photograph read: The centered composition emphasizes the bare tree against a uniform, bright overcast sky, creating a quiet and subdued rural mood. Photo type: Documenting"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lester_trotter",
+          "text": "",
+          "permalink": "https://www.threads.com/@lester_trotter/post/DfZSN6JH0D9",
+          "photos": [
+            "Description: A vibrant green tree grows upright from a narrow crevice amidst a vast expanse of dark, jagged stone pinnacles. The vertical composition emphasizes the stark contrast between the bright foliage and the rugged grey rock. Photograph read: The vertical framing centres the slender tree against the dark, textured rock faces under even, diffused light, creating a striking sense of resilience. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mattgrosp",
+          "text": "salton city",
+          "permalink": "https://www.threads.com/@mattgrosp/post/DfZRskHjXmP",
+          "photos": [
+            "Description: A single palm tree stands illuminated by harsh overhead lighting on a gravel island in an empty parking lot at night. In the background, a distant roadside business glows with warm orange light against the pitch-black sky. Photograph read: The stark, high-contrast night scene features centered framing and cool artificial lighting that casts dramatic shadows on the gravel below. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "peterweaving",
+          "text": "Snow Gum",
+          "permalink": "https://www.threads.com/@peterweaving/post/DfZIqt3DMgL",
+          "photos": [
+            "Description: A gnarled eucalyptus trunk with smooth, pale bark curves dramatically against a clear blue sky, with a mountainous landscape visible in the background. Photograph read: The vertical composition emphasizes the serpentine shape of the tree under bright daylight, creating a clean contrast between the pale wood and the vivid blue backdrop. Photo type: Nature photography"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "biernatzki62",
+          "text": "Autumn at the Lake",
+          "permalink": "https://www.threads.com/@biernatzki62/post/DfZHQ1Qjab5",
+          "photos": [
+            "Description: A person and a small dog are seated on a wooden bench beneath the sprawling canopy of a large tree with yellow-green leaves. In the background, a low stone wall borders a body of water with distant buildings visible across the shore. Photograph read: The wide-angle perspective emphasizes the massive scale and intricate branching of the tree, backlit by bright daylight filtering through the autumn foliage. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Highlights clipped to white in the upper left background sky; severe digital noise and heavy artifacting throughout the foliage and trunk."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "coastline.ceramics",
+          "text": "This was my favourite tree until we had a storm recently and I found it had blown down. The roots were rotten \ud83d\ude22",
+          "permalink": "https://www.threads.com/@coastline.ceramics/post/DfZAc-wDflM",
+          "photos": [
+            "Description: A large, gnarled tree with an ivy-covered trunk stands beside a country road with oncoming cars under a clear blue sky. A patch of yellow daffodils blooms along the grassy verge in the foreground. Photograph read: The wide shot centers on the prominent tree against a clear blue sky, captured in bright daytime lighting with a calm and scenic mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "smbosse",
           "text": "",
@@ -22,10 +221,21 @@
           "watch_outs": [
             "Sky area clipped to white."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those roots spreading out at the base are doing half the work - the trunk just keeps going up from there. Was this one on a trail, or did you bushwhack to it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfY-EJHldt_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fnpmaf",
@@ -34,10 +244,21 @@
           "photos": [
             "Description: A gnarled, weathered tree stump with an upturned, horn-like shape rises prominently in the center of a dense forest. Surrounding the stump are lush green ferns and other undergrowth, set against a backdrop of tall pine trees. Photograph read: The vertical framing centers the angled wooden form, illuminated by diffused natural light filtering through the dense canopy to create a quiet, earthy mood. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you see the horn shape first, or the whole tangle of green around it? That curve rising out of the ferns is quite the sight.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfY-FaynGjJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sjh226",
@@ -208,10 +429,20 @@
                   "text": "The trees here in PA are incredible this year ... There's been no rain so. These trees have held their color longer than usual. It's probably been a good month of color. Beautiful here in Lancaster county.",
                   "permalink": "https://www.threads.com/@kayizok/post/DfY81x3lkD_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A month of color is a fine season. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfY-MZVERv2",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "kayizok",
                       "text": "",
@@ -252,7 +483,27 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bonfires_and_birdsong",
+                  "text": "I happened upon it unknowingly. This particular pic was from 10 years ago. I now visit this friend every year. Here is this year's series of pics as the sun rose:",
+                  "permalink": "https://www.threads.com/@bonfires_and_birdsong/post/DfZEZFdm6Cm",
+                  "photos": [
+                    "Description: This vertical photo captures a winding path through a forest during peak autumn foliage, with a prominent tree displaying vibrant red leaves standing centrally. Sunlight filters through the canopy, illuminating the ground, which is scattered with fallen leaves. Photograph read: The vertical framing emphasizes the height of the trees, while backlit golden hour light creates a warm, atmospheric mood against the foliage. Photo type: Landscape snapshot",
+                    "Description: A dirt path winds through a dense forest with tall trees showcasing vibrant autumn foliage in shades of red, orange, and green. Sunlight filters through the canopy, casting strong beams and illuminating the fallen leaves on the ground. Photograph read: Taken from a low-angle perspective, the vertical composition uses strong backlighting to create pronounced light rays and silhouetted tree trunks against a bright sky. Photo type: Scenic",
+                    "Description: Vibrant red and orange autumn foliage fills the upper canopy of a towering central tree, while low sunlight bursts through the trees along a path below. The contrast between the bright, warm colors and the clear blue sky creates a striking seasonal scene. Photograph read: The low-angle composition draws the eye up the central tree, framed by strong sunburst effects and glowing backlight that illuminate the autumn colors. Photo type: Landscape photography"
+                  ],
+                  "watch_outs": [
+                    "Bright sky and backlit foliage blown out to white.",
+                    "Bright sun disc clipped to white with prominent light flare streaks.",
+                    "Sun disc clipped to white with flare streaks"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -320,6 +571,18 @@
           "hidden": false,
           "replies": [
             {
+              "username": "pamelawdesign",
+              "text": "A palm trees \u201cboots\u201d.",
+              "permalink": "https://www.threads.com/@pamelawdesign/post/DfZK5g4Fguz",
+              "photos": [
+                "Description: This vertically framed, close-up shot captures the intricate, overlapping texture of a trimmed palm tree trunk against a bright blue sky and leafy green background. The textured frond bases create a natural geometric pattern that dominates the central composition. Photograph read: The eye-level vertical composition emphasizes the complex textures of the palm bark under direct daylight, framed by contrasting foliage and open sky. Photo type: Snapshot"
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
+            {
               "username": "saars.foto",
               "text": "The moss does half the work here - those long grey curtains hanging off the branches turn a road into a tunnel. Is this a drive you take often, or a first-time detour?",
               "permalink": "https://www.threads.com/@saars.foto/post/DfY5ouGke9d",
@@ -327,7 +590,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pamelawdesign",
+                  "text": "This is my daily walking route. I moved here two years ago and have only missed a few days due to heavy rain.",
+                  "permalink": "https://www.threads.com/@pamelawdesign/post/DfZJyZdFu68",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -451,7 +725,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "timothy.corner.370",
+                  "text": "From this angle the tree becomes more dominant and majestic. If I took the picture from a higher point of view the background would become more of the focus because we tend to look towards the horizon which is always at eye level.",
+                  "permalink": "https://www.threads.com/@timothy.corner.370/post/DfZaHcvm-iE",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -518,7 +803,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "elizabethanthony116",
+                  "text": "This was around 6:45 AM just before going in to my office, which believe it or not is in rural Illinois! It\u2019s an awesome spot for great sunrises! And I always thought that tree just made it even better! \ud83c\udf05",
+                  "permalink": "https://www.threads.com/@elizabethanthony116/post/DfZZLKvmyCC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -986,10 +1282,21 @@
                   "text": "How beautifully poetic. It\u2019s one of my favourite spots near the nesting areas in Grenadier Pond in High Park in Toronto. I didn\u2019t actually photograph my favourite tree there, but I love the gnarls on this one too.",
                   "permalink": "https://www.threads.com/@theloved_one/post/DfY5YpCESJ6",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "High Park sounds like a fine regular. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfY-K-_Fakr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1014,7 +1321,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dasimscas",
+                  "text": "Snowshoes....everyday. My dog loves it.",
+                  "permalink": "https://www.threads.com/@dasimscas/post/DfZfWGpETL2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1366,7 +1684,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "solar_regolith",
+                  "text": "This accurately captures the sensation.n",
+                  "permalink": "https://www.threads.com/@solar_regolith/post/DfZk3FlEULL",
+                  "photos": [
+                    "Description: A low-angle selfie captures a man with long gray hair and a mustache standing in front of an immense redwood tree, looking up with a wide-eyed, humorous expression. The background showcases the towering, textured bark stretching up toward the bright sky. Photograph read: The extreme low-angle perspective emphasizes the massive scale of the tree behind the subject, utilizing a bright, blown-out sky to create high contrast. Photo type: Snapshot"
+                  ],
+                  "watch_outs": [
+                    "Highlights blown out to white in the upper canopy."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1559,7 +1893,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "jessiebird68",
+                          "text": "Life in rural Vermont!",
+                          "permalink": "https://www.threads.com/@jessiebird68/post/DfZdSFAGwst",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1636,7 +1981,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pauljdoty",
+                  "text": "It is ink work, we first noticed it about a week ago. Been walking around this lake for many years\u2026",
+                  "permalink": "https://www.threads.com/@pauljdoty/post/DfZwdBZG00Z",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "rivverdiii2098",
@@ -1669,7 +2025,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "hibbys_cheap_watches",
+                  "text": "It died. I left a high stump for the woodpeckers",
+                  "permalink": "https://www.threads.com/@hibbys_cheap_watches/post/DfY-Xs8kWYB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2305,7 +2672,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nimaalaa1",
+                  "text": "Yes, this is in a park and I visit in sunny summer days. Beautiful atmosphere. Thank you \ud83e\udd17\ud83d\udc95",
+                  "permalink": "https://www.threads.com/@nimaalaa1/post/DfZCKG2iEaZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3205,7 +3583,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jan.arnold.925",
+                  "text": "Never looked",
+                  "permalink": "https://www.threads.com/@jan.arnold.925/post/DfZDgfaCNKm",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3234,10 +3623,21 @@
                   "text": "Beware! There may be dragons.",
                   "permalink": "https://www.threads.com/@callmekate44msncom/post/DfYq731EbkF",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Duly warned. Thanks for the laugh.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfY-QjxHD92",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 },
                 {
                   "username": "elaine.cavey",
@@ -3512,10 +3912,32 @@
                   "text": "I\u2019m afraid I don\u2019t know why this pine tree grew so crooked. I saw it in a park, and its shape fascinated me.",
                   "permalink": "https://www.threads.com/@irina.mck/post/DfY53RYDPxt",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A shape like that earns its fascination. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfY-J1elssN",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "irina.mck",
+                          "text": "I'm glad you liked it \u263a\ufe0f",
+                          "permalink": "https://www.threads.com/@irina.mck/post/DfZGkUWkVLx",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -5714,22 +6136,12 @@
               ]
             }
           ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Yesterday's Water Wednesday favorites are up \ud83c\udfc6 An electric blue shoreline, birds over a waterfall, and a lone red paraglider: https://www.threads.com/@saars.foto/post/DfWnxKvnBoC",
-          "permalink": "https://www.threads.com/@saars.foto/post/DfXT5LdFESl",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
         }
       ]
     },
     {
       "id": "17942310048383159",
-      "label": "description, photo, photograph, water",
+      "label": "description, tree, photo, photograph",
       "group": 0,
       "snippet": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll\u2026",
       "text": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll: Brian Smith @briansmithphotography67 - electric blue shoreline Greg Hillman @greghillman11 - birds over waterfall Maurice @corwyn671 - lone red paraglider Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfWnjUdDwMB/",
@@ -5872,7 +6284,7 @@
     },
     {
       "id": "18103312391535326",
-      "label": "description, photo, photograph, water",
+      "label": "description, tree, photo, photograph",
       "group": 0,
       "snippet": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Stre\u2026",
       "text": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did you last stop for water?",
@@ -5882,6 +6294,18 @@
       ],
       "reply_count": 233,
       "replies": [
+        {
+          "username": "kathbert85",
+          "text": "",
+          "permalink": "https://www.threads.com/@kathbert85/post/DfXrPQzlVeB",
+          "photos": [
+            "Description: This vertical, close-up shot features a large variegated agave plant with pointed, striped leaves radiating outward from a central rosette. The stark contrast of white borders on green foliage creates a natural geometric"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "wrj_arts",
           "text": "",
@@ -5981,7 +6405,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "anthony.deighton.73",
+                  "text": "Tempted to say yes but no it turned out better than I thought!",
+                  "permalink": "https://www.threads.com/@anthony.deighton.73/post/DfZitPQCBQ3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -7679,6 +8114,18 @@
         },
         {
           "username": "goranka.miladinovic",
+          "text": "",
+          "permalink": "https://www.threads.com/@goranka.miladinovic/post/DfU5eS8EdNb",
+          "photos": [
+            "Description: An aerial view looks down a wide, blue river on a clear day, highlighting a prominent water fountain on a platform and forested banks showing autumn colors. Several small boats are scattered on the water, and docks line the right shore. Photograph read: The high-angle vertical composition captures bright daylight casting crisp shadows, creating a serene and expansive mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "goranka.miladinovic",
           "text": "Rgds from Belgrade, Serbia \ud83e\udd70",
           "permalink": "https://www.threads.com/@goranka.miladinovic/post/DfU4j7kjbyX",
           "photos": [
@@ -8534,47 +8981,12 @@
               ]
             }
           ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Yesterday's Pattern Tuesday favorites are up \ud83c\udfc6 Glowing cubes, a blue lattice tunnel, and a monochrome rosette: https://www.threads.com/@saars.foto/post/DfT8-0TGyBu",
-          "permalink": "https://www.threads.com/@saars.foto/post/DfUu5Qgll3B",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "kathbert85",
-              "text": "",
-              "permalink": "https://www.threads.com/@kathbert85/post/DfXrPQzlVeB",
-              "photos": [
-                "Description: This vertical, close-up shot features a large variegated agave plant with pointed, striped leaves radiating outward from a central rosette. The stark contrast of white borders on green foliage creates a natural geometric"
-              ],
-              "needs_response": true,
-              "action": "reply",
-              "hidden": false,
-              "replies": []
-            },
-            {
-              "username": "goranka.miladinovic",
-              "text": "",
-              "permalink": "https://www.threads.com/@goranka.miladinovic/post/DfU5eS8EdNb",
-              "photos": [
-                "Description: An aerial view looks down a wide, blue river on a clear day, highlighting a prominent water fountain on a platform and forested banks showing autumn colors. Several small boats are scattered on the water, and docks line the right shore. Photograph read: The high-angle vertical composition captures bright daylight casting crisp shadows, creating a serene and expansive mood. Photo type: Documentary"
-              ],
-              "needs_response": true,
-              "action": "reply",
-              "hidden": false,
-              "replies": []
-            }
-          ]
         }
       ]
     },
     {
       "id": "17911773306484146",
-      "label": "description, photo, photograph, water",
+      "label": "description, tree, photo, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scroll: Arizona Dweller @tallerthanyou2026 - glowing patterned cubes Conrad Skillen @stickyshutterphotography - blue lattice tunnel Anthony Chila @cruscher53 - monochrome rosette spiral Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfT81ZDjmpK/",
@@ -8642,7 +9054,7 @@
     },
     {
       "id": "18219980083346746",
-      "label": "description, photo, photograph, water",
+      "label": "description, tree, photo, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",
@@ -8650,7 +9062,7 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 393,
+      "reply_count": 392,
       "replies": [
         {
           "username": "gazzybear76",
@@ -13078,35 +13490,29 @@
               ]
             }
           ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Still catching up from the weekend? Friday's favorites are worth a look - three flowers that stopped my scroll \ud83c\udf38 https://www.threads.com/@saars.foto/post/DfKVw6nkRYP",
-          "permalink": "https://www.threads.com/@saars.foto/post/DfSKEzwlA_S",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
         }
       ]
     }
   ],
   "edges": [
     {
-      "from": "18097715618142021",
+      "from": "18075040217745964",
+      "to": "18097715618142021"
+    },
+    {
+      "from": "18075040217745964",
       "to": "17942310048383159"
     },
     {
-      "from": "18097715618142021",
+      "from": "18075040217745964",
       "to": "18103312391535326"
     },
     {
-      "from": "18097715618142021",
+      "from": "18075040217745964",
       "to": "17911773306484146"
     },
     {
-      "from": "18097715618142021",
+      "from": "18075040217745964",
       "to": "18219980083346746"
     }
   ]
