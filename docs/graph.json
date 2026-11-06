@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17888396322499754",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Take a Seat Friday \ud83e\ude91 Show me a seat with a story. A favorit\u2026",
       "text": "Take a Seat Friday \ud83e\ude91 Show me a seat with a story. A favorite chair, a park bench, a swing, a stool by the window - whatever you keep coming back to. This hanging chair is all woven shadow and teal cushions - find me a seat that feels like yours. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where is your favorite seat?",
@@ -10,8 +10,143 @@
       "photos": [
         "Description: A black hanging wicker egg chair sits outdoors, holding two teal pillows and a small stuffed toy on its seat. Sunlight filters through the chair's open geometric weave, casting patterned shadows across the cushions. Photograph read: The shot uses a centered composition with natural lighting, creating a calm, relaxed mood. Photo type: Snapshot"
       ],
-      "reply_count": 44,
+      "reply_count": 69,
       "replies": [
+        {
+          "username": "traceartography",
+          "text": "My favorite chair.",
+          "permalink": "https://www.threads.com/@traceartography/post/DfaJmtGllAz",
+          "photos": [
+            "(description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "storycatcher52",
+          "text": "Cameron Lake, Ontario Canada",
+          "permalink": "https://www.threads.com/@storycatcher52/post/DfaIUM8lIJ0",
+          "photos": [
+            "Description: Two teal Adirondack chairs sit on a wooden dock overlooking a calm lake at sunset. The warm golden light reflects off the water and highlights the edges of the chairs, creating a peaceful lakeside atmosphere. Photograph read: The low-angle composition frames the chairs diagonally against a glowing sunset, casting long highlights across the wooden slats in a serene and tranquil mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kes_ward",
+          "text": "This bench is in the New Forest. Found this on a walk on a trip there. It is a beautifully peaceful place to stop.",
+          "permalink": "https://www.threads.com/@kes_ward/post/DfaHvElDp_3",
+          "photos": [
+            "Description: A wooden bench sits at the foreground of a dirt path winding through a dense forest flanked by autumn-colored ferns. The canopy overhead frames a bright opening down the center trail, evoking a quiet, contemplative mood. Photograph read: Captured from a straight-on perspective, the composition uses the bench and converging path lines to draw the eye into the moody, softly lit woodland scene. Photo type: Atmospheric"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jeannepickering",
+          "text": "",
+          "permalink": "https://www.threads.com/@jeannepickering/post/DfaHDrjkVXs",
+          "photos": [
+            "Description: A park bench sits on a snow-covered bank, facing a frozen body of water under a bright blue sky. Tall trees frame the scene, and footpaths are visible in the snow around the bench. Photograph read: The wide-angle composition frames the bench centrally amidst snow and trees under bright daylight, creating a peaceful and wintry mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "vuurenbernadettevan",
+          "text": "On the wild side?",
+          "permalink": "https://www.threads.com/@vuurenbernadettevan/post/DfaGc5eF7hh",
+          "photos": [
+            "Description: A weathered green wooden bench rests outdoors, partially obscured by fallen palm fronds and debris. The rustic setting suggests an abandoned or forgotten resting spot in a natural environment. Photograph read: Captured from a low angle with soft, diffused light, the image creates a melancholic and still mood through the contrast of vibrant paint against decaying foliage. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "eleanorangelaholohan",
+          "text": "Time stands still in Drumboe Woods Stranorlar Ireland",
+          "permalink": "https://www.threads.com/@eleanorangelaholohan/post/DfaGdEbjLA0",
+          "photos": [
+            "Description: A dirt path winds through a vibrant autumn forest, blanketed in fallen leaves with a rustic wooden bench sitting quietly to the left. Sunlight filters through the green and golden canopy overhead, creating a peaceful scene for a seasonal walk. Photograph read: The symmetrical framing of large trees creates a natural leading line down the path, illuminated by bright, filtered sunlight that highlights the autumn colors. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "aaronschwartz1",
+          "text": "",
+          "permalink": "https://www.threads.com/@aaronschwartz1/post/DfaGSwGkzlL",
+          "photos": [
+            "Description: A single rectangular throw pillow rests centrally on a worn, dark brown armchair. Sunlight streams across the upper left side of the chair, highlighting the textured fabric. Photograph read: Captured from a straight-on perspective, the warm directional light creates soft shadows that emphasize the varied textures of the chair and the patterned pillow, establishing a quiet, domestic mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mattgrosp",
+          "text": "india",
+          "permalink": "https://www.threads.com/@mattgrosp/post/DfaE6aRjQjG",
+          "photos": [
+            "Description: This photo shows the exterior of a cluttered repair workshop at dusk, featuring plastic blue chairs arranged in front of a brightly lit doorway stocked with spare parts. A garden hose hangs on the textured wall, and a large generator sits to the right under the evening light. Photograph read: The wide-angle composition contrasts the warm, low sunlit wall with the cool, vibrant turquoise interior glow, creating a striking color temperature split and a utilitarian mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "pamelahudson1012",
+          "text": "",
+          "permalink": "https://www.threads.com/@pamelahudson1012/post/DfaEB2Fm5qP",
+          "photos": [
+            "Description: A cozy outdoor patio setup features a black hanging egg chair with a plush off-white cushion and a blue fish-patterned pillow. Nearby, a potted fiddle-leaf fig plant and a wall shelf holding a blue mug complete the relaxing, lived-in space. Photograph read: The shot is captured with a straight-on composition in soft, even daylight, creating a calm and inviting mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "watsjoey",
+          "text": "I felt this chair had many stories to tell.",
+          "permalink": "https://www.threads.com/@watsjoey/post/DfaDqxAG8G9",
+          "photos": [
+            "Description: A vintage wooden rocking chair with red velvet upholstery sits in a historic room featuring patterned wallpaper, patterned floor tiles, and a wooden dresser with a large mirror. The bright window light suggests daytime, offering a glimpse into a period-style interior suitable for a heritage or antique post. Photograph read: Captured from an elevated angle, the composition features natural side light from a window that creates an airy, nostalgic interior mood. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "Highlights clipped to pure white on the window curtains."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "nicoangler",
+          "text": "A chair to discourage smokers..",
+          "permalink": "https://www.threads.com/@nicoangler/post/DfaDYaegCoA",
+          "photos": [
+            "Description: A modern metal chair and a matching cylindrical trash can are mounted on single pedestals outdoors against a dark brick building at night. Warm light glows from one of the vertical windows in the background, contrasting with the cool blue tones of the scene. Photograph read: Centered straight-on composition featuring sharp metallic highlights and deep blue shadows, creating a stark, moody nighttime aesthetic. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jh1962bike",
           "text": "",
@@ -19,10 +154,32 @@
           "photos": [
             "Description: A weathered wooden industrial cart with iron wheels and a central pyramidal block sits outdoors on a paved and grassy surface. In the background, a painted wooden panel features partially visible text reading \"DESIGNATED...OVE AREA.\" Photograph read: Captured from"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A flatbed cart that retired into a two-sided bench - the ridge down the middle is a backrest for both sides at once. What does the board behind it say this spot is designated for?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaIINHkbOm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "jh1962bike",
+                  "text": "Love",
+                  "permalink": "https://www.threads.com/@jh1962bike/post/DfaIegviJNh",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "artiekay2",
@@ -31,10 +188,21 @@
           "photos": [
             "Description: A wooden bench sits in the foreground along a grassy path, shaded by large trees draped in Spanish moss that frame a wide lake and a bright blue sky. This scenic view evokes a peaceful outdoor retreat, ideal for nature lovers. Photograph read: Framed by the natural archway of moss-draped branches, bright midday sunlight glints across the distant water, creating a serene and inviting landscape mood. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The Spanish moss hung the curtains and the bench got the best seat in the house. How long did you sit there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaD50EET63",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wj.fox",
@@ -43,10 +211,32 @@
           "photos": [
             "Description: Two snow-covered park benches sit outdoors at night, surrounded by bare trees and distant glowing lights. The monochromatic scene creates a quiet winter atmosphere suitable for a seasonal evening post. Photograph read: Captured in monochrome, the composition centers on two dark benches set against a snowy ground, illuminated by ambient nighttime streetlights that cast soft bokeh in the background. Photo type: Atmospheric"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two benches, fresh snow, nobody sitting. How long before someone brushed one off and claimed it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaD7SaFs-q",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "wj.fox",
+                  "text": "Will never know",
+                  "permalink": "https://www.threads.com/@wj.fox/post/DfaFrTIHKvl",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "irishrose_3",
@@ -58,10 +248,21 @@
           "watch_outs": [
             "Bright sky areas and water reflections clipped to white."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The tree grew its own seat and saved the best view for it - right over the glitter on the water. Is that a regular perch, or a find on the day?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaIJlIIGIy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "whoissilver",
@@ -70,10 +271,34 @@
           "photos": [
             "Description: A lone wooden bench sits atop a dark, silhouetted hill beneath an overcast sky, framed by the intricate, leafless branches of surrounding trees. The high-contrast monochrome tones create a moody, solitary atmosphere. Photograph read: Captured in stark monochrome, the centered composition uses deep foreground shadows and strong backlighting to emphasize the silhouette of the bench against a pale sky. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One bench, one hilltop, and the whole Tay Valley below it. How long did you sit up there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaEAC2IC_R",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "whoissilver",
+                  "text": "I sit there fairly regularly. Probably more in winter than summer. It's a lovely view in the changing light, but when there's a mist on the river it's spectacular...",
+                  "permalink": "https://www.threads.com/@whoissilver/post/DfaEq_7HKk3",
+                  "photos": [
+                    "Description: Looking down from a high vantage point, bare autumn branches frame a wide river valley filled with low-lying morning fog. In the distance, layers of hills and distant mountains stretch toward a pale blue sky. Photograph read: The scene is framed naturally by tree silhouettes in the foreground, creating depth beneath bright morning light that highlights the winding river below. Photo type: Landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "bibliojo",
@@ -82,10 +307,21 @@
           "photos": [
             "Description: A long row of brightly colored Adirondack chairs lines a wooden dock beside a body of water, with resort-style buildings and patio umbrellas in the background. The diagonal perspective draws the eye down the vibrant seating arrangement on a clear day. Photograph read: The wide-angle, eye-level composition captures the diagonal line of chairs under flat, even daylight that emphasizes their varied hues against the rustic wooden dock. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Which color gets claimed first on a sunny afternoon - the blue one up front, or the red one in the middle?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaEBlkEcWc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tallerthanyou2026",
@@ -97,10 +333,21 @@
           "watch_outs": [
             "Highlights clipped to white on the sunlit table surface and patio stones."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think putting the chairs where the fountain does the talking is a good call. Morning coffee spot, or evening wind-down?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfaECtHFo6O",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "42_z_photos",
@@ -127,10 +374,21 @@
                   "text": "Times Sq NYC just a few seats(for lack of a better word) place in the area",
                   "permalink": "https://www.threads.com/@42_z_photos/post/DfZ90CzjmFY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A house-shaped bench in Times Square is a fine find. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfaEEFEIM1v",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -158,7 +416,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ashu_anu87",
+                  "text": "If phone stays in the pocket it\u2019s distraction for peaceful moment \u263a\ufe0f",
+                  "permalink": "https://www.threads.com/@ashu_anu87/post/DfaHPeGoUf9",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -289,10 +558,21 @@
                   "text": "As long as possible.",
                   "permalink": "https://www.threads.com/@jessgperry/post/DfZ8xUGm3hv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "As long as possible sounds exactly right. Enjoy every minute of it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfaEFZKlgBs",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -326,10 +606,21 @@
                   "text": "Shot was taken in February (when the sun rises earlier) and the sun started peeking behind the mountain at around 6:30AM. \u2593",
                   "permalink": "https://www.threads.com/@posts.by.norman/post/DfZ9ZDZH_ov",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That early light was worth every minute of the wait. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfaEGs3Fecn",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -557,7 +848,7 @@
     },
     {
       "id": "18075040217745964",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Tree Thursday favorites \ud83c\udfc6 3 trees that stopped my scroll: D\u2026",
       "text": "Tree Thursday favorites \ud83c\udfc6 3 trees that stopped my scroll: Don Swingley @donswingley - pine between canyon walls Ray Lehr @raylehr1783 - blossom on an ancient cherry Aiga Alhasova @eye_gah - a 400-year-old oak Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfZMQkuE1Wh/",
@@ -603,7 +894,7 @@
     },
     {
       "id": "18097715618142021",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a\u2026",
       "text": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a sapling, bark up close, branches against the sky - whatever caught your eye. This bark is all ridges and lichen, a whole landscape in one trunk - find me a tree with character in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Which tree do you keep going back to?",
@@ -611,7 +902,7 @@
       "photos": [
         "Description: This vertical close-up shot features the rough, deeply furrowed brown bark of a tree trunk, punctuated by patches of pale green lichen and moss. The background is softly blurred, suggesting an outdoor or park setting. Photograph read: The tight framing emphasizes the intricate textures and earthy tones of the bark under natural daylight, creating a grounded, organic mood. Photo type: Detail study"
       ],
-      "reply_count": 545,
+      "reply_count": 546,
       "replies": [
         {
           "username": "ncav2021",
@@ -996,7 +1287,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "fnpmaf",
+                  "text": "The horn shape attracted me. Reminds me of a whale or a bird",
+                  "permalink": "https://www.threads.com/@fnpmaf/post/DfaIvDVn50n",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -7001,7 +7303,7 @@
     },
     {
       "id": "17942310048383159",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll\u2026",
       "text": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll: Brian Smith @briansmithphotography67 - electric blue shoreline Greg Hillman @greghillman11 - birds over waterfall Maurice @corwyn671 - lone red paraglider Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfWnjUdDwMB/",
@@ -7144,7 +7446,7 @@
     },
     {
       "id": "18103312391535326",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Stre\u2026",
       "text": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did you last stop for water?",
@@ -9846,7 +10148,7 @@
     },
     {
       "id": "17911773306484146",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scroll: Arizona Dweller @tallerthanyou2026 - glowing patterned cubes Conrad Skillen @stickyshutterphotography - blue lattice tunnel Anthony Chila @cruscher53 - monochrome rosette spiral Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfT81ZDjmpK/",
@@ -9914,7 +10216,7 @@
     },
     {
       "id": "18219980083346746",
-      "label": "description, photo, photograph, type",
+      "label": "description, photo, type, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",

@@ -4,9 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (53)
+## Needs Like (54)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
+- jh1962bike: Love ([link](https://www.threads.com/@jh1962bike/post/DfaIegviJNh))
 - kelzkidz03: My daughters ([link](https://www.threads.com/@kelzkidz03/post/DfZ9QstDj9U))
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
