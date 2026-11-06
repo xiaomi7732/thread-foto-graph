@@ -6,25 +6,51 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (76)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
+- **42_z_photos**:  ([link](https://www.threads.com/@42_z_photos/post/DfZ7BY1DtJ2))
+  - Photo: Description: A person wearing a striped shirt sits inside a metal-framed bench structure on a city street, with construction fencing and buildings in the background. The black and white image highlights strong patterns of light and shadow cast across the subject and the scene. Photograph read: Captured in sharp focus with high contrast, this black-and-white street scene uses harsh midday light to create graphic shadow patterns from the metal structure across the seated subject and foreground. Photo type: Street photography
+- **ashu_anu87**: A perfect setup for peace and romance …. ([link](https://www.threads.com/@ashu_anu87/post/DfZ69EAFrTk))
+  - Photo: Description: A rustic wooden bench sits on an overlook facing a calm mountain lake surrounded by dense green forest under an overcast sky. Photograph read: The scene is framed centrally by vertical tree trunks and foliage, capturing a quiet, natural landscape in soft, even daylight. Photo type: Landscape
+    - Watch-outs: Bright, overcast sky with slightly clipped highlights
+- **joafro**: Little Traverse Bay - Petoskey, MI Gillie and Marc (artists) ([link](https://www.threads.com/@joafro/post/DfZ61YTEYOz))
+  - Photo: Description: Two smiling women pose on an outdoor bench alongside whimsical bronze statues of a rabbit and a deer holding a camera, with a calm lake stretching across the background. Photograph read: Centered outdoors in even daylight, the subject is captured with a straightforward eye-level composition that creates a casual, friendly mood. Photo type: Snapshot
+- **kelzkidz03**: Each one has their own story ([link](https://www.threads.com/@kelzkidz03/post/DfZ6ot6Dp--))
+  - Photo: Description: A weathered wooden rocking chair sits outdoors on a dirt ground, illuminated by warm sunlight. In the background, rustic elements like a tree stump and a metal heater are visible, suggesting a casual outdoor gathering space. Photograph read: The centered composition and direct angle emphasize the textures of the aged wood, while warm, low-angled light creates a calm and rustic mood. Photo type: Snapshot
+  - Photo: Description: A large brown leather sectional sofa sits on a sandy outdoor patio beneath a rustic, draped wooden roof structure. In the background, patrons gather in a relaxed, sunlit social setting. Photograph read: The wide-angle composition captures the prominent foreground seating under warm, low-angle sunlight that casts long shadows across the dusty ground. Photo type: Snapshot
+  - Photo: Description: An ornate metal chair sits outdoors on a bed of dry autumn leaves, framed by a rustic wooden trellis and foliage. The warm lighting and natural setting suggest a quiet, peaceful garden or vineyard. Photograph read: The centered composition and natural backlighting highlight the intricate circular pattern of the chair's backrest against the tangled background of branches and foliage. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **5938crest**:  ([link](https://www.threads.com/@5938crest/post/DfZ6W4YFftx))
+  - Photo: Description: A bronze palm tree-shaped public seat stands on a sidewalk in front of a red brick building with a street sign for Temple Bar. In the background, a bicycle is locked to a rack and a black pole is covered in stickers. Photograph read: Centered composition captured in overcast daylight with an urban documentary mood. Photo type: Documentary
+- **outandaboutruss**:  ([link](https://www.threads.com/@outandaboutruss/post/DfZ6BnzFZII))
+  - Photo: Description: A smiling woman with short grey hair sits cross-legged in the seat of an oversized red wooden chair outdoors, holding a bottle of wine. She wears a white t-shirt and denim shorts, and the setting includes a grassy lawn, trees, and a vineyard under a partly cloudy sky. Photograph read: Captured in bright, direct daylight with a centered vertical composition that emphasizes the exaggerated scale of the chair, creating a playful and lighthearted mood. Photo type: Snapshot
+    - Watch-outs: Power lines intersect the upper sky.
 - **jessgperry**:  ([link](https://www.threads.com/@jessgperry/post/DfZ5tZrm_IQ))
   - Photo: Description: An empty wooden bench sits beside a stone patio fire pit, overlooking a lake bordered by snow-dusted mountains and evergreen trees at dusk. Photograph read: The vertical composition places the illuminated bench in the lower left foreground, contrasting the warm fire glow against the cool twilight blues of the water and distant peaks. Photo type: Landscape snapshot
 - **posts.by.norman**: Ideal seat to catch the sunrise. ([link](https://www.threads.com/@posts.by.norman/post/DfZ5koJHyNF))
   - Photo: Description: A red retro-style bar stool sits on a tiled balcony overlooking a scenic coastal view at sunset. Boats rest on the beach below, backed by rolling green hills under a bright sky. Photograph read: The eye-level vertical composition places the foreground chair centrally against the horizontal lines of the metal railing and distant shoreline, captured in the warm, bright light of a late afternoon sun. Photo type: snapshot
     - Watch-outs: Sun disc clipped to white
-- **beapersaud**: Take a seat ([link](https://www.threads.com/@beapersaud/post/DfZ5cFZoe90))
-  - Photo: Description: A rustic wooden bench sits along a wooded lakeshore during peak autumn foliage, offering a view across the blue water to distant colorful hills. This scenic outdoor view is ideal for a nature travel post. Photograph read: Captured in bright daylight, the landscape uses framing from foreground foliage to draw the eye toward the open lake and colorful treeline under a clear blue sky. Photo type: Landscape snapshot
-- **srravi**: With a view 👇 ([link](https://www.threads.com/@srravi/post/DfZ5N5DGgUH))
-  - Photo: Description: A cozy, warm-toned hotel room features a large window framing a lush green landscape under an overcast sky. Wooden furniture, including a desk, armchairs, and small tables, is arranged neatly on a rug over a polished wood floor. Photograph read: The wide composition balances the interior seating area with the natural view outside, lit by a mix of warm indoor pendant lamps and soft ambient daylight. Photo type: Storytelling
-- **suzanne_raimondi_gallagher**: These were my Mom’s chairs. ([link](https://www.threads.com/@suzanne_raimondi_gallagher/post/DfZ5LT0Eclx))
-  - Photo: Description: A cozy corner of a living room features a patterned armchair, a potted plant, and a side table holding a mug of coffee. An open doorway provides a view into an adjacent room. Photograph read: The wide-angle composition captures a domestic interior under natural side lighting, creating a warm and inviting atmosphere. Photo type: Snapshot
-- **remondiazart**:  ([link](https://www.threads.com/@remondiazart/post/DfZ5LB-Eb3G))
-  - Photo: Description: Two bright orange lounge chairs sit on a dark balcony, framed diagonally by concrete exterior walls and railings. The stark architectural lines create a geometric composition with muted tones. Photograph read: Diagonal concrete balcony railings slice through the frame, creating strong geometric divisions that draw the eye toward two orange chairs set against a dark background under flat lighting. Photo type: Architectural
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DfZ7L_ljrr1))
+  - Photo: Description: A collection of worn armchairs and a sofa are arranged on the dirt under a thatched roof structure, facing an outdoor area with trees and a setting sun. The open-air setting suggests a relaxed, casual gathering space. Photograph read: The wide-angle vertical composition uses the shadowed shelter to frame the glowing sunset and distant foliage, creating a warm, moody atmosphere. Photo type: Snapshot
+    - Watch-outs: Sun disc clipped to white with flare streaks
+  - Photo: Description: Two worn couches and tree-stump tables sit in an outdoor orchard clearing, with the photographer's foot resting on one stump in the foreground. Sun filters through the dense canopy overhead, casting dappled light across the rustic seating area. Photograph read: Centrally framed with strong vertical tree lines and bright backlighting, the scene creates an organic, sun-dappled mood. Photo type: Snapshot
+    - Watch-outs: Sun disc clipped to white with lens flare.
+  - Photo: Description: A round metal table and four matching chairs sit outdoors beneath a dense canopy of leafy green trees. Sunlight filters through the foliage, casting patterned shadows across the ground and furniture in an orchard setting. Photograph read: Captured from eye-level, the balanced composition centers on the rustic table arrangement under bright, dappled light, creating a calm and inviting mood. Photo type: Snapshot
+    - Watch-outs: Highlights clipped to white in the upper center sky.
+  - Photo: Description: A rustic outdoor lounge area features two worn brown leather sofas positioned around a large wooden cable spool serving as a table, set on grass and straw beneath the shade of leafy orchard trees. Photograph read: Taken from a slightly elevated angle, the composition centers on the weathered wooden table with soft, dappled natural light filtering through the overhead canopy. Photo type: Snapshot
+  - _Replying to: Take a seat_
+- **srravi**: Many thanks! It was our (family) room in a resort in Kodaikanal India. Specifically The Tamara Kodai Resort. It was neat with old world vibes (an old British Raj Bungalow) turned into a resort ([link](https://www.threads.com/@srravi/post/DfZ60TXmj1m))
+  - _Replying to: I think putting the chairs by that big window was a good ca…_
+- **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DfZ6xl7jpXO))
+  - Photo: Description: A large tree with an intricate network of exposed roots stands in a sunlit forest, surrounded by other trees and green foliage. This scene evokes a peaceful hike or nature exploration. Photograph read: The vertical framing emphasizes the height of the tree and the sprawling foundation of its roots, captured in natural daylight with a tranquil mood. Photo type: Nature snapshot
+    - Watch-outs: Bright sky areas clipped to white.
+  - _Replying to: Yesterday's Tree Thursday favorites are up: https://www.thr…_
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
+- **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/DfZ6NT8IOZe))
+  - Photo: Description: A large tree with a distinctive vertical band of bright green leaves surrounded by vibrant red autumn foliage stands in a parking lot. In the background, residential houses and utility poles are visible beneath a clear blue sky. Photograph read: Captured from a low angle under bright daylight, the vertical composition centers the tree amidst urban elements, creating a natural contrast of seasonal colors against the suburban backdrop. Photo type: Snapshot
+    - Watch-outs: Utility lines and parking lot elements intersect the lower half of the frame.
 - **mimiandonks**:  ([link](https://www.threads.com/@mimiandonks/post/DfZ3azKG6bM))
   - Photo: Description: A low-angle shot captures a tall, weathered, barkless dead tree trunk, riddled with numerous small holes, framed by autumn leaves of changing colors against an overcast sky. Photograph read: The vertical framing and low vantage point emphasize the height of the central dead tree, with even, diffused light highlighting the textured wood grain and surrounding fall foliage. Photo type: Documentary
     - Watch-outs: Sky and upper branch areas clipped to white.
@@ -44,8 +70,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **pamelawdesign**: A palm trees “boots”. ([link](https://www.threads.com/@pamelawdesign/post/DfZK5g4Fguz))
   - Photo: Description: This vertically framed, close-up shot captures the intricate, overlapping texture of a trimmed palm tree trunk against a bright blue sky and leafy green background. The textured frond bases create a natural geometric pattern that dominates the central composition. Photograph read: The eye-level vertical composition emphasizes the complex textures of the palm bark under direct daylight, framed by contrasting foliage and open sky. Photo type: Snapshot
   - _Replying to: An Oak Tree Canopy_
+- **timothy.corner.370**: Thank you. I did take pictures of a higher angle and discarded them ([link](https://www.threads.com/@timothy.corner.370/post/DfZ58epGyIA))
+  - _Replying to: The low angle was the right move - the tree earns every inc…_
 - **callmekate44msncom**: Getting their camo on! ([link](https://www.threads.com/@callmekate44msncom/post/DfYqzMdEbZ7))
   - _Replying to: My local reservoir has massive sycamore trees along the sho…_
+- **steve.cozort**: Thanks for liking this capture and asking about it…have a great day ([link](https://www.threads.com/@steve.cozort/post/DfZ52VnEZcY))
+  - _Replying to: Planning it down to the minute paid off. Thanks for sharing…_
 - **photography_cac**: Just wandering through Door County on a walk. 🧡 ([link](https://www.threads.com/@photography_cac/post/DfYgE9LFT7H))
   - _Replying to: That one orange maple standing out from all the green aroun…_
 - **solar_regolith**: This accurately captures the sensation.n ([link](https://www.threads.com/@solar_regolith/post/DfZk3FlEULL))
@@ -179,7 +209,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (51)
+## Needs Like (52)
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
 - demidova_nadezda: San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/DfY6RduFIVd))
@@ -194,6 +224,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - fettmon: My pleasure ([link](https://www.threads.com/@fettmon/post/DfYILhyj9Nj))
 - fettmon: It’s ALIVE! ([link](https://www.threads.com/@fettmon/post/DfXvJ8Nj8l9))
 - atabor66: Thank you! 😊 ([link](https://www.threads.com/@atabor66/post/DfXqe69HWyj))
+- ncav2021: Wow! ([link](https://www.threads.com/@ncav2021/post/DfZ6WbYoMVP))
 - citizenb: Welcome! 🤗 ([link](https://www.threads.com/@citizenb/post/DfYGqQ2EX88))
 - newblueday: Don’t recall ([link](https://www.threads.com/@newblueday/post/DfXYN5jEdkm))
 - bugs_eye_view_of_you: You're welcome 😊 ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DfXZPVIIOgT))
