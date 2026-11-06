@@ -4,9 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (49)
+## Needs Like (50)
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
+- demidova_nadezda: San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/DfY6RduFIVd))
 - qwerasd_0800: 它的告示牌寫著它有一千六百年的樹齡😁😁 ([link](https://www.threads.com/@qwerasd_0800/post/DfYllzzDxta))
 - bgoll: My neighbors. ([link](https://www.threads.com/@bgoll/post/DfYGp4Wn7p4))
 - pammied01: Within feet. ([link](https://www.threads.com/@pammied01/post/DfYrjM4nF2V))
