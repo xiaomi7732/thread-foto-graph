@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (76)
+## Needs Reply (77)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
 - **42_z_photos**:  ([link](https://www.threads.com/@42_z_photos/post/DfZ7BY1DtJ2))
@@ -38,6 +38,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Highlights clipped to white in the upper center sky.
   - Photo: Description: A rustic outdoor lounge area features two worn brown leather sofas positioned around a large wooden cable spool serving as a table, set on grass and straw beneath the shade of leafy orchard trees. Photograph read: Taken from a slightly elevated angle, the composition centers on the weathered wooden table with soft, dappled natural light filtering through the overhead canopy. Photo type: Snapshot
   - _Replying to: Take a seat_
+- **beapersaud**: Sometimes but the appearance of birds compells me to sit longer ([link](https://www.threads.com/@beapersaud/post/DfZ7_VPoQyr))
+  - _Replying to: A bench with that view earns its keep. The golds across the…_
 - **srravi**: Many thanks! It was our (family) room in a resort in Kodaikanal India. Specifically The Tamara Kodai Resort. It was neat with old world vibes (an old British Raj Bungalow) turned into a resort ([link](https://www.threads.com/@srravi/post/DfZ60TXmj1m))
   - _Replying to: I think putting the chairs by that big window was a good ca…_
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DfZ6xl7jpXO))
