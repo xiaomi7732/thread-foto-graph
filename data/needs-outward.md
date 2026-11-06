@@ -1,29 +1,68 @@
 # Needs Outward
 
-Generated 2026-11-05T10:41:23.512287-08:00 for @saars.foto. 71 of 71 registered replies checked (last 14 days; limit 120).
+Generated 2026-11-06T10:42:40.196304-08:00 for @saars.foto. 82 of 82 registered replies checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors and styles come from the registry. New means first observed since the previous published snapshot, not unread._
 
-Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 37 discovery IDs not registered.
+Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 40 discovery IDs not registered.
 
-## New Answers (5)
+## New Answers (9)
 
-- **@joeyterrill**: Great question! The original capture was in full color, but I converted the color to monochrome and then added the tint in post. ([answer](<https://www.threads.com/@joeyterrill/post/DfXaaQLGkEF>))
-  - Our comment: The bristles going from solid to pure glow along the fan is lovely - lighting from below was the right call. Did the cyanotype tint come from the edit, or was the light already leaning that blue? ([our reply](<https://www.threads.com/@saars.foto/post/DfXZtdTINRr>)); answered after 0.1h.
+- **@artiekay2**: Thank you. This Bird of Paradise flower was outside of the complex we live in. They have many of these around the complex. This is one of my favorite flowers. I never had one of these in my garden. It can take several years before they bloom. ([answer](<https://www.threads.com/@artiekay2/post/DfaAdeBlsrQ>))
+  - Our comment: That blue petal tipped in white against all that orange is the shot - the color does the shouting and the water droplets just prove the morning was fresh. Was this in your own garden, or did you stumble on it out walking? ([our reply](<https://www.threads.com/@saars.foto/post/DfZ--PeFmDY>)); answered after 0.2h.
 
-- **@nicodetroyer**: Took this shot in a parc not far from my home, i made the colors a bit warmer, shadows a bit darker and background a bit blurry. ([answer](<https://www.threads.com/@nicodetroyer/post/DfWcNaokXPQ>))
-  - Our comment: That statue's bowed head against all that gold leaf is a quiet pairing - the bronze goes dark and the trees do the color, and the fallen leaves at its feet finish it. How did you find that pairing - the bowed statue against all that gold? ([our reply](<https://www.threads.com/@saars.foto/post/DfVcKTGHbGN>)); answered after 9.3h.
+- **@jessgperry**: No time at all. There was no wind that day. I got lucky. ([answer](<https://www.threads.com/@jessgperry/post/DfZ_VYUE4S6>))
+  - Our comment: Flipping the building upside down in a puddle and letting the pavement seams cut across it - that is a proper eye trick. How long did you crouch there before the reflection settled? ([our reply](<https://www.threads.com/@saars.foto/post/DfZ_PT9G00z>)); answered after 0.0h.
 
-- **@brianatkinsphotography**: I hadnt done it in a while(shot this in color on digital). But while editing I thought the contrast of the objects in these scenes would work well with no color and I had a hankering for some B/W. ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfVhzyOgZTH>))
-  - Our comment: That bridge looks drawn in pencil - the cables fan out from the twin pylons and the whole thing sits calm over the river. What drew you to the black-and-white for this one? ([our reply](<https://www.threads.com/@saars.foto/post/DfVcDMvj-Ji>)); answered after 0.8h.
+- **@three\_oaks\_nature\_photography**: Thank you, I was watching him for about an hour and the light was so beautiful. Have to say I didn’t feel the cold as I was too excited about getting the shots 😍 ([answer](<https://www.threads.com/@three_oaks_nature_photography/post/DfZCPg4iHyq>))
+  - Our comment: His breath hanging in the backlight is the detail that sells it - the gold bracken and that huge rack do the rest. How long did you wait in the cold for him to step into that light? ([our reply](<https://www.threads.com/@saars.foto/post/DfXZrptkVco>)); answered after 15.2h.
 
-- **@bruce.swenson**: This is from the Rods and Rhodies Car Show in Florence a few years back. They close the Old Town District to traffic for the show. IMO it’s one of the better car shows in Oregon because of the setting. ([answer](<https://www.threads.com/@bruce.swenson/post/DfVc8_XIDHL>))
-  - Our comment: The surfboard on the roof is what sells the whole wagon - dark blue paint, wood trim, chrome, and then that board on top saying beach, even with a bridge behind it. How long did you circle that wagon before the board, the chrome, and the bridge all lined up? ([our reply](<https://www.threads.com/@saars.foto/post/DfVcOcACXbH>)); answered after 0.1h.
+- **@brianatkinsphotography**: Yeah I told my friend to run over haha but she was dresses properly to make the rest work out ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfYhWePm5nN>))
+  - Our comment: Did you place the figure there on purpose, or did they just wander into the frame while you were shooting the mountain? That yellow beanie is the whole anchor - one warm spot in all that grey-green mist, with the snowy mountain behind and the grass going soft in front. ([our reply](<https://www.threads.com/@saars.foto/post/DfYDTEwgZc3>)); answered after 4.4h.
 
-- **@leighw.photos**: It was just sat in the doorway watching people go by and I just couldn't resist the shot. The framing was just spot on too, like it was meant to happen! ([answer](<https://www.threads.com/@leighw.photos/post/DfVcKldjskp>))
-  - Our comment: Shooting through the gate iron is the whole trick - the blurred bars frame the door, the wreath, and the two planters, and then there is the cat, small on the doorstep, holding the center. How did the cat end up in the frame? ([our reply](<https://www.threads.com/@saars.foto/post/DfVcB14GoWX>)); answered after 0.0h.
+- **@chihkai1029**: About 15 minutes ([answer](<https://www.threads.com/@chihkai1029/post/DfYO-LKE5HO>))
+  - Our comment: That is a wild collision - a handstand on stacked chairs, a glowing swoosh for a backdrop, and a crowd below with phones up. How long did the performer hold that pose while everyone gathered underneath? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDP68gc-a>)); answered after 1.7h.
 
-## Needs Reply (33)
+- **@bradcarterphoto**: You simply cannot! I’m shocked I only had 2 photos of it ([answer](<https://www.threads.com/@bradcarterphoto/post/DfYK9IOkQdQ>))
+  - Our comment: Two perfect mushroom bouquets on one log. How do you spot a cluster like this without walking straight past it? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDU6Ugbvp>)); answered after 1.1h.
+
+- **@joakkin\_street**: Thank you for stopping to look at the photograph 🙌🏼 I waited quite a while for someone to come by; sometimes waiting pays off ([answer](<https://www.threads.com/@joakkin_street/post/DfYKUB3CICa>))
+  - Our comment: That yellow wall is doing everything and you still made the tiny figure the point - parking her right under the smallest arch is perfect. Did you wait for someone to walk into that slot, or did she wander in while you were framing the shadow? ([our reply](<https://www.threads.com/@saars.foto/post/DfKdpjCFIyC>)); answered after 127.7h.
+
+- **@deannoble1970**: I have edited the raw in LR. The 45mm is quite sharp really so was softened down in post. ([answer](<https://www.threads.com/@deannoble1970/post/DfYHpmqCMwt>))
+  - Our comment: I think shooting it empty was a good call - the lamps and the wet pavement do all the talking, and those two small figures far down the street just give the scale. Was it the 45mm that kept the lamps that soft, or the night fog doing the work? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDMT3mric>)); answered after 0.6h.
+
+- **@leighw.photos**: That character just drew me in! ([answer](<https://www.threads.com/@leighw.photos/post/DfYDg-UjnSZ>))
+  - Our comment: Pure character - a broken telephone box against a stone wall, the door hanging open, the 'Tourist information' sign still pointing the way, and JED's tag across the glass. What made you stop for a box that gave up years ago? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDRT2kgT4>)); answered after 0.0h.
+
+## Needs Reply (42)
+
+- **@artiekay2**: Thank you. This Bird of Paradise flower was outside of the complex we live in. They have many of these around the complex. This is one of my favorite flowers. I never had one of these in my garden. It can take several years before they bloom. ([answer](<https://www.threads.com/@artiekay2/post/DfaAdeBlsrQ>))
+  - Our comment: That blue petal tipped in white against all that orange is the shot - the color does the shouting and the water droplets just prove the morning was fresh. Was this in your own garden, or did you stumble on it out walking? ([our reply](<https://www.threads.com/@saars.foto/post/DfZ--PeFmDY>)); answered after 0.2h.
+
+- **@jessgperry**: No time at all. There was no wind that day. I got lucky. ([answer](<https://www.threads.com/@jessgperry/post/DfZ_VYUE4S6>))
+  - Our comment: Flipping the building upside down in a puddle and letting the pavement seams cut across it - that is a proper eye trick. How long did you crouch there before the reflection settled? ([our reply](<https://www.threads.com/@saars.foto/post/DfZ_PT9G00z>)); answered after 0.0h.
+
+- **@three\_oaks\_nature\_photography**: Thank you, I was watching him for about an hour and the light was so beautiful. Have to say I didn’t feel the cold as I was too excited about getting the shots 😍 ([answer](<https://www.threads.com/@three_oaks_nature_photography/post/DfZCPg4iHyq>))
+  - Our comment: His breath hanging in the backlight is the detail that sells it - the gold bracken and that huge rack do the rest. How long did you wait in the cold for him to step into that light? ([our reply](<https://www.threads.com/@saars.foto/post/DfXZrptkVco>)); answered after 15.2h.
+
+- **@brianatkinsphotography**: Yeah I told my friend to run over haha but she was dresses properly to make the rest work out ([answer](<https://www.threads.com/@brianatkinsphotography/post/DfYhWePm5nN>))
+  - Our comment: Did you place the figure there on purpose, or did they just wander into the frame while you were shooting the mountain? That yellow beanie is the whole anchor - one warm spot in all that grey-green mist, with the snowy mountain behind and the grass going soft in front. ([our reply](<https://www.threads.com/@saars.foto/post/DfYDTEwgZc3>)); answered after 4.4h.
+
+- **@chihkai1029**: About 15 minutes ([answer](<https://www.threads.com/@chihkai1029/post/DfYO-LKE5HO>))
+  - Our comment: That is a wild collision - a handstand on stacked chairs, a glowing swoosh for a backdrop, and a crowd below with phones up. How long did the performer hold that pose while everyone gathered underneath? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDP68gc-a>)); answered after 1.7h.
+
+- **@bradcarterphoto**: You simply cannot! I’m shocked I only had 2 photos of it ([answer](<https://www.threads.com/@bradcarterphoto/post/DfYK9IOkQdQ>))
+  - Our comment: Two perfect mushroom bouquets on one log. How do you spot a cluster like this without walking straight past it? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDU6Ugbvp>)); answered after 1.1h.
+
+- **@joakkin\_street**: Thank you for stopping to look at the photograph 🙌🏼 I waited quite a while for someone to come by; sometimes waiting pays off ([answer](<https://www.threads.com/@joakkin_street/post/DfYKUB3CICa>))
+  - Our comment: That yellow wall is doing everything and you still made the tiny figure the point - parking her right under the smallest arch is perfect. Did you wait for someone to walk into that slot, or did she wander in while you were framing the shadow? ([our reply](<https://www.threads.com/@saars.foto/post/DfKdpjCFIyC>)); answered after 127.7h.
+
+- **@deannoble1970**: I have edited the raw in LR. The 45mm is quite sharp really so was softened down in post. ([answer](<https://www.threads.com/@deannoble1970/post/DfYHpmqCMwt>))
+  - Our comment: I think shooting it empty was a good call - the lamps and the wet pavement do all the talking, and those two small figures far down the street just give the scale. Was it the 45mm that kept the lamps that soft, or the night fog doing the work? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDMT3mric>)); answered after 0.6h.
+
+- **@leighw.photos**: That character just drew me in! ([answer](<https://www.threads.com/@leighw.photos/post/DfYDg-UjnSZ>))
+  - Our comment: Pure character - a broken telephone box against a stone wall, the door hanging open, the 'Tourist information' sign still pointing the way, and JED's tag across the glass. What made you stop for a box that gave up years ago? ([our reply](<https://www.threads.com/@saars.foto/post/DfYDRT2kgT4>)); answered after 0.0h.
 
 - **@joeyterrill**: Great question! The original capture was in full color, but I converted the color to monochrome and then added the tint in post. ([answer](<https://www.threads.com/@joeyterrill/post/DfXaaQLGkEF>))
   - Our comment: The bristles going from solid to pure glow along the fan is lovely - lighting from below was the right call. Did the cyanotype tint come from the edit, or was the light already leaning that blue? ([our reply](<https://www.threads.com/@saars.foto/post/DfXZtdTINRr>)); answered after 0.1h.
@@ -135,15 +174,48 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 
 ## All Tracked Replies
 
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfZ-7pujla6>) (2026-11-06T15:58:54+0000): **no_answer**; likes: 0; answers: 0.
+  - How still was the air for this one? The river holds the whole sunrise upside down - pink and orange clouds, autumn trees, all of it - and that rock ledge in front just frames the mirror. Did you wait for the wind to drop, or was it glass from the start?
+  - Target: @megan\_ann2332; style: question; source: briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfZ-887lS_d>) (2026-11-06T15:59:04+0000): **no_answer**; likes: 0; answers: 0.
+  - This stopped me - a whole red canopy shot straight up, filling the frame edge to edge with color. What made you point the camera up instead of stepping back for the whole tree?
+  - Target: @whitneyrshaw; style: question; source: briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfZ--PeFmDY>) (2026-11-06T15:59:15+0000): **answered_by_author**; likes: 1; answers: 1.
+  - That blue petal tipped in white against all that orange is the shot - the color does the shouting and the water droplets just prove the morning was fresh. Was this in your own garden, or did you stumble on it out walking?
+  - Target: @artiekay2; style: question; source: briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfZ_PT9G00z>) (2026-11-06T16:01:34+0000): **answered_by_author**; likes: 0; answers: 1.
+  - Flipping the building upside down in a puddle and letting the pavement seams cut across it - that is a proper eye trick. How long did you crouch there before the reflection settled?
+  - Target: @jessgperry; style: question; source: briefing.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfXZqEVlpij>) (2026-11-05T15:54:42+0000): **no_answer**; likes: 0; answers: 0.
   - The tower coming out of the fog with the cobbles leading straight to it, and those two small figures giving it scale - a quiet frame that holds up.
   - Target: @fernando\_pedro\_salgado; style: closer; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DfXZrptkVco>) (2026-11-05T15:54:55+0000): **no_answer**; likes: 1; answers: 0.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfXZrptkVco>) (2026-11-05T15:54:55+0000): **answered_by_author**; likes: 3; answers: 1.
   - His breath hanging in the backlight is the detail that sells it - the gold bracken and that huge rack do the rest. How long did you wait in the cold for him to step into that light?
   - Target: @three\_oaks\_nature\_photography; style: question; source: morning-briefing.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfXZtdTINRr>) (2026-11-05T15:55:10+0000): **answered_by_author**; likes: 1; answers: 1.
   - The bristles going from solid to pure glow along the fan is lovely - lighting from below was the right call. Did the cyanotype tint come from the edit, or was the light already leaning that blue?
   - Target: @joeyterrill; style: question; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDHQnjzi1>) (2026-11-05T21:56:57+0000): **no_answer**; likes: 0; answers: 0.
+  - The reflection is doing half the work here - the egret goes pale gold on top and dark below, and that little rock at the bottom anchors the whole mirror. How long did it hold still for you?
+  - Target: @speermichael; style: question; source: daily-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDMT3mric>) (2026-11-05T21:57:38+0000): **answered_by_author**; likes: 1; answers: 1.
+  - I think shooting it empty was a good call - the lamps and the wet pavement do all the talking, and those two small figures far down the street just give the scale. Was it the 45mm that kept the lamps that soft, or the night fog doing the work?
+  - Target: @deannoble1970; style: question; source: daily-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDOFtkmW0>) (2026-11-05T21:57:53+0000): **no_answer**; likes: 1; answers: 0.
+  - Looking straight up through bare branches into all that fog is the quietest kind of forest - the trunks just stand there and let the mist do the rest. A frame worth slowing down for.
+  - Target: @in.myworld.es; style: closer; source: daily-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDP68gc-a>) (2026-11-05T21:58:07+0000): **answered_by_author**; likes: 1; answers: 1.
+  - That is a wild collision - a handstand on stacked chairs, a glowing swoosh for a backdrop, and a crowd below with phones up. How long did the performer hold that pose while everyone gathered underneath?
+  - Target: @chihkai1029; style: question; source: daily-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDRT2kgT4>) (2026-11-05T21:58:19+0000): **answered_by_author**; likes: 1; answers: 1.
+  - Pure character - a broken telephone box against a stone wall, the door hanging open, the 'Tourist information' sign still pointing the way, and JED's tag across the glass. What made you stop for a box that gave up years ago?
+  - Target: @leighw.photos; style: question; source: daily-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDTEwgZc3>) (2026-11-05T21:58:35+0000): **answered_by_author**; likes: 0; answers: 1.
+  - Did you place the figure there on purpose, or did they just wander into the frame while you were shooting the mountain? That yellow beanie is the whole anchor - one warm spot in all that grey-green mist, with the snowy mountain behind and the grass going soft in front.
+  - Target: @brianatkinsphotography; style: question; source: daily-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfYDU6Ugbvp>) (2026-11-05T21:58:50+0000): **answered_by_author**; likes: 2; answers: 1.
+  - Two perfect mushroom bouquets on one log. How do you spot a cluster like this without walking straight past it?
+  - Target: @bradcarterphoto; style: question; source: daily-batch.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfU1ungmlEN>) (2026-11-04T16:02:16+0000): **answered_by_author**; likes: 1; answers: 1.
   - Did the overcast sky do the work here, keeping that red soft instead of loud? I think parking the tree at the edge with the bare branches above it is what lets the color breathe.
   - Target: @mazpaz46; style: question; source: morning-briefing.
@@ -312,7 +384,7 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfNnzJtFGsX>) (2026-11-01T20:45:52+0000): **no_answer**; likes: 0; answers: 0.
   - Shooting straight into the sun takes nerve, and you let the starburst own the middle while the clouds fan out around it - the dark treeline underneath keeps it from blowing out into pure sky. Did you wait for the sun to sit exactly there, or did the light hand you that burst mid-walk?
   - Target: @jack.haobijam.\_; style: question; source: daily-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DfKdpjCFIyC>) (2026-10-31T15:19:27+0000): **no_answer**; likes: 0; answers: 0.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DfKdpjCFIyC>) (2026-10-31T15:19:27+0000): **answered_by_author**; likes: 1; answers: 1.
   - That yellow wall is doing everything and you still made the tiny figure the point - parking her right under the smallest arch is perfect. Did you wait for someone to walk into that slot, or did she wander in while you were framing the shadow?
   - Target: @joakkin\_street; style: question; source: pilot.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfKex0qkfH3>) (2026-10-31T15:29:19+0000): **answered_by_author**; likes: 1; answers: 1.
