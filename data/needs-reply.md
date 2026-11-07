@@ -4,13 +4,24 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (77)
+## Needs Reply (87)
+
+### Take a Seat Friday favorites 🏆 3 seats that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfbjFBHlXPy))
+- **londonlightcreative**: If you know about Hogarth’s “Line of Beauty” you know. Many thanks for the feature. Paul 😎 ([link](https://www.threads.com/@londonlightcreative/post/Dfbx59AkdfU))
+  - _Replying to: @londonlightcreative Your S-curve bench is the middle slide…_
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
+- **photog84**: Here’s mine. iPhone 14 Pro Max. A bench to sit on and watch the waves. Caniço, Madeira ([link](https://www.threads.com/@photog84/post/DfcGjYKFyxH))
+  - Photo: Description: An empty brown and white park bench sits on a concrete boardwalk facing the deep blue ocean. In the distance, a rugged coastal cliff rises under a bright blue sky with scattered clouds. Photograph read: Captured in bright daylight, the vertical composition positions the bench in the foreground at an angle, casting a strong shadow onto the textured pavement. Photo type: Travel snapshot
+- **photog84**: Fantastic seat image!! Looks like a wonderful place to sit and relax!!📷 ([link](https://www.threads.com/@photog84/post/DfcGKqLl50B))
+- **pycturesforyou**: It stayed like this a few hours like a king sitting on a sidewalk ([link](https://www.threads.com/@pycturesforyou/post/DfbwPEiiO4A))
+  - _Replying to: An ornate sofa on a Paris sidewalk, and a cyclist gliding r…_
 - **nancychevalier**: Waiting for a night bus from Cusco to the Amason. ([link](https://www.threads.com/@nancychevalier/post/DfadcF5nyLZ))
   - _Replying to: (photo reply, no text)_
 - **traceartography**: My favorite chair. ([link](https://www.threads.com/@traceartography/post/DfaJmtGllAz))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
+- **bobherrmann6**: Would luv to sit there with Forrest Gump ([link](https://www.threads.com/@bobherrmann6/post/DfcDw8FFbXf))
+  - _Replying to: Glad to hear it. Enjoy the next long sit there._
 - **srravi**: Many thanks, indeed! Would like to go there again. This was an extempore trip planned just before my twin granddaughters were born since after that we’ll get busy…it was way back in 2022… ([link](https://www.threads.com/@srravi/post/DfZ9ILNGnvF))
   - _Replying to: That sounds like a room worth going back to. Thanks for tel…_
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DfZ6xl7jpXO))
@@ -33,6 +44,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Those shelf fungi marching up the trunk like steps - I coun…_
 - **rowyourownboat_**: Unsure I was camping near it, no dog that's a log on the ground and it's just a burnt trunk there's a tree behind it with the green leaves ([link](https://www.threads.com/@rowyourownboat_/post/DfaV6b2k6wm))
   - _Replying to: Burnt black at the base and green all over the top - quite …_
+- **t.f.j.8**: Sunset, I actually shot it out the passenger window of my buddy's truck at 60, in the rain no less, that definitely added to the painterly quality. ([link](https://www.threads.com/@t.f.j.8/post/DfblapFm--o))
+  - _Replying to: The whole lake caught fire and the bare tree on the right j…_
 - **ron_glum**: Amazed me how nature can recover. ([link](https://www.threads.com/@ron_glum/post/DfZTSK3DJKk))
   - Photo: Description: A large, bare-branched deciduous tree stands prominently in the center of a grassy field under an overcast sky. In the background, rolling green fields and distant trees stretch toward the horizon on a quiet, wintry day. Photograph read: The centered composition emphasizes the bare tree against a uniform, bright overcast sky, creating a quiet and subdued rural mood. Photo type: Documenting
 - **lester_trotter**: Chillagoe. Queensland Australia. An ancient Limestone reef. There are many caves in the National Park ([link](https://www.threads.com/@lester_trotter/post/DfariLnH4fJ))
@@ -40,6 +53,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Where in the world is this one growing? One bright green tr…_
 - **mattgrosp**: as always curiosity we spent weekends over there with friend , shooting videos, photos and having a few beers together ([link](https://www.threads.com/@mattgrosp/post/DfZ23yrDZZA))
   - _Replying to: A lone palm holding down a gravel island at midnight, with …_
+- **peterweaving**: It’s pretty windy, wild and cold up there. ([link](https://www.threads.com/@peterweaving/post/Dfbu79qDGzM))
+  - _Replying to: How old do you reckon a snow gum has to be to bend like tha…_
 - **fnpmaf**: The horn shape attracted me. Reminds me of a whale or a bird ([link](https://www.threads.com/@fnpmaf/post/DfaIvDVn50n))
   - _Replying to: Did you see the horn shape first, or the whole tangle of gr…_
 - **_olliemorgan**: No. But in my neighbourhood ([link](https://www.threads.com/@_olliemorgan/post/DfahrGfln3I))
@@ -80,6 +95,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: It’s a well known street and Favorite for tourists to Take …_
 - **howellbch**: Date palm lining street ([link](https://www.threads.com/@howellbch/post/DfX9pjBkl3I))
   - _Replying to: (photo reply, no text)_
+- **meijering.jan**: This mushroom is the thunder mushroom, indeed it looks as it is attached to the trunk. ([link](https://www.threads.com/@meijering.jan/post/Dfblqg4imzN))
+  - _Replying to: Two perfect shelves stacked on one trunk - they look built,…_
 - **pookie1948**: Today’s adventure😊 ([link](https://www.threads.com/@pookie1948/post/Dfayi2BERPZ))
   - Photo: Description: This low-angle vertical shot emphasizes the massive scale of a tall, thick tree trunk with weathered, textured bark against an overcast sky. Smaller evergreen trees and distant hills frame the base of the scene, creating a rugged outdoor atmosphere. Photograph read: The wide-angle perspective creates strong converging lines that draw the eye upward from the broad base to the sparse branches under a diffused, cloudy sky. Photo type: Snapshot
   - Photo: Description: A rustic wooden bench sits atop a grassy hilltop overlooking a vast valley with a winding river and distant mountains under a cloudy sky. The elevated viewpoint creates a contemplative scene suitable for a travel or nature social media post. Photograph read: Captured from a high angle, the wide composition uses natural, overcast lighting to emphasize the moody atmosphere and expansive scale of the landscape. Photo type: Landscape photography
@@ -101,6 +118,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A textured tree trunk diagonally crosses the frame in a woodland setting, featuring a distinct hollow hole. Sunlight filters through the overhead canopy and surrounding trees onto a dry, grassy slope. Photograph read: The low-angle perspective emphasizes the thick, dark bark against a bright, backlit sky and a sun-dappled forest floor. Photo type: Snapshot
     - Watch-outs: Bright sky areas and backlight clipped to white.
   - _Replying to: Bent double and still putting out new leaves - alive is the…_
+- **misteralane**: I think the moss, tree faces tend to appear as i move ….pareidolia rules yeah ([link](https://www.threads.com/@misteralane/post/DfcF-KgEd0Z))
+  - Photo: Description: A close-up shot of a large tree burl that resembles a weathered animal or face with eyes and a snout, set against a forest floor with moss and leaves. Photograph read: Centered composition with diffuse, natural light that emphasizes the complex textures and organic patterns of the gnarled bark. Photo type: Nature photography
+  - _Replying to: Part tree, part lizard is exactly right - that burl has a w…_
 - **muppy007**: Your always welcome 🤗 ([link](https://www.threads.com/@muppy007/post/DfYG1dpiGH6))
   - _Replying to: Some trees just demand a second look. Thanks for sharing it._
 - **mgollhardt**: They do. Thank you for the opportunity! ([link](https://www.threads.com/@mgollhardt/post/DfXtaP2iVLD))
@@ -188,6 +208,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Just the ones you like is a fine rule - it clearly led you …_
 - **corwyn671**: I should have shot the whole table. ([link](https://www.threads.com/@corwyn671/post/DfTCZAkmVNz))
   - _Replying to: A back-of-the-couch long table in San Diego sounds like exa…_
+- **pandandalee**: Mostly when the catnip and nightly treats are presented to his majesty hahaha ([link](https://www.threads.com/@pandandalee/post/DfcOI1vG7nU))
+  - _Replying to: A daily pattern of chaos, delivered with that calm blue-eye…_
 - **hannele.heikkinen**: It was a unique sight, I had perfect timing. ([link](https://www.threads.com/@hannele.heikkinen/post/DfST72uDhVE))
   - _Replying to: Minus twenty and a frosted grid - that lace did not come ch…_
 - **dabozky13**: Im really nobody actually. Really newbie. Just looking something new perspective. Like this foto i took it today ([link](https://www.threads.com/@dabozky13/post/DfSOrQfHzRR))

@@ -1,8 +1,70 @@
 {
   "nodes": [
     {
+      "id": "18065208890795635",
+      "label": "description, photo, photograph, type",
+      "group": 0,
+      "snippet": "Take a Seat Friday favorites \ud83c\udfc6 3 seats that stopped my scro\u2026",
+      "text": "Take a Seat Friday favorites \ud83c\udfc6 3 seats that stopped my scroll: Margaret Terry @storycatcher52 - sunset dock chairs Paul @londonlightcreative - S-curve bench from above 57 Chev nancychevalier - midnight bench rest Beautiful work, all of you. Reel: https://www.instagram.com/reel/Dfbi5_aj1KQ/",
+      "permalink": "https://www.threads.com/@saars.foto/post/DfbjFBHlXPy",
+      "photos": [
+        "Description: Two bright turquoise Adirondack chairs sit side by side on a wooden dock overlooking a serene lake at sunset. The golden evening sun dips below the tree line in the distance, casting warm light and a shimmering reflection across the water. Photograph read: The low-angle diagonal composition leads the eye past the vibrant teal chairs toward the glowing sunset reflecting off the calm water, creating a tranquil and inviting mood. Photo type: Snapshot",
+        "Description: A serpentine wooden",
+        "Description: A traveler wearing a red garment and white hat sleeps on a wooden bench at night, flanked by backpacks. The scene is set on a patterned tile sidewalk in front of multi-story buildings. Photograph read: Captured from a high angle in low light, the vertical composition centers the resting figure against a backdrop of storefronts, creating a quiet and solitary mood. Photo type: Snapshot"
+      ],
+      "watch_outs": [
+        "Sun disc clipped to white with reflection streaks on the water surface",
+        "",
+        "Soft overall; intentional or missed focus not determinable from the image."
+      ],
+      "reply_count": 4,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "@storycatcher52 Your sunset chairs open the Take a Seat Friday favorites. Two turquoise chairs with front-row seats to that sun path - is this your own dock, and how many evenings end exactly like this one?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfbjOBQkUDi",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@londonlightcreative Your S-curve bench is the middle slide of the Take a Seat Friday favorites. From above it turns into pure line and rhythm - how did you spot that the curve only shows itself from up high?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfbjL_FjqMk",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "londonlightcreative",
+              "text": "If you know about Hogarth\u2019s \u201cLine of Beauty\u201d you know. Many thanks for the feature. Paul \ud83d\ude0e",
+              "permalink": "https://www.threads.com/@londonlightcreative/post/Dfbx59AkdfU",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "nancychevalier Your midnight bench closes the Take a Seat Friday favorites. A white sunhat, a red wrap, and a long wait under the streetlights - whose journey was this, and where were they headed?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfbjG2Clu6Y",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "17888396322499754",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Take a Seat Friday \ud83e\ude91 Show me a seat with a story. A favorit\u2026",
       "text": "Take a Seat Friday \ud83e\ude91 Show me a seat with a story. A favorite chair, a park bench, a swing, a stool by the window - whatever you keep coming back to. This hanging chair is all woven shadow and teal cushions - find me a seat that feels like yours. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where is your favorite seat?",
@@ -10,8 +72,30 @@
       "photos": [
         "Description: A black hanging wicker egg chair sits outdoors, holding two teal pillows and a small stuffed toy on its seat. Sunlight filters through the chair's open geometric weave, casting patterned shadows across the cushions. Photograph read: The shot uses a centered composition with natural lighting, creating a calm, relaxed mood. Photo type: Snapshot"
       ],
-      "reply_count": 181,
+      "reply_count": 185,
       "replies": [
+        {
+          "username": "photog84",
+          "text": "Here\u2019s mine. iPhone 14 Pro Max. A bench to sit on and watch the waves. Cani\u00e7o, Madeira",
+          "permalink": "https://www.threads.com/@photog84/post/DfcGjYKFyxH",
+          "photos": [
+            "Description: An empty brown and white park bench sits on a concrete boardwalk facing the deep blue ocean. In the distance, a rugged coastal cliff rises under a bright blue sky with scattered clouds. Photograph read: Captured in bright daylight, the vertical composition positions the bench in the foreground at an angle, casting a strong shadow onto the textured pavement. Photo type: Travel snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "photog84",
+          "text": "Fantastic seat image!! Looks like a wonderful place to sit and relax!!\ud83d\udcf7",
+          "permalink": "https://www.threads.com/@photog84/post/DfcGKqLl50B",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kidsdrs",
           "text": "Bar seating",
@@ -130,7 +214,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pycturesforyou",
+                  "text": "It stayed like this a few hours like a king sitting on a sidewalk",
+                  "permalink": "https://www.threads.com/@pycturesforyou/post/DfbwPEiiO4A",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1904,7 +1999,18 @@
                   "needs_response": false,
                   "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "bobherrmann6",
+                      "text": "Would luv to sit there with Forrest Gump",
+                      "permalink": "https://www.threads.com/@bobherrmann6/post/DfcDw8FFbXf",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -2142,7 +2248,7 @@
     },
     {
       "id": "18075040217745964",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Tree Thursday favorites \ud83c\udfc6 3 trees that stopped my scroll: D\u2026",
       "text": "Tree Thursday favorites \ud83c\udfc6 3 trees that stopped my scroll: Don Swingley @donswingley - pine between canyon walls Ray Lehr @raylehr1783 - blossom on an ancient cherry Aiga Alhasova @eye_gah - a 400-year-old oak Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfZMQkuE1Wh/",
@@ -2199,7 +2305,7 @@
     },
     {
       "id": "18097715618142021",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a\u2026",
       "text": "Tree Thursday \ud83c\udf33 Show me a tree that stopped you. A giant, a sapling, bark up close, branches against the sky - whatever caught your eye. This bark is all ridges and lichen, a whole landscape in one trunk - find me a tree with character in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Which tree do you keep going back to?",
@@ -2207,7 +2313,7 @@
       "photos": [
         "Description: This vertical close-up shot features the rough, deeply furrowed brown bark of a tree trunk, punctuated by patches of pale green lichen and moss. The background is softly blurred, suggesting an outdoor or park setting. Photograph read: The tight framing emphasizes the intricate textures and earthy tones of the bark under natural daylight, creating a grounded, organic mood. Photo type: Detail study"
       ],
-      "reply_count": 553,
+      "reply_count": 557,
       "replies": [
         {
           "username": "anthony.deighton.73",
@@ -2425,7 +2531,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "t.f.j.8",
+                  "text": "Sunset, I actually shot it out the passenger window of my buddy's truck at 60, in the rain no less, that definitely added to the painterly quality.",
+                  "permalink": "https://www.threads.com/@t.f.j.8/post/DfblapFm--o",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2530,7 +2647,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "peterweaving",
+                  "text": "It\u2019s pretty windy, wild and cold up there.",
+                  "permalink": "https://www.threads.com/@peterweaving/post/Dfbu79qDGzM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5096,7 +5224,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "meijering.jan",
+                  "text": "This mushroom is the thunder mushroom, indeed it looks as it is attached to the trunk.",
+                  "permalink": "https://www.threads.com/@meijering.jan/post/Dfblqg4imzN",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -7165,7 +7304,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "misteralane",
+                  "text": "I think the moss, tree faces tend to appear as i move \u2026.pareidolia rules yeah",
+                  "permalink": "https://www.threads.com/@misteralane/post/DfcF-KgEd0Z",
+                  "photos": [
+                    "Description: A close-up shot of a large tree burl that resembles a weathered animal or face with eyes and a snout, set against a forest floor with moss and leaves. Photograph read: Centered composition with diffuse, natural light that emphasizes the complex textures and organic patterns of the gnarled bark. Photo type: Nature photography"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -8692,7 +8844,7 @@
     },
     {
       "id": "17942310048383159",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll\u2026",
       "text": "Water Wednesday favorites \ud83c\udfc6 3 waters that stopped my scroll: Brian Smith @briansmithphotography67 - electric blue shoreline Greg Hillman @greghillman11 - birds over waterfall Maurice @corwyn671 - lone red paraglider Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfWnjUdDwMB/",
@@ -8835,7 +8987,7 @@
     },
     {
       "id": "18103312391535326",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Stre\u2026",
       "text": "Water Wednesday \ud83d\udca7 Show me water, up close or far away. Streams, fountains, puddles, rain on glass, a river doing its thing - whatever caught your eye. This narrow rill runs over smooth stones and spills into a little foamy pool - find me water with movement in it. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did you last stop for water?",
@@ -11537,7 +11689,7 @@
     },
     {
       "id": "17911773306484146",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 3 patterns that stopped my scroll: Arizona Dweller @tallerthanyou2026 - glowing patterned cubes Conrad Skillen @stickyshutterphotography - blue lattice tunnel Anthony Chila @cruscher53 - monochrome rosette spiral Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfT81ZDjmpK/",
@@ -11605,7 +11757,7 @@
     },
     {
       "id": "18219980083346746",
-      "label": "description, photo, type, photograph",
+      "label": "description, photo, photograph, type",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This perforated metal is one long grid of square holes - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern did you walk past today?",
@@ -11613,7 +11765,7 @@
       "photos": [
         "Description: This close-up shot features a perforated metal cylinder with a repeating grid pattern, set against a softly blurred urban background. The metallic texture and rhythmic geometry suggest an everyday architectural detail or public fixture. Photograph read: The tight vertical framing and shallow depth of field emphasize the repetitive pattern of the grille, creating a clean, textured study in light and shadow. Photo type: artistic"
       ],
-      "reply_count": 392,
+      "reply_count": 393,
       "replies": [
         {
           "username": "gazzybear76",
@@ -14739,7 +14891,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pandandalee",
+                  "text": "Mostly when the catnip and nightly treats are presented to his majesty hahaha",
+                  "permalink": "https://www.threads.com/@pandandalee/post/DfcOI1vG7nU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -16047,27 +16210,31 @@
   ],
   "edges": [
     {
-      "from": "17888396322499754",
+      "from": "18065208890795635",
+      "to": "17888396322499754"
+    },
+    {
+      "from": "18065208890795635",
       "to": "18075040217745964"
     },
     {
-      "from": "17888396322499754",
+      "from": "18065208890795635",
       "to": "18097715618142021"
     },
     {
-      "from": "17888396322499754",
+      "from": "18065208890795635",
       "to": "17942310048383159"
     },
     {
-      "from": "17888396322499754",
+      "from": "18065208890795635",
       "to": "18103312391535326"
     },
     {
-      "from": "17888396322499754",
+      "from": "18065208890795635",
       "to": "17911773306484146"
     },
     {
-      "from": "17888396322499754",
+      "from": "18065208890795635",
       "to": "18219980083346746"
     }
   ]
