@@ -4,49 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (92)
+## Needs Reply (80)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
-- **lindaruthashworth**:  ([link](https://www.threads.com/@lindaruthashworth/post/DfbAUqrDHQB))
-  - Photo: Description: A bright, modern living room features a vibrant blue leather sofa, a weathered white wooden coffee table, and a matching side table with a lamp, set against large floor-to-ceiling windows draped with sheer and opaque curtains. The tiled floor reflects the natural daylight filtering through the windows. Photograph read: Natural daylight from the side illuminates the interior, creating an open and clean composition with soft shadows and neutral background tones that highlight the bright blue furniture. Photo type: Interior photography
-    - Watch-outs: Highlights near the window are clipped to white.
+- **kidsdrs**: Bar seating ([link](https://www.threads.com/@kidsdrs/post/DfbM62MjrGv))
+  - Photo: Description: A row of wooden swing seats hangs from thick ropes at a nautical-themed bar or restaurant. In the background, a wooden barrel and shelves stocked with colorful buoys and bottles add to the maritime atmosphere. Photograph read: The vertical lines of the hanging ropes dominate the frame, creating a rhythmic pattern that partially obscures the warm, rustic interior bar scene. Photo type: Snapshot
 - **lindaruthashworth**: The why of it.In our condo at the beach.Every year from the time I was young til I grew up &had my young til my kids grew up & had their young.My dad sat here waiting for us to drive in.Waiting for us come up from the beach. He sat there doing his word searches now we own the condo &he is has passed on but this seat will always have the sweetest memories when I get there &first walk in I expect him to be sitting there waiting for me. In my mind he always will be. Sweet memories of a sweet seat ([link](https://www.threads.com/@lindaruthashworth/post/DfbA03YDA4i))
   - _Replying to: (photo reply, no text)_
-- **christinaagabriela**:  ([link](https://www.threads.com/@christinaagabriela/post/Dfat5lMjjJ1))
-  - Photo: Description: Sunlight streams through a lush forest canopy, illuminating a tranquil riverside clearing furnished with macrame hanging chairs and a rustic table. The serene woodland setting suggests a peaceful outdoor retreat or a cozy picnic spot. Photograph read: Strong overhead backlighting creates prominent sun rays and lens flare, contrasting bright highlights with deep shadows across the forest floor. Photo type: Landscape
-    - Watch-outs: Sun disc and upper sky clipped to white with strong lens flare and light streaks.
-- **pycturesforyou**:  ([link](https://www.threads.com/@pycturesforyou/post/DfaqJByiKQT))
-  - Photo: Description: A large, ornate vintage sofa sits incongruously on a Parisian sidewalk in front of a dark kiosk. A blurred cyclist passes behind the furniture against a backdrop of classic European architecture and trees. Photograph read: The black and white image features a wide composition centered on the patterned couch, captured with natural daylight and a reflective urban mood. Photo type: Documentary
-    - Watch-outs: Cyclist exhibits motion blur; intentional or missed focus not determinable from the image.
-- **greghillman11**:  ([link](https://www.threads.com/@greghillman11/post/Dfan1Vjkwji))
-  - Photo: Description: Two people relax in striped deck chairs on a pebble beach, accompanied by a nearby seagull. The high-angle view emphasizes the vast expanse of stones surrounding them. Photograph read: The high-angle perspective and centered composition capture the scene under bright daylight, creating sharp shadows and highlighting the texture of the pebble beach. Photo type: Snapshot
-- **mattleopold**: It’s an entrance to a trail at Tyler Arboretum. I had just finished and passed it then oooked back (caused I needed to sit and rest a bit). The light was amazing. ([link](https://www.threads.com/@mattleopold/post/DfasGy_GaXY))
-  - _Replying to: How long did you sit there before the autumn light moved on…_
 - **nancychevalier**: Waiting for a night bus from Cusco to the Amason. ([link](https://www.threads.com/@nancychevalier/post/DfadcF5nyLZ))
   - _Replying to: (photo reply, no text)_
-- **clmharper**: Year round except for a brief hiatus in spring when his wardrobe is refurbished. So far, he has been patient but has yet to catch a fish… ([link](https://www.threads.com/@clmharper/post/Dfas6EAmx53))
-  - _Replying to: The dock is the seat here - a whole wooden front row over t…_
-- **musulnamja**: I had 2 cedar beams I cut this bench from ([link](https://www.threads.com/@musulnamja/post/DfatSKDj5ro))
-  - Photo: Description: A side-profile view shows a newly constructed wooden bench seat resting inside a cluttered workshop or shed. A thick black rope threads through holes in the wooden structure. Photograph read: The eye-level composition captures natural light filtering from the side, emphasizing the clean grain and smooth texture of the light-colored wood against the darker background. Photo type: Snapshot
-  - Photo: Description: A newly constructed wooden porch swing rests on sawhorses inside a cluttered green shed. The workshop background features shelves filled with tools, bottles, and hardware. Photograph read: The subject is captured from a high angle in natural light with a sharp focus that emphasizes the wood grain texture of the custom-built furniture. Photo type: Documentary
-  - _Replying to: Pale and sanded in one shot, glowing varnish in the next - …_
-- **gnd_moments_in_paradise**: I was in a line for days just to take the picture. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/DfaoAhQiHVN))
-  - _Replying to: Two wicker chairs tucked into a wall of petunias - that cor…_
-- **hannele.heikkinen**: I had to stop and stay for a longer time, luckily, there was no one else. ([link](https://www.threads.com/@hannele.heikkinen/post/DfapFVUjtQp))
-  - _Replying to: Framed by the trees like a window onto the water - that ben…_
-- **winestains.ca**: Exactly! And it’s beautiful in all seasons. ([link](https://www.threads.com/@winestains.ca/post/DfaoN6olmuJ))
-  - Photo: Description: A snow-covered park path lined with bare trees runs parallel to a chilly sea under an overcast sky, with empty benches dotting the landscape. The tranquil winter scene offers a peaceful atmosphere suitable for sharing seasonal views. Photograph read: The wide-angle composition frames the repeating trunks and benches beneath a low winter light, creating a serene and chilly mood. Photo type: Landscape documentary
-  - _Replying to: What keeps pulling you back to that shoreline? Those benche…_
-- **londonlightcreative**: I liked the shape of the bench. I had to take a very quick photo as I had my young nephews with me and they were running off in the opposite direction. I didn’t have time to compose it, just did it by instinct. ([link](https://www.threads.com/@londonlightcreative/post/DfapOvnAsd1))
-  - _Replying to: What made you stop and shoot that S-curve from up high - th…_
-- **ritaveeps**: The reservoir is a place to relax and explore the mill’s history perhaps nibbling a doughnut made with their flour…. there for a while, just not 1846 ☺️ ([link](https://www.threads.com/@ritaveeps/post/Dfav8dajhRd))
-  - _Replying to: A red chair with a whole lake to itself - that is a loud co…_
-- **akmaleky**: Hahaha I wish I knew. I was hunting a parking lot building for a TV commercial shoot and he was below from where I worked. ([link](https://www.threads.com/@akmaleky/post/Dfazxz5nx2S))
-  - _Replying to: How long did he get before the park woke him? Sandals off a…_
+- **oznatureart**: Some days it's dolphins, often it's swirling swells and amazing blue... then it can be whales when they pass through 😎 ever changing... ([link](https://www.threads.com/@oznatureart/post/DfbMJtPiVwp))
+  - _Replying to: That bench has the best seat on the whole coastline, gnarle…_
 - **traceartography**: My favorite chair. ([link](https://www.threads.com/@traceartography/post/DfaJmtGllAz))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
-- **irishrose_3**: It was the first time that we had visited this area. I loved how the silhouette looked. ([link](https://www.threads.com/@irishrose_3/post/Dfa_mjClDgz))
-  - _Replying to: The tree grew its own seat and saved the best view for it -…_
 - **srravi**: Many thanks, indeed! Would like to go there again. This was an extempore trip planned just before my twin granddaughters were born since after that we’ll get busy…it was way back in 2022… ([link](https://www.threads.com/@srravi/post/DfZ9ILNGnvF))
   - _Replying to: That sounds like a room worth going back to. Thanks for tel…_
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/DfZ6xl7jpXO))
