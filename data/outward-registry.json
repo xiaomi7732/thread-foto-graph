@@ -982,6 +982,41 @@
       "target_post_id": "17873366049646021",
       "target_post_url": "https://www.threads.com/@pixel_plus_photos/post/DfZ8IJZFJg0",
       "author_followers": 1401
+    },
+    {
+      "posted_on": "2026-11-07",
+      "reply_id": "18222522535357423",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "charhedman",
+      "target_post_id": "18081764294751289",
+      "target_post_url": "https://www.threads.com/@charhedman/post/DfcckZbG8Oa",
+      "author_followers": 1425,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-07",
+      "reply_id": "18146609923594543",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "danitahamel",
+      "target_post_id": "18131197495836408",
+      "target_post_url": "https://www.threads.com/@danitahamel/post/Dfcf__MGvZo",
+      "author_followers": 5753
+    },
+    {
+      "posted_on": "2026-11-07",
+      "reply_id": "18133457833854036",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "iamweebler",
+      "target_post_id": "18209940295373096",
+      "target_post_url": "https://www.threads.com/@iamweebler/post/DfcPFMMlg5s",
+      "author_followers": 1931,
+      "return_visit": true
     }
   ]
 }
