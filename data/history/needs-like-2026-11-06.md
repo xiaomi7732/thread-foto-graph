@@ -4,12 +4,16 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (55)
+## Needs Like (57)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
 - aaronschwartz1: Lucky hour 😊 ([link](https://www.threads.com/@aaronschwartz1/post/DfaMkxjkUvq))
 - jh1962bike: Love ([link](https://www.threads.com/@jh1962bike/post/DfaIegviJNh))
+- posts.by.norman: My pleasure! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DfaprS_n_dt))
 - kelzkidz03: My daughters ([link](https://www.threads.com/@kelzkidz03/post/DfZ9QstDj9U))
+
+### Tree Thursday favorites 🏆 3 trees that stopped my scroll: D… ([thread](https://www.threads.com/@saars.foto/post/DfZM7CclQm3))
+- raylehr1783: Thank you! ([link](https://www.threads.com/@raylehr1783/post/Dfa5U3fIO1p))
 
 ### Tree Thursday 🌳 Show me a tree that stopped you. A giant, a… ([thread](https://www.threads.com/@saars.foto/post/DfXTpjPGwOd))
 - demidova_nadezda: San Francisco ([link](https://www.threads.com/@demidova_nadezda/post/DfY6RduFIVd))
