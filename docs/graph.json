@@ -10,7 +10,7 @@
       "photos": [
         "Description: A black hanging wicker egg chair sits outdoors, holding two teal pillows and a small stuffed toy on its seat. Sunlight filters through the chair's open geometric weave, casting patterned shadows across the cushions. Photograph read: The shot uses a centered composition with natural lighting, creating a calm, relaxed mood. Photo type: Snapshot"
       ],
-      "reply_count": 178,
+      "reply_count": 181,
       "replies": [
         {
           "username": "kidsdrs",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A row of wooden swing seats hangs from thick ropes at a nautical-themed bar or restaurant. In the background, a wooden barrel and shelves stocked with colorful buoys and bottles add to the maritime atmosphere. Photograph read: The vertical lines of the hanging ropes dominate the frame, creating a rhythmic pattern that partially obscures the warm, rustic interior bar scene. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A bar seat that swings - the ropes do half the decorating here. Do the regulars claim one, or is it first come, first sway?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfbc0PWDnpY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lindaruthashworth",
@@ -53,10 +64,21 @@
               "text": "The why of it.In our condo at the beach.Every year from the time I was young til I grew up &had my young til my kids grew up & had their young.My dad sat here waiting for us to drive in.Waiting for us come up from the beach. He sat there doing his word searches now we own the condo &he is has passed on but this seat will always have the sweetest memories when I get there &first walk in I expect him to be sitting there waiting for me. In my mind he always will be. Sweet memories of a sweet seat",
               "permalink": "https://www.threads.com/@lindaruthashworth/post/DfbA03YDA4i",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Some seats never really empty. Thanks for sharing such a sweet memory.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Dfbc1d3HBeE",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -338,10 +360,21 @@
                   "text": "Some days it's dolphins, often it's swirling swells and amazing blue... then it can be whales when they pass through \ud83d\ude0e ever changing...",
                   "permalink": "https://www.threads.com/@oznatureart/post/DfbMJtPiVwp",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Dolphins, swells, and the odd whale passing through - that bench earns its view every single day. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfbc2zJjqm1",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

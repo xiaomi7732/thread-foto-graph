@@ -4,17 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (80)
+## Needs Reply (77)
 
 ### Take a Seat Friday 🪑 Show me a seat with a story. A favorit… ([thread](https://www.threads.com/@saars.foto/post/DfZ4miQEUy3))
-- **kidsdrs**: Bar seating ([link](https://www.threads.com/@kidsdrs/post/DfbM62MjrGv))
-  - Photo: Description: A row of wooden swing seats hangs from thick ropes at a nautical-themed bar or restaurant. In the background, a wooden barrel and shelves stocked with colorful buoys and bottles add to the maritime atmosphere. Photograph read: The vertical lines of the hanging ropes dominate the frame, creating a rhythmic pattern that partially obscures the warm, rustic interior bar scene. Photo type: Snapshot
-- **lindaruthashworth**: The why of it.In our condo at the beach.Every year from the time I was young til I grew up &had my young til my kids grew up & had their young.My dad sat here waiting for us to drive in.Waiting for us come up from the beach. He sat there doing his word searches now we own the condo &he is has passed on but this seat will always have the sweetest memories when I get there &first walk in I expect him to be sitting there waiting for me. In my mind he always will be. Sweet memories of a sweet seat ([link](https://www.threads.com/@lindaruthashworth/post/DfbA03YDA4i))
-  - _Replying to: (photo reply, no text)_
 - **nancychevalier**: Waiting for a night bus from Cusco to the Amason. ([link](https://www.threads.com/@nancychevalier/post/DfadcF5nyLZ))
   - _Replying to: (photo reply, no text)_
-- **oznatureart**: Some days it's dolphins, often it's swirling swells and amazing blue... then it can be whales when they pass through 😎 ever changing... ([link](https://www.threads.com/@oznatureart/post/DfbMJtPiVwp))
-  - _Replying to: That bench has the best seat on the whole coastline, gnarle…_
 - **traceartography**: My favorite chair. ([link](https://www.threads.com/@traceartography/post/DfaJmtGllAz))
   - Photo: (description unavailable: blocked by Gemini, reason: PROHIBITED_CONTENT)
 - **srravi**: Many thanks, indeed! Would like to go there again. This was an extempore trip planned just before my twin granddaughters were born since after that we’ll get busy…it was way back in 2022… ([link](https://www.threads.com/@srravi/post/DfZ9ILNGnvF))
