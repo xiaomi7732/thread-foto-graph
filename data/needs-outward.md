@@ -1,35 +1,20 @@
 # Needs Outward
 
-Generated 2026-11-07T10:41:43.633459-08:00 for @saars.foto. 94 of 94 registered replies checked (last 14 days; limit 120).
+Generated 2026-11-08T10:42:29.318760-08:00 for @saars.foto. 97 of 97 registered replies checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors and styles come from the registry. New means first observed since the previous published snapshot, not unread._
 
-Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 41 discovery IDs not registered.
+Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 42 discovery IDs not registered.
 
-## New Answers (7)
+## New Answers (1)
 
-- **@danitahamel**: Headland ([answer](<https://www.threads.com/@danitahamel/post/DfczRvimeUW>))
-  - Our comment: Were you up on the headland for this, or is that a drone's view? The fog sitting on the treetops and that white arch holding the middle of the frame turns a beach day into something out of a storybook. ([our reply](<https://www.threads.com/@saars.foto/post/DfcpeJ0EfyZ>)); answered after 1.4h.
-
-- **@danitahamel**: I was up on the headline! ([answer](<https://www.threads.com/@danitahamel/post/DfczO8_mbuA>))
-  - Our comment: Were you up on the headland for this, or is that a drone's view? The fog sitting on the treetops and that white arch holding the middle of the frame turns a beach day into something out of a storybook. ([our reply](<https://www.threads.com/@saars.foto/post/DfcpeJ0EfyZ>)); answered after 1.4h.
-
-- **@charhedman**: Thank you! Good question. I see things separately but as one at the same time. So I saw the stem and could see the awesome bokeh I could get. A vintage lens makes it even more bokehlicious. ([answer](<https://www.threads.com/@charhedman/post/DfcqYFGGRkN>))
-  - Our comment: That first slide stopped me - one red stem sharp and the whole backyard melted into warm bokeh behind it. Were you chasing the light through the leaves, or did the stem catch your eye as you walked past? ([our reply](<https://www.threads.com/@saars.foto/post/DfcpccxoEE9>)); answered after 0.1h.
-
-- **@zeissshots**: Thanks❤️😍 ([answer](<https://www.threads.com/@zeissshots/post/DfbBrPZkhmC>))
-  - Our comment: Those red eyes stopped my scroll. A metallic blue-green fly on a purple stem, posing like it knows - how close did you get before it noticed you? ([our reply](<https://www.threads.com/@saars.foto/post/DfaWjU3lfhG>)); answered after 6.3h.
-
-- **@imagesbyallison**: Morning dew! ([answer](<https://www.threads.com/@imagesbyallison/post/DfabfD1lbKm>))
-  - Our comment: The backlight is doing all the work here - one golden grass head glowing, every droplet lit, and the rest of the field just melts away. Morning dew, or right after the rain? ([our reply](<https://www.threads.com/@saars.foto/post/DfaWkeXoGKQ>)); answered after 0.7h.
-
-- **@foutsphotos**: but to answer the question by the umbrellas theres a little spot that you can smash yourself into ([answer](<https://www.threads.com/@foutsphotos/post/DfaWjrkD_-h>))
-  - Our comment: How low did you get for this one? Shooting straight up the glass cubes turns the whole Koin Building into a stack of brick and mirror, and the tower just keeps climbing out of it. ([our reply](<https://www.threads.com/@saars.foto/post/DfaWVOrD5gE>)); answered after 0.0h.
-
-- **@foutsphotos**: it was more a choice of lens. I shot this on a 14mm lens this is actually a crop ([answer](<https://www.threads.com/@foutsphotos/post/DfaWdFZj1KF>))
-  - Our comment: How low did you get for this one? Shooting straight up the glass cubes turns the whole Koin Building into a stack of brick and mirror, and the tower just keeps climbing out of it. ([our reply](<https://www.threads.com/@saars.foto/post/DfaWVOrD5gE>)); answered after 0.0h.
+- **@charhedman**: Thank you,. Saar! Honestly, it's a long boardwalk and lots of people on it. I wanted that part of the walkway with the leaves and I saw the woman coming. I took three shots and liked this one best. ([answer](<https://www.threads.com/@charhedman/post/DffQehSm2Qx>))
+  - Our comment: I think getting low on the boardwalk was a good call - the orange leaves pull the eye straight down to that lone walker, and the bare trees frame the whole walk. Did you plan the shot around the leaves, or did the walker just wander into it? ([our reply](<https://www.threads.com/@saars.foto/post/DffPxe7lVvM>)); answered after 0.1h.
 
 ## Needs Reply (46)
+
+- **@charhedman**: Thank you,. Saar! Honestly, it's a long boardwalk and lots of people on it. I wanted that part of the walkway with the leaves and I saw the woman coming. I took three shots and liked this one best. ([answer](<https://www.threads.com/@charhedman/post/DffQehSm2Qx>))
+  - Our comment: I think getting low on the boardwalk was a good call - the orange leaves pull the eye straight down to that lone walker, and the bare trees frame the whole walk. Did you plan the shot around the leaves, or did the walker just wander into it? ([our reply](<https://www.threads.com/@saars.foto/post/DffPxe7lVvM>)); answered after 0.1h.
 
 - **@danitahamel**: I was up on the headline! ([answer](<https://www.threads.com/@danitahamel/post/DfczO8_mbuA>))
   - Our comment: Were you up on the headland for this, or is that a drone's view? The fog sitting on the treetops and that white arch holding the middle of the frame turns a beach day into something out of a storybook. ([our reply](<https://www.threads.com/@saars.foto/post/DfcpeJ0EfyZ>)); answered after 1.4h.
@@ -149,9 +134,6 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - **@foutsphotos**: i got lucky and arrived just as is it lifted,, but as patience leads to the best shots, I would have totally waited if I needed to. ([answer](<https://www.threads.com/@foutsphotos/post/DfNPLrPGO3Z>))
   - Our comment: Waiting out the fog takes patience. Did you sit on that spot until it lifted, or did the clearing catch you mid-walk? ([our reply](<https://www.threads.com/@saars.foto/post/DfNO0FkFu_4>)); answered after 0.1h.
 
-- **@rhiannonnahviessen**: Lightroom play with the s-curve, but in real life it is a pretty pink/purple color. ([answer](<https://www.threads.com/@rhiannonnahviessen/post/DfNBD3mFOa0>))
-  - Our comment: Filling the whole frame with the pink plumes was the move - no horizon, no context, just texture and dew drops hanging on the strands. How much of that pink is the grass itself, and how much is your Lightroom play? ([our reply](<https://www.threads.com/@saars.foto/post/DfM91XXIC-X>)); answered after 0.5h.
-
 - **@domcoutard**: I know right but yes it was already set up for me! Just pointed and captured but it did caught my eyes ([answer](<https://www.threads.com/@domcoutard/post/DfLY38rCXmS>))
   - Our comment: Shooting straight up the balconies turns the whole tower into a rhythm section - those repeating balconies against the empty sky are doing all the work. Did you wait for the light to rake across the facade, or was the contrast already that hard when you looked up? ([our reply](<https://www.threads.com/@saars.foto/post/DfKx6hRFPyi>)); answered after 5.7h.
 
@@ -189,6 +171,16 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 
 ## All Tracked Replies
 
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffPxe7lVvM>) (2026-11-08T17:02:15+0000): **answered_by_author**; likes: 1; answers: 1.
+  - I think getting low on the boardwalk was a good call - the orange leaves pull the eye straight down to that lone walker, and the bare trees frame the whole walk. Did you plan the shot around the leaves, or did the walker just wander into it?
+  - Target: @charhedman; style: question; source: morning-briefing.
+- Our reply (link unavailable) (2026-11-08T12:00:00+00:00): **unreachable**; likes: unknown; answers: unknown.
+  - (media-only comment)
+  - Target: @vuurenbernadettevan; style: question; source: morning-briefing.
+  - **Unavailable:** REPLY_EDGE_UNAVAILABLE.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffP0y6lXlk>) (2026-11-08T17:02:42+0000): **no_answer**; likes: 0; answers: 0.
+  - The backlight does all the talking - the grasses glow, the water catches it, and the figure just stands inside the light. Beautifully staged.
+  - Target: @moodydarkroom; style: closer; source: morning-briefing.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfcpccxoEE9>) (2026-11-07T16:48:52+0000): **answered_by_author**; likes: 1; answers: 1.
   - That first slide stopped me - one red stem sharp and the whole backyard melted into warm bokeh behind it. Were you chasing the light through the leaves, or did the stem catch your eye as you walked past?
   - Target: @charhedman; style: question; source: morning-briefing.
@@ -381,9 +373,10 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfM9gcSFEnB>) (2026-11-01T14:36:18+0000): **no_answer**; likes: 0; answers: 0.
   - The inflatable ring swallows the whole frame and turns its hole into a porthole - a young arm holds it at the edge while the white-haired swimmer stands dead center inside it. That young-and-old contrast makes the whole seaside feel held in one circle. Beautifully seen.
   - Target: @timetobehave; style: closer; source: morning-targets.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DfM91XXIC-X>) (2026-11-01T14:39:11+0000): **answered_by_author**; likes: 1; answers: 1.
-  - Filling the whole frame with the pink plumes was the move - no horizon, no context, just texture and dew drops hanging on the strands. How much of that pink is the grass itself, and how much is your Lightroom play?
+- Our reply (link unavailable) (2026-11-01T12:00:00+00:00): **unreachable**; likes: unknown; answers: unknown.
+  - (media-only comment)
   - Target: @rhiannonnahviessen; style: question; source: morning-targets.
+  - **Unavailable:** REPLY_EDGE_UNAVAILABLE.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfM92tLFcWT>) (2026-11-01T14:39:21+0000): **no_answer**; likes: 0; answers: 0.
   - You filled the frame edge to edge and let the white hydrangeas do the breathing between the coral tulips - nothing competes, it just glows. Window light straight on, or did you turn the vase to catch it at an angle?
   - Target: @islalunesleep; style: question; source: morning-targets.
