@@ -1051,6 +1051,121 @@
       "target_post_id": "18106323974198057",
       "target_post_url": "https://www.threads.com/@moodydarkroom/post/DfeDRdCm0Bc",
       "author_followers": 63740
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18389378920228851",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "friskygeek",
+      "target_post_id": "17929991172185409",
+      "target_post_url": "https://www.threads.com/@friskygeek/post/DfcH6YtkdmA",
+      "author_followers": 4454,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18100137761418156",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "three_oaks_nature_photography",
+      "target_post_id": "17954857830336603",
+      "target_post_url": "https://www.threads.com/@three_oaks_nature_photography/post/Dfb4kP_laPP",
+      "author_followers": 1955,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18136797703677580",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "project52_nyc",
+      "target_post_id": "17991049716083669",
+      "target_post_url": "https://www.threads.com/@project52_nyc/post/Dfa2cdWI2C0",
+      "author_followers": 807,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18148644856581904",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "pappaga11a",
+      "target_post_id": "18469981447142104",
+      "target_post_url": "https://www.threads.com/@pappaga11a/post/Dfc1oPBFmUD",
+      "author_followers": 1461
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "17873036934646598",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "jerrymabbott1",
+      "target_post_id": "18098154545453469",
+      "target_post_url": "https://www.threads.com/@jerrymabbott1/post/Dfc2l8JnZur",
+      "author_followers": 9070
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18129620536848311",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "reinertorff",
+      "target_post_id": "18029464673697388",
+      "target_post_url": "https://www.threads.com/@reinertorff/post/Dfc2bL1DV1H",
+      "author_followers": 289
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "17899078920412856",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "omit.jpg",
+      "target_post_id": "18070084487786463",
+      "target_post_url": "https://www.threads.com/@omit.jpg/post/Dfc1_oTjTzk",
+      "author_followers": 2664
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18039662732853523",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "krebs.roland",
+      "target_post_id": "18074592530777177",
+      "target_post_url": "https://www.threads.com/@krebs.roland/post/Dfc0MJKo924",
+      "author_followers": 519
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "18132205279800380",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "foutsphotos",
+      "target_post_id": "17941644126403937",
+      "target_post_url": "https://www.threads.com/@foutsphotos/post/Dfe2zK3mz91",
+      "author_followers": 143,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-08",
+      "reply_id": "17880361095565149",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "leighw.photos",
+      "target_post_id": "18359269675169744",
+      "target_post_url": "https://www.threads.com/@leighw.photos/post/DfeTzbBDrIw",
+      "author_followers": 4523,
+      "return_visit": true
     }
   ]
 }
