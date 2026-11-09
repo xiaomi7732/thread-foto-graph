@@ -1,17 +1,56 @@
 # Needs Outward
 
-Generated 2026-11-08T10:42:29.318760-08:00 for @saars.foto. 97 of 97 registered replies checked (last 14 days; limit 120).
+Generated 2026-11-09T10:41:52.537851-08:00 for @saars.foto. 107 of 107 registered replies checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors and styles come from the registry. New means first observed since the previous published snapshot, not unread._
 
-Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 42 discovery IDs not registered.
+Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 43 discovery IDs not registered.
 
-## New Answers (1)
+## New Answers (7)
 
-- **@charhedman**: Thank you,. Saar! Honestly, it's a long boardwalk and lots of people on it. I wanted that part of the walkway with the leaves and I saw the woman coming. I took three shots and liked this one best. ([answer](<https://www.threads.com/@charhedman/post/DffQehSm2Qx>))
-  - Our comment: I think getting low on the boardwalk was a good call - the orange leaves pull the eye straight down to that lone walker, and the bare trees frame the whole walk. Did you plan the shot around the leaves, or did the walker just wander into it? ([our reply](<https://www.threads.com/@saars.foto/post/DffPxe7lVvM>)); answered after 0.1h.
+- **@omit.jpg**: Thanks so much! It was a planned photoshoot so I knew the shadow would hit the wall. Very happy with how it turned out! Love using natural light for sure! ([answer](<https://www.threads.com/@omit.jpg/post/Dfg40ufjbeC>))
+  - Our comment: That pink sole against the grey wall is the whole shot - the shadow running alongside it doubles the stride. Morning run, or did you chase that exact light to the wall? ([our reply](<https://www.threads.com/@saars.foto/post/DffrfoUAWXq>)); answered after 11.3h.
 
-## Needs Reply (46)
+- **@three\_oaks\_nature\_photography**: Thanks. I was a good few meters away as use a telephoto lens so I don’t disturb the wildlife. ([answer](<https://www.threads.com/@three_oaks_nature_photography/post/Dfg34-miKu->))
+  - Our comment: How close did the swan let you get before it noticed the lens? That orange beak against the white neck is doing all the work, and the golden bracken melting behind it turns a portrait into a painting. ([our reply](<https://www.threads.com/@saars.foto/post/DffrYJ5GV9f>)); answered after 11.1h.
+
+- **@pappaga11a**: No! This was a brief second between streams of tourists. ([answer](<https://www.threads.com/@pappaga11a/post/Dffz-ouFBE3>))
+  - Our comment: I think shooting it from the dark archway was a good call - the lanterns and the sunlit stone get the whole frame while the shadows do the framing. Did the courtyard feel as quiet as it looks? ([our reply](<https://www.threads.com/@saars.foto/post/DffrbDEm8Ub>)); answered after 1.2h.
+
+- **@foutsphotos**: that was kinda luck, I knew alot of leaves would be the ground as leaves are starting to disappear rapidly now. ([answer](<https://www.threads.com/@foutsphotos/post/DffyQaYj-ZN>))
+  - Our comment: The lanterns strung across the pavilion are doing all the work - orange against all that green, and the pond doubles the whole scene underneath. Did you wait for the leaves to settle on the water, or was the timing just luck? ([our reply](<https://www.threads.com/@saars.foto/post/DffrOIuGL5Q>)); answered after 1.0h.
+
+- **@project52\_nyc**: Thank you, i wasn’t setup for that long honestly once i got to the spot the sky was already in color.. ([answer](<https://www.threads.com/@project52_nyc/post/DffswX_j59t>))
+  - Our comment: That sky is on fire and you still kept the Empire State dead center in it - the dark blue bands cutting across the red are what make it, not just the color. How long were you set up before the sky went that red? ([our reply](<https://www.threads.com/@saars.foto/post/DffrZz5FEQY>)); answered after 0.2h.
+
+- **@jerrymabbott1**: She is definitely the ringleader! My wife and I put them up there. ([answer](<https://www.threads.com/@jerrymabbott1/post/DffsF9HHwN9>))
+  - Our comment: Four guilty faces in a row on the good bed - the white one front and center with those ears up looks like the ringleader. Did they all climb up there on their own, or did the flower-bed crime scene need a proper lineup? ([our reply](<https://www.threads.com/@saars.foto/post/DffrcwDn41H>)); answered after 0.1h.
+
+- **@leighw.photos**: Literally seconds - I have an eye for them... ([answer](<https://www.threads.com/@leighw.photos/post/Dffr1HOjmyZ>))
+  - Our comment: Getting down that low for one tiny mushroom is the whole shot - the moss goes soft behind it and that blurred cap in front gives it depth. How long were you crouched there before you spotted it? ([our reply](<https://www.threads.com/@saars.foto/post/DffrPvQozGZ>)); answered after 0.1h.
+
+## Needs Reply (53)
+
+- **@omit.jpg**: Thanks so much! It was a planned photoshoot so I knew the shadow would hit the wall. Very happy with how it turned out! Love using natural light for sure! ([answer](<https://www.threads.com/@omit.jpg/post/Dfg40ufjbeC>))
+  - Our comment: That pink sole against the grey wall is the whole shot - the shadow running alongside it doubles the stride. Morning run, or did you chase that exact light to the wall? ([our reply](<https://www.threads.com/@saars.foto/post/DffrfoUAWXq>)); answered after 11.3h.
+
+- **@three\_oaks\_nature\_photography**: Thanks. I was a good few meters away as use a telephoto lens so I don’t disturb the wildlife. ([answer](<https://www.threads.com/@three_oaks_nature_photography/post/Dfg34-miKu->))
+  - Our comment: How close did the swan let you get before it noticed the lens? That orange beak against the white neck is doing all the work, and the golden bracken melting behind it turns a portrait into a painting. ([our reply](<https://www.threads.com/@saars.foto/post/DffrYJ5GV9f>)); answered after 11.1h.
+
+- **@pappaga11a**: No! This was a brief second between streams of tourists. ([answer](<https://www.threads.com/@pappaga11a/post/Dffz-ouFBE3>))
+  - Our comment: I think shooting it from the dark archway was a good call - the lanterns and the sunlit stone get the whole frame while the shadows do the framing. Did the courtyard feel as quiet as it looks? ([our reply](<https://www.threads.com/@saars.foto/post/DffrbDEm8Ub>)); answered after 1.2h.
+
+- **@foutsphotos**: that was kinda luck, I knew alot of leaves would be the ground as leaves are starting to disappear rapidly now. ([answer](<https://www.threads.com/@foutsphotos/post/DffyQaYj-ZN>))
+  - Our comment: The lanterns strung across the pavilion are doing all the work - orange against all that green, and the pond doubles the whole scene underneath. Did you wait for the leaves to settle on the water, or was the timing just luck? ([our reply](<https://www.threads.com/@saars.foto/post/DffrOIuGL5Q>)); answered after 1.0h.
+
+- **@project52\_nyc**: Thank you, i wasn’t setup for that long honestly once i got to the spot the sky was already in color.. ([answer](<https://www.threads.com/@project52_nyc/post/DffswX_j59t>))
+  - Our comment: That sky is on fire and you still kept the Empire State dead center in it - the dark blue bands cutting across the red are what make it, not just the color. How long were you set up before the sky went that red? ([our reply](<https://www.threads.com/@saars.foto/post/DffrZz5FEQY>)); answered after 0.2h.
+
+- **@jerrymabbott1**: She is definitely the ringleader! My wife and I put them up there. ([answer](<https://www.threads.com/@jerrymabbott1/post/DffsF9HHwN9>))
+  - Our comment: Four guilty faces in a row on the good bed - the white one front and center with those ears up looks like the ringleader. Did they all climb up there on their own, or did the flower-bed crime scene need a proper lineup? ([our reply](<https://www.threads.com/@saars.foto/post/DffrcwDn41H>)); answered after 0.1h.
+
+- **@leighw.photos**: Literally seconds - I have an eye for them... ([answer](<https://www.threads.com/@leighw.photos/post/Dffr1HOjmyZ>))
+  - Our comment: Getting down that low for one tiny mushroom is the whole shot - the moss goes soft behind it and that blurred cap in front gives it depth. How long were you crouched there before you spotted it? ([our reply](<https://www.threads.com/@saars.foto/post/DffrPvQozGZ>)); answered after 0.1h.
 
 - **@charhedman**: Thank you,. Saar! Honestly, it's a long boardwalk and lots of people on it. I wanted that part of the walkway with the leaves and I saw the woman coming. I took three shots and liked this one best. ([answer](<https://www.threads.com/@charhedman/post/DffQehSm2Qx>))
   - Our comment: I think getting low on the boardwalk was a good call - the orange leaves pull the eye straight down to that lone walker, and the bare trees frame the whole walk. Did you plan the shot around the leaves, or did the walker just wander into it? ([our reply](<https://www.threads.com/@saars.foto/post/DffPxe7lVvM>)); answered after 0.1h.
@@ -181,6 +220,36 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - [Our reply](<https://www.threads.com/@saars.foto/post/DffP0y6lXlk>) (2026-11-08T17:02:42+0000): **no_answer**; likes: 0; answers: 0.
   - The backlight does all the talking - the grasses glow, the water catches it, and the figure just stands inside the light. Beautifully staged.
   - Target: @moodydarkroom; style: closer; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrW2JCcJy>) (2026-11-08T21:03:17+0000): **no_answer**; likes: 0; answers: 0.
+  - Shooting straight up between the towers turns the balconies into a honeycomb, and that pale one in the middle just keeps climbing out of the frame. Were you standing in the gap between the blocks when you looked up?
+  - Target: @friskygeek; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrYJ5GV9f>) (2026-11-08T21:03:27+0000): **answered_by_author**; likes: 1; answers: 1.
+  - How close did the swan let you get before it noticed the lens? That orange beak against the white neck is doing all the work, and the golden bracken melting behind it turns a portrait into a painting.
+  - Target: @three\_oaks\_nature\_photography; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrZz5FEQY>) (2026-11-08T21:03:40+0000): **answered_by_author**; likes: 1; answers: 1.
+  - That sky is on fire and you still kept the Empire State dead center in it - the dark blue bands cutting across the red are what make it, not just the color. How long were you set up before the sky went that red?
+  - Target: @project52\_nyc; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrbDEm8Ub>) (2026-11-08T21:03:52+0000): **answered_by_author**; likes: 0; answers: 1.
+  - I think shooting it from the dark archway was a good call - the lanterns and the sunlit stone get the whole frame while the shadows do the framing. Did the courtyard feel as quiet as it looks?
+  - Target: @pappaga11a; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrcwDn41H>) (2026-11-08T21:04:05+0000): **answered_by_author**; likes: 1; answers: 1.
+  - Four guilty faces in a row on the good bed - the white one front and center with those ears up looks like the ringleader. Did they all climb up there on their own, or did the flower-bed crime scene need a proper lineup?
+  - Target: @jerrymabbott1; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffreN5gS5w>) (2026-11-08T21:04:18+0000): **no_answer**; likes: 0; answers: 0.
+  - How close were you standing when the light blew out behind her like that? The black-and-white keeps the haze and the mic stand doing all the drama, and her face stays just out of the glare.
+  - Target: @reinertorff; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrfoUAWXq>) (2026-11-08T21:04:29+0000): **answered_by_author**; likes: 2; answers: 1.
+  - That pink sole against the grey wall is the whole shot - the shadow running alongside it doubles the stride. Morning run, or did you chase that exact light to the wall?
+  - Target: @omit.jpg; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/Dffrg_aAe78>) (2026-11-08T21:04:42+0000): **no_answer**; likes: 1; answers: 0.
+  - A grey hydrant with a yellow hat, parked in the gravel like it owns the place - the orange band and the little 178 plate are doing all the character work. What made you stop for a hydrant on a grey day?
+  - Target: @krebs.roland; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrOIuGL5Q>) (2026-11-08T21:02:06+0000): **answered_by_author**; likes: 0; answers: 1.
+  - The lanterns strung across the pavilion are doing all the work - orange against all that green, and the pond doubles the whole scene underneath. Did you wait for the leaves to settle on the water, or was the timing just luck?
+  - Target: @foutsphotos; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DffrPvQozGZ>) (2026-11-08T21:02:20+0000): **answered_by_author**; likes: 2; answers: 1.
+  - Getting down that low for one tiny mushroom is the whole shot - the moss goes soft behind it and that blurred cap in front gives it depth. How long were you crouched there before you spotted it?
+  - Target: @leighw.photos; style: question; source: outward-batch.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DfcpccxoEE9>) (2026-11-07T16:48:52+0000): **answered_by_author**; likes: 1; answers: 1.
   - That first slide stopped me - one red stem sharp and the whole backyard melted into warm bokeh behind it. Were you chasing the light through the leaves, or did the stem catch your eye as you walked past?
   - Target: @charhedman; style: question; source: morning-briefing.
