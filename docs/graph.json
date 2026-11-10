@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17945826621369021",
-      "label": "description, chairs, photo, photograph",
+      "label": "description, photo, chairs, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This rosette repeats at three sizes, one cluster doing the whole pattern - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern stopped you today?",
@@ -10,8 +10,531 @@
       "photos": [
         "Description: A close-up, top-down shot of a pale green rosette succulent with intricate, layered geometric leaves. Water droplets cling to the lower petals, and surrounding foliage creates a natural garden setting. Photograph read: The centered subject is lit by even, natural daylight, highlighting the crisp geometric patterns and textures of the overlapping leaves. Photo type: Nature photography"
       ],
-      "reply_count": 57,
+      "reply_count": 126,
       "replies": [
+        {
+          "username": "koza.100",
+          "text": "",
+          "permalink": "https://www.threads.com/@koza.100/post/Dfk5gvLDv5r",
+          "photos": [
+            "Description: A high-angle view looks through a dark mesh screen at feet wearing striped slides and red nail polish, resting on a textured light-colored surface. The patterned overlay creates a geometric grid across the entire composition. Photograph read: The tight framing through the patterned mesh creates a strongly textured foreground that partially obscures the subject beneath, lit by even daylight. Photo type: Snapshot",
+            "Description: A close-up top-down shot of a brown pinecone nestled among smooth white stones. The natural textures create a calming, earthy aesthetic suitable for a nature post. Photograph read: Captured from directly above with a shallow depth of field, the sharp focus on the center of the pinecone contrasts with the softly blurred white stones, creating a tranquil mood. Photo type: Nature snapshot",
+            "Description: This photo captures a direct upward perspective of the intricate glass and metal dome inside the Galleria Vittorio Emanuele II in Milan, Italy. The elaborate architectural details and symmetrical grid patterns create a striking visual of historic European design. Photograph read: The symmetrical, low-angle composition draws the eye toward the center of the ornate dome, illuminated by natural daylight filtering through the glass panes to create an architectural mood. Photo type: Architectural",
+            "Description: A close-up shot captures a white coneflower with a vibrant yellow and green textured center, set against a warm, sunlit background with hints of orange and green foliage. Photograph read: Captured in sharp focus with a shallow depth of field, the close-up highlights the intricate details of the flower's center against a softly blurred, warm-toned background. Photo type: Artistic"
+          ],
+          "watch_outs": [
+            "",
+            "Soft overall; intentional or missed focus not determinable from the image.",
+            "",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "debanne68",
+          "text": "",
+          "permalink": "https://www.threads.com/@debanne68/post/Dfk2DyBkmSM",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "reverendbenzo",
+          "text": "",
+          "permalink": "https://www.threads.com/@reverendbenzo/post/Dfk1LrtCV0X",
+          "photos": [
+            "Description: A museum display wall showcases a chronological evolution of hominid skulls, each mounted next to descriptive text panels behind glass. Photograph read: The wide-angle shot captures the tiered exhibits with soft interior lighting, creating a clean and educational mood. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "Reflections visible in the protective glass panels."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "02657printer",
+          "text": "economy quilt block",
+          "permalink": "https://www.threads.com/@02657printer/post/Dfkz2AaIzv_",
+          "photos": [
+            "Description: A square patchwork quilt block features a central square of floral fabric surrounded by bright blue triangles and outer patterned"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "alice_lin__",
+          "text": "",
+          "permalink": "https://www.threads.com/@alice_lin__/post/Dfkzyuikwwt",
+          "photos": [
+            "Description: This eye-level photograph shows a large industrial ring spinning machine inside a factory or museum exhibit, complete with a descriptive information sign in the foreground. Rows of white yarn spools and mechanical parts dominate the industrial interior setting, alongside playful toy giraffes standing further down the yellow floor. Photograph read: The wide-angle shot captures the long span of the machinery with even overhead lighting, creating a clean, documentary mood. Photo type: Documentary",
+            "Description: A high-angle, wide-angle daytime view looks out over a dense city stretching toward distant mountains and the sea beneath a bright blue sky with scattered white clouds. The lower left corner features a sliver of dark green pine foliage and a rustic wooden railing, suggesting an elevated viewpoint or lookout. Photograph read: The landscape is shot in bright daylight, dividing the frame between the expansive skyscape and the urban expanse below, creating a calm and open mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "raijapoignand",
+          "text": "",
+          "permalink": "https://www.threads.com/@raijapoignand/post/Dfky8N7EkDP",
+          "photos": [
+            "Description: A close-up shot captures the vibrant, rosette-shaped foliage of a dark red and purple succulent, likely"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lucyslon",
+          "text": "",
+          "permalink": "https://www.threads.com/@lucyslon/post/Dfky6ynlB6m",
+          "photos": [
+            "Description: A small plush toy is positioned against an intricately carved pink sandstone lattice window, displaying traditional geometric patterns. The dark interior contrasts sharply with the pale stone framework. Photograph read: The symmetrical, centered composition emphasizes the complex repeating patterns of the stonework under even lighting. Photo type: Travel snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "plwilson86",
+          "text": "",
+          "permalink": "https://www.threads.com/@plwilson86/post/DfkyqPVkrAW",
+          "photos": [
+            "Description: A striped teal rocking chair sits between two matching woven side tables on a tiled indoor floor, casting long"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jimasher",
+          "text": "",
+          "permalink": "https://www.threads.com/@jimasher/post/DfkyRG1GI3f",
+          "photos": [
+            "Description: Triangular wedges of Cambozola cheese are arranged in a circular container inside a refrigerated grocery display case. Other varieties of cheese are visible in the background and surrounding displays. Photograph read: The top-down composition captures the neatly organized cheese wedges under even lighting, creating a clean, commercial mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jeanrwestcott",
+          "text": "",
+          "permalink": "https://www.threads.com/@jeanrwestcott/post/DfkxRc_lOgh",
+          "photos": [
+            "Description: This macro photograph shows a close-up, top-down view of a blooming pink rose with dense, layered petals swirling toward a central cluster of yellow stamens. Photograph read: The tight vertical composition frames the intricate folds of the petals in soft, even light, creating a gentle and intimate mood. Photo type: Artistic"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "shiawasemainichi5",
+          "text": "",
+          "permalink": "https://www.threads.com/@shiawasemainichi5/post/DfkxCxVk5n3",
+          "photos": [
+            "Description: A close-up shot of a mirrored disco ball filled with colorful reflections and glittering facets, creating a vibrant abstract pattern. The curved surface creates a distorted, dome-like perspective. Photograph read: The tight framing emphasizes the geometric grid of tiny mirrors, lit with a mix of warm and cool reflections that create a festive, atmospheric mood. Photo type: Artistic"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "2killamockingbird",
+          "text": "",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/DfkwQn5gPnl",
+          "photos": [
+            "Description: A top-down, close-up view of a vibrant green and pink echeveria succulent, showcasing its tightly packed, rosette-shaped leaves under bright sunlight. This plant-focused shot would suit a garden or botanical social media post. Photograph read: The centered composition and direct overhead lighting emphasize the geometric symmetry and warm color gradients of the succulent leaves, creating a clean"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "yvetime",
+          "text": "",
+          "permalink": "https://www.threads.com/@yvetime/post/Dfkv8GGjWO-",
+          "photos": [
+            "Description: A festive tiered arrangement of leaf-shaped cookies topped with glossy glaze and sprinkles sits on a large white plate, perfect for a holiday food post. Photograph read: Captured from a high angle with natural lighting, the composition highlights the intricate texture and warm tones of the stacked cookies. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "brandy_fletcher004",
+          "text": "",
+          "permalink": "https://www.threads.com/@brandy_fletcher004/post/DfkvjX0El9U",
+          "photos": [
+            "Description: An overhead shot shows a winding mosaic path set into a textured concrete ground, rendered in a high-contrast black and white finish. The mosaic pieces curve through the frame like a stylized river or winding road. Photograph read: The high-angle framing captures the full length of the serpentine mosaic against the grainy pavement, creating a graphic composition enhanced by heavy corner vignetting. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "2killamockingbird",
+          "text": "Beautiful...",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/DfkvXvfjqBV",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "susiestar32",
+          "text": "",
+          "permalink": "https://www.threads.com/@susiestar32/post/DfkutzYnzSK",
+          "photos": [
+            "Description: A close-up shot captures a full-bloom yellow rose, framed by dark green leaves and a smaller unopened bud in the bottom right corner. Photograph read: The tight framing highlights the intricate, layered texture of the petals under soft, even daylight, creating a vibrant and natural mood. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "peteshone",
+          "text": "",
+          "permalink": "https://www.threads.com/@peteshone/post/DfkujrSDkuT",
+          "photos": [
+            "Description: A long, symmetrical corridor features a repeating sequence of arched stone pillars and recessed storefront windows stretching into the distance. The vanishing point draws the eye toward a distant opening with warm, reddish foliage visible at the end of the walkway. Photograph read: The symmetrical one-point perspective creates a strong sense of depth and geometric rhythm, illuminated by soft, even daylight filtering through the open arches. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lisawaldbaum",
+          "text": "",
+          "permalink": "https://www.threads.com/@lisawaldbaum/post/DfktsLEmxUf",
+          "photos": [
+            "Description: A vertical close-up shot captures swirling dark water reflecting bare tree branches above, with fallen brown leaves and a thin twig floating near the bottom edge. Bright sunlight catches the water's surface, creating a sharp glint and concentric ripples. Photograph read: The high-contrast black and white water reflections create an abstract, fluid texture, balanced by the warm brown tones of leaves and the diagonal line of the twig in direct sunlight. Photo type: artistic"
+          ],
+          "watch_outs": [
+            "Highlights clipped to pure white around the sun glint; intentional or blown-out exposure not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "demidova_nadezda",
+          "text": "",
+          "permalink": "https://www.threads.com/@demidova_nadezda/post/DfktPsmFCrP",
+          "photos": [
+            "Description: A wall features a large, organized grid of small, colorful wooden blocks, each displaying unique miniature paintings, typography, or found objects. The diverse artworks and playful arrangement suggest an interactive art installation or a collection of curiosities. Photograph read: Captured straight-on under even, neutral lighting, the image presents a sharp, flat grid composition with a whimsical and eclectic mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "hannele.heikkinen",
+          "text": "",
+          "permalink": "https://www.threads.com/@hannele.heikkinen/post/DfkrhN3DvJP",
+          "photos": [
+            "Description: A close-up view of an antique cabinet featuring an ornate, grid-like arrangement of small drawers and panels adorned with gilded carvings and inlaid bone or ivory details. The rich textures and intricate craftsmanship suggest a historical piece on display, possibly in a museum or antique collection. Photograph read: The flat, even lighting highlights the complex textures and geometric patterns of the woodwork,"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "unmitigatedme",
+          "text": "",
+          "permalink": "https://www.threads.com/@unmitigatedme/post/DfkqyZ_G5dS",
+          "photos": [
+            "Description: A top-down close-up shot captures the dense, ruffled layers of an ornamental cabbage, resembling a pale rose with creamy white and blush-pink center leaves surrounded by mottled green outer foliage. Photograph read: The tight vertical framing emphasizes the symmetrical, spiraling texture of the plant under bright, even light, creating a clean and botanical aesthetic. Photo type: Botanical study"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "photog84",
+          "text": "Here\u2019s mine. iPhone 14 Pro Max. Ancient Abstract, Jordan",
+          "permalink": "https://www.threads.com/@photog84/post/DfkqqQDkfdr",
+          "photos": [
+            "Description: This vertical, close-up photo shows weathered stone wall surfaces filled with ancient carvings and modern graffiti. A carved heart shape is visible near the center, alongside various etched lines and symbols. Photograph read: The flat, even lighting emphasizes the rough texture and carved details of the ancient stone surface in a straightforward documentary style. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "a_lone_crow_",
+          "text": "",
+          "permalink": "https://www.threads.com/@a_lone_crow_/post/DfkqUQ5DUWn",
+          "photos": [
+            "Description: A close-up, macro-style view of layered, light peach and white dahlia petals filling the entire"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "photog84",
+          "text": "Oh Wow!! This image is amazing!!\ud83d\udcf7",
+          "permalink": "https://www.threads.com/@photog84/post/Dfkp76vlDpy",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "andy.sutton.988",
+          "text": "Electricity Pylon",
+          "permalink": "https://www.threads.com/@andy.sutton.988/post/Dfkp452DiJL",
+          "photos": [
+            "Description: A low-angle, upward-looking shot of the interior of a tall lattice utility tower reveals"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ccaldwellrn",
+          "text": "",
+          "permalink": "https://www.threads.com/@ccaldwellrn/post/DfkolIuHyQb",
+          "photos": [
+            "Description: This photo captures a wide river winding between towering, pale rock cliffs covered in lush green trees on a partly cloudy day. A few small watercraft are visible in the distance, suggesting a scenic floating or kayaking excursion. Photograph read: Captured from a low water-level perspective, the wide-angle composition emphasizes the scale of the dramatic cliffs under bright daylight, conveying a serene and adventurous outdoor mood. Photo type: Landscape photography"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "an_aginggrace",
+          "text": "",
+          "permalink": "https://www.threads.com/@an_aginggrace/post/DfknUf_lGem",
+          "photos": [
+            "Description: A monochromatic, low-contrast photograph shows architectural buildings featuring a pointed spire and a metal-paneled roof, framed by silhouetted trees. Foreground foliage and shadows cast across the wooden slat wall create layered textures in the daylight scene. Photograph read: The high-contrast black-and-white treatment emphasizes geometric rooflines, vertical slats, and deep shadows beneath the trees, creating a quiet, structured mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "juliet.4066",
+          "text": "",
+          "permalink": "https://www.threads.com/@juliet.4066/post/DfknG1eDlRE",
+          "photos": [
+            "Description:"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dwordops",
+          "text": "",
+          "permalink": "https://www.threads.com/@dwordops/post/Dfkm9ZSmLCI",
+          "photos": [
+            "Description: This photo captures a vast wine cellar filled with countless wooden barrels neatly aligned in rows stretching deep into the darkness. The symmetrical arrangement creates a strong sense of scale and tradition, ideal for a winery's social media feature. Photograph read: The shot uses deep linear perspective and symmetry with dim, warm overhead lighting to create an industrial, atmospheric mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lizetteniemand",
+          "text": "",
+          "permalink": "https://www.threads.com/@lizetteniemand/post/DfkleqVgL9x",
+          "photos": [
+            "Description: A frost-covered grassy field extends toward a distant flat-topped hill under a pale sunrise sky, viewed through the diamond pattern of a chain-link fence. The close-up metal wire creates a sharp foreground framing against the serene rural landscape. Photograph read: The compositional frame utilizes chain-link wire in sharp focus to contrast with the softly blurred, hazy horizon under a cool-toned morning light, creating a quiet and contemplative mood. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Foreground chain-link wire sharp; background field soft; intentional or missed focus on the background not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "reef_ausic",
+          "text": "Patterns",
+          "permalink": "https://www.threads.com/@reef_ausic/post/DfkkyXYks8C",
+          "photos": [
+            "Description: A close-up shot of a white daisy covered in numerous water droplets, centered against a dark, blurred background. The water beads catch the light, highlighting the flower's delicate white petals and vibrant yellow center. Photograph read: The macro composition places the flower centrally against a dark, out-of-focus background, lit evenly to accentuate the glistening texture of the water droplets. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "agingpunkboris",
+          "text": "Monarch wing pattern.",
+          "permalink": "https://www.threads.com/@agingpunkboris/post/DfkkvtPGDcI",
+          "photos": [
+            "Description: A monarch butterfly clings to a cluster of small white flowers, viewed from above against a ground of wood chips and scattered leaves. Photograph read: The subject is framed tightly from an overhead perspective under direct daylight, highlighting the orange and black wing patterns against natural textures. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kayvaughan38",
+          "text": "Tim McGraw in Vegas. \ufffc",
+          "permalink": "https://www.threads.com/@kayvaughan38/post/DfkkrSND8U4",
+          "photos": [
+            "Description: A country music concert is viewed from the audience, showing the back silhouette of the crowd in the foreground while the band and massive multi-screen video display glow brightly on stage. The vibrant blue and yellow stage lighting creates an energetic concert atmosphere. Photograph read: Captured from an elevated audience perspective, the composition frames the dark, silhouetted heads of the crowd against the luminous blue stage and multi-panel video screens, creating a high-contrast concert atmosphere. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kes_ward",
+          "text": "",
+          "permalink": "https://www.threads.com/@kes_ward/post/Dfkjv7VDrHO",
+          "photos": [
+            "Description: A symmetrical, perspective-heavy view inside a brightly lit tunnel featuring a vibrant checkered pattern of primary colors on the ceiling and walls. The geometric design creates a striking, futuristic tunnel effect that draws the viewer's eye toward a distant light source"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kohllock",
+          "text": "",
+          "permalink": "https://www.threads.com/@kohllock/post/Dfkjo1smtex",
+          "photos": [
+            "Description: This photo captures a vibrant sunset featuring a striking, textured pattern of pink and orange clouds filling the sky above a dark, silhouetted parking lot. The high angle looks down on rows of parked cars under the expansive, colorful canopy. Photograph read: The composition utilizes a wide vertical format to emphasize the dramatic expanse of the patterned cloud formation, illuminated by warm morning or evening light against a cool blue sky. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "matt.wilson.gc",
+          "text": "",
+          "permalink": "https://www.threads.com/@matt.wilson.gc/post/DfkizL1jbHt",
+          "photos": [
+            "Description: A lone person wearing a hat, dark shirt, and jeans walks across an expansive, cracked expanse of dry mud. The stark, patterned ground fills the entire frame, emphasizing isolation and environmental hardship. Photograph read: Captured from a high angle in black and white, the high-contrast lighting accentuates the deep fissures of the dry earth and casts a small shadow beneath the solitary figure. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bojonvelvet2.0",
+          "text": "",
+          "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DfkhJPFGSmI",
+          "photos": [
+            "Description: Looking through the arched wooden trellis of the honeycomb-like structure at Lincoln Park Zoo in Chicago, a distant city skyline is visible against a deep blue dusk sky. Uplights illuminate the wooden beams from the floor, creating a warm contrast with the cool evening tones. Photograph read: The symmetrical, centered composition uses the repeating wooden curves to create a strong tunnel-like perspective leading the eye toward the illuminated skyline in the distance. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tiv34",
+          "text": "Roman in Cyprus",
+          "permalink": "https://www.threads.com/@tiv34/post/DfkgJKgisBH",
+          "photos": [
+            "Description: This vertical, slightly angled shot shows an ornate stone tile floor featuring a continuous pattern of curved, mosaic-like leaf shapes in muted grey and off-white tones. Metal seam lines divide the tiles diagonally across the upper portion of the frame. Photograph read: Captured from a high angle in diffused light, the image highlights the intricate texture and flowing geometry of the mosaic pattern. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "photopattyrn",
+          "text": "",
+          "permalink": "https://www.threads.com/@photopattyrn/post/DfkfSo_ICf3",
+          "photos": [
+            "Description: A close-up shot fills the frame with the vibrant green leaf of a large tropical plant, showcasing its complex vein structure. Diffused natural light emphasizes the smooth, textured surface of the foliage. Photograph read: The vertical composition creates a natural geometric pattern through the prominent central vein and branching ribs, lit by soft, even daylight that evokes a calm, organic mood. Photo type: Nature study"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kennenkaufmann",
+          "text": "",
+          "permalink": "https://www.threads.com/@kennenkaufmann/post/Dfkez15Hw8G",
+          "photos": [
+            "Description: Several bronze kangaroo sculptures leap across a paved urban plaza in front of a modern grid-patterned office building and trees. The wide-angle outdoor scene captures a public art installation situated on a city sidewalk. Photograph read: Captured from a low eye-level perspective under bright daylight, the composition balances the large bronze figures against the imposing architectural background and surrounding greenery. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "katherine_rushton",
+          "text": "",
+          "permalink": "https://www.threads.com/@katherine_rushton/post/Dfkeqiho6vj",
+          "photos": [
+            "Description: This high-angle shot captures an airplane propeller and engine cowling against a vast expanse of textured cloud cover extending to the horizon under a clear blue sky. The composition offers a traveler's perspective, ideal for a social media post about flying or journeys. Photograph read: The bright, natural daylight illuminates the sea of clouds below, creating a serene and expansive mood with the propeller anchoring the top-right corner. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "pappaga11a",
           "text": "",
@@ -19,10 +542,21 @@
           "photos": [
             "Description: A close-up photograph displays an intricate wall covered in traditional ceramic tiles featuring symmetrical blue, turquoise, and white floral patterns. The vertical split in the composition separates a grid-like tile pattern on the left from a flowing, ornate design on the right. Photograph read: The flat, even lighting emphasizes the graphic details and vibrant colors of the tilework within a tightly framed, two-dimensional composition. Photo type: Architectural detail"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two walls in one frame, and they play by different rules - the left side marching in tidy rosettes, the right side letting the big paisleys loose. Which half did your eye land on first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfkeZfDGNNm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "maureenozerimages",
@@ -34,10 +568,32 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Zoom in this close and dinner turns into a landscape - all those blistered ridges and valleys. Does it still taste like kale when it looks like the surface of the moon?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfkea6rmKJc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "maureenozerimages",
+                  "text": "It still tastes like kale \ud83d\ude06",
+                  "permalink": "https://www.threads.com/@maureenozerimages/post/DfkkUnVHNRc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "eelizjjjm",
@@ -46,10 +602,32 @@
           "photos": [
             "Description: A low-angle shot captures a modern curved glass building beneath two large, suspended brick-faced structures, with sunset light reflecting warmly across the bricks and windows. Concrete steps with scattered autumn leaves lead up to the entrance. Photograph read: The low-angle perspective frames the sky and architectural elements symmetrically, with golden sunset light catching the brick surfaces and reflecting off the curved glass facade. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The brick slabs catch all the orange while the glass curve underneath just quietly holds the sky. How often does a building get to wear the sunset like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfkeb_gGINC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "eelizjjjm",
+                  "text": "Columbus, IN is known for its architecture\u2014nicknamed The Athens of the Prairie. I don\u2019t know the name of the architect who designed this (our City Hall) but it\u2019s one of my favorites to photograph. So many different angles\u2014 it\u2019s triangular from above and the cantalivered entrance is amazing!",
+                  "permalink": "https://www.threads.com/@eelizjjjm/post/DfkfwI5GqYy",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lavalley6225",
@@ -61,10 +639,21 @@
           "watch_outs": [
             "Soft focus on foreground and background leaves; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That little spiral in the middle is doing all the work - leaf after leaf stepping inwards like stairs.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfkedVond5K",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bongapostol",
@@ -74,10 +663,32 @@
             "Description: A full, multi-petaled pink dahlia flower blooms centrally amidst dark green foliage, with a partial second flower visible in the upper right. The natural outdoor lighting highlights the intricate texture of the layered petals. Photograph read: Captured from a direct top-down angle, the balanced composition centers on the vibrant bloom under soft, even daylight, creating a serene and natural mood. Photo type: Snapshot",
             "Description: A close-up shot captures a vibrant pink hibiscus flower in full bloom, featuring a detailed yellow and orange stamen at its center. The flower is positioned outdoors against a blurred background of green foliage and a dark metal fence. Photograph read: Centered composition and soft, natural daylight highlight the delicate textures and rich color gradients of the petals. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The dahlia does the layering and the hibiscus does the drama - that yellow stamen popping out of all that pink. Were they neighbors in the same garden, or two stops on one walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfkeh_nlgG_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bongapostol",
+                  "text": "They're from separate places. The hibiscus is from our pocket garden. Notice the texture of the petals that is different from the usual",
+                  "permalink": "https://www.threads.com/@bongapostol/post/Dfk1e6HCete",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "reggae_gyal70",
@@ -86,10 +697,21 @@
           "photos": [
             "Description: A sleek black cat with bright green eyes sits on vibrant blue and white patterned ceramic tiles, looking up toward the camera. The high-angle overhead perspective emphasizes the striking contrast between the dark feline and the decorative tiled floor. Photograph read: Captured from directly overhead in even lighting, the high-contrast composition uses the ornate blue tiles to frame the centered black cat for an eye-catching pet portrait. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The tiles are doing their best to be the pattern and the cat just stole the whole floor. How long did those green eyes hold you there before you got the shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfkejTumrgq",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hannahbuzzybee",
@@ -98,10 +720,32 @@
           "photos": [
             "Description: This close-up overhead shot displays a vibrant, magenta-toned succulent rosette covered in glistening water droplets. The intricate, repeating patterns of the leaves create a natural geometric design ideal for nature photography shares. Photograph read: The tight, top-down composition emphasizes the symmetry and texture of the plant under bright, even lighting, creating a fresh and serene mood. Photo type: Botanical"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That magenta rosette already spirals like a staircase from above, and then the water drops show up as the bonus. A collection like yours must make rainy days feel like a gift.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfken24CbQH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "hannahbuzzybee",
+                  "text": "You can tell by the tightly packed rosettes it is thinking about sending up its death bloom. I believe it\u2019s saving that for next year, far too late in the season now",
+                  "permalink": "https://www.threads.com/@hannahbuzzybee/post/DfkfOH8CKlb",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "hannahbuzzybee",
@@ -128,10 +772,21 @@
                   "text": "It was a super quick snap on my iPhone as so blooming cold that day. The pattern & the way the snow had piled was just mesmerising",
                   "permalink": "https://www.threads.com/@hannahbuzzybee/post/DfkXkcTiE5Q",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "It landed beautifully all the same. Worth every cold finger.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfkexwWFIN3",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -156,7 +811,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nimaalaa1",
+                  "text": "Thank you \ud83e\udd17\ud83d\udc95",
+                  "permalink": "https://www.threads.com/@nimaalaa1/post/DfkiJKoiPti",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -185,10 +851,21 @@
                   "text": "The mosaic caught the eye.",
                   "permalink": "https://www.threads.com/@paulsparks85/post/DfkZcUdCErs",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A good eye for the floor under your feet. Glad the mosaic got its moment.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfkes6VlVcb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -242,10 +919,21 @@
                   "text": "I couldn't see the image as it's head was nearly facing down, so I just clicked and let the camera do the work.",
                   "permalink": "https://www.threads.com/@visage159/post/DfkYTBcCLp6",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Sometimes the camera sees it before we do. A lovely bit of luck, well caught.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfkeuOvFsXo",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -256,10 +944,32 @@
               "photos": [
                 "Description: This top-down view captures bright green fern fronds radiating inward to create a natural, geometric tunnel-like pattern. The"
               ],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Those fronds fold in like a green tunnel with no way out. What made you point the camera straight down into the middle of it?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfkepEhFueN",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "musulnamja",
+                      "text": "It just pulls you in that direction",
+                      "permalink": "https://www.threads.com/@musulnamja/post/DfkgYCcGbgl",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -273,10 +983,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red and navy stripe in the middle is the loud one and the grey pinstripe underneath keeps it honest. What were you shopping for when this stack stopped you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfkeqIAlSmy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "cm_kulick_soper",
@@ -308,10 +1029,21 @@
                   "photos": [
                     "Description: Sparkling water droplets cling tightly to a delicate spiderweb spanning a"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The drops earn their close-up either way. Beautifully spotted.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfkevPQls0G",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -324,10 +1056,21 @@
           "photos": [
             "Description: A high-angle, top-down shot captures a person standing on a pebbled walkway featuring a large mosaic inlay of a flower-like or star-like shape made of pink and green stones. The viewer sees the wearer's brown shoes and the hem of a brownish-pink garment at the bottom edge. Photograph read: Taken from a direct overhead angle in even daylight, the composition centers on a textured stone mosaic set within dark asphalt pavement. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Standing right on your own star - those brown shoes planted at the bottom of the frame sell the whole thing. Did you lay these stones yourself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfkerk5laRp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jphbb",
@@ -351,7 +1094,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jphbb",
+                  "text": "The squirrel. I have a thing for them.",
+                  "permalink": "https://www.threads.com/@jphbb/post/DfkqGSvmcDV",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -439,6 +1193,59 @@
           "hidden": false,
           "replies": [
             {
+              "username": "matmarian57",
+              "text": "Ainakin joku",
+              "permalink": "https://www.threads.com/@matmarian57/post/Dfkd15mCESK",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": []
+            },
+            {
+              "username": "matmarian57",
+              "text": "Baila Baila Baila...",
+              "permalink": "https://www.threads.com/@matmarian57/post/Dfkd0ZXCDhK",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "sirpatuunanen",
+                  "text": "Muutama sata \ud83d\ude03",
+                  "permalink": "https://www.threads.com/@sirpatuunanen/post/DfkhDNnDFYb",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "matmarian57",
+                      "text": "Ooppera talolla ?",
+                      "permalink": "https://www.threads.com/@matmarian57/post/DfkhOIuiGOv",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "sirpatuunanen",
+                          "text": "Oopperan ajoista on niin kauan, ett\u00e4 ne kuvat on jossain jemmassa paperisina \ud83d\ude03",
+                          "permalink": "https://www.threads.com/@sirpatuunanen/post/DfkhX2kjMi_",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "username": "saars.foto",
               "text": "This one hums - rows of glass glowing purple, like a skyline made of stems and flutes. What kind of evening was this the start of?",
               "permalink": "https://www.threads.com/@saars.foto/post/DfkUnJ8CRM3",
@@ -446,7 +1253,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sirpatuunanen",
+                  "text": "It was a bar at some party for one company",
+                  "permalink": "https://www.threads.com/@sirpatuunanen/post/Dfkg8UHDD5Q",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -690,10 +1508,21 @@
                   "text": "This was on our lunch table at Epic Universe in Orlando.",
                   "permalink": "https://www.threads.com/@artiekay2/post/DfkXl2ZFjkH",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A lunch table doing that much work deserves the photo. Orlando delivered on that one.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfkewYZG3wy",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -703,7 +1532,7 @@
     },
     {
       "id": "18065208890795635",
-      "label": "description, chairs, photo, photograph",
+      "label": "description, photo, chairs, photograph",
       "group": 0,
       "snippet": "Take a Seat Friday favorites \ud83c\udfc6 3 seats that stopped my scro\u2026",
       "text": "Take a Seat Friday favorites \ud83c\udfc6 3 seats that stopped my scroll: Margaret Terry @storycatcher52 - sunset dock chairs Paul @londonlightcreative - S-curve bench from above 57 Chev nancychevalier - midnight bench rest Beautiful work, all of you. Reel: https://www.instagram.com/reel/Dfbi5_aj1KQ/",
