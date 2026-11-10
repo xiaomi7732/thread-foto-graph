@@ -4,30 +4,42 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (9)
+## Needs Reply (16)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
-- **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/DfkTsO4ChPn))
-  - Photo: Description: A dense carpet of yellow, white, and brown fallen leaves covers the ground in a park setting, with a small green sapling standing centrally amid the foliage. In the background, trees and a glimpse of a fence
-- **sirpatuunanen**:  ([link](https://www.threads.com/@sirpatuunanen/post/DfkTnfijBTy))
-  - Photo: Description: Rows of neatly lined wine and champagne glasses sit on a bar counter and shelving, illuminated by vibrant purple and pink under-cabinet lighting. The modern, moody atmosphere suggests a stylish lounge or upscale bar preparing for an evening event. Photograph read: The shot uses a low-angle perspective to emphasize the repetitive geometry of the glowing glassware under saturated purple light, creating a sleek and atmospheric mood. Photo type: Snapshot
+- **hannahbuzzybee**:  ([link](https://www.threads.com/@hannahbuzzybee/post/DfkWww4CNzg))
+  - Photo: Description: A snowy metal viewing platform and surrounding winter woodland are viewed directly through a heavy wire security fence dusted with fresh snow. The grid pattern creates a layered foreground that partially obscures the snowy forest canopy and stairs below. Photograph read: The tight framing behind a snow-dusted grid creates a moody, layered perspective under diffuse daylight. Photo type: Documentary
+- **nimaalaa1**:  ([link](https://www.threads.com/@nimaalaa1/post/DfkWb_8oZ1I))
+  - Photo: Description: This low-angle shot captures a curved architectural display wrapped in a repeating monogram pattern of interlocking "B" shapes in blue and white. The smooth, polished floor reflects the base of the cylindrical structure inside a modern, neutral-toned interior space. Photograph read: The upward-looking perspective creates a sense of scale, with even interior lighting emphasizing the repetitive graphic design and curved geometry. Photo type: Architectural snapshot
+- **paulsparks85**:  ([link](https://www.threads.com/@paulsparks85/post/DfkVjbbCD5B))
+  - Photo: Description: A low-angle shot captures an intricate mosaic floor made of black and white pebbles, framed by white structural arches that open up to a view of the sea under a bright blue sky. Photograph read: The low perspective emphasizes the textured pebble mosaic in the foreground, leading the eye naturally through the open arches toward the sunlit ocean vista. Photo type: Travel snapshot
+- **akmaleky**: Vintage Floor Tile ([link](https://www.threads.com/@akmaleky/post/DfkVf10n3cS))
+  - Photo: Description: A pair of black-rimmed glasses lies centrally against a background of patterned tiles with ornate motifs in muted tones of beige, gray, and blue. Photograph read: The flat lay composition places the glasses horizontally near the center under even, diffused lighting, creating a calm and orderly mood. Photo type: Snapshot
+- **visage159**:  ([link](https://www.threads.com/@visage159/post/DfkVW44iNNb))
+  - Photo: Description: A vibrant, densely-petaled orange flower is captured in close-up, centered against a soft, natural background. The bright warm tones create a cheerful and eye-catching subject for a nature post. Photograph read: The tight framing places the rich orange bloom front and center under diffuse, even light, creating a clean macro-style composition with a shallow depth of field. Photo type: Artistic
+- **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/DfkVOa6Gk8t))
+  - Photo: Description: A close-up shot displays stacked fabric swatches featuring various striped and solid patterns in a showroom or design studio setting. The textiles showcase different textures and colors, suitable for interior design or tailoring projects. Photograph read: The vertical orientation and shallow depth of field create a soft, focused emphasis on the center fabric rolls under neutral indoor lighting. Photo type: Documentary
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **consie18**:  ([link](https://www.threads.com/@consie18/post/DfkTbLAFDbZ))
-  - Photo: Description: An eye-level, slightly low-angle shot captures the ornate, teal-green cast-iron railing and stone balustrade of a bridge, extending deep into the frame. In the background, historic architecture, globe-topped streetlights, and a green-and-white striped pavilion with a fluttering flag under a clear blue sky suggest a scenic urban promenade or tourist destination. Photograph read: Strong linear perspective creates a deep sense of space, emphasized by diagonal shadows cast across the stone stairs by the railing under bright daylight. Photo type: Architectural travel photography
-    - Watch-outs: Highlights clipped to white on the globe streetlights and the pavilion roof edge.
-- **helskinky**:  ([link](https://www.threads.com/@helskinky/post/DfkSkomkYZM))
-  - Photo: Description: A close-up shot captures the underside of a large white shelf fungus attached to dark tree bark, highlighting its delicate, radiating gills. The intimate perspective offers a natural, exploratory feel suited for nature enthusiasts. Photograph read: The low-angle framing emphasizes the intricate gill structure, illuminated by soft, diffused light filtering through from behind. Photo type: Documentary
-    - Watch-outs: Highlights clipped to white along the top edge of the cap.
-- **rajesh__dixit**:  ([link](https://www.threads.com/@rajesh__dixit/post/DfkSfOeH7kF))
-  - Photo: Description: This straight-on shot captures the repetitive architectural grid of a concrete structure, featuring vertical columns and horizontal beams painted in shades of blue and gray. A thin diagonal wire cuts across the upper portion of the frame, providing an everyday detail to the geometric composition. Photograph read: The symmetrical arrangement of concrete pillars and beams creates a structured, grid-like composition under diffuse, even light. Photo type: Architectural
-    - Watch-outs: Diagonal wire cuts across the upper center of the frame.
-- **gteam0**: Pattern ([link](https://www.threads.com/@gteam0/post/DfkScRIm_0Z))
-  - Photo: Description: A circular mosaic featuring a vibrant sun design with red and yellow rays set against a blue background is inlaid into a gray stone patio. The overhead perspective captures the intricate tile work and symmetry
-- **bendlesmaid269**:  ([link](https://www.threads.com/@bendlesmaid269/post/DfkSQ98Clfe))
-  - Photo: Description: An overhead shot shows a circular metal grate featuring an intricate pattern of concentric rings and metal tubes set within a circular arrangement of cobblestones. The damp, moss-tinged stones frame the dark metallic insert, creating a textured public art or drainage feature. Photograph read: Captured from a high-angle, top-down perspective with even daylight, the image emphasizes the geometric contrast and repetitive circular patterns between the metallic grate and the surrounding cobblestones. Photo type: Documentary
+- **cm_kulick_soper**:  ([link](https://www.threads.com/@cm_kulick_soper/post/DfkUrf7oCMc))
+  - Photo: Description: A macro view of numerous dewdrops resting on a dark surface, captured in high-contrast black and white. The varying sizes of the water droplets create a textured pattern of highlights and shadows. Photograph read: The high-contrast monochrome lighting accentuates the reflective surfaces of the water drops against a deep, dark background, creating a moody and abstract composition. Photo type: Artistic
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DfkR__3FukO))
-  - Photo: Description: A cylindrical blue candle holder enclosed in a dark, interlocking geometric metal frame sits on a grey countertop. The interior glows with a warm, amber light, casting a cozy ambiance. Photograph read: Captured from a high angle in indoor lighting, the shot centers on the glowing candle holder with a shallow depth of field that softly bl
+- **titiesti2020**: It's mine ([link](https://www.threads.com/@titiesti2020/post/DfkUkpdH4iH))
+  - Photo: Description: A high-angle, top-down shot captures a person standing on a pebbled walkway featuring a large mosaic inlay of a flower-like or star-like shape made of pink and green stones. The viewer sees the wearer's brown shoes and the hem of a brownish-pink garment at the bottom edge. Photograph read: Taken from a direct overhead angle in even daylight, the composition centers on a textured stone mosaic set within dark asphalt pavement. Photo type: Snapshot
+- **jphbb**: Cross hatch ([link](https://www.threads.com/@jphbb/post/DfkUSdVFF8a))
+  - Photo: Description: A gray squirrel clings to the textured, woven bark of a large palm tree trunk outdoors. The background shows glimpses of a paved path and green foliage under natural daylight. Photograph read: The tight framing emphasizes the textured diagonal patterns of the palm bark juxtaposed against the perched squirrel under bright, natural daylight. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **momentulist**:  ([link](https://www.threads.com/@momentulist/post/DfkTzOQiPoQ))
+  - Photo: Description: A top-down view of a grid-patterned surface features vibrant yellow plastic tiles at the top transitioning down into teal-toned tiles, with small patches of green weeds growing through the perforations. The geometric layout and color gradient create an abstract pattern that could be shared on social media to highlight urban nature or industrial textures. Photograph read: The flat, top-down composition emphasizes the geometric repeating squares and color transition from yellow to teal under even lighting, creating an abstract
+- **aquintra**: Pattern. Repetition. Perspective. ([link](https://www.threads.com/@aquintra/post/DfkTy9FkzWW))
+  - Photo: Description: This black-and-white photograph captures a repeating geometric pattern of angled, louver-like architectural elements on a building
+- **helskinky**: I always look for that light, behind a tree, autumn sun on a mossed treetrunk and underneath mushrooms. Like a little light burns ([link](https://www.threads.com/@helskinky/post/DfkVN7Rke6S))
+  - _Replying to: Backlit gills like that are a gift - the pale fan against t…_
+- **rajesh__dixit**: It's a cable i forgot to remove in edit. I did notice it while shooting though ([link](https://www.threads.com/@rajesh__dixit/post/DfkUrVhHyhT))
+  - _Replying to: I think the straight-on framing was the right call - those …_
+- **gteam0**: Appreciate it. That was from a winery in Temecula,CA. I just saw it ([link](https://www.threads.com/@gteam0/post/DfkVSBmmjZ6))
+  - _Replying to: The spiral center against the blue rings is so tidy it look…_
+- **bendlesmaid269**: Actually it’s a cover, on a pond part of a sculpture show at a garden ([link](https://www.threads.com/@bendlesmaid269/post/DfkVHpcCjvS))
+  - _Replying to: A drain cover doing lacework - only a pattern hunter looks …_
 
 ### Take a Seat Friday favorites 🏆 3 seats that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfbjFBHlXPy))
 - **londonlightcreative**: If you know about Hogarth’s “Line of Beauty” you know. Many thanks for the feature. Paul 😎 ([link](https://www.threads.com/@londonlightcreative/post/Dfbx59AkdfU))
