@@ -1166,6 +1166,141 @@
       "target_post_url": "https://www.threads.com/@leighw.photos/post/DfeTzbBDrIw",
       "author_followers": 4523,
       "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18120759695281277",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "foutsphotos",
+      "target_post_id": "17918151213534657",
+      "target_post_url": "https://www.threads.com/@foutsphotos/post/Dfhglojm0NK",
+      "author_followers": 148,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18073800236770136",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "charhedman",
+      "target_post_id": "18122401103609611",
+      "target_post_url": "https://www.threads.com/@charhedman/post/Dfhm4snmw-t",
+      "author_followers": 1433,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "17936369727146114",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "leighw.photos",
+      "target_post_id": "18121346618066604",
+      "target_post_url": "https://www.threads.com/@leighw.photos/post/DfhYMBmDg8j",
+      "author_followers": 4528,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18399398641162648",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "photolivinglife",
+      "target_post_id": "18003121667954606",
+      "target_post_url": "https://www.threads.com/@photolivinglife/post/Dfh_Xy7ES9S",
+      "author_followers": 5403
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "17874560745640360",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "sarahlouisebphotos",
+      "target_post_id": "17871035088662586",
+      "target_post_url": "https://www.threads.com/@sarahlouisebphotos/post/Dfh6xLrCNln",
+      "author_followers": 3408
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18165510163497639",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "chrisdayphoto",
+      "target_post_id": "18109954478189657",
+      "target_post_url": "https://www.threads.com/@chrisdayphoto/post/Dfh5gB8DWfF",
+      "author_followers": 989
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18115063166174340",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "guntonarms",
+      "target_post_id": "18376370491213795",
+      "target_post_url": "https://www.threads.com/@guntonarms/post/Dfh5ychAYKc",
+      "author_followers": 4668
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18098097335689705",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "ph.kulikova",
+      "target_post_id": "18396753775160576",
+      "target_post_url": "https://www.threads.com/@ph.kulikova/post/DfhpLCygDwC",
+      "author_followers": 4314
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "17911063992575588",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "paulo.a.d.fernandes",
+      "target_post_id": "18075648425754389",
+      "target_post_url": "https://www.threads.com/@paulo.a.d.fernandes/post/Dfh-2YWDjYh",
+      "author_followers": 3028
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18019723640745016",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "closer",
+      "target_author": "bryanhansel",
+      "target_post_id": "17889886614485754",
+      "target_post_url": "https://www.threads.com/@bryanhansel/post/Dfh_O_BFnSY",
+      "author_followers": 18704
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18140687017553482",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "closer",
+      "target_author": "danielhedquistphoto",
+      "target_post_id": "18001149953822966",
+      "target_post_url": "https://www.threads.com/@danielhedquistphoto/post/Dfh9Vy2kdeq",
+      "author_followers": 15242
+    },
+    {
+      "posted_on": "2026-11-09",
+      "reply_id": "18030410015864939",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "flowstate_photography",
+      "target_post_id": "18114670768871821",
+      "target_post_url": "https://www.threads.com/@flowstate_photography/post/DfhszkFG766",
+      "author_followers": 3179
     }
   ]
 }
