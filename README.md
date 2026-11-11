@@ -308,6 +308,8 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
 
 ## Local Qwen vision on the Ubuntu AI box
 
+For an ordered on-box checklist, follow [AI_BOX_SETUP.md](AI_BOX_SETUP.md).
+
 The code supports `VISION_PROVIDER=gemini` (the unchanged default),
 `ollama` (local only), or `auto` (Ollama first, then Gemini when configured).
 It calls Ollama directly, not Open WebUI. Leave Ollama bound to
