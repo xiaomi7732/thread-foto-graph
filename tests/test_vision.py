@@ -1,9 +1,42 @@
 import tempfile
+import time
 import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
 
 from src import cache as media_cache, vision
+
+
+PHOTO_DESCRIPTION = (
+    "Description: A mountain at sunrise.\n"
+    "Photograph read: Warm side light emphasizes the ridges.\n"
+    "Photo type: Artistic landscape.\n"
+    "Watch-outs:"
+)
+
+
+def response(status=200, data=None, headers=None):
+    result = vision.requests.Response()
+    result.status_code = status
+    result.headers.update(headers or {})
+    result.url = "https://example.com/api"
+    result._content = b"photo"
+    if data is not None:
+        import json
+        result._content = json.dumps(data).encode()
+    return result
+
+
+def local_response(text=PHOTO_DESCRIPTION, **kwargs):
+    return response(data={"message": {"content": text}, "done": True, **kwargs})
+
+
+def gemini_response(text=PHOTO_DESCRIPTION):
+    return response(data={"candidates": [{"content": {"parts": [{"text": text}]}}]})
+
+
+def photo(media_id="photo"):
+    return {"id": media_id, "media_type": "IMAGE", "media_url": "https://example.com/photo.jpg"}
 
 
 class VisionPromptTests(unittest.TestCase):
@@ -84,7 +117,8 @@ class VisionPromptTests(unittest.TestCase):
 
         self.assertEqual(result[0], 1)
         self.assertEqual(cached_result[0], 0)
-        self.assertEqual(restored["sun"], raw)
+        self.assertEqual(media_cache.description_text(restored["sun"]), raw)
+        self.assertEqual(restored["sun"]["provider"], "gemini")
         self.assertEqual(item["photo_descriptions"], [legacy, "Description: Sun over water.", "Description: A lake.", None])
         self.assertEqual(item["watch_outs"], ["", "Sun disc clipped; flare streaks.", "", ""])
         self.assertEqual(cached_item, item)
@@ -134,6 +168,256 @@ class VisionPromptTests(unittest.TestCase):
         self.assertIn(vision.DESCRIPTION_UNAVAILABLE_PREFIX, first_description)
         self.assertEqual(item["photo_descriptions"], [first_description])
         describe_image.assert_called_once()
+
+
+class LocalVisionTests(unittest.TestCase):
+    def setUp(self):
+        patches = [
+            patch.object(vision.config, "GEMINI_API_KEY", "test-key"),
+            patch.object(vision.config, "OLLAMA_MODEL", "qwen3-vl:4b"),
+            patch.object(vision.time, "sleep"),
+            patch.object(vision.requests, "get", return_value=response(headers={"Content-Type": "image/jpeg"})),
+            patch.object(vision.requests, "post"),
+        ]
+        self.mocks = [self.enterContext(patcher) for patcher in patches]
+        _, _, self.sleep, self.get, self.post = self.mocks
+        self.cache = {}
+        self.attempted = {}
+        self.state = vision.VisionRun(provider="auto", gemini_budget=10, local_budget=10)
+
+    def describe(self, media_id="photo"):
+        item = photo(media_id)
+        result = vision.describe_images(
+            [item], self.cache, 10, state=self.state,
+            attempted_media_ids=self.attempted,
+        )
+        return item, result
+
+    def test_local_success_records_provenance_and_reuses_cache_without_cloud_key(self):
+        self.post.return_value = local_response()
+        with patch.object(vision.config, "GEMINI_API_KEY", ""):
+            item, result = self.describe()
+            entry = dict(self.cache["photo"])
+            self.describe()
+        self.assertEqual(result[0], 0)
+        self.assertEqual(item["photo_descriptions"], [PHOTO_DESCRIPTION.rsplit("\nWatch-outs:", 1)[0]])
+        self.assertEqual(entry["provider"], "ollama")
+        self.assertEqual(entry["model"], "qwen3-vl:4b")
+        self.assertTrue(entry["described_at"].endswith("Z"))
+        self.assertIsNone(entry["fallback_reason"])
+        self.assertEqual(self.cache["photo"], entry)
+        self.assertEqual(self.state.local_requests, 1)
+        self.assertEqual(self.state.gemini_requests, 0)
+        self.get.assert_called_once()
+        self.post.assert_called_once()
+        body = self.post.call_args.kwargs["json"]
+        self.assertEqual(body["messages"][0]["images"], ["cGhvdG8="])
+        self.assertEqual(body["messages"][0]["content"], vision.PROMPT)
+        self.assertFalse(body["stream"])
+        self.sleep.assert_not_called()
+
+    def test_local_failures_fall_back_using_one_download_and_actual_provider(self):
+        cases = [
+            (vision.requests.Timeout("private exception text"), "ollama_timeout"),
+            (vision.requests.ConnectionError("private exception text"), "ollama_unavailable"),
+            (response(404), "ollama_unavailable"),
+            (local_response(""), "ollama_invalid_output"),
+            (local_response(done_reason="length"), "ollama_invalid_output"),
+            (response(data={"message": None}), "ollama_invalid_output"),
+        ]
+        for failure, reason in cases:
+            with self.subTest(reason=reason, failure=failure):
+                self.state = vision.VisionRun(provider="auto")
+                self.cache, self.attempted = {}, {}
+                self.get.reset_mock()
+                self.post.reset_mock()
+                self.post.side_effect = [failure, gemini_response()]
+                _, result = self.describe()
+                entry = self.cache["photo"]
+                self.assertEqual(entry["provider"], "gemini")
+                self.assertEqual(entry["model"], vision.config.GEMINI_MODEL)
+                self.assertEqual(entry["fallback_reason"], reason)
+                self.assertNotIn("private exception", str(entry))
+                self.assertEqual(result[0], 1)
+                self.get.assert_called_once()
+                calls = self.post.call_args_list
+                self.assertEqual(
+                    calls[0].kwargs["json"]["messages"][0]["images"][0],
+                    calls[1].kwargs["json"]["contents"][0]["parts"][1]["inline_data"]["data"],
+                )
+
+    def test_unavailable_local_endpoint_is_not_retried_in_later_batches(self):
+        self.post.side_effect = [
+            vision.requests.ConnectionError(), gemini_response(), gemini_response(),
+        ]
+        self.describe("first")
+        self.describe("second")
+        self.assertEqual(self.state.local_requests, 1)
+        self.assertEqual(self.state.gemini_requests, 2)
+        self.assertEqual(self.cache["second"]["fallback_reason"], "ollama_unavailable")
+
+    def test_gemini_quota_does_not_stop_later_local_success(self):
+        self.post.side_effect = [local_response("invalid"), response(429), local_response()]
+        first, result = self.describe("first")
+        self.assertFalse(result[1])
+        self.assertEqual(first["photo_descriptions"], [None])
+        self.describe("second")
+        self.assertTrue(self.state.gemini_disabled)
+        self.assertEqual(self.state.gemini_requests, 1)
+        self.assertEqual(self.cache["second"]["provider"], "ollama")
+        self.assertNotIn("first", self.cache)
+
+    def test_separate_budgets_allow_the_other_provider_to_continue(self):
+        self.state.gemini_budget = 0
+        self.post.return_value = local_response()
+        self.describe("local")
+        self.assertEqual(self.cache["local"]["provider"], "ollama")
+        self.state.local_budget = self.state.local_requests
+        self.state.gemini_budget = 1
+        self.post.return_value = gemini_response()
+        self.describe("cloud")
+        self.assertEqual(self.cache["cloud"]["fallback_reason"], "ollama_budget_exhausted")
+        self.assertEqual((self.state.local_requests, self.state.gemini_requests), (1, 1))
+
+    def test_local_success_does_not_reset_gemini_failure_streak(self):
+        self.state.local_budget = 20
+        error = vision.requests.HTTPError(response=response(403))
+        with patch.object(vision, "describe_local") as local, patch.object(vision, "describe_image") as gemini:
+            local.side_effect = [
+                outcome for _ in range(5)
+                for outcome in (vision.OllamaResponseError(), PHOTO_DESCRIPTION)
+            ]
+            gemini.side_effect = error
+            for index in range(10):
+                self.describe(str(index))
+        self.assertEqual(self.state.non_retryable_failures, 5)
+        self.assertTrue(self.state.gemini_disabled)
+        self.assertFalse(self.state.stopped())
+        self.assertEqual(self.cache["9"]["provider"], "ollama")
+
+    def test_image_download_failure_calls_neither_provider_and_is_retryable(self):
+        self.get.side_effect = vision.requests.ConnectionError("url?access_token=secret")
+        item, _ = self.describe()
+        self.assertIn(vision.DESCRIPTION_UNAVAILABLE_PREFIX, item["photo_descriptions"][0])
+        self.assertEqual(self.cache, {})
+        self.assertEqual((self.state.local_requests, self.state.gemini_requests), (0, 0))
+        self.describe()
+        self.get.assert_called_once()
+        self.post.assert_not_called()
+
+    def test_source_host_outage_breaker_is_shared_across_batches(self):
+        self.get.side_effect = vision.requests.ConnectionError()
+        for index in range(7):
+            self.describe(str(index))
+        self.assertEqual(self.get.call_count, vision.MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES)
+        self.assertTrue(self.state.stopped())
+        self.post.assert_not_called()
+
+    def test_local_only_failure_never_calls_cloud_or_caches_error(self):
+        self.state.provider = "ollama"
+        self.post.side_effect = vision.requests.Timeout()
+        item, result = self.describe()
+        self.assertEqual(item["photo_descriptions"], [None])
+        self.assertTrue(result[1])
+        self.assertEqual(self.cache, {})
+        self.post.assert_called_once()
+
+    def test_explicit_local_refusal_is_not_bypassed_and_is_attributed(self):
+        self.post.return_value = local_response("I cannot describe this image.")
+        item, _ = self.describe()
+        self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+        self.assertEqual(self.cache["photo"]["provider"], "ollama")
+        self.assertEqual(self.state.gemini_requests, 0)
+        self.post.assert_called_once()
+
+    def test_deadline_leaves_uncached_photos_pending_but_reads_cached_records(self):
+        self.state.deadline = time.monotonic() - 1
+        self.cache["cached"] = media_cache.make_entry(PHOTO_DESCRIPTION, "ollama", "qwen3-vl:4b")
+        item, result = self.describe("uncached")
+        self.describe("cached")
+        self.assertTrue(result[1])
+        self.assertEqual(item["photo_descriptions"], [None])
+        self.get.assert_not_called()
+        self.post.assert_not_called()
+
+    def test_gemini_retries_count_against_budget_without_redownloading(self):
+        self.state.provider = "gemini"
+        self.state.gemini_budget = 2
+        self.post.side_effect = [response(429, headers={"Retry-After": "0"}), gemini_response()]
+        _, result = self.describe()
+        self.assertEqual(result[0], 2)
+        self.assertEqual(self.state.gemini_requests, 2)
+        self.get.assert_called_once()
+        self.assertIsNone(self.cache["photo"]["fallback_reason"])
+
+    def test_gemini_retry_wait_cannot_exceed_run_deadline(self):
+        self.post.return_value = response(503)
+        with patch.object(vision.time, "monotonic", return_value=90):
+            with self.assertRaises(vision.VisionDeadlineExceeded) as caught:
+                vision.describe_image("https://example.com/photo.jpg", deadline=100)
+        self.assertEqual(caught.exception.gemini_request_attempts, 1)
+        self.sleep.assert_not_called()
+
+    def test_mixed_cache_preserves_legacy_and_heals_invalid_structured_entries(self):
+        self.cache.update({
+            "legacy": "A mountain.",
+            "old-bug": {"description": vision.NO_DESCRIPTION_TEXT, "provider": "gemini"},
+        })
+        self.post.return_value = local_response()
+        self.describe("legacy")
+        self.describe("old-bug")
+        self.assertEqual(self.cache["legacy"], "A mountain.")
+        self.assertEqual(self.cache["old-bug"]["provider"], "ollama")
+        self.post.assert_called_once()
+
+    def test_description_is_saved_before_gemini_throttle(self):
+        self.state.provider = "gemini"
+        self.post.return_value = gemini_response()
+        progress = Mock()
+        self.sleep.side_effect = lambda _: self.assertTrue(progress.called)
+        vision.describe_images(
+            [photo()], self.cache, 10, state=self.state, on_progress=progress,
+        )
+        self.assertEqual(self.cache["photo"]["provider"], "gemini")
+        progress.assert_called_once()
+
+    def test_gemini_malformed_shape_is_uncached_and_explicit_block_is_attributed(self):
+        self.state.provider = "gemini"
+        self.post.side_effect = [
+            response(data={"candidates": None}),
+            response(data={"promptFeedback": {"blockReason": "SAFETY"}}),
+        ]
+        item, _ = self.describe("malformed")
+        self.assertNotIn("malformed", self.cache)
+        self.assertIn(vision.DESCRIPTION_UNAVAILABLE_PREFIX, item["photo_descriptions"][0])
+        self.describe("blocked")
+        self.assertEqual(self.cache["blocked"]["provider"], "gemini")
+        self.assertIn("blocked by Gemini", self.cache["blocked"]["description"])
+
+    def test_both_provider_breakers_leave_remaining_photos_retryable(self):
+        self.post.side_effect = lambda url, **_: (
+            local_response("invalid") if url.endswith("/api/chat") else response(403)
+        )
+        for index in range(7):
+            self.describe(str(index))
+        self.assertEqual(self.state.local_requests, 3)
+        self.assertEqual(self.state.gemini_requests, 5)
+        self.assertTrue(self.state.stopped())
+        self.assertEqual(self.cache, {})
+
+
+class VisionConfigTests(unittest.TestCase):
+    def test_provider_modes_enforce_only_required_keys(self):
+        with patch.object(vision.config, "GEMINI_API_KEY", ""):
+            for mode in ("ollama", "auto"):
+                with patch.object(vision.config, "VISION_PROVIDER", mode):
+                    vision.config.validate_vision()
+            with patch.object(vision.config, "VISION_PROVIDER", "gemini"):
+                with self.assertRaisesRegex(RuntimeError, "GEMINI_API_KEY"):
+                    vision.config.validate_vision()
+        with patch.object(vision.config, "VISION_PROVIDER", "typo"):
+            with self.assertRaises(ValueError):
+                vision.config.validate_vision()
 
 
 if __name__ == "__main__":

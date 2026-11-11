@@ -85,6 +85,8 @@ jobs:
           # Secrets: anything that grants access to an account/API.
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Hosted backup cannot reach the box's loopback Ollama endpoint.
+          VISION_PROVIDER: gemini
           # Variables: everything else (not sensitive on its own, just
           # config) -- set these under Settings -> Secrets and variables ->
           # Actions -> Variables. `||` supplies the same defaults config.py

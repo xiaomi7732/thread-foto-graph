@@ -81,6 +81,7 @@ class MainIterationTests(unittest.TestCase):
             non_retryable,
             *,
             attempted_media_ids,
+            state,
         ):
             photo_ids = {
                 photo["id"]
@@ -107,6 +108,15 @@ class MainIterationTests(unittest.TestCase):
 
         self.collect.assert_called_once()
         self.assertEqual(self.describe.call_count, 2)
+
+    def test_local_only_main_does_not_require_a_gemini_key_and_shares_run_state(self):
+        with patch.object(main.config, "VISION_PROVIDER", "ollama"), \
+             patch.object(main.config, "GEMINI_API_KEY", ""):
+            self.load_cache.return_value = {"thread-1": "cached description"}
+            self.assertEqual(main.main(), 0)
+        self.assertNotIn("GEMINI_API_KEY", [call.args[0] for call in self.require.call_args_list])
+        states = [call.kwargs["state"] for call in self.describe.call_args_list]
+        self.assertTrue(all(state is states[0] for state in states))
 
 
 if __name__ == "__main__":

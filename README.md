@@ -1,7 +1,8 @@
 # Thread Foto Graph
 
 Builds a daily **topic graph** of your Threads (Meta) posts and replies from
-the last `LOOKBACK_DAYS` days (4 by default), describing every photo in text (via Gemini Flash, free tier)
+the last `LOOKBACK_DAYS` days (4 by default), describing every photo in text
+(via Gemini by default, or local Ollama/Qwen with optional Gemini fallback)
 so **AI can read the compact text tree (`data/topics.md`) instead of
 re-pulling raw images into its context on every response** — this is what was
 burning AI's token budget.
@@ -304,6 +305,185 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
 5. Save. Ensure your git credentials for this repo are cached (e.g., via the
    Git Credential Manager) so `git push` in the task doesn't prompt for a
    password.
+
+## Local Qwen vision on the Ubuntu AI box
+
+The code supports `VISION_PROVIDER=gemini` (the unchanged default),
+`ollama` (local only), or `auto` (Ollama first, then Gemini when configured).
+It calls Ollama directly, not Open WebUI. Leave Ollama bound to
+`127.0.0.1:11434`; no additional firewall rule or public API is needed.
+
+The implementation is ready for on-box setup. Quality evaluation was
+explicitly skipped: no equivalent-to-Gemini quality or GPU throughput is
+claimed, and installation, live inference, reboot, and timer checks still
+need to happen on the box.
+
+### First on-box run (no publishing or timer)
+
+Run these commands on Ubuntu, not in Windows PowerShell:
+
+```bash
+sudo apt update
+sudo apt install -y git python3-venv
+git clone --branch plan/qwen-vision-fallback \
+  https://github.com/xiaomi7732/thread-foto-graph.git ~/thread-foto-graph
+cd ~/thread-foto-graph
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+cp .env.example .env
+chmod 600 .env
+```
+
+Edit `.env` with the Threads credentials, username, and:
+
+```dotenv
+VISION_PROVIDER=auto
+OLLAMA_BASE_URL=http://127.0.0.1:11434
+OLLAMA_MODEL=qwen3-vl:4b
+GEMINI_API_KEY=your-key-if-cloud-fallback-is-wanted
+MAX_ROOT_THREADS=2
+MAX_ITERATIONS=1
+MAX_LOCAL_VISION_REQUESTS_PER_RUN=5
+MAX_VISION_REQUESTS_PER_RUN=5
+```
+
+Leave `GEMINI_API_KEY` blank to disable cloud fallback, or use
+`VISION_PROVIDER=ollama` to prohibit cloud requests even if a key is present.
+Preserve the existing Gemini model setting when enabling fallback.
+
+While both copies of the pipeline are stopped, privately copy only
+`cache/media_cache.json` from an existing clone into the new clone's `cache`
+directory, if available. Git does not transfer it. Do not copy or commit the
+entire cache directory; `token_store.json` contains refreshed token state.
+The hosted workflow's cache is independent.
+
+```bash
+curl -fsS http://127.0.0.1:11434/api/tags
+ollama list
+bash run_daily.sh
+```
+
+Ensure `qwen3-vl:4b` is installed (use `ollama pull qwen3-vl:4b` if needed).
+The wrapper takes the same local lock for manual and scheduled runs. Its
+default mode neither updates Git nor commits/pushes; inspect the generated
+files before enabling publishing. A second run should reuse cached photos.
+Review or commit intended output changes before using `--publish`, which
+requires a clean checkout.
+
+### Provider behavior, limits, and provenance
+
+- Each uncached photo is downloaded once; a local failure reuses the bytes
+  for Gemini. Local inference gets one attempt per photo, with separate
+  connect/read timeouts (3s/180s by default). Endpoint/timeout failures disable
+  Ollama for the rest of the run; three consecutive malformed outputs also
+  disable it. Explicit refusals are not sent to another provider.
+- Gemini retains its existing retries and 5s throttling. Its quota,
+  authentication, or outage breaker does not disable healthy local inference.
+  Failures remain uncached/retryable; moderation outcomes retain their
+  existing unavailable semantics and are cached with provenance.
+- `MAX_VISION_REQUESTS_PER_RUN` counts Gemini POST attempts, including retries
+  (default 1400). `MAX_LOCAL_VISION_REQUESTS_PER_RUN` separately counts local
+  attempts (default 200). Exhausting one budget does not consume the other.
+  These are provisional operational limits, not benchmark results.
+- `VISION_RUN_TIMEOUT_SECONDS` defaults to 2700s and bounds new vision work
+  and retry waits. Requests already in flight can finish within their
+  connect/read timeouts. The Linux wrapper adds a 3000s hard backstop
+  (`PIPELINE_TIMEOUT_SECONDS`, supplied in the process environment), and the
+  sample systemd service has a 55-minute limit.
+- New cache entries contain `description`, `provider` (`ollama` or `gemini`),
+  `model`, UTC `described_at`, and a sanitized `fallback_reason` code.
+  Legacy string entries still work and have `legacy/unknown` attribution.
+  Cache hits never replace the original provenance or regenerate descriptions.
+  The model name is the configured tag, not a pinned model-weight digest.
+- Only description text reaches normal action lists, Watch-outs handling,
+  and topic clustering. Model attribution is private review metadata.
+
+### Private quality-review report
+
+```bash
+# Offline: no Threads or vision requests.
+.venv/bin/python -m src.vision_review
+# Refresh post/photo references using Threads, without calling vision.
+.venv/bin/python -m src.vision_review --refresh
+# Fetch current references and serve image previews on this machine only.
+.venv/bin/python -m src.vision_review --serve
+```
+
+The static report is `cache/vision-review.html`, explicitly gitignored and
+excluded from publishing. It shows descriptions, provider/model, generation
+time, fallback reason, legacy/unknown attribution, and pending/moderated
+states. Failed uncached attempts appear pending; consult run logs for the
+failure cause.
+
+Open `http://127.0.0.1:8091` in a browser on the machine running `--serve`.
+The server is loopback-only, has no directory browsing, and proxies current
+photo previews without writing image bytes or signed media URLs to disk.
+The static report has post references but no previews. Expired previews
+require restarting with refreshed references. Do not expose this private
+review server through the LAN firewall or public router.
+
+### Git publishing and optional user timer
+
+Configure Git identity and a protected credential helper first. A fine-grained
+PAT needs Contents read/write for this repository and permission under the
+branch rules. Never put it in `.env`, scripts, remote URLs, or shell history;
+do not use Git's plaintext credential store. If GitHub CLI is installed,
+`gh auth login --git-protocol https` followed by `gh auth setup-git` is an
+option (use its secure credential storage, not insecure storage).
+
+```bash
+bash run_daily.sh --publish
+```
+
+Publishing uses the checked-out branch's upstream, **not hard-coded main**.
+Choose the branch deliberately; keep deployment testing on the feature
+branch. The wrapper requires a clean checkout, rejects pre-existing unpushed
+commits, fast-forwards before processing, and stages only generated outputs.
+A pipeline failure does not publish. Push rejection gets bounded fetch/rebase
+recovery; conflicting outputs abort the rebase and retain the local commit
+and cache for manual recovery. Never force-push to resolve such failures.
+
+After live verification, remove the small smoke-run caps from `.env` or set
+the desired production values. The user-level systemd templates assume the
+clone is `~/thread-foto-graph`:
+
+```bash
+mkdir -p ~/.config/systemd/user
+cp deploy/thread-foto-graph.{service,timer} ~/.config/systemd/user/
+systemctl --user daemon-reload
+# Manual service check before enabling the timer:
+systemctl --user start thread-foto-graph.service
+journalctl --user -u thread-foto-graph.service -n 100 --no-pager
+systemctl --user enable --now thread-foto-graph.timer
+systemctl --user list-timers thread-foto-graph.timer
+```
+
+The sample timer runs at 06:00 local time with up to five minutes of jitter.
+For unattended operation after logout/reboot, enable lingering for your
+account (`sudo loginctl enable-linger "$USER"`), then verify the timer after
+reboot. Customize paths/cadence before installation if needed. No timer is
+installed or enabled by the code itself.
+
+Stop local publishing before triggering the hosted Gemini-only manual
+backup: `systemctl --user stop thread-foto-graph.timer`, then wait for or stop
+any active service/manual run. GitHub concurrency does not lock the box.
+If the whole box is offline, provider fallback cannot run; automatic machine
+takeover is not implemented. To roll back provider selection, set
+`VISION_PROVIDER=gemini` and provide a valid key; existing cached strings and
+records remain readable by this version. Old code predating structured
+records needs a separate legacy cache, not the new mixed-format cache.
+
+### Development checks
+
+```bash
+python -m unittest discover -s tests
+bash -n run_daily.sh
+```
+
+Linux-wrapper tests use temporary Git remotes and mocked inference/locking/
+timeout commands; they do not contact Threads, Ollama, Gemini, or GitHub.
+They verify publishing and failure recovery, not an actual systemd deployment
+or GPU/model quality.
 
 ## Running on demand (GitHub Actions)
 
