@@ -1436,6 +1436,53 @@
       "target_post_id": "18013932143991135",
       "target_post_url": "https://www.threads.com/@heidi.undefined/post/DfklFXCDdfG",
       "author_followers": 1690
+    },
+    {
+      "posted_on": "2026-11-11",
+      "reply_id": "18472629010184330",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "charhedman",
+      "target_post_id": "18054131006606460",
+      "target_post_url": "https://www.threads.com/@charhedman/post/DfmwoiIm4a0",
+      "author_followers": 1434,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-11",
+      "reply_id": "18185442931438263",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "foutsphotos",
+      "target_post_id": "18108461561203381",
+      "target_post_url": "https://www.threads.com/@foutsphotos/post/DfmhJj8G7Z2",
+      "author_followers": 153,
+      "return_visit": true
+    },
+    {
+      "posted_on": "2026-11-11",
+      "reply_id": "18149067496577264",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "stews_world_photos",
+      "target_post_id": "18114916501871768",
+      "target_post_url": "https://www.threads.com/@stews_world_photos/post/Dfl1KxZDZ5C",
+      "author_followers": 990
+    },
+    {
+      "posted_on": "2026-11-11",
+      "reply_id": "18095425049479282",
+      "source": "morning-briefing",
+      "status": "posted",
+      "style": "question",
+      "target_author": "paulo.a.d.fernandes",
+      "target_post_id": "18175314679415293",
+      "target_post_url": "https://www.threads.com/@paulo.a.d.fernandes/post/Dfkk303DhVc",
+      "author_followers": 3042,
+      "return_visit": true
     }
   ]
 }
