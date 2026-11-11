@@ -4,9 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (11)
+## Needs Like (14)
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
+- picsall: Noon. ([link](https://www.threads.com/@picsall/post/DflXR9rmnP7))
 - cgearhardt: Sacred Geometry ([link](https://www.threads.com/@cgearhardt/post/Dfk7STODwQ9))
 - susantodd535: Mango cheesecake ([link](https://www.threads.com/@susantodd535/post/Dfk7TMVgbfk))
 - koza.100: After ([link](https://www.threads.com/@koza.100/post/Dfk9ElVjvVr))
@@ -15,6 +16,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - jeanrwestcott: Bee distance ([link](https://www.threads.com/@jeanrwestcott/post/Dfk8waWIPo7))
 - yvetime: For Christmas ([link](https://www.threads.com/@yvetime/post/Dfk9afQDS-N))
 - 2killamockingbird: Beautiful... ([link](https://www.threads.com/@2killamockingbird/post/DfkvXvfjqBV))
+- unmitigatedme: Thank you! ([link](https://www.threads.com/@unmitigatedme/post/DflasTeEd1U))
+- reef_ausic: After watering 🫢🫢🫢 ([link](https://www.threads.com/@reef_ausic/post/DfloChuknGY))
 - nimaalaa1: Thank you 🤗💕 ([link](https://www.threads.com/@nimaalaa1/post/DfkiJKoiPti))
 - matmarian57: Ainakin joku ([link](https://www.threads.com/@matmarian57/post/Dfkd15mCESK))
 - sirpatuunanen: Muutama sata 😃 ([link](https://www.threads.com/@sirpatuunanen/post/DfkhDNnDFYb))
