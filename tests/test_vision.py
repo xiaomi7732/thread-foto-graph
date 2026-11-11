@@ -363,6 +363,9 @@ class LocalVisionTests(unittest.TestCase):
             "I can\u2019t describe this image due to safety restrictions.",
             "I cannot safely describe this image due to content policy.",
             "Sorry, but I cannot ethically assist with this request.",
+            "I apologize, but I cannot describe this image.",
+            "Unfortunately, I can't help with this request.",
+            "I can not describe this image.",
             "Description: I cannot describe this image due to content policy.",
             "Description: I cannot describe this image due to content policy.\n"
             "Photograph read:\nPhoto type:\nWatch-outs:",
@@ -373,6 +376,7 @@ class LocalVisionTests(unittest.TestCase):
         )
         for index, text in enumerate(texts):
             with self.subTest(text=text):
+                self.state = vision.VisionRun(provider="auto")
                 self.post.reset_mock()
                 self.post.return_value = local_response(text)
                 item, _ = self.describe(str(index))

@@ -646,8 +646,8 @@ _LOCAL_SECTIONS = re.compile(
     re.DOTALL,
 )
 _LOCAL_REFUSAL = re.compile(
-    r"\A(?:(?:I'm |I am )?sorry[,.!:\s]+(?:but\s+)?)?"
-    r"(?:I cannot|I can't|I won't|I will not|I'm unable to|I am unable to|"
+    r"\A(?:(?:(?:I'm |I am )?sorry|I apologi[sz]e|unfortunately)[,.!:\s]+(?:but\s+)?)?"
+    r"(?:I can ?not|I can't|I won't|I will not|I'm unable to|I am unable to|"
     r"I am not able to|I'm not able to|I must decline to)\s+"
     r"(?:(?:\w+ly|in good conscience)\s+){0,3}"
     r"(?:comply|help|assist|provide|describe|analyze|analyse|process|fulfil|fulfill)\b",
