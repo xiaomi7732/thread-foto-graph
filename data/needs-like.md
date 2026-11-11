@@ -4,9 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (18)
+## Needs Like (20)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
+- 2killamockingbird: 🙏🙏🙏🙏 thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/DfnDpHXAF9l))
 - syldelteglia: Thank you!🫶 ([link](https://www.threads.com/@syldelteglia/post/Dfm9tt6AM1O))
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
@@ -15,6 +16,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
 - lucillepippetti: Thank you ([link](https://www.threads.com/@lucillepippetti/post/Dfl6JBRlYq9))
 - picsall: Noon. ([link](https://www.threads.com/@picsall/post/DflXR9rmnP7))
+- blackhawkdavej: Celosia ([link](https://www.threads.com/@blackhawkdavej/post/DfnEYqflhXY))
 - cgearhardt: Sacred Geometry ([link](https://www.threads.com/@cgearhardt/post/Dfk7STODwQ9))
 - susantodd535: Mango cheesecake ([link](https://www.threads.com/@susantodd535/post/Dfk7TMVgbfk))
 - koza.100: After ([link](https://www.threads.com/@koza.100/post/Dfk9ElVjvVr))
