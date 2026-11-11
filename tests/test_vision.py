@@ -363,6 +363,9 @@ class LocalVisionTests(unittest.TestCase):
             "I can\u2019t describe this image due to safety restrictions.",
             "I cannot safely describe this image due to content policy.",
             "Sorry, but I cannot ethically assist with this request.",
+            "Description: I cannot describe this image due to content policy.",
+            "Description: I cannot describe this image due to content policy.\n"
+            "Photograph read:\nPhoto type:\nWatch-outs:",
             "I'm unable to help with this request.",
             PHOTO_DESCRIPTION.replace(
                 "A mountain at sunrise.", "I cannot comply with this request due to content policy.",

@@ -685,7 +685,7 @@ def describe_local(image_data: tuple[str, str], deadline: float) -> str:
         text = message.get("content", "").strip()
         normalized = text.replace("\r\n", "\n").replace("\u2019", "'").replace("\u2018", "'")
         match = _LOCAL_SECTIONS.fullmatch(normalized)
-        refusal_text = match.group(1).strip() if match else normalized
+        refusal_text = re.sub(r"\ADescription:\s*", "", normalized, count=1, flags=re.IGNORECASE)
         if _LOCAL_REFUSAL.match(refusal_text):
             raise OllamaRefusalError("Ollama declined to describe this photo")
         if data.get("done") is not True or data.get("done_reason") == "length":
