@@ -1483,6 +1483,108 @@
       "target_post_url": "https://www.threads.com/@paulo.a.d.fernandes/post/Dfkk303DhVc",
       "author_followers": 3042,
       "return_visit": true
+    },
+    {
+      "author_followers": 2126,
+      "posted_on": "2026-11-11",
+      "reply_id": "18497822044107094",
+      "return_visit": true,
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "srravi",
+      "target_post_id": "18201862624378139",
+      "target_post_url": "https://www.threads.com/@srravi/post/DfmNExxGpa3"
+    },
+    {
+      "author_followers": 1690,
+      "posted_on": "2026-11-11",
+      "reply_id": "18101920325545935",
+      "return_visit": true,
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "heidi.undefined",
+      "target_post_id": "17996390346020820",
+      "target_post_url": "https://www.threads.com/@heidi.undefined/post/DfmWCmGivaz"
+    },
+    {
+      "author_followers": 5931,
+      "posted_on": "2026-11-11",
+      "reply_id": "18061209146562721",
+      "return_visit": true,
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "as_it_is_____",
+      "target_post_id": "17956122543293747",
+      "target_post_url": "https://www.threads.com/@as_it_is_____/post/DfnI3ydDVer"
+    },
+    {
+      "author_followers": 8295,
+      "posted_on": "2026-11-11",
+      "reply_id": "18247925305314212",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "tanya_kreil",
+      "target_post_id": "17961284445254759",
+      "target_post_url": "https://www.threads.com/@tanya_kreil/post/DfnC6t0jr16"
+    },
+    {
+      "author_followers": 2766,
+      "posted_on": "2026-11-11",
+      "reply_id": "18117890414093484",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "nogreyareaphoto",
+      "target_post_id": "18097357973155229",
+      "target_post_url": "https://www.threads.com/@nogreyareaphoto/post/Dfmiv5hFp3r"
+    },
+    {
+      "author_followers": 1458,
+      "posted_on": "2026-11-11",
+      "reply_id": "18134529751751990",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "32groove",
+      "target_post_id": "18036073730910075",
+      "target_post_url": "https://www.threads.com/@32groove/post/DfnIyZcmC3s"
+    },
+    {
+      "author_followers": 1371,
+      "posted_on": "2026-11-11",
+      "reply_id": "18121974974100633",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "kristinlraught",
+      "target_post_id": "18101877011385823",
+      "target_post_url": "https://www.threads.com/@kristinlraught/post/DfnIAS9GWK2"
+    },
+    {
+      "author_followers": 4092,
+      "posted_on": "2026-11-11",
+      "reply_id": "18119744135091506",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "question",
+      "target_author": "annushka_in_nz",
+      "target_post_id": "18021698936736118",
+      "target_post_url": "https://www.threads.com/@annushka_in_nz/post/DfnFCOkkxC0"
+    },
+    {
+      "author_followers": 12702,
+      "posted_on": "2026-11-11",
+      "reply_id": "17933450721166961",
+      "source": "outward-batch",
+      "status": "posted",
+      "style": "closer",
+      "target_author": "vuralyalim",
+      "target_post_id": "18130271134855990",
+      "target_post_url": "https://www.threads.com/@vuralyalim/post/DfnDTrIgOl_"
     }
   ]
 }
