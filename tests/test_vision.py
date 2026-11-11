@@ -61,16 +61,7 @@ class VisionPromptTests(unittest.TestCase):
         description, attempts = vision.describe_image("https://example.com/photo.jpg")
 
         prompt = post.call_args.kwargs["json"]["contents"][0]["parts"][0]["text"]
-        self.assertIn("Description:", prompt)
-        self.assertIn("Photograph read:", prompt)
-        self.assertIn("Photo type:", prompt)
-        self.assertIn("Watch-outs:", prompt)
-        self.assertIn("Empty is a valid and common value", prompt)
-        self.assertIn("one or two short clauses of observable facts only", prompt)
-        self.assertIn("no scores, grades, overall verdicts, praise, blame", prompt)
-        self.assertIn("intent cannot be determined from the image", prompt)
-        self.assertIn("snapshot, artistic, documentary, or storytelling", prompt)
-        self.assertIn("composition, light, and mood", prompt)
+        self.assertEqual(prompt, vision.PROMPT)
         self.assertEqual(description, text)
         self.assertEqual(attempts, 1)
         post.assert_called_once()
@@ -91,6 +82,21 @@ class VisionPromptTests(unittest.TestCase):
             with self.subTest(raw=raw):
                 self.assertEqual(vision.split_watch_outs(raw), (description, notes))
 
+    def test_no_concern_markers_are_not_watch_outs_but_observations_are_preserved(self):
+        for raw, expected in [
+            ("None observed.", ""),
+            ("  NONE OBSERVED \r\n", ""),
+            ("None.", ""),
+            ("None observed in the sky; the subject is blurred.",
+             "None observed in the sky; the subject is blurred."),
+        ]:
+            with self.subTest(raw=raw):
+                description = f"Description: A mountain.\nWatch-outs: {raw}"
+                self.assertEqual(
+                    vision.split_watch_outs(description),
+                    ("Description: A mountain.", expected),
+                )
+
     @patch.object(vision.time, "sleep")
     @patch.object(vision, "describe_image")
     def test_watch_outs_survive_cache_round_trip_and_keep_carousel_alignment(self, describe_image, sleep):
@@ -105,7 +111,7 @@ class VisionPromptTests(unittest.TestCase):
                 for media_id in ("legacy", "sun", "empty", "pending")
             ]},
         }
-        cache = {"legacy": legacy, "empty": "Description: A lake.\nWatch-outs:"}
+        cache = {"legacy": legacy, "empty": "Description: A lake.\nWatch-outs: None observed."}
         with tempfile.TemporaryDirectory() as directory:
             with patch.object(media_cache, "CACHE_PATH", Path(directory) / "cache.json"):
                 result = vision.describe_images(
@@ -126,7 +132,7 @@ class VisionPromptTests(unittest.TestCase):
 
     @patch.object(vision, "describe_image")
     def test_legacy_and_pending_photos_do_not_gain_watch_outs(self, describe_image):
-        for cache in ({}, {"photo": "A mountain."}):
+        for cache in ({}, {"photo": "A mountain."}, {"photo": PHOTO_DESCRIPTION + "None observed."}):
             with self.subTest(cache=cache):
                 item = {
                     "id": "photo", "media_type": "IMAGE",

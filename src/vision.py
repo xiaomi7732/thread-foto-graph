@@ -28,28 +28,38 @@ GEMINI_URL_TMPL = (
 )
 
 PROMPT = (
-    "Respond in plain text using exactly these four labeled sections:\n"
-    "Description: Describe this photo in one or two concise sentences, focusing "
-    "on the subject matter and any context clues relevant to a social media post.\n"
-    "Photograph read: Give a brief photography-focused interpretation in one "
-    "concise sentence, noting composition, light, and mood where relevant. "
-    "Base the read on visible details; do not invent camera settings or intent.\n"
-    "Photo type: Classify the overall style or feel in one concise phrase "
-    "(for example, snapshot, artistic, documentary, or storytelling). Choose "
-    "the closest fit based only on what is visible; do not invent intent.\n"
-    "Watch-outs: Leave this section empty unless there is a clearly visible "
-    "technical observation relevant before praising a photographic choice "
-    "(such as clipped highlights, flare, focus softness, a tilted horizon, "
-    "or background clutter overlapping the subject). Empty is a valid and "
-    "common value; do not search for faults. Use at most one or two short "
-    "clauses of observable facts only: no scores, grades, overall verdicts, "
-    "praise, blame, or good/bad composition judgments. Do not prescribe fixes. "
-    "When softness, high-key exposure, or motion blur could be deliberate, "
-    "state that intent cannot be determined from the image. For example: "
-    "'Sun disc clipped to white with halo and flare streaks' or "
-    "'Soft overall; intentional or missed focus not determinable from the image'. "
-    "These notes are private drafting input, never text to quote to the photographer.\n"
-    "Do not mention that you are an AI or that this is a described image."
+    "Describe the attached photograph and record visible technical limitations.\n"
+    "Be factual: neither default to praise nor invent faults.\n\n"
+    "Use exactly these four sections, in this order:\n\n"
+    "Description:\n"
+    "Describe the visible subject and setting in one or two sentences.\n"
+    "If blur or darkness prevents identification, state that uncertainty.\n\n"
+    "Photograph read:\n"
+    "Briefly describe the visible composition, lighting, and rendering.\n"
+    "Do not infer the photographer's intent or invent camera settings.\n"
+    "Do not infer underexposure, limited dynamic range, or missed focus merely\n"
+    "because the image looks blurred or low-contrast.\n\n"
+    "Photo type:\n"
+    "Give one short style classification. Use \"Unclear\" if the image does not\n"
+    "provide enough evidence.\n\n"
+    "Watch-outs:\n"
+    "Report up to two visible conditions that limit subject clarity, detail,\n"
+    "or readability. Identify the affected area and the observable effect.\n\n"
+    "IMPORTANT CONSISTENCY RULE:\n"
+    "If Description or Photograph read mentions a technical limitation, such\n"
+    "as whole-image blur, an indistinct main subject, or important detail\n"
+    "obscured by brightness or darkness, include that same limitation here.\n"
+    "Do not write \"None observed\" while describing such a limitation elsewhere.\n\n"
+    "Intent and observation are separate:\n"
+    "\"The entire image appears blurred; fine detail is not distinguishable\"\n"
+    "is a valid watch-out even when the blur might be artistic.\n"
+    "Do not omit an observation because its cause or intent is unknown.\n\n"
+    "Do not mistake ordinary background blur, a small bright sun disc, or\n"
+    "readable silhouettes for defects by themselves. Describe an actual\n"
+    "visible limitation, not merely the presence of blur or extreme tones.\n\n"
+    "If no clear limitation is visible, write \"None observed.\"\n"
+    "Do not give scores, overall good/bad verdicts, fixes, or follow-up questions.\n"
+    "Output only the four sections."
 )
 
 # Free tier is ~10-15 requests/minute; stay comfortably under that.
@@ -629,7 +639,10 @@ def split_watch_outs(description: str | None) -> tuple[str | None, str]:
     if not match:
         return description, ""
     text = (description[:match.start()] + description[match.end():]).strip()
-    return text, " ".join(match.group(1).split())
+    notes = " ".join(match.group(1).split())
+    if re.fullmatch(r"none(?: observed)?\.?", notes, re.IGNORECASE):
+        notes = ""
+    return text, notes
 
 
 class OllamaResponseError(requests.RequestException):

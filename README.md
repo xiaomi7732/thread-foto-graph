@@ -405,6 +405,12 @@ requires a clean checkout.
   The model name is the configured tag, not a pinned model-weight digest.
 - Only description text reaches normal action lists, Watch-outs handling,
   and topic clustering. Model attribution is private review metadata.
+- The pilot prompt asks both providers to carry visible limitations into
+  Watch-outs consistently, without assuming artistic intent. `None observed`
+  is treated as no warning, not displayed as a concern. Existing cached
+  descriptions are not regenerated when the prompt changes; pilot the new
+  wording on uncached photos. This is a prompt change, not a guarantee of
+  accurate technical assessment.
 
 ### Private quality-review report
 
