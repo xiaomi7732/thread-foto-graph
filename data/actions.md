@@ -6,17 +6,27 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (26)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- **katiep_0_0**:  ([link](https://www.threads.com/@katiep_0_0/post/DfmykWVDkog))
-  - Photo: Description: Two red-and-white striped industrial chimneys rise behind a low stone wall along an empty, sunlit asphalt road. The hazy sky and bright overhead sun cast a warm, sepia-toned atmosphere over the urban streetscape. Photograph read: The vertical composition uses the leading lines of the road to draw the eye toward the distant chimneys under strong backlight,
-- **remondiazart**:  ([link](https://www.threads.com/@remondiazart/post/DfmyfsmllMz))
-  - Photo: Description: A shot from behind shows an older person with white hair, wearing a dark grey shirt, positioned beside a bright red balloon against a softly blurred natural background. Photograph read: Captured in soft, diffused light with a shallow depth of field, the composition places the person and the vibrant red balloon as contrasting focal points against a muted green and grey backdrop. Photo type:
-- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Dfmx6IEGjEw))
-  - Photo: Description: A vibrant red ginger flower stands prominently against broad green leaves, positioned beside a wire mesh fence and a light grey wall. The urban outdoor setting contrasts natural flora with industrial building elements. Photograph read: The shot uses a centered vertical composition under soft, even daylight, creating a clean contrast between the bright red bloom and neutral grey background. Photo type: Snapshot
-- **silmarillioncollector**: It's probably the Atlases that come down most often, of these; the Bestiary isn't an everyday read, but can be great fun to look through. ([link](https://www.threads.com/@silmarillioncollector/post/DfmyM0-jBXE))
-  - _Replying to: I think that red Bestiarum label is doing the heavy lifting…_
+- **lluvia3487**:  ([link](https://www.threads.com/@lluvia3487/post/Dfm0W33m1J1))
+  - Photo: Description: A vibrant, fiery red sunrise or sunset fills the textured cloud cover above a suburban street. Silhouetted power
+- **abnerabel125**: Here’s my red ([link](https://www.threads.com/@abnerabel125/post/Dfm0P6Ymzh6))
+  - Photo: Description: A close-up photograph shows a deep red, unopened rosebud covered in water droplets against a blurred green and gray background. Photograph read: The tight framing emphasizes the texture of the glistening petals and sepals under soft, even daylight, creating a calm and natural mood. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **maureenozerimages**:  ([link](https://www.threads.com/@maureenozerimages/post/Dfm0OqkDY66))
+  - Photo: Description: Three mannequins in vibrant red evening gowns stand displayed in a store window, casting distinct shadows against a dark interior. A concrete sidewalk stretches across the foreground, marked by bright linear reflections and sharp shadows from overhead architecture. Photograph read: The wide shot is structured around the central storefront frame, with bright overhead sunlight casting sharp architectural shadows and creating linear lens flare patterns on the pavement. Photo type: Snapshot
+    - Watch-outs: Sunlit concrete highlights clipped to white; lens flare pattern in the foreground.
+- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/Dfm0ILkgFaw))
+  - Photo: Description: A bright red wooden door with a brass lion-head knocker and house number 14 stands out against weathered beige stone walls. Photograph read: The straight-on composition centers the vivid red door within muted stone masonry, captured under soft, even daylight. Photo type: Documentary
+- **joaquinencinasphotography**:  ([link](https://www.threads.com/@joaquinencinasphotography/post/DfmzZJTG8zA))
+  - Photo: Description: A person in an elaborate costume and large hat walks along a city street as onlookers photograph the scene with their phones. Photograph read: Captured in a full-length shot, the subject moves through the frame under natural daylight while several spectators stand along the curb. Photo type: Snapshot
+- **remalysh**: Scoreboard ([link](https://www.threads.com/@remalysh/post/DfmzTv4oFgN))
+  - Photo: Description: A large electronic sports scoreboard for West Allegheny stands against a dusky twilight sky tinged with pink and blue clouds. The digital display shows an American flag graphic, team scores of zero, and a game clock reading 40:00. Photograph read: Captured from a low angle, the vertically centered scoreboard is illuminated by its own display against the cool, ambient light of dusk. Photo type: Documentary
+- **remalysh**: Kennywood Park - Pittsburgh Pennsylvania USA ([link](https://www.threads.com/@remalysh/post/Dfmzyy9oKRM))
+  - Photo: Description: A teal roller coaster filled with passengers climbs diagonally upward against a clear blue sky dotted with puffy white clouds, with green trees framing the lower left corner. Photograph read: Captured from a low angle with a vertical diagonal composition, bright daylight highlights the colorful riders and track against a crisp blue sky. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - _Replying to: The Pattern Tuesday favorites are live - five patterns that…_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
 - **charhedman**: Yes. It takes away from the pattern. With B/w, you're just looking at the shapes, and the tones. ([link](https://www.threads.com/@charhedman/post/Dfmr484m5EC))
@@ -27,6 +37,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @reggae_gyal70 Your black cat on the blue tiles is slide fo…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
+- **wenn6077**:  ([link](https://www.threads.com/@wenn6077/post/DfmzZpelWSL))
+  - Photo: Description: A top-down, macro-style close-up of a vibrant pink zinnia flower fills the frame, showcasing its tightly packed, layered petals and textured center against a dark, out-of-focus background. Photograph read: The tight framing centers the symmetrical blossom under even lighting, creating a bold, graphic mood. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
 - **mikiec34**: Yes. It's a Thimbleweed. I shot that one in 2016 on an iPhone 7 with a macro lens clip on for a Facebook project I was doing at the University of Washington Medical Center Medicinal Herb Garden. Here is the plant at a different angle. Tons more live at https://www.facebook.com/Uwmedherbphotos Thanks ([link](https://www.threads.com/@mikiec34/post/DfmvbNMBeKY))
   - Photo: Description: This close-up view features pale green and white flowers with prominent textured centers and yellow stamens, set against a soft-focus natural background. It serves as a detailed nature study suitable for a garden or botany-focused social media post. Photograph read: Captured in diffused daylight, the shallow depth of field isolates the central blooms against a softly blurred background, creating a calm and natural mood. Photo type: Snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
