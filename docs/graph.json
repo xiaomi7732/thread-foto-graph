@@ -1,8 +1,47 @@
 {
   "nodes": [
     {
+      "id": "18502088977109902",
+      "label": "red, description, photo, photograph",
+      "group": 0,
+      "snippet": "Red Wednesday \u2764\ufe0f Show me red. Red is everywhere once you lo\u2026",
+      "text": "Red Wednesday \u2764\ufe0f Show me red. Red is everywhere once you look for it - a door, a flower, a sign, a sunset. Show me the reddest thing on your camera roll. These blooms are red turned all the way up - find me your red. ONE photo. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What red stopped you today?",
+      "permalink": "https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW",
+      "photos": [
+        "Description: Two bright red flowers with visible yellow centers and green leaves are centered against a soft, out-of-focus background of grass and foliage. Photograph read: Soft natural lighting highlights the vibrant red petals, set against a blurred green backdrop that creates a calm, garden-like mood. Photo type: Snapshot"
+      ],
+      "watch_outs": [
+        "Soft overall; intentional or missed focus not determinable from the image."
+      ],
+      "reply_count": 2,
+      "replies": [
+        {
+          "username": "silmarillioncollector",
+          "text": "",
+          "permalink": "https://www.threads.com/@silmarillioncollector/post/DfmxIO7DCTr",
+          "photos": [
+            "Description: A close-up, eye-level shot captures a"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "The Pattern Tuesday favorites are live - five patterns that stopped my scroll \ud83c\udfc6 https://www.threads.com/@saars.foto/post/DfmCpWrFd65",
+          "permalink": "https://www.threads.com/@saars.foto/post/Dfmwxvxlcnd",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "18082895915738347",
-      "label": "photograph, description, pattern, photo",
+      "label": "red, description, photo, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Matt Wilson @matt.wilson.gc - cracked earth, lone walker @charhedman - black and white facade Kes Ward @kes_ward - striped color tunnel Mary Ellen Robb @reggae_gyal70 - cat on blue tiles John Medeiros @dwordops - barrel cellar rows Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfmCSPmj6-H/",
@@ -124,7 +163,7 @@
     },
     {
       "id": "17945826621369021",
-      "label": "photograph, description, pattern, photo",
+      "label": "red, description, photo, photograph",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This rosette repeats at three sizes, one cluster doing the whole pattern - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern stopped you today?",
@@ -132,7 +171,7 @@
       "photos": [
         "Description: A close-up, top-down shot of a pale green rosette succulent with intricate, layered geometric leaves. Water droplets cling to the lower petals, and surrounding foliage creates a natural garden setting. Photograph read: The centered subject is lit by even, natural daylight, highlighting the crisp geometric patterns and textures of the overlapping leaves. Photo type: Nature photography"
       ],
-      "reply_count": 320,
+      "reply_count": 338,
       "replies": [
         {
           "username": "y_marjorie",
@@ -146,10 +185,21 @@
             "Soft overall; intentional or missed focus not determinable from the image.",
             ""
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The sky does its slow orange-and-blue swirl while the nursery lines its rosettes up in neat rows - two patterns, one evening. Did the clouds or the succulents stop you first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt1QiFRyC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "gracielalucaterogovea",
@@ -158,10 +208,21 @@
           "photos": [
             "Description: A long, symmetrical hotel hallway stretches into the distance, lined with numerous dark-framed doors on both sides. The recessed ceiling lights create a repeating pattern of illumination down the carpeted corridor. Photograph read: Centered one-point perspective creates a strong geometric tunnel effect, with even lighting emphasizing the receding rhythm of doors and lights. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How far down did you walk before the doors and lights fell into that perfect rhythm?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt2fylMRG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mikiec34",
@@ -173,10 +234,37 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That green dome in the middle looks almost sculpted, with the yellow-tipped stamens ringing it like a crown. I think the tight crop is what makes it - did you shoot it wide open?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt3uslKXU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "mikiec34",
+                  "text": "Yes. It's a Thimbleweed. I shot that one in 2016 on an iPhone 7 with a macro lens clip on for a Facebook project I was doing at the University of Washington Medical Center Medicinal Herb Garden. Here is the plant at a different angle. Tons more live at https://www.facebook.com/Uwmedherbphotos Thanks",
+                  "permalink": "https://www.threads.com/@mikiec34/post/DfmvbNMBeKY",
+                  "photos": [
+                    "Description: This close-up view features pale green and white flowers with prominent textured centers and yellow stamens, set against a soft-focus natural background. It serves as a detailed nature study suitable for a garden or botany-focused social media post. Photograph read: Captured in diffused daylight, the shallow depth of field isolates the central blooms against a softly blurred background, creating a calm and natural mood. Photo type: Snapshot"
+                  ],
+                  "watch_outs": [
+                    "Soft overall; intentional or missed focus not determinable from the image."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "desbphotos",
@@ -188,10 +276,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Benches in fresh snow, flakes still falling, one lone figure walking away. The near bench sharp and the rest melting into white - how cold were your hands by the end of it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt5TAFjGu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "auds_lee",
@@ -200,10 +299,32 @@
           "photos": [
             "Description: This black-and-white vertical photo captures the dizzying interior perspective of a large modern building atrium, looking straight up at towering glass windows, structural beams, and large ceiling fans. The high-contrast architectural view emphasizes sweeping vertical lines and geometric patterns. Photograph read: Captured from a low-angle perspective, the composition uses strong converging lines and high contrast between light and shadow to create a dramatic, moody architectural study. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think looking straight up was the right call - the fans and beams turn the whole atrium into a pattern of their own. Did you lie on the floor for this one, or hold the phone high?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt6ioEf14",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "auds_lee",
+                  "text": "Held the phone high and bent over backwards almost like a human pretzel.",
+                  "permalink": "https://www.threads.com/@auds_lee/post/DfmurASEhH0",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tommybenston",
@@ -212,10 +333,21 @@
           "photos": [
             "Description: A woman stands in profile against an urban architectural backdrop featuring a white brick wall and a large metal panel with a dense polka-dot pattern. She wears a textured white ruffled top and a patterned long skirt, with her arms crossed and gaze directed upward. Photograph read: The subject is centrally placed against strong geometric textures and neutral daylight, creating a clean, modern aesthetic. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The perforated panel behind her is doing half the work - that dense dot pattern against the white brick. I think placing her in profile against it was a lovely call - how did you settle on the pose?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt76eoKzu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ladenizen2",
@@ -224,10 +356,21 @@
           "photos": [
             "Description: A diagonal line of tall palm trees stretches across a bright blue sky dotted with white clouds, above a row of buildings. Photograph read: Captured from a low angle with bright daylight, the diagonal perspective creates a clean graphic pattern emphasizing height and linear rhythm. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A row of palms leaning across the blue like they are all in on the same joke. Lovely low angle - how far back did you have to stand to get the whole diagonal in?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt9VAFMsK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "alohacat1722",
@@ -236,10 +379,32 @@
           "photos": [
             "Description: This photo captures an expansive interior floor paved with a geometric pattern of contrasting dark and light marble tiles creating a strong optical illusion of three-dimensional depth. Wooden bookcases line the far wall, partially obscured by warm orange curtains. Photograph read: Captured from a high angle looking down across the diagonal lines of the floor, the even indoor lighting emphasizes the polished texture and geometric depth of the marble tiles. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is that floor actually flat? The cubes look deep enough to step into. Lovely high angle - were you on a staircase when you shot it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt-PMoNLI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "alohacat1722",
+                  "text": "I know right? !! It made me a little dizzy to walk on it. Funny thing is, it wasn\u2019t a high angle \u2026I put the camera at knee level to get the whole length of the room \u2026",
+                  "permalink": "https://www.threads.com/@alohacat1722/post/DfmwWKQFfhl",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "clarelaviniasoden",
@@ -248,10 +413,21 @@
           "photos": [
             "Description: A bare-branched tree stands centered in the foreground before a calm body of water, set against a vast sky filled with textured, patterned clouds. The expansive"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That bare tree standing in the middle of all that rippled sky - the branches almost rhyme with the clouds. I think centering it was the right call - was the lake as still as it looks?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfmt_cunAdc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kwitcherbellyakin",
@@ -263,10 +439,21 @@
           "watch_outs": [
             "Areas of bright wing membranes clipped to white under direct sunlight; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Dozens of monarchs packed onto the pine needles, wings overlapping like tiles. What a find - is this a roosting spot you return to, or a lucky stumble?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfmuAVFG_e6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "h.b.d.b",
@@ -291,10 +478,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those little bells holding their raindrops - the pink blush on the white is so delicate. I think the soft light is what makes it - did you catch them just after the rain stopped?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfmuFspoHm_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "schemenme",
@@ -460,10 +658,21 @@
                   "text": "It was the curve of my windshield. The part that goes down towards my dash",
                   "permalink": "https://www.threads.com/@mlaj69/post/Dfmo3gHpX1P",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A windshield curve - what a lovely surprise. Thanks for sharing how it happened.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfmuG1BIM66",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -961,10 +1170,21 @@
                   "text": "Rosette I think",
                   "permalink": "https://www.threads.com/@brianroffe/post/Dfl-VnkiOVM",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Rosette it is - the layers give it away. Lovely eye.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfmuIXbEfE9",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2297,10 +2517,21 @@
                   "text": "In my garden",
                   "permalink": "https://www.threads.com/@juliet.4066/post/DfmGCVgDgTR",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Your own garden, of course - the best kind of pattern hunting. Lovely one.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfmuJnckU_1",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2515,10 +2746,21 @@
                   "text": "This is in Canary Wharf, London. It\u2019s a regular stop for many photographers. Beautiful tunnel to photograph.",
                   "permalink": "https://www.threads.com/@kes_ward/post/Dfl13Tojitt",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A regular stop for good reason - that tunnel never misses. Thanks for the tip.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfmuK6wkeJB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3903,7 +4145,11 @@
   ],
   "edges": [
     {
-      "from": "18082895915738347",
+      "from": "18502088977109902",
+      "to": "18082895915738347"
+    },
+    {
+      "from": "18502088977109902",
       "to": "17945826621369021"
     }
   ]

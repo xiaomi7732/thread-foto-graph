@@ -4,7 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (19)
+
+### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
+- **silmarillioncollector**:  ([link](https://www.threads.com/@silmarillioncollector/post/DfmxIO7DCTr))
+  - Photo: Description: A close-up, eye-level shot captures a
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
 - **charhedman**: Yes. It takes away from the pattern. With B/w, you're just looking at the shapes, and the tones. ([link](https://www.threads.com/@charhedman/post/Dfmr484m5EC))
@@ -15,46 +19,22 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @reggae_gyal70 Your black cat on the blue tiles is slide fo…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
-- **y_marjorie**: Cloud patterns one night and succulents lined up at the nursery the other day ([link](https://www.threads.com/@y_marjorie/post/Dfmnn-Tm-Ap))
-  - Photo: Description: A dramatic sunset or sunrise fills the sky with rich orange and deep blue hues, viewed above a silhouette of dark trees and a low horizon. The cloud formation creates sweeping, textured layers across the upper frame. Photograph read: The wide composition emphasizes the expansive sky, lit by warm gradient tones against a cool twilight backdrop. Photo type: Landscape
+- **mikiec34**: Yes. It's a Thimbleweed. I shot that one in 2016 on an iPhone 7 with a macro lens clip on for a Facebook project I was doing at the University of Washington Medical Center Medicinal Herb Garden. Here is the plant at a different angle. Tons more live at https://www.facebook.com/Uwmedherbphotos Thanks ([link](https://www.threads.com/@mikiec34/post/DfmvbNMBeKY))
+  - Photo: Description: This close-up view features pale green and white flowers with prominent textured centers and yellow stamens, set against a soft-focus natural background. It serves as a detailed nature study suitable for a garden or botany-focused social media post. Photograph read: Captured in diffused daylight, the shallow depth of field isolates the central blooms against a softly blurred background, creating a calm and natural mood. Photo type: Snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - Photo: Description: A vibrant, top-down arrangement of diverse potted succulents and cacti displays a rich gradient of green, red, and purple hues. The dense grid-like display suggests a nursery or retail plant shelf ready to be shared as botanical inspiration. Photograph read: Captured from a high-angle perspective, the frame is densely filled with repeating textures and saturated colors under even, bright light. Photo type: Snapshot
-- **gracielalucaterogovea**:  ([link](https://www.threads.com/@gracielalucaterogovea/post/DfmklFOkb9j))
-  - Photo: Description: A long, symmetrical hotel hallway stretches into the distance, lined with numerous dark-framed doors on both sides. The recessed ceiling lights create a repeating pattern of illumination down the carpeted corridor. Photograph read: Centered one-point perspective creates a strong geometric tunnel effect, with even lighting emphasizing the receding rhythm of doors and lights. Photo type: Architectural
-- **mikiec34**:  ([link](https://www.threads.com/@mikiec34/post/DfmZwcVsnQP))
-  - Photo: Description: This extreme close-up photograph features the intricate central structure of a white flower, highlighting its textured green seed pod and surrounding yellow-tipped stamens. The tight perspective creates an abstract, organic pattern suitable for nature appreciation. Photograph read: The extremely shallow depth of field isolates the textured green receptacle, creating a soft, dreamlike mood under natural light. Photo type: Macro nature study
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **desbphotos**:  ([link](https://www.threads.com/@desbphotos/post/DfmYo_4ISrB))
-  - Photo: Description: A row of outdoor park benches is covered in a light layer of fresh snow, with falling snowflakes visible in the background. A solitary figure walks in the distance under overcast skies. Photograph read: A shallow depth of field emphasizes the sharp foreground elements while gracefully blurring the receding benches and background into a serene, wintery atmosphere. Photo type: Artistic
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **auds_lee**:  ([link](https://www.threads.com/@auds_lee/post/DfmWekYEuha))
-  - Photo: Description: This black-and-white vertical photo captures the dizzying interior perspective of a large modern building atrium, looking straight up at towering glass windows, structural beams, and large ceiling fans. The high-contrast architectural view emphasizes sweeping vertical lines and geometric patterns. Photograph read: Captured from a low-angle perspective, the composition uses strong converging lines and high contrast between light and shadow to create a dramatic, moody architectural study. Photo type: Architectural
-- **tommybenston**:  ([link](https://www.threads.com/@tommybenston/post/DfmSg0IEVv_))
-  - Photo: Description: A woman stands in profile against an urban architectural backdrop featuring a white brick wall and a large metal panel with a dense polka-dot pattern. She wears a textured white ruffled top and a patterned long skirt, with her arms crossed and gaze directed upward. Photograph read: The subject is centrally placed against strong geometric textures and neutral daylight, creating a clean, modern aesthetic. Photo type: Portrait
-- **ladenizen2**:  ([link](https://www.threads.com/@ladenizen2/post/DfmMDpBG9gm))
-  - Photo: Description: A diagonal line of tall palm trees stretches across a bright blue sky dotted with white clouds, above a row of buildings. Photograph read: Captured from a low angle with bright daylight, the diagonal perspective creates a clean graphic pattern emphasizing height and linear rhythm. Photo type: Snapshot
-- **alohacat1722**: Floors of Venice reach to infinity… ([link](https://www.threads.com/@alohacat1722/post/Dfl-2rhFcsx))
-  - Photo: Description: This photo captures an expansive interior floor paved with a geometric pattern of contrasting dark and light marble tiles creating a strong optical illusion of three-dimensional depth. Wooden bookcases line the far wall, partially obscured by warm orange curtains. Photograph read: Captured from a high angle looking down across the diagonal lines of the floor, the even indoor lighting emphasizes the polished texture and geometric depth of the marble tiles. Photo type: Architectural
-- **clarelaviniasoden**:  ([link](https://www.threads.com/@clarelaviniasoden/post/Dfl-r9XkabC))
-  - Photo: Description: A bare-branched tree stands centered in the foreground before a calm body of water, set against a vast sky filled with textured, patterned clouds. The expansive
-- **kwitcherbellyakin**:  ([link](https://www.threads.com/@kwitcherbellyakin/post/Dfl9GInG5FG))
-  - Photo: Description: A dense cluster of monarch butterflies clings to pine needles, their overlapping wings creating a textured tapestry of orange and black. The scene captures a natural hibernation or roosting site, ideal for wildlife observation or conservation sharing. Photograph read: The tight framing emphasizes the intricate patterns of the butterflies under bright directional light, creating a high-contrast, naturalistic mood. Photo type: Documentary
-    - Watch-outs: Areas of bright wing membranes clipped to white under direct sunlight; intentional or missed focus not determinable from the image.
+  - _Replying to: That green dome in the middle looks almost sculpted, with t…_
+- **auds_lee**: Held the phone high and bent over backwards almost like a human pretzel. ([link](https://www.threads.com/@auds_lee/post/DfmurASEhH0))
+  - _Replying to: I think looking straight up was the right call - the fans a…_
+- **alohacat1722**: I know right? !! It made me a little dizzy to walk on it. Funny thing is, it wasn’t a high angle …I put the camera at knee level to get the whole length of the room … ([link](https://www.threads.com/@alohacat1722/post/DfmwWKQFfhl))
+  - _Replying to: Is that floor actually flat? The cubes look deep enough to …_
 - **h.b.d.b**:  ([link](https://www.threads.com/@h.b.d.b/post/Dfl8wUBG3ov))
   - Photo: Description: A close-up, top-down view of heavily cracked, dry earth filling the entire frame. The parched mud forms an intricate pattern of jagged chunks separated by deep fissures under bright daylight. Photograph read: The overhead perspective emphasizes the geometric texture of the cracked earth under harsh, direct light, creating high-contrast shadows within the fissures. Photo type: Documentary
   - Photo: Description: Vibrant red, purple, and orange autumn leaves fill the frame, densely packed in front of a tree trunk with glimpses of blue sky. The colorful foliage creates a striking seasonal scene. Photograph read: The tight framing emphasizes the rich red tones and textures of the leaves, lit by bright daylight that creates glowing highlights and deep shadows. Photo type: Nature snapshot
-- **ritam1ller**:  ([link](https://www.threads.com/@ritam1ller/post/Dfl7W-QEpw9))
-  - Photo: Description: Close-up view of multiple drooping clusters of small, bell-shaped pink and white Pieris japonica flowers glistening with raindrops. This detailed nature shot is ideal for a spring or botanical-themed social media post. Photograph read: The tight vertical framing and soft, diffused natural light emphasize the delicate textures and subtle pastel gradients of the blossoms. Photo type: Artistic
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **mlaj69**: It was the curve of my windshield. The part that goes down towards my dash ([link](https://www.threads.com/@mlaj69/post/Dfmo3gHpX1P))
-  - _Replying to: Every drop holding its own little upside-down tree - that i…_
 - **wang_fong_ya**: Nature’s own geometry. 🌿💚 I love how the delicate veins of a leaf create such beautiful patterns, especially when light and shadow bring out every detail. ([link](https://www.threads.com/@wang_fong_ya/post/DflRhmIj77o))
   - Photo: Description: This close-up photo shows the intricate, prominent veins of a large green tropical leaf overlapping another. The dim lighting and rich tones create a moody, botanical aesthetic suitable for nature appreciation. Photograph read: The frame is tightly composed around the vibrant green leaf veins, lit with soft, directional light that highlights the rich textures and deep shadows. Photo type: Artistic
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
 - **posts.by.norman**: I agree...'bout the slow walks! ▓ ([link](https://www.threads.com/@posts.by.norman/post/Dfl1syZnwxZ))
   - _Replying to: Slow walks pay off - the triangles were worth the tired fee…_
-- **brianroffe**: Rosette I think ([link](https://www.threads.com/@brianroffe/post/Dfl-VnkiOVM))
-  - _Replying to: Two kinds of layers in one post - petals and rosette. Which…_
 - **susantodd535**: Very carefully. It isn’t as easy as it looks. Cutting the mango so you get slices ([link](https://www.threads.com/@susantodd535/post/DflwP-elBVS))
   - _Replying to: I think the overhead angle is what sells it - that mango sp…_
 - **shiawasemainichi5**: Thank you. I love the colors of this mirror ball. Timing is crucial when taking photos, but the enjoyment after taking them never ends.🎨 ([link](https://www.threads.com/@shiawasemainichi5/post/Dfl2_KKE9oX))
@@ -68,10 +48,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **photog84**: Oh Wow!! This image is amazing!!📷 ([link](https://www.threads.com/@photog84/post/Dfkp76vlDpy))
 - **ccaldwellrn**:  ([link](https://www.threads.com/@ccaldwellrn/post/DfkolIuHyQb))
   - Photo: Description: This photo captures a wide river winding between towering, pale rock cliffs covered in lush green trees on a partly cloudy day. A few small watercraft are visible in the distance, suggesting a scenic floating or kayaking excursion. Photograph read: Captured from a low water-level perspective, the wide-angle composition emphasizes the scale of the dramatic cliffs under bright daylight, conveying a serene and adventurous outdoor mood. Photo type: Landscape photography
-- **juliet.4066**: In my garden ([link](https://www.threads.com/@juliet.4066/post/DfmGCVgDgTR))
-  - _Replying to: Those tiny buds fanning out like spokes - the whole head is…_
-- **kes_ward**: This is in Canary Wharf, London. It’s a regular stop for many photographers. Beautiful tunnel to photograph. ([link](https://www.threads.com/@kes_ward/post/Dfl13Tojitt))
-  - _Replying to: A tunnel dressed in primary-color checks - walking through …_
 - **matmarian57**: Baila Baila Baila... ([link](https://www.threads.com/@matmarian57/post/Dfkd0ZXCDhK))
   - _Replying to: (photo reply, no text)_
 - **matmarian57**: Ooppera talolla ? ([link](https://www.threads.com/@matmarian57/post/DfkhOIuiGOv))
