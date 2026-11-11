@@ -13,8 +13,122 @@
       "watch_outs": [
         "Soft overall; intentional or missed focus not determinable from the image."
       ],
-      "reply_count": 40,
+      "reply_count": 69,
       "replies": [
+        {
+          "username": "susanturauskis",
+          "text": "",
+          "permalink": "https://www.threads.com/@susanturauskis/post/DfnBxy-kT5I",
+          "photos": [
+            "Description: A lush cluster of ripe purple grapes rests atop vibrant autumn leaves featuring shades of red, green, and yellow. The arrangement rests on a glass-topped table, creating a seasonal, harvest-inspired visual. Photograph read: Captured in natural, even daylight with a top-down perspective, the image highlights the rich textures and saturated autumn colors of the fruit and foliage. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lacourci1",
+          "text": "",
+          "permalink": "https://www.threads.com/@lacourci1/post/DfnAxqXFAZv",
+          "photos": [
+            "Description: A close-up shot of a vibrant red peony flower covered in glistening raindrops, set against a background of lush green leaves. The detailed texture of the petals and water droplets creates a refreshing, nature-focused aesthetic suited for a garden update. Photograph read: Centered vertically with shallow depth of field, natural diffused light highlights the rich crimson tones and sharp water bead reflections against soft green foliage."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "judyfairytale_",
+          "text": "",
+          "permalink": "https://www.threads.com/@judyfairytale_/post/Dfm_8A9kQbB",
+          "photos": [
+            "Description: A close-up shot shows a hand-painted wooden ladybug toy resting among a jumble of colorful crafts and small objects on a wooden surface. The whimsical creation features a bright red back with black spots and a black head adorned with simple white-ringed eyes. Photograph read: Captured from a slightly elevated angle in soft, natural light, the shallow depth of field keeps the subject sharp while the background toys blur into a gentle, colorful bokeh. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "miltimus",
+          "text": "",
+          "permalink": "https://www.threads.com/@miltimus/post/Dfm_rYIICB2",
+          "photos": [
+            "Description: A dense array of vibrant red autumn leaves fills the frame, interwoven with grey, textured tree branches. A large, weathered rock sits partially obscured in the lower-middle portion of the composition, framed by the vivid foliage. Photograph read: The tight framing emphasizes the intricate network of branches against a rich canopy of red leaves, creating a moody and tactile autumn scene. Photo type: Nature study"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jagascoigne",
+          "text": "St Andrews Pier.",
+          "permalink": "https://www.threads.com/@jagascoigne/post/Dfm-nd1kUIS",
+          "photos": [
+            "Description: Three people in bright red coats stand along a stone sea wall, viewed from a distance against an overcast sky. The surrounding scene is rendered in monochrome, with selective color highlighting the red coats and subtle touches of lichen on the wall. Photograph read: The wide composition emphasizes the expansive stonework and cloudy sky, while selective color draws immediate focus to the three figures. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "funkygmacman",
+          "text": "",
+          "permalink": "https://www.threads.com/@funkygmacman/post/Dfm-ignmmxM",
+          "photos": [
+            "Description: A vibrant red autumn tree stands prominently among green and bare trees against a blue sky with light clouds. The contrasting foliage creates a striking seasonal landscape suitable for sharing autumn colors. Photograph read: Direct daylight illuminates the canopy, highlighting the saturated red leaves against a clear blue sky in a balanced landscape composition. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "friduliini",
+          "text": "",
+          "permalink": "https://www.threads.com/@friduliini/post/Dfm93_FjNu5",
+          "photos": [
+            "Description: A paved"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lucillepippetti",
+          "text": "",
+          "permalink": "https://www.threads.com/@lucillepippetti/post/Dfm9H9dIDb8",
+          "photos": [
+            "Description: This close-up photo captures the intricate, textured center of a vibrant pink flower with radiating petals. The tight framing highlights the detailed patterns and rich crimson hues of the blossom's core. Photograph read: Soft overall; intentional or missed focus not determinable from the image. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bendlesmaid269",
+          "text": "",
+          "permalink": "https://www.threads.com/@bendlesmaid269/post/Dfm9GbREYBT",
+          "photos": [
+            "Description: Clusters of vibrant red berries are interspersed among green and yellowing leaves on a bush. Sunlight catches the fruit and foliage, highlighting natural textures. Photograph read: The vertical composition uses a close-up perspective and soft, natural light to create a warm and lively botanical mood. Photo type: Nature photography"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jglass8",
           "text": "Brilliant red rose",
@@ -22,10 +136,21 @@
           "photos": [
             "Description: A vibrant red rose is captured in close-up detail, positioned centrally against a natural backdrop of dark mulch and green foliage. The prominent blossom fills the frame, showcasing deep crimson petals and subtle highlights in the center. Photograph read: The tight framing and even natural light emphasize the intense red color and layered petal structure of the rose. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is there a redder rose anywhere? This one fills the whole frame and still has a bud waiting at the top - I think the tight crop is what makes it hit so hard.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8RmhESfb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "corwyn671",
@@ -34,10 +159,21 @@
           "photos": [
             "Description: A close-up, low-angle shot features a single high-heeled shoe resting on a light-colored surface, showcasing its ivory upper and distinctive red sole. The shallow depth of field keeps the heel in sharp focus while the background dissolves into soft, indistinct shapes. Photograph read: Captured from a low perspective with a shallow depth of field, the image highlights the sculptural lines of the shoe against a softly blurred background. Photo type: Product or retail showcase"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red sole is the whole joke of the shoe - ivory on top, a flash of red underneath, and the marble does the rest. Where do shoes like that get to go out?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8S7QoGkp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mannistoniina",
@@ -49,10 +185,32 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red poppies scattered through all that tangle are such a good surprise - blue flowers everywhere and then red pops up. What made you stop for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8UyzoEOk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "mannistoniina",
+                  "text": "I was photographing in october and it was a summer flower area, the colours just made me take a picture",
+                  "permalink": "https://www.threads.com/@mannistoniina/post/Dfm8lXUocKR",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "waltraud.krieger",
@@ -63,10 +221,21 @@
             "Description: Visitors gather in a dark, expansive interior space illuminated by a massive overhead structure of glowing white and red fiber-optic strands. The scene captures a public art installation or exhibition with people walking on the floor and seated",
             "Description: A two-story house is densely covered in vibrant red autumn leaves, set against a clear blue sky. The facade features several windows, a white front door, and a satellite dish on the tiled roof. Photograph read: The symmetrical facade of the house is centered in the frame under bright daylight, highlighting the striking contrast between the vivid red foliage and the deep blue sky. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the house wins it - a whole facade turned red against that blue sky is hard to beat. But the chilies in the red bowl come close. What drew you to collect all three reds in one post?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8WIOmhLD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "natazlody",
@@ -78,10 +247,21 @@
           "watch_outs": [
             "Highlights clipped to white in the background sky area."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Vienna knows how to do red properly - a carriage in red with gold trim and red-spoked wheels. Where was it headed when you found it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8YCNCRPA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kayvaughan38",
@@ -93,10 +273,21 @@
             "Description: A vertical composition captures a row of vibrantly colored autumn bushes and a green conifer hedge lining a suburban sidewalk under a clear blue sky. The stark contrast between the bright red foliage and the green shrubbery creates a striking visual split along the street. Photograph read: The vertical framing emphasizes the height and density of the colorful foliage under bright midday sunlight, creating a crisp and vibrant mood. Photo type: Snapshot",
             "Description: A vibrant red autumn leaf lies flat on a textured, speckled concrete ground, showcasing its intricate vein structure. The vertical composition highlights the leaf's rich colors and natural degradation at the top edge. Photograph read: Captured from a top-down perspective in bright, even daylight, the image emphasizes the sharp contrast between the smooth, organic leaf and the rough, granular pavement. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That single leaf on the concrete, every vein showing, is the quiet one of the set - and the street shots go loud with whole bushes of it. What keeps bringing you back to this street in autumn?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8aB9FKy-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "2killamockingbird",
@@ -105,10 +296,21 @@
           "photos": [
             "Description: A vibrant red flower with a textured yellow center is centered against a dark background of green leaves. The dramatic lighting emphasizes the rich colors and details of the petals. Photograph read: The subject is captured from a direct top-down angle under dramatic lighting, creating stark contrast against the dark background. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How does a flower get to be that red? The yellow center against the dark leaves makes it look lit from inside - either way, it stops the scroll.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8bM_FEhn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bbingco",
@@ -117,10 +319,32 @@
           "photos": [
             "Description: Three closed red patio umbrellas stand behind a row of dark lounge chairs overlooking the ocean on an overcast day, with potted red and pink flowers in the foreground. Photograph read: The vertical lines of the closed umbrellas and diagonals of the loungers create a structured composition under even, diffused daylight with a calm, coastal mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The bougainvillea spilling over the left side is my favorite part - all that red against the closed umbrellas standing in a row. What brought you to this corner of the coast?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8fMgnFwK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bbingco",
+                  "text": "Thank you! Just enjoying the view and capturing what makes me happy. \u2764\ufe0f\ud83d\udcf8 \ud83c\udf3a\ud83c\udf38\ud83e\udd0d",
+                  "permalink": "https://www.threads.com/@bbingco/post/Dfm9mAaDxxn",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ulrike6417",
@@ -129,10 +353,21 @@
           "photos": [
             "Description: A bright red boat named Einigkeit is docked in a calm harbor under a clear blue sky with scattered white clouds. The harbor is lined with buildings and industrial structures, reflecting on the still water. Photograph read: The wide-angle composition uses the brick"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A red boat, a still harbor, and a sky that big - hard to ask for more. What is the story with the Einigkeit - does she sail out often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8g_BEYW_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "edanjojon",
@@ -144,10 +379,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the soft focus suits this one - the red-and-white petals read almost painted. How did you get that soft feel?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfm8ihvmi24",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lluvia3487",
@@ -174,10 +420,21 @@
                   "text": "Hi, I honestly don't remember how long it lasted like that, I only remember how wonderful it was to see the sunset and capture this moment forever; it's one of my favorite photos.",
                   "permalink": "https://www.threads.com/@lluvia3487/post/Dfm1ysum21_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A sunset like that stays with you long after the sky goes back to normal. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfm8nQ2mgTI",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -211,10 +468,21 @@
                   "text": "In the morning after we had a storm blow through. The rose bush is right outside my front door .",
                   "permalink": "https://www.threads.com/@abnerabel125/post/Dfm2fJ8Gx_3",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "What a gift to step outside to. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfm8sHemAXg",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -242,7 +510,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "maureenozerimages",
+                  "text": "Having 3 reds in the window was a bold choice but it caught my eye for sure. If I was much younger I\u2019d go for the middle one \ud83d\udc83\ud83d\ude03",
+                  "permalink": "https://www.threads.com/@maureenozerimages/post/DfnAHpjjVoA",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -271,10 +550,32 @@
                   "text": "That remains a mistery...\ud83d\ude09",
                   "permalink": "https://www.threads.com/@syldelteglia/post/Dfm5aKggLdk",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A door like that deserves its little mystery. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfm8tw2Gol2",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "syldelteglia",
+                          "text": "Thank you!\ud83e\udef6",
+                          "permalink": "https://www.threads.com/@syldelteglia/post/Dfm9tt6AM1O",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -305,10 +606,32 @@
                   "text": "I was very happy with this photo. This was in Mexico City Alebrijes parade. Part of the day of the dead celebrations",
                   "permalink": "https://www.threads.com/@joaquinencinasphotography/post/Dfm1sHtmzuG",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "What a celebration to be in the middle of. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfm8ymrmAbI",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "joaquinencinasphotography",
+                          "text": "There are more photos from the parade in my instagram",
+                          "permalink": "https://www.threads.com/@joaquinencinasphotography/post/Dfm9Do5Ghnv",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -408,10 +731,21 @@
                   "text": "Yes, as is. Stood out",
                   "permalink": "https://www.threads.com/@akmaleky/post/Dfm1k4gn5ZH",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Exactly - it stops you in your tracks. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfm8z_NmooF",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -663,8 +997,20 @@
       "photos": [
         "Description: A close-up, top-down shot of a pale green rosette succulent with intricate, layered geometric leaves. Water droplets cling to the lower petals, and surrounding foliage creates a natural garden setting. Photograph read: The centered subject is lit by even, natural daylight, highlighting the crisp geometric patterns and textures of the overlapping leaves. Photo type: Nature photography"
       ],
-      "reply_count": 342,
+      "reply_count": 343,
       "replies": [
+        {
+          "username": "susanrutledge",
+          "text": "",
+          "permalink": "https://www.threads.com/@susanrutledge/post/DfnBdTdmif4",
+          "photos": [
+            "Description: A low-angle shot captures the sweeping, undulating balconies of a modern apartment building against a clear blue sky. Green foliage peeks in from the bottom left corner, adding a touch of nature to the architectural scene. Photograph read: The low-angle perspective emphasizes the repeating wave-like patterns of the balconies under bright, natural daylight. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "wenn6077",
           "text": "",

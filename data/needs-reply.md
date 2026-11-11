@@ -4,47 +4,37 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (40)
+## Needs Reply (39)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- **jglass8**: Brilliant red rose ([link](https://www.threads.com/@jglass8/post/Dfm59sSGrHh))
-  - Photo: Description: A vibrant red rose is captured in close-up detail, positioned centrally against a natural backdrop of dark mulch and green foliage. The prominent blossom fills the frame, showcasing deep crimson petals and subtle highlights in the center. Photograph read: The tight framing and even natural light emphasize the intense red color and layered petal structure of the rose. Photo type: Snapshot
-- **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/Dfm59dMmr_-))
-  - Photo: Description: A close-up, low-angle shot features a single high-heeled shoe resting on a light-colored surface, showcasing its ivory upper and distinctive red sole. The shallow depth of field keeps the heel in sharp focus while the background dissolves into soft, indistinct shapes. Photograph read: Captured from a low perspective with a shallow depth of field, the image highlights the sculptural lines of the shoe against a softly blurred background. Photo type: Product or retail showcase
-- **mannistoniina**:  ([link](https://www.threads.com/@mannistoniina/post/Dfm4cHVIbWX))
-  - Photo: Description: A dense tangle of dry twigs and green foliage is interspersed with small red and blue wildflowers. The scene is shot from a top-down perspective, emphasizing a wild, untamed patch of vegetation. Photograph read: Soft overall; intentional or missed focus not determinable from the image. Photo type: Snapshot
+- **susanturauskis**:  ([link](https://www.threads.com/@susanturauskis/post/DfnBxy-kT5I))
+  - Photo: Description: A lush cluster of ripe purple grapes rests atop vibrant autumn leaves featuring shades of red, green, and yellow. The arrangement rests on a glass-topped table, creating a seasonal, harvest-inspired visual. Photograph read: Captured in natural, even daylight with a top-down perspective, the image highlights the rich textures and saturated autumn colors of the fruit and foliage. Photo type: Snapshot
+- **lacourci1**:  ([link](https://www.threads.com/@lacourci1/post/DfnAxqXFAZv))
+  - Photo: Description: A close-up shot of a vibrant red peony flower covered in glistening raindrops, set against a background of lush green leaves. The detailed texture of the petals and water droplets creates a refreshing, nature-focused aesthetic suited for a garden update. Photograph read: Centered vertically with shallow depth of field, natural diffused light highlights the rich crimson tones and sharp water bead reflections against soft green foliage.
+- **judyfairytale_**:  ([link](https://www.threads.com/@judyfairytale_/post/Dfm_8A9kQbB))
+  - Photo: Description: A close-up shot shows a hand-painted wooden ladybug toy resting among a jumble of colorful crafts and small objects on a wooden surface. The whimsical creation features a bright red back with black spots and a black head adorned with simple white-ringed eyes. Photograph read: Captured from a slightly elevated angle in soft, natural light, the shallow depth of field keeps the subject sharp while the background toys blur into a gentle, colorful bokeh. Photo type: Snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **waltraud.krieger**:  ([link](https://www.threads.com/@waltraud.krieger/post/Dfm1uLsDsTx))
-  - Photo: Description: A small cluster of bright red bird's eye chili peppers with green stems rests inside a rustic, reddish-pink ceramic bowl on
-  - Photo: Description: Visitors gather in a dark, expansive interior space illuminated by a massive overhead structure of glowing white and red fiber-optic strands. The scene captures a public art installation or exhibition with people walking on the floor and seated
-  - Photo: Description: A two-story house is densely covered in vibrant red autumn leaves, set against a clear blue sky. The facade features several windows, a white front door, and a satellite dish on the tiled roof. Photograph read: The symmetrical facade of the house is centered in the frame under bright daylight, highlighting the striking contrast between the vivid red foliage and the deep blue sky. Photo type: Snapshot
-- **natazlody**: red color ♥️ from Vienna ([link](https://www.threads.com/@natazlody/post/Dfm1UpADGGo))
-  - Photo: Description: A vintage red and black horse-drawn carriage sits on a paved street, framed with an open doorway offering a view of distant people and a building. Photograph read: The symmetrical side-profile composition uses even daylight to highlight the vibrant red paint and gold crest against the neutral ground. Photo type: Documentary
-    - Watch-outs: Highlights clipped to white in the background sky area.
-- **kayvaughan38**: Here you go! ￼ ([link](https://www.threads.com/@kayvaughan38/post/Dfm1TrBGiXF))
-  - Photo: Description: A row of neatly pruned bushes and trees displays vibrant crimson autumn foliage along a suburban sidewalk and asphalt street under a clear blue sky. This seasonal neighborhood scene captures the crisp beauty of fall. Photograph read: Captured from a low street-level perspective in bright daylight, the composition creates a strong diagonal line emphasizing the matching rows of red foliage against the gray pavement. Photo type: Snapshot
-  - Photo: Description: A vibrant, densely packed arrangement of bright red autumn leaves and delicate brown branches fills the frame in a top-down view, evoking a seasonal fall theme. Photograph read: The tight composition features flat, even lighting under bright daylight, highlighting the rich crimson hues and complex textural overlap of the foliage. Photo
-  - Photo: Description: A vertical composition captures a row of vibrantly colored autumn bushes and a green conifer hedge lining a suburban sidewalk under a clear blue sky. The stark contrast between the bright red foliage and the green shrubbery creates a striking visual split along the street. Photograph read: The vertical framing emphasizes the height and density of the colorful foliage under bright midday sunlight, creating a crisp and vibrant mood. Photo type: Snapshot
-  - Photo: Description: A vibrant red autumn leaf lies flat on a textured, speckled concrete ground, showcasing its intricate vein structure. The vertical composition highlights the leaf's rich colors and natural degradation at the top edge. Photograph read: Captured from a top-down perspective in bright, even daylight, the image emphasizes the sharp contrast between the smooth, organic leaf and the rough, granular pavement. Photo type: Snapshot
-- **2killamockingbird**: Showing Red... ([link](https://www.threads.com/@2killamockingbird/post/Dfm1RLDgCc9))
-  - Photo: Description: A vibrant red flower with a textured yellow center is centered against a dark background of green leaves. The dramatic lighting emphasizes the rich colors and details of the petals. Photograph read: The subject is captured from a direct top-down angle under dramatic lighting, creating stark contrast against the dark background. Photo type: Artistic
-- **bbingco**:  ([link](https://www.threads.com/@bbingco/post/Dfm1CzEkpkq))
-  - Photo: Description: Three closed red patio umbrellas stand behind a row of dark lounge chairs overlooking the ocean on an overcast day, with potted red and pink flowers in the foreground. Photograph read: The vertical lines of the closed umbrellas and diagonals of the loungers create a structured composition under even, diffused daylight with a calm, coastal mood. Photo type: Snapshot
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Dfm049GEYkK))
-  - Photo: Description: A bright red boat named Einigkeit is docked in a calm harbor under a clear blue sky with scattered white clouds. The harbor is lined with buildings and industrial structures, reflecting on the still water. Photograph read: The wide-angle composition uses the brick
-- **edanjojon**:  ([link](https://www.threads.com/@edanjojon/post/Dfm0yGYEnfH))
-  - Photo: Description: A vibrant red and white dahlia blossom is centered in the frame against an out-of-focus background of green foliage and a paved patio. The bright coloration and unique petal shapes make this a striking floral subject. Photograph read: Soft overall focus with ambient outdoor lighting, creating a natural and casual mood centered on the flower. Photo type: Snapshot
+- **miltimus**:  ([link](https://www.threads.com/@miltimus/post/Dfm_rYIICB2))
+  - Photo: Description: A dense array of vibrant red autumn leaves fills the frame, interwoven with grey, textured tree branches. A large, weathered rock sits partially obscured in the lower-middle portion of the composition, framed by the vivid foliage. Photograph read: The tight framing emphasizes the intricate network of branches against a rich canopy of red leaves, creating a moody and tactile autumn scene. Photo type: Nature study
+- **jagascoigne**: St Andrews Pier. ([link](https://www.threads.com/@jagascoigne/post/Dfm-nd1kUIS))
+  - Photo: Description: Three people in bright red coats stand along a stone sea wall, viewed from a distance against an overcast sky. The surrounding scene is rendered in monochrome, with selective color highlighting the red coats and subtle touches of lichen on the wall. Photograph read: The wide composition emphasizes the expansive stonework and cloudy sky, while selective color draws immediate focus to the three figures. Photo type: Artistic
+- **funkygmacman**:  ([link](https://www.threads.com/@funkygmacman/post/Dfm-ignmmxM))
+  - Photo: Description: A vibrant red autumn tree stands prominently among green and bare trees against a blue sky with light clouds. The contrasting foliage creates a striking seasonal landscape suitable for sharing autumn colors. Photograph read: Direct daylight illuminates the canopy, highlighting the saturated red leaves against a clear blue sky in a balanced landscape composition. Photo type: Landscape
+- **friduliini**:  ([link](https://www.threads.com/@friduliini/post/Dfm93_FjNu5))
+  - Photo: Description: A paved
+- **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/Dfm9H9dIDb8))
+  - Photo: Description: This close-up photo captures the intricate, textured center of a vibrant pink flower with radiating petals. The tight framing highlights the detailed patterns and rich crimson hues of the blossom's core. Photograph read: Soft overall; intentional or missed focus not determinable from the image. Photo type: Macro
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **lluvia3487**: Hi, I honestly don't remember how long it lasted like that, I only remember how wonderful it was to see the sunset and capture this moment forever; it's one of my favorite photos. ([link](https://www.threads.com/@lluvia3487/post/Dfm1ysum21_))
-  - _Replying to: The whole sky went red and the street below just carried on…_
-- **abnerabel125**: In the morning after we had a storm blow through. The rose bush is right outside my front door . ([link](https://www.threads.com/@abnerabel125/post/Dfm2fJ8Gx_3))
-  - _Replying to: That deep red against the soft green is a lovely pairing - …_
-- **syldelteglia**: That remains a mistery...😉 ([link](https://www.threads.com/@syldelteglia/post/Dfm5aKggLdk))
-  - _Replying to: A red door, a lion knocker, and a sunflower mat waiting at …_
-- **joaquinencinasphotography**: I was very happy with this photo. This was in Mexico City Alebrijes parade. Part of the day of the dead celebrations ([link](https://www.threads.com/@joaquinencinasphotography/post/Dfm1sHtmzuG))
-  - _Replying to: The man in the red hoodie next to the costumed figure is a …_
-- **akmaleky**: Yes, as is. Stood out ([link](https://www.threads.com/@akmaleky/post/Dfm1k4gn5ZH))
-  - _Replying to: Is that red spike as loud in person as it is here? The way …_
+- **bendlesmaid269**:  ([link](https://www.threads.com/@bendlesmaid269/post/Dfm9GbREYBT))
+  - Photo: Description: Clusters of vibrant red berries are interspersed among green and yellowing leaves on a bush. Sunlight catches the fruit and foliage, highlighting natural textures. Photograph read: The vertical composition uses a close-up perspective and soft, natural light to create a warm and lively botanical mood. Photo type: Nature photography
+- **mannistoniina**: I was photographing in october and it was a summer flower area, the colours just made me take a picture ([link](https://www.threads.com/@mannistoniina/post/Dfm8lXUocKR))
+  - _Replying to: The red poppies scattered through all that tangle are such …_
+- **bbingco**: Thank you! Just enjoying the view and capturing what makes me happy. ❤️📸 🌺🌸🤍 ([link](https://www.threads.com/@bbingco/post/Dfm9mAaDxxn))
+  - _Replying to: The bougainvillea spilling over the left side is my favorit…_
+- **maureenozerimages**: Having 3 reds in the window was a bold choice but it caught my eye for sure. If I was much younger I’d go for the middle one 💃😃 ([link](https://www.threads.com/@maureenozerimages/post/DfnAHpjjVoA))
+  - _Replying to: Three red gowns in one window is already a lot - and then t…_
+- **joaquinencinasphotography**: There are more photos from the parade in my instagram ([link](https://www.threads.com/@joaquinencinasphotography/post/Dfm9Do5Ghnv))
+  - _Replying to: What a celebration to be in the middle of. Thanks for shari…_
 - **abnerabel125**:  ([link](https://www.threads.com/@abnerabel125/post/Dfm0diQGyOo))
   - Photo: Description: This angled close-up view features an intricate, textured wall paneling made of alternating dark and light wooden blocks with prominent grain patterns. The warm lighting highlights the three-dimensional geometric design, creating a rich, patterned surface suitable for architectural or interior design appreciation. Photograph read: Captured from a sharp angle with a shallow depth of field, the warm
   - Photo: Description: A spiky, three-dimensional geometric ceramic sculpture sits centered on a flat surface against a warm, monochrome background. The lighting creates subtle shadows that accentuate the object's intricate, spiked texture and form. Photograph read: The centered composition and soft, directional lighting emphasize the tactile qualities of the sculpture, creating a
@@ -67,6 +57,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @reggae_gyal70 Your black cat on the blue tiles is slide fo…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
+- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DfnBdTdmif4))
+  - Photo: Description: A low-angle shot captures the sweeping, undulating balconies of a modern apartment building against a clear blue sky. Green foliage peeks in from the bottom left corner, adding a touch of nature to the architectural scene. Photograph read: The low-angle perspective emphasizes the repeating wave-like patterns of the balconies under bright, natural daylight. Photo type: Architectural
 - **wenn6077**:  ([link](https://www.threads.com/@wenn6077/post/DfmzZpelWSL))
   - Photo: Description: A top-down, macro-style close-up of a vibrant pink zinnia flower fills the frame, showcasing its tightly packed, layered petals and textured center against a dark, out-of-focus background. Photograph read: The tight framing centers the symmetrical blossom under even lighting, creating a bold, graphic mood. Photo type: Artistic
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
