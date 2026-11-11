@@ -646,36 +646,46 @@ _LOCAL_SECTIONS = re.compile(
     re.DOTALL,
 )
 _LOCAL_REFUSAL = re.compile(
-    r"\b(?:I cannot|I can't|I'm unable to|I am unable to)\s+"
-    r"(?:help with|assist with|provide|describe|analyze|analyse|process)\b",
+    r"\b(?:I cannot|I can't|I won't|I will not|I'm unable to|I am unable to|"
+    r"I am not able to|I'm not able to|I must decline to)\s+"
+    r"(?:comply|help|assist|provide|describe|analyze|analyse|process|fulfil|fulfill)\b",
     re.IGNORECASE,
 )
 
 
 def describe_local(image_data: tuple[str, str], deadline: float) -> str:
-    response = requests.post(
-        f"{config.OLLAMA_BASE_URL}/api/chat",
-        json={
-            "model": config.OLLAMA_MODEL,
-            "messages": [{"role": "user", "content": PROMPT, "images": [image_data[1]]}],
-            "stream": False,
-            "options": {"temperature": 0.2, "num_predict": 512},
-        },
-        timeout=(
-            _timeout(deadline, config.OLLAMA_CONNECT_TIMEOUT_SECONDS),
-            _timeout(deadline, config.OLLAMA_READ_TIMEOUT_SECONDS),
-        ),
-    )
+    with requests.Session() as session:
+        # Local image payloads must not inherit ambient proxies or credentials.
+        session.trust_env = False
+        response = session.post(
+            f"{config.OLLAMA_BASE_URL}/api/chat",
+            json={
+                "model": config.OLLAMA_MODEL,
+                "messages": [{"role": "user", "content": PROMPT, "images": [image_data[1]]}],
+                "stream": False,
+                "think": False,
+                "options": {"temperature": 0.2, "num_predict": 512},
+            },
+            timeout=(
+                _timeout(deadline, config.OLLAMA_CONNECT_TIMEOUT_SECONDS),
+                _timeout(deadline, config.OLLAMA_READ_TIMEOUT_SECONDS),
+            ),
+            allow_redirects=False,
+        )
     response.raise_for_status()
+    if 300 <= response.status_code < 400:
+        raise requests.RequestException("Ollama redirects are not followed")
     try:
         data = response.json()
         message = data.get("message", {})
         text = message.get("content", "").strip()
-        if message.get("refusal") or _LOCAL_REFUSAL.search(text):
+        normalized = text.replace("\r\n", "\n").replace("\u2019", "'").replace("\u2018", "'")
+        match = _LOCAL_SECTIONS.fullmatch(normalized)
+        refusal_text = match.group(1).strip() if match else normalized
+        if message.get("refusal") or _LOCAL_REFUSAL.search(refusal_text):
             raise OllamaRefusalError("Ollama declined to describe this photo")
         if data.get("done") is not True or data.get("done_reason") == "length":
             raise OllamaResponseError("Ollama description was incomplete")
-        match = _LOCAL_SECTIONS.fullmatch(text.replace("\r\n", "\n"))
         if not match or not all(part.strip() for part in match.groups()[:3]):
             raise OllamaResponseError("Ollama description missing expected sections")
     except (ValueError, AttributeError, TypeError) as exc:

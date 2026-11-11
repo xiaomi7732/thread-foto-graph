@@ -339,7 +339,7 @@ Edit `.env` with the Threads credentials, username, and:
 ```dotenv
 VISION_PROVIDER=auto
 OLLAMA_BASE_URL=http://127.0.0.1:11434
-OLLAMA_MODEL=qwen3-vl:4b
+OLLAMA_MODEL=qwen3-vl:4b-instruct
 GEMINI_API_KEY=your-key-if-cloud-fallback-is-wanted
 MAX_ROOT_THREADS=2
 MAX_ITERATIONS=1
@@ -363,7 +363,10 @@ ollama list
 bash run_daily.sh
 ```
 
-Ensure `qwen3-vl:4b` is installed (use `ollama pull qwen3-vl:4b` if needed).
+Ensure `qwen3-vl:4b-instruct` is installed
+(`ollama pull qwen3-vl:4b-instruct`). The explicit instruct tag avoids spending
+the short description's token budget on reasoning; requests also set
+`think: false`. Your existing WebUI chat model can remain unchanged.
 The wrapper takes the same local lock for manual and scheduled runs. Its
 default mode neither updates Git nor commits/pushes; inspect the generated
 files before enabling publishing. A second run should reuse cached photos.
@@ -376,7 +379,8 @@ requires a clean checkout.
   for Gemini. Local inference gets one attempt per photo, with separate
   connect/read timeouts (3s/180s by default). Endpoint/timeout failures disable
   Ollama for the rest of the run; three consecutive malformed outputs also
-  disable it. Explicit refusals are not sent to another provider.
+  disable it. Explicit refusals are not sent to another provider. Local
+  requests ignore environment proxies/credentials and do not follow redirects.
 - Gemini retains its existing retries and 5s throttling. Its quota,
   authentication, or outage breaker does not disable healthy local inference.
   Failures remain uncached/retryable; moderation outcomes retain their

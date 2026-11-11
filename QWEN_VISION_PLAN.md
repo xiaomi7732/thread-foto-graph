@@ -8,7 +8,7 @@ Branch: `plan/qwen-vision-fallback`.
 ## Goal and boundaries
 
 Run the photo-description pipeline on the Ubuntu AI box using Ollama's
-`qwen3-vl:4b` first, with Gemini as an optional fallback. Preserve the existing
+`qwen3-vl:4b-instruct` first, with Gemini as an optional fallback. Preserve the existing
 four-section photography prompt, generated outputs, carousel ordering,
 media-ID cache compatibility, and incremental progress saving. Record provider
 and model provenance for quality review from the first implementation.
@@ -52,7 +52,7 @@ VISION_PROVIDER=gemini
 # VISION_PROVIDER=auto
 # ollama means local-only, with no cloud fallback.
 OLLAMA_BASE_URL=http://127.0.0.1:11434
-OLLAMA_MODEL=qwen3-vl:4b
+OLLAMA_MODEL=qwen3-vl:4b-instruct
 ```
 
 Keep the existing Gemini model/key settings. Require a Gemini key in
@@ -66,8 +66,9 @@ Implementation:
    attempted photo and reuse the encoded bytes for fallback; a source-image
    fetch failure is not a provider failure and must not invoke Gemini.
 2. Use the existing `requests` dependency for Ollama's `/api/chat` endpoint:
-   send the model, existing prompt, base64 `images`, and `stream: false`.
-   Read the description from `message.content`.
+   send the explicit instruct model, existing prompt, base64 `images`,
+   `stream: false`, and `think: false`. Use a proxy-independent session and
+   reject redirects. Read the description from `message.content`.
 3. In the new Ollama path, reject empty, truncated, or structurally unusable
    descriptions before caching. Require the four expected labels, meaningful
    description/read/type sections, and permit an empty Watch-outs value.
@@ -122,7 +123,7 @@ media-ID keys in `cache/media_cache.json`:
   "123456789": {
     "description": "Description: ...\nPhotograph read: ...\nPhoto type: ...\nWatch-outs:",
     "provider": "ollama",
-    "model": "qwen3-vl:4b",
+    "model": "qwen3-vl:4b-instruct",
     "described_at": "2026-11-11T18:30:00Z",
     "fallback_reason": null
   }
@@ -258,7 +259,7 @@ The branch contains the provider implementation, backward-compatible cache,
 private report/server, Linux wrapper, systemd templates, hosted Gemini-only
 backup setting, setup instructions, and automated regression tests.
 
-Code-readiness checks completed: all 104 automated tests pass, including
+Code-readiness checks completed: the automated regression suite passes, including
 temporary-remote publishing/recovery tests and loopback review-server tests.
 Bash syntax, Unix deployment-file line endings, whitespace checks, and
 private-artifact ignore rules were also checked. No live model calls,

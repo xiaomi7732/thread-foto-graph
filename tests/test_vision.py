@@ -181,6 +181,10 @@ class LocalVisionTests(unittest.TestCase):
         ]
         self.mocks = [self.enterContext(patcher) for patcher in patches]
         _, _, self.sleep, self.get, self.post = self.mocks
+        self.enterContext(patch.object(
+            vision.requests.Session, "post",
+            side_effect=lambda *args, **kwargs: self.post(*args, **kwargs),
+        ))
         self.cache = {}
         self.attempted = {}
         self.state = vision.VisionRun(provider="auto", gemini_budget=10, local_budget=10)
@@ -214,6 +218,7 @@ class LocalVisionTests(unittest.TestCase):
         self.assertEqual(body["messages"][0]["images"], ["cGhvdG8="])
         self.assertEqual(body["messages"][0]["content"], vision.PROMPT)
         self.assertFalse(body["stream"])
+        self.assertIs(body["think"], False)
         self.sleep.assert_not_called()
 
     def test_local_failures_fall_back_using_one_download_and_actual_provider(self):
@@ -330,6 +335,44 @@ class LocalVisionTests(unittest.TestCase):
         self.assertEqual(self.state.gemini_requests, 0)
         self.post.assert_called_once()
 
+    def test_valid_photograph_read_disclaimer_is_not_a_refusal(self):
+        text = PHOTO_DESCRIPTION.replace(
+            "Warm side light emphasizes the ridges.",
+            "I cannot provide exact camera settings, but warm side light emphasizes the ridges.",
+        )
+        self.post.return_value = local_response(text)
+        item, _ = self.describe()
+        self.assertEqual(self.cache["photo"]["description"], text)
+        self.assertNotIn("blocked by", item["photo_descriptions"][0])
+        self.assertEqual(self.state.gemini_requests, 0)
+
+    def test_policy_refusal_variants_never_fall_back_to_gemini(self):
+        texts = (
+            "Sorry, I cannot comply with this request due to content policy.",
+            "I can\u2019t describe this image due to safety restrictions.",
+            "I'm unable to help with this request.",
+            PHOTO_DESCRIPTION.replace(
+                "A mountain at sunrise.", "I cannot comply with this request due to content policy.",
+            ),
+        )
+        for index, text in enumerate(texts):
+            with self.subTest(text=text):
+                self.post.reset_mock()
+                self.post.return_value = local_response(text)
+                item, _ = self.describe(str(index))
+                self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+                self.assertEqual(self.state.gemini_requests, 0)
+                self.post.assert_called_once()
+
+    def test_explicit_refusal_field_is_respected_even_with_valid_sections(self):
+        self.post.return_value = response(data={
+            "message": {"content": PHOTO_DESCRIPTION, "refusal": "Content policy"},
+            "done": True,
+        })
+        item, _ = self.describe()
+        self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+        self.assertEqual(self.state.gemini_requests, 0)
+
     def test_deadline_leaves_uncached_photos_pending_but_reads_cached_records(self):
         self.state.deadline = time.monotonic() - 1
         self.cache["cached"] = media_cache.make_entry(PHOTO_DESCRIPTION, "ollama", "qwen3-vl:4b")
@@ -406,6 +449,20 @@ class LocalVisionTests(unittest.TestCase):
         self.assertEqual(self.cache, {})
 
 
+class LocalTransportTests(unittest.TestCase):
+    def test_local_transport_bypasses_proxies_and_disables_thinking_and_redirects(self):
+        with patch.dict(os.environ, {
+            "HTTP_PROXY": "http://proxy.example.invalid:8080",
+            "HTTPS_PROXY": "http://proxy.example.invalid:8080",
+            "ALL_PROXY": "http://proxy.example.invalid:8080",
+            "NO_PROXY": "",
+        }), patch.object(vision.requests.Session, "send", return_value=local_response()) as send:
+            text = vision.describe_local(("image/jpeg", "cGhvdG8="), time.monotonic() + 10)
+        self.assertEqual(text, PHOTO_DESCRIPTION)
+        self.assertEqual(send.call_args.kwargs["proxies"], {})
+        self.assertFalse(send.call_args.kwargs["allow_redirects"])
+
+
 class VisionConfigTests(unittest.TestCase):
     def test_provider_modes_enforce_only_required_keys(self):
         with patch.object(vision.config, "GEMINI_API_KEY", ""):
@@ -422,3 +479,4 @@ class VisionConfigTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+import os
