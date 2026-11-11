@@ -448,6 +448,11 @@ commits, fast-forwards before processing, and stages only generated outputs.
 A pipeline failure does not publish. Push rejection gets bounded fetch/rebase
 recovery; conflicting outputs abort the rebase and retain the local commit
 and cache for manual recovery. Never force-push to resolve such failures.
+Each Git command, including credential-helper time, has a 120s limit
+(`GIT_TIMEOUT_SECONDS` in the process environment) and a 5s termination grace
+period. If interrupted Git recovery cannot abort cleanly, inspect `git status`
+and resolve any rebase or lock before retrying; do not delete recovery state
+or force-push blindly. The service's 55-minute limit bounds the complete run.
 
 After live verification, remove the small smoke-run caps from `.env` or set
 the desired production values. The user-level systemd templates assume the

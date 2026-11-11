@@ -28,25 +28,31 @@ if [[ ! -x "$python" ]]; then
 fi
 export GIT_TERMINAL_PROMPT=0
 
+run_git() {
+  timeout --signal=TERM --kill-after=5s "${GIT_TIMEOUT_SECONDS:-120}s" git "$@"
+}
+
 if "$publish"; then
-  if [[ -n "$(git status --porcelain)" ]]; then
+  checkout_status=$(run_git status --porcelain)
+  if [[ -n "$checkout_status" ]]; then
     echo "Checkout is dirty; review local changes before publishing." >&2
     exit 1
   fi
-  branch=$(git symbolic-ref --quiet --short HEAD)
-  upstream=$(git rev-parse --abbrev-ref --symbolic-full-name '@{upstream}')
-  remote=$(git config --get "branch.$branch.remote")
-  remote_ref=$(git config --get "branch.$branch.merge")
+  branch=$(run_git symbolic-ref --quiet --short HEAD)
+  upstream=$(run_git rev-parse --abbrev-ref --symbolic-full-name '@{upstream}')
+  remote=$(run_git config --get "branch.$branch.remote")
+  remote_ref=$(run_git config --get "branch.$branch.merge")
   if [[ "$remote" == "." ]]; then
     echo "Publishing requires a remote tracking branch." >&2
     exit 1
   fi
-  git fetch "$remote"
-  if [[ -n "$(git rev-list "$upstream..HEAD")" ]]; then
+  run_git fetch "$remote"
+  unpushed=$(run_git rev-list "$upstream..HEAD")
+  if [[ -n "$unpushed" ]]; then
     echo "Unpushed commits exist; review and push them before another run." >&2
     exit 1
   fi
-  git pull --ff-only "$remote" "$remote_ref"
+  run_git pull --ff-only "$remote" "$remote_ref"
 fi
 
 # The Python deadline leaves time to render outputs; this is a hard backstop.
@@ -58,21 +64,30 @@ if ! "$publish"; then
   exit 0
 fi
 
-git add -- data/needs-reply.md data/needs-like.md data/actions.md data/topics.md \
+run_git add -- data/needs-reply.md data/needs-like.md data/actions.md data/topics.md \
   data/threads data/history docs/graph.json
-if git diff --cached --quiet; then
+if run_git diff --cached --quiet; then
   echo "No output changes to publish."
   exit 0
+else
+  diff_status=$?
+  if (( diff_status != 1 )); then
+    echo "Could not inspect staged output; nothing committed or pushed." >&2
+    exit "$diff_status"
+  fi
 fi
-git commit -m "Update thread topic graph ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+run_git commit -m "Update thread topic graph ($(date -u +'%Y-%m-%d %H:%M UTC'))"
 
 for attempt in 1 2 3; do
-  if git push "$remote" "HEAD:$remote_ref"; then
+  if run_git push "$remote" "HEAD:$remote_ref"; then
     exit 0
   fi
-  git fetch "$remote"
-  if ! git rebase "$upstream"; then
-    git rebase --abort
+  run_git fetch "$remote"
+  if ! run_git rebase "$upstream"; then
+    if ! run_git rebase --abort; then
+      echo "Git recovery was interrupted; inspect git status before retrying. Local cache retained." >&2
+      exit 1
+    fi
     echo "Conflicting remote changes; local commit and cache retained. Resolve manually." >&2
     exit 1
   fi

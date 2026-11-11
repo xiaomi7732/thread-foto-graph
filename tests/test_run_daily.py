@@ -142,6 +142,47 @@ fi
         self.assertFalse((self.repo / ".git/rebase-merge").exists())
         self.assertEqual(self.git("rev-list", "--count", "origin/main..HEAD").stdout.strip(), "1")
 
+    def test_git_transport_timeouts_stop_preflight_or_preserve_unpushed_output(self):
+        self.write("test-bin/timeout", '#!/usr/bin/env bash\nexec /usr/bin/timeout "$@"\n')
+        self.write("test-bin/git", """#!/usr/bin/env bash
+if [[ "$1" == "$TEST_STALLED_GIT_COMMAND" ]]; then
+  printf 'started' > cache/git-timeout-test.log
+  /usr/bin/sleep 2
+fi
+exec "$TEST_REAL_GIT" "$@"
+""")
+        for operation in ("fetch", "push"):
+            with self.subTest(operation=operation):
+                result = self.run_script(
+                    "--publish", GIT_TIMEOUT_SECONDS="0.5",
+                    TEST_STALLED_GIT_COMMAND=operation, TEST_REAL_GIT=shutil.which("git"),
+                    TEST_CHANGE="bounded transport output",
+                )
+                self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+                self.assertTrue((self.repo / "cache/git-timeout-test.log").exists())
+                if operation == "fetch":
+                    self.assertEqual(result.returncode, 124)
+                    self.assertEqual(self.head(), self.baseline)
+                    self.assertFalse((self.repo / "cache/media_cache.json").exists())
+                else:
+                    self.assertNotEqual(self.head(), self.baseline)
+                    self.assertEqual((self.repo / "cache/media_cache.json").read_text(), "retained")
+                    self.assertEqual(
+                        self.git("rev-list", "--count", "origin/main..HEAD").stdout.strip(), "1",
+                    )
+
+    def test_failed_staged_output_check_does_not_commit_or_push(self):
+        self.write("test-bin/git", """#!/usr/bin/env bash
+if [[ "$1" == diff && "$2" == --cached ]]; then exit 124; fi
+exec "$TEST_REAL_GIT" "$@"
+""")
+        result = self.run_script(
+            "--publish", TEST_REAL_GIT=shutil.which("git"), TEST_CHANGE="unpublished output",
+        )
+        self.assertEqual(result.returncode, 124, result.stdout + result.stderr)
+        self.assertEqual(self.head(), self.baseline)
+        self.assertEqual((self.repo / "cache/media_cache.json").read_text(), "retained")
+
 
 if __name__ == "__main__":
     unittest.main()

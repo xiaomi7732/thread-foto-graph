@@ -646,13 +646,33 @@ _LOCAL_SECTIONS = re.compile(
     re.DOTALL,
 )
 _LOCAL_REFUSAL = re.compile(
-    r"\A(?:(?:(?:I'm |I am )?sorry|I apologi[sz]e|unfortunately)[,.!:\s]+(?:but\s+)?)?"
-    r"(?:I can ?not|I can't|I won't|I will not|I'm unable to|I am unable to|"
-    r"I am not able to|I'm not able to|I must decline to)\s+"
-    r"(?:(?:\w+ly|in good conscience)\s+){0,3}"
-    r"(?:comply|help|assist|provide|describe|analyze|analyse|process|fulfil|fulfill)\b",
+    r"\A(?:(?:(?:I'm |I am )?sorry|I apologi[sz]e|unfortunately|regrettably|"
+    r"As an AI(?: [^,\n.!?]+)?)[,.!:\s]+(?:(?:but|however)\s+)?)*"
+    r"(?:(?:I can ?not|I can't|I won't|I will not|I'm unable to|I am unable to|"
+    r"I am not (?:able|allowed|permitted) to|I'm not (?:able|allowed|permitted) to)"
+    r"\s+(?P<explanation>.*)|"
+    r"I (?:(?:must|have to|need to|am required to)\s+)?"
+    r"(?:(?:\w+ly)\s+){0,3}(?:refuse|decline)\b)",
     re.IGNORECASE,
 )
+
+
+def _is_local_refusal(text: str) -> bool:
+    leading = re.sub(r"\ADescription:\s*", "", text, count=1, flags=re.IGNORECASE)
+    leading = re.split(r"\n(?:Photograph read|Photo type|Watch-outs):", leading, maxsplit=1)[0].strip()
+    match = _LOCAL_REFUSAL.match(leading)
+    if not match:
+        return False
+    explanation = match.group("explanation")
+    if explanation is None:
+        return True
+    if re.search(r"\b(?:polic(?:y|ies)|privacy|safety|restrictions?|guidelines)\b", explanation, re.IGNORECASE):
+        return True
+    return bool(re.match(
+        r"(?:(?:\w+ly|in good conscience)\s+){0,3}"
+        r"(?:comply|help|assist|provide|describe|analyze|analyse|process|fulfil|fulfill)\b",
+        explanation, re.IGNORECASE,
+    ))
 
 
 def describe_local(image_data: tuple[str, str], deadline: float) -> str:
@@ -685,8 +705,7 @@ def describe_local(image_data: tuple[str, str], deadline: float) -> str:
         text = message.get("content", "").strip()
         normalized = text.replace("\r\n", "\n").replace("\u2019", "'").replace("\u2018", "'")
         match = _LOCAL_SECTIONS.fullmatch(normalized)
-        refusal_text = re.sub(r"\ADescription:\s*", "", normalized, count=1, flags=re.IGNORECASE)
-        if _LOCAL_REFUSAL.match(refusal_text):
+        if _is_local_refusal(normalized):
             raise OllamaRefusalError("Ollama declined to describe this photo")
         if data.get("done") is not True or data.get("done_reason") == "length":
             raise OllamaResponseError("Ollama description was incomplete")

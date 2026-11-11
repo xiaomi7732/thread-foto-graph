@@ -366,6 +366,10 @@ class LocalVisionTests(unittest.TestCase):
             "I apologize, but I cannot describe this image.",
             "Unfortunately, I can't help with this request.",
             "I can not describe this image.",
+            "I must refuse to describe this image due to content policy.",
+            "I'm sorry, but I can't identify the person in this image due to privacy restrictions.",
+            "As an AI language model, I cannot tell who is pictured due to privacy restrictions.",
+            "I have to decline this request.",
             "Description: I cannot describe this image due to content policy.",
             "Description: I cannot describe this image due to content policy.\n"
             "Photograph read:\nPhoto type:\nWatch-outs:",
