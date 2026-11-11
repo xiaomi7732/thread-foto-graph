@@ -346,10 +346,23 @@ class LocalVisionTests(unittest.TestCase):
         self.assertNotIn("blocked by", item["photo_descriptions"][0])
         self.assertEqual(self.state.gemini_requests, 0)
 
+    def test_quoted_refusal_like_text_in_image_description_is_not_a_refusal(self):
+        text = PHOTO_DESCRIPTION.replace(
+            "A mountain at sunrise.",
+            'A screenshot of a post whose caption reads "I can\'t help laughing at my cat."',
+        )
+        self.post.return_value = local_response(text)
+        item, _ = self.describe()
+        self.assertEqual(self.cache["photo"]["description"], text)
+        self.assertNotIn("blocked by", item["photo_descriptions"][0])
+        self.assertEqual(self.state.gemini_requests, 0)
+
     def test_policy_refusal_variants_never_fall_back_to_gemini(self):
         texts = (
             "Sorry, I cannot comply with this request due to content policy.",
             "I can\u2019t describe this image due to safety restrictions.",
+            "I cannot safely describe this image due to content policy.",
+            "Sorry, but I cannot ethically assist with this request.",
             "I'm unable to help with this request.",
             PHOTO_DESCRIPTION.replace(
                 "A mountain at sunrise.", "I cannot comply with this request due to content policy.",
@@ -365,13 +378,28 @@ class LocalVisionTests(unittest.TestCase):
                 self.post.assert_called_once()
 
     def test_explicit_refusal_field_is_respected_even_with_valid_sections(self):
-        self.post.return_value = response(data={
-            "message": {"content": PHOTO_DESCRIPTION, "refusal": "Content policy"},
-            "done": True,
-        })
-        item, _ = self.describe()
-        self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
-        self.assertEqual(self.state.gemini_requests, 0)
+        for index, content in enumerate((PHOTO_DESCRIPTION, None)):
+            with self.subTest(content=content):
+                self.post.return_value = response(data={
+                    "message": {"content": content, "refusal": "Content policy"},
+                    "done": True,
+                })
+                item, _ = self.describe(str(index))
+                self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+                self.assertEqual(self.state.gemini_requests, 0)
+
+    def test_recovered_local_error_does_not_mislabel_budget_fallback(self):
+        self.state.local_budget = 2
+        self.post.side_effect = [
+            local_response("invalid"), gemini_response(),
+            local_response(), gemini_response(),
+        ]
+        self.describe("failed-local")
+        self.describe("successful-local")
+        self.describe("budget-fallback")
+        self.assertEqual(self.cache["failed-local"]["fallback_reason"], "ollama_invalid_output")
+        self.assertIsNone(self.cache["successful-local"]["fallback_reason"])
+        self.assertEqual(self.cache["budget-fallback"]["fallback_reason"], "ollama_budget_exhausted")
 
     def test_deadline_leaves_uncached_photos_pending_but_reads_cached_records(self):
         self.state.deadline = time.monotonic() - 1

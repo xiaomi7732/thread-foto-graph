@@ -646,8 +646,10 @@ _LOCAL_SECTIONS = re.compile(
     re.DOTALL,
 )
 _LOCAL_REFUSAL = re.compile(
-    r"\b(?:I cannot|I can't|I won't|I will not|I'm unable to|I am unable to|"
+    r"\A(?:(?:I'm |I am )?sorry[,.!:\s]+(?:but\s+)?)?"
+    r"(?:I cannot|I can't|I won't|I will not|I'm unable to|I am unable to|"
     r"I am not able to|I'm not able to|I must decline to)\s+"
+    r"(?:(?:\w+ly|in good conscience)\s+){0,3}"
     r"(?:comply|help|assist|provide|describe|analyze|analyse|process|fulfil|fulfill)\b",
     re.IGNORECASE,
 )
@@ -678,11 +680,13 @@ def describe_local(image_data: tuple[str, str], deadline: float) -> str:
     try:
         data = response.json()
         message = data.get("message", {})
+        if message.get("refusal"):
+            raise OllamaRefusalError("Ollama declined to describe this photo")
         text = message.get("content", "").strip()
         normalized = text.replace("\r\n", "\n").replace("\u2019", "'").replace("\u2018", "'")
         match = _LOCAL_SECTIONS.fullmatch(normalized)
         refusal_text = match.group(1).strip() if match else normalized
-        if message.get("refusal") or _LOCAL_REFUSAL.search(refusal_text):
+        if _LOCAL_REFUSAL.match(refusal_text):
             raise OllamaRefusalError("Ollama declined to describe this photo")
         if data.get("done") is not True or data.get("done_reason") == "length":
             raise OllamaResponseError("Ollama description was incomplete")
@@ -775,10 +779,11 @@ class VisionRun:
                 print(f"Ollama failed ({fallback_reason}); trying Gemini if available.", flush=True)
             else:
                 self.local_failures = 0
+                self.local_reason = None
                 print(f"Vision: ollama / {config.OLLAMA_MODEL}", flush=True)
                 return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
         elif self.provider == "auto":
-            fallback_reason = self.local_reason or "ollama_budget_exhausted"
+            fallback_reason = self.local_reason if self.local_disabled else "ollama_budget_exhausted"
 
         if not self.can_gemini() or time.monotonic() >= self.deadline:
             return None, None

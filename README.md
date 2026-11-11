@@ -379,8 +379,10 @@ requires a clean checkout.
   for Gemini. Local inference gets one attempt per photo, with separate
   connect/read timeouts (3s/180s by default). Endpoint/timeout failures disable
   Ollama for the rest of the run; three consecutive malformed outputs also
-  disable it. Explicit refusals are not sent to another provider. Local
-  requests ignore environment proxies/credentials and do not follow redirects.
+  disable it. Explicit refusal metadata and recognized leading English
+  refusal statements are not sent to another provider; quoted image text
+  and photography-read disclaimers do not constitute a refusal. Local requests
+  ignore environment proxies/credentials and do not follow redirects.
 - Gemini retains its existing retries and 5s throttling. Its quota,
   authentication, or outage breaker does not disable healthy local inference.
   Failures remain uncached/retryable; moderation outcomes retain their
