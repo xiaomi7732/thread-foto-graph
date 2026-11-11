@@ -33,7 +33,7 @@ up this clone. They do not share the box's execution lock.
 
 ```bash
 sudo apt update
-sudo apt install -y git python3-venv
+sudo apt install -y git python3-venv vim
 python3 --version
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
@@ -67,10 +67,11 @@ API configuration is needed for the pipeline.
 umask 077
 [ -f .env ] || cp .env.example .env
 chmod 600 .env
-nano .env
+vim .env
 ```
 
-In nano, save with Ctrl+O, Enter, then exit with Ctrl+X.
+In vim, press `i` to edit. Press Esc, type `:wq`, then press Enter to save
+and exit.
 
 Fill in your existing `THREADS_ACCESS_TOKEN` and `THREADS_USERNAME` privately.
 Do not paste tokens into chat, Git, screenshots, or command-line arguments.
@@ -217,7 +218,7 @@ the configured per-run budget.
 Only after local inference works:
 
 ```bash
-nano .env
+vim .env
 ```
 
 Set `VISION_PROVIDER=auto` and fill in `GEMINI_API_KEY` privately. Preserve your
