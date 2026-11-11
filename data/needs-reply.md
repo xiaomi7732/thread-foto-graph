@@ -4,11 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (19)
+## Needs Reply (22)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- **silmarillioncollector**:  ([link](https://www.threads.com/@silmarillioncollector/post/DfmxIO7DCTr))
-  - Photo: Description: A close-up, eye-level shot captures a
+- **katiep_0_0**:  ([link](https://www.threads.com/@katiep_0_0/post/DfmykWVDkog))
+  - Photo: Description: Two red-and-white striped industrial chimneys rise behind a low stone wall along an empty, sunlit asphalt road. The hazy sky and bright overhead sun cast a warm, sepia-toned atmosphere over the urban streetscape. Photograph read: The vertical composition uses the leading lines of the road to draw the eye toward the distant chimneys under strong backlight,
+- **remondiazart**:  ([link](https://www.threads.com/@remondiazart/post/DfmyfsmllMz))
+  - Photo: Description: A shot from behind shows an older person with white hair, wearing a dark grey shirt, positioned beside a bright red balloon against a softly blurred natural background. Photograph read: Captured in soft, diffused light with a shallow depth of field, the composition places the person and the vibrant red balloon as contrasting focal points against a muted green and grey backdrop. Photo type:
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Dfmx6IEGjEw))
+  - Photo: Description: A vibrant red ginger flower stands prominently against broad green leaves, positioned beside a wire mesh fence and a light grey wall. The urban outdoor setting contrasts natural flora with industrial building elements. Photograph read: The shot uses a centered vertical composition under soft, even daylight, creating a clean contrast between the bright red bloom and neutral grey background. Photo type: Snapshot
+- **silmarillioncollector**: It's probably the Atlases that come down most often, of these; the Bestiary isn't an everyday read, but can be great fun to look through. ([link](https://www.threads.com/@silmarillioncollector/post/DfmyM0-jBXE))
+  - _Replying to: I think that red Bestiarum label is doing the heavy lifting…_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
 - **charhedman**: Yes. It takes away from the pattern. With B/w, you're just looking at the shapes, and the tones. ([link](https://www.threads.com/@charhedman/post/Dfmr484m5EC))
