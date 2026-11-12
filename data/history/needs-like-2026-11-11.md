@@ -4,13 +4,15 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (20)
+## Needs Like (23)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
 - 2killamockingbird: 🙏🙏🙏🙏 thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/DfnDpHXAF9l))
+- edanjojon: Your wellcome ([link](https://www.threads.com/@edanjojon/post/DfnliPMEoVX))
 - syldelteglia: Thank you!🫶 ([link](https://www.threads.com/@syldelteglia/post/Dfm9tt6AM1O))
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
+- charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/Dfn5PGQG-Qj))
 - dwordops: Thank you ([link](https://www.threads.com/@dwordops/post/DfmMs3IoFH3))
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
@@ -18,6 +20,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - picsall: Noon. ([link](https://www.threads.com/@picsall/post/DflXR9rmnP7))
 - blackhawkdavej: Celosia ([link](https://www.threads.com/@blackhawkdavej/post/DfnEYqflhXY))
 - cgearhardt: Sacred Geometry ([link](https://www.threads.com/@cgearhardt/post/Dfk7STODwQ9))
+- susantodd535: It was. ([link](https://www.threads.com/@susantodd535/post/DfnpHy_j_oL))
 - susantodd535: Mango cheesecake ([link](https://www.threads.com/@susantodd535/post/Dfk7TMVgbfk))
 - koza.100: After ([link](https://www.threads.com/@koza.100/post/Dfk9ElVjvVr))
 - debanne68:  ([link](https://www.threads.com/@debanne68/post/Dfk2DyBkmSM))

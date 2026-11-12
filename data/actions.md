@@ -6,113 +6,115 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (80)
+## Needs Reply (76)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- **craigkeepingbusy**:  ([link](https://www.threads.com/@craigkeepingbusy/post/DfncitKm5cW))
-  - Photo: Description: A high-angle, downward shot captures an ornate, serpentine double staircase covered in vibrant red carpet inside a historic, wood-paneled bookstore. Visitors walk along the curved steps and browse surrounding bookshelves packed with merchandise. Photograph read: The high-angle perspective emphasizes the symmetrical, swooping geometry of the wooden staircases, illuminated by interior lighting that creates a warm, atmospheric mood. Photo type: Documentary
-- **reallivenature**:  ([link](https://www.threads.com/@reallivenature/post/DfnbvUYHX8R))
-  - Photo: Description: A vibrant, bright red hibiscus flower fills the frame, showcasing deeply textured petals and a prominent yellow stamen. Green leaves and a sunny outdoor garden background provide natural context. Photograph read: Captured in bright, direct daylight, the vertical composition highlights the intricate folds and rich color saturation of the flower against a softly out-of-focus background. Photo type: Snapshot
-    - Watch-outs: Bright red petal edges clipped to white in harsh sunlight
-- **smilingjeannie**: Hanoi, Vietnam ([link](https://www.threads.com/@smilingjeannie/post/DfnaLm4HVbq))
-  - Photo: Description: A paved walkway is framed by a curved metal archway decorated with circular signs, Vietnamese flags, and hanging foliage. The scene creates a festive, patriotic atmosphere in an outdoor garden setting. Photograph read: The symmetrical composition draws the eye down the central path, illuminated by bright daylight filtering through trees. Photo type: Documentary
-- **_wand3rlustly**:  ([link](https://www.threads.com/@_wand3rlustly/post/DfnZSVjE-t0))
-  - Photo: Description: A vibrant red hibiscus flower dominates the frame, showcasing its prominent stamen laden with yellow pollen against a dark, out-of-focus background of green leaves. Photograph read: The tight vertical framing emphasizes the striking contrast between the rich red petals and the dark foliage, illuminated by soft natural light. Photo type: Botanical snapshot
-- **greghillman11**:  ([link](https://www.threads.com/@greghillman11/post/DfnZRsNE9Wr))
-  - Photo: Description: A shirtless man with extensive full-body tattoos jumps mid-air in front of a red smoke backdrop while gripping a katana over his head. He gazes directly at the camera with an intense expression. Photograph read: Captured in a dynamic vertical composition against a moody red and black background, the dramatic side-lighting highlights the subject's tattooed torso and the gleaming edge of the sword. Photo type: Portrait
-- **mommatex**:  ([link](https://www.threads.com/@mommatex/post/DfnXSeskj0z))
-  - Photo: Description: A small glass bottle ornament hangs on a Christmas tree, enclosing a red ladybug charm suspended above yellow moss. The background features green pine needles and warm, blurred holiday lights. Photograph read: Shot at close range with a narrow depth of field, the subject is sharply isolated against a softly blurred, bokeh-filled holiday background. Photo type: Snapshot
-- **loving_life_in_the_sun**:  ([link](https://www.threads.com/@loving_life_in_the_sun/post/DfnWc_-EiOn))
-  - Photo: Description: A top-down close-up view shows a vibrant red zinnia flower with a detailed center of yellow stamen and purple florets. The background is partially filled with green foliage and a glimpse of shoes at the bottom. Photograph read: Soft natural light illuminates the subject from above, capturing sharp textural detail in the flower's velvety petals and central stamen. Photo type: Snapshot
-- **hannele.heikkinen**: Unexpected visitor in my red bucket ([link](https://www.threads.com/@hannele.heikkinen/post/DfnT2PjDme6))
-  - Photo: Description: A small brown mouse sits atop a cluster of dark berries against a vibrant pink background. The top-down perspective highlights the texture of the mouse's fur and the glossy surfaces of the fruit. Photograph read: The high-key red lighting and saturated tones create a dramatic, surreal mood with a close-up composition. Photo type: Artistic
+- **karful49**:  ([link](https://www.threads.com/@karful49/post/Dfn5RVhFRhU))
+  - Photo: Description: A top-down view of lush indoor foliage, featuring variegated green and white leaves interspersed with bright red anthurium flowers. The dense arrangement creates a rich, textural garden scene. Photograph read: The composition uses a flat, even perspective with natural light, capturing the vivid contrast between the glossy red blooms and patterned leaves in a serene mood. Photo type: Documentary
+- **miqui822**:  ([link](https://www.threads.com/@miqui822/post/Dfn40NBkRWO))
+  - Photo: Description: A vibrant potted poinsettia plant sits indoors with bright red bracts centered in the frame. A wooden chair and patterned tabletop are visible in the blurred background. Photograph read: Captured from a high angle, the shot highlights the rich red and green tones under natural indoor lighting, creating a warm and festive mood. Photo type: Snapshot
+- **elanel50**: Remembrance Day ([link](https://www.threads.com/@elanel50/post/Dfn2rIxDyJy))
+  - Photo: Description: This vertical shot shows a long wall covered in dense red poppies, extending down a bright, narrow corridor with a statue visible in the distance. The arrangement creates a solemn and poignant visual tribute. Photograph read: Shot from a low diagonal angle with a shallow depth of field, the image highlights the sharp foreground poppies while the background wall and corridor soften into a bright, reverent atmosphere. Photo type: Documentary
+    - Watch-outs: Foreground poppies extremely sharp; background wall and distant corridor progressively blurred.
+  - Photo: Description: A person places a bright red poppy on a dark bronze memorial wall inscribed with lists of names, likely during a remembrance ceremony. Several other artificial poppies hang vertically beside the placement. Photograph read: The shot uses a tight, vertical composition focusing on the hands and the inscribed names, under even, diffused daylight that creates a solemn and respectful mood. Photo type: Documentary
+- **sitihamidah1973**:  ([link](https://www.threads.com/@sitihamidah1973/post/DfnvNaQkioU))
+  - Photo: Description: A close-up shot captures a vibrant cluster of deep red roses blooming in bright sunlight, with green foliage and grass blurred in the background. The natural setting suggests an outdoor garden on a clear day. Photograph read: The tight framing centers on the textured petals lit by direct sunlight, creating a high-contrast interplay of bright highlights and deep shadows that emphasizes the saturated color and organic forms. Photo type: Snapshot
+- **brandy_fletcher004**:  ([link](https://www.threads.com/@brandy_fletcher004/post/Dfnufgsj7xJ))
+  - Photo: Description: A close-up shot of a vibrant red flower covered in scattered water droplets, with green foliage visible underneath and a pale background above. The tight framing highlights the ruffled texture of the wet petals. Photograph read: The image features a centered close-up composition under diffuse lighting, creating a moody and tactile atmosphere. Photo type: Snapshot
+    - Watch-outs: Vignetting along the top corners and edges; soft focus across portions of the petals, where intentional or missed focus is not determinable from the image.
+- **silver_halide_wanderings**: Tis Thursday in Cambodia but Hey Oh. ([link](https://www.threads.com/@silver_halide_wanderings/post/Dfnr2oSE7PV))
+- **refracted_reveries**:  ([link](https://www.threads.com/@refracted_reveries/post/DfnrlWcCCzH))
+  - Photo: Description: Vibrant red autumn leaves fill the frame, backlit by a bright sun creating a prominent starburst effect. This eye-catching nature shot captures the peak colors of fall foliage. Photograph read: The vertical composition uses strong backlighting to emphasize the intricate vein patterns and fiery translucence of the leaves, creating a warm, energetic mood. Photo type: Artistic nature photograph
+    - Watch-outs: Sun disc clipped to white with starburst diffraction spikes and flare streaks
+- **abhimanyu1977**: Tropical fruits ([link](https://www.threads.com/@abhimanyu1977/post/DfnqHsRnwvW))
+  - Photo: Description: A high-angle shot displays an assortment of neatly arranged fresh tropical fruits packaged in styrofoam trays and wrapped in clear plastic. Sliced guava, green and white rose apples, durian, and bananas feature handwritten blue price tags, creating a colorful market display. Photograph read: An overhead, flat-lay composition illuminated by even, direct light captures the vibrant colors and glossy textures of the fruit packaging, creating a clean and orderly mood. Photo type: Documentary
+- **nannabon1**:  ([link](https://www.threads.com/@nannabon1/post/DfnpH06kZ63))
+  - Photo: Description: A vibrant, branching red seed head or cluster of dried stems is centered against a soft, out-of-focus background of muted earth tones and dry grass. The stark color contrast highlights the intricate, star-like structure of the plant remnant during a quiet season. Photograph read: The subject is centrally framed with a shallow depth of field under diffused natural light, creating a calm and observant mood. Photo type: Nature snapshot
+  - Photo: Description: A vibrant red rose glistening with dew drops is captured from a high-angle perspective amidst garden foliage and fallen autumn leaves. The rich color of the flower and natural elements create an earthy, seasonal mood. Photograph read: Soft overall; intentional or missed focus not determinable from the image. Photo type: Snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **jacqrho**:  ([link](https://www.threads.com/@jacqrho/post/DfnS7l8EyUc))
-  - Photo: Description: A close-up shot of a vibrant red bottlebrush flower hanging downward, surrounded by green leaves and a blurred outdoor background. This striking botanical subject makes a great post for nature lovers and garden enthusiasts. Photograph read: The vertical composition centers on the textured red blossom under soft, natural daylight, creating a calm and botanical mood. Photo type: Nature snapshot
-- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DfnSDJaCOEj))
-  - Photo: Description: A striking, monolithic bright red building dominates a sunny street corner, contrasted by a brown architectural structure in the foreground. Street signs pointing toward C/ Bellver and Sercotel Zurbarán add local context to the urban scene. Photograph read: Direct midday sunlight creates crisp shadows and high-contrast forms, emphasizing the vibrant red facade and architectural geometry. Photo type: Snapshot
-- **sue_wigs**:  ([link](https://www.threads.com/@sue_wigs/post/DfnQK2KiHOy))
-  - Photo: Description: A group of people in work clothes stand near a large, bright red steam breakdown crane on railway tracks, with a wooded area in the background. This outdoor industrial scene captures railway enthusiasts or workers gathered around historic machinery. Photograph read: Captured from a slightly elevated eye-level angle, the wide horizontal composition places the vibrant red crane centrally against a backdrop of muted greens and a cloudy sky, creating a documentary mood. Photo type: Documentary
-- **chemacordones**:  ([link](https://www.threads.com/@chemacordones/post/DfnPo3liHsi))
-  - Photo: Description: Vibrant red crown of thorns flowers bloom amidst glossy green leaves, creating a bright and natural subject suitable for a gardening or nature post. Photograph read: Soft overall; intentional or missed focus not determinable from the image. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **skritora_poesia_del_alma**: Lo más hermoso Chema wow♥️♥️♥️♥️🙌 ([link](https://www.threads.com/@skritora_poesia_del_alma/post/DfnTJbEGYE1))
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DfnnnVKn2d8))
+  - Photo: Description: A dense cluster of glossy, bright red crabapples hangs from thin, arched stems against a blurred backdrop of green foliage and a clear blue sky. The close-up view highlights the vibrant colors and smooth textures of the autumn fruit. Photograph read: The tight framing places the sharp red berries as the central subject, rendered with crisp highlights under bright daylight against a softly blurred background. Photo type: Nature close-up
+    - Watch-outs: Highlights clipped to white on the surfaces of several berries.
+- **posts.by.norman**: 2026 Sapao-an Festival, Cardona, Rizal Province ([link](https://www.threads.com/@posts.by.norman/post/DfnnZLhk4o7))
+  - Photo: Description: A performer in a vibrant red dress and headdress dances joyfully in the foreground while holding a figurine, as a procession of dancers with white feathered fans follows down a street during a festival. Photograph read: Captured from a high angle in bright daylight, the image uses dynamic movement and a striking color contrast between the central red gown and the surrounding performers to create an energetic and celebratory mood. Photo type: Documentary snapshot
+- **buzz.crunch**:  ([link](https://www.threads.com/@buzz.crunch/post/Dfnl3GEEgzN))
+  - Photo: Description: This low-angle indoor shot features a tall wooden bookcase filled with books and various decorative objects, all illuminated by a strong red light. Atop and beside the case rest dark sculptures and a large, ornate sword replica. Photograph read: Monochromatic red lighting casts heavy shadows across the cluttered shelves, creating a dramatic, ominous mood with strong vertical composition. Photo type: Snapshot
+    - Watch-outs: Highlights clipped to saturated red on the vertical light strip and adjacent surfaces.
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfnhZWoEmXO))
+  - Photo: Description: A hand holds a vibrant red envelope adorned with gold and pink floral illustrations and swimming fish. The festive design suggests a celebratory occasion like Lunar New Year. Photograph read: Captured in a vertical frame with flat lighting, the shot centers on the red envelope held against a neutral background. Photo type: Snapshot
+- **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/DfnhWCBn_jF))
+  - Photo: Description: Patrons gather around a brightly lit central bar beneath a massive clock tower and ornate, gilded ceiling inside a grand hotel or restaurant lounge. Holiday decor, including a decorated Christmas tree to the left, suggests a festive seasonal outing. Photograph read: Captured from a low-angle perspective, the frame centers symmetrically on the illuminated bar structure, creating a warm, social atmosphere defined by ambient overhead lighting and glowing shelves. Photo type: Documentary
+- **lucyslon**:  ([link](https://www.threads.com/@lucyslon/post/DfngkOolQ5s))
+  - Photo: Description: A red knitted garment with a pointed top, braided center detail, and a tassel lies flat against a black-and-white striped fabric background. Photograph read: Captured from directly overhead in even lighting, the flat-lay composition clearly
+- **craigkeepingbusy**: Yes it is , Livraria Lello. The story goes that JK Rowling got her inspiration for the moving stairs in the Harry Potter movies from here. ([link](https://www.threads.com/@craigkeepingbusy/post/Dfnmkj1G849))
+  - _Replying to: Is this the bookshop in Porto? That red carpet turns the st…_
+- **smilingjeannie**: Truly nothing special - simply decor. The bright red Vietnamese flags were evident everywhere. ([link](https://www.threads.com/@smilingjeannie/post/Dfnj48jnRCP))
+  - Photo: Description: Rows of red and yellow Vietnamese flags are neatly strung across a wooden fence between a brick post and a storefront display of colorful lanterns and incense sticks. The festive street scene conveys local culture and community pride. Photograph read: The evenly lit, straight-on composition highlights the geometric repetition of the flags against rustic textures under bright daylight. Photo type: Documentary snapshot
+  - _Replying to: A whole tunnel of red flags - the walkway reads like a cele…_
+- **_wand3rlustly**: Honestly, the details caught my attention. I just wanted to get closer and see what I usually miss from a distance. Turns out, there's a lot going on in one little flower. 😊 ([link](https://www.threads.com/@_wand3rlustly/post/DfniXRYk_iI))
+  - _Replying to: I think getting in that tight was the right call - the stam…_
+- **greghillman11**: About 6 before I had a keeper. I added the tatts with PS 😁 ([link](https://www.threads.com/@greghillman11/post/Dfnjgpyk71m))
+  - _Replying to: That leap is pure theatre - katana up, red smoke everywhere…_
+- **hannele.heikkinen**: Yes all are reddish, even blueberries. Visitor stayed a few hours before I noticed, I took it back to the woods and gave all the blueberries. ([link](https://www.threads.com/@hannele.heikkinen/post/DfnhOgeDueg))
+  - _Replying to: An unexpected guest, right at home on the berries - the red…_
+- **jacqrho**: No..usually in Spring and Summer. It is Spring here in Australia. 😊 ([link](https://www.threads.com/@jacqrho/post/Dfng8M5kykn))
+  - _Replying to: Those red bristles look like they are bursting out of the f…_
+- **musulnamja**: I know , right! ([link](https://www.threads.com/@musulnamja/post/DfniwP0pSBe))
+  - _Replying to: How does a whole building end up that red? The blue sky beh…_
+- **chemacordones**: Es esa planta, aquí otra toma de la misma planta ([link](https://www.threads.com/@chemacordones/post/DfngxOYCBVl))
+  - Photo: Description: Vibrant red crown of thorns flowers and thick green leaves are captured in a close-up, sunlit garden setting. This warm, nature-focused composition makes a bright addition to any plant lover's social feed. Photograph read: The tight framing and selective focus highlight the sharp red petals against blurred, sun-dappled foliage, creating a warm, organic mood. Photo type: Artistic
+    - Watch-outs: Bright petal edges clipped to white; intentional or missed exposure not determinable from the image.
+  - _Replying to: Are those crown of thorns? The red against the glossy green…_
+- **beatrizaliciasalazar**: Uups!! Qué belleza!!👍 ([link](https://www.threads.com/@beatrizaliciasalazar/post/DfnfHqgnDiT))
+  - _Replying to: (photo reply, no text)_
+- **paktty_sg888**: Lo más hermoso Chema wow♥️♥️♥️♥️🙌 ([link](https://www.threads.com/@paktty_sg888/post/DfnTJbEGYE1))
   - _Replying to: (photo reply, no text)_
 - **chemacordones**: Muchas gracias Paktty, gracias de corazón ([link](https://www.threads.com/@chemacordones/post/DfnTkNlCK_d))
   - _Replying to: Lo más hermoso Chema wow♥️♥️♥️♥️🙌_
-- **picsall**:  ([link](https://www.threads.com/@picsall/post/DfnPjK2kvOS))
-  - Photo: Description: An elderly man wearing a baseball cap and jacket sits at the steering wheel of an older, red tractor adorned with two American flags. The tractor is parked in front of a building with large windows and a stone pillar. Photograph read: Captured in daylight, the side-profile composition frames the man and tractor against a textured building facade, conveying a quiet, patriotic scene. Photo type: Documentary
+- **picsall**: Veterans’ parade in Las Cruces, New Mexico on Saturday, November 7, 2026. ([link](https://www.threads.com/@picsall/post/Dfng6I3ks2P))
+  - _Replying to: An old red tractor, an American flag, and a driver who look…_
+- **ritam1ller**: Nelson NZ light show. The other night. This was an installation in the cathedral ([link](https://www.threads.com/@ritam1ller/post/Dfngt1FoDQb))
+  - _Replying to: The whole room went red and the lasers just kept crossing -…_
+- **lieta1602**: It was my beloved husband birthday ([link](https://www.threads.com/@lieta1602/post/DfnjHVEGvLw))
+  - Photo: Description: A frosted meringue cake with five lit birthday candles sits on a dining table set for a gathering. The scene is captured at eye-level, highlighting the warm glow of the candles against a dimly lit room background. Photograph read: The composition centers on the glowing birthday cake, utilizing the candle flames as the primary light source to create a warm and celebratory mood. Photo type: Snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **susanrogerskaisch**: Tomatoes from our backyard. ([link](https://www.threads.com/@susanrogerskaisch/post/DfnOUnUkpnY))
-  - Photo: Description: A cluster of bright red cherry and small vine tomatoes rests inside a deep blue ridged plastic bowl. The overhead view highlights the vibrant contrast between the red produce and the blue container. Photograph read: Captured from directly above, the high-angle shot uses bright, even lighting to emphasize the round shapes and saturated colors of the tomatoes against the textured blue bowl. Photo type: Snapshot
-- **edwillis0**:  ([link](https://www.threads.com/@edwillis0/post/DfnN1uRmByM))
-  - Photo: Description: A vibrant male northern cardinal with brilliant red plumage stands on a horizontal surface against a lush, green leafy background. The bird is framed in profile facing right, creating a striking contrast between its bright feathers and the natural foliage. Photograph read: Centered horizontally, the image features bright natural lighting that illuminates the cardinal's vivid red feathers against a softly focused green background, creating a calm and observant mood. Photo type: Wildlife snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **ritam1ller**:  ([link](https://www.threads.com/@ritam1ller/post/DfnNjsFE28N))
-  - Photo: Description: A crowd of people stand in a dark venue facing a vibrant concert stage illuminated by bright red and blue lasers piercing through haze. Photograph read: The vertical framing emphasizes the dramatic height of the crisscrossing laser beams, creating a high-contrast, energetic atmosphere dominated by red light. Photo type: Snapshot
-- **susanrogerskaisch**: Maggie’s balloon! ([link](https://www.threads.com/@susanrogerskaisch/post/DfnNI5pD4hq))
-  - Photo: Description: A brown and white spaniel wearing a harness lies on an ornate patterned rug, gazing toward a bright red balloon nearby. The indoor setting includes leather furniture legs and a wooden floor edge in the background. Photograph read: The high-angle framing captures the dog and the balloon against the busy carpet texture under even indoor light, creating a casual, observant mood. Photo type: Snapshot
-- **lieta1602**:  ([link](https://www.threads.com/@lieta1602/post/DfnKmeimvEq))
-  - Photo: Description: A dining table features a centerpiece of fresh oranges, pink daisies, baby's breath, and red roses, with a large window in the background framing a sunset over the sea. Photograph read: Centrally framed with natural interior lighting contrasting against the vibrant sunset, creating a serene and warm mood. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - _Replying to: That one red rose holding its own among the pink daisies is…_
 - **marcinewiese**: My beautiful granddaughters ([link](https://www.threads.com/@marcinewiese/post/DfnJYckGM4W))
   - Photo: Description: Two young women stand side by side indoors, smiling closely at the camera while the woman on the right holds a canned beverage. The warm indoor lighting and casual party setting suggest a fun night out with friends. Photograph read: Captured in a close-up vertical frame with direct flash illumination, creating a brightly lit subject against a dimly lit background with a cheerful and candid mood. Photo type: Snapshot
     - Watch-outs: Highlights on foreheads clipped to white from direct flash.
-- **irina.mck**:  ([link](https://www.threads.com/@irina.mck/post/DfnJE0uEeDC))
-  - Photo: Description: A close-up shot captures vibrant red autumn leaves with visible white veining, set against a blurred background of dark soil and mulch. The intense color and fine texture of the foliage are the central focus. Photograph read: The tight vertical framing emphasizes the striking crimson color and intricate textures under soft, even daylight, creating a serene and natural mood. Photo type: Nature snapshot
-- **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DfnIwVwkUmi))
-  - Photo: Description: A vibrant red, weathered British pillar box stands vertically centered against a plain white wall, set upon a reddish-brown tiled floor. The post features embossed lettering reading "GR" and a crown emblem near the top, along with a collection time plaque displaying some damage. Photograph read: The straight-on composition places the pillar box in a centered, eye-level framing, lit by diffuse, even light that emphasizes its textures against the neutral backdrop. Photo type: Documentary
-- **michele_d21**:  ([link](https://www.threads.com/@michele_d21/post/DfnIqonlg5t))
-  - Photo: Description: A vibrant red hibiscus flower takes center stage, surrounded by dark green foliage and other partial blooms. The bright tropical blossoms create a natural and colorful scene. Photograph read: Centered composition captures the vivid red petals under even, natural light, creating a fresh and botanical mood. Photo type: Snapshot
-- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DfnHF81Adnm))
-  - Photo: Description: A large, brightly painted sculpture of oversized red lips with white teeth sits on a concrete plaza. In the background, numerous sailboat masts rise against a cloudy, overcast sky. Photograph read: The eye-level composition centers the vibrant red sculpture against a subdued, neutral harbor backdrop under diffuse daylight. Photo type: Snapshot
-- **raylehr1783**: Fall still being amazing. ([link](https://www.threads.com/@raylehr1783/post/DfnG8VmoEsV))
-  - Photo: Description: A vibrant red and green Japanese maple leaf rests on a weathered wooden surface outdoors. The soft, dappled background foliage creates a natural, seasonal context. Photograph read: Bright sunlight illuminates the leaf, casting a sharp shadow and creating a cheerful, autumnal mood with a shallow depth of field. Photo type: Snapshot
-- **pjbmillinery**: Sweet red "percher" fascinator hat. Thank You! ([link](https://www.threads.com/@pjbmillinery/post/DfnGcSEmY8J))
-  - Photo: Description: A bright red fascinator featuring a large felt rose, beaded details, and sculptural leaf stems is displayed on a pink mannequin head against a plain white background. Photograph read: The studio product shot uses even lighting to highlight the vibrant red textures and details of the hat against a seamless white background. Photo type: Product photography
-    - Watch-outs: Background clipped to pure white, isolating the subject.
-- **java_and_his_momager_cheryl**:  ([link](https://www.threads.com/@java_and_his_momager_cheryl/post/DfnFs_Lo0Hh))
-  - Photo: Description: Vibrant red autumn foliage fills the foreground, framing a calm blue body of water dotted with small distant islands under a clear sky. Evergreen tree branches arch across the top corners, providing a natural border for the coastal view. Photograph read: Bright, direct daylight illuminates the scene with high contrast between the vivid red brush and the blue sea, captured in a centered landscape composition framed by overhanging pine boughs. Photo type: Snapshot
-- **ajmelott**:  ([link](https://www.threads.com/@ajmelott/post/DfnFk-qm5dw))
-  - Photo: Description: A vintage red car with white-wall tires and an open driver's door is displayed indoors on a glossy black floor. The vehicle sits within a multi-level building featuring a curved railing and mezzanine level above. Photograph read: Taken from a low perspective close to the side of the car, the shot emphasizes the glossy red body and reflections on the dark floor under indoor lighting. Photo type: Snapshot
-    - Watch-outs: Highlights clipped to white on the upper right side of the car body.
-- **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/DfnFLiAmG2h))
-  - Photo: Description: A close-up shot of a vintage locomotive's drive wheels, painted bright red with white rims and connected by polished metal linkage rods. The dark background and reflective surfaces suggest an indoor museum or display setting. Photograph read: The symmetrical, head-on composition emphasizes the geometric patterns of the red and white wheels, lit evenly to highlight the polished metallic linkages and dark machinery. Photo type: Documentary
-- **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DfnEtkEFs_7))
-  - Photo: Description: A vibrant hot air balloon is captured directly from below, displaying a concentric pattern of red, yellow, and black against a patchy blue sky. The hanging basket is visible in the center of the balloon's circular opening. Photograph read: Shot from a direct low-angle perspective, the symmetrical balloon fills the center of the frame, contrasting sharply with the scattered clouds in the background under natural daylight. Photo type: Snapshot
-- **paulmusicmansell**:  ([link](https://www.threads.com/@paulmusicmansell/post/DfnDXyCDoPp))
-  - Photo: Description: A glass of red wine sits on an outdoor textured table alongside a potted plant with red flowers and a beige cap. The background is heavily blurred, suggesting an outdoor gathering or patio setting. Photograph read: The vertical composition uses shallow depth of field to isolate the foreground wine glass, creating a relaxed, casual mood under natural daylight. Photo type: Snapshot
-- **susanturauskis**: We were harvesting our grapes to make this year's wine and I thought they looked really nice together. I wanted to catch the autumn colours ([link](https://www.threads.com/@susanturauskis/post/DfnHRWbkdj1))
-  - _Replying to: The grapes get the attention, but those red leaves undernea…_
+- **michele_d21**: They are so beautiful and almost too perfect ([link](https://www.threads.com/@michele_d21/post/DfnuOmQFuTC))
+  - _Replying to: How does a hibiscus get to be that red? That yellow center …_
+- **bojonvelvet2.0**: The artist is fnnch and this piece is part of a series of big art along the Embarcadero and in Golden Gate Park. https://www.bigartloop.org/ ([link](https://www.threads.com/@bojonvelvet2.0/post/Dfnh0H_Ad4s))
+  - _Replying to: Giant red lips at the marina - the masts behind them only m…_
+- **pjbmillinery**: Yes, it is! I made it for an art exhibit. The leaves are actually red, also. 🥀 ([link](https://www.threads.com/@pjbmillinery/post/Dfnm09hjzLz))
+  - _Replying to: Who gets to wear a hat like that? The felt rose, the beads,…_
+- **ajmelott**: It’s not mine. This was at Francis Ford Coppola Winery in Geyserville CA. ([link](https://www.threads.com/@ajmelott/post/Dfnhrw4GWJX))
+  - _Replying to: The open door is the invitation - that red paint against th…_
+- **artiekay2**: I was right next to the launch site and this one flew about thirty feet overhead. I caught this one another day, but it didn’t turn out as well. ([link](https://www.threads.com/@artiekay2/post/Dfnh6-QFtv-))
+  - Photo: Description: A vibrant, multi-colored hot air balloon is captured from directly underneath, floating against a clear blue sky. The circular pattern of the panels creates a mandala-like effect with the basket visible at the center. Photograph read: The centered composition and upward angle create a striking symmetrical graphic against the plain blue sky, lit by soft daylight illuminating the balloon's colorful fabric. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - _Replying to: A balloon that big turns the whole sky into a target - red …_
 - **miltimus**: Thanks for the keen eye in your feedback. The tree's in a courtyard at St. Michaels College in Colchester, Vermont. It seems to hold onto the leaves for a while but most of the Japanese maples I know have shed by a week or so ago. Will see if can stop by this weekend and check on it. Bonus shot of this tree to follow. ([link](https://www.threads.com/@miltimus/post/DfnQUl2j1Zb))
   - _Replying to: I think filling the whole frame with red was the right call…_
-- **miltimus**: October 18 shot ([link](https://www.threads.com/@miltimus/post/DfnQc1PD09-))
-  - Photo: Description: A vibrant Japanese maple tree with brilliant red leaves stands in front of a brick building with multiple rectangular and arched windows. The striking contrast of the crimson foliage against the muted architecture creates a dramatic, eye-catching scene. Photograph read: The centered composition places the brightly lit tree as the primary focal point against a darker architectural backdrop, creating a moody yet vivid atmosphere. Photo type: Snapshot
-  - _Replying to: Thanks for the keen eye in your feedback. The tree's in a c…_
-- **jagascoigne**: On the first Sunday of the month there is a pier walk where all the students walk to the end of the pier in their red gowns, the three here were hanging around afterwards, presumably to avoid writing an essay! ([link](https://www.threads.com/@jagascoigne/post/DfnHas1EY86))
-  - _Replying to: Three red coats against a whole grey pier - that selective …_
-- **friduliini**: We see this almost daily, so we don’t even stop every time. This is common here in Finnish Lapland at this time of year. ([link](https://www.threads.com/@friduliini/post/DfnEEegjGDG))
-  - _Replying to: That is the kind of sky that makes you pull over. The road …_
-- **lucillepippetti**: Thank you . All my photos are taken with my iPhone 17 Pro. I figured I would work out SEEING before I complicate everything with a camera. If I can't see I certainly don't need a camera to shoot. ([link](https://www.threads.com/@lucillepippetti/post/DfnNIQSoGTE))
-  - _Replying to: I think getting that close was the right call - the spiky r…_
-- **bendlesmaid269**: I think it’s because, being in the countryside, next to an orchard, plants love other plants, plus it’s all to do with the pruning and care they are given. ([link](https://www.threads.com/@bendlesmaid269/post/DfnItJdoZ3I))
-  - _Replying to: How does a bush get to be that loaded? Those berries glow a…_
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Dfnhk8CkirL))
+  - Photo: Description: A bright red backflow prevention assembly sits on a concrete pad amidst green grass, with parked cars and a brick building visible in the background under daylight. Photograph read: The centered subject is evenly lit by direct sunlight against a background of foliage, bushes, and parked vehicles. Photo type: Snapshot
+  - _Replying to: Showing Red..._
 - **faythmarie84**: 2 kill a mockingbird is a great book. Lol ([link](https://www.threads.com/@faythmarie84/post/DfnPcQAmeSo))
   - _Replying to: Showing Red..._
 - **2killamockingbird**: My favourite book... ([link](https://www.threads.com/@2killamockingbird/post/DfnPvTZgImU))
   - _Replying to: 2 kill a mockingbird is a great book. Lol_
 - **faythmarie84**: One of my favs too. ([link](https://www.threads.com/@faythmarie84/post/DfneGT_macO))
   - _Replying to: My favourite book..._
-- **ulrike6417**: The MS Einheit is a historische former deep- sea fishing cutter, with its home port in Heiligenhafen on the Baltic Sea! Im November 2025 operations were discontinued after more than 30 year! ([link](https://www.threads.com/@ulrike6417/post/DfnMzTlEWMo))
-  - _Replying to: A red boat, a still harbor, and a sky that big - hard to as…_
+- **bbingco**: Thank you for appreciating it! ❤️ ([link](https://www.threads.com/@bbingco/post/Dfnr7ZuEiuT))
+  - _Replying to: That is what a good view is for. Thanks for sharing it._
 - **edanjojon**: I think it’s out of focus. I took that photo in a rush. 😬 ([link](https://www.threads.com/@edanjojon/post/DfnFkyjkq1Z))
   - _Replying to: I think the soft focus suits this one - the red-and-white p…_
-- **edanjojon**: Sometimes the most beautiful moments are captured in a hurry. Even if it's a little out of focus, the memories and feelings behind the photo are still crystal clear. 🌸📸 😬 ([link](https://www.threads.com/@edanjojon/post/DfnKYv8EgnE))
-  - _Replying to: I think it’s out of focus. I took that photo in a rush. 😬_
 - **joaquinencinasphotography**: There are more photos from the parade in my instagram ([link](https://www.threads.com/@joaquinencinasphotography/post/Dfm9Do5Ghnv))
   - _Replying to: What a celebration to be in the middle of. Thanks for shari…_
-- **katiep_0_0**: It's a street I walk down very regularly! ([link](https://www.threads.com/@katiep_0_0/post/DfnCa3BDsOK))
-  - _Replying to: That empty road leads the eye straight to those striped chi…_
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfnhgoOkomq))
+  - Photo: Description: This low-angle view captures the intricate, geometric coffers of a grand domed ceiling. The symmetrical pattern radiates outward from a central circular opening. Photograph read: The centered vertical composition emphasizes the radial symmetry of the architecture, captured with bright daylight filtering through the open panels. Photo type: Architectural
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - _Replying to: The Pattern Tuesday favorites are live - five patterns that…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/DfnJgz2GBSb))
   - Photo: Description: A garter snake with distinct yellow stripes rests on a pile of cut logs surrounded by green foliage. This candid nature snapshot captures wildlife blending into a rustic outdoor habitat. Photograph read: The high-angle framing captures the snake coiled centrally among textured wood, illuminated by natural daylight with a documentary mood. Photo type: Documentary snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
@@ -131,12 +133,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
 - **2killamockingbird**: Well you did a great job 👏 and glad I didn't have to choose... ([link](https://www.threads.com/@2killamockingbird/post/Dfm00g7AC2I))
   - _Replying to: Thank you Dee 🙏 and credits to all the photographers. Picki…_
-- **charhedman**: Yes. It takes away from the pattern. With B/w, you're just looking at the shapes, and the tones. ([link](https://www.threads.com/@charhedman/post/Dfmr484m5EC))
-  - _Replying to: @charhedman Your facade is slide two of the Pattern Tuesday…_
-- **kes_ward**: Thank you for choosing my image as one of your 5 favourites. Congratulations to everybody who entered with your amazing photos and to the other 4 who have been chosen. Well done all. This walkway is at Canary Wharf in London. The joy of this tunnel is that it always looks like this. A regular stop off for many photographers. Canary Wharf and surrounding area is a great place for photography. I haven’t discovered enough myself yet. 😁 📷 ([link](https://www.threads.com/@kes_ward/post/DfmQGu_nHAL))
-  - _Replying to: @kes_ward Your striped tunnel is the middle slide of the Pa…_
-- **reggae_gyal70**: Thank you. We were having breakfast in an open air restaurant, on vacation. She was hoping that we might share with her. She waited there for quite a while. ([link](https://www.threads.com/@reggae_gyal70/post/DfmcwX0ob8m))
-  - _Replying to: @reggae_gyal70 Your black cat on the blue tiles is slide fo…_
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DfnBdTdmif4))
@@ -158,8 +154,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The perforated panel behind her is doing half the work - th…_
 - **ladenizen2**: Maybe 25 meters ([link](https://www.threads.com/@ladenizen2/post/Dfm3wsmGqge))
   - _Replying to: A row of palms leaning across the blue like they are all in…_
-- **alohacat1722**: I know right? !! It made me a little dizzy to walk on it. Funny thing is, it wasn’t a high angle …I put the camera at knee level to get the whole length of the room … ([link](https://www.threads.com/@alohacat1722/post/DfmwWKQFfhl))
-  - _Replying to: Is that floor actually flat? The cubes look deep enough to …_
 - **h.b.d.b**:  ([link](https://www.threads.com/@h.b.d.b/post/Dfl8wUBG3ov))
   - Photo: Description: A close-up, top-down view of heavily cracked, dry earth filling the entire frame. The parched mud forms an intricate pattern of jagged chunks separated by deep fissures under bright daylight. Photograph read: The overhead perspective emphasizes the geometric texture of the cracked earth under harsh, direct light, creating high-contrast shadows within the fissures. Photo type: Documentary
   - Photo: Description: Vibrant red, purple, and orange autumn leaves fill the frame, densely packed in front of a tree trunk with glimpses of blue sky. The colorful foliage creates a striking seasonal scene. Photograph read: The tight framing emphasizes the rich red tones and textures of the leaves, lit by bright daylight that creates glowing highlights and deep shadows. Photo type: Nature snapshot
@@ -170,6 +164,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
 - **posts.by.norman**: I agree...'bout the slow walks! ▓ ([link](https://www.threads.com/@posts.by.norman/post/Dfl1syZnwxZ))
   - _Replying to: Slow walks pay off - the triangles were worth the tired fee…_
+- **citizenb**: Santa Fe is an interesting place with the older parts of town a bit like a maze of adobe buildings. I love it there. ([link](https://www.threads.com/@citizenb/post/DfntPPoERaU))
+  - _Replying to: Looking down that wall, the tiles just keep going - the dia…_
+- **citizenb**: I don’t remember the building. It was in an alleyway. ([link](https://www.threads.com/@citizenb/post/DfnqYtDEYW_))
+  - _Replying to: Looking down that wall, the tiles just keep going - the dia…_
+- **susantodd535**: Thank you kindly ([link](https://www.threads.com/@susantodd535/post/DfnpKBUjz_j))
+  - _Replying to: A triumph all round. Lovely work, both of you._
 - **susantodd535**: Very carefully. It isn’t as easy as it looks. Cutting the mango so you get slices ([link](https://www.threads.com/@susantodd535/post/DflwP-elBVS))
   - _Replying to: I think the overhead angle is what sells it - that mango sp…_
 - **shiawasemainichi5**: Thank you. I love the colors of this mirror ball. Timing is crucial when taking photos, but the enjoyment after taking them never ends.🎨 ([link](https://www.threads.com/@shiawasemainichi5/post/Dfl2_KKE9oX))
@@ -204,13 +204,15 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (20)
+## Needs Like (23)
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
 - 2killamockingbird: 🙏🙏🙏🙏 thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/DfnDpHXAF9l))
+- edanjojon: Your wellcome ([link](https://www.threads.com/@edanjojon/post/DfnliPMEoVX))
 - syldelteglia: Thank you!🫶 ([link](https://www.threads.com/@syldelteglia/post/Dfm9tt6AM1O))
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
+- charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/Dfn5PGQG-Qj))
 - dwordops: Thank you ([link](https://www.threads.com/@dwordops/post/DfmMs3IoFH3))
 
 ### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
@@ -218,6 +220,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - picsall: Noon. ([link](https://www.threads.com/@picsall/post/DflXR9rmnP7))
 - blackhawkdavej: Celosia ([link](https://www.threads.com/@blackhawkdavej/post/DfnEYqflhXY))
 - cgearhardt: Sacred Geometry ([link](https://www.threads.com/@cgearhardt/post/Dfk7STODwQ9))
+- susantodd535: It was. ([link](https://www.threads.com/@susantodd535/post/DfnpHy_j_oL))
 - susantodd535: Mango cheesecake ([link](https://www.threads.com/@susantodd535/post/Dfk7TMVgbfk))
 - koza.100: After ([link](https://www.threads.com/@koza.100/post/Dfk9ElVjvVr))
 - debanne68:  ([link](https://www.threads.com/@debanne68/post/Dfk2DyBkmSM))
