@@ -4,16 +4,24 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (38)
+## Needs Like (46)
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
+- bedford__lisa: The flower 😊 ([link](https://www.threads.com/@bedford__lisa/post/DfprzQAgRSt))
+- bourgonjeastrid: Clerodendron ([link](https://www.threads.com/@bourgonjeastrid/post/DfpsbvLkeBQ))
+- moskutin: -7 °C ([link](https://www.threads.com/@moskutin/post/Dfpu1ZSDdCz))
 - traynormain: Wonderful!!! ([link](https://www.threads.com/@traynormain/post/DfpenMoGnAJ))
 - charhedman: Thanks, Michael! ([link](https://www.threads.com/@charhedman/post/DfpfJ_VGpPU))
+- taiwanese726: Primary school ([link](https://www.threads.com/@taiwanese726/post/DfpqcOzGRJI))
 - pirtutu: to Dubrovnik ([link](https://www.threads.com/@pirtutu/post/DfpmVPogFFL))
+- tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/DfpvHzTj9bQ))
+- c_breeze2025: Moon rise ([link](https://www.threads.com/@c_breeze2025/post/Dfp9bWKmYAQ))
 - beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
 - auscandoc: Nicely played! ([link](https://www.threads.com/@auscandoc/post/DfpebTHmo6f))
 - mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DfphEuwCK-i))
+- baughankaye: Magnificent! ([link](https://www.threads.com/@baughankaye/post/DfprMtFliRB))
 - srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dfpng3OEqE4))
+- beckiefitzgerald: Thank you so much 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfpsZdSD86x))
 - 2killamockingbird: My pleasure 🙏... ([link](https://www.threads.com/@2killamockingbird/post/DfpaFs5gMLX))
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
