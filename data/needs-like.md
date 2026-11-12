@@ -4,7 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (30)
+## Needs Like (31)
+
+### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
+- beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))

@@ -6,9 +6,22 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (82)
+## Needs Reply (90)
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
+- **amyoosterhouse**:  ([link](https://www.threads.com/@amyoosterhouse/post/DfpZMjCGldB))
+  - Photo: Description: A wide-angle concert view features a massive, deep blue screen filled with floating shadow projections of insects and butterflies, hovering over a small illuminated stage. The immersive stage design creates a surreal, atmospheric backdrop for a live musical performance. Photograph read: The deep blue monochromatic color scheme and centered stage create a moody, theatrical perspective dominated by the vast backdrop. Photo type: Documentary
+- **abnerabel125**: Shot with a D7500 IR camera. I need to work on how to process it yet. ([link](https://www.threads.com/@abnerabel125/post/DfpZI1ZGysW))
+  - Photo: Description: This wide-angle landscape photo captures a vast, forested mountain range rendered entirely in monochromatic shades of purple and violet. A cylindrical object protrudes into the lower left corner of the frame. Photograph read: The image is composed with a high horizon line under a dim, overcast sky, creating a moody, otherworldly atmosphere through its heavy purple color cast. Photo type: Artistic
+- **steve.cozort**: The Blues (and white) of Antarctica Nov 25.. ([link](https://www.threads.com/@steve.cozort/post/DfpY-iWFk3M))
+  - Photo: Description: Towering snow-covered mountains rise sharply from a glacial coastline, casting a crisp mirror reflection across a calm sea dotted with small icebergs. The vivid blue sky and water create a serene, remote polar landscape. Photograph read: Captured with a wide-angle perspective under bright, clear daylight, the scene emphasizes horizontal expanse and deep blue contrasts, highlighted by gentle ripples on the right side of the water. Photo type: Documentary
+- **casanovesmariana**:  ([link](https://www.threads.com/@casanovesmariana/post/DfpY6OWFQce))
+  - Photo: Description: A blue and white boat is anchored in calm turquoise waters beneath a clear, hazy sky, with a small orange vessel visible nearby to the left. Photograph read: Centered vertically along the horizon under diffused daylight, the open expanse creates a serene and minimal maritime mood. Photo type: Documentary
+- **beapersaud**:  ([link](https://www.threads.com/@beapersaud/post/DfpY4-_IUmz))
+  - Photo: Description: A close-up shot captures vibrant blue butterfly pea flowers covered in tiny dew drops against a soft, green background. This fresh botanical imagery is ideal for nature appreciation or gardening posts. Photograph read: The tight vertical composition emphasizes the textured petals and glistening water droplets under diffused natural light, creating a serene and refreshing mood. Photo type: Artistic
+- **bugs_eye_view_of_you**:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/DfpY0kwnJu1))
+  - Photo: Description: A blue jay perches on a bare tree branch among autumn leaves, looking out to the side. The dense network of branches creates a natural frame around the bird. Photograph read: The centered composition places the bird vertically within a tangle of intersecting branches, illuminated by diffused daylight filtering through the canopy. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
 - **vuurenbernadettevan**: A blue view ([link](https://www.threads.com/@vuurenbernadettevan/post/DfpYVLWkXNF))
   - Photo: Description: Two bare branches stand upright from sandy ground against a vast backdrop of dramatic white clouds and a muted blue sky. The minimalist composition creates a serene and stark coastal atmosphere suitable for a nature-themed post. Photograph read: Captured with a horizontal layout, the image places the skeletal wood against a high-contrast sky under bright daylight, evoking a tranquil and desolate mood. Photo type: Landscape
 - **janatopping**:  ([link](https://www.threads.com/@janatopping/post/DfpYN2LEUnd))
@@ -53,8 +66,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **marcinewiese**: My son in law teaching his son how to bait a hook ❤️ ([link](https://www.threads.com/@marcinewiese/post/DfpWuKslg4Q))
   - Photo: Description: Two men stand on a wooden fishing pier extending over a large body of water on a clear, sunny day. The foreground man holds a fishing rod while the other man watches closely. Photograph read: Captured in bright, direct daylight under a clear blue sky, the medium shot uses a vertical composition to frame the two anglers on the sunlit pier. Photo type: Snapshot
     - Watch-outs: Soft overall; intentional or missed focus not determinable from the image
+- **srravi**: Many thanks 😊 that’s a river whose estuary needs to be dredged till then we get great reflections when the wind Gods don’t disturb it😅 the estuary is a few kms down stream… ([link](https://www.threads.com/@srravi/post/DfpYm-4mjQU))
+  - _Replying to: How still was that water? The sky gets a full second showin…_
 - **2killamockingbird**: Seemed like forever! Maybe about 2 to 3 minutes... I just love them. Just like elegant ballerina... took the photo at Atlanta Aquarium... Love your words too ❤️ ([link](https://www.threads.com/@2killamockingbird/post/DfpX9uNgPCc))
   - _Replying to: Two jellyfish drifting through a whole ocean of blue - thos…_
+- **abnerabel125**: Those are really good photos ([link](https://www.threads.com/@abnerabel125/post/DfpZNVpG4GV))
+  - _Replying to: The Red Wednesday favorites are live - six reds that stoppe…_
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
 - **posts.by.norman**: Grateful for this, Saar! ▓ The Sapao-an Festival is an annual event held every October in Cardona, Rizal, a small rural town where I used to reside (living in a city area now). The festival includes a street dancing competition participated in by local groups, associations and schools. Each group would have a lead dancer carrying an image of the town's patron saint. I returned for several days to the town to be able to get some photos of the street parade, among other things. ▓ ([link](https://www.threads.com/@posts.by.norman/post/Dforv4Cn3Ft))
@@ -213,7 +230,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (30)
+## Needs Like (31)
+
+### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
+- beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))

@@ -13,8 +13,94 @@
       "watch_outs": [
         "Soft overall; intentional or missed focus not determinable from the image."
       ],
-      "reply_count": 37,
+      "reply_count": 46,
       "replies": [
+        {
+          "username": "amyoosterhouse",
+          "text": "",
+          "permalink": "https://www.threads.com/@amyoosterhouse/post/DfpZMjCGldB",
+          "photos": [
+            "Description: A wide-angle concert view features a massive, deep blue screen filled with floating shadow projections of insects and butterflies, hovering over a small illuminated stage. The immersive stage design creates a surreal, atmospheric backdrop for a live musical performance. Photograph read: The deep blue monochromatic color scheme and centered stage create a moody, theatrical perspective dominated by the vast backdrop. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "abnerabel125",
+          "text": "Shot with a D7500 IR camera. I need to work on how to process it yet.",
+          "permalink": "https://www.threads.com/@abnerabel125/post/DfpZI1ZGysW",
+          "photos": [
+            "Description: This wide-angle landscape photo captures a vast, forested mountain range rendered entirely in monochromatic shades of purple and violet. A cylindrical object protrudes into the lower left corner of the frame. Photograph read: The image is composed with a high horizon line under a dim, overcast sky, creating a moody, otherworldly atmosphere through its heavy purple color cast. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "steve.cozort",
+          "text": "The Blues (and white) of Antarctica Nov 25..",
+          "permalink": "https://www.threads.com/@steve.cozort/post/DfpY-iWFk3M",
+          "photos": [
+            "Description: Towering snow-covered mountains rise sharply from a glacial coastline, casting a crisp mirror reflection across a calm sea dotted with small icebergs. The vivid blue sky and water create a serene, remote polar landscape. Photograph read: Captured with a wide-angle perspective under bright, clear daylight, the scene emphasizes horizontal expanse and deep blue contrasts, highlighted by gentle ripples on the right side of the water. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "casanovesmariana",
+          "text": "",
+          "permalink": "https://www.threads.com/@casanovesmariana/post/DfpY6OWFQce",
+          "photos": [
+            "Description: A blue and white boat is anchored in calm turquoise waters beneath a clear, hazy sky, with a small orange vessel visible nearby to the left. Photograph read: Centered vertically along the horizon under diffused daylight, the open expanse creates a serene and minimal maritime mood. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "beapersaud",
+          "text": "",
+          "permalink": "https://www.threads.com/@beapersaud/post/DfpY4-_IUmz",
+          "photos": [
+            "Description: A close-up shot captures vibrant blue butterfly pea flowers covered in tiny dew drops against a soft, green background. This fresh botanical imagery is ideal for nature appreciation or gardening posts. Photograph read: The tight vertical composition emphasizes the textured petals and glistening water droplets under diffused natural light, creating a serene and refreshing mood. Photo type: Artistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": [
+            {
+              "username": "beapersaud",
+              "text": "Blues",
+              "permalink": "https://www.threads.com/@beapersaud/post/DfpY47jIdBj",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "bugs_eye_view_of_you",
+          "text": "",
+          "permalink": "https://www.threads.com/@bugs_eye_view_of_you/post/DfpY0kwnJu1",
+          "photos": [
+            "Description: A blue jay perches on a bare tree branch among autumn leaves, looking out to the side. The dense network of branches creates a natural frame around the bird. Photograph read: The centered composition places the bird vertically within a tangle of intersecting branches, illuminated by diffused daylight filtering through the canopy. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "vuurenbernadettevan",
           "text": "A blue view",
@@ -278,7 +364,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "srravi",
+                  "text": "Many thanks \ud83d\ude0a that\u2019s a river whose estuary needs to be dredged till then we get great reflections when the wind Gods don\u2019t disturb it\ud83d\ude05 the estuary is a few kms down stream\u2026",
+                  "permalink": "https://www.threads.com/@srravi/post/DfpYm-4mjQU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -468,7 +565,18 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "abnerabel125",
+              "text": "Those are really good photos",
+              "permalink": "https://www.threads.com/@abnerabel125/post/DfpZNVpG4GV",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         }
       ]
     },
