@@ -4,10 +4,17 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (31)
+## Needs Like (38)
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
+- loriclark414:  ([link](https://www.threads.com/@loriclark414/post/DfpfO4oD99f))
+- traynormain: Wonderful!!! ([link](https://www.threads.com/@traynormain/post/DfpenMoGnAJ))
+- charhedman: Thanks, Michael! ([link](https://www.threads.com/@charhedman/post/DfpfJ_VGpPU))
+- steve.cozort: Thank you! ([link](https://www.threads.com/@steve.cozort/post/DfpbtxiG8oT))
 - beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
+- auscandoc: Nicely played! ([link](https://www.threads.com/@auscandoc/post/DfpebTHmo6f))
+- mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DfphEuwCK-i))
+- 2killamockingbird: My pleasure 🙏... ([link](https://www.threads.com/@2killamockingbird/post/DfpaFs5gMLX))
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))
