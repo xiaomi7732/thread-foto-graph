@@ -13,8 +13,35 @@
       "watch_outs": [
         "Soft overall; intentional or missed focus not determinable from the image."
       ],
-      "reply_count": 259,
+      "reply_count": 288,
       "replies": [
+        {
+          "username": "ivanino.sanduce",
+          "text": "Red on blonde \u2728\ufe0f",
+          "permalink": "https://www.threads.com/@ivanino.sanduce/post/DfoaICfjrwh",
+          "photos": [
+            "Description: A blonde woman in a fitted, off-the-shoulder red dress sits cross-legged on a bed, taking a mirror selfie. Her phone obscures her face, and a framed art piece hangs on the wall behind her. Photograph read: Captured in flat indoor lighting, this vertical mirror selfie centers on the subject seated against a neutral bedroom backdrop. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "02657printer",
+          "text": "",
+          "permalink": "https://www.threads.com/@02657printer/post/DfoZLenJXmk",
+          "photos": [
+            "Description: A vibrant cluster of large, bright red amaryllis flowers blooms prominently in a greenhouse setting. The blossoms showcase intricate petal textures and prominent stamens against a backdrop of foliage and other potted plants. Photograph read: The subject is captured in natural daylight with a shallow depth of field that softly blurs the background, emphasizing the rich red color and velvety texture of the primary blossom. Photo type: Nature snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "gerk4",
           "text": "Minneapolis",
@@ -22,10 +49,32 @@
           "photos": [
             "Description: A vibrant sunrise or sunset blazes across a textured pattern of clouds, casting brilliant red, orange, and yellow hues over a calm lake. The colorful sky and treeline reflect symmetrically on the water's surface, framed by tall grasses and reeds in the foreground. Photograph read: Captured with a vertical composition, the natural light illuminates the dramatic cloudscape and creates a vivid color reflection on the water, establishing a serene and awe-inspiring mood. Photo type: Landscape snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole sky caught fire and the lake just doubled it - that reflection is the part that stays with me. How long did the red hold before it faded?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVhy5m0vE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "gerk4",
+                  "text": "At that intensity, less than two minutes",
+                  "permalink": "https://www.threads.com/@gerk4/post/DfoWj_zEdyF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "liaherdiantyy",
@@ -34,10 +83,32 @@
           "photos": [
             "Description: A high-angle view captures a busy multi-lane urban street with cars and motorcycles traveling under a pale, overcast sky. The roadway features a distinctive red-painted lane in the center, flanked by green spaces, pedestrian walkways, and modern city architecture. Photograph read: The elevated perspective creates a strong linear composition with leading lines that draw the eye down the bustling corridor under diffused, flat daylight. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red lane runs the whole street like a ribbon - motorbikes, cars, all of it following the line. Where does it lead from here?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVjHlG7_J",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "liaherdiantyy",
+                  "text": "The red line is a direction sign for public transportation in Jakarta",
+                  "permalink": "https://www.threads.com/@liaherdiantyy/post/DfoZPA5k503",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ettynurulh",
@@ -47,10 +118,21 @@
             "Description: Several round, fuzzy fruits with reddish and brownish skins rest centrally on top of large, vibrant yellow-green fallen leaves. The arrangement sits directly on the ground outdoors, surrounded by dry twigs and dirt. Photograph read: Captured from directly overhead in natural daylight, the crisp lighting emphasizes the varied textures of the fuzzy fruit skins and the prominent leaf veins. Photo type: Snapshot",
             "Description: A close-up shot captures a vibrant cluster of red and pink torch ginger flowers held against a softly blurred backdrop of a pond and distant trees. The vertical arrangement of blossoms creates a striking focal point for a botanical share. Photograph read: Captured in natural daylight with a shallow depth of field, the vertical composition isolates the detailed textures of the ginger flowers against the shimmering, out-of-focus water. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those fuzzy red fruits on the yellow leaf are a find on their own - and then the torch ginger in the second shot turns the whole thing up. Which of the two stopped you first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVlT0G49i",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tinnyliznz",
@@ -59,10 +141,57 @@
           "photos": [
             "Description: A climbing bush with vibrant red roses and green leaves grows upward in front of a weathered wooden fence. Grass is visible at the base of the plant. Photograph read: The vertical framing captures the climbing roses from a high angle in diffuse daylight, creating an even, calm mood with sharp focus on the foreground blossom. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think letting the roses climb the fence was the right call - the big bloom at the bottom anchors the whole tangle. Do they flower like that all year where you are?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVnB8kZu_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "tinnyliznz",
+                  "text": "Kapiti Coast New Zealand",
+                  "permalink": "https://www.threads.com/@tinnyliznz/post/DfoZtzylI_R",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "tinnyliznz",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@tinnyliznz/post/DfoZozqlDGu",
+                  "photos": [
+                    "Description: A vertical shot captures a bush of bright red roses growing in front of a weathered white and dark grey wooden slat fence. A patch of green grass is in the foreground, with a paved driveway and greenery visible in the background under an overcast sky. Photograph read: The vertical composition uses natural daylight under an overcast sky, creating a calm and balanced mood. Photo type: Snapshot"
+                  ],
+                  "watch_outs": [
+                    "Highlights clipped to white in patches on the upper fence and sky"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "tinnyliznz",
+                  "text": "It's called Dublin Bay. Should be better than this",
+                  "permalink": "https://www.threads.com/@tinnyliznz/post/DfoZknolLjg",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tuenmongluk",
@@ -74,10 +203,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Does the gull know it picked the only red seat in the whole sea? The turbines on the horizon do the rest - what a quiet frame.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVoXzlShN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "trayjayhay",
@@ -86,10 +226,21 @@
           "photos": [
             "Description: A large, red mesh sculpture of a baseball cap featuring the Los Angeles Angels logo stands outdoors against a clear blue sky. Palm trees and the edge of a stadium structure are visible on the left. Photograph read: The wide shot centers the oversized red cap structure under bright, direct daylight, creating a crisp, high-contrast composition against the solid blue sky. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A baseball cap big enough to walk under - the red mesh against that blue sky is something else. Is this outside the stadium?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVqQTkQs6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ccaldwellrn",
@@ -98,10 +249,21 @@
           "photos": [
             "Description: A vibrant red British telephone box stands tucked into a corner next to a stone building facade on a paved street. Context clues include a Lerwick town map and old postal drop slots, indicating a classic British street scene. Photograph read: Captured from a straight-on eye-level perspective under even, overcast light, the composition emphasizes the striking red hue of the telephone box against neutral stone and pavement tones. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The Lerwick map beside the box is the detail that places it - a proper red box tucked into the stone corner. Do people still use it, or is it all for show now?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoVr_tjhYp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "janz.sat",
@@ -125,10 +287,21 @@
           "photos": [
             "Description: A vibrant red star-shaped flower blooms on a winding green vine with delicate, fern-like leaves. The vine cuts diagonally across a dark, softly blurred background. Photograph read: Centered vertically on the diagonal stem, the bright red subject stands out against a muted, out-of-focus background under even, natural light. Photo type: Botanical study"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One little red star on a diagonal vine, and the dark background just lets it shine. What is the flower called?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfoV07jFGkc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",
@@ -144,10 +317,21 @@
               "text": "During one of my morning walk.",
               "permalink": "https://www.threads.com/@khoojosie/post/Dfn71UPm6-k",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "A morning walk well spent. Thanks for sharing it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfoV6ANG_VU",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -167,10 +351,21 @@
               "text": "This was taken at Longwood Gardens in Kennett Square, PA. Beautiful place.\ud83d\ude0a",
               "permalink": "https://www.threads.com/@karful49/post/Dfn7ciBlQw8",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "A beautiful place to spend an afternoon. Thanks for sharing it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfoV-0mFK2s",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -237,10 +432,21 @@
                   "text": "No it\u2019s not, it is a few years ago now \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@elanel50/post/Dfn7woYj-Eo",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A few years on and it still stops the scroll. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWt7om8j_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -271,10 +477,21 @@
                   "text": "Yes they do,it was 7:05 AM in spring \ud83d\ude0a\ud83c\udde6\ud83c\uddfa",
                   "permalink": "https://www.threads.com/@sitihamidah1973/post/DfoEHixEqEA",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Early morning light suits them. Thanks for sharing them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWElXGyx-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -308,10 +525,21 @@
                   "text": "Right after rain, sweet friend. \ud83c\udf3f\ud83c\udf38\ud83e\udd8b\ud83c\udf37\ud83c\udf3f\u263a\ufe0f\ud83c\udf75\u2615\ufe0f",
                   "permalink": "https://www.threads.com/@brandy_fletcher004/post/Dfn-aoAm57h",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The rain did them a favor. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWJcmG7cV",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -340,10 +568,21 @@
                   "text": "The joy of times zones. I use anything from a selection of right now 10 cameras. Though with what I have at home in France its more like 15.",
                   "permalink": "https://www.threads.com/@silver_halide_wanderings/post/DfoJDdioGNR",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Quite the collection to pick from. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWK9Pm6O_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -417,10 +656,21 @@
                   "text": "I'm partial to roses and like to take picture after some form of nature hits them, rain frost or snow",
                   "permalink": "https://www.threads.com/@nannabon1/post/Dfn_dTJjjM_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Nature does the styling best. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWMuwm-rl",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -454,10 +704,21 @@
                   "text": "Yes they do. I'm in Quebec and here they freeze on the trees and birds eat them all winter long. I guess it's nature's freezer.",
                   "permalink": "https://www.threads.com/@bumpy120/post/Dfn7-VhDvrM",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Nature's freezer - the birds have it sorted. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWOZ2GwxG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -488,10 +749,32 @@
                   "text": "Annual Sapao-an Festival (also known as Sayawan sa Sapao-an), a cultural and religious celebration held every October in Cardona, Rizal, Philippines, to honor La Virgen de Sapao (Our Lady of the Holy Rosary) and give thanks for a bountiful harvest.",
                   "permalink": "https://www.threads.com/@posts.by.norman/post/Dfn8akoH-6t",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A festival worth the walk. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWTV5G0hG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "posts.by.norman",
+                          "text": "Thanks, as well, for the appreciation.",
+                          "permalink": "https://www.threads.com/@posts.by.norman/post/DfoXRd3H46B",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -525,10 +808,21 @@
                   "text": "It\u2019s my bedroom \ud83d\ude00 \u2026 I initially had some soft pastel lighting that was gentler on the eye but my daughter walked past my room recently and said that it looked like a gay pony disco \ud83d\ude44 \u2026 So I went blood red \ud83d\ude02",
                   "permalink": "https://www.threads.com/@buzz.crunch/post/DfoA0qQHyGA",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Quite the transformation. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWU3JFO5E",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -627,10 +921,21 @@
                   "text": "Yes. It's the red \"Melt The Ice\" resistance hats that originate in Norway as a silent protest against the Nazis. This was a variation I did incorporating the cable stitch. I made several plain, and also made little \"pin\" hats.",
                   "permalink": "https://www.threads.com/@lucyslon/post/Dfn-QMclW2Q",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A hat with a history like that is worth the making. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWvHAm0r4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1395,10 +1700,21 @@
                   "photos": [
                     "Description: A close-up shot captures four bell-shaped white flowers nestled among vibrant reddish-pink leaves. The contrasting colors create a striking botanical display, ideal for a nature-themed social media post. Photograph read: The tight framing highlights the delicate texture of the white blossoms against the saturated red foliage under natural, even light, conveying a serene and vivid mood. Photo type: Artistic"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "White bells against those red leaves - a lovely surprise for autumn. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWaTclO4k",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1686,10 +2002,21 @@
                   "photos": [
                     "Description: A vintage locomotive named Empire is on display inside a museum, featuring glossy dark paint, red-rimmed wheels, and ornate gold trim. The train sits behind a barrier, with overhead structural elements visible in the background. Photograph read: The low-angle side composition emphasizes the length and ornate details of the locomotive under bright interior lighting, creating a polished, documentary mood. Photo type: Documentary"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A grand old machine, beautifully kept. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfoWfNAlHd2",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
