@@ -1,8 +1,152 @@
 {
   "nodes": [
     {
+      "id": "18100415948662501",
+      "label": "red, photograph, description, read",
+      "group": 0,
+      "snippet": "Blue Thursday \ud83d\udc99 Show me blue. Blue is everywhere once you l\u2026",
+      "text": "Blue Thursday \ud83d\udc99 Show me blue. Blue is everywhere once you look for it - a sky, a lake, a pair of jeans. Show me the bluest thing on your camera roll. This cornflower is blue turned all the way up - find me your blue. ONE photo. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What blue stopped you today?",
+      "permalink": "https://www.threads.com/@saars.foto/post/DfpVCRNm-N_",
+      "photos": [
+        "Description: A single bright blue cornflower sits centered in the frame against a soft, out-of-focus background of silvery-green foliage. The close-up perspective emphasizes the intricate texture and dark center of the blossom. Photograph read: Centered composition with an evenly lit subject standing out against a heavily blurred, neutral background to create a calm, natural mood. Photo type: Snapshot"
+      ],
+      "watch_outs": [
+        "Soft overall; intentional or missed focus not determinable from the image."
+      ],
+      "reply_count": 10,
+      "replies": [
+        {
+          "username": "marcinewiese",
+          "text": "My son in law teaching his son how to bait a hook \u2764\ufe0f",
+          "permalink": "https://www.threads.com/@marcinewiese/post/DfpWuKslg4Q",
+          "photos": [
+            "Description: Two men stand on a wooden fishing pier extending over a large body of water on a clear, sunny day. The foreground man holds a fishing rod while the other man watches closely. Photograph read: Captured in bright, direct daylight under a clear blue sky, the medium shot uses a vertical composition to frame the two anglers on the sunlit pier. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "srravi",
+          "text": "",
+          "permalink": "https://www.threads.com/@srravi/post/DfpWuEiGoVK",
+          "photos": [
+            "Description: A tranquil body of water reflects a dramatic daytime sky filled with scattered white and dark grey clouds, with a low treeline and distant buildings along the far bank. Photograph read: The wide composition emphasizes symmetry between the vibrant blue sky and its reflection on the water's smooth surface under bright daylight, creating a calm"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "silmarillioncollector",
+          "text": "",
+          "permalink": "https://www.threads.com/@silmarillioncollector/post/DfpWnfrjE0w",
+          "photos": [
+            "Description: This low-angle shot features a vertical purple sign for \"fbm Estate & Letting Agents\" mounted on a pale blue building. A blue and yellow flag hangs on the left, and a white-framed window is visible on the right wall. Photograph read: The vertical orientation emphasizes the tall sign against the blue facade under overcast, diffused light. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "coldhollowfarm",
+          "text": "Blue-eyed grass",
+          "permalink": "https://www.threads.com/@coldhollowfarm/post/DfpWiA0FshU",
+          "photos": [
+            "Description:"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "beckiefitzgerald",
+          "text": "",
+          "permalink": "https://www.threads.com/@beckiefitzgerald/post/DfpWSoloN_H",
+          "photos": [
+            "Description: A vibrant blue morning glory flower with a bright pink and green center is centered against a background of lush green leaves. The flower's petals display deep purple radial lines emanating from the colorful center. Photograph read: The centered composition and direct lighting emphasize the vivid colors and geometric symmetry of the flower against the contrasting green foliage. Photo type: Snapshot",
+            "Description: A rustic blue barn with weathered paint and a corrugated metal roof sits under a bright blue sky with wispy clouds. Bare trees and green grass surround the structure, creating a peaceful rural scene. Photograph read: Captured in bright daylight under a clear blue sky, the shot emphasizes the rustic textures of the weathered barn against the vibrant backdrop. Photo type: Documentary",
+            "Description: A close-up shot captures a vibrant blue anemone flower with a dark center, set against a softly blurred natural background. A watermark reading \"\u00a9B.Fitzgerald\" appears in the lower left corner. Photograph read",
+            "Description: A vibrant blue bunting perches atop a weathered wooden stump against a soft, green out-of-focus background. The high-contrast plumage of the bird stands out clearly in a natural outdoor setting suitable for wildlife viewing. Photograph read: The subject is captured with a shallow depth of field that isolates it against a smooth green backdrop, emphasizing the bright blue feathers and textured wood under natural daylight. Photo type: Wildlife photography"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "2killamockingbird",
+          "text": "",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/DfpWPBnAENC",
+          "photos": [
+            "Description: Two translucent jellyfish swim diagonally upward against a solid, vibrant blue background inside an aquarium exhibit. Their detailed caps and long, trailing tentacles are sharply illuminated in the deep water. Photograph read: The vertical composition captures the two glowing subjects against a uniform blue backdrop, creating a serene and captivating mood. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "rubydawnintl",
+          "text": "",
+          "permalink": "https://www.threads.com/@rubydawnintl/post/DfpV24jjAkh",
+          "photos": [
+            "Description: A tall modern building with bright blue glass windows and white architectural framing is framed by palm fronds at the top left and right. The ground level features palm trees, landscaping, and large gold letters reading \"GRAND TOURANE\". Photograph read: The low-angle perspective emphasizes the soaring height of the building against a clear sky, illuminated by bright daylight that creates crisp reflections across the glass"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "photography_for_humanity_",
+          "text": "",
+          "permalink": "https://www.threads.com/@photography_for_humanity_/post/DfpVgo2lu_x",
+          "photos": [
+            "Description: A woman with white hair wearing a blue jacket and carrying bags walks along a sunny sidewalk. Green banners hang from lampposts in the urban background. Photograph read: Sunlight creates high contrast between deep shadows and illuminated areas, framing the pedestrian on a vertical perspective down the sidewalk. Photo type: Snapshot"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "posts.by.norman",
+          "text": "",
+          "permalink": "https://www.threads.com/@posts.by.norman/post/DfpVag6n59X",
+          "photos": [
+            "Description: A person wearing a blue shirt sits with their back to the camera, framed by a dense archway of bright blue and white balloons. The festive arrangement suggests a parade float or celebration setup outdoors. Photograph read: The"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "The Red Wednesday favorites are live - six reds that stopped my scroll \ud83c\udfc6 https://www.threads.com/@saars.foto/post/Dfokz2fm-eu",
+          "permalink": "https://www.threads.com/@saars.foto/post/DfpVEFyG84i",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "18126692872936662",
-      "label": "red, photograph, description, photo",
+      "label": "red, photograph, description, read",
       "group": 0,
       "snippet": "Red Wednesday favorites \ud83c\udfc6 6 reds that stopped my scroll: @p\u2026",
       "text": "Red Wednesday favorites \ud83c\udfc6 6 reds that stopped my scroll: @posts.by.norman - red festival gown Lyndall Ley @elanel50 - Remembrance Day poppies @bojonvelvet2.0 - giant red lips Rick King @artiekay2 - balloon from below @refracted_reveries - backlit red leaves Remon Diaz @remondiazart - man with red balloon Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfokW4yD3QG/",
@@ -23,17 +167,39 @@
         "Sun disc clipped to white with starburst diffraction spikes and lens flare.",
         "Soft overall; intentional or missed focus not determinable from the image."
       ],
-      "reply_count": 11,
+      "reply_count": 14,
       "replies": [
         {
           "username": "2killamockingbird",
           "text": "Gorgeous picks....",
           "permalink": "https://www.threads.com/@2killamockingbird/post/Dfo5wXVDjXR",
           "photos": [],
-          "needs_response": true,
-          "action": "like",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thank you!",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfpTMdRmypa",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "2killamockingbird",
+                  "text": "My pleasure \ud83d\ude4f",
+                  "permalink": "https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "saars.foto",
@@ -70,10 +236,21 @@
               "text": "I was there at this spot (one of several at the AWM) for Flying Officer Trevor Ley, a navigator killed in a training accident in WWII. He was my father\u2019s cousin. Dad\u2019s uncle was KIA in WWI and his great uncle died in the Boer War in South Africa. My grandfather was wounded in WEI but survived. Lots to remember.",
               "permalink": "https://www.threads.com/@elanel50/post/Dfol4ERoBkE",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "That\u2019s quite a few stories. Thanks for sharing with us!",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DfpUCU3m87x",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -143,7 +320,7 @@
     },
     {
       "id": "18502088977109902",
-      "label": "red, photograph, description, photo",
+      "label": "red, photograph, description, read",
       "group": 0,
       "snippet": "Red Wednesday \u2764\ufe0f Show me red. Red is everywhere once you lo\u2026",
       "text": "Red Wednesday \u2764\ufe0f Show me red. Red is everywhere once you look for it - a door, a flower, a sign, a sunset. Show me the reddest thing on your camera roll. These blooms are red turned all the way up - find me your red. ONE photo. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What red stopped you today?",
@@ -154,7 +331,7 @@
       "watch_outs": [
         "Soft overall; intentional or missed focus not determinable from the image."
       ],
-      "reply_count": 312,
+      "reply_count": 324,
       "replies": [
         {
           "username": "ibolya95",
@@ -163,10 +340,21 @@
           "photos": [
             "Description: A close-up shot of a vibrant red gloxinia flower in full bloom, showcasing its ruffled petals and speckled white center. The plant features fuzzy green leaves and is positioned near a white windowsill. Photograph read: Soft, even"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That speckled white center is the part I keep coming back to - the ruffled red petals frame it like a little stage. Is this one a windowsill regular, or a new arrival?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfpS06dkWmn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "adam.allgood.1",
@@ -178,10 +366,21 @@
           "watch_outs": [
             "Bright stage lights clipped to white with lens flare streaks."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole theater in red - the seats, the curtain, the gold doing the rest. What were you there to see?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfpS27bm3tr",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "beep1300",
@@ -218,10 +417,54 @@
           "photos": [
             "Description: Bright red tubular flowers stand in a garden during daytime, illuminated by bright sunlight filtering from behind. The backlit scene creates a glowing rim on the petals and foliage against a soft background. Photograph read: The vertical composition captures backlighting with prominent lens flare from the upper sun source, casting a"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That glow through the red tubes is the whole shot - the sun streaking across the frame does the rest. Were you shooting straight into the light for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfpS4ouFFZv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "judyparsons7",
+                  "text": "I was \u2026 taking a chance \u2026 \ud83d\ude43 Almost blinded \u2026 do you do that ? Just take a chance you can capture magic \u2026\u2593\u2593\u2593\u2593",
+                  "permalink": "https://www.threads.com/@judyparsons7/post/DfpUNYMCBlI",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Eyes or sensors? \ud83d\ude02\ud83d\ude02\ud83e\udd23",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpU8Dnm6IK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "judyparsons7",
+                          "text": "Always eyes \u2026 so I wouldn\u2019t win any prizes \u2026",
+                          "permalink": "https://www.threads.com/@judyparsons7/post/DfpWaBsCFSJ",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tatjanabn003",
@@ -237,10 +480,21 @@
             "",
             ""
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The geraniums on the porch against the parked cars - red flowers, everyday street behind them, and it still stops you. And then the poinsettia in full sun. Which of the three do you keep coming back to?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfpS6XOjs6j",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ivanino.sanduce",
@@ -270,10 +524,21 @@
                   "text": "Just random dress that sunny day",
                   "permalink": "https://www.threads.com/@ivanino.sanduce/post/DfobSW9EbXG",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A random dress on a sunny day, well worn. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpS8TQGiYv",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -304,10 +569,21 @@
                   "text": "Amaryllis bulbs. I usually start them indoors in November. I put them in the yard for summer & fall, lift before frost and bring inside to let them go dormant",
                   "permalink": "https://www.threads.com/@02657printer/post/Dfo0wqupVoR",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A bloom worth the yearly routine. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpTBXmFHAn",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -608,10 +884,21 @@
                   "text": "Yes in full sun and in macro mode.",
                   "permalink": "https://www.threads.com/@janz.sat/post/DfobeL5GfUp",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Macro in full sun suits it. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpTDDYEaCm",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -642,10 +929,21 @@
                   "text": "It's a cypress vine flower, or Ipomoea quamoclit",
                   "permalink": "https://www.threads.com/@giarti52/post/Dfo_xroGPLK",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Cypress vine - a name worth knowing. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpTFDwEbmy",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1223,6 +1521,21 @@
         {
           "username": "khoojosie",
           "text": "",
+          "permalink": "https://www.threads.com/@khoojosie/post/DfnhgoOkomq",
+          "photos": [
+            "Description: This low-angle view captures the intricate, geometric coffers of a grand domed ceiling. The symmetrical pattern radiates outward from a central circular opening. Photograph read: The centered vertical composition emphasizes the radial symmetry of the architecture, captured with bright daylight filtering through the open panels. Photo type: Architectural"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "khoojosie",
+          "text": "",
           "permalink": "https://www.threads.com/@khoojosie/post/DfnhZWoEmXO",
           "photos": [
             "Description: A hand holds a vibrant red envelope adorned with gold and pink floral illustrations and swimming fish. The festive design suggests a celebratory occasion like Lunar New Year. Photograph read: Captured in a vertical frame with flat lighting, the shot centers on the red envelope held against a neutral background. Photo type: Snapshot"
@@ -1566,10 +1879,21 @@
                   "text": "I bought it a few years ago at Rogers Gardens. It\u2019s an ornament.",
                   "permalink": "https://www.threads.com/@mommatex/post/DfpGAm5m6Hc",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A garden shop find with a story to it. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpTGmwkdPU",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2074,6 +2398,21 @@
         },
         {
           "username": "marcinewiese",
+          "text": "",
+          "permalink": "https://www.threads.com/@marcinewiese/post/DfnJgz2GBSb",
+          "photos": [
+            "Description: A garter snake with distinct yellow stripes rests on a pile of cut logs surrounded by green foliage. This candid nature snapshot captures wildlife blending into a rustic outdoor habitat. Photograph read: The high-angle framing captures the snake coiled centrally among textured wood, illuminated by natural daylight with a documentary mood. Photo type: Documentary snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "marcinewiese",
           "text": "My beautiful granddaughters",
           "permalink": "https://www.threads.com/@marcinewiese/post/DfnJYckGM4W",
           "photos": [
@@ -2159,10 +2498,21 @@
                   "text": "Its situated on the site of the Donkin Recife. I hadn't seen a red postbox in aeons",
                   "permalink": "https://www.threads.com/@vuurenbernadettevan/post/DforTf6EQCK",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A red postbox after all that time - quite the find. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfpTIUAEZZM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3298,6 +3648,25 @@
           ]
         },
         {
+          "username": "abnerabel125",
+          "text": "",
+          "permalink": "https://www.threads.com/@abnerabel125/post/Dfm0diQGyOo",
+          "photos": [
+            "Description: This angled close-up view features an intricate, textured wall paneling made of alternating dark and light wooden blocks with prominent grain patterns. The warm lighting highlights the three-dimensional geometric design, creating a rich, patterned surface suitable for architectural or interior design appreciation. Photograph read: Captured from a sharp angle with a shallow depth of field, the warm",
+            "Description: A spiky, three-dimensional geometric ceramic sculpture sits centered on a flat surface against a warm, monochrome background. The lighting creates subtle shadows that accentuate the object's intricate, spiked texture and form. Photograph read: The centered composition and soft, directional lighting emphasize the tactile qualities of the sculpture, creating a",
+            "Description: A low-angle shot captures an intricate, globe-shaped wooden lampshade with a concentric, interwoven pattern glowing warmly from an internal light bulb against a dark background. Photograph read: The symmetrical, centered composition draws the eye toward the bright central light source, creating a moody, high-contrast atmosphere defined by the rich orange tones of the wood and deep shadows. Photo type: Artistic"
+          ],
+          "watch_outs": [
+            "",
+            "",
+            "Light bulb clipped to white."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "lluvia3487",
           "text": "",
           "permalink": "https://www.threads.com/@lluvia3487/post/Dfm0W33m1J1",
@@ -3504,6 +3873,21 @@
               ]
             }
           ]
+        },
+        {
+          "username": "remalysh",
+          "text": "Kennywood Park - Pittsburgh Pennsylvania USA",
+          "permalink": "https://www.threads.com/@remalysh/post/Dfmzyy9oKRM",
+          "photos": [
+            "Description: A teal roller coaster filled with passengers climbs diagonally upward against a clear blue sky dotted with puffy white clouds, with green trees framing the lower left corner. Photograph read: Captured from a low angle with a vertical diagonal composition, bright daylight highlights the colorful riders and track against a crisp blue sky. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "joaquinencinasphotography",
@@ -3741,87 +4125,12 @@
               ]
             }
           ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "The Pattern Tuesday favorites are live - five patterns that stopped my scroll \ud83c\udfc6 https://www.threads.com/@saars.foto/post/DfmCpWrFd65",
-          "permalink": "https://www.threads.com/@saars.foto/post/Dfmwxvxlcnd",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "khoojosie",
-              "text": "",
-              "permalink": "https://www.threads.com/@khoojosie/post/DfnhgoOkomq",
-              "photos": [
-                "Description: This low-angle view captures the intricate, geometric coffers of a grand domed ceiling. The symmetrical pattern radiates outward from a central circular opening. Photograph read: The centered vertical composition emphasizes the radial symmetry of the architecture, captured with bright daylight filtering through the open panels. Photo type: Architectural"
-              ],
-              "watch_outs": [
-                "Soft overall; intentional or missed focus not determinable from the image."
-              ],
-              "needs_response": true,
-              "action": "reply",
-              "hidden": false,
-              "replies": []
-            },
-            {
-              "username": "marcinewiese",
-              "text": "",
-              "permalink": "https://www.threads.com/@marcinewiese/post/DfnJgz2GBSb",
-              "photos": [
-                "Description: A garter snake with distinct yellow stripes rests on a pile of cut logs surrounded by green foliage. This candid nature snapshot captures wildlife blending into a rustic outdoor habitat. Photograph read: The high-angle framing captures the snake coiled centrally among textured wood, illuminated by natural daylight with a documentary mood. Photo type: Documentary snapshot"
-              ],
-              "watch_outs": [
-                "Soft overall; intentional or missed focus not determinable from the image."
-              ],
-              "needs_response": true,
-              "action": "reply",
-              "hidden": false,
-              "replies": []
-            },
-            {
-              "username": "abnerabel125",
-              "text": "",
-              "permalink": "https://www.threads.com/@abnerabel125/post/Dfm0diQGyOo",
-              "photos": [
-                "Description: This angled close-up view features an intricate, textured wall paneling made of alternating dark and light wooden blocks with prominent grain patterns. The warm lighting highlights the three-dimensional geometric design, creating a rich, patterned surface suitable for architectural or interior design appreciation. Photograph read: Captured from a sharp angle with a shallow depth of field, the warm",
-                "Description: A spiky, three-dimensional geometric ceramic sculpture sits centered on a flat surface against a warm, monochrome background. The lighting creates subtle shadows that accentuate the object's intricate, spiked texture and form. Photograph read: The centered composition and soft, directional lighting emphasize the tactile qualities of the sculpture, creating a",
-                "Description: A low-angle shot captures an intricate, globe-shaped wooden lampshade with a concentric, interwoven pattern glowing warmly from an internal light bulb against a dark background. Photograph read: The symmetrical, centered composition draws the eye toward the bright central light source, creating a moody, high-contrast atmosphere defined by the rich orange tones of the wood and deep shadows. Photo type: Artistic"
-              ],
-              "watch_outs": [
-                "",
-                "",
-                "Light bulb clipped to white."
-              ],
-              "needs_response": true,
-              "action": "reply",
-              "hidden": false,
-              "replies": []
-            },
-            {
-              "username": "remalysh",
-              "text": "Kennywood Park - Pittsburgh Pennsylvania USA",
-              "permalink": "https://www.threads.com/@remalysh/post/Dfmzyy9oKRM",
-              "photos": [
-                "Description: A teal roller coaster filled with passengers climbs diagonally upward against a clear blue sky dotted with puffy white clouds, with green trees framing the lower left corner. Photograph read: Captured from a low angle with a vertical diagonal composition, bright daylight highlights the colorful riders and track against a crisp blue sky. Photo type: Snapshot"
-              ],
-              "watch_outs": [
-                "Soft overall; intentional or missed focus not determinable from the image."
-              ],
-              "needs_response": true,
-              "action": "reply",
-              "hidden": false,
-              "replies": []
-            }
-          ]
         }
       ]
     },
     {
       "id": "18082895915738347",
-      "label": "red, photograph, description, photo",
+      "label": "red, photograph, description, read",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Matt Wilson @matt.wilson.gc - cracked earth, lone walker @charhedman - black and white facade Kes Ward @kes_ward - striped color tunnel Mary Ellen Robb @reggae_gyal70 - cat on blue tiles John Medeiros @dwordops - barrel cellar rows Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfmCSPmj6-H/",
@@ -4009,7 +4318,7 @@
     },
     {
       "id": "17945826621369021",
-      "label": "red, photograph, description, photo",
+      "label": "red, photograph, description, read",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This rosette repeats at three sizes, one cluster doing the whole pattern - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern stopped you today?",
@@ -8218,15 +8527,19 @@
   ],
   "edges": [
     {
-      "from": "18126692872936662",
+      "from": "18100415948662501",
+      "to": "18126692872936662"
+    },
+    {
+      "from": "18100415948662501",
       "to": "18502088977109902"
     },
     {
-      "from": "18126692872936662",
+      "from": "18100415948662501",
       "to": "18082895915738347"
     },
     {
-      "from": "18126692872936662",
+      "from": "18100415948662501",
       "to": "17945826621369021"
     }
   ]

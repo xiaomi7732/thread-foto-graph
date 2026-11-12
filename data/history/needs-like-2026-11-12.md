@@ -7,7 +7,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Like (30)
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
-- 2killamockingbird: Gorgeous picks.... ([link](https://www.threads.com/@2killamockingbird/post/Dfo5wXVDjXR))
+- 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
 - trayjayhay: Yes ([link](https://www.threads.com/@trayjayhay/post/DfpEsT9oUuc))
