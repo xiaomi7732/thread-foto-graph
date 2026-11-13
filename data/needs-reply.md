@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (134)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **jglass8**: Beautiful! It is Friday Flower Power Day ([link](https://www.threads.com/@jglass8/post/DfssyMgD_ai))
@@ -28,6 +28,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think filling the frame with that dahlia was the right ca…_
 - **kijk.mijn.achtertuin**: Yes. And it is one of the last flowers in my little garden that is still blooming this late autumn. ([link](https://www.threads.com/@kijk.mijn.achtertuin/post/DfsqvejiJKI))
   - _Replying to: A white starburst of a dahlia - those spiky petals against …_
+- **_olliemorgan**: No, I’m in Canada. This would have been in June. ([link](https://www.threads.com/@_olliemorgan/post/DfsuzGjlgSb))
+  - _Replying to: Pink and white peonies piled into one vase - the fluff on t…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
