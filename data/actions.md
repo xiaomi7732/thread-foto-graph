@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (129)
+## Needs Reply (131)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **jglass8**: Beautiful! It is Friday Flower Power Day ([link](https://www.threads.com/@jglass8/post/DfssyMgD_ai))
+  - Photo: Description: A close-up photograph features a prominent red rose with pinkish-white inner petals, accompanied by another partially open red rose and green foliage in the background, which is out of focus. Photograph read: The image has a shallow depth of field, with the foreground rose in focus and the background blurred. Lighting appears natural and diffused, with no visible harsh shadows or overexposure. The rendering preserves color and texture of the main subject, though fine details on the petals are not sharply defined. Photo type: Portrait
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DfssMC1k6wK))
   - Photo: Description: A single pink rose with multiple petals and a visible center of yellow stamens is centered against a uniformly dark background, with a few green leaves and a stem visible below. Photograph read: The rose is the primary subject, illuminated against a dark background. The lighting highlights the petals and center, while the leaves and stem are dimly lit. The image has a shallow depth of field, with the background and surrounding foliage out of focus. Photo type: Portrait
     - Watch-outs: The background is uniformly dark, obscuring any contextual detail. The lower leaves and stem are underexposed, reducing visible texture and detail.
@@ -16,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up of a fully bloomed rose with vibrant pink petals transitioning to white at the edges, set against a blurred green lawn and a weathered wooden fence. Photograph read: The rose is in focus, with visible petal texture and center stamens. The background is softly out of focus, creating a shallow depth of field. Lighting is even and diffused, without harsh shadows or highlights. Photo type: Portrait
 - **realhomesbylinda**: The last of our marigolds. ([link](https://www.threads.com/@realhomesbylinda/post/DfspXr3G1c_))
   - Photo: Description: A cluster of marigolds with red and orange petals and green, feathery leaves grows in a garden bed, with a dark garden light fixture partially visible on the right. Photograph read: The image is taken at natural light, with a shallow depth of field causing some foreground and background elements to be out of focus. The main subject, the marigolds, is in relatively sharp focus, but surrounding foliage and distant elements are blurred. Photo type: Natural
+- **lisa9uion**: This is in North part of the Kenai Peninsula in Alaska. About 100 miles South of Anchorage. We were driving to Seward and stopped at this trail on the side of the road. The mountains in the back are the Chugach Mountains. The Kenai Peninsula is beautiful ([link](https://www.threads.com/@lisa9uion/post/Dfss1zgD0BI))
+  - _Replying to: (photo reply, no text)_
 - **mur.locations**: On vacation on the Amalfi Coast last month (yes, I’m lucky… and retired). I daresay it’s gone by now, but who knows? And thank your appreciation 🙏 ([link](https://www.threads.com/@mur.locations/post/DfsqWGTjOFu))
   - _Replying to: That yellow is pure sunshine - the clusters look lit from i…_
 - **jodireneeg**: I actually took this a couple years back, but I love it! ([link](https://www.threads.com/@jodireneeg/post/DfssmmJkmJc))
@@ -325,9 +329,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (75)
+## Needs Like (76)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- picann: My pleasure.☺️ ([link](https://www.threads.com/@picann/post/DfsstT5mQk0))
 - broccoli.bella: Togehter🥰 ([link](https://www.threads.com/@broccoli.bella/post/DfsN3aqiC5H))
 - jcoledesign: Perfect ([link](https://www.threads.com/@jcoledesign/post/DfsJMCgG2rh))
 - natazlody: 😊🌸 ([link](https://www.threads.com/@natazlody/post/DfsJamRjJv2))
