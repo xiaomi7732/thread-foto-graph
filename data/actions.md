@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (133)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **jglass8**: Beautiful! It is Friday Flower Power Day ([link](https://www.threads.com/@jglass8/post/DfssyMgD_ai))
@@ -18,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up of a fully bloomed rose with vibrant pink petals transitioning to white at the edges, set against a blurred green lawn and a weathered wooden fence. Photograph read: The rose is in focus, with visible petal texture and center stamens. The background is softly out of focus, creating a shallow depth of field. Lighting is even and diffused, without harsh shadows or highlights. Photo type: Portrait
 - **realhomesbylinda**: The last of our marigolds. ([link](https://www.threads.com/@realhomesbylinda/post/DfspXr3G1c_))
   - Photo: Description: A cluster of marigolds with red and orange petals and green, feathery leaves grows in a garden bed, with a dark garden light fixture partially visible on the right. Photograph read: The image is taken at natural light, with a shallow depth of field causing some foreground and background elements to be out of focus. The main subject, the marigolds, is in relatively sharp focus, but surrounding foliage and distant elements are blurred. Photo type: Natural
+- **posts.by.norman**: Unfortunately, not. It's from a bouquet sent to us. Had to quickly take shots before the blooms wilt. For some, had to wait for them to open up. ([link](https://www.threads.com/@posts.by.norman/post/DfsthqrE2EE))
+  - _Replying to: That spiral in the middle is doing all the work - the cream…_
 - **lisa9uion**: This is in North part of the Kenai Peninsula in Alaska. About 100 miles South of Anchorage. We were driving to Seward and stopped at this trail on the side of the road. The mountains in the back are the Chugach Mountains. The Kenai Peninsula is beautiful ([link](https://www.threads.com/@lisa9uion/post/Dfss1zgD0BI))
   - _Replying to: (photo reply, no text)_
 - **mur.locations**: On vacation on the Amalfi Coast last month (yes, I’m lucky… and retired). I daresay it’s gone by now, but who knows? And thank your appreciation 🙏 ([link](https://www.threads.com/@mur.locations/post/DfsqWGTjOFu))
