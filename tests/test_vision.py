@@ -41,6 +41,9 @@ def photo(media_id="photo"):
 
 
 class VisionPromptTests(unittest.TestCase):
+    def setUp(self):
+        self.enterContext(patch.object(vision.config, "VISION_PROVIDER", "gemini"))
+
     @patch.object(vision.requests, "post")
     @patch.object(vision.requests, "get")
     def test_request_includes_watch_outs_and_preserves_response(self, get, post):
