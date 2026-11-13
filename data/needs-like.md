@@ -4,11 +4,17 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (57)
+## Needs Like (61)
+
+### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
+- sgoodwandering: Awww thanks ([link](https://www.threads.com/@sgoodwandering/post/DfrHuoWDVzR))
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
 - tammakaye: Socks! ([link](https://www.threads.com/@tammakaye/post/DfqTXNFpf3O))
 - iainriggs: Hah, no. ([link](https://www.threads.com/@iainriggs/post/DfqSLCyka4i))
+- zanders_wire_creations_: Thanks. ([link](https://www.threads.com/@zanders_wire_creations_/post/DfrMnLEm23u))
+- jstvy: The moon ([link](https://www.threads.com/@jstvy/post/Dfrir2Hltej))
+- rosamarmoreira: My pleasure. 🌹 ([link](https://www.threads.com/@rosamarmoreira/post/DfreTZBAOkS))
 - bedford__lisa: The flower 😊 ([link](https://www.threads.com/@bedford__lisa/post/DfprzQAgRSt))
 - maxjohnson41: 🙏 ([link](https://www.threads.com/@maxjohnson41/post/DfqZlWQjt--))
 - bourgonjeastrid: Clerodendron ([link](https://www.threads.com/@bourgonjeastrid/post/DfpsbvLkeBQ))
