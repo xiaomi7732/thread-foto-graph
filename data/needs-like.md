@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (61)
+## Needs Like (63)
 
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
 - sgoodwandering: Awww thanks ([link](https://www.threads.com/@sgoodwandering/post/DfrHuoWDVzR))
@@ -14,6 +14,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - iainriggs: Hah, no. ([link](https://www.threads.com/@iainriggs/post/DfqSLCyka4i))
 - zanders_wire_creations_: Thanks. ([link](https://www.threads.com/@zanders_wire_creations_/post/DfrMnLEm23u))
 - jstvy: The moon ([link](https://www.threads.com/@jstvy/post/Dfrir2Hltej))
+- yogagrandma10: Morning ([link](https://www.threads.com/@yogagrandma10/post/Dfr6bGXGwZl))
 - rosamarmoreira: My pleasure. 🌹 ([link](https://www.threads.com/@rosamarmoreira/post/DfreTZBAOkS))
 - bedford__lisa: The flower 😊 ([link](https://www.threads.com/@bedford__lisa/post/DfprzQAgRSt))
 - maxjohnson41: 🙏 ([link](https://www.threads.com/@maxjohnson41/post/DfqZlWQjt--))
@@ -30,6 +31,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - c_breeze2025: Moon rise ([link](https://www.threads.com/@c_breeze2025/post/Dfp9bWKmYAQ))
 - saffrongal: Mount Rainier! ([link](https://www.threads.com/@saffrongal/post/DfqSGQNkWHt))
 - beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
+- dr.r.m20: Zibast 😍 ([link](https://www.threads.com/@dr.r.m20/post/Dfr6O4aiLdi))
 - auscandoc: Nicely played! ([link](https://www.threads.com/@auscandoc/post/DfpebTHmo6f))
 - mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DfphEuwCK-i))
 - baughankaye: Magnificent! ([link](https://www.threads.com/@baughankaye/post/DfprMtFliRB))
