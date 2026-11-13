@@ -4,16 +4,26 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (112)
+## Needs Reply (117)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **benk2_adieee**:  ([link](https://www.threads.com/@benk2_adieee/post/Dfr7UhSn4Jz))
-  - Photo: Description: A close-up shot of a cluster of light purple flowers with yellow stamens, dotted with small water droplets. The blossoms are set against a blurred background of green foliage. Photograph read: The tight framing and soft, diffused lighting create a fresh, natural mood with sharp focus on the central petals. Photo type: Snapshot
-- **nzurisana23**:  ([link](https://www.threads.com/@nzurisana23/post/Dfr7C61iOZF))
-  - Photo: Description: Two vibrant pink hibiscus flowers bloom prominently on a leafy green bush against a plain concrete wall. The bright floral colors and natural setting make this a lively subject for nature or garden
-- **silmarillioncollector**: Dandelion, with bonus male Oedemera nobilis beetle. ([link](https://www.threads.com/@silmarillioncollector/post/Dfr60o1DG2q))
-  - Photo: Description: A vibrant green beetle rests near the center of a bright yellow dandelion bloom, viewed from directly above. The flower is held in someone's hands against a blurred background, suggesting a casual nature observation. Photograph read: The centered composition places equal emphasis on the geometric symmetry of the dandelion petals and the metallic sheen of the insect under direct daylight. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **gracefaith_0819**:  ([link](https://www.threads.com/@gracefaith_0819/post/Dfr8mSlm2e_))
+  - Photo: Description: A close-up, low-angle shot captures a bright yellow rose in profile against a backdrop of green leaves and the side of a building. Sunlight filters through the petals and foliage, highlighting
+- **charhedman**:  ([link](https://www.threads.com/@charhedman/post/Dfr8kb2mzEU))
+  - Photo: Description: A cluster of vibrant purple pasque flowers blooms in sunlight, their fuzzy stems and petals catching the golden light. The soft-focus background creates a gentle, dreamy atmosphere suitable for a nature-themed social media post. Photograph read: Captured with a shallow depth of field, the sharp focus on the foreground blossom contrasts with the glowing
+- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Dfr8V8FCG15))
+  - Photo: Description: A macro view looks straight into the heart of a pink and white orchid blossom, highlighting its intricate central structures and spotted
+- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Dfr8GJ9FjZ4))
+  - Photo: Description: A close-up shot captures a vibrant pink wild rose blossom covered in clear morning dew drops against a soft-focus green leaf background. The central yellow stamens contrast brightly with the delicate pink petals. Photograph read: The centered composition and natural daylight highlight the crisp textures of the water droplets and floral anatomy, creating a fresh, serene mood. Photo type: Snapshot
+- **2killamockingbird**:  ([link](https://www.threads.com/@2killamockingbird/post/Dfr8GIXgODD))
+  - Photo: Description: A top-down close-up view captures a vibrant passionflower in full bloom, featuring intricate purple and white filaments and yellow-green reproductive structures. The flower is centered against a dark, moody backdrop of foliage illuminated by natural sunlight. Photograph read: Centered composition with strong contrast and directional light highlights the complex geometry and textures of the blossom. Photo type: Artistic
+- **blackhawkdavej**:  ([link](https://www.threads.com/@blackhawkdavej/post/Dfr79mCFjFI))
+  - Photo: Description: A vibrant flower market stall overflows with colorful bouquets, featuring rows of orange, red, and yellow tulips in buckets alongside assorted wrapped arrangements. Price tags and overhead market lighting suggest a bustling public market setting. Photograph read: Captured from a high angle, the scene uses natural daylight and overhead fixtures to highlight the saturated colors and tight grouping of the floral displays. Photo type: Snapshot
+    - Watch-outs: Highlights on the metallic hanging fixtures are clipped to white.
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/Dfr7rcdmxcd))
+  - Photo: Description: A close-up, macro view centers on the vibrant pink petals and pale center of a blooming dahlia flower. The frame is filled entirely with the intricate layers of the blossom. Photograph read: The tight framing and shallow depth of field draw the eye to the complex geometry of the flower's center under even, natural light, creating an intimate botanical mood. Photo type: Nature macro
+- **watsjoey**:  ([link](https://www.threads.com/@watsjoey/post/Dfr7lLHGzvN))
+  - Photo: Description: A close-up shot of a vibrant sunflower angled upward against a clear blue sky. The warm sunlight highlights the textured petals and dark brown center, making it a bright and cheerful subject for a social media post. Photograph read: The low-angle composition frames the sunflower
 
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
 - **smilingjeannie**: Wow! I am both humbled and delighted. Thank you so much. ([link](https://www.threads.com/@smilingjeannie/post/DfroUTzEfmK))
