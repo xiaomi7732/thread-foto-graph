@@ -4,7 +4,8 @@ import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
 
-from src import cache as media_cache, vision
+from src import cache as media_cache, vision, continuous
+from src.vision_retry import VisionRetry
 
 
 PHOTO_DESCRIPTION = (
@@ -520,6 +521,169 @@ class VisionConfigTests(unittest.TestCase):
         with patch.object(vision.config, "VISION_PROVIDER", "typo"):
             with self.assertRaises(ValueError):
                 vision.config.validate_vision()
+
+
+class ContinuousVisionTests(unittest.TestCase):
+    def setUp(self):
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.path = Path(self.directory) / "retry.json"
+        self.now = 1000
+        self.enterContext(patch.object(vision.time, "time", side_effect=lambda: self.now))
+        self.enterContext(patch.object(vision.time, "sleep"))
+        self.enterContext(patch.multiple(
+            vision.config, VISION_PROVIDER="auto", GEMINI_API_KEY="private",
+            MAX_LOCAL_VISION_REQUESTS_PER_RUN=5, MAX_VISION_REQUESTS_PER_RUN=5,
+        ))
+        self.fetch = self.enterContext(patch.object(vision, "fetch_image", return_value=("image/jpeg", "encoded")))
+        self.local = self.enterContext(patch.object(vision, "describe_local", return_value=PHOTO_DESCRIPTION))
+        self.gemini = self.enterContext(patch.object(vision, "describe_image", return_value=(PHOTO_DESCRIPTION, 1)))
+        self.cache = {}
+
+    def state(self, **kwargs):
+        return vision.VisionRun(retry=VisionRetry(self.path), **kwargs)
+
+    def describe(self, state, media_id="photo"):
+        item = photo(media_id)
+        vision.describe_images([item], self.cache, 5, state=state)
+        return item
+
+    def test_provider_cooldown_survives_successful_fallback_and_reload(self):
+        self.local.side_effect = vision.requests.Timeout("local failure")
+        state = self.state()
+        self.describe(state)
+        key = state.retry_key("ollama")
+        self.assertTrue(state.retry.cooling("providers", key))
+        self.assertFalse(state.retry.cooling("media", "photo"))
+        self.assertEqual(self.cache["photo"]["provider"], "gemini")
+        self.describe(self.state(), "second")
+        self.assertEqual(self.local.call_count, 1)
+        self.assertEqual(self.gemini.call_count, 2)
+        self.now += 61
+        self.local.side_effect = None
+        self.describe(self.state(), "third")
+        self.assertNotIn(key, VisionRetry(self.path).data["providers"])
+
+    def test_quota_without_hint_survives_cycles_and_pending_is_stable(self):
+        self.gemini.side_effect = vision.QuotaExceededError("quota")
+        first = self.describe(self.state(provider="gemini"))
+        second = self.describe(self.state(provider="gemini"))
+        self.assertEqual(first["photo_descriptions"], [None])
+        self.assertEqual(first["photo_descriptions"], second["photo_descriptions"])
+        self.assertEqual(self.gemini.call_count, 1)
+        state = self.state(provider="gemini")
+        self.assertEqual(state.retry.data["providers"][state.retry_key("gemini")]["next_at"], 4600)
+        self.assertFalse(state.eligible_unattempted)
+        self.assertNotIn("photo", self.cache)
+
+    def test_media_cooldown_and_provider_outage_reasons_do_not_change_outputs(self):
+        self.fetch.side_effect = vision.ImageFetchError("first failed URL")
+        first = self.describe(self.state())
+        self.fetch.side_effect = vision.ImageFetchError("different failure")
+        second = self.describe(self.state())
+        self.assertEqual(first["photo_descriptions"], second["photo_descriptions"])
+        self.assertEqual(self.fetch.call_count, 1)
+        self.now += 61
+        third = self.describe(self.state())
+        self.assertEqual(first["photo_descriptions"], third["photo_descriptions"])
+        self.assertEqual(self.fetch.call_count, 2)
+        self.assertEqual(VisionRetry(self.path).data["media"]["photo"]["count"], 2)
+
+    def test_budget_backlog_is_eligible_but_cooldown_is_not(self):
+        state = self.state(provider="gemini", gemini_budget=1, gemini_requests=1)
+        self.describe(state)
+        self.assertEqual(state.eligible_unattempted, {"photo"})
+        self.gemini.assert_not_called()
+        state = self.state(provider="gemini")
+        state.retry.fail("media", "photo", "timeout")
+        self.describe(state)
+        self.assertFalse(state.eligible_unattempted)
+        self.gemini.assert_not_called()
+
+    def test_provider_auth_is_fatal_without_fallback(self):
+        self.local.side_effect = vision.requests.HTTPError(response=response(401))
+        with self.assertRaises(continuous.CycleFailure) as raised:
+            self.describe(self.state())
+        self.assertEqual(raised.exception.code, 78)
+        self.gemini.assert_not_called()
+        self.assertFalse(self.cache)
+
+    def test_image_specific_400_cools_only_that_photo_and_allows_other_photos(self):
+        invalid = response(400, data={
+            "error": {"status": "INVALID_ARGUMENT", "message": "Unable to process input image"},
+        })
+        self.gemini.side_effect = [
+            vision.requests.HTTPError(response=invalid), (PHOTO_DESCRIPTION, 1),
+        ]
+        state = self.state(provider="gemini")
+        first = self.describe(state, "bad-image")
+        self.assertEqual(first["photo_descriptions"], [None])
+        self.assertTrue(state.retry.cooling("media", "bad-image"))
+        self.assertFalse(state.cooling("gemini"))
+        self.describe(state, "good-image")
+        self.assertEqual(self.cache["good-image"]["provider"], "gemini")
+        self.describe(self.state(provider="gemini"), "bad-image")
+        self.assertEqual(self.gemini.call_count, 2)
+
+    def test_400_with_explicit_invalid_key_is_fatal(self):
+        invalid = response(400, data={
+            "error": {"status": "INVALID_ARGUMENT", "details": [{"reason": "API_KEY_INVALID"}]},
+        })
+        self.gemini.side_effect = vision.requests.HTTPError(response=invalid)
+        state = self.state(provider="gemini")
+        with self.assertRaises(continuous.CycleFailure) as raised:
+            self.describe(state)
+        self.assertEqual(raised.exception.code, 78)
+        self.assertFalse(state.retry.data["media"])
+
+    def test_repeated_image_400s_trip_provider_breaker_only_at_threshold(self):
+        invalid = response(400, data={"error": {"status": "INVALID_ARGUMENT"}})
+        self.gemini.side_effect = vision.requests.HTTPError(response=invalid)
+        state = self.state(provider="gemini")
+        for number in range(vision.MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES):
+            self.describe(state, str(number))
+            self.assertEqual(state.cooling("gemini"), number == vision.MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES - 1)
+
+    def test_cached_moderation_clears_media_state_without_new_requests(self):
+        state = self.state()
+        state.retry.fail("media", "photo", "timeout")
+        self.cache["photo"] = "(description unavailable: blocked by Ollama)"
+        self.describe(state)
+        self.assertFalse(state.retry.data["media"])
+        self.local.assert_not_called()
+        self.gemini.assert_not_called()
+
+    def test_retry_state_pruning_keeps_provider_failures_and_rejects_corruption(self):
+        state = self.state()
+        state.retry.fail("media", "old", "timeout")
+        state.retry.fail("providers", state.retry_key("ollama"), "outage")
+        state.retry.prune({"photo"})
+        restored = VisionRetry(self.path)
+        self.assertFalse(restored.data["media"])
+        self.assertTrue(restored.data["providers"])
+        self.path.write_text('{"version":1,"providers":[],"media":{}}')
+        with self.assertRaises(ValueError):
+            VisionRetry(self.path)
+
+
+class ContinuousGeminiRetryTests(unittest.TestCase):
+    @patch.object(vision.requests, "post")
+    @patch.object(vision.time, "sleep")
+    def test_long_retry_hint_survives_deadline_and_attempt_exhaustion(self, sleep, post):
+        post.return_value = response(429, data={"error": {}}, headers={"Retry-After": "120"})
+        with self.assertRaises(vision.VisionDeadlineExceeded) as raised:
+            vision.describe_image(
+                "unused", image_data=("image/jpeg", "encoded"),
+                deadline=time.monotonic() + 1, honor_retry_deadlines=True,
+            )
+        self.assertEqual(raised.exception.gemini_request_attempts, 1)
+        self.assertGreaterEqual(raised.exception.retry_at, time.time() + 119)
+        sleep.assert_not_called()
+        with self.assertRaises(vision.QuotaExceededError) as raised:
+            vision.describe_image(
+                "unused", max_attempts=1, image_data=("image/jpeg", "encoded"),
+                honor_retry_deadlines=True,
+            )
+        self.assertGreaterEqual(raised.exception.retry_at, time.time() + 119)
 
 
 if __name__ == "__main__":

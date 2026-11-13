@@ -1,7 +1,12 @@
+import copy
+import os
+import tempfile
 import unittest
+from pathlib import Path
 from unittest.mock import patch
 
-from src import main
+from src import main, continuous, topic_graph
+from src.vision_retry import VisionRetry
 
 
 class MainIterationTests(unittest.TestCase):
@@ -117,6 +122,85 @@ class MainIterationTests(unittest.TestCase):
         self.assertNotIn("GEMINI_API_KEY", [call.args[0] for call in self.require.call_args_list])
         states = [call.kwargs["state"] for call in self.describe.call_args_list]
         self.assertTrue(all(state is states[0] for state in states))
+
+
+class ContinuousMainTests(unittest.TestCase):
+    def setUp(self):
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.root = Path(self.directory)
+        self.status = self.root / "cache" / "continuous-cycle.json"
+        self.enterContext(patch.dict(os.environ, {"CONTINUOUS_CYCLE_ID": "current"}))
+        self.enterContext(patch.multiple(
+            main.config, THREADS_ACCESS_TOKEN="private", THREADS_USERNAME="owner",
+            VISION_PROVIDER="ollama", MAX_ITERATIONS=3,
+        ))
+        self.enterContext(patch.object(continuous, "STATUS_PATH", self.status))
+        hashes = continuous.live_hashes
+        self.enterContext(patch.object(continuous, "live_hashes", side_effect=lambda: hashes(self.root)))
+        self.enterContext(patch.object(main, "VisionRetry", side_effect=lambda: VisionRetry(self.root / "cache" / "retry.json")))
+        self.enterContext(patch.object(main, "load_cache", return_value={}))
+        self.enterContext(patch.object(main, "save_cache"))
+        paths = {
+            "NEEDS_REPLY_MD_PATH": self.root / "data" / "needs-reply.md",
+            "NEEDS_LIKE_MD_PATH": self.root / "data" / "needs-like.md",
+            "ACTIONS_MD_PATH": self.root / "data" / "actions.md",
+            "TOPICS_MD_PATH": self.root / "data" / "topics.md",
+            "GRAPH_JSON_PATH": self.root / "docs" / "graph.json",
+            "THREADS_DIR": self.root / "data" / "threads",
+            "HISTORY_DIR": self.root / "data" / "history",
+        }
+        self.enterContext(patch.multiple(topic_graph, **paths))
+        self.collect = self.enterContext(patch.object(main.threads_client, "collect_threads_with_replies"))
+        self.collect.return_value = []
+
+    def record(self, code=0):
+        return continuous.read_status(code, "current", self.status)
+
+    def test_one_pass_and_history_only_changes_are_quiet(self):
+        self.assertEqual(main.main(), 0)
+        self.assertTrue(self.record()["live_changed"])
+        self.collect.assert_called_once()
+        self.collect.reset_mock()
+        self.assertEqual(main.main(), 0)
+        self.assertFalse(self.record()["live_changed"])
+        (self.root / "data" / "history" / "extra-day.md").write_text("snapshot")
+        self.assertEqual(main.main(), 0)
+        self.assertFalse(self.record()["live_changed"])
+
+    def test_canonical_shuffled_inputs_produce_identical_live_bytes(self):
+        threads = [
+            {"id": "2", "timestamp": "2026-11-12T00:00:00Z", "text": "Mountain",
+             "replies": [
+                 {"id": "r2", "timestamp": "2026-11-12T02:00:00Z", "text": "What camera?", "username": "other"},
+                 {"id": "r1", "timestamp": "bad", "text": "Thanks", "username": "other"},
+             ]},
+            {"id": "1", "timestamp": "2026-11-12T00:00:00Z", "text": "Landscape", "replies": []},
+        ]
+        self.collect.return_value = copy.deepcopy(threads)
+        self.assertEqual(main.main(), 0)
+        shuffled = copy.deepcopy(threads[::-1])
+        shuffled[1]["replies"].reverse()
+        self.collect.return_value = shuffled
+        self.assertEqual(main.main(), 0)
+        self.assertFalse(self.record()["live_changed"])
+
+    def test_auth_and_transient_errors_do_not_render_or_prune(self):
+        for code in (75, 78):
+            self.collect.side_effect = continuous.CycleFailure(code, "test_error", 1234)
+            with patch.object(main.topic_graph, "build_topic_graph") as render:
+                self.assertEqual(main.main(), code)
+                render.assert_not_called()
+                self.assertEqual(self.record(code)["retry_at"], 1234)
+            self.assertFalse((self.root / "cache" / "retry.json").exists())
+
+    def test_invalid_config_and_corrupt_state_fail_before_rendering(self):
+        with patch.object(main.config, "validate_vision", side_effect=ValueError):
+            self.assertEqual(main.main(), 78)
+        self.status.unlink()
+        path = self.root / "cache" / "retry.json"
+        path.write_text("{bad")
+        self.assertEqual(main.main(), 1)
+        self.assertFalse(self.status.exists())
 
 
 if __name__ == "__main__":

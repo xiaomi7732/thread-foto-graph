@@ -20,7 +20,7 @@ from email.utils import parsedate_to_datetime
 
 import requests
 
-from . import config, threads_client
+from . import config, threads_client, continuous
 from .cache import description_text, make_entry
 
 GEMINI_URL_TMPL = (
@@ -312,6 +312,7 @@ def describe_image(
     *,
     image_data: tuple[str, str] | None = None,
     deadline: float | None = None,
+    honor_retry_deadlines: bool = False,
 ) -> tuple[str, int]:
     """Returns (description, gemini_request_attempts). The attempt count
     includes every actual POST sent to Gemini this call, not just 1 -- a
@@ -353,10 +354,11 @@ def describe_image(
     retries_transient = 0
     post_attempts = 0
 
-    def wait(delay: float) -> None:
+    def wait(delay: float, retry_at: float | None = None) -> None:
         if deadline is not None and time.monotonic() + delay >= deadline:
             exc = VisionDeadlineExceeded("Vision run time limit reached during Gemini retry")
             exc.gemini_request_attempts = post_attempts
+            exc.retry_at = retry_at
             raise exc
         time.sleep(delay)
 
@@ -410,6 +412,9 @@ def describe_image(
 
         if resp.status_code == 429:
             delay = _parse_retry_delay(resp)
+            if honor_retry_deadlines:
+                delay = continuous.finite_seconds(delay)
+            retry_at = time.time() + delay if delay is not None and honor_retry_deadlines else None
             if delay is None:
                 # Gemini gave us no Retry-After/retryDelay to honor -- we'd just
                 # be guessing how long to wait, and a guessed delay has already
@@ -417,31 +422,37 @@ def describe_image(
                 # README). Fail fast instead of retrying blind.
                 err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
                 err.gemini_request_attempts = post_attempts
+                err.retry_at = retry_at
                 raise err
             if retries_429 >= MAX_429_RETRIES or _attempts_exhausted():
                 err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
                 err.gemini_request_attempts = post_attempts
+                err.retry_at = retry_at
                 raise err
             retries_429 += 1
-            delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
+            if not honor_retry_deadlines:
+                delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
             print(
                 f"  Gemini rate limit (429) -- retrying in {delay:.0f}s "
                 f"(attempt {retries_429}/{MAX_429_RETRIES})...",
                 flush=True,
             )
-            wait(delay)
+            wait(delay, retry_at)
             continue
 
         if resp.status_code in TRANSIENT_STATUS_CODES:
             retries_transient += 1
             if retries_transient <= MAX_TRANSIENT_RETRIES and not _attempts_exhausted():
                 delay = _transient_retry_delay(retries_transient)
+                retry_at = continuous.retry_after(resp.headers) if honor_retry_deadlines else None
+                if retry_at is not None:
+                    delay = max(delay, retry_at - time.time())
                 print(
                     f"  Gemini server error ({resp.status_code}) -- retrying in "
                     f"{delay:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                     flush=True,
                 )
-                wait(delay)
+                wait(delay, retry_at)
                 continue
             # Retries exhausted -- fall through to raise_for_status() just
             # below, in this same iteration, so it raises the HTTPError for
@@ -452,6 +463,8 @@ def describe_image(
             resp.raise_for_status()
         except requests.HTTPError as exc:
             exc.gemini_request_attempts = post_attempts
+            if honor_retry_deadlines:
+                exc.retry_at = continuous.retry_after(resp.headers)
             raise
 
         try:
@@ -749,30 +762,115 @@ class VisionRun:
     local_reason: str | None = None
     cache_hits: set[str] = field(default_factory=set)
     pending: set[str] = field(default_factory=set)
+    retry: object | None = None
+    eligible_unattempted: set[str] = field(default_factory=set)
+    last_failure: str | None = None
+
+    def retry_key(self, provider: str) -> str:
+        model = config.OLLAMA_MODEL if provider == "ollama" else config.GEMINI_MODEL
+        endpoint = config.OLLAMA_BASE_URL if provider == "ollama" else GEMINI_URL_TMPL
+        return self.retry.provider_key(provider, model, endpoint)
+
+    def cooling(self, provider: str) -> bool:
+        if self.retry is None:
+            return False
+        key = "image_host" if provider == "image_host" else self.retry_key(provider)
+        return self.retry.cooling("providers", key)
+
+    def media_ready(self, media_id: str) -> bool:
+        return self.retry is None or not self.retry.cooling("media", media_id)
+
+    def fresh_available(self, media_id: str) -> bool:
+        if not self.media_ready(media_id) or self.cooling("image_host"):
+            return False
+        local = self.provider in {"auto", "ollama"} and self.local_budget > 0 and not self.cooling("ollama")
+        gemini = (
+            (self.provider == "gemini" or (self.provider == "auto" and bool(config.GEMINI_API_KEY)))
+            and self.gemini_budget > 0 and not self.cooling("gemini")
+        )
+        return local or gemini
+
+    def provider_failed(self, provider: str, exc, reason: str, *, quota=False) -> None:
+        if self.retry is not None:
+            response = getattr(exc, "response", None)
+            status = response.status_code if response is not None else None
+            configuration_error = status in (401, 403, 404)
+            if status == 400:
+                try:
+                    body = response.json()
+                except ValueError:
+                    body = {}
+                error = body.get("error", {}) if isinstance(body, dict) else {}
+                error = error if isinstance(error, dict) else {}
+                details = error.get("details", [])
+                reasons = {
+                    detail.get("reason") for detail in details
+                    if isinstance(detail, dict) and isinstance(detail.get("reason"), str)
+                } if isinstance(details, list) else set()
+                configuration_error = (
+                    error.get("status") == "FAILED_PRECONDITION"
+                    or bool(reasons & {
+                        "API_KEY_INVALID", "API_KEY_SERVICE_BLOCKED",
+                        "API_KEY_HTTP_REFERRER_BLOCKED", "API_KEY_IP_ADDRESS_BLOCKED",
+                        "SERVICE_DISABLED", "BILLING_DISABLED",
+                    })
+                )
+            if configuration_error:
+                raise continuous.CycleFailure(78, f"{provider}_configuration") from exc
+            self.last_failure = reason
+            if status == 400:
+                # Bad image/MIME inputs are per-photo failures, not revoked credentials.
+                return
+            hint = getattr(exc, "retry_at", None)
+            if hint is None and response is not None:
+                hint = continuous.retry_after(response.headers)
+            self.retry.fail("providers", self.retry_key(provider), reason, retry_at=hint, quota=quota)
+
+    def provider_succeeded(self, provider: str) -> None:
+        if self.retry is not None:
+            self.retry.success("providers", self.retry_key(provider))
+            self.retry.success("providers", "image_host")
+
+    def describe_retryable(self, media_id: str, image_url: str) -> tuple[str | None, dict | None]:
+        self.last_failure = None
+        text, entry = self.describe(image_url)
+        if entry is not None:
+            self.retry.success("media", media_id)
+            return text, entry
+        if self.last_failure is not None:
+            self.retry.fail("media", media_id, self.last_failure)
+        elif self.fresh_available(media_id):
+            self.eligible_unattempted.add(media_id)
+        # Keep transient failures stable in published output; causes stay private.
+        return None, None
 
     def can_local(self) -> bool:
         return (
-            self.provider in {"auto", "ollama"} and not self.local_disabled
+            self.provider in {"auto", "ollama"} and not self.local_disabled and not self.cooling("ollama")
             and self.local_requests < self.local_budget
         )
 
     def can_gemini(self) -> bool:
         return (
             (self.provider == "gemini" or (self.provider == "auto" and bool(config.GEMINI_API_KEY)))
-            and not self.gemini_disabled and self.gemini_requests < self.gemini_budget
+            and not self.gemini_disabled and not self.cooling("gemini") and self.gemini_requests < self.gemini_budget
         )
 
     def stopped(self) -> bool:
         return (
-            self.stop_calls or time.monotonic() >= self.deadline
+            self.stop_calls or self.cooling("image_host") or time.monotonic() >= self.deadline
             or not (self.can_local() or self.can_gemini())
         )
 
     def image_failed(self, exc: ImageFetchError) -> None:
+        if self.retry is not None:
+            self.last_failure = "image_fetch"
         if _is_outage_signal(exc.__cause__ or exc):
             self.image_failures += 1
             if self.image_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
                 self.stop_calls = True
+                if self.retry is not None:
+                    self.retry.fail("providers", "image_host", "image_host_outage")
                 print("Photo host outage -- stopping new image requests for this run.", flush=True)
 
     def describe(self, image_url: str) -> tuple[str | None, dict | None]:
@@ -795,32 +893,44 @@ class VisionRun:
             except OllamaRefusalError:
                 self.local_failures = 0
                 text = f"{DESCRIPTION_UNAVAILABLE_PREFIX} blocked by Ollama)"
+                self.provider_succeeded("ollama")
                 return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
             except VisionDeadlineExceeded:
                 self.stop_calls = True
                 return None, None
             except requests.RequestException as exc:
                 self.local_failures += 1
-                if isinstance(exc, OllamaResponseError):
+                response = getattr(exc, "response", None)
+                photo_error = self.retry is not None and response is not None and response.status_code == 400
+                if isinstance(exc, OllamaResponseError) or photo_error:
                     fallback_reason = "ollama_invalid_output"
                     self.local_disabled = self.local_failures >= 3
                 else:
                     fallback_reason = "ollama_timeout" if isinstance(exc, requests.Timeout) else "ollama_unavailable"
                     self.local_disabled = True
                 self.local_reason = fallback_reason
+                self.provider_failed("ollama", exc, fallback_reason)
+                if photo_error and self.local_disabled:
+                    self.retry.fail("providers", self.retry_key("ollama"), "ollama_repeated_photo_error")
                 print(f"Ollama failed ({fallback_reason}); trying Gemini if available.", flush=True)
             else:
                 self.local_failures = 0
                 self.local_reason = None
+                self.provider_succeeded("ollama")
                 print(f"Vision: ollama / {config.OLLAMA_MODEL}", flush=True)
                 return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
         elif self.provider == "auto":
-            fallback_reason = self.local_reason if self.local_disabled else "ollama_budget_exhausted"
+            fallback_reason = (
+                "ollama_cooldown" if self.cooling("ollama")
+                else self.local_reason if self.local_disabled else "ollama_budget_exhausted"
+            )
 
         if not self.can_gemini() or time.monotonic() >= self.deadline:
             return None, None
         try:
             kwargs = {"deadline": self.deadline}
+            if self.retry is not None:
+                kwargs["honor_retry_deadlines"] = True
             if image_data is not None:
                 kwargs["image_data"] = image_data
             text, attempts = describe_image(
@@ -833,16 +943,20 @@ class VisionRun:
         except VisionDeadlineExceeded as exc:
             self.gemini_requests += getattr(exc, "gemini_request_attempts", 0)
             self.stop_calls = True
+            if getattr(exc, "gemini_request_attempts", 0) > 0:
+                self.provider_failed("gemini", exc, "gemini_retry_wait")
             return None, None
         except QuotaExceededError as exc:
             self.gemini_requests += getattr(exc, "gemini_request_attempts", 1)
             self.image_failures = 0
             self.gemini_disabled = True
+            self.provider_failed("gemini", exc, "gemini_quota", quota=True)
             print(f"{exc} -- Gemini disabled for this run; local vision can continue.", flush=True)
             return None, None
         except requests.RequestException as exc:
             self.gemini_requests += getattr(exc, "gemini_request_attempts", 1)
             self.image_failures = 0
+            self.provider_failed("gemini", exc, "gemini_failure")
             if _is_outage_signal(exc):
                 self.transient_failures += 1
                 self.non_retryable_failures = 0
@@ -851,13 +965,19 @@ class VisionRun:
                 self.transient_failures = 0
                 self.non_retryable_failures += 1
                 self.gemini_disabled = self.non_retryable_failures >= MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES
+                response = getattr(exc, "response", None)
+                if self.retry is not None and self.gemini_disabled and response is not None and response.status_code == 400:
+                    self.retry.fail("providers", self.retry_key("gemini"), "gemini_repeated_photo_error")
             print(f"Gemini request failed: {_sanitize(str(exc))}", flush=True)
             return f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})", None
         else:
             self.gemini_requests += attempts
             self.transient_failures = self.image_failures = self.non_retryable_failures = 0
             if not text or not text.strip():
+                if self.retry is not None:
+                    self.last_failure = "gemini_invalid_output"
                 return None, None
+            self.provider_succeeded("gemini")
             print(f"Vision: gemini / {config.GEMINI_MODEL}; fallback={fallback_reason or 'none'}", flush=True)
             return text, make_entry(text, "gemini", config.GEMINI_MODEL, fallback_reason)
 
@@ -916,20 +1036,27 @@ def describe_images(
             if media_id in cache:
                 descriptions.append(description_text(cache[media_id]))
                 state.cache_hits.add(media_id)
+                if state.retry is not None:
+                    state.retry.success("media", media_id)
                 continue
             if media_id in attempted_media_ids:
                 descriptions.append(attempted_media_ids[media_id])
                 continue
-            if state.stopped():
+            if not state.media_ready(media_id) or state.stopped():
                 # Leave as None (pending) -- topic_graph.py distinguishes
                 # this from "no photo" via the list entry existing at all.
                 descriptions.append(None)
                 state.pending.add(media_id)
+                if state.retry is not None and state.fresh_available(media_id):
+                    state.eligible_unattempted.add(media_id)
                 continue
 
             attempted_media_ids[media_id] = None
             before_photo = state.gemini_requests
-            description, entry = state.describe(photo["media_url"])
+            if state.retry is None:
+                description, entry = state.describe(photo["media_url"])
+            else:
+                description, entry = state.describe_retryable(media_id, photo["media_url"])
             attempted_media_ids[media_id] = description
             if entry is not None:
                 cache[media_id] = entry

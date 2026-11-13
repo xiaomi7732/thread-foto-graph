@@ -1,0 +1,15 @@
+[Unit]
+Description=Adaptively update Thread Foto Graph every 5 to 30 minutes
+
+[Service]
+Type=simple
+WorkingDirectory=%h/thread-foto-graph
+ExecStart=/usr/bin/bash %h/thread-foto-graph/run_continuous.sh
+KillMode=mixed
+TimeoutStopSec=6000
+Restart=no
+UMask=0077
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=default.target

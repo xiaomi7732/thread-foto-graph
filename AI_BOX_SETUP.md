@@ -1,5 +1,8 @@
 # AI box setup: step-by-step
 
+For adaptive unattended operation after completing the initial setup, see
+the [adaptive publisher checklist](#adaptive-publisher-checklist) below.
+
 Follow these steps on the Ubuntu AI box, as your normal user. Commands are
 Bash unless explicitly marked otherwise. Do not run the pipeline with sudo.
 
@@ -354,6 +357,77 @@ systemctl --user status thread-foto-graph.service --no-pager
 Stopping the timer does not stop an already running service. Wait for it to
 finish, or deliberately stop the service, before starting the hosted manual
 Gemini backup. There is no automatic failover if the whole box is offline.
+
+## Adaptive publisher checklist
+
+This is an alternative to the daily timer, not an additional publisher.
+Use it only after the model, cache, credentials, and normal publishing checks
+above work. See [README.md](README.md#adaptive-continuous-operation-ubuntu)
+for the detailed 5/15/30-minute start-to-start policy and recovery rules.
+
+1. Keep the daily timer, active daily/manual runs, hosted workflow, and Windows
+   publisher stopped. Check `git status --short`; review/commit intended code
+   and output changes so the publisher's clean-checkout guard can pass.
+2. Run the automated checks on the box, including real Linux signal/flock
+   fixtures. These tests do not call Threads, Ollama, Gemini, or GitHub:
+
+   ```bash
+   .venv/bin/python -m unittest discover -s tests
+   bash -n run_daily.sh run_continuous.sh
+   ```
+
+3. Install the optional service without enabling it yet:
+
+   ```bash
+   systemctl --user disable --now thread-foto-graph.timer
+   systemctl --user stop thread-foto-graph.service
+   mkdir -p ~/.config/systemd/user
+   cp deploy/thread-foto-graph-continuous.service ~/.config/systemd/user/
+   systemctl --user daemon-reload
+   systemctl --user start thread-foto-graph-continuous.service
+   journalctl --user -u thread-foto-graph-continuous.service -n 100 --no-pager
+   ```
+
+4. Inspect a bounded sample before enabling unattended operation. Observe
+   actual cycle starts and durations, local/Gemini attempts, pending photos,
+   adaptive intervals, generated-output changes, and commit count. Confirm
+   cached photos do not trigger inference, two unchanged checks slow the
+   cadence, and a live change resets it. A history-only rollover is not
+   activity. Per-run request budgets do not enforce daily quotas.
+5. Stop the sample gracefully:
+
+   ```bash
+   systemctl --user stop thread-foto-graph-continuous.service
+   systemctl --user status thread-foto-graph-continuous.service --no-pager
+   git status --short
+   ```
+
+   A wait stops promptly; an active cycle is allowed to finish. The service's
+   6000s stop bound covers the full bounded pipeline/Git tail, not just Python.
+   Shutdown/reboot can wait for that tail; do not mistake it for a hang.
+   Foreground Ctrl-C or forced termination is not graceful and can retain
+   dirty output, unpushed commits, or Git recovery state requiring inspection.
+6. After the sample meets expectations, enable and start the service:
+
+   ```bash
+   systemctl --user enable --now thread-foto-graph-continuous.service
+   sudo loginctl enable-linger "$USER"
+   ```
+
+   After logout/reboot, check service status and journal again. Fatal errors
+   do not auto-restart; stale feeds are possible until the operator repairs
+   the cause and restarts. Private `cache/continuous-cycle.json` and
+   `cache/vision-retry.json` must remain ignored/unpublished.
+
+When quiet, new activity may wait 30 minutes plus processing. When a run
+overruns, missed slots are skipped rather than overlapped or replayed:
+10:00 start / 10:07 finish at five-minute cadence means next start 10:10.
+Adaptive mode always uses one collection/vision pass; the `.env`
+`MAX_ITERATIONS` value still controls normal daily mode.
+
+To roll back, disable/stop the continuous service and then enable the daily
+timer. Preserve the successful photo cache and private cooldown state; never
+delete live lock files or force-push to bypass recovery.
 
 ## Troubleshooting checkpoints
 

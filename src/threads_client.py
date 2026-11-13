@@ -15,7 +15,7 @@ from typing import Iterable
 
 import requests
 
-from . import config, threads_auth
+from . import config, threads_auth, continuous
 
 BASE_URL = "https://graph.threads.net/v1.0"
 
@@ -34,9 +34,23 @@ def _get(path: str, params: dict) -> dict:
     # Sent as a header (not a query param) so it can never leak into an
     # exception message that embeds the request URL.
     headers = {"Authorization": f"Bearer {threads_auth.get_valid_access_token()}"}
-    resp = requests.get(f"{BASE_URL}/{path}", params=params, headers=headers, timeout=30)
+    try:
+        resp = requests.get(f"{BASE_URL}/{path}", params=params, headers=headers, timeout=30)
+    except (requests.Timeout, requests.ConnectionError) as exc:
+        if continuous.enabled():
+            raise continuous.CycleFailure(75, "threads_network") from exc
+        raise
+    if continuous.enabled():
+        continuous.check_threads_response(resp)
     resp.raise_for_status()
-    return resp.json()
+    data = resp.json()
+    if continuous.enabled() and (
+        not isinstance(data, dict) or not isinstance(data.get("data"), list)
+        or any(not isinstance(item, dict) for item in data["data"])
+        or ("paging" in data and not isinstance(data["paging"], dict))
+    ):
+        raise continuous.CycleFailure(1, "threads_schema")
+    return data
 
 
 def _paginate(path: str, params: dict) -> Iterable[dict]:

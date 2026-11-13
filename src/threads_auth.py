@@ -18,20 +18,33 @@ import time
 
 import requests
 
-from . import config, token_store
+from . import config, token_store, continuous
 
 REFRESH_URL = "https://graph.threads.net/refresh_access_token"
 REFRESH_MARGIN_DAYS = 10
 
 
 def _refresh(current_token: str) -> dict:
-    resp = requests.get(
-        REFRESH_URL,
-        params={"grant_type": "th_refresh_token", "access_token": current_token},
-        timeout=30,
-    )
+    try:
+        resp = requests.get(
+            REFRESH_URL,
+            params={"grant_type": "th_refresh_token", "access_token": current_token},
+            timeout=30,
+        )
+    except (requests.Timeout, requests.ConnectionError) as exc:
+        if continuous.enabled():
+            raise continuous.CycleFailure(75, "threads_refresh_network") from exc
+        raise
+    if continuous.enabled():
+        continuous.check_threads_response(resp)
     resp.raise_for_status()
-    return resp.json()  # {"access_token": ..., "token_type": "bearer", "expires_in": seconds}
+    data = resp.json()
+    if continuous.enabled() and (
+        not isinstance(data, dict) or not isinstance(data.get("access_token"), str)
+        or not data["access_token"] or continuous.finite_seconds(data.get("expires_in")) in (None, 0)
+    ):
+        raise continuous.CycleFailure(1, "threads_refresh_schema")
+    return data  # {"access_token": ..., "token_type": "bearer", "expires_in": seconds}
 
 
 def get_valid_access_token() -> str:

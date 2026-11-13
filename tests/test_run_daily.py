@@ -1,6 +1,7 @@
 import os
 import shutil
 import subprocess
+import sys
 import tempfile
 import unittest
 from pathlib import Path
@@ -26,7 +27,7 @@ class LinuxRunnerTests(unittest.TestCase):
         self.identity(self.repo)
         self.git("init", "--bare", str(self.remote))
         self.write("run_daily.sh", (ROOT / "run_daily.sh").read_text(encoding="utf-8"))
-        self.write(".gitignore", "cache/\n.venv/\ntest-bin/\n")
+        self.write(".gitignore", "cache/\n.venv/\ntest-bin/\n__pycache__/\n")
         self.write(".gitattributes", "*.sh text eol=lf\n")
         for path in (
             "data/needs-reply.md", "data/needs-like.md", "data/actions.md",
@@ -106,9 +107,10 @@ fi
         self.assertFalse((self.repo / "cache/media_cache.json").exists())
 
     def test_unchanged_output_creates_no_commit(self):
-        result = self.run_script("--publish")
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertEqual(self.head(), self.baseline)
+        for _ in range(2):
+            result = self.run_script("--publish")
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+            self.assertEqual(self.head(), self.baseline)
 
     def test_success_publishes_only_generated_output(self):
         result = self.run_script("--publish", TEST_CHANGE="new output")
@@ -182,6 +184,60 @@ exec "$TEST_REAL_GIT" "$@"
         self.assertEqual(result.returncode, 124, result.stdout + result.stderr)
         self.assertEqual(self.head(), self.baseline)
         self.assertEqual((self.repo / "cache/media_cache.json").read_text(), "retained")
+
+    def continuous_fixture(self):
+        self.write("src/continuous.py", (ROOT / "src" / "continuous.py").read_text(encoding="utf-8"))
+        self.git("add", "src/continuous.py")
+        self.git("commit", "-m", "Cycle contract fixture")
+        self.git("push")
+        self.baseline = self.head()
+        self.write(".venv/bin/python", """#!/usr/bin/env bash
+if [[ "$2" == src.continuous ]]; then exec "$TEST_REAL_PYTHON" "$@"; fi
+printf retained > cache/media_cache.json
+if [[ -z "${TEST_MISSING_STATUS:-}" ]]; then
+  printf '{"version":1,"cycle_id":"%s","code":%s,"live_changed":false,"eligible_unattempted":false,"retry_at":null}' \
+    "$CONTINUOUS_CYCLE_ID" "${TEST_MAIN_EXIT:-0}" > cache/continuous-cycle.json
+fi
+if [[ -n "${TEST_CHANGE:-}" ]]; then printf '%s' "$TEST_CHANGE" > data/needs-reply.md; fi
+exit "${TEST_MAIN_EXIT:-0}"
+""")
+        return {"CONTINUOUS_CYCLE_ID": "current", "TEST_REAL_PYTHON": sys.executable}
+
+    def test_continuous_outcomes_require_valid_status_and_preserve_cache(self):
+        env = self.continuous_fixture()
+        for code in (75, 78, 124):
+            result = self.run_script("--publish", **env, TEST_MAIN_EXIT=str(code))
+            self.assertEqual(result.returncode, code, result.stdout + result.stderr)
+            self.assertEqual(self.head(), self.baseline)
+        # Remove the fixture's previous outcome: actual supervisor does this before launch.
+        (self.repo / "cache/continuous-cycle.json").unlink()
+        result = self.run_script("--publish", **env, TEST_MAIN_EXIT="75", TEST_MISSING_STATUS="1")
+        self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        self.assertEqual(self.head(), self.baseline)
+
+    def test_continuous_git_code_collisions_are_fatal_not_retryable(self):
+        env = self.continuous_fixture()
+        self.write("test-bin/git", """#!/usr/bin/env bash
+if [[ "$1" == fetch ]]; then exit "$TEST_GIT_EXIT"; fi
+exec "$TEST_REAL_GIT" "$@"
+""")
+        for code in ("75", "124"):
+            result = self.run_script(
+                "--publish", **env, TEST_GIT_EXIT=code, TEST_REAL_GIT=shutil.which("git"),
+            )
+            self.assertEqual(result.returncode, 70, result.stdout + result.stderr)
+            self.assertEqual(self.head(), self.baseline)
+
+    def test_continuous_success_no_change_and_lock_contention(self):
+        env = self.continuous_fixture()
+        result = self.run_script("--publish", **env, TEST_CHANGE="live change")
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        published = self.head()
+        result = self.run_script("--publish", **env)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertEqual(self.head(), published)
+        result = self.run_script("--publish", **env, TEST_LOCK_FAILURE="1")
+        self.assertEqual(result.returncode, 73)
 
 
 if __name__ == "__main__":

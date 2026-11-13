@@ -12,17 +12,40 @@ import datetime as dt
 import sys
 import time
 
-from . import config, threads_client, topic_graph, vision
+from . import config, threads_client, topic_graph, vision, continuous
 from .cache import load_cache, save_cache
+from .vision_retry import VisionRetry
 
 
 def main() -> int:
-    config.require("THREADS_ACCESS_TOKEN", config.THREADS_ACCESS_TOKEN)
-    config.require("THREADS_USERNAME", config.THREADS_USERNAME)
-    config.validate_vision()
+    if not continuous.enabled():
+        return run()
+    try:
+        return run()
+    except continuous.CycleFailure as exc:
+        continuous.write_status(exc.code, exc.reason, retry_at=exc.retry_at)
+        print(f"Cycle failed: {exc.reason}", flush=True)
+        return exc.code
+    except Exception as exc:
+        # Unknown/schema/private-state errors fail closed without logging raw secrets.
+        print(f"Cycle failed: {type(exc).__name__}; inspect configuration/private state.", flush=True)
+        return 1
+
+
+def run() -> int:
+    mode = continuous.enabled()
+    try:
+        config.require("THREADS_ACCESS_TOKEN", config.THREADS_ACCESS_TOKEN)
+        config.require("THREADS_USERNAME", config.THREADS_USERNAME)
+        config.validate_vision()
+    except (RuntimeError, ValueError) as exc:
+        if mode:
+            raise continuous.CycleFailure(78, "configuration") from exc
+        raise
+    before_outputs = continuous.live_hashes() if mode else None
 
     cache = load_cache()
-    state = vision.VisionRun()
+    state = vision.VisionRun(retry=VisionRetry() if mode else None)
     started = time.monotonic()
     if config.VISION_PROVIDER == "auto" and not config.GEMINI_API_KEY:
         print("Gemini fallback disabled: GEMINI_API_KEY is not configured.", flush=True)
@@ -43,7 +66,8 @@ def main() -> int:
         else f"last {config.LOOKBACK_DAYS} day(s), capped to {config.MAX_ROOT_THREADS} post(s)"
     )
 
-    for iteration in range(1, config.MAX_ITERATIONS + 1):
+    iterations = 1 if mode else config.MAX_ITERATIONS
+    for iteration in range(1, iterations + 1):
         cache_at_iteration_start = dict(cache)
         new_recognition_needed = False
 
@@ -57,12 +81,14 @@ def main() -> int:
                         new_recognition_needed = True
 
         print(
-            f"Iteration {iteration}/{config.MAX_ITERATIONS}: fetching threads ({scope})...",
+            f"Iteration {iteration}/{iterations}: fetching threads ({scope})...",
             flush=True,
         )
         threads = threads_client.collect_threads_with_replies(
             config.LOOKBACK_DAYS, config.MAX_ROOT_THREADS
         )
+        if mode:
+            continuous.canonical_threads(threads)
         print(f"Found {len(threads)} root thread(s).", flush=True)
 
         def persist_progress():
@@ -166,11 +192,11 @@ def main() -> int:
         if not new_recognition_needed:
             print("No new image recognition needed; stopping.", flush=True)
             break
-        if iteration < config.MAX_ITERATIONS:
+        if iteration < iterations:
             print("New image recognition work found; fetching again for new photos.", flush=True)
         else:
             print(
-                f"Reached the {config.MAX_ITERATIONS}-iteration limit; "
+                f"Reached the {iterations}-iteration limit; "
                 "remaining new photos will be picked up on the next run.",
                 flush=True,
             )
@@ -183,6 +209,18 @@ def main() -> int:
     )
 
     graph = topic_graph.build_topic_graph(threads)
+    if mode:
+        media_ids = {
+            photo["id"]
+            for thread in threads
+            for item in [thread, *threads_client.iter_replies(thread.get("replies", []))]
+            for photo in threads_client.photo_items(item)
+        }
+        state.retry.prune(media_ids)
+        continuous.write_status(
+            0, "success", live_changed=continuous.live_hashes() != before_outputs,
+            eligible_unattempted=bool(state.eligible_unattempted),
+        )
     print(
         f"Wrote data/needs-reply.md, data/needs-like.md, data/actions.md, "
         f"data/topics.md, data/history/ and docs/graph.json "

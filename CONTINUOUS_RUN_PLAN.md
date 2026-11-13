@@ -1,6 +1,6 @@
 # Plan: continuous AI-box execution and change-only publishing
 
-Status: revision 5, ready to execute after two consecutive consensus rounds; not implemented.
+Status: revision 5 implemented and code-reviewed; AI-box deployment checks pending.
 
 ## Review consensus
 
@@ -24,8 +24,29 @@ unchanged revision 5 in two consecutive rounds:
 No substantive plan edits occurred between those rounds. This section records
 the completed reviews without changing the approved implementation design.
 Neither design review constitutes
-implementation or deployment verification. Execution requires a separate
-instruction; the checks below remain required.
+implementation or deployment verification.
+
+## Implementation progress
+
+The adaptive wrapper, source-aware cycle outcomes, persistent vision retry
+state, child-owned activity hashes, one-pass/canonical mode, optional user
+service, focused tests, and setup documentation are implemented.
+`run_continuous.sh` holds the supervisor lock and delegates scheduling to
+`src.continuous`, using Python's monotonic clock and signal handling directly
+rather than repeatedly launching a clock helper from Bash.
+
+Existing daily modes remain unchanged. The full local regression suite passed:
+146 tests, with three Linux-only process fixtures skipped on Windows.
+GPT-6.1 Sol and Claude Opus 5.5 independently returned CLEAR in two consecutive
+rounds on the same corrected implementation. Their initial review caught a
+photo-specific HTTP 400 incorrectly being treated as fatal configuration;
+that was fixed and regression-tested before the two clear rounds.
+Only this progress record was updated after the final approvals.
+Windows has no Linux runtime or `flock`, so the Linux-only real-process tests
+and bounded live AI-box installation/reboot/sample checks remain deployment
+checks. No service has been installed/enabled and no live publishing run was
+started here. Use the bounded rollout checklist in `AI_BOX_SETUP.md` before
+enabling unattended operation.
 
 ## Goal and confirmed choices
 

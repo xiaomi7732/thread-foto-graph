@@ -508,17 +508,113 @@ takeover is not implemented. To roll back provider selection, set
 records remain readable by this version. Old code predating structured
 records needs a separate legacy cache, not the new mixed-format cache.
 
+### Adaptive continuous operation (Ubuntu)
+
+`run_continuous.sh` keeps one publisher available without polling in a tight
+loop. It runs one collection/vision pass per cycle and publishes only changed
+generated outputs:
+
+- Start at a **5-minute start-to-start interval**. Two unchanged successful
+  checks increase it to 15 minutes; two more increase it to 30.
+- A live-feed/graph change resets it to five minutes. Eligible photos left
+  unattempted because of a vision budget/deadline also hold it at five.
+  Daily history snapshots and private state do not count as activity.
+- Record the actual start of each cycle using a monotonic clock. Never
+  overlap or replay missed cycles: at five-minute cadence, a 10:00 start
+  finishing at 10:07 schedules the next start for 10:10.
+- The first activity after a quiet period can take 30 minutes plus processing
+  to appear. This is not a guarantee of five-minute photo-description delivery.
+
+Frequent checks still fetch the complete in-scope reply trees and run Git
+preflight. Described-photo cache hits avoid inference, not Threads requests.
+Per-run vision budgets are not daily quotas. Continuous-only
+`cache/vision-retry.json` persists provider and per-photo cooldowns across
+cycles/restarts; failed photos render stable pending text. Unknown-reset
+Gemini quota exhaustion is probed no more than hourly, and cooling providers
+do not prevent a healthy alternative from working.
+
+Continuous mode stops on enabled-provider authentication/configuration errors,
+even if fallback could work. Default daily mode retains its existing behavior.
+Threads collection/token-refresh transients get five retries with bounded
+backoff and valid Retry-After deadlines. Unknown errors, corrupt private state,
+lock contention, and Git failures stop visibly; they do not count as quiet.
+Meta body throttling codes 4, 17, and 613 are handled using the
+[Graph error guide](https://developers.facebook.com/docs/graph-api/guides/error-handling/)
+and [rate-limit guide](https://developers.facebook.com/docs/graph-api/overview/rate-limiting/).
+Pages-specific code 32 and unverified usage-header timing fail closed or are
+not used as Threads retry guidance.
+
+For foreground use, after reviewing/committing intended checkout changes:
+
+```bash
+bash run_continuous.sh
+```
+
+For unattended operation, use the optional user service instead. Stop the
+existing daily timer and any active daily/manual/hosted/Windows publisher
+first; no distributed publisher lock is provided:
+
+```bash
+systemctl --user disable --now thread-foto-graph.timer
+systemctl --user stop thread-foto-graph.service
+mkdir -p ~/.config/systemd/user
+cp deploy/thread-foto-graph-continuous.service ~/.config/systemd/user/
+systemctl --user daemon-reload
+# Start for inspection before enabling at login:
+systemctl --user start thread-foto-graph-continuous.service
+journalctl --user -u thread-foto-graph-continuous.service -n 100 --no-pager
+systemctl --user status thread-foto-graph-continuous.service --no-pager
+systemctl --user enable thread-foto-graph-continuous.service
+```
+
+The templates assume `~/thread-foto-graph`. As with the daily timer,
+`sudo loginctl enable-linger "$USER"` is needed for unattended operation
+after logout/reboot. Nothing installs/enables either service automatically.
+Perform the bounded inspection in [AI_BOX_SETUP.md](AI_BOX_SETUP.md) first.
+
+Stop gracefully with:
+
+```bash
+systemctl --user stop thread-foto-graph-continuous.service
+```
+
+Stopping during a wait is prompt; stopping during a cycle waits for that
+bounded cycle to finish without interrupting rendering, commit, push, or
+rebase. `KillMode=mixed` and a 6000s service stop timeout allow this. The runner
+validates `21 * (GIT_TIMEOUT_SECONDS + 5) + PIPELINE_TIMEOUT_SECONDS + 60`
+against that limit (5685s with defaults), covering Git commands, kill graces,
+the pipeline, and recovery sleeps. Larger timeout overrides are rejected.
+Shutdown/reboot may therefore wait for an active cycle; it is not a hang.
+
+A foreground Ctrl-C, forced kill, or power loss can interrupt child processes.
+Check `git status`, retained output/unpushed commits, and recovery state before
+restarting. Do not discard files or force-push. Stopped services do not restart
+automatically: inspect the journal, repair the cause, then restart explicitly.
+`cache/continuous-cycle.json` is private cycle-ID-bound status, not published
+content. Corrupt cooldown/state files require inspection; do not blindly clear
+them to bypass an outage or quota.
+
+To return to daily scheduling, disable/stop the continuous service before
+enabling the daily timer:
+
+```bash
+systemctl --user disable --now thread-foto-graph-continuous.service
+systemctl --user enable --now thread-foto-graph.timer
+```
+
 ### Development checks
 
 ```bash
 python -m unittest discover -s tests
-bash -n run_daily.sh
+bash -n run_daily.sh run_continuous.sh
 ```
 
 Linux-wrapper tests use temporary Git remotes and mocked inference/locking/
 timeout commands; they do not contact Threads, Ollama, Gemini, or GitHub.
 They verify publishing and failure recovery, not an actual systemd deployment
 or GPU/model quality.
+`test_continuous_process.py` additionally runs bounded real signal/descendant/
+flock checks on Linux/POSIX with `flock`; it is skipped on Windows.
 
 ## Running on demand (GitHub Actions)
 
