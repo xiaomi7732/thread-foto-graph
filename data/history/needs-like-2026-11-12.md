@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (54)
+## Needs Like (57)
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
 - tammakaye: Socks! ([link](https://www.threads.com/@tammakaye/post/DfqTXNFpf3O))
@@ -13,6 +13,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - maxjohnson41: 🙏 ([link](https://www.threads.com/@maxjohnson41/post/DfqZlWQjt--))
 - bourgonjeastrid: Clerodendron ([link](https://www.threads.com/@bourgonjeastrid/post/DfpsbvLkeBQ))
 - cruscher53: 🙏 ([link](https://www.threads.com/@cruscher53/post/DfqLXsvlSNp))
+- psw1031: Sometimes ([link](https://www.threads.com/@psw1031/post/Dfqs7MUFtc5))
 - moskutin: -7 °C ([link](https://www.threads.com/@moskutin/post/Dfpu1ZSDdCz))
 - nikolaeva2976: Urban 🐋✨🤝 ([link](https://www.threads.com/@nikolaeva2976/post/DfqJt2QDXCn))
 - traynormain: Wonderful!!! ([link](https://www.threads.com/@traynormain/post/DfpenMoGnAJ))
@@ -26,6 +27,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - auscandoc: Nicely played! ([link](https://www.threads.com/@auscandoc/post/DfpebTHmo6f))
 - mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DfphEuwCK-i))
 - baughankaye: Magnificent! ([link](https://www.threads.com/@baughankaye/post/DfprMtFliRB))
+- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfqtMwuGikO))
+- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfqtTMBGpp7))
 - srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dfpng3OEqE4))
 - beckiefitzgerald: Thank you so much 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfpsZdSD86x))
 - 2killamockingbird: My pleasure 🙏... ([link](https://www.threads.com/@2killamockingbird/post/DfpaFs5gMLX))
