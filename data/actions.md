@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (136)
+## Needs Reply (137)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Dfszm68Cfkq))
@@ -172,6 +172,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Five postcards and not a dull one. The cruise ship against …_
 - **medium.gords7**: You’re welcome! Thanks for commenting on it. ([link](https://www.threads.com/@medium.gords7/post/DfqQN1cG29X))
   - _Replying to: A blue truck locked in a silo, seen through glass - thanks …_
+- **lilyhuang0405**: Really appreciate your attention to all photos sent to you, and thanks for the thoughtful comments. ([link](https://www.threads.com/@lilyhuang0405/post/Dfs0yiNEtkr))
+  - _Replying to: A window seat like that is the whole trip - thanks for shar…_
 - **steve.cozort**: If you haven’t been to Antarctica…start saving your pennies and go… ([link](https://www.threads.com/@steve.cozort/post/DfpnHkwHSLD))
   - _Replying to: You are welcome - that mirror reflection is hard to forget._
 - **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DfpaB8LEQhE))
@@ -340,9 +342,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (76)
+## Needs Like (77)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- tooba_afzal_awan_: Its geranium ([link](https://www.threads.com/@tooba_afzal_awan_/post/Dfs0YkKjZKr))
 - picann: My pleasure.☺️ ([link](https://www.threads.com/@picann/post/DfsstT5mQk0))
 - broccoli.bella: Togehter🥰 ([link](https://www.threads.com/@broccoli.bella/post/DfsN3aqiC5H))
 - jcoledesign: Perfect ([link](https://www.threads.com/@jcoledesign/post/DfsJMCgG2rh))
