@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (131)
+## Needs Reply (132)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **jglass8**: Beautiful! It is Friday Flower Power Day ([link](https://www.threads.com/@jglass8/post/DfssyMgD_ai))
@@ -22,6 +22,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **mur.locations**: On vacation on the Amalfi Coast last month (yes, I’m lucky… and retired). I daresay it’s gone by now, but who knows? And thank your appreciation 🙏 ([link](https://www.threads.com/@mur.locations/post/DfsqWGTjOFu))
   - _Replying to: That yellow is pure sunshine - the clusters look lit from i…_
+- **mazpaz46**: Frame added after 👍 ([link](https://www.threads.com/@mazpaz46/post/DfstRLGCLgS))
+  - _Replying to: The blur around the edges pulls the eye straight to those b…_
 - **jodireneeg**: I actually took this a couple years back, but I love it! ([link](https://www.threads.com/@jodireneeg/post/DfssmmJkmJc))
   - _Replying to: I think filling the frame with that dahlia was the right ca…_
 - **kijk.mijn.achtertuin**: Yes. And it is one of the last flowers in my little garden that is still blooming this late autumn. ([link](https://www.threads.com/@kijk.mijn.achtertuin/post/DfsqvejiJKI))
