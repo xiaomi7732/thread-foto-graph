@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (117)
+## Needs Reply (123)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **graveytrain023**:  ([link](https://www.threads.com/@graveytrain023/post/Dfr9w59ob0e))
+  - Photo: Description: Vibrant red spider lilies bloom amidst green foliage and fallen branches, captured in a vertical snapshot on a social media feed. Photograph read: Direct sunlight illuminates the textured red blossoms against a background of leafy brush, creating a bright and naturalistic mood. Photo type: Snapshot
+  - Photo: Description: This screenshot of a social media post features a vibrant red star-shaped flower nestled among green leaves. Below the garden shot, a hand with red nail polish rests near a dark textured surface. Photograph read: The image is captured in natural daylight with a centered composition that highlights the contrasting red flower amid dense foliage. Photo type: Snapshot
+  - Photo: Description: This screenshot of a social media post features a status update about gardening accompanied by a collage of three yard photos showing vibrant orange flowers and a small pumpkin. Photograph read: The image is a digital capture of a mobile phone screen displaying a social media interface with standard UI elements and a three-photo grid. Photo type: Screenshot
+- **graveytrain023**:  ([link](https://www.threads.com/@graveytrain023/post/Dfr9oAwIRNA))
+  - Photo: Description: A single white rose stands in a frosted glass bottle on a wooden surface against a wood-paneled wall, accompanied by text detailing the symbolic meanings of a white rose. The image appears to be an informational graphic or inspirational social media post. Photograph read: The vertical composition centers on the white rose and bottle in the left foreground, lit by soft, natural light that creates a calm, reflective mood. Photo type: Graphic design
+- **gannett_katherine**:  ([link](https://www.threads.com/@gannett_katherine/post/Dfr9ZR0oGH-))
+  - Photo: Description: A small bouquet of pink carnations, purple dianthus, and green leaves is arranged inside a dark red, faceted glass vase. The vase sits on the control panel of a stove against a textured white wall. Photograph read: The subject is centered in a straight-on vertical composition, lit by a direct flash that casts a slight shadow on the wall behind. Photo type: Snapshot
 - **gracefaith_0819**:  ([link](https://www.threads.com/@gracefaith_0819/post/Dfr8mSlm2e_))
   - Photo: Description: A close-up, low-angle shot captures a bright yellow rose in profile against a backdrop of green leaves and the side of a building. Sunlight filters through the petals and foliage, highlighting
 - **charhedman**:  ([link](https://www.threads.com/@charhedman/post/Dfr8kb2mzEU))
@@ -24,6 +32,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up, macro view centers on the vibrant pink petals and pale center of a blooming dahlia flower. The frame is filled entirely with the intricate layers of the blossom. Photograph read: The tight framing and shallow depth of field draw the eye to the complex geometry of the flower's center under even, natural light, creating an intimate botanical mood. Photo type: Nature macro
 - **watsjoey**:  ([link](https://www.threads.com/@watsjoey/post/Dfr7lLHGzvN))
   - Photo: Description: A close-up shot of a vibrant sunflower angled upward against a clear blue sky. The warm sunlight highlights the textured petals and dark brown center, making it a bright and cheerful subject for a social media post. Photograph read: The low-angle composition frames the sunflower
+- **benk2_adieee**: I mean, yesterday morning. Sorry my English is so bad. I wasn't focused🤣🤣 ([link](https://www.threads.com/@benk2_adieee/post/Dfr95e4H-UH))
+  - _Replying to: 😂😂😂😂🤣🤣🤣 welcome back from future 🤣_
+- **nzurisana23**: Yes. It’s in Tanzania. This one started off slow but is going a bit crazy now. ([link](https://www.threads.com/@nzurisana23/post/Dfr92cviImY))
+  - _Replying to: I think letting the two big blooms carry the frame was the …_
+- **silmarillioncollector**: Long enough for me to get my phone out, luckily. In my limited experience of the species, at least, they are not speedy movers. ([link](https://www.threads.com/@silmarillioncollector/post/Dfr9G7AjP_0))
+  - _Replying to: A dandelion with a jewel on top - that green against the ye…_
 
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
 - **smilingjeannie**: Wow! I am both humbled and delighted. Thank you so much. ([link](https://www.threads.com/@smilingjeannie/post/DfroUTzEfmK))
