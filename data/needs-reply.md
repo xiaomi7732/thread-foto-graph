@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (134)
+## Needs Reply (136)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Dfszm68Cfkq))
+  - Photo: Description: A close-up of a red-orange rose with water droplets on its petals, set against a blurred background of green foliage and grass. Photograph read: The rose is in focus with visible texture and droplets; background is softly out of focus. Lighting is even, illuminating the flower from the front. No signs of motion blur, overexposure, or underexposure. Photo type: Macro
+- **micig33**:  ([link](https://www.threads.com/@micig33/post/DfsyjUHDMMz))
+  - Photo: Description: The photograph shows a cluster of bright pink and orange bougainvillea flowers with dark green leaves, viewed from a close perspective against a blurred background. Photograph read: The image is taken with shallow depth of field, resulting in a sharp focus on the foreground flowers while the background is indistinct. Lighting appears direct and strong, casting shadows and highlights across the petals and leaves. The rendering is not uniformly sharp; some areas of the leaves and flowers show soft focus or slight motion blur. Photo type: Portrait
+    - Watch-outs: - Foreground flowers exhibit soft focus, reducing edge definition and texture clarity. - Background foliage is heavily blurred, obscuring any identifiable context or structure.
 - **jglass8**: Beautiful! It is Friday Flower Power Day ([link](https://www.threads.com/@jglass8/post/DfssyMgD_ai))
   - Photo: Description: A close-up photograph features a prominent red rose with pinkish-white inner petals, accompanied by another partially open red rose and green foliage in the background, which is out of focus. Photograph read: The image has a shallow depth of field, with the foreground rose in focus and the background blurred. Lighting appears natural and diffused, with no visible harsh shadows or overexposure. The rendering preserves color and texture of the main subject, though fine details on the petals are not sharply defined. Photo type: Portrait
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DfssMC1k6wK))

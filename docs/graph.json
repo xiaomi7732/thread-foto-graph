@@ -10,8 +10,35 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 263,
+      "reply_count": 265,
       "replies": [
+        {
+          "username": "artfor4me",
+          "text": "",
+          "permalink": "https://www.threads.com/@artfor4me/post/Dfszm68Cfkq",
+          "photos": [
+            "Description: A close-up of a red-orange rose with water droplets on its petals, set against a blurred background of green foliage and grass. Photograph read: The rose is in focus with visible texture and droplets; background is softly out of focus. Lighting is even, illuminating the flower from the front. No signs of motion blur, overexposure, or underexposure. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "micig33",
+          "text": "",
+          "permalink": "https://www.threads.com/@micig33/post/DfsyjUHDMMz",
+          "photos": [
+            "Description: The photograph shows a cluster of bright pink and orange bougainvillea flowers with dark green leaves, viewed from a close perspective against a blurred background. Photograph read: The image is taken with shallow depth of field, resulting in a sharp focus on the foreground flowers while the background is indistinct. Lighting appears direct and strong, casting shadows and highlights across the petals and leaves. The rendering is not uniformly sharp; some areas of the leaves and flowers show soft focus or slight motion blur. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "- Foreground flowers exhibit soft focus, reducing edge definition and texture clarity. - Background foliage is heavily blurred, obscuring any identifiable context or structure."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jglass8",
           "text": "Beautiful! It is Friday Flower Power Day",
@@ -3242,7 +3269,7 @@
       "photos": [
         "Description: A single blue flower with radiating petals and a dark center is in focus, set against a blurred background of green and white foliage. Photograph read: The flower is centrally positioned with shallow depth of field, creating a soft background blur. Lighting is even and diffused, with no harsh shadows or highlights. The image has a natural color tone and no visible digital artifacts. Photo type: Portrait"
       ],
-      "reply_count": 688,
+      "reply_count": 687,
       "replies": [
         {
           "username": "picsall",
@@ -9723,6 +9750,27 @@
           ]
         },
         {
+          "username": "abnerabel125",
+          "text": "Those are really good photos",
+          "permalink": "https://www.threads.com/@abnerabel125/post/DfpZNVpG4GV",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Yeah, I know, right? Credits to all the photographers \ud83d\ude03",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfpaCcHGr7E",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
           "username": "amyoosterhouse",
           "text": "",
           "permalink": "https://www.threads.com/@amyoosterhouse/post/DfpZMjCGldB",
@@ -11252,38 +11300,6 @@
                       ]
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "The Red Wednesday favorites are live - six reds that stopped my scroll \ud83c\udfc6 https://www.threads.com/@saars.foto/post/Dfokz2fm-eu",
-          "permalink": "https://www.threads.com/@saars.foto/post/DfpVEFyG84i",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "abnerabel125",
-              "text": "Those are really good photos",
-              "permalink": "https://www.threads.com/@abnerabel125/post/DfpZNVpG4GV",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "saars.foto",
-                  "text": "Yeah, I know, right? Credits to all the photographers \ud83d\ude03",
-                  "permalink": "https://www.threads.com/@saars.foto/post/DfpaCcHGr7E",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": []
                 }
               ]
             }
