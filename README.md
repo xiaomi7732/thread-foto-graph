@@ -510,6 +510,16 @@ records needs a separate legacy cache, not the new mixed-format cache.
 
 ### Adaptive continuous operation (Ubuntu)
 
+**Live deployment status (2026-11-13):** the Ubuntu AI-box user service is
+running and enabled, and `enable-linger` completed without an error. Two
+observed cycles successfully published to `plan/qwen-vision-fallback`: the
+first used 9 local Qwen requests and 628 cache hits; the second used 1 local
+request and 637 cache hits. Both used zero Gemini requests and left zero
+pending photos. The next cycle started at the intended five-minute cadence.
+A graceful stop let the active cycle finish and push before exiting, leaving
+a clean checkout. Promotion to 15/30-minute intervals and operation after
+logout/reboot have not yet been observed; Ollama must also remain available.
+
 `run_continuous.sh` keeps one publisher available without polling in a tight
 loop. It runs one collection/vision pass per cycle and publishes only changed
 generated outputs:
@@ -559,6 +569,27 @@ systemctl --user disable --now thread-foto-graph.timer
 systemctl --user stop thread-foto-graph.service
 mkdir -p ~/.config/systemd/user
 cp deploy/thread-foto-graph-continuous.service ~/.config/systemd/user/
+```
+
+The template assumes `~/thread-foto-graph`. For the deployed AI-box checkout
+at `~/Repos/thread-foto-graph`, override **both** paths before starting:
+
+```bash
+systemctl --user edit thread-foto-graph-continuous.service
+```
+
+Save this override (the empty `ExecStart=` clears the original command):
+
+```ini
+[Service]
+WorkingDirectory=%h/Repos/thread-foto-graph
+ExecStart=
+ExecStart=/usr/bin/bash %h/Repos/thread-foto-graph/run_continuous.sh
+```
+
+Then reload, inspect a live cycle, and enable:
+
+```bash
 systemctl --user daemon-reload
 # Start for inspection before enabling at login:
 systemctl --user start thread-foto-graph-continuous.service
@@ -567,10 +598,22 @@ systemctl --user status thread-foto-graph-continuous.service --no-pager
 systemctl --user enable thread-foto-graph-continuous.service
 ```
 
-The templates assume `~/thread-foto-graph`. As with the daily timer,
-`sudo loginctl enable-linger "$USER"` is needed for unattended operation
-after logout/reboot. Nothing installs/enables either service automatically.
-Perform the bounded inspection in [AI_BOX_SETUP.md](AI_BOX_SETUP.md) first.
+As with the daily timer, enable lingering for unattended operation after
+logout/reboot:
+
+```bash
+sudo loginctl enable-linger "$USER"
+systemctl --user is-enabled thread-foto-graph-continuous.service
+systemctl --user is-active thread-foto-graph-continuous.service
+loginctl show-user "$USER" -p Linger
+```
+
+Expected results are `enabled`, `active`, and `Linger=yes`. Nothing
+installs/enables either service automatically. Perform the bounded inspection
+in [AI_BOX_SETUP.md](AI_BOX_SETUP.md) first. Publishing follows the current
+checkout's upstream, not a hard-coded branch. To move to `main`, merge the
+implementation there first, stop the service gracefully, verify a clean
+checkout, switch to `main` tracking `origin/main`, fast-forward, and restart.
 
 Stop gracefully with:
 
