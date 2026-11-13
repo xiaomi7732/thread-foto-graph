@@ -72,7 +72,9 @@ Outputs (smallest/most-frequent read first):
    long-lived access token is auto-refreshed before it expires
    (`src/threads_auth.py`); auth is sent as an `Authorization: Bearer` header,
    never a query param, so it can't leak into logged URLs.
-2. For every photo (root post or reply) not already described, call Gemini
+2. For every photo (root post or reply) not already described, call the
+   configured vision provider: Gemini by default, local Ollama/Qwen in
+   `ollama` mode, or Ollama first with optional Gemini fallback in `auto` mode,
    for a consistent four-part result: a one-to-two-sentence description, a
    photography-focused read, a concise photo-type classification, and an
    optional observations-only `Watch-outs:` section
@@ -80,8 +82,9 @@ Outputs (smallest/most-frequent read first):
    items are expanded via the `children{media_type,media_url}` field
    (`src/threads_client.py`'s `photo_items()`) so **every photo in a
    multi-image carousel is described individually** — not just its cover
-   image, which is all the API returns by default. The API key is sent as
-   the `x-goog-api-key` header (not a query param) for the same reason.
+   image, which is all the API returns by default. When Gemini is used, its
+   API key is sent as the `x-goog-api-key` header (not a query param) for the
+   same reason.
    Descriptions are cached forever by each individual photo's media ID
    (`cache/media_cache.json`, local-only) so a photo is never re-described on
    later runs, and the cache is flushed to disk after *every* new
@@ -110,8 +113,10 @@ Outputs (smallest/most-frequent read first):
      guessing a delay (an earlier version fell back to a fixed ~20s wait,
      but a blind guess just burns run time without reliably succeeding).
      If it's still rate-limited after an honored wait, or the daily quota
-     is hit, remaining photos are left un-described (not cached as a
-     failure) and are clearly marked in the output as `(photo pending
+     is hit, Gemini is disabled for the rest of the run. Healthy local
+     inference can continue in `auto` mode; photos neither provider can
+     describe are left un-described (not cached as a failure) and are
+     clearly marked in the output as `(photo pending
      description - will be described on a future run)` — never silently
      indistinguishable from "no photo". A quota/rate-limit hit is also
      logged (`Gemini free-tier daily/minute quota exceeded -- remaining
@@ -128,7 +133,7 @@ Outputs (smallest/most-frequent read first):
      retries, the photo is recorded as `(description unavailable: ...)`
      without being cached, so it's retried fresh on the next run, and the
      failure is printed to the run log for visibility.
-   - **Trust boundary:** a Gemini description replaces your own eyes on a
+   - **Trust boundary:** a model description replaces your own eyes on a
      photo, which is fine for low-stakes drafting (a playful reply), but
      treat it as a draft input, not ground truth, before anything
      public-facing that depends on getting photo content exactly right
@@ -144,7 +149,8 @@ Outputs (smallest/most-frequent read first):
    repeat the recognition pass, up to `MAX_ITERATIONS` times (3 by default).
    This catches images posted while a slower recognition pass was running;
    the loop stops when no new uncached photo is found. The vision request
-   budget is shared across all passes.
+   budgets and provider failure state are shared across all passes; local
+   attempts do not consume Gemini's budget.
 
 ### Flat action lists (what to point Muse at day-to-day)
 
@@ -242,9 +248,11 @@ varies a lot by model:
 
 Flash-Lite is used here specifically because image description is a simple
 task that doesn't need full Flash's reasoning, and 500/day comfortably covers
-busy days. On days that still exceed the cap, the run stops at
-`MAX_VISION_REQUESTS_PER_RUN` and leaves the rest uncached — they're picked up
-automatically on the next run, since the cache persists across runs.
+busy days. `MAX_VISION_REQUESTS_PER_RUN` bounds Gemini attempts; in
+Gemini-only mode, remaining photos are left uncached when it is exhausted.
+In `auto` mode, local inference can continue within its separate budget and
+the run deadline. Pending photos are picked up automatically on the next run,
+since the cache persists across runs.
 Gemini model availability/names change over time (several older model names
 have been retired or renamed) — if calls start failing with 404, check
 https://ai.google.dev/gemini-api/docs/models for current model IDs.
@@ -264,8 +272,10 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    - `THREADS_USERNAME` — your own Threads username, used to tell "already
      answered by me" replies apart from everyone else's (drives the
      actionable-first pruning in `needs-reply.md`/`needs-like.md`/`topics.md`).
-   - `GEMINI_API_KEY` — a free Google AI Studio API key
-     (https://aistudio.google.com/apikey).
+   - `GEMINI_API_KEY` — a Google AI Studio API key
+     (https://aistudio.google.com/apikey), required for the default
+     `VISION_PROVIDER=gemini`; optional cloud fallback in `auto`, and not
+     needed in `ollama`. For local Qwen setup, see the Ubuntu section below.
    - `GEMINI_MODEL` — defaults to `gemini-3.5-flash-lite` (500 free
      requests/day); see the rate-limit note above before changing it.
 3. **Test it manually** (optionally scope to a couple of posts first with
@@ -315,10 +325,16 @@ The code supports `VISION_PROVIDER=gemini` (the unchanged default),
 It calls Ollama directly, not Open WebUI. Leave Ollama bound to
 `127.0.0.1:11434`; no additional firewall rule or public API is needed.
 
-The implementation is ready for on-box setup. Quality evaluation was
-explicitly skipped: no equivalent-to-Gemini quality or GPU throughput is
-claimed, and installation, live inference, reboot, and timer checks still
-need to happen on the box.
+**Live-run status (2026-11-12):** several rounds on
+`plan/qwen-vision-fallback` have been run on the AI box, and the results look
+good to the operator. The local Qwen path is now in live use on that branch,
+not just prepared for deployment. This is practical acceptance from those
+runs, not a formal Qwen-versus-Gemini comparison or throughput benchmark.
+Controlled fallback, cache-hit, and timer/reboot checks are not confirmed by
+that report; verify them before relying on unattended scheduling.
+The original implementation and rollout checklist is in
+[QWEN_VISION_PLAN.md](QWEN_VISION_PLAN.md); its pre-deployment status predates
+these live runs.
 
 ### First on-box run (no publishing or timer)
 
@@ -506,9 +522,13 @@ or GPU/model quality.
 
 ## Running on demand (GitHub Actions)
 
-Alternative to Task Scheduler if you'd rather not keep a machine running:
+Manual Gemini-only backup for the AI-box pipeline, or an alternative to
+Task Scheduler if you'd rather not keep a machine running:
 `.github/workflows/thread-foto-graph.yml` runs the same pipeline on GitHub's
-hosted runners and commits/pushes any changes itself.
+hosted runners and commits/pushes any changes itself. It explicitly uses
+`VISION_PROVIDER=gemini`, independent of the box's provider setting. Stop or
+confirm the local publisher is inactive before triggering it; its cache is
+separate, and provider fallback does not provide automatic machine failover.
 
 1. **Secrets** (Settings → Secrets and variables → Actions → **Secrets**
    tab) — anything that grants access to an account/API:
