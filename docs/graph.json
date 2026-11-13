@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17884346421629730",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Flower Friday \ud83c\udf38 Show me a flower. Garden blooms, wildflower\u2026",
       "text": "Flower Friday \ud83c\udf38 Show me a flower. Garden blooms, wildflowers, a bouquet on the table, a single stem doing its best - if it flowers, it counts. These mums are turned all the way up - find me your flower. ONE photo. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What flower stopped you today?",
@@ -10,8 +10,34 @@
       "photos": [
         "Description: A close-up shot captures a colorful arrangement of artificial flowers, including bright yellow, orange, and white blooms, planted in a pot outdoors. In the background, a paved driveway and a residential fence are visible under natural daylight. Photograph read: The tight framing centers on the vibrant blossoms in soft, diffused daylight, creating a cheerful and welcoming mood. Photo type: Snapshot"
       ],
-      "reply_count": 96,
+      "reply_count": 145,
       "replies": [
+        {
+          "username": "picann",
+          "text": "",
+          "permalink": "https://www.threads.com/@picann/post/DfsJWUMGnI6",
+          "photos": [
+            "Description: This close-up photo features a vibrant bouquet of deep red roses with green leaves. The shot is well-suited for romantic occasions like Valentine's Day or anniversaries. Photograph read: The composition creates a rich, textured display of the blossoms under bright, direct lighting, evoking a classic and romantic mood. Photo type: Snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole bouquet of red roses and every one of them open at once - that is a good day. Were these a gift, or did you treat yourself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLQdeCTOb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
         {
           "username": "elsewhere_notes_",
           "text": "",
@@ -22,10 +48,32 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How close did you get for this one? The petals fill the whole frame and the warm glow in the middle does the rest.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKPTcGM0J",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "elsewhere_notes_",
+                  "text": "Thank you! \ud83c\udf3f Pretty close. I wanted to capture every little detail.",
+                  "permalink": "https://www.threads.com/@elsewhere_notes_/post/DfsKytfDeWv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "lluvia3487",
@@ -37,10 +85,21 @@
           "watch_outs": [
             "Center of the blue flower clipped to white."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That blue is unreal - the drops just make it glow. Do they open like this every morning where you are?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKTtkGHr2",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "nicolasmacpherson",
@@ -52,10 +111,32 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think going this dark behind the tulip was the right call - the purple just burns out of the black. Was the light like that, or did the edit push it there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKX81mn9S",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "nicolasmacpherson",
+                  "text": "The edit pushed it a little darker, thank you, I'm really happy with this photo. \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@nicolasmacpherson/post/DfsLEiVllI_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "smilingjeannie",
@@ -67,10 +148,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole flower shop on two wheels - that stack of yellow and magenta stopped my scroll. Is this the morning run in, or the ride home with the day's stock?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKZD1mpaD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rlynncass3",
@@ -79,10 +171,21 @@
           "photos": [
             "Description: A vibrant, yellow and red-tipped sunflower is centered among a bouquet of mixed flowers, creating a bright and cheerful floral close-up suitable for nature posts. Photograph read: The subject fills the frame in a tight, head-on composition lit with soft, even light, capturing a rich, natural mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red tips on those petals are the detail - the sunflower looks dipped in sunset. Is this one from your own garden, or a market find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKaPQmzUR",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "broccoli.bella",
@@ -91,10 +194,21 @@
           "photos": [
             "Description: A vibrant, detailed overhead shot of a blooming sunflower captures three fuzzy bumblebees collecting pollen from its dark brown center. The bright yellow petals and lush green leaves create a striking contrast against the natural outdoor background, making it an ideal post for nature lovers and garden enthusiasts. Photograph read: The centered composition places the sunflower as the dominant subject under even daylight, creating a clean, bright, and cheerful mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Three bees on one sunflower - did they all arrive together, or did you wait for the third?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKbSoG3FA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "realsamsavage",
@@ -114,10 +228,21 @@
             "Background building structure merges closely with the top edge of the central flower cluster.",
             ""
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The pink hibiscus against that house is a whole postcard - and the faded hydrangeas beside them make the pink pop even harder. Is this your garden, or a neighbor's worth borrowing?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKcOCGxVM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "beckiefitzgerald",
@@ -126,10 +251,32 @@
           "photos": [
             "Description: A close-up view of a white rose covered in dew drops, highlighting the intricate texture of the petals and the colorful center of the flower. The fresh, damp appearance makes it a striking subject for a nature post. Photograph read: The tight macro composition emphasizes the delicate textures and water droplets under even, natural lighting, creating a serene and refreshing mood. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The brown stamens and that pink heart in the middle - the white petals are just the frame. What rose is this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKdiCiQ9Y",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "beckiefitzgerald",
+                  "text": "Don't know what it is. Just liked it and snapped.",
+                  "permalink": "https://www.threads.com/@beckiefitzgerald/post/DfsLo_HoPgo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "stlkikn2b",
@@ -138,10 +285,21 @@
           "photos": [
             "Description: A vibrant magenta wild rose blooms centrally amidst green foliage against a backdrop of a partly cloudy blue sky and a distant landscape. The bright daylight and natural setting suggest an outdoor nature snapshot, ideal for sharing a sunny day outdoors. Photograph read: The subject is captured in bright, direct sunlight with a shallow depth of field, creating a cheerful and crisp natural mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Where did you find this one? That magenta against the blue sky and all that green feels like the middle of nowhere in the best way.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKezsFct-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "natazlody",
@@ -153,7 +311,29 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "jcoledesign",
+              "text": "Perfect",
+              "permalink": "https://www.threads.com/@jcoledesign/post/DfsJMCgG2rh",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "natazlody",
+                  "text": "\ud83d\ude0a\ud83c\udf38",
+                  "permalink": "https://www.threads.com/@natazlody/post/DfsJamRjJv2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "eazal11",
@@ -162,10 +342,21 @@
           "photos": [
             "Description: A vibrant yellow flower, covered in tiny dewdrops, is the focal point of the shot, with a small fly resting on its top petal. The background consists of soft, green foliage, creating a natural and serene context. Photograph read: The tight framing highlights the texture of the wet petals under natural light, creating a fresh, botanical mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The fly on top is the whole joke - it posed better than most models. Did it stick around for a second shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKnVUnbvA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "islandoutfitter",
@@ -174,10 +365,32 @@
           "photos": [
             "Description: This close-up photo features a vibrant pink Schlumbergera (Christmas cactus) flower in full bloom, highlighting its detailed petals and central stamen against a softly blurred background. Photograph read: The vertical composition centers on the brightly lit flower with sharp focus on the central stamen, creating a natural and inviting mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think getting in this close was the right call - that stamen looks like spun sugar. Does it bloom like this every year?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKrmemKaT",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "islandoutfitter",
+                  "text": "This is the 2nd year I have had this plant and it is blooming very nicely this year.",
+                  "permalink": "https://www.threads.com/@islandoutfitter/post/DfsLGQlG1DO",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "photopattyrn",
@@ -186,10 +399,21 @@
           "photos": [
             "Description: A formal garden features rows of low-lying flowering shrubs in shades of pink, white, and yellow arranged in curved beds along gravel paths. In the background, a domed gazebo sits amidst a dense line of mature green trees under a clear blue sky. Photograph read: Captured in bright daylight, the composition centers on the expansive floral beds leading the viewer's eye toward the distant gazebo, creating a peaceful and orderly mood. Photo type: Landscape snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The curved beds leading to the gazebo make the whole garden feel planned around this one view. Is this a garden you visit often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKsh3GGau",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hayirlisusan",
@@ -198,10 +422,21 @@
           "photos": [
             "Description: A close-up shot features a vibrant dahlia with red-tipped yellow petals as the central focus, surrounded by deep red roses and small orange berries. This floral arrangement creates a warm, natural subject ideal for a greeting or social media post. Photograph read: The tight framing and soft, even lighting highlight the intricate texture and rich color contrast of the petals. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red and yellow dahlia looks like it is on fire from the inside - the red roses behind it just turn up the heat. Is this a bouquet you put together yourself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKwv3FEsX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "trevahearne",
@@ -213,10 +448,21 @@
           "watch_outs": [
             "Highlights clipped to white on top-left petal edge"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The spiral in the middle is perfect - the light catches every fold. Do yellow roses like this one keep their color, or fade as they open?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKyGTER1q",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "celticnewyear",
@@ -225,10 +471,21 @@
           "photos": [
             "Description: A vibrant, multi-toned sunflower blooms centrally among green foliage, its petals fading from bright yellow to deep orange near the center. The warm, sunlit setting gives the flower a fresh, cheerful appearance suited for a nature post. Photograph read: Captured in bright, direct daylight, the image uses a centered composition and shallow depth of field to isolate the sharply defined sunflower against out-of-focus background leaves, creating a clean and vibrant mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is this one from your garden? The orange bleeding into the yellow looks painted on.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsKzckG_Ga",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "buzz.crunch",
@@ -237,10 +494,21 @@
           "photos": [
             "Description: A close-up shot of a cluster of white and yellow plumeria flowers surrounded by green leaves, creating a vibrant, tropical aesthetic. Photograph read: The tight vertical composition frames multiple blossoms against a dark green backdrop, illuminated by soft, natural light that highlights the smooth texture of the petals. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "White petals, yellow hearts, dark green leaves - the whole cluster glows. Do they smell as good as they look?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsK0wRHGI_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "chrissyboy2702",
@@ -252,10 +520,21 @@
           "watch_outs": [
             "Highlights clipped to white on portions of the rose petals."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A single white rose against a brick wall - the plain backdrop makes the bloom do all the talking. Is this one still going, or was it the last of the season?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsK6MlneHY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "irishrose_3",
@@ -264,10 +543,21 @@
           "photos": [
             "Description: A close-up shot of a pale yellow rose in full bloom, featuring delicate dew drops on its petals against a background of green leaves and other out-of-focus yellow roses. Photograph read: Soft natural lighting highlights the layered texture of the petals, creating a gentle and peaceful mood with a shallow depth of field focusing sharply on the center of the rose. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the tight crop was the right call - nothing distracts from those layered petals. Does this one have a scent to match?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsK7bsmIiz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rodneyproffitt",
@@ -276,10 +566,21 @@
           "photos": [
             "Description: Two delicate white flowers with narrow, curved petals rest on a brightly patterned, textured fabric surface. The colorful floral print beneath creates a vibrant backdrop that contrasts with the simple elegance of the blossoms. Photograph read: The vertical framing captures the flowers in sharp detail under even lighting, creating a clean, botanical-style composition with a bright, cheerful mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Are those jasmine? That star shape against the loud print is a lovely pairing - the flowers still win.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsK_mGGDEP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "citizenb",
@@ -288,10 +589,20 @@
           "photos": [
             "Description: A close-up, top-down view of a vibrant white gerbera daisy, highlighting its detailed petals and central green disk. The intricate, layered texture of the flower fills the entire frame. Photograph read: The macro composition showcases symmetrical floral patterns under bright, even lighting, creating a clean and tranquil mood. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That green center is the detail - it turns a white daisy into something almost alien. Did you grow this one, or pick it up at a market?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLAqpGIUL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "beckiefitzgerald",
               "text": "Beautifully captured!",
@@ -325,10 +636,21 @@
           "watch_outs": [
             "Bright petal highlights clipped to white."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "What made you stop for this one? The yellow petals with that rusty center look lit from inside.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLB3UFHIF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rieslingfans",
@@ -337,10 +659,21 @@
           "photos": [
             "Description: A close-up shot shows a vibrant cluster of bright magenta bougainvillea bracts with small, white tubular flowers at their centers. The background is softly blurred with muted neutral tones, highlighting the vivid pink colors of the floral subject. Photograph read: The subject is centrally composed against a smoothly out-of-focus background, lit by even, soft daylight that accentuates the delicate texture of the bracts. Photo type: Botanical snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That magenta is doing all the shouting, and the tiny white flowers are the whisper in the middle. Is this one climbing your wall, or did you catch it on a walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLDF7lKY1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "muppy007",
@@ -349,10 +682,20 @@
           "photos": [
             "Description: A close-up top-down shot of a single white rose blossom centered against a background of blurred green leaves. The detailed layers of the petals and the golden center stamen are clearly visible. Photograph read: Captured in even, natural light with a shallow depth of field, the centered composition emphasizes the delicate texture and symmetry of the bloom against a dark, muted background. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The golden center peeking out of all that white is the whole shot for me. Was this one just opening when you found it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLEfflEi1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "citizenb",
               "text": "Beautiful, Muppy!",
@@ -372,10 +715,21 @@
           "photos": [
             "Description: A vibrant sunflower with bright yellow and deep red petals is captured in close-up against a soft, dark background. The detailed dark center is surrounded by textured petals, with stems and leaves visible below. Photograph read: The subject is centered in a tight vertical composition, illuminated evenly with natural light that highlights the rich textures and gradients of the petals. Photo type: Nature study"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red bleeding into the yellow makes this sunflower look like it caught the sunset. Is this a variety you plant on purpose, or a happy accident?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLFtull3g",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "eelizjjjm",
@@ -384,10 +738,32 @@
           "photos": [
             "Description: A vibrant bouquet of multicolored zinnias is arranged in a ceramic pitcher on a wooden kitchen table. The overhead perspective captures the lively mix of yellow, orange, and purple blooms in a cozy domestic setting. Photograph read: Taken from a high-angle perspective, the shot features natural indoor lighting that evenly illuminates the textured wooden tabletop and the colorful floral arrangement, creating a warm, casual mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you cut these this morning? The yellow and purple in that pitcher make the whole kitchen feel like summer.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLGqiCWfX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "eelizjjjm",
+                  "text": "I cut them a few days ago. Zinnias were my grandma\u2019s fav, and I plant them in her memory every year.",
+                  "permalink": "https://www.threads.com/@eelizjjjm/post/DfsLg4tgL7_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "bendlesmaid269",
@@ -396,10 +772,21 @@
           "photos": [
             "Description: A large, elaborate floral arrangement featuring lilies, chrysanthemums, ferns, and various smaller flowers fills a stone baptismal font inside a church. Stained glass windows and wooden pews are visible in the background, providing context for a church event or interior study. Photograph read: The vertical composition centers on the vibrant arrangement against the muted church interior, lit by soft ambient light that creates a peaceful, reverent mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Lilies and ferns spilling out of a stone font - the arrangement looks like it grew there. Was this for a service, or just a Sunday?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLH9UI1jw",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fephi",
@@ -408,10 +795,21 @@
           "photos": [
             "Description: A large bouquet of drooping, wilting tulips sits in a clear glass pitcher on a bathroom vanity. Fallen purple petals are scattered on the white countertop around the base of the vase. Photograph read: The centered vertical composition utilizes bright interior lighting to capture a melancholic, transient mood as the flowers shed. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Past their prime and still putting on a show - the droop has its own kind of grace. How long did they last before the petals started falling?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLJAeFZ3J",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kidsdrs",
@@ -420,10 +818,21 @@
           "photos": [
             "Description: A vibrant patch of magenta calla lilies blooms amidst lush green foliage and dark wood mulch, set against a backdrop of variegated green and yellow bushes. The close-up composition highlights the rich colors and textures of the garden bed. Photograph read: The tight framing centers on the flower cluster under diffused daylight, creating an earthy and botanical mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That magenta against all that green is a proper punch of color. Do the callas come back stronger every year?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLKJJmu2M",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "katiep_0_0",
@@ -432,10 +841,21 @@
           "photos": [
             "Description: A close-up shot of a small, star-shaped purple flower with bright yellow stamens, surrounded by fuzzy green leaves against a pale, textured stone background. Photograph read: The centered composition and soft, natural light highlight the intricate textures of the petals and foliage against a neutral backdrop. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those yellow stamens are the tiny fireworks in the middle - the purple petals just frame them. What plant is this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLK-6lEX2",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "laurn.shoots",
@@ -444,10 +864,21 @@
           "photos": [
             "Description: A close-up shot of a delicate, pale purple iris flower in full bloom surrounded by lush green foliage. The soft morning light highlights the intricate yellow and white patterns on the drooping petals, creating a serene garden scene. Photograph read: The subject is centered in a tight vertical composition, illuminated by diffused natural light that casts gentle shadows across the textured green leaves. Photo type: Nature photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Morning light, or just a soft day? The yellow markings on those drooping petals glow either way.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLMOooH_Z",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "remondiazart",
@@ -456,10 +887,20 @@
           "photos": [
             "Description: A single deep red rose is captured in close-up against a solid black background, showcasing the intricate texture of its tightly packed petals. The subject stands alone, highlighting its dramatic coloration and natural forms suitable for a botanical or floral appreciation post. Photograph read: The subject is centrally composed with strong side lighting that accentuates the textured petals against a deep black background, creating a moody and dramatic atmosphere. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One word, one rose, and it says everything.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLNsnlAQD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "sebduperphoto",
               "text": "Gorgeous. The light is spectacular.",
@@ -468,7 +909,18 @@
               "needs_response": true,
               "action": "reply",
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "remondiazart",
+                  "text": "Thanks \ud83d\udc4d\ud83d\udcf7\ud83d\udcf7",
+                  "permalink": "https://www.threads.com/@remondiazart/post/DfsJR9pFldy",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -479,10 +931,21 @@
           "photos": [
             "Description: A climbing rose bush with vibrant red blooms and green leaves grows against a textured, grooved tree bark background. The vertical composition captures the contrast between the delicate blossoms and the rugged bark. Photograph read: The vertical framing emphasizes the natural contrast, lit by even daylight that highlights the rich red petals against the weathered wood. Photo type: Nature photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Red roses against that gnarled bark - the roughest backdrop in the garden, and the blooms do not care one bit. Does the vine climb the whole tree?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfsLPR_FjFt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artiekay2",
@@ -506,7 +969,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "artiekay2",
+                  "text": "Honestly, I don\u2019t remember. I took this shot years ago.",
+                  "permalink": "https://www.threads.com/@artiekay2/post/DfsKqtSFnAB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -535,10 +1009,21 @@
                   "text": "The plan from the start. Casablanca Lillies are pure white, and I used a blackout curtain for the background",
                   "permalink": "https://www.threads.com/@jessgperry/post/Dfr_4O2G_nC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Clever move with the blackout curtain - the lilies earned that backdrop. Thanks for sharing the trick.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfsLR84myau",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -571,10 +1056,21 @@
                   "text": "Yes they bloomed at the same time.",
                   "permalink": "https://www.threads.com/@graveytrain023/post/DfsAYJtIUT_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Same-season blooms and that orange doing the most - a lucky garden. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfsLTa3m-pl",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -615,10 +1111,21 @@
                   "text": "All of them",
                   "permalink": "https://www.threads.com/@graveytrain023/post/Dfr_RS3oS7i",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A new beginning in every one of them - that is a lovely list to carry. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfsLUmHm3HG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -649,10 +1156,21 @@
                   "text": "I couldn't tell you. I bought this vase together with the flowers in it from our local Aldi a few days ago. I assume the flowers were commercially grown.",
                   "permalink": "https://www.threads.com/@gannett_katherine/post/DfsDwLUIGAm",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "An Aldi find that looks like a florist made it - the vase was a bargain twice over. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfsLZu0Heo1",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -932,10 +1450,21 @@
                   "text": "I took a couple of bunches of the orange double tulips, they are my favorite, this is Pike Market in Seattle",
                   "permalink": "https://www.threads.com/@blackhawkdavej/post/DfsD4W6m6l0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Orange doubles from Pike Market - a proper Seattle souvenir. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfsLa8_GAtx",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -983,7 +1512,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "watsjoey",
+                  "text": "Near Calgary is the Saskatoon Berry Farm. They have the most incredible grounds abundant with different plants. Greenhouses, restaurant, gift shop and they grow a variety of produce. We make at least one trip out every year.",
+                  "permalink": "https://www.threads.com/@watsjoey/post/DfsKS2HG6S9",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1161,7 +1701,7 @@
     },
     {
       "id": "17930683110185693",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Blue Thursday favorites \ud83c\udfc6 5 blues that stopped my scroll: @\u2026",
       "text": "Blue Thursday favorites \ud83c\udfc6 5 blues that stopped my scroll: @sgoodwandering - Chefchaouen blue alley @lapsednun - turquoise surf channel Jean Hinkle Klele @smilingjeannie - Maasai woman in blue Iain Riggs @iainriggs - Greek chapel, blue door Steve Cozort @steve.cozort - Antarctica reflection Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfrHadvDyRr/",
@@ -1292,7 +1832,7 @@
     },
     {
       "id": "18100415948662501",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Blue Thursday \ud83d\udc99 Show me blue. Blue is everywhere once you l\u2026",
       "text": "Blue Thursday \ud83d\udc99 Show me blue. Blue is everywhere once you look for it - a sky, a lake, a pair of jeans. Show me the bluest thing on your camera roll. This cornflower is blue turned all the way up - find me your blue. ONE photo. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What blue stopped you today?",
@@ -9346,7 +9886,7 @@
     },
     {
       "id": "18126692872936662",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Red Wednesday favorites \ud83c\udfc6 6 reds that stopped my scroll: @p\u2026",
       "text": "Red Wednesday favorites \ud83c\udfc6 6 reds that stopped my scroll: @posts.by.norman - red festival gown Lyndall Ley @elanel50 - Remembrance Day poppies @bojonvelvet2.0 - giant red lips Rick King @artiekay2 - balloon from below @refracted_reveries - backlit red leaves Remon Diaz @remondiazart - man with red balloon Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfokW4yD3QG/",
@@ -9564,7 +10104,7 @@
     },
     {
       "id": "18502088977109902",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Red Wednesday \u2764\ufe0f Show me red. Red is everywhere once you lo\u2026",
       "text": "Red Wednesday \u2764\ufe0f Show me red. Red is everywhere once you look for it - a door, a flower, a sign, a sunset. Show me the reddest thing on your camera roll. These blooms are red turned all the way up - find me your red. ONE photo. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What red stopped you today?",
@@ -13431,7 +13971,7 @@
     },
     {
       "id": "18082895915738347",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Matt Wilson @matt.wilson.gc - cracked earth, lone walker @charhedman - black and white facade Kes Ward @kes_ward - striped color tunnel Mary Ellen Robb @reggae_gyal70 - cat on blue tiles John Medeiros @dwordops - barrel cellar rows Beautiful work, all of you. Reel: https://www.instagram.com/reel/DfmCSPmj6-H/",
@@ -13619,7 +14159,7 @@
     },
     {
       "id": "17945826621369021",
-      "label": "photo, red, photograph, description",
+      "label": "red, photo, photograph, description",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grid\u2026",
       "text": "Pattern Tuesday \ud83e\udde9 Show me a pattern. Repeats, rhythms, grids, stripes - patterns hide in plain sight. Show me the one your eye keeps coming back to. This rosette repeats at three sizes, one cluster doing the whole pattern - find me a pattern. ONE photo. Replying is consent: \u2022 Top 3 featured tomorrow: Threads post + Instagram reel, pinned \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern stopped you today?",
