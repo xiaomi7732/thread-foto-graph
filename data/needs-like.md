@@ -4,18 +4,24 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (46)
+## Needs Like (54)
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
+- tammakaye: Socks! ([link](https://www.threads.com/@tammakaye/post/DfqTXNFpf3O))
+- iainriggs: Hah, no. ([link](https://www.threads.com/@iainriggs/post/DfqSLCyka4i))
 - bedford__lisa: The flower 😊 ([link](https://www.threads.com/@bedford__lisa/post/DfprzQAgRSt))
+- maxjohnson41: 🙏 ([link](https://www.threads.com/@maxjohnson41/post/DfqZlWQjt--))
 - bourgonjeastrid: Clerodendron ([link](https://www.threads.com/@bourgonjeastrid/post/DfpsbvLkeBQ))
+- cruscher53: 🙏 ([link](https://www.threads.com/@cruscher53/post/DfqLXsvlSNp))
 - moskutin: -7 °C ([link](https://www.threads.com/@moskutin/post/Dfpu1ZSDdCz))
+- nikolaeva2976: Urban 🐋✨🤝 ([link](https://www.threads.com/@nikolaeva2976/post/DfqJt2QDXCn))
 - traynormain: Wonderful!!! ([link](https://www.threads.com/@traynormain/post/DfpenMoGnAJ))
 - charhedman: Thanks, Michael! ([link](https://www.threads.com/@charhedman/post/DfpfJ_VGpPU))
 - taiwanese726: Primary school ([link](https://www.threads.com/@taiwanese726/post/DfpqcOzGRJI))
 - pirtutu: to Dubrovnik ([link](https://www.threads.com/@pirtutu/post/DfpmVPogFFL))
 - tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/DfpvHzTj9bQ))
 - c_breeze2025: Moon rise ([link](https://www.threads.com/@c_breeze2025/post/Dfp9bWKmYAQ))
+- saffrongal: Mount Rainier! ([link](https://www.threads.com/@saffrongal/post/DfqSGQNkWHt))
 - beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
 - auscandoc: Nicely played! ([link](https://www.threads.com/@auscandoc/post/DfpebTHmo6f))
 - mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DfphEuwCK-i))
@@ -26,12 +32,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))
+- posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/DfqbyzEH_5v))
 
 ### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
 - trayjayhay: Yes ([link](https://www.threads.com/@trayjayhay/post/DfpEsT9oUuc))
 - khoojosie: Birthday ([link](https://www.threads.com/@khoojosie/post/Dfn7uNFGzCb))
 - aaronschwartz1: Yes ([link](https://www.threads.com/@aaronschwartz1/post/Dfn_x3pDoRy))
 - sue_wigs: Steam trains ([link](https://www.threads.com/@sue_wigs/post/DfolahTiLw3))
+- susanrogerskaisch: Yes! ([link](https://www.threads.com/@susanrogerskaisch/post/DfqNPvgmRxn))
 - lieta1602: Thank you! ([link](https://www.threads.com/@lieta1602/post/DfoQ5FQFr9e))
 - 2killamockingbird: 🥰 ([link](https://www.threads.com/@2killamockingbird/post/DfoAkGnDOsy))
 - 2killamockingbird: 🙏🙏🙏🙏 thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/DfnDpHXAF9l))
