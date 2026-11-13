@@ -13,8 +13,23 @@
       "watch_outs": [
         "Soft overall; intentional or missed focus not determinable from the image."
       ],
-      "reply_count": 623,
+      "reply_count": 637,
       "replies": [
+        {
+          "username": "lucillepippetti",
+          "text": "",
+          "permalink": "https://www.threads.com/@lucillepippetti/post/Dfq812ilT0S",
+          "photos": [
+            "Description: A close-up macro view showcases dark, glossy purple berries nestled against vibrant magenta stems. The contrasting colors create a striking botanical study suitable for nature or garden themes. Photograph read: The tight framing and shallow depth of field emphasize the smooth textures and vibrant colors under natural light, creating an intimate botanical study. Photo type: Macro snapshot"
+          ],
+          "watch_outs": [
+            "Soft overall; intentional or missed focus not determinable from the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "sjh226",
           "text": "",
@@ -22,10 +37,21 @@
           "photos": [
             "Description: A large, intricate blue and white glass sculpture stands centered in a dimly lit museum gallery, casting a reflection on the dark, glossy floor. Overhead spotlights illuminate the sculpture from above, while adjacent galleries are visible in the background. Photograph read: Captured from a low, straight-on viewpoint, the vertical composition uses high contrast between the glowing glass and dark surroundings to create a dramatic, immersive mood. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That blue glass glows like it has its own light source - the dark gallery just disappears around it. Was it lit from inside, or is that all the spotlights?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfq7N8zFoyx",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "trayjayhay",
@@ -34,10 +60,21 @@
           "photos": [
             "Description: A first-person, downward-facing view shows a person standing on a blue tennis court marked by a diagonal white line. The subject wears light blue sneakers and matching striped athletic socks. Photograph read: Captured from a high-angle perspective with even, natural lighting, the shot emphasizes graphic lines and a muted color palette to create a casual, athletic mood. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The socks match the court - that little stripe echo is the whole joke. How often does the outfit match the court this well?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfq7SsRlTGH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "golgorio",
@@ -46,10 +83,21 @@
           "photos": [
             "Description: A vibrant blue sky filled with wispy white clouds looms over a lush, hilly landscape dotted with diverse trees and distant dark green mountains. This scenic view captures a tranquil day outdoors, perfect for a nature-loving social media post. Photograph read: The wide-angle perspective frames the dramatic sky between sloping forested hills under bright daylight, evoking an adventurous and serene mood. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How long did those wisps hang around? The hills stack up under them and the sky still takes the whole top half.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfq7UxKkSuz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "blue_eyz13",
@@ -61,10 +109,21 @@
           "watch_outs": [
             "Soft overall; intentional or missed focus not determinable from the image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the window frame is the best part - it tells you this is a real seat, not a postcard. How much of the coast did you get before the plane turned away?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfq7WrSlmrN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "graveytrain023",
@@ -88,10 +147,21 @@
           "photos": [
             "Description: A person stands with their back to the camera, looking up at a colossal, weathered statue of a figure with an ornate crown against a blue sky with scattered clouds. Photograph read: Captured from a low angle to emphasize scale, the shot frames the person at the base of the grand statue under bright daylight. Photo type: Snapshot"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That statue makes a person look pocket-sized - the crown alone could hold a whole room. How long did you stand there taking it in?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Dfq7X9CFS1E",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "arrowood",
@@ -214,10 +284,21 @@
                   "text": "That\u2019s tough. The skydive was family so lots of associated memories. The balloon was special because Canberra\u2019s balloon festival offers many opportunities (that I missed) but this lone adventurer was still out as I was heading to work and it was a case of right place, right time. It looked special.",
                   "permalink": "https://www.threads.com/@elanel50/post/DfqhaYJCN0P",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A lone balloon over a working morning - that is a keeper. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfq7ZQEkSGp",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -248,10 +329,32 @@
                   "text": "Sailing Beyond Cancer. We went out on the Chesapeake Bay. It was really beautiful. The nutritionist at the hospital nominated me to go after my husband passed from pancreatic cancer. It was just what I needed. I even got a chance to sail the boat. I did pretty well for a first-timer. It's one of the better pictures I have taken.",
                   "permalink": "https://www.threads.com/@lisasmithmulholland/post/DfqhGDLGhAi",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That sounds like exactly the day you needed. Fair winds to you, and thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfq7aOjlnG0",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "lisasmithmulholland",
+                          "text": "Thank you for asking.. \ud83d\ude0a",
+                          "permalink": "https://www.threads.com/@lisasmithmulholland/post/Dfq7vN1paX2",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -811,10 +914,21 @@
               "text": "It\u2019s in our local park. I take a picture of it for each season.",
               "permalink": "https://www.threads.com/@meservelee/post/DfqKadTmDf5",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "A tree worth visiting every season - that is a proper local. Thanks for keeping the series going.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Dfq7mv0G4r3",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -1384,10 +1498,21 @@
                   "text": "Thanks for asking, it's lovely for sure, but I tend to love green and red stones, while my pickets are always filled with agates.",
                   "permalink": "https://www.threads.com/@zanders_wire_creations_/post/DfqnligkYtp",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Green and red it is, then - the agates clearly have your heart. Lovely collection.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfq7bLrEQtg",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1449,10 +1574,20 @@
                   "text": "I was on a small boat sailing under the Golden Gate Bridge. I took 8 or 10 different shots as we passed under it and was lucky enough to get this one.",
                   "permalink": "https://www.threads.com/@azvandy/post/Dfql4MlkWZ0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Eight or ten shots and one lucky frame - that is how the best ones happen. Thanks for sharing the ride.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfq7cimDl-U",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "historysim3d",
                       "text": "Great perspective from below\u2014the Golden Gate Bridge\u2019s two main cables each contain 27,572 individual wires, spun in place across the strait. https://historysim3d.com/e/community-golden-gate-bridge-construction",
@@ -1565,10 +1700,21 @@
                   "text": "Unfortunately, all day and the whole month I was there \ud83d\ude02",
                   "permalink": "https://www.threads.com/@olga_76_ke/post/Dfq3KCUCFL2",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A whole month of that weather and you still brought back the blue. That is dedication worth a warm drink.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfq7d0UFUdg",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2000,7 +2146,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "joanlee83209",
+                  "text": "Get an extra charge alot \ud83d\ude02",
+                  "permalink": "https://www.threads.com/@joanlee83209/post/Dfq-z7DFnMW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
