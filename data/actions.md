@@ -6,33 +6,136 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (125)
+## Needs Reply (169)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **elsewhere_notes_**: Thank you! 🌿 Pretty close. I wanted to capture every little detail. ([link](https://www.threads.com/@elsewhere_notes_/post/DfsKytfDeWv))
-  - _Replying to: How close did you get for this one? The petals fill the who…_
-- **nicolasmacpherson**: The edit pushed it a little darker, thank you, I'm really happy with this photo. 😊 ([link](https://www.threads.com/@nicolasmacpherson/post/DfsLEiVllI_))
-  - _Replying to: I think going this dark behind the tulip was the right call…_
+- **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/DfsnwI7E0aW))
+  - Photo: Description: A close-up, top-down view of a delicate white rose in full bloom, highlighting the intricate layers of its soft petals. The warm lighting accentuates the gentle creamy tones in the center of the blossom. Photograph read: The tight framing and soft, even lighting create a serene and intimate mood, emphasizing the delicate texture of the flower's petals. Photo type: Artistic
+    - Watch-outs: Highlights clipped to white on upper petal edges.
+- **_kellyjo73**:  ([link](https://www.threads.com/@_kellyjo73/post/Dfslq_zFEGU))
+  - Photo: Description: A large, tightly arranged spherical arrangement of chrysanthemum flowers displays distinct blocks of vibrant magenta, bright yellow, and deep orange-gold. The spherical planter rests outdoors on a paved surface near a white metal structure and an air conditioning unit. Photograph read: Captured from a high angle in natural daylight, the close-up framing emphasizes the rich textures and contrasting color blocks of the spherical floral display. Photo type: Snapshot
+    - Watch-outs: Soft focus on lower edges; intentional or missed focus not determinable from the image.
+  - Photo: Description: A collection of vibrant yellow and pink flowers blooms densely against a textured stone wall at dusk. The dim lighting highlights the contrast between the colorful petals and the muted background. Photograph read: Softly lit under low evening light, the composition centers on a natural cluster of garden flowers against a stone backdrop, creating a quiet and earthy mood. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - Photo: Description: A vertical garden bed filled with colorful zinnias sits in front of a stone wall at dusk. A glowing yellow garden light projects butterfly patterns onto the wall above the flowers. Photograph read: The vertically oriented shot centers on a thin black stake that divides the scene, illuminated by a single warm overhead light that casts soft shadows and highlights the various petal colors against the darkening stone backdrop. Photo type: Snapshot
+  - Photo: Description: Vibrant purple clematis climbs a white wooden trellis mounted against a light yellow wall and pale siding. Below, two bushy clusters of bright orange butterfly weed sit in mulch beds beside a white picket fence. Photograph read: The straight-on angle captures a flat, documentary-style composition under bright daylight, highlighting the contrasting colors of the purple blooms and orange foliage. Photo type: Snapshot
+- **valerieannward55**:  ([link](https://www.threads.com/@valerieannward55/post/DfslU__G-2y))
+  - Photo: Description: A large, vibrant cluster of pink hydrangea blooms stands centrally in an outdoor garden setting. In the background, green leaves, a house, and a blue sky dotted with fluffy white clouds create a bright, natural scene suitable for a nature update. Photograph read: The image features a centered composition illuminated by natural sunlight, highlighting the texture of the flower petals and foliage against a soft-focus background. Photo type: Snapshot
+- **lisa9uion**:  ([link](https://www.threads.com/@lisa9uion/post/DfsidpmkloQ))
+  - Photo: Description: A close-up shot captures vibrant purple lupine flowers blooming in a lush green meadow, with majestic snow-capped mountains and a clear blue sky framing the background. This scenic view evokes a sense of peaceful wilderness exploration, perfect for a nature-loving social media post. Photograph read: The low-angle composition frames the purple lupine stalks sharply against a soft-focus meadow and distant snow-capped mountains under bright daylight. Photo type: Landscape photography
+- **reef_ausic**: Flower ([link](https://www.threads.com/@reef_ausic/post/DfsgA68kgC9))
+  - Photo: Description: A single peach-colored rose with water droplets on its petals stands in profile against a dark, out-of-focus background. Warm golden light emanates from above, casting a glowing halo and a slight lens flare above the flower. Photograph read: The subject is captured in soft focus with a painterly texture, creating a romantic and serene mood against a rich, moody backdrop. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **the_way_i_see_it_phototography**:  ([link](https://www.threads.com/@the_way_i_see_it_phototography/post/Dfsf8_EICSw))
+  - Photo: Description: A small orange and black butterfly rests among vibrant pink chrysanthemum flowers, with a blurred green and brown background. This close-up shot captures a peaceful moment in a garden, perfect for a nature-themed social media post. Photograph read: Captured in natural daylight with a shallow depth of field, the image highlights the sharp details of the butterfly against soft pink petals. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **tooba_afzal_awan_**:  ([link](https://www.threads.com/@tooba_afzal_awan_/post/DfseXDjjYpC))
+  - Photo: Description: This photo features a close-up of dark red flower clusters glistening with water droplets against a pitch-black background. The moody lighting highlights the textured petals and creates an intimate, atmospheric botanical study. Photograph read: The tight framing and deep shadow play create an intense, dramatic mood, accented by the specular highlights on the water-kissed petals. Photo type: Artistic
+- **toddawg001**: Marigolds in the fall rock garden ([link](https://www.threads.com/@toddawg001/post/DfseVhrFNzJ))
+  - Photo: Description: Vibrant orange marigold flowers bloom amidst green foliage and scattered dried leaves on the ground. The high-angle overhead perspective captures the natural garden setting in daylight. Photograph read: Captured from directly above, the high-contrast yellow-orange blossoms stand out sharply against the complex green and brown ground cover under even natural light. Photo type: Snapshot
+- **mur.locations**: 😁😁 ([link](https://www.threads.com/@mur.locations/post/Dfsb1m-lmsk))
+  - Photo: Description: A close-up shot of bright yellow lantana flowers in full bloom, surrounded by vibrant green leaves under bright daylight. Photograph read: The tight framing centers on the textured flower cluster under harsh overhead sunlight, creating a high-contrast and natural garden mood. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/DfsZnjLEZua))
+  - Photo: Description: A cluster of vibrant bluebell flowers is centered against a backdrop of long, green leaves radiating outward. The square inner frame is bordered by a blurred, zoom-effect green vignette. Photograph read: The subject is centrally composed with sharp focus on the blue petals, contrasted against saturated green foliage and enhanced by a dynamic radial blur effect in the border. Photo type: Artistic
+    - Watch-outs: Radial motion blur applied to the border framing the central image.
+- **loeswevers**: Orchid garden, Singapore. ([link](https://www.threads.com/@loeswevers/post/DfsYgvWEas5))
+  - Photo: Description: A close-up shot captures a unique Paphiopedilum orchid in full bloom, showcasing its distinctive pouch and delicate striped petals. The vibrant flower is set against a lush, green background of moss and tropical foliage. Photograph read: The centered composition and natural, even lighting highlight the intricate textures and warm tones of the orchid against the dark, organic backdrop. Photo type: Botanical study
+- **a_russell_hikes**:  ([link](https://www.threads.com/@a_russell_hikes/post/DfsXYRGG7Su))
+  - Photo: Description: Two vibrant purple clematis flowers are in full and budding bloom, growing up against a dark metal railing outdoors. Photograph read: Soft natural light illuminates the textured petals against a blurred background, creating a calm and naturalistic mood. Photo type: Snapshot
+- **jodireneeg**:  ([link](https://www.threads.com/@jodireneeg/post/DfsXSYtm0KK))
+  - Photo: Description: A vibrant magenta dahlia flower is shown in tight close-up, centered in the frame against a backdrop of green leaves. The symmetrical petals radiate from a tightly curled center, creating a striking floral pattern. Photograph read: The centered composition and natural daylight emphasize the rich color saturation and detailed texture of the concentric petal formation. Photo type: Snapshot
+- **deepdiverallu**: My daughter bought me roses for father's day ❤️ ([link](https://www.threads.com/@deepdiverallu/post/DfsWsY_DQZB))
+  - Photo: Description: A tall glass vase filled with bright orange roses sits centrally on an orange runner atop a wooden dining table in a lived-in room. Clutter surrounds the base, including a lit candle, magazines, and miscellaneous small items, while the background shows framed art and a bookshelf. Photograph read: Captured from a slightly elevated angle in soft indoor lighting, the vertical composition centers on the vase of roses against a warm, domestic background. Photo type: Snapshot
+- **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/DfsWkpqI5z8))
+  - Photo: Description: A close-up shot captures a full-bloom dahlia flower with pale pink petals transitioning to a deep magenta center. The flower is centered against a softly blurred background of dark foliage and out-of-focus garden elements. Photograph read: The centered composition and even, natural lighting emphasize the intricate symmetry and vibrant color gradient of the flower with a calm, focused mood. Photo type: Snapshot
+- **oneillwendie**:  ([link](https://www.threads.com/@oneillwendie/post/DfsVi7VGECp))
+  - Photo: Description: A single vibrant red rose with dew-covered leaves pokes through a narrow gap in a weathered wooden fence. The high-contrast pairing of the delicate flower against the rustic planks creates a striking natural focal point. Photograph read: Captured from a straight-on perspective in even, diffused daylight, the shot highlights the rich textures of the weathered wood and the vivid saturation of the damp petals. Photo type: Snapshot
+- **parkera16**:  ([link](https://www.threads.com/@parkera16/post/DfsUlP3kQoP))
+  - Photo: Description: A macro close-up captures the intricate, cylindrical petals of a vibrant yellow dahlia as they spiral inward toward a warm, reddish-pink center. The symmetrical arrangement creates a natural mandala effect, ideal for a botanical showcase. Photograph read: Captured in a tight, symmetrical close-up under bright, even lighting, the image emphasizes the delicate textures and warm color gradients of the flower's center. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **marymoffitta**:  ([link](https://www.threads.com/@marymoffitta/post/DfsUjcUAeXz))
+  - Photo: Description: A lush garden features a grey wooden armchair surrounded by vibrant red flowers in pots and a pink flamingo lawn ornament. A dense canopy of green leaves and small white flowers fills the upper and right portions of the frame. Photograph read: The vertical composition captures a shaded backyard garden scene under diffuse daylight, highlighting natural textures and saturated colors. Photo type: Snapshot
+  - Photo: Description: A close-up photograph features a large, creamy white magnolia blossom surrounded by deep green and brown leathery leaves against a dark background. The central flower bud is just beginning to open, showcasing its textured, velvety petals. Photograph read: The tight composition highlights the tactile textures of the flower and leaves under focused, directional lighting that creates a dramatic, moody atmosphere. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **clnyphotostream**: Not today but this week it was Rhyncholaelia digbyana and a Celosia spicata showboating in the garden. ([link](https://www.threads.com/@clnyphotostream/post/DfsTEFCElQX))
+  - Photo: Description: A close-up shot captures a pale yellow and green orchid flower featuring a deeply fringed, feathery lip and smooth petals. The plant is suspended in what appears to be a garden or greenhouse setting with softly blurred foliage in the background. Photograph read: The centered composition highlights the intricate texture of the flower's fringed edges against a natural, softly lit background. Photo type: Snapshot
+  - Photo: Description: This close-up photo features vibrant pink celosia flowers, also known as cockscomb, with their distinctive feathery texture reaching upward. The soft, natural light and blurred green background create a serene, garden setting. Photograph read: Captured in a close-up composition, the image uses soft ambient light and a shallow depth of field to create a gentle, natural mood. Photo type: Nature snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+  - Photo: Description: A tall, slender plant with vibrant pink, feather-like blooms stands vertically in the center of the frame against a two-tone background of a light wall and dark structure. Its numerous branches extend upward and outward, showcasing the spiky blossoms. Photograph read: Captured with a centered vertical composition, the natural daylight evenly illuminates the tall plant and its contrasting background. Photo type: Snapshot
+- **samsky_j72**: These flowers pictures taken today. ([link](https://www.threads.com/@samsky_j72/post/DfsSg8nJVoX))
+  - Photo: Description: A close-up shot captures vibrant coral-pink Ixora flowers and unopened buds against a dark, silhouetted background. The bright, blown-out light source above illuminates the delicate petals and stems from behind. Photograph read: The subject is framed against a heavily backlit, high-contrast background that creates a luminous rim-light effect on the petals. Photo type: Nature macro
+    - Watch-outs: Background highlights clipped to pure white; soft focus overall, intentional or missed focus not determinable from the image.
+  - Photo: Description: A close-up shot captures a cluster of white plumeria flowers with yellow centers, nestled among glossy green leaves covered in fresh raindrops. The natural setting evokes a serene, tropical atmosphere after a gentle rain shower. Photograph read: Soft natural light illuminates the delicate white petals and dew-kissed leaves, creating a calm and intimate close-up composition against a softly blurred background. Photo type: Nature photography
+- **cheeks1969**:  ([link](https://www.threads.com/@cheeks1969/post/DfsRNq0GcZJ))
+  - Photo: Description: A patterned butterfly rests atop the bright orange center of a vibrant pink coneflower in full bloom, with a soft-focus green background and another coneflower in the distance. Photograph read: Captured in bright daylight with a shallow depth of field, the composition highlights the detailed textures of the butterfly's wings and the flower petals against a smoothly blurred background. Photo type: Nature macro
+- **jmrimages**:  ([link](https://www.threads.com/@jmrimages/post/DfsRFM0n6G0))
+  - Photo: Description: A close-up shot shows a pale yellow rose centered in the frame, surrounded by additional flowers and buds. The warm lighting casts a golden hue over the entire arrangement. Photograph read: The tight framing highlights the spiral pattern of the rose petals under warm, directional light, creating an intimate and serene mood. Photo type: Artistic
+    - Watch-outs: Highlights clipped to white on the upper petal edges.
+- **kijk.mijn.achtertuin**:  ([link](https://www.threads.com/@kijk.mijn.achtertuin/post/DfsPeC8CHk_))
+  - Photo: Description: A detailed close-up shot of a white dahlia flower with spiky petals and a yellow center, set against a background of green leaves and a wooden fence. The flower serves as a charming subject for a nature-themed social media post. Photograph read: The flower is centrally framed against soft, natural light, creating a bright and serene mood. Photo type: Snapshot
+- **sokolalene**:  ([link](https://www.threads.com/@sokolalene/post/DfsO57yDcLJ))
+  - Photo: Description: A single deep red rose in a dark amber glass vase is positioned against a moody, dark background. The shot captures the flower's rich texture and vibrant green leaves under focused lighting. Photograph read: The vertical composition uses dramatic side lighting to highlight the rich crimson petals and glossy leaves against a dark, moody background. Photo type: Artistic
+- **1birder2**: Heritage Peonies from three years ago. Massive blooms, but did not produce as well the last few years. ([link](https://www.threads.com/@1birder2/post/DfsOzR4mOL_))
+  - Photo: Description: Two full pink peony blossoms are shown in close-up against a background of lush green leaves under bright daylight. A signature at the bottom left reads "R.A. Wasmer 2023." Photograph read: Direct sunlight creates sharp highlights and deep shadows across the ruffled petals and foliage, producing a bright, natural garden aesthetic. Photo type: Snapshot
+    - Watch-outs: Highlights clipped to white on top petal edges; intentional or sensor overexposure not determinable from the image.
+- **_olliemorgan**: Peonies from my garden ([link](https://www.threads.com/@_olliemorgan/post/DfsOHlJls-g))
+  - Photo: Description: A lush bouquet of large, fluffy pink and white peonies sits in a speckled ceramic vase on a wooden surface, surrounded by other household objects and greenery. Photograph read: Soft indoor lighting highlights the layered textures of the full blossoms in a close-up composition, creating a warm and inviting domestic mood. Photo type: Snapshot
+- **sinikkaromo**:  ([link](https://www.threads.com/@sinikkaromo/post/DfsOBz7Ddag))
+  - Photo: Description: A close-up arrangement of pale silver-leafed foliage and bright yellow daisies fills the foreground, with wilting pink roses and a weathered stone building featuring a rustic wooden door in the background. Photograph read: Soft, diffused daylight highlights the varied textures of silver foliage, vibrant yellow petals, and rustic stone, creating a calm and pastoral mood. Photo type: Snapshot
+- **markoassems**:  ([link](https://www.threads.com/@markoassems/post/DfsNzPFDKJY))
+  - Photo: Description: A vibrant yellow and red dahlia flower is centered in the frame, surrounded by dark green leaves. The striking color pattern on the petals makes it an eye-catching subject for nature photography. Photograph read: Centered composition captures the symmetrical bloom in soft, natural light, creating a bright and focused botanical study. Photo type: Nature study
+  - Photo: Description: A close-up photograph features a large, dark red dahlia blossom with white-tipped petals, centered against a blurred outdoor background of green foliage and other flowers. Photograph read: The centered composition and natural daylight highlight the intricate layering of the flower's petals, creating a vibrant and serene mood. Photo type: Snapshot
+    - Watch-outs: Highlights clipped to white on several petal tips; intentional or missed exposure cannot be determined from the image.
+  - Photo: Description: A close-up macro view showcases the intricate, layered petals of a vibrant orange dahlia flower. The densely packed petals radiate outward from a tightly closed center, creating a warm and inviting natural pattern. Photograph read: Soft, even lighting highlights the rich orange and yellow hues across the symmetrical composition, evoking a serene and vivid mood. Photo type: Artistic
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **cornish_hedgehog**:  ([link](https://www.threads.com/@cornish_hedgehog/post/DfsNUscDYM1))
+  - Photo: Description: A gray and white tuxedo cat sits upright on a wooden table beside a large, vibrant bouquet of pink and purple flowers in a glass vase. A small decorative metal house frame stands to the right of the vase, and various small decorative objects are arranged on the lower shelf. Photograph read: The image is captured with flat, ambient indoor lighting, showing the cat and flower arrangement positioned horizontally across a wooden surface against a plain wall. Photo type: Snapshot
+    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
+- **remondiazart**: Thank you. Yes, it's an indoor photo with a side light box. ([link](https://www.threads.com/@remondiazart/post/DfsNIv9FlBi))
+- **funkygmacman**:  ([link](https://www.threads.com/@funkygmacman/post/DfsLxIHGqI3))
+  - Photo: Description: A vibrant red hibiscus flower hangs downward with its prominent stamen extending prominently toward the lower center. The background consists of soft, out-of-focus greens and reds with a natural vignette effect framing the subject. Photograph read: The shallow depth of field isolates the sharp primary flower against a creamy, blurred background, creating an intimate and serene botanical study under soft ambient light. Photo type: Artistic
+- **picann**: They were a gift from me to my Mom in hospital years back.🌹👼🏼♥️ ([link](https://www.threads.com/@picann/post/DfsLto1mgGm))
+  - _Replying to: A whole bouquet of red roses and every one of them open at …_
+- **smilingjeannie**: This was the ride home with the day’s stock! ([link](https://www.threads.com/@smilingjeannie/post/DfsRy1VEmB-))
+  - _Replying to: A whole flower shop on two wheels - that stack of yellow an…_
+- **rlynncass3**: The sunflower is from a bouquet of flowers that were given to me. ([link](https://www.threads.com/@rlynncass3/post/DfsPz-bkf3P))
+  - Photo: Description: A vibrant bouquet of yellow and rust-colored flowers stands in a clear glass vase on a dark surface. In the background, a framed photograph of a family and a framed sign are partially visible. Photograph read: The subject is captured from a straight-on eye-level perspective with indoor lighting, creating an inviting and warm mood. Photo type: Snapshot
+  - _Replying to: The red tips on those petals are the detail - the sunflower…_
+- **realsamsavage**: Neither. I just noticed it and photographed it on my morning walk with my dog while spending time in Chatham MA. I would pass it frequently but that day the light was right and the color just popped ([link](https://www.threads.com/@realsamsavage/post/DfsOL5Zlo2t))
+  - _Replying to: The pink hibiscus against that house is a whole postcard - …_
 - **beckiefitzgerald**: Don't know what it is. Just liked it and snapped. ([link](https://www.threads.com/@beckiefitzgerald/post/DfsLo_HoPgo))
   - _Replying to: The brown stamens and that pink heart in the middle - the w…_
-- **natazlody**: Volksgarten, Vienna 🌸 ([link](https://www.threads.com/@natazlody/post/DfsGK3bDAnq))
-  - Photo: Description: A soft pink rose blooms sharply in the foreground amidst a lush garden of green leaves and rosebuds. In the background, a classical white building with columns stands slightly out of focus under a clear sky. Photograph read: The composition uses a shallow depth of field to isolate the central pink rose against dark foliage, drawing the eye toward the flower while the classic architecture creates a contextual backdrop. Photo type: Artistic
-- **islandoutfitter**: This is the 2nd year I have had this plant and it is blooming very nicely this year. ([link](https://www.threads.com/@islandoutfitter/post/DfsLGQlG1DO))
-  - _Replying to: I think getting in this close was the right call - that sta…_
-- **eelizjjjm**: I cut them a few days ago. Zinnias were my grandma’s fav, and I plant them in her memory every year. ([link](https://www.threads.com/@eelizjjjm/post/DfsLg4tgL7_))
-  - _Replying to: Did you cut these this morning? The yellow and purple in th…_
+- **stlkikn2b**: The Bay of Fundy ([link](https://www.threads.com/@stlkikn2b/post/DfsVHMXFCOQ))
+  - _Replying to: Where did you find this one? That magenta against the blue …_
+- **buzz.crunch**: Yeah, a real soft sweet fragrance that is never overpowering … You always know a tree is close before seeing it … They come in a few colours, but white is most common … Here’s a couple more (I couldn’t find a red) 👇 ([link](https://www.threads.com/@buzz.crunch/post/DfsMRcTHwkr))
+  - Photo: Description: Vibrant pink plumeria blossoms with yellow centers cluster tightly in the center foreground, surrounded by lush green leaves under a clear blue sky. The warm sunlight highlights the delicate texture of the petals and the deep red stems. Photograph read: The vertical framing tightly captures the floral cluster from a straight-on perspective, using bright natural light to cast distinct shadows across the petals and surrounding foliage for a cheerful mood. Photo type: Snapshot
+  - Photo: Description: A vibrant cluster of yellow, orange, and pink plumeria blossoms is surrounded by lush green leaves, capturing a tropical morning aesthetic. Photograph read: The subject is centrally composed and lit by natural sunlight filtering through foliage, creating a bright and cheerful mood. Photo type: Snapshot
+  - _Replying to: White petals, yellow hearts, dark green leaves - the whole …_
+- **chrissyboy2702**: It was last years bloom ([link](https://www.threads.com/@chrissyboy2702/post/DfsMYBLjCYl))
+  - _Replying to: A single white rose against a brick wall - the plain backdr…_
+- **citizenb**: I took this photo In Cascais, Portugal. It was in a vase in my hotel room. I thought it was really pretty. 🤩 ([link](https://www.threads.com/@citizenb/post/DfsO3BDIKdF))
+  - _Replying to: That green center is the detail - it turns a white daisy in…_
+- **rieslingfans**: Saw it on a walk in Brazil (Pantanal). ([link](https://www.threads.com/@rieslingfans/post/DfsQXk3mUcr))
+  - _Replying to: That magenta is doing all the shouting, and the tiny white …_
+- **muppy007**: Yes it was 😊 ([link](https://www.threads.com/@muppy007/post/DfsOR84CHmg))
+  - _Replying to: The golden center peeking out of all that white is the whol…_
+- **island1bob**: It was a happy accident. I have never planted any in our yard this one came up so on its own. ([link](https://www.threads.com/@island1bob/post/DfsQOS3kyG_))
+  - _Replying to: The red bleeding into the yellow makes this sunflower look …_
+- **bendlesmaid269**: No, this was a wedding I did at our local church, archway, windows, pedestals, arrangements everywhere. Theme country style with all colours. The church looked beautiful and smelt amazing, even though I do say so myself. ([link](https://www.threads.com/@bendlesmaid269/post/DfsMkCioYBV))
+  - _Replying to: Lilies and ferns spilling out of a stone font - the arrange…_
+- **fephi**: Yes indeed, probably about a week. ([link](https://www.threads.com/@fephi/post/DfsNCHJk6Kt))
+  - _Replying to: Past their prime and still putting on a show - the droop ha…_
+- **laurn.shoots**: Just a soft day ([link](https://www.threads.com/@laurn.shoots/post/DfsXviugQl-))
+  - _Replying to: Morning light, or just a soft day? The yellow markings on t…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
-- **artiekay2**: Honestly, I don’t remember. I took this shot years ago. ([link](https://www.threads.com/@artiekay2/post/DfsKqtSFnAB))
-  - _Replying to: How soon after the rain did you find this one? Every drop i…_
+- **ulrike6417**: That is deadwood, and there is a birdhouse on the top. The Roses are there, to protect the birds from cats! ([link](https://www.threads.com/@ulrike6417/post/Dfsl_FaET7u))
+  - _Replying to: Red roses against that gnarled bark - the roughest backdrop…_
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
   - _Replying to: A single white rose, a frosted bottle, and a whole list of …_
 - **citizenb**: I love your perspective and unique style! 🫶💚 ([link](https://www.threads.com/@citizenb/post/DfsDpygIIXi))
   - _Replying to: (photo reply, no text)_
-- **2killamockingbird**: Thank you so much 💗 very kind... ([link](https://www.threads.com/@2killamockingbird/post/DfsDv0MgDKz))
-  - _Replying to: I love your perspective and unique style! 🫶💚_
-- **watsjoey**: Near Calgary is the Saskatoon Berry Farm. They have the most incredible grounds abundant with different plants. Greenhouses, restaurant, gift shop and they grow a variety of produce. We make at least one trip out every year. ([link](https://www.threads.com/@watsjoey/post/DfsKS2HG6S9))
-  - _Replying to: That blue sky does half the work and the sunflower does the…_
 
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
 - **smilingjeannie**: Wow! I am both humbled and delighted. Thank you so much. ([link](https://www.threads.com/@smilingjeannie/post/DfroUTzEfmK))
@@ -43,6 +146,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @smilingjeannie Your Maasai portrait is the middle slide of…_
 - **iainriggs**: Lovely to hear, many thanks. ([link](https://www.threads.com/@iainriggs/post/DfrK2P-GJff))
   - _Replying to: @iainriggs Your Greek chapel is slide four of the Blue Thur…_
+- **steve.cozort**: Went to Antarctica last November..and once we were in the Peninsula inlets we had a number of days that we had extremely calm weather, skies and water..It was an incredible experience and one I plan to do again in 2028! ([link](https://www.threads.com/@steve.cozort/post/DfsXs3dHQ7f))
+  - _Replying to: @steve.cozort Your Antarctica reflection closes the Blue Th…_
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
 - **picsall**:  ([link](https://www.threads.com/@picsall/post/DfsCFZbGxSI))
@@ -51,6 +156,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: All that blue against the night - the towers light up the w…_
 - **judy.julian77**: Yes, it did! All day long, nothing but blue skies! ([link](https://www.threads.com/@judy.julian77/post/Dfr4vcQm1L9))
   - _Replying to: Nothing but blue, edge to edge - a morning like that needs …_
+- **paulfeminella**: This is the Fourth Presbyterian church in Chicago this window in the front that faces Michigan Ave or the back of the church as you enter above the choir loft it’s naturally lit. ([link](https://www.threads.com/@paulfeminella/post/DfsRRKkGi25))
+  - Photo: Description: A large, arched stained glass window in a church features six vertical panels depicting religious figures in vibrant blue, red, and gold tones above dark wooden paneling. Photograph read: The symmetrical, straight-on composition captures the glowing stained glass backlit by natural light, creating a reverent mood. Photo type: Architectural
+  - _Replying to: That blue glass glows like it has its own light source - th…_
 - **mimzysphotography**: Just the one! ([link](https://www.threads.com/@mimzysphotography/post/Dfr4lFKkX0Q))
   - _Replying to: Four jets holding that tight diamond - the undersides all c…_
 - **jinksys_mum**: If it's sunny, it's always this colour. It's blue from glacial "dust". But this would have been late morning if I recall ([link](https://www.threads.com/@jinksys_mum/post/DfsGWgXk1tg))
@@ -65,14 +173,20 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That sounds like exactly the day you needed. Fair winds to …_
 - **dsheneman**: It is! I want to go back soon! ([link](https://www.threads.com/@dsheneman/post/Dfqy8lXkbE8))
   - _Replying to: A view like that is hard to beat - thanks for sharing it._
+- **susanedwinarose**: Funny thing is - there are 3 sisters so the one who gave the gift relegated the other sister to 3rd best. ([link](https://www.threads.com/@susanedwinarose/post/DfsQNCqE7nP))
+  - _Replying to: Glad it landed - thanks for the laugh._
 - **paultillinghast**:  ([link](https://www.threads.com/@paultillinghast/post/Dfp3aQKGnHN))
   - Photo: Description: A vibrant, surreal portrait features a person with blue skin and red hair, adorned with an elaborate floral crown, shell-like pasties, and a textured skirt, standing amidst a fantastical landscape that includes a pink flamingo and colorful foliage against a magenta sky. Photograph read: Centrally composed with striking, saturated colors, the surreal digital collage creates a dreamlike and fantastical mood. Photo type: artistic
 - **historysim3d**: Great perspective from below—the Golden Gate Bridge’s two main cables each contain 27,572 individual wires, spun in place across the strait. https://historysim3d.com/e/community-golden-gate-bridge-construction ([link](https://www.threads.com/@historysim3d/post/DfqpgFgGzht))
   - _Replying to: I was on a small boat sailing under the Golden Gate Bridge.…_
 - **azvandy**: Season two of the old television show Modern Marvels has an episode about the building of the Golden Gate Bridge. I found it fascinating at the time, and your comment has prompted me to watch it again! ([link](https://www.threads.com/@azvandy/post/Dfr-z15mzZi))
   - _Replying to: Great perspective from below—the Golden Gate Bridge’s two m…_
+- **historysim3d**: I hope it’s just as good on a rewatch, @azvandy! The bridge’s 1937 opening was a landmark—the main span remained the world’s longest for 27 years. ([link](https://www.threads.com/@historysim3d/post/DfsVRW9EnSJ))
+  - _Replying to: Season two of the old television show Modern Marvels has an…_
 - **slainte1201**: you're welcome! I get lots of sparrows and house finches into my yard. or it is just bird. ([link](https://www.threads.com/@slainte1201/post/Dfq3V_qFSwM))
   - _Replying to: That silhouette against all that sky makes it a proper myst…_
+- **mommatex**: I just got lucky! ([link](https://www.threads.com/@mommatex/post/DfsP3YOE0tB))
+  - _Replying to: That blue against all that green is impossible to miss - an…_
 - **jenngeiger74**: About 4:30 CST in Minnesota. ([link](https://www.threads.com/@jenngeiger74/post/DfqHXRqlGRZ))
   - _Replying to: Those rippled clouds look like a whole sea in the sky. I th…_
 - **jenngeiger74**: Sorry, this would have been around 11:30 am. I forgot I got this one while on my lunch. This is today at 4:40. ([link](https://www.threads.com/@jenngeiger74/post/DfqKRk8mjRv))
@@ -220,6 +334,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **marcinewiese**: My beautiful granddaughters ([link](https://www.threads.com/@marcinewiese/post/DfnJYckGM4W))
   - Photo: Description: Two young women stand side by side indoors, smiling closely at the camera while the woman on the right holds a canned beverage. The warm indoor lighting and casual party setting suggest a fun night out with friends. Photograph read: Captured in a close-up vertical frame with direct flash illumination, creating a brightly lit subject against a dimly lit background with a cheerful and candid mood. Photo type: Snapshot
     - Watch-outs: Highlights on foreheads clipped to white from direct flash.
+- **java_and_his_momager_cheryl**: Coast of Maine ([link](https://www.threads.com/@java_and_his_momager_cheryl/post/DfsNfvWo9i-))
+  - _Replying to: Red in front, blue water behind, islands in the distance - …_
 - **miltimus**: Thanks for the keen eye in your feedback. The tree's in a courtyard at St. Michaels College in Colchester, Vermont. It seems to hold onto the leaves for a while but most of the Japanese maples I know have shed by a week or so ago. Will see if can stop by this weekend and check on it. Bonus shot of this tree to follow. ([link](https://www.threads.com/@miltimus/post/DfnQUl2j1Zb))
   - _Replying to: I think filling the whole frame with red was the right call…_
 - **faythmarie84**: 2 kill a mockingbird is a great book. Lol ([link](https://www.threads.com/@faythmarie84/post/DfnPcQAmeSo))
@@ -323,14 +439,16 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (73)
+## Needs Like (76)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- broccoli.bella: Togehter🥰 ([link](https://www.threads.com/@broccoli.bella/post/DfsN3aqiC5H))
 - jcoledesign: Perfect ([link](https://www.threads.com/@jcoledesign/post/DfsJMCgG2rh))
 - natazlody: 😊🌸 ([link](https://www.threads.com/@natazlody/post/DfsJamRjJv2))
 - beckiefitzgerald: Beautifully captured! ([link](https://www.threads.com/@beckiefitzgerald/post/DfsGtotIKT9))
 - citizenb: Thanks so much! 😊 ([link](https://www.threads.com/@citizenb/post/DfsHOoBoO4L))
 - citizenb: Beautiful, Muppy! ([link](https://www.threads.com/@citizenb/post/DfsDgjSoDia))
+- kidsdrs: They do. ([link](https://www.threads.com/@kidsdrs/post/DfsUGf6Gq2o))
 - remondiazart: Thanks 👍📷📷 ([link](https://www.threads.com/@remondiazart/post/DfsJR9pFldy))
 - charhedman: You’re welcome ! 🙏 ([link](https://www.threads.com/@charhedman/post/DfsAXQdm-nU))
 - citizenb: Welcome! 🤗 ([link](https://www.threads.com/@citizenb/post/DfsHQf3IOUm))
@@ -338,6 +456,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - 2killamockingbird: My pleasure 🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Dfr_9HIgEBY))
 
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
+- steve.cozort: Yes! ([link](https://www.threads.com/@steve.cozort/post/DfshaBNHQon))
 - sgoodwandering: Awww thanks ([link](https://www.threads.com/@sgoodwandering/post/DfrHuoWDVzR))
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
