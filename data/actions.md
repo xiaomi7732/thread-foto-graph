@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (139)
+## Needs Reply (141)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **pedro_berruecos**: Mexico City getting ready for the Day of the Dead ([link](https://www.threads.com/@pedro_berruecos/post/Dfs68IklpLY))
+  - Photo: Description: A man stands on the open top of a red wooden truck bed, arranging large piles of bright orange marigolds. Another person reaches upward from below to receive a bouquet of the flowers. Behind them, a white tarp with black line drawings hangs, and a partially visible storefront is in the lower right. Photograph read: The image is taken from a slightly elevated angle, capturing the man and the truck bed in mid-frame. Lighting appears diffuse and even, likely from an overcast sky or a canopy, with no harsh shadows. The rendering is clear enough to discern textures on the wood and petals, though the background is flat and lacks depth. Photo type: Documentary
 - **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Dfszm68Cfkq))
   - Photo: Description: A close-up of a red-orange rose with water droplets on its petals, set against a blurred background of green foliage and grass. Photograph read: The rose is in focus with visible texture and droplets; background is softly out of focus. Lighting is even, illuminating the flower from the front. No signs of motion blur, overexposure, or underexposure. Photo type: Macro
 - **micig33**:  ([link](https://www.threads.com/@micig33/post/DfsyjUHDMMz))
@@ -25,6 +27,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A cluster of marigolds with red and orange petals and green, feathery leaves grows in a garden bed, with a dark garden light fixture partially visible on the right. Photograph read: The image is taken at natural light, with a shallow depth of field causing some foreground and background elements to be out of focus. The main subject, the marigolds, is in relatively sharp focus, but surrounding foliage and distant elements are blurred. Photo type: Natural
 - **posts.by.norman**: Unfortunately, not. It's from a bouquet sent to us. Had to quickly take shots before the blooms wilt. For some, had to wait for them to open up. ([link](https://www.threads.com/@posts.by.norman/post/DfsthqrE2EE))
   - _Replying to: That spiral in the middle is doing all the work - the cream…_
+- **_kellyjo73**: It was just a happy accident! Thank you 😊 ([link](https://www.threads.com/@_kellyjo73/post/Dfs6kGjjb1J))
+  - _Replying to: The mum ball in three colors is a showstopper, and then the…_
 - **lisa9uion**: This is in North part of the Kenai Peninsula in Alaska. About 100 miles South of Anchorage. We were driving to Seward and stopped at this trail on the side of the road. The mountains in the back are the Chugach Mountains. The Kenai Peninsula is beautiful ([link](https://www.threads.com/@lisa9uion/post/Dfss1zgD0BI))
   - _Replying to: (photo reply, no text)_
 - **mur.locations**: On vacation on the Amalfi Coast last month (yes, I’m lucky… and retired). I daresay it’s gone by now, but who knows? And thank your appreciation 🙏 ([link](https://www.threads.com/@mur.locations/post/DfsqWGTjOFu))
