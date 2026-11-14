@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (137)
+## Needs Reply (138)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -15,6 +15,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @2killamockingbird Your passionflower is slide two of the F…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **tansayno**:  ([link](https://www.threads.com/@tansayno/post/Dft5zL_iTTQ))
+  - Photo: Description: A cluster of pink flowers with visible petals and a central reproductive structure, set against a blurred green background. Photograph read: The image features a shallow depth of field with the central flower in partial focus, while surrounding blooms and background foliage are out of focus. Lighting is even and diffused, with no visible shadows or harsh highlights. Photo type: Macro
+    - Watch-outs: - The central flower’s reproductive parts are partially obscured by soft focus, reducing discernibility of fine structures. - Petals in the foreground and midground show motion blur or focus falloff, making edges and surface texture indistinct.
 - **paulassouthern**:  ([link](https://www.threads.com/@paulassouthern/post/Dft4IOQG0Sp))
   - Photo: Description: A vibrant floral arrangement with magenta globe flowers and purple salvia-like blooms in a clear glass vase sits on an orange tray, alongside a framed photograph and ceramic items, in a warmly lit interior setting. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the subject. The composition is centered on the flowers and tray, with background elements softly out of focus. The rendering preserves color saturation and detail in the foreground objects. Photo type: Still life
 - **photog84**: Here’s mine. iPhone 14 Pro Max. One of my favorites Hydrangeas ([link](https://www.threads.com/@photog84/post/Dft199Fka99))
