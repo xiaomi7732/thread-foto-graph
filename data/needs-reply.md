@@ -4,40 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (125)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **mrsmidgett18**:  ([link](https://www.threads.com/@mrsmidgett18/post/DftVnQWEbG5))
-  - Photo: Description: A cluster of reddish-orange flowers with broad green leaves surrounds them, set against a blurred blue pot in the background. Photograph read: The image is a close-up with shallow depth of field, keeping the flowers in focus while the background and surrounding leaves are softly blurred. Lighting is even and diffused, illuminating the petals and leaves without harsh shadows or overexposure. Photo type: Macro
-    - Watch-outs: - The central flower’s stamen is partially obscured by overlapping petals, limiting visibility of reproductive structures. - Some leaf surfaces show minor spotting and discoloration, reducing perceived health or uniformity.
-- **tazmick31**:  ([link](https://www.threads.com/@tazmick31/post/DftNhm9EcU5))
-  - Photo: Description: A close-up of a large, multi-petaled flower with gradient petals transitioning from yellow to pinkish-red, set against a background of green foliage and blurred other flowers. Photograph read: The main subject is in focus with natural lighting, showing detailed petal edges and center structure. Background elements are softly blurred due to shallow depth of field. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Natural
-  - Photo: Description: A close-up of a large, multi-petaled flower with deep magenta and white coloration, set against a background of green foliage and thin stems. Photograph read: The flower is in sharp focus, with visible petal texture and color gradients. Lighting is even and bright, illuminating the subject without harsh shadows. The background is softly out of focus, creating a shallow depth of field. Rendering appears natural, with no visible compression artifacts or color banding. Photo type: Portrait
-  - Photo: Description: The photograph features a close-up of large, multi-layered dahlia flowers with yellow-orange petals and a dense, yellow center, set against a blurred background of garden elements and other blooms. Photograph read: The main subject is in focus with visible petal texture and color gradation; lighting is bright and direct, casting subtle shadows. Background elements are out of focus, creating a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Portrait
-- **sanvarg86**:  ([link](https://www.threads.com/@sanvarg86/post/DftI_tam69W))
-  - Photo: Description: A floral centerpiece with red roses and yellow chrysanthemums in a clear glass vase sits on a burlap-covered table, with multiple round tables and chairs arranged in the background of a room with exposed brick walls and string lights. Photograph read: The foreground is in focus, showing the flowers and vase clearly. The background is slightly out of focus, with tables and chairs blurred. Lighting is warm and ambient, with string lights and spherical chandeliers visible overhead. The image has no visible signs of motion blur, color banding, or sensor noise. Photo type: Event photography
-- **peedees**: This was taken 6 year ago at 1:30 pm but I don’t remember where I took it. With my IPhone. And several pics of this flower are the only shots I made all day. I do wish I could remember where I was. Thanks for your comments ([link](https://www.threads.com/@peedees/post/DftGJWRFWa4))
-  - _Replying to: Glow is right - those reds and yellows burn straight out of…_
-- **beapersaud**: I couldn't say exactly how long after the rain. This was in late July and I went out to put my garden shoes on higher ground to dry and noticed how beautiful the raindrops had kissed the flowers in the garden. I went nuts with my phone camera. ([link](https://www.threads.com/@beapersaud/post/DftEkn4IddI))
-  - _Replying to: The sun sitting right behind those roses turns the dew into…_
-- **shiawasemainichi5**: Thank you so much. This is a rose that originated in America. It has an interesting name, "Playgirl." ([link](https://www.threads.com/@shiawasemainichi5/post/DftG4XskxGC))
-  - _Replying to: One pink rose and a whole lot of dark around it - the yello…_
-- **mlaj69**: It smells really good. This is all the same rose bush. I cant remember the name of it. ([link](https://www.threads.com/@mlaj69/post/DftEKaPpazM))
-  - Photo: Description: A close-up of a tightly closed rose bud with deep red and yellow hues, surrounded by green sepals and leaves, set against a blurred green background. Photograph read: The main subject is in focus, with visible texture on the bud and sepals. Lighting is even and diffused, casting no harsh shadows. Background is uniformly out of focus, creating a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
-  - Photo: Description: A single rose with pink and orange petals is in focus, surrounded by green foliage and a blurred background of grass and rocks. Photograph read: The rose is centrally framed with shallow depth of field, causing the background to be out of focus. Lighting is even and diffused, without harsh shadows or highlights. The image has a natural color palette with no visible color distortion. Photo type: Portrait
-  - Photo: Description: A close-up of a fully bloomed rose with vibrant pink petals transitioning to white at the center, set against a blurred background of green grass and a wooden fence. Photograph read: The rose is in sharp focus, with visible petal texture and center stamen. The background is softly out of focus, showing a wooden fence and grass. Lighting is even and natural, without harsh shadows or overexposure. Photo type: Portrait
-  - Photo: Description: A close-up of a pink rose with speckled petals, partially open, set against a blurred green lawn background and a wooden fence element. Photograph read: The image has a shallow depth of field, with the rose in focus and the background and foreground elements blurred. Lighting is even and diffused, without harsh shadows or highlights. The rendering preserves the rose’s texture and color, though some petal edges are soft. Photo type: Portrait
-  - _Replying to: The pink fading into white at the edges is the detail - the…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
-- **marymoffitta**: Both in Louisiana (Baton Rouge ) this spring. ([link](https://www.threads.com/@marymoffitta/post/DftEK_4Dded))
-  - _Replying to: A chair in the middle of the garden and a flamingo on duty …_
-- **samsky_j72**: Yeah, was rainy night. ([link](https://www.threads.com/@samsky_j72/post/DftGE04JeN0))
-  - _Replying to: Backlit ixora and rain-wet plumeria - the light does half t…_
+- **reef_ausic**: I edited the light to look more dramatic . I used Lens distortion app. ([link](https://www.threads.com/@reef_ausic/post/DftgtqjEumc))
+  - _Replying to: That glow above the rose makes the whole shot feel like gol…_
+- **deepdiverallu**: I suppose she did since she doesn't have a partner at the moment 😅 ([link](https://www.threads.com/@deepdiverallu/post/DftgA1PjWrW))
+  - _Replying to: Orange roses on the table and a whole lived-in room behind …_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
-- **celticnewyear**: No…It was growing by the nursery close to my house, as I parked, I noticed it and thought, how beautiful ! ([link](https://www.threads.com/@celticnewyear/post/DftNuYom1ZN))
-  - _Replying to: Is this one from your garden? The orange bleeding into the …_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
