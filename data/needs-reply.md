@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (133)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -37,6 +37,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
   - _Replying to: A single white rose, a frosted bottle, and a whole list of …_
 - **citizenb**: I love your perspective and unique style! 🫶💚 ([link](https://www.threads.com/@citizenb/post/DfsDpygIIXi))
+  - _Replying to: (photo reply, no text)_
+- **zepsammy**:  ([link](https://www.threads.com/@zepsammy/post/DftzFValCPL))
+  - Photo: Description: A cluster of pink foxglove flowers hangs vertically, with some blooms open and others still closed, set against a blurred garden background featuring greenery and out-of-focus lights. Photograph read: The image is a close-up with shallow depth of field, focusing on the foreground flowers. Lighting is soft and even, with no visible harsh shadows or overexposure. Background elements are blurred into bokeh, and the flowers show natural texture and color variation. Photo type: Portrait
+  - Photo: Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is softly out of focus. Lighting is even and natural, illuminating the petals and center without harsh shadows or overexposure. Photo type: Portrait
   - _Replying to: (photo reply, no text)_
 
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))

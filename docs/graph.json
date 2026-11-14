@@ -107,7 +107,7 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 330,
+      "reply_count": 331,
       "replies": [
         {
           "username": "zepsammy",
@@ -3774,6 +3774,19 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "zepsammy",
+              "text": "",
+              "permalink": "https://www.threads.com/@zepsammy/post/DftzFValCPL",
+              "photos": [
+                "Description: A cluster of pink foxglove flowers hangs vertically, with some blooms open and others still closed, set against a blurred garden background featuring greenery and out-of-focus lights. Photograph read: The image is a close-up with shallow depth of field, focusing on the foreground flowers. Lighting is soft and even, with no visible harsh shadows or overexposure. Background elements are blurred into bokeh, and the flowers show natural texture and color variation. Photo type: Portrait",
+                "Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is softly out of focus. Lighting is even and natural, illuminating the petals and center without harsh shadows or overexposure. Photo type: Portrait"
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "The drops on the petals are the whole shot for me - that tight cluster looks freshly rinsed. What time of day did you catch it?",
