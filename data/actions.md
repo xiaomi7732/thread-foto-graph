@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (135)
+## Needs Reply (132)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **tazmick31**:  ([link](https://www.threads.com/@tazmick31/post/DftNhm9EcU5))
@@ -47,14 +47,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
 - **smilingjeannie**: Wow! I am both humbled and delighted. Thank you so much. ([link](https://www.threads.com/@smilingjeannie/post/DfroUTzEfmK))
 - **iainriggs**: Cheers, honoured to be included with such great photos. ([link](https://www.threads.com/@iainriggs/post/DfrZaVMGCzR))
-- **lapsednun**: Not long. Was just sitting on the cliffs enjoying the wind, sound of the waves smashing on the rocks, clean air and the colours on show. Could have taken 100's of pics. ([link](https://www.threads.com/@lapsednun/post/DfrOkeCAsgf))
-  - _Replying to: @lapsednun Your turquoise surf is slide two of the Blue Thu…_
-- **smilingjeannie**: We had just arrived in Tanzania from Kenya, and I asked our guide if we would have an opportunity to meet some Maasai. He was able to arrange. This lovely woman escorted me throughout their small village. I had received permission to take photos and took this at the end of our tour while she was interacting with my friend. ([link](https://www.threads.com/@smilingjeannie/post/Dfro2HakcKV))
-  - _Replying to: @smilingjeannie Your Maasai portrait is the middle slide of…_
 - **iainriggs**: Lovely to hear, many thanks. ([link](https://www.threads.com/@iainriggs/post/DfrK2P-GJff))
   - _Replying to: @iainriggs Your Greek chapel is slide four of the Blue Thur…_
-- **steve.cozort**: Went to Antarctica last November..and once we were in the Peninsula inlets we had a number of days that we had extremely calm weather, skies and water..It was an incredible experience and one I plan to do again in 2028! ([link](https://www.threads.com/@steve.cozort/post/DfsXs3dHQ7f))
-  - _Replying to: @steve.cozort Your Antarctica reflection closes the Blue Th…_
 
 ### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
 - **picsall**:  ([link](https://www.threads.com/@picsall/post/DfsCFZbGxSI))
