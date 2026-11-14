@@ -217,7 +217,7 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 371,
+      "reply_count": 372,
       "replies": [
         {
           "username": "jennstonick.florist",
@@ -1298,7 +1298,24 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "valerieannward55",
+                  "text": "They vary all over the plant!",
+                  "permalink": "https://www.threads.com/@valerieannward55/post/DfvFdkaG7H2",
+                  "photos": [
+                    "Description: A large, pink hydrangea bloom is centered in the foreground, surrounded by broad green leaves, with a weathered wooden building and yellowing foliage in the background. Photograph read: The image is taken at natural light, with the hydrangea in focus and the background slightly softer. The lighting is even, without harsh shadows or overexposure. The composition places the flower as the main subject, with background elements providing context. Photo type: Natural",
+                    "Description: The photograph shows a close-up of pink hydrangea flowers with large, textured green leaves, set against a dark background that includes a door and a wall-mounted light fixture. Photograph read: The image is composed with the flowers in the foreground and the background slightly out of focus. Lighting is natural daylight, illuminating the leaves and petals with visible texture. The rendering preserves surface detail on the leaves and blooms, though some areas are softly blurred. Photo type: Natural",
+                    "Description: A large, rounded cluster of hydrangea flowers in shades of pink and purple is centered in the frame, surrounded by broad green leaves. Photograph read: The image is taken in bright, direct sunlight, with strong contrast between the illuminated flower and shadowed areas. The flower cluster is in focus, while the surrounding foliage shows natural variation in lighting and some leaf texture detail. The rendering is sharp on the subject, with no visible signs of motion blur or chromatic aberration. Photo type: Natural",
+                    "Description: A close-up of a hydrangea flower head, composed of numerous small, pale greenish-white buds with subtle blue tips, surrounded by large, serrated green leaves. Photograph read: The image is a close-up with natural lighting, showing fine surface texture on the leaves and buds. The focus is centered on the flower head, with background leaves softly blurred. The rendering preserves color and detail without visible compression or noise. Photo type: Macro",
+                    "Description: A cluster of pink hydrangea flowers with green leaves in the foreground, set against a dark wooden fence in the background. Photograph read: The main subject is in focus with visible petal texture and leaf veins; lighting is even and natural, with no obvious overexposure or underexposure. Background elements are softly blurred due to depth of field. Photo type: Natural"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

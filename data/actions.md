@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (105)
+## Needs Reply (106)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -35,6 +35,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That coral against the blue pot is doing all the work - the…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
+- **valerieannward55**: They vary all over the plant! ([link](https://www.threads.com/@valerieannward55/post/DfvFdkaG7H2))
+  - Photo: Description: A large, pink hydrangea bloom is centered in the foreground, surrounded by broad green leaves, with a weathered wooden building and yellowing foliage in the background. Photograph read: The image is taken at natural light, with the hydrangea in focus and the background slightly softer. The lighting is even, without harsh shadows or overexposure. The composition places the flower as the main subject, with background elements providing context. Photo type: Natural
+  - Photo: Description: The photograph shows a close-up of pink hydrangea flowers with large, textured green leaves, set against a dark background that includes a door and a wall-mounted light fixture. Photograph read: The image is composed with the flowers in the foreground and the background slightly out of focus. Lighting is natural daylight, illuminating the leaves and petals with visible texture. The rendering preserves surface detail on the leaves and blooms, though some areas are softly blurred. Photo type: Natural
+  - Photo: Description: A large, rounded cluster of hydrangea flowers in shades of pink and purple is centered in the frame, surrounded by broad green leaves. Photograph read: The image is taken in bright, direct sunlight, with strong contrast between the illuminated flower and shadowed areas. The flower cluster is in focus, while the surrounding foliage shows natural variation in lighting and some leaf texture detail. The rendering is sharp on the subject, with no visible signs of motion blur or chromatic aberration. Photo type: Natural
+  - Photo: Description: A close-up of a hydrangea flower head, composed of numerous small, pale greenish-white buds with subtle blue tips, surrounded by large, serrated green leaves. Photograph read: The image is a close-up with natural lighting, showing fine surface texture on the leaves and buds. The focus is centered on the flower head, with background leaves softly blurred. The rendering preserves color and detail without visible compression or noise. Photo type: Macro
+  - Photo: Description: A cluster of pink hydrangea flowers with green leaves in the foreground, set against a dark wooden fence in the background. Photograph read: The main subject is in focus with visible petal texture and leaf veins; lighting is even and natural, with no obvious overexposure or underexposure. Background elements are softly blurred due to depth of field. Photo type: Natural
+  - _Replying to: A whole cloud of pink in one bloom - the sunlight through t…_
 - **loeswevers**: No! It was the first time in Singapore and the first time to an orchid garden. I loved it. ([link](https://www.threads.com/@loeswevers/post/DfufeJrEWAJ))
   - _Replying to: That pouch orchid looks like it is wearing a fancy slipper …_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
