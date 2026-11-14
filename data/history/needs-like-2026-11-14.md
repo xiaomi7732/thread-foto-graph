@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (79)
+## Needs Like (80)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - shiawasemainichi5: You're welcome. ([link](https://www.threads.com/@shiawasemainichi5/post/DftrOPxk_Ww))
@@ -16,6 +16,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - natazlody: 😊🌸 ([link](https://www.threads.com/@natazlody/post/DfsJamRjJv2))
 - beckiefitzgerald: Beautifully captured! ([link](https://www.threads.com/@beckiefitzgerald/post/DfsGtotIKT9))
 - citizenb: Thanks so much! 😊 ([link](https://www.threads.com/@citizenb/post/DfsHOoBoO4L))
+- muppy007: Your welcome 🤗 ([link](https://www.threads.com/@muppy007/post/DfuNqAlCBCA))
 - citizenb: Beautiful, Muppy! ([link](https://www.threads.com/@citizenb/post/DfsDgjSoDia))
 - remondiazart: Thanks 👍📷📷 ([link](https://www.threads.com/@remondiazart/post/DfsJR9pFldy))
 - charhedman: You’re welcome ! 🙏 ([link](https://www.threads.com/@charhedman/post/DfsAXQdm-nU))

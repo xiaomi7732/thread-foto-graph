@@ -118,8 +118,20 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 336,
+      "reply_count": 338,
       "replies": [
+        {
+          "username": "jacqrho",
+          "text": "From my garden.",
+          "permalink": "https://www.threads.com/@jacqrho/post/DfuLoeNkrzC",
+          "photos": [
+            "Description: A bouquet of flowers, including peach roses, pink and purple wildflowers, and small white daisies, is arranged in a green, ribbed ceramic pitcher against a solid dark green background. Photograph read: The image is in focus with even, diffused lighting. The pitcher and flowers are sharply rendered, with natural color saturation and no visible distortion or chromatic aberration. The background is uniformly out of focus, creating a shallow depth of field that isolates the subject. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kate.kook26",
           "text": "",
@@ -2812,7 +2824,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "muppy007",
+                          "text": "Your welcome \ud83e\udd17",
+                          "permalink": "https://www.threads.com/@muppy007/post/DfuNqAlCBCA",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

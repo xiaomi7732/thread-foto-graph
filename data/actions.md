@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (140)
+## Needs Reply (141)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @beckiefitzgerald Your white rose is the middle slide of th…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **jacqrho**: From my garden. ([link](https://www.threads.com/@jacqrho/post/DfuLoeNkrzC))
+  - Photo: Description: A bouquet of flowers, including peach roses, pink and purple wildflowers, and small white daisies, is arranged in a green, ribbed ceramic pitcher against a solid dark green background. Photograph read: The image is in focus with even, diffused lighting. The pitcher and flowers are sharply rendered, with natural color saturation and no visible distortion or chromatic aberration. The background is uniformly out of focus, creating a shallow depth of field that isolates the subject. Photo type: Still life
 - **kate.kook26**:  ([link](https://www.threads.com/@kate.kook26/post/DfuF-t0ExhH))
   - Photo: Description: A close-up of a yellow, spiky flower head with a central, textured disc, surrounded by green, needle-like foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flower head in focus while surrounding foliage is blurred. Lighting is bright and even, highlighting the flower’s texture and color. The rendering is clear for the main subject, with no visible noise or color distortion. Photo type: Macro
 - **tansayno**:  ([link](https://www.threads.com/@tansayno/post/Dft5zL_iTTQ))
@@ -353,7 +355,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (79)
+## Needs Like (80)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - shiawasemainichi5: You're welcome. ([link](https://www.threads.com/@shiawasemainichi5/post/DftrOPxk_Ww))
@@ -365,6 +367,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - natazlody: 😊🌸 ([link](https://www.threads.com/@natazlody/post/DfsJamRjJv2))
 - beckiefitzgerald: Beautifully captured! ([link](https://www.threads.com/@beckiefitzgerald/post/DfsGtotIKT9))
 - citizenb: Thanks so much! 😊 ([link](https://www.threads.com/@citizenb/post/DfsHOoBoO4L))
+- muppy007: Your welcome 🤗 ([link](https://www.threads.com/@muppy007/post/DfuNqAlCBCA))
 - citizenb: Beautiful, Muppy! ([link](https://www.threads.com/@citizenb/post/DfsDgjSoDia))
 - remondiazart: Thanks 👍📷📷 ([link](https://www.threads.com/@remondiazart/post/DfsJR9pFldy))
 - charhedman: You’re welcome ! 🙏 ([link](https://www.threads.com/@charhedman/post/DfsAXQdm-nU))
