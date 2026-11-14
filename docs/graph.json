@@ -141,8 +141,23 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 364,
+      "reply_count": 367,
       "replies": [
+        {
+          "username": "jennstonick.florist",
+          "text": "",
+          "permalink": "https://www.threads.com/@jennstonick.florist/post/DfuecvVmxix",
+          "photos": [
+            "Description: A close-up view of a floral arrangement featuring a prominent orange and yellow gerbera daisy, surrounded by red roses, purple carnations, white baby\u2019s breath, and yellow daisies, with a brick-paved surface visible in the background. Photograph read: The image is taken from a high angle, with strong sunlight creating bright highlights and shadows. The composition is dense, with the gerbera daisy as the central focus. The rendering shows some overexposure in the upper left corner, and the background is slightly out of focus. Photo type: Still life"
+          ],
+          "watch_outs": [
+            "- Overexposure in the upper left corner, causing loss of detail in the white daisy and adjacent petals. - Background blur obscures the texture and definition of the brick pavement."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dalmatinka11",
           "text": "",
@@ -385,7 +400,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tansayno",
+                  "text": "I checked at the metadata \u2014 it was 6:20AM :)",
+                  "permalink": "https://www.threads.com/@tansayno/post/DfueoeECQtv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1462,7 +1488,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "loeswevers",
+                  "text": "No! It was the first time in Singapore and the first time to an orchid garden. I loved it.",
+                  "permalink": "https://www.threads.com/@loeswevers/post/DfufeJrEWAJ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

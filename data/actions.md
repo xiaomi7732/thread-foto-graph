@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (134)
+## Needs Reply (137)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -20,6 +20,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @jessgperry Your lily is slide four of the Flower Friday fa…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **jennstonick.florist**:  ([link](https://www.threads.com/@jennstonick.florist/post/DfuecvVmxix))
+  - Photo: Description: A close-up view of a floral arrangement featuring a prominent orange and yellow gerbera daisy, surrounded by red roses, purple carnations, white baby’s breath, and yellow daisies, with a brick-paved surface visible in the background. Photograph read: The image is taken from a high angle, with strong sunlight creating bright highlights and shadows. The composition is dense, with the gerbera daisy as the central focus. The rendering shows some overexposure in the upper left corner, and the background is slightly out of focus. Photo type: Still life
+    - Watch-outs: - Overexposure in the upper left corner, causing loss of detail in the white daisy and adjacent petals. - Background blur obscures the texture and definition of the brick pavement.
 - **dalmatinka11**:  ([link](https://www.threads.com/@dalmatinka11/post/DfuarwqmxX_))
   - Photo: Description: A close-up of a fully bloomed pink rose with layered petals, set against a blurred background of green foliage and a light-colored wall. Photograph read: The rose is in sharp focus, with visible petal texture and color gradation from pink to yellow at the center. Lighting is even and diffused, without harsh shadows. Background elements are softly out of focus, indicating a shallow depth of field. Photo type: Portrait
   - Photo: Description: A close-up view of a flower, likely a rose, with layered petals in soft pastel tones, transitioning from pale cream to light pink at the edges, with a dark, textured center visible through the petals. Photograph read: The image is a macro shot with shallow depth of field, focusing on the central portion of the bloom. Lighting is even and diffused, casting soft shadows between petals. The rendering is smooth with no visible digital artifacts or noise. Photo type: Macro
@@ -31,10 +34,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up of a deep red rose with multiple layers of petals, centered on the flower’s reproductive parts, set against a blurred green background. Photograph read: The image is a close-up with shallow depth of field, focusing sharply on the central part of the rose. Lighting is even and natural, illuminating the petals and stamen without harsh shadows. The background is out of focus, showing indistinct green foliage and soil. Photo type: Macro
 - **cordazone**:  ([link](https://www.threads.com/@cordazone/post/DfuaEr2m76C))
   - Photo: Description: A snow-covered garden scene with tall, dried plant stalks bearing heavy snow caps, set against a backdrop of dark, snow-laden evergreen trees; a low mound of snow is visible in the mid-ground. Photograph read: The image has a soft, slightly grainy texture with muted color tones, showing a shallow depth of field that blurs the foreground and background elements. Lighting appears diffuse, casting even illumination without strong shadows or highlights. Photo type: Film photograph
+- **tansayno**: I checked at the metadata — it was 6:20AM :) ([link](https://www.threads.com/@tansayno/post/DfueoeECQtv))
+  - _Replying to: Those pink petals with the water drops still sitting on the…_
 - **mrsmidgett18**: Almost all year, until we get our cold front that last about 2 months. Then she comes right back. ([link](https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ))
   - _Replying to: That coral against the blue pot is doing all the work - the…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
+- **loeswevers**: No! It was the first time in Singapore and the first time to an orchid garden. I loved it. ([link](https://www.threads.com/@loeswevers/post/DfufeJrEWAJ))
+  - _Replying to: That pouch orchid looks like it is wearing a fancy slipper …_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
 - **bendlesmaid269**: It was stunning 🤩 ([link](https://www.threads.com/@bendlesmaid269/post/DfttdqBilwf))
