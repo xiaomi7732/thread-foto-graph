@@ -6,55 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (146)
+## Needs Reply (129)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **lilyhuang0405**:  ([link](https://www.threads.com/@lilyhuang0405/post/DftCUXGEkNY))
-  - Photo: Description: A cluster of bright orange and yellow flowers with green leaves grows in front of a dark gray vertical slatted fence. The flowers are in focus and appear to be in full bloom, with some petals showing slight texture. Photograph read: The image is taken at a close range with the flowers in sharp focus, while the background fence is slightly out of focus. Lighting is even and diffused, suggesting an overcast day or shaded area. The rendering is clear, with no visible color distortion or compression artifacts. Photo type: Natural
-- **peedees**: Glow ([link](https://www.threads.com/@peedees/post/DftBr0TFbru))
-  - Photo: Description: The photograph shows two flowering plants with red and yellow petals against a dark, indistinct background, with green stems and leaves visible at the base. Photograph read: The image features strong contrast between brightly lit flowers and a very dark background. The rendering appears somewhat stylized, with visible texture and edge definition on the petals, suggesting a digital or processed appearance. The composition is vertical, with the flowers positioned centrally and slightly to the right. Photo type: Stylized
-- **beapersaud**: After the rain ([link](https://www.threads.com/@beapersaud/post/DftA5qaIYps))
-  - Photo: Description: Two pink roses with dew droplets are in focus against a blurred sunset background featuring a bright sun disc. Photograph read: The roses are centrally positioned with soft background bokeh; lighting is warm and diffused, casting gentle highlights on petals and leaves. The image exhibits a shallow depth of field, with the foreground roses sharp and the background indistinct. Photo type: Aesthetic
-- **pedro_berruecos**: Mexico City getting ready for the Day of the Dead ([link](https://www.threads.com/@pedro_berruecos/post/Dfs68IklpLY))
-  - Photo: Description: A man stands on the open top of a red wooden truck bed, arranging large piles of bright orange marigolds. Another person reaches upward from below to receive a bouquet of the flowers. Behind them, a white tarp with black line drawings hangs, and a partially visible storefront is in the lower right. Photograph read: The image is taken from a slightly elevated angle, capturing the man and the truck bed in mid-frame. Lighting appears diffuse and even, likely from an overcast sky or a canopy, with no harsh shadows. The rendering is clear enough to discern textures on the wood and petals, though the background is flat and lacks depth. Photo type: Documentary
-- **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Dfszm68Cfkq))
-  - Photo: Description: A close-up of a red-orange rose with water droplets on its petals, set against a blurred background of green foliage and grass. Photograph read: The rose is in focus with visible texture and droplets; background is softly out of focus. Lighting is even, illuminating the flower from the front. No signs of motion blur, overexposure, or underexposure. Photo type: Macro
-- **micig33**:  ([link](https://www.threads.com/@micig33/post/DfsyjUHDMMz))
-  - Photo: Description: The photograph shows a cluster of bright pink and orange bougainvillea flowers with dark green leaves, viewed from a close perspective against a blurred background. Photograph read: The image is taken with shallow depth of field, resulting in a sharp focus on the foreground flowers while the background is indistinct. Lighting appears direct and strong, casting shadows and highlights across the petals and leaves. The rendering is not uniformly sharp; some areas of the leaves and flowers show soft focus or slight motion blur. Photo type: Portrait
-    - Watch-outs: - Foreground flowers exhibit soft focus, reducing edge definition and texture clarity. - Background foliage is heavily blurred, obscuring any identifiable context or structure.
-- **jglass8**: Beautiful! It is Friday Flower Power Day ([link](https://www.threads.com/@jglass8/post/DfssyMgD_ai))
-  - Photo: Description: A close-up photograph features a prominent red rose with pinkish-white inner petals, accompanied by another partially open red rose and green foliage in the background, which is out of focus. Photograph read: The image has a shallow depth of field, with the foreground rose in focus and the background blurred. Lighting appears natural and diffused, with no visible harsh shadows or overexposure. The rendering preserves color and texture of the main subject, though fine details on the petals are not sharply defined. Photo type: Portrait
-- **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DfssMC1k6wK))
-  - Photo: Description: A single pink rose with multiple petals and a visible center of yellow stamens is centered against a uniformly dark background, with a few green leaves and a stem visible below. Photograph read: The rose is the primary subject, illuminated against a dark background. The lighting highlights the petals and center, while the leaves and stem are dimly lit. The image has a shallow depth of field, with the background and surrounding foliage out of focus. Photo type: Portrait
-    - Watch-outs: The background is uniformly dark, obscuring any contextual detail. The lower leaves and stem are underexposed, reducing visible texture and detail.
-- **mlaj69**:  ([link](https://www.threads.com/@mlaj69/post/Dfsrg4VpbWU))
-  - Photo: Description: A close-up of a fully bloomed rose with vibrant pink petals transitioning to white at the edges, set against a blurred green lawn and a weathered wooden fence. Photograph read: The rose is in focus, with visible petal texture and center stamens. The background is softly out of focus, creating a shallow depth of field. Lighting is even and diffused, without harsh shadows or highlights. Photo type: Portrait
-- **realhomesbylinda**: The last of our marigolds. ([link](https://www.threads.com/@realhomesbylinda/post/DfspXr3G1c_))
-  - Photo: Description: A cluster of marigolds with red and orange petals and green, feathery leaves grows in a garden bed, with a dark garden light fixture partially visible on the right. Photograph read: The image is taken at natural light, with a shallow depth of field causing some foreground and background elements to be out of focus. The main subject, the marigolds, is in relatively sharp focus, but surrounding foliage and distant elements are blurred. Photo type: Natural
-- **posts.by.norman**: Unfortunately, not. It's from a bouquet sent to us. Had to quickly take shots before the blooms wilt. For some, had to wait for them to open up. ([link](https://www.threads.com/@posts.by.norman/post/DfsthqrE2EE))
-  - _Replying to: That spiral in the middle is doing all the work - the cream…_
-- **_kellyjo73**: It was just a happy accident! Thank you 😊 ([link](https://www.threads.com/@_kellyjo73/post/Dfs6kGjjb1J))
-  - _Replying to: The mum ball in three colors is a showstopper, and then the…_
-- **lisa9uion**: This is in North part of the Kenai Peninsula in Alaska. About 100 miles South of Anchorage. We were driving to Seward and stopped at this trail on the side of the road. The mountains in the back are the Chugach Mountains. The Kenai Peninsula is beautiful ([link](https://www.threads.com/@lisa9uion/post/Dfss1zgD0BI))
-  - _Replying to: (photo reply, no text)_
-- **mur.locations**: On vacation on the Amalfi Coast last month (yes, I’m lucky… and retired). I daresay it’s gone by now, but who knows? And thank your appreciation 🙏 ([link](https://www.threads.com/@mur.locations/post/DfsqWGTjOFu))
-  - _Replying to: That yellow is pure sunshine - the clusters look lit from i…_
-- **mazpaz46**: Frame added after 👍 ([link](https://www.threads.com/@mazpaz46/post/DfstRLGCLgS))
-  - _Replying to: The blur around the edges pulls the eye straight to those b…_
-- **jodireneeg**: I actually took this a couple years back, but I love it! ([link](https://www.threads.com/@jodireneeg/post/DfssmmJkmJc))
-  - _Replying to: I think filling the frame with that dahlia was the right ca…_
-- **oneillwendie**: It escaped. I wanted to cut it and take it home. I kept forgetting scissors, so took a pic instead . ([link](https://www.threads.com/@oneillwendie/post/DftBfn_jdOu))
-  - _Replying to: One red rose finding its way through the fence - the grey w…_
-- **cheeks1969**: A few seconds but enough for me to get a clear shot, enjoy your weekend . ([link](https://www.threads.com/@cheeks1969/post/Dfs1fpNFTgL))
-  - _Replying to: The butterfly picked the best seat in the garden - right on…_
-- **kijk.mijn.achtertuin**: Yes. And it is one of the last flowers in my little garden that is still blooming this late autumn. ([link](https://www.threads.com/@kijk.mijn.achtertuin/post/DfsqvejiJKI))
-  - _Replying to: A white starburst of a dahlia - those spiky petals against …_
-- **_olliemorgan**: No, I’m in Canada. This would have been in June. ([link](https://www.threads.com/@_olliemorgan/post/DfsuzGjlgSb))
-  - _Replying to: Pink and white peonies piled into one vase - the fluff on t…_
+- **beapersaud**: I couldn't say exactly how long after the rain. This was in late July and I went out to put my garden shoes on higher ground to dry and noticed how beautiful the raindrops had kissed the flowers in the garden. I went nuts with my phone camera. ([link](https://www.threads.com/@beapersaud/post/DftEkn4IddI))
+  - _Replying to: The sun sitting right behind those roses turns the dew into…_
+- **mlaj69**: It smells really good. This is all the same rose bush. I cant remember the name of it. ([link](https://www.threads.com/@mlaj69/post/DftEKaPpazM))
+  - Photo: Description: A close-up of a tightly closed rose bud with deep red and yellow hues, surrounded by green sepals and leaves, set against a blurred green background. Photograph read: The main subject is in focus, with visible texture on the bud and sepals. Lighting is even and diffused, casting no harsh shadows. Background is uniformly out of focus, creating a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
+  - Photo: Description: A single rose with pink and orange petals is in focus, surrounded by green foliage and a blurred background of grass and rocks. Photograph read: The rose is centrally framed with shallow depth of field, causing the background to be out of focus. Lighting is even and diffused, without harsh shadows or highlights. The image has a natural color palette with no visible color distortion. Photo type: Portrait
+  - Photo: Description: A close-up of a fully bloomed rose with vibrant pink petals transitioning to white at the center, set against a blurred background of green grass and a wooden fence. Photograph read: The rose is in sharp focus, with visible petal texture and center stamen. The background is softly out of focus, showing a wooden fence and grass. Lighting is even and natural, without harsh shadows or overexposure. Photo type: Portrait
+  - Photo: Description: A close-up of a pink rose with speckled petals, partially open, set against a blurred green lawn background and a wooden fence element. Photograph read: The image has a shallow depth of field, with the rose in focus and the background and foreground elements blurred. Lighting is even and diffused, without harsh shadows or highlights. The rendering preserves the rose’s texture and color, though some petal edges are soft. Photo type: Portrait
+  - _Replying to: The pink fading into white at the edges is the detail - the…_
+- **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
+  - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
+- **marymoffitta**: Both in Louisiana (Baton Rouge ) this spring. ([link](https://www.threads.com/@marymoffitta/post/DftEK_4Dded))
+  - _Replying to: A chair in the middle of the garden and a flamingo on duty …_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
-- **picsall**: The light on that yellow made it glow and call me over! ([link](https://www.threads.com/@picsall/post/Dfs94atmVJU))
-  - _Replying to: What made you stop for this one? The yellow petals with tha…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
@@ -360,10 +328,9 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (78)
+## Needs Like (77)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- tooba_afzal_awan_: Its geranium ([link](https://www.threads.com/@tooba_afzal_awan_/post/Dfs0YkKjZKr))
 - picann: My pleasure.☺️ ([link](https://www.threads.com/@picann/post/DfsstT5mQk0))
 - broccoli.bella: Togehter🥰 ([link](https://www.threads.com/@broccoli.bella/post/DfsN3aqiC5H))
 - beckiefitzgerald: Thank you 🥰 ([link](https://www.threads.com/@beckiefitzgerald/post/Dfs3mZ0oBg0))
