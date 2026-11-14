@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (143)
+## Needs Reply (144)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @beckiefitzgerald Your white rose is the middle slide of th…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **x_edenelizabeth_x**:  ([link](https://www.threads.com/@x_edenelizabeth_x/post/DfuRrThpVIO))
+  - Photo: Description: Two bright yellow calla lilies with large, glossy green leaves are centered in the frame, surrounded by dry grass and fallen leaves on the ground. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The leaves and petals show visible water droplets, and the background is composed of out-of-focus foliage and ground cover. The focus is reasonably sharp on the flowers and leaves, though some leaf edges are slightly soft. Photo type: Natural
 - **mdalida378**: From my garden last summer. ([link](https://www.threads.com/@mdalida378/post/DfuP07lGyWI))
   - Photo: Description: A cluster of small, purple, feathery flowers with rounded centers and surrounding filaments, set against dark green, textured leaves. Photograph read: The image is a close-up with moderate depth of field, showing the flowers in focus while the background leaves are softly blurred. Lighting is even and diffused, with no harsh shadows or overexposed areas. The rendering preserves fine texture of the flower filaments and leaf surfaces. Photo type: Macro
   - Photo: Description: A large, fully bloomed pink peony with layered petals and a central cluster of yellow stamens is the main subject, set against a background of green leaves. Photograph read: The image is a close-up with natural lighting, showing the flower’s texture and color saturation. The background foliage is softly out of focus, creating a shallow depth of field. The flower’s petals are in sharp focus, with visible edges and subtle surface texture. Photo type: Portrait
