@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (103)
+## Needs Reply (104)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -25,6 +25,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up of a deep red rose with multiple layers of petals, centered on the flower’s reproductive parts, set against a blurred green background. Photograph read: The image is a close-up with shallow depth of field, focusing sharply on the central part of the rose. Lighting is even and natural, illuminating the petals and stamen without harsh shadows. The background is out of focus, showing indistinct green foliage and soil. Photo type: Macro
 - **cordazone**:  ([link](https://www.threads.com/@cordazone/post/DfuaEr2m76C))
   - Photo: Description: A snow-covered garden scene with tall, dried plant stalks bearing heavy snow caps, set against a backdrop of dark, snow-laden evergreen trees; a low mound of snow is visible in the mid-ground. Photograph read: The image has a soft, slightly grainy texture with muted color tones, showing a shallow depth of field that blurs the foreground and background elements. Lighting appears diffuse, casting even illumination without strong shadows or highlights. Photo type: Film photograph
+- **perlindgren**: Season of walks in my garden. 2026 ([link](https://www.threads.com/@perlindgren/post/DfuwLFoAs4d))
+  - _Replying to: A whole Swedish summer in one post - twenty flowers and the…_
 - **mrsmidgett18**: Almost all year, until we get our cold front that last about 2 months. Then she comes right back. ([link](https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ))
   - _Replying to: That coral against the blue pot is doing all the work - the…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
