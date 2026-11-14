@@ -4,10 +4,12 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (81)
+## Needs Like (83)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - cheeks1969: Thank you. ([link](https://www.threads.com/@cheeks1969/post/DfuWmZUlUhe))
+- 2killamockingbird: 🙏🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujbGZgHEs))
+- 2killamockingbird: 🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujaGjABsl))
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - shiawasemainichi5: You're welcome. ([link](https://www.threads.com/@shiawasemainichi5/post/DftrOPxk_Ww))

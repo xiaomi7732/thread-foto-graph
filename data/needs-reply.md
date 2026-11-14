@@ -4,18 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (136)
+## Needs Reply (133)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
   - _Replying to: @cheeks1969 Your coneflower opens the Flower Friday favorit…_
-- **2killamockingbird**: Thank you so very much... ([link](https://www.threads.com/@2killamockingbird/post/DfturfvAABl))
-  - _Replying to: @2killamockingbird Your passionflower is slide two of the F…_
-- **beckiefitzgerald**: Thank you so very much ♥️ ❤️ ([link](https://www.threads.com/@beckiefitzgerald/post/DfuBe_BILbE))
-  - _Replying to: @beckiefitzgerald Your white rose is the middle slide of th…_
-- **jessgperry**: Thank you for selecting my shot! My intention from the beginning was for the photo to be black and white, but I did shoot in color. Here’s the original. ([link](https://www.threads.com/@jessgperry/post/DfuZIlRG7ak))
-  - Photo: Description: A single white lily with six petals and visible stamens is centered against a solid black background, with a few green leaves partially visible at the base. Photograph read: The subject is in focus with even lighting that highlights petal texture and subtle internal yellow tones; the black background provides high contrast without distracting elements. Photo type: Still life
-  - _Replying to: @jessgperry Your lily is slide four of the Flower Friday fa…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **jennstonick.florist**:  ([link](https://www.threads.com/@jennstonick.florist/post/DfuecvVmxix))
