@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (135)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **tazmick31**:  ([link](https://www.threads.com/@tazmick31/post/DftNhm9EcU5))
+  - Photo: Description: A close-up of a large, multi-petaled flower with gradient petals transitioning from yellow to pinkish-red, set against a background of green foliage and blurred other flowers. Photograph read: The main subject is in focus with natural lighting, showing detailed petal edges and center structure. Background elements are softly blurred due to shallow depth of field. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Natural
+  - Photo: Description: A close-up of a large, multi-petaled flower with deep magenta and white coloration, set against a background of green foliage and thin stems. Photograph read: The flower is in sharp focus, with visible petal texture and color gradients. Lighting is even and bright, illuminating the subject without harsh shadows. The background is softly out of focus, creating a shallow depth of field. Rendering appears natural, with no visible compression artifacts or color banding. Photo type: Portrait
+  - Photo: Description: The photograph features a close-up of large, multi-layered dahlia flowers with yellow-orange petals and a dense, yellow center, set against a blurred background of garden elements and other blooms. Photograph read: The main subject is in focus with visible petal texture and color gradation; lighting is bright and direct, casting subtle shadows. Background elements are out of focus, creating a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Portrait
 - **sanvarg86**:  ([link](https://www.threads.com/@sanvarg86/post/DftI_tam69W))
   - Photo: Description: A floral centerpiece with red roses and yellow chrysanthemums in a clear glass vase sits on a burlap-covered table, with multiple round tables and chairs arranged in the background of a room with exposed brick walls and string lights. Photograph read: The foreground is in focus, showing the flowers and vase clearly. The background is slightly out of focus, with tables and chairs blurred. Lighting is warm and ambient, with string lights and spherical chandeliers visible overhead. The image has no visible signs of motion blur, color banding, or sensor noise. Photo type: Event photography
 - **peedees**: This was taken 6 year ago at 1:30 pm but I don’t remember where I took it. With my IPhone. And several pics of this flower are the only shots I made all day. I do wish I could remember where I was. Thanks for your comments ([link](https://www.threads.com/@peedees/post/DftGJWRFWa4))
@@ -29,6 +33,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Backlit ixora and rain-wet plumeria - the light does half t…_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
+- **celticnewyear**: No…It was growing by the nursery close to my house, as I parked, I noticed it and thought, how beautiful ! ([link](https://www.threads.com/@celticnewyear/post/DftNuYom1ZN))
+  - _Replying to: Is this one from your garden? The orange bleeding into the …_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
