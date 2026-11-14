@@ -6,13 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (125)
+## Needs Reply (124)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
-- **reef_ausic**: I edited the light to look more dramatic . I used Lens distortion app. ([link](https://www.threads.com/@reef_ausic/post/DftgtqjEumc))
-  - _Replying to: That glow above the rose makes the whole shot feel like gol…_
 - **deepdiverallu**: I suppose she did since she doesn't have a partner at the moment 😅 ([link](https://www.threads.com/@deepdiverallu/post/DftgA1PjWrW))
   - _Replying to: Orange roses on the table and a whole lived-in room behind …_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
