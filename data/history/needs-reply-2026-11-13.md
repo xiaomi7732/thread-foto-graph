@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (127)
+## Needs Reply (128)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **pedro_berruecos**: They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they’re still arriving ([link](https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
 - **hayirlisusan**: I spotted it in a supermarket and loved it 🟥🟨 ([link](https://www.threads.com/@hayirlisusan/post/DftlR2skeDh))
   - _Replying to: That red and yellow dahlia looks like it is on fire from th…_
+- **bendlesmaid269**: It was stunning 🤩 ([link](https://www.threads.com/@bendlesmaid269/post/DfttdqBilwf))
+  - _Replying to: A whole church dressed for a wedding - that must have smell…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
