@@ -10,7 +10,7 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 304,
+      "reply_count": 305,
       "replies": [
         {
           "username": "lilyhuang0405",
@@ -220,7 +220,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "shiawasemainichi5",
+                  "text": "Thank you so much. This is a rose that originated in America. It has an interesting name, \"Playgirl.\"",
+                  "permalink": "https://www.threads.com/@shiawasemainichi5/post/DftG4XskxGC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

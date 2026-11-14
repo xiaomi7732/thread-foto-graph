@@ -4,13 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (131)
+## Needs Reply (132)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **peedees**: This was taken 6 year ago at 1:30 pm but I don’t remember where I took it. With my IPhone. And several pics of this flower are the only shots I made all day. I do wish I could remember where I was. Thanks for your comments ([link](https://www.threads.com/@peedees/post/DftGJWRFWa4))
   - _Replying to: Glow is right - those reds and yellows burn straight out of…_
 - **beapersaud**: I couldn't say exactly how long after the rain. This was in late July and I went out to put my garden shoes on higher ground to dry and noticed how beautiful the raindrops had kissed the flowers in the garden. I went nuts with my phone camera. ([link](https://www.threads.com/@beapersaud/post/DftEkn4IddI))
   - _Replying to: The sun sitting right behind those roses turns the dew into…_
+- **shiawasemainichi5**: Thank you so much. This is a rose that originated in America. It has an interesting name, "Playgirl." ([link](https://www.threads.com/@shiawasemainichi5/post/DftG4XskxGC))
+  - _Replying to: One pink rose and a whole lot of dark around it - the yello…_
 - **mlaj69**: It smells really good. This is all the same rose bush. I cant remember the name of it. ([link](https://www.threads.com/@mlaj69/post/DftEKaPpazM))
   - Photo: Description: A close-up of a tightly closed rose bud with deep red and yellow hues, surrounded by green sepals and leaves, set against a blurred green background. Photograph read: The main subject is in focus, with visible texture on the bud and sepals. Lighting is even and diffused, casting no harsh shadows. Background is uniformly out of focus, creating a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
   - Photo: Description: A single rose with pink and orange petals is in focus, surrounded by green foliage and a blurred background of grass and rocks. Photograph read: The rose is centrally framed with shallow depth of field, causing the background to be out of focus. Lighting is even and diffused, without harsh shadows or highlights. The image has a natural color palette with no visible color distortion. Photo type: Portrait
