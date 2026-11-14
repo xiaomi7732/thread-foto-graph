@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (142)
+## Needs Reply (143)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **lilyhuang0405**:  ([link](https://www.threads.com/@lilyhuang0405/post/Dfs_qsIkjq5))
+  - Photo: Description: A single open, bright red flower with an orange throat and visible stamens is in focus, surrounded by numerous unopened buds and dense green foliage. The background includes more leaves and a pale sky. Photograph read: The main flower is in sharp focus, while surrounding buds and background foliage are slightly softer. Lighting is diffuse, likely from an overcast sky, casting even illumination without harsh shadows. The image has natural color saturation and no visible digital artifacts. Photo type: Natural
 - **pedro_berruecos**: Mexico City getting ready for the Day of the Dead ([link](https://www.threads.com/@pedro_berruecos/post/Dfs68IklpLY))
   - Photo: Description: A man stands on the open top of a red wooden truck bed, arranging large piles of bright orange marigolds. Another person reaches upward from below to receive a bouquet of the flowers. Behind them, a white tarp with black line drawings hangs, and a partially visible storefront is in the lower right. Photograph read: The image is taken from a slightly elevated angle, capturing the man and the truck bed in mid-frame. Lighting appears diffuse and even, likely from an overcast sky or a canopy, with no harsh shadows. The rendering is clear enough to discern textures on the wood and petals, though the background is flat and lacks depth. Photo type: Documentary
 - **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Dfszm68Cfkq))
