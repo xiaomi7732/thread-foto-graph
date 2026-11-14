@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (133)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **sanvarg86**:  ([link](https://www.threads.com/@sanvarg86/post/DftI_tam69W))
+  - Photo: Description: A floral centerpiece with red roses and yellow chrysanthemums in a clear glass vase sits on a burlap-covered table, with multiple round tables and chairs arranged in the background of a room with exposed brick walls and string lights. Photograph read: The foreground is in focus, showing the flowers and vase clearly. The background is slightly out of focus, with tables and chairs blurred. Lighting is warm and ambient, with string lights and spherical chandeliers visible overhead. The image has no visible signs of motion blur, color banding, or sensor noise. Photo type: Event photography
 - **peedees**: This was taken 6 year ago at 1:30 pm but I don’t remember where I took it. With my IPhone. And several pics of this flower are the only shots I made all day. I do wish I could remember where I was. Thanks for your comments ([link](https://www.threads.com/@peedees/post/DftGJWRFWa4))
   - _Replying to: Glow is right - those reds and yellows burn straight out of…_
 - **beapersaud**: I couldn't say exactly how long after the rain. This was in late July and I went out to put my garden shoes on higher ground to dry and noticed how beautiful the raindrops had kissed the flowers in the garden. I went nuts with my phone camera. ([link](https://www.threads.com/@beapersaud/post/DftEkn4IddI))
