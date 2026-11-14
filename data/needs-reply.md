@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (128)
+## Needs Reply (129)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **pure_mavis**:  ([link](https://www.threads.com/@pure_mavis/post/Dftt-7uGree))
+  - Photo: Description: A hand holds a large, bright red flower with a small green praying mantis perched on one of its petals. The background is out of focus, showing blurred foliage, distant buildings, and a bright light source at the top right. Photograph read: The image has a shallow depth of field, with the flower and mantis in focus while the background is blurred. Lighting appears to be natural, possibly from a low sun, casting a soft glow. The rendering is not sharp, with visible softness in the flower’s petal texture and the mantis’s form. Photo type: Portrait
+    - Watch-outs: The mantis’s legs and body are slightly indistinct due to soft focus and low contrast. The flower’s stamen and pollen are visible but appear slightly blurred and not sharply defined.
 - **pedro_berruecos**: They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they’re still arriving ([link](https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi))
   - _Replying to: A whole truckload of marigolds and a harvest in full swing …_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
