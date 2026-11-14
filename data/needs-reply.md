@@ -4,7 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (129)
+## Needs Reply (130)
+
+### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
+- **2killamockingbird**: Thank you so very much... ([link](https://www.threads.com/@2killamockingbird/post/DfturfvAABl))
+  - _Replying to: @2killamockingbird Your passionflower is slide two of the F…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **pure_mavis**:  ([link](https://www.threads.com/@pure_mavis/post/Dftt-7uGree))
