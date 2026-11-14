@@ -141,7 +141,7 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 355,
+      "reply_count": 364,
       "replies": [
         {
           "username": "dalmatinka11",
@@ -396,10 +396,21 @@
           "photos": [
             "Description: A vibrant floral arrangement with magenta globe flowers and purple salvia-like blooms in a clear glass vase sits on an orange tray, alongside a framed photograph and ceramic items, in a warmly lit interior setting. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the subject. The composition is centered on the flowers and tray, with background elements softly out of focus. The rendering preserves color saturation and detail in the foreground objects. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That orange tray makes the magenta pop - and the little framed photo tucked in front makes it feel like home. Is this your everyday table, or dressed up for something?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfucQiAFIjj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "photog84",
@@ -408,20 +419,42 @@
           "photos": [
             "Description: A close-up of a large, dense cluster of purple hydrangea flowers surrounded by broad, green leaves. The petals show subtle color variation and fine surface texture. Photograph read: The image is in focus with even, diffused lighting. The subject is centrally framed, with natural depth of field keeping both the flower and surrounding leaves sharp. No visible artifacts or distortion. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One big purple hydrangea and nothing else in the way - the color against those green leaves is the whole shot. Do hydrangeas shift color in your soil, or is this one always purple?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfucR18oPsV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "photog84",
           "text": "Such vibrant colors!! Perfect florals for Autumn!!\ud83d\udcf7",
           "permalink": "https://www.threads.com/@photog84/post/Dft1iLvEbKg",
           "photos": [],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Vibrant is the word for it - this thread has been glowing all day. Which flower in here caught your eye first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfucTHEkckK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "zepsammy",
@@ -432,10 +465,21 @@
             "Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is out of focus. Lighting is even and natural, with no visible shadows or overexposure. The rendering preserves color and texture of the petals and center. Photo type: Portrait",
             "Description: A close-up of a flower with white petals and a central purple petal, accented by yellow markings at the petal bases; the background is out of focus with indistinct earthy tones. Photograph read: The image is a close-up with shallow depth of field, focusing on the flower\u2019s center; lighting is even and diffused, revealing petal texture and color without harsh shadows or overexposure. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The foxgloves hanging down with those speckled throats - they look like little lanterns. How long have they been going in your garden?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfucUHuG8QU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pure_mavis",
@@ -447,10 +491,21 @@
           "watch_outs": [
             "The mantis\u2019s legs and body are slightly indistinct due to soft focus and low contrast. The flower\u2019s stamen and pollen are visible but appear slightly blurred and not sharply defined."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red flower is doing all the work - and then there is a little green mantis perched right on the petal. Did you spot it before you shot, or only after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DfucVWlEQP7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mrsmidgett18",
@@ -697,10 +752,21 @@
                   "text": "They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they\u2019re still arriving",
                   "permalink": "https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A market full of marigolds on the first, still arriving on the second - quite the harvest. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfucaBxlB9X",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -757,10 +823,21 @@
                   "text": "It was 9am and very sunny morning after a week of cloudy sky.",
                   "permalink": "https://www.threads.com/@micig33/post/DfuPzsZjMBh",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A sunny morning after a week of cloud - no wonder the magenta glows like that. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfucbTaFEoo",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -791,10 +868,21 @@
                   "text": "It\u2019s a rose garden at Balbos Park, San Diego",
                   "permalink": "https://www.threads.com/@jglass8/post/DfuVKWwG1HN",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Balboa Park in San Diego - a rose garden worth the trip. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Dfuccd2GzZ0",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2665,10 +2753,21 @@
                   "text": "I spotted it in a supermarket and loved it \ud83d\udfe5\ud83d\udfe8",
                   "permalink": "https://www.threads.com/@hayirlisusan/post/DftlR2skeDh",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A supermarket dahlia that looks like that - a lucky spot. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DfucdeXnEJC",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

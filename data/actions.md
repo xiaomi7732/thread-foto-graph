@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (143)
+## Needs Reply (134)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -31,32 +31,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up of a deep red rose with multiple layers of petals, centered on the flower’s reproductive parts, set against a blurred green background. Photograph read: The image is a close-up with shallow depth of field, focusing sharply on the central part of the rose. Lighting is even and natural, illuminating the petals and stamen without harsh shadows. The background is out of focus, showing indistinct green foliage and soil. Photo type: Macro
 - **cordazone**:  ([link](https://www.threads.com/@cordazone/post/DfuaEr2m76C))
   - Photo: Description: A snow-covered garden scene with tall, dried plant stalks bearing heavy snow caps, set against a backdrop of dark, snow-laden evergreen trees; a low mound of snow is visible in the mid-ground. Photograph read: The image has a soft, slightly grainy texture with muted color tones, showing a shallow depth of field that blurs the foreground and background elements. Lighting appears diffuse, casting even illumination without strong shadows or highlights. Photo type: Film photograph
-- **paulassouthern**:  ([link](https://www.threads.com/@paulassouthern/post/Dft4IOQG0Sp))
-  - Photo: Description: A vibrant floral arrangement with magenta globe flowers and purple salvia-like blooms in a clear glass vase sits on an orange tray, alongside a framed photograph and ceramic items, in a warmly lit interior setting. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the subject. The composition is centered on the flowers and tray, with background elements softly out of focus. The rendering preserves color saturation and detail in the foreground objects. Photo type: Still life
-- **photog84**: Here’s mine. iPhone 14 Pro Max. One of my favorites Hydrangeas ([link](https://www.threads.com/@photog84/post/Dft199Fka99))
-  - Photo: Description: A close-up of a large, dense cluster of purple hydrangea flowers surrounded by broad, green leaves. The petals show subtle color variation and fine surface texture. Photograph read: The image is in focus with even, diffused lighting. The subject is centrally framed, with natural depth of field keeping both the flower and surrounding leaves sharp. No visible artifacts or distortion. Photo type: Natural
-- **photog84**: Such vibrant colors!! Perfect florals for Autumn!!📷 ([link](https://www.threads.com/@photog84/post/Dft1iLvEbKg))
-- **zepsammy**:  ([link](https://www.threads.com/@zepsammy/post/DftzCqfFJ24))
-  - Photo: Description: A cluster of pink foxglove flowers hangs vertically, with some blooms open and others still closed, set against a softly blurred garden background featuring greenery and out-of-focus lights. Photograph read: The image is a close-up with shallow depth of field, focusing on the flowers; background elements are blurred. Lighting appears natural and diffused, with no obvious overexposure or underexposure. The rendering preserves color and texture of the petals, though some fine details are indistinct due to focus and blur. Photo type: Portrait
-  - Photo: Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is out of focus. Lighting is even and natural, with no visible shadows or overexposure. The rendering preserves color and texture of the petals and center. Photo type: Portrait
-  - Photo: Description: A close-up of a flower with white petals and a central purple petal, accented by yellow markings at the petal bases; the background is out of focus with indistinct earthy tones. Photograph read: The image is a close-up with shallow depth of field, focusing on the flower’s center; lighting is even and diffused, revealing petal texture and color without harsh shadows or overexposure. Photo type: Macro
-- **pure_mavis**:  ([link](https://www.threads.com/@pure_mavis/post/Dftt-7uGree))
-  - Photo: Description: A hand holds a large, bright red flower with a small green praying mantis perched on one of its petals. The background is out of focus, showing blurred foliage, distant buildings, and a bright light source at the top right. Photograph read: The image has a shallow depth of field, with the flower and mantis in focus while the background is blurred. Lighting appears to be natural, possibly from a low sun, casting a soft glow. The rendering is not sharp, with visible softness in the flower’s petal texture and the mantis’s form. Photo type: Portrait
-    - Watch-outs: The mantis’s legs and body are slightly indistinct due to soft focus and low contrast. The flower’s stamen and pollen are visible but appear slightly blurred and not sharply defined.
 - **mrsmidgett18**: Almost all year, until we get our cold front that last about 2 months. Then she comes right back. ([link](https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ))
   - _Replying to: That coral against the blue pot is doing all the work - the…_
-- **pedro_berruecos**: They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they’re still arriving ([link](https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi))
-  - _Replying to: A whole truckload of marigolds and a harvest in full swing …_
-- **micig33**: It was 9am and very sunny morning after a week of cloudy sky. ([link](https://www.threads.com/@micig33/post/DfuPzsZjMBh))
-  - _Replying to: The light coming through those leaves makes the magenta glo…_
-- **jglass8**: It’s a rose garden at Balbos Park, San Diego ([link](https://www.threads.com/@jglass8/post/DfuVKWwG1HN))
-  - _Replying to: Friday flower power indeed - that red rose in front is doin…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
-- **hayirlisusan**: I spotted it in a supermarket and loved it 🟥🟨 ([link](https://www.threads.com/@hayirlisusan/post/DftlR2skeDh))
-  - _Replying to: That red and yellow dahlia looks like it is on fire from th…_
 - **bendlesmaid269**: It was stunning 🤩 ([link](https://www.threads.com/@bendlesmaid269/post/DfttdqBilwf))
   - _Replying to: A whole church dressed for a wedding - that must have smell…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
