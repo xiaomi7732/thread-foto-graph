@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (131)
+## Needs Reply (132)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -13,6 +13,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @2killamockingbird Your passionflower is slide two of the F…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **zepsammy**:  ([link](https://www.threads.com/@zepsammy/post/DftzCqfFJ24))
+  - Photo: Description: A cluster of pink foxglove flowers hangs vertically, with some blooms open and others still closed, set against a softly blurred garden background featuring greenery and out-of-focus lights. Photograph read: The image is a close-up with shallow depth of field, focusing on the flowers; background elements are blurred. Lighting appears natural and diffused, with no obvious overexposure or underexposure. The rendering preserves color and texture of the petals, though some fine details are indistinct due to focus and blur. Photo type: Portrait
+  - Photo: Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is out of focus. Lighting is even and natural, with no visible shadows or overexposure. The rendering preserves color and texture of the petals and center. Photo type: Portrait
+  - Photo: Description: A close-up of a flower with white petals and a central purple petal, accented by yellow markings at the petal bases; the background is out of focus with indistinct earthy tones. Photograph read: The image is a close-up with shallow depth of field, focusing on the flower’s center; lighting is even and diffused, revealing petal texture and color without harsh shadows or overexposure. Photo type: Macro
 - **pure_mavis**:  ([link](https://www.threads.com/@pure_mavis/post/Dftt-7uGree))
   - Photo: Description: A hand holds a large, bright red flower with a small green praying mantis perched on one of its petals. The background is out of focus, showing blurred foliage, distant buildings, and a bright light source at the top right. Photograph read: The image has a shallow depth of field, with the flower and mantis in focus while the background is blurred. Lighting appears to be natural, possibly from a low sun, casting a soft glow. The rendering is not sharp, with visible softness in the flower’s petal texture and the mantis’s form. Photo type: Portrait
     - Watch-outs: The mantis’s legs and body are slightly indistinct due to soft focus and low contrast. The flower’s stamen and pollen are visible but appear slightly blurred and not sharply defined.
