@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (133)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **mrsmidgett18**:  ([link](https://www.threads.com/@mrsmidgett18/post/DftVnQWEbG5))
+  - Photo: Description: A cluster of reddish-orange flowers with broad green leaves surrounds them, set against a blurred blue pot in the background. Photograph read: The image is a close-up with shallow depth of field, keeping the flowers in focus while the background and surrounding leaves are softly blurred. Lighting is even and diffused, illuminating the petals and leaves without harsh shadows or overexposure. Photo type: Macro
+    - Watch-outs: - The central flower’s stamen is partially obscured by overlapping petals, limiting visibility of reproductive structures. - Some leaf surfaces show minor spotting and discoloration, reducing perceived health or uniformity.
 - **tazmick31**:  ([link](https://www.threads.com/@tazmick31/post/DftNhm9EcU5))
   - Photo: Description: A close-up of a large, multi-petaled flower with gradient petals transitioning from yellow to pinkish-red, set against a background of green foliage and blurred other flowers. Photograph read: The main subject is in focus with natural lighting, showing detailed petal edges and center structure. Background elements are softly blurred due to shallow depth of field. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Natural
   - Photo: Description: A close-up of a large, multi-petaled flower with deep magenta and white coloration, set against a background of green foliage and thin stems. Photograph read: The flower is in sharp focus, with visible petal texture and color gradients. Lighting is even and bright, illuminating the subject without harsh shadows. The background is softly out of focus, creating a shallow depth of field. Rendering appears natural, with no visible compression artifacts or color banding. Photo type: Portrait
