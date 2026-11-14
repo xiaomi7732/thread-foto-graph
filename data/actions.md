@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (149)
+## Needs Reply (150)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -20,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @jessgperry Your lily is slide four of the Flower Friday fa…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **cordazone**:  ([link](https://www.threads.com/@cordazone/post/DfuaEr2m76C))
+  - Photo: Description: A snow-covered garden scene with tall, dried plant stalks bearing heavy snow caps, set against a backdrop of dark, snow-laden evergreen trees; a low mound of snow is visible in the mid-ground. Photograph read: The image has a soft, slightly grainy texture with muted color tones, showing a shallow depth of field that blurs the foreground and background elements. Lighting appears diffuse, casting even illumination without strong shadows or highlights. Photo type: Film photograph
 - **perlindgren**: Flowers from Sweden 2026. 😌❤️🇸🇪🙏 ([link](https://www.threads.com/@perlindgren/post/DfuYe5VAnar))
   - Photo: Description: A vibrant yellow, multi-petaled flower is the central subject, surrounded by green leaves and a background of dry grass and stems. Photograph read: The image has a shallow depth of field, with the flower in focus and the background blurred. Lighting is even and natural, without harsh shadows or overexposure. The rendering preserves color and texture of the flower and surrounding foliage. Photo type: Natural
   - Photo: Description: A cluster of bright orange flowers with yellow centers is in focus, set against a blurred green background of grass or foliage. Photograph read: The main subject is sharply rendered, with visible petal texture and center filaments. The background is uniformly out of focus. Lighting is even and natural, without harsh shadows or overexposure. The image appears to be a close-up shot with a shallow depth of field. Photo type: Macro
