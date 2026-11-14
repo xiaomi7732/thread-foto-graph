@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (144)
+## Needs Reply (145)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @beckiefitzgerald Your white rose is the middle slide of th…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **wenn6077**:  ([link](https://www.threads.com/@wenn6077/post/DfuSlkxFf_d))
+  - Photo: Description: The photograph features several pink and yellow roses in the foreground, with a blurred background of green foliage and orange-yellow flowers, likely marigolds. Photograph read: The image has a shallow depth of field, with the roses in focus while the background is softly blurred. Lighting is even and natural, suggesting outdoor conditions. The rendering preserves color saturation and texture of the petals, though some edges are slightly soft. Photo type: Natural
 - **x_edenelizabeth_x**:  ([link](https://www.threads.com/@x_edenelizabeth_x/post/DfuRrThpVIO))
   - Photo: Description: Two bright yellow calla lilies with large, glossy green leaves are centered in the frame, surrounded by dry grass and fallen leaves on the ground. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The leaves and petals show visible water droplets, and the background is composed of out-of-focus foliage and ground cover. The focus is reasonably sharp on the flowers and leaves, though some leaf edges are slightly soft. Photo type: Natural
 - **mdalida378**: From my garden last summer. ([link](https://www.threads.com/@mdalida378/post/DfuP07lGyWI))
