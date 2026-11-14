@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (143)
+## Needs Reply (144)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **beapersaud**: After the rain ([link](https://www.threads.com/@beapersaud/post/DftA5qaIYps))
+  - Photo: Description: Two pink roses with dew droplets are in focus against a blurred sunset background featuring a bright sun disc. Photograph read: The roses are centrally positioned with soft background bokeh; lighting is warm and diffused, casting gentle highlights on petals and leaves. The image exhibits a shallow depth of field, with the foreground roses sharp and the background indistinct. Photo type: Aesthetic
 - **lilyhuang0405**:  ([link](https://www.threads.com/@lilyhuang0405/post/Dfs_qsIkjq5))
   - Photo: Description: A single open, bright red flower with an orange throat and visible stamens is in focus, surrounded by numerous unopened buds and dense green foliage. The background includes more leaves and a pale sky. Photograph read: The main flower is in sharp focus, while surrounding buds and background foliage are slightly softer. Lighting is diffuse, likely from an overcast sky, casting even illumination without harsh shadows. The image has natural color saturation and no visible digital artifacts. Photo type: Natural
 - **pedro_berruecos**: Mexico City getting ready for the Day of the Dead ([link](https://www.threads.com/@pedro_berruecos/post/Dfs68IklpLY))
