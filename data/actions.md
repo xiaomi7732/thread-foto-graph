@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (129)
+## Needs Reply (131)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **peedees**: This was taken 6 year ago at 1:30 pm but I don’t remember where I took it. With my IPhone. And several pics of this flower are the only shots I made all day. I do wish I could remember where I was. Thanks for your comments ([link](https://www.threads.com/@peedees/post/DftGJWRFWa4))
+  - _Replying to: Glow is right - those reds and yellows burn straight out of…_
 - **beapersaud**: I couldn't say exactly how long after the rain. This was in late July and I went out to put my garden shoes on higher ground to dry and noticed how beautiful the raindrops had kissed the flowers in the garden. I went nuts with my phone camera. ([link](https://www.threads.com/@beapersaud/post/DftEkn4IddI))
   - _Replying to: The sun sitting right behind those roses turns the dew into…_
 - **mlaj69**: It smells really good. This is all the same rose bush. I cant remember the name of it. ([link](https://www.threads.com/@mlaj69/post/DftEKaPpazM))
@@ -21,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
 - **marymoffitta**: Both in Louisiana (Baton Rouge ) this spring. ([link](https://www.threads.com/@marymoffitta/post/DftEK_4Dded))
   - _Replying to: A chair in the middle of the garden and a flamingo on duty …_
+- **samsky_j72**: Yeah, was rainy night. ([link](https://www.threads.com/@samsky_j72/post/DftGE04JeN0))
+  - _Replying to: Backlit ixora and rain-wet plumeria - the light does half t…_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
