@@ -118,8 +118,22 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 338,
+      "reply_count": 340,
       "replies": [
+        {
+          "username": "mdalida378",
+          "text": "From my garden last summer.",
+          "permalink": "https://www.threads.com/@mdalida378/post/DfuP07lGyWI",
+          "photos": [
+            "Description: A cluster of small, purple, feathery flowers with rounded centers and surrounding filaments, set against dark green, textured leaves. Photograph read: The image is a close-up with moderate depth of field, showing the flowers in focus while the background leaves are softly blurred. Lighting is even and diffused, with no harsh shadows or overexposed areas. The rendering preserves fine texture of the flower filaments and leaf surfaces. Photo type: Macro",
+            "Description: A large, fully bloomed pink peony with layered petals and a central cluster of yellow stamens is the main subject, set against a background of green leaves. Photograph read: The image is a close-up with natural lighting, showing the flower\u2019s texture and color saturation. The background foliage is softly out of focus, creating a shallow depth of field. The flower\u2019s petals are in sharp focus, with visible edges and subtle surface texture. Photo type: Portrait",
+            "Description: A cluster of peonies in soft pink and cream hues, with some buds still closed, is set against a light-colored wall and dark vertical bars. Photograph read: The image is composed with the flowers in the foreground, showing natural lighting and moderate contrast. The rendering preserves texture and color of the petals and leaves, with no visible signs of motion blur or focus issues. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jacqrho",
           "text": "From my garden.",
@@ -510,7 +524,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "micig33",
+                  "text": "It was 9am and very sunny morning after a week of cloudy sky.",
+                  "permalink": "https://www.threads.com/@micig33/post/DfuPzsZjMBh",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

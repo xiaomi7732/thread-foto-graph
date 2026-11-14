@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (141)
+## Needs Reply (143)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -17,6 +17,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @beckiefitzgerald Your white rose is the middle slide of th…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **mdalida378**: From my garden last summer. ([link](https://www.threads.com/@mdalida378/post/DfuP07lGyWI))
+  - Photo: Description: A cluster of small, purple, feathery flowers with rounded centers and surrounding filaments, set against dark green, textured leaves. Photograph read: The image is a close-up with moderate depth of field, showing the flowers in focus while the background leaves are softly blurred. Lighting is even and diffused, with no harsh shadows or overexposed areas. The rendering preserves fine texture of the flower filaments and leaf surfaces. Photo type: Macro
+  - Photo: Description: A large, fully bloomed pink peony with layered petals and a central cluster of yellow stamens is the main subject, set against a background of green leaves. Photograph read: The image is a close-up with natural lighting, showing the flower’s texture and color saturation. The background foliage is softly out of focus, creating a shallow depth of field. The flower’s petals are in sharp focus, with visible edges and subtle surface texture. Photo type: Portrait
+  - Photo: Description: A cluster of peonies in soft pink and cream hues, with some buds still closed, is set against a light-colored wall and dark vertical bars. Photograph read: The image is composed with the flowers in the foreground, showing natural lighting and moderate contrast. The rendering preserves texture and color of the petals and leaves, with no visible signs of motion blur or focus issues. Photo type: Natural
 - **jacqrho**: From my garden. ([link](https://www.threads.com/@jacqrho/post/DfuLoeNkrzC))
   - Photo: Description: A bouquet of flowers, including peach roses, pink and purple wildflowers, and small white daisies, is arranged in a green, ribbed ceramic pitcher against a solid dark green background. Photograph read: The image is in focus with even, diffused lighting. The pitcher and flowers are sharply rendered, with natural color saturation and no visible distortion or chromatic aberration. The background is uniformly out of focus, creating a shallow depth of field that isolates the subject. Photo type: Still life
 - **kate.kook26**:  ([link](https://www.threads.com/@kate.kook26/post/DfuF-t0ExhH))
@@ -38,6 +42,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The mantis’s legs and body are slightly indistinct due to soft focus and low contrast. The flower’s stamen and pollen are visible but appear slightly blurred and not sharply defined.
 - **pedro_berruecos**: They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they’re still arriving ([link](https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi))
   - _Replying to: A whole truckload of marigolds and a harvest in full swing …_
+- **micig33**: It was 9am and very sunny morning after a week of cloudy sky. ([link](https://www.threads.com/@micig33/post/DfuPzsZjMBh))
+  - _Replying to: The light coming through those leaves makes the magenta glo…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
 - **deepdiverallu**: I suppose she did since she doesn't have a partner at the moment 😅 ([link](https://www.threads.com/@deepdiverallu/post/DftgA1PjWrW))
