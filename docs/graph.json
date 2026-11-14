@@ -107,8 +107,30 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 331,
+      "reply_count": 333,
       "replies": [
+        {
+          "username": "photog84",
+          "text": "Here\u2019s mine. iPhone 14 Pro Max. One of my favorites Hydrangeas",
+          "permalink": "https://www.threads.com/@photog84/post/Dft199Fka99",
+          "photos": [
+            "Description: A close-up of a large, dense cluster of purple hydrangea flowers surrounded by broad, green leaves. The petals show subtle color variation and fine surface texture. Photograph read: The image is in focus with even, diffused lighting. The subject is centrally framed, with natural depth of field keeping both the flower and surrounding leaves sharp. No visible artifacts or distortion. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "photog84",
+          "text": "Such vibrant colors!! Perfect florals for Autumn!!\ud83d\udcf7",
+          "permalink": "https://www.threads.com/@photog84/post/Dft1iLvEbKg",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "zepsammy",
           "text": "",
@@ -4152,7 +4174,7 @@
       "photos": [
         "Description: A single blue flower with radiating petals and a dark center is in focus, set against a blurred background of green and white foliage. Photograph read: The flower is centrally positioned with shallow depth of field, creating a soft background blur. Lighting is even and diffused, with no harsh shadows or highlights. The image has a natural color tone and no visible digital artifacts. Photo type: Portrait"
       ],
-      "reply_count": 689,
+      "reply_count": 690,
       "replies": [
         {
           "username": "picsall",
@@ -10229,7 +10251,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "snowdonman66",
+                          "text": "We had a fab time in Australia",
+                          "permalink": "https://www.threads.com/@snowdonman66/post/Dft1VztCLht",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 },

@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (136)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -13,6 +13,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @2killamockingbird Your passionflower is slide two of the F…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **photog84**: Here’s mine. iPhone 14 Pro Max. One of my favorites Hydrangeas ([link](https://www.threads.com/@photog84/post/Dft199Fka99))
+  - Photo: Description: A close-up of a large, dense cluster of purple hydrangea flowers surrounded by broad, green leaves. The petals show subtle color variation and fine surface texture. Photograph read: The image is in focus with even, diffused lighting. The subject is centrally framed, with natural depth of field keeping both the flower and surrounding leaves sharp. No visible artifacts or distortion. Photo type: Natural
+- **photog84**: Such vibrant colors!! Perfect florals for Autumn!!📷 ([link](https://www.threads.com/@photog84/post/Dft1iLvEbKg))
 - **zepsammy**:  ([link](https://www.threads.com/@zepsammy/post/DftzCqfFJ24))
   - Photo: Description: A cluster of pink foxglove flowers hangs vertically, with some blooms open and others still closed, set against a softly blurred garden background featuring greenery and out-of-focus lights. Photograph read: The image is a close-up with shallow depth of field, focusing on the flowers; background elements are blurred. Lighting appears natural and diffused, with no obvious overexposure or underexposure. The rendering preserves color and texture of the petals, though some fine details are indistinct due to focus and blur. Photo type: Portrait
   - Photo: Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is out of focus. Lighting is even and natural, with no visible shadows or overexposure. The rendering preserves color and texture of the petals and center. Photo type: Portrait
@@ -163,6 +166,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That pier walks straight into the sea and doesn't look back…_
 - **dwordops**: Okay…we were drinking at a bar across the harbor… ([link](https://www.threads.com/@dwordops/post/Dfqit7ADfKh))
   - _Replying to: Waiting for the sun to drop paid off - thanks for sharing t…_
+- **snowdonman66**: We had a fab time in Australia ([link](https://www.threads.com/@snowdonman66/post/Dft1VztCLht))
+  - _Replying to: Uluru in that light is hard to beat - the red against the b…_
 - **snowdonman66**: When I saw the cruise ship looked at angles thought it would work glad you liked it but the red rocks of uluru are something else with the right light think that photo was one of the olgas ([link](https://www.threads.com/@snowdonman66/post/DfrGPW9iPKB))
   - _Replying to: Five postcards and not a dull one. The cruise ship against …_
 - **medium.gords7**: You’re welcome! Thanks for commenting on it. ([link](https://www.threads.com/@medium.gords7/post/DfqQN1cG29X))
