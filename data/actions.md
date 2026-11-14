@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (139)
+## Needs Reply (140)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @beckiefitzgerald Your white rose is the middle slide of th…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **kate.kook26**:  ([link](https://www.threads.com/@kate.kook26/post/DfuF-t0ExhH))
+  - Photo: Description: A close-up of a yellow, spiky flower head with a central, textured disc, surrounded by green, needle-like foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flower head in focus while surrounding foliage is blurred. Lighting is bright and even, highlighting the flower’s texture and color. The rendering is clear for the main subject, with no visible noise or color distortion. Photo type: Macro
 - **tansayno**:  ([link](https://www.threads.com/@tansayno/post/Dft5zL_iTTQ))
   - Photo: Description: A cluster of pink flowers with visible petals and a central reproductive structure, set against a blurred green background. Photograph read: The image features a shallow depth of field with the central flower in partial focus, while surrounding blooms and background foliage are out of focus. Lighting is even and diffused, with no visible shadows or harsh highlights. Photo type: Macro
     - Watch-outs: - The central flower’s reproductive parts are partially obscured by soft focus, reducing discernibility of fine structures. - Petals in the foreground and midground show motion blur or focus falloff, making edges and surface texture indistinct.
