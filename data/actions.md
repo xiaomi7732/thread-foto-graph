@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (144)
+## Needs Reply (146)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **peedees**: Glow ([link](https://www.threads.com/@peedees/post/DftBr0TFbru))
+  - Photo: Description: The photograph shows two flowering plants with red and yellow petals against a dark, indistinct background, with green stems and leaves visible at the base. Photograph read: The image features strong contrast between brightly lit flowers and a very dark background. The rendering appears somewhat stylized, with visible texture and edge definition on the petals, suggesting a digital or processed appearance. The composition is vertical, with the flowers positioned centrally and slightly to the right. Photo type: Stylized
 - **beapersaud**: After the rain ([link](https://www.threads.com/@beapersaud/post/DftA5qaIYps))
   - Photo: Description: Two pink roses with dew droplets are in focus against a blurred sunset background featuring a bright sun disc. Photograph read: The roses are centrally positioned with soft background bokeh; lighting is warm and diffused, casting gentle highlights on petals and leaves. The image exhibits a shallow depth of field, with the foreground roses sharp and the background indistinct. Photo type: Aesthetic
 - **lilyhuang0405**:  ([link](https://www.threads.com/@lilyhuang0405/post/Dfs_qsIkjq5))
@@ -41,6 +43,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The blur around the edges pulls the eye straight to those b…_
 - **jodireneeg**: I actually took this a couple years back, but I love it! ([link](https://www.threads.com/@jodireneeg/post/DfssmmJkmJc))
   - _Replying to: I think filling the frame with that dahlia was the right ca…_
+- **oneillwendie**: It escaped. I wanted to cut it and take it home. I kept forgetting scissors, so took a pic instead . ([link](https://www.threads.com/@oneillwendie/post/DftBfn_jdOu))
+  - _Replying to: One red rose finding its way through the fence - the grey w…_
 - **cheeks1969**: A few seconds but enough for me to get a clear shot, enjoy your weekend . ([link](https://www.threads.com/@cheeks1969/post/Dfs1fpNFTgL))
   - _Replying to: The butterfly picked the best seat in the garden - right on…_
 - **kijk.mijn.achtertuin**: Yes. And it is one of the last flowers in my little garden that is still blooming this late autumn. ([link](https://www.threads.com/@kijk.mijn.achtertuin/post/DfsqvejiJKI))
