@@ -118,7 +118,7 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 342,
+      "reply_count": 344,
       "replies": [
         {
           "username": "wenn6077",
@@ -282,7 +282,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mrsmidgett18",
+                  "text": "Almost all year, until we get our cold front that last about 2 months. Then she comes right back.",
+                  "permalink": "https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -582,7 +593,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jglass8",
+                  "text": "It\u2019s a rose garden at Balbos Park, San Diego",
+                  "permalink": "https://www.threads.com/@jglass8/post/DfuVKWwG1HN",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

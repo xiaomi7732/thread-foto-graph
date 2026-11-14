@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (145)
+## Needs Reply (147)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -44,10 +44,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **pure_mavis**:  ([link](https://www.threads.com/@pure_mavis/post/Dftt-7uGree))
   - Photo: Description: A hand holds a large, bright red flower with a small green praying mantis perched on one of its petals. The background is out of focus, showing blurred foliage, distant buildings, and a bright light source at the top right. Photograph read: The image has a shallow depth of field, with the flower and mantis in focus while the background is blurred. Lighting appears to be natural, possibly from a low sun, casting a soft glow. The rendering is not sharp, with visible softness in the flower’s petal texture and the mantis’s form. Photo type: Portrait
     - Watch-outs: The mantis’s legs and body are slightly indistinct due to soft focus and low contrast. The flower’s stamen and pollen are visible but appear slightly blurred and not sharply defined.
+- **mrsmidgett18**: Almost all year, until we get our cold front that last about 2 months. Then she comes right back. ([link](https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ))
+  - _Replying to: That coral against the blue pot is doing all the work - the…_
 - **pedro_berruecos**: They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they’re still arriving ([link](https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi))
   - _Replying to: A whole truckload of marigolds and a harvest in full swing …_
 - **micig33**: It was 9am and very sunny morning after a week of cloudy sky. ([link](https://www.threads.com/@micig33/post/DfuPzsZjMBh))
   - _Replying to: The light coming through those leaves makes the magenta glo…_
+- **jglass8**: It’s a rose garden at Balbos Park, San Diego ([link](https://www.threads.com/@jglass8/post/DfuVKWwG1HN))
+  - _Replying to: Friday flower power indeed - that red rose in front is doin…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
 - **deepdiverallu**: I suppose she did since she doesn't have a partner at the moment 😅 ([link](https://www.threads.com/@deepdiverallu/post/DftgA1PjWrW))
