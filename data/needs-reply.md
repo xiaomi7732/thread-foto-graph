@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (126)
+## Needs Reply (127)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
 - **pedro_berruecos**: They are actually downloading it the previous day -Nov 1st- in the Jamaica market. On the 2nd they’re still arriving ([link](https://www.threads.com/@pedro_berruecos/post/Dftnd4aFosi))
@@ -56,6 +56,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A large, reflective, spherical sculpture with concentric illuminated rings is positioned outdoors at night, in front of a modern building with glass windows and a blue digital sign. The sign reads “CHASE” and “PARTNER OF THE GOLDEN STATE VALKYRIES.” Photograph read: The image is taken at night with artificial lighting; the sculpture’s surface reflects surrounding lights and people. The lighting creates bright highlights along the rings and dark reflections in the sphere’s concave interior. The building’s signage is legible, but the background is slightly out of focus. Photo type: Artistic
   - Photo: Description: A large, metallic circular sculpture frames a view of a cityscape with distant mountains, a parked SUV, and pedestrians, including two women standing near the sculpture’s base. Photograph read: The image is taken in bright daylight, with strong reflections on the sculpture’s surface. The circular frame captures a distorted, mirrored view of the background. The foreground shows two bollards with “Golden State Valkyries” logos. The background is slightly out of focus, but details are discernible. Photo type: Urban photography
   - _Replying to: How many reflections deep does that tunnel go? The blue sky…_
+- **a__kinnaird**: Not as bad as it looks 👍🏼 ([link](https://www.threads.com/@a__kinnaird/post/DftrwZvjOkz))
+  - _Replying to: The wake is the best part - it draws the eye straight back …_
 - **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/Dfq812ilT0S))
   - Photo: Description: The image shows a close-up of dark, round berries attached to bright magenta stems, with some green foliage visible in the background. Photograph read: The composition is tightly framed on the berries and stems, with even lighting that highlights the glossy surface of the berries and the vivid color of the stems. The image has a shallow depth of field, causing some background elements to be out of focus. Photo type: Macro
 - **graveytrain023**:  ([link](https://www.threads.com/@graveytrain023/post/Dfqi57omwNC))
