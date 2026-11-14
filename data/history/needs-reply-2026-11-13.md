@@ -4,41 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (125)
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **mrsmidgett18**:  ([link](https://www.threads.com/@mrsmidgett18/post/DftVnQWEbG5))
-  - Photo: Description: A vibrant cluster of coral-pink canna lily flowers blooms amidst large, glossy green leaves in a potted plant. The close-up perspective highlights the rich textures of the petals and foliage against a soft blue background container. Photograph read: The shot uses a tight, top-down composition under even, natural light, creating a fresh, botanical mood. Photo type: Snapshot
-- **tazmick31**:  ([link](https://www.threads.com/@tazmick31/post/DftNhm9EcU5))
-  - Photo: Description: A close-up shot captures a vibrant dahlia flower in full bloom, featuring warm peach and pink petals with a yellow center. The flower stands out amidst green foliage in a garden setting on a sunny day. Photograph read: Captured in bright, direct sunlight, the tight composition highlights the flower's layered petals and vivid coloration against a softly blurred background. Photo type: Nature photography
-    - Watch-outs: Highlights clipped to white on sunlit petal edges
-  - Photo: Description: A vibrant magenta and white dahlia blossom fills the frame, captured in close-up against a backdrop of green foliage and wire fencing. Photograph read: Centered composition under bright daylight highlights the intricate petal pattern and contrasting colors of the flower. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - Photo: Description: A close-up shot of a large, vibrant yellow and orange dahlia in full bloom, surrounded by partially visible companion blossoms and stems. The bright floral arrangement makes it suitable for a nature or gardening social media post. Photograph read: The subject is captured in a centered, tight composition with natural lighting that highlights the intricate layers of the petals and creates a cheerful, warm mood. Photo type: Snapshot
-- **sanvarg86**:  ([link](https://www.threads.com/@sanvarg86/post/DftI_tam69W))
-  - Photo: Description: A close-up shot features a flower arrangement with red roses, yellow mums, and eucalyptus stems in a clear glass vase on a round table set for a formal event. The background shows a large hall with multiple tables, chairs, and warm string lights hanging from the ceiling. Photograph read: The shot uses a shallow depth of field, keeping the foreground floral arrangement sharply in focus while the background event space is softly blurred under ambient lighting, creating an inviting and celebratory mood. Photo type: Snapshot
-- **peedees**: This was taken 6 year ago at 1:30 pm but I don’t remember where I took it. With my IPhone. And several pics of this flower are the only shots I made all day. I do wish I could remember where I was. Thanks for your comments ([link](https://www.threads.com/@peedees/post/DftGJWRFWa4))
-  - _Replying to: Glow is right - those reds and yellows burn straight out of…_
-- **beapersaud**: I couldn't say exactly how long after the rain. This was in late July and I went out to put my garden shoes on higher ground to dry and noticed how beautiful the raindrops had kissed the flowers in the garden. I went nuts with my phone camera. ([link](https://www.threads.com/@beapersaud/post/DftEkn4IddI))
-  - _Replying to: The sun sitting right behind those roses turns the dew into…_
-- **shiawasemainichi5**: Thank you so much. This is a rose that originated in America. It has an interesting name, "Playgirl." ([link](https://www.threads.com/@shiawasemainichi5/post/DftG4XskxGC))
-  - _Replying to: One pink rose and a whole lot of dark around it - the yello…_
-- **mlaj69**: It smells really good. This is all the same rose bush. I cant remember the name of it. ([link](https://www.threads.com/@mlaj69/post/DftEKaPpazM))
-  - Photo: Description: This close-up photo features a vibrant, tightly closed rosebud with deep red and yellow petals, surrounded by green sepals, set against a softly blurred green background suitable for a nature post. Photograph read: The vertical framing centers the rosebud sharply against a smooth, out-of-focus background under even daylight, creating a calm and natural mood. Photo type: Snapshot
-  - Photo: Description: A vibrant pink and yellow rose is captured in a top-down close-up shot, surrounded by lush green leaves and a natural garden floor. This eye-catching floral snapshot is ideal for sharing the beauty of a garden bloom on social media. Photograph read: The vertically oriented shot centers on the rose from above, utilizing natural daylight and a shallow depth of field to create a soft, inviting mood. Photo type: Snapshot
-  - Photo: Description: A close-up shot captures a vibrant pink and white rose in full bloom, centered against a blurred outdoor background of grass and a weathered wooden structure. This nature photograph would be well-suited for sharing floral appreciation or garden updates on social media. Photograph read: The tight vertical framing centers the colorful blossom under soft daylight, creating a peaceful and natural mood. Photo type: Snapshot
-  - Photo: Description: A close-up photograph features a vibrant pink and white speckled rose in full bloom, set against a blurred background of green foliage and a weathered wooden fence. The detailed petals display unique color variations, creating a natural and inviting focal point. Photograph read: The tight framing highlights the intricate texture of the pink petals under even, natural light, creating a serene and organic mood. Photo type: Snapshot
-  - _Replying to: The pink fading into white at the edges is the detail - the…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
   - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
-- **marymoffitta**: Both in Louisiana (Baton Rouge ) this spring. ([link](https://www.threads.com/@marymoffitta/post/DftEK_4Dded))
-  - _Replying to: A chair in the middle of the garden and a flamingo on duty …_
-- **samsky_j72**: Yeah, was rainy night. ([link](https://www.threads.com/@samsky_j72/post/DftGE04JeN0))
-  - _Replying to: Backlit ixora and rain-wet plumeria - the light does half t…_
+- **reef_ausic**: I edited the light to look more dramatic . I used Lens distortion app. ([link](https://www.threads.com/@reef_ausic/post/DftgtqjEumc))
+  - _Replying to: That glow above the rose makes the whole shot feel like gol…_
+- **deepdiverallu**: I suppose she did since she doesn't have a partner at the moment 😅 ([link](https://www.threads.com/@deepdiverallu/post/DftgA1PjWrW))
+  - _Replying to: Orange roses on the table and a whole lived-in room behind …_
 - **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
   - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
-- **celticnewyear**: No…It was growing by the nursery close to my house, as I parked, I noticed it and thought, how beautiful ! ([link](https://www.threads.com/@celticnewyear/post/DftNuYom1ZN))
-  - _Replying to: Is this one from your garden? The orange bleeding into the …_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
