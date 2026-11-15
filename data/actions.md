@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (77)
+## Needs Reply (78)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -179,6 +179,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Watermark in lower-left corner: “AI-generated content” is visibly superimposed over the image, indicating synthetic origin. - Haze obscures distant hills: atmospheric haze reduces contrast and detail in the far background, making features indistinct.
 - **charhedman**: No worries! I see beauty everywhere 🥰 ([link](https://www.threads.com/@charhedman/post/DfqJzdvGS59))
   - _Replying to: A glowing garden hose, of all things - thanks for seeing th…_
+- **thethreearmijos**: It’s a perennial of the very well groomed Golden Gate Park! ([link](https://www.threads.com/@thethreearmijos/post/DfxMJdHm3i4))
+  - _Replying to: One spike of blue doing the work of a whole garden - the re…_
 - **solis69104**: The sky paints the colors, and the sea creates the mirror. Thank you for your beautiful words! 🌅 ([link](https://www.threads.com/@solis69104/post/DfqKSXpE5R6))
   - Photo: Description: A silhouette of a large, blocky structure stands in the ocean at dusk, with waves crashing against it and foam spreading across the wet sand in the foreground. The sky transitions from deep blue to warm orange near the horizon. Photograph read: The image features a strong contrast between the dark silhouette of the structure and the illuminated sky. The foreground sand reflects ambient light, while the ocean shows motion through wave patterns. The color gradient in the sky is smooth and horizontal, with no visible lens distortion or chromatic aberration. Photo type: Landscape
   - _Replying to: Wet sand doing the sky's work - thanks for sharing the mirr…_
