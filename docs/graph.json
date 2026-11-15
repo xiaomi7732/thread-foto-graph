@@ -217,7 +217,7 @@
       "photos": [
         "Description: A close-up shot of artificial flowers in a planter, featuring a central white dahlia-like bloom surrounded by orange and yellow blooms, with green leaves and a seashell visible in the pot. Photograph read: The image is in focus on the flowers, with shallow depth of field blurring the background, which includes a gravel path, a fence, and distant trees. Lighting is even and diffused, suggesting an overcast day. The rendering preserves color saturation and texture of the petals and leaves. Photo type: Portrait"
       ],
-      "reply_count": 375,
+      "reply_count": 376,
       "replies": [
         {
           "username": "jennstonick.florist",
@@ -3937,6 +3937,16 @@
               "action": null,
               "hidden": false,
               "replies": [
+                {
+                  "username": "graveytrain023",
+                  "text": "Yes they do",
+                  "permalink": "https://www.threads.com/@graveytrain023/post/Dfv8aI5lvTZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
                 {
                   "username": "graveytrain023",
                   "text": "Yes they bloomed at the same time.",

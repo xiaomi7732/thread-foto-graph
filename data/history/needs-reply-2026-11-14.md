@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (108)
+## Needs Reply (109)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -52,6 +52,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole church dressed for a wedding - that must have smell…_
 - **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
   - _Replying to: Rose._
+- **graveytrain023**: Yes they do ([link](https://www.threads.com/@graveytrain023/post/Dfv8aI5lvTZ))
+  - _Replying to: Do the spider lilies and the orange zinnia bloom at the sam…_
 - **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
   - _Replying to: A single white rose, a frosted bottle, and a whole list of …_
 - **citizenb**: I love your perspective and unique style! 🫶💚 ([link](https://www.threads.com/@citizenb/post/DfsDpygIIXi))
