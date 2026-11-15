@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (109)
+## Needs Reply (108)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -284,8 +284,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A vibrant teal roller coaster ascends sharply against a bright blue sky, carrying groups of excited riders with varied expressions, framed by lush green trees on the left and fluffy white clouds above. Photograph read: The low-angle shot emphasizes the coaster’s steep climb, with natural daylight enhancing vivid colors and creating a dynamic, exhilarating mood. Photo type: Documentary
 - **joaquinencinasphotography**: There are more photos from the parade in my instagram ([link](https://www.threads.com/@joaquinencinasphotography/post/Dfm9Do5Ghnv))
   - _Replying to: What a celebration to be in the middle of. Thanks for shari…_
-
-### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
-- **2killamockingbird**: Well you did a great job 👏 and glad I didn't have to choose... ([link](https://www.threads.com/@2killamockingbird/post/Dfm00g7AC2I))
-  - _Replying to: Thank you Dee 🙏 and credits to all the photographers. Picki…_
 
