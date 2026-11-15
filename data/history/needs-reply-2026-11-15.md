@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (110)
+## Needs Reply (77)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -222,77 +222,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two jellyfish drifting through a whole ocean of blue - thos…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DfqmpUwn70g))
   - _Replying to: A parade like that is a gift for the camera - thanks for sh…_
-
-### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DfpgyN8nAlv))
-  - Photo: Description: The photograph shows a set of red metal chairs and a matching table under a red-and-white striped awning, against a solid red background. Photograph read: The composition is dominated by saturated red tones, with the chairs and table arranged in the foreground. Lighting is even and direct, casting minimal shadows. The rendering is flat, with no visible depth of field variation or texture detail beyond the chair’s metal mesh and curved frame. Photo type: Still life
-- **freya_samarinda**:  ([link](https://www.threads.com/@freya_samarinda/post/DfpbJnSG7ST))
-  - Photo: Description: A pair of feet wearing red Mary Jane shoes and white lace-trimmed socks stands on a speckled, textured floor, viewed from a high angle. Photograph read: The image is captured from above, with natural lighting casting shadows across the floor. The subject is in focus, but the background floor has a granular texture with no discernible depth of field issues. The rendering is clear and well-lit, with no visible distortion or color aberration. Photo type: Portrait
-- **adam.allgood.1**: That’s the Chicago Theater. I’ve seen several shows there . ([link](https://www.threads.com/@adam.allgood.1/post/Dfpd7lOEYlq))
-  - _Replying to: A whole theater in red - the seats, the curtain, the gold d…_
-- **beep1300**:  ([link](https://www.threads.com/@beep1300/post/DfpIstOHNnW))
-  - Photo: Description: A young baseball player in a red jersey with the number 7 is captured mid-stride on a base, while another child in a blue jersey with the number 10 stands nearby. Other players and an adult are visible in the background behind a chain-link fence on a grassy field. Photograph read: The image is taken in bright daylight with strong shadows cast by the subjects. The main subject is in focus, but the background is slightly out of focus. The grass and fence are rendered with natural detail, and the lighting creates contrast between sunlit areas and shaded regions. Photo type: Sports action
-- **sudiarti7034**:  ([link](https://www.threads.com/@sudiarti7034/post/Dfo-UkOlF_b))
-  - Photo: Description: A vibrant pink hibiscus flower with five broad petals and a central cluster of yellow stamens is in focus, surrounded by dark green leaves on a bush; the background shows out-of-focus grass and a distant structure. Photograph read: The main subject is sharply rendered, with visible petal texture and stamen detail. The background is softly blurred, indicating a shallow depth of field. Lighting is diffuse, casting even illumination without harsh shadows or highlights. Photo type: Portrait
-  - Photo: Description: A single, vividly colored flower with bright red petals and a dense, yellow center is in focus, set against a softly blurred background of green foliage and indistinct vertical elements. Photograph read: The main subject is sharply rendered, with clear petal edges and central florets. The background exhibits shallow depth of field, creating a smooth bokeh effect. Lighting is even and natural, illuminating the flower without harsh shadows or overexposure. Photo type: Macro
-- **judyparsons7**: Always eyes … so I wouldn’t win any prizes … ([link](https://www.threads.com/@judyparsons7/post/DfpWaBsCFSJ))
-  - _Replying to: Eyes or sensors? 😂😂🤣_
-- **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/DfoZozqlDGu))
-  - Photo: Description: A cluster of red roses grows against a weathered, horizontally slatted wooden fence, with a grassy foreground and a paved path visible to the right under an overcast sky. Photograph read: The image is taken from a slightly low angle, with even, diffused lighting from an overcast sky. The roses and fence are in focus, but the background foliage and distant building are less sharp. The grass shows some dry patches, and a rake handle is partially visible in the bottom-left corner. Photo type: Natural
-  - _Replying to: I think letting the roses climb the fence was the right cal…_
-- **tinnyliznz**: It's called Dublin Bay. Should be better than this ([link](https://www.threads.com/@tinnyliznz/post/DfoZknolLjg))
-  - _Replying to: I think letting the roses climb the fence was the right cal…_
-- **miqui822**: Hace un mes que me la regalaron!! ([link](https://www.threads.com/@miqui822/post/DfpCFuoEUMJ))
-  - _Replying to: That is a poinsettia turned all the way up - the red practi…_
-- **elanel50**: Thanks for appreciating it 😊 ([link](https://www.threads.com/@elanel50/post/DfogXxAIErD))
-  - _Replying to: A few years on and it still stops the scroll. Thanks for sh…_
-- **brandy_fletcher004**: You are very welcome, sweet friend. 🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfpP061m6PC))
-  - _Replying to: The rain did them a favor. Thanks for sharing it._
-- **refracted_reveries**: Thank you! I took it at exactly 1:21:35PM CET ([link](https://www.threads.com/@refracted_reveries/post/Dfou3T_CGf0))
-  - _Replying to: The light coming through those leaves is the whole shot - e…_
-- **abhimanyu1977**: Tropical fruits ([link](https://www.threads.com/@abhimanyu1977/post/DfnqHsRnwvW))
-  - Photo: Description: The photograph shows a grid of packaged fruits and fruit products displayed in white foam containers, including sliced guava, green fruits, red candied items, white fruit segments, green bell peppers, and yellow durian flesh, with handwritten price labels. Photograph read: The image is taken from a top-down perspective with even, direct lighting. The subjects are in sharp focus, with clear visibility of textures and colors. Plastic wrapping on the containers reflects light, creating specular highlights. The composition is orderly, with items arranged in rows and columns. Photo type: Commercial product display
-- **posts.by.norman**: Thanks, as well, for the appreciation. ([link](https://www.threads.com/@posts.by.norman/post/DfoXRd3H46B))
-  - _Replying to: A festival worth the walk. Thanks for sharing it._
-- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfnhgoOkomq))
-  - Photo: Description: The photograph shows the interior ceiling of a domed architectural space, featuring a complex geometric pattern of octagonal and hexagonal vaults radiating from a central circular opening, with statues visible at the base of the arches. Photograph read: The image is taken from a low angle looking upward, capturing the symmetrical ceiling pattern. Lighting is even and diffuse, illuminating the stone structure without harsh shadows. The rendering appears to be a direct capture with no visible digital artifacts or distortion. Photo type: Architectural
-- **chemacordones**: Es esa planta, aquí otra toma de la misma planta ([link](https://www.threads.com/@chemacordones/post/DfngxOYCBVl))
-  - Photo: Description: The photograph shows close-up red flowers with yellow centers, surrounded by green leaves, under bright, directional lighting. Photograph read: The image has a shallow depth of field with the foreground flower in focus, while background elements are blurred. Lighting creates strong highlights and shadows, with some areas overexposed. The rendering appears natural, with no visible digital artifacts. Photo type: Macro
-  - _Replying to: Are those crown of thorns? The red against the glossy green…_
-- **beatrizaliciasalazar**: Uups!! Qué belleza!!👍 ([link](https://www.threads.com/@beatrizaliciasalazar/post/DfnfHqgnDiT))
-  - _Replying to: (photo reply, no text)_
-- **paktty_sg888**: Lo más hermoso Chema wow♥️♥️♥️♥️🙌 ([link](https://www.threads.com/@paktty_sg888/post/DfnTJbEGYE1))
-  - _Replying to: (photo reply, no text)_
-- **chemacordones**: Muchas gracias Paktty, gracias de corazón ([link](https://www.threads.com/@chemacordones/post/DfnTkNlCK_d))
-  - _Replying to: Lo más hermoso Chema wow♥️♥️♥️♥️🙌_
-- **susanrogerskaisch**: It’s hers. She loves balls. She doesn’t just catch them; she also bops them off her nose, like she’s playing volleyball. My husband thought she might have fun with a balloon. Sometimes he’ll blow one up, then let a bit of air out before tying it off so it doesn’t pop easily, and toss it to her. This video shows her playing with the balloon a little. She’s fun. ([link](https://www.threads.com/@susanrogerskaisch/post/DfqOBroDzXe))
-  - _Replying to: Maggie has her eye on that balloon and her paws ready - the…_
-- **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/DfnJgz2GBSb))
-  - Photo: Description: A brightly striped snake coils gracefully among stacked logs and green foliage, blending into a natural, earthy setting with vibrant plant life surrounding it. Photograph read: The composition centers the snake amidst textured logs, with soft, even lighting that highlights its vivid stripes and the organic details of the environment, evoking a calm, observational mood. Photo type: Documentary
-- **marcinewiese**: My beautiful granddaughters ([link](https://www.threads.com/@marcinewiese/post/DfnJYckGM4W))
-  - Photo: Description: Two smiling women pose closely together at what appears to be a social gathering, one in a red dress and the other in brown, holding a beverage can under colorful ambient lighting. Photograph read: The image captures a candid, warmly lit moment with natural skin tones and vibrant color contrast, emphasizing the subjects’ joyful expressions and intimate proximity. Photo type: Candid snapshot
-- **java_and_his_momager_cheryl**: Coast of Maine ([link](https://www.threads.com/@java_and_his_momager_cheryl/post/DfsNfvWo9i-))
-  - _Replying to: Red in front, blue water behind, islands in the distance - …_
-- **miltimus**: Thanks for the keen eye in your feedback. The tree's in a courtyard at St. Michaels College in Colchester, Vermont. It seems to hold onto the leaves for a while but most of the Japanese maples I know have shed by a week or so ago. Will see if can stop by this weekend and check on it. Bonus shot of this tree to follow. ([link](https://www.threads.com/@miltimus/post/DfnQUl2j1Zb))
-  - _Replying to: I think filling the whole frame with red was the right call…_
-- **faythmarie84**: 2 kill a mockingbird is a great book. Lol ([link](https://www.threads.com/@faythmarie84/post/DfnPcQAmeSo))
-  - _Replying to: Showing Red..._
-- **2killamockingbird**: My favourite book... ([link](https://www.threads.com/@2killamockingbird/post/DfnPvTZgImU))
-  - _Replying to: 2 kill a mockingbird is a great book. Lol_
-- **faythmarie84**: One of my favs too. ([link](https://www.threads.com/@faythmarie84/post/DfneGT_macO))
-  - _Replying to: My favourite book..._
-- **bbingco**: Thank you for appreciating it! ❤️ ([link](https://www.threads.com/@bbingco/post/Dfnr7ZuEiuT))
-  - _Replying to: That is what a good view is for. Thanks for sharing it._
-- **edanjojon**: I think it’s out of focus. I took that photo in a rush. 😬 ([link](https://www.threads.com/@edanjojon/post/DfnFkyjkq1Z))
-  - _Replying to: I think the soft focus suits this one - the red-and-white p…_
-- **abnerabel125**:  ([link](https://www.threads.com/@abnerabel125/post/Dfm0diQGyOo))
-  - Photo: Description: A close-up of a geometric wooden wall art piece, featuring interlocking blocks in warm, amber tones, creating a textured, three-dimensional pattern against a softly lit background. Photograph read: The shallow depth of field and warm, directional lighting emphasize the wood grain and geometric structure, evoking a cozy, tactile mood. Photo type: Artistic
-  - Photo: Description: A sculptural, spiky object with organic, starburst-like protrusions sits centered on a plain surface, bathed in warm, monochromatic lighting that emphasizes its textured form and shadow. Photograph read: The shallow depth of field and warm, directional lighting isolate the subject, casting a sharp, star-like shadow that enhances its geometric complexity and creates a contemplative, almost meditative mood. Photo type: Artistic
-  - Photo: Description: A warmly lit spherical lantern with intricate geometric cutouts casts a glowing, amber-hued pattern against a dark background, centered in the frame. Photograph read: The composition centers the lantern’s radiant glow, using high contrast and symmetrical design to evoke a sense of mystery and warmth. Photo type: Artistic
-- **abnerabel125**: Long day. Sorry for the late response . Thank you ([link](https://www.threads.com/@abnerabel125/post/DfoQ4g9m6Vh))
-  - _Replying to: What a gift to step outside to. Thanks for sharing it._
-- **remalysh**: Kennywood Park - Pittsburgh Pennsylvania USA ([link](https://www.threads.com/@remalysh/post/Dfmzyy9oKRM))
-  - Photo: Description: A vibrant teal roller coaster ascends sharply against a bright blue sky, carrying groups of excited riders with varied expressions, framed by lush green trees on the left and fluffy white clouds above. Photograph read: The low-angle shot emphasizes the coaster’s steep climb, with natural daylight enhancing vivid colors and creating a dynamic, exhilarating mood. Photo type: Documentary
-- **joaquinencinasphotography**: There are more photos from the parade in my instagram ([link](https://www.threads.com/@joaquinencinasphotography/post/Dfm9Do5Ghnv))
-  - _Replying to: What a celebration to be in the middle of. Thanks for shari…_
 
