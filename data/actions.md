@@ -6,13 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (108)
+## Needs Reply (109)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
   - _Replying to: @cheeks1969 Your coneflower opens the Flower Friday favorit…_
 
 ### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/DfwcorqmQc8))
+  - Photo: Description: A cluster of small, light purple flowers with dew droplets on their petals, attached to a green stem with serrated leaves, set against a dark, out-of-focus forest floor background. Photograph read: The main subject is in focus, with shallow depth of field blurring the background. Lighting is even and diffused, likely from an overcast sky or shaded environment. The image has a natural color palette with no visible color casts or distortion. Photo type: Nature portrait
 - **jennstonick.florist**:  ([link](https://www.threads.com/@jennstonick.florist/post/DfuecvVmxix))
   - Photo: Description: A close-up view of a floral arrangement featuring a prominent orange and yellow gerbera daisy, surrounded by red roses, purple carnations, white baby’s breath, and yellow daisies, with a brick-paved surface visible in the background. Photograph read: The image is taken from a high angle, with strong sunlight creating bright highlights and shadows. The composition is dense, with the gerbera daisy as the central focus. The rendering shows some overexposure in the upper left corner, and the background is slightly out of focus. Photo type: Still life
     - Watch-outs: - Overexposure in the upper left corner, causing loss of detail in the white daisy and adjacent petals. - Background blur obscures the texture and definition of the brick pavement.
