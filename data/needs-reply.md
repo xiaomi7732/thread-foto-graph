@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (78)
+## Needs Reply (79)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -121,6 +121,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Glad it landed - thanks for the laugh._
 - **paultillinghast**:  ([link](https://www.threads.com/@paultillinghast/post/Dfp3aQKGnHN))
   - Photo: Description: A blue-skinned figure with red dreadlocks and ornate headwear stands in a field of purple vegetation, holding a pink flamingo and a small butterfly, against a vibrant magenta background with colorful, round, textured objects. Photograph read: The image features saturated colors and high contrast between subject and background. Lighting appears even across the subject, with no visible shadows or directional cues. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Digital composite
+- **ry.rah_q**: Yes it was so quiet! I stayed sitting on that pier for almost two hours as the sun went down. As the night went on and things slowed, there was just the cool breeze and the light ripples it made in the river. It was peaceful but also had some eeriness from the darkness and the power plant smoke way off in the distance beyond the trees✨ a place to just sit and meditate 💙 I’ll need to get a camera that can give me a better shot of what my eyes can see because really, this just doesn’t touch it :) ([link](https://www.threads.com/@ry.rah_q/post/Dfx7QYPmPFG))
+  - _Replying to: That thin crescent over the pier - the whole scene is barel…_
 - **historysim3d**: Great perspective from below—the Golden Gate Bridge’s two main cables each contain 27,572 individual wires, spun in place across the strait. https://historysim3d.com/e/community-golden-gate-bridge-construction ([link](https://www.threads.com/@historysim3d/post/DfqpgFgGzht))
   - _Replying to: I was on a small boat sailing under the Golden Gate Bridge.…_
 - **azvandy**: Season two of the old television show Modern Marvels has an episode about the building of the Golden Gate Bridge. I found it fascinating at the time, and your comment has prompted me to watch it again! ([link](https://www.threads.com/@azvandy/post/Dfr-z15mzZi))
