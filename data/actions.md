@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (107)
+## Needs Reply (108)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -33,6 +33,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That magenta peony is doing all the shouting - the pale pin…_
 - **jacqrho**: Yes these are all from my garden. ([link](https://www.threads.com/@jacqrho/post/DfvKVtik9ux))
   - _Replying to: Did you pick this bunch yourself? A green pitcher holding p…_
+- **kate.kook26**: I believe it's called a Narrow-leaf drumstick (Isopogon anethifolius) ([link](https://www.threads.com/@kate.kook26/post/DfviaSgk-a8))
+  - _Replying to: (photo reply, no text)_
 - **mrsmidgett18**: Almost all year, until we get our cold front that last about 2 months. Then she comes right back. ([link](https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ))
   - _Replying to: That coral against the blue pot is doing all the work - the…_
 - **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
