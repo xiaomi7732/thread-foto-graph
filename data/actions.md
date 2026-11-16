@@ -236,7 +236,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (56)
+## Needs Like (54)
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
@@ -301,8 +301,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dfpng3OEqE4))
 - beckiefitzgerald: Thank you so much 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfpsZdSD86x))
 - 2killamockingbird: My pleasure 🙏... ([link](https://www.threads.com/@2killamockingbird/post/DfpaFs5gMLX))
-
-### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
-- 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))
-- posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/DfqbyzEH_5v))
 
