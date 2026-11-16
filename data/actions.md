@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (79)
+## Needs Reply (80)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -110,6 +110,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: How many reflections deep does that tunnel go? The blue sky…_
 - **a__kinnaird**: Not as bad as it looks 👍🏼 ([link](https://www.threads.com/@a__kinnaird/post/DftrwZvjOkz))
   - _Replying to: The wake is the best part - it draws the eye straight back …_
+- **dannetteballart**: It is pure joy isn’t it! ([link](https://www.threads.com/@dannetteballart/post/DfyBk4-GltC))
+  - _Replying to: Does it fly, or does it just float around looking delighted…_
 - **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/Dfq812ilT0S))
   - Photo: Description: The image shows a close-up of dark, round berries attached to bright magenta stems, with some green foliage visible in the background. Photograph read: The composition is tightly framed on the berries and stems, with even lighting that highlights the glossy surface of the berries and the vivid color of the stems. The image has a shallow depth of field, causing some background elements to be out of focus. Photo type: Macro
 - **graveytrain023**:  ([link](https://www.threads.com/@graveytrain023/post/Dfqi57omwNC))
