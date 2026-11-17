@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (43)
+## Needs Reply (46)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
+  - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df2rPO1kVP9))
+  - Photo: Description: The photograph shows a close-up of a dried, spiky seed head of a thistle plant, with visible thorns and a central stem, set against a blurred background of green and yellow foliage and a pale sky. Photograph read: The subject is in focus with moderate contrast, but the background is softly blurred. Lighting appears diffuse, likely from an overcast sky, with no harsh shadows. The image has a shallow depth of field, emphasizing the thistle head. Photo type: Natural
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/Df2q9_Fkg1U))
+  - Photo: Description: The image shows a dense cluster of dark green, needle-like foliage with some lighter green and yellowish tips, likely from a coniferous tree or shrub, viewed from above. Photograph read: The composition is filled with overlapping branches and needles, with uneven lighting creating deep shadows and bright highlights. The rendering is flat with no visible depth of field or motion blur; textures are mostly uniform across the frame. Photo type: Nature
 - **eelizjjjm**: Baby Coneflower ([link](https://www.threads.com/@eelizjjjm/post/Df2qlA5IMtp))
   - Photo: Description: A close-up view of a green, unopened flower head, likely an echinacea, surrounded by out-of-focus green leaves and soil in the background. Photograph read: The main subject is in focus, with visible texture on the flower head, while the background is softly blurred. Lighting is even and natural, without harsh shadows or overexposure. The image has a shallow depth of field, emphasizing the flower head. Photo type: Nature macro
     - Watch-outs: The background is heavily blurred, obscuring details of surrounding foliage and soil. The flower head’s outer bracts are slightly out of focus, reducing edge sharpness.
