@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (61)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **semolacarla**:  ([link](https://www.threads.com/@semolacarla/post/Df25xzkmuKI))
+  - Photo: Description: The photograph shows a close-up of a fern frond, with its intricate, repeating leaflets radiating from a central stem. The image is in black and white, emphasizing texture and pattern. Photograph read: The composition is tightly framed on the fern’s structure, with the central stem running vertically. Lighting is even, casting subtle shadows that define the leaflet edges. Rendering is sharp, preserving fine detail in the frond’s texture. Photo type: Macro
 - **dalesmith_namaste**: Aveiro Portugal ([link](https://www.threads.com/@dalesmith_namaste/post/Df24Tvpmkj4))
   - Photo: Description: A paved street with intricate mosaic patterns runs between two rows of buildings, one with a traditional facade and the other with balconies and flags; a lone pedestrian walks on the right side. Photograph read: The image is taken from a low angle looking down the street, with even, diffused lighting under an overcast sky. The mosaic pavement is clearly visible with geometric patterns, and the buildings show architectural detail. The composition is symmetrical along the street’s centerline, with benches and planters on either side. Photo type: Urban landscape
 - **oznatureart**: Sea biscuit ([link](https://www.threads.com/@oznatureart/post/Df22ggzkzWu))
