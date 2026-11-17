@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (39)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **capitalsports25**:  ([link](https://www.threads.com/@capitalsports25/post/Df2lczYm6Sy))
+  - Photo: Description: A close-up shows a brown, dried pinecone hanging from a branch with green needles, with a faint spiderweb visible to the left. Photograph read: The pinecone is in focus with visible scale texture, while the background foliage is softly blurred. Lighting is diffuse, casting even illumination without harsh shadows or highlights. Color rendering preserves natural tones without saturation or clipping. Photo type: Macro
+    - Watch-outs: The spiderweb is thin and partially obscures the left side of the pinecone, reducing clarity of that area. Background blur obscures fine detail in distant foliage, limiting context for the subject.
+- **nannabon1**:  ([link](https://www.threads.com/@nannabon1/post/Df2lXcclBqW))
+  - Photo: Description: A close-up shows a cluster of small, white, star-shaped flowers with prominent stamens, and a bee is partially visible among them, with its body and legs in contact with the blooms. Photograph read: The image is a close-up with shallow depth of field, focusing on the central flowers; surrounding blooms and the bee are less sharp. Lighting is even and diffused, with no harsh shadows or overexposed areas. The rendering preserves fine textures of the stamens and petals. Photo type: Macro
+    - Watch-outs: The bee’s body is partially obscured by overlapping petals and stamens, reducing clarity of its form. The foreground flowers are in focus, but the background is softly blurred, limiting depth perception and context.
+- **nimaalaa1**: This is a close-up of a Bigleaf Hydrangea. The mottled pink, magenta, and lime-green petals are characteristic of colour-changing from the popular magical series. 🤗💕 ([link](https://www.threads.com/@nimaalaa1/post/Df2lCRiiInn))
+  - Photo: Description: The photograph shows a close-up of a dense cluster of hydrangea flowers, with petals exhibiting pink and green hues and a textured, slightly curled appearance. Photograph read: The composition is tightly framed on the floral cluster, with no discernible background. Lighting is even and diffused, illuminating the petals without harsh shadows. Rendering appears soft, with no visible sharpness or defined edges on individual petals. Photo type: Macro
 - **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Df2ko5-Eh_B))
   - Photo: Description: The photograph shows a large, star-shaped ceiling fan suspended from a high ceiling, viewed from directly below. The fan is surrounded by a modern architectural ceiling with light wood paneling and horizontal orange accent strips. Photograph read: The image is taken from a low-angle, looking upward, with even, diffuse lighting. The fan’s metallic blades and central hub are clearly visible, and the ceiling structure is symmetrically framed. The background includes a tall, narrow skylight with a grid pattern and translucent panels. Photo type: Architectural
 - **badegghunter**: They clean the Beach after every “storm” ([link](https://www.threads.com/@badegghunter/post/Df2jyH6gE0m))
@@ -54,6 +62,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Lewis Ginter's butterflies do not disappoint - that big eye…_
 - **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
   - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
+- **picsall**: Not very close to the ground that tumbleweed is about thigh high. We’ve had a lot of rain lately. ([link](https://www.threads.com/@picsall/post/Df2lYW8m0Xl))
+  - _Replying to: Every spine seems to point somewhere different, and somehow…_
 - **sari_soderena**: That's a photo from my garden in the summer. ([link](https://www.threads.com/@sari_soderena/post/Df2g_digBi3))
   - _Replying to: Four petals set like a compass, each one veined, and that y…_
 - **suceee_mac**: Isn’t it amazing? 🥰 It’s a Zombie Palm (Zombia antillarum), native to Haiti and the Dominican Republic. ([link](https://www.threads.com/@suceee_mac/post/Df2hd4um2Ie))

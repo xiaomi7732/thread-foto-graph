@@ -13,8 +13,50 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 209,
+      "reply_count": 213,
       "replies": [
+        {
+          "username": "capitalsports25",
+          "text": "",
+          "permalink": "https://www.threads.com/@capitalsports25/post/Df2lczYm6Sy",
+          "photos": [
+            "Description: A close-up shows a brown, dried pinecone hanging from a branch with green needles, with a faint spiderweb visible to the left. Photograph read: The pinecone is in focus with visible scale texture, while the background foliage is softly blurred. Lighting is diffuse, casting even illumination without harsh shadows or highlights. Color rendering preserves natural tones without saturation or clipping. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The spiderweb is thin and partially obscures the left side of the pinecone, reducing clarity of that area. Background blur obscures fine detail in distant foliage, limiting context for the subject."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "nannabon1",
+          "text": "",
+          "permalink": "https://www.threads.com/@nannabon1/post/Df2lXcclBqW",
+          "photos": [
+            "Description: A close-up shows a cluster of small, white, star-shaped flowers with prominent stamens, and a bee is partially visible among them, with its body and legs in contact with the blooms. Photograph read: The image is a close-up with shallow depth of field, focusing on the central flowers; surrounding blooms and the bee are less sharp. Lighting is even and diffused, with no harsh shadows or overexposed areas. The rendering preserves fine textures of the stamens and petals. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The bee\u2019s body is partially obscured by overlapping petals and stamens, reducing clarity of its form. The foreground flowers are in focus, but the background is softly blurred, limiting depth perception and context."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "nimaalaa1",
+          "text": "This is a close-up of a Bigleaf Hydrangea. The mottled pink, magenta, and lime-green petals are characteristic of colour-changing from the popular magical series. \ud83e\udd17\ud83d\udc95",
+          "permalink": "https://www.threads.com/@nimaalaa1/post/Df2lCRiiInn",
+          "photos": [
+            "Description: The photograph shows a close-up of a dense cluster of hydrangea flowers, with petals exhibiting pink and green hues and a textured, slightly curled appearance. Photograph read: The composition is tightly framed on the floral cluster, with no discernible background. Lighting is even and diffused, illuminating the petals without harsh shadows. Rendering appears soft, with no visible sharpness or defined edges on individual petals. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "khoojosie",
           "text": "",
@@ -801,7 +843,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "picsall",
+                  "text": "Not very close to the ground that tumbleweed is about thigh high. We\u2019ve had a lot of rain lately.",
+                  "permalink": "https://www.threads.com/@picsall/post/Df2lYW8m0Xl",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
