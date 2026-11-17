@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (13)
+## Needs Reply (17)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **teresabethe**:  ([link](https://www.threads.com/@teresabethe/post/Df2glD_CXba))
+  - Photo: Description: A single red bell pepper with a green stem and calyx rests on a speckled granite countertop. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The pepper’s surface reflects light uniformly, and the countertop shows a granular texture with no visible motion blur or lens distortion. Photo type: Still life
+- **gwadoudou**:  ([link](https://www.threads.com/@gwadoudou/post/Df2gi9ike_2))
+  - Photo: Description: A dew-covered spiderweb hangs in a natural setting, with green foliage and scattered brown leaves in the background. The web’s threads are glistening with water droplets, and the background is out of focus. Photograph read: The image is a close-up with shallow depth of field, showing the web in sharp focus against a blurred background. Lighting appears natural and diffused, illuminating the dew droplets evenly. The rendering preserves fine thread detail but lacks contrast in the background. Photo type: Macro
 - **jglass8**: Line starters ([link](https://www.threads.com/@jglass8/post/Df2gTM8Grsh))
   - Photo: Description: The photograph shows a close-up of pine needles and clusters of young, green pine cones emerging from a branch, with a blurred background of earthy tones. Photograph read: The image is a close-up with natural lighting, capturing fine details of the needles and cones. The composition is dense, with needles overlapping the cones. Rendering is clear for the subject, though the background is out of focus. Photo type: Macro
 - **d1xshooter**: Gains of a Leaf ([link](https://www.threads.com/@d1xshooter/post/Df2fSgMlXhn))
@@ -16,6 +20,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image shows a close-up of tree bark with deep vertical grooves and rough, textured surfaces, illuminated by directional light. Photograph read: The composition is vertical, emphasizing the bark’s linear patterns. Lighting creates strong contrast between sunlit ridges and shadowed crevices. Rendering is detailed but lacks smoothness; textures are visible but not sharply defined in all areas. Photo type: Macro
 - **linda73linda**: Found it like that 🤗 ([link](https://www.threads.com/@linda73linda/post/Df2gX_iDVzK))
   - _Replying to: Did you flip it over yourself, or find it already showing o…_
+- **anto_acz**: It’s an old stone wall in a small country village in Lombardy, Northern Italy. ([link](https://www.threads.com/@anto_acz/post/Df2g2cmERrl))
+  - _Replying to: No two stones the same, and somehow they all fit - the spec…_
+- **smilingjeannie**: This one was remarkably still as it was feeding. ([link](https://www.threads.com/@smilingjeannie/post/Df2gvOHHZam))
+  - _Replying to: Lewis Ginter's butterflies do not disappoint - that big eye…_
 - **marinacasalribeiro**: People call it torch lily and when it's open, it looks like this. ([link](https://www.threads.com/@marinacasalribeiro/post/Df2gVO8iLfU))
   - Photo: Description: The photograph shows several tall, cylindrical flower spikes with fiery red and yellow gradients, standing in a garden setting against a backdrop of green foliage, a tree trunk, and a tiled roof under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with natural outdoor lighting. The flowers are in sharp focus relative to the background, which includes trees and a building. The composition places the flowers in the foreground, with the background slightly out of focus, creating a shallow depth of field. The rendering is clear and vivid, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
   - _Replying to: How many buds are packed onto that one spike? Row after row…_

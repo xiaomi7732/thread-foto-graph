@@ -13,8 +13,32 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 184,
+      "reply_count": 188,
       "replies": [
+        {
+          "username": "teresabethe",
+          "text": "",
+          "permalink": "https://www.threads.com/@teresabethe/post/Df2glD_CXba",
+          "photos": [
+            "Description: A single red bell pepper with a green stem and calyx rests on a speckled granite countertop. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The pepper\u2019s surface reflects light uniformly, and the countertop shows a granular texture with no visible motion blur or lens distortion. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "gwadoudou",
+          "text": "",
+          "permalink": "https://www.threads.com/@gwadoudou/post/Df2gi9ike_2",
+          "photos": [
+            "Description: A dew-covered spiderweb hangs in a natural setting, with green foliage and scattered brown leaves in the background. The web\u2019s threads are glistening with water droplets, and the background is out of focus. Photograph read: The image is a close-up with shallow depth of field, showing the web in sharp focus against a blurred background. Lighting appears natural and diffused, illuminating the dew droplets evenly. The rendering preserves fine thread detail but lacks contrast in the background. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jglass8",
           "text": "Line starters",
@@ -133,7 +157,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "anto_acz",
+                  "text": "It\u2019s an old stone wall in a small country village in Lombardy, Northern Italy.",
+                  "permalink": "https://www.threads.com/@anto_acz/post/Df2g2cmERrl",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -496,7 +531,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "smilingjeannie",
+                  "text": "This one was remarkably still as it was feeding.",
+                  "permalink": "https://www.threads.com/@smilingjeannie/post/Df2gvOHHZam",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
