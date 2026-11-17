@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (24)
+## Needs Reply (21)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -76,18 +76,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is softly out of focus. Lighting is even and natural, illuminating the petals and center without harsh shadows or overexposure. Photo type: Portrait
   - _Replying to: (photo reply, no text)_
 
-### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
-- **smilingjeannie**: Wow! I am both humbled and delighted. Thank you so much. ([link](https://www.threads.com/@smilingjeannie/post/DfroUTzEfmK))
-- **iainriggs**: Cheers, honoured to be included with such great photos. ([link](https://www.threads.com/@iainriggs/post/DfrZaVMGCzR))
-- **iainriggs**: Lovely to hear, many thanks. ([link](https://www.threads.com/@iainriggs/post/DfrK2P-GJff))
-  - _Replying to: @iainriggs Your Greek chapel is slide four of the Blue Thur…_
-
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (22)
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
@@ -116,8 +110,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - citizenb: Welcome! 🤗 ([link](https://www.threads.com/@citizenb/post/DfsHQf3IOUm))
 - 2killamockingbird: 🥰 ([link](https://www.threads.com/@2killamockingbird/post/DfsIIIKgMH_))
 - 2killamockingbird: My pleasure 🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Dfr_9HIgEBY))
-
-### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
-- steve.cozort: Yes! ([link](https://www.threads.com/@steve.cozort/post/DfshaBNHQon))
-- sgoodwandering: Awww thanks ([link](https://www.threads.com/@sgoodwandering/post/DfrHuoWDVzR))
 
