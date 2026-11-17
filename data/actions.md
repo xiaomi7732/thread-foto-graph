@@ -6,11 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (22)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
-- **mudpuddlej**:  ([link](https://www.threads.com/@mudpuddlej/post/Df2Q8r2FdC1))
-  - Photo: Description: The image shows close-up foliage of a spiky, green plant with long, narrow leaves edged in white, growing among dry grass and small rocks. A blue cylindrical structure is partially visible in the background. Photograph read: The composition is a tight close-up with diagonal lines formed by the plant leaves. Lighting is even and natural, with no obvious shadows or overexposure. Rendering is sharp on the leaves’ surfaces, though some fine details are not resolvable due to scale. Photo type: Macro
+- **pattijphoto**:  ([link](https://www.threads.com/@pattijphoto/post/Df2RWn-keEm))
+  - Photo: Description: The photograph shows a close-up of dried grass seed heads against a uniform gray background. The seed heads are arranged in a diagonal pattern, with visible individual florets and stems. Photograph read: The composition is diagonal, with the subject occupying the upper left and center. Lighting is even and diffused, casting soft shadows and highlighting the texture of the seed heads. The rendering is sharp on the main subject, with no visible motion blur or chromatic aberration. Photo type: Macro
+- **moskutin**:  ([link](https://www.threads.com/@moskutin/post/Df2RI4NjbMi))
+  - Photo: Description: A frozen twig with a snow-covered tip extends diagonally across the frame, with a large, icicle-like droplet hanging from its end against a uniformly light background. Photograph read: The subject is in focus with visible crystalline texture on the ice and twig. Lighting is diffuse, creating soft highlights on the ice surface. The background is a flat, non-detailed gradient with no discernible features. Photo type: Macro
+- **mudpuddlej**:  ([link](https://www.threads.com/@mudpuddlej/post/Df2RFJyFbEQ))
+  - Photo: Description: The photograph shows a close-up of multiple bird feathers, displaying intricate patterns of dark spots and iridescent eye-like markings on a brownish background, with visible feather shafts. Photograph read: The feathers are arranged in overlapping rows, with strong diagonal lines formed by the shafts. Lighting is even and direct, highlighting the texture and pattern details. The image is in sharp focus, with no visible motion blur or depth-of-field issues. Photo type: Macro
 - **mcoger55**:  ([link](https://www.threads.com/@mcoger55/post/Df2Q8DUFEpZ))
   - Photo: Description: The image shows a dense field of wheat or similar grain crop, with stalks and heads filling the entire frame under bright, direct lighting. Photograph read: The composition is uniform, with vertical stalks filling the frame. Lighting is strong and directional, casting highlights on the grain heads and shadows in the gaps. The rendering is consistent with a close-up shot, with no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural
 - **silmarillioncollector**: I like the repeated patterns in this bookcase. ([link](https://www.threads.com/@silmarillioncollector/post/Df2Q0BrDBlB))
@@ -33,11 +37,21 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Is there a better ceiling to stare at while waiting for som…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
+- **gteam0**: Appreciate it, it was in a parking lot, luckily no one around when I walked by ([link](https://www.threads.com/@gteam0/post/Df2RC9XG6CW))
+  - _Replying to: I think the straight-down-the-middle framing is a good call…_
+- **schemenme**: I found the feather lying on the ground in my yard. For the life of me I could never figure out what bird dropped it. It remains a mystery ([link](https://www.threads.com/@schemenme/post/Df2Q8u7m67I))
+  - _Replying to: (photo reply, no text)_
+- **violet1122**: It’s a blooming century plant (Agave Americana) & yes they are related to asparagus. ([link](https://www.threads.com/@violet1122/post/Df2RM5vG945))
+  - _Replying to: The canopy fans out like a firework frozen mid-burst. What …_
+- **syldelteglia**: It was very quiet. I'd say humbling. The pic does not show the scale of the cloister. ([link](https://www.threads.com/@syldelteglia/post/Df2RABwACnS))
+  - _Replying to: Those wooden ribs just keep curving on, arch after arch - I…_
 - **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/Df2QhKIoMH5))
   - Photo: Description: A close-up view of a crocheted textile featuring a pattern of interlocking hexagons in shades of red, pink, gray, and cream, displayed against a dark background. Photograph read: The image is a macro shot with even, direct lighting that highlights the texture and stitch patterns. The composition is tightly framed on the fabric, with no visible depth of field blur or motion blur. The rendering preserves fine details of the crochet stitches and color transitions. Photo type: Macro
   - _Replying to: Sunnyland is right - every one of those barrel cacti is its…_
 - **images_by_ramona**: This is Ivy ([link](https://www.threads.com/@images_by_ramona/post/Df2QPcvG2po))
   - _Replying to: Those pale starburst buds keep popping out of the dark leav…_
+- **fragilita_12**: I found it on a walk ([link](https://www.threads.com/@fragilita_12/post/Df2RRU-ADVX))
+  - _Replying to: That moss looks soft enough to nap on and spiky enough to t…_
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
