@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (32)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
+  - Photo: Description: A bumblebee covered in pollen is perched on a spherical cluster of small white flowers with prominent yellow anthers. The background consists of out-of-focus green foliage. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the bee and flower. Lighting is even and natural, illuminating the subject clearly. The flower’s fine filaments and the bee’s fuzzy body are visible, though some detail is lost in the background blur. Photo type: Macro
 - **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E))
   - Photo: Description: A single white daisy with a yellow center is in focus, set against a dark, out-of-focus background with faint hints of green foliage. Photograph read: The main subject is centered, with soft focus on the petals and center; background is uniformly blurred. Lighting is even, without harsh shadows or highlights. The image has a shallow depth of field, with no visible signs of motion blur or sensor noise. Photo type: Portrait
 - **amaginings**:  ([link](https://www.threads.com/@amaginings/post/Df29c_JAqST))
@@ -19,6 +21,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the black and white was the right call - every leaf…_
 - **mtqiwoman**: Just lucky with the sun angle. ([link](https://www.threads.com/@mtqiwoman/post/Df28CkjHeVk))
   - _Replying to: How did you get those dry stems to glow like that? The fine…_
+- **sgoodwandering**: There were several mounds of the hills with the red rock I have other photos of the area, but this is the one I chose. ([link](https://www.threads.com/@sgoodwandering/post/Df2-Z6rG__W))
+  - _Replying to: It fits - the whole slope is tiled in red blocks. Did the c…_
 - **0lindar**: Let’s go look… nope! ([link](https://www.threads.com/@0lindar/post/Df28qQOFtVO))
   - Photo: Description: The photograph shows a close-up of a damaged brick and mortar corner, with a decorative, ribbed, reddish-brown tile or block partially embedded in the masonry and visibly broken or displaced. A white, ribbed downspout is visible to the right. Photograph read: The image is a close-up shot with even, diffuse lighting, likely natural daylight. The focus is sharp on the damaged corner, revealing texture, cracks, and the irregular edges of the broken tile. The composition is tight, emphasizing the structural defect. Photo type: Documentary
     - Watch-outs: - The broken decorative tile is partially embedded in crumbling mortar, with visible gaps and exposed internal ribs, limiting clarity of its original installation. - The mortar joints show significant cracking and spalling, reducing readability of the masonry’s structural integrity.
@@ -31,10 +35,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That flower stalk climbs straight through the frame with bu…_
 - **dayderyn**: Think a combination of both. The tide was right out and it was blowing a gale that day ([link](https://www.threads.com/@dayderyn/post/Df286sqjRA-))
   - _Replying to: Wind or water - which one combed the sand into those lines?_
+- **kathleen_payne**: It's not one I've walked. I took this from our jeep with the top off a couple summers ago, husband driving. It's the Wapito bridge to Sauvies Island in Portland. ([link](https://www.threads.com/@kathleen_payne/post/Df2-MZnDy67))
+  - _Replying to: Rust red diamonds on blue - the lattice does all the talkin…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
+- **raijapoignand**: Bunya nut pine , Australian native , new tip in spring ([link](https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK))
+  - _Replying to: The branch tips repeat like green fireworks - dark and brig…_
 - **debi0528**: This was at the NY Botanical Garden this summer. ([link](https://www.threads.com/@debi0528/post/Df29Nfin6Sb))
   - _Replying to: The glass roof grids the sky while the banners shout in flo…_
+- **nannabon1**: Yes he did ([link](https://www.threads.com/@nannabon1/post/Df2-q7xlHLN))
+  - _Replying to: (photo reply, no text)_
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df298IWDlMN))
   - Photo: Description: A large metallic sculpture of a fish, constructed from circular metal segments, is positioned on a paved surface with a cloudy sky and distant bridge in the background. Photograph read: The image is taken from a low angle, showing the fish sculpture in profile against a sky with scattered clouds. Lighting is diffuse, casting soft shadows and reflecting off the metallic surfaces. The sculpture’s texture and form are visible, though not sharply defined. Photo type: Architectural
   - Photo: Description: A large metallic sculpture of a whale, constructed from numerous circular metal tubes, is positioned on a paved area beside a body of water under a partly cloudy sky. Photograph read: The image is taken from a low angle, capturing the whale sculpture prominently against a sky and water background. Lighting is diffuse, with no harsh shadows or highlights. The rendering is clear, with visible texture and form of the sculpture and surrounding environment. Photo type: Documentary
@@ -47,6 +57,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
 - **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
   - _Replying to: (photo reply, no text)_
+- **bumpy120**: Judging by where it is I would say at least 100 years old. ([link](https://www.threads.com/@bumpy120/post/Df2-s8PH1VH))
+  - _Replying to: Deep grooves and hard light - the bark reads like a carved …_
 - **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
   - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
@@ -80,9 +92,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (10)
+## Needs Like (11)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
 - tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/Df2ka0ikhyK))
 - mari.d.zk: Thank you very much! ([link](https://www.threads.com/@mari.d.zk/post/Df2i7Ajive6))
 - andy2528788: Thanks 🙏 ([link](https://www.threads.com/@andy2528788/post/Df2acksoLU9))
