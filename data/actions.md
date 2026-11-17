@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (23)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/Df2iCbrEg8K))
+  - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
+- **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
+  - _Replying to: (photo reply, no text)_
+- **jeannepickering**:  ([link](https://www.threads.com/@jeannepickering/post/Df2hpHQm5W8))
+  - Photo: Description: A nighttime view of a tunnel or archway covered with strings of colorful LED lights, predominantly in yellow, purple, and blue, illuminating a gravel path that recedes into the distance. Photograph read: The image is composed with a central perspective down a tunnel, with lights arranged in a grid pattern along the ceiling and sides. Lighting is artificial and uniform, casting a glow on the path. The image appears to be captured with a standard camera sensor, showing no visible signs of lens distortion or chromatic aberration. Photo type: Aesthetic
 - **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/Df2hWFAkcQp))
   - Photo: Description: The photograph shows a close-up of tree bark with patches of pale, leafy lichen growing on its textured surface, which has deep grooves and rough ridges. Photograph read: The image is composed with the bark occupying the entire frame, lit by direct, somewhat harsh light that creates bright highlights and deep shadows. The rendering preserves surface texture and color variation, with no visible signs of motion blur or focus issues. Photo type: Macro
 - **teresabethe**:  ([link](https://www.threads.com/@teresabethe/post/Df2glD_CXba))
@@ -22,10 +28,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The fly’s wings and body show slight motion blur or soft focus, reducing fine detail. - The leaf’s surface texture appears slightly grainy or noisy, particularly in darker vein areas.
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df2fC2mlWtm))
   - Photo: Description: The image shows a close-up of tree bark with deep vertical grooves and rough, textured surfaces, illuminated by directional light. Photograph read: The composition is vertical, emphasizing the bark’s linear patterns. Lighting creates strong contrast between sunlit ridges and shadowed crevices. Rendering is detailed but lacks smoothness; textures are visible but not sharply defined in all areas. Photo type: Macro
-- **linda73linda**: Found it like that 🤗 ([link](https://www.threads.com/@linda73linda/post/Df2gX_iDVzK))
-  - _Replying to: Did you flip it over yourself, or find it already showing o…_
 - **anto_acz**: It’s an old stone wall in a small country village in Lombardy, Northern Italy. ([link](https://www.threads.com/@anto_acz/post/Df2g2cmERrl))
   - _Replying to: No two stones the same, and somehow they all fit - the spec…_
+- **jh1962bike**: Hard to say , I was keeping an eye out for mushrooms but not in this shape. Could have been a golf ball . ([link](https://www.threads.com/@jh1962bike/post/Df2h8CICFxK))
+  - _Replying to: Every one of those little spikes tipped in brown, hundreds …_
 - **smilingjeannie**: This one was remarkably still as it was feeding. ([link](https://www.threads.com/@smilingjeannie/post/Df2gvOHHZam))
   - _Replying to: Lewis Ginter's butterflies do not disappoint - that big eye…_
 - **sari_soderena**: That's a photo from my garden in the summer. ([link](https://www.threads.com/@sari_soderena/post/Df2g_digBi3))
