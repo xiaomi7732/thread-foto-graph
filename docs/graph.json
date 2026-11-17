@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 94,
+      "reply_count": 98,
       "replies": [
+        {
+          "username": "tallerthanyou2026",
+          "text": "",
+          "permalink": "https://www.threads.com/@tallerthanyou2026/post/Df2Vk2Wm38d",
+          "photos": [
+            "Description: The image shows a modern, light-colored pergola structure with intersecting slats overhead, set against a clear blue sky. Beneath it, a pathway runs alongside desert flora including cacti and succulents, with a colorful, floral mural on a wall to the right. Photograph read: The composition is shot from a low angle looking upward, emphasizing the geometric pattern of the pergola. Bright sunlight casts sharp shadows from the slats onto the ground and walls. The image is in focus, with no visible motion blur or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mari.d.zk",
           "text": "",
@@ -303,6 +315,16 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "andy2528788",
+              "text": "Beautiful \ud83e\udd29,stay warm Wendy",
+              "permalink": "https://www.threads.com/@andy2528788/post/Df2VvsrIIdr",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "Are those frost stars really that blue, or is the cold light doing half the work?",
@@ -975,7 +997,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "lluvia3487",
+                  "text": "Hi, before taking the photo, I observed how the pattern formed when the waves returned to the sea. Marina Beach, California, is my favorite.",
+                  "permalink": "https://www.threads.com/@lluvia3487/post/Df2Vmu1G1f_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1018,7 +1051,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "beckiefitzgerald",
+                          "text": "Yes, I did.",
+                          "permalink": "https://www.threads.com/@beckiefitzgerald/post/Df2Vw2uIOov",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

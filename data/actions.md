@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (34)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/Df2Vk2Wm38d))
+  - Photo: Description: The image shows a modern, light-colored pergola structure with intersecting slats overhead, set against a clear blue sky. Beneath it, a pathway runs alongside desert flora including cacti and succulents, with a colorful, floral mural on a wall to the right. Photograph read: The composition is shot from a low angle looking upward, emphasizing the geometric pattern of the pergola. Bright sunlight casts sharp shadows from the slats onto the ground and walls. The image is in focus, with no visible motion blur or chromatic aberration. Photo type: Architectural
 - **mari.d.zk**:  ([link](https://www.threads.com/@mari.d.zk/post/Df2VCNjipgy))
   - Photo: Description: A single yellow ginkgo leaf with water droplets rests on a textured ground of reddish-brown gravel and dark pebbles; a second leaf is partially visible in the upper right corner. Photograph read: The image is a close-up shot with even, diffused lighting; the leaf is in focus, showing clear veins and droplets, while the background exhibits natural texture without motion blur or overexposure. Photo type: Still life
 - **sari_soderena**: Square Bloom of Clematis. ([link](https://www.threads.com/@sari_soderena/post/Df2Tdu-gPXg))
@@ -44,6 +46,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **silmarillioncollector**: Probably the bottom shelf, as it contains several of my favourite Pratchetts. ([link](https://www.threads.com/@silmarillioncollector/post/Df2So6OjKnF))
   - _Replying to: The top shelf fading from cream to yellow through the Wisde…_
+- **andy2528788**: Beautiful 🤩,stay warm Wendy ([link](https://www.threads.com/@andy2528788/post/Df2VvsrIIdr))
+  - _Replying to: (photo reply, no text)_
 - **wendyloveswalking**: Very blue, but I used a bit of a filter on this. ([link](https://www.threads.com/@wendyloveswalking/post/Df2S68PG4Jf))
   - _Replying to: Are those frost stars really that blue, or is the cold ligh…_
 - **keltainentalorannalla**: I spent a few summers in a village located on a small island in eastern Finland, and the photo is from there.🙂 ([link](https://www.threads.com/@keltainentalorannalla/post/Df2U1PViEm9))
@@ -77,6 +81,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The canopy fans out like a firework frozen mid-burst. What …_
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
+- **lluvia3487**: Hi, before taking the photo, I observed how the pattern formed when the waves returned to the sea. Marina Beach, California, is my favorite. ([link](https://www.threads.com/@lluvia3487/post/Df2Vmu1G1f_))
+  - _Replying to: The foam sits in a neat white band across the top and the w…_
+- **beckiefitzgerald**: Yes, I did. ([link](https://www.threads.com/@beckiefitzgerald/post/Df2Vw2uIOov))
+  - _Replying to: Pink, grey and cream zigzagging all the way down - the chev…_
 - **fragilita_12**: I found it on a walk ([link](https://www.threads.com/@fragilita_12/post/Df2RRU-ADVX))
   - _Replying to: That moss looks soft enough to nap on and spiky enough to t…_
 
