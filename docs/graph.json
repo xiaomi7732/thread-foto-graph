@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 134,
+      "reply_count": 144,
       "replies": [
+        {
+          "username": "__davidjay__",
+          "text": "",
+          "permalink": "https://www.threads.com/@__davidjay__/post/Df2aPYwGnbZ",
+          "photos": [
+            "Description: A close-up view of several water droplets resting on the edge of a green leaf, with a softly blurred background of similar foliage. Photograph read: The image features a shallow depth of field, with the droplets and leaf edge in focus while the background is out of focus. Lighting appears bright and diffused, creating specular highlights on the droplets. The rendering is smooth with no visible noise or chromatic aberration. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "erikartistry",
           "text": "A dew drop covered with glitter on my Peacock feather earrings.",
@@ -487,7 +499,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pattijphoto",
+                  "text": "It is sea oats. I love these grasses. They are pretty",
+                  "permalink": "https://www.threads.com/@pattijphoto/post/Df2ag8soSMD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -699,7 +722,18 @@
                   "needs_response": false,
                   "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "andy2528788",
+                      "text": "Thanks \ud83d\ude4f",
+                      "permalink": "https://www.threads.com/@andy2528788/post/Df2acksoLU9",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "like",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -1068,10 +1102,21 @@
                   "text": "The flowers of Stellaria graminea are approximately 0.28\u20130.48 inches in size. Very tiny.",
                   "permalink": "https://www.threads.com/@yvetime/post/Df2U9VijdBm",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Tiny indeed - less than half an inch and still a whole star. Thanks for the scale.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2aHO6kU8u",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1146,10 +1191,32 @@
                           "text": "Sometimes one gets lucky in life",
                           "permalink": "https://www.threads.com/@gteam0/post/Df2Ss4em2zb",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Luck favors the ones who show up with a camera. Lovely shot.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/Df2aMa5iY0_",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": [
+                                {
+                                  "username": "gteam0",
+                                  "text": "Thx again",
+                                  "permalink": "https://www.threads.com/@gteam0/post/Df2afVFmrCE",
+                                  "photos": [],
+                                  "needs_response": true,
+                                  "action": "like",
+                                  "hidden": false,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1228,10 +1295,21 @@
                   "text": "Yes, it just settled there, was a lovely calm day and stayed on the cosmos leaves for a while",
                   "permalink": "https://www.threads.com/@bendlesmaid269/post/Df2TsClCk7H",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A calm day, a soft landing, and a feather that stayed put. Lovely.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2aNyAHOGe",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1335,10 +1413,21 @@
                   "text": "It\u2019s a blooming century plant (Agave Americana) & yes they are related to asparagus.",
                   "permalink": "https://www.threads.com/@violet1122/post/Df2RM5vG945",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A blooming century plant, and related to asparagus - what a family tree. Thanks for the botany lesson.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2aPPgnN1-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1479,10 +1568,21 @@
                           "text": "Yes, I did.",
                           "permalink": "https://www.threads.com/@beckiefitzgerald/post/Df2Vw2uIOov",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "You made it, and it shows - every zigzag in its place. Lovely work.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/Df2aVI1mv4t",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1565,10 +1665,21 @@
                   "text": "I found it on a walk",
                   "permalink": "https://www.threads.com/@fragilita_12/post/Df2RRU-ADVX",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A walk well rewarded. That moss is a beauty.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2aWs1mFHU",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (18)
+## Needs Reply (14)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **__davidjay__**:  ([link](https://www.threads.com/@__davidjay__/post/Df2aPYwGnbZ))
+  - Photo: Description: A close-up view of several water droplets resting on the edge of a green leaf, with a softly blurred background of similar foliage. Photograph read: The image features a shallow depth of field, with the droplets and leaf edge in focus while the background is out of focus. Lighting appears bright and diffused, creating specular highlights on the droplets. The rendering is smooth with no visible noise or chromatic aberration. Photo type: Macro
 - **erikartistry**: A dew drop covered with glitter on my Peacock feather earrings. ([link](https://www.threads.com/@erikartistry/post/Df2Zn1iGz2C))
   - Photo: Description: A close-up shows a water droplet resting on a peacock feather, with the droplet’s surface reflecting a mosaic of hexagonal facets. The feather displays iridescent hues of blue, green, and purple, with visible barbs and a central eye-like pattern. Photograph read: The image is a macro shot with shallow depth of field, emphasizing the droplet and immediate feather surface. Lighting is bright and even, highlighting specular reflections on the droplet and feather texture. The rendering is smooth with saturated colors, but lacks fine-grained detail in the feather’s barbs beyond the immediate focal area. Photo type: Macro
     - Watch-outs: The central eye-like pattern of the feather is partially obscured by the droplet and its reflections, limiting visibility of the feather’s natural structure. The background feather barbs beyond the immediate focal plane are blurred and indistinct, reducing context and detail.
@@ -16,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up view of stacked firewood logs, showing cross-sections with visible growth rings, bark remnants, and wood grain patterns. Photograph read: The image is a tightly framed, high-resolution shot with even lighting that highlights the textures and patterns on the wood surfaces. The composition is dense, with logs arranged in overlapping rows, and no discernible camera movement or lens distortion. Photo type: Macro
 - **mari.d.zk**: I didn't stay long enough to see them leave the leaf 😄 ([link](https://www.threads.com/@mari.d.zk/post/Df2Z2-tCiNz))
   - _Replying to: A single ginkgo leaf, beaded with water, on a whole field o…_
+- **pattijphoto**: It is sea oats. I love these grasses. They are pretty ([link](https://www.threads.com/@pattijphoto/post/Df2ag8soSMD))
+  - _Replying to: Those seed heads fan out like a row of tiny feathers, all l…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
@@ -35,22 +39,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Loved our time in Sydney some amazing buildings and nice mi…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
-- **yvetime**: The flowers of Stellaria graminea are approximately 0.28–0.48 inches in size. Very tiny. ([link](https://www.threads.com/@yvetime/post/Df2U9VijdBm))
-  - _Replying to: Those little white stars are everywhere once you spot one -…_
-- **gteam0**: Sometimes one gets lucky in life ([link](https://www.threads.com/@gteam0/post/Df2Ss4em2zb))
-  - _Replying to: Lucky timing on an empty corridor - and a great eye for spo…_
-- **bendlesmaid269**: Yes, it just settled there, was a lovely calm day and stayed on the cosmos leaves for a while ([link](https://www.threads.com/@bendlesmaid269/post/Df2TsClCk7H))
-  - _Replying to: A white feather landing in a nest of green needles - the so…_
-- **violet1122**: It’s a blooming century plant (Agave Americana) & yes they are related to asparagus. ([link](https://www.threads.com/@violet1122/post/Df2RM5vG945))
-  - _Replying to: The canopy fans out like a firework frozen mid-burst. What …_
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 - **lluvia3487**: Hi, before taking the photo, I observed how the pattern formed when the waves returned to the sea. Marina Beach, California, is my favorite. ([link](https://www.threads.com/@lluvia3487/post/Df2Vmu1G1f_))
   - _Replying to: The foam sits in a neat white band across the top and the w…_
-- **beckiefitzgerald**: Yes, I did. ([link](https://www.threads.com/@beckiefitzgerald/post/Df2Vw2uIOov))
-  - _Replying to: Pink, grey and cream zigzagging all the way down - the chev…_
-- **fragilita_12**: I found it on a walk ([link](https://www.threads.com/@fragilita_12/post/Df2RRU-ADVX))
-  - _Replying to: That moss looks soft enough to nap on and spiky enough to t…_
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
@@ -61,7 +53,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (4)
+## Needs Like (6)
+
+### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- andy2528788: Thanks 🙏 ([link](https://www.threads.com/@andy2528788/post/Df2acksoLU9))
+- gteam0: Thx again ([link](https://www.threads.com/@gteam0/post/Df2afVFmrCE))
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
