@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (54)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **shawn.alma**:  ([link](https://www.threads.com/@shawn.alma/post/Df2xzv0GlW3))
+  - Photo: Description: A single dried, brown leaf with visible venation rests on a weathered wooden surface with prominent grain and cracks. Photograph read: The image is a close-up shot with even, diffuse lighting. The leaf and wood surface are in focus, showing clear texture and detail. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Documentary
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))
   - Photo: Description: The photograph shows a close-up of rough, irregularly shaped rocks arranged in a pile or pathway, with some gaps and shadows between them. Photograph read: The foreground rocks are in sharper focus than the background, which is softly blurred. Lighting appears natural and directional, casting shadows and highlights across the rock surfaces. The image has a shallow depth of field, with visible texture on the focused rocks. Photo type: Macro
 - **washugolf**: Cylindrical snake plant blooming ([link](https://www.threads.com/@washugolf/post/Df2wH1eiVko))
