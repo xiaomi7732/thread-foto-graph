@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (16)
+## Needs Reply (18)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df2bc6aiCvh))
@@ -16,6 +16,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The central eye-like pattern of the feather is partially obscured by the droplet and its reflections, limiting visibility of the feather’s natural structure. The background feather barbs beyond the immediate focal plane are blurred and indistinct, reducing context and detail.
 - **cape_cod_laurie**:  ([link](https://www.threads.com/@cape_cod_laurie/post/Df2YlReFtdJ))
   - Photo: Description: A close-up view of stacked firewood logs, showing cross-sections with visible growth rings, bark remnants, and wood grain patterns. Photograph read: The image is a tightly framed, high-resolution shot with even lighting that highlights the textures and patterns on the wood surfaces. The composition is dense, with logs arranged in overlapping rows, and no discernible camera movement or lens distortion. Photo type: Macro
+- **momentofsubjectiveaesthetics**: Just a moment caught during a nightly walk in Berlin. Can’t really explain why, but some things just catches my attention, instantly triggers my senses and/or just makes me want to explore them further. ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2cwNUiHLW))
+  - _Replying to: The butterfly display is a whole garden drawn in light. Wha…_
+- **tallerthanyou2026**: Happy - it is part of Spring Bloom at the Gardens ([link](https://www.threads.com/@tallerthanyou2026/post/Df2cplzGlBt))
+  - _Replying to: That pergola turns the sky into a fan. The slats, the shado…_
 - **mari.d.zk**: I didn't stay long enough to see them leave the leaf 😄 ([link](https://www.threads.com/@mari.d.zk/post/Df2Z2-tCiNz))
   - _Replying to: A single ginkgo leaf, beaded with water, on a whole field o…_
 - **medium.gords7**: It’s in a museum in Hot Springs, Arkansas, that I toured on a vacation. ([link](https://www.threads.com/@medium.gords7/post/Df2bubsmz7b))
