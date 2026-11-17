@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 305,
+      "reply_count": 306,
       "replies": [
         {
           "username": "bigcajunwba",
@@ -581,7 +581,7 @@
               "replies": [
                 {
                   "username": "raijapoignand",
-                  "text": "Bunya nut pine , Australian native , new tip in spring",
+                  "text": "Bunya nut pine , Australian native , new tips in spring",
                   "permalink": "https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK",
                   "photos": [],
                   "needs_response": true,
@@ -752,6 +752,21 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "nannabon1",
+              "text": "",
+              "permalink": "https://www.threads.com/@nannabon1/post/Df2-zGMlKQ2",
+              "photos": [
+                "Description: A honeybee is perched on a cluster of small, white, star-shaped flowers with prominent stamens and green stems, set against a softly blurred green background. Photograph read: The image is a close-up with shallow depth of field, showing the bee in partial focus while surrounding flowers are slightly out of focus. Lighting is even and natural, illuminating the scene without harsh shadows or overexposure. Photo type: Macro"
+              ],
+              "watch_outs": [
+                "The bee\u2019s body is partially obscured by motion blur and shallow focus, reducing visibility of fine hairs and wing structure. The foreground flowers exhibit soft focus, making individual stamens and petals indistinct."
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "nannabon1",
               "text": "Yes he did",

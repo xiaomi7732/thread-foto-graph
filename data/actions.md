@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (33)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
@@ -39,10 +39,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rust red diamonds on blue - the lattice does all the talkin…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
-- **raijapoignand**: Bunya nut pine , Australian native , new tip in spring ([link](https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK))
+- **raijapoignand**: Bunya nut pine , Australian native , new tips in spring ([link](https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK))
   - _Replying to: The branch tips repeat like green fireworks - dark and brig…_
 - **debi0528**: This was at the NY Botanical Garden this summer. ([link](https://www.threads.com/@debi0528/post/Df29Nfin6Sb))
   - _Replying to: The glass roof grids the sky while the banners shout in flo…_
+- **nannabon1**:  ([link](https://www.threads.com/@nannabon1/post/Df2-zGMlKQ2))
+  - Photo: Description: A honeybee is perched on a cluster of small, white, star-shaped flowers with prominent stamens and green stems, set against a softly blurred green background. Photograph read: The image is a close-up with shallow depth of field, showing the bee in partial focus while surrounding flowers are slightly out of focus. Lighting is even and natural, illuminating the scene without harsh shadows or overexposure. Photo type: Macro
+    - Watch-outs: The bee’s body is partially obscured by motion blur and shallow focus, reducing visibility of fine hairs and wing structure. The foreground flowers exhibit soft focus, making individual stamens and petals indistinct.
+  - _Replying to: (photo reply, no text)_
 - **nannabon1**: Yes he did ([link](https://www.threads.com/@nannabon1/post/Df2-q7xlHLN))
   - _Replying to: (photo reply, no text)_
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df298IWDlMN))
