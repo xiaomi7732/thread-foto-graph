@@ -524,16 +524,25 @@ logout/reboot have not yet been observed; Ollama must also remain available.
 loop. It runs one collection/vision pass per cycle and publishes only changed
 generated outputs:
 
-- Start at a **5-minute start-to-start interval**. Two unchanged successful
-  checks increase it to 15 minutes; two more increase it to 30.
+- **Tuesday-Friday, 6:30 a.m.-noon Pacific (`America/Los_Angeles`)** is a
+  protected reply window: stay at a **5-minute start-to-start interval** even
+  when unchanged. The timezone follows daylight saving, independent of the
+  machine's timezone.
+- Outside that window, start at five minutes. Two unchanged successful
+  checks increase it to 15 minutes; two more increase it to 30. Protected
+  checks reset the quiet counter, so adaptation resumes gradually after noon.
+- Shorten a quiet wait when the next protected window begins, without
+  starting less than five minutes after the preceding cycle. Do not wait out
+  a previously selected 30-minute interval.
 - A live-feed/graph change resets it to five minutes. Eligible photos left
   unattempted because of a vision budget/deadline also hold it at five.
   Daily history snapshots and private state do not count as activity.
 - Record the actual start of each cycle using a monotonic clock. Never
   overlap or replay missed cycles: at five-minute cadence, a 10:00 start
   finishing at 10:07 schedules the next start for 10:10.
-- The first activity after a quiet period can take 30 minutes plus processing
-  to appear. This is not a guarantee of five-minute photo-description delivery.
+- Outside protected mornings, the first activity after a quiet period can
+  take 30 minutes plus processing to appear. During protected mornings the
+  target is roughly five minutes plus processing, not a delivery guarantee.
 
 Frequent checks still fetch the complete in-scope reply trees and run Git
 preflight. Described-photo cache hits avoid inference, not Threads requests.
@@ -548,6 +557,7 @@ even if fallback could work. Default daily mode retains its existing behavior.
 Threads collection/token-refresh transients get five retries with bounded
 backoff and valid Retry-After deadlines. Unknown errors, corrupt private state,
 lock contention, and Git failures stop visibly; they do not count as quiet.
+Protected mornings never shorten failure backoff or provider cooldowns.
 Meta body throttling codes 4, 17, and 613 are handled using the
 [Graph error guide](https://developers.facebook.com/docs/graph-api/guides/error-handling/)
 and [rate-limit guide](https://developers.facebook.com/docs/graph-api/overview/rate-limiting/).

@@ -392,8 +392,13 @@ for the detailed 5/15/30-minute start-to-start policy and recovery rules.
    actual cycle starts and durations, local/Gemini attempts, pending photos,
    adaptive intervals, generated-output changes, and commit count. Confirm
    cached photos do not trigger inference, two unchanged checks slow the
-   cadence, and a live change resets it. A history-only rollover is not
-   activity. Per-run request budgets do not enforce daily quotas.
+   cadence outside protected mornings, and a live change resets it.
+   Tuesday-Friday, 6:30 a.m.-noon Pacific (`America/Los_Angeles`, following
+   daylight saving), unchanged cycles must stay at five minutes. A quiet
+   wait must shorten for window entry, with starts still at least five
+   minutes apart. After noon, quiet promotion resumes from the five-minute
+   level. A history-only rollover is not activity. Per-run request budgets
+   do not enforce daily quotas.
 5. Stop the sample gracefully:
 
    ```bash
@@ -419,7 +424,9 @@ for the detailed 5/15/30-minute start-to-start policy and recovery rules.
    the cause and restarts. Private `cache/continuous-cycle.json` and
    `cache/vision-retry.json` must remain ignored/unpublished.
 
-When quiet, new activity may wait 30 minutes plus processing. When a run
+Outside protected mornings, quiet-period activity may wait 30 minutes plus
+processing; protected mornings target roughly five minutes plus processing.
+Failure backoff and provider cooldowns still take precedence. When a run
 overruns, missed slots are skipped rather than overlapped or replayed:
 10:00 start / 10:07 finish at five-minute cadence means next start 10:10.
 Adaptive mode always uses one collection/vision pass; the `.env`

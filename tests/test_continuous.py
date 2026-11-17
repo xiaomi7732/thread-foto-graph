@@ -5,6 +5,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from unittest.mock import Mock, patch
 
@@ -124,8 +125,42 @@ class AdaptiveTests(unittest.TestCase):
         ):
             self.assertEqual(continuous.next_due(start, interval, now), expected)
 
-    def run_cycles(self, codes, *, durations=None, hints=None, changed=False):
+    def test_protected_morning_boundaries_weekdays_and_daylight_saving(self):
+        for stamp, expected in (
+            ("2026-11-17T14:29:59+00:00", False),
+            ("2026-11-17T14:30:00+00:00", True),
+            ("2026-11-17T19:59:59+00:00", True),
+            ("2026-11-17T20:00:00+00:00", False),
+            ("2026-11-18T15:00:00+00:00", True),
+            ("2026-11-19T15:00:00+00:00", True),
+            ("2026-11-20T15:00:00+00:00", True),
+            ("2026-11-21T15:00:00+00:00", False),
+            ("2026-11-22T15:00:00+00:00", False),
+            ("2026-11-23T15:00:00+00:00", False),
+            ("2026-07-14T13:29:59+00:00", False),
+            ("2026-07-14T13:30:00+00:00", True),
+            ("2026-07-14T19:00:00+00:00", False),
+        ):
+            with self.subTest(stamp=stamp):
+                self.assertEqual(continuous.protected_morning(datetime.fromisoformat(stamp)), expected)
+
+    def test_window_entry_shortens_quiet_wait_without_sub_five_minute_starts(self):
+        for stamp, start, now, expected in (
+            ("2026-11-17T14:20:00+00:00", 0, 0, 600),
+            ("2026-11-17T14:29:00+00:00", 0, 0, 300),
+            ("2026-07-14T13:20:00+00:00", 0, 0, 600),
+            ("2026-11-16T14:20:00+00:00", 0, 0, 1800),
+            ("2026-11-21T14:20:00+00:00", 0, 0, 1800),
+            ("2026-11-17T14:29:00+00:00", 0, 420, 480),
+        ):
+            with self.subTest(stamp=stamp, start=start, now=now):
+                self.assertEqual(continuous.scheduled_due(
+                    start, 1800, now, datetime.fromisoformat(stamp),
+                ), expected)
+
+    def run_cycles(self, codes, *, durations=None, hints=None, changed=False, wall_start=None):
         self.clock = 0
+        wall_start = wall_start or datetime(2026, 11, 16, tzinfo=timezone.utc)
         waits = []
         remaining = list(codes)
         durations = iter(durations or [0] * len(codes))
@@ -149,8 +184,38 @@ class AdaptiveTests(unittest.TestCase):
                 return not remaining
 
             with patch.object(continuous.time, "time", return_value=1000):
-                code = continuous.supervise(root, clock=lambda: self.clock, waiter=wait, launch=launch)
+                code = continuous.supervise(
+                    root, clock=lambda: self.clock,
+                    wall_clock=lambda: wall_start + timedelta(seconds=self.clock),
+                    waiter=wait, launch=launch,
+                )
         return code, waits
+
+    def test_quiet_mornings_stay_fast_and_noon_resumes_adaptation(self):
+        code, waits = self.run_cycles(
+            [0] * 8, wall_start=datetime.fromisoformat("2026-11-17T19:45:00+00:00"),
+        )
+        self.assertEqual(code, 0)
+        self.assertEqual(waits, [300, 300, 300, 300, 900, 900, 1800, 1800])
+
+    def test_supervisor_enters_window_during_a_quiet_wait(self):
+        code, waits = self.run_cycles(
+            [0] * 7, wall_start=datetime.fromisoformat("2026-11-17T13:50:00+00:00"),
+        )
+        self.assertEqual((code, waits), (0, [300, 900, 900, 300, 300, 300, 300]))
+
+    def test_protected_morning_preserves_backoff_and_overrun_slots(self):
+        morning = datetime.fromisoformat("2026-11-17T15:00:00+00:00")
+        code, waits = self.run_cycles([75, 0], hints=2200, wall_start=morning)
+        self.assertEqual((code, waits), (0, [1200, 300]))
+        code, waits = self.run_cycles(
+            [75, 0], hints=2200, wall_start=datetime.fromisoformat("2026-11-17T14:25:00+00:00"),
+        )
+        self.assertEqual((code, waits), (0, [1200, 300]))
+        code, waits = self.run_cycles([75] * 6, wall_start=morning)
+        self.assertEqual((code, waits), (75, [30, 60, 120, 240, 480]))
+        code, waits = self.run_cycles([0], durations=[420], wall_start=morning)
+        self.assertEqual((code, waits), (0, [180]))
 
     def test_retries_freeze_quiet_counter_and_resume_from_actual_start(self):
         code, waits = self.run_cycles([0, 75, 0, 0])

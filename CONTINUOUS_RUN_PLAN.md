@@ -1,6 +1,30 @@
 # Plan: continuous AI-box execution and change-only publishing
 
-Status: revision 5 implemented and code-reviewed; AI-box deployment checks pending.
+Status: revision 6 adds protected Pacific mornings; deployment checks pending.
+
+## Revision 6: protected reply mornings
+
+Tuesday-Friday, 6:30 a.m.-noon in `America/Los_Angeles`, hold successful
+polling at five-minute start-to-start intervals even when unchanged. Use
+Pacific daylight-saving rules regardless of the host timezone. Outside this
+window retain the existing adaptive 5/15/30-minute policy. Protected checks
+reset the quiet counter; after noon, unchanged successes gradually promote
+the interval again.
+
+Shorten an existing quiet wait for the next window boundary, but never start
+less than five minutes after the previous cycle. Convert the timezone-aware
+boundary to a monotonic deadline; ordinary cadence and overrun handling stay
+monotonic. Preserve no overlap, no missed-slot replay, one-pass collection,
+all fatal-stop rules, Threads failure backoff, and provider/media cooldowns.
+The window never accelerates a failure retry or bypasses a cooldown.
+
+This targets roughly five minutes plus processing during the morning reply
+wave, not guaranteed five-minute delivery. Outside the window, first activity
+after a quiet period may still wait 30 minutes plus processing. Check actual
+morning API traffic and cycle duration during bounded AI-box rollout.
+
+The review and implementation history below describes revision 5; those
+reviews do not cover the revision 6 scheduling change.
 
 ## Review consensus
 
@@ -54,16 +78,17 @@ Keep the main Thread Foto Graph pipeline available on the Ubuntu AI box,
 checking frequently while active and less frequently while quiet. Publish
 changed generated outputs after every successful cycle.
 
-- Adaptive start-to-start intervals of 5, 15, and 30 minutes. After two
+- Protected Tuesday-Friday mornings as specified in revision 6; otherwise
+  adaptive start-to-start intervals of 5, 15, and 30 minutes. After two
   consecutive unchanged successful checks, increase from 5 to 15 minutes;
   after two further unchanged checks, increase to 30 minutes.
 - Any live-output change resets to 5 minutes and clears the quiet counter.
 - Record each actual cycle start. Schedule from that start, not completion.
 - Never overlap runs or replay missed cycles. On an overrun, skip missed
   slots and wait for the next scheduled slot at or after completion.
-- Five-minute freshness is an approximate target during observed active
-  periods. First activity after a quiet period may wait 30 minutes plus
-  processing before appearing in published feeds.
+- Five-minute freshness is an approximate target during protected mornings
+  and observed active periods. Outside protected mornings, first activity
+  after a quiet period may wait 30 minutes plus processing before publication.
 - Use one collection/vision pass per adaptive cycle; keep daily-mode iteration
   configuration unchanged.
 - Retry transient API failures with bounded backoff; stop for authentication,
@@ -115,8 +140,8 @@ Git operations, and process startups compared with an immediate loop, but
 does not eliminate full fetching or guarantee staying within API limits.
 Rate-limit and outage backoff must still apply.
 
-Fixed intervals would be simpler; active-hours schedules would save more
-overnight work at the cost of freshness. Webhooks or incremental fetching
+Fixed intervals would be simpler; the revision 6 protected mornings retain
+quiet-period savings outside the reply window. Webhooks or incremental fetching
 could avoid more idle work but require separate API verification and design.
 Publication batching reduces commits/pushes, not collection or inference.
 Narrowing the lookback risks missing late replies and is not part of this plan.
@@ -235,9 +260,13 @@ allowlist, timeouts, and bounded push recovery in the existing wrapper.
 #### Adaptive cadence and activity
 
 - Start the first cycle immediately at the 5-minute level.
+- During the revision 6 protected morning window, keep the 5-minute level and
+  clear the quiet counter after each success. Shorten a quiet wait for window
+  entry without sub-five-minute starts; failure-backoff waits are unchanged.
 - Maintain a quiet counter for the current interval. Two consecutive
-  successful unchanged checks at 5 minutes select 15 minutes and reset the
-  counter; two at 15 select 30. Stay at 30 while quiet.
+  successful unchanged checks outside protected mornings at 5 minutes select
+  15 minutes and reset the counter; two at 15 select 30. Stay at 30 while quiet
+  outside protected mornings.
 - A live-output change selects 5 minutes and clears the counter. Inside
   `src.main`, after wrapper Git fast-forward preflight and before processing,
   hash the allowlisted live output bytes: `data/needs-reply.md`,

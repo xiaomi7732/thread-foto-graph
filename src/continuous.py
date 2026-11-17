@@ -11,9 +11,10 @@ import sys
 import threading
 import time
 import uuid
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 STATUS_PATH = ROOT / "cache" / "continuous-cycle.json"
@@ -23,6 +24,7 @@ LIVE_PATHS = (
 )
 INTERVALS = (300, 900, 1800)
 STOP_TIMEOUT = 6000
+PACIFIC = ZoneInfo("America/Los_Angeles")
 
 
 class CycleFailure(RuntimeError):
@@ -151,13 +153,32 @@ def next_due(start: float, interval: int, now: float) -> float:
     return due
 
 
+def protected_morning(now: datetime) -> bool:
+    local = now.astimezone(PACIFIC)
+    return 1 <= local.weekday() <= 4 and (6, 30) <= (local.hour, local.minute) < (12, 0)
+
+
+def scheduled_due(start: float, interval: int, now: float, wall_now: datetime) -> float:
+    due = next_due(start, interval, now)
+    if protected_morning(wall_now):
+        return due
+    local = wall_now.astimezone(PACIFIC)
+    for offset in range(8):
+        morning = (local + timedelta(days=offset)).replace(hour=6, minute=30, second=0, microsecond=0)
+        if 1 <= morning.weekday() <= 4 and morning > local:
+            # Convert the local boundary once; cadence still uses monotonic time.
+            boundary = now + (morning.timestamp() - wall_now.timestamp())
+            return min(due, max(start + INTERVALS[0], boundary))
+    return due
+
+
 class Cadence:
     def __init__(self):
         self.level = 0
         self.quiet = 0
 
-    def succeeded(self, record: dict) -> int:
-        if record["live_changed"] or record["eligible_unattempted"]:
+    def succeeded(self, record: dict, *, protected: bool = False) -> int:
+        if protected or record["live_changed"] or record["eligible_unattempted"]:
             self.level = self.quiet = 0
         elif self.level < 2:
             self.quiet += 1
@@ -179,10 +200,11 @@ def validate_limits() -> float:
     return bound
 
 
-def supervise(root: Path = ROOT, *, clock=time.monotonic, waiter=None, launch=None) -> int:
+def supervise(root: Path = ROOT, *, clock=time.monotonic, wall_clock=None, waiter=None, launch=None) -> int:
     stop = threading.Event()
     wait = waiter if waiter is not None else stop.wait
     spawn = launch if launch is not None else subprocess.Popen
+    utcnow = wall_clock if wall_clock is not None else lambda: datetime.now(timezone.utc)
     previous = {}
     for sig in (signal.SIGTERM, signal.SIGINT):
         previous[sig] = signal.signal(sig, lambda *_: stop.set())
@@ -199,7 +221,7 @@ def supervise(root: Path = ROOT, *, clock=time.monotonic, waiter=None, launch=No
             cycle_id = str(uuid.uuid4())
             path.unlink(missing_ok=True)
             started = clock()
-            print(f"Cycle {cycle_id} started {datetime.now(timezone.utc).isoformat()}", flush=True)
+            print(f"Cycle {cycle_id} started {utcnow().isoformat()}", flush=True)
             child = spawn(
                 ["bash", str(root / "run_daily.sh"), "--publish"],
                 cwd=root, env={**os.environ, "CONTINUOUS_CYCLE_ID": cycle_id},
@@ -230,10 +252,13 @@ def supervise(root: Path = ROOT, *, clock=time.monotonic, waiter=None, launch=No
                 print(f"Threads retry {failures}/5 in {delay:.1f}s", flush=True)
             else:
                 failures = 0
-                interval = cadence.succeeded(record)
+                wall_now = utcnow()
+                protected = protected_morning(wall_now)
+                interval = cadence.succeeded(record, protected=protected)
                 now = clock()
-                delay = max(0, next_due(started, interval, now) - now)
-                print(f"Adaptive interval {interval // 60}min; waiting {delay:.1f}s", flush=True)
+                delay = max(0, scheduled_due(started, interval, now, wall_now) - now)
+                mode = "Protected Pacific morning" if protected else "Adaptive"
+                print(f"{mode} interval {interval // 60}min; waiting {delay:.1f}s", flush=True)
             if wait(delay):
                 break
         return 0
