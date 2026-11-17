@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (57)
+## Needs Reply (59)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **oznatureart**: Sea biscuit ([link](https://www.threads.com/@oznatureart/post/Df22ggzkzWu))
+  - Photo: Description: A starfish with a central red area and brown, bumpy texture rests on wet, algae-covered rocks in a shallow pool of water. Photograph read: The image is a close-up shot with even, natural lighting. The subject is in focus, and the surrounding rocks and seaweed are visible with moderate detail. The water surface reflects light, creating slight glare. Photo type: Documentary
+- **mtqiwoman**:  ([link](https://www.threads.com/@mtqiwoman/post/Df22cgGnUsc))
+  - Photo: Description: A vertical close-up photograph shows dry, dormant plant stems and branching foliage against a blurry, muted-brown background of similar dried vegetation. Photograph read: The composition places the dried plant matter prominently in the upper-center and left foreground, rendered in pale brown and grey tones under flat, diffuse lighting with soft shadows. The background is significantly out of focus, creating a shallow depth of field. Photo type: Nature macro
+    - Watch-outs: 1. The background and parts of the foreground stems lack sharp focus due to a shallow depth of field, reducing edge definition. 2. Moderate digital noise or compression artifacts are visible throughout the frame, softening fine details on the plant stems.
 - **sgoodwandering**: Not sure if this fits the Pattern category? Petrified Sand Dunes ([link](https://www.threads.com/@sgoodwandering/post/Df20nVFG-d7))
   - Photo: Description: The photograph shows a close-up view of undulating, reddish-orange rock formations with a textured, blocky surface, interspersed with sparse desert vegetation including small trees and shrubs. Photograph read: The composition is dominated by the rock’s repetitive, geometric patterns, with strong directional lighting casting distinct shadows. The rendering is sharp, with clear delineation of rock edges and surface textures. The scene is brightly lit, with no visible signs of overexposure or underexposure. Photo type: Natural landscape
 - **0lindar**:  ([link](https://www.threads.com/@0lindar/post/Df2zRWJFprj))

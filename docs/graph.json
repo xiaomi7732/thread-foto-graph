@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 231,
+      "reply_count": 233,
       "replies": [
+        {
+          "username": "oznatureart",
+          "text": "Sea biscuit",
+          "permalink": "https://www.threads.com/@oznatureart/post/Df22ggzkzWu",
+          "photos": [
+            "Description: A starfish with a central red area and brown, bumpy texture rests on wet, algae-covered rocks in a shallow pool of water. Photograph read: The image is a close-up shot with even, natural lighting. The subject is in focus, and the surrounding rocks and seaweed are visible with moderate detail. The water surface reflects light, creating slight glare. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mtqiwoman",
+          "text": "",
+          "permalink": "https://www.threads.com/@mtqiwoman/post/Df22cgGnUsc",
+          "photos": [
+            "Description: A vertical close-up photograph shows dry, dormant plant stems and branching foliage against a blurry, muted-brown background of similar dried vegetation. Photograph read: The composition places the dried plant matter prominently in the upper-center and left foreground, rendered in pale brown and grey tones under flat, diffuse lighting with soft shadows. The background is significantly out of focus, creating a shallow depth of field. Photo type: Nature macro"
+          ],
+          "watch_outs": [
+            "1. The background and parts of the foreground stems lack sharp focus due to a shallow depth of field, reducing edge definition. 2. Moderate digital noise or compression artifacts are visible throughout the frame, softening fine details on the plant stems."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "sgoodwandering",
           "text": "Not sure if this fits the Pattern category? Petrified Sand Dunes",
