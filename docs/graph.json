@@ -13,8 +13,44 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 194,
+      "reply_count": 199,
       "replies": [
+        {
+          "username": "skymomma_rocks",
+          "text": "",
+          "permalink": "https://www.threads.com/@skymomma_rocks/post/Df2irCPoyao",
+          "photos": [
+            "Description: The photograph shows a view from a bridge with prominent white cables in the foreground, looking down onto a river and a cityscape under a clear blue sky. Photograph read: The image is taken from a high vantage point on a concrete bridge, with cables diagonally framing the view. The lighting is bright and even, suggesting midday. The rendering is clear enough to distinguish the bridge surface, the river, and distant buildings, though the cables cast slight reflections on the glass surface. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "_olliemorgan",
+          "text": "",
+          "permalink": "https://www.threads.com/@_olliemorgan/post/Df2ijKOljS8",
+          "photos": [
+            "Description: A red brick wall serves as the background, with branches of a reddish-purple leafed plant and small clusters of reddish berries hanging in front. A plant with variegated green and white leaves is partially visible at the bottom. Photograph read: The image is composed with the brick wall filling the frame, and plant elements extending diagonally across the scene. Lighting is even and diffuse, with no harsh shadows or highlights. The image appears sharp enough to discern brick texture and leaf details, though some areas are slightly out of focus. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tilling.the.soil",
+          "text": "The Fibonacci Spiral as represented by the central cone of the echinacea plant.",
+          "permalink": "https://www.threads.com/@tilling.the.soil/post/Df2iSTEllru",
+          "photos": [
+            "Description: The image shows a close-up, top-down view of a dense cluster of green, needle-like structures radiating outward from a central point, resembling the center of a conifer or a similar plant. Photograph read: The composition is radial, with the structures arranged in concentric layers. Lighting is even and diffused, highlighting the tips of the structures with a yellowish glow. Rendering is uniform across the frame, with no visible lens distortion or chromatic aberration. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "tinnyliznz",
           "text": "",
@@ -636,7 +672,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "momentofsubjectiveaesthetics",
+                          "text": "Thank you, for asking that question and your kind words! \ud83d\ude4c\ud83c\udffc\ud83d\ude4f\ud83c\udffc",
+                          "permalink": "https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1899,7 +1946,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "newtoem",
+                  "text": "No i don't. Saw this on Kangaroo Island in Australia and thought it was so interesting!",
+                  "permalink": "https://www.threads.com/@newtoem/post/Df2iSx3G8iN",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

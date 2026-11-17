@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (23)
+## Needs Reply (28)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **skymomma_rocks**:  ([link](https://www.threads.com/@skymomma_rocks/post/Df2irCPoyao))
+  - Photo: Description: The photograph shows a view from a bridge with prominent white cables in the foreground, looking down onto a river and a cityscape under a clear blue sky. Photograph read: The image is taken from a high vantage point on a concrete bridge, with cables diagonally framing the view. The lighting is bright and even, suggesting midday. The rendering is clear enough to distinguish the bridge surface, the river, and distant buildings, though the cables cast slight reflections on the glass surface. Photo type: Architectural
+- **_olliemorgan**:  ([link](https://www.threads.com/@_olliemorgan/post/Df2ijKOljS8))
+  - Photo: Description: A red brick wall serves as the background, with branches of a reddish-purple leafed plant and small clusters of reddish berries hanging in front. A plant with variegated green and white leaves is partially visible at the bottom. Photograph read: The image is composed with the brick wall filling the frame, and plant elements extending diagonally across the scene. Lighting is even and diffuse, with no harsh shadows or highlights. The image appears sharp enough to discern brick texture and leaf details, though some areas are slightly out of focus. Photo type: Still life
+- **tilling.the.soil**: The Fibonacci Spiral as represented by the central cone of the echinacea plant. ([link](https://www.threads.com/@tilling.the.soil/post/Df2iSTEllru))
+  - Photo: Description: The image shows a close-up, top-down view of a dense cluster of green, needle-like structures radiating outward from a central point, resembling the center of a conifer or a similar plant. Photograph read: The composition is radial, with the structures arranged in concentric layers. Lighting is even and diffused, highlighting the tips of the structures with a yellowish glow. Rendering is uniform across the frame, with no visible lens distortion or chromatic aberration. Photo type: Macro
 - **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/Df2iCbrEg8K))
   - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
 - **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
@@ -34,6 +40,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Every one of those little spikes tipped in brown, hundreds …_
 - **smilingjeannie**: This one was remarkably still as it was feeding. ([link](https://www.threads.com/@smilingjeannie/post/Df2gvOHHZam))
   - _Replying to: Lewis Ginter's butterflies do not disappoint - that big eye…_
+- **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
+  - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
 - **sari_soderena**: That's a photo from my garden in the summer. ([link](https://www.threads.com/@sari_soderena/post/Df2g_digBi3))
   - _Replying to: Four petals set like a compass, each one veined, and that y…_
 - **suceee_mac**: Isn’t it amazing? 🥰 It’s a Zombie Palm (Zombia antillarum), native to Haiti and the Dominican Republic. ([link](https://www.threads.com/@suceee_mac/post/Df2hd4um2Ie))
@@ -60,6 +68,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Loved our time in Sydney some amazing buildings and nice mi…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
+- **newtoem**: No i don't. Saw this on Kangaroo Island in Australia and thought it was so interesting! ([link](https://www.threads.com/@newtoem/post/Df2iSx3G8iN))
+  - _Replying to: That starburst rosette is a trap in plain sight - those sti…_
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 
