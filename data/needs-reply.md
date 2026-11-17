@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (30)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **mari.d.zk**:  ([link](https://www.threads.com/@mari.d.zk/post/Df2VCNjipgy))
+  - Photo: Description: A single yellow ginkgo leaf with water droplets rests on a textured ground of reddish-brown gravel and dark pebbles; a second leaf is partially visible in the upper right corner. Photograph read: The image is a close-up shot with even, diffused lighting; the leaf is in focus, showing clear veins and droplets, while the background exhibits natural texture without motion blur or overexposure. Photo type: Still life
 - **sari_soderena**: Square Bloom of Clematis. ([link](https://www.threads.com/@sari_soderena/post/Df2Tdu-gPXg))
   - Photo: Description: A close-up photograph shows two deep purple clematis flowers with prominent petals and a yellow center, set against a background of green foliage. Photograph read: The image is taken in bright daylight with natural lighting; the main subject is in focus, while the background is softly blurred. The petals show texture and subtle veining, and the composition centers the flowers with surrounding leaves framing them. Photo type: Natural
 - **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/Df2TYsdG76m))
@@ -63,6 +65,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Loved our time in Sydney some amazing buildings and nice mi…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
+- **yvetime**: The flowers of Stellaria graminea are approximately 0.28–0.48 inches in size. Very tiny. ([link](https://www.threads.com/@yvetime/post/Df2U9VijdBm))
+  - _Replying to: Those little white stars are everywhere once you spot one -…_
 - **gteam0**: Sometimes one gets lucky in life ([link](https://www.threads.com/@gteam0/post/Df2Ss4em2zb))
   - _Replying to: Lucky timing on an empty corridor - and a great eye for spo…_
 - **bendlesmaid269**: Yes, it just settled there, was a lovely calm day and stayed on the cosmos leaves for a while ([link](https://www.threads.com/@bendlesmaid269/post/Df2TsClCk7H))
