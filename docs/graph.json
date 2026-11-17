@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18120910145083329",
-      "label": "background, photograph, photo, image",
+      "label": "background, photograph, image, photo",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -13,8 +13,44 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 16,
+      "reply_count": 20,
       "replies": [
+        {
+          "username": "snowdonman66",
+          "text": "",
+          "permalink": "https://www.threads.com/@snowdonman66/post/Df2Pat3iI2z",
+          "photos": [
+            "Description: The photograph shows a circular stained-glass dome ceiling, viewed from below, with a central circular opening and radiating structural ribs. The glass features geometric patterns in green, yellow, and red, with decorative motifs. Photograph read: The image is taken from a low angle looking upward, with even illumination across the dome. The composition is symmetrical, centered on the dome\u2019s apex. The glass panels are clearly delineated by dark lead lines, and the patterns are visible but not overly detailed. The edges of the dome are framed by a reddish-brown architectural border. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "iphhoto4u71",
+          "text": "When a chair becomes art",
+          "permalink": "https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL",
+          "photos": [
+            "Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "yvetime",
+          "text": "",
+          "permalink": "https://www.threads.com/@yvetime/post/Df2PRe6DW4e",
+          "photos": [
+            "Description: A dense patch of small white flowers with delicate, star-like petals grows among tall green grass and broad leaves, with some unopened buds visible. Photograph read: The image is composed of a close-up view with natural daylight illuminating the scene. The flowers and surrounding foliage are in focus, though some areas show slight softness. The rendering is consistent with a standard digital capture, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "suzethecrone",
           "text": "",
@@ -199,10 +235,21 @@
           "photos": [
             "Description: The image shows a close-up of dense, vibrant green moss with scattered small brown debris and dark patches, likely soil or decaying organic matter. Photograph read: The composition is a tight, vertical crop of moss, with no discernible background or horizon. Lighting is even and diffuse, suggesting an overcast or shaded environment. Rendering is sharp enough to resolve individual moss filaments and small debris, with no visible motion blur or lens distortion. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That moss looks soft enough to nap on and spiky enough to think twice - a whole tiny forest in one close-up. Do you go looking for moss, or does it find you on a walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2PRDwm3mU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",
@@ -218,7 +265,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "background, photograph, photo, image",
+      "label": "background, photograph, image, photo",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
@@ -300,7 +347,7 @@
     },
     {
       "id": "18138527668657912",
-      "label": "background, photograph, photo, image",
+      "label": "background, photograph, image, photo",
       "group": 0,
       "snippet": "The neighborhood's tiniest library. Take a book, leave a bo\u2026",
       "text": "The neighborhood's tiniest library. Take a book, leave a book.",
@@ -322,7 +369,7 @@
     },
     {
       "id": "18117787960828778",
-      "label": "background, photograph, photo, image",
+      "label": "background, photograph, image, photo",
       "group": 0,
       "snippet": "Flower Friday favorites \ud83c\udfc6 5 flowers that stopped my scroll:\u2026",
       "text": "Flower Friday favorites \ud83c\udfc6 5 flowers that stopped my scroll: Robert Pacheco @cheeks1969 - butterfly on coneflower Denise Potter @2killamockingbird - passionflower up close Beckie Fitzgerald @beckiefitzgerald - white rose in the rain Jess G Perry @jessgperry - lily in black and white Anne Weblemoe Lucido @islandoutfitter - Christmas cactus bloom Beautiful work, all of you. Reel: https://www.instagram.com/reel/DftsNENj_ip/",

@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (10)
+## Needs Reply (12)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2Pat3iI2z))
+  - Photo: Description: The photograph shows a circular stained-glass dome ceiling, viewed from below, with a central circular opening and radiating structural ribs. The glass features geometric patterns in green, yellow, and red, with decorative motifs. Photograph read: The image is taken from a low angle looking upward, with even illumination across the dome. The composition is symmetrical, centered on the dome’s apex. The glass panels are clearly delineated by dark lead lines, and the patterns are visible but not overly detailed. The edges of the dome are framed by a reddish-brown architectural border. Photo type: Architectural
+- **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
+  - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
+- **yvetime**:  ([link](https://www.threads.com/@yvetime/post/Df2PRe6DW4e))
+  - Photo: Description: A dense patch of small white flowers with delicate, star-like petals grows among tall green grass and broad leaves, with some unopened buds visible. Photograph read: The image is composed of a close-up view with natural daylight illuminating the scene. The flowers and surrounding foliage are in focus, though some areas show slight softness. The rendering is consistent with a standard digital capture, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural
 - **suzethecrone**:  ([link](https://www.threads.com/@suzethecrone/post/Df2PJpHHaka))
   - Photo: Description: The photograph shows a close-up of a fern frond with multiple leaflets radiating from a central stem, set against a dark, indistinct background. Photograph read: The image is composed with the fern as the central subject, illuminated by a directional light source that highlights the texture and veins of the leaflets. The rendering is sharp on the frond’s surface, with strong contrast between the green foliage and the dark background. Photo type: Macro
 - **gteam0**: Pattern ([link](https://www.threads.com/@gteam0/post/Df2PGErm2Lm))
@@ -28,8 +34,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The background is uniformly bright, obscuring any contextual detail or depth beyond the tree’s silhouette. - The tree trunk shows visible texture, but the upper canopy branches are thin and lack discernible leaf detail due to low contrast and high brightness.
 - **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/Df2Oaf1gLkJ))
   - Photo: Description: The photograph shows the interior of a long, arched hall with a high, curved wooden ceiling and stone walls, featuring visitors and framed artworks on the walls. Photograph read: The composition is symmetrical, with the ceiling’s radial wood beams creating strong leading lines toward a distant stone fireplace. Lighting is even and warm, primarily from ceiling-mounted fixtures, illuminating the ceiling and walls without harsh shadows. The rendering is clear, with visible texture on the stone and wood surfaces. Photo type: Architectural
-- **fragilita_12**: Moss ([link](https://www.threads.com/@fragilita_12/post/Df2NqayAMBm))
-  - Photo: Description: The image shows a close-up of dense, vibrant green moss with scattered small brown debris and dark patches, likely soil or decaying organic matter. Photograph read: The composition is a tight, vertical crop of moss, with no discernible background or horizon. Lighting is even and diffuse, suggesting an overcast or shaded environment. Rendering is sharp enough to resolve individual moss filaments and small debris, with no visible motion blur or lens distortion. Photo type: Macro
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
