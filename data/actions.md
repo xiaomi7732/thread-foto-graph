@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (18)
+## Needs Reply (22)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/Df2dPRXmhZT))
+  - Photo: Description: A stone arch bridge spans a river, with reflections visible on the water’s surface. In the background, multi-story buildings and a domed structure are visible under a blue sky with scattered clouds. Photograph read: The image is taken from a low angle, capturing the bridge’s arches and their reflections. Lighting is bright and even, suggesting midday. The rendering is clear, with no visible motion blur or chromatic aberration. Photo type: Architectural
+- **ssquiresc1290**: The inside of an ice cream scoop. ([link](https://www.threads.com/@ssquiresc1290/post/Df2dOuSmoBu))
+  - Photo: Description: The image shows a close-up of concentric circular grooves on a dark, metallic surface, with the center fading into shadow. Photograph read: The composition is radial, with grooves radiating from a central point. Lighting is directional, creating highlights along the ridges and deep shadows in the grooves. The rendering is uniform, with no visible lens distortion or chromatic aberration. Photo type: Macro
+    - Watch-outs: Whole-image blur obscures fine texture within the grooves. Central area is underexposed, reducing visibility of surface detail.
+- **joanmduffy**:  ([link](https://www.threads.com/@joanmduffy/post/Df2dOAFlL48))
+  - Photo: Description: A close-up of a single flower with bright pink, serrated petals radiating from a dense, yellow center, set against a softly blurred green background. Photograph read: The flower occupies the foreground with sharp focus on its petals and center; the background is out of focus, showing indistinct green foliage. Lighting is even and bright, illuminating the flower’s texture without harsh shadows or overexposure. Photo type: Macro
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df2bc6aiCvh))
   - Photo: Description: A close-up shot of a white, spiky, spherical fungus with small brown-tipped projections, resting on a forest floor covered in fallen leaves, moss, and twigs. Photograph read: The image is a close-up with even, direct lighting that highlights the texture of the fungus. The background is softly out of focus, with warm brown tones from leaves and dark, earthy ground. The fungus is the central subject, sharply rendered. Photo type: Macro
 - **__davidjay__**:  ([link](https://www.threads.com/@__davidjay__/post/Df2aPYwGnbZ))
@@ -18,6 +25,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The central eye-like pattern of the feather is partially obscured by the droplet and its reflections, limiting visibility of the feather’s natural structure. The background feather barbs beyond the immediate focal plane are blurred and indistinct, reducing context and detail.
 - **cape_cod_laurie**:  ([link](https://www.threads.com/@cape_cod_laurie/post/Df2YlReFtdJ))
   - Photo: Description: A close-up view of stacked firewood logs, showing cross-sections with visible growth rings, bark remnants, and wood grain patterns. Photograph read: The image is a tightly framed, high-resolution shot with even lighting that highlights the textures and patterns on the wood surfaces. The composition is dense, with logs arranged in overlapping rows, and no discernible camera movement or lens distortion. Photo type: Macro
+- **pappaga11a**: I don’t entirely remember! I think a floor in Topkapi Palace. ([link](https://www.threads.com/@pappaga11a/post/Df2dR3OlNRU))
+  - _Replying to: I think the tight crop was the right call - the star fills …_
 - **momentofsubjectiveaesthetics**: Just a moment caught during a nightly walk in Berlin. Can’t really explain why, but some things just catches my attention, instantly triggers my senses and/or just makes me want to explore them further. ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2cwNUiHLW))
   - _Replying to: The butterfly display is a whole garden drawn in light. Wha…_
 - **tallerthanyou2026**: Happy - it is part of Spring Bloom at the Gardens ([link](https://www.threads.com/@tallerthanyou2026/post/Df2cplzGlBt))

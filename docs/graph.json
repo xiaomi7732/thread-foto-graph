@@ -13,8 +13,47 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 149,
+      "reply_count": 153,
       "replies": [
+        {
+          "username": "susanrutledge",
+          "text": "",
+          "permalink": "https://www.threads.com/@susanrutledge/post/Df2dPRXmhZT",
+          "photos": [
+            "Description: A stone arch bridge spans a river, with reflections visible on the water\u2019s surface. In the background, multi-story buildings and a domed structure are visible under a blue sky with scattered clouds. Photograph read: The image is taken from a low angle, capturing the bridge\u2019s arches and their reflections. Lighting is bright and even, suggesting midday. The rendering is clear, with no visible motion blur or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ssquiresc1290",
+          "text": "The inside of an ice cream scoop.",
+          "permalink": "https://www.threads.com/@ssquiresc1290/post/Df2dOuSmoBu",
+          "photos": [
+            "Description: The image shows a close-up of concentric circular grooves on a dark, metallic surface, with the center fading into shadow. Photograph read: The composition is radial, with grooves radiating from a central point. Lighting is directional, creating highlights along the ridges and deep shadows in the grooves. The rendering is uniform, with no visible lens distortion or chromatic aberration. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "Whole-image blur obscures fine texture within the grooves. Central area is underexposed, reducing visibility of surface detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "joanmduffy",
+          "text": "",
+          "permalink": "https://www.threads.com/@joanmduffy/post/Df2dOAFlL48",
+          "photos": [
+            "Description: A close-up of a single flower with bright pink, serrated petals radiating from a dense, yellow center, set against a softly blurred green background. Photograph read: The flower occupies the foreground with sharp focus on its petals and center; the background is out of focus, showing indistinct green foliage. Lighting is even and bright, illuminating the flower\u2019s texture without harsh shadows or overexposure. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jh1962bike",
           "text": "",
@@ -142,7 +181,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pappaga11a",
+                  "text": "I don\u2019t entirely remember! I think a floor in Topkapi Palace.",
+                  "permalink": "https://www.threads.com/@pappaga11a/post/Df2dR3OlNRU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
