@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (31)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **oneillwendie**:  ([link](https://www.threads.com/@oneillwendie/post/Df2i9PRFWvO))
+  - Photo: Description: A thistle plant with spiky, green, serrated leaves grows in a patch of soil mixed with fallen brown leaves and sparse grass, adjacent to a concrete surface. Photograph read: The image is taken from a high angle, showing the plant centered in the frame. Lighting is natural daylight, casting soft shadows. The image has moderate resolution, with visible texture in the leaves and ground, but no signs of motion blur, overexposure, or underexposure. Photo type: Natural
+- **trevahearne**:  ([link](https://www.threads.com/@trevahearne/post/Df2i6kGlAoy))
+  - Photo: Description: The photograph shows tall, feathery grasses in the foreground against a bright blue sky with scattered clouds, with green trees and a residential background visible behind them. Photograph read: The composition is a low-angle shot with the grasses dominating the foreground, backlit by direct sunlight. The sky is clear and vivid, with some cloud detail visible. The grasses are illuminated from behind, creating a bright, slightly overexposed appearance in their plumes. Background elements are in shadow, creating contrast. Photo type: Landscape
+    - Watch-outs: - The grass plumes are overexposed in the highlights, reducing visible texture and detail. - Background elements, including foliage and distant structures, are underexposed and appear indistinct due to shadow.
 - **skymomma_rocks**:  ([link](https://www.threads.com/@skymomma_rocks/post/Df2irCPoyao))
   - Photo: Description: The photograph shows a view from a bridge with prominent white cables in the foreground, looking down onto a river and a cityscape under a clear blue sky. Photograph read: The image is taken from a high vantage point on a concrete bridge, with cables diagonally framing the view. The lighting is bright and even, suggesting midday. The rendering is clear enough to distinguish the bridge surface, the river, and distant buildings, though the cables cast slight reflections on the glass surface. Photo type: Architectural
 - **_olliemorgan**:  ([link](https://www.threads.com/@_olliemorgan/post/Df2ijKOljS8))
@@ -32,6 +37,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The fly’s wings and body show slight motion blur or soft focus, reducing fine detail. - The leaf’s surface texture appears slightly grainy or noisy, particularly in darker vein areas.
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df2fC2mlWtm))
   - Photo: Description: The image shows a close-up of tree bark with deep vertical grooves and rough, textured surfaces, illuminated by directional light. Photograph read: The composition is vertical, emphasizing the bark’s linear patterns. Lighting creates strong contrast between sunlit ridges and shadowed crevices. Rendering is detailed but lacks smoothness; textures are visible but not sharply defined in all areas. Photo type: Macro
+- **linda73linda**: Found it like that 🤗 ([link](https://www.threads.com/@linda73linda/post/Df2gX_iDVzK))
+  - _Replying to: Did you flip it over yourself, or find it already showing o…_
 - **anto_acz**: It’s an old stone wall in a small country village in Lombardy, Northern Italy. ([link](https://www.threads.com/@anto_acz/post/Df2g2cmERrl))
   - _Replying to: No two stones the same, and somehow they all fit - the spec…_
 - **jh1962bike**: Hard to say , I was keeping an eye out for mushrooms but not in this shape. Could have been a golf ball . ([link](https://www.threads.com/@jh1962bike/post/Df2h8CICFxK))
