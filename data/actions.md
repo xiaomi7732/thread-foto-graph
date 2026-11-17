@@ -6,82 +6,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (1)
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
   - _Replying to: @cheeks1969 Your coneflower opens the Flower Friday favorit…_
-
-### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **reneepelser**: Good morning and happy Sunday 😊 lm getting posts, replies and likes/follows from today, yesterday and whenever so if lm duplicating my posts l apologize. ([link](https://www.threads.com/@reneepelser/post/Dfwky3VAuMe))
-  - Photo: Description: A close-up of a pink hibiscus flower with prominent petals and a central cluster of yellow stamens, set against a background of green leaves and tree branches. Photograph read: The flower is in focus with visible petal texture, while the background is softly blurred. Lighting is even and natural, with no obvious exposure or contrast issues. Photo type: Macro
-  - Photo: Description: A cluster of white, star-shaped flowers with elongated petals and visible yellow stamens is the central subject, surrounded by green foliage, small yellow flowers, and dark-leaved plants in a garden setting. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The main flower cluster is in focus, while the background and foreground elements show some softness and depth of field blur. The rendering preserves color and texture reasonably well, with no obvious signs of digital artifacting or motion blur. Photo type: Natural
-  - Photo: Description: Two sunflowers with large yellow petals and dark brown centers are in focus, growing in front of a grey panel fence with a brick building visible behind it. Photograph read: The image is taken in bright daylight with natural lighting. The sunflowers are the central focus, with visible leaf texture and stem details. The background fence and building are in focus but less detailed. No signs of motion blur, overexposure, or underexposure are evident. Photo type: Natural
-  - Photo: Description: A close-up of a yellow, spiky flower with numerous elongated, curved stamens radiating from a central, fuzzy, brownish core, set against a blurred green background with indistinct foliage and a partial view of a person’s foot and sandal. Photograph read: The image is a close-up with shallow depth of field, resulting in the flower in focus while the background and foreground elements are blurred. Lighting appears natural and diffused, casting even illumination without harsh shadows or highlights. The rendering preserves the flower’s texture and color, though fine details are not sharply defined. Photo type: Macro
-    - Watch-outs: The central core of the flower is slightly out of focus, reducing the clarity of its fuzzy texture. The background blur obscures the exact nature of surrounding vegetation and the person’s foot, limiting contextual detail.
-  - Photo: Description: A close-up of numerous small, bright yellow flowers with reddish-orange centers and fringed petals, clustered together with some dried or damaged blooms and green buds visible among them. Photograph read: The image is a close-up with shallow depth of field, showing some flowers in sharp focus while others are softer or partially obscured. Lighting is bright and direct, casting shadows and highlights across the petals. The background is out of focus with green and brown tones. Photo type: Macro
-    - Watch-outs: - Some flowers show partial loss of detail due to motion blur or focus falloff, particularly in the upper right and lower left areas. - Dried or decaying petals in the center-right area obscure the flower’s internal structure, making it less distinct.
-  - Photo: Description: The photograph shows a cluster of bright pink, petal-like structures, likely bougainvillea bracts, in sharp focus against a blurred background of green foliage and a stone or concrete surface. Photograph read: The main subject is in focus, with strong sunlight casting shadows and highlights across the bracts. The background is out of focus, and the image has a shallow depth of field. The lighting is direct and bright, creating high contrast between illuminated and shadowed areas. Photo type: Close-up
-- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/DfwcorqmQc8))
-  - Photo: Description: A cluster of small, light purple flowers with dew droplets on their petals, attached to a green stem with serrated leaves, set against a dark, out-of-focus forest floor background. Photograph read: The main subject is in focus, with shallow depth of field blurring the background. Lighting is even and diffused, likely from an overcast sky or shaded environment. The image has a natural color palette with no visible color casts or distortion. Photo type: Nature portrait
-- **jennstonick.florist**:  ([link](https://www.threads.com/@jennstonick.florist/post/DfuecvVmxix))
-  - Photo: Description: A close-up view of a floral arrangement featuring a prominent orange and yellow gerbera daisy, surrounded by red roses, purple carnations, white baby’s breath, and yellow daisies, with a brick-paved surface visible in the background. Photograph read: The image is taken from a high angle, with strong sunlight creating bright highlights and shadows. The composition is dense, with the gerbera daisy as the central focus. The rendering shows some overexposure in the upper left corner, and the background is slightly out of focus. Photo type: Still life
-    - Watch-outs: - Overexposure in the upper left corner, causing loss of detail in the white daisy and adjacent petals. - Background blur obscures the texture and definition of the brick pavement.
-- **dalmatinka11**:  ([link](https://www.threads.com/@dalmatinka11/post/DfuarwqmxX_))
-  - Photo: Description: A close-up of a fully bloomed pink rose with layered petals, set against a blurred background of green foliage and a light-colored wall. Photograph read: The rose is in sharp focus, with visible petal texture and color gradation from pink to yellow at the center. Lighting is even and diffused, without harsh shadows. Background elements are softly out of focus, indicating a shallow depth of field. Photo type: Portrait
-  - Photo: Description: A close-up view of a flower, likely a rose, with layered petals in soft pastel tones, transitioning from pale cream to light pink at the edges, with a dark, textured center visible through the petals. Photograph read: The image is a macro shot with shallow depth of field, focusing on the central portion of the bloom. Lighting is even and diffused, casting soft shadows between petals. The rendering is smooth with no visible digital artifacts or noise. Photo type: Macro
-  - Photo: Description: A close-up of a flower with deep magenta to white petals, centered on a cluster of dark, filamentous stamens. Photograph read: The image is a tight macro shot with even lighting, capturing the petal texture and central reproductive structures. The focus is centered on the flower’s core, with slight softness visible in the outer petals. Photo type: Macro
-    - Watch-outs: - Central stamens appear slightly out of focus, with fine filaments blending into the background. - Outer petals show minor softness and texture loss, reducing edge definition.
-  - Photo: Description: The photograph shows close-up views of three small, pale pink, star-shaped flowers with dark centers, nestled within the folds of large, vivid magenta leaf-like structures. The background is a soft, out-of-focus green. Photograph read: The image is a macro shot with shallow depth of field, keeping the flowers and surrounding leaf structures in focus while the background is blurred. Lighting is even and natural, illuminating the subject without harsh shadows or overexposure. The rendering preserves texture and color saturation. Photo type: Macro
-  - Photo: Description: A close-up photograph features a prominent purple tulip with visible stamens and a lighter center, surrounded by other purple and yellow tulips and green leaves, set against a patterned background. Photograph read: The image is a close-up with shallow depth of field, focusing on the central purple tulip. Lighting is even and bright, illuminating the petals and stamens. The rendering shows natural texture and color gradients without visible compression artifacts or color banding. Photo type: Macro
-  - Photo: Description: A single, fully open red daylily with a yellow center is in focus, set against a blurred background of green foliage and a light-colored wall. Photograph read: The main subject is sharply rendered with visible petal texture and stamen detail. Lighting is even and bright, illuminating the flower’s colors without harsh shadows. Background elements are softly out of focus, creating a shallow depth of field. Photo type: Portrait
-  - Photo: Description: A close-up of a deep red rose with multiple layers of petals, centered on the flower’s reproductive parts, set against a blurred green background. Photograph read: The image is a close-up with shallow depth of field, focusing sharply on the central part of the rose. Lighting is even and natural, illuminating the petals and stamen without harsh shadows. The background is out of focus, showing indistinct green foliage and soil. Photo type: Macro
-- **cordazone**:  ([link](https://www.threads.com/@cordazone/post/DfuaEr2m76C))
-  - Photo: Description: A snow-covered garden scene with tall, dried plant stalks bearing heavy snow caps, set against a backdrop of dark, snow-laden evergreen trees; a low mound of snow is visible in the mid-ground. Photograph read: The image has a soft, slightly grainy texture with muted color tones, showing a shallow depth of field that blurs the foreground and background elements. Lighting appears diffuse, casting even illumination without strong shadows or highlights. Photo type: Film photograph
-- **perlindgren**: Season of walks in my garden. 2026 ([link](https://www.threads.com/@perlindgren/post/DfuwLFoAs4d))
-  - _Replying to: A whole Swedish summer in one post - twenty flowers and the…_
-- **mdalida378**: The peonies do. ([link](https://www.threads.com/@mdalida378/post/Dfu-qmnG6-C))
-  - _Replying to: That magenta peony is doing all the shouting - the pale pin…_
-- **jacqrho**: Yes these are all from my garden. ([link](https://www.threads.com/@jacqrho/post/DfvKVtik9ux))
-  - _Replying to: Did you pick this bunch yourself? A green pitcher holding p…_
-- **kate.kook26**: I believe it's called a Narrow-leaf drumstick (Isopogon anethifolius) ([link](https://www.threads.com/@kate.kook26/post/DfviaSgk-a8))
-  - _Replying to: (photo reply, no text)_
-- **mrsmidgett18**: Almost all year, until we get our cold front that last about 2 months. Then she comes right back. ([link](https://www.threads.com/@mrsmidgett18/post/DfuVY4HoPIZ))
-  - _Replying to: That coral against the blue pot is doing all the work - the…_
-- **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
-  - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
-- **valerieannward55**: They vary all over the plant! ([link](https://www.threads.com/@valerieannward55/post/DfvFdkaG7H2))
-  - Photo: Description: A large, pink hydrangea bloom is centered in the foreground, surrounded by broad green leaves, with a weathered wooden building and yellowing foliage in the background. Photograph read: The image is taken at natural light, with the hydrangea in focus and the background slightly softer. The lighting is even, without harsh shadows or overexposure. The composition places the flower as the main subject, with background elements providing context. Photo type: Natural
-  - Photo: Description: The photograph shows a close-up of pink hydrangea flowers with large, textured green leaves, set against a dark background that includes a door and a wall-mounted light fixture. Photograph read: The image is composed with the flowers in the foreground and the background slightly out of focus. Lighting is natural daylight, illuminating the leaves and petals with visible texture. The rendering preserves surface detail on the leaves and blooms, though some areas are softly blurred. Photo type: Natural
-  - Photo: Description: A large, rounded cluster of hydrangea flowers in shades of pink and purple is centered in the frame, surrounded by broad green leaves. Photograph read: The image is taken in bright, direct sunlight, with strong contrast between the illuminated flower and shadowed areas. The flower cluster is in focus, while the surrounding foliage shows natural variation in lighting and some leaf texture detail. The rendering is sharp on the subject, with no visible signs of motion blur or chromatic aberration. Photo type: Natural
-  - Photo: Description: A close-up of a hydrangea flower head, composed of numerous small, pale greenish-white buds with subtle blue tips, surrounded by large, serrated green leaves. Photograph read: The image is a close-up with natural lighting, showing fine surface texture on the leaves and buds. The focus is centered on the flower head, with background leaves softly blurred. The rendering preserves color and detail without visible compression or noise. Photo type: Macro
-  - Photo: Description: A cluster of pink hydrangea flowers with green leaves in the foreground, set against a dark wooden fence in the background. Photograph read: The main subject is in focus with visible petal texture and leaf veins; lighting is even and natural, with no obvious overexposure or underexposure. Background elements are softly blurred due to depth of field. Photo type: Natural
-  - _Replying to: A whole cloud of pink in one bloom - the sunlight through t…_
-- **loeswevers**: No! It was the first time in Singapore and the first time to an orchid garden. I loved it. ([link](https://www.threads.com/@loeswevers/post/DfufeJrEWAJ))
-  - _Replying to: That pouch orchid looks like it is wearing a fancy slipper …_
-- **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
-  - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
-- **bendlesmaid269**: It was stunning 🤩 ([link](https://www.threads.com/@bendlesmaid269/post/DfttdqBilwf))
-  - _Replying to: A whole church dressed for a wedding - that must have smell…_
-- **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
-  - _Replying to: Rose._
-- **graveytrain023**: Yes they do ([link](https://www.threads.com/@graveytrain023/post/Dfv8aI5lvTZ))
-  - _Replying to: Do the spider lilies and the orange zinnia bloom at the sam…_
-- **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
-  - _Replying to: A single white rose, a frosted bottle, and a whole list of …_
-- **citizenb**: I love your perspective and unique style! 🫶💚 ([link](https://www.threads.com/@citizenb/post/DfsDpygIIXi))
-  - _Replying to: (photo reply, no text)_
-- **zepsammy**:  ([link](https://www.threads.com/@zepsammy/post/DftzFValCPL))
-  - Photo: Description: A cluster of pink foxglove flowers hangs vertically, with some blooms open and others still closed, set against a blurred garden background featuring greenery and out-of-focus lights. Photograph read: The image is a close-up with shallow depth of field, focusing on the foreground flowers. Lighting is soft and even, with no visible harsh shadows or overexposure. Background elements are blurred into bokeh, and the flowers show natural texture and color variation. Photo type: Portrait
-  - Photo: Description: Two purple flowers with yellow centers are in focus, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, showing the flowers in sharp detail while the background is softly out of focus. Lighting is even and natural, illuminating the petals and center without harsh shadows or overexposure. Photo type: Portrait
-  - _Replying to: (photo reply, no text)_
 
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (22)
+## Needs Like (4)
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
@@ -90,24 +26,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - cheeks1969: Thank you. ([link](https://www.threads.com/@cheeks1969/post/DfuWmZUlUhe))
 - 2killamockingbird: 🙏🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujbGZgHEs))
 - 2killamockingbird: 🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujaGjABsl))
-
-### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- shiawasemainichi5: You're welcome. ([link](https://www.threads.com/@shiawasemainichi5/post/DftrOPxk_Ww))
-- realhomesbylinda: Absolutely! ([link](https://www.threads.com/@realhomesbylinda/post/DfujuWZm0nO))
-- reef_ausic: My pleasure ([link](https://www.threads.com/@reef_ausic/post/DfvI8YFEvnL))
-- mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DftpkAiCKoR))
-- picann: My pleasure.☺️ ([link](https://www.threads.com/@picann/post/DfsstT5mQk0))
-- broccoli.bella: Togehter🥰 ([link](https://www.threads.com/@broccoli.bella/post/DfsN3aqiC5H))
-- beckiefitzgerald: Thank you 🥰 ([link](https://www.threads.com/@beckiefitzgerald/post/Dfs3mZ0oBg0))
-- jcoledesign: Perfect ([link](https://www.threads.com/@jcoledesign/post/DfsJMCgG2rh))
-- natazlody: 😊🌸 ([link](https://www.threads.com/@natazlody/post/DfsJamRjJv2))
-- beckiefitzgerald: Beautifully captured! ([link](https://www.threads.com/@beckiefitzgerald/post/DfsGtotIKT9))
-- citizenb: Thanks so much! 😊 ([link](https://www.threads.com/@citizenb/post/DfsHOoBoO4L))
-- muppy007: Your welcome 🤗 ([link](https://www.threads.com/@muppy007/post/DfuNqAlCBCA))
-- citizenb: Beautiful, Muppy! ([link](https://www.threads.com/@citizenb/post/DfsDgjSoDia))
-- remondiazart: Thanks 👍📷📷 ([link](https://www.threads.com/@remondiazart/post/DfsJR9pFldy))
-- charhedman: You’re welcome ! 🙏 ([link](https://www.threads.com/@charhedman/post/DfsAXQdm-nU))
-- citizenb: Welcome! 🤗 ([link](https://www.threads.com/@citizenb/post/DfsHQf3IOUm))
-- 2killamockingbird: 🥰 ([link](https://www.threads.com/@2killamockingbird/post/DfsIIIKgMH_))
-- 2killamockingbird: My pleasure 🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Dfr_9HIgEBY))
 
