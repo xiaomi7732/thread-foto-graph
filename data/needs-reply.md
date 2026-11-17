@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (54)
+## Needs Reply (56)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **0lindar**:  ([link](https://www.threads.com/@0lindar/post/Df2zRWJFprj))
+  - Photo: Description: The image shows a close-up of a deteriorating brick and mortar structure, with visible cracks, moss growth, and a partially broken decorative tile or brick element at the corner, adjacent to weathered wood siding. Photograph read: The image is in focus and well-lit, capturing surface textures and details of the decayed masonry. Lighting is even, with no obvious shadows or overexposure. The composition is tight, centered on the damaged corner. Photo type: Documentary
+    - Watch-outs: - The broken decorative tile at the corner is partially obscured by crumbling mortar and moss, limiting visibility of its original design and condition. - The wood siding above shows peeling paint and a vertical crack, which reduces clarity of surface texture and material integrity.
+- **katybchnk**: Does this count? ([link](https://www.threads.com/@katybchnk/post/Df2zGE3Ch1j))
+  - Photo: Description: The image captures the interior of a multi-level shopping mall with curved, white architectural elements and escalators connecting various floors. People are visible on the escalators and walkways, with storefronts and signage partially visible at the bottom. Photograph read: The composition is dominated by diagonal lines created by the escalators and architectural curves. Lighting is bright and even, with recessed ceiling lights and subtle accent lighting along the edges. The image appears to be taken from a low angle looking upward, with no visible signs of motion blur, focus issues, or color distortion. Photo type: Commercial interior
 - **shawn.alma**:  ([link](https://www.threads.com/@shawn.alma/post/Df2xzv0GlW3))
   - Photo: Description: A single dried, brown leaf with visible venation rests on a weathered wooden surface with prominent grain and cracks. Photograph read: The image is a close-up shot with even, diffuse lighting. The leaf and wood surface are in focus, showing clear texture and detail. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Documentary
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))

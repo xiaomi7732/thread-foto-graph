@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 228,
+      "reply_count": 230,
       "replies": [
+        {
+          "username": "0lindar",
+          "text": "",
+          "permalink": "https://www.threads.com/@0lindar/post/Df2zRWJFprj",
+          "photos": [
+            "Description: The image shows a close-up of a deteriorating brick and mortar structure, with visible cracks, moss growth, and a partially broken decorative tile or brick element at the corner, adjacent to weathered wood siding. Photograph read: The image is in focus and well-lit, capturing surface textures and details of the decayed masonry. Lighting is even, with no obvious shadows or overexposure. The composition is tight, centered on the damaged corner. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "- The broken decorative tile at the corner is partially obscured by crumbling mortar and moss, limiting visibility of its original design and condition. - The wood siding above shows peeling paint and a vertical crack, which reduces clarity of surface texture and material integrity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "katybchnk",
+          "text": "Does this count?",
+          "permalink": "https://www.threads.com/@katybchnk/post/Df2zGE3Ch1j",
+          "photos": [
+            "Description: The image captures the interior of a multi-level shopping mall with curved, white architectural elements and escalators connecting various floors. People are visible on the escalators and walkways, with storefronts and signage partially visible at the bottom. Photograph read: The composition is dominated by diagonal lines created by the escalators and architectural curves. Lighting is bright and even, with recessed ceiling lights and subtle accent lighting along the edges. The image appears to be taken from a low angle looking upward, with no visible signs of motion blur, focus issues, or color distortion. Photo type: Commercial interior"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "shawn.alma",
           "text": "",
