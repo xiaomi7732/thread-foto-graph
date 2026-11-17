@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (34)
+## Needs Reply (36)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
@@ -37,6 +37,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rust red diamonds on blue - the lattice does all the talkin…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
+- **ulrike6417**: I think so! ([link](https://www.threads.com/@ulrike6417/post/Df3Am6MgAM_))
+  - _Replying to: Every spike points somewhere different and somehow they all…_
 - **raijapoignand**: Bunya nut pine , Australian native , new tips in spring ([link](https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK))
   - _Replying to: The branch tips repeat like green fireworks - dark and brig…_
 - **eelizjjjm**: I’ll have to wait ‘til next Spring to time it! ([link](https://www.threads.com/@eelizjjjm/post/Df2__3XoBMP))
@@ -63,6 +65,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **bumpy120**: Judging by where it is I would say at least 100 years old. ([link](https://www.threads.com/@bumpy120/post/Df2-s8PH1VH))
   - _Replying to: Deep grooves and hard light - the bark reads like a carved …_
+- **cape_cod_laurie**:  ([link](https://www.threads.com/@cape_cod_laurie/post/Df3A82Bn_RC))
+  - Photo: Description: A pile of assorted wooden planks and logs rests on a gravelly, sandy path beside overgrown vegetation, with a wide, flat marshland and distant treeline under a heavily clouded sky. Photograph read: The image is captured with diffuse, even lighting from an overcast sky, resulting in muted tones and soft shadows. The composition is wide, with the foreground pile of wood occupying the lower right, leading the eye toward the midground marsh and distant treeline. No signs of lens distortion or chromatic aberration are visible. Photo type: Natural landscape
+  - Photo: Description: The photograph shows a wide, overcast sky above a flat, grassy field bordered by dense vegetation and scattered wooden logs and pallets in the foreground, with distant treelines and faint structures visible on the horizon. Photograph read: The sky dominates the frame with heavy, layered clouds, and the lighting is diffuse and muted, casting soft shadows. The foreground elements are in relatively even exposure, with no visible signs of motion blur or focus issues. The horizon line is clearly defined, and the composition is balanced between sky and land. Photo type: Natural landscape
+  - _Replying to: Every log end a different fingerprint of rings, all stacked…_
 - **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
   - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
