@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (12)
+## Needs Reply (15)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **silmarillioncollector**: Nice shot there. ([link](https://www.threads.com/@silmarillioncollector/post/Df2QD0bDGcx))
+- **rajesh__dixit**:  ([link](https://www.threads.com/@rajesh__dixit/post/Df2P1h8DMvs))
+  - Photo: Description: The photograph shows the interior of a large, modern architectural space, featuring a complex, geometrically patterned ceiling and supporting columns, with large glass windows and illuminated letter signs visible below. Photograph read: The ceiling’s repeating, curved panels create a strong diagonal and radial pattern, with light filtering through openings. The lighting is directional, casting shadows and highlights across the surfaces. The composition is symmetrical around a central column, with two vertical signs displaying the letters "M" and "L" in blue. Photo type: Architectural
 - **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2Pat3iI2z))
   - Photo: Description: The photograph shows a circular stained-glass dome ceiling, viewed from below, with a central circular opening and radiating structural ribs. The glass features geometric patterns in green, yellow, and red, with decorative motifs. Photograph read: The image is taken from a low angle looking upward, with even illumination across the dome. The composition is symmetrical, centered on the dome’s apex. The glass panels are clearly delineated by dark lead lines, and the patterns are visible but not overly detailed. The edges of the dome are framed by a reddish-brown architectural border. Photo type: Architectural
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
@@ -32,6 +35,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The background is uniformly bright, obscuring any contextual detail or depth beyond the tree’s silhouette. - The tree trunk shows visible texture, but the upper canopy branches are thin and lack discernible leaf detail due to low contrast and high brightness.
 - **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/Df2Oaf1gLkJ))
   - Photo: Description: The photograph shows the interior of a long, arched hall with a high, curved wooden ceiling and stone walls, featuring visitors and framed artworks on the walls. Photograph read: The composition is symmetrical, with the ceiling’s radial wood beams creating strong leading lines toward a distant stone fireplace. Lighting is even and warm, primarily from ceiling-mounted fixtures, illuminating the ceiling and walls without harsh shadows. The rendering is clear, with visible texture on the stone and wood surfaces. Photo type: Architectural
+- **images_by_ramona**: This is Ivy ([link](https://www.threads.com/@images_by_ramona/post/Df2QPcvG2po))
+  - _Replying to: Those pale starburst buds keep popping out of the dark leav…_
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))

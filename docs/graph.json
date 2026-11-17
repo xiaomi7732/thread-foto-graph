@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18120910145083329",
-      "label": "background, photograph, image, photo",
+      "label": "background, photograph, photo, image",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -13,8 +13,30 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 20,
+      "reply_count": 23,
       "replies": [
+        {
+          "username": "silmarillioncollector",
+          "text": "Nice shot there.",
+          "permalink": "https://www.threads.com/@silmarillioncollector/post/Df2QD0bDGcx",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "rajesh__dixit",
+          "text": "",
+          "permalink": "https://www.threads.com/@rajesh__dixit/post/Df2P1h8DMvs",
+          "photos": [
+            "Description: The photograph shows the interior of a large, modern architectural space, featuring a complex, geometrically patterned ceiling and supporting columns, with large glass windows and illuminated letter signs visible below. Photograph read: The ceiling\u2019s repeating, curved panels create a strong diagonal and radial pattern, with light filtering through openings. The lighting is directional, casting shadows and highlights across the surfaces. The composition is symmetrical around a central column, with two vertical signs displaying the letters \"M\" and \"L\" in blue. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "snowdonman66",
           "text": "",
@@ -224,7 +246,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "images_by_ramona",
+                  "text": "This is Ivy",
+                  "permalink": "https://www.threads.com/@images_by_ramona/post/Df2QPcvG2po",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -265,7 +298,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "background, photograph, image, photo",
+      "label": "background, photograph, photo, image",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
@@ -347,7 +380,7 @@
     },
     {
       "id": "18138527668657912",
-      "label": "background, photograph, image, photo",
+      "label": "background, photograph, photo, image",
       "group": 0,
       "snippet": "The neighborhood's tiniest library. Take a book, leave a bo\u2026",
       "text": "The neighborhood's tiniest library. Take a book, leave a book.",
@@ -369,7 +402,7 @@
     },
     {
       "id": "18117787960828778",
-      "label": "background, photograph, image, photo",
+      "label": "background, photograph, photo, image",
       "group": 0,
       "snippet": "Flower Friday favorites \ud83c\udfc6 5 flowers that stopped my scroll:\u2026",
       "text": "Flower Friday favorites \ud83c\udfc6 5 flowers that stopped my scroll: Robert Pacheco @cheeks1969 - butterfly on coneflower Denise Potter @2killamockingbird - passionflower up close Beckie Fitzgerald @beckiefitzgerald - white rose in the rain Jess G Perry @jessgperry - lily in black and white Anne Weblemoe Lucido @islandoutfitter - Christmas cactus bloom Beautiful work, all of you. Reel: https://www.instagram.com/reel/DftsNENj_ip/",
