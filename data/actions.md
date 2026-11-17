@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (48)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **photopattyrn**:  ([link](https://www.threads.com/@photopattyrn/post/Df2sZtQmMK0))
+  - Photo: Description: A large, geodesic dome greenhouse with a metal and glass framework dominates the scene, set against a clear blue sky with wispy clouds. The foreground features a sloped green lawn with shadows cast across it, and surrounding vegetation including shrubs and evergreens. Photograph read: The image is taken from a low angle, emphasizing the dome’s curvature. Bright sunlight illuminates the structure, casting distinct shadows on the grass. The dome’s geometric pattern is clearly visible, and the sky is vividly blue with thin clouds. The image appears sharp and well-lit, with no visible signs of motion blur or focus issues. Photo type: Architectural
+- **kathleen_payne**:  ([link](https://www.threads.com/@kathleen_payne/post/Df2sIpcDz7g))
+  - Photo: Description: The photograph shows a low-angle view looking upward through the geometric lattice structure of a large metal bridge, with a clear blue sky and scattered white clouds visible through the openings. Photograph read: The composition is dominated by repeating diamond-shaped metal trusses and vertical suspension cables. The lighting is bright and even, suggesting daylight, with no visible shadows or overexposure. The rendering is sharp, with clear edges on the metal framework and distinct separation between the structure and sky. Photo type: Architectural
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df2rPO1kVP9))
