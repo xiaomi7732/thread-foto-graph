@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (22)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **amaginings**:  ([link](https://www.threads.com/@amaginings/post/Df29c_JAqST))
+  - Photo: Description: The photograph shows a dense, close-up view of numerous white daisy-like flowers with yellow centers, filling the entire frame. Photograph read: The composition is uniform and tightly packed, with no discernible background or foreground depth. Lighting is even and diffused, casting soft shadows and highlighting the texture of the petals. Rendering is consistent across the frame without visible artifacts or distortion. Photo type: Macro
+- **amelia.burgess.16**: Crossed it into the trees, beautiful place ([link](https://www.threads.com/@amelia.burgess.16/post/Df29iA2DTyX))
+  - _Replying to: It qualifies - the netting is a diamond grid all the way in…_
 - **semolacarla**: If I recall, it was a decently large fern. I don't believe I cropped it. ([link](https://www.threads.com/@semolacarla/post/Df28oisGr8Y))
   - _Replying to: I think the black and white was the right call - every leaf…_
 - **mtqiwoman**: Just lucky with the sun angle. ([link](https://www.threads.com/@mtqiwoman/post/Df28CkjHeVk))
@@ -23,31 +27,18 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wind or water - which one combed the sand into those lines?_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
+- **debi0528**: This was at the NY Botanical Garden this summer. ([link](https://www.threads.com/@debi0528/post/Df29Nfin6Sb))
+  - _Replying to: The glass roof grids the sky while the banners shout in flo…_
+- **hannele.heikkinen**: The artwork consists of welded stainless steel tubes and rings that reflect the ambient light at different times of the day. The sculpture of salmon is 15 meters long, 4 meters high, and weighs approximately 5000–6000 kilograms. ([link](https://www.threads.com/@hannele.heikkinen/post/Df29eNuDm4y))
+  - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
 - **trevahearne**: Not sure. The label just said "decorative grass" its at our community garden. ([link](https://www.threads.com/@trevahearne/post/Df280ktFAIX))
   - _Replying to: Backlit plumes against that blue - the grasses glow at the …_
 - **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/Df2iCbrEg8K))
   - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
 - **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
   - _Replying to: (photo reply, no text)_
-- **anto_acz**: It’s an old stone wall in a small country village in Lombardy, Northern Italy. ([link](https://www.threads.com/@anto_acz/post/Df2g2cmERrl))
-  - _Replying to: No two stones the same, and somehow they all fit - the spec…_
-- **jh1962bike**: Hard to say , I was keeping an eye out for mushrooms but not in this shape. Could have been a golf ball . ([link](https://www.threads.com/@jh1962bike/post/Df2h8CICFxK))
-  - _Replying to: Every one of those little spikes tipped in brown, hundreds …_
-- **smilingjeannie**: This one was remarkably still as it was feeding. ([link](https://www.threads.com/@smilingjeannie/post/Df2gvOHHZam))
-  - _Replying to: Lewis Ginter's butterflies do not disappoint - that big eye…_
 - **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
   - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
-- **picsall**: Not very close to the ground that tumbleweed is about thigh high. We’ve had a lot of rain lately. ([link](https://www.threads.com/@picsall/post/Df2lYW8m0Xl))
-  - _Replying to: Every spine seems to point somewhere different, and somehow…_
-- **sari_soderena**: That's a photo from my garden in the summer. ([link](https://www.threads.com/@sari_soderena/post/Df2g_digBi3))
-  - _Replying to: Four petals set like a compass, each one veined, and that y…_
-- **suceee_mac**: Isn’t it amazing? 🥰 It’s a Zombie Palm (Zombia antillarum), native to Haiti and the Dominican Republic. ([link](https://www.threads.com/@suceee_mac/post/Df2hd4um2Ie))
-  - _Replying to: That trunk looks woven rather than grown - all those fibers…_
-- **marinacasalribeiro**: People call it torch lily and when it's open, it looks like this. ([link](https://www.threads.com/@marinacasalribeiro/post/Df2gVO8iLfU))
-  - Photo: Description: The photograph shows several tall, cylindrical flower spikes with fiery red and yellow gradients, standing in a garden setting against a backdrop of green foliage, a tree trunk, and a tiled roof under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with natural outdoor lighting. The flowers are in sharp focus relative to the background, which includes trees and a building. The composition places the flowers in the foreground, with the background slightly out of focus, creating a shallow depth of field. The rendering is clear and vivid, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
-  - _Replying to: How many buds are packed onto that one spike? Row after row…_
-- **gnd_moments_in_paradise**: Just down the sea front. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df2kt6UiDs1))
-  - _Replying to: The arches repeat until they turn into a tunnel of sky, and…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
@@ -67,8 +58,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Loved our time in Sydney some amazing buildings and nice mi…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
-- **newtoem**: No i don't. Saw this on Kangaroo Island in Australia and thought it was so interesting! ([link](https://www.threads.com/@newtoem/post/Df2iSx3G8iN))
-  - _Replying to: That starburst rosette is a trap in plain sight - those sti…_
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 
