@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (5)
+## Needs Reply (8)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **newtoem**:  ([link](https://www.threads.com/@newtoem/post/Df2OjPmG7eF))
+  - Photo: Description: The image shows several yellow, spiky carnivorous plants with sticky, glandular surfaces, growing in a mossy, grassy environment with scattered small flowers and debris. Photograph read: The composition is a close-up, top-down view with natural, diffused lighting. The image has moderate sharpness, with some motion blur or softness affecting the fine details of the plant surfaces and surrounding vegetation. Color saturation is high, but contrast is moderate. Photo type: Macro
+    - Watch-outs: - The central plant’s center is slightly out of focus, reducing the clarity of its reproductive structures. - The edges of the spiky leaves show motion blur or soft focus, obscuring the fine texture of the glandular hairs.
+- **violet1122**:  ([link](https://www.threads.com/@violet1122/post/Df2OfewlLto))
+  - Photo: Description: A tree is viewed from below, framed by the dark silhouettes of two adjacent tree trunks, with its branches and foliage extending upward against a bright, uniform background. Photograph read: The composition is centered on the tree’s trunk and crown, with strong contrast between the dark silhouettes and the bright background. The rendering is monochromatic, with visible texture on the trunk and fine branching detail in the canopy. The background is flat and overexposed, lacking tonal variation. Photo type: Black-and-white still life
+    - Watch-outs: - The background is uniformly bright, obscuring any contextual detail or depth beyond the tree’s silhouette. - The tree trunk shows visible texture, but the upper canopy branches are thin and lack discernible leaf detail due to low contrast and high brightness.
+- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/Df2Oaf1gLkJ))
+  - Photo: Description: The photograph shows the interior of a long, arched hall with a high, curved wooden ceiling and stone walls, featuring visitors and framed artworks on the walls. Photograph read: The composition is symmetrical, with the ceiling’s radial wood beams creating strong leading lines toward a distant stone fireplace. Lighting is even and warm, primarily from ceiling-mounted fixtures, illuminating the ceiling and walls without harsh shadows. The rendering is clear, with visible texture on the stone and wood surfaces. Photo type: Architectural
 - **lluvia3487**:  ([link](https://www.threads.com/@lluvia3487/post/Df2N7dNG1rP))
   - Photo: Description: The photograph shows a close-up view of a shoreline where gentle waves with white foam are receding onto wet sand, leaving behind visible ripple patterns. Photograph read: The composition is a low-angle shot focusing on the sand and water interface. Lighting is even and diffused, suggesting an overcast day or indirect sunlight. The rendering is clear, with fine texture detail visible in the sand and foam. Photo type: Natural
 - **cindyreedgallery**: Sunnyland. ([link](https://www.threads.com/@cindyreedgallery/post/Df2N4JuG9eE))
