@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 188,
+      "reply_count": 192,
       "replies": [
+        {
+          "username": "wj.fox",
+          "text": "",
+          "permalink": "https://www.threads.com/@wj.fox/post/Df2hWFAkcQp",
+          "photos": [
+            "Description: The photograph shows a close-up of tree bark with patches of pale, leafy lichen growing on its textured surface, which has deep grooves and rough ridges. Photograph read: The image is composed with the bark occupying the entire frame, lit by direct, somewhat harsh light that creates bright highlights and deep shadows. The rendering preserves surface texture and color variation, with no visible signs of motion blur or focus issues. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "teresabethe",
           "text": "",
@@ -387,10 +399,21 @@
                   "text": "Ouch close!",
                   "permalink": "https://www.threads.com/@resnicklr/post/Df2b3zZlNn2",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "lol \ud83d\ude02",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2hX9Jmt_-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -734,7 +757,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sari_soderena",
+                  "text": "That's a photo from my garden in the summer.",
+                  "permalink": "https://www.threads.com/@sari_soderena/post/Df2g_digBi3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -802,7 +836,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "suceee_mac",
+                  "text": "Isn\u2019t it amazing? \ud83e\udd70 It\u2019s a Zombie Palm (Zombia antillarum), native to Haiti and the Dominican Republic.",
+                  "permalink": "https://www.threads.com/@suceee_mac/post/Df2hd4um2Ie",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (17)
+## Needs Reply (20)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/Df2hWFAkcQp))
+  - Photo: Description: The photograph shows a close-up of tree bark with patches of pale, leafy lichen growing on its textured surface, which has deep grooves and rough ridges. Photograph read: The image is composed with the bark occupying the entire frame, lit by direct, somewhat harsh light that creates bright highlights and deep shadows. The rendering preserves surface texture and color variation, with no visible signs of motion blur or focus issues. Photo type: Macro
 - **teresabethe**:  ([link](https://www.threads.com/@teresabethe/post/Df2glD_CXba))
   - Photo: Description: A single red bell pepper with a green stem and calyx rests on a speckled granite countertop. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The pepper’s surface reflects light uniformly, and the countertop shows a granular texture with no visible motion blur or lens distortion. Photo type: Still life
 - **gwadoudou**:  ([link](https://www.threads.com/@gwadoudou/post/Df2gi9ike_2))
@@ -24,6 +26,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: No two stones the same, and somehow they all fit - the spec…_
 - **smilingjeannie**: This one was remarkably still as it was feeding. ([link](https://www.threads.com/@smilingjeannie/post/Df2gvOHHZam))
   - _Replying to: Lewis Ginter's butterflies do not disappoint - that big eye…_
+- **sari_soderena**: That's a photo from my garden in the summer. ([link](https://www.threads.com/@sari_soderena/post/Df2g_digBi3))
+  - _Replying to: Four petals set like a compass, each one veined, and that y…_
+- **suceee_mac**: Isn’t it amazing? 🥰 It’s a Zombie Palm (Zombia antillarum), native to Haiti and the Dominican Republic. ([link](https://www.threads.com/@suceee_mac/post/Df2hd4um2Ie))
+  - _Replying to: That trunk looks woven rather than grown - all those fibers…_
 - **marinacasalribeiro**: People call it torch lily and when it's open, it looks like this. ([link](https://www.threads.com/@marinacasalribeiro/post/Df2gVO8iLfU))
   - Photo: Description: The photograph shows several tall, cylindrical flower spikes with fiery red and yellow gradients, standing in a garden setting against a backdrop of green foliage, a tree trunk, and a tiled roof under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with natural outdoor lighting. The flowers are in sharp focus relative to the background, which includes trees and a building. The composition places the flowers in the foreground, with the background slightly out of focus, creating a shallow depth of field. The rendering is clear and vivid, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
   - _Replying to: How many buds are packed onto that one spike? Row after row…_
