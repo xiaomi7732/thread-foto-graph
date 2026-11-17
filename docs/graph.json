@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 59,
+      "reply_count": 78,
       "replies": [
+        {
+          "username": "gnd_moments_in_paradise",
+          "text": "",
+          "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/Df2SpeqiAC5",
+          "photos": [
+            "Description: The image shows a pathway lined with palm trees under a large, arched, white structural canopy against a clear blue sky, with buildings visible in the background. Photograph read: The composition is symmetrical, with repeating arches and palm trunks framing the center. Lighting is bright daylight, casting distinct shadows. Rendering is sharp on the structural elements and foliage, with no visible signs of motion blur or focus issues. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "demidova_nadezda",
+          "text": "",
+          "permalink": "https://www.threads.com/@demidova_nadezda/post/Df2SR7eCM2G",
+          "photos": [
+            "Description: The image shows a close-up of a textured, fibrous material, likely a thick rope or braided cord, with a matted, tangled appearance and muted grayish-blue tones. Photograph read: The composition is tightly framed on the material\u2019s surface, with no discernible background. Lighting is diffuse and even, casting minimal shadows, and the rendering is grainy with low contrast, obscuring fine texture. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "Whole-image blur obscures fine detail across the entire subject. The texture appears soft and indistinct, with no sharp edges or clear fiber separation visible."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lorelie2010",
           "text": "",
@@ -123,7 +150,30 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mcoger55",
+                  "text": "this one taken around 8:30 pm",
+                  "permalink": "https://www.threads.com/@mcoger55/post/Df2SbKTlELp",
+                  "photos": [
+                    "Description: A vast field of ripe, golden wheat stretches to the horizon under a bright sky, with a line of trees and distant farm structures visible in the background. Photograph read: The image is taken from a low angle, filling the frame with wheat stalks in the foreground. Lighting is bright and direct, casting subtle shadows between stalks. The wheat heads are in focus, but the background is slightly softer, suggesting a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Natural landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "mcoger55",
+                  "text": "pix was taken around 7:30 pm",
+                  "permalink": "https://www.threads.com/@mcoger55/post/Df2SXuXlG2w",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -134,10 +184,32 @@
           "photos": [
             "Description: A wooden bookshelf with four shelves, displaying a variety of books, including editions of the Wisden Cricketers' Almanack, works by Terry Pratchett, Lois McMaster Bujold, and Ursula K. Le Guin. Photograph read: The image is taken from a frontal perspective with even, diffuse lighting. Books are arranged upright, with spines facing the viewer. The wood grain of the shelf is visible, and the image has no apparent motion blur or distortion. Text on book spines is legible in most cases, though some titles are partially obscured by adjacent books or slight misalignment. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The top shelf fading from cream to yellow through the Wisdens is such a quiet pattern - and then the Pratchett run takes over below. Which shelf gets opened most?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2SHCyIIDL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "silmarillioncollector",
+                  "text": "Probably the bottom shelf, as it contains several of my favourite Pratchetts.",
+                  "permalink": "https://www.threads.com/@silmarillioncollector/post/Df2So6OjKnF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "wendyloveswalking",
@@ -146,10 +218,21 @@
           "photos": [
             "Description: The image shows a close-up of frost or ice crystals forming on a dark, granular surface, possibly soil or gravel, with some dry plant material visible. Photograph read: The composition is dominated by crystalline structures radiating outward, with high contrast between the bright, icy formations and the dark background. Lighting appears direct, casting sharp highlights on the crystals. The rendering is detailed but lacks depth, with no visible depth-of-field blur or motion artifacts. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Are those frost stars really that blue, or is the cold light doing half the work?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2SJBOFr9b",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "keltainentalorannalla",
@@ -158,10 +241,21 @@
           "photos": [
             "Description: A wooden dock extends from the foreground into calm water, with dark pilings at intervals along its length. The water reflects sunlight, creating bright glints on the left side. Photograph read: The image is taken from a low angle looking down the dock\u2019s length, with strong directional lighting casting shadows beneath the planks and pilings. The dock planks show clear texture and grain, while the water appears smooth with scattered reflections. The image has a warm color cast and visible vignetting at the corners. Photo type: Aesthetic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Every plank lines up and marches straight out to the water - I kept following them to the end. Is this your regular walk, or a first visit?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2SK1UEWWY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "corwyn671",
@@ -170,10 +264,21 @@
           "photos": [
             "Description: A close-up shot of the upper portion of a dark-colored cowboy boot, featuring intricate stitched patterns in white and light blue thread. The background is out of focus, showing indistinct shapes and warm tones. Photograph read: The image is a vertical close-up with shallow depth of field, focusing on the boot\u2019s decorative stitching. Lighting is even and diffused, highlighting the texture and pattern without harsh shadows or overexposure. The boot\u2019s surface shows natural leather grain and stitching detail. Photo type: Product photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That white stitching pops so hard against the black leather - the zigzag almost glows. Are these yours, or a shop find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2SModlB0g",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fallriverpostman",
@@ -185,10 +290,21 @@
           "watch_outs": [
             "The duck\u2019s eyes are obscured by overlapping feathers, making them unreadable; the head and neck area are slightly soft-focused, reducing the sharpness of feather detail."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Tucked right in and pretending the camera is not there - those mottled feathers make a pattern all on their own. Do they always nap this soundly in the open?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2SOr2kUw_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "robmajor111",
@@ -197,10 +313,21 @@
           "photos": [
             "Description: The photograph shows the interior of a large, modern architectural space with a high, white, ribbed ceiling and a central skylight, with many people walking on a wide, tiled floor and ascending stairs. Photograph read: The composition is symmetrical, with the ceiling ribs converging toward the center. Lighting is bright and even, primarily from the skylight, casting soft shadows. The rendering is clear, with visible textures on the ceiling and floor, and people are discernible but not sharply detailed. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Do those ribs feel as huge in person as they look here? The white fins just keep repeating until the skylight cuts through the middle.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2SQh9lEL0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "silmarillioncollector",
@@ -271,10 +398,47 @@
                   "text": "Taken inside qvb sydney fabulous place whish3d I could have got a better angle",
                   "permalink": "https://www.threads.com/@snowdonman66/post/Df2QqwzCG8Y",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "QVB suits it beautifully - the dome does all the work, angle or not. Thanks for sharing where it was taken.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2Sa5GFEQ7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "snowdonman66",
+                          "text": "",
+                          "permalink": "https://www.threads.com/@snowdonman66/post/Df2Sp0NCDns",
+                          "photos": [
+                            "Description: A dark, ornate spiral staircase with intricate metalwork is set against a solid, vibrant red background. The staircase features decorative circular panels and balusters, ascending in a tight helix. Photograph read: The image is composed with the staircase as the central subject, framed against a uniform red backdrop. Lighting is even, highlighting the metallic texture and patterns without casting harsh shadows. The rendering preserves fine details of the railings and steps. Photo type: Architectural",
+                            "Description: The photograph shows a large, ornate clock tower suspended in the center of a multi-level shopping arcade with a high, arched glass and metal ceiling. Shoppers and storefronts line the upper and lower levels. Photograph read: The image is taken from an elevated perspective, capturing the central clock tower and surrounding architecture. Lighting is even and diffused, likely from the glass ceiling, illuminating the scene without harsh shadows. The clock face and surrounding decorative elements are clearly visible, and the architectural details of the arcade are well resolved. Photo type: Architectural",
+                            "Description: The photograph captures a large, ornate clock tower with a golden dome, situated in the center of a multi-level shopping arcade with glass and metal roofing and patterned tile floors. People are visible walking and sitting in the arcade. Photograph read: The image is taken from an elevated perspective, showing multiple levels of the arcade with shops and railings. Lighting is bright and even, likely from the glass roof, with no visible shadows or overexposed areas. The clock tower is the central focus, with clear details on its face and surrounding decorative elements. Photo type: Architectural",
+                            "Description: The photograph shows the interior of a covered shopping arcade with multiple storefronts, including \u201cKalmar Antiques\u201d and \u201cCicchetti bar restaurant,\u201d featuring stained-glass windows and glass display cases filled with jewelry. Several pedestrians are visible, observing the shops. Photograph read: The image is taken from an elevated position, looking down into the arcade. Lighting is bright and even, with reflections visible on glass surfaces. The composition includes architectural elements like arched windows and metal trusses overhead. The rendering is clear, with sharp edges on signs and displays. Photo type: Commercial interior"
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        },
+                        {
+                          "username": "snowdonman66",
+                          "text": "Loved our time in Sydney some amazing buildings and nice mix of old and new",
+                          "permalink": "https://www.threads.com/@snowdonman66/post/Df2Si5kiE52",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -366,10 +530,21 @@
                   "text": "Appreciate it, it was in a parking lot, luckily no one around when I walked by",
                   "permalink": "https://www.threads.com/@gteam0/post/Df2RC9XG6CW",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lucky timing on an empty corridor - and a great eye for spotting it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2SXnxkYZi",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -391,10 +566,21 @@
               "text": "I found the feather lying on the ground in my yard. For the life of me I could never figure out what bird dropped it. It remains a mystery",
               "permalink": "https://www.threads.com/@schemenme/post/Df2Q8u7m67I",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "A yard mystery with no answer - somehow that makes the feather even better. Thanks for the story.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Df2SZCDlZvK",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -563,10 +749,21 @@
                   "text": "It was very quiet. I'd say humbling. The pic does not show the scale of the cloister.",
                   "permalink": "https://www.threads.com/@syldelteglia/post/Df2RABwACnS",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Thanks for sharing it - a place that clearly stays with you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2SVoWlKuN",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -622,10 +819,21 @@
                   "photos": [
                     "Description: A close-up view of a crocheted textile featuring a pattern of interlocking hexagons in shades of red, pink, gray, and cream, displayed against a dark background. Photograph read: The image is a macro shot with even, direct lighting that highlights the texture and stitch patterns. The composition is tightly framed on the fabric, with no visible depth of field blur or motion blur. The rendering preserves fine details of the crochet stitches and color transitions. Photo type: Macro"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Pink, grey and cream zigzagging all the way down - the chevron just keeps going. Did you crochet this one yourself?",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2SSKAEaht",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -659,10 +867,21 @@
                   "text": "This is Ivy",
                   "permalink": "https://www.threads.com/@images_by_ramona/post/Df2QPcvG2po",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ivy it is - thanks for naming it. A lovely one to share.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2SUG_EeZt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
