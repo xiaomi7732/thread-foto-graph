@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (14)
+## Needs Reply (20)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **suceee_mac**: Palm trunk - The Conservatory @biltmoreestate ([link](https://www.threads.com/@suceee_mac/post/Df2S6j7G1g0))
+  - Photo: Description: The photograph centers on the textured, fibrous trunk of a palm tree, surrounded by large green leaves and red poinsettia flowers in the foreground and background. Photograph read: The image is taken from a close-up perspective, with natural daylight illuminating the scene. The focus is primarily on the trunk, though surrounding foliage shows some softness. The rendering preserves surface texture and color contrast without apparent distortion or compression artifacts. Photo type: Natural
+- **marinacasalribeiro**:  ([link](https://www.threads.com/@marinacasalribeiro/post/Df2Su2piAQX))
+  - Photo: Description: A tall, cylindrical flower spike with densely packed orange and yellowish buds rises from a green stem, set against a blurred background of foliage and a reddish structure. Photograph read: The main subject is in focus, with shallow depth of field blurring the background. Lighting is diffuse, casting soft shadows. Color saturation is high, and the image has no visible signs of motion blur or sensor noise. Photo type: Portrait
 - **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df2SpeqiAC5))
   - Photo: Description: The image shows a pathway lined with palm trees under a large, arched, white structural canopy against a clear blue sky, with buildings visible in the background. Photograph read: The composition is symmetrical, with repeating arches and palm trunks framing the center. Lighting is bright daylight, casting distinct shadows. Rendering is sharp on the structural elements and foliage, with no visible signs of motion blur or focus issues. Photo type: Architectural
 - **demidova_nadezda**:  ([link](https://www.threads.com/@demidova_nadezda/post/Df2SR7eCM2G))
@@ -21,13 +25,17 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up of a red and yellow flower with serrated petals, centered on a dense yellow disc, surrounded by green foliage and some unopened buds. Photograph read: The image is a close-up shot with shallow depth of field, showing the flower in sharp focus against a softly blurred background. Lighting is even and natural, illuminating the flower’s colors without harsh shadows or overexposure. Photo type: Macro
 - **pattijphoto**:  ([link](https://www.threads.com/@pattijphoto/post/Df2RWn-keEm))
   - Photo: Description: The photograph shows a close-up of dried grass seed heads against a uniform gray background. The seed heads are arranged in a diagonal pattern, with visible individual florets and stems. Photograph read: The composition is diagonal, with the subject occupying the upper left and center. Lighting is even and diffused, casting soft shadows and highlighting the texture of the seed heads. The rendering is sharp on the main subject, with no visible motion blur or chromatic aberration. Photo type: Macro
-- **mcoger55**: this one taken around 8:30 pm ([link](https://www.threads.com/@mcoger55/post/Df2SbKTlELp))
+- **mcoger55**: this one taken around 8:30 pm on June 18 as crop matured ([link](https://www.threads.com/@mcoger55/post/Df2SbKTlELp))
   - Photo: Description: A vast field of ripe, golden wheat stretches to the horizon under a bright sky, with a line of trees and distant farm structures visible in the background. Photograph read: The image is taken from a low angle, filling the frame with wheat stalks in the foreground. Lighting is bright and direct, casting subtle shadows between stalks. The wheat heads are in focus, but the background is slightly softer, suggesting a shallow depth of field. No visible signs of motion blur, overexposure, or underexposure. Photo type: Natural landscape
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
-- **mcoger55**: pix was taken around 7:30 pm ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
+- **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **silmarillioncollector**: Probably the bottom shelf, as it contains several of my favourite Pratchetts. ([link](https://www.threads.com/@silmarillioncollector/post/Df2So6OjKnF))
   - _Replying to: The top shelf fading from cream to yellow through the Wisde…_
+- **wendyloveswalking**: Very blue, but I used a bit of a filter on this. ([link](https://www.threads.com/@wendyloveswalking/post/Df2S68PG4Jf))
+  - _Replying to: Are those frost stars really that blue, or is the cold ligh…_
+- **robmajor111**: Oh yeah. It’s an incredible space to walk through. ([link](https://www.threads.com/@robmajor111/post/Df2S5KDld2s))
+  - _Replying to: Do those ribs feel as huge in person as they look here? The…_
 - **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2Sp0NCDns))
   - Photo: Description: A dark, ornate spiral staircase with intricate metalwork is set against a solid, vibrant red background. The staircase features decorative circular panels and balusters, ascending in a tight helix. Photograph read: The image is composed with the staircase as the central subject, framed against a uniform red backdrop. Lighting is even, highlighting the metallic texture and patterns without casting harsh shadows. The rendering preserves fine details of the railings and steps. Photo type: Architectural
   - Photo: Description: The photograph shows a large, ornate clock tower suspended in the center of a multi-level shopping arcade with a high, arched glass and metal ceiling. Shoppers and storefronts line the upper and lower levels. Photograph read: The image is taken from an elevated perspective, capturing the central clock tower and surrounding architecture. Lighting is even and diffused, likely from the glass ceiling, illuminating the scene without harsh shadows. The clock face and surrounding decorative elements are clearly visible, and the architectural details of the arcade are well resolved. Photo type: Architectural
@@ -38,8 +46,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: QVB suits it beautifully - the dome does all the work, angl…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
+- **gteam0**: Sometimes one gets lucky in life ([link](https://www.threads.com/@gteam0/post/Df2Ss4em2zb))
+  - _Replying to: Lucky timing on an empty corridor - and a great eye for spo…_
 - **violet1122**: It’s a blooming century plant (Agave Americana) & yes they are related to asparagus. ([link](https://www.threads.com/@violet1122/post/Df2RM5vG945))
   - _Replying to: The canopy fans out like a firework frozen mid-burst. What …_
+- **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your challenges. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
+  - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 - **fragilita_12**: I found it on a walk ([link](https://www.threads.com/@fragilita_12/post/Df2RRU-ADVX))
   - _Replying to: That moss looks soft enough to nap on and spiky enough to t…_
 
