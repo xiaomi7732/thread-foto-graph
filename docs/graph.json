@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 144,
+      "reply_count": 146,
       "replies": [
+        {
+          "username": "jh1962bike",
+          "text": "",
+          "permalink": "https://www.threads.com/@jh1962bike/post/Df2bc6aiCvh",
+          "photos": [
+            "Description: A close-up shot of a white, spiky, spherical fungus with small brown-tipped projections, resting on a forest floor covered in fallen leaves, moss, and twigs. Photograph read: The image is a close-up with even, direct lighting that highlights the texture of the fungus. The background is softly out of focus, with warm brown tones from leaves and dark, earthy ground. The fungus is the central subject, sharply rendered. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "__davidjay__",
           "text": "",
@@ -328,7 +340,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "medium.gords7",
+                  "text": "It\u2019s in a museum in Hot Springs, Arkansas, that I toured on a vacation.",
+                  "permalink": "https://www.threads.com/@medium.gords7/post/Df2bubsmz7b",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

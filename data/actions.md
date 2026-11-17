@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (14)
+## Needs Reply (16)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df2bc6aiCvh))
+  - Photo: Description: A close-up shot of a white, spiky, spherical fungus with small brown-tipped projections, resting on a forest floor covered in fallen leaves, moss, and twigs. Photograph read: The image is a close-up with even, direct lighting that highlights the texture of the fungus. The background is softly out of focus, with warm brown tones from leaves and dark, earthy ground. The fungus is the central subject, sharply rendered. Photo type: Macro
 - **__davidjay__**:  ([link](https://www.threads.com/@__davidjay__/post/Df2aPYwGnbZ))
   - Photo: Description: A close-up view of several water droplets resting on the edge of a green leaf, with a softly blurred background of similar foliage. Photograph read: The image features a shallow depth of field, with the droplets and leaf edge in focus while the background is out of focus. Lighting appears bright and diffused, creating specular highlights on the droplets. The rendering is smooth with no visible noise or chromatic aberration. Photo type: Macro
 - **erikartistry**: A dew drop covered with glitter on my Peacock feather earrings. ([link](https://www.threads.com/@erikartistry/post/Df2Zn1iGz2C))
@@ -18,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up view of stacked firewood logs, showing cross-sections with visible growth rings, bark remnants, and wood grain patterns. Photograph read: The image is a tightly framed, high-resolution shot with even lighting that highlights the textures and patterns on the wood surfaces. The composition is dense, with logs arranged in overlapping rows, and no discernible camera movement or lens distortion. Photo type: Macro
 - **mari.d.zk**: I didn't stay long enough to see them leave the leaf 😄 ([link](https://www.threads.com/@mari.d.zk/post/Df2Z2-tCiNz))
   - _Replying to: A single ginkgo leaf, beaded with water, on a whole field o…_
+- **medium.gords7**: It’s in a museum in Hot Springs, Arkansas, that I toured on a vacation. ([link](https://www.threads.com/@medium.gords7/post/Df2bubsmz7b))
+  - _Replying to: The little star motifs between the big crosses are what kee…_
 - **pattijphoto**: It is sea oats. I love these grasses. They are pretty ([link](https://www.threads.com/@pattijphoto/post/Df2ag8soSMD))
   - _Replying to: Those seed heads fan out like a row of tiny feathers, all l…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
