@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (38)
+## Needs Reply (42)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **elanel50**:  ([link](https://www.threads.com/@elanel50/post/Df3C51MEzcP))
+  - Photo: Description: A cluster of small, bright orange and yellow flowers with green stems and unopened buds, captured in a close-up view with a shallow depth of field. Photograph read: The image features a central area of sharp flowers, with background elements softly blurred. Lighting is bright and even, highlighting petal surfaces and small water droplets. Rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Macro
+  - Photo: Description: The photograph shows a cluster of bright pink, spherical flowers with yellow centers, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, focusing on the flowers. Lighting is even and diffused, illuminating the petals without harsh shadows. The rendering preserves the texture of the flower heads, though the background remains indistinct. Photo type: Macro
+- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/Df3C27omQHt))
+  - Photo: Description: A narrow pathway paved with interlocking stones runs between two brick walls, one gray and one red, leading toward a distant view of a road, grass, and ocean under a partly cloudy sky. Photograph read: The composition is a straight-on perspective down a narrow alleyway, with the path receding into the distance. Lighting is natural daylight, with even illumination across the scene. The rendering is sharp enough to distinguish brick textures, paving patterns, and the pink flowers in a bush on the right. Photo type: Architectural
 - **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
   - Photo: Description: A bumblebee covered in pollen is perched on a spherical cluster of small white flowers with prominent yellow anthers. The background consists of out-of-focus green foliage. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the bee and flower. Lighting is even and natural, illuminating the subject clearly. The flower’s fine filaments and the bee’s fuzzy body are visible, though some detail is lost in the background blur. Photo type: Macro
 - **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E))
@@ -21,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the black and white was the right call - every leaf…_
 - **dalesmith_namaste**: Interestingly, it was just before lunch on a Tuesday. 🤔 ([link](https://www.threads.com/@dalesmith_namaste/post/Df3BvvHmq7N))
   - _Replying to: Those zigzags in the pavement do half the work - the street…_
+- **oznatureart**: Yes I lifted it out just for a second to take the pic and then put it back ([link](https://www.threads.com/@oznatureart/post/Df3DCVlE_g5))
+  - _Replying to: That red center against the brown knobs is a whole palette …_
 - **mtqiwoman**: Just lucky with the sun angle. ([link](https://www.threads.com/@mtqiwoman/post/Df28CkjHeVk))
   - _Replying to: How did you get those dry stems to glow like that? The fine…_
 - **sgoodwandering**: There were several mounds of the hills with the red rock I have other photos of the area, but this is the one I chose. ([link](https://www.threads.com/@sgoodwandering/post/Df2-Z6rG__W))
@@ -31,6 +38,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The ribbed tile showing through the crumbling mortar is the…_
 - **katybchnk**: The structure and the lights, I guess. Though it's not really symmetric, it kind of seems like it is. ([link](https://www.threads.com/@katybchnk/post/Df298cCCraH))
   - _Replying to: It counts - those stacked white curves repeat floor after f…_
+- **shawn.alma**: The wind, my 20 yo cat passed at the beginning of the year, this is where she would greet me in the morning and give me a hug. ([link](https://www.threads.com/@shawn.alma/post/Df3DSrrmkvP))
+  - _Replying to: A heart-shaped leaf on weathered wood - the veins line up l…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))
   - Photo: Description: The photograph shows a close-up of rough, irregularly shaped rocks arranged in a pile or pathway, with some gaps and shadows between them. Photograph read: The foreground rocks are in sharper focus than the background, which is softly blurred. Lighting appears natural and directional, casting shadows and highlights across the rock surfaces. The image has a shallow depth of field, with visible texture on the focused rocks. Photo type: Macro
 - **washugolf**: This is Week 3. The buds have not blossomed yet. I'll return with an uodate. ([link](https://www.threads.com/@washugolf/post/Df29zK2iQjZ))
