@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (40)
+## Needs Reply (41)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df2nWRmpYml))
+  - Photo: Description: The photograph shows an indoor garden pathway under a large arched glass greenhouse, flanked by colorful floral beds and vertical banners with abstract designs. Photograph read: The image is taken from a low angle along a paved walkway, with natural daylight filtering through the glass roof. The composition leads the eye down the path, flanked by green hedges and vibrant flowerbeds. The banners are prominently displayed, and the structure’s metal framework is visible overhead. The rendering is clear, with no visible motion blur or distortion. Photo type: Documentary
 - **d1xshooter**: Veins of a Leaf Nikon Zf Nikkor 105mm macro, 1/250 f18 ([link](https://www.threads.com/@d1xshooter/post/Df2mSebGcyp))
   - Photo: Description: A close-up photograph shows a small fly resting on a large, green leaf with prominent dark veins. The leaf’s surface texture and vein patterns are visible, but the background is dark and out of focus. Photograph read: The composition is a macro shot with the leaf occupying most of the frame. Lighting appears to be directional, illuminating the leaf’s surface and creating contrast with the dark background. The rendering preserves surface texture but lacks depth of field, with the background blurred. Photo type: Macro
 - **capitalsports25**:  ([link](https://www.threads.com/@capitalsports25/post/Df2lczYm6Sy))
