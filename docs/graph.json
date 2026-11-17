@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 294,
+      "reply_count": 298,
       "replies": [
+        {
+          "username": "abbytabby13",
+          "text": "",
+          "permalink": "https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E",
+          "photos": [
+            "Description: A single white daisy with a yellow center is in focus, set against a dark, out-of-focus background with faint hints of green foliage. Photograph read: The main subject is centered, with soft focus on the petals and center; background is uniformly blurred. Lighting is even, without harsh shadows or highlights. The image has a shallow depth of field, with no visible signs of motion blur or sensor noise. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "amaginings",
           "text": "",
@@ -262,7 +274,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "katybchnk",
+                  "text": "The structure and the lights, I guess. Though it's not really symmetric, it kind of seems like it is.",
+                  "permalink": "https://www.threads.com/@katybchnk/post/Df298cCCraH",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -323,7 +346,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "washugolf",
+                  "text": "This is Week 3. The buds have not blossomed yet. I'll return with an uodate.",
+                  "permalink": "https://www.threads.com/@washugolf/post/Df29zK2iQjZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -764,6 +798,19 @@
               "action": null,
               "hidden": false,
               "replies": [
+                {
+                  "username": "hannele.heikkinen",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@hannele.heikkinen/post/Df298IWDlMN",
+                  "photos": [
+                    "Description: A large metallic sculpture of a fish, constructed from circular metal segments, is positioned on a paved surface with a cloudy sky and distant bridge in the background. Photograph read: The image is taken from a low angle, showing the fish sculpture in profile against a sky with scattered clouds. Lighting is diffuse, casting soft shadows and reflecting off the metallic surfaces. The sculpture\u2019s texture and form are visible, though not sharply defined. Photo type: Architectural",
+                    "Description: A large metallic sculpture of a whale, constructed from numerous circular metal tubes, is positioned on a paved area beside a body of water under a partly cloudy sky. Photograph read: The image is taken from a low angle, capturing the whale sculpture prominently against a sky and water background. Lighting is diffuse, with no harsh shadows or highlights. The rendering is clear, with visible texture and form of the sculpture and surrounding environment. Photo type: Documentary"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
                 {
                   "username": "hannele.heikkinen",
                   "text": "The artwork consists of welded stainless steel tubes and rings that reflect the ambient light at different times of the day. The sculpture of salmon is 15 meters long, 4 meters high, and weighs approximately 5000\u20136000 kilograms.",

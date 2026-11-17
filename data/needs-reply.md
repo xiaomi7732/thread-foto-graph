@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (26)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E))
+  - Photo: Description: A single white daisy with a yellow center is in focus, set against a dark, out-of-focus background with faint hints of green foliage. Photograph read: The main subject is centered, with soft focus on the petals and center; background is uniformly blurred. Lighting is even, without harsh shadows or highlights. The image has a shallow depth of field, with no visible signs of motion blur or sensor noise. Photo type: Portrait
 - **amaginings**:  ([link](https://www.threads.com/@amaginings/post/Df29c_JAqST))
   - Photo: Description: The photograph shows a dense, close-up view of numerous white daisy-like flowers with yellow centers, filling the entire frame. Photograph read: The composition is uniform and tightly packed, with no discernible background or foreground depth. Lighting is even and diffused, casting soft shadows and highlighting the texture of the petals. Rendering is consistent across the frame without visible artifacts or distortion. Photo type: Macro
 - **amelia.burgess.16**: Crossed it into the trees, beautiful place ([link](https://www.threads.com/@amelia.burgess.16/post/Df29iA2DTyX))
@@ -19,14 +21,22 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows a close-up of a damaged brick and mortar corner, with a decorative, ribbed, reddish-brown tile or block partially embedded in the masonry and visibly broken or displaced. A white, ribbed downspout is visible to the right. Photograph read: The image is a close-up shot with even, diffuse lighting, likely natural daylight. The focus is sharp on the damaged corner, revealing texture, cracks, and the irregular edges of the broken tile. The composition is tight, emphasizing the structural defect. Photo type: Documentary
     - Watch-outs: - The broken decorative tile is partially embedded in crumbling mortar, with visible gaps and exposed internal ribs, limiting clarity of its original installation. - The mortar joints show significant cracking and spalling, reducing readability of the masonry’s structural integrity.
   - _Replying to: The ribbed tile showing through the crumbling mortar is the…_
+- **katybchnk**: The structure and the lights, I guess. Though it's not really symmetric, it kind of seems like it is. ([link](https://www.threads.com/@katybchnk/post/Df298cCCraH))
+  - _Replying to: It counts - those stacked white curves repeat floor after f…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))
   - Photo: Description: The photograph shows a close-up of rough, irregularly shaped rocks arranged in a pile or pathway, with some gaps and shadows between them. Photograph read: The foreground rocks are in sharper focus than the background, which is softly blurred. Lighting appears natural and directional, casting shadows and highlights across the rock surfaces. The image has a shallow depth of field, with visible texture on the focused rocks. Photo type: Macro
+- **washugolf**: This is Week 3. The buds have not blossomed yet. I'll return with an uodate. ([link](https://www.threads.com/@washugolf/post/Df29zK2iQjZ))
+  - _Replying to: That flower stalk climbs straight through the frame with bu…_
 - **dayderyn**: Think a combination of both. The tide was right out and it was blowing a gale that day ([link](https://www.threads.com/@dayderyn/post/Df286sqjRA-))
   - _Replying to: Wind or water - which one combed the sand into those lines?_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
 - **debi0528**: This was at the NY Botanical Garden this summer. ([link](https://www.threads.com/@debi0528/post/Df29Nfin6Sb))
   - _Replying to: The glass roof grids the sky while the banners shout in flo…_
+- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df298IWDlMN))
+  - Photo: Description: A large metallic sculpture of a fish, constructed from circular metal segments, is positioned on a paved surface with a cloudy sky and distant bridge in the background. Photograph read: The image is taken from a low angle, showing the fish sculpture in profile against a sky with scattered clouds. Lighting is diffuse, casting soft shadows and reflecting off the metallic surfaces. The sculpture’s texture and form are visible, though not sharply defined. Photo type: Architectural
+  - Photo: Description: A large metallic sculpture of a whale, constructed from numerous circular metal tubes, is positioned on a paved area beside a body of water under a partly cloudy sky. Photograph read: The image is taken from a low angle, capturing the whale sculpture prominently against a sky and water background. Lighting is diffuse, with no harsh shadows or highlights. The rendering is clear, with visible texture and form of the sculpture and surrounding environment. Photo type: Documentary
+  - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
 - **hannele.heikkinen**: The artwork consists of welded stainless steel tubes and rings that reflect the ambient light at different times of the day. The sculpture of salmon is 15 meters long, 4 meters high, and weighs approximately 5000–6000 kilograms. ([link](https://www.threads.com/@hannele.heikkinen/post/Df29eNuDm4y))
   - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
 - **trevahearne**: Not sure. The label just said "decorative grass" its at our community garden. ([link](https://www.threads.com/@trevahearne/post/Df280ktFAIX))
