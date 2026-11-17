@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (35)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Df2ko5-Eh_B))
+  - Photo: Description: The photograph shows a large, star-shaped ceiling fan suspended from a high ceiling, viewed from directly below. The fan is surrounded by a modern architectural ceiling with light wood paneling and horizontal orange accent strips. Photograph read: The image is taken from a low-angle, looking upward, with even, diffuse lighting. The fan’s metallic blades and central hub are clearly visible, and the ceiling structure is symmetrically framed. The background includes a tall, narrow skylight with a grid pattern and translucent panels. Photo type: Architectural
 - **badegghunter**: They clean the Beach after every “storm” ([link](https://www.threads.com/@badegghunter/post/Df2jyH6gE0m))
   - Photo: Description: The image shows a close-up of a textured surface, likely a tire tread, with sand or fine grit embedded in its grooves, under direct sunlight. Photograph read: The composition is a tight, repeating pattern of irregular hexagonal and trapezoidal tread blocks. Lighting is strong and directional, casting deep shadows in the grooves and highlighting the raised edges. The surface texture is visible, with fine granular detail discernible in the sand-filled areas. Photo type: Macro
   - Photo: Description: The photograph shows a close-up of a deep, repeating tread pattern from a large tire pressed into fine sand, with the pattern receding into the distance. Photograph read: The image is taken in bright, direct sunlight, casting sharp shadows within the tire tread grooves. The sand’s texture is visible, and the pattern is clearly defined, with no signs of motion blur or focus issues. Photo type: Documentary
@@ -59,6 +61,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **marinacasalribeiro**: People call it torch lily and when it's open, it looks like this. ([link](https://www.threads.com/@marinacasalribeiro/post/Df2gVO8iLfU))
   - Photo: Description: The photograph shows several tall, cylindrical flower spikes with fiery red and yellow gradients, standing in a garden setting against a backdrop of green foliage, a tree trunk, and a tiled roof under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with natural outdoor lighting. The flowers are in sharp focus relative to the background, which includes trees and a building. The composition places the flowers in the foreground, with the background slightly out of focus, creating a shallow depth of field. The rendering is clear and vivid, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
   - _Replying to: How many buds are packed onto that one spike? Row after row…_
+- **gnd_moments_in_paradise**: Just down the sea front. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df2kt6UiDs1))
+  - _Replying to: The arches repeat until they turn into a tunnel of sky, and…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
