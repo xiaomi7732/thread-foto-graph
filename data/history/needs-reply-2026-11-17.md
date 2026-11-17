@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (61)
+## Needs Reply (62)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **amelia.burgess.16**: Not sure it qualifies but this lovely rope bridge, leads into the trees ([link](https://www.threads.com/@amelia.burgess.16/post/Df26OrjDQ_b))
+  - Photo: Description: A rope suspension bridge extends through a dense, green forest, with foliage arching overhead and surrounding the path. The bridge’s woven structure is visible, leading toward a distant, darkened entrance. Photograph read: The image is taken from a low angle looking along the bridge’s length, with natural daylight filtering through the canopy. The bridge’s texture and pattern are clearly rendered, but the far end is obscured by shadow and foliage. The foreground and midground are in focus, while the background is less distinct due to depth and vegetation. Photo type: Documentary
 - **semolacarla**:  ([link](https://www.threads.com/@semolacarla/post/Df25xzkmuKI))
   - Photo: Description: The photograph shows a close-up of a fern frond, with its intricate, repeating leaflets radiating from a central stem. The image is in black and white, emphasizing texture and pattern. Photograph read: The composition is tightly framed on the fern’s structure, with the central stem running vertically. Lighting is even, casting subtle shadows that define the leaflet edges. Rendering is sharp, preserving fine detail in the frond’s texture. Photo type: Macro
 - **dalesmith_namaste**: Aveiro Portugal ([link](https://www.threads.com/@dalesmith_namaste/post/Df24Tvpmkj4))
