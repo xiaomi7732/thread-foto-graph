@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 236,
+      "reply_count": 238,
       "replies": [
         {
           "username": "amelia.burgess.16",
@@ -34,10 +34,21 @@
           "photos": [
             "Description: The photograph shows a close-up of a fern frond, with its intricate, repeating leaflets radiating from a central stem. The image is in black and white, emphasizing texture and pattern. Photograph read: The composition is tightly framed on the fern\u2019s structure, with the central stem running vertically. Lighting is even, casting subtle shadows that define the leaflet edges. Rendering is sharp, preserving fine detail in the frond\u2019s texture. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the black and white was the right call - every leaflet edge stands on its own. Did the frond fill the whole frame, or did you crop in close?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df271itI97a",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dalesmith_namaste",
@@ -46,10 +57,21 @@
           "photos": [
             "Description: A paved street with intricate mosaic patterns runs between two rows of buildings, one with a traditional facade and the other with balconies and flags; a lone pedestrian walks on the right side. Photograph read: The image is taken from a low angle looking down the street, with even, diffused lighting under an overcast sky. The mosaic pavement is clearly visible with geometric patterns, and the buildings show architectural detail. The composition is symmetrical along the street\u2019s centerline, with benches and planters on either side. Photo type: Urban landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those zigzags in the pavement do half the work - the street practically points the way. What time of day did you catch the street this quiet?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df273KNH61m",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "oznatureart",

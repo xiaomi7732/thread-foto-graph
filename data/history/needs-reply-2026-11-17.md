@@ -4,15 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (60)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **amelia.burgess.16**: Not sure it qualifies but this lovely rope bridge, leads into the trees ([link](https://www.threads.com/@amelia.burgess.16/post/Df26OrjDQ_b))
   - Photo: Description: A rope suspension bridge extends through a dense, green forest, with foliage arching overhead and surrounding the path. The bridge’s woven structure is visible, leading toward a distant, darkened entrance. Photograph read: The image is taken from a low angle looking along the bridge’s length, with natural daylight filtering through the canopy. The bridge’s texture and pattern are clearly rendered, but the far end is obscured by shadow and foliage. The foreground and midground are in focus, while the background is less distinct due to depth and vegetation. Photo type: Documentary
-- **semolacarla**:  ([link](https://www.threads.com/@semolacarla/post/Df25xzkmuKI))
-  - Photo: Description: The photograph shows a close-up of a fern frond, with its intricate, repeating leaflets radiating from a central stem. The image is in black and white, emphasizing texture and pattern. Photograph read: The composition is tightly framed on the fern’s structure, with the central stem running vertically. Lighting is even, casting subtle shadows that define the leaflet edges. Rendering is sharp, preserving fine detail in the frond’s texture. Photo type: Macro
-- **dalesmith_namaste**: Aveiro Portugal ([link](https://www.threads.com/@dalesmith_namaste/post/Df24Tvpmkj4))
-  - Photo: Description: A paved street with intricate mosaic patterns runs between two rows of buildings, one with a traditional facade and the other with balconies and flags; a lone pedestrian walks on the right side. Photograph read: The image is taken from a low angle looking down the street, with even, diffused lighting under an overcast sky. The mosaic pavement is clearly visible with geometric patterns, and the buildings show architectural detail. The composition is symmetrical along the street’s centerline, with benches and planters on either side. Photo type: Urban landscape
 - **oznatureart**: Sea biscuit ([link](https://www.threads.com/@oznatureart/post/Df22ggzkzWu))
   - Photo: Description: A starfish with a central red area and brown, bumpy texture rests on wet, algae-covered rocks in a shallow pool of water. Photograph read: The image is a close-up shot with even, natural lighting. The subject is in focus, and the surrounding rocks and seaweed are visible with moderate detail. The water surface reflects light, creating slight glare. Photo type: Documentary
 - **mtqiwoman**:  ([link](https://www.threads.com/@mtqiwoman/post/Df22cgGnUsc))
