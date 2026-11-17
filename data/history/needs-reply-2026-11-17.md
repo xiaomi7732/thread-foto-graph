@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (41)
+## Needs Reply (42)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **cape_cod_laurie**:  ([link](https://www.threads.com/@cape_cod_laurie/post/Df2YlReFtdJ))
+  - Photo: Description: A close-up view of stacked firewood logs, showing cross-sections with visible growth rings, bark remnants, and wood grain patterns. Photograph read: The image is a tightly framed, high-resolution shot with even lighting that highlights the textures and patterns on the wood surfaces. The composition is dense, with logs arranged in overlapping rows, and no discernible camera movement or lens distortion. Photo type: Macro
 - **resnicklr**:  ([link](https://www.threads.com/@resnicklr/post/Df2Xx-elEk6))
   - Photo: Description: The photograph shows a close-up, top-down view of a cactus with numerous white, spiky protrusions radiating from dark centers, set against a green, segmented background. Photograph read: The composition is uniform and repetitive, with rows of spines aligned horizontally. Lighting is even and diffused, casting minimal shadows. Rendering is sharp on the spines and background, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro
 - **terryleeballard**:  ([link](https://www.threads.com/@terryleeballard/post/Df2XuWPlqeV))
