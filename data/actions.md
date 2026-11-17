@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (42)
+## Needs Reply (43)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **eelizjjjm**: Baby Coneflower ([link](https://www.threads.com/@eelizjjjm/post/Df2qlA5IMtp))
+  - Photo: Description: A close-up view of a green, unopened flower head, likely an echinacea, surrounded by out-of-focus green leaves and soil in the background. Photograph read: The main subject is in focus, with visible texture on the flower head, while the background is softly blurred. Lighting is even and natural, without harsh shadows or overexposure. The image has a shallow depth of field, emphasizing the flower head. Photo type: Nature macro
+    - Watch-outs: The background is heavily blurred, obscuring details of surrounding foliage and soil. The flower head’s outer bracts are slightly out of focus, reducing edge sharpness.
 - **cordazone**:  ([link](https://www.threads.com/@cordazone/post/Df2n3FjlgCv))
   - Photo: Description: The photograph shows a foreground of barbed wire entangled around tree trunks, with lush green vegetation and distant rolling hills under a partly cloudy sky. Photograph read: The image is taken from a high vantage point, with natural daylight illuminating the scene. The foreground elements are in focus, while the background exhibits atmospheric haze. The barbed wire and tree trunks are clearly rendered, with visible texture and detail. Photo type: Natural landscape
   - Photo: Description: A cluster of pink roses, including one partially open bloom and several buds, is shown against a blurred green background, with visible thorny stems and leaves. Photograph read: The subject is in focus with moderate contrast, but the background is uniformly out of focus. Lighting is even and diffused, without harsh shadows or highlights. The image has a shallow depth of field, rendering the foreground subject sharp while the background is indistinct. Photo type: Natural
