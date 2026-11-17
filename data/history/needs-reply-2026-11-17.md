@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (24)
+## Needs Reply (27)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **the_tallest_bookworm**:  ([link](https://www.threads.com/@the_tallest_bookworm/post/Df2eqtSFUK_))
+  - Photo: Description: The image shows a dense cluster of small, bright yellow floral structures, likely a composite flower head, filling the entire frame. Photograph read: The composition is uniform and fills the frame with repeating elements. Lighting is even and bright, casting minimal shadows. Rendering is consistent across the subject, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro
+- **linda73linda**: Upside down mushroom ([link](https://www.threads.com/@linda73linda/post/Df2efDkjV8Q))
+  - Photo: Description: The image shows a close-up of the underside of a mushroom cap, revealing gills radiating from a central stem, with some white, fuzzy growth and dark debris scattered across the surface. Photograph read: The composition is tightly framed on the mushroom’s gills, with uneven lighting casting shadows between the gill structures. The rendering is detailed in the gill texture but lacks sharpness in the upper right area where white growth is visible. Photo type: Macro
+    - Watch-outs: - Upper right area: white, fuzzy growth partially obscures gill structure and introduces texture contrast that reduces clarity. - Central stem region: dark debris and particulate matter obscure fine gill details and reduce readability of the mushroom’s anatomy.
+- **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/Df2eHbvkbHk))
+  - Photo: Description: The photograph shows a close-up of a surface composed of embedded, rounded stones of varying sizes, colors, and textures, set in a light-colored mortar or concrete matrix. Photograph read: The image is a flat, direct overhead or slightly angled view with even, diffuse lighting. The stones are in sharp focus, revealing surface textures and color variations, with no visible motion blur or lens distortion. The composition is dense and repetitive, with no discernible depth or foreground-background separation. Photo type: Texture documentation
 - **flannelsandphotos**:  ([link](https://www.threads.com/@flannelsandphotos/post/Df2dlkglX_-))
   - Photo: Description: The image shows a close-up, low-angle view of a long, horizontal radiator with multiple parallel, rounded sections, mounted against a wall and resting on a wooden floor. Photograph read: The composition is a shallow depth-of-field shot with the foreground sections in focus and the background progressively blurred. Lighting is even and diffuse, casting soft shadows within the radiator’s contours. The surface texture is visible but not sharp. Photo type: Macro
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/Df2dPRXmhZT))

@@ -13,8 +13,47 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 155,
+      "reply_count": 159,
       "replies": [
+        {
+          "username": "the_tallest_bookworm",
+          "text": "",
+          "permalink": "https://www.threads.com/@the_tallest_bookworm/post/Df2eqtSFUK_",
+          "photos": [
+            "Description: The image shows a dense cluster of small, bright yellow floral structures, likely a composite flower head, filling the entire frame. Photograph read: The composition is uniform and fills the frame with repeating elements. Lighting is even and bright, casting minimal shadows. Rendering is consistent across the subject, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "linda73linda",
+          "text": "Upside down mushroom",
+          "permalink": "https://www.threads.com/@linda73linda/post/Df2efDkjV8Q",
+          "photos": [
+            "Description: The image shows a close-up of the underside of a mushroom cap, revealing gills radiating from a central stem, with some white, fuzzy growth and dark debris scattered across the surface. Photograph read: The composition is tightly framed on the mushroom\u2019s gills, with uneven lighting casting shadows between the gill structures. The rendering is detailed in the gill texture but lacks sharpness in the upper right area where white growth is visible. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "- Upper right area: white, fuzzy growth partially obscures gill structure and introduces texture contrast that reduces clarity. - Central stem region: dark debris and particulate matter obscure fine gill details and reduce readability of the mushroom\u2019s anatomy."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "anto_acz",
+          "text": "",
+          "permalink": "https://www.threads.com/@anto_acz/post/Df2eHbvkbHk",
+          "photos": [
+            "Description: The photograph shows a close-up of a surface composed of embedded, rounded stones of varying sizes, colors, and textures, set in a light-colored mortar or concrete matrix. Photograph read: The image is a flat, direct overhead or slightly angled view with even, diffuse lighting. The stones are in sharp focus, revealing surface textures and color variations, with no visible motion blur or lens distortion. The composition is dense and repetitive, with no discernible depth or foreground-background separation. Photo type: Texture documentation"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "flannelsandphotos",
           "text": "",
@@ -1806,7 +1845,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "fragilita_12",
+                          "text": "Thank you",
+                          "permalink": "https://www.threads.com/@fragilita_12/post/Df2eZ73AFiX",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

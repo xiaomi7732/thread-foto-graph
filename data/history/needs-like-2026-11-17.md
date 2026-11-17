@@ -4,12 +4,13 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (7)
+## Needs Like (8)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - resnicklr: Ouch close! ([link](https://www.threads.com/@resnicklr/post/Df2b3zZlNn2))
 - andy2528788: Thanks 🙏 ([link](https://www.threads.com/@andy2528788/post/Df2acksoLU9))
 - gteam0: Thx again ([link](https://www.threads.com/@gteam0/post/Df2afVFmrCE))
+- fragilita_12: Thank you ([link](https://www.threads.com/@fragilita_12/post/Df2eZ73AFiX))
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
