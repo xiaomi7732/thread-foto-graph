@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (33)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **badegghunter**: They clean the Beach after every “storm” ([link](https://www.threads.com/@badegghunter/post/Df2jyH6gE0m))
+  - Photo: Description: The image shows a close-up of a textured surface, likely a tire tread, with sand or fine grit embedded in its grooves, under direct sunlight. Photograph read: The composition is a tight, repeating pattern of irregular hexagonal and trapezoidal tread blocks. Lighting is strong and directional, casting deep shadows in the grooves and highlighting the raised edges. The surface texture is visible, with fine granular detail discernible in the sand-filled areas. Photo type: Macro
+  - Photo: Description: The photograph shows a close-up of a deep, repeating tread pattern from a large tire pressed into fine sand, with the pattern receding into the distance. Photograph read: The image is taken in bright, direct sunlight, casting sharp shadows within the tire tread grooves. The sand’s texture is visible, and the pattern is clearly defined, with no signs of motion blur or focus issues. Photo type: Documentary
+- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df2jjJcjo4B))
+  - Photo: Description: The image shows a close-up of numerous dark, metallic, circular objects, possibly pipes or tubes, arranged in a dense, overlapping pattern. Photograph read: The composition is filled with overlapping circular shapes, rendered in monochrome tones. Lighting creates highlights and shadows on the curved surfaces, but lacks directional clarity. The rendering is flat and lacks depth cues, with no visible texture or surface detail beyond the general form. Photo type: Industrial
 - **oneillwendie**:  ([link](https://www.threads.com/@oneillwendie/post/Df2i9PRFWvO))
   - Photo: Description: A thistle plant with spiky, green, serrated leaves grows in a patch of soil mixed with fallen brown leaves and sparse grass, adjacent to a concrete surface. Photograph read: The image is taken from a high angle, showing the plant centered in the frame. Lighting is natural daylight, casting soft shadows. The image has moderate resolution, with visible texture in the leaves and ground, but no signs of motion blur, overexposure, or underexposure. Photo type: Natural
 - **trevahearne**:  ([link](https://www.threads.com/@trevahearne/post/Df2i6kGlAoy))
