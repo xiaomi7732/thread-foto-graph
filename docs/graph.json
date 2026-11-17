@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 306,
+      "reply_count": 307,
       "replies": [
         {
           "username": "bigcajunwba",
@@ -615,7 +615,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "eelizjjjm",
+                  "text": "I\u2019ll have to wait \u2018til next Spring to time it!",
+                  "permalink": "https://www.threads.com/@eelizjjjm/post/Df2__3XoBMP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
