@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 309,
+      "reply_count": 311,
       "replies": [
         {
           "username": "bigcajunwba",
@@ -138,7 +138,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dalesmith_namaste",
+                  "text": "Interestingly, it was just before lunch on a Tuesday. \ud83e\udd14",
+                  "permalink": "https://www.threads.com/@dalesmith_namaste/post/Df3BvvHmq7N",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -463,7 +474,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saffrongal",
+                  "text": "The lighting plus portrait mode on iPhone \ud83d\udcf1",
+                  "permalink": "https://www.threads.com/@saffrongal/post/Df3B0Phkjma",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (36)
+## Needs Reply (38)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
@@ -19,6 +19,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: It qualifies - the netting is a diamond grid all the way in…_
 - **semolacarla**: If I recall, it was a decently large fern. I don't believe I cropped it. ([link](https://www.threads.com/@semolacarla/post/Df28oisGr8Y))
   - _Replying to: I think the black and white was the right call - every leaf…_
+- **dalesmith_namaste**: Interestingly, it was just before lunch on a Tuesday. 🤔 ([link](https://www.threads.com/@dalesmith_namaste/post/Df3BvvHmq7N))
+  - _Replying to: Those zigzags in the pavement do half the work - the street…_
 - **mtqiwoman**: Just lucky with the sun angle. ([link](https://www.threads.com/@mtqiwoman/post/Df28CkjHeVk))
   - _Replying to: How did you get those dry stems to glow like that? The fine…_
 - **sgoodwandering**: There were several mounds of the hills with the red rock I have other photos of the area, but this is the one I chose. ([link](https://www.threads.com/@sgoodwandering/post/Df2-Z6rG__W))
@@ -35,6 +37,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That flower stalk climbs straight through the frame with bu…_
 - **dayderyn**: Think a combination of both. The tide was right out and it was blowing a gale that day ([link](https://www.threads.com/@dayderyn/post/Df286sqjRA-))
   - _Replying to: Wind or water - which one combed the sand into those lines?_
+- **saffrongal**: The lighting plus portrait mode on iPhone 📱 ([link](https://www.threads.com/@saffrongal/post/Df3B0Phkjma))
+  - _Replying to: That seed head glows against the black like a small lamp. H…_
 - **kathleen_payne**: It's not one I've walked. I took this from our jeep with the top off a couple summers ago, husband driving. It's the Wapito bridge to Sauvies Island in Portland. ([link](https://www.threads.com/@kathleen_payne/post/Df2-MZnDy67))
   - _Replying to: Rust red diamonds on blue - the lattice does all the talkin…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
