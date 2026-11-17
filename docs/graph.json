@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18120910145083329",
-      "label": "background, flower, surface, photo",
+      "label": "background, photograph, flower, visible",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -13,8 +13,59 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 1,
+      "reply_count": 5,
       "replies": [
+        {
+          "username": "lluvia3487",
+          "text": "",
+          "permalink": "https://www.threads.com/@lluvia3487/post/Df2N7dNG1rP",
+          "photos": [
+            "Description: The photograph shows a close-up view of a shoreline where gentle waves with white foam are receding onto wet sand, leaving behind visible ripple patterns. Photograph read: The composition is a low-angle shot focusing on the sand and water interface. Lighting is even and diffused, suggesting an overcast day or indirect sunlight. The rendering is clear, with fine texture detail visible in the sand and foam. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "cindyreedgallery",
+          "text": "Sunnyland.",
+          "permalink": "https://www.threads.com/@cindyreedgallery/post/Df2N4JuG9eE",
+          "photos": [
+            "Description: A cluster of spherical, green cacti with radial spines is arranged on dark gravel, with a few smaller cacti and spiky plants visible in the background. Photograph read: The image is taken from a high angle, showing the cacti in a dense, repeating pattern. Lighting is even and diffuse, casting minimal shadows. The image has a uniform resolution, with no visible distortion or chromatic aberration. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "images_by_ramona",
+          "text": "",
+          "permalink": "https://www.threads.com/@images_by_ramona/post/Df2N0wbG3cl",
+          "photos": [
+            "Description: The photograph shows clusters of small, pale green, star-shaped flower buds on a plant with broad, dark green leaves, set against a dark, indistinct background. Photograph read: The image has a shallow depth of field, with some flower clusters and leaves in relative focus while others are softer. Lighting is subdued, casting shadows across the foliage, and the overall contrast is low, with no bright highlights or sharp transitions. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "- Background is uniformly dark and indistinct, obscuring context and depth. - Fine texture of the flower buds and leaf surfaces is not resolvable due to low contrast and soft focus."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "fragilita_12",
+          "text": "Moss",
+          "permalink": "https://www.threads.com/@fragilita_12/post/Df2NqayAMBm",
+          "photos": [
+            "Description: The image shows a close-up of dense, vibrant green moss with scattered small brown debris and dark patches, likely soil or decaying organic matter. Photograph read: The composition is a tight, vertical crop of moss, with no discernible background or horizon. Lighting is even and diffuse, suggesting an overcast or shaded environment. Rendering is sharp enough to resolve individual moss filaments and small debris, with no visible motion blur or lens distortion. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "saars.foto",
           "text": "The Flower Friday favorites are live - five blooms that stopped my scroll \ud83c\udfc6 https://www.threads.com/@saars.foto/post/DftsXzyFUuG",
@@ -29,7 +80,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "background, flower, surface, photo",
+      "label": "background, photograph, flower, visible",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
@@ -111,7 +162,7 @@
     },
     {
       "id": "18138527668657912",
-      "label": "background, flower, surface, photo",
+      "label": "background, photograph, flower, visible",
       "group": 0,
       "snippet": "The neighborhood's tiniest library. Take a book, leave a bo\u2026",
       "text": "The neighborhood's tiniest library. Take a book, leave a book.",
@@ -133,7 +184,7 @@
     },
     {
       "id": "18117787960828778",
-      "label": "background, flower, surface, photo",
+      "label": "background, photograph, flower, visible",
       "group": 0,
       "snippet": "Flower Friday favorites \ud83c\udfc6 5 flowers that stopped my scroll:\u2026",
       "text": "Flower Friday favorites \ud83c\udfc6 5 flowers that stopped my scroll: Robert Pacheco @cheeks1969 - butterfly on coneflower Denise Potter @2killamockingbird - passionflower up close Beckie Fitzgerald @beckiefitzgerald - white rose in the rain Jess G Perry @jessgperry - lily in black and white Anne Weblemoe Lucido @islandoutfitter - Christmas cactus bloom Beautiful work, all of you. Reel: https://www.instagram.com/reel/DftsNENj_ip/",
