@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (39)
+## Needs Reply (40)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **d1xshooter**: Veins of a Leaf Nikon Zf Nikkor 105mm macro, 1/250 f18 ([link](https://www.threads.com/@d1xshooter/post/Df2mSebGcyp))
@@ -51,6 +51,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows a close-up of pine needles and clusters of young, green pine cones emerging from a branch, with a blurred background of earthy tones. Photograph read: The image is a close-up with natural lighting, capturing fine details of the needles and cones. The composition is dense, with needles overlapping the cones. Rendering is clear for the subject, though the background is out of focus. Photo type: Macro
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df2fC2mlWtm))
   - Photo: Description: The image shows a close-up of tree bark with deep vertical grooves and rough, textured surfaces, illuminated by directional light. Photograph read: The composition is vertical, emphasizing the bark’s linear patterns. Lighting creates strong contrast between sunlit ridges and shadowed crevices. Rendering is detailed but lacks smoothness; textures are visible but not sharply defined in all areas. Photo type: Macro
+- **the_tallest_bookworm**: You know, I’m not sure. I was taking pics of a bee in a garden and liked the way this plant looked. It might be the center of a daisy? ([link](https://www.threads.com/@the_tallest_bookworm/post/Df2nMWzI38N))
+  - _Replying to: A whole field of tiny yellow suns, packed shoulder to shoul…_
 - **linda73linda**: Found it like that 🤗 ([link](https://www.threads.com/@linda73linda/post/Df2gX_iDVzK))
   - _Replying to: Did you flip it over yourself, or find it already showing o…_
 - **anto_acz**: It’s an old stone wall in a small country village in Lombardy, Northern Italy. ([link](https://www.threads.com/@anto_acz/post/Df2g2cmERrl))
