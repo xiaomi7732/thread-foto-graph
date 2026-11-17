@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 90,
+      "reply_count": 92,
       "replies": [
         {
           "username": "sari_soderena",
@@ -333,7 +333,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "keltainentalorannalla",
+                  "text": "I spent a few summers in a village located on a small island in eastern Finland, and the photo is from there.\ud83d\ude42",
+                  "permalink": "https://www.threads.com/@keltainentalorannalla/post/Df2U1PViEm9",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -536,7 +547,25 @@
                           "needs_response": true,
                           "action": "reply",
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "snowdonman66",
+                              "text": "",
+                              "permalink": "https://www.threads.com/@snowdonman66/post/Df2UlMuCC4M",
+                              "photos": [
+                                "Description: The photograph shows an upward view of a vibrant red ceiling with a large, circular stained-glass skylight at its center, framed by ornate gold detailing. Below, an arched passageway leads to a blue-walled space. Photograph read: The composition is dominated by the central skylight and surrounding decorative moldings. Lighting is bright from the skylight, casting strong illumination on the red ceiling and gold trim. The rendering is clear in the central area, with visible texture in the glass and metalwork, though the image is cropped and angled, showing only a partial view of the architecture. Photo type: Interior architectural",
+                                "Description: The image captures a low-angle view looking upward through a large, circular glass and steel atrium, with a brick building facade on the left and a brightly colored, curved ceiling structure above. Photograph read: The composition is dominated by strong diagonal and radial lines from the glass roof structure and building walls. Lighting is high-contrast, with bright sunlight casting sharp shadows across the brickwork and onto large blue and red panels. The rendering shows saturated colors and visible digital artifacts, particularly in the curved ceiling panels. Photo type: Commercial"
+                              ],
+                              "watch_outs": [
+                                "",
+                                "- The upper right corner shows a black, circular area that obscures part of the glass roof structure. - The large blue panel on the left has visible digital artifacts, including pixelation and color banding, reducing clarity of the image content."
+                              ],
+                              "needs_response": true,
+                              "action": "reply",
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }

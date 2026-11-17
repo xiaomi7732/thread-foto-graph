@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (28)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - **sari_soderena**: Square Bloom of Clematis. ([link](https://www.threads.com/@sari_soderena/post/Df2Tdu-gPXg))
@@ -42,6 +42,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The top shelf fading from cream to yellow through the Wisde…_
 - **wendyloveswalking**: Very blue, but I used a bit of a filter on this. ([link](https://www.threads.com/@wendyloveswalking/post/Df2S68PG4Jf))
   - _Replying to: Are those frost stars really that blue, or is the cold ligh…_
+- **keltainentalorannalla**: I spent a few summers in a village located on a small island in eastern Finland, and the photo is from there.🙂 ([link](https://www.threads.com/@keltainentalorannalla/post/Df2U1PViEm9))
+  - _Replying to: Every plank lines up and marches straight out to the water …_
 - **robmajor111**: Oh yeah. It’s an incredible space to walk through. ([link](https://www.threads.com/@robmajor111/post/Df2S5KDld2s))
   - _Replying to: Do those ribs feel as huge in person as they look here? The…_
 - **rajesh__dixit**: Mumbai international airport ([link](https://www.threads.com/@rajesh__dixit/post/Df2TubAHzqn))
@@ -54,6 +56,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: QVB suits it beautifully - the dome does all the work, angl…_
 - **snowdonman66**: Loved our time in Sydney some amazing buildings and nice mix of old and new ([link](https://www.threads.com/@snowdonman66/post/Df2Si5kiE52))
   - _Replying to: QVB suits it beautifully - the dome does all the work, angl…_
+- **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2UlMuCC4M))
+  - Photo: Description: The photograph shows an upward view of a vibrant red ceiling with a large, circular stained-glass skylight at its center, framed by ornate gold detailing. Below, an arched passageway leads to a blue-walled space. Photograph read: The composition is dominated by the central skylight and surrounding decorative moldings. Lighting is bright from the skylight, casting strong illumination on the red ceiling and gold trim. The rendering is clear in the central area, with visible texture in the glass and metalwork, though the image is cropped and angled, showing only a partial view of the architecture. Photo type: Interior architectural
+  - Photo: Description: The image captures a low-angle view looking upward through a large, circular glass and steel atrium, with a brick building facade on the left and a brightly colored, curved ceiling structure above. Photograph read: The composition is dominated by strong diagonal and radial lines from the glass roof structure and building walls. Lighting is high-contrast, with bright sunlight casting sharp shadows across the brickwork and onto large blue and red panels. The rendering shows saturated colors and visible digital artifacts, particularly in the curved ceiling panels. Photo type: Commercial
+    - Watch-outs: - The upper right corner shows a black, circular area that obscures part of the glass roof structure. - The large blue panel on the left has visible digital artifacts, including pixelation and color banding, reducing clarity of the image content.
+  - _Replying to: Loved our time in Sydney some amazing buildings and nice mi…_
 - **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
 - **gteam0**: Sometimes one gets lucky in life ([link](https://www.threads.com/@gteam0/post/Df2Ss4em2zb))
