@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (28)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df2fC2mlWtm))
+  - Photo: Description: The image shows a close-up of tree bark with deep vertical grooves and rough, textured surfaces, illuminated by directional light. Photograph read: The composition is vertical, emphasizing the bark’s linear patterns. Lighting creates strong contrast between sunlit ridges and shadowed crevices. Rendering is detailed but lacks smoothness; textures are visible but not sharply defined in all areas. Photo type: Macro
 - **the_tallest_bookworm**:  ([link](https://www.threads.com/@the_tallest_bookworm/post/Df2eqtSFUK_))
   - Photo: Description: The image shows a dense cluster of small, bright yellow floral structures, likely a composite flower head, filling the entire frame. Photograph read: The composition is uniform and fills the frame with repeating elements. Lighting is even and bright, casting minimal shadows. Rendering is consistent across the subject, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro
 - **linda73linda**: Upside down mushroom ([link](https://www.threads.com/@linda73linda/post/Df2efDkjV8Q))
