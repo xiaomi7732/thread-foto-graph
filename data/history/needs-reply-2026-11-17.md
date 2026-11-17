@@ -4,33 +4,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (13)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **jglass8**: Line starters ([link](https://www.threads.com/@jglass8/post/Df2gTM8Grsh))
+  - Photo: Description: The photograph shows a close-up of pine needles and clusters of young, green pine cones emerging from a branch, with a blurred background of earthy tones. Photograph read: The image is a close-up with natural lighting, capturing fine details of the needles and cones. The composition is dense, with needles overlapping the cones. Rendering is clear for the subject, though the background is out of focus. Photo type: Macro
 - **d1xshooter**: Gains of a Leaf ([link](https://www.threads.com/@d1xshooter/post/Df2fSgMlXhn))
   - Photo: Description: A close-up photograph shows a small fly resting on the surface of a green leaf with prominent dark vein patterns. The leaf’s texture and venation are visible, but the background is dark and indistinct. Photograph read: The image is a macro shot with shallow depth of field, focusing on the leaf and fly. Lighting highlights the leaf’s surface texture and vein structure, while the background is uniformly dark. The fly is in focus, but the surrounding leaf areas show some softness due to depth of field. Photo type: Macro
     - Watch-outs: - The fly’s wings and body show slight motion blur or soft focus, reducing fine detail. - The leaf’s surface texture appears slightly grainy or noisy, particularly in darker vein areas.
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df2fC2mlWtm))
   - Photo: Description: The image shows a close-up of tree bark with deep vertical grooves and rough, textured surfaces, illuminated by directional light. Photograph read: The composition is vertical, emphasizing the bark’s linear patterns. Lighting creates strong contrast between sunlit ridges and shadowed crevices. Rendering is detailed but lacks smoothness; textures are visible but not sharply defined in all areas. Photo type: Macro
-- **linda73linda**: Upside down mushroom ([link](https://www.threads.com/@linda73linda/post/Df2efDkjV8Q))
-  - Photo: Description: The image shows a close-up of the underside of a mushroom cap, revealing gills radiating from a central stem, with some white, fuzzy growth and dark debris scattered across the surface. Photograph read: The composition is tightly framed on the mushroom’s gills, with uneven lighting casting shadows between the gill structures. The rendering is detailed in the gill texture but lacks sharpness in the upper right area where white growth is visible. Photo type: Macro
-    - Watch-outs: - Upper right area: white, fuzzy growth partially obscures gill structure and introduces texture contrast that reduces clarity. - Central stem region: dark debris and particulate matter obscure fine gill details and reduce readability of the mushroom’s anatomy.
-- **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/Df2eHbvkbHk))
-  - Photo: Description: The photograph shows a close-up of a surface composed of embedded, rounded stones of varying sizes, colors, and textures, set in a light-colored mortar or concrete matrix. Photograph read: The image is a flat, direct overhead or slightly angled view with even, diffuse lighting. The stones are in sharp focus, revealing surface textures and color variations, with no visible motion blur or lens distortion. The composition is dense and repetitive, with no discernible depth or foreground-background separation. Photo type: Texture documentation
-- **terryleeballard**: At the Alice store in Oxford. ([link](https://www.threads.com/@terryleeballard/post/Df2dqollovx))
-  - _Replying to: Three identical grins in a row - one cat is a portrait, thr…_
-- **pappaga11a**: I don’t entirely remember! I think a floor in Topkapi Palace. ([link](https://www.threads.com/@pappaga11a/post/Df2dR3OlNRU))
-  - _Replying to: I think the tight crop was the right call - the star fills …_
-- **momentofsubjectiveaesthetics**: Just a moment caught during a nightly walk in Berlin. Can’t really explain why, but some things just catches my attention, instantly triggers my senses and/or just makes me want to explore them further. ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2cwNUiHLW))
-  - _Replying to: The butterfly display is a whole garden drawn in light. Wha…_
-- **tallerthanyou2026**: Happy - it is part of Spring Bloom at the Gardens ([link](https://www.threads.com/@tallerthanyou2026/post/Df2cplzGlBt))
-  - _Replying to: That pergola turns the sky into a fan. The slats, the shado…_
-- **mari.d.zk**: I didn't stay long enough to see them leave the leaf 😄 ([link](https://www.threads.com/@mari.d.zk/post/Df2Z2-tCiNz))
-  - _Replying to: A single ginkgo leaf, beaded with water, on a whole field o…_
-- **medium.gords7**: It’s in a museum in Hot Springs, Arkansas, that I toured on a vacation. ([link](https://www.threads.com/@medium.gords7/post/Df2bubsmz7b))
-  - _Replying to: The little star motifs between the big crosses are what kee…_
-- **pattijphoto**: It is sea oats. I love these grasses. They are pretty ([link](https://www.threads.com/@pattijphoto/post/Df2ag8soSMD))
-  - _Replying to: Those seed heads fan out like a row of tiny feathers, all l…_
+- **linda73linda**: Found it like that 🤗 ([link](https://www.threads.com/@linda73linda/post/Df2gX_iDVzK))
+  - _Replying to: Did you flip it over yourself, or find it already showing o…_
+- **marinacasalribeiro**: People call it torch lily and when it's open, it looks like this. ([link](https://www.threads.com/@marinacasalribeiro/post/Df2gVO8iLfU))
+  - Photo: Description: The photograph shows several tall, cylindrical flower spikes with fiery red and yellow gradients, standing in a garden setting against a backdrop of green foliage, a tree trunk, and a tiled roof under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with natural outdoor lighting. The flowers are in sharp focus relative to the background, which includes trees and a building. The composition places the flowers in the foreground, with the background slightly out of focus, creating a shallow depth of field. The rendering is clear and vivid, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
+  - _Replying to: How many buds are packed onto that one spike? Row after row…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
@@ -52,8 +40,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
-- **lluvia3487**: Hi, before taking the photo, I observed how the pattern formed when the waves returned to the sea. Marina Beach, California, is my favorite. ([link](https://www.threads.com/@lluvia3487/post/Df2Vmu1G1f_))
-  - _Replying to: The foam sits in a neat white band across the top and the w…_
 
 ### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
 - **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))

@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 170,
+      "reply_count": 184,
       "replies": [
+        {
+          "username": "jglass8",
+          "text": "Line starters",
+          "permalink": "https://www.threads.com/@jglass8/post/Df2gTM8Grsh",
+          "photos": [
+            "Description: The photograph shows a close-up of pine needles and clusters of young, green pine cones emerging from a branch, with a blurred background of earthy tones. Photograph read: The image is a close-up with natural lighting, capturing fine details of the needles and cones. The composition is dense, with needles overlapping the cones. Rendering is clear for the subject, though the background is out of focus. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "d1xshooter",
           "text": "Gains of a Leaf",
@@ -75,10 +87,32 @@
           "watch_outs": [
             "- Upper right area: white, fuzzy growth partially obscures gill structure and introduces texture contrast that reduces clarity. - Central stem region: dark debris and particulate matter obscure fine gill details and reduce readability of the mushroom\u2019s anatomy."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you flip it over yourself, or find it already showing off its underside? Those gills fan out like pages in a book.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2f1K3GQhk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "linda73linda",
+                  "text": "Found it like that \ud83e\udd17",
+                  "permalink": "https://www.threads.com/@linda73linda/post/Df2gX_iDVzK",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "anto_acz",
@@ -87,10 +121,21 @@
           "photos": [
             "Description: The photograph shows a close-up of a surface composed of embedded, rounded stones of varying sizes, colors, and textures, set in a light-colored mortar or concrete matrix. Photograph read: The image is a flat, direct overhead or slightly angled view with even, diffuse lighting. The stones are in sharp focus, revealing surface textures and color variations, with no visible motion blur or lens distortion. The composition is dense and repetitive, with no discernible depth or foreground-background separation. Photo type: Texture documentation"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "No two stones the same, and somehow they all fit - the speckled ones keep catching my eye. Is this a wall you walk past often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df2f2qbGDUg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "flannelsandphotos",
@@ -341,10 +386,21 @@
                   "text": "At the Alice store in Oxford.",
                   "permalink": "https://www.threads.com/@terryleeballard/post/Df2dqollovx",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "An Alice store in Oxford is exactly the right home for those three grins. Thanks for placing them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2f4GflVXJ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -375,10 +431,21 @@
                   "text": "I don\u2019t entirely remember! I think a floor in Topkapi Palace.",
                   "permalink": "https://www.threads.com/@pappaga11a/post/Df2dR3OlNRU",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Topkapi Palace is a fine guess for a floor that grand. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2f5eRiU8d",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -469,10 +536,21 @@
                   "text": "Just a moment caught during a nightly walk in Berlin. Can\u2019t really explain why, but some things just catches my attention, instantly triggers my senses and/or just makes me want to explore them further.",
                   "permalink": "https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2cwNUiHLW",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A nightly walk that rewards you like that is worth keeping. Thanks for sharing the moment.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2f7F3ieO5",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -526,10 +604,21 @@
                   "text": "Happy - it is part of Spring Bloom at the Gardens",
                   "permalink": "https://www.threads.com/@tallerthanyou2026/post/Df2cplzGlBt",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Spring Bloom suits it - the pergola earns its fan of sky. Thanks for naming the show.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2f8zJlLpE",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -560,10 +649,21 @@
                   "text": "I didn't stay long enough to see them leave the leaf \ud83d\ude04",
                   "permalink": "https://www.threads.com/@mari.d.zk/post/Df2Z2-tCiNz",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The droplets stayed long enough for the shot, and that is what counts. Lovely.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2gB8liVJ1",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -617,10 +717,21 @@
                   "text": "It\u2019s in a museum in Hot Springs, Arkansas, that I toured on a vacation.",
                   "permalink": "https://www.threads.com/@medium.gords7/post/Df2bubsmz7b",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A museum floor on vacation is a fine souvenir. Thanks for sharing where it lives.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2gDb7o7HX",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -668,7 +779,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "marinacasalribeiro",
+                  "text": "People call it torch lily and when it's open, it looks like this.",
+                  "permalink": "https://www.threads.com/@marinacasalribeiro/post/Df2gVO8iLfU",
+                  "photos": [
+                    "Description: The photograph shows several tall, cylindrical flower spikes with fiery red and yellow gradients, standing in a garden setting against a backdrop of green foliage, a tree trunk, and a tiled roof under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with natural outdoor lighting. The flowers are in sharp focus relative to the background, which includes trees and a building. The composition places the flowers in the foreground, with the background slightly out of focus, creating a shallow depth of field. The rendering is clear and vivid, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -799,10 +923,21 @@
                   "text": "It is sea oats. I love these grasses. They are pretty",
                   "permalink": "https://www.threads.com/@pattijphoto/post/Df2ag8soSMD",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Sea oats it is - a pretty name for a pretty grass. Thanks for telling me.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2gIXqFMXL",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1808,10 +1943,21 @@
                   "text": "Hi, before taking the photo, I observed how the pattern formed when the waves returned to the sea. Marina Beach, California, is my favorite.",
                   "permalink": "https://www.threads.com/@lluvia3487/post/Df2Vmu1G1f_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Watching the pattern form as the waves pull back sounds like the best part. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df2gJ72GuZb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1874,7 +2020,18 @@
                               "needs_response": false,
                               "action": null,
                               "hidden": false,
-                              "replies": []
+                              "replies": [
+                                {
+                                  "username": "beckiefitzgerald",
+                                  "text": "Thank you \ud83d\ude0a",
+                                  "permalink": "https://www.threads.com/@beckiefitzgerald/post/Df2gD3EoAEC",
+                                  "photos": [],
+                                  "needs_response": true,
+                                  "action": "like",
+                                  "hidden": false,
+                                  "replies": []
+                                }
+                              ]
                             }
                           ]
                         }
