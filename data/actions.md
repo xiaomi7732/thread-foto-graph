@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (52)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **washugolf**: Cylindrical snake plant blooming ([link](https://www.threads.com/@washugolf/post/Df2wH1eiVko))
+  - Photo: Description: The photograph shows a potted plant with a tall, upright flower stalk bearing small, clustered buds, alongside a smaller pot containing a succulent and a cactus. Behind it, a larger potted plant with fan-shaped, palm-like fronds is visible, set against a window with white blinds and a dark interior background. Photograph read: The image is taken from a slightly low angle, with the flower stalk as the central focus. Lighting appears to come from the right, illuminating the plant’s green stems and buds, while the background remains darker. The image has a shallow depth of field, with the foreground plant in relative focus and the background plant and window elements softer. The rendering is naturalistic, with no visible digital artifacts or distortion. Photo type: Naturalistic
+    - Watch-outs: - The background plant’s fronds are partially obscured by the foreground stalk and show soft focus, reducing detail visibility. - The window blinds and dark background are underexposed, limiting contrast and detail in those areas.
 - **mamawokka**:  ([link](https://www.threads.com/@mamawokka/post/Df2vtwtD_BO))
   - Photo: Description: The photograph shows a preserved skeleton of a Winter Skate (Raja ocellata), displayed in a museum exhibit with a dark blue background and glass enclosure. The skeleton is mounted on a circular metal frame, with its large, fan-like pectoral fins and central spine clearly visible. Photograph read: The image is evenly lit, with direct illumination highlighting the skeletal structure. The subject is centrally framed and in focus, with visible texture on the fins and spine. Reflections of a person and exhibit elements are faintly visible on the glass surface. Photo type: Documentary
 - **dayderyn**:  ([link](https://www.threads.com/@dayderyn/post/Df2vbJpjZH7))
