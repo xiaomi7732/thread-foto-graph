@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 146,
+      "reply_count": 147,
       "replies": [
         {
           "username": "jh1962bike",
@@ -85,7 +85,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "resnicklr",
+                  "text": "Ouch close!",
+                  "permalink": "https://www.threads.com/@resnicklr/post/Df2b3zZlNn2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
