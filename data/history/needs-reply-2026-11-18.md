@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (34)
+## Needs Reply (36)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/Df45ZPkmwAZ))
@@ -14,8 +14,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A convex traffic mirror mounted on a metal pole reflects a winding road bordered by rocky terrain and sparse vegetation, with a clear blue sky visible in the reflection. Photograph read: The image is taken in bright daylight with direct sunlight casting sharp shadows. The mirror’s surface reflects a wide, curved view of the road and surrounding landscape. The mirror’s frame and mounting are visible, and the surrounding vegetation is in focus. Photo type: Documentary
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
+- **titan_actual86**: I was stuck in traffic at a red light on the 4th of July. Had meant to go around downtown but like always I forgot... lol anyways I looked over and literally saw the Pic and had to snap it. One good thing about being a mobile photographer is my phone is always with me! I wanted to center the flag a bit better but the light has just turned green and I had to scoot lol. ([link](https://www.threads.com/@titan_actual86/post/Df45zQsICCW))
+  - _Replying to: I think the mirror was the right call - the sunset goes ful…_
 - **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
   - _Replying to: (photo reply, no text)_
+- **srravi**: Many thanks 😊 first is sunset the other two in the morning after sunrise…actually it wasn’t all that difficult to frame if you know what to expect in each given place…since all are close to home I know what each place offers… ([link](https://www.threads.com/@srravi/post/Df455atGtQd))
+  - _Replying to: Three frames, three kinds of still water - the sunset doing…_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Always a pleasure Saars🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Df41ssCAHvv))
