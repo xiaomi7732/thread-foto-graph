@@ -13,8 +13,27 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 40,
+      "reply_count": 41,
       "replies": [
+        {
+          "username": "the_shaunjohnson",
+          "text": "",
+          "permalink": "https://www.threads.com/@the_shaunjohnson/post/Df46wfzmagA",
+          "photos": [
+            "Description: A black-and-white photograph shows a vintage coffee grinder and two metallic containers on a windowsill, with reflections of buildings and trees visible on the glass surface. Photograph read: The image is composed with the grinder centered, flanked by containers; reflections of an urban street scene overlay the glass. Lighting is even, with no obvious highlights or shadows indicating a specific source. Rendering is monochrome, with visible grain and moderate contrast. Photo type: Documentary",
+            "Description: A black-and-white photograph shows a person holding a camera, viewed through a glass surface that reflects the outdoor environment, including trees and a paved area. The person\u2019s face is obscured by the reflection and the camera\u2019s position. Photograph read: The image is composed with the camera and hand in the foreground, partially obscuring the subject\u2019s face. Lighting is even but flat, with no strong directional highlights or shadows. The rendering is grainy and lacks sharpness, with visible reflections and overlaying elements from the glass surface. Photo type: Reflection",
+            "Description: A black-and-white photograph shows a weathered, multi-paned window with cracked and broken glass, set in a deteriorating frame against a textured wall. Reflections of the sky and distant structures are visible through the damaged panes. Photograph read: The image is composed as a close-up of the window, with even lighting that highlights surface textures and cracks. Rendering is monochromatic, with high contrast between the dark window frame and lighter wall, and moderate detail in the reflections. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "- Reflections on the glass obscure parts of the grinder and containers, reducing clarity of their surfaces and details. - The glass surface introduces a double exposure effect, making it difficult to distinguish between the subject and its reflection.",
+            "The subject\u2019s face is obscured by the camera and glass reflections, making facial features unreadable. The camera\u2019s body and grip are partially visible but lack fine detail due to the image\u2019s grain and soft focus.",
+            "- The upper-left pane has a large, irregular crack with a dark hole, obscuring part of the reflection. - The lower-right pane is heavily frosted or dirty, reducing visibility of any reflected detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "corwyn671",
           "text": "",
