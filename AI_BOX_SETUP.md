@@ -447,6 +447,17 @@ for the detailed 5/15/30-minute start-to-start policy and recovery rules.
    the cause and restarts. Private `cache/continuous-cycle.json` and
    `cache/vision-retry.json` must remain ignored/unpublished.
 
+For later restarts, from the repository directory:
+
+```bash
+bash restart_continuous.sh
+```
+
+The helper waits for any active cycle to finish before restarting the user
+service, then shows its status and recent journal messages. It does not update
+the checkout, change service settings, or restart Ollama. Keep the checkout
+clean as required for normal publishing.
+
 Outside protected mornings, quiet-period activity may wait 30 minutes plus
 processing; protected mornings target roughly five minutes plus processing.
 Failure backoff and provider cooldowns still take precedence. When a run
