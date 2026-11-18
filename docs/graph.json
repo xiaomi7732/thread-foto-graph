@@ -109,8 +109,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 445,
+      "reply_count": 447,
       "replies": [
+        {
+          "username": "ianhcooper",
+          "text": "",
+          "permalink": "https://www.threads.com/@ianhcooper/post/Df4pd8YjsxU",
+          "photos": [
+            "Description: The image shows a close-up of a building facade composed of irregular, polygonal panels in dark and light tones, with circular window openings set into the pattern. Photograph read: The composition is divided vertically, with one side dominated by dark blue and black panels and the other by lighter beige and white panels. Lighting creates strong contrast, with the right side appearing brighter and more reflective. The panels are sharply defined, with visible seams and edges. Photo type: Architectural detail"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "little_salty_canadian",
           "text": "",
@@ -2576,7 +2588,23 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "wj.fox",
+                          "text": "Best I can tell. Swamp White Oak",
+                          "permalink": "https://www.threads.com/@wj.fox/post/Df4qimwgLyR",
+                          "photos": [
+                            "Description: A single dried, brown oak leaf with a serrated margin lies flat on a plain, light-colored surface, with small debris scattered nearby. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The leaf\u2019s veins and texture are visible, though not sharply defined. The background is uniformly light with no discernible depth or texture. Photo type: Documentary"
+                          ],
+                          "watch_outs": [
+                            "- The leaf\u2019s surface shows areas of slight glossiness or moisture, which reduce contrast and obscure fine texture details. - Small debris particles on the background are out of focus and lack definition, limiting context clarity."
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

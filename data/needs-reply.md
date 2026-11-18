@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (37)
+## Needs Reply (39)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Gorgeous picks for Tuesday 👏👏👏👏 ([link](https://www.threads.com/@2killamockingbird/post/Df4Lnc6AKGt))
@@ -12,6 +12,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/Df4pd8YjsxU))
+  - Photo: Description: The image shows a close-up of a building facade composed of irregular, polygonal panels in dark and light tones, with circular window openings set into the pattern. Photograph read: The composition is divided vertically, with one side dominated by dark blue and black panels and the other by lighter beige and white panels. Lighting creates strong contrast, with the right side appearing brighter and more reflective. The panels are sharply defined, with visible seams and edges. Photo type: Architectural detail
 - **little_salty_canadian**:  ([link](https://www.threads.com/@little_salty_canadian/post/Df4nd73karh))
   - Photo: Description: A close-up shows a white, five-petaled flower with orange anthers against a background of green leaves. The flower’s surface has a textured, slightly granular appearance. Photograph read: The image is a macro shot with natural lighting, capturing fine surface texture and leaf veins. The focus is centered on the flower, with the background leaves slightly out of focus. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
 - **arrowood**: right down the barrel ([link](https://www.threads.com/@arrowood/post/Df4mIOwEcTb))
@@ -74,6 +76,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
 - **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
   - _Replying to: (photo reply, no text)_
+- **wj.fox**: Best I can tell. Swamp White Oak ([link](https://www.threads.com/@wj.fox/post/Df4qimwgLyR))
+  - Photo: Description: A single dried, brown oak leaf with a serrated margin lies flat on a plain, light-colored surface, with small debris scattered nearby. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The leaf’s veins and texture are visible, though not sharply defined. The background is uniformly light with no discernible depth or texture. Photo type: Documentary
+    - Watch-outs: - The leaf’s surface shows areas of slight glossiness or moisture, which reduce contrast and obscure fine texture details. - Small debris particles on the background are out of focus and lack definition, limiting context clarity.
+  - _Replying to: A mystery worth solving - the bark has me curious too. Than…_
 - **gwadoudou**: Oui la toile d’araignée était encore là car elle se trouvait à l’ombre et il ne faisait pas très chaud donc les petites gouttes sont restées accrochées ([link](https://www.threads.com/@gwadoudou/post/Df3ps6pCNgc))
   - _Replying to: Dew on every thread - the web turns into a net of tiny ligh…_
 - **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
