@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (71)
+## Needs Reply (72)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **judyfairytale_**: There was a 2 way mirror in front of us. That's why you can see 3 people on the left and only 2 on the right. ([link](https://www.threads.com/@judyfairytale_/post/Df5CfqPkfnL))
@@ -65,6 +65,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A shallow pool of water on a sandy beach reflects a bright, orange-yellow sky, with waves rolling in from the ocean and a distant shoreline visible under an overcast sky. Photograph read: The composition is horizontally oriented, with the pool in the foreground and the ocean and horizon in the background. Lighting is diffuse, with the reflection in the pool being the most saturated element. The image has a flat, muted color palette overall, with no visible lens distortion or chromatic aberration. Photo type: Natural landscape
 - **mallabrand**: It was a nice contrast to the gray house - and seeing the tall mountain that was behind me was also a great thing ([link](https://www.threads.com/@mallabrand/post/Df4-iS0CEtM))
   - _Replying to: The red house gets a second showing in the glass, tree and …_
+- **jh1962bike**: In this case the car was extremely polished and shiny . Here are a couple of other shots of the car. ([link](https://www.threads.com/@jh1962bike/post/Df5DHwfiGtL))
+  - Photo: Description: A black-and-white photograph shows the rear of a vintage Mercedes 300 SL parked on a city street, with reflections of surrounding buildings visible on its glossy surface. The background includes multi-story urban architecture and a sidewalk with pedestrians. Photograph read: The image is rendered in high-contrast black and white with strong tonal separation. The composition is centered on the car’s rear, with the surrounding environment reflected in its polished surface. Lighting appears bright and direct, creating sharp highlights and deep shadows. The image exhibits a stylized, high-contrast aesthetic with visible digital enhancement or processing. Photo type: Stylized
+  - Photo: Description: A red vintage two-door sports car is parked on a city street, with potted plants and building facades visible in the background. Photograph read: The image is taken from a side profile, with even daylight illuminating the car’s glossy surface. Reflections are visible on the hood and windows. The composition is straightforward, with the car centered horizontally. The rendering is clear, showing fine details like chrome trim, wheel spokes, and side vents. Photo type: Photographic
+  - _Replying to: The star sits in the middle of a whole folded-up street - s…_
 - **hobb.y6011**: The rain clear it Out for me 😊thanks ([link](https://www.threads.com/@hobb.y6011/post/Df4_2_XpUm8))
   - _Replying to: Reflection in my eye_
 - **suzanne_raimondi_gallagher**: I feel it makes the sunsets bigger and closer. That particular spot has produced some really cool sunsets. ([link](https://www.threads.com/@suzanne_raimondi_gallagher/post/Df4_jQ5DVOH))
