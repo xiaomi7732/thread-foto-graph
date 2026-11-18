@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (35)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Gorgeous picks for Tuesday 👏👏👏👏 ([link](https://www.threads.com/@2killamockingbird/post/Df4Lnc6AKGt))
@@ -14,6 +14,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **d.mcc**:  ([link](https://www.threads.com/@d.mcc/post/Df4cw-oJTt9))
+  - Photo: Description: The image shows a close-up of a green leaf with a central vein and radiating, curved lines that form a spiral pattern toward a dark center. Photograph read: The composition is dominated by a strong vertical axis and a spiral structure. Lighting is high-contrast, with bright green tones and deep shadows. The rendering has a textured, grainy appearance across the entire image. Photo type: Abstract
+    - Watch-outs: The entire image exhibits a visible grainy texture that reduces fine detail clarity. The spiral’s innermost region is obscured by darkness, limiting readability of the center.
 - **photos_by_jane3**:  ([link](https://www.threads.com/@photos_by_jane3/post/Df4VWeAFLNV))
   - Photo: Description: The image shows a close-up of a fern frond with multiple leaflets arranged along a central stem, displaying vibrant green coloration and serrated edges. Photograph read: The composition is filled with overlapping fronds, with lighting creating highlights on the leaf surfaces and shadows in the crevices. The rendering preserves fine texture and structure of the fronds, though some areas are slightly out of focus. Photo type: Macro
 - **aussky**:  ([link](https://www.threads.com/@aussky/post/Df4S9UDGMDB))
@@ -26,6 +29,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A spider with patterned legs and a marked abdomen is positioned at the center of a web, with a captured prey item visible beneath it; the background is out of focus greenery. Photograph read: The image has a shallow depth of field, with the spider and web in relative focus against a blurred background. Lighting is even and natural, with no visible signs of flash or harsh shadows. The rendering preserves the spider’s markings and web structure, though fine details are not sharply defined. Photo type: Natural
 - **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/Df3-vseFbp5))
   - Photo: Description: The photograph shows a close-up, top-down view of a succulent plant with fleshy, green, pointed leaves arranged in a rosette pattern, each leaf bearing small white spots and serrated edges. Photograph read: The image is a tight crop with even, diffused lighting that highlights the texture and pattern of the leaves. The composition centers on the plant’s rosette, with a shallow depth of field causing the background to be out of focus and indistinct. Photo type: Macro
+- **giarti52**: No, I arranged it there intentionally to play with the light and shadows! ([link](https://www.threads.com/@giarti52/post/Df4cP--mB6-))
+  - _Replying to: The steps repeat like a quiet drumbeat, and then that one y…_
 - **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
   - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
     - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
