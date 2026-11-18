@@ -6,13 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (29)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **lucillepippetti**: She's my new Plant model. I found her at a craft fair on Saturday. Thank you so much. ([link](https://www.threads.com/@lucillepippetti/post/Df4GAlfFnW_))
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/Df4HUnOCrgf))
+  - Photo: Description: A dark, textured, sculptural object with intricate golden swirl patterns is mounted on a dark panel, set against a light-colored wall. Photograph read: The image is vertically oriented, with the subject centered on the panel. Lighting is even and diffuse, casting minimal shadows. The surface texture of the object is visible, and the golden lines appear as applied decorative elements. Photo type: Artistic
 - **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df4BMZaCFG3))
   - Photo: Description: The photograph shows a close-up of a green, segmented cactus with numerous radial spines emerging from areoles. The background is out of focus and contains indistinct, dry vegetation. Photograph read: The image is a macro shot with shallow depth of field, focusing on the cactus’s surface. Lighting is even and diffused, illuminating the spines and ridges without harsh shadows. The rendering preserves texture but lacks sharpness in the background. Photo type: Macro
 - **pattymooney69**:  ([link](https://www.threads.com/@pattymooney69/post/Df3_FvDFI_a))
