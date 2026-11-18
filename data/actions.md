@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (81)
+## Needs Reply (82)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **real_snapshot_**:  ([link](https://www.threads.com/@real_snapshot_/post/Df5qkDEGVtE))
@@ -94,6 +94,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The gold trees double so cleanly the pond looks like a seco…_
 - **sahelstreams**: Thank you so much! I was on a hike with friends, not long at all… right time-right place; it’s literally called Dream Lake in Rocky Mountain National Park ([link](https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD))
   - _Replying to: That leaning tree frames the whole lake, and the forest dou…_
+- **caissiecat**: Mineral. We were hiking in Kootenay National Park. Paint Pots Trail - iron rich mineral springs, red/orange mud caused by oxidized iron. ([link](https://www.threads.com/@caissiecat/post/Df5rpzQmf3g))
+  - _Replying to: A little round sky sitting in the rust-red ground, pines an…_
 - **encinitasditka**: Yes but it was a hotel window, the Edgewater in Seattle…the Beatles fished out the window when they stayed there ([link](https://www.threads.com/@encinitasditka/post/Df5m19iD_FL))
   - _Replying to: The sun gets two showings here - one on the water, one in t…_
 - **thatguyale**: It's actually a rear back window of a parked car. I took the pic while walking my dog. ([link](https://www.threads.com/@thatguyale/post/Df5jGQbAf73))

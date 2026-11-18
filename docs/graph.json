@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 292,
+      "reply_count": 293,
       "replies": [
         {
           "username": "real_snapshot_",
@@ -1104,7 +1104,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "caissiecat",
+                  "text": "Mineral. We were hiking in Kootenay National Park. Paint Pots Trail - iron rich mineral springs, red/orange mud caused by oxidized iron.",
+                  "permalink": "https://www.threads.com/@caissiecat/post/Df5rpzQmf3g",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
