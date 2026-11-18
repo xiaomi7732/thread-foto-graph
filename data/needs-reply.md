@@ -4,9 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (37)
+## Needs Reply (43)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **keerthi_ranjani**:  ([link](https://www.threads.com/@keerthi_ranjani/post/Df47ZzfE_SQ))
+  - Photo: Description: The image shows a traditional South Indian temple complex with a central pavilion structure over a reflecting pool, surrounded by colonnaded walls and ornate gopurams under a partly cloudy sky. Photograph read: The composition is centered on the temple’s reflection in the water, with the sky and clouds mirrored. Lighting is natural daylight, with even illumination across the scene. The rendering preserves architectural detail, though the water surface shows slight ripples. Photo type: Architectural
+- **lapsednun**:  ([link](https://www.threads.com/@lapsednun/post/Df47TC8AnAH))
+  - Photo: Description: A snow-capped mountain peak rises above a layer of clouds, with its reflection visible in a calm lake below, surrounded by rocky terrain. Photograph read: The composition features a mountain and its reflection in water, with a deep blue sky above. Lighting is bright and even, suggesting daylight. The rendering shows some visible grain or digital artifacting, particularly in the foreground rocks and water surface. Photo type: Landscape
+    - Watch-outs: - Foreground rocks and water surface show visible grain or digital artifacting, reducing fine detail. - Reflection in the water is slightly distorted and lacks sharpness, obscuring precise contours of the mountain.
+- **suz_sharperphotos**:  ([link](https://www.threads.com/@suz_sharperphotos/post/Df47JwXlHUx))
+  - Photo: Description: A white swan swims on a calm body of water, creating concentric ripples, with reflections of autumnal trees visible on the surface. Lush green lily pads are scattered in the foreground. Photograph read: The composition is centered on the swan, with the water surface reflecting vertical tree trunks in warm yellow and green tones. Lighting appears soft and diffused, likely from late afternoon sun. The rendering is clear enough to discern the swan’s form and the ripples, though the water’s surface has minor texture. Photo type: Natural landscape
+- **suzanne_raimondi_gallagher**:  ([link](https://www.threads.com/@suzanne_raimondi_gallagher/post/Df46-DvjYco))
+  - Photo: Description: The image shows a car’s side-view mirror reflecting a vibrant sunset over water, with the sky painted in red and orange hues and distant shoreline lights visible. Photograph read: The mirror’s surface reflects the sky, water, and part of the car’s body, with a standard “Objects in mirror are closer than they appear” warning visible. The reflection is clear enough to discern the horizon, water texture, and distant structures, though the mirror’s frame and the car’s window edges are slightly distorted by the reflection. Photo type: Reflection
 - **the_shaunjohnson**:  ([link](https://www.threads.com/@the_shaunjohnson/post/Df46wfzmagA))
   - Photo: Description: A black-and-white photograph shows a vintage coffee grinder and two metallic containers on a windowsill, with reflections of buildings and trees visible on the glass surface. Photograph read: The image is composed with the grinder centered, flanked by containers; reflections of an urban street scene overlay the glass. Lighting is even, with no obvious highlights or shadows indicating a specific source. Rendering is monochrome, with visible grain and moderate contrast. Photo type: Documentary
     - Watch-outs: - Reflections on the glass obscure parts of the grinder and containers, reducing clarity of their surfaces and details. - The glass surface introduces a double exposure effect, making it difficult to distinguish between the subject and its reflection.
@@ -23,8 +32,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **titan_actual86**: I was stuck in traffic at a red light on the 4th of July. Had meant to go around downtown but like always I forgot... lol anyways I looked over and literally saw the Pic and had to snap it. One good thing about being a mobile photographer is my phone is always with me! I wanted to center the flag a bit better but the light has just turned green and I had to scoot lol. ([link](https://www.threads.com/@titan_actual86/post/Df45zQsICCW))
   - _Replying to: I think the mirror was the right call - the sunset goes ful…_
+- **vuurenbernadettevan**: The local municipality is busy with repair and maintenance. A water feature allows water in to lake, which was working since Monday. I wanted to see it... ([link](https://www.threads.com/@vuurenbernadettevan/post/Df47aTIkZAW))
+  - _Replying to: A proper pause of a photo - palms, stone steps, and the pon…_
 - **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
   - _Replying to: (photo reply, no text)_
+- **landlockedgator**: Nope. Just vacationing there, enjoying the beach. ([link](https://www.threads.com/@landlockedgator/post/Df47BkHoYmY))
+  - _Replying to: Two bikes for the price of one, and the wet sand does the s…_
 - **srravi**: Many thanks 😊 first is sunset the other two in the morning after sunrise…actually it wasn’t all that difficult to frame if you know what to expect in each given place…since all are close to home I know what each place offers… ([link](https://www.threads.com/@srravi/post/Df455atGtQd))
   - _Replying to: Three frames, three kinds of still water - the sunset doing…_
 

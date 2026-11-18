@@ -13,8 +13,59 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 41,
+      "reply_count": 47,
       "replies": [
+        {
+          "username": "keerthi_ranjani",
+          "text": "",
+          "permalink": "https://www.threads.com/@keerthi_ranjani/post/Df47ZzfE_SQ",
+          "photos": [
+            "Description: The image shows a traditional South Indian temple complex with a central pavilion structure over a reflecting pool, surrounded by colonnaded walls and ornate gopurams under a partly cloudy sky. Photograph read: The composition is centered on the temple\u2019s reflection in the water, with the sky and clouds mirrored. Lighting is natural daylight, with even illumination across the scene. The rendering preserves architectural detail, though the water surface shows slight ripples. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lapsednun",
+          "text": "",
+          "permalink": "https://www.threads.com/@lapsednun/post/Df47TC8AnAH",
+          "photos": [
+            "Description: A snow-capped mountain peak rises above a layer of clouds, with its reflection visible in a calm lake below, surrounded by rocky terrain. Photograph read: The composition features a mountain and its reflection in water, with a deep blue sky above. Lighting is bright and even, suggesting daylight. The rendering shows some visible grain or digital artifacting, particularly in the foreground rocks and water surface. Photo type: Landscape"
+          ],
+          "watch_outs": [
+            "- Foreground rocks and water surface show visible grain or digital artifacting, reducing fine detail. - Reflection in the water is slightly distorted and lacks sharpness, obscuring precise contours of the mountain."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "suz_sharperphotos",
+          "text": "",
+          "permalink": "https://www.threads.com/@suz_sharperphotos/post/Df47JwXlHUx",
+          "photos": [
+            "Description: A white swan swims on a calm body of water, creating concentric ripples, with reflections of autumnal trees visible on the surface. Lush green lily pads are scattered in the foreground. Photograph read: The composition is centered on the swan, with the water surface reflecting vertical tree trunks in warm yellow and green tones. Lighting appears soft and diffused, likely from late afternoon sun. The rendering is clear enough to discern the swan\u2019s form and the ripples, though the water\u2019s surface has minor texture. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "suzanne_raimondi_gallagher",
+          "text": "",
+          "permalink": "https://www.threads.com/@suzanne_raimondi_gallagher/post/Df46-DvjYco",
+          "photos": [
+            "Description: The image shows a car\u2019s side-view mirror reflecting a vibrant sunset over water, with the sky painted in red and orange hues and distant shoreline lights visible. Photograph read: The mirror\u2019s surface reflects the sky, water, and part of the car\u2019s body, with a standard \u201cObjects in mirror are closer than they appear\u201d warning visible. The reflection is clear enough to discern the horizon, water texture, and distant structures, though the mirror\u2019s frame and the car\u2019s window edges are slightly distorted by the reflection. Photo type: Reflection"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "the_shaunjohnson",
           "text": "",
@@ -251,7 +302,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "vuurenbernadettevan",
+                  "text": "The local municipality is busy with repair and maintenance. A water feature allows water in to lake, which was working since Monday. I wanted to see it...",
+                  "permalink": "https://www.threads.com/@vuurenbernadettevan/post/Df47aTIkZAW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -330,7 +392,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "landlockedgator",
+                  "text": "Nope. Just vacationing there, enjoying the beach.",
+                  "permalink": "https://www.threads.com/@landlockedgator/post/Df47BkHoYmY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
