@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (69)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **allison.ludwig.31**: Arkansas river. ([link](https://www.threads.com/@allison.ludwig.31/post/Df5ivl7mNhi))
@@ -59,6 +59,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Nadine caught herself in the mirror and the lamp light does…_
 - **picchic17**: I wanted to capture as much of the reflection as I could ([link](https://www.threads.com/@picchic17/post/Df5iSpmmcQe))
   - _Replying to: The clouds get a second sky in the bay, and the boats just …_
+- **sahelstreams**: Thank you so much! I was on a hike with friends, not long at all… right time-right place; it’s literally called Dream Lake in Rocky Mountain National Park ([link](https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD))
+  - _Replying to: That leaning tree frames the whole lake, and the forest dou…_
 - **kayslazydays**:  ([link](https://www.threads.com/@kayslazydays/post/Df5Em7dEVsA))
   - Photo: Description: A woman in a blue top and black pants crouches near a child in a pink outfit riding a bicycle on a wet beach, while two brown dogs walk nearby; in the background are rocky cliffs, a grassy area, parked cars, and residential houses. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting clear reflections on the wet sand. The composition places the subjects in the foreground, with the background showing a layered landscape. The image appears sharp, with no visible motion blur or focus issues. Photo type: Natural
 - **thatguyale**: It's actually a rear back window of a parked car. I took the pic while walking my dog. ([link](https://www.threads.com/@thatguyale/post/Df5jGQbAf73))

@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 276,
+      "reply_count": 277,
       "replies": [
         {
           "username": "allison.ludwig.31",
@@ -876,7 +876,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sahelstreams",
+                  "text": "Thank you so much! I was on a hike with friends, not long at all\u2026 right time-right place; it\u2019s literally called Dream Lake in Rocky Mountain National Park",
+                  "permalink": "https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
