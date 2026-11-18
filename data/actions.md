@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (30)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **lucillepippetti**: She's my new Plant model. I found her at a craft fair on Saturday. Thank you so much. ([link](https://www.threads.com/@lucillepippetti/post/Df4GAlfFnW_))
@@ -69,6 +69,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
 - **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
   - _Replying to: I think filling the whole frame with the wheat was the righ…_
+- **corwyn671**: At work I don't own a pair of cowboy boots. Not yet anyway. ([link](https://www.threads.com/@corwyn671/post/Df4IXnbm1AY))
+  - _Replying to: That white stitching pops so hard against the black leather…_
 - **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2Sp0NCDns))
   - Photo: Description: A dark, ornate spiral staircase with intricate metalwork is set against a solid, vibrant red background. The staircase features decorative circular panels and balusters, ascending in a tight helix. Photograph read: The image is composed with the staircase as the central subject, framed against a uniform red backdrop. Lighting is even, highlighting the metallic texture and patterns without casting harsh shadows. The rendering preserves fine details of the railings and steps. Photo type: Architectural
   - Photo: Description: The photograph shows a large, ornate clock tower suspended in the center of a multi-level shopping arcade with a high, arched glass and metal ceiling. Shoppers and storefronts line the upper and lower levels. Photograph read: The image is taken from an elevated perspective, capturing the central clock tower and surrounding architecture. Lighting is even and diffused, likely from the glass ceiling, illuminating the scene without harsh shadows. The clock face and surrounding decorative elements are clearly visible, and the architectural details of the arcade are well resolved. Photo type: Architectural

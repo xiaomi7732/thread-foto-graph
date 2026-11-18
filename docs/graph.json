@@ -99,7 +99,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 438,
+      "reply_count": 439,
       "replies": [
         {
           "username": "marysticht79",
@@ -4267,7 +4267,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "corwyn671",
+                  "text": "At work I don't own a pair of cowboy boots. Not yet anyway.",
+                  "permalink": "https://www.threads.com/@corwyn671/post/Df4IXnbm1AY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
