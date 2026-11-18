@@ -13,8 +13,48 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 71,
+      "reply_count": 93,
       "replies": [
+        {
+          "username": "fabienne_journey",
+          "text": "",
+          "permalink": "https://www.threads.com/@fabienne_journey/post/Df4-TWqm9an",
+          "photos": [
+            "Description: The image shows a car\u2019s side-view mirror reflecting a dramatic sky with sunbeams piercing through clouds, while the foreground includes part of the car\u2019s interior dashboard. Photograph read: The mirror\u2019s reflective surface captures a bright, textured sky with radiating light beams and cloud formations, contrasted against a darker, out-of-focus background. The mirror surface has visible water droplets and minor surface imperfections. The foreground dashboard is in shadow with a textured surface. Photo type: Reflection"
+          ],
+          "watch_outs": [
+            "Mirror surface has water droplets and minor surface imperfections, which reduce clarity of reflected sky details. Foreground dashboard is in shadow, limiting visibility of interior features."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "5gttexbn",
+          "text": "",
+          "permalink": "https://www.threads.com/@5gttexbn/post/Df495bEEaax",
+          "photos": [
+            "Description: The image shows the Washington Monument viewed from across the Reflecting Pool, with its reflection visible in the water, flanked by tree-lined walkways and scattered visitors under a partly cloudy sky. Photograph read: The composition is symmetrical, with the monument centered and mirrored in the pool. Lighting is natural daylight, with soft shadows and even illumination. The rendering is clear enough to identify the monument and surrounding features, though the water surface has slight ripples that distort the reflection. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bobherrmann6",
+          "text": "From my deck",
+          "permalink": "https://www.threads.com/@bobherrmann6/post/Df492lUlpap",
+          "photos": [
+            "Description: A calm lake reflects a house and autumn trees at dusk, with scattered leaves on the foreground grass and tree branches framing the upper right. Photograph read: The scene is captured with soft, warm ambient light; reflections are clear but slightly distorted by ripples. The foreground grass and tree branches are in focus, while the distant house and trees show moderate detail. No visible signs of motion blur or focus falloff. Photo type: Landscape",
+            "Description: A two-story residential building with beige siding and a brown roof is visible behind a rocky shoreline, its reflection mirrored in calm water in the foreground. The foreground consists of a grassy area scattered with fallen leaves. Photograph read: The image is taken from a low angle across a body of water, with the building and its reflection occupying the central frame. Lighting is even and diffused, suggesting an overcast day. The water surface is still, producing a clear reflection. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "akmaleky",
           "text": "",
@@ -100,10 +140,32 @@
           "photos": [
             "Description: A calm body of water reflects a vibrant autumnal tree line and a distant stone tower under a partly cloudy sky, framed by foreground foliage. Photograph read: The composition is framed by overhanging branches, with the water surface mirroring the sky and trees. Lighting is bright and even, suggesting daylight. Rendering shows rich color saturation and clear reflections, though some foliage edges are slightly soft. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The branches frame it like a window, and the lake hands the whole scene back - autumn trees, blue sky, tower and all. How long did that light hold?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4-AfKG9ZQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "smasso9015",
+                  "text": "About an hour - it was late afternoon autumnal sun. \ud83d\udc9b",
+                  "permalink": "https://www.threads.com/@smasso9015/post/Df4-RofjVyQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "susiestar32",
@@ -124,10 +186,21 @@
           "photos": [
             "Description: The photograph shows the exterior wall of a building with a large window displaying a printed image of a red house with the text \u201cLj\u00f3\u00f0asetur \u00cdslands.\u201d The wall itself is textured and shows cracks and minor wear. Photograph read: The image is taken from a street-level perspective, with even, diffuse lighting. The window\u2019s printed image is clear and centered, with visible text and a house scene. The surrounding wall and sidewalk are in focus, with no signs of motion blur or lens distortion. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red house gets a second showing in the glass, tree and mountain included, and the lettering just floats across all of it. What made you stop at this window?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df49xjuGpnS",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jh1962bike",
@@ -136,10 +209,21 @@
           "photos": [
             "Description: The photograph shows the highly reflective hood of a vintage Mercedes-Benz 300 SL, with the emblem and model designation clearly visible, reflecting a cloudy sky and surrounding urban buildings. Photograph read: The image is rendered in black and white with high contrast, featuring a central composition focused on the car\u2019s emblem and badge. Reflections of buildings and sky dominate the surface, with a visible streetlight and structural elements mirrored. Lighting appears to be diffused daylight, creating sharp highlights on the chrome and glossy paint. Photo type: Reflection Photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The star sits in the middle of a whole folded-up street - sky, lamps, buildings, all of it. Was the sky doing the work, or is that hood always this glossy?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df49ymVGlSi",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hobb.y6011",
@@ -148,10 +232,21 @@
           "photos": [
             "Description: The photograph shows the Brandenburg Gate in Berlin at dusk, with wet cobblestone pavement reflecting lights and a bright moon visible through the archway. The structure is illuminated, and a yellow maintenance vehicle is parked near the center. Photograph read: The image is taken from a low angle, with the gate centered and flanked by symmetrical colonnades. Lighting is artificial, highlighting the gate\u2019s facade and casting reflections on the wet ground. The moon is visible as a distinct, bright disc through the arch. The sky is a uniform dusky blue. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Was the square that empty, or did the rain clear it out for you? The gate doubles in the wet cobbles and the moon slips right through the arch.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df49z08mO2m",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "keerthi_ranjani",
@@ -160,10 +255,21 @@
           "photos": [
             "Description: The image shows a traditional South Indian temple complex with a central pavilion structure over a reflecting pool, surrounded by colonnaded walls and ornate gopurams under a partly cloudy sky. Photograph read: The composition is centered on the temple\u2019s reflection in the water, with the sky and clouds mirrored. Lighting is natural daylight, with even illumination across the scene. The rendering preserves architectural detail, though the water surface shows slight ripples. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The pavilion gets a softer twin in the water, clouds and all. How still does the tank have to be for the reflection to hold that clean?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df491BQGDkm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lapsednun",
@@ -175,10 +281,21 @@
           "watch_outs": [
             "- Foreground rocks and water surface show visible grain or digital artifacting, reducing fine detail. - Reflection in the water is slightly distorted and lacks sharpness, obscuring precise contours of the mountain."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The mountain comes back upside down in the lake and the clouds sit right between the two. Is this a spot you return to, or a one-off visit?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df492O-mmM9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "suz_sharperphotos",
@@ -187,10 +304,21 @@
           "photos": [
             "Description: A white swan swims on a calm body of water, creating concentric ripples, with reflections of autumnal trees visible on the surface. Lush green lily pads are scattered in the foreground. Photograph read: The composition is centered on the swan, with the water surface reflecting vertical tree trunks in warm yellow and green tones. Lighting appears soft and diffused, likely from late afternoon sun. The rendering is clear enough to discern the swan\u2019s form and the ripples, though the water\u2019s surface has minor texture. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That swan is trailing its own reflection like a ribbon, and the autumn trees double the whole pond. Did the ripples settle for you, or did you catch them mid-spread?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df493jFGoS7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "suzanne_raimondi_gallagher",
@@ -199,10 +327,21 @@
           "photos": [
             "Description: The image shows a car\u2019s side-view mirror reflecting a vibrant sunset over water, with the sky painted in red and orange hues and distant shoreline lights visible. Photograph read: The mirror\u2019s surface reflects the sky, water, and part of the car\u2019s body, with a standard \u201cObjects in mirror are closer than they appear\u201d warning visible. The reflection is clear enough to discern the horizon, water texture, and distant structures, though the mirror\u2019s frame and the car\u2019s window edges are slightly distorted by the reflection. Photo type: Reflection"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Does the mirror make the sunset bigger, or just closer? That red sky over the water is hard to look away from.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4946ZGqNU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "the_shaunjohnson",
@@ -218,10 +357,21 @@
             "The subject\u2019s face is obscured by the camera and glass reflections, making facial features unreadable. The camera\u2019s body and grip are partially visible but lack fine detail due to the image\u2019s grain and soft focus.",
             "- The upper-left pane has a large, irregular crack with a dark hole, obscuring part of the reflection. - The lower-right pane is heavily frosted or dirty, reducing visibility of any reflected detail."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The B&W suits all three - the grinder keeps the street behind it, the cracked panes keep the sky, and your own reflection holds the camera in the middle one. Did you set out to shoot windows, or did the reflections keep finding you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4955DmkeQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "corwyn671",
@@ -233,10 +383,21 @@
           "watch_outs": [
             "The subject\u2019s face is partially obscured by the window\u2019s reflection and the green tint, reducing facial detail clarity. The window\u2019s surface introduces visible distortion and glare, affecting the sharpness of the subject\u2019s features."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Her smile lands right in the mirror and the green wall does the rest - such a small frame for such a big grin. Was she posing for you, or did you catch her mid-laugh?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df497CHGiOh",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "gteam0",
@@ -245,10 +406,21 @@
           "photos": [
             "Description: A convex traffic mirror mounted on a metal pole reflects a winding road bordered by rocky terrain and sparse vegetation, with a clear blue sky visible in the reflection. Photograph read: The image is taken in bright daylight with direct sunlight casting sharp shadows. The mirror\u2019s surface reflects a wide, curved view of the road and surrounding landscape. The mirror\u2019s frame and mounting are visible, and the surrounding vegetation is in focus. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole winding road squeezed into one mirror, hills and all. What made you stop and frame the mirror instead of the road itself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df498Sdmnm1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joshtrudellimagery",
@@ -275,10 +447,21 @@
                   "text": "It had been raining on and off all morning. I think we were at a point where it was just sprinkling.",
                   "permalink": "https://www.threads.com/@joshtrudellimagery/post/Df47zLRI0Qh",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That in-between light was a gift. Thanks for sharing how it happened.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-BwLiTh4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -341,10 +524,21 @@
                   "text": "I was stuck in traffic at a red light on the 4th of July. Had meant to go around downtown but like always I forgot... lol anyways I looked over and literally saw the Pic and had to snap it. One good thing about being a mobile photographer is my phone is always with me! I wanted to center the flag a bit better but the light has just turned green and I had to scoot lol.",
                   "permalink": "https://www.threads.com/@titan_actual86/post/Df45zQsICCW",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A red light that hands you a sunset is worth the wait. Glad the phone was in reach.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-DJKFnfG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -479,10 +673,21 @@
                   "text": "The local municipality is busy with repair and maintenance. A water feature allows water in to lake, which was working since Monday. I wanted to see it...",
                   "permalink": "https://www.threads.com/@vuurenbernadettevan/post/Df47aTIkZAW",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Good to hear the water is flowing again. Thanks for filling in the backstory.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-EcbEXEm",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -513,10 +718,21 @@
                   "text": "The pond was like glass that morning",
                   "permalink": "https://www.threads.com/@mtqiwoman/post/Df47x45Ecqx",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Glass-calm mornings like that are rare. Lovely to hear it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-F86oSsb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -611,10 +827,21 @@
                   "text": "I had to wait quite a while...",
                   "permalink": "https://www.threads.com/@2killamockingbird/post/Df48XWcAJtl",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A wait like that pays off in the mist. Lovely to hear it came together.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-JZ7GrX7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -666,10 +893,21 @@
                   "text": "Nope. Just vacationing there, enjoying the beach.",
                   "permalink": "https://www.threads.com/@landlockedgator/post/Df47BkHoYmY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Vacation light suits that stretch of beach. Hope the rest of the trip was just as easy.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-HPGifYb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -707,10 +945,21 @@
                   "text": "Many thanks \ud83d\ude0a first is sunset the other two in the morning after sunrise\u2026actually it wasn\u2019t all that difficult to frame if you know what to expect in each given place\u2026since all are close to home I know what each place offers\u2026",
                   "permalink": "https://www.threads.com/@srravi/post/Df455atGtQd",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Knowing each spot that well shows in all three frames. Thanks for the tour.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4-IRumnpB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
