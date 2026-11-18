@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (65)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **sahelstreams**:  ([link](https://www.threads.com/@sahelstreams/post/Df5HxtJlHpw))
+  - Photo: Description: A calm lake reflects a clear blue sky and surrounding coniferous forest, with a prominent tree leaning over the water on the left and rocky shore in the foreground. Photograph read: The composition is framed by a large tree on the left and a forested hillside on the right, with the lake occupying the center. Lighting is bright and even, suggesting midday sun. Reflections are clear on the water’s surface, though minor ripples are visible. The image has no apparent distortion or chromatic aberration. Photo type: Natural landscape
 - **nicoleplaysbydesign**:  ([link](https://www.threads.com/@nicoleplaysbydesign/post/Df5HbBcFJV9))
   - Photo: Description: A calm body of water reflects a blue sky with scattered clouds and surrounding green trees, with a grassy foreground containing small yellow flowers. Photograph read: The image is composed with the water surface as the central element, reflecting the sky and trees. Lighting is even and natural, suggesting daytime. Rendering is clear, with visible texture in foliage and water surface reflections. Photo type: Natural landscape
 - **caissiecat**:  ([link](https://www.threads.com/@caissiecat/post/Df5FvGBGd0p))
@@ -53,6 +55,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
   - _Replying to: Where is this?_
+- **abnerabel125**: You’re very welcome . ([link](https://www.threads.com/@abnerabel125/post/Df5HikTmykn))
+  - _Replying to: Small harbors hold the best quiet. Thanks for sharing it._
 - **patricahewitt**: Yes. It’s a very protected little harbour that is still used. ([link](https://www.threads.com/@patricahewitt/post/Df5GsNgHwtw))
   - Photo: Description: A small motorboat with a person aboard moves across calm water, passing a row of colorful, waterfront buildings and docks. Behind them, forested hills and a rocky cliff face the water under a clear sky. Photograph read: The image is evenly lit with natural daylight, showing clear reflections on the water surface. The composition is balanced, with the boat in the foreground and the docks and hills forming a layered background. Details of the buildings and surrounding environment are visible without motion blur or significant noise. Photo type: Documentary
   - Photo: Description: A calm harbor with boats moored along a rocky shoreline, featuring a large green building with visible text and smaller structures on stilts, set against a pale sky. Photograph read: The image is evenly lit under diffuse daylight, with minimal contrast and muted tones. Reflections are visible on the water surface, and the scene is composed with the shoreline and buildings occupying the right and center, while the left is dominated by a steep cliff. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Natural landscape
@@ -77,6 +81,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **nicolasmacpherson**:  ([link](https://www.threads.com/@nicolasmacpherson/post/Df5HvJqFtrV))
+  - Photo: Description: A close-up view of a red rose, with petals in various stages of unfurling, set against a dark, indistinct background. Photograph read: The image is dominated by deep red tones with soft, diffuse lighting that creates subtle highlights and shadows across the petals. The composition is tightly framed on the flower’s center, with shallow depth of field causing parts of the foreground and background to be out of focus. The rendering appears smooth, with no visible grain or digital artifacts. Photo type: Macro
+    - Watch-outs: The central core of the rose is partially obscured by overlapping petals and soft focus, reducing the visibility of fine petal textures. The lower right quadrant is heavily underexposed, resulting in a loss of detail and a dark, featureless area.
 - **danielreesart**:  ([link](https://www.threads.com/@danielreesart/post/Df42e04FkHj))
   - Photo: Description: The photograph shows a close-up of a grid-like metal structure, possibly a grate or fence, with intersecting bars casting shadows across a textured, light-colored surface behind it. Photograph read: The composition is dominated by a repeating grid pattern with strong diagonal shadows cast by the intersecting bars. Lighting is directional, creating high contrast between illuminated and shadowed areas. The rendering is monochrome, with visible grain or noise, and the surface texture of the background is discernible but not sharply defined. Photo type: Abstract
 - **ianhcooper**: One building. I have better photos somewhere but can’t find them via my phone interface in threads. https://en.wikipedia.org/wiki/Ravensbourne_University_London ([link](https://www.threads.com/@ianhcooper/post/Df4vPBEDpz3))
