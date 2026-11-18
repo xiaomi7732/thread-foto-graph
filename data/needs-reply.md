@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (36)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Gorgeous picks for Tuesday 👏👏👏👏 ([link](https://www.threads.com/@2killamockingbird/post/Df4Lnc6AKGt))
@@ -12,6 +12,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **arrowood**: right down the barrel ([link](https://www.threads.com/@arrowood/post/Df4mIOwEcTb))
+  - Photo: Description: The photograph shows a close-up, monochrome view of the interior base of a transparent, molded plastic container, with the “IKEA” logo embossed centrally. Photograph read: The image is rendered in grayscale with high contrast between reflective surfaces and shadowed recesses. The composition is centered on the logo, with radial, wavy ridges radiating outward from the center. Lighting creates specular highlights on the glossy surface, and minor surface scratches are visible. Photo type: Macro
+    - Watch-outs: - The central logo area is partially obscured by reflections and glare, reducing legibility of the embossed text. - Surface scratches are visible across the container’s interior, particularly in the upper and lower quadrants, affecting texture clarity.
 - **d.mcc**:  ([link](https://www.threads.com/@d.mcc/post/Df4cw-oJTt9))
   - Photo: Description: The image shows a close-up of a green leaf with a central vein and radiating, curved lines that form a spiral pattern toward a dark center. Photograph read: The composition is dominated by a strong vertical axis and a spiral structure. Lighting is high-contrast, with bright green tones and deep shadows. The rendering has a textured, grainy appearance across the entire image. Photo type: Abstract
     - Watch-outs: The entire image exhibits a visible grainy texture that reduces fine detail clarity. The spiral’s innermost region is obscured by darkness, limiting readability of the center.
