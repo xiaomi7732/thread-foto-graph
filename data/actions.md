@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (80)
+## Needs Reply (81)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **real_snapshot_**:  ([link](https://www.threads.com/@real_snapshot_/post/Df5qkDEGVtE))
+  - Photo: Description: The image shows a black-and-white scene of two figures holding umbrellas, viewed from behind, with a patterned wall and architectural elements in the background; the foreground includes a textured surface and a partially visible structure. Photograph read: The composition is framed with strong vertical and horizontal lines, featuring a high-contrast, grainy texture. Lighting appears diffuse, casting soft shadows and creating a flat, monochromatic tone across the scene. Rendering is grainy with visible noise and slight motion blur, particularly affecting the figures and foreground elements. Photo type: Unclear
+    - Watch-outs: - The main subjects (figures with umbrellas) are obscured by motion blur and low contrast, making facial features and clothing details indistinct. - The foreground surface and lower portion of the image are heavily blurred, reducing readability of texture and form.
 - **dasimscas**: Jet stream reflection. ([link](https://www.threads.com/@dasimscas/post/Df5pqOpjNPa))
   - Photo: Description: A dark, calm body of water occupies the frame, with a faint, irregular white pattern resembling broken lines or bubbles drifting across its surface. A weathered wooden structure, possibly a dock or pier, is visible along the bottom edge. Photograph read: The image is taken from a high angle, with the water surface dominating the frame. Lighting appears even and diffused, casting minimal shadows. The rendering is flat, with no visible depth cues or texture detail beyond the surface pattern and wood grain. Photo type: Aerial or high-angle landscape
     - Watch-outs: The white pattern on the water is indistinct and lacks definition, making its origin or nature unclear. The wooden structure at the bottom is partially obscured by shadow and lacks sharp detail, limiting visual information about its condition or structure.
