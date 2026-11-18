@@ -173,9 +173,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (22)
+## Needs Like (24)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- aaronschwartz1: Yes, exactly ([link](https://www.threads.com/@aaronschwartz1/post/Df5IjdhI9zZ))
 - muddie79: Yes ([link](https://www.threads.com/@muddie79/post/Df5E6UECvFP))
 - 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
 - the_shaunjohnson: I agree. ([link](https://www.threads.com/@the_shaunjohnson/post/Df5FqufmVDK))
@@ -191,6 +192,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Df5AHuRGj2x))
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- josbulle: Amazing... ([link](https://www.threads.com/@josbulle/post/Df5IHz6JQ9G))
 - d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
 - tilling.the.soil: My pleasure! ([link](https://www.threads.com/@tilling.the.soil/post/Df3bBchFkYm))
 - tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/Df2ka0ikhyK))

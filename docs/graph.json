@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 174,
+      "reply_count": 175,
       "replies": [
         {
           "username": "sahelstreams",
@@ -418,7 +418,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "aaronschwartz1",
+                  "text": "Yes, exactly",
+                  "permalink": "https://www.threads.com/@aaronschwartz1/post/Df5IjdhI9zZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2180,7 +2191,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 469,
+      "reply_count": 470,
       "replies": [
         {
           "username": "nicolasmacpherson",
@@ -2195,7 +2206,18 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "josbulle",
+              "text": "Amazing...",
+              "permalink": "https://www.threads.com/@josbulle/post/Df5IHz6JQ9G",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "danielreesart",
