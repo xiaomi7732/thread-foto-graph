@@ -6,9 +6,10 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (31)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
+- **2killamockingbird**: Gorgeous picks for Tuesday 👏👏👏👏 ([link](https://www.threads.com/@2killamockingbird/post/Df4Lnc6AKGt))
 - **lucillepippetti**: She's my new Plant model. I found her at a craft fair on Saturday. Thank you so much. ([link](https://www.threads.com/@lucillepippetti/post/Df4GAlfFnW_))
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
