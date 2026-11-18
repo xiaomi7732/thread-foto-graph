@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (82)
+## Needs Reply (83)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **rickjackoway**:  ([link](https://www.threads.com/@rickjackoway/post/Df5sCZWD4_t))
+  - Photo: Description: A nighttime photograph shows the brightly lit neon sign of the Fremont Theatre, with people walking on a wet street in the foreground. Reflections of the neon lights shimmer on the rain-slicked pavement. Photograph read: The image features a prominent, colorful neon sign with a marquee displaying event information and website. The foreground shows silhouetted figures walking with umbrellas, and the wet ground reflects the sign’s lights. Lighting is artificial and saturated, with high contrast between the neon and dark surroundings. The image appears to be a single exposure with no visible signs of motion blur or focus issues. Photo type: Urban night photography
 - **real_snapshot_**:  ([link](https://www.threads.com/@real_snapshot_/post/Df5qkDEGVtE))
   - Photo: Description: The image shows a black-and-white scene of two figures holding umbrellas, viewed from behind, with a patterned wall and architectural elements in the background; the foreground includes a textured surface and a partially visible structure. Photograph read: The composition is framed with strong vertical and horizontal lines, featuring a high-contrast, grainy texture. Lighting appears diffuse, casting soft shadows and creating a flat, monochromatic tone across the scene. Rendering is grainy with visible noise and slight motion blur, particularly affecting the figures and foreground elements. Photo type: Unclear
     - Watch-outs: - The main subjects (figures with umbrellas) are obscured by motion blur and low contrast, making facial features and clothing details indistinct. - The foreground surface and lower portion of the image are heavily blurred, reducing readability of texture and form.
