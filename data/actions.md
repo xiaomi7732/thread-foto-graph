@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (63)
+## Needs Reply (68)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **jammy.kollings**:  ([link](https://www.threads.com/@jammy.kollings/post/Df5BVg5FBOc))
+  - Photo: Description: A calm waterway reflects surrounding trees and houses, with autumnal foliage and evergreens visible along the banks under a partly cloudy sky. Photograph read: The image captures a tranquil waterfront scene with clear reflections in the water. Lighting is bright and even, suggesting daytime. The composition is balanced, with trees framing the waterway and docks on either side. Photo type: Natural landscape
+- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df5BRPbDhKD))
+  - Photo: Description: The image shows a reflective water surface mirroring vertical tree trunks and a pale sky, with warm golden tones dominating the reflection and a faint horizontal line suggesting distant ice or a thin layer of water. Photograph read: The composition is dominated by vertical reflections, with a shallow depth of field rendering the water surface and reflections as a smooth, streaked texture. Lighting is diffuse, with warm highlights on the reflections and a muted sky above. Rendering is uniform across the frame, with no visible sharp edges or high-contrast areas. Photo type: Abstract
+    - Watch-outs: Whole-image blur obscures fine detail in both the water surface and reflected tree trunks. Reflections are rendered as elongated, indistinct vertical bands, limiting the ability to discern individual tree forms or surface texture.
+- **smilingjeannie**: Reflection of a line tree in a rather barren Scottish landscape ([link](https://www.threads.com/@smilingjeannie/post/Df5BQLEkjlv))
+  - Photo: Description: A wide, flat landscape features a foreground of grass and scattered rocks, a narrow strip of water, and a distant green ridge with a single tree under a pale sky. Photograph read: The composition is horizontally layered with a clear horizon. Lighting is even and diffuse, suggesting overcast conditions. Colors are muted, with no strong contrast or highlights. Rendering is consistent across the frame, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Landscape
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df5BE4MEacI))
   - Photo: Description: A calm lake reflects distant, rugged mountains under a clear blue sky, framed by tree branches in the foreground and rocky shorelines. Photograph read: The composition is vertically oriented, with foreground rocks and foliage framing the scene. Lighting is bright and even, suggesting midday. Reflections in the water are clear and symmetrical, though the water surface shows slight ripples. The image appears to be a direct capture without visible post-processing artifacts. Photo type: Landscape
 - **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/Df5AbEhI7nQ))
@@ -76,6 +83,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
   - _Replying to: Where is this?_
+- **abnerabel125**: Pretty early. It’s just a small coastal harbor . ([link](https://www.threads.com/@abnerabel125/post/Df5BVaAmxLb))
+  - _Replying to: Night harbour, lamps doubled in the water, boats tucked in …_
 - **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
   - _Replying to: (photo reply, no text)_
 - **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))
@@ -88,6 +97,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Oh this is stunning_
 - **beapersaud**: No. This is near to my sister's apartment. ([link](https://www.threads.com/@beapersaud/post/Df4867CkiBg))
   - _Replying to: The cloudy light suits it - no glare, just the trees drawin…_
+- **medium.gords7**: I got lucky - there was no wind. ([link](https://www.threads.com/@medium.gords7/post/Df5BjmBE1HF))
+  - _Replying to: I think filling the frame with the water was the right call…_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Always a pleasure Saars🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Df41ssCAHvv))

@@ -13,8 +13,47 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 107,
+      "reply_count": 112,
       "replies": [
+        {
+          "username": "jammy.kollings",
+          "text": "",
+          "permalink": "https://www.threads.com/@jammy.kollings/post/Df5BVg5FBOc",
+          "photos": [
+            "Description: A calm waterway reflects surrounding trees and houses, with autumnal foliage and evergreens visible along the banks under a partly cloudy sky. Photograph read: The image captures a tranquil waterfront scene with clear reflections in the water. Lighting is bright and even, suggesting daytime. The composition is balanced, with trees framing the waterway and docks on either side. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "hannele.heikkinen",
+          "text": "",
+          "permalink": "https://www.threads.com/@hannele.heikkinen/post/Df5BRPbDhKD",
+          "photos": [
+            "Description: The image shows a reflective water surface mirroring vertical tree trunks and a pale sky, with warm golden tones dominating the reflection and a faint horizontal line suggesting distant ice or a thin layer of water. Photograph read: The composition is dominated by vertical reflections, with a shallow depth of field rendering the water surface and reflections as a smooth, streaked texture. Lighting is diffuse, with warm highlights on the reflections and a muted sky above. Rendering is uniform across the frame, with no visible sharp edges or high-contrast areas. Photo type: Abstract"
+          ],
+          "watch_outs": [
+            "Whole-image blur obscures fine detail in both the water surface and reflected tree trunks. Reflections are rendered as elongated, indistinct vertical bands, limiting the ability to discern individual tree forms or surface texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "smilingjeannie",
+          "text": "Reflection of a line tree in a rather barren Scottish landscape",
+          "permalink": "https://www.threads.com/@smilingjeannie/post/Df5BQLEkjlv",
+          "photos": [
+            "Description: A wide, flat landscape features a foreground of grass and scattered rocks, a narrow strip of water, and a distant green ridge with a single tree under a pale sky. Photograph read: The composition is horizontally layered with a clear horizon. Lighting is even and diffuse, suggesting overcast conditions. Colors are muted, with no strong contrast or highlights. Rendering is consistent across the frame, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ulrike6417",
           "text": "",
@@ -786,7 +825,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "abnerabel125",
+                  "text": "Pretty early. It\u2019s just a small coastal harbor .",
+                  "permalink": "https://www.threads.com/@abnerabel125/post/Df5BVaAmxLb",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1231,7 +1281,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "medium.gords7",
+                  "text": "I got lucky - there was no wind.",
+                  "permalink": "https://www.threads.com/@medium.gords7/post/Df5BjmBE1HF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
