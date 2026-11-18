@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (42)
+## Needs Reply (44)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **gteam0**: Mirror Reflection, Los Angeles ([link](https://www.threads.com/@gteam0/post/Df44-23GzJ4))
+  - Photo: Description: A convex traffic mirror mounted on a metal pole reflects a winding road bordered by rocky terrain and sparse vegetation, with a clear blue sky visible in the reflection. Photograph read: The image is taken in bright daylight with direct sunlight casting sharp shadows. The mirror’s surface reflects a wide, curved view of the road and surrounding landscape. The mirror’s frame and mounting are visible, and the surrounding vegetation is in focus. Photo type: Documentary
 - **joshtrudellimagery**:  ([link](https://www.threads.com/@joshtrudellimagery/post/Df44kHAo_7M))
   - Photo: Description: A wet stone plaza leads toward St. Paul’s Cathedral, with its prominent dome and classical facade visible through surrounding buildings. A few pedestrians, including one with an umbrella, are present on the damp pavement. Photograph read: The image is taken from a low angle, with the cathedral centered in the frame. Lighting is diffuse and even, suggesting an overcast day. Reflections are visible on the wet ground. The image has a shallow depth of field, with the foreground steps and midground pedestrians in focus, while the background cathedral is slightly softer. Photo type: Urban landscape
 - **titan_actual86**:  ([link](https://www.threads.com/@titan_actual86/post/Df44Q6MIEcm))
@@ -24,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A calm body of water is framed by bare trees and dry grass in the foreground, with distant hills and scattered buildings visible across the water under a clear sky. Photograph read: The image is taken from a slightly elevated perspective, with foreground trees partially obscuring the view. Lighting is bright and direct, casting clear shadows on the grass. The water surface reflects the sky and tree branches, with moderate clarity. The distant hills and structures are visible but not sharply defined. Photo type: Natural landscape
 - **2killamockingbird**:  ([link](https://www.threads.com/@2killamockingbird/post/Df43KmugIqc))
   - Photo: Description: A lone white swan glides on a misty lake at dawn or dusk, with tall reeds silhouetted against a hazy, golden sky; the sun is visible as a bright disc near the horizon. Photograph read: The composition is dominated by horizontal bands of mist, water, and sky, with the swan and reeds forming dark silhouettes. Lighting is diffuse and warm, casting a uniform orange glow across the scene. Rendering is soft with minimal sharpness, and reflections are indistinct. Photo type: Aesthetic
+- **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
+  - _Replying to: (photo reply, no text)_
 - **landlockedgator**:  ([link](https://www.threads.com/@landlockedgator/post/Df43Ju7obYF))
   - Photo: Description: A person rides a bicycle with a front basket along a wet beach, with waves visible in the background; the subject’s reflection is cast on the damp sand. Photograph read: The image is in black and white, with a shallow depth of field that keeps the cyclist and bike in focus while the background and foreground are softer. Lighting appears to be from a low angle, casting a clear reflection. The surface of the sand is textured and wet, with visible grain and small water droplets. Photo type: Black and white
 - **srravi**:  ([link](https://www.threads.com/@srravi/post/Df4235Cmtyy))

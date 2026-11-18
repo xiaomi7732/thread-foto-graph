@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18125516990067298",
-      "label": "photograph, image, visible, photo",
+      "label": "photograph, visible, photo, type",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 21,
+      "reply_count": 23,
       "replies": [
+        {
+          "username": "gteam0",
+          "text": "Mirror Reflection, Los Angeles",
+          "permalink": "https://www.threads.com/@gteam0/post/Df44-23GzJ4",
+          "photos": [
+            "Description: A convex traffic mirror mounted on a metal pole reflects a winding road bordered by rocky terrain and sparse vegetation, with a clear blue sky visible in the reflection. Photograph read: The image is taken in bright daylight with direct sunlight casting sharp shadows. The mirror\u2019s surface reflects a wide, curved view of the road and surrounding landscape. The mirror\u2019s frame and mounting are visible, and the surrounding vegetation is in focus. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "joshtrudellimagery",
           "text": "",
@@ -134,7 +146,18 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "dirtywaterdevil444",
+              "text": "Oh this is stunning",
+              "permalink": "https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "landlockedgator",
@@ -279,7 +302,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, image, visible, photo",
+      "label": "photograph, visible, photo, type",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -397,7 +420,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, image, visible, photo",
+      "label": "photograph, visible, photo, type",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -5789,7 +5812,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "photograph, image, visible, photo",
+      "label": "photograph, visible, photo, type",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
@@ -5868,28 +5891,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "18138527668657912",
-      "label": "photograph, image, visible, photo",
-      "group": 0,
-      "snippet": "The neighborhood's tiniest library. Take a book, leave a bo\u2026",
-      "text": "The neighborhood's tiniest library. Take a book, leave a book.",
-      "permalink": "https://www.threads.com/@saars.foto/post/DfulpjiG6F3",
-      "photos": [
-        "Description: A small, light-colored wooden box labeled \u201cA Free Little Library\u201d stands outdoors in a garden setting with fallen leaves and green shrubs, with a close-up inset showing books on a shelf. Photograph read: The main image is taken in natural daylight with a shallow depth of field, focusing on the library box; the background is softly blurred. The inset is a tight crop of books on a shelf. The image has a slightly grainy texture and muted color saturation. Photo type: Documentary",
-        "Description: A bookshelf holds a row of upright books with visible spines, including titles like \u201cThis Is Not a Ghost Story\u201d and \u201cThe Book of Fate,\u201d with some books stacked horizontally in front. The shelf is set against a plain, textured wall. Photograph read: The image is a close-up shot of a bookshelf, with books arranged in a row. Lighting is even and diffuse, illuminating the spines clearly. The image has a shallow depth of field, with the foreground books in focus and the background slightly softer. The rendering is clean, with no visible digital artifacts or noise. Photo type: Still life",
-        "Description: The image shows a close-up of a wet, metallic blade with water droplets, set against a blurred natural background of green and brown tones. A smaller, partially visible inset image to the left shows a vertical object against a textured wall. Photograph read: The main image has a shallow depth of field, with the blade in focus and the background heavily blurred. Lighting appears natural and diffused, with no harsh shadows or highlights. The inset image is smaller and less detailed, with minimal context provided. Photo type: Close-up",
-        "Description: The image shows a close-up of a dark, textured surface, possibly wood or bark, with a lighter, flat, slightly wet-looking horizontal element above it. The background is out of focus with indistinct green and brown tones. Photograph read: The composition is a tight close-up with a shallow depth of field, isolating the dark surface and the upper edge. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is flat, with minimal texture detail visible on the dark surface. Photo type: Macro"
-      ],
-      "watch_outs": [
-        "- The main subject\u2019s glass panel is reflective, obscuring the interior contents and making text legibility difficult. - The inset image is cropped tightly, limiting context and showing only the spines of books without full visibility of their covers or titles.",
-        "",
-        "The main subject (blade) has visible water droplets, but fine surface texture is not discernible due to focus and lighting. The inset image is too small and blurry to identify the object or its context.",
-        "The dark surface area is indistinct, with texture obscured by low contrast and lack of detail. The upper horizontal element is partially obscured by a bright, overexposed area at the top edge, reducing visible detail."
-      ],
-      "reply_count": 0,
-      "replies": []
     }
   ],
   "edges": [
@@ -5904,10 +5905,6 @@
     {
       "from": "18125516990067298",
       "to": "17986768581121152"
-    },
-    {
-      "from": "18125516990067298",
-      "to": "18138527668657912"
     }
   ]
 }
