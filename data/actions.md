@@ -6,9 +6,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (38)
+## Needs Reply (42)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **joshtrudellimagery**:  ([link](https://www.threads.com/@joshtrudellimagery/post/Df44kHAo_7M))
+  - Photo: Description: A wet stone plaza leads toward St. Paul’s Cathedral, with its prominent dome and classical facade visible through surrounding buildings. A few pedestrians, including one with an umbrella, are present on the damp pavement. Photograph read: The image is taken from a low angle, with the cathedral centered in the frame. Lighting is diffuse and even, suggesting an overcast day. Reflections are visible on the wet ground. The image has a shallow depth of field, with the foreground steps and midground pedestrians in focus, while the background cathedral is slightly softer. Photo type: Urban landscape
+- **titan_actual86**:  ([link](https://www.threads.com/@titan_actual86/post/Df44Q6MIEcm))
+  - Photo: Description: The image shows a street scene at dusk, featuring a large American flag being hoisted by a white tow truck, with a side-view mirror in the foreground reflecting a brightly lit sky and a white Subaru. A commercial sign for a towing service is visible in the background. Photograph read: The composition is framed by the side-view mirror, which reflects a vivid, warm-toned sky and a vehicle ahead. The main scene is rendered with high contrast between the cool blue tones of the sky and the warm reflections, and the image exhibits strong color saturation and visible digital enhancement. The flag and truck are in focus, but the background elements are less distinct. Photo type: Enhanced color photography
+- **shuchi2812**: 🗼 ([link](https://www.threads.com/@shuchi2812/post/Df44NfUGDme))
+  - Photo: Description: A tall electricity pylon stands in misty, calm water, with a low sun visible on the horizon; a railing occupies the foreground, and the image includes a date stamp. Photograph read: The scene is rendered in muted, hazy tones with soft contrast; the sun appears as a small, distinct disc, and the pylon’s reflection is visible in the water. The railing is in focus but occupies the lower portion of the frame. Photo type: Landscape
+    - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The sun’s disc is small and lacks visible texture or surrounding atmospheric detail.
+- **abnerabel125**:  ([link](https://www.threads.com/@abnerabel125/post/Df44HlRlGXi))
+  - Photo: Description: A nighttime harbor scene with several boats moored at docks, illuminated by artificial lights, and their reflections visible in calm water. A white canopy structure is positioned near the center of the frame. Photograph read: The image is taken at night with artificial lighting from poles and distant buildings. Reflections in the water are clear but slightly distorted. The main subjects are boats and docks, with some background structures blurred due to depth of field. The image has a shallow depth of field, with foreground elements in focus and background elements out of focus. Photo type: Night photography
 - **patricahewitt**: St John’s, Newfoundland 🇨🇦 Quidi Vidi ([link](https://www.threads.com/@patricahewitt/post/Df43WGboIw-))
   - Photo: Description: A row of colorful, weathered buildings on wooden pilings lines a calm waterway, with a green boat moored nearby; behind them, a forested hillside meets a rocky cliff face under a pale sky. Photograph read: The image is evenly lit with diffuse daylight, showing clear reflections on the water surface. The composition is horizontally oriented, with the shoreline and buildings occupying the middle third, and the hillside and sky above. Reflections are sharp and detailed, indicating a still surface. No visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary
 - **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/Df43TBkkQYP))
@@ -115,7 +124,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (9)
+## Needs Like (11)
+
+### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- manii.77777: 🤌👌✨ ([link](https://www.threads.com/@manii.77777/post/Df44gtZApfN))
+- shuchi2812: 😍 ([link](https://www.threads.com/@shuchi2812/post/Df44jjnGAlc))
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
