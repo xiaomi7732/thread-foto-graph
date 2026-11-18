@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 277,
+      "reply_count": 278,
       "replies": [
         {
           "username": "allison.ludwig.31",
@@ -627,7 +627,18 @@
                   "needs_response": true,
                   "action": "reply",
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "gnd_moments_in_paradise",
+                      "text": "And yes. You can see the Sun just about to drop behind the mountain. And the good people around got to see a madman running down the beach to get to the waters edge before I lost the moment. \ud83d\ude0f\ud83d\udcf8",
+                      "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/Df5j6DVCPbY",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
