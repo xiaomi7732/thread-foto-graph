@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 93,
+      "reply_count": 96,
       "replies": [
         {
           "username": "fabienne_journey",
@@ -40,7 +40,18 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "2ladydilly",
+              "text": "Thats historic",
+              "permalink": "https://www.threads.com/@2ladydilly/post/Df4-rsyDuol",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bobherrmann6",
@@ -198,7 +209,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mallabrand",
+                  "text": "It was a nice contrast to the gray house - and seeing the tall mountain that was behind me was also a great thing",
+                  "permalink": "https://www.threads.com/@mallabrand/post/Df4-iS0CEtM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -839,7 +861,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "2killamockingbird",
+                          "text": "Thank you, for your kindness...",
+                          "permalink": "https://www.threads.com/@2killamockingbird/post/Df4-g2sAGG8",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (53)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/Df4-TWqm9an))
@@ -35,6 +35,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The branches frame it like a window, and the lake hands the…_
 - **susiestar32**:  ([link](https://www.threads.com/@susiestar32/post/Df48ZimFmDh))
   - Photo: Description: A shallow pool of water on a sandy beach reflects a bright, orange-yellow sky, with waves rolling in from the ocean and a distant shoreline visible under an overcast sky. Photograph read: The composition is horizontally oriented, with the pool in the foreground and the ocean and horizon in the background. Lighting is diffuse, with the reflection in the pool being the most saturated element. The image has a flat, muted color palette overall, with no visible lens distortion or chromatic aberration. Photo type: Natural landscape
+- **mallabrand**: It was a nice contrast to the gray house - and seeing the tall mountain that was behind me was also a great thing ([link](https://www.threads.com/@mallabrand/post/Df4-iS0CEtM))
+  - _Replying to: The red house gets a second showing in the glass, tree and …_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
@@ -43,6 +45,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))
   - _Replying to: Thank you so much 💗_
+- **2killamockingbird**: Thank you, for your kindness... ([link](https://www.threads.com/@2killamockingbird/post/Df4-g2sAGG8))
+  - _Replying to: A wait like that pays off in the mist. Lovely to hear it ca…_
 - **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
   - _Replying to: (photo reply, no text)_
 - **2killamockingbird**: Thank you sweetheart 💓 ([link](https://www.threads.com/@2killamockingbird/post/Df48iA7gNrB))
@@ -142,9 +146,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (17)
+## Needs Like (18)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
 - dirtywaterdevil444: It's gorgeous ([link](https://www.threads.com/@dirtywaterdevil444/post/Df47-3pIH5B))
 - shuchi2812: Yes 😇 ([link](https://www.threads.com/@shuchi2812/post/Df45kosGP4B))
 - manii.77777: 🤌👌✨ ([link](https://www.threads.com/@manii.77777/post/Df44gtZApfN))
