@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (97)
+## Needs Reply (99)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **pennyhay83**: Reflective Moorhen ([link](https://www.threads.com/@pennyhay83/post/Df5cmfrDcf9))
+  - Photo: Description: A dark-colored waterbird with a bright red and yellow beak and white wing patches is partially submerged in shallow, blue water, surrounded by floating vegetation and reeds. Photograph read: The image is taken in bright daylight with clear visibility of the bird’s features and the water surface. The water shows ripples and scattered plant debris. The bird’s reflection is visible in the water. The composition is centered on the bird, with a vertical reed in the foreground. Photo type: Natural
+- **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
+  - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
+    - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.
 - **tiv34**: The Broads, Norfolk ([link](https://www.threads.com/@tiv34/post/Df5ZXzuClqO))
   - Photo: Description: The photograph shows a sunset over a calm body of water, with the sky displaying orange and gray clouds, and the water reflecting those colors. A dark railing is visible in the foreground, with decorative elements on its vertical posts. Photograph read: The composition is horizontally oriented, with the horizon near the center. The lighting is soft and diffused, with the sun’s glow concentrated near the horizon. The water surface has gentle ripples, and the sky exhibits layered cloud formations. The railing in the foreground is in focus but lacks fine detail. Photo type: Landscape
 - **ajnelson247**: Good night sun ([link](https://www.threads.com/@ajnelson247/post/Df5ZGUMo4T9))
