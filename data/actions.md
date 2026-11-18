@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (71)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **p.a.tovo**: Nadine. ([link](https://www.threads.com/@p.a.tovo/post/Df5K3VLFCZT))
+  - Photo: Description: A tabby cat sits on a wooden surface, viewed from behind, with its reflection visible in a mirror to the left. The scene includes a lamp and a decorative box on the same surface. Photograph read: The image is lit by strong directional sunlight from the right, casting deep shadows and highlighting the cat’s fur texture. The mirror reflects the cat’s face and upper body, though the reflection is dimmer and less detailed. The composition places the cat as the central subject, with the mirror and surrounding objects framing it. Photo type: Portrait
 - **picchic17**:  ([link](https://www.threads.com/@picchic17/post/Df5KSJKGzlF))
   - Photo: Description: A calm body of water reflects a partly cloudy sky, with distant forested shores and a few small boats visible. The right shoreline is dark and tree-lined, with a rocky edge. Photograph read: The sky is bright with scattered white clouds, and sunlight creates a glare on the water’s surface. The water’s surface shows gentle ripples and reflections. The distant forest and boats are silhouetted against the brighter sky. The right shoreline is in deep shadow, obscuring texture and detail. Photo type: Natural landscape
     - Watch-outs: - Right shoreline: Deep shadow obscures texture and detail. - Distant forest and boats: Silhouetted, lacking discernible detail.
@@ -46,6 +48,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think filling the whole frame with the reflection was the…_
 - **jemalovett**: 8:22 pm. Grand Marais, Minnesota. ([link](https://www.threads.com/@jemalovett/post/Df5E278n_3z))
   - _Replying to: The clouds double themselves in the water and the island ho…_
+- **hannele.heikkinen**: Both – the light and the moving water. ([link](https://www.threads.com/@hannele.heikkinen/post/Df5K2kpju1t))
+  - _Replying to: The trunks melt into gold ribbons and the water keeps no st…_
 - **smilingjeannie**: The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive. ([link](https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp))
   - _Replying to: That little tree earns a second showing in the water, small…_
 - **bobherrmann6**: Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck ([link](https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI))

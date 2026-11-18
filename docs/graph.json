@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 179,
+      "reply_count": 181,
       "replies": [
+        {
+          "username": "p.a.tovo",
+          "text": "Nadine.",
+          "permalink": "https://www.threads.com/@p.a.tovo/post/Df5K3VLFCZT",
+          "photos": [
+            "Description: A tabby cat sits on a wooden surface, viewed from behind, with its reflection visible in a mirror to the left. The scene includes a lamp and a decorative box on the same surface. Photograph read: The image is lit by strong directional sunlight from the right, casting deep shadows and highlighting the cat\u2019s fur texture. The mirror reflects the cat\u2019s face and upper body, though the reflection is dimmer and less detailed. The composition places the cat as the central subject, with the mirror and surrounding objects framing it. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "picchic17",
           "text": "",
@@ -386,7 +398,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "hannele.heikkinen",
+                  "text": "Both \u2013 the light and the moving water.",
+                  "permalink": "https://www.threads.com/@hannele.heikkinen/post/Df5K2kpju1t",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
