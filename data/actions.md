@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (79)
+## Needs Reply (81)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5NlHRiMrc))
+  - Photo: Description: A beach scene at sunset, with the sky displaying vibrant orange, pink, and purple clouds above a calm sea, and the wet sand reflecting the sky’s colors. Photograph read: The composition is wide, capturing the horizon, waves, and reflections. Lighting is soft and diffuse, with the sun low on the horizon. Colors are saturated and rendered with visible contrast between sky and sea. Reflections on the wet sand are prominent and detailed. Photo type: Landscape
+- **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/Df5NbfKGqje))
+  - Photo: Description: A covered bridge spans a calm body of water, with autumnal trees displaying red and orange foliage on one side and bare trees on the other, all reflected in the water under a clear blue sky. Photograph read: The image is composed with the bridge centered horizontally, its reflection mirrored in the water. Lighting is bright and even, suggesting midday sun. The water surface is mostly still, with minor ripples and floating debris. Reflections are clear but slightly distorted by surface movement. Photo type: Landscape
 - **jglass8**: Behind you ([link](https://www.threads.com/@jglass8/post/Df5MQ64G_mZ))
   - Photo: Description: The image shows a view from a car’s side mirror, reflecting a sunset with warm orange and pink hues across the sky, a road with distant vehicles, and silhouettes of trees and palm trees along the roadside. Photograph read: The mirror’s reflective surface captures a wide-angle view of the road ahead and the sky, with the car’s own body visible on the right side of the frame. Lighting is dominated by the sunset’s glow, casting a warm reflection on the car’s surface. The image has a shallow depth of field, with the mirror’s edge and the car’s body in sharper focus than the distant road and sky. Photo type: Reflection
 - **simon_thenoisygoat**: Only edited to show the trees the "right way up". ([link](https://www.threads.com/@simon_thenoisygoat/post/Df5MIzPkaCn))
