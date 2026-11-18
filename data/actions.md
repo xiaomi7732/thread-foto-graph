@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (56)
+## Needs Reply (60)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **caissiecat**:  ([link](https://www.threads.com/@caissiecat/post/Df5FvGBGd0p))
@@ -33,16 +33,26 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think filling the whole frame with the reflection was the…_
 - **jemalovett**: 8:22 pm. Grand Marais, Minnesota. ([link](https://www.threads.com/@jemalovett/post/Df5E278n_3z))
   - _Replying to: The clouds double themselves in the water and the island ho…_
+- **smilingjeannie**: The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive. ([link](https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp))
+  - _Replying to: That little tree earns a second showing in the water, small…_
 - **bobherrmann6**: Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck ([link](https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI))
   - Photo: Description: The image shows a tranquil lakeside scene at dusk, framed by bare tree silhouettes in the foreground, with a calm water surface reflecting the fading light of the horizon. A wooden table and chair are partially visible in the lower right corner. Photograph read: The composition is framed by dark tree trunks and branches, with the horizon glowing in soft orange and yellow hues. The water reflects these colors, and distant docks and houses are faintly visible. The foreground is in shadow, with minimal detail discernible on the table and chair. Photo type: Landscape
     - Watch-outs: - Foreground objects (table and chair) are underexposed, with no discernible texture or detail. - Silhouettes of trees and distant structures are indistinct due to low light and lack of contrast.
   - _Replying to: The dusk light turns the whole lake gold, and the second fr…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
   - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
+- **mullett.chris**: I went there on my lunch break from a conference so I’m not sure what it was like in the morning. Great reflecting pools to the north and south of the arch! ([link](https://www.threads.com/@mullett.chris/post/Df5GkoPk91i))
+  - _Replying to: The arch gets the whole pond as its mirror, and the ducks j…_
+- **susiestar32**: Yes. Just before the sun came down. ([link](https://www.threads.com/@susiestar32/post/Df5Gacan8XR))
+  - _Replying to: A little pool of sunset sitting in the sand while the waves…_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
   - _Replying to: Where is this?_
+- **patricahewitt**: Yes. It’s a very protected little harbour that is still used. ([link](https://www.threads.com/@patricahewitt/post/Df5GsNgHwtw))
+  - Photo: Description: A small motorboat with a person aboard moves across calm water, passing a row of colorful, waterfront buildings and docks. Behind them, forested hills and a rocky cliff face the water under a clear sky. Photograph read: The image is evenly lit with natural daylight, showing clear reflections on the water surface. The composition is balanced, with the boat in the foreground and the docks and hills forming a layered background. Details of the buildings and surrounding environment are visible without motion blur or significant noise. Photo type: Documentary
+  - Photo: Description: A calm harbor with boats moored along a rocky shoreline, featuring a large green building with visible text and smaller structures on stilts, set against a pale sky. Photograph read: The image is evenly lit under diffuse daylight, with minimal contrast and muted tones. Reflections are visible on the water surface, and the scene is composed with the shoreline and buildings occupying the right and center, while the left is dominated by a steep cliff. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Natural landscape
+  - _Replying to: That green boat is the hinge of the whole shot - everything…_
 - **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
   - _Replying to: (photo reply, no text)_
 - **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))

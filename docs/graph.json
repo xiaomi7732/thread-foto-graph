@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 165,
+      "reply_count": 169,
       "replies": [
         {
           "username": "caissiecat",
@@ -334,7 +334,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "smilingjeannie",
+                  "text": "The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive.",
+                  "permalink": "https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -699,7 +710,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mullett.chris",
+                  "text": "I went there on my lunch break from a conference so I\u2019m not sure what it was like in the morning. Great reflecting pools to the north and south of the arch!",
+                  "permalink": "https://www.threads.com/@mullett.chris/post/Df5GkoPk91i",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -767,7 +789,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "susiestar32",
+                  "text": "Yes. Just before the sun came down.",
+                  "permalink": "https://www.threads.com/@susiestar32/post/Df5Gacan8XR",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1415,7 +1448,21 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "patricahewitt",
+                  "text": "Yes. It\u2019s a very protected little harbour that is still used.",
+                  "permalink": "https://www.threads.com/@patricahewitt/post/Df5GsNgHwtw",
+                  "photos": [
+                    "Description: A small motorboat with a person aboard moves across calm water, passing a row of colorful, waterfront buildings and docks. Behind them, forested hills and a rocky cliff face the water under a clear sky. Photograph read: The image is evenly lit with natural daylight, showing clear reflections on the water surface. The composition is balanced, with the boat in the foreground and the docks and hills forming a layered background. Details of the buildings and surrounding environment are visible without motion blur or significant noise. Photo type: Documentary",
+                    "Description: A calm harbor with boats moored along a rocky shoreline, featuring a large green building with visible text and smaller structures on stilts, set against a pale sky. Photograph read: The image is evenly lit under diffuse daylight, with minimal contrast and muted tones. Reflections are visible on the water surface, and the scene is composed with the shoreline and buildings occupying the right and center, while the left is dominated by a steep cliff. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Natural landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
