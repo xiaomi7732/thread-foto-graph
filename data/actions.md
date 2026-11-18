@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (33)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Gorgeous picks for Tuesday 👏👏👏👏 ([link](https://www.threads.com/@2killamockingbird/post/Df4Lnc6AKGt))
@@ -14,6 +14,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **photos_by_jane3**:  ([link](https://www.threads.com/@photos_by_jane3/post/Df4VWeAFLNV))
+  - Photo: Description: The image shows a close-up of a fern frond with multiple leaflets arranged along a central stem, displaying vibrant green coloration and serrated edges. Photograph read: The composition is filled with overlapping fronds, with lighting creating highlights on the leaf surfaces and shadows in the crevices. The rendering preserves fine texture and structure of the fronds, though some areas are slightly out of focus. Photo type: Macro
 - **aussky**:  ([link](https://www.threads.com/@aussky/post/Df4S9UDGMDB))
   - Photo: Description: A long line of orange and red BNSF locomotives, numbered 6754, travels along a railway track through a dry, grassy landscape with bare trees under an overcast sky. Photograph read: The image is taken from a side angle, with the locomotives in motion, showing their front and sides. The headlights are on, casting bright illumination on the front. The sky is uniformly gray, and the surrounding vegetation is dry and muted in tone. The image has a moderate level of sharpness, with details on the locomotives discernible but not crisp. Photo type: Transportation photography
 - **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/Df4HUnOCrgf))
