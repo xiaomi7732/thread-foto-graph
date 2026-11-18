@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (105)
+## Needs Reply (106)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **raggedy_nan**: Adventure Bay, Bruny Island, Tasmania. ([link](https://www.threads.com/@raggedy_nan/post/Df5fZtcEobr))
+  - Photo: Description: A cluster of eucalyptus trees stands on a bank beside calm water, with their reflections clearly visible in the surface. Rolling, forested hills form the background under a bright sky. Photograph read: The composition is symmetrical, with the trees and their reflections forming a vertical axis. Lighting is bright and even, suggesting daylight. The water surface is smooth, producing clear reflections. Rendering is sharp enough to discern tree branches and foliage detail. Photo type: Natural landscape
 - **esion77**: Just a couple. One of the four is upside down. ([link](https://www.threads.com/@esion77/post/Df5etUfEq1n))
   - Photo: Description: A tranquil garden scene featuring a small waterfall cascading over a stone retaining wall into a still pond, surrounded by colorful autumn foliage including red, yellow, and green shrubs and trees, with a wooden bench and a child’s figure visible on the left. Photograph read: The image is taken in bright daylight with clear visibility of the scene; the water surface reflects the surrounding vegetation and waterfall. The composition is balanced, with the waterfall as a central visual anchor. The rendering preserves detail in both the foreground and background, though some areas are slightly out of focus or have soft edges. Photo type: Landscape
   - Photo: Description: A horizontally mirrored scene shows a forested hillside reflected in calm water, with several small boats and structures along the shoreline. Photograph read: The image is horizontally symmetrical, with the upper half showing the hill and sky, and the lower half showing their reflection. The water surface is relatively still, but the entire image exhibits a uniform, horizontal banding artifact across the entire frame, obscuring fine detail. Photo type: Unclear
