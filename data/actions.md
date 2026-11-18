@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (79)
+## Needs Reply (80)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **dasimscas**: Jet stream reflection. ([link](https://www.threads.com/@dasimscas/post/Df5pqOpjNPa))
+  - Photo: Description: A dark, calm body of water occupies the frame, with a faint, irregular white pattern resembling broken lines or bubbles drifting across its surface. A weathered wooden structure, possibly a dock or pier, is visible along the bottom edge. Photograph read: The image is taken from a high angle, with the water surface dominating the frame. Lighting appears even and diffused, casting minimal shadows. The rendering is flat, with no visible depth cues or texture detail beyond the surface pattern and wood grain. Photo type: Aerial or high-angle landscape
+    - Watch-outs: The white pattern on the water is indistinct and lacks definition, making its origin or nature unclear. The wooden structure at the bottom is partially obscured by shadow and lacks sharp detail, limiting visual information about its condition or structure.
 - **scott_holl_photography**:  ([link](https://www.threads.com/@scott_holl_photography/post/Df5pEL5FDag))
   - Photo: Description: The photograph shows an interior hallway with a polished floor reflecting overhead lights and an exit sign, leading to a wooden door with glass panes that opens to an outdoor scene with autumn foliage. Photograph read: The composition is centered on the door, with a staircase to the right and a wall-mounted sign to the left. Lighting is artificial and even, with reflections clearly visible on the floor. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Interior architectural
 - **iwriteandedit**: Elora On ([link](https://www.threads.com/@iwriteandedit/post/Df5oLjWlKsj))
@@ -220,9 +223,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (25)
+## Needs Like (26)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- dasimscas:  ([link](https://www.threads.com/@dasimscas/post/Df5p9A2jIw2))
 - aaronschwartz1: Yes, exactly ([link](https://www.threads.com/@aaronschwartz1/post/Df5IjdhI9zZ))
 - muddie79: Yes ([link](https://www.threads.com/@muddie79/post/Df5E6UECvFP))
 - 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
