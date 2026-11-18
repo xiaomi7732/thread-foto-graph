@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (78)
+## Needs Reply (79)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **scott_holl_photography**:  ([link](https://www.threads.com/@scott_holl_photography/post/Df5pEL5FDag))
+  - Photo: Description: The photograph shows an interior hallway with a polished floor reflecting overhead lights and an exit sign, leading to a wooden door with glass panes that opens to an outdoor scene with autumn foliage. Photograph read: The composition is centered on the door, with a staircase to the right and a wall-mounted sign to the left. Lighting is artificial and even, with reflections clearly visible on the floor. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Interior architectural
 - **iwriteandedit**: Elora On ([link](https://www.threads.com/@iwriteandedit/post/Df5oLjWlKsj))
   - Photo: Description: A black-and-white image shows a stone building with multiple windows, partially submerged in water, with its reflection visible in the foreground. Behind the building, a river or stream flows with visible turbulence, and the background includes rocky terrain and vegetation. Photograph read: The image is composed with the building and its reflection as the central focus, creating a mirrored effect across the water. Lighting appears even and diffused, with no strong directional shadows. The rendering is grainy, with moderate contrast and visible texture in the stone and water surface. Photo type: Archival
 - **rockmaninmd**:  ([link](https://www.threads.com/@rockmaninmd/post/Df5m6iKJcYf))
