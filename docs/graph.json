@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 283,
+      "reply_count": 286,
       "replies": [
+        {
+          "username": "rockmaninmd",
+          "text": "",
+          "permalink": "https://www.threads.com/@rockmaninmd/post/Df5m6iKJcYf",
+          "photos": [
+            "Description: A calm, clear river reflects towering granite cliffs and a bright blue sky, with green trees and shrubs lining the banks under direct sunlight. Photograph read: The composition is symmetrical, with the river\u2019s surface mirroring the mountains and sky. Lighting is bright and even, with strong contrast between the dark rock faces and the vivid reflections. Rendering is sharp, with visible textures in the water, rocks, and foliage. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mixtapemissives",
           "text": "Minneapolis, MN",
@@ -1102,7 +1114,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "encinitasditka",
+                  "text": "Yes but it was a hotel window, the Edgewater in Seattle\u2026the Beatles fished out the window when they stayed there",
+                  "permalink": "https://www.threads.com/@encinitasditka/post/Df5m19iD_FL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1113,10 +1136,21 @@
           "photos": [
             "Description: A woman in a blue top and black pants crouches near a child in a pink outfit riding a bicycle on a wet beach, while two brown dogs walk nearby; in the background are rocky cliffs, a grassy area, parked cars, and residential houses. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting clear reflections on the wet sand. The composition places the subjects in the foreground, with the background showing a layered landscape. The image appears sharp, with no visible motion blur or focus issues. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The wet sand turns everyone into a double - the pink rider, the dogs, even the helper gets a second self in it. Does the beach go this mirror-flat often, or was this a lucky tide?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df5mtzQmEuv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kmwehrle",

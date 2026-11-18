@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (75)
+## Needs Reply (76)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **rockmaninmd**:  ([link](https://www.threads.com/@rockmaninmd/post/Df5m6iKJcYf))
+  - Photo: Description: A calm, clear river reflects towering granite cliffs and a bright blue sky, with green trees and shrubs lining the banks under direct sunlight. Photograph read: The composition is symmetrical, with the river’s surface mirroring the mountains and sky. Lighting is bright and even, with strong contrast between the dark rock faces and the vivid reflections. Rendering is sharp, with visible textures in the water, rocks, and foliage. Photo type: Landscape
 - **mixtapemissives**: Minneapolis, MN ([link](https://www.threads.com/@mixtapemissives/post/Df5lFIKDkJM))
   - Photo: Description: A hand holds a transparent glass sphere in the foreground, reflecting a distorted view of a park scene including a large cherry sculpture, a body of water, and distant buildings under an overcast sky. Photograph read: The image is composed with the glass sphere as the primary subject, held centrally in the frame. Lighting is diffuse and even, characteristic of an overcast day, with no harsh shadows. The rendering shows a shallow depth of field, with the sphere in focus and the background blurred. Photo type: Portrait
     - Watch-outs: The background is significantly blurred, obscuring fine details of the park and buildings. The reflection within the sphere is distorted and incomplete, limiting the clarity of the reflected scene.
@@ -72,8 +74,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The gold trees double so cleanly the pond looks like a seco…_
 - **sahelstreams**: Thank you so much! I was on a hike with friends, not long at all… right time-right place; it’s literally called Dream Lake in Rocky Mountain National Park ([link](https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD))
   - _Replying to: That leaning tree frames the whole lake, and the forest dou…_
-- **kayslazydays**:  ([link](https://www.threads.com/@kayslazydays/post/Df5Em7dEVsA))
-  - Photo: Description: A woman in a blue top and black pants crouches near a child in a pink outfit riding a bicycle on a wet beach, while two brown dogs walk nearby; in the background are rocky cliffs, a grassy area, parked cars, and residential houses. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting clear reflections on the wet sand. The composition places the subjects in the foreground, with the background showing a layered landscape. The image appears sharp, with no visible motion blur or focus issues. Photo type: Natural
+- **encinitasditka**: Yes but it was a hotel window, the Edgewater in Seattle…the Beatles fished out the window when they stayed there ([link](https://www.threads.com/@encinitasditka/post/Df5m19iD_FL))
+  - _Replying to: The sun gets two showings here - one on the water, one in t…_
 - **thatguyale**: It's actually a rear back window of a parked car. I took the pic while walking my dog. ([link](https://www.threads.com/@thatguyale/post/Df5jGQbAf73))
   - _Replying to: Did you polish the car for the shot, or does it always carr…_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
