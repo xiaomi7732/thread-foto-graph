@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (77)
+## Needs Reply (78)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **iwriteandedit**: Elora On ([link](https://www.threads.com/@iwriteandedit/post/Df5oLjWlKsj))
+  - Photo: Description: A black-and-white image shows a stone building with multiple windows, partially submerged in water, with its reflection visible in the foreground. Behind the building, a river or stream flows with visible turbulence, and the background includes rocky terrain and vegetation. Photograph read: The image is composed with the building and its reflection as the central focus, creating a mirrored effect across the water. Lighting appears even and diffused, with no strong directional shadows. The rendering is grainy, with moderate contrast and visible texture in the stone and water surface. Photo type: Archival
 - **rockmaninmd**:  ([link](https://www.threads.com/@rockmaninmd/post/Df5m6iKJcYf))
   - Photo: Description: A calm, clear river reflects towering granite cliffs and a bright blue sky, with green trees and shrubs lining the banks under direct sunlight. Photograph read: The composition is symmetrical, with the river’s surface mirroring the mountains and sky. Lighting is bright and even, with strong contrast between the dark rock faces and the vivid reflections. Rendering is sharp, with visible textures in the water, rocks, and foliage. Photo type: Landscape
 - **mixtapemissives**: Minneapolis, MN ([link](https://www.threads.com/@mixtapemissives/post/Df5lFIKDkJM))
