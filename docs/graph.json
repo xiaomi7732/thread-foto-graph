@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18125516990067298",
-      "label": "photograph, visible, photo, image",
+      "label": "photograph, visible, image, photo",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -13,8 +13,68 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 9,
+      "reply_count": 15,
       "replies": [
+        {
+          "username": "patricahewitt",
+          "text": "St John\u2019s, Newfoundland \ud83c\udde8\ud83c\udde6 Quidi Vidi",
+          "permalink": "https://www.threads.com/@patricahewitt/post/Df43WGboIw-",
+          "photos": [
+            "Description: A row of colorful, weathered buildings on wooden pilings lines a calm waterway, with a green boat moored nearby; behind them, a forested hillside meets a rocky cliff face under a pale sky. Photograph read: The image is evenly lit with diffuse daylight, showing clear reflections on the water surface. The composition is horizontally oriented, with the shoreline and buildings occupying the middle third, and the hillside and sky above. Reflections are sharp and detailed, indicating a still surface. No visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "vuurenbernadettevan",
+          "text": "",
+          "permalink": "https://www.threads.com/@vuurenbernadettevan/post/Df43TBkkQYP",
+          "photos": [
+            "Description: A calm body of water reflects surrounding palm trees and stone steps leading to a grassy area, with a paved path and a bench visible along the shoreline under bright daylight. Photograph read: The image is taken in bright, direct sunlight with clear visibility of the scene. Reflections on the water surface are visible, and the composition includes foreground water, midground steps and trees, and background buildings. The image appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mtqiwoman",
+          "text": "",
+          "permalink": "https://www.threads.com/@mtqiwoman/post/Df43N2pEfHX",
+          "photos": [
+            "Description: A calm body of water is framed by bare trees and dry grass in the foreground, with distant hills and scattered buildings visible across the water under a clear sky. Photograph read: The image is taken from a slightly elevated perspective, with foreground trees partially obscuring the view. Lighting is bright and direct, casting clear shadows on the grass. The water surface reflects the sky and tree branches, with moderate clarity. The distant hills and structures are visible but not sharply defined. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "2killamockingbird",
+          "text": "",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/Df43KmugIqc",
+          "photos": [
+            "Description: A lone white swan glides on a misty lake at dawn or dusk, with tall reeds silhouetted against a hazy, golden sky; the sun is visible as a bright disc near the horizon. Photograph read: The composition is dominated by horizontal bands of mist, water, and sky, with the swan and reeds forming dark silhouettes. Lighting is diffuse and warm, casting a uniform orange glow across the scene. Rendering is soft with minimal sharpness, and reflections are indistinct. Photo type: Aesthetic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "landlockedgator",
+          "text": "",
+          "permalink": "https://www.threads.com/@landlockedgator/post/Df43Ju7obYF",
+          "photos": [
+            "Description: A person rides a bicycle with a front basket along a wet beach, with waves visible in the background; the subject\u2019s reflection is cast on the damp sand. Photograph read: The image is in black and white, with a shallow depth of field that keeps the cyclist and bike in focus while the background and foreground are softer. Lighting appears to be from a low angle, casting a clear reflection. The surface of the sand is textured and wet, with visible grain and small water droplets. Photo type: Black and white"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "srravi",
           "text": "",
@@ -117,7 +177,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "madremyers",
+                  "text": "About 2 minutes. I didn\u2019t actually realize how composed this was until later. It\u2019s one of my favorites.",
+                  "permalink": "https://www.threads.com/@madremyers/post/Df426-Rm4MW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -135,7 +206,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, visible, photo, image",
+      "label": "photograph, visible, image, photo",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -253,7 +324,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, visible, photo, image",
+      "label": "photograph, visible, image, photo",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -5645,7 +5716,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "photograph, visible, photo, image",
+      "label": "photograph, visible, image, photo",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
@@ -5727,7 +5798,7 @@
     },
     {
       "id": "18138527668657912",
-      "label": "photograph, visible, photo, image",
+      "label": "photograph, visible, image, photo",
       "group": 0,
       "snippet": "The neighborhood's tiniest library. Take a book, leave a bo\u2026",
       "text": "The neighborhood's tiniest library. Take a book, leave a book.",
