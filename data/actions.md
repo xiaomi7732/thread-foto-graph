@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (85)
+## Needs Reply (86)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **nanceharder81**: Dawn ([link](https://www.threads.com/@nanceharder81/post/Df5SsyOCYWz))
+  - Photo: Description: A calm lake at dawn or dusk reflects a hazy sky with soft orange and gray tones, bordered by dark silhouettes of forested hills and low-lying mist. Photograph read: The composition is horizontally balanced, with the water surface mirroring the sky and distant hills. Lighting is diffuse and muted, with no strong directional highlights. Rendering is smooth with minimal visible texture or grain. Photo type: Landscape
 - **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/Df5R-P9Fu2I))
   - Photo: Description: A nighttime scene featuring a brightly lit fountain on a lake, with illuminated skyscrapers in the background and large, glowing, antler-like sculptures in the foreground. Photograph read: The image is composed with the fountain as the central focus, its green and orange jets reflected on the water. The foreground sculptures are illuminated with cool blue-green light. Background buildings are lit with scattered windows and a circular structure at the top of one tower. The water surface reflects the lights, creating elongated, blurred reflections. Photo type: Night landscape
     - Watch-outs: Foreground sculptures are partially obscured by low-light conditions, reducing visibility of fine details. Reflections on the water surface are blurred and indistinct, obscuring sharpness of the fountain’s spray and surrounding structures.
