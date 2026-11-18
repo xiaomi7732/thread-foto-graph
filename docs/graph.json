@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 278,
+      "reply_count": 280,
       "replies": [
         {
           "username": "allison.ludwig.31",
@@ -257,7 +257,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tiv34",
+                  "text": "Quite a number of minutes. Maybe 10-15.",
+                  "permalink": "https://www.threads.com/@tiv34/post/Df5kxDvCn3Y",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -444,7 +455,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "32groove",
+                  "text": "Thanks! Sun had been up for a couple of hours. Still early morning.",
+                  "permalink": "https://www.threads.com/@32groove/post/Df5k1twj85C",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

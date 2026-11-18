@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (72)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **allison.ludwig.31**: Arkansas river. ([link](https://www.threads.com/@allison.ludwig.31/post/Df5ivl7mNhi))
@@ -41,10 +41,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
   - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
     - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.
+- **tiv34**: Quite a number of minutes. Maybe 10-15. ([link](https://www.threads.com/@tiv34/post/Df5kxDvCn3Y))
+  - _Replying to: The sky pours its orange straight into the water and the ra…_
 - **wnedwardsphotography**: I thought about it first, but it wasn’t obvious from the natural sidewalk. So I walked closer to see what angle provided and I was pleasantly surprised. ([link](https://www.threads.com/@wnedwardsphotography/post/Df5iQWfGWl8))
   - _Replying to: The glass folds the brick building and the tower into one f…_
 - **sanchionidawn**:  ([link](https://www.threads.com/@sanchionidawn/post/Df5V-wMEsqk))
   - Photo: Description: A highway with a concrete barrier and a reddish-brown overpass in the midground, under a heavily clouded sky with a faint rainbow arc visible behind the clouds. Distant mountains and sparse vegetation are visible beyond the overpass. Photograph read: The image is taken from a vehicle, showing a wide, slightly wet road surface. The sky is dominated by dark, layered clouds, with a subtle rainbow visible as a thin, low-contrast arc. Lighting is diffuse and even, with no strong directional highlights or shadows. The image has a flat, muted color palette with no visible lens distortion or chromatic aberration. Photo type: Documentary
+- **32groove**: Thanks! Sun had been up for a couple of hours. Still early morning. ([link](https://www.threads.com/@32groove/post/Df5k1twj85C))
+  - _Replying to: The snowy range gets a full second showing and the lake doe…_
 - **muppy007**: It’s a lake in the forest I go to glad you like it. ([link](https://www.threads.com/@muppy007/post/Df5iCguiGIH))
   - _Replying to: The trees and the sky trade places in the pond and the duck…_
 - **nanceharder81**: It was very early - probably about 6:30 a.m. The ripples didn't start until after the sun rose. My favorite little lake in northern Minnesota has beautiful sunrises.☀️ ([link](https://www.threads.com/@nanceharder81/post/Df5iRN1CST8))
