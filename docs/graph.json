@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 294,
+      "reply_count": 295,
       "replies": [
         {
           "username": "rickjackoway",
@@ -512,7 +512,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "hughietheliger",
+                  "text": "The reflection makes it as though there are two sets of stairs on the dock. Nope\u20266 people up top behind me.",
+                  "permalink": "https://www.threads.com/@hughietheliger/post/Df5st9NI73u",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (83)
+## Needs Reply (84)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **rickjackoway**:  ([link](https://www.threads.com/@rickjackoway/post/Df5sCZWD4_t))
@@ -64,6 +64,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The sky pours its orange straight into the water and the ra…_
 - **wnedwardsphotography**: I thought about it first, but it wasn’t obvious from the natural sidewalk. So I walked closer to see what angle provided and I was pleasantly surprised. ([link](https://www.threads.com/@wnedwardsphotography/post/Df5iQWfGWl8))
   - _Replying to: The glass folds the brick building and the tower into one f…_
+- **hughietheliger**: The reflection makes it as though there are two sets of stairs on the dock. Nope…6 people up top behind me. ([link](https://www.threads.com/@hughietheliger/post/Df5st9NI73u))
+  - _Replying to: The dock leads the eye straight into a doubled sky, and the…_
 - **sanchionidawn**:  ([link](https://www.threads.com/@sanchionidawn/post/Df5V-wMEsqk))
   - Photo: Description: A highway with a concrete barrier and a reddish-brown overpass in the midground, under a heavily clouded sky with a faint rainbow arc visible behind the clouds. Distant mountains and sparse vegetation are visible beyond the overpass. Photograph read: The image is taken from a vehicle, showing a wide, slightly wet road surface. The sky is dominated by dark, layered clouds, with a subtle rainbow visible as a thin, low-contrast arc. Lighting is diffuse and even, with no strong directional highlights or shadows. The image has a flat, muted color palette with no visible lens distortion or chromatic aberration. Photo type: Documentary
 - **yvonnepevie**: I think this is one of them if not the one. Here are a few more faves. ([link](https://www.threads.com/@yvonnepevie/post/Df5nYjLFNld))
