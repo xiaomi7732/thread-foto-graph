@@ -6,84 +6,180 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (42)
+## Needs Reply (82)
+
+### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **tooly_chinga**:  ([link](https://www.threads.com/@tooly_chinga/post/Df5Ogc9FlH6))
+  - Photo: Description: A person wearing a helmet, sunglasses, and layered winter gear stands outdoors in a snowy, wooded area; the background includes trees and part of a vehicle. Photograph read: The image is a close-up portrait with natural outdoor lighting; the subject is in focus, but the background is softly blurred. Reflections are visible on the sunglasses lenses. Photo type: Portrait
+- **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5NlHRiMrc))
+  - Photo: Description: A beach scene at sunset, with the sky displaying vibrant orange, pink, and purple clouds above a calm sea, and the wet sand reflecting the sky’s colors. Photograph read: The composition is wide, capturing the horizon, waves, and reflections. Lighting is soft and diffuse, with the sun low on the horizon. Colors are saturated and rendered with visible contrast between sky and sea. Reflections on the wet sand are prominent and detailed. Photo type: Landscape
+- **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/Df5NbfKGqje))
+  - Photo: Description: A covered bridge spans a calm body of water, with autumnal trees displaying red and orange foliage on one side and bare trees on the other, all reflected in the water under a clear blue sky. Photograph read: The image is composed with the bridge centered horizontally, its reflection mirrored in the water. Lighting is bright and even, suggesting midday sun. The water surface is mostly still, with minor ripples and floating debris. Reflections are clear but slightly distorted by surface movement. Photo type: Landscape
+- **jglass8**: Behind you ([link](https://www.threads.com/@jglass8/post/Df5MQ64G_mZ))
+  - Photo: Description: The image shows a view from a car’s side mirror, reflecting a sunset with warm orange and pink hues across the sky, a road with distant vehicles, and silhouettes of trees and palm trees along the roadside. Photograph read: The mirror’s reflective surface captures a wide-angle view of the road ahead and the sky, with the car’s own body visible on the right side of the frame. Lighting is dominated by the sunset’s glow, casting a warm reflection on the car’s surface. The image has a shallow depth of field, with the mirror’s edge and the car’s body in sharper focus than the distant road and sky. Photo type: Reflection
+- **simon_thenoisygoat**: Only edited to show the trees the "right way up". ([link](https://www.threads.com/@simon_thenoisygoat/post/Df5MIzPkaCn))
+  - Photo: Description: The image shows a distorted reflection of bare trees in a shallow, circular pool of water, surrounded by a textured, possibly mossy or gravelly surface. Photograph read: The composition is centered on the water’s surface, which reflects the tree silhouettes and a pale sky. The rendering is soft and slightly streaked, with visible motion blur or lens distortion. Lighting is diffuse, with no strong directional highlights or shadows. Photo type: Unclear
+    - Watch-outs: - The entire image appears blurred; fine detail is not distinguishable. - Reflections are warped and indistinct, obscuring tree branches and water surface texture.
+- **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
+  - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
+- **p.a.tovo**: Nadine. ([link](https://www.threads.com/@p.a.tovo/post/Df5K3VLFCZT))
+  - Photo: Description: A tabby cat sits on a wooden surface, viewed from behind, with its reflection visible in a mirror to the left. The scene includes a lamp and a decorative box on the same surface. Photograph read: The image is lit by strong directional sunlight from the right, casting deep shadows and highlighting the cat’s fur texture. The mirror reflects the cat’s face and upper body, though the reflection is dimmer and less detailed. The composition places the cat as the central subject, with the mirror and surrounding objects framing it. Photo type: Portrait
+- **picchic17**:  ([link](https://www.threads.com/@picchic17/post/Df5KSJKGzlF))
+  - Photo: Description: A calm body of water reflects a partly cloudy sky, with distant forested shores and a few small boats visible. The right shoreline is dark and tree-lined, with a rocky edge. Photograph read: The sky is bright with scattered white clouds, and sunlight creates a glare on the water’s surface. The water’s surface shows gentle ripples and reflections. The distant forest and boats are silhouetted against the brighter sky. The right shoreline is in deep shadow, obscuring texture and detail. Photo type: Natural landscape
+    - Watch-outs: - Right shoreline: Deep shadow obscures texture and detail. - Distant forest and boats: Silhouetted, lacking discernible detail.
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df5KNTPn-jq))
+  - Photo: Description: A calm body of water reflects autumn trees with golden and reddish foliage against a clear blue sky, bordered by grassy banks and reeds. Photograph read: The composition is horizontally oriented, with the water surface occupying the foreground and trees in the midground. Lighting is bright and direct, casting clear reflections. Rendering is sharp across the visible elements, with no apparent motion blur or chromatic aberration. Photo type: Natural landscape
+- **dwordops**:  ([link](https://www.threads.com/@dwordops/post/Df5I1ITk-Bn))
+  - Photo: Description: The photograph shows the Audi four-ring emblem mounted on a glossy, reflective surface, likely a car hood, with a sky and clouds visible in the reflections. Photograph read: The emblem is in sharp focus, with clear metallic surfaces and reflections. Lighting is bright and even, suggesting daylight. Reflections in the emblem and surface show clouds and distant silhouettes, indicating a clear sky. The surface has minor specks and imperfections visible. Photo type: Still life
+- **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/Df5IwIwCFiE))
+  - Photo: Description: A stone arch bridge spans a calm body of water, with trees and a small building visible on the far bank; reflections of the bridge and trees are visible on the water’s surface. Photograph read: The image has a painterly or stylized rendering with saturated colors and visible texture, suggesting digital enhancement or artistic filter application. The lighting is diffuse, with no strong directional shadows. Reflections are clear but slightly distorted by ripples. The bridge’s structure and surrounding foliage are discernible, though not sharply defined. Photo type: Stylized
+- **sahelstreams**:  ([link](https://www.threads.com/@sahelstreams/post/Df5HxtJlHpw))
+  - Photo: Description: A calm lake reflects a clear blue sky and surrounding coniferous forest, with a prominent tree leaning over the water on the left and rocky shore in the foreground. Photograph read: The composition is framed by a large tree on the left and a forested hillside on the right, with the lake occupying the center. Lighting is bright and even, suggesting midday sun. Reflections are clear on the water’s surface, though minor ripples are visible. The image has no apparent distortion or chromatic aberration. Photo type: Natural landscape
+- **nicoleplaysbydesign**:  ([link](https://www.threads.com/@nicoleplaysbydesign/post/Df5HbBcFJV9))
+  - Photo: Description: A calm body of water reflects a blue sky with scattered clouds and surrounding green trees, with a grassy foreground containing small yellow flowers. Photograph read: The image is composed with the water surface as the central element, reflecting the sky and trees. Lighting is even and natural, suggesting daytime. Rendering is clear, with visible texture in foliage and water surface reflections. Photo type: Natural landscape
+- **caissiecat**:  ([link](https://www.threads.com/@caissiecat/post/Df5FvGBGd0p))
+  - Photo: Description: A circular pool of water reflects the sky and surrounding coniferous trees, set within a barren, mineral-stained ground surrounded by a dense forest of tall pines under a partly cloudy sky. Photograph read: The composition is centered on the reflective pool, with the forest forming a vertical backdrop. Lighting is natural daylight, with bright sky areas and darker tree silhouettes. Rendering shows visible texture in the ground and tree trunks, with some color saturation in the water’s reflection. Photo type: Natural landscape
+- **manzoarnie**:  ([link](https://www.threads.com/@manzoarnie/post/Df5FqbuG47G))
+  - Photo: Description: The image shows the view from a car’s side-view mirror, reflecting a cloudy sky, streetlights, and green trees, with the safety warning “OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR” etched on the mirror surface. Photograph read: The mirror surface is reflective and shows a distorted, wide-angle view of the environment. The sky is overcast with diffuse clouds, and the lighting is even and diffused, with no strong shadows or highlights. The etched text is legible but slightly blurred due to the mirror’s curvature and surface texture. Photo type: Reflection
+    - Watch-outs: The etched text is partially obscured by reflections and minor surface imperfections, reducing legibility. The mirror’s curvature causes distortion of the reflected scene, making objects appear warped and not to scale.
+- **canadiancurlinggirl1**: Kanaka Creek Regional Park ([link](https://www.threads.com/@canadiancurlinggirl1/post/Df5FBARm879))
+  - Photo: Description: A calm river reflects a partly cloudy sky and autumnal trees lining its banks, with a distant bridge and mountains visible in the background. Photograph read: The composition is balanced with horizontal lines of water and horizon, under diffuse daylight. Reflections are clear and symmetrical, with muted colors and soft contrast. No visible signs of motion blur, focus issues, or color distortion. Photo type: Natural landscape
+- **my_tiny_kingdom**:  ([link](https://www.threads.com/@my_tiny_kingdom/post/Df5E8tDo90I))
+  - Photo: Description: A black-and-white photograph shows a large, multi-paned window in a weathered wooden building, with one pane broken and the interior dark. Reflections of bare tree branches are visible in the intact glass. Photograph read: The image is composed with the window as the central subject, framed by horizontal siding. Lighting is high-contrast, with deep shadows inside the window and bright reflections on the glass. Rendering is monochrome, with no visible color information. Photo type: Architectural
+    - Watch-outs: - The broken pane obscures part of the window’s interior, preventing visibility of any interior detail. - Reflections on the glass are slightly distorted and uneven, reducing clarity of the tree branches reflected.
+- **encinitasditka**: Seattle ([link](https://www.threads.com/@encinitasditka/post/Df5E1Blm7PW))
+  - Photo: Description: The photograph shows a view from a vessel’s deck at sunset, with the sun low on the horizon behind a layer of clouds, casting a golden reflection on the water. Distant mountains are visible across the water, and the vessel’s structure, including railings and overhead framework, occupies the right side of the frame. Photograph read: The composition is framed by the vessel’s structure, with the sun and its reflection dominating the center-right. The sky displays a gradient from blue to orange near the horizon, with scattered clouds illuminated by the sun. The water surface shows gentle ripples reflecting the light. The image appears to be taken with a standard camera, with no visible signs of distortion or aberration. Photo type: Natural landscape
+- **kayslazydays**:  ([link](https://www.threads.com/@kayslazydays/post/Df5Em7dEVsA))
+  - Photo: Description: A woman in a blue top and black pants crouches near a child in a pink outfit riding a bicycle on a wet beach, while two brown dogs walk nearby; in the background are rocky cliffs, a grassy area, parked cars, and residential houses. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting clear reflections on the wet sand. The composition places the subjects in the foreground, with the background showing a layered landscape. The image appears sharp, with no visible motion blur or focus issues. Photo type: Natural
+- **kmwehrle**:  ([link](https://www.threads.com/@kmwehrle/post/Df5EYbknS75))
+  - Photo: Description: The image shows a view from inside a vehicle, looking out through the passenger-side window at a line of cars on a highway during sunset, with the sky displaying warm golden and orange hues. Photograph read: The composition is framed by the car’s window and door, with reflections of the sky visible on the glass. Lighting is dominated by the low-angle sunset, casting a warm glow on the vehicles and sky. The rendering appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Street photography
+- **thatguyale**:  ([link](https://www.threads.com/@thatguyale/post/Df5EIsmlPoU))
+  - Photo: Description: The photograph shows the glossy, curved surface of a dark vehicle, reflecting a sky with scattered clouds and a bright sun near the horizon. The background is blurred, suggesting distant hills and trees. Photograph read: The composition is a close-up of the car’s surface, with the sky reflected. Lighting is directional, creating a bright specular highlight along the car’s edge. The background is out of focus, and the image has a shallow depth of field. Photo type: Close-up
+- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/Df5EDMXG9wn))
+  - Photo: Description: A calm river reflects the surrounding granite cliffs and forested banks, with a large boulder partially submerged on the left side of the frame. Photograph read: The composition is symmetrical, with the river’s surface mirroring the mountains and sky. Lighting is even and diffused, suggesting an overcast day. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Landscape
+- **arigari33**: I was close to the edge of the lake and shot it tight. I shot another frame zoomed out a bit. I prefer this version. ([link](https://www.threads.com/@arigari33/post/Df5FWiLlrkq))
+  - _Replying to: I think filling the whole frame with the reflection was the…_
+- **jemalovett**: 8:22 pm. Grand Marais, Minnesota. ([link](https://www.threads.com/@jemalovett/post/Df5E278n_3z))
+  - _Replying to: The clouds double themselves in the water and the island ho…_
+- **hannele.heikkinen**: Both – the light and the moving water. ([link](https://www.threads.com/@hannele.heikkinen/post/Df5K2kpju1t))
+  - _Replying to: The trunks melt into gold ribbons and the water keeps no st…_
+- **smilingjeannie**: The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive. ([link](https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp))
+  - _Replying to: That little tree earns a second showing in the water, small…_
+- **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
+  - _Replying to: The peaks come back so sharply the lake reads like a second…_
+- **diane_fediw**: Yellow taxi #1 Autumn road #5 ([link](https://www.threads.com/@diane_fediw/post/Df5Ltb1FbcV))
+  - _Replying to: Five frames and the mirror keeps changing its mind - yellow…_
+- **fabienne_journey**: About 15 minutes ([link](https://www.threads.com/@fabienne_journey/post/Df5MtVLjl7-))
+  - _Replying to: The rain-speckled glass turns the whole sky gold, sunbeams …_
+- **5gttexbn**: No,it was a very hot and very still day ([link](https://www.threads.com/@5gttexbn/post/Df5K7jwEb2p))
+  - _Replying to: The monument runs the full length of the pool and the cloud…_
+- **bobherrmann6**: Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck ([link](https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI))
+  - Photo: Description: The image shows a tranquil lakeside scene at dusk, framed by bare tree silhouettes in the foreground, with a calm water surface reflecting the fading light of the horizon. A wooden table and chair are partially visible in the lower right corner. Photograph read: The composition is framed by dark tree trunks and branches, with the horizon glowing in soft orange and yellow hues. The water reflects these colors, and distant docks and houses are faintly visible. The foreground is in shadow, with minimal detail discernible on the table and chair. Photo type: Landscape
+    - Watch-outs: - Foreground objects (table and chair) are underexposed, with no discernible texture or detail. - Silhouettes of trees and distant structures are indistinct due to low light and lack of contrast.
+  - _Replying to: The dusk light turns the whole lake gold, and the second fr…_
+- **akmaleky**: I was actually washing the car, the droplets and reflection were so interesting ([link](https://www.threads.com/@akmaleky/post/Df5HTm-H-Nt))
+  - _Replying to: The hood turns into a mirror for the lights above, rain dro…_
+- **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
+  - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
+- **linda73linda**: A bit of both 😁 ([link](https://www.threads.com/@linda73linda/post/Df5HUCbDTgr))
+  - _Replying to: That golden willow doubles itself so neatly the river looks…_
+- **mullett.chris**: I went there on my lunch break from a conference so I’m not sure what it was like in the morning. Great reflecting pools to the north and south of the arch! ([link](https://www.threads.com/@mullett.chris/post/Df5GkoPk91i))
+  - _Replying to: The arch gets the whole pond as its mirror, and the ducks j…_
+- **susiestar32**: Yes. Just before the sun came down. ([link](https://www.threads.com/@susiestar32/post/Df5Gacan8XR))
+  - _Replying to: A little pool of sunset sitting in the sand while the waves…_
+- **lapsednun**: One off visit ([link](https://www.threads.com/@lapsednun/post/Df5K-sMgg47))
+  - _Replying to: The mountain comes back upside down in the lake and the clo…_
+- **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
+  - _Replying to: (photo reply, no text)_
+- **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
+  - _Replying to: Where is this?_
+- **abnerabel125**: You’re very welcome . ([link](https://www.threads.com/@abnerabel125/post/Df5HikTmykn))
+  - _Replying to: Small harbors hold the best quiet. Thanks for sharing it._
+- **patricahewitt**: Yes. It’s a very protected little harbour that is still used. ([link](https://www.threads.com/@patricahewitt/post/Df5GsNgHwtw))
+  - Photo: Description: A small motorboat with a person aboard moves across calm water, passing a row of colorful, waterfront buildings and docks. Behind them, forested hills and a rocky cliff face the water under a clear sky. Photograph read: The image is evenly lit with natural daylight, showing clear reflections on the water surface. The composition is balanced, with the boat in the foreground and the docks and hills forming a layered background. Details of the buildings and surrounding environment are visible without motion blur or significant noise. Photo type: Documentary
+  - Photo: Description: A calm harbor with boats moored along a rocky shoreline, featuring a large green building with visible text and smaller structures on stilts, set against a pale sky. Photograph read: The image is evenly lit under diffuse daylight, with minimal contrast and muted tones. Reflections are visible on the water surface, and the scene is composed with the shoreline and buildings occupying the right and center, while the left is dominated by a steep cliff. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Natural landscape
+  - _Replying to: That green boat is the hinge of the whole shot - everything…_
+- **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
+  - _Replying to: (photo reply, no text)_
+- **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))
+  - _Replying to: Thank you so much 💗_
+- **2killamockingbird**: Thank you, for your kindness... ([link](https://www.threads.com/@2killamockingbird/post/Df4-g2sAGG8))
+  - _Replying to: A wait like that pays off in the mist. Lovely to hear it ca…_
+- **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
+  - _Replying to: (photo reply, no text)_
+- **2killamockingbird**: Thank you sweetheart 💓 ([link](https://www.threads.com/@2killamockingbird/post/Df48iA7gNrB))
+  - _Replying to: Oh this is stunning_
+- **danielreesart**: I always look for reflections and am trying new angles, so the angle of the light on the window drew my eye and I wanted until someone walked in front of the door. ([link](https://www.threads.com/@danielreesart/post/Df5FGugE7SB))
+  - _Replying to: The window did half the work here - the shopfront and the s…_
+
+### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
+- **2killamockingbird**: Always a pleasure Saars🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Df41ssCAHvv))
+  - _Replying to: Thank you! 🙏_
+- **lucillepippetti**: She's my new Plant model. I found her at a craft fair on Saturday. Thank you so much. ([link](https://www.threads.com/@lucillepippetti/post/Df4GAlfFnW_))
+  - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
-- **elanel50**:  ([link](https://www.threads.com/@elanel50/post/Df3C51MEzcP))
-  - Photo: Description: A cluster of small, bright orange and yellow flowers with green stems and unopened buds, captured in a close-up view with a shallow depth of field. Photograph read: The image features a central area of sharp flowers, with background elements softly blurred. Lighting is bright and even, highlighting petal surfaces and small water droplets. Rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Macro
-  - Photo: Description: The photograph shows a cluster of bright pink, spherical flowers with yellow centers, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, focusing on the flowers. Lighting is even and diffused, illuminating the petals without harsh shadows. The rendering preserves the texture of the flower heads, though the background remains indistinct. Photo type: Macro
-- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/Df3C27omQHt))
-  - Photo: Description: A narrow pathway paved with interlocking stones runs between two brick walls, one gray and one red, leading toward a distant view of a road, grass, and ocean under a partly cloudy sky. Photograph read: The composition is a straight-on perspective down a narrow alleyway, with the path receding into the distance. Lighting is natural daylight, with even illumination across the scene. The rendering is sharp enough to distinguish brick textures, paving patterns, and the pink flowers in a bush on the right. Photo type: Architectural
-- **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
-  - Photo: Description: A bumblebee covered in pollen is perched on a spherical cluster of small white flowers with prominent yellow anthers. The background consists of out-of-focus green foliage. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the bee and flower. Lighting is even and natural, illuminating the subject clearly. The flower’s fine filaments and the bee’s fuzzy body are visible, though some detail is lost in the background blur. Photo type: Macro
+- **nicolasmacpherson**:  ([link](https://www.threads.com/@nicolasmacpherson/post/Df5HvJqFtrV))
+  - Photo: Description: A close-up view of a red rose, with petals in various stages of unfurling, set against a dark, indistinct background. Photograph read: The image is dominated by deep red tones with soft, diffuse lighting that creates subtle highlights and shadows across the petals. The composition is tightly framed on the flower’s center, with shallow depth of field causing parts of the foreground and background to be out of focus. The rendering appears smooth, with no visible grain or digital artifacts. Photo type: Macro
+    - Watch-outs: The central core of the rose is partially obscured by overlapping petals and soft focus, reducing the visibility of fine petal textures. The lower right quadrant is heavily underexposed, resulting in a loss of detail and a dark, featureless area.
+- **danielreesart**:  ([link](https://www.threads.com/@danielreesart/post/Df42e04FkHj))
+  - Photo: Description: The photograph shows a close-up of a grid-like metal structure, possibly a grate or fence, with intersecting bars casting shadows across a textured, light-colored surface behind it. Photograph read: The composition is dominated by a repeating grid pattern with strong diagonal shadows cast by the intersecting bars. Lighting is directional, creating high contrast between illuminated and shadowed areas. The rendering is monochrome, with visible grain or noise, and the surface texture of the background is discernible but not sharply defined. Photo type: Abstract
+- **ianhcooper**: One building. I have better photos somewhere but can’t find them via my phone interface in threads. https://en.wikipedia.org/wiki/Ravensbourne_University_London ([link](https://www.threads.com/@ianhcooper/post/Df4vPBEDpz3))
+  - _Replying to: The corner split does half the work - dark tiles on one sid…_
+- **little_salty_canadian**:  ([link](https://www.threads.com/@little_salty_canadian/post/Df4nd73karh))
+  - Photo: Description: A close-up shows a white, five-petaled flower with orange anthers against a background of green leaves. The flower’s surface has a textured, slightly granular appearance. Photograph read: The image is a macro shot with natural lighting, capturing fine surface texture and leaf veins. The focus is centered on the flower, with the background leaves slightly out of focus. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
+- **marysticht79**: It's an iconic piece of Portuguese goldsmithing. I photographed it at an exhibition. ([link](https://www.threads.com/@marysticht79/post/Df4vS7MCvxH))
+  - _Replying to: The gold lines never sit still - every curl leads into anot…_
+- **gnd_moments_in_paradise**: There was a cluster of around Ten. I actually posted the wrong capture as I’ve got one quite a bit closer. Age is getting to me. 🤔📸 ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5GK-miGgm))
+  - _Replying to: How many of these are clustered in there? Every spine star …_
+- **pattymooney69**: Quite a while, so fascinating. You seem to know a lot about this critter! ([link](https://www.threads.com/@pattymooney69/post/Df49wLEFLle))
+  - _Replying to: The wrapped parcel underneath says dinner is sorted - and t…_
+- **lucillepippetti**: I love that you give feedback. Thanks ([link](https://www.threads.com/@lucillepippetti/post/Df475mYIFhT))
+  - _Replying to: The white dots are the whole trick - every leaf dusted the …_
+- **lucillepippetti**: Yes it is. ([link](https://www.threads.com/@lucillepippetti/post/Df47zRcIGlX))
+  - _Replying to: The white dots are the whole trick - every leaf dusted the …_
+- **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
+  - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
+    - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
+- **paulfeminella**:  ([link](https://www.threads.com/@paulfeminella/post/Df3uJ-8jpRe))
+  - Photo: Description: The image shows a close-up view of frost patterns forming on a transparent surface, with irregular crystalline structures and droplets visible. Photograph read: The composition is dominated by the frost patterns, with no discernible background or foreground elements. Lighting is diffuse and even, casting no strong shadows or highlights. The rendering is monochromatic, with muted tones and no visible color information. Photo type: Macro
+    - Watch-outs: Frost patterns are indistinct and lack fine detail due to low contrast and soft focus. The entire image appears slightly out of focus, reducing the clarity of the crystalline structures.
+  - Photo: Description: The image shows a frosted or condensate-covered glass surface, likely a shower door or window, with intricate ice-like patterns and a small, irregularly shaped patch of damage or discoloration near the top right. Photograph read: The image is monochromatic and exhibits a uniform, diffuse lighting condition. The glass surface is covered with a textured, crystalline pattern that obscures underlying details. The composition is dominated by the glass surface, with minimal visible context beyond its frame. Photo type: Unclear
+    - Watch-outs: 1. The entire glass surface is obscured by condensation and ice patterns, limiting visibility of any underlying features or context. 2. A small, dark, irregular patch is visible near the top right corner, indicating physical damage or discoloration that may affect readability or integrity assessment.
+  - Photo: Description: The image shows a close-up of frost patterns forming on a transparent surface, with branching, feather-like structures radiating outward from central points. Photograph read: The composition is filled with repeating, symmetrical frost patterns. Lighting is diffuse and even, casting soft highlights along the edges of the ice crystals. The rendering is monochromatic, with muted tones and no visible color information. Photo type: Abstract
+  - Photo: Description: The image shows a close-up of frost patterns forming on a dark, possibly wet surface, with a central, irregularly shaped patch of un-frosted area. Photograph read: The composition is dominated by intricate, branching frost structures. Lighting is dim and diffuse, casting uniform shadows and lacking contrast. The image appears to be captured with a standard camera sensor, showing no visible lens distortion or chromatic aberration. Photo type: Macro
+    - Watch-outs: - The central un-frosted area is indistinct due to low contrast and lack of detail, making it difficult to discern its shape or texture. - Frost patterns are partially obscured by low resolution, limiting the visibility of fine branches and edges in many regions.
+  - _Replying to: (photo reply, no text)_
+- **posts.by.norman**: Always happy to share! ([link](https://www.threads.com/@posts.by.norman/post/Df4EidiH7_D))
+  - _Replying to: Rainy season light suits those fronds - every drop in place…_
 - **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E))
   - Photo: Description: A single white daisy with a yellow center is in focus, set against a dark, out-of-focus background with faint hints of green foliage. Photograph read: The main subject is centered, with soft focus on the petals and center; background is uniformly blurred. Lighting is even, without harsh shadows or highlights. The image has a shallow depth of field, with no visible signs of motion blur or sensor noise. Photo type: Portrait
-- **amaginings**:  ([link](https://www.threads.com/@amaginings/post/Df29c_JAqST))
-  - Photo: Description: The photograph shows a dense, close-up view of numerous white daisy-like flowers with yellow centers, filling the entire frame. Photograph read: The composition is uniform and tightly packed, with no discernible background or foreground depth. Lighting is even and diffused, casting soft shadows and highlighting the texture of the petals. Rendering is consistent across the frame without visible artifacts or distortion. Photo type: Macro
-- **amelia.burgess.16**: Crossed it into the trees, beautiful place ([link](https://www.threads.com/@amelia.burgess.16/post/Df29iA2DTyX))
-  - _Replying to: It qualifies - the netting is a diamond grid all the way in…_
-- **semolacarla**: If I recall, it was a decently large fern. I don't believe I cropped it. ([link](https://www.threads.com/@semolacarla/post/Df28oisGr8Y))
-  - _Replying to: I think the black and white was the right call - every leaf…_
-- **dalesmith_namaste**: Interestingly, it was just before lunch on a Tuesday. 🤔 ([link](https://www.threads.com/@dalesmith_namaste/post/Df3BvvHmq7N))
-  - _Replying to: Those zigzags in the pavement do half the work - the street…_
-- **oznatureart**: Yes I lifted it out just for a second to take the pic and then put it back ([link](https://www.threads.com/@oznatureart/post/Df3DCVlE_g5))
-  - _Replying to: That red center against the brown knobs is a whole palette …_
-- **mtqiwoman**: Just lucky with the sun angle. ([link](https://www.threads.com/@mtqiwoman/post/Df28CkjHeVk))
-  - _Replying to: How did you get those dry stems to glow like that? The fine…_
-- **sgoodwandering**: There were several mounds of the hills with the red rock I have other photos of the area, but this is the one I chose. ([link](https://www.threads.com/@sgoodwandering/post/Df2-Z6rG__W))
-  - _Replying to: It fits - the whole slope is tiled in red blocks. Did the c…_
-- **0lindar**: Let’s go look… nope! ([link](https://www.threads.com/@0lindar/post/Df28qQOFtVO))
-  - Photo: Description: The photograph shows a close-up of a damaged brick and mortar corner, with a decorative, ribbed, reddish-brown tile or block partially embedded in the masonry and visibly broken or displaced. A white, ribbed downspout is visible to the right. Photograph read: The image is a close-up shot with even, diffuse lighting, likely natural daylight. The focus is sharp on the damaged corner, revealing texture, cracks, and the irregular edges of the broken tile. The composition is tight, emphasizing the structural defect. Photo type: Documentary
-    - Watch-outs: - The broken decorative tile is partially embedded in crumbling mortar, with visible gaps and exposed internal ribs, limiting clarity of its original installation. - The mortar joints show significant cracking and spalling, reducing readability of the masonry’s structural integrity.
-  - _Replying to: The ribbed tile showing through the crumbling mortar is the…_
-- **katybchnk**: The structure and the lights, I guess. Though it's not really symmetric, it kind of seems like it is. ([link](https://www.threads.com/@katybchnk/post/Df298cCCraH))
-  - _Replying to: It counts - those stacked white curves repeat floor after f…_
-- **shawn.alma**: The wind, my 20 yo cat passed at the beginning of the year, this is where she would greet me in the morning and give me a hug. ([link](https://www.threads.com/@shawn.alma/post/Df3DSrrmkvP))
-  - _Replying to: A heart-shaped leaf on weathered wood - the veins line up l…_
+- **dalesmith_namaste**: I am not any number of things, first and foremost a "photographer." Mostly, I point a cellphone at something that brings me joy and push a button. Thank you for your patience and kindness. 🕉️ ([link](https://www.threads.com/@dalesmith_namaste/post/Df3cdtNGqyv))
+  - _Replying to: Tuesday, just before lunch - good timing. Thanks for sharin…_
+- **shawn.alma**: She was a feral, wouldn't let me touch her for eight years, then we bonded. Boo in the spot ([link](https://www.threads.com/@shawn.alma/post/Df3kRGekZSF))
+  - Photo: Description: A black cat with yellow eyes is sitting on a weathered wooden surface, looking directly at the camera with its tongue slightly protruding. Photograph read: The image is taken from a high angle, with even, natural lighting. The cat is in focus, and the wooden planks show clear grain and texture. The composition is centered on the cat, with a red-painted edge and a small reflector visible at the bottom. Photo type: Natural
+  - _Replying to: Twenty years of morning hellos is a lot of love to carry. T…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))
   - Photo: Description: The photograph shows a close-up of rough, irregularly shaped rocks arranged in a pile or pathway, with some gaps and shadows between them. Photograph read: The foreground rocks are in sharper focus than the background, which is softly blurred. Lighting appears natural and directional, casting shadows and highlights across the rock surfaces. The image has a shallow depth of field, with visible texture on the focused rocks. Photo type: Macro
-- **washugolf**: This is Week 3. The buds have not blossomed yet. I'll return with an uodate. ([link](https://www.threads.com/@washugolf/post/Df29zK2iQjZ))
-  - _Replying to: That flower stalk climbs straight through the frame with bu…_
-- **dayderyn**: Think a combination of both. The tide was right out and it was blowing a gale that day ([link](https://www.threads.com/@dayderyn/post/Df286sqjRA-))
-  - _Replying to: Wind or water - which one combed the sand into those lines?_
-- **saffrongal**: The lighting plus portrait mode on iPhone 📱 ([link](https://www.threads.com/@saffrongal/post/Df3B0Phkjma))
-  - _Replying to: That seed head glows against the black like a small lamp. H…_
-- **kathleen_payne**: It's not one I've walked. I took this from our jeep with the top off a couple summers ago, husband driving. It's the Wapito bridge to Sauvies Island in Portland. ([link](https://www.threads.com/@kathleen_payne/post/Df2-MZnDy67))
-  - _Replying to: Rust red diamonds on blue - the lattice does all the talkin…_
+- **kathleen_payne**: Thank you! It's a great memory of a wonderful day. ([link](https://www.threads.com/@kathleen_payne/post/Df3c6VXD_oI))
+  - _Replying to: A top-off jeep ride across the Wapito - hard to beat. Thank…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
   - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
-- **ulrike6417**: I think so! ([link](https://www.threads.com/@ulrike6417/post/Df3Am6MgAM_))
-  - _Replying to: Every spike points somewhere different and somehow they all…_
-- **raijapoignand**: Bunya nut pine , Australian native , new tips in spring ([link](https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK))
-  - _Replying to: The branch tips repeat like green fireworks - dark and brig…_
-- **eelizjjjm**: I’ll have to wait ‘til next Spring to time it! ([link](https://www.threads.com/@eelizjjjm/post/Df2__3XoBMP))
-  - _Replying to: That green cone is a spiral waiting to open. How long befor…_
-- **debi0528**: This was at the NY Botanical Garden this summer. ([link](https://www.threads.com/@debi0528/post/Df29Nfin6Sb))
-  - _Replying to: The glass roof grids the sky while the banners shout in flo…_
-- **nannabon1**:  ([link](https://www.threads.com/@nannabon1/post/Df2-zGMlKQ2))
-  - Photo: Description: A honeybee is perched on a cluster of small, white, star-shaped flowers with prominent stamens and green stems, set against a softly blurred green background. Photograph read: The image is a close-up with shallow depth of field, showing the bee in partial focus while surrounding flowers are slightly out of focus. Lighting is even and natural, illuminating the scene without harsh shadows or overexposure. Photo type: Macro
-    - Watch-outs: The bee’s body is partially obscured by motion blur and shallow focus, reducing visibility of fine hairs and wing structure. The foreground flowers exhibit soft focus, making individual stamens and petals indistinct.
-  - _Replying to: (photo reply, no text)_
+- **ulrike6417**: Immer wieder gerne! ([link](https://www.threads.com/@ulrike6417/post/Df3wnW4AFua))
+  - _Replying to: Agreed, then. Thanks for sharing the teasel._
 - **nannabon1**: Yes he did ([link](https://www.threads.com/@nannabon1/post/Df2-q7xlHLN))
   - _Replying to: (photo reply, no text)_
-- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df298IWDlMN))
-  - Photo: Description: A large metallic sculpture of a fish, constructed from circular metal segments, is positioned on a paved surface with a cloudy sky and distant bridge in the background. Photograph read: The image is taken from a low angle, showing the fish sculpture in profile against a sky with scattered clouds. Lighting is diffuse, casting soft shadows and reflecting off the metallic surfaces. The sculpture’s texture and form are visible, though not sharply defined. Photo type: Architectural
-  - Photo: Description: A large metallic sculpture of a whale, constructed from numerous circular metal tubes, is positioned on a paved area beside a body of water under a partly cloudy sky. Photograph read: The image is taken from a low angle, capturing the whale sculpture prominently against a sky and water background. Lighting is diffuse, with no harsh shadows or highlights. The rendering is clear, with visible texture and form of the sculpture and surrounding environment. Photo type: Documentary
-  - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
 - **hannele.heikkinen**: The artwork consists of welded stainless steel tubes and rings that reflect the ambient light at different times of the day. The sculpture of salmon is 15 meters long, 4 meters high, and weighs approximately 5000–6000 kilograms. ([link](https://www.threads.com/@hannele.heikkinen/post/Df29eNuDm4y))
   - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
-- **trevahearne**: Not sure. The label just said "decorative grass" its at our community garden. ([link](https://www.threads.com/@trevahearne/post/Df280ktFAIX))
-  - _Replying to: Backlit plumes against that blue - the grasses glow at the …_
+- **skymomma_rocks**: Yes, it is an interesting bridge. Heading to Myrtle beach, lovely drive through over Savannah. ([link](https://www.threads.com/@skymomma_rocks/post/Df3l3b8o6jY))
+  - Photo: Description: The photograph shows a vehicle’s side-view mirror reflecting a bridge and surrounding landscape, with the main subject being the mirror and its reflection, set against a clear blue sky and highway. Photograph read: The image is taken from inside a vehicle, with the mirror and window frame in the foreground. Lighting is bright and even, suggesting daylight. Reflections in the mirror are clear, though the mirror’s own surface shows some minor surface imperfections. The image has no visible distortion or motion blur. Photo type: Documentary
+  - _Replying to: Savannah and a bridge full of cables - and the little jeeps…_
 - **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/Df2iCbrEg8K))
   - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
 - **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
   - _Replying to: (photo reply, no text)_
-- **bumpy120**: Judging by where it is I would say at least 100 years old. ([link](https://www.threads.com/@bumpy120/post/Df2-s8PH1VH))
-  - _Replying to: Deep grooves and hard light - the bark reads like a carved …_
-- **cape_cod_laurie**:  ([link](https://www.threads.com/@cape_cod_laurie/post/Df3A82Bn_RC))
-  - Photo: Description: A pile of assorted wooden planks and logs rests on a gravelly, sandy path beside overgrown vegetation, with a wide, flat marshland and distant treeline under a heavily clouded sky. Photograph read: The image is captured with diffuse, even lighting from an overcast sky, resulting in muted tones and soft shadows. The composition is wide, with the foreground pile of wood occupying the lower right, leading the eye toward the midground marsh and distant treeline. No signs of lens distortion or chromatic aberration are visible. Photo type: Natural landscape
-  - Photo: Description: The photograph shows a wide, overcast sky above a flat, grassy field bordered by dense vegetation and scattered wooden logs and pallets in the foreground, with distant treelines and faint structures visible on the horizon. Photograph read: The sky dominates the frame with heavy, layered clouds, and the lighting is diffuse and muted, casting soft shadows. The foreground elements are in relatively even exposure, with no visible signs of motion blur or focus issues. The horizon line is clearly defined, and the composition is balanced between sky and land. Photo type: Natural landscape
-  - _Replying to: Every log end a different fingerprint of rings, all stacked…_
+- **gwadoudou**: Oui la toile d’araignée était encore là car elle se trouvait à l’ombre et il ne faisait pas très chaud donc les petites gouttes sont restées accrochées ([link](https://www.threads.com/@gwadoudou/post/Df3ps6pCNgc))
+  - _Replying to: Dew on every thread - the web turns into a net of tiny ligh…_
 - **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
   - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
 - **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
@@ -108,19 +204,34 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 
-### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
-- **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
-  - _Replying to: @cheeks1969 Your coneflower opens the Flower Friday favorit…_
-
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (11)
+## Needs Like (25)
+
+### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- aaronschwartz1: Yes, exactly ([link](https://www.threads.com/@aaronschwartz1/post/Df5IjdhI9zZ))
+- muddie79: Yes ([link](https://www.threads.com/@muddie79/post/Df5E6UECvFP))
+- 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
+- the_shaunjohnson: I agree. ([link](https://www.threads.com/@the_shaunjohnson/post/Df5FqufmVDK))
+- dirtywaterdevil444: It's gorgeous ([link](https://www.threads.com/@dirtywaterdevil444/post/Df47-3pIH5B))
+- shuchi2812: Yes 😇 ([link](https://www.threads.com/@shuchi2812/post/Df45kosGP4B))
+- manii.77777: 🤌👌✨ ([link](https://www.threads.com/@manii.77777/post/Df44gtZApfN))
+- shuchi2812: 😍 ([link](https://www.threads.com/@shuchi2812/post/Df44jjnGAlc))
+- ken.murphy.52831: Beautiful place ([link](https://www.threads.com/@ken.murphy.52831/post/Df5CeQ-o375))
+- mullett.chris: Wow… ([link](https://www.threads.com/@mullett.chris/post/Df48Lo8EWpM))
+- 2killamockingbird: Thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/Df48ZWbgDBl))
+- 2killamockingbird: Thank you so much 💗 ([link](https://www.threads.com/@2killamockingbird/post/Df48fonAN8V))
+- 2killamockingbird: ▓ ([link](https://www.threads.com/@2killamockingbird/post/Df489N3gGZL))
+- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Df5AHuRGj2x))
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- josbulle: Amazing... ([link](https://www.threads.com/@josbulle/post/Df5IHz6JQ9G))
+- my_tiny_kingdom: Thank you! ([link](https://www.threads.com/@my_tiny_kingdom/post/Df5JOekIzFu))
 - d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
+- tilling.the.soil: My pleasure! ([link](https://www.threads.com/@tilling.the.soil/post/Df3bBchFkYm))
 - tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/Df2ka0ikhyK))
 - mari.d.zk: Thank you very much! ([link](https://www.threads.com/@mari.d.zk/post/Df2i7Ajive6))
 - andy2528788: Thanks 🙏 ([link](https://www.threads.com/@andy2528788/post/Df2acksoLU9))
@@ -130,9 +241,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
-
-### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
-- cheeks1969: Thank you. ([link](https://www.threads.com/@cheeks1969/post/DfuWmZUlUhe))
-- 2killamockingbird: 🙏🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujbGZgHEs))
-- 2killamockingbird: 🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujaGjABsl))
 

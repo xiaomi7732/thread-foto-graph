@@ -707,6 +707,38 @@ class ContinuousVisionTests(unittest.TestCase):
         self.local.assert_called_once()
         self.assertEqual(self.cache["photo"]["provider"], "ollama")
 
+    def test_invalid_local_output_cools_only_that_photo_and_allows_recovery(self):
+        with patch.object(vision.config, "GEMINI_API_KEY", ""):
+            for provider in ("ollama", "auto"):
+                with self.subTest(provider=provider):
+                    self.local.side_effect = [vision.OllamaResponseError(), PHOTO_DESCRIPTION]
+                    state = self.state(provider=provider)
+                    failed_id, good_id = f"{provider}-bad", f"{provider}-good"
+                    first = self.describe(state, failed_id)
+                    self.assertEqual(first["photo_descriptions"], [None])
+                    self.assertTrue(state.retry.cooling("media", failed_id))
+                    self.assertFalse(state.cooling("ollama"))
+                    self.describe(state, good_id)
+                    self.assertEqual(self.cache[good_id]["provider"], "ollama")
+                    self.assertEqual(state.local_failures, 0)
+                    self.assertFalse(state.local_disabled)
+                    self.assertFalse(self.state(provider=provider).cooling("ollama"))
+        self.gemini.assert_not_called()
+
+    def test_three_invalid_local_outputs_persist_provider_cooldown(self):
+        self.local.side_effect = vision.OllamaResponseError()
+        state = self.state(provider="ollama")
+        for number in range(3):
+            self.describe(state, str(number))
+            self.assertTrue(state.retry.cooling("media", str(number)))
+            self.assertEqual(state.cooling("ollama"), number == 2)
+        self.assertTrue(state.local_disabled)
+        self.assertTrue(self.state(provider="ollama").cooling("ollama"))
+        self.describe(state, "fourth")
+        self.assertEqual(self.local.call_count, 3)
+        self.assertFalse(state.eligible_unattempted)
+        self.gemini.assert_not_called()
+
     def test_memory_pressure_preserves_healthy_cloud_fallback_and_cache_hits(self):
         self.memory.return_value = False
         state = self.state()

@@ -15,6 +15,66 @@ if not BASH and os.name == "nt" and shutil.which("git"):
         BASH = str(candidate)
 
 
+@unittest.skipUnless(BASH, "Bash is required")
+class ContinuousRestartTests(unittest.TestCase):
+    def setUp(self):
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.root = Path(self.directory)
+        (self.root / "restart_continuous.sh").write_text(
+            (ROOT / "restart_continuous.sh").read_text(encoding="utf-8"),
+            encoding="utf-8", newline="\n",
+        )
+        self.bin = self.root / "test-bin"
+        self.bin.mkdir()
+        systemctl = self.bin / "systemctl"
+        systemctl.write_text(
+            '#!/usr/bin/env bash\n'
+            'printf "%s\\n" "$*" >> calls.log\n'
+            'case "$2" in\n'
+            '  restart) exit "${TEST_RESTART_EXIT:-0}" ;;\n'
+            '  status) exit "${TEST_STATUS_EXIT:-0}" ;;\n'
+            '  *) exit 99 ;;\n'
+            'esac\n',
+            encoding="utf-8", newline="\n",
+        )
+        systemctl.chmod(0o755)
+
+    def run_script(self, *args, **env):
+        return subprocess.run(
+            [BASH, "-c", 'export PATH="$PWD/test-bin:$PATH"; exec bash ./restart_continuous.sh "$@"', "--", *args],
+            cwd=self.root, env={**os.environ, **env},
+            capture_output=True, text=True, timeout=10,
+        )
+
+    def calls(self):
+        path = self.root / "calls.log"
+        return path.read_text().splitlines() if path.exists() else []
+
+    def test_restart_then_show_user_service_status(self):
+        result = self.run_script()
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertEqual(self.calls(), [
+            "--user restart thread-foto-graph-continuous.service",
+            "--user status thread-foto-graph-continuous.service --no-pager",
+        ])
+
+    def test_failed_restart_does_not_report_success(self):
+        result = self.run_script(TEST_RESTART_EXIT="5")
+        self.assertEqual(result.returncode, 5)
+        self.assertEqual(self.calls(), ["--user restart thread-foto-graph-continuous.service"])
+
+    def test_inactive_service_status_returns_failure(self):
+        result = self.run_script(TEST_STATUS_EXIT="3")
+        self.assertEqual(result.returncode, 3)
+        self.assertEqual(len(self.calls()), 2)
+
+    def test_unexpected_arguments_do_not_restart_service(self):
+        result = self.run_script("--update")
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("Usage:", result.stderr)
+        self.assertEqual(self.calls(), [])
+
+
 @unittest.skipUnless(BASH and shutil.which("git"), "Bash and Git are required")
 class LinuxRunnerTests(unittest.TestCase):
     def setUp(self):
