@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18125516990067298",
-      "label": "photograph, visible, image, photo",
+      "label": "photograph, visible, photo, image",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -13,8 +13,39 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 4,
+      "reply_count": 9,
       "replies": [
+        {
+          "username": "srravi",
+          "text": "",
+          "permalink": "https://www.threads.com/@srravi/post/Df4235Cmtyy",
+          "photos": [
+            "Description: A sunset over a calm body of water, with the sun low on the horizon, casting a bright reflection across the surface. The sky is filled with layered clouds illuminated in orange, pink, and purple hues, and the far shore shows silhouettes of trees and buildings. Photograph read: The composition is symmetrical, with the sun centered horizontally and its reflection prominent in the water. The sky\u2019s colors are saturated and vivid, with cloud textures clearly visible. The water surface is mostly reflective, though with minor ripples. The distant shoreline is dark and silhouetted, with no discernible detail. Photo type: Landscape",
+            "Description: A single rower in a red and white racing shell is captured mid-stroke on a calm body of water, with a clear reflection of the rower and boat visible on the surface. Photograph read: The image features a horizontal composition with the rower centered in the frame, set against a uniform, hazy sky and water surface. Lighting is diffuse and even, with no harsh shadows or highlights. The water\u2019s surface is smooth enough to reflect the subject clearly, though minor ripples are visible around the oar blades. Photo type: Still life",
+            "Description: A concrete bridge extends diagonally across the frame from the right, with its supports submerged in calm water. Across the water, a row of modern high-rise buildings stands under a soft, gradient sky, their reflections visible on the surface. Photograph read: The composition uses a low-angle perspective with the bridge leading the eye toward the distant buildings. Lighting suggests late afternoon or early evening, with warm tones on the buildings and cool tones in the sky. Reflections are clear but slightly distorted by minor ripples. The bridge\u2019s underside shows weathering and graffiti. Photo type: Urban landscape"
+          ],
+          "watch_outs": [
+            "",
+            "",
+            "- The bridge\u2019s underside and supports show visible graffiti and surface wear, reducing aesthetic clarity in those areas. - Reflections on the water are slightly rippled, obscuring fine detail of the buildings\u2019 facades."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "beapersaud",
+          "text": "Cloudy here today",
+          "permalink": "https://www.threads.com/@beapersaud/post/Df42tqIkqKv",
+          "photos": [
+            "Description: A calm body of water reflects bare trees and patches of yellow foliage along a bank, under an overcast sky with hazy atmospheric conditions. Photograph read: The composition is centered on the water\u2019s surface, which mirrors the trees and distant vegetation. Lighting is diffuse and flat, with muted tones and low contrast. Reflections are visible but slightly distorted by ripples and surface texture. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "danielreesart",
           "text": "",
@@ -25,10 +56,21 @@
           "watch_outs": [
             "- The person near the doorway is blurred, obscuring fine details of their form and actions. - The foreground is dark and indistinct, limiting visibility of objects and ground details."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The window did half the work here - the shopfront and the street folded into one frame, and then that ghost of a passerby drifts through the middle of it. Did you spot the reflection first, or the shop?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df42sYwEX00",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "medium.gords7",
@@ -37,10 +79,21 @@
           "photos": [
             "Description: A shallow, clear stream flows over rocks, with reflections of trees and sky visible on the water\u2019s surface; scattered leaves and small green plants are present among the stones. Photograph read: The image captures a natural streambed with visible water ripples and reflections; lighting appears natural daylight, with no obvious overexposure or underexposure. The rendering is detailed enough to discern rock textures and leaf shapes, though water movement introduces slight motion blur. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think filling the frame with the water was the right call - the bare trunks stretch the whole way down and the rocks hold the edges. How long did those trunks hold still for you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df42n3VloqJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "madremyers",
@@ -52,10 +105,21 @@
           "watch_outs": [
             "- Reflection in the puddle is indistinct, obscuring any identifiable features of the reflected structure. - Surface texture of the asphalt is visible but lacks fine detail due to low resolution and uniform lighting."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That little leaf at the edge is doing a lot of work - and the puddle kept the whole scene in it. How long did you stand there watching it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df42mLLoOT3",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",
@@ -71,7 +135,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, visible, image, photo",
+      "label": "photograph, visible, photo, image",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -189,7 +253,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, visible, image, photo",
+      "label": "photograph, visible, photo, image",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -200,8 +264,20 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 461,
+      "reply_count": 462,
       "replies": [
+        {
+          "username": "danielreesart",
+          "text": "",
+          "permalink": "https://www.threads.com/@danielreesart/post/Df42e04FkHj",
+          "photos": [
+            "Description: The photograph shows a close-up of a grid-like metal structure, possibly a grate or fence, with intersecting bars casting shadows across a textured, light-colored surface behind it. Photograph read: The composition is dominated by a repeating grid pattern with strong diagonal shadows cast by the intersecting bars. Lighting is directional, creating high contrast between illuminated and shadowed areas. The rendering is monochrome, with visible grain or noise, and the surface texture of the background is discernible but not sharply defined. Photo type: Abstract"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ianhcooper",
           "text": "",
@@ -5569,7 +5645,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "photograph, visible, image, photo",
+      "label": "photograph, visible, photo, image",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
@@ -5651,7 +5727,7 @@
     },
     {
       "id": "18138527668657912",
-      "label": "photograph, visible, image, photo",
+      "label": "photograph, visible, photo, image",
       "group": 0,
       "snippet": "The neighborhood's tiniest library. Take a book, leave a bo\u2026",
       "text": "The neighborhood's tiniest library. Take a book, leave a book.",
