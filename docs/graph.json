@@ -109,7 +109,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 447,
+      "reply_count": 461,
       "replies": [
         {
           "username": "ianhcooper",
@@ -118,10 +118,32 @@
           "photos": [
             "Description: The image shows a close-up of a building facade composed of irregular, polygonal panels in dark and light tones, with circular window openings set into the pattern. Photograph read: The composition is divided vertically, with one side dominated by dark blue and black panels and the other by lighter beige and white panels. Lighting creates strong contrast, with the right side appearing brighter and more reflective. The panels are sharply defined, with visible seams and edges. Photo type: Architectural detail"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The corner split does half the work - dark tiles on one side, sunlit on the other, and those round windows punching through the mosaic. Is this one building, or two facades meeting?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4u5A3m8Sy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "ianhcooper",
+                  "text": "One building. I have better photos somewhere but can\u2019t find them via my phone interface in threads. https://en.wikipedia.org/wiki/Ravensbourne_University_London",
+                  "permalink": "https://www.threads.com/@ianhcooper/post/Df4vPBEDpz3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "little_salty_canadian",
@@ -145,10 +167,21 @@
           "watch_outs": [
             "- The central logo area is partially obscured by reflections and glare, reducing legibility of the embossed text. - Surface scratches are visible across the container\u2019s interior, particularly in the upper and lower quadrants, affecting texture clarity."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Right down the barrel indeed - the ridges fan out from that little IKEA stamp like ripples, and the glare turns it into a tiny hall of mirrors. What was the glass holding when you shot it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4u6mMG4Ry",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "d.mcc",
@@ -160,10 +193,21 @@
           "watch_outs": [
             "The entire image exhibits a visible grainy texture that reduces fine detail clarity. The spiral\u2019s innermost region is obscured by darkness, limiting readability of the center."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How far down does that spiral go? The veins curl tighter and tighter until the green just swallows the center. I think the tight crop is what makes it - nothing in the frame but the curl.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4u8WHG_km",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "photos_by_jane3",
@@ -172,10 +216,21 @@
           "photos": [
             "Description: The image shows a close-up of a fern frond with multiple leaflets arranged along a central stem, displaying vibrant green coloration and serrated edges. Photograph read: The composition is filled with overlapping fronds, with lighting creating highlights on the leaf surfaces and shadows in the crevices. The rendering preserves fine texture and structure of the fronds, though some areas are slightly out of focus. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Every leaflet in its place, row after row - the light catches the edges just enough to make the whole thing shimmer. Was it growing wild or in a garden bed?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4u90-lIxA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "aussky",
@@ -184,10 +239,21 @@
           "photos": [
             "Description: A long line of orange and red BNSF locomotives, numbered 6754, travels along a railway track through a dry, grassy landscape with bare trees under an overcast sky. Photograph read: The image is taken from a side angle, with the locomotives in motion, showing their front and sides. The headlights are on, casting bright illumination on the front. The sky is uniformly gray, and the surrounding vegetation is dry and muted in tone. The image has a moderate level of sharpness, with details on the locomotives discernible but not crisp. Photo type: Transportation photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the head-on framing is the right call - one orange engine up front and the whole red line shrinking behind it like a ruler. How many units were in the consist?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4u_qumxsZ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "marysticht79",
@@ -196,10 +262,32 @@
           "photos": [
             "Description: A dark, textured, sculptural object with intricate golden swirl patterns is mounted on a dark panel, set against a light-colored wall. Photograph read: The image is vertically oriented, with the subject centered on the panel. Lighting is even and diffuse, casting minimal shadows. The surface texture of the object is visible, and the golden lines appear as applied decorative elements. Photo type: Artistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The gold lines never sit still - every curl leads into another one, and the black underneath makes them glow. Is this a piece you made, or one you found?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4vBOGm3DG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "marysticht79",
+                  "text": "It's an iconic piece of Portuguese goldsmithing. I photographed it at an exhibition.",
+                  "permalink": "https://www.threads.com/@marysticht79/post/Df4vS7MCvxH",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "gnd_moments_in_paradise",
@@ -208,10 +296,21 @@
           "photos": [
             "Description: The photograph shows a close-up of a green, segmented cactus with numerous radial spines emerging from areoles. The background is out of focus and contains indistinct, dry vegetation. Photograph read: The image is a macro shot with shallow depth of field, focusing on the cactus\u2019s surface. Lighting is even and diffused, illuminating the spines and ridges without harsh shadows. The rendering preserves texture but lacks sharpness in the background. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How many of these are clustered in there? Every spine star gets its own patch of green, and the whole thing reads like a compass rose.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4vCzUGyCH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pattymooney69",
@@ -220,10 +319,21 @@
           "photos": [
             "Description: A spider with patterned legs and a marked abdomen is positioned at the center of a web, with a captured prey item visible beneath it; the background is out of focus greenery. Photograph read: The image has a shallow depth of field, with the spider and web in relative focus against a blurred background. Lighting is even and natural, with no visible signs of flash or harsh shadows. The rendering preserves the spider\u2019s markings and web structure, though fine details are not sharply defined. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The wrapped parcel underneath says dinner is sorted - and that zigzag stitching is a signature. How long did you stand there watching it work?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4vEimG2Gz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lucillepippetti",
@@ -232,10 +342,21 @@
           "photos": [
             "Description: The photograph shows a close-up, top-down view of a succulent plant with fleshy, green, pointed leaves arranged in a rosette pattern, each leaf bearing small white spots and serrated edges. Photograph read: The image is a tight crop with even, diffused lighting that highlights the texture and pattern of the leaves. The composition centers on the plant\u2019s rosette, with a shallow depth of field causing the background to be out of focus and indistinct. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The white dots are the whole trick - every leaf dusted the same way, spiraling in to the center. Is this the same plant you found at the craft fair?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df4vGSWDjFU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "grant.philips.7",
@@ -405,10 +526,21 @@
                   "text": "No, I arranged it there intentionally to play with the light and shadows!",
                   "permalink": "https://www.threads.com/@giarti52/post/Df4cP--mB6-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Deliberate, then - and the light played along beautifully. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4vIMqEdG2",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2599,10 +2731,21 @@
                           "watch_outs": [
                             "- The leaf\u2019s surface shows areas of slight glossiness or moisture, which reduce contrast and obscure fine texture details. - Small debris particles on the background are out of focus and lack definition, limiting context clarity."
                           ],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Swamp White Oak it is - mystery solved, and the leaf kept the evidence. Thanks for sharing it.",
+                              "permalink": "https://www.threads.com/@saars.foto/post/Df4vKKKmyku",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -4388,10 +4531,21 @@
                   "text": "At work I don't own a pair of cowboy boots. Not yet anyway.",
                   "permalink": "https://www.threads.com/@corwyn671/post/Df4IXnbm1AY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Fair enough - the boots stay on the wishlist for now. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df4vL5MEWCb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
