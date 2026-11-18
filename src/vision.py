@@ -22,6 +22,7 @@ import requests
 
 from . import config, threads_client, continuous
 from .cache import description_text, make_entry
+from .local_memory import LocalMemoryGuard
 
 GEMINI_URL_TMPL = (
     "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -712,7 +713,7 @@ def describe_local(image_data: tuple[str, str], deadline: float) -> str:
                 "messages": [{"role": "user", "content": PROMPT, "images": [image_data[1]]}],
                 "stream": False,
                 "think": False,
-                "options": {"temperature": 0.2, "num_predict": 512},
+                "options": {"temperature": 0.2, "num_predict": 512, "num_ctx": config.OLLAMA_NUM_CTX},
             },
             timeout=(
                 _timeout(deadline, config.OLLAMA_CONNECT_TIMEOUT_SECONDS),
@@ -765,6 +766,8 @@ class VisionRun:
     retry: object | None = None
     eligible_unattempted: set[str] = field(default_factory=set)
     last_failure: str | None = None
+    memory_guard: LocalMemoryGuard | None = None
+    memory_deferred: bool = False
 
     def retry_key(self, provider: str) -> str:
         model = config.OLLAMA_MODEL if provider == "ollama" else config.GEMINI_MODEL
@@ -783,7 +786,10 @@ class VisionRun:
     def fresh_available(self, media_id: str) -> bool:
         if not self.media_ready(media_id) or self.cooling("image_host"):
             return False
-        local = self.provider in {"auto", "ollama"} and self.local_budget > 0 and not self.cooling("ollama")
+        local = (
+            self.provider in {"auto", "ollama"} and self.local_budget > 0
+            and not self.cooling("ollama") and not self.memory_deferred
+        )
         gemini = (
             (self.provider == "gemini" or (self.provider == "auto" and bool(config.GEMINI_API_KEY)))
             and self.gemini_budget > 0 and not self.cooling("gemini")
@@ -887,38 +893,44 @@ class VisionRun:
                 self.stop_calls = True
                 return None, None
             self.image_failures = 0
-            self.local_requests += 1
-            try:
-                text = describe_local(image_data, self.deadline)
-            except OllamaRefusalError:
-                self.local_failures = 0
-                text = f"{DESCRIPTION_UNAVAILABLE_PREFIX} blocked by Ollama)"
-                self.provider_succeeded("ollama")
-                return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
-            except VisionDeadlineExceeded:
-                self.stop_calls = True
-                return None, None
-            except requests.RequestException as exc:
-                self.local_failures += 1
-                response = getattr(exc, "response", None)
-                photo_error = self.retry is not None and response is not None and response.status_code == 400
-                if isinstance(exc, OllamaResponseError) or photo_error:
-                    fallback_reason = "ollama_invalid_output"
-                    self.local_disabled = self.local_failures >= 3
-                else:
-                    fallback_reason = "ollama_timeout" if isinstance(exc, requests.Timeout) else "ollama_unavailable"
-                    self.local_disabled = True
-                self.local_reason = fallback_reason
-                self.provider_failed("ollama", exc, fallback_reason)
-                if photo_error and self.local_disabled:
-                    self.retry.fail("providers", self.retry_key("ollama"), "ollama_repeated_photo_error")
-                print(f"Ollama failed ({fallback_reason}); trying Gemini if available.", flush=True)
+            if self.memory_guard is None:
+                self.memory_guard = LocalMemoryGuard(self.retry)
+            if not self.memory_guard.ready(self.deadline):
+                self.memory_deferred = self.local_disabled = True
+                fallback_reason = self.local_reason = "ollama_memory_pressure"
             else:
-                self.local_failures = 0
-                self.local_reason = None
-                self.provider_succeeded("ollama")
-                print(f"Vision: ollama / {config.OLLAMA_MODEL}", flush=True)
-                return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
+                self.local_requests += 1
+                try:
+                    text = describe_local(image_data, self.deadline)
+                except OllamaRefusalError:
+                    self.local_failures = 0
+                    text = f"{DESCRIPTION_UNAVAILABLE_PREFIX} blocked by Ollama)"
+                    self.provider_succeeded("ollama")
+                    return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
+                except VisionDeadlineExceeded:
+                    self.stop_calls = True
+                    return None, None
+                except requests.RequestException as exc:
+                    self.local_failures += 1
+                    response = getattr(exc, "response", None)
+                    photo_error = self.retry is not None and response is not None and response.status_code == 400
+                    if isinstance(exc, OllamaResponseError) or photo_error:
+                        fallback_reason = "ollama_invalid_output"
+                        self.local_disabled = self.local_failures >= 3
+                    else:
+                        fallback_reason = "ollama_timeout" if isinstance(exc, requests.Timeout) else "ollama_unavailable"
+                        self.local_disabled = True
+                    self.local_reason = fallback_reason
+                    self.provider_failed("ollama", exc, fallback_reason)
+                    if photo_error and self.local_disabled:
+                        self.retry.fail("providers", self.retry_key("ollama"), "ollama_repeated_photo_error")
+                    print(f"Ollama failed ({fallback_reason}); trying Gemini if available.", flush=True)
+                else:
+                    self.local_failures = 0
+                    self.local_reason = None
+                    self.provider_succeeded("ollama")
+                    print(f"Vision: ollama / {config.OLLAMA_MODEL}", flush=True)
+                    return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
         elif self.provider == "auto":
             fallback_reason = (
                 "ollama_cooldown" if self.cooling("ollama")

@@ -23,6 +23,14 @@ class VisionRetry:
                 or self.data["version"] != 1
             ):
                 raise ValueError("Invalid vision retry state")
+            if (
+                "local_memory_warning_at" in self.data
+                and (
+                    type(self.data["local_memory_warning_at"]) not in (int, float)
+                    or finite_seconds(self.data["local_memory_warning_at"]) is None
+                )
+            ):
+                raise ValueError("Invalid local memory warning time")
             for section in ("providers", "media"):
                 records = self.data.get(section)
                 if not isinstance(records, dict):

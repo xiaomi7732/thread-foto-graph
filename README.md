@@ -552,6 +552,45 @@ cycles/restarts; failed photos render stable pending text. Unknown-reset
 Gemini quota exhaustion is probed no more than hourly, and cooling providers
 do not prevent a healthy alternative from working.
 
+#### Local inference memory safeguards
+
+Every Ollama request explicitly sets `num_ctx` to `OLLAMA_NUM_CTX` (8192 by
+default; configurable from 1 to 8192), rather than inheriting a larger server
+context. This does not change other Ollama clients or invalidate cached
+descriptions.
+
+On Linux, when Ollama uses a loopback address (`localhost`, `127.x.x.x`, or
+`::1`), check host `/proc/meminfo` immediately before each local inference
+request. If `MemAvailable` is below `OLLAMA_MIN_AVAILABLE_MEMORY_MIB` (6144
+MiB by default), confirm with a second sample five seconds later. If
+headroom recovers, proceed; otherwise defer local inference for the rest
+of that cycle and check again in the next cycle. When the remaining vision
+deadline cannot fit confirmation, defer conservatively without waiting.
+Unreadable or malformed metrics also defer local inference.
+
+Collection, cached descriptions, and publishing continue. Local-only photos
+remain pending without consuming an Ollama attempt or creating provider/media
+failure cooldowns. Memory-only pending work does not hold adaptive polling
+at five minutes outside protected mornings. Existing `auto` mode may still
+use a configured, eligible Gemini fallback; this guard does not enable cloud
+fallback on its own.
+
+Journal/stdout warnings include available RAM and free/total swap, with at
+most one warning per 15 minutes across continuous cycles/restarts. Only the
+last warning time is added to private `cache/vision-retry.json`; warning
+state is not published. Daily/manual runs limit warnings within that run.
+Swap use alone does not block inference when available RAM is sufficient.
+
+The host-memory check is skipped for non-Linux hosts and remote Ollama URLs,
+because the caller cannot measure that server's RAM. Set
+`OLLAMA_MIN_AVAILABLE_MEMORY_MIB=0` to explicitly disable the check.
+It is a best-effort admission guard, not a memory reservation, GPU-memory
+check, cgroup-limit check, or fix for a Vulkan/driver leak. It never reboots,
+restarts Ollama, unloads shared models, resets the GPU, or sends external
+notifications. A stopped service still requires manual recovery.
+
+#### Failure recovery and service operation
+
 Continuous mode stops on enabled-provider authentication/configuration errors,
 even if fallback could work. Default daily mode retains its existing behavior.
 Threads collection/token-refresh transients get five retries with bounded

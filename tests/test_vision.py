@@ -1,10 +1,11 @@
+import json
 import tempfile
 import time
 import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
 
-from src import cache as media_cache, vision, continuous
+from src import cache as media_cache, vision, continuous, local_memory
 from src.vision_retry import VisionRetry
 
 
@@ -182,6 +183,7 @@ class VisionPromptTests(unittest.TestCase):
 
 class LocalVisionTests(unittest.TestCase):
     def setUp(self):
+        self.memory = self.enterContext(patch.object(vision.LocalMemoryGuard, "ready", return_value=True))
         patches = [
             patch.object(vision.config, "GEMINI_API_KEY", "test-key"),
             patch.object(vision.config, "OLLAMA_MODEL", "qwen3-vl:4b"),
@@ -229,6 +231,7 @@ class LocalVisionTests(unittest.TestCase):
         self.assertEqual(body["messages"][0]["content"], vision.PROMPT)
         self.assertFalse(body["stream"])
         self.assertIs(body["think"], False)
+        self.assertEqual(body["options"]["num_ctx"], vision.config.OLLAMA_NUM_CTX)
         self.sleep.assert_not_called()
 
     def test_local_failures_fall_back_using_one_download_and_actual_provider(self):
@@ -525,9 +528,129 @@ class VisionConfigTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 vision.config.validate_vision()
 
+    def test_local_memory_and_context_configuration_limits(self):
+        with patch.object(vision.config, "VISION_PROVIDER", "ollama"):
+            for name, value in (
+                ("OLLAMA_NUM_CTX", 0), ("OLLAMA_NUM_CTX", 8193),
+                ("OLLAMA_MIN_AVAILABLE_MEMORY_MIB", -1),
+            ):
+                with self.subTest(name=name, value=value), patch.object(vision.config, name, value):
+                    with self.assertRaisesRegex(ValueError, name):
+                        vision.config.validate_vision()
+            with patch.object(vision.config, "OLLAMA_MIN_AVAILABLE_MEMORY_MIB", 0):
+                vision.config.validate_vision()
+
+
+class LocalMemoryTests(unittest.TestCase):
+    def setUp(self):
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.path = Path(self.directory) / "retry.json"
+        self.enterContext(patch.object(local_memory.config, "OLLAMA_MIN_AVAILABLE_MEMORY_MIB", 6144))
+        self.real_supported = local_memory.supported
+        self.read_snapshot = local_memory.snapshot
+        self.supported = self.enterContext(patch.object(local_memory, "supported", return_value=True))
+        self.sample = self.enterContext(patch.object(local_memory, "snapshot", return_value=self.memory(8192)))
+        self.sleep = self.enterContext(patch.object(local_memory.time, "sleep"))
+        self.enterContext(patch.object(local_memory.time, "monotonic", return_value=100))
+        self.now = 1000
+        self.enterContext(patch.object(local_memory.time, "time", side_effect=lambda: self.now))
+        self.log = self.enterContext(patch("builtins.print"))
+
+    @staticmethod
+    def memory(available, swap_free=0):
+        return {
+            "MemTotal": 32768 * 1024, "MemAvailable": available * 1024,
+            "SwapTotal": 8192 * 1024, "SwapFree": swap_free * 1024,
+        }
+
+    def guard(self):
+        return local_memory.LocalMemoryGuard(VisionRetry(self.path))
+
+    def test_healthy_headroom_ignores_old_swap_use_and_transient_pressure_recovers(self):
+        self.assertTrue(self.guard().ready(200))
+        self.sleep.assert_not_called()
+        self.sample.side_effect = [self.memory(2048), self.memory(6144)]
+        self.assertTrue(self.guard().ready(200))
+        self.sleep.assert_called_once_with(5)
+        self.log.assert_not_called()
+        self.assertFalse(self.path.exists())
+
+    def test_sustained_pressure_defers_and_warnings_are_limited_across_reload_and_prune(self):
+        self.sample.return_value = self.memory(2048, 120)
+        self.assertFalse(self.guard().ready(200))
+        self.assertIn("swap_free=120/8192MiB", self.log.call_args.args[0])
+        self.now += 300
+        state = VisionRetry(self.path)
+        state.prune(set())
+        self.assertFalse(local_memory.LocalMemoryGuard(state).ready(200))
+        self.log.assert_called_once()
+        self.now += 600
+        self.assertFalse(self.guard().ready(200))
+        self.assertEqual(self.log.call_count, 2)
+
+    def test_deadline_does_not_wait_or_admit_low_memory_request(self):
+        self.sample.return_value = self.memory(2048)
+        self.assertFalse(self.guard().ready(104))
+        self.sleep.assert_not_called()
+        self.sample.assert_called_once()
+
+    def test_unavailable_metrics_defer_local_inference_without_raw_exception_text(self):
+        for error in (PermissionError("private path"), ValueError("private data")):
+            with self.subTest(error=type(error)):
+                self.sample.side_effect = error
+                self.assertFalse(local_memory.LocalMemoryGuard().ready(200))
+                self.assertIn("metrics unavailable", self.log.call_args.args[0])
+                self.assertNotIn("private", self.log.call_args.args[0])
+
+    def test_host_guard_only_applies_to_linux_loopback_and_can_be_disabled(self):
+        for platform, url, minimum, expected in (
+            ("linux", "http://127.0.0.1:11434", 6144, True),
+            ("linux", "http://127.0.0.2:11434", 6144, True),
+            ("linux", "http://[::1]:11434", 6144, True),
+            ("linux", "http://localhost:11434", 6144, True),
+            ("linux", "http://192.0.2.1:11434", 6144, False),
+            ("linux", "https://remote.example", 6144, False),
+            ("win32", "http://localhost:11434", 6144, False),
+            ("linux", "http://localhost:11434", 0, False),
+        ):
+            with self.subTest(platform=platform, url=url, minimum=minimum), patch.object(
+                local_memory.sys, "platform", platform,
+            ), patch.multiple(local_memory.config, OLLAMA_BASE_URL=url, OLLAMA_MIN_AVAILABLE_MEMORY_MIB=minimum):
+                self.assertEqual(self.real_supported(), expected)
+                if not expected:
+                    self.supported.return_value = False
+                    self.assertTrue(self.guard().ready(200))
+        self.sample.assert_not_called()
+
+    def test_snapshot_uses_available_not_free_and_rejects_bad_counters(self):
+        text = "MemTotal: 32768000 kB\nMemFree: 1 kB\nMemAvailable: 8192000 kB\nSwapTotal: 8388608 kB\nSwapFree: 0 kB\n"
+        with patch.object(Path, "read_text", return_value=text):
+            self.assertEqual(self.read_snapshot()["MemAvailable"], 8192000)
+        for invalid in (
+            text.replace("MemAvailable: 8192000 kB\n", ""),
+            text.replace("8192000 kB", "-1 kB"),
+            text.replace("8192000 kB", "999999999 kB"),
+            text.replace("8192000 kB", "8192000 MB"),
+            text.replace("SwapFree: 0", "SwapFree: 999999999"),
+        ):
+            with self.subTest(invalid=invalid), patch.object(Path, "read_text", return_value=invalid):
+                with self.assertRaises(ValueError):
+                    self.read_snapshot()
+
+    def test_corrupt_persisted_warning_state_fails_closed(self):
+        for value in (True, "1000", -1, float("nan")):
+            with self.subTest(value=value):
+                self.path.write_text(
+                    '{"version":1,"providers":{},"media":{},"local_memory_warning_at":'
+                    + json.dumps(value) + "}",
+                )
+                with self.assertRaises(ValueError):
+                    VisionRetry(self.path)
+
 
 class ContinuousVisionTests(unittest.TestCase):
     def setUp(self):
+        self.memory = self.enterContext(patch.object(vision.LocalMemoryGuard, "ready", return_value=True))
         self.directory = self.enterContext(tempfile.TemporaryDirectory())
         self.path = Path(self.directory) / "retry.json"
         self.now = 1000
@@ -565,6 +688,37 @@ class ContinuousVisionTests(unittest.TestCase):
         self.local.side_effect = None
         self.describe(self.state(), "third")
         self.assertNotIn(key, VisionRetry(self.path).data["providers"])
+
+    def test_memory_pressure_skips_local_budget_keeps_pending_quiet_and_retries_next_cycle(self):
+        self.memory.return_value = False
+        state = self.state(provider="ollama")
+        for media_id in ("photo", "second"):
+            self.assertEqual(self.describe(state, media_id)["photo_descriptions"], [None])
+        self.local.assert_not_called()
+        self.gemini.assert_not_called()
+        self.memory.assert_called_once()
+        self.assertEqual(state.local_requests, 0)
+        self.assertFalse(state.eligible_unattempted)
+        self.assertFalse(state.retry.data["providers"])
+        self.assertFalse(state.retry.data["media"])
+        self.assertFalse(self.cache)
+        self.memory.return_value = True
+        self.describe(self.state(provider="ollama"))
+        self.local.assert_called_once()
+        self.assertEqual(self.cache["photo"]["provider"], "ollama")
+
+    def test_memory_pressure_preserves_healthy_cloud_fallback_and_cache_hits(self):
+        self.memory.return_value = False
+        state = self.state()
+        self.describe(state)
+        self.assertEqual(self.cache["photo"]["fallback_reason"], "ollama_memory_pressure")
+        self.assertEqual(state.local_requests, 0)
+        self.assertEqual(state.gemini_requests, 1)
+        self.fetch.assert_called_once()
+        self.assertFalse(state.retry.data["providers"])
+        self.memory.reset_mock()
+        self.describe(state)
+        self.memory.assert_not_called()
 
     def test_quota_without_hint_survives_cycles_and_pending_is_stable(self):
         self.gemini.side_effect = vision.QuotaExceededError("quota")

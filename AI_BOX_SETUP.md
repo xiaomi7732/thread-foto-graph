@@ -84,6 +84,8 @@ Edit the existing settings below rather than appending duplicate entries:
 VISION_PROVIDER=ollama
 OLLAMA_BASE_URL=http://127.0.0.1:11434
 OLLAMA_MODEL=qwen3-vl:4b-instruct
+OLLAMA_NUM_CTX=8192
+OLLAMA_MIN_AVAILABLE_MEMORY_MIB=6144
 MAX_ROOT_THREADS=2
 MAX_ITERATIONS=1
 MAX_LOCAL_VISION_REQUESTS_PER_RUN=5
@@ -93,6 +95,27 @@ MAX_VISION_REQUESTS_PER_RUN=5
 Keep `LOOKBACK_DAYS` and any `HARD_CUTOFF_DATE` appropriate for your existing
 Threads project. A cutoff or short lookback can exclude photos you expected
 to test.
+
+The context setting is sent per request; it does not reconfigure the shared
+Ollama server. On Linux loopback connections, local inference is deferred
+when host `MemAvailable` stays below 6144 MiB across two samples five seconds
+apart. Collection and publishing continue with pending photos; configured
+`auto` fallback can still use Gemini. Warnings are limited to once per 15
+minutes across continuous cycles and appear in the service journal:
+
+```bash
+journalctl --user -u thread-foto-graph-continuous.service --since today --no-pager |
+  grep 'WARNING: Local inference deferred'
+```
+
+Swap figures are diagnostic; swap use alone does not block inference.
+Missing memory metrics defer local inference. The check is not applicable
+to remote Ollama URLs/non-Linux hosts; set the minimum to 0 to opt out.
+It cannot guarantee against OOM or GPU hangs and does not reboot, restart
+Ollama, or unload models. After an OOM, inspect memory and Git state before
+manually restarting the publisher. If you applied a temporary CPU-only
+Ollama systemd override while troubleshooting, this update does not remove
+or change it; deploying the guard is not a reason to re-enable a failing GPU.
 
 **Checkpoint:** start with `ollama`, not `auto`. Gemini must not hide a local
 inference problem during this first test. A Gemini key is not required in

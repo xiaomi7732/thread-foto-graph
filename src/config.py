@@ -14,6 +14,8 @@ OLLAMA_BASE_URL = os.environ.get("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rs
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "qwen3-vl:4b-instruct")
 OLLAMA_CONNECT_TIMEOUT_SECONDS = float(os.environ.get("OLLAMA_CONNECT_TIMEOUT_SECONDS", "3"))
 OLLAMA_READ_TIMEOUT_SECONDS = float(os.environ.get("OLLAMA_READ_TIMEOUT_SECONDS", "180"))
+OLLAMA_NUM_CTX = int(os.environ.get("OLLAMA_NUM_CTX", "8192"))
+OLLAMA_MIN_AVAILABLE_MEMORY_MIB = int(os.environ.get("OLLAMA_MIN_AVAILABLE_MEMORY_MIB", "6144"))
 MAX_LOCAL_VISION_REQUESTS_PER_RUN = int(os.environ.get("MAX_LOCAL_VISION_REQUESTS_PER_RUN", "200"))
 VISION_RUN_TIMEOUT_SECONDS = float(os.environ.get("VISION_RUN_TIMEOUT_SECONDS", "2700"))
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "4"))
@@ -65,6 +67,10 @@ def validate_vision() -> None:
         if url.port is not None and not 1 <= url.port <= 65535:
             raise ValueError("OLLAMA_BASE_URL port is invalid")
         require("OLLAMA_MODEL", OLLAMA_MODEL)
+        if not 1 <= OLLAMA_NUM_CTX <= 8192:
+            raise ValueError("OLLAMA_NUM_CTX must be between 1 and 8192")
+        if OLLAMA_MIN_AVAILABLE_MEMORY_MIB < 0:
+            raise ValueError("OLLAMA_MIN_AVAILABLE_MEMORY_MIB must be nonnegative")
     for name in ("MAX_VISION_REQUESTS_PER_RUN", "MAX_LOCAL_VISION_REQUESTS_PER_RUN"):
         if globals()[name] < 0:
             raise ValueError(f"{name} must be nonnegative")

@@ -193,6 +193,23 @@ class ContinuousMainTests(unittest.TestCase):
                 self.assertEqual(self.record(code)["retry_at"], 1234)
             self.assertFalse((self.root / "cache" / "retry.json").exists())
 
+    def test_memory_deferral_still_collects_and_renders_stable_pending_output(self):
+        self.collect.return_value = [{
+            "id": "root", "timestamp": "2026-11-17T00:00:00Z", "text": "Mountain",
+            "media_type": "IMAGE", "media_url": "https://example.com/photo.jpg",
+            "replies": [{"id": "reply", "username": "other", "text": "What camera?"}],
+        }]
+        with patch.object(main.vision, "fetch_image", return_value=("image/jpeg", "encoded")), patch.object(
+            main.vision.LocalMemoryGuard, "ready", return_value=False,
+        ), patch.object(main.vision, "describe_local") as local:
+            self.assertEqual(main.main(), 0)
+            self.assertFalse(self.record()["eligible_unattempted"])
+            self.assertEqual(main.main(), 0)
+            self.assertFalse(self.record()["live_changed"])
+            local.assert_not_called()
+        self.assertEqual(self.collect.call_count, 2)
+        self.assertIn("What camera?", (self.root / "data" / "needs-reply.md").read_text(encoding="utf-8"))
+
     def test_invalid_config_and_corrupt_state_fail_before_rendering(self):
         with patch.object(main.config, "validate_vision", side_effect=ValueError):
             self.assertEqual(main.main(), 78)
