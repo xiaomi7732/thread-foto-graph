@@ -4,7 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (32)
+
+### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **danielreesart**:  ([link](https://www.threads.com/@danielreesart/post/Df42LtZFmlp))
+  - Photo: Description: A black-and-white nighttime photograph shows the exterior of a building with a lit doorway and windows, featuring a sign that reads “ORDER HERE” and string lights overhead. A person is visible near the entrance, and shelves with bottles are visible through a window. Photograph read: The image is composed with a single bright light source from the doorway, casting strong contrast against the dark surroundings. The photograph is in monochrome, with visible grain and moderate contrast. The person near the door is partially blurred, and the foreground is dark with minimal detail. Photo type: Street photography
+    - Watch-outs: - The person near the doorway is blurred, obscuring fine details of their form and actions. - The foreground is dark and indistinct, limiting visibility of objects and ground details.
+- **medium.gords7**: Bare trees reflected in a shallow creek. ([link](https://www.threads.com/@medium.gords7/post/Df42Cwwk4DT))
+  - Photo: Description: A shallow, clear stream flows over rocks, with reflections of trees and sky visible on the water’s surface; scattered leaves and small green plants are present among the stones. Photograph read: The image captures a natural streambed with visible water ripples and reflections; lighting appears natural daylight, with no obvious overexposure or underexposure. The rendering is detailed enough to discern rock textures and leaf shapes, though water movement introduces slight motion blur. Photo type: Natural landscape
+- **madremyers**:  ([link](https://www.threads.com/@madremyers/post/Df41wI6G9sz))
+  - Photo: Description: A shallow puddle on a textured asphalt surface reflects a dark, indistinct structure, with scattered debris and small particles visible on the ground. Photograph read: The image has a flat, neutral color palette with diffuse lighting. The puddle’s surface shows slight ripples and reflections, while the surrounding asphalt exhibits a granular texture. No sharp focus or high contrast is evident. Photo type: Documentary
+    - Watch-outs: - Reflection in the puddle is indistinct, obscuring any identifiable features of the reflected structure. - Surface texture of the asphalt is visible but lacks fine detail due to low resolution and uniform lighting.
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Always a pleasure Saars🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Df41ssCAHvv))
