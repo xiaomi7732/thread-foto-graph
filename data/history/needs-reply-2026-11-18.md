@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (67)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **dwordops**:  ([link](https://www.threads.com/@dwordops/post/Df5I1ITk-Bn))
+  - Photo: Description: The photograph shows the Audi four-ring emblem mounted on a glossy, reflective surface, likely a car hood, with a sky and clouds visible in the reflections. Photograph read: The emblem is in sharp focus, with clear metallic surfaces and reflections. Lighting is bright and even, suggesting daylight. Reflections in the emblem and surface show clouds and distant silhouettes, indicating a clear sky. The surface has minor specks and imperfections visible. Photo type: Still life
+- **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/Df5IwIwCFiE))
+  - Photo: Description: A stone arch bridge spans a calm body of water, with trees and a small building visible on the far bank; reflections of the bridge and trees are visible on the water’s surface. Photograph read: The image has a painterly or stylized rendering with saturated colors and visible texture, suggesting digital enhancement or artistic filter application. The lighting is diffuse, with no strong directional shadows. Reflections are clear but slightly distorted by ripples. The bridge’s structure and surrounding foliage are discernible, though not sharply defined. Photo type: Stylized
 - **sahelstreams**:  ([link](https://www.threads.com/@sahelstreams/post/Df5HxtJlHpw))
   - Photo: Description: A calm lake reflects a clear blue sky and surrounding coniferous forest, with a prominent tree leaning over the water on the left and rocky shore in the foreground. Photograph read: The composition is framed by a large tree on the left and a forested hillside on the right, with the lake occupying the center. Lighting is bright and even, suggesting midday sun. Reflections are clear on the water’s surface, though minor ripples are visible. The image has no apparent distortion or chromatic aberration. Photo type: Natural landscape
 - **nicoleplaysbydesign**:  ([link](https://www.threads.com/@nicoleplaysbydesign/post/Df5HbBcFJV9))
