@@ -13,8 +13,35 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 103,
+      "reply_count": 106,
       "replies": [
+        {
+          "username": "aaronschwartz1",
+          "text": "",
+          "permalink": "https://www.threads.com/@aaronschwartz1/post/Df5AbEhI7nQ",
+          "photos": [
+            "Description: A person in a bright red coat walks away from the camera across a wet urban street, with their reflection visible in a puddle. The setting includes a sidewalk, a crosswalk, and a building facade to the left. Photograph read: The image is shot from a low angle, emphasizing the reflection of the figure in the puddle. Lighting appears diffused, likely from an overcast sky, casting soft shadows. The rendering is somewhat grainy, with visible texture in the wet pavement and reflections. Photo type: Urban street photography"
+          ],
+          "watch_outs": [
+            "The reflection in the puddle is distorted and partially obscured by ripples, limiting clarity of the subject\u2019s lower body. The upper body and face are not visible, making identification of the subject\u2019s features impossible."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "citizenb",
+          "text": "Reflection across the river.",
+          "permalink": "https://www.threads.com/@citizenb/post/Df5AV8Bke2S",
+          "photos": [
+            "Description: A calm body of water reflects a blue sky with scattered clouds and tree-lined shores, with dense green foliage on both sides and a distant, hazy horizon. Photograph read: The composition is symmetrical with the water surface mirroring the sky and trees. Lighting is bright and even, suggesting daytime. Rendering is clear, with natural color saturation and visible texture in the foliage and water surface. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "diane_fediw",
           "text": "",
@@ -1094,7 +1121,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "srravi",
+                          "text": "Many thanks \ud83d\ude0a",
+                          "permalink": "https://www.threads.com/@srravi/post/Df5AHuRGj2x",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (62)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/Df5AbEhI7nQ))
+  - Photo: Description: A person in a bright red coat walks away from the camera across a wet urban street, with their reflection visible in a puddle. The setting includes a sidewalk, a crosswalk, and a building facade to the left. Photograph read: The image is shot from a low angle, emphasizing the reflection of the figure in the puddle. Lighting appears diffused, likely from an overcast sky, casting soft shadows. The rendering is somewhat grainy, with visible texture in the wet pavement and reflections. Photo type: Urban street photography
+    - Watch-outs: The reflection in the puddle is distorted and partially obscured by ripples, limiting clarity of the subject’s lower body. The upper body and face are not visible, making identification of the subject’s features impossible.
+- **citizenb**: Reflection across the river. ([link](https://www.threads.com/@citizenb/post/Df5AV8Bke2S))
+  - Photo: Description: A calm body of water reflects a blue sky with scattered clouds and tree-lined shores, with dense green foliage on both sides and a distant, hazy horizon. Photograph read: The composition is symmetrical with the water surface mirroring the sky and trees. Lighting is bright and even, suggesting daytime. Rendering is clear, with natural color saturation and visible texture in the foliage and water surface. Photo type: Natural landscape
 - **diane_fediw**:  ([link](https://www.threads.com/@diane_fediw/post/Df4_rMpIW2N))
   - Photo: Description: The photograph shows the view from a car’s side-view mirror, reflecting a street scene with multiple yellow taxis and urban buildings under a bright sky. Photograph read: The mirror’s reflection captures a clear, sunlit street with vehicles and architecture, though the mirror’s surface shows a standard warning inscription. The image is in focus and well-lit, with no visible distortion or color aberration. Photo type: Documentary
   - Photo: Description: A line of yellow taxis is parked or moving slowly on a city street, viewed from inside a vehicle through a side window, with a large classical-style building and a bus stop sign visible in the background under clear skies. Photograph read: The image is taken from a side window, with the frame’s edge visible in the foreground. Lighting is bright daylight, casting clear shadows. The rendering is sharp enough to distinguish vehicle details and architectural features, though the perspective is slightly skewed due to the window’s angle. Photo type: Street photography
@@ -174,7 +179,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (18)
+## Needs Like (19)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
@@ -186,6 +191,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - 2killamockingbird: Thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/Df48ZWbgDBl))
 - 2killamockingbird: Thank you so much 💗 ([link](https://www.threads.com/@2killamockingbird/post/Df48fonAN8V))
 - 2killamockingbird: ▓ ([link](https://www.threads.com/@2killamockingbird/post/Df489N3gGZL))
+- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Df5AHuRGj2x))
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
