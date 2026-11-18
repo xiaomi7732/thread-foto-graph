@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 164,
+      "reply_count": 165,
       "replies": [
         {
           "username": "caissiecat",
@@ -550,7 +550,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bobherrmann6",
+                  "text": "Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck",
+                  "permalink": "https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI",
+                  "photos": [
+                    "Description: The image shows a tranquil lakeside scene at dusk, framed by bare tree silhouettes in the foreground, with a calm water surface reflecting the fading light of the horizon. A wooden table and chair are partially visible in the lower right corner. Photograph read: The composition is framed by dark tree trunks and branches, with the horizon glowing in soft orange and yellow hues. The water reflects these colors, and distant docks and houses are faintly visible. The foreground is in shadow, with minimal detail discernible on the table and chair. Photo type: Landscape"
+                  ],
+                  "watch_outs": [
+                    "- Foreground objects (table and chair) are underexposed, with no discernible texture or detail. - Silhouettes of trees and distant structures are indistinct due to low light and lack of contrast."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2060,7 +2076,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 466,
+      "reply_count": 467,
       "replies": [
         {
           "username": "danielreesart",
@@ -2271,7 +2287,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "gnd_moments_in_paradise",
+                  "text": "There was a cluster of around Ten. I actually posted the wrong capture as I\u2019ve got one quite a bit closer. Age is getting to me. \ud83e\udd14\ud83d\udcf8",
+                  "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/Df5GK-miGgm",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (54)
+## Needs Reply (56)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **caissiecat**:  ([link](https://www.threads.com/@caissiecat/post/Df5FvGBGd0p))
@@ -31,6 +31,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think filling the whole frame with the reflection was the…_
 - **jemalovett**: 8:22 pm. Grand Marais, Minnesota. ([link](https://www.threads.com/@jemalovett/post/Df5E278n_3z))
   - _Replying to: The clouds double themselves in the water and the island ho…_
+- **bobherrmann6**: Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck ([link](https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI))
+  - Photo: Description: The image shows a tranquil lakeside scene at dusk, framed by bare tree silhouettes in the foreground, with a calm water surface reflecting the fading light of the horizon. A wooden table and chair are partially visible in the lower right corner. Photograph read: The composition is framed by dark tree trunks and branches, with the horizon glowing in soft orange and yellow hues. The water reflects these colors, and distant docks and houses are faintly visible. The foreground is in shadow, with minimal detail discernible on the table and chair. Photo type: Landscape
+    - Watch-outs: - Foreground objects (table and chair) are underexposed, with no discernible texture or detail. - Silhouettes of trees and distant structures are indistinct due to low light and lack of contrast.
+  - _Replying to: The dusk light turns the whole lake gold, and the second fr…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
   - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
@@ -65,6 +69,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up shows a white, five-petaled flower with orange anthers against a background of green leaves. The flower’s surface has a textured, slightly granular appearance. Photograph read: The image is a macro shot with natural lighting, capturing fine surface texture and leaf veins. The focus is centered on the flower, with the background leaves slightly out of focus. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
 - **marysticht79**: It's an iconic piece of Portuguese goldsmithing. I photographed it at an exhibition. ([link](https://www.threads.com/@marysticht79/post/Df4vS7MCvxH))
   - _Replying to: The gold lines never sit still - every curl leads into anot…_
+- **gnd_moments_in_paradise**: There was a cluster of around Ten. I actually posted the wrong capture as I’ve got one quite a bit closer. Age is getting to me. 🤔📸 ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5GK-miGgm))
+  - _Replying to: How many of these are clustered in there? Every spine star …_
 - **pattymooney69**: Quite a while, so fascinating. You seem to know a lot about this critter! ([link](https://www.threads.com/@pattymooney69/post/Df49wLEFLle))
   - _Replying to: The wrapped parcel underneath says dinner is sorted - and t…_
 - **lucillepippetti**: I love that you give feedback. Thanks ([link](https://www.threads.com/@lucillepippetti/post/Df475mYIFhT))
