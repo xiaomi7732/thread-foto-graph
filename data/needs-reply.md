@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (52)
+## Needs Reply (55)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **susiestar32**:  ([link](https://www.threads.com/@susiestar32/post/Df48ZimFmDh))
+  - Photo: Description: A shallow pool of water on a sandy beach reflects a bright, orange-yellow sky, with waves rolling in from the ocean and a distant shoreline visible under an overcast sky. Photograph read: The composition is horizontally oriented, with the pool in the foreground and the ocean and horizon in the background. Lighting is diffuse, with the reflection in the pool being the most saturated element. The image has a flat, muted color palette overall, with no visible lens distortion or chromatic aberration. Photo type: Natural landscape
 - **mallabrand**: Siglufjörður, Iceland ([link](https://www.threads.com/@mallabrand/post/Df47xy9CBEf))
   - Photo: Description: The photograph shows the exterior wall of a building with a large window displaying a printed image of a red house with the text “Ljóðasetur Íslands.” The wall itself is textured and shows cracks and minor wear. Photograph read: The image is taken from a street-level perspective, with even, diffuse lighting. The window’s printed image is clear and centered, with visible text and a house scene. The surrounding wall and sidewalk are in focus, with no signs of motion blur or lens distortion. Photo type: Documentary
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df47xaHCMeg))
@@ -48,8 +50,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: How still was that pond when you took this? The bare branch…_
 - **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
   - _Replying to: (photo reply, no text)_
+- **2killamockingbird**: I had to wait quite a while... ([link](https://www.threads.com/@2killamockingbird/post/Df48XWcAJtl))
+  - _Replying to: The swan gets the whole lake to itself and still shares the…_
 - **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
   - _Replying to: (photo reply, no text)_
+- **2killamockingbird**: Thank you sweetheart 💓 ([link](https://www.threads.com/@2killamockingbird/post/Df48iA7gNrB))
+  - _Replying to: Oh this is stunning_
 - **landlockedgator**: Nope. Just vacationing there, enjoying the beach. ([link](https://www.threads.com/@landlockedgator/post/Df47BkHoYmY))
   - _Replying to: Two bikes for the price of one, and the wet sand does the s…_
 - **srravi**: Many thanks 😊 first is sunset the other two in the morning after sunrise…actually it wasn’t all that difficult to frame if you know what to expect in each given place…since all are close to home I know what each place offers… ([link](https://www.threads.com/@srravi/post/Df455atGtQd))
