@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (83)
+## Needs Reply (84)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **derdin.8**:  ([link](https://www.threads.com/@derdin.8/post/Df5Q-uHk1pm))
+  - Photo: Description: A single pink water lily blooms atop a cluster of green lily pads on a calm, dark water surface, which reflects a cloudy sky and hanging leaves. Photograph read: The composition is centered on the lily, with the water surface mirroring clouds and sky. Lighting is diffuse, with no harsh shadows or highlights. The rendering is flat, with muted tones and no visible texture or depth in the water or lily pads. Photo type: Still life
 - **tooly_chinga**:  ([link](https://www.threads.com/@tooly_chinga/post/Df5Ogc9FlH6))
   - Photo: Description: A person wearing a helmet, sunglasses, and layered winter gear stands outdoors in a snowy, wooded area; the background includes trees and part of a vehicle. Photograph read: The image is a close-up portrait with natural outdoor lighting; the subject is in focus, but the background is softly blurred. Reflections are visible on the sunglasses lenses. Photo type: Portrait
 - **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5NlHRiMrc))
