@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (86)
+## Needs Reply (87)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **nanceharder81**: Dawn ([link](https://www.threads.com/@nanceharder81/post/Df5SsyOCYWz))
@@ -133,6 +133,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The corner split does half the work - dark tiles on one sid…_
 - **little_salty_canadian**:  ([link](https://www.threads.com/@little_salty_canadian/post/Df4nd73karh))
   - Photo: Description: A close-up shows a white, five-petaled flower with orange anthers against a background of green leaves. The flower’s surface has a textured, slightly granular appearance. Photograph read: The image is a macro shot with natural lighting, capturing fine surface texture and leaf veins. The focus is centered on the flower, with the background leaves slightly out of focus. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
+- **photos_by_jane3**: In our garden, lovingly tended to..it would be gone by now🥺 ([link](https://www.threads.com/@photos_by_jane3/post/Df5S83Tk6-Z))
+  - _Replying to: Every leaflet in its place, row after row - the light catch…_
 - **marysticht79**: It's an iconic piece of Portuguese goldsmithing. I photographed it at an exhibition. ([link](https://www.threads.com/@marysticht79/post/Df4vS7MCvxH))
   - _Replying to: The gold lines never sit still - every curl leads into anot…_
 - **gnd_moments_in_paradise**: There was a cluster of around Ten. I actually posted the wrong capture as I’ve got one quite a bit closer. Age is getting to me. 🤔📸 ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5GK-miGgm))

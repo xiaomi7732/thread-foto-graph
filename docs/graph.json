@@ -2434,7 +2434,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 472,
+      "reply_count": 473,
       "replies": [
         {
           "username": "nicolasmacpherson",
@@ -2591,7 +2591,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "photos_by_jane3",
+                  "text": "In our garden, lovingly tended to..it would be gone by now\ud83e\udd7a",
+                  "permalink": "https://www.threads.com/@photos_by_jane3/post/Df5S83Tk6-Z",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
