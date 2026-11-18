@@ -13,8 +13,35 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 160,
+      "reply_count": 164,
       "replies": [
+        {
+          "username": "caissiecat",
+          "text": "",
+          "permalink": "https://www.threads.com/@caissiecat/post/Df5FvGBGd0p",
+          "photos": [
+            "Description: A circular pool of water reflects the sky and surrounding coniferous trees, set within a barren, mineral-stained ground surrounded by a dense forest of tall pines under a partly cloudy sky. Photograph read: The composition is centered on the reflective pool, with the forest forming a vertical backdrop. Lighting is natural daylight, with bright sky areas and darker tree silhouettes. Rendering shows visible texture in the ground and tree trunks, with some color saturation in the water\u2019s reflection. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "manzoarnie",
+          "text": "",
+          "permalink": "https://www.threads.com/@manzoarnie/post/Df5FqbuG47G",
+          "photos": [
+            "Description: The image shows the view from a car\u2019s side-view mirror, reflecting a cloudy sky, streetlights, and green trees, with the safety warning \u201cOBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR\u201d etched on the mirror surface. Photograph read: The mirror surface is reflective and shows a distorted, wide-angle view of the environment. The sky is overcast with diffuse clouds, and the lighting is even and diffused, with no strong shadows or highlights. The etched text is legible but slightly blurred due to the mirror\u2019s curvature and surface texture. Photo type: Reflection"
+          ],
+          "watch_outs": [
+            "The etched text is partially obscured by reflections and minor surface imperfections, reducing legibility. The mirror\u2019s curvature causes distortion of the reflected scene, making objects appear warped and not to scale."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "canadiancurlinggirl1",
           "text": "Kanaka Creek Regional Park",
@@ -121,7 +148,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "arigari33",
+                  "text": "I was close to the edge of the lake and shot it tight. I shot another frame zoomed out a bit. I prefer this version.",
+                  "permalink": "https://www.threads.com/@arigari33/post/Df5FWiLlrkq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1015,7 +1053,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "the_shaunjohnson",
+                          "text": "I agree.",
+                          "permalink": "https://www.threads.com/@the_shaunjohnson/post/Df5FqufmVDK",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (54)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **caissiecat**:  ([link](https://www.threads.com/@caissiecat/post/Df5FvGBGd0p))
+  - Photo: Description: A circular pool of water reflects the sky and surrounding coniferous trees, set within a barren, mineral-stained ground surrounded by a dense forest of tall pines under a partly cloudy sky. Photograph read: The composition is centered on the reflective pool, with the forest forming a vertical backdrop. Lighting is natural daylight, with bright sky areas and darker tree silhouettes. Rendering shows visible texture in the ground and tree trunks, with some color saturation in the water’s reflection. Photo type: Natural landscape
+- **manzoarnie**:  ([link](https://www.threads.com/@manzoarnie/post/Df5FqbuG47G))
+  - Photo: Description: The image shows the view from a car’s side-view mirror, reflecting a cloudy sky, streetlights, and green trees, with the safety warning “OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR” etched on the mirror surface. Photograph read: The mirror surface is reflective and shows a distorted, wide-angle view of the environment. The sky is overcast with diffuse clouds, and the lighting is even and diffused, with no strong shadows or highlights. The etched text is legible but slightly blurred due to the mirror’s curvature and surface texture. Photo type: Reflection
+    - Watch-outs: The etched text is partially obscured by reflections and minor surface imperfections, reducing legibility. The mirror’s curvature causes distortion of the reflected scene, making objects appear warped and not to scale.
 - **canadiancurlinggirl1**: Kanaka Creek Regional Park ([link](https://www.threads.com/@canadiancurlinggirl1/post/Df5FBARm879))
   - Photo: Description: A calm river reflects a partly cloudy sky and autumnal trees lining its banks, with a distant bridge and mountains visible in the background. Photograph read: The composition is balanced with horizontal lines of water and horizon, under diffuse daylight. Reflections are clear and symmetrical, with muted colors and soft contrast. No visible signs of motion blur, focus issues, or color distortion. Photo type: Natural landscape
 - **my_tiny_kingdom**:  ([link](https://www.threads.com/@my_tiny_kingdom/post/Df5E8tDo90I))
@@ -24,6 +29,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows the glossy, curved surface of a dark vehicle, reflecting a sky with scattered clouds and a bright sun near the horizon. The background is blurred, suggesting distant hills and trees. Photograph read: The composition is a close-up of the car’s surface, with the sky reflected. Lighting is directional, creating a bright specular highlight along the car’s edge. The background is out of focus, and the image has a shallow depth of field. Photo type: Close-up
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/Df5EDMXG9wn))
   - Photo: Description: A calm river reflects the surrounding granite cliffs and forested banks, with a large boulder partially submerged on the left side of the frame. Photograph read: The composition is symmetrical, with the river’s surface mirroring the mountains and sky. Lighting is even and diffused, suggesting an overcast day. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Landscape
+- **arigari33**: I was close to the edge of the lake and shot it tight. I shot another frame zoomed out a bit. I prefer this version. ([link](https://www.threads.com/@arigari33/post/Df5FWiLlrkq))
+  - _Replying to: I think filling the whole frame with the reflection was the…_
 - **jemalovett**: 8:22 pm. Grand Marais, Minnesota. ([link](https://www.threads.com/@jemalovett/post/Df5E278n_3z))
   - _Replying to: The clouds double themselves in the water and the island ho…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
@@ -139,11 +146,12 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (21)
+## Needs Like (22)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - muddie79: Yes ([link](https://www.threads.com/@muddie79/post/Df5E6UECvFP))
 - 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
+- the_shaunjohnson: I agree. ([link](https://www.threads.com/@the_shaunjohnson/post/Df5FqufmVDK))
 - dirtywaterdevil444: It's gorgeous ([link](https://www.threads.com/@dirtywaterdevil444/post/Df47-3pIH5B))
 - shuchi2812: Yes 😇 ([link](https://www.threads.com/@shuchi2812/post/Df45kosGP4B))
 - manii.77777: 🤌👌✨ ([link](https://www.threads.com/@manii.77777/post/Df44gtZApfN))
