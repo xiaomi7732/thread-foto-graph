@@ -1,7 +1,8 @@
 # Thread Foto Graph
 
 Builds a daily **topic graph** of your Threads (Meta) posts and replies from
-the last `LOOKBACK_DAYS` days (4 by default), describing every photo in text (via Gemini Flash, free tier)
+the last `LOOKBACK_DAYS` days (4 by default), describing every photo in text
+(via Gemini by default, or local Ollama/Qwen with optional Gemini fallback)
 so **AI can read the compact text tree (`data/topics.md`) instead of
 re-pulling raw images into its context on every response** — this is what was
 burning AI's token budget.
@@ -71,7 +72,9 @@ Outputs (smallest/most-frequent read first):
    long-lived access token is auto-refreshed before it expires
    (`src/threads_auth.py`); auth is sent as an `Authorization: Bearer` header,
    never a query param, so it can't leak into logged URLs.
-2. For every photo (root post or reply) not already described, call Gemini
+2. For every photo (root post or reply) not already described, call the
+   configured vision provider: Gemini by default, local Ollama/Qwen in
+   `ollama` mode, or Ollama first with optional Gemini fallback in `auto` mode,
    for a consistent four-part result: a one-to-two-sentence description, a
    photography-focused read, a concise photo-type classification, and an
    optional observations-only `Watch-outs:` section
@@ -79,8 +82,9 @@ Outputs (smallest/most-frequent read first):
    items are expanded via the `children{media_type,media_url}` field
    (`src/threads_client.py`'s `photo_items()`) so **every photo in a
    multi-image carousel is described individually** — not just its cover
-   image, which is all the API returns by default. The API key is sent as
-   the `x-goog-api-key` header (not a query param) for the same reason.
+   image, which is all the API returns by default. When Gemini is used, its
+   API key is sent as the `x-goog-api-key` header (not a query param) for the
+   same reason.
    Descriptions are cached forever by each individual photo's media ID
    (`cache/media_cache.json`, local-only) so a photo is never re-described on
    later runs, and the cache is flushed to disk after *every* new
@@ -109,8 +113,10 @@ Outputs (smallest/most-frequent read first):
      guessing a delay (an earlier version fell back to a fixed ~20s wait,
      but a blind guess just burns run time without reliably succeeding).
      If it's still rate-limited after an honored wait, or the daily quota
-     is hit, remaining photos are left un-described (not cached as a
-     failure) and are clearly marked in the output as `(photo pending
+     is hit, Gemini is disabled for the rest of the run. Healthy local
+     inference can continue in `auto` mode; photos neither provider can
+     describe are left un-described (not cached as a failure) and are
+     clearly marked in the output as `(photo pending
      description - will be described on a future run)` — never silently
      indistinguishable from "no photo". A quota/rate-limit hit is also
      logged (`Gemini free-tier daily/minute quota exceeded -- remaining
@@ -127,7 +133,7 @@ Outputs (smallest/most-frequent read first):
      retries, the photo is recorded as `(description unavailable: ...)`
      without being cached, so it's retried fresh on the next run, and the
      failure is printed to the run log for visibility.
-   - **Trust boundary:** a Gemini description replaces your own eyes on a
+   - **Trust boundary:** a model description replaces your own eyes on a
      photo, which is fine for low-stakes drafting (a playful reply), but
      treat it as a draft input, not ground truth, before anything
      public-facing that depends on getting photo content exactly right
@@ -143,7 +149,8 @@ Outputs (smallest/most-frequent read first):
    repeat the recognition pass, up to `MAX_ITERATIONS` times (3 by default).
    This catches images posted while a slower recognition pass was running;
    the loop stops when no new uncached photo is found. The vision request
-   budget is shared across all passes.
+   budgets and provider failure state are shared across all passes; local
+   attempts do not consume Gemini's budget.
 
 ### Flat action lists (what to point Muse at day-to-day)
 
@@ -241,9 +248,11 @@ varies a lot by model:
 
 Flash-Lite is used here specifically because image description is a simple
 task that doesn't need full Flash's reasoning, and 500/day comfortably covers
-busy days. On days that still exceed the cap, the run stops at
-`MAX_VISION_REQUESTS_PER_RUN` and leaves the rest uncached — they're picked up
-automatically on the next run, since the cache persists across runs.
+busy days. `MAX_VISION_REQUESTS_PER_RUN` bounds Gemini attempts; in
+Gemini-only mode, remaining photos are left uncached when it is exhausted.
+In `auto` mode, local inference can continue within its separate budget and
+the run deadline. Pending photos are picked up automatically on the next run,
+since the cache persists across runs.
 Gemini model availability/names change over time (several older model names
 have been retired or renamed) — if calls start failing with 404, check
 https://ai.google.dev/gemini-api/docs/models for current model IDs.
@@ -263,8 +272,10 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    - `THREADS_USERNAME` — your own Threads username, used to tell "already
      answered by me" replies apart from everyone else's (drives the
      actionable-first pruning in `needs-reply.md`/`needs-like.md`/`topics.md`).
-   - `GEMINI_API_KEY` — a free Google AI Studio API key
-     (https://aistudio.google.com/apikey).
+   - `GEMINI_API_KEY` — a Google AI Studio API key
+     (https://aistudio.google.com/apikey), required for the default
+     `VISION_PROVIDER=gemini`; optional cloud fallback in `auto`, and not
+     needed in `ollama`. For local Qwen setup, see the Ubuntu section below.
    - `GEMINI_MODEL` — defaults to `gemini-3.5-flash-lite` (500 free
      requests/day); see the rate-limit note above before changing it.
 3. **Test it manually** (optionally scope to a couple of posts first with
@@ -305,11 +316,407 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    Git Credential Manager) so `git push` in the task doesn't prompt for a
    password.
 
+## Local Qwen vision on the Ubuntu AI box
+
+For an ordered on-box checklist, follow [AI_BOX_SETUP.md](AI_BOX_SETUP.md).
+
+The code supports `VISION_PROVIDER=gemini` (the unchanged default),
+`ollama` (local only), or `auto` (Ollama first, then Gemini when configured).
+It calls Ollama directly, not Open WebUI. Leave Ollama bound to
+`127.0.0.1:11434`; no additional firewall rule or public API is needed.
+
+**Live-run status (2026-11-12):** several rounds on
+`plan/qwen-vision-fallback` have been run on the AI box, and the results look
+good to the operator. The local Qwen path is now in live use on that branch,
+not just prepared for deployment. This is practical acceptance from those
+runs, not a formal Qwen-versus-Gemini comparison or throughput benchmark.
+Controlled fallback, cache-hit, and timer/reboot checks are not confirmed by
+that report; verify them before relying on unattended scheduling.
+The original implementation and rollout checklist is in
+[QWEN_VISION_PLAN.md](QWEN_VISION_PLAN.md); its pre-deployment status predates
+these live runs.
+
+### First on-box run (no publishing or timer)
+
+Run these commands on Ubuntu, not in Windows PowerShell:
+
+```bash
+sudo apt update
+sudo apt install -y git python3-venv
+git clone --branch plan/qwen-vision-fallback \
+  https://github.com/xiaomi7732/thread-foto-graph.git ~/thread-foto-graph
+cd ~/thread-foto-graph
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+cp .env.example .env
+chmod 600 .env
+```
+
+Edit `.env` with the Threads credentials, username, and:
+
+```dotenv
+VISION_PROVIDER=auto
+OLLAMA_BASE_URL=http://127.0.0.1:11434
+OLLAMA_MODEL=qwen3-vl:4b-instruct
+GEMINI_API_KEY=your-key-if-cloud-fallback-is-wanted
+MAX_ROOT_THREADS=2
+MAX_ITERATIONS=1
+MAX_LOCAL_VISION_REQUESTS_PER_RUN=5
+MAX_VISION_REQUESTS_PER_RUN=5
+```
+
+Leave `GEMINI_API_KEY` blank to disable cloud fallback, or use
+`VISION_PROVIDER=ollama` to prohibit cloud requests even if a key is present.
+Preserve the existing Gemini model setting when enabling fallback.
+
+While both copies of the pipeline are stopped, privately copy only
+`cache/media_cache.json` from an existing clone into the new clone's `cache`
+directory, if available. Git does not transfer it. Do not copy or commit the
+entire cache directory; `token_store.json` contains refreshed token state.
+The hosted workflow's cache is independent.
+
+```bash
+curl -fsS http://127.0.0.1:11434/api/tags
+ollama list
+bash run_daily.sh
+```
+
+Ensure `qwen3-vl:4b-instruct` is installed
+(`ollama pull qwen3-vl:4b-instruct`). The explicit instruct tag avoids spending
+the short description's token budget on reasoning; requests also set
+`think: false`. Your existing WebUI chat model can remain unchanged.
+The wrapper takes the same local lock for manual and scheduled runs. Its
+default mode neither updates Git nor commits/pushes; inspect the generated
+files before enabling publishing. A second run should reuse cached photos.
+Review or commit intended output changes before using `--publish`, which
+requires a clean checkout.
+
+### Provider behavior, limits, and provenance
+
+- Each uncached photo is downloaded once; a local failure reuses the bytes
+  for Gemini. Local inference gets one attempt per photo, with separate
+  connect/read timeouts (3s/180s by default). Endpoint/timeout failures disable
+  Ollama for the rest of the run; three consecutive malformed outputs also
+  disable it. Explicit refusal metadata and recognized leading English
+  refusal statements are not sent to another provider; quoted image text
+  and photography-read disclaimers do not constitute a refusal. Local requests
+  ignore environment proxies/credentials and do not follow redirects.
+- Gemini retains its existing retries and 5s throttling. Its quota,
+  authentication, or outage breaker does not disable healthy local inference.
+  Failures remain uncached/retryable; moderation outcomes retain their
+  existing unavailable semantics and are cached with provenance.
+- `MAX_VISION_REQUESTS_PER_RUN` counts Gemini POST attempts, including retries
+  (default 1400). `MAX_LOCAL_VISION_REQUESTS_PER_RUN` separately counts local
+  attempts (default 200). Exhausting one budget does not consume the other.
+  These are provisional operational limits, not benchmark results.
+- `VISION_RUN_TIMEOUT_SECONDS` defaults to 2700s and bounds new vision work
+  and retry waits. Requests already in flight can finish within their
+  connect/read timeouts. The Linux wrapper adds a 3000s hard backstop
+  (`PIPELINE_TIMEOUT_SECONDS`, supplied in the process environment), and the
+  sample systemd service has a 55-minute limit.
+- New cache entries contain `description`, `provider` (`ollama` or `gemini`),
+  `model`, UTC `described_at`, and a sanitized `fallback_reason` code.
+  Legacy string entries still work and have `legacy/unknown` attribution.
+  Cache hits never replace the original provenance or regenerate descriptions.
+  The model name is the configured tag, not a pinned model-weight digest.
+- Only description text reaches normal action lists, Watch-outs handling,
+  and topic clustering. Model attribution is private review metadata.
+- The pilot prompt asks both providers to carry visible limitations into
+  Watch-outs consistently, without assuming artistic intent. `None observed`
+  is treated as no warning, not displayed as a concern. Existing cached
+  descriptions are not regenerated when the prompt changes; pilot the new
+  wording on uncached photos. This is a prompt change, not a guarantee of
+  accurate technical assessment.
+
+### Private quality-review report
+
+```bash
+# Offline: no Threads or vision requests.
+.venv/bin/python -m src.vision_review
+# Refresh post/photo references using Threads, without calling vision.
+.venv/bin/python -m src.vision_review --refresh
+# Fetch current references and serve image previews on this machine only.
+.venv/bin/python -m src.vision_review --serve
+```
+
+The static report is `cache/vision-review.html`, explicitly gitignored and
+excluded from publishing. It shows descriptions, provider/model, generation
+time, fallback reason, legacy/unknown attribution, and pending/moderated
+states. Failed uncached attempts appear pending; consult run logs for the
+failure cause.
+
+Open `http://127.0.0.1:8091` in a browser on the machine running `--serve`.
+The server is loopback-only, has no directory browsing, and proxies current
+photo previews without writing image bytes or signed media URLs to disk.
+The static report has post references but no previews. Expired previews
+require restarting with refreshed references. Do not expose this private
+review server through the LAN firewall or public router.
+
+### Git publishing and optional user timer
+
+Configure Git identity and a protected credential helper first. A fine-grained
+PAT needs Contents read/write for this repository and permission under the
+branch rules. Never put it in `.env`, scripts, remote URLs, or shell history;
+do not use Git's plaintext credential store. If GitHub CLI is installed,
+`gh auth login --git-protocol https` followed by `gh auth setup-git` is an
+option (use its secure credential storage, not insecure storage).
+
+```bash
+bash run_daily.sh --publish
+```
+
+Publishing uses the checked-out branch's upstream, **not hard-coded main**.
+Choose the branch deliberately; keep deployment testing on the feature
+branch. The wrapper requires a clean checkout, rejects pre-existing unpushed
+commits, fast-forwards before processing, and stages only generated outputs.
+A pipeline failure does not publish. Push rejection gets bounded fetch/rebase
+recovery; conflicting outputs abort the rebase and retain the local commit
+and cache for manual recovery. Never force-push to resolve such failures.
+Each Git command, including credential-helper time, has a 120s limit
+(`GIT_TIMEOUT_SECONDS` in the process environment) and a 5s termination grace
+period. If interrupted Git recovery cannot abort cleanly, inspect `git status`
+and resolve any rebase or lock before retrying; do not delete recovery state
+or force-push blindly. The service's 55-minute limit bounds the complete run.
+
+After live verification, remove the small smoke-run caps from `.env` or set
+the desired production values. The user-level systemd templates assume the
+clone is `~/thread-foto-graph`:
+
+```bash
+mkdir -p ~/.config/systemd/user
+cp deploy/thread-foto-graph.{service,timer} ~/.config/systemd/user/
+systemctl --user daemon-reload
+# Manual service check before enabling the timer:
+systemctl --user start thread-foto-graph.service
+journalctl --user -u thread-foto-graph.service -n 100 --no-pager
+systemctl --user enable --now thread-foto-graph.timer
+systemctl --user list-timers thread-foto-graph.timer
+```
+
+The sample timer runs at 06:00 local time with up to five minutes of jitter.
+For unattended operation after logout/reboot, enable lingering for your
+account (`sudo loginctl enable-linger "$USER"`), then verify the timer after
+reboot. Customize paths/cadence before installation if needed. No timer is
+installed or enabled by the code itself.
+
+Stop local publishing before triggering the hosted Gemini-only manual
+backup: `systemctl --user stop thread-foto-graph.timer`, then wait for or stop
+any active service/manual run. GitHub concurrency does not lock the box.
+If the whole box is offline, provider fallback cannot run; automatic machine
+takeover is not implemented. To roll back provider selection, set
+`VISION_PROVIDER=gemini` and provide a valid key; existing cached strings and
+records remain readable by this version. Old code predating structured
+records needs a separate legacy cache, not the new mixed-format cache.
+
+### Adaptive continuous operation (Ubuntu)
+
+**Live deployment status (2026-11-13):** the Ubuntu AI-box user service is
+running and enabled, and `enable-linger` completed without an error. Two
+observed cycles successfully published to `plan/qwen-vision-fallback`: the
+first used 9 local Qwen requests and 628 cache hits; the second used 1 local
+request and 637 cache hits. Both used zero Gemini requests and left zero
+pending photos. The next cycle started at the intended five-minute cadence.
+A graceful stop let the active cycle finish and push before exiting, leaving
+a clean checkout. Promotion to 15/30-minute intervals and operation after
+logout/reboot have not yet been observed; Ollama must also remain available.
+
+`run_continuous.sh` keeps one publisher available without polling in a tight
+loop. It runs one collection/vision pass per cycle and publishes only changed
+generated outputs:
+
+- **Tuesday-Friday, 6:30 a.m.-noon Pacific (`America/Los_Angeles`)** is a
+  protected reply window: stay at a **5-minute start-to-start interval** even
+  when unchanged. The timezone follows daylight saving, independent of the
+  machine's timezone.
+- Outside that window, start at five minutes. Two unchanged successful
+  checks increase it to 15 minutes; two more increase it to 30. Protected
+  checks reset the quiet counter, so adaptation resumes gradually after noon.
+- Shorten a quiet wait when the next protected window begins, without
+  starting less than five minutes after the preceding cycle. Do not wait out
+  a previously selected 30-minute interval.
+- A live-feed/graph change resets it to five minutes. Eligible photos left
+  unattempted because of a vision budget/deadline also hold it at five.
+  Daily history snapshots and private state do not count as activity.
+- Record the actual start of each cycle using a monotonic clock. Never
+  overlap or replay missed cycles: at five-minute cadence, a 10:00 start
+  finishing at 10:07 schedules the next start for 10:10.
+- Outside protected mornings, the first activity after a quiet period can
+  take 30 minutes plus processing to appear. During protected mornings the
+  target is roughly five minutes plus processing, not a delivery guarantee.
+
+Frequent checks still fetch the complete in-scope reply trees and run Git
+preflight. Described-photo cache hits avoid inference, not Threads requests.
+Per-run vision budgets are not daily quotas. Continuous-only
+`cache/vision-retry.json` persists provider and per-photo cooldowns across
+cycles/restarts; failed photos render stable pending text. Unknown-reset
+Gemini quota exhaustion is probed no more than hourly, and cooling providers
+do not prevent a healthy alternative from working.
+
+#### Local inference memory safeguards
+
+Every Ollama request explicitly sets `num_ctx` to `OLLAMA_NUM_CTX` (8192 by
+default; configurable from 1 to 8192), rather than inheriting a larger server
+context. This does not change other Ollama clients or invalidate cached
+descriptions.
+
+On Linux, when Ollama uses a loopback address (`localhost`, `127.x.x.x`, or
+`::1`), check host `/proc/meminfo` immediately before each local inference
+request. If `MemAvailable` is below `OLLAMA_MIN_AVAILABLE_MEMORY_MIB` (6144
+MiB by default), confirm with a second sample five seconds later. If
+headroom recovers, proceed; otherwise defer local inference for the rest
+of that cycle and check again in the next cycle. When the remaining vision
+deadline cannot fit confirmation, defer conservatively without waiting.
+Unreadable or malformed metrics also defer local inference.
+
+Collection, cached descriptions, and publishing continue. Local-only photos
+remain pending without consuming an Ollama attempt or creating provider/media
+failure cooldowns. Memory-only pending work does not hold adaptive polling
+at five minutes outside protected mornings. Existing `auto` mode may still
+use a configured, eligible Gemini fallback; this guard does not enable cloud
+fallback on its own.
+
+Journal/stdout warnings include available RAM and free/total swap, with at
+most one warning per 15 minutes across continuous cycles/restarts. Only the
+last warning time is added to private `cache/vision-retry.json`; warning
+state is not published. Daily/manual runs limit warnings within that run.
+Swap use alone does not block inference when available RAM is sufficient.
+
+The host-memory check is skipped for non-Linux hosts and remote Ollama URLs,
+because the caller cannot measure that server's RAM. Set
+`OLLAMA_MIN_AVAILABLE_MEMORY_MIB=0` to explicitly disable the check.
+It is a best-effort admission guard, not a memory reservation, GPU-memory
+check, cgroup-limit check, or fix for a Vulkan/driver leak. It never reboots,
+restarts Ollama, unloads shared models, resets the GPU, or sends external
+notifications. A stopped service still requires manual recovery.
+
+#### Failure recovery and service operation
+
+Continuous mode stops on enabled-provider authentication/configuration errors,
+even if fallback could work. Default daily mode retains its existing behavior.
+Threads collection/token-refresh transients get five retries with bounded
+backoff and valid Retry-After deadlines. Unknown errors, corrupt private state,
+lock contention, and Git failures stop visibly; they do not count as quiet.
+Protected mornings never shorten failure backoff or provider cooldowns.
+Meta body throttling codes 4, 17, and 613 are handled using the
+[Graph error guide](https://developers.facebook.com/docs/graph-api/guides/error-handling/)
+and [rate-limit guide](https://developers.facebook.com/docs/graph-api/overview/rate-limiting/).
+Pages-specific code 32 and unverified usage-header timing fail closed or are
+not used as Threads retry guidance.
+
+For foreground use, after reviewing/committing intended checkout changes:
+
+```bash
+bash run_continuous.sh
+```
+
+For unattended operation, use the optional user service instead. Stop the
+existing daily timer and any active daily/manual/hosted/Windows publisher
+first; no distributed publisher lock is provided:
+
+```bash
+systemctl --user disable --now thread-foto-graph.timer
+systemctl --user stop thread-foto-graph.service
+mkdir -p ~/.config/systemd/user
+cp deploy/thread-foto-graph-continuous.service ~/.config/systemd/user/
+```
+
+The template assumes `~/thread-foto-graph`. For the deployed AI-box checkout
+at `~/Repos/thread-foto-graph`, override **both** paths before starting:
+
+```bash
+systemctl --user edit thread-foto-graph-continuous.service
+```
+
+Save this override (the empty `ExecStart=` clears the original command):
+
+```ini
+[Service]
+WorkingDirectory=%h/Repos/thread-foto-graph
+ExecStart=
+ExecStart=/usr/bin/bash %h/Repos/thread-foto-graph/run_continuous.sh
+```
+
+Then reload, inspect a live cycle, and enable:
+
+```bash
+systemctl --user daemon-reload
+# Start for inspection before enabling at login:
+systemctl --user start thread-foto-graph-continuous.service
+journalctl --user -u thread-foto-graph-continuous.service -n 100 --no-pager
+systemctl --user status thread-foto-graph-continuous.service --no-pager
+systemctl --user enable thread-foto-graph-continuous.service
+```
+
+As with the daily timer, enable lingering for unattended operation after
+logout/reboot:
+
+```bash
+sudo loginctl enable-linger "$USER"
+systemctl --user is-enabled thread-foto-graph-continuous.service
+systemctl --user is-active thread-foto-graph-continuous.service
+loginctl show-user "$USER" -p Linger
+```
+
+Expected results are `enabled`, `active`, and `Linger=yes`. Nothing
+installs/enables either service automatically. Perform the bounded inspection
+in [AI_BOX_SETUP.md](AI_BOX_SETUP.md) first. Publishing follows the current
+checkout's upstream, not a hard-coded branch. To move to `main`, merge the
+implementation there first, stop the service gracefully, verify a clean
+checkout, switch to `main` tracking `origin/main`, fast-forward, and restart.
+
+Stop gracefully with:
+
+```bash
+systemctl --user stop thread-foto-graph-continuous.service
+```
+
+Stopping during a wait is prompt; stopping during a cycle waits for that
+bounded cycle to finish without interrupting rendering, commit, push, or
+rebase. `KillMode=mixed` and a 6000s service stop timeout allow this. The runner
+validates `21 * (GIT_TIMEOUT_SECONDS + 5) + PIPELINE_TIMEOUT_SECONDS + 60`
+against that limit (5685s with defaults), covering Git commands, kill graces,
+the pipeline, and recovery sleeps. Larger timeout overrides are rejected.
+Shutdown/reboot may therefore wait for an active cycle; it is not a hang.
+
+A foreground Ctrl-C, forced kill, or power loss can interrupt child processes.
+Check `git status`, retained output/unpushed commits, and recovery state before
+restarting. Do not discard files or force-push. Stopped services do not restart
+automatically: inspect the journal, repair the cause, then restart explicitly.
+`cache/continuous-cycle.json` is private cycle-ID-bound status, not published
+content. Corrupt cooldown/state files require inspection; do not blindly clear
+them to bypass an outage or quota.
+
+To return to daily scheduling, disable/stop the continuous service before
+enabling the daily timer:
+
+```bash
+systemctl --user disable --now thread-foto-graph-continuous.service
+systemctl --user enable --now thread-foto-graph.timer
+```
+
+### Development checks
+
+```bash
+python -m unittest discover -s tests
+bash -n run_daily.sh run_continuous.sh
+```
+
+Linux-wrapper tests use temporary Git remotes and mocked inference/locking/
+timeout commands; they do not contact Threads, Ollama, Gemini, or GitHub.
+They verify publishing and failure recovery, not an actual systemd deployment
+or GPU/model quality.
+`test_continuous_process.py` additionally runs bounded real signal/descendant/
+flock checks on Linux/POSIX with `flock`; it is skipped on Windows.
+
 ## Running on demand (GitHub Actions)
 
-Alternative to Task Scheduler if you'd rather not keep a machine running:
+Manual Gemini-only backup for the AI-box pipeline, or an alternative to
+Task Scheduler if you'd rather not keep a machine running:
 `.github/workflows/thread-foto-graph.yml` runs the same pipeline on GitHub's
-hosted runners and commits/pushes any changes itself.
+hosted runners and commits/pushes any changes itself. It explicitly uses
+`VISION_PROVIDER=gemini`, independent of the box's provider setting. Stop or
+confirm the local publisher is inactive before triggering it; its cache is
+separate, and provider fallback does not provide automatic machine failover.
 
 1. **Secrets** (Settings → Secrets and variables → Actions → **Secrets**
    tab) — anything that grants access to an account/API:

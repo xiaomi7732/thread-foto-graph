@@ -1,84 +1,66 @@
-"""Vision descriptions via Google Gemini Flash (free tier).
+"""Cached vision descriptions via Gemini or local Ollama with cloud fallback.
 
-Each image is downloaded, sent to Gemini for a short text description, and the
-result is cached by media_id so a given photo is only ever described once
-(see cache.py). This keeps daily usage well under the free-tier request cap
-even on days with 1,000+ reply photos.
+Images are downloaded once per attempt and descriptions are cached by media
+ID with provider/model provenance. Legacy string entries remain readable.
+VisionRun retains independent provider budgets and breakers across batches.
 
-On a 429 (rate limit), describe_image() retries in-process a couple of times
-first -- but only when Gemini actually tells us how long to wait (its
-Retry-After header or retryDelay body field). If neither is present, there's
-nothing real to honor, so it fails fast (raises QuotaExceededError
-immediately) rather than guessing a delay -- blind guessing was tried and
-just burned run time without reliably succeeding. Either way,
-describe_images() then leaves the photo as a "pending" placeholder for the
-next scheduled run.
-
-On a 5xx (the model itself briefly overloaded/unavailable -- common on the
-free-tier "lite" model) or a read timeout, describe_image() also retries
-in-process, up to 3 times, with an exponential backoff (10s, 20s, 40s --
-Gemini gives no Retry-After for these). A live test confirmed this is the
-right fix: hammering the API ~5s apart mostly got 503 "high demand" errors,
-while the same model spaced ~15s apart succeeded every time. If it still
-fails after exhausting retries, describe_images() records
-"(description unavailable: ...)" for that photo without caching it, so it's
-retried fresh on the next run -- and the failure is printed to the run log,
-so a run hitting a lot of these is visible there instead of only showing up
-later in the committed markdown.
-
-If Gemini (or the image host the photos are fetched from) is down for the
-whole run rather than just one flaky photo, every remaining photo would
-otherwise pay its own full retry ladder before giving up -- potentially
-hours. describe_images() guards against this three ways: (1) a quota hit
-(QuotaExceededError), MAX_CONSECUTIVE_TRANSIENT_FAILURES Gemini-outage
-signals in a row, or MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES image-download
-failures in a row (tracked independently -- an ImageFetchError is never a
-Gemini signal) trips a "stop_calls" flag that is returned to the caller and
-fed back into every later describe_images() call this run (main.py threads
-it across each thread's root-photo and reply batches), so one bad batch
-stops the whole run from making further new requests, not just itself;
-(2) the GitHub Actions workflow sets an explicit timeout-minutes as a
-backstop in case (1) is ever bypassed.
+Gemini honors explicit 429 retry delays and uses bounded exponential retries
+for transient failures. Local inference gets one attempt per photo before
+optional fallback. Provider failures never poison the cache or disable the
+other healthy provider; source-host outages and the run deadline stop both.
 """
 from __future__ import annotations
 
 import base64
 import re
 import time
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
 import requests
 
-from . import config, threads_client
+from . import config, threads_client, continuous
+from .cache import description_text, make_entry
+from .local_memory import LocalMemoryGuard
 
 GEMINI_URL_TMPL = (
     "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 )
 
 PROMPT = (
-    "Respond in plain text using exactly these four labeled sections:\n"
-    "Description: Describe this photo in one or two concise sentences, focusing "
-    "on the subject matter and any context clues relevant to a social media post.\n"
-    "Photograph read: Give a brief photography-focused interpretation in one "
-    "concise sentence, noting composition, light, and mood where relevant. "
-    "Base the read on visible details; do not invent camera settings or intent.\n"
-    "Photo type: Classify the overall style or feel in one concise phrase "
-    "(for example, snapshot, artistic, documentary, or storytelling). Choose "
-    "the closest fit based only on what is visible; do not invent intent.\n"
-    "Watch-outs: Leave this section empty unless there is a clearly visible "
-    "technical observation relevant before praising a photographic choice "
-    "(such as clipped highlights, flare, focus softness, a tilted horizon, "
-    "or background clutter overlapping the subject). Empty is a valid and "
-    "common value; do not search for faults. Use at most one or two short "
-    "clauses of observable facts only: no scores, grades, overall verdicts, "
-    "praise, blame, or good/bad composition judgments. Do not prescribe fixes. "
-    "When softness, high-key exposure, or motion blur could be deliberate, "
-    "state that intent cannot be determined from the image. For example: "
-    "'Sun disc clipped to white with halo and flare streaks' or "
-    "'Soft overall; intentional or missed focus not determinable from the image'. "
-    "These notes are private drafting input, never text to quote to the photographer.\n"
-    "Do not mention that you are an AI or that this is a described image."
+    "Describe the attached photograph and record visible technical limitations.\n"
+    "Be factual: neither default to praise nor invent faults.\n\n"
+    "Use exactly these four sections, in this order:\n\n"
+    "Description:\n"
+    "Describe the visible subject and setting in one or two sentences.\n"
+    "If blur or darkness prevents identification, state that uncertainty.\n\n"
+    "Photograph read:\n"
+    "Briefly describe the visible composition, lighting, and rendering.\n"
+    "Do not infer the photographer's intent or invent camera settings.\n"
+    "Do not infer underexposure, limited dynamic range, or missed focus merely\n"
+    "because the image looks blurred or low-contrast.\n\n"
+    "Photo type:\n"
+    "Give one short style classification. Use \"Unclear\" if the image does not\n"
+    "provide enough evidence.\n\n"
+    "Watch-outs:\n"
+    "Report up to two visible conditions that limit subject clarity, detail,\n"
+    "or readability. Identify the affected area and the observable effect.\n\n"
+    "IMPORTANT CONSISTENCY RULE:\n"
+    "If Description or Photograph read mentions a technical limitation, such\n"
+    "as whole-image blur, an indistinct main subject, or important detail\n"
+    "obscured by brightness or darkness, include that same limitation here.\n"
+    "Do not write \"None observed\" while describing such a limitation elsewhere.\n\n"
+    "Intent and observation are separate:\n"
+    "\"The entire image appears blurred; fine detail is not distinguishable\"\n"
+    "is a valid watch-out even when the blur might be artistic.\n"
+    "Do not omit an observation because its cause or intent is unknown.\n\n"
+    "Do not mistake ordinary background blur, a small bright sun disc, or\n"
+    "readable silhouettes for defects by themselves. Describe an actual\n"
+    "visible limitation, not merely the presence of blur or extreme tones.\n\n"
+    "If no clear limitation is visible, write \"None observed.\"\n"
+    "Do not give scores, overall good/bad verdicts, fixes, or follow-up questions.\n"
+    "Output only the four sections."
 )
 
 # Free tier is ~10-15 requests/minute; stay comfortably under that.
@@ -302,7 +284,37 @@ def _parse_retry_delay(resp: requests.Response) -> float | None:
     return None
 
 
-def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str, int]:
+class VisionDeadlineExceeded(requests.Timeout):
+    """The run's processing deadline has been reached."""
+
+
+def _timeout(deadline: float | None, seconds: float) -> float:
+    remaining = seconds if deadline is None else min(seconds, deadline - time.monotonic())
+    if remaining <= 0:
+        raise VisionDeadlineExceeded("Vision run time limit reached")
+    return remaining
+
+
+def fetch_image(image_url: str, deadline: float | None = None) -> tuple[str, str]:
+    try:
+        response = requests.get(image_url, timeout=_timeout(deadline, 30))
+        response.raise_for_status()
+        mime_type = response.headers.get("Content-Type", "image/jpeg").split(";")[0]
+        return mime_type, base64.b64encode(response.content).decode("ascii")
+    except VisionDeadlineExceeded:
+        raise
+    except requests.RequestException as exc:
+        raise ImageFetchError(str(exc)) from exc
+
+
+def describe_image(
+    image_url: str,
+    max_attempts: int | None = None,
+    *,
+    image_data: tuple[str, str] | None = None,
+    deadline: float | None = None,
+    honor_retry_deadlines: bool = False,
+) -> tuple[str, int]:
     """Returns (description, gemini_request_attempts). The attempt count
     includes every actual POST sent to Gemini this call, not just 1 -- a
     single photo can cost several real Gemini requests (429/5xx/timeout
@@ -321,22 +333,7 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     remaining MAX_VISION_REQUESTS_PER_RUN budget, since describe_images()
     only checks the budget *before* starting a photo, not mid-retry.
     """
-    try:
-        img_resp = requests.get(image_url, timeout=30)
-        img_resp.raise_for_status()
-        # Reading .content can itself raise a streaming-related
-        # RequestException (e.g. ChunkedEncodingError on a truncated body)
-        # -- keep it inside this try block so it's wrapped as ImageFetchError
-        # too, same as every other image-host failure, instead of escaping
-        # bare and being misclassified downstream as a Gemini-side failure.
-        mime_type = img_resp.headers.get("Content-Type", "image/jpeg").split(";")[0]
-        b64_data = base64.b64encode(img_resp.content).decode("ascii")
-    except requests.RequestException as exc:
-        # Keep image-fetch failures (stale/expired CDN URL, unrelated host
-        # down) distinct from Gemini-call failures -- they must never count
-        # toward the Gemini-outage circuit breaker in describe_images()
-        # (see ImageFetchError / _is_outage_signal below).
-        raise ImageFetchError(str(exc)) from exc
+    mime_type, b64_data = image_data if image_data is not None else fetch_image(image_url, deadline)
 
     body = {
         "contents": [
@@ -357,6 +354,15 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
     retries_429 = 0
     retries_transient = 0
     post_attempts = 0
+
+    def wait(delay: float, retry_at: float | None = None) -> None:
+        if deadline is not None and time.monotonic() + delay >= deadline:
+            exc = VisionDeadlineExceeded("Vision run time limit reached during Gemini retry")
+            exc.gemini_request_attempts = post_attempts
+            exc.retry_at = retry_at
+            raise exc
+        time.sleep(delay)
+
     # Beyond a plain Timeout/ConnectionError, an overloaded/misbehaving
     # backend can also manifest as a truncated or corrupted response body
     # (ChunkedEncodingError, ContentDecodingError) or a malformed JSON body
@@ -377,9 +383,14 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
         return max_attempts is not None and post_attempts >= max_attempts
 
     while True:
+        try:
+            timeout = _timeout(deadline, 60)
+        except VisionDeadlineExceeded as exc:
+            exc.gemini_request_attempts = post_attempts
+            raise
         post_attempts += 1
         try:
-            resp = requests.post(url, headers=headers, json=body, timeout=60)
+            resp = requests.post(url, headers=headers, json=body, timeout=timeout)
         except TRANSIENT_CONNECTION_ERRORS as exc:
             retries_transient += 1
             if retries_transient > MAX_TRANSIENT_RETRIES or _attempts_exhausted():
@@ -397,11 +408,14 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
                 f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                 flush=True,
             )
-            time.sleep(delay)
+            wait(delay)
             continue
 
         if resp.status_code == 429:
             delay = _parse_retry_delay(resp)
+            if honor_retry_deadlines:
+                delay = continuous.finite_seconds(delay)
+            retry_at = time.time() + delay if delay is not None and honor_retry_deadlines else None
             if delay is None:
                 # Gemini gave us no Retry-After/retryDelay to honor -- we'd just
                 # be guessing how long to wait, and a guessed delay has already
@@ -409,31 +423,37 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
                 # README). Fail fast instead of retrying blind.
                 err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded (no retry-after given)")
                 err.gemini_request_attempts = post_attempts
+                err.retry_at = retry_at
                 raise err
             if retries_429 >= MAX_429_RETRIES or _attempts_exhausted():
                 err = QuotaExceededError("Gemini free-tier daily/minute quota exceeded")
                 err.gemini_request_attempts = post_attempts
+                err.retry_at = retry_at
                 raise err
             retries_429 += 1
-            delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
+            if not honor_retry_deadlines:
+                delay = min(max(delay, 0.0), MAX_RETRY_DELAY_SECONDS)
             print(
                 f"  Gemini rate limit (429) -- retrying in {delay:.0f}s "
                 f"(attempt {retries_429}/{MAX_429_RETRIES})...",
                 flush=True,
             )
-            time.sleep(delay)
+            wait(delay, retry_at)
             continue
 
         if resp.status_code in TRANSIENT_STATUS_CODES:
             retries_transient += 1
             if retries_transient <= MAX_TRANSIENT_RETRIES and not _attempts_exhausted():
                 delay = _transient_retry_delay(retries_transient)
+                retry_at = continuous.retry_after(resp.headers) if honor_retry_deadlines else None
+                if retry_at is not None:
+                    delay = max(delay, retry_at - time.time())
                 print(
                     f"  Gemini server error ({resp.status_code}) -- retrying in "
                     f"{delay:.0f}s (attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                     flush=True,
                 )
-                time.sleep(delay)
+                wait(delay, retry_at)
                 continue
             # Retries exhausted -- fall through to raise_for_status() just
             # below, in this same iteration, so it raises the HTTPError for
@@ -444,6 +464,8 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
             resp.raise_for_status()
         except requests.HTTPError as exc:
             exc.gemini_request_attempts = post_attempts
+            if honor_retry_deadlines:
+                exc.retry_at = continuous.retry_after(resp.headers)
             raise
 
         try:
@@ -463,7 +485,7 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
                 f"(attempt {retries_transient}/{MAX_TRANSIENT_RETRIES})...",
                 flush=True,
             )
-            time.sleep(delay)
+            wait(delay)
             continue
 
         break
@@ -479,7 +501,7 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
             # description (which would render as permanently "pending" and
             # silently reset every circuit breaker every run).
             raise KeyError("empty text")
-    except (KeyError, IndexError):
+    except (KeyError, IndexError, TypeError, AttributeError):
         # promptFeedback.blockReason only ever appears on an actual block,
         # so it's safe to treat by plain truthiness. finishReason, however,
         # is present on *every* candidate including a normal, healthy
@@ -492,10 +514,14 @@ def describe_image(image_url: str, max_attempts: int | None = None) -> tuple[str
         # content block: permanently cached and silently resetting every
         # circuit breaker, instead of being retried/counted as the
         # potential systemic problem it actually is.
-        block_reason = data.get("promptFeedback", {}).get("blockReason")
+        body = data if isinstance(data, dict) else {}
+        feedback = body.get("promptFeedback")
+        block_reason = feedback.get("blockReason") if isinstance(feedback, dict) else None
         if not block_reason:
-            finish_reason = (data.get("candidates") or [{}])[0].get("finishReason")
-            if finish_reason in _BLOCKING_FINISH_REASONS:
+            candidates = body.get("candidates")
+            candidate = candidates[0] if isinstance(candidates, list) and candidates else {}
+            finish_reason = candidate.get("finishReason") if isinstance(candidate, dict) else None
+            if isinstance(finish_reason, str) and finish_reason in _BLOCKING_FINISH_REASONS:
                 block_reason = finish_reason
         if block_reason:
             # A genuine, content-specific safety/policy block -- Gemini
@@ -583,7 +609,7 @@ _TRUSTED_BLOCK_REASONS = _BLOCKING_FINISH_REASONS | {
 }
 
 
-def _is_stale_cached_placeholder(value: str) -> bool:
+def _is_stale_cached_placeholder(value: object) -> bool:
     """True for a cached "description" written by a now-fixed bug in a past
     version of describe_image()/describe_images() that should never be
     trusted as a real cache hit -- see the cases in describe_images()'s
@@ -600,7 +626,8 @@ def _is_stale_cached_placeholder(value: str) -> bool:
        that stopped new ones from being cached. A pre-existing empty
        entry would otherwise be trusted as a real cache hit forever.
     """
-    if not value:
+    value = description_text(value)
+    if not value or not value.strip():
         return True
     if value == NO_DESCRIPTION_TEXT:
         return True
@@ -626,7 +653,345 @@ def split_watch_outs(description: str | None) -> tuple[str | None, str]:
     if not match:
         return description, ""
     text = (description[:match.start()] + description[match.end():]).strip()
-    return text, " ".join(match.group(1).split())
+    notes = " ".join(match.group(1).split())
+    if re.fullmatch(r"none(?: observed)?\.?", notes, re.IGNORECASE):
+        notes = ""
+    return text, notes
+
+
+class OllamaResponseError(requests.RequestException):
+    """Local inference returned an unusable description."""
+
+
+class OllamaRefusalError(requests.RequestException):
+    """Local inference explicitly declined the request; do not bypass it."""
+
+
+_LOCAL_SECTIONS = re.compile(
+    r"\ADescription:[ \t]*(.+?)\nPhotograph read:[ \t]*(.+?)"
+    r"\nPhoto type:[ \t]*(.+?)\nWatch-outs:[ \t]*(.*?)\Z",
+    re.DOTALL,
+)
+_LOCAL_REFUSAL = re.compile(
+    r"\A(?:(?:(?:I'm |I am )?sorry|I apologi[sz]e|unfortunately|regrettably|"
+    r"As an AI(?: [^,\n.!?]+)?)[,.!:\s]+(?:(?:but|however)\s+)?)*"
+    r"(?:(?:I can ?not|I can't|I won't|I will not|I'm unable to|I am unable to|"
+    r"I am not (?:able|allowed|permitted) to|I'm not (?:able|allowed|permitted) to)"
+    r"\s+(?P<explanation>.*)|"
+    r"I (?:(?:must|have to|need to|am required to)\s+)?"
+    r"(?:(?:\w+ly)\s+){0,3}(?:refuse|decline)\b)",
+    re.IGNORECASE,
+)
+
+
+def _is_local_refusal(text: str) -> bool:
+    leading = re.sub(r"\ADescription:\s*", "", text, count=1, flags=re.IGNORECASE)
+    leading = re.split(r"\n(?:Photograph read|Photo type|Watch-outs):", leading, maxsplit=1)[0].strip()
+    match = _LOCAL_REFUSAL.match(leading)
+    if not match:
+        return False
+    explanation = match.group("explanation")
+    if explanation is None:
+        return True
+    if re.search(r"\b(?:polic(?:y|ies)|privacy|safety|restrictions?|guidelines)\b", explanation, re.IGNORECASE):
+        return True
+    return bool(re.match(
+        r"(?:(?:\w+ly|in good conscience)\s+){0,3}"
+        r"(?:comply|help|assist|provide|describe|analyze|analyse|process|fulfil|fulfill)\b",
+        explanation, re.IGNORECASE,
+    ))
+
+
+def describe_local(image_data: tuple[str, str], deadline: float) -> str:
+    with requests.Session() as session:
+        # Local image payloads must not inherit ambient proxies or credentials.
+        session.trust_env = False
+        response = session.post(
+            f"{config.OLLAMA_BASE_URL}/api/chat",
+            json={
+                "model": config.OLLAMA_MODEL,
+                "messages": [{"role": "user", "content": PROMPT, "images": [image_data[1]]}],
+                "stream": False,
+                "think": False,
+                "options": {"temperature": 0.2, "num_predict": 512, "num_ctx": config.OLLAMA_NUM_CTX},
+            },
+            timeout=(
+                _timeout(deadline, config.OLLAMA_CONNECT_TIMEOUT_SECONDS),
+                _timeout(deadline, config.OLLAMA_READ_TIMEOUT_SECONDS),
+            ),
+            allow_redirects=False,
+        )
+    response.raise_for_status()
+    if 300 <= response.status_code < 400:
+        raise requests.RequestException("Ollama redirects are not followed")
+    try:
+        data = response.json()
+        message = data.get("message", {})
+        if message.get("refusal"):
+            raise OllamaRefusalError("Ollama declined to describe this photo")
+        text = message.get("content", "").strip()
+        normalized = text.replace("\r\n", "\n").replace("\u2019", "'").replace("\u2018", "'")
+        match = _LOCAL_SECTIONS.fullmatch(normalized)
+        if _is_local_refusal(normalized):
+            raise OllamaRefusalError("Ollama declined to describe this photo")
+        if data.get("done") is not True or data.get("done_reason") == "length":
+            raise OllamaResponseError("Ollama description was incomplete")
+        if not match or not all(part.strip() for part in match.groups()[:3]):
+            raise OllamaResponseError("Ollama description missing expected sections")
+    except (ValueError, AttributeError, TypeError) as exc:
+        raise OllamaResponseError("Ollama response had an invalid shape") from exc
+    return text
+
+
+@dataclass
+class VisionRun:
+    """Provider budgets and breakers shared by every batch in one run."""
+
+    provider: str = field(default_factory=lambda: config.VISION_PROVIDER)
+    gemini_budget: int = field(default_factory=lambda: config.MAX_VISION_REQUESTS_PER_RUN)
+    local_budget: int = field(default_factory=lambda: config.MAX_LOCAL_VISION_REQUESTS_PER_RUN)
+    deadline: float = field(default_factory=lambda: time.monotonic() + config.VISION_RUN_TIMEOUT_SECONDS)
+    gemini_requests: int = 0
+    local_requests: int = 0
+    gemini_disabled: bool = False
+    local_disabled: bool = False
+    stop_calls: bool = False
+    transient_failures: int = 0
+    image_failures: int = 0
+    non_retryable_failures: int = 0
+    local_failures: int = 0
+    local_reason: str | None = None
+    cache_hits: set[str] = field(default_factory=set)
+    pending: set[str] = field(default_factory=set)
+    retry: object | None = None
+    eligible_unattempted: set[str] = field(default_factory=set)
+    last_failure: str | None = None
+    memory_guard: LocalMemoryGuard | None = None
+    memory_deferred: bool = False
+
+    def retry_key(self, provider: str) -> str:
+        model = config.OLLAMA_MODEL if provider == "ollama" else config.GEMINI_MODEL
+        endpoint = config.OLLAMA_BASE_URL if provider == "ollama" else GEMINI_URL_TMPL
+        return self.retry.provider_key(provider, model, endpoint)
+
+    def cooling(self, provider: str) -> bool:
+        if self.retry is None:
+            return False
+        key = "image_host" if provider == "image_host" else self.retry_key(provider)
+        return self.retry.cooling("providers", key)
+
+    def media_ready(self, media_id: str) -> bool:
+        return self.retry is None or not self.retry.cooling("media", media_id)
+
+    def fresh_available(self, media_id: str) -> bool:
+        if not self.media_ready(media_id) or self.cooling("image_host"):
+            return False
+        local = (
+            self.provider in {"auto", "ollama"} and self.local_budget > 0
+            and not self.cooling("ollama") and not self.memory_deferred
+        )
+        gemini = (
+            (self.provider == "gemini" or (self.provider == "auto" and bool(config.GEMINI_API_KEY)))
+            and self.gemini_budget > 0 and not self.cooling("gemini")
+        )
+        return local or gemini
+
+    def provider_failed(self, provider: str, exc, reason: str, *, quota=False) -> None:
+        if self.retry is not None:
+            response = getattr(exc, "response", None)
+            status = response.status_code if response is not None else None
+            configuration_error = status in (401, 403, 404)
+            if status == 400:
+                try:
+                    body = response.json()
+                except ValueError:
+                    body = {}
+                error = body.get("error", {}) if isinstance(body, dict) else {}
+                error = error if isinstance(error, dict) else {}
+                details = error.get("details", [])
+                reasons = {
+                    detail.get("reason") for detail in details
+                    if isinstance(detail, dict) and isinstance(detail.get("reason"), str)
+                } if isinstance(details, list) else set()
+                configuration_error = (
+                    error.get("status") == "FAILED_PRECONDITION"
+                    or bool(reasons & {
+                        "API_KEY_INVALID", "API_KEY_SERVICE_BLOCKED",
+                        "API_KEY_HTTP_REFERRER_BLOCKED", "API_KEY_IP_ADDRESS_BLOCKED",
+                        "SERVICE_DISABLED", "BILLING_DISABLED",
+                    })
+                )
+            if configuration_error:
+                raise continuous.CycleFailure(78, f"{provider}_configuration") from exc
+            self.last_failure = reason
+            if status == 400:
+                # Bad image/MIME inputs are per-photo failures, not revoked credentials.
+                return
+            hint = getattr(exc, "retry_at", None)
+            if hint is None and response is not None:
+                hint = continuous.retry_after(response.headers)
+            self.retry.fail("providers", self.retry_key(provider), reason, retry_at=hint, quota=quota)
+
+    def provider_succeeded(self, provider: str) -> None:
+        if self.retry is not None:
+            self.retry.success("providers", self.retry_key(provider))
+            self.retry.success("providers", "image_host")
+
+    def describe_retryable(self, media_id: str, image_url: str) -> tuple[str | None, dict | None]:
+        self.last_failure = None
+        text, entry = self.describe(image_url)
+        if entry is not None:
+            self.retry.success("media", media_id)
+            return text, entry
+        if self.last_failure is not None:
+            self.retry.fail("media", media_id, self.last_failure)
+        elif self.fresh_available(media_id):
+            self.eligible_unattempted.add(media_id)
+        # Keep transient failures stable in published output; causes stay private.
+        return None, None
+
+    def can_local(self) -> bool:
+        return (
+            self.provider in {"auto", "ollama"} and not self.local_disabled and not self.cooling("ollama")
+            and self.local_requests < self.local_budget
+        )
+
+    def can_gemini(self) -> bool:
+        return (
+            (self.provider == "gemini" or (self.provider == "auto" and bool(config.GEMINI_API_KEY)))
+            and not self.gemini_disabled and not self.cooling("gemini") and self.gemini_requests < self.gemini_budget
+        )
+
+    def stopped(self) -> bool:
+        return (
+            self.stop_calls or self.cooling("image_host") or time.monotonic() >= self.deadline
+            or not (self.can_local() or self.can_gemini())
+        )
+
+    def image_failed(self, exc: ImageFetchError) -> None:
+        if self.retry is not None:
+            self.last_failure = "image_fetch"
+        if _is_outage_signal(exc.__cause__ or exc):
+            self.image_failures += 1
+            if self.image_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
+                self.stop_calls = True
+                if self.retry is not None:
+                    self.retry.fail("providers", "image_host", "image_host_outage")
+                print("Photo host outage -- stopping new image requests for this run.", flush=True)
+
+    def describe(self, image_url: str) -> tuple[str | None, dict | None]:
+        image_data = None
+        fallback_reason = None
+        if self.can_local():
+            try:
+                image_data = fetch_image(image_url, self.deadline)
+            except ImageFetchError as exc:
+                self.image_failed(exc)
+                print(f"Photo download failed: {_sanitize(str(exc))}", flush=True)
+                return f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})", None
+            except VisionDeadlineExceeded:
+                self.stop_calls = True
+                return None, None
+            self.image_failures = 0
+            if self.memory_guard is None:
+                self.memory_guard = LocalMemoryGuard(self.retry)
+            if not self.memory_guard.ready(self.deadline):
+                self.memory_deferred = self.local_disabled = True
+                fallback_reason = self.local_reason = "ollama_memory_pressure"
+            else:
+                self.local_requests += 1
+                try:
+                    text = describe_local(image_data, self.deadline)
+                except OllamaRefusalError:
+                    self.local_failures = 0
+                    text = f"{DESCRIPTION_UNAVAILABLE_PREFIX} blocked by Ollama)"
+                    self.provider_succeeded("ollama")
+                    return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
+                except VisionDeadlineExceeded:
+                    self.stop_calls = True
+                    return None, None
+                except requests.RequestException as exc:
+                    self.local_failures += 1
+                    response = getattr(exc, "response", None)
+                    photo_error = self.retry is not None and response is not None and response.status_code == 400
+                    if isinstance(exc, OllamaResponseError) or photo_error:
+                        fallback_reason = "ollama_invalid_output"
+                        self.local_disabled = self.local_failures >= 3
+                    else:
+                        fallback_reason = "ollama_timeout" if isinstance(exc, requests.Timeout) else "ollama_unavailable"
+                        self.local_disabled = True
+                    self.local_reason = fallback_reason
+                    self.provider_failed("ollama", exc, fallback_reason)
+                    if photo_error and self.local_disabled:
+                        self.retry.fail("providers", self.retry_key("ollama"), "ollama_repeated_photo_error")
+                    print(f"Ollama failed ({fallback_reason}); trying Gemini if available.", flush=True)
+                else:
+                    self.local_failures = 0
+                    self.local_reason = None
+                    self.provider_succeeded("ollama")
+                    print(f"Vision: ollama / {config.OLLAMA_MODEL}", flush=True)
+                    return text, make_entry(text, "ollama", config.OLLAMA_MODEL)
+        elif self.provider == "auto":
+            fallback_reason = (
+                "ollama_cooldown" if self.cooling("ollama")
+                else self.local_reason if self.local_disabled else "ollama_budget_exhausted"
+            )
+
+        if not self.can_gemini() or time.monotonic() >= self.deadline:
+            return None, None
+        try:
+            kwargs = {"deadline": self.deadline}
+            if self.retry is not None:
+                kwargs["honor_retry_deadlines"] = True
+            if image_data is not None:
+                kwargs["image_data"] = image_data
+            text, attempts = describe_image(
+                image_url, max_attempts=self.gemini_budget - self.gemini_requests, **kwargs
+            )
+        except ImageFetchError as exc:
+            self.image_failed(exc)
+            print(f"Photo download failed: {_sanitize(str(exc))}", flush=True)
+            return f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})", None
+        except VisionDeadlineExceeded as exc:
+            self.gemini_requests += getattr(exc, "gemini_request_attempts", 0)
+            self.stop_calls = True
+            if getattr(exc, "gemini_request_attempts", 0) > 0:
+                self.provider_failed("gemini", exc, "gemini_retry_wait")
+            return None, None
+        except QuotaExceededError as exc:
+            self.gemini_requests += getattr(exc, "gemini_request_attempts", 1)
+            self.image_failures = 0
+            self.gemini_disabled = True
+            self.provider_failed("gemini", exc, "gemini_quota", quota=True)
+            print(f"{exc} -- Gemini disabled for this run; local vision can continue.", flush=True)
+            return None, None
+        except requests.RequestException as exc:
+            self.gemini_requests += getattr(exc, "gemini_request_attempts", 1)
+            self.image_failures = 0
+            self.provider_failed("gemini", exc, "gemini_failure")
+            if _is_outage_signal(exc):
+                self.transient_failures += 1
+                self.non_retryable_failures = 0
+                self.gemini_disabled = self.transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES
+            else:
+                self.transient_failures = 0
+                self.non_retryable_failures += 1
+                self.gemini_disabled = self.non_retryable_failures >= MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES
+                response = getattr(exc, "response", None)
+                if self.retry is not None and self.gemini_disabled and response is not None and response.status_code == 400:
+                    self.retry.fail("providers", self.retry_key("gemini"), "gemini_repeated_photo_error")
+            print(f"Gemini request failed: {_sanitize(str(exc))}", flush=True)
+            return f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})", None
+        else:
+            self.gemini_requests += attempts
+            self.transient_failures = self.image_failures = self.non_retryable_failures = 0
+            if not text or not text.strip():
+                if self.retry is not None:
+                    self.last_failure = "gemini_invalid_output"
+                return None, None
+            self.provider_succeeded("gemini")
+            print(f"Vision: gemini / {config.GEMINI_MODEL}; fallback={fallback_reason or 'none'}", flush=True)
+            return text, make_entry(text, "gemini", config.GEMINI_MODEL, fallback_reason)
 
 
 def describe_images(
@@ -639,49 +1004,23 @@ def describe_images(
     consecutive_image_fetch_failures: int = 0,
     consecutive_non_retryable_failures: int = 0,
     attempted_media_ids: dict[str, str | None] | None = None,
+    *,
+    state: VisionRun | None = None,
 ) -> tuple[int, bool, int, int, int]:
-    """Describes every uncached photo in each item in place, storing a
-    'photo_descriptions' list on the item (one entry per photo -- a
-    CAROUSEL_ALBUM can hold several, not just its cover image; see
-    threads_client.photo_items). A list entry is None if that specific photo
-    wasn't described this run (budget/quota/outage), which topic_graph.py
-    renders as a "pending" placeholder rather than silently dropping it.
+    """Attach description strings while retaining provenance in the cache.
 
-    `stop_calls`, if already True, means a previous call (this run) already
-    decided to stop issuing new Gemini requests (quota hit, a sustained
-    Gemini outage, a sustained image-host outage, or a sustained
-    non-retryable Gemini error such as a revoked API key -- see
-    MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES) -- every item is still walked so
-    photo_descriptions is set correctly, but no new network calls are
-    attempted. `consecutive_transient_failures`, `consecutive_image_fetch_failures`,
-    and `consecutive_non_retryable_failures` are the running streaks (see
-    _is_outage_signal and the MAX_CONSECUTIVE_*_FAILURES constants) from
-    prior calls this run, so any of the three circuit breakers can trip
-    even when a single batch alone never reaches its threshold (e.g.
-    main.py's root-photo batches are usually just one photo each). All five
-    are returned as (requests_made, stop_calls, consecutive_transient_failures,
-    consecutive_image_fetch_failures, consecutive_non_retryable_failures) so
-    the caller can carry them forward across its own multiple
-    describe_images() calls in the same run (see main.py) -- without this,
-    an outage/quota/auth failure detected on one batch wouldn't stop the
-    very next batch from trying fresh calls anyway.
-
-    `attempted_media_ids`, when supplied, tracks outcomes for photos already
-    attempted across batches/passes in one run. Repeated IDs reuse their
-    outcome rather than consuming more request budget; the next scheduled run
-    can retry failures.
-
-    `requests_made` counts actual Gemini POST attempts, not photos -- a
-    single photo can cost several real Gemini requests (429/5xx/timeout
-    retries inside describe_image()) before succeeding or giving up, and
-    each one counts against Gemini's real per-minute/per-day quota, so this
-    is what `max_requests` (MAX_VISION_REQUESTS_PER_RUN) is actually
-    budgeting against. `on_progress`, if given, is called after every single
-    new description so the caller can persist the cache immediately -- a
-    slow or interrupted run never loses
-    already-described photos.
+    The returned attempt count remains Gemini-only for existing callers.
+    Pass one VisionRun across batches to retain independent provider state.
     """
-    requests_made = 0
+    if state is None:
+        state = VisionRun(
+            gemini_budget=max_requests,
+            stop_calls=stop_calls,
+            transient_failures=consecutive_transient_failures,
+            image_failures=consecutive_image_fetch_failures,
+            non_retryable_failures=consecutive_non_retryable_failures,
+        )
+    before = state.gemini_requests
     if attempted_media_ids is None:
         attempted_media_ids = {}
 
@@ -707,148 +1046,39 @@ def describe_images(
                 # re-classified as a genuine block) on this run.
                 del cache[media_id]
             if media_id in cache:
-                descriptions.append(cache[media_id])
+                descriptions.append(description_text(cache[media_id]))
+                state.cache_hits.add(media_id)
+                if state.retry is not None:
+                    state.retry.success("media", media_id)
                 continue
             if media_id in attempted_media_ids:
                 descriptions.append(attempted_media_ids[media_id])
                 continue
-            if stop_calls or requests_made >= max_requests:
+            if not state.media_ready(media_id) or state.stopped():
                 # Leave as None (pending) -- topic_graph.py distinguishes
                 # this from "no photo" via the list entry existing at all.
                 descriptions.append(None)
+                state.pending.add(media_id)
+                if state.retry is not None and state.fresh_available(media_id):
+                    state.eligible_unattempted.add(media_id)
                 continue
 
             attempted_media_ids[media_id] = None
-            try:
-                description, attempts = describe_image(
-                    photo["media_url"], max_attempts=max(1, max_requests - requests_made)
-                )
-            except QuotaExceededError as exc:
-                # Don't abandon the whole batch silently: keep looping so
-                # later cache-hit items/photos still get their description,
-                # just stop making new network calls. This used to be a
-                # silent no-op from the caller's point of view (no print),
-                # which made "why is this photo still pending?" undiagnosable
-                # from run logs alone -- print once per describe_images() call
-                # so it's visible exactly when/why it happened.
-                requests_made += getattr(exc, "gemini_request_attempts", 1)
-                if not stop_calls:
-                    print(f"  {exc} -- remaining photos in this batch left pending.", flush=True)
-                stop_calls = True
-                descriptions.append(None)
-                continue
-            except requests.RequestException as exc:
-                # Do NOT cache failures -- a transient/auth error should be
-                # retried on the next run, not permanently "stuck" as a fake
-                # cached description. This survived in-process retries (see
-                # describe_image()), so it's worth a line in the run log --
-                # otherwise a run full of these is invisible until someone
-                # reads the committed markdown.
-                print(f"  Gemini request failed, giving up for this run: {_sanitize(str(exc))}", flush=True)
-                unavailable = f"{DESCRIPTION_UNAVAILABLE_PREFIX} {_sanitize(str(exc))})"
-                attempted_media_ids[media_id] = unavailable
-                descriptions.append(unavailable)
-                if isinstance(exc, ImageFetchError):
-                    # No Gemini call was ever attempted for this photo -- don't
-                    # charge it against this run's Gemini request budget, and
-                    # leave the Gemini outage streak untouched either way (a
-                    # single unrelated bad photo URL shouldn't erase a real
-                    # streak of Gemini failures bracketing it). Only count it
-                    # toward the *image-host* breaker if it actually looks like
-                    # the host is struggling (timeout/connection/5xx, via the
-                    # original exception preserved on __cause__) -- a
-                    # permanent per-photo failure (404/403, bad URL) recurs
-                    # identically every run since it's never cached, and would
-                    # otherwise permanently stop_calls every run forever even
-                    # though the image host is perfectly healthy.
-                    if _is_outage_signal(exc.__cause__ or exc):
-                        consecutive_image_fetch_failures += 1
-                        # A real outage signal of any kind (Gemini or image-host)
-                        # means the *previous* non-retryable Gemini streak (if any)
-                        # wasn't actually a sustained run of the same persistent
-                        # error -- it was interrupted by an unrelated outage, so
-                        # don't let it carry forward and eventually trip that
-                        # breaker on a non-consecutive sequence.
-                        consecutive_non_retryable_failures = 0
-                        if consecutive_image_fetch_failures >= MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES:
-                            print(
-                                f"  {consecutive_image_fetch_failures} consecutive photo-download "
-                                "failures -- treating as an image-host outage and stopping new "
-                                "requests for this run.",
-                                flush=True,
-                            )
-                            stop_calls = True
-                    else:
-                        # A permanent, unrelated-to-the-host failure (bad URL,
-                        # 404/403) -- the host itself is fine, so don't let it
-                        # count toward (or clear) the image-host outage streak.
-                        pass
-                    # No Gemini POST was ever attempted for this photo (the
-                    # image fetch failed before describe_image() could even
-                    # build one), so there's no Gemini rate limit to respect
-                    # here -- skip the inter-call throttle entirely instead of
-                    # burning 5 unnecessary seconds per broken/stale photo
-                    # URL (round 15B review finding: a backlog of stale CDN
-                    # URLs could otherwise slow a run by many minutes with no
-                    # quota/rate-limit benefit).
-                    continue
-                else:
-                    requests_made += getattr(exc, "gemini_request_attempts", 1)
-                    consecutive_image_fetch_failures = 0
-                    if _is_outage_signal(exc):
-                        consecutive_transient_failures += 1
-                        consecutive_non_retryable_failures = 0
-                        if consecutive_transient_failures >= MAX_CONSECUTIVE_TRANSIENT_FAILURES:
-                            # Gemini looks genuinely down, not just one flaky photo --
-                            # stop burning the rest of this run's budget/time on calls
-                            # that are very unlikely to succeed; remaining photos are
-                            # left pending for the next scheduled run instead.
-                            print(
-                                f"  {consecutive_transient_failures} consecutive Gemini outage-like "
-                                "failures -- treating as an outage and stopping new requests for this run.",
-                                flush=True,
-                            )
-                            stop_calls = True
-                    else:
-                        # A non-transient Gemini response (e.g. a 4xx that isn't
-                        # 429) is an affirmative "Gemini is responding, just not
-                        # retryably" signal -- unlike ImageFetchError, it's safe
-                        # (and correct) to let it clear the outage streak.
-                        consecutive_transient_failures = 0
-                        # But a *persistent* non-retryable error (e.g. a revoked
-                        # API key returning 401/403 on every call, or a retired
-                        # model name returning 400) is unbounded on its own --
-                        # it never looks like an "outage" so the breaker above
-                        # never trips, and it would otherwise burn the entire
-                        # run's budget one doomed call at a time. Track it with
-                        # its own independent streak/breaker.
-                        consecutive_non_retryable_failures += 1
-                        if consecutive_non_retryable_failures >= MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES:
-                            print(
-                                f"  {consecutive_non_retryable_failures} consecutive non-retryable Gemini "
-                                "errors (e.g. invalid API key/model) -- stopping new requests for this run.",
-                                flush=True,
-                            )
-                            stop_calls = True
-                time.sleep(MIN_SECONDS_BETWEEN_CALLS)
-                continue
-
-            if description:
-                # Defense in depth: describe_image() should never return a
-                # falsy "success" (an empty/whitespace-only description is
-                # now rejected there too), but never cache one here either
-                # if it somehow did -- caching "" would be a permanent,
-                # unrecoverable false "pending" forever (see the empty-text
-                # finding this guards against).
-                cache[media_id] = description
+            before_photo = state.gemini_requests
+            if state.retry is None:
+                description, entry = state.describe(photo["media_url"])
+            else:
+                description, entry = state.describe_retryable(media_id, photo["media_url"])
+            attempted_media_ids[media_id] = description
+            if entry is not None:
+                cache[media_id] = entry
             descriptions.append(description)
-            if on_progress is not None:
+            if description is None:
+                state.pending.add(media_id)
+            if entry is not None and on_progress is not None:
                 on_progress()
-            requests_made += attempts
-            consecutive_transient_failures = 0
-            consecutive_image_fetch_failures = 0
-            consecutive_non_retryable_failures = 0
-            time.sleep(MIN_SECONDS_BETWEEN_CALLS)
+            if state.gemini_requests > before_photo:
+                time.sleep(min(MIN_SECONDS_BETWEEN_CALLS, max(0, state.deadline - time.monotonic())))
 
         parsed = [split_watch_outs(description) for description in descriptions]
         item["photo_descriptions"] = [description for description, _ in parsed]
@@ -859,9 +1089,9 @@ def describe_images(
             item.pop("watch_outs", None)
 
     return (
-        requests_made,
-        stop_calls,
-        consecutive_transient_failures,
-        consecutive_image_fetch_failures,
-        consecutive_non_retryable_failures,
+        state.gemini_requests - before,
+        state.stopped(),
+        state.transient_failures,
+        state.image_failures,
+        state.non_retryable_failures,
     )

@@ -1,12 +1,50 @@
+import json
 import tempfile
+import time
 import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
 
-from src import cache as media_cache, vision
+from src import cache as media_cache, vision, continuous, local_memory
+from src.vision_retry import VisionRetry
+
+
+PHOTO_DESCRIPTION = (
+    "Description: A mountain at sunrise.\n"
+    "Photograph read: Warm side light emphasizes the ridges.\n"
+    "Photo type: Artistic landscape.\n"
+    "Watch-outs:"
+)
+
+
+def response(status=200, data=None, headers=None):
+    result = vision.requests.Response()
+    result.status_code = status
+    result.headers.update(headers or {})
+    result.url = "https://example.com/api"
+    result._content = b"photo"
+    if data is not None:
+        import json
+        result._content = json.dumps(data).encode()
+    return result
+
+
+def local_response(text=PHOTO_DESCRIPTION, **kwargs):
+    return response(data={"message": {"content": text}, "done": True, **kwargs})
+
+
+def gemini_response(text=PHOTO_DESCRIPTION):
+    return response(data={"candidates": [{"content": {"parts": [{"text": text}]}}]})
+
+
+def photo(media_id="photo"):
+    return {"id": media_id, "media_type": "IMAGE", "media_url": "https://example.com/photo.jpg"}
 
 
 class VisionPromptTests(unittest.TestCase):
+    def setUp(self):
+        self.enterContext(patch.object(vision.config, "VISION_PROVIDER", "gemini"))
+
     @patch.object(vision.requests, "post")
     @patch.object(vision.requests, "get")
     def test_request_includes_watch_outs_and_preserves_response(self, get, post):
@@ -28,16 +66,7 @@ class VisionPromptTests(unittest.TestCase):
         description, attempts = vision.describe_image("https://example.com/photo.jpg")
 
         prompt = post.call_args.kwargs["json"]["contents"][0]["parts"][0]["text"]
-        self.assertIn("Description:", prompt)
-        self.assertIn("Photograph read:", prompt)
-        self.assertIn("Photo type:", prompt)
-        self.assertIn("Watch-outs:", prompt)
-        self.assertIn("Empty is a valid and common value", prompt)
-        self.assertIn("one or two short clauses of observable facts only", prompt)
-        self.assertIn("no scores, grades, overall verdicts, praise, blame", prompt)
-        self.assertIn("intent cannot be determined from the image", prompt)
-        self.assertIn("snapshot, artistic, documentary, or storytelling", prompt)
-        self.assertIn("composition, light, and mood", prompt)
+        self.assertEqual(prompt, vision.PROMPT)
         self.assertEqual(description, text)
         self.assertEqual(attempts, 1)
         post.assert_called_once()
@@ -58,6 +87,21 @@ class VisionPromptTests(unittest.TestCase):
             with self.subTest(raw=raw):
                 self.assertEqual(vision.split_watch_outs(raw), (description, notes))
 
+    def test_no_concern_markers_are_not_watch_outs_but_observations_are_preserved(self):
+        for raw, expected in [
+            ("None observed.", ""),
+            ("  NONE OBSERVED \r\n", ""),
+            ("None.", ""),
+            ("None observed in the sky; the subject is blurred.",
+             "None observed in the sky; the subject is blurred."),
+        ]:
+            with self.subTest(raw=raw):
+                description = f"Description: A mountain.\nWatch-outs: {raw}"
+                self.assertEqual(
+                    vision.split_watch_outs(description),
+                    ("Description: A mountain.", expected),
+                )
+
     @patch.object(vision.time, "sleep")
     @patch.object(vision, "describe_image")
     def test_watch_outs_survive_cache_round_trip_and_keep_carousel_alignment(self, describe_image, sleep):
@@ -72,7 +116,7 @@ class VisionPromptTests(unittest.TestCase):
                 for media_id in ("legacy", "sun", "empty", "pending")
             ]},
         }
-        cache = {"legacy": legacy, "empty": "Description: A lake.\nWatch-outs:"}
+        cache = {"legacy": legacy, "empty": "Description: A lake.\nWatch-outs: None observed."}
         with tempfile.TemporaryDirectory() as directory:
             with patch.object(media_cache, "CACHE_PATH", Path(directory) / "cache.json"):
                 result = vision.describe_images(
@@ -84,7 +128,8 @@ class VisionPromptTests(unittest.TestCase):
 
         self.assertEqual(result[0], 1)
         self.assertEqual(cached_result[0], 0)
-        self.assertEqual(restored["sun"], raw)
+        self.assertEqual(media_cache.description_text(restored["sun"]), raw)
+        self.assertEqual(restored["sun"]["provider"], "gemini")
         self.assertEqual(item["photo_descriptions"], [legacy, "Description: Sun over water.", "Description: A lake.", None])
         self.assertEqual(item["watch_outs"], ["", "Sun disc clipped; flare streaks.", "", ""])
         self.assertEqual(cached_item, item)
@@ -92,7 +137,7 @@ class VisionPromptTests(unittest.TestCase):
 
     @patch.object(vision, "describe_image")
     def test_legacy_and_pending_photos_do_not_gain_watch_outs(self, describe_image):
-        for cache in ({}, {"photo": "A mountain."}):
+        for cache in ({}, {"photo": "A mountain."}, {"photo": PHOTO_DESCRIPTION + "None observed."}):
             with self.subTest(cache=cache):
                 item = {
                     "id": "photo", "media_type": "IMAGE",
@@ -136,5 +181,668 @@ class VisionPromptTests(unittest.TestCase):
         describe_image.assert_called_once()
 
 
+class LocalVisionTests(unittest.TestCase):
+    def setUp(self):
+        self.memory = self.enterContext(patch.object(vision.LocalMemoryGuard, "ready", return_value=True))
+        patches = [
+            patch.object(vision.config, "GEMINI_API_KEY", "test-key"),
+            patch.object(vision.config, "OLLAMA_MODEL", "qwen3-vl:4b"),
+            patch.object(vision.time, "sleep"),
+            patch.object(vision.requests, "get", return_value=response(headers={"Content-Type": "image/jpeg"})),
+            patch.object(vision.requests, "post"),
+        ]
+        self.mocks = [self.enterContext(patcher) for patcher in patches]
+        _, _, self.sleep, self.get, self.post = self.mocks
+        self.enterContext(patch.object(
+            vision.requests.Session, "post",
+            side_effect=lambda *args, **kwargs: self.post(*args, **kwargs),
+        ))
+        self.cache = {}
+        self.attempted = {}
+        self.state = vision.VisionRun(provider="auto", gemini_budget=10, local_budget=10)
+
+    def describe(self, media_id="photo"):
+        item = photo(media_id)
+        result = vision.describe_images(
+            [item], self.cache, 10, state=self.state,
+            attempted_media_ids=self.attempted,
+        )
+        return item, result
+
+    def test_local_success_records_provenance_and_reuses_cache_without_cloud_key(self):
+        self.post.return_value = local_response()
+        with patch.object(vision.config, "GEMINI_API_KEY", ""):
+            item, result = self.describe()
+            entry = dict(self.cache["photo"])
+            self.describe()
+        self.assertEqual(result[0], 0)
+        self.assertEqual(item["photo_descriptions"], [PHOTO_DESCRIPTION.rsplit("\nWatch-outs:", 1)[0]])
+        self.assertEqual(entry["provider"], "ollama")
+        self.assertEqual(entry["model"], "qwen3-vl:4b")
+        self.assertTrue(entry["described_at"].endswith("Z"))
+        self.assertIsNone(entry["fallback_reason"])
+        self.assertEqual(self.cache["photo"], entry)
+        self.assertEqual(self.state.local_requests, 1)
+        self.assertEqual(self.state.gemini_requests, 0)
+        self.get.assert_called_once()
+        self.post.assert_called_once()
+        body = self.post.call_args.kwargs["json"]
+        self.assertEqual(body["messages"][0]["images"], ["cGhvdG8="])
+        self.assertEqual(body["messages"][0]["content"], vision.PROMPT)
+        self.assertFalse(body["stream"])
+        self.assertIs(body["think"], False)
+        self.assertEqual(body["options"]["num_ctx"], vision.config.OLLAMA_NUM_CTX)
+        self.sleep.assert_not_called()
+
+    def test_local_failures_fall_back_using_one_download_and_actual_provider(self):
+        cases = [
+            (vision.requests.Timeout("private exception text"), "ollama_timeout"),
+            (vision.requests.ConnectionError("private exception text"), "ollama_unavailable"),
+            (response(404), "ollama_unavailable"),
+            (local_response(""), "ollama_invalid_output"),
+            (local_response(done_reason="length"), "ollama_invalid_output"),
+            (response(data={"message": None}), "ollama_invalid_output"),
+        ]
+        for failure, reason in cases:
+            with self.subTest(reason=reason, failure=failure):
+                self.state = vision.VisionRun(provider="auto")
+                self.cache, self.attempted = {}, {}
+                self.get.reset_mock()
+                self.post.reset_mock()
+                self.post.side_effect = [failure, gemini_response()]
+                _, result = self.describe()
+                entry = self.cache["photo"]
+                self.assertEqual(entry["provider"], "gemini")
+                self.assertEqual(entry["model"], vision.config.GEMINI_MODEL)
+                self.assertEqual(entry["fallback_reason"], reason)
+                self.assertNotIn("private exception", str(entry))
+                self.assertEqual(result[0], 1)
+                self.get.assert_called_once()
+                calls = self.post.call_args_list
+                self.assertEqual(
+                    calls[0].kwargs["json"]["messages"][0]["images"][0],
+                    calls[1].kwargs["json"]["contents"][0]["parts"][1]["inline_data"]["data"],
+                )
+
+    def test_unavailable_local_endpoint_is_not_retried_in_later_batches(self):
+        self.post.side_effect = [
+            vision.requests.ConnectionError(), gemini_response(), gemini_response(),
+        ]
+        self.describe("first")
+        self.describe("second")
+        self.assertEqual(self.state.local_requests, 1)
+        self.assertEqual(self.state.gemini_requests, 2)
+        self.assertEqual(self.cache["second"]["fallback_reason"], "ollama_unavailable")
+
+    def test_gemini_quota_does_not_stop_later_local_success(self):
+        self.post.side_effect = [local_response("invalid"), response(429), local_response()]
+        first, result = self.describe("first")
+        self.assertFalse(result[1])
+        self.assertEqual(first["photo_descriptions"], [None])
+        self.describe("second")
+        self.assertTrue(self.state.gemini_disabled)
+        self.assertEqual(self.state.gemini_requests, 1)
+        self.assertEqual(self.cache["second"]["provider"], "ollama")
+        self.assertNotIn("first", self.cache)
+
+    def test_separate_budgets_allow_the_other_provider_to_continue(self):
+        self.state.gemini_budget = 0
+        self.post.return_value = local_response()
+        self.describe("local")
+        self.assertEqual(self.cache["local"]["provider"], "ollama")
+        self.state.local_budget = self.state.local_requests
+        self.state.gemini_budget = 1
+        self.post.return_value = gemini_response()
+        self.describe("cloud")
+        self.assertEqual(self.cache["cloud"]["fallback_reason"], "ollama_budget_exhausted")
+        self.assertEqual((self.state.local_requests, self.state.gemini_requests), (1, 1))
+
+    def test_local_success_does_not_reset_gemini_failure_streak(self):
+        self.state.local_budget = 20
+        error = vision.requests.HTTPError(response=response(403))
+        with patch.object(vision, "describe_local") as local, patch.object(vision, "describe_image") as gemini:
+            local.side_effect = [
+                outcome for _ in range(5)
+                for outcome in (vision.OllamaResponseError(), PHOTO_DESCRIPTION)
+            ]
+            gemini.side_effect = error
+            for index in range(10):
+                self.describe(str(index))
+        self.assertEqual(self.state.non_retryable_failures, 5)
+        self.assertTrue(self.state.gemini_disabled)
+        self.assertFalse(self.state.stopped())
+        self.assertEqual(self.cache["9"]["provider"], "ollama")
+
+    def test_image_download_failure_calls_neither_provider_and_is_retryable(self):
+        self.get.side_effect = vision.requests.ConnectionError("url?access_token=secret")
+        item, _ = self.describe()
+        self.assertIn(vision.DESCRIPTION_UNAVAILABLE_PREFIX, item["photo_descriptions"][0])
+        self.assertEqual(self.cache, {})
+        self.assertEqual((self.state.local_requests, self.state.gemini_requests), (0, 0))
+        self.describe()
+        self.get.assert_called_once()
+        self.post.assert_not_called()
+
+    def test_source_host_outage_breaker_is_shared_across_batches(self):
+        self.get.side_effect = vision.requests.ConnectionError()
+        for index in range(7):
+            self.describe(str(index))
+        self.assertEqual(self.get.call_count, vision.MAX_CONSECUTIVE_IMAGE_FETCH_FAILURES)
+        self.assertTrue(self.state.stopped())
+        self.post.assert_not_called()
+
+    def test_local_only_failure_never_calls_cloud_or_caches_error(self):
+        self.state.provider = "ollama"
+        self.post.side_effect = vision.requests.Timeout()
+        item, result = self.describe()
+        self.assertEqual(item["photo_descriptions"], [None])
+        self.assertTrue(result[1])
+        self.assertEqual(self.cache, {})
+        self.post.assert_called_once()
+
+    def test_explicit_local_refusal_is_not_bypassed_and_is_attributed(self):
+        self.post.return_value = local_response("I cannot describe this image.")
+        item, _ = self.describe()
+        self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+        self.assertEqual(self.cache["photo"]["provider"], "ollama")
+        self.assertEqual(self.state.gemini_requests, 0)
+        self.post.assert_called_once()
+
+    def test_valid_photograph_read_disclaimer_is_not_a_refusal(self):
+        text = PHOTO_DESCRIPTION.replace(
+            "Warm side light emphasizes the ridges.",
+            "I cannot provide exact camera settings, but warm side light emphasizes the ridges.",
+        )
+        self.post.return_value = local_response(text)
+        item, _ = self.describe()
+        self.assertEqual(self.cache["photo"]["description"], text)
+        self.assertNotIn("blocked by", item["photo_descriptions"][0])
+        self.assertEqual(self.state.gemini_requests, 0)
+
+    def test_quoted_refusal_like_text_in_image_description_is_not_a_refusal(self):
+        text = PHOTO_DESCRIPTION.replace(
+            "A mountain at sunrise.",
+            'A screenshot of a post whose caption reads "I can\'t help laughing at my cat."',
+        )
+        self.post.return_value = local_response(text)
+        item, _ = self.describe()
+        self.assertEqual(self.cache["photo"]["description"], text)
+        self.assertNotIn("blocked by", item["photo_descriptions"][0])
+        self.assertEqual(self.state.gemini_requests, 0)
+
+    def test_policy_refusal_variants_never_fall_back_to_gemini(self):
+        texts = (
+            "Sorry, I cannot comply with this request due to content policy.",
+            "I can\u2019t describe this image due to safety restrictions.",
+            "I cannot safely describe this image due to content policy.",
+            "Sorry, but I cannot ethically assist with this request.",
+            "I apologize, but I cannot describe this image.",
+            "Unfortunately, I can't help with this request.",
+            "I can not describe this image.",
+            "I must refuse to describe this image due to content policy.",
+            "I'm sorry, but I can't identify the person in this image due to privacy restrictions.",
+            "As an AI language model, I cannot tell who is pictured due to privacy restrictions.",
+            "I have to decline this request.",
+            "Description: I cannot describe this image due to content policy.",
+            "Description: I cannot describe this image due to content policy.\n"
+            "Photograph read:\nPhoto type:\nWatch-outs:",
+            "I'm unable to help with this request.",
+            PHOTO_DESCRIPTION.replace(
+                "A mountain at sunrise.", "I cannot comply with this request due to content policy.",
+            ),
+        )
+        for index, text in enumerate(texts):
+            with self.subTest(text=text):
+                self.state = vision.VisionRun(provider="auto")
+                self.post.reset_mock()
+                self.post.return_value = local_response(text)
+                item, _ = self.describe(str(index))
+                self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+                self.assertEqual(self.state.gemini_requests, 0)
+                self.post.assert_called_once()
+
+    def test_explicit_refusal_field_is_respected_even_with_valid_sections(self):
+        for index, content in enumerate((PHOTO_DESCRIPTION, None)):
+            with self.subTest(content=content):
+                self.post.return_value = response(data={
+                    "message": {"content": content, "refusal": "Content policy"},
+                    "done": True,
+                })
+                item, _ = self.describe(str(index))
+                self.assertIn("blocked by Ollama", item["photo_descriptions"][0])
+                self.assertEqual(self.state.gemini_requests, 0)
+
+    def test_recovered_local_error_does_not_mislabel_budget_fallback(self):
+        self.state.local_budget = 2
+        self.post.side_effect = [
+            local_response("invalid"), gemini_response(),
+            local_response(), gemini_response(),
+        ]
+        self.describe("failed-local")
+        self.describe("successful-local")
+        self.describe("budget-fallback")
+        self.assertEqual(self.cache["failed-local"]["fallback_reason"], "ollama_invalid_output")
+        self.assertIsNone(self.cache["successful-local"]["fallback_reason"])
+        self.assertEqual(self.cache["budget-fallback"]["fallback_reason"], "ollama_budget_exhausted")
+
+    def test_deadline_leaves_uncached_photos_pending_but_reads_cached_records(self):
+        self.state.deadline = time.monotonic() - 1
+        self.cache["cached"] = media_cache.make_entry(PHOTO_DESCRIPTION, "ollama", "qwen3-vl:4b")
+        item, result = self.describe("uncached")
+        self.describe("cached")
+        self.assertTrue(result[1])
+        self.assertEqual(item["photo_descriptions"], [None])
+        self.get.assert_not_called()
+        self.post.assert_not_called()
+
+    def test_gemini_retries_count_against_budget_without_redownloading(self):
+        self.state.provider = "gemini"
+        self.state.gemini_budget = 2
+        self.post.side_effect = [response(429, headers={"Retry-After": "0"}), gemini_response()]
+        _, result = self.describe()
+        self.assertEqual(result[0], 2)
+        self.assertEqual(self.state.gemini_requests, 2)
+        self.get.assert_called_once()
+        self.assertIsNone(self.cache["photo"]["fallback_reason"])
+
+    def test_gemini_retry_wait_cannot_exceed_run_deadline(self):
+        self.post.return_value = response(503)
+        with patch.object(vision.time, "monotonic", return_value=90):
+            with self.assertRaises(vision.VisionDeadlineExceeded) as caught:
+                vision.describe_image("https://example.com/photo.jpg", deadline=100)
+        self.assertEqual(caught.exception.gemini_request_attempts, 1)
+        self.sleep.assert_not_called()
+
+    def test_mixed_cache_preserves_legacy_and_heals_invalid_structured_entries(self):
+        self.cache.update({
+            "legacy": "A mountain.",
+            "old-bug": {"description": vision.NO_DESCRIPTION_TEXT, "provider": "gemini"},
+        })
+        self.post.return_value = local_response()
+        self.describe("legacy")
+        self.describe("old-bug")
+        self.assertEqual(self.cache["legacy"], "A mountain.")
+        self.assertEqual(self.cache["old-bug"]["provider"], "ollama")
+        self.post.assert_called_once()
+
+    def test_description_is_saved_before_gemini_throttle(self):
+        self.state.provider = "gemini"
+        self.post.return_value = gemini_response()
+        progress = Mock()
+        self.sleep.side_effect = lambda _: self.assertTrue(progress.called)
+        vision.describe_images(
+            [photo()], self.cache, 10, state=self.state, on_progress=progress,
+        )
+        self.assertEqual(self.cache["photo"]["provider"], "gemini")
+        progress.assert_called_once()
+
+    def test_gemini_malformed_shape_is_uncached_and_explicit_block_is_attributed(self):
+        self.state.provider = "gemini"
+        self.post.side_effect = [
+            response(data={"candidates": None}),
+            response(data={"promptFeedback": {"blockReason": "SAFETY"}}),
+        ]
+        item, _ = self.describe("malformed")
+        self.assertNotIn("malformed", self.cache)
+        self.assertIn(vision.DESCRIPTION_UNAVAILABLE_PREFIX, item["photo_descriptions"][0])
+        self.describe("blocked")
+        self.assertEqual(self.cache["blocked"]["provider"], "gemini")
+        self.assertIn("blocked by Gemini", self.cache["blocked"]["description"])
+
+    def test_both_provider_breakers_leave_remaining_photos_retryable(self):
+        self.post.side_effect = lambda url, **_: (
+            local_response("invalid") if url.endswith("/api/chat") else response(403)
+        )
+        for index in range(7):
+            self.describe(str(index))
+        self.assertEqual(self.state.local_requests, 3)
+        self.assertEqual(self.state.gemini_requests, 5)
+        self.assertTrue(self.state.stopped())
+        self.assertEqual(self.cache, {})
+
+
+class LocalTransportTests(unittest.TestCase):
+    def test_local_transport_bypasses_proxies_and_disables_thinking_and_redirects(self):
+        with patch.dict(os.environ, {
+            "HTTP_PROXY": "http://proxy.example.invalid:8080",
+            "HTTPS_PROXY": "http://proxy.example.invalid:8080",
+            "ALL_PROXY": "http://proxy.example.invalid:8080",
+            "NO_PROXY": "",
+        }), patch.object(vision.requests.Session, "send", return_value=local_response()) as send:
+            text = vision.describe_local(("image/jpeg", "cGhvdG8="), time.monotonic() + 10)
+        self.assertEqual(text, PHOTO_DESCRIPTION)
+        self.assertEqual(send.call_args.kwargs["proxies"], {})
+        self.assertFalse(send.call_args.kwargs["allow_redirects"])
+
+
+class VisionConfigTests(unittest.TestCase):
+    def test_provider_modes_enforce_only_required_keys(self):
+        with patch.object(vision.config, "GEMINI_API_KEY", ""):
+            for mode in ("ollama", "auto"):
+                with patch.object(vision.config, "VISION_PROVIDER", mode):
+                    vision.config.validate_vision()
+            with patch.object(vision.config, "VISION_PROVIDER", "gemini"):
+                with self.assertRaisesRegex(RuntimeError, "GEMINI_API_KEY"):
+                    vision.config.validate_vision()
+        with patch.object(vision.config, "VISION_PROVIDER", "typo"):
+            with self.assertRaises(ValueError):
+                vision.config.validate_vision()
+
+    def test_local_memory_and_context_configuration_limits(self):
+        with patch.object(vision.config, "VISION_PROVIDER", "ollama"):
+            for name, value in (
+                ("OLLAMA_NUM_CTX", 0), ("OLLAMA_NUM_CTX", 8193),
+                ("OLLAMA_MIN_AVAILABLE_MEMORY_MIB", -1),
+            ):
+                with self.subTest(name=name, value=value), patch.object(vision.config, name, value):
+                    with self.assertRaisesRegex(ValueError, name):
+                        vision.config.validate_vision()
+            with patch.object(vision.config, "OLLAMA_MIN_AVAILABLE_MEMORY_MIB", 0):
+                vision.config.validate_vision()
+
+
+class LocalMemoryTests(unittest.TestCase):
+    def setUp(self):
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.path = Path(self.directory) / "retry.json"
+        self.enterContext(patch.object(local_memory.config, "OLLAMA_MIN_AVAILABLE_MEMORY_MIB", 6144))
+        self.real_supported = local_memory.supported
+        self.read_snapshot = local_memory.snapshot
+        self.supported = self.enterContext(patch.object(local_memory, "supported", return_value=True))
+        self.sample = self.enterContext(patch.object(local_memory, "snapshot", return_value=self.memory(8192)))
+        self.sleep = self.enterContext(patch.object(local_memory.time, "sleep"))
+        self.enterContext(patch.object(local_memory.time, "monotonic", return_value=100))
+        self.now = 1000
+        self.enterContext(patch.object(local_memory.time, "time", side_effect=lambda: self.now))
+        self.log = self.enterContext(patch("builtins.print"))
+
+    @staticmethod
+    def memory(available, swap_free=0):
+        return {
+            "MemTotal": 32768 * 1024, "MemAvailable": available * 1024,
+            "SwapTotal": 8192 * 1024, "SwapFree": swap_free * 1024,
+        }
+
+    def guard(self):
+        return local_memory.LocalMemoryGuard(VisionRetry(self.path))
+
+    def test_healthy_headroom_ignores_old_swap_use_and_transient_pressure_recovers(self):
+        self.assertTrue(self.guard().ready(200))
+        self.sleep.assert_not_called()
+        self.sample.side_effect = [self.memory(2048), self.memory(6144)]
+        self.assertTrue(self.guard().ready(200))
+        self.sleep.assert_called_once_with(5)
+        self.log.assert_not_called()
+        self.assertFalse(self.path.exists())
+
+    def test_sustained_pressure_defers_and_warnings_are_limited_across_reload_and_prune(self):
+        self.sample.return_value = self.memory(2048, 120)
+        self.assertFalse(self.guard().ready(200))
+        self.assertIn("swap_free=120/8192MiB", self.log.call_args.args[0])
+        self.now += 300
+        state = VisionRetry(self.path)
+        state.prune(set())
+        self.assertFalse(local_memory.LocalMemoryGuard(state).ready(200))
+        self.log.assert_called_once()
+        self.now += 600
+        self.assertFalse(self.guard().ready(200))
+        self.assertEqual(self.log.call_count, 2)
+
+    def test_deadline_does_not_wait_or_admit_low_memory_request(self):
+        self.sample.return_value = self.memory(2048)
+        self.assertFalse(self.guard().ready(104))
+        self.sleep.assert_not_called()
+        self.sample.assert_called_once()
+
+    def test_unavailable_metrics_defer_local_inference_without_raw_exception_text(self):
+        for error in (PermissionError("private path"), ValueError("private data")):
+            with self.subTest(error=type(error)):
+                self.sample.side_effect = error
+                self.assertFalse(local_memory.LocalMemoryGuard().ready(200))
+                self.assertIn("metrics unavailable", self.log.call_args.args[0])
+                self.assertNotIn("private", self.log.call_args.args[0])
+
+    def test_host_guard_only_applies_to_linux_loopback_and_can_be_disabled(self):
+        for platform, url, minimum, expected in (
+            ("linux", "http://127.0.0.1:11434", 6144, True),
+            ("linux", "http://127.0.0.2:11434", 6144, True),
+            ("linux", "http://[::1]:11434", 6144, True),
+            ("linux", "http://localhost:11434", 6144, True),
+            ("linux", "http://192.0.2.1:11434", 6144, False),
+            ("linux", "https://remote.example", 6144, False),
+            ("win32", "http://localhost:11434", 6144, False),
+            ("linux", "http://localhost:11434", 0, False),
+        ):
+            with self.subTest(platform=platform, url=url, minimum=minimum), patch.object(
+                local_memory.sys, "platform", platform,
+            ), patch.multiple(local_memory.config, OLLAMA_BASE_URL=url, OLLAMA_MIN_AVAILABLE_MEMORY_MIB=minimum):
+                self.assertEqual(self.real_supported(), expected)
+                if not expected:
+                    self.supported.return_value = False
+                    self.assertTrue(self.guard().ready(200))
+        self.sample.assert_not_called()
+
+    def test_snapshot_uses_available_not_free_and_rejects_bad_counters(self):
+        text = "MemTotal: 32768000 kB\nMemFree: 1 kB\nMemAvailable: 8192000 kB\nSwapTotal: 8388608 kB\nSwapFree: 0 kB\n"
+        with patch.object(Path, "read_text", return_value=text):
+            self.assertEqual(self.read_snapshot()["MemAvailable"], 8192000)
+        for invalid in (
+            text.replace("MemAvailable: 8192000 kB\n", ""),
+            text.replace("8192000 kB", "-1 kB"),
+            text.replace("8192000 kB", "999999999 kB"),
+            text.replace("8192000 kB", "8192000 MB"),
+            text.replace("SwapFree: 0", "SwapFree: 999999999"),
+        ):
+            with self.subTest(invalid=invalid), patch.object(Path, "read_text", return_value=invalid):
+                with self.assertRaises(ValueError):
+                    self.read_snapshot()
+
+    def test_corrupt_persisted_warning_state_fails_closed(self):
+        for value in (True, "1000", -1, float("nan")):
+            with self.subTest(value=value):
+                self.path.write_text(
+                    '{"version":1,"providers":{},"media":{},"local_memory_warning_at":'
+                    + json.dumps(value) + "}",
+                )
+                with self.assertRaises(ValueError):
+                    VisionRetry(self.path)
+
+
+class ContinuousVisionTests(unittest.TestCase):
+    def setUp(self):
+        self.memory = self.enterContext(patch.object(vision.LocalMemoryGuard, "ready", return_value=True))
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.path = Path(self.directory) / "retry.json"
+        self.now = 1000
+        self.enterContext(patch.object(vision.time, "time", side_effect=lambda: self.now))
+        self.enterContext(patch.object(vision.time, "sleep"))
+        self.enterContext(patch.multiple(
+            vision.config, VISION_PROVIDER="auto", GEMINI_API_KEY="private",
+            MAX_LOCAL_VISION_REQUESTS_PER_RUN=5, MAX_VISION_REQUESTS_PER_RUN=5,
+        ))
+        self.fetch = self.enterContext(patch.object(vision, "fetch_image", return_value=("image/jpeg", "encoded")))
+        self.local = self.enterContext(patch.object(vision, "describe_local", return_value=PHOTO_DESCRIPTION))
+        self.gemini = self.enterContext(patch.object(vision, "describe_image", return_value=(PHOTO_DESCRIPTION, 1)))
+        self.cache = {}
+
+    def state(self, **kwargs):
+        return vision.VisionRun(retry=VisionRetry(self.path), **kwargs)
+
+    def describe(self, state, media_id="photo"):
+        item = photo(media_id)
+        vision.describe_images([item], self.cache, 5, state=state)
+        return item
+
+    def test_provider_cooldown_survives_successful_fallback_and_reload(self):
+        self.local.side_effect = vision.requests.Timeout("local failure")
+        state = self.state()
+        self.describe(state)
+        key = state.retry_key("ollama")
+        self.assertTrue(state.retry.cooling("providers", key))
+        self.assertFalse(state.retry.cooling("media", "photo"))
+        self.assertEqual(self.cache["photo"]["provider"], "gemini")
+        self.describe(self.state(), "second")
+        self.assertEqual(self.local.call_count, 1)
+        self.assertEqual(self.gemini.call_count, 2)
+        self.now += 61
+        self.local.side_effect = None
+        self.describe(self.state(), "third")
+        self.assertNotIn(key, VisionRetry(self.path).data["providers"])
+
+    def test_memory_pressure_skips_local_budget_keeps_pending_quiet_and_retries_next_cycle(self):
+        self.memory.return_value = False
+        state = self.state(provider="ollama")
+        for media_id in ("photo", "second"):
+            self.assertEqual(self.describe(state, media_id)["photo_descriptions"], [None])
+        self.local.assert_not_called()
+        self.gemini.assert_not_called()
+        self.memory.assert_called_once()
+        self.assertEqual(state.local_requests, 0)
+        self.assertFalse(state.eligible_unattempted)
+        self.assertFalse(state.retry.data["providers"])
+        self.assertFalse(state.retry.data["media"])
+        self.assertFalse(self.cache)
+        self.memory.return_value = True
+        self.describe(self.state(provider="ollama"))
+        self.local.assert_called_once()
+        self.assertEqual(self.cache["photo"]["provider"], "ollama")
+
+    def test_memory_pressure_preserves_healthy_cloud_fallback_and_cache_hits(self):
+        self.memory.return_value = False
+        state = self.state()
+        self.describe(state)
+        self.assertEqual(self.cache["photo"]["fallback_reason"], "ollama_memory_pressure")
+        self.assertEqual(state.local_requests, 0)
+        self.assertEqual(state.gemini_requests, 1)
+        self.fetch.assert_called_once()
+        self.assertFalse(state.retry.data["providers"])
+        self.memory.reset_mock()
+        self.describe(state)
+        self.memory.assert_not_called()
+
+    def test_quota_without_hint_survives_cycles_and_pending_is_stable(self):
+        self.gemini.side_effect = vision.QuotaExceededError("quota")
+        first = self.describe(self.state(provider="gemini"))
+        second = self.describe(self.state(provider="gemini"))
+        self.assertEqual(first["photo_descriptions"], [None])
+        self.assertEqual(first["photo_descriptions"], second["photo_descriptions"])
+        self.assertEqual(self.gemini.call_count, 1)
+        state = self.state(provider="gemini")
+        self.assertEqual(state.retry.data["providers"][state.retry_key("gemini")]["next_at"], 4600)
+        self.assertFalse(state.eligible_unattempted)
+        self.assertNotIn("photo", self.cache)
+
+    def test_media_cooldown_and_provider_outage_reasons_do_not_change_outputs(self):
+        self.fetch.side_effect = vision.ImageFetchError("first failed URL")
+        first = self.describe(self.state())
+        self.fetch.side_effect = vision.ImageFetchError("different failure")
+        second = self.describe(self.state())
+        self.assertEqual(first["photo_descriptions"], second["photo_descriptions"])
+        self.assertEqual(self.fetch.call_count, 1)
+        self.now += 61
+        third = self.describe(self.state())
+        self.assertEqual(first["photo_descriptions"], third["photo_descriptions"])
+        self.assertEqual(self.fetch.call_count, 2)
+        self.assertEqual(VisionRetry(self.path).data["media"]["photo"]["count"], 2)
+
+    def test_budget_backlog_is_eligible_but_cooldown_is_not(self):
+        state = self.state(provider="gemini", gemini_budget=1, gemini_requests=1)
+        self.describe(state)
+        self.assertEqual(state.eligible_unattempted, {"photo"})
+        self.gemini.assert_not_called()
+        state = self.state(provider="gemini")
+        state.retry.fail("media", "photo", "timeout")
+        self.describe(state)
+        self.assertFalse(state.eligible_unattempted)
+        self.gemini.assert_not_called()
+
+    def test_provider_auth_is_fatal_without_fallback(self):
+        self.local.side_effect = vision.requests.HTTPError(response=response(401))
+        with self.assertRaises(continuous.CycleFailure) as raised:
+            self.describe(self.state())
+        self.assertEqual(raised.exception.code, 78)
+        self.gemini.assert_not_called()
+        self.assertFalse(self.cache)
+
+    def test_image_specific_400_cools_only_that_photo_and_allows_other_photos(self):
+        invalid = response(400, data={
+            "error": {"status": "INVALID_ARGUMENT", "message": "Unable to process input image"},
+        })
+        self.gemini.side_effect = [
+            vision.requests.HTTPError(response=invalid), (PHOTO_DESCRIPTION, 1),
+        ]
+        state = self.state(provider="gemini")
+        first = self.describe(state, "bad-image")
+        self.assertEqual(first["photo_descriptions"], [None])
+        self.assertTrue(state.retry.cooling("media", "bad-image"))
+        self.assertFalse(state.cooling("gemini"))
+        self.describe(state, "good-image")
+        self.assertEqual(self.cache["good-image"]["provider"], "gemini")
+        self.describe(self.state(provider="gemini"), "bad-image")
+        self.assertEqual(self.gemini.call_count, 2)
+
+    def test_400_with_explicit_invalid_key_is_fatal(self):
+        invalid = response(400, data={
+            "error": {"status": "INVALID_ARGUMENT", "details": [{"reason": "API_KEY_INVALID"}]},
+        })
+        self.gemini.side_effect = vision.requests.HTTPError(response=invalid)
+        state = self.state(provider="gemini")
+        with self.assertRaises(continuous.CycleFailure) as raised:
+            self.describe(state)
+        self.assertEqual(raised.exception.code, 78)
+        self.assertFalse(state.retry.data["media"])
+
+    def test_repeated_image_400s_trip_provider_breaker_only_at_threshold(self):
+        invalid = response(400, data={"error": {"status": "INVALID_ARGUMENT"}})
+        self.gemini.side_effect = vision.requests.HTTPError(response=invalid)
+        state = self.state(provider="gemini")
+        for number in range(vision.MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES):
+            self.describe(state, str(number))
+            self.assertEqual(state.cooling("gemini"), number == vision.MAX_CONSECUTIVE_NON_RETRYABLE_FAILURES - 1)
+
+    def test_cached_moderation_clears_media_state_without_new_requests(self):
+        state = self.state()
+        state.retry.fail("media", "photo", "timeout")
+        self.cache["photo"] = "(description unavailable: blocked by Ollama)"
+        self.describe(state)
+        self.assertFalse(state.retry.data["media"])
+        self.local.assert_not_called()
+        self.gemini.assert_not_called()
+
+    def test_retry_state_pruning_keeps_provider_failures_and_rejects_corruption(self):
+        state = self.state()
+        state.retry.fail("media", "old", "timeout")
+        state.retry.fail("providers", state.retry_key("ollama"), "outage")
+        state.retry.prune({"photo"})
+        restored = VisionRetry(self.path)
+        self.assertFalse(restored.data["media"])
+        self.assertTrue(restored.data["providers"])
+        self.path.write_text('{"version":1,"providers":[],"media":{}}')
+        with self.assertRaises(ValueError):
+            VisionRetry(self.path)
+
+
+class ContinuousGeminiRetryTests(unittest.TestCase):
+    @patch.object(vision.requests, "post")
+    @patch.object(vision.time, "sleep")
+    def test_long_retry_hint_survives_deadline_and_attempt_exhaustion(self, sleep, post):
+        post.return_value = response(429, data={"error": {}}, headers={"Retry-After": "120"})
+        with self.assertRaises(vision.VisionDeadlineExceeded) as raised:
+            vision.describe_image(
+                "unused", image_data=("image/jpeg", "encoded"),
+                deadline=time.monotonic() + 1, honor_retry_deadlines=True,
+            )
+        self.assertEqual(raised.exception.gemini_request_attempts, 1)
+        self.assertGreaterEqual(raised.exception.retry_at, time.time() + 119)
+        sleep.assert_not_called()
+        with self.assertRaises(vision.QuotaExceededError) as raised:
+            vision.describe_image(
+                "unused", max_attempts=1, image_data=("image/jpeg", "encoded"),
+                honor_retry_deadlines=True,
+            )
+        self.assertGreaterEqual(raised.exception.retry_at, time.time() + 119)
+
+
 if __name__ == "__main__":
     unittest.main()
+import os

@@ -9,4 +9,7 @@ venv/
 
 # Local-only cache (media_id -> description); not needed by Muse or Pages
 cache/*.json
+cache/*.tmp
+cache/*.lock
+cache/vision-review.html
 !cache/.gitkeep

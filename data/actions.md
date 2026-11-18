@@ -6,425 +6,133 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (125)
+## Needs Reply (42)
 
-### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DftEGa4n51-))
-  - _Replying to: A gifted bouquet that kept opening - the wait paid off. Tha…_
-- **reef_ausic**: I edited the light to look more dramatic . I used Lens distortion app. ([link](https://www.threads.com/@reef_ausic/post/DftgtqjEumc))
-  - _Replying to: That glow above the rose makes the whole shot feel like gol…_
-- **deepdiverallu**: I suppose she did since she doesn't have a partner at the moment 😅 ([link](https://www.threads.com/@deepdiverallu/post/DftgA1PjWrW))
-  - _Replying to: Orange roses on the table and a whole lived-in room behind …_
-- **stlkikn2b**: Thanks for appreciating it 👍 ([link](https://www.threads.com/@stlkikn2b/post/Dfs2biYlc80))
-  - _Replying to: The Bay of Fundy and a wild rose - a fine pairing. Thanks f…_
-- **sebduperphoto**: Gorgeous. The light is spectacular. ([link](https://www.threads.com/@sebduperphoto/post/DfsJKJypf12))
-  - _Replying to: Rose._
-- **graveytrain023**: In this instance, it’s a new beginning. ([link](https://www.threads.com/@graveytrain023/post/Dfr_bdRIbpZ))
-  - _Replying to: A single white rose, a frosted bottle, and a whole list of …_
-- **citizenb**: I love your perspective and unique style! 🫶💚 ([link](https://www.threads.com/@citizenb/post/DfsDpygIIXi))
+### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **elanel50**:  ([link](https://www.threads.com/@elanel50/post/Df3C51MEzcP))
+  - Photo: Description: A cluster of small, bright orange and yellow flowers with green stems and unopened buds, captured in a close-up view with a shallow depth of field. Photograph read: The image features a central area of sharp flowers, with background elements softly blurred. Lighting is bright and even, highlighting petal surfaces and small water droplets. Rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Macro
+  - Photo: Description: The photograph shows a cluster of bright pink, spherical flowers with yellow centers, set against a blurred green background of foliage. Photograph read: The image is a close-up with shallow depth of field, focusing on the flowers. Lighting is even and diffused, illuminating the petals without harsh shadows. The rendering preserves the texture of the flower heads, though the background remains indistinct. Photo type: Macro
+- **jeandi2**:  ([link](https://www.threads.com/@jeandi2/post/Df3C27omQHt))
+  - Photo: Description: A narrow pathway paved with interlocking stones runs between two brick walls, one gray and one red, leading toward a distant view of a road, grass, and ocean under a partly cloudy sky. Photograph read: The composition is a straight-on perspective down a narrow alleyway, with the path receding into the distance. Lighting is natural daylight, with even illumination across the scene. The rendering is sharp enough to distinguish brick textures, paving patterns, and the pink flowers in a bush on the right. Photo type: Architectural
+- **bigcajunwba**: A bee sleeping on a Button Bush flower bud. Each bud contains dozens of individual flowers. They are opening at sunrise, coating the sleeping bee with pollen with no effort. Note the unopened buds about to open at the bottom of the sphere ([link](https://www.threads.com/@bigcajunwba/post/Df2-MC6oBre))
+  - Photo: Description: A bumblebee covered in pollen is perched on a spherical cluster of small white flowers with prominent yellow anthers. The background consists of out-of-focus green foliage. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the bee and flower. Lighting is even and natural, illuminating the subject clearly. The flower’s fine filaments and the bee’s fuzzy body are visible, though some detail is lost in the background blur. Photo type: Macro
+- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E))
+  - Photo: Description: A single white daisy with a yellow center is in focus, set against a dark, out-of-focus background with faint hints of green foliage. Photograph read: The main subject is centered, with soft focus on the petals and center; background is uniformly blurred. Lighting is even, without harsh shadows or highlights. The image has a shallow depth of field, with no visible signs of motion blur or sensor noise. Photo type: Portrait
+- **amaginings**:  ([link](https://www.threads.com/@amaginings/post/Df29c_JAqST))
+  - Photo: Description: The photograph shows a dense, close-up view of numerous white daisy-like flowers with yellow centers, filling the entire frame. Photograph read: The composition is uniform and tightly packed, with no discernible background or foreground depth. Lighting is even and diffused, casting soft shadows and highlighting the texture of the petals. Rendering is consistent across the frame without visible artifacts or distortion. Photo type: Macro
+- **amelia.burgess.16**: Crossed it into the trees, beautiful place ([link](https://www.threads.com/@amelia.burgess.16/post/Df29iA2DTyX))
+  - _Replying to: It qualifies - the netting is a diamond grid all the way in…_
+- **semolacarla**: If I recall, it was a decently large fern. I don't believe I cropped it. ([link](https://www.threads.com/@semolacarla/post/Df28oisGr8Y))
+  - _Replying to: I think the black and white was the right call - every leaf…_
+- **dalesmith_namaste**: Interestingly, it was just before lunch on a Tuesday. 🤔 ([link](https://www.threads.com/@dalesmith_namaste/post/Df3BvvHmq7N))
+  - _Replying to: Those zigzags in the pavement do half the work - the street…_
+- **oznatureart**: Yes I lifted it out just for a second to take the pic and then put it back ([link](https://www.threads.com/@oznatureart/post/Df3DCVlE_g5))
+  - _Replying to: That red center against the brown knobs is a whole palette …_
+- **mtqiwoman**: Just lucky with the sun angle. ([link](https://www.threads.com/@mtqiwoman/post/Df28CkjHeVk))
+  - _Replying to: How did you get those dry stems to glow like that? The fine…_
+- **sgoodwandering**: There were several mounds of the hills with the red rock I have other photos of the area, but this is the one I chose. ([link](https://www.threads.com/@sgoodwandering/post/Df2-Z6rG__W))
+  - _Replying to: It fits - the whole slope is tiled in red blocks. Did the c…_
+- **0lindar**: Let’s go look… nope! ([link](https://www.threads.com/@0lindar/post/Df28qQOFtVO))
+  - Photo: Description: The photograph shows a close-up of a damaged brick and mortar corner, with a decorative, ribbed, reddish-brown tile or block partially embedded in the masonry and visibly broken or displaced. A white, ribbed downspout is visible to the right. Photograph read: The image is a close-up shot with even, diffuse lighting, likely natural daylight. The focus is sharp on the damaged corner, revealing texture, cracks, and the irregular edges of the broken tile. The composition is tight, emphasizing the structural defect. Photo type: Documentary
+    - Watch-outs: - The broken decorative tile is partially embedded in crumbling mortar, with visible gaps and exposed internal ribs, limiting clarity of its original installation. - The mortar joints show significant cracking and spalling, reducing readability of the masonry’s structural integrity.
+  - _Replying to: The ribbed tile showing through the crumbling mortar is the…_
+- **katybchnk**: The structure and the lights, I guess. Though it's not really symmetric, it kind of seems like it is. ([link](https://www.threads.com/@katybchnk/post/Df298cCCraH))
+  - _Replying to: It counts - those stacked white curves repeat floor after f…_
+- **shawn.alma**: The wind, my 20 yo cat passed at the beginning of the year, this is where she would greet me in the morning and give me a hug. ([link](https://www.threads.com/@shawn.alma/post/Df3DSrrmkvP))
+  - _Replying to: A heart-shaped leaf on weathered wood - the veins line up l…_
+- **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))
+  - Photo: Description: The photograph shows a close-up of rough, irregularly shaped rocks arranged in a pile or pathway, with some gaps and shadows between them. Photograph read: The foreground rocks are in sharper focus than the background, which is softly blurred. Lighting appears natural and directional, casting shadows and highlights across the rock surfaces. The image has a shallow depth of field, with visible texture on the focused rocks. Photo type: Macro
+- **washugolf**: This is Week 3. The buds have not blossomed yet. I'll return with an uodate. ([link](https://www.threads.com/@washugolf/post/Df29zK2iQjZ))
+  - _Replying to: That flower stalk climbs straight through the frame with bu…_
+- **dayderyn**: Think a combination of both. The tide was right out and it was blowing a gale that day ([link](https://www.threads.com/@dayderyn/post/Df286sqjRA-))
+  - _Replying to: Wind or water - which one combed the sand into those lines?_
+- **saffrongal**: The lighting plus portrait mode on iPhone 📱 ([link](https://www.threads.com/@saffrongal/post/Df3B0Phkjma))
+  - _Replying to: That seed head glows against the black like a small lamp. H…_
+- **kathleen_payne**: It's not one I've walked. I took this from our jeep with the top off a couple summers ago, husband driving. It's the Wapito bridge to Sauvies Island in Portland. ([link](https://www.threads.com/@kathleen_payne/post/Df2-MZnDy67))
+  - _Replying to: Rust red diamonds on blue - the lattice does all the talkin…_
+- **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
+  - Photo: Description: A snake with distinct yellow and black stripes is coiled among a pile of cut logs and green foliage. The logs are stacked in a natural, somewhat chaotic arrangement. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally adequate, though some areas of the logs and foliage are less sharp. The rendering is not overly saturated or overexposed. Photo type: Natural
+- **ulrike6417**: I think so! ([link](https://www.threads.com/@ulrike6417/post/Df3Am6MgAM_))
+  - _Replying to: Every spike points somewhere different and somehow they all…_
+- **raijapoignand**: Bunya nut pine , Australian native , new tips in spring ([link](https://www.threads.com/@raijapoignand/post/Df2-qJpkvGK))
+  - _Replying to: The branch tips repeat like green fireworks - dark and brig…_
+- **eelizjjjm**: I’ll have to wait ‘til next Spring to time it! ([link](https://www.threads.com/@eelizjjjm/post/Df2__3XoBMP))
+  - _Replying to: That green cone is a spiral waiting to open. How long befor…_
+- **debi0528**: This was at the NY Botanical Garden this summer. ([link](https://www.threads.com/@debi0528/post/Df29Nfin6Sb))
+  - _Replying to: The glass roof grids the sky while the banners shout in flo…_
+- **nannabon1**:  ([link](https://www.threads.com/@nannabon1/post/Df2-zGMlKQ2))
+  - Photo: Description: A honeybee is perched on a cluster of small, white, star-shaped flowers with prominent stamens and green stems, set against a softly blurred green background. Photograph read: The image is a close-up with shallow depth of field, showing the bee in partial focus while surrounding flowers are slightly out of focus. Lighting is even and natural, illuminating the scene without harsh shadows or overexposure. Photo type: Macro
+    - Watch-outs: The bee’s body is partially obscured by motion blur and shallow focus, reducing visibility of fine hairs and wing structure. The foreground flowers exhibit soft focus, making individual stamens and petals indistinct.
   - _Replying to: (photo reply, no text)_
+- **nannabon1**: Yes he did ([link](https://www.threads.com/@nannabon1/post/Df2-q7xlHLN))
+  - _Replying to: (photo reply, no text)_
+- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df298IWDlMN))
+  - Photo: Description: A large metallic sculpture of a fish, constructed from circular metal segments, is positioned on a paved surface with a cloudy sky and distant bridge in the background. Photograph read: The image is taken from a low angle, showing the fish sculpture in profile against a sky with scattered clouds. Lighting is diffuse, casting soft shadows and reflecting off the metallic surfaces. The sculpture’s texture and form are visible, though not sharply defined. Photo type: Architectural
+  - Photo: Description: A large metallic sculpture of a whale, constructed from numerous circular metal tubes, is positioned on a paved area beside a body of water under a partly cloudy sky. Photograph read: The image is taken from a low angle, capturing the whale sculpture prominently against a sky and water background. Lighting is diffuse, with no harsh shadows or highlights. The rendering is clear, with visible texture and form of the sculpture and surrounding environment. Photo type: Documentary
+  - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
+- **hannele.heikkinen**: The artwork consists of welded stainless steel tubes and rings that reflect the ambient light at different times of the day. The sculpture of salmon is 15 meters long, 4 meters high, and weighs approximately 5000–6000 kilograms. ([link](https://www.threads.com/@hannele.heikkinen/post/Df29eNuDm4y))
+  - _Replying to: Circles inside circles, all dark metal - it reads like a ho…_
+- **trevahearne**: Not sure. The label just said "decorative grass" its at our community garden. ([link](https://www.threads.com/@trevahearne/post/Df280ktFAIX))
+  - _Replying to: Backlit plumes against that blue - the grasses glow at the …_
+- **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/Df2iCbrEg8K))
+  - Photo: Description: A weathered, oval-shaped object with a rough, textured surface resembling driftwood or a fossilized shell, featuring two dark, irregularly shaped indentations and a larger, elongated opening below them, resting on a plain, light-colored, slightly textured surface. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, but the background is uniformly out of focus, creating a shallow depth of field. The rendering preserves surface texture and form without visible distortion or color aberration. Photo type: Still life
+- **tinnyliznz**: Piece of driftwood from my local beach ([link](https://www.threads.com/@tinnyliznz/post/Df2iCYgEjKY))
+  - _Replying to: (photo reply, no text)_
+- **bumpy120**: Judging by where it is I would say at least 100 years old. ([link](https://www.threads.com/@bumpy120/post/Df2-s8PH1VH))
+  - _Replying to: Deep grooves and hard light - the bark reads like a carved …_
+- **cape_cod_laurie**:  ([link](https://www.threads.com/@cape_cod_laurie/post/Df3A82Bn_RC))
+  - Photo: Description: A pile of assorted wooden planks and logs rests on a gravelly, sandy path beside overgrown vegetation, with a wide, flat marshland and distant treeline under a heavily clouded sky. Photograph read: The image is captured with diffuse, even lighting from an overcast sky, resulting in muted tones and soft shadows. The composition is wide, with the foreground pile of wood occupying the lower right, leading the eye toward the midground marsh and distant treeline. No signs of lens distortion or chromatic aberration are visible. Photo type: Natural landscape
+  - Photo: Description: The photograph shows a wide, overcast sky above a flat, grassy field bordered by dense vegetation and scattered wooden logs and pallets in the foreground, with distant treelines and faint structures visible on the horizon. Photograph read: The sky dominates the frame with heavy, layered clouds, and the lighting is diffuse and muted, casting soft shadows. The foreground elements are in relatively even exposure, with no visible signs of motion blur or focus issues. The horizon line is clearly defined, and the composition is balanced between sky and land. Photo type: Natural landscape
+  - _Replying to: Every log end a different fingerprint of rings, all stacked…_
+- **momentofsubjectiveaesthetics**: Thank you, for asking that question and your kind words! 🙌🏼🙏🏼 ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/Df2igB6CtM4))
+  - _Replying to: A nightly walk that rewards you like that is worth keeping.…_
+- **mcoger55**: these taken June 24 ([link](https://www.threads.com/@mcoger55/post/Df2TDqtFGri))
+  - _Replying to: I think filling the whole frame with the wheat was the righ…_
+- **mcoger55**: pix was taken around 7:30 pm on June 8 ([link](https://www.threads.com/@mcoger55/post/Df2SXuXlG2w))
+  - _Replying to: I think filling the whole frame with the wheat was the righ…_
+- **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2Sp0NCDns))
+  - Photo: Description: A dark, ornate spiral staircase with intricate metalwork is set against a solid, vibrant red background. The staircase features decorative circular panels and balusters, ascending in a tight helix. Photograph read: The image is composed with the staircase as the central subject, framed against a uniform red backdrop. Lighting is even, highlighting the metallic texture and patterns without casting harsh shadows. The rendering preserves fine details of the railings and steps. Photo type: Architectural
+  - Photo: Description: The photograph shows a large, ornate clock tower suspended in the center of a multi-level shopping arcade with a high, arched glass and metal ceiling. Shoppers and storefronts line the upper and lower levels. Photograph read: The image is taken from an elevated perspective, capturing the central clock tower and surrounding architecture. Lighting is even and diffused, likely from the glass ceiling, illuminating the scene without harsh shadows. The clock face and surrounding decorative elements are clearly visible, and the architectural details of the arcade are well resolved. Photo type: Architectural
+  - Photo: Description: The photograph captures a large, ornate clock tower with a golden dome, situated in the center of a multi-level shopping arcade with glass and metal roofing and patterned tile floors. People are visible walking and sitting in the arcade. Photograph read: The image is taken from an elevated perspective, showing multiple levels of the arcade with shops and railings. Lighting is bright and even, likely from the glass roof, with no visible shadows or overexposed areas. The clock tower is the central focus, with clear details on its face and surrounding decorative elements. Photo type: Architectural
+  - Photo: Description: The photograph shows the interior of a covered shopping arcade with multiple storefronts, including “Kalmar Antiques” and “Cicchetti bar restaurant,” featuring stained-glass windows and glass display cases filled with jewelry. Several pedestrians are visible, observing the shops. Photograph read: The image is taken from an elevated position, looking down into the arcade. Lighting is bright and even, with reflections visible on glass surfaces. The composition includes architectural elements like arched windows and metal trusses overhead. The rendering is clear, with sharp edges on signs and displays. Photo type: Commercial interior
+  - _Replying to: QVB suits it beautifully - the dome does all the work, angl…_
+- **snowdonman66**: Loved our time in Sydney some amazing buildings and nice mix of old and new ([link](https://www.threads.com/@snowdonman66/post/Df2Si5kiE52))
+  - _Replying to: QVB suits it beautifully - the dome does all the work, angl…_
+- **snowdonman66**:  ([link](https://www.threads.com/@snowdonman66/post/Df2UlMuCC4M))
+  - Photo: Description: The photograph shows an upward view of a vibrant red ceiling with a large, circular stained-glass skylight at its center, framed by ornate gold detailing. Below, an arched passageway leads to a blue-walled space. Photograph read: The composition is dominated by the central skylight and surrounding decorative moldings. Lighting is bright from the skylight, casting strong illumination on the red ceiling and gold trim. The rendering is clear in the central area, with visible texture in the glass and metalwork, though the image is cropped and angled, showing only a partial view of the architecture. Photo type: Interior architectural
+  - Photo: Description: The image captures a low-angle view looking upward through a large, circular glass and steel atrium, with a brick building facade on the left and a brightly colored, curved ceiling structure above. Photograph read: The composition is dominated by strong diagonal and radial lines from the glass roof structure and building walls. Lighting is high-contrast, with bright sunlight casting sharp shadows across the brickwork and onto large blue and red panels. The rendering shows saturated colors and visible digital artifacts, particularly in the curved ceiling panels. Photo type: Commercial
+    - Watch-outs: - The upper right corner shows a black, circular area that obscures part of the glass roof structure. - The large blue panel on the left has visible digital artifacts, including pixelation and color banding, reducing clarity of the image content.
+  - _Replying to: Loved our time in Sydney some amazing buildings and nice mi…_
+- **iphhoto4u71**: When a chair becomes art ([link](https://www.threads.com/@iphhoto4u71/post/Df2PUy0GxiL))
+  - Photo: Description: The image displays a monochrome abstract form with smooth, curved surfaces against a stark black background, framed by a textured beige mat and a thin black border. Photograph read: The composition features a single curved object with strong highlights and shadows, rendered in grayscale. The lighting creates a high-contrast interplay between bright areas and deep shadow. The rendering appears digitally generated or manipulated, with uniform surfaces and clean edges. Photo type: Abstract
+- **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
+  - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 
-### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
-- **smilingjeannie**: Wow! I am both humbled and delighted. Thank you so much. ([link](https://www.threads.com/@smilingjeannie/post/DfroUTzEfmK))
-- **iainriggs**: Cheers, honoured to be included with such great photos. ([link](https://www.threads.com/@iainriggs/post/DfrZaVMGCzR))
-- **iainriggs**: Lovely to hear, many thanks. ([link](https://www.threads.com/@iainriggs/post/DfrK2P-GJff))
-  - _Replying to: @iainriggs Your Greek chapel is slide four of the Blue Thur…_
-
-### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
-- **picsall**:  ([link](https://www.threads.com/@picsall/post/DfsCFZbGxSI))
-  - Photo: Description: A bright, sunlit daytime sky features a large bank of fluffy white and gray cumulus clouds dominating the lower center. Sunlight filters from the upper left corner, casting a glow across the upper clouds and deep blue sky. Photograph read: The wide composition emphasizes the dramatic, billowing texture of the cloudscape lit by strong top-left lighting, creating an expansive and atmospheric mood. Photo type: Snapshot
-- **khoojosie**: Attended an all girls Filipino concert. ([link](https://www.threads.com/@khoojosie/post/Dfr_bY9mx_Z))
-  - _Replying to: All that blue against the night - the towers light up the w…_
-- **judy.julian77**: Yes, it did! All day long, nothing but blue skies! ([link](https://www.threads.com/@judy.julian77/post/Dfr4vcQm1L9))
-  - _Replying to: Nothing but blue, edge to edge - a morning like that needs …_
-- **paulfeminella**: This is the Fourth Presbyterian church in Chicago this window in the front that faces Michigan Ave or the back of the church as you enter above the choir loft it’s naturally lit. ([link](https://www.threads.com/@paulfeminella/post/DfsRRKkGi25))
-  - Photo: Description: A large, arched stained glass window in a church features six vertical panels depicting religious figures in vibrant blue, red, and gold tones above dark wooden paneling. Photograph read: The symmetrical, straight-on composition captures the glowing stained glass backlit by natural light, creating a reverent mood. Photo type: Architectural
-  - _Replying to: That blue glass glows like it has its own light source - th…_
-- **mimzysphotography**: Just the one! ([link](https://www.threads.com/@mimzysphotography/post/Dfr4lFKkX0Q))
-  - _Replying to: Four jets holding that tight diamond - the undersides all c…_
-- **jinksys_mum**: If it's sunny, it's always this colour. It's blue from glacial "dust". But this would have been late morning if I recall ([link](https://www.threads.com/@jinksys_mum/post/DfsGWgXk1tg))
-  - _Replying to: Purple in front, blue everywhere else - the lupines do a fi…_
-- **demidova_nadezda**: there are only 5 spheres, they are so arranged that they reflect each other, each with the same number, at night with illumination and reflection of darkness. This is if you shoot standing inside, and if you get reflections from the outside around the building of the basketball stadium, the port and the embankment. A very interesting object. ([link](https://www.threads.com/@demidova_nadezda/post/DfssNNjiMSE))
-  - Photo: Description: Large metallic spherical sculptures stand outside the glass facade of the Chase Center, with digital signs reading "WELCOME TO CHASE CENTER" displayed above the entrance. The street-level view includes traffic lights, bollards, and a crosswalk in the foreground. Photograph read: The straight-on composition emphasizes the symmetrical placement of the spherical art pieces against the reflective architectural background under bright daylight. Photo type: Documentary
-  - Photo: Description: A large, reflective spherical sculpture stands outdoors, capturing a distorted, repeating reflection of a modern building with a sign that reads "CHASE CENTER". The curved metallic surface creates a nested tunnel effect through multiple concentric reflections. Photograph read: The composition centers on a recursive circular framing device under bright daylight, casting a futuristic and metallic mood. Photo type: Artistic
-    - Watch-outs: Highlights clipped to white near the top edge.
-  - Photo: Description: Two large, reflective metallic sphere sculptures stand on a paved plaza in front of a modern glass building. The prominent sphere on the right fills the foreground, while the one behind it features a circular cutout framing people and distant greenery. Photograph read: Vertical lines of the modern building anchor the background, while the curved metallic spheres dominate the composition with strong, bright highlights and distorted reflections. Photo type: Architectural snapshot
-    - Watch-outs: Bright reflection clipped to white on the foreground sphere.
-  - Photo: Description: A person takes a selfie in front of a giant spherical metallic sculpture that reflects the Chase Center arena and blue sky. The reflective surface creates a distorted, whimsical mirror effect with a smiley-face composition. Photograph read: Captured in bright daylight with sharp, expansive reflections, this wide shot uses symmetrical round sculptures to frame both the building and the photographer. Photo type: Snapshot
-  - Photo: Description: A large, dark, spherical art installation featuring a glowing circular light ring dominates the frame, set against a modern building exterior at night. Reflected within the sphere's curved surface is an infinite, repeating tunnel effect created by concentric lit rings. Photograph read: The symmetrical, centered composition captures the glowing light rings and their receding reflections with sharp clarity under cool artificial lighting, conveying a futuristic and hypnotic mood. Photo type: Architectural snapshot
-  - Photo: Description: A large, reflective spherical public art sculpture sits outside a modern building at night. Concentric rings of warm light create an optical illusion of a deep tunnel within the sphere's polished surface. Photograph read: The symmetrical placement of the glowing orb centers the frame, capturing a moody, futuristic atmosphere under artificial evening light. Photo type: Documentation
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - Photo: Description: Two people are seen reflected in a large, circular metal sculpture outdoors, with distant mountains and a tower visible in the background. The reflective artwork frames the subjects as they stand on a paved plaza. Photograph read: Harsh midday light creates bright specular highlights on the metallic spherical frame while casting strong shadows, capturing a candid, framing-within-a-framing perspective. Photo type: Snapshot
-    - Watch-outs: Highlights on the top rim of the metal sphere are clipped to white.
-  - _Replying to: How many reflections deep does that tunnel go? The blue sky…_
-- **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/Dfq812ilT0S))
-  - Photo: Description: A close-up macro view showcases dark, glossy purple berries nestled against vibrant magenta stems. The contrasting colors create a striking botanical study suitable for nature or garden themes. Photograph read: The tight framing and shallow depth of field emphasize the smooth textures and vibrant colors under natural light, creating an intimate botanical study. Photo type: Macro snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **graveytrain023**:  ([link](https://www.threads.com/@graveytrain023/post/Dfqi57omwNC))
-  - Photo: Description: A tall tree frames a dark, silhouetted hill against a moody, twilight sky filled with heavy, grey clouds. Faint hints of sunset color peek along the horizon beneath the cloud cover. Photograph read: Captured in dim, natural light, the low-contrast landscape features an off-center composition with soft, painterly focus that creates a quiet, melancholic mood. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **lisasmithmulholland**: Thank you for asking.. 😊 ([link](https://www.threads.com/@lisasmithmulholland/post/Dfq7vN1paX2))
-  - _Replying to: That sounds like exactly the day you needed. Fair winds to …_
-- **dsheneman**: It is! I want to go back soon! ([link](https://www.threads.com/@dsheneman/post/Dfqy8lXkbE8))
-  - _Replying to: A view like that is hard to beat - thanks for sharing it._
-- **susanedwinarose**: Funny thing is - there are 3 sisters so the one who gave the gift relegated the other sister to 3rd best. ([link](https://www.threads.com/@susanedwinarose/post/DfsQNCqE7nP))
-  - _Replying to: Glad it landed - thanks for the laugh._
-- **paultillinghast**:  ([link](https://www.threads.com/@paultillinghast/post/Dfp3aQKGnHN))
-  - Photo: Description: A vibrant, surreal portrait features a person with blue skin and red hair, adorned with an elaborate floral crown, shell-like pasties, and a textured skirt, standing amidst a fantastical landscape that includes a pink flamingo and colorful foliage against a magenta sky. Photograph read: Centrally composed with striking, saturated colors, the surreal digital collage creates a dreamlike and fantastical mood. Photo type: artistic
-- **historysim3d**: Great perspective from below—the Golden Gate Bridge’s two main cables each contain 27,572 individual wires, spun in place across the strait. https://historysim3d.com/e/community-golden-gate-bridge-construction ([link](https://www.threads.com/@historysim3d/post/DfqpgFgGzht))
-  - _Replying to: I was on a small boat sailing under the Golden Gate Bridge.…_
-- **azvandy**: Season two of the old television show Modern Marvels has an episode about the building of the Golden Gate Bridge. I found it fascinating at the time, and your comment has prompted me to watch it again! ([link](https://www.threads.com/@azvandy/post/Dfr-z15mzZi))
-  - _Replying to: Great perspective from below—the Golden Gate Bridge’s two m…_
-- **historysim3d**: I hope it’s just as good on a rewatch, @azvandy! The bridge’s 1937 opening was a landmark—the main span remained the world’s longest for 27 years. ([link](https://www.threads.com/@historysim3d/post/DfsVRW9EnSJ))
-  - _Replying to: Season two of the old television show Modern Marvels has an…_
-- **slainte1201**: you're welcome! I get lots of sparrows and house finches into my yard. or it is just bird. ([link](https://www.threads.com/@slainte1201/post/Dfq3V_qFSwM))
-  - _Replying to: That silhouette against all that sky makes it a proper myst…_
-- **mommatex**: I just got lucky! ([link](https://www.threads.com/@mommatex/post/DfsP3YOE0tB))
-  - _Replying to: That blue against all that green is impossible to miss - an…_
-- **jenngeiger74**: About 4:30 CST in Minnesota. ([link](https://www.threads.com/@jenngeiger74/post/DfqHXRqlGRZ))
-  - _Replying to: Those rippled clouds look like a whole sea in the sky. I th…_
-- **jenngeiger74**: Sorry, this would have been around 11:30 am. I forgot I got this one while on my lunch. This is today at 4:40. ([link](https://www.threads.com/@jenngeiger74/post/DfqKRk8mjRv))
-  - _Replying to: About 4:30 CST in Minnesota._
-- **jenngeiger74**: I love the depth that the trees give the image. Glad you could enjoy it. ([link](https://www.threads.com/@jenngeiger74/post/DfqIJfEmrSj))
-  - _Replying to: About 4:30 CST in Minnesota._
-- **1birder2**: Blue in our backyard. ([link](https://www.threads.com/@1birder2/post/DfpqOdSmDdp))
-  - Photo: Description: A close-up photograph features a vibrant purple pansy flower centered amidst green foliage. The petals show delicate dark veins radiating from a bright yellow and white center. Photograph read: The tight framing centers on the flower, lit evenly to highlight its rich purple tones against a dark, leafy background. Photo type: Artistic
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **jonathanwood63**:  ([link](https://www.threads.com/@jonathanwood63/post/Dfppb0hDzjc))
-  - Photo: Description: A wide-angle landscape view features a bright sun shining in the upper left corner beneath a sky filled with textured white clouds. Below, rolling green hills and dark tree lines frame a distant view of water stretching toward the horizon. Photograph read: The wide composition emphasizes the vastness of the sky under bright daytime light, creating an open and serene mood. Photo type: Landscape snapshot
-    - Watch-outs: Sun disc clipped to white with flare streaks
-  - Photo: Description: An infant wearing a blue patterned romper and matching headband with a large bow lies inside a woven basket lined with patterned fabric. The baby gazes upward toward the camera with wide, curious eyes. Photograph read: The shot is framed from a high angle within the woven basket, illuminated by soft, natural light that highlights the gentle textures of the fabrics and the baby's skin. Photo type: Portrait
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - Photo: Description: A close-up top-down view shows clusters of tiny blue forget-me-not flowers nestled amidst a tangle of tall green grass and dried blades. The natural outdoor setting captures delicate wildflowers growing wild on the ground. Photograph read: The shot uses a top-down vertical perspective with bright, dappled sunlight casting sharp highlights and shadows across the mixed flora and grass. Photo type: Snapshot
-  - Photo: Description: A young child with curly brown hair wearing blue patterned pajamas is nestled comfortably under a soft blue blanket. They are looking slightly downward with a quiet expression in an indoor setting. Photograph read: Captured from an elevated angle, the natural light illuminates the child against the rich blue textures of the blanket and background, creating an intimate and cozy mood. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - Photo: Description: A bright blue sky is filled with wispy, scattered white clouds, with the dark silhouettes of treetops visible along the bottom edge. The upward-angled view captures a wide expanse of daytime atmosphere, suitable for a nature update. Photograph read: Natural daylight illuminates the scene from above, creating high contrast between the deep blue sky and the bright white clouds under a straightforward upward composition. Photo type: Snapshot
-- **marina_brandao50**: O pormenor do pombo a voar ([link](https://www.threads.com/@marina_brandao50/post/DfpwfviEeMZ))
-  - _Replying to: In Valletta, Malta._
-- **marinacasalribeiro**: Foi mesmo, só reparei quando vi a foto, porque pensei que ele ti esse fugido. 😊 ([link](https://www.threads.com/@marinacasalribeiro/post/DfqEK64iFQt))
-  - _Replying to: O pormenor do pombo a voar_
-- **kimspettel**: Blue Wood Aster, blue Lobelia, blue mistflower ([link](https://www.threads.com/@kimspettel/post/Dfpo3cNmQq9))
-  - Photo: Description: This vertical photo shows a cluster of delicate, pale purple wildflowers with yellow centers, dangling diagonally downward. Sunlight dapples the scene, highlighting the flowers against a background of lush green foliage. Photograph read: The subject is captured from a slightly high angle in bright daylight, with a shallow depth of field softly blurring the background foliage. Photo type: Nature snapshot
-  - Photo: Description: Two small, tubular purple flowers bloom on a slender green stem amidst a forest floor of fallen brown leaves, scattered stones, and low green vegetation. The natural woodland setting creates an organic, earth-toned backdrop. Photograph read: Captured from a high angle in diffuse daylight, the composition frames the delicate blue-purple blossoms against a textured background of weathered rocks and decaying leaves, creating a calm and intimate nature study. Photo type: Snapshot
-  - Photo: Description: A pale green butterfly rests on a cluster of vibrant purple wildflowers, surrounded by lush green foliage. Bright daylight illuminates the scene, highlighting the textures of the petals and leaves. Photograph read: The tight framing centers on the butterfly against a contrasting palette of purple and green, captured in direct natural light with a bright, sunny mood. Photo type: Nature snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **agingpunkboris**: Blue mist flower ([link](https://www.threads.com/@agingpunkboris/post/DfphTGblL2q))
-  - Photo: Description: This photo features a close-up cluster of pale purple, spiky wildflower blooms interspersed with green leaves, suitable for a nature update. Photograph read: The tight vertical composition captures textured detail under natural daylight, creating a calm and botanical mood. Photo type: Nature snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **bobherrmann6**: Purple ([link](https://www.threads.com/@bobherrmann6/post/DfphOqFFVZW))
-  - Photo: Description: A vibrant purple and yellow iris blooms centrally amidst a dense patch of green foliage and tall grasses outdoors in daylight. Photograph read: The subject is captured in bright, natural light with a shallow depth of field that isolates the flower against a busy background of green leaves. Photo type: Snapshot
-- **lotharia**: My grand-daughter’s Halloween costume. ([link](https://www.threads.com/@lotharia/post/DfphMytlLzR))
-  - Photo: Description: A person dressed in a blue costume inspired by the movie Avatar poses playfully in a bioluminescent jungle setting, complete with a feathered headpiece, face paint, and a tail. Photograph read: The centrally composed subject is brightly lit against a fantastical, cool-toned background featuring glowing plants, a waterfall, and a moonlit sky, creating a whimsical and theatrical mood. Photo type: Artistic
-- **cruscher53**: That’s not seaglass. ([link](https://www.threads.com/@cruscher53/post/DfpngOhFBK6))
-  - _Replying to: You, the dog, and a whole blue horizon. And then the follow…_
-- **cruscher53**: The last photo, it was a project, that’s infrared chrome taken at night. It was destination, 80 miles away. ([link](https://www.threads.com/@cruscher53/post/DfpnZfSlI-M))
-  - _Replying to: You, the dog, and a whole blue horizon. And then the follow…_
-- **cruscher53**:  ([link](https://www.threads.com/@cruscher53/post/Dfpg6s6lW2R))
-  - Photo: Description: A straight-on, eye-level shot captures a wooden boardwalk leading through coastal vegetation toward a vibrant sunrise over the ocean. The ascending steps feature pale blue paint, contrasting with the warm yellow wood of the walkway and the dark foliage framing the scene. Photograph read: The symmetrical, centered composition uses leading lines to draw the eye down the boardwalk toward the bright horizon, creating a serene and inviting mood under a dramatic, sunburst-filled sky. Photo type: Artistic
-    - Watch-outs: Sun disc clipped to white with visible highlights on clouds.
-  - Photo: Description: A top-down view shows a glass container filled with colorful, translucent stones illuminated from below by a bright blue light, held in a person's hand. Photograph read: The centered composition and intense blue rim lighting create a glowing, high-contrast display that highlights the varied textures of the glass and stones. Photo type: Snapshot
-    - Watch-outs: Highlights clipped to white on the inner glass rim.
-  - Photo: Description: A shaggy, light-colored dog sleeps on its back on a couch indoors, positioned near a window looking out at a bright full moon in a deep blue night sky. The quiet, nocturnal scene evokes a cozy, peaceful atmosphere. Photograph read: The vertical framing
-  - Photo: Description: A solitary tree and a small makeshift shelter stand on a grassy knoll against a dramatic, swirling blue-and-white sky. The surreal color palette and textured clouds create a moody, dreamlike landscape suitable for a fantasy or nature post. Photograph read: The wide-angle composition frames the lone tree against a dynamic, streaked sky, rendered in cool monochromatic tones that evoke an eerie, otherworldly mood. Photo type: Artistic
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - _Replying to: (photo reply, no text)_
-- **victoriajane_jagdhar**:  ([link](https://www.threads.com/@victoriajane_jagdhar/post/DfpfxrUDPzU))
-  - Photo: Description: A wide
-- **charhedman**: No worries! I see beauty everywhere 🥰 ([link](https://www.threads.com/@charhedman/post/DfqJzdvGS59))
-  - _Replying to: A glowing garden hose, of all things - thanks for seeing th…_
-- **solis69104**: The sky paints the colors, and the sea creates the mirror. Thank you for your beautiful words! 🌅 ([link](https://www.threads.com/@solis69104/post/DfqKSXpE5R6))
-  - Photo: Description: A large concrete block sits in the ocean surf as waves break around it during sunset. The wet sand in the foreground reflects the cool blue light of dusk under a colorful horizon. Photograph read: The wide-angle composition frames the dark silhouette of the structure against a gradient twilight sky, creating a moody coastal scene illuminated by cool blue tones. Photo type: Landscape photograph
-  - _Replying to: Wet sand doing the sky's work - thanks for sharing the mirr…_
-- **deanepperson**:  ([link](https://www.threads.com/@deanepperson/post/DfpbCJlkTDr))
-  - Photo: Description: Two small yellow wildflowers bloom amidst a dense patch of green grass, dry blades, and fallen leaves. In the foreground, out-of-focus brown plant stalks create a vertical barrier on the left side of the frame. Photograph read: The top-down perspective captures natural textures under diffused outdoor light, creating an earthy and observant mood. Photo type: Snapshot
-    - Watch-outs: Foreground stalks soft and heavily blurred; intentional or missed focus not determinable from the image.
-- **thatcyndarellie**:  ([link](https://www.threads.com/@thatcyndarellie/post/Dfpa5iMG_FX))
-  - Photo: Description: A serene pond reflects a vibrant tree line under a clear blue sky, capturing the tranquil transition into autumn. This picturesque landscape evokes a peaceful atmosphere suitable for outdoor recreation or nature appreciation. Photograph read: Captured in bright daylight, the wide-angle composition emphasizes the horizontal expanse of the water and tree line, creating a calm and balanced mood. Photo type: Landscape snapshot
-  - Photo: Description: A bright sun breaks through a dramatic formation
-  - Photo: Description: A collection of colorful sea glass, polished stones, and small seashells rests on a light wood-grained surface, viewed from directly above. Photograph read: Soft overhead light illuminates the textures and translucent colors of the collected items arranged informally against the vertical wood grain. Photo type: Snapshot
-  - Photo: Description: A calm coastal scene shows gentle ocean waves rolling onto a sandy beach under a wide blue sky filled with soft, pink-tinted clouds. The tranquil horizon creates a peaceful atmosphere suitable for a travel post. Photograph read: The wide composition emphasizes the expansive sky and sea under diffuse evening light, conveying a serene and quiet mood. Photo type: Landscape snapshot
-  - Photo: Description: Three people walk along a wooden boardwalk that extends alongside a calm,
-- **lozejectthetape**: The view from the end ([link](https://www.threads.com/@lozejectthetape/post/DfqKQMlAabr))
-  - Photo: Description: This daytime, eye-level exterior shot features a view of Waikiki Beach and Honolulu's skyline from the water, under a partly cloudy sky. The ocean fills the lower half of the frame, with the cityscape stretching across the horizon in the background. Photograph read: The horizontal composition balances the textured blue water in the foreground against the distant cityscape, illuminated by bright daylight beneath a dramatic sky. Photo type: Travel snapshot
-  - _Replying to: That pier walks straight into the sea and doesn't look back…_
-- **dwordops**: Okay…we were drinking at a bar across the harbor… ([link](https://www.threads.com/@dwordops/post/Dfqit7ADfKh))
-  - _Replying to: Waiting for the sun to drop paid off - thanks for sharing t…_
-- **snowdonman66**: When I saw the cruise ship looked at angles thought it would work glad you liked it but the red rocks of uluru are something else with the right light think that photo was one of the olgas ([link](https://www.threads.com/@snowdonman66/post/DfrGPW9iPKB))
-  - _Replying to: Five postcards and not a dull one. The cruise ship against …_
-- **medium.gords7**: You’re welcome! Thanks for commenting on it. ([link](https://www.threads.com/@medium.gords7/post/DfqQN1cG29X))
-  - _Replying to: A blue truck locked in a silo, seen through glass - thanks …_
-- **lilyhuang0405**: Really appreciate your attention to all photos sent to you, and thanks for the thoughtful comments. ([link](https://www.threads.com/@lilyhuang0405/post/Dfs0yiNEtkr))
-  - _Replying to: A window seat like that is the whole trip - thanks for shar…_
-- **steve.cozort**: If you haven’t been to Antarctica…start saving your pennies and go… ([link](https://www.threads.com/@steve.cozort/post/DfpnHkwHSLD))
-  - _Replying to: You are welcome - that mirror reflection is hard to forget._
-- **vuurenbernadettevan**:  ([link](https://www.threads.com/@vuurenbernadettevan/post/DfpaB8LEQhE))
-  - Photo: Description: A black-and-white banded lighthouse stands beside a two-story coastal building against a pale sky and calm sea. The sand dunes in the foreground provide a natural shoreline context. Photograph read: Warm late-day light illuminates the architectural structures centrally framed against a cool, soft-toned sky and ocean backdrop. Photo type: Documentary
-  - _Replying to: Two bare branches and a whole sky of weather - the clouds d…_
-- **buzz.crunch**: She’s my adventure buddy 😀 … My wife and son don’t enjoy just walking about 🤷‍♂️ ([link](https://www.threads.com/@buzz.crunch/post/DfpnuTgAQ4F))
-  - _Replying to: Sounds like a perfect day out - thanks for sharing it with …_
-- **punky.loo**: Gosh, well done capturing that picture, it is beautiful. 💙 ([link](https://www.threads.com/@punky.loo/post/Dfpk1GMCFCn))
-  - _Replying to: The most delicate blue_
-- **marcinewiese**: My son in law teaching his son how to bait a hook ❤️ ([link](https://www.threads.com/@marcinewiese/post/DfpWuKslg4Q))
-  - Photo: Description: Two men stand on a wooden fishing pier extending over a large body of water on a clear, sunny day. The foreground man holds a fishing rod while the other man watches closely. Photograph read: Captured in bright, direct daylight under a clear blue sky, the medium shot uses a vertical composition to frame the two anglers on the sunlit pier. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image
-- **punky.loo**: I am soooo jealous 😁 in a nice way because if you have grown this then either me or the weather are crap. Absolutely amazingly beautiful 💙💗 ([link](https://www.threads.com/@punky.loo/post/DfplP2ziNmv))
-  - _Replying to: (photo reply, no text)_
-- **beckiefitzgerald**: Thank you. It was a weed in our vegetable garden. The light was just right. ([link](https://www.threads.com/@beckiefitzgerald/post/DfptLz2D7fj))
-  - _Replying to: I am soooo jealous 😁 in a nice way because if you have grow…_
-- **2killamockingbird**: I was wondering if I could use your words for my jellyfish please, I will mention your name... ([link](https://www.threads.com/@2killamockingbird/post/DfpZonbgOKL))
-  - _Replying to: Two jellyfish drifting through a whole ocean of blue - thos…_
-- **posts.by.norman**: Happy to share! ▓ ([link](https://www.threads.com/@posts.by.norman/post/DfqmpUwn70g))
-  - _Replying to: A parade like that is a gift for the camera - thanks for sh…_
-
-### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DfpgyN8nAlv))
-  - Photo: Description: Bright red metal
-- **freya_samarinda**:  ([link](https://www.threads.com/@freya_samarinda/post/DfpbJnSG7ST))
-  - Photo: Description: A close-up shot captures a person's lower legs and feet wearing shiny red Mary Jane flats paired with white ruffled ankle socks, standing on a speckled terrazzo floor. Natural light streams across the ground, highlighting the footwear in a casual, everyday scene. Photograph read: Captured from a high-angle perspective, natural daylight casts strong shadows and bright highlights across the speckled floor, creating a candid and lighthearted mood. Photo type: Snapshot
-- **adam.allgood.1**: That’s the Chicago Theater. I’ve seen several shows there . ([link](https://www.threads.com/@adam.allgood.1/post/Dfpd7lOEYlq))
-  - _Replying to: A whole theater in red - the seats, the curtain, the gold d…_
-- **beep1300**:  ([link](https://www.threads.com/@beep1300/post/DfpIstOHNnW))
-  - Photo: Description: A young baseball player in a red jersey with the number 7 stands on a base in a grassy field during practice. Other children in sports uniforms and adults are visible in the background near a chain-link fence. Photograph read: Captured in bright, direct daylight with a medium shot emphasizing the central action, conveying a casual and energetic youth sports atmosphere. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **sudiarti7034**:  ([link](https://www.threads.com/@sudiarti7034/post/Dfo-UkOlF_b))
-  - Photo: Description: A vibrant pink hibiscus flower is in full bloom, surrounded by glossy green leaves against an earthy outdoor background. The bright petals and prominent stamen create a striking floral close-up suitable for nature content. Photograph read: The subject is captured in natural daylight with a shallow depth of field that isolates the flower from the blurred ground behind it, creating a fresh and botanical
-  - Photo: Description: A close-up shot of a vibrant pink zinnia flower with a detailed yellow center, captured against a softly blurred natural green background. Photograph read: The centered composition and shallow depth of field isolate the vivid flower under soft, natural daylight, creating a peaceful and botanical mood. Photo type: Nature macro
-- **judyparsons7**: Always eyes … so I wouldn’t win any prizes … ([link](https://www.threads.com/@judyparsons7/post/DfpWaBsCFSJ))
-  - _Replying to: Eyes or sensors? 😂😂🤣_
-- **tinnyliznz**:  ([link](https://www.threads.com/@tinnyliznz/post/DfoZozqlDGu))
-  - Photo: Description: A vertical shot captures a bush of bright red roses growing in front of a weathered white and dark grey wooden slat fence. A patch of green grass is in the foreground, with a paved driveway and greenery visible in the background under an overcast sky. Photograph read: The vertical composition uses natural daylight under an overcast sky, creating a calm and balanced mood. Photo type: Snapshot
-    - Watch-outs: Highlights clipped to white in patches on the upper fence and sky
-  - _Replying to: I think letting the roses climb the fence was the right cal…_
-- **tinnyliznz**: It's called Dublin Bay. Should be better than this ([link](https://www.threads.com/@tinnyliznz/post/DfoZknolLjg))
-  - _Replying to: I think letting the roses climb the fence was the right cal…_
-- **miqui822**: Hace un mes que me la regalaron!! ([link](https://www.threads.com/@miqui822/post/DfpCFuoEUMJ))
-  - _Replying to: That is a poinsettia turned all the way up - the red practi…_
-- **elanel50**: Thanks for appreciating it 😊 ([link](https://www.threads.com/@elanel50/post/DfogXxAIErD))
-  - _Replying to: A few years on and it still stops the scroll. Thanks for sh…_
-- **brandy_fletcher004**: You are very welcome, sweet friend. 🌿🌸🦋🌷🌿☺️🍵☕️ ([link](https://www.threads.com/@brandy_fletcher004/post/DfpP061m6PC))
-  - _Replying to: The rain did them a favor. Thanks for sharing it._
-- **refracted_reveries**: Thank you! I took it at exactly 1:21:35PM CET ([link](https://www.threads.com/@refracted_reveries/post/Dfou3T_CGf0))
-  - _Replying to: The light coming through those leaves is the whole shot - e…_
-- **abhimanyu1977**: Tropical fruits ([link](https://www.threads.com/@abhimanyu1977/post/DfnqHsRnwvW))
-  - Photo: Description: A high-angle shot displays an assortment of neatly arranged fresh tropical fruits packaged in styrofoam trays and wrapped in clear plastic. Sliced guava, green and white rose apples, durian, and bananas feature handwritten blue price tags, creating a colorful market display. Photograph read: An overhead, flat-lay composition illuminated by even, direct light captures the vibrant colors and glossy textures of the fruit packaging, creating a clean and orderly mood. Photo type: Documentary
-- **posts.by.norman**: Thanks, as well, for the appreciation. ([link](https://www.threads.com/@posts.by.norman/post/DfoXRd3H46B))
-  - _Replying to: A festival worth the walk. Thanks for sharing it._
-- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/DfnhgoOkomq))
-  - Photo: Description: This low-angle view captures the intricate, geometric coffers of a grand domed ceiling. The symmetrical pattern radiates outward from a central circular opening. Photograph read: The centered vertical composition emphasizes the radial symmetry of the architecture, captured with bright daylight filtering through the open panels. Photo type: Architectural
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **chemacordones**: Es esa planta, aquí otra toma de la misma planta ([link](https://www.threads.com/@chemacordones/post/DfngxOYCBVl))
-  - Photo: Description: Vibrant red crown of thorns flowers and thick green leaves are captured in a close-up, sunlit garden setting. This warm, nature-focused composition makes a bright addition to any plant lover's social feed. Photograph read: The tight framing and selective focus highlight the sharp red petals against blurred, sun-dappled foliage, creating a warm, organic mood. Photo type: Artistic
-    - Watch-outs: Bright petal edges clipped to white; intentional or missed exposure not determinable from the image.
-  - _Replying to: Are those crown of thorns? The red against the glossy green…_
-- **beatrizaliciasalazar**: Uups!! Qué belleza!!👍 ([link](https://www.threads.com/@beatrizaliciasalazar/post/DfnfHqgnDiT))
-  - _Replying to: (photo reply, no text)_
-- **paktty_sg888**: Lo más hermoso Chema wow♥️♥️♥️♥️🙌 ([link](https://www.threads.com/@paktty_sg888/post/DfnTJbEGYE1))
-  - _Replying to: (photo reply, no text)_
-- **chemacordones**: Muchas gracias Paktty, gracias de corazón ([link](https://www.threads.com/@chemacordones/post/DfnTkNlCK_d))
-  - _Replying to: Lo más hermoso Chema wow♥️♥️♥️♥️🙌_
-- **susanrogerskaisch**: It’s hers. She loves balls. She doesn’t just catch them; she also bops them off her nose, like she’s playing volleyball. My husband thought she might have fun with a balloon. Sometimes he’ll blow one up, then let a bit of air out before tying it off so it doesn’t pop easily, and toss it to her. This video shows her playing with the balloon a little. She’s fun. ([link](https://www.threads.com/@susanrogerskaisch/post/DfqOBroDzXe))
-  - _Replying to: Maggie has her eye on that balloon and her paws ready - the…_
-- **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/DfnJgz2GBSb))
-  - Photo: Description: A garter snake with distinct yellow stripes rests on a pile of cut logs surrounded by green foliage. This candid nature snapshot captures wildlife blending into a rustic outdoor habitat. Photograph read: The high-angle framing captures the snake coiled centrally among textured wood, illuminated by natural daylight with a documentary mood. Photo type: Documentary snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **marcinewiese**: My beautiful granddaughters ([link](https://www.threads.com/@marcinewiese/post/DfnJYckGM4W))
-  - Photo: Description: Two young women stand side by side indoors, smiling closely at the camera while the woman on the right holds a canned beverage. The warm indoor lighting and casual party setting suggest a fun night out with friends. Photograph read: Captured in a close-up vertical frame with direct flash illumination, creating a brightly lit subject against a dimly lit background with a cheerful and candid mood. Photo type: Snapshot
-    - Watch-outs: Highlights on foreheads clipped to white from direct flash.
-- **java_and_his_momager_cheryl**: Coast of Maine ([link](https://www.threads.com/@java_and_his_momager_cheryl/post/DfsNfvWo9i-))
-  - _Replying to: Red in front, blue water behind, islands in the distance - …_
-- **miltimus**: Thanks for the keen eye in your feedback. The tree's in a courtyard at St. Michaels College in Colchester, Vermont. It seems to hold onto the leaves for a while but most of the Japanese maples I know have shed by a week or so ago. Will see if can stop by this weekend and check on it. Bonus shot of this tree to follow. ([link](https://www.threads.com/@miltimus/post/DfnQUl2j1Zb))
-  - _Replying to: I think filling the whole frame with red was the right call…_
-- **faythmarie84**: 2 kill a mockingbird is a great book. Lol ([link](https://www.threads.com/@faythmarie84/post/DfnPcQAmeSo))
-  - _Replying to: Showing Red..._
-- **2killamockingbird**: My favourite book... ([link](https://www.threads.com/@2killamockingbird/post/DfnPvTZgImU))
-  - _Replying to: 2 kill a mockingbird is a great book. Lol_
-- **faythmarie84**: One of my favs too. ([link](https://www.threads.com/@faythmarie84/post/DfneGT_macO))
-  - _Replying to: My favourite book..._
-- **bbingco**: Thank you for appreciating it! ❤️ ([link](https://www.threads.com/@bbingco/post/Dfnr7ZuEiuT))
-  - _Replying to: That is what a good view is for. Thanks for sharing it._
-- **edanjojon**: I think it’s out of focus. I took that photo in a rush. 😬 ([link](https://www.threads.com/@edanjojon/post/DfnFkyjkq1Z))
-  - _Replying to: I think the soft focus suits this one - the red-and-white p…_
-- **abnerabel125**:  ([link](https://www.threads.com/@abnerabel125/post/Dfm0diQGyOo))
-  - Photo: Description: This angled close-up view features an intricate, textured wall paneling made of alternating dark and light wooden blocks with prominent grain patterns. The warm lighting highlights the three-dimensional geometric design, creating a rich, patterned surface suitable for architectural or interior design appreciation. Photograph read: Captured from a sharp angle with a shallow depth of field, the warm
-  - Photo: Description: A spiky, three-dimensional geometric ceramic sculpture sits centered on a flat surface against a warm, monochrome background. The lighting creates subtle shadows that accentuate the object's intricate, spiked texture and form. Photograph read: The centered composition and soft, directional lighting emphasize the tactile qualities of the sculpture, creating a
-  - Photo: Description: A low-angle shot captures an intricate, globe-shaped wooden lampshade with a concentric, interwoven pattern glowing warmly from an internal light bulb against a dark background. Photograph read: The symmetrical, centered composition draws the eye toward the bright central light source, creating a moody, high-contrast atmosphere defined by the rich orange tones of the wood and deep shadows. Photo type: Artistic
-    - Watch-outs: Light bulb clipped to white.
-- **abnerabel125**: Long day. Sorry for the late response . Thank you ([link](https://www.threads.com/@abnerabel125/post/DfoQ4g9m6Vh))
-  - _Replying to: What a gift to step outside to. Thanks for sharing it._
-- **remalysh**: Kennywood Park - Pittsburgh Pennsylvania USA ([link](https://www.threads.com/@remalysh/post/Dfmzyy9oKRM))
-  - Photo: Description: A teal roller coaster filled with passengers climbs diagonally upward against a clear blue sky dotted with puffy white clouds, with green trees framing the lower left corner. Photograph read: Captured from a low angle with a vertical diagonal composition, bright daylight highlights the colorful riders and track against a crisp blue sky. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **joaquinencinasphotography**: There are more photos from the parade in my instagram ([link](https://www.threads.com/@joaquinencinasphotography/post/Dfm9Do5Ghnv))
-  - _Replying to: What a celebration to be in the middle of. Thanks for shari…_
-
-### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
-- **2killamockingbird**: Well you did a great job 👏 and glad I didn't have to choose... ([link](https://www.threads.com/@2killamockingbird/post/Dfm00g7AC2I))
-  - _Replying to: Thank you Dee 🙏 and credits to all the photographers. Picki…_
-
-### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
-- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DfnBdTdmif4))
-  - Photo: Description: A low-angle shot captures the sweeping, undulating balconies of a modern apartment building against a clear blue sky. Green foliage peeks in from the bottom left corner, adding a touch of nature to the architectural scene. Photograph read: The low-angle perspective emphasizes the repeating wave-like patterns of the balconies under bright, natural daylight. Photo type: Architectural
-- **bobherrmann6**:  ([link](https://www.threads.com/@bobherrmann6/post/Dfm10GIlVYn))
-  - Photo: Description: A brown rocking chair sits on a wooden deck scattered with fallen leaves, facing a calm body of water surrounded by trees in autumn foliage. An overcast sky provides soft, even lighting across the seasonal landscape. Photograph read: The vertical composition uses the deck railing and the chair to lead the eye toward the water and colorful trees in the background under diffused daylight. Photo type: Snapshot
-- **wenn6077**:  ([link](https://www.threads.com/@wenn6077/post/DfmzZpelWSL))
-  - Photo: Description: A top-down, macro-style close-up of a vibrant pink zinnia flower fills the frame, showcasing its tightly packed, layered petals and textured center against a dark, out-of-focus background. Photograph read: The tight framing centers the symmetrical blossom under even lighting, creating a bold, graphic mood. Photo type: Artistic
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **y_marjorie**: A couple of different days… succulents always amaze me with their patterns! Cloud formation at sunset off my patio a few evenings later! Always enjoy your thoughtful comments on everyone’s posts☺️ ([link](https://www.threads.com/@y_marjorie/post/Dfm3FzBm1Ig))
-  - _Replying to: The sky does its slow orange-and-blue swirl while the nurse…_
-- **mikiec34**: Yes. It's a Thimbleweed. I shot that one in 2016 on an iPhone 7 with a macro lens clip on for a Facebook project I was doing at the University of Washington Medical Center Medicinal Herb Garden. Here is the plant at a different angle. Tons more live at https://www.facebook.com/Uwmedherbphotos Thanks ([link](https://www.threads.com/@mikiec34/post/DfmvbNMBeKY))
-  - Photo: Description: This close-up view features pale green and white flowers with prominent textured centers and yellow stamens, set against a soft-focus natural background. It serves as a detailed nature study suitable for a garden or botany-focused social media post. Photograph read: Captured in diffused daylight, the shallow depth of field isolates the central blooms against a softly blurred background, creating a calm and natural mood. Photo type: Snapshot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - _Replying to: That green dome in the middle looks almost sculpted, with t…_
-- **desbphotos**: It was a freezing winters morning in Washington Square Park. When you see a shot you don't think of the cold, its only after you are walking away you feel it on your fingers and hands ([link](https://www.threads.com/@desbphotos/post/DfoMRoflche))
-  - _Replying to: Benches in fresh snow, flakes still falling, one lone figur…_
-- **auds_lee**: Held the phone high and bent over backwards almost like a human pretzel. ([link](https://www.threads.com/@auds_lee/post/DfmurASEhH0))
-  - _Replying to: I think looking straight up was the right call - the fans a…_
-- **tommybenston**: Not posed. I was already taking pictures of the empty wall on the other side of the train platform when she walked into it and stopped. ([link](https://www.threads.com/@tommybenston/post/DfnPaLKGVKr))
-  - _Replying to: The perforated panel behind her is doing half the work - th…_
-- **ladenizen2**: Maybe 25 meters ([link](https://www.threads.com/@ladenizen2/post/Dfm3wsmGqge))
-  - _Replying to: A row of palms leaning across the blue like they are all in…_
-- **h.b.d.b**:  ([link](https://www.threads.com/@h.b.d.b/post/Dfl8wUBG3ov))
-  - Photo: Description: A close-up, top-down view of heavily cracked, dry earth filling the entire frame. The parched mud forms an intricate pattern of jagged chunks separated by deep fissures under bright daylight. Photograph read: The overhead perspective emphasizes the geometric texture of the cracked earth under harsh, direct light, creating high-contrast shadows within the fissures. Photo type: Documentary
-  - Photo: Description: Vibrant red, purple, and orange autumn leaves fill the frame, densely packed in front of a tree trunk with glimpses of blue sky. The colorful foliage creates a striking seasonal scene. Photograph read: The tight framing emphasizes the rich red tones and textures of the leaves, lit by bright daylight that creates glowing highlights and deep shadows. Photo type: Nature snapshot
-- **ritam1ller**: Yes! Or it may have still been raining lightly. On my way to silversmithing class. Oppo reno 16 phone and Thank you for your comment 😍🌼🙏 ([link](https://www.threads.com/@ritam1ller/post/DfnNFISE6D_))
-  - _Replying to: Those little bells holding their raindrops - the pink blush…_
-- **nix633**: It’s never wrong to notice things. Not in the end. ([link](https://www.threads.com/@nix633/post/DfovHpPiFZw))
-  - _Replying to: Thanks 🙏 😂😂😂 talent and also curse._
-- **wang_fong_ya**: Nature’s own geometry. 🌿💚 I love how the delicate veins of a leaf create such beautiful patterns, especially when light and shadow bring out every detail. ([link](https://www.threads.com/@wang_fong_ya/post/DflRhmIj77o))
-  - Photo: Description: This close-up photo shows the intricate, prominent veins of a large green tropical leaf overlapping another. The dim lighting and rich tones create a moody, botanical aesthetic suitable for nature appreciation. Photograph read: The frame is tightly composed around the vibrant green leaf veins, lit with soft, directional light that highlights the rich textures and deep shadows. Photo type: Artistic
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-- **posts.by.norman**: I agree...'bout the slow walks! ▓ ([link](https://www.threads.com/@posts.by.norman/post/Dfl1syZnwxZ))
-  - _Replying to: Slow walks pay off - the triangles were worth the tired fee…_
-- **citizenb**: Santa Fe is an interesting place with the older parts of town a bit like a maze of adobe buildings. I love it there. ([link](https://www.threads.com/@citizenb/post/DfntPPoERaU))
-  - _Replying to: Looking down that wall, the tiles just keep going - the dia…_
-- **citizenb**: I don’t remember the building. It was in an alleyway. ([link](https://www.threads.com/@citizenb/post/DfnqYtDEYW_))
-  - _Replying to: Looking down that wall, the tiles just keep going - the dia…_
-- **susantodd535**: Thank you kindly ([link](https://www.threads.com/@susantodd535/post/DfnpKBUjz_j))
-  - _Replying to: A triumph all round. Lovely work, both of you._
-- **susantodd535**: Very carefully. It isn’t as easy as it looks. Cutting the mango so you get slices ([link](https://www.threads.com/@susantodd535/post/DflwP-elBVS))
-  - _Replying to: I think the overhead angle is what sells it - that mango sp…_
-- **shiawasemainichi5**: Thank you. I love the colors of this mirror ball. Timing is crucial when taking photos, but the enjoyment after taking them never ends.🎨 ([link](https://www.threads.com/@shiawasemainichi5/post/Dfl2_KKE9oX))
-  - Photo: Description: A close-up shot of a disco ball fills the frame, showcasing its countless tiny reflective mirror squares illuminated in shades of turquoise, gold, and magenta. The festive, glittering surface creates an immersive texture ideal for a party or nightlife post. Photograph read: The tight framing centers the curved surface of the disco ball, capturing vibrant light reflections and deep shadows across its patterned tiles to establish a lively, moody atmosphere. Photo type: Detail shot
-    - Watch-outs: Soft overall; intentional or missed focus not determinable from the image.
-  - _Replying to: An unusual pairing that works beautifully._
-- **2killamockingbird**: Lol no I went to a botanical garden...it was in the gardens ([link](https://www.threads.com/@2killamockingbird/post/Dfl8bqygCkL))
-  - _Replying to: It planted itself and still posed for you. Lovely rosette._
-- **brandy_fletcher004**:  ([link](https://www.threads.com/@brandy_fletcher004/post/DfkvjX0El9U))
-  - Photo: Description: An overhead shot shows a winding mosaic path set into a textured concrete ground, rendered in a high-contrast black and white finish. The mosaic pieces curve through the frame like a stylized river or winding road. Photograph read: The high-angle framing captures the full length of the serpentine mosaic against the grainy pavement, creating a graphic composition enhanced by heavy corner vignetting. Photo type: Documentary
-- **demidova_nadezda**: In fact, this wall is larger, but I liked the scissors in the center and the butterfly, so I chose this part of the panel. ([link](https://www.threads.com/@demidova_nadezda/post/DfnGiKdiGsm))
-  - _Replying to: How long did you stand there picking favorites? A whole gal…_
-- **photog84**: Oh Wow!! This image is amazing!!📷 ([link](https://www.threads.com/@photog84/post/Dfkp76vlDpy))
-- **ccaldwellrn**:  ([link](https://www.threads.com/@ccaldwellrn/post/DfkolIuHyQb))
-  - Photo: Description: This photo captures a wide river winding between towering, pale rock cliffs covered in lush green trees on a partly cloudy day. A few small watercraft are visible in the distance, suggesting a scenic floating or kayaking excursion. Photograph read: Captured from a low water-level perspective, the wide-angle composition emphasizes the scale of the dramatic cliffs under bright daylight, conveying a serene and adventurous outdoor mood. Photo type: Landscape photography
-- **bojonvelvet2.0**: Oh, I didn’t wait. Walked from my hotel up through Lincoln Park to meet a friend for drinks and it was dark by the time I was heading back south. ([link](https://www.threads.com/@bojonvelvet2.0/post/DfnEriTmRk5))
-  - _Replying to: Arches of warm wood against a blue dusk sky, with the skyli…_
-- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DfnEzVRmV6d))
-  - Photo: Description: This photo features an eye-level view through the arched, wooden lattice framework of a pavilion, revealing a distant city skyline under a clear blue sky. The wooden walkway leads the eye toward the opening, flanked by greenery and trees in the midground. Photograph read: The symmetrical composition creates a strong sense of depth and perspective, with bright daylight filtering through the canopy structure and casting sharp shadows across the wooden floor. Photo type: Architectural photograph
-  - _Replying to: Oh, I didn’t wait. Walked from my hotel up through Lincoln …_
-- **katherine_rushton**: I have a biweekly rotation at a fly in reserve in Northern Manitoba at the Nurse Station ￼I am a MHT ☀️ ([link](https://www.threads.com/@katherine_rushton/post/DfnDvz-oxcD))
-  - _Replying to: A propeller in the corner and a sea of clouds below - the w…_
-- **matmarian57**: Baila Baila Baila... ([link](https://www.threads.com/@matmarian57/post/Dfkd0ZXCDhK))
-  - _Replying to: (photo reply, no text)_
-- **matmarian57**: Ooppera talolla ? ([link](https://www.threads.com/@matmarian57/post/DfkhOIuiGOv))
-  - _Replying to: Muutama sata 😃_
-- **sirpatuunanen**: Oopperan ajoista on niin kauan, että ne kuvat on jossain jemmassa paperisina 😃 ([link](https://www.threads.com/@sirpatuunanen/post/DfkhX2kjMi_))
-  - _Replying to: Ooppera talolla ?_
+### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
+- **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
+  - _Replying to: @cheeks1969 Your coneflower opens the Flower Friday favorit…_
 
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (77)
+## Needs Like (11)
 
-### Flower Friday 🌸 Show me a flower. Garden blooms, wildflower… ([thread](https://www.threads.com/@saars.foto/post/Dfr6R79FP-6))
-- picann: My pleasure.☺️ ([link](https://www.threads.com/@picann/post/DfsstT5mQk0))
-- broccoli.bella: Togehter🥰 ([link](https://www.threads.com/@broccoli.bella/post/DfsN3aqiC5H))
-- beckiefitzgerald: Thank you 🥰 ([link](https://www.threads.com/@beckiefitzgerald/post/Dfs3mZ0oBg0))
-- jcoledesign: Perfect ([link](https://www.threads.com/@jcoledesign/post/DfsJMCgG2rh))
-- natazlody: 😊🌸 ([link](https://www.threads.com/@natazlody/post/DfsJamRjJv2))
-- beckiefitzgerald: Beautifully captured! ([link](https://www.threads.com/@beckiefitzgerald/post/DfsGtotIKT9))
-- citizenb: Thanks so much! 😊 ([link](https://www.threads.com/@citizenb/post/DfsHOoBoO4L))
-- citizenb: Beautiful, Muppy! ([link](https://www.threads.com/@citizenb/post/DfsDgjSoDia))
-- remondiazart: Thanks 👍📷📷 ([link](https://www.threads.com/@remondiazart/post/DfsJR9pFldy))
-- charhedman: You’re welcome ! 🙏 ([link](https://www.threads.com/@charhedman/post/DfsAXQdm-nU))
-- citizenb: Welcome! 🤗 ([link](https://www.threads.com/@citizenb/post/DfsHQf3IOUm))
-- 2killamockingbird: 🥰 ([link](https://www.threads.com/@2killamockingbird/post/DfsIIIKgMH_))
-- 2killamockingbird: My pleasure 🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Dfr_9HIgEBY))
+### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
+- tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/Df2ka0ikhyK))
+- mari.d.zk: Thank you very much! ([link](https://www.threads.com/@mari.d.zk/post/Df2i7Ajive6))
+- andy2528788: Thanks 🙏 ([link](https://www.threads.com/@andy2528788/post/Df2acksoLU9))
+- gteam0: Thx again ([link](https://www.threads.com/@gteam0/post/Df2afVFmrCE))
+- beckiefitzgerald: Thank you 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/Df2gD3EoAEC))
+- fragilita_12: Thank you ([link](https://www.threads.com/@fragilita_12/post/Df2eZ73AFiX))
 
-### Blue Thursday favorites 🏆 5 blues that stopped my scroll: @… ([thread](https://www.threads.com/@saars.foto/post/DfrHlBqG9PF))
-- steve.cozort: Yes! ([link](https://www.threads.com/@steve.cozort/post/DfshaBNHQon))
-- sgoodwandering: Awww thanks ([link](https://www.threads.com/@sgoodwandering/post/DfrHuoWDVzR))
+### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
+- charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
 
-### Blue Thursday 💙 Show me blue. Blue is everywhere once you l… ([thread](https://www.threads.com/@saars.foto/post/DfpVCRNm-N_))
-- tammakaye: Socks! ([link](https://www.threads.com/@tammakaye/post/DfqTXNFpf3O))
-- iainriggs: Hah, no. ([link](https://www.threads.com/@iainriggs/post/DfqSLCyka4i))
-- zanders_wire_creations_: Thanks. ([link](https://www.threads.com/@zanders_wire_creations_/post/DfrMnLEm23u))
-- jstvy: The moon ([link](https://www.threads.com/@jstvy/post/Dfrir2Hltej))
-- yogagrandma10: Morning ([link](https://www.threads.com/@yogagrandma10/post/Dfr6bGXGwZl))
-- rosamarmoreira: My pleasure. 🌹 ([link](https://www.threads.com/@rosamarmoreira/post/DfreTZBAOkS))
-- bedford__lisa: The flower 😊 ([link](https://www.threads.com/@bedford__lisa/post/DfprzQAgRSt))
-- maxjohnson41: 🙏 ([link](https://www.threads.com/@maxjohnson41/post/DfqZlWQjt--))
-- bourgonjeastrid: Clerodendron ([link](https://www.threads.com/@bourgonjeastrid/post/DfpsbvLkeBQ))
-- cruscher53: 🙏 ([link](https://www.threads.com/@cruscher53/post/DfqLXsvlSNp))
-- psw1031: Sometimes ([link](https://www.threads.com/@psw1031/post/Dfqs7MUFtc5))
-- moskutin: -7 °C ([link](https://www.threads.com/@moskutin/post/Dfpu1ZSDdCz))
-- nikolaeva2976: Urban 🐋✨🤝 ([link](https://www.threads.com/@nikolaeva2976/post/DfqJt2QDXCn))
-- traynormain: Wonderful!!! ([link](https://www.threads.com/@traynormain/post/DfpenMoGnAJ))
-- charhedman: Thanks, Michael! ([link](https://www.threads.com/@charhedman/post/DfpfJ_VGpPU))
-- taiwanese726: Primary school ([link](https://www.threads.com/@taiwanese726/post/DfpqcOzGRJI))
-- pirtutu: to Dubrovnik ([link](https://www.threads.com/@pirtutu/post/DfpmVPogFFL))
-- tallerthanyou2026: My pleasure ([link](https://www.threads.com/@tallerthanyou2026/post/DfpvHzTj9bQ))
-- c_breeze2025: Moon rise ([link](https://www.threads.com/@c_breeze2025/post/Dfp9bWKmYAQ))
-- saffrongal: Mount Rainier! ([link](https://www.threads.com/@saffrongal/post/DfqSGQNkWHt))
-- beapersaud: Blues ([link](https://www.threads.com/@beapersaud/post/DfpY47jIdBj))
-- dr.r.m20: Zibast 😍 ([link](https://www.threads.com/@dr.r.m20/post/Dfr6O4aiLdi))
-- auscandoc: Nicely played! ([link](https://www.threads.com/@auscandoc/post/DfpebTHmo6f))
-- mazpaz46: Ty 🙏 ([link](https://www.threads.com/@mazpaz46/post/DfphEuwCK-i))
-- baughankaye: Magnificent! ([link](https://www.threads.com/@baughankaye/post/DfprMtFliRB))
-- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfqtMwuGikO))
-- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/DfqtTMBGpp7))
-- srravi: Many thanks 😊 ([link](https://www.threads.com/@srravi/post/Dfpng3OEqE4))
-- beckiefitzgerald: Thank you so much 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DfpsZdSD86x))
-- 2killamockingbird: My pleasure 🙏... ([link](https://www.threads.com/@2killamockingbird/post/DfpaFs5gMLX))
-
-### Red Wednesday favorites 🏆 6 reds that stopped my scroll: @p… ([thread](https://www.threads.com/@saars.foto/post/Dfokz2fm-eu))
-- 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfpTO6zAGLL))
-- posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/DfqbyzEH_5v))
-
-### Red Wednesday ❤️ Show me red. Red is everywhere once you lo… ([thread](https://www.threads.com/@saars.foto/post/Dfmwv0dnOyW))
-- trayjayhay: Yes ([link](https://www.threads.com/@trayjayhay/post/DfpEsT9oUuc))
-- khoojosie: Birthday ([link](https://www.threads.com/@khoojosie/post/Dfn7uNFGzCb))
-- aaronschwartz1: Yes ([link](https://www.threads.com/@aaronschwartz1/post/Dfn_x3pDoRy))
-- sue_wigs: Steam trains ([link](https://www.threads.com/@sue_wigs/post/DfolahTiLw3))
-- susanrogerskaisch: Yes! ([link](https://www.threads.com/@susanrogerskaisch/post/DfqNPvgmRxn))
-- lieta1602: Thank you! ([link](https://www.threads.com/@lieta1602/post/DfoQ5FQFr9e))
-- 2killamockingbird: 🥰 ([link](https://www.threads.com/@2killamockingbird/post/DfoAkGnDOsy))
-- 2killamockingbird: 🙏🙏🙏🙏 thank you 😊 ([link](https://www.threads.com/@2killamockingbird/post/DfnDpHXAF9l))
-- edanjojon: Your wellcome ([link](https://www.threads.com/@edanjojon/post/DfnliPMEoVX))
-- syldelteglia: Thank you!🫶 ([link](https://www.threads.com/@syldelteglia/post/Dfm9tt6AM1O))
-
-### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DfmCpWrFd65))
-- charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/Dfn5PGQG-Qj))
-- dwordops: Thank you ([link](https://www.threads.com/@dwordops/post/DfmMs3IoFH3))
-
-### Pattern Tuesday 🧩 Show me a pattern. Repeats, rhythms, grid… ([thread](https://www.threads.com/@saars.foto/post/DfkRZ2Vmucg))
-- lucillepippetti: Thank you ([link](https://www.threads.com/@lucillepippetti/post/Dfl6JBRlYq9))
-- picsall: Noon. ([link](https://www.threads.com/@picsall/post/DflXR9rmnP7))
-- blackhawkdavej: Celosia ([link](https://www.threads.com/@blackhawkdavej/post/DfnEYqflhXY))
-- cgearhardt: Sacred Geometry ([link](https://www.threads.com/@cgearhardt/post/Dfk7STODwQ9))
-- susantodd535: It was. ([link](https://www.threads.com/@susantodd535/post/DfnpHy_j_oL))
-- susantodd535: Mango cheesecake ([link](https://www.threads.com/@susantodd535/post/Dfk7TMVgbfk))
-- koza.100: After ([link](https://www.threads.com/@koza.100/post/Dfk9ElVjvVr))
-- debanne68:  ([link](https://www.threads.com/@debanne68/post/Dfk2DyBkmSM))
-- raijapoignand: About 16cm ([link](https://www.threads.com/@raijapoignand/post/DflFA6mEqld))
-- jeanrwestcott: Bee distance ([link](https://www.threads.com/@jeanrwestcott/post/Dfk8waWIPo7))
-- yvetime: For Christmas ([link](https://www.threads.com/@yvetime/post/Dfk9afQDS-N))
-- 2killamockingbird: Beautiful... ([link](https://www.threads.com/@2killamockingbird/post/DfkvXvfjqBV))
-- unmitigatedme: Thank you! ([link](https://www.threads.com/@unmitigatedme/post/DflasTeEd1U))
-- lizetteniemand: Before sunrise ([link](https://www.threads.com/@lizetteniemand/post/DfmeH3jiIG0))
-- reef_ausic: After watering 🫢🫢🫢 ([link](https://www.threads.com/@reef_ausic/post/DfloChuknGY))
-- nimaalaa1: Thank you 🤗💕 ([link](https://www.threads.com/@nimaalaa1/post/DfkiJKoiPti))
-- matmarian57: Ainakin joku ([link](https://www.threads.com/@matmarian57/post/Dfkd15mCESK))
-- sirpatuunanen: Muutama sata 😃 ([link](https://www.threads.com/@sirpatuunanen/post/DfkhDNnDFYb))
+### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
+- cheeks1969: Thank you. ([link](https://www.threads.com/@cheeks1969/post/DfuWmZUlUhe))
+- 2killamockingbird: 🙏🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujbGZgHEs))
+- 2killamockingbird: 🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujaGjABsl))
 
