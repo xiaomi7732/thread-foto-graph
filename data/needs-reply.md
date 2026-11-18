@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (32)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Gorgeous picks for Tuesday 👏👏👏👏 ([link](https://www.threads.com/@2killamockingbird/post/Df4Lnc6AKGt))
@@ -12,6 +12,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **aussky**:  ([link](https://www.threads.com/@aussky/post/Df4S9UDGMDB))
+  - Photo: Description: A long line of orange and red BNSF locomotives, numbered 6754, travels along a railway track through a dry, grassy landscape with bare trees under an overcast sky. Photograph read: The image is taken from a side angle, with the locomotives in motion, showing their front and sides. The headlights are on, casting bright illumination on the front. The sky is uniformly gray, and the surrounding vegetation is dry and muted in tone. The image has a moderate level of sharpness, with details on the locomotives discernible but not crisp. Photo type: Transportation photography
 - **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/Df4HUnOCrgf))
   - Photo: Description: A dark, textured, sculptural object with intricate golden swirl patterns is mounted on a dark panel, set against a light-colored wall. Photograph read: The image is vertically oriented, with the subject centered on the panel. Lighting is even and diffuse, casting minimal shadows. The surface texture of the object is visible, and the golden lines appear as applied decorative elements. Photo type: Artistic
 - **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df4BMZaCFG3))
