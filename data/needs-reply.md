@@ -4,9 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (55)
+## Needs Reply (61)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **phatshutter**:  ([link](https://www.threads.com/@phatshutter/post/Df49E23lGYH))
+  - Photo: Description: A nighttime urban scene features two illuminated rectangular structures: one large, blue-lit brick facade on the left, and a smaller, vertically oriented screen displaying a human face on the right. A solitary figure stands between them on a wet pavement that reflects the lights. Photograph read: The composition is framed with the blue structure on the left and the face screen on the right, separated by a central figure. Lighting is artificial and directional, casting strong reflections on the wet ground. The sky is uniformly dark with no discernible stars or moon. The face screen is brightly lit, while the blue structure’s illumination is more diffuse and textured. Photo type: Night photography with artificial lighting
+    - Watch-outs: - The face on the screen is partially obscured by the silhouette of the figure, reducing readability of facial features. - Reflections on the wet pavement create distorted, low-contrast images of the structures, obscuring fine detail in the foreground.
+- **linda73linda**:  ([link](https://www.threads.com/@linda73linda/post/Df49DAODdEh))
+  - Photo: Description: A calm river flows through a green, tree-lined landscape, with a prominent weeping willow illuminated by golden light in the center, its reflection visible on the water’s surface. Photograph read: The composition is framed by overhanging branches in the foreground, with the river and distant trees occupying the midground. Lighting suggests late afternoon sun, casting warm tones on the central tree and its reflection. The water surface is relatively still, showing clear reflections. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Natural landscape
+- **mullett.chris**:  ([link](https://www.threads.com/@mullett.chris/post/Df483STEaST))
+  - Photo: Description: The image shows the Gateway Arch in St. Louis, reflected in a calm body of water with ducks swimming nearby, under a partly cloudy sky, surrounded by trees and greenery. Photograph read: The composition is centered on the arch, with its reflection clearly visible in the water. Lighting is bright and even, suggesting daylight with scattered clouds. The rendering preserves detail in both the arch and its reflection, with natural color saturation and minimal visible compression artifacts. Photo type: Landscape
+- **smasso9015**:  ([link](https://www.threads.com/@smasso9015/post/Df48wOljQ6n))
+  - Photo: Description: A calm body of water reflects a vibrant autumnal tree line and a distant stone tower under a partly cloudy sky, framed by foreground foliage. Photograph read: The composition is framed by overhanging branches, with the water surface mirroring the sky and trees. Lighting is bright and even, suggesting daylight. Rendering shows rich color saturation and clear reflections, though some foliage edges are slightly soft. Photo type: Landscape
 - **susiestar32**:  ([link](https://www.threads.com/@susiestar32/post/Df48ZimFmDh))
   - Photo: Description: A shallow pool of water on a sandy beach reflects a bright, orange-yellow sky, with waves rolling in from the ocean and a distant shoreline visible under an overcast sky. Photograph read: The composition is horizontally oriented, with the pool in the foreground and the ocean and horizon in the background. Lighting is diffuse, with the reflection in the pool being the most saturated element. The image has a flat, muted color palette overall, with no visible lens distortion or chromatic aberration. Photo type: Natural landscape
 - **mallabrand**: Siglufjörður, Iceland ([link](https://www.threads.com/@mallabrand/post/Df47xy9CBEf))
@@ -50,6 +59,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: How still was that pond when you took this? The bare branch…_
 - **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
   - _Replying to: (photo reply, no text)_
+- **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))
+  - _Replying to: Thank you so much 💗_
 - **2killamockingbird**: I had to wait quite a while... ([link](https://www.threads.com/@2killamockingbird/post/Df48XWcAJtl))
   - _Replying to: The swan gets the whole lake to itself and still shares the…_
 - **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
@@ -60,6 +71,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two bikes for the price of one, and the wet sand does the s…_
 - **srravi**: Many thanks 😊 first is sunset the other two in the morning after sunrise…actually it wasn’t all that difficult to frame if you know what to expect in each given place…since all are close to home I know what each place offers… ([link](https://www.threads.com/@srravi/post/Df455atGtQd))
   - _Replying to: Three frames, three kinds of still water - the sunset doing…_
+- **beapersaud**: No. This is near to my sister's apartment. ([link](https://www.threads.com/@beapersaud/post/Df4867CkiBg))
+  - _Replying to: The cloudy light suits it - no glare, just the trees drawin…_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
 - **2killamockingbird**: Always a pleasure Saars🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Df41ssCAHvv))

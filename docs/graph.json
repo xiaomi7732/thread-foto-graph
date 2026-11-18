@@ -13,8 +13,59 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 61,
+      "reply_count": 68,
       "replies": [
+        {
+          "username": "phatshutter",
+          "text": "",
+          "permalink": "https://www.threads.com/@phatshutter/post/Df49E23lGYH",
+          "photos": [
+            "Description: A nighttime urban scene features two illuminated rectangular structures: one large, blue-lit brick facade on the left, and a smaller, vertically oriented screen displaying a human face on the right. A solitary figure stands between them on a wet pavement that reflects the lights. Photograph read: The composition is framed with the blue structure on the left and the face screen on the right, separated by a central figure. Lighting is artificial and directional, casting strong reflections on the wet ground. The sky is uniformly dark with no discernible stars or moon. The face screen is brightly lit, while the blue structure\u2019s illumination is more diffuse and textured. Photo type: Night photography with artificial lighting"
+          ],
+          "watch_outs": [
+            "- The face on the screen is partially obscured by the silhouette of the figure, reducing readability of facial features. - Reflections on the wet pavement create distorted, low-contrast images of the structures, obscuring fine detail in the foreground."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "linda73linda",
+          "text": "",
+          "permalink": "https://www.threads.com/@linda73linda/post/Df49DAODdEh",
+          "photos": [
+            "Description: A calm river flows through a green, tree-lined landscape, with a prominent weeping willow illuminated by golden light in the center, its reflection visible on the water\u2019s surface. Photograph read: The composition is framed by overhanging branches in the foreground, with the river and distant trees occupying the midground. Lighting suggests late afternoon sun, casting warm tones on the central tree and its reflection. The water surface is relatively still, showing clear reflections. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mullett.chris",
+          "text": "",
+          "permalink": "https://www.threads.com/@mullett.chris/post/Df483STEaST",
+          "photos": [
+            "Description: The image shows the Gateway Arch in St. Louis, reflected in a calm body of water with ducks swimming nearby, under a partly cloudy sky, surrounded by trees and greenery. Photograph read: The composition is centered on the arch, with its reflection clearly visible in the water. Lighting is bright and even, suggesting daylight with scattered clouds. The rendering preserves detail in both the arch and its reflection, with natural color saturation and minimal visible compression artifacts. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "smasso9015",
+          "text": "",
+          "permalink": "https://www.threads.com/@smasso9015/post/Df48wOljQ6n",
+          "photos": [
+            "Description: A calm body of water reflects a vibrant autumnal tree line and a distant stone tower under a partly cloudy sky, framed by foreground foliage. Photograph read: The composition is framed by overhanging branches, with the water surface mirroring the sky and trees. Lighting is bright and even, suggesting daylight. Rendering shows rich color saturation and clear reflections, though some foliage edges are slightly soft. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "susiestar32",
           "text": "",
@@ -481,7 +532,29 @@
                   "needs_response": true,
                   "action": "like",
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "nick.hollands.338",
+                      "text": "You are welcome Denise",
+                      "permalink": "https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "2killamockingbird",
+                          "text": "\u2593",
+                          "permalink": "https://www.threads.com/@2killamockingbird/post/Df489N3gGZL",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -623,7 +696,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "beapersaud",
+                  "text": "No. This is near to my sister's apartment.",
+                  "permalink": "https://www.threads.com/@beapersaud/post/Df4867CkiBg",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
