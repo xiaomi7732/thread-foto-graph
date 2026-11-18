@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (63)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df5BE4MEacI))
+  - Photo: Description: A calm lake reflects distant, rugged mountains under a clear blue sky, framed by tree branches in the foreground and rocky shorelines. Photograph read: The composition is vertically oriented, with foreground rocks and foliage framing the scene. Lighting is bright and even, suggesting midday. Reflections in the water are clear and symmetrical, though the water surface shows slight ripples. The image appears to be a direct capture without visible post-processing artifacts. Photo type: Landscape
 - **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/Df5AbEhI7nQ))
   - Photo: Description: A person in a bright red coat walks away from the camera across a wet urban street, with their reflection visible in a puddle. The setting includes a sidewalk, a crosswalk, and a building facade to the left. Photograph read: The image is shot from a low angle, emphasizing the reflection of the figure in the puddle. Lighting appears diffused, likely from an overcast sky, casting soft shadows. The rendering is somewhat grainy, with visible texture in the wet pavement and reflections. Photo type: Urban street photography
     - Watch-outs: The reflection in the puddle is distorted and partially obscured by ripples, limiting clarity of the subject’s lower body. The upper body and face are not visible, making identification of the subject’s features impossible.
