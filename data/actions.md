@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (87)
+## Needs Reply (88)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **muppy007**:  ([link](https://www.threads.com/@muppy007/post/Df5UkyEiFa6))
+  - Photo: Description: A calm body of water reflects a forested shoreline under a partly cloudy sky, with trees and sky mirrored on the surface; the foreground shows a dirt bank with sparse vegetation and a netted edge. Photograph read: The image is composed with the water surface occupying the lower half, reflecting the sky and trees; lighting is bright and even, suggesting daytime; rendering is clear with visible texture in foliage and water surface, though some small debris and submerged objects are discernible. Photo type: Natural landscape
 - **nanceharder81**: Dawn ([link](https://www.threads.com/@nanceharder81/post/Df5SsyOCYWz))
   - Photo: Description: A calm lake at dawn or dusk reflects a hazy sky with soft orange and gray tones, bordered by dark silhouettes of forested hills and low-lying mist. Photograph read: The composition is horizontally balanced, with the water surface mirroring the sky and distant hills. Lighting is diffuse and muted, with no strong directional highlights. Rendering is smooth with minimal visible texture or grain. Photo type: Landscape
 - **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/Df5R-P9Fu2I))
