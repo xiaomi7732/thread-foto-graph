@@ -6,9 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (24)
+## Needs Reply (28)
+
+### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
+- **lucillepippetti**: She's my new Plant model. I found her at a craft fair on Saturday. Thank you so much. ([link](https://www.threads.com/@lucillepippetti/post/Df4GAlfFnW_))
+  - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
+- **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df4BMZaCFG3))
+  - Photo: Description: The photograph shows a close-up of a green, segmented cactus with numerous radial spines emerging from areoles. The background is out of focus and contains indistinct, dry vegetation. Photograph read: The image is a macro shot with shallow depth of field, focusing on the cactus’s surface. Lighting is even and diffused, illuminating the spines and ridges without harsh shadows. The rendering preserves texture but lacks sharpness in the background. Photo type: Macro
+- **pattymooney69**:  ([link](https://www.threads.com/@pattymooney69/post/Df3_FvDFI_a))
+  - Photo: Description: A spider with patterned legs and a marked abdomen is positioned at the center of a web, with a captured prey item visible beneath it; the background is out of focus greenery. Photograph read: The image has a shallow depth of field, with the spider and web in relative focus against a blurred background. Lighting is even and natural, with no visible signs of flash or harsh shadows. The rendering preserves the spider’s markings and web structure, though fine details are not sharply defined. Photo type: Natural
+- **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/Df3-vseFbp5))
+  - Photo: Description: The photograph shows a close-up, top-down view of a succulent plant with fleshy, green, pointed leaves arranged in a rosette pattern, each leaf bearing small white spots and serrated edges. Photograph read: The image is a tight crop with even, diffused lighting that highlights the texture and pattern of the leaves. The composition centers on the plant’s rosette, with a shallow depth of field causing the background to be out of focus and indistinct. Photo type: Macro
 - **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
   - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
     - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
@@ -21,6 +31,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image shows a close-up of frost patterns forming on a dark, possibly wet surface, with a central, irregularly shaped patch of un-frosted area. Photograph read: The composition is dominated by intricate, branching frost structures. Lighting is dim and diffuse, casting uniform shadows and lacking contrast. The image appears to be captured with a standard camera sensor, showing no visible lens distortion or chromatic aberration. Photo type: Macro
     - Watch-outs: - The central un-frosted area is indistinct due to low contrast and lack of detail, making it difficult to discern its shape or texture. - Frost patterns are partially obscured by low resolution, limiting the visibility of fine branches and edges in many regions.
   - _Replying to: (photo reply, no text)_
+- **posts.by.norman**: Always happy to share! ([link](https://www.threads.com/@posts.by.norman/post/Df4EidiH7_D))
+  - _Replying to: Rainy season light suits those fronds - every drop in place…_
 - **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df2-AHHFv_E))
   - Photo: Description: A single white daisy with a yellow center is in focus, set against a dark, out-of-focus background with faint hints of green foliage. Photograph read: The main subject is centered, with soft focus on the petals and center; background is uniformly blurred. Lighting is even, without harsh shadows or highlights. The image has a shallow depth of field, with no visible signs of motion blur or sensor noise. Photo type: Portrait
 - **dalesmith_namaste**: I am not any number of things, first and foremost a "photographer." Mostly, I point a cellphone at something that brings me joy and push a button. Thank you for your patience and kindness. 🕉️ ([link](https://www.threads.com/@dalesmith_namaste/post/Df3cdtNGqyv))
@@ -73,16 +85,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **syldelteglia**: Thank you for being so kind and commenting every pic. LOVE your theme days. ([link](https://www.threads.com/@syldelteglia/post/Df2TLt3AOpx))
   - _Replying to: Thanks for sharing it - a place that clearly stays with you._
 
-### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
-- **2killamockingbird**: Many Many thanks 😊 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DftwspogONM))
-  - _Replying to: @cheeks1969 Your coneflower opens the Flower Friday favorit…_
-
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (12)
+## Needs Like (9)
 
 ### Pattern Tuesday This week, get close. Show me a pattern hid… ([thread](https://www.threads.com/@saars.foto/post/Df2NFsHoIL5))
 - d1xshooter: Unfortunately no ([link](https://www.threads.com/@d1xshooter/post/Df2-sfnmbnN))
@@ -96,9 +104,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Neighborhood find: a Plymouth Barracuda, parked up in a dri… ([thread](https://www.threads.com/@saars.foto/post/DfxZ3y_FpEE))
 - charhedman: You’re welcome ! ([link](https://www.threads.com/@charhedman/post/DfxxgRRkmJF))
-
-### Flower Friday favorites 🏆 5 flowers that stopped my scroll:… ([thread](https://www.threads.com/@saars.foto/post/DftsXzyFUuG))
-- cheeks1969: Thank you. ([link](https://www.threads.com/@cheeks1969/post/DfuWmZUlUhe))
-- 2killamockingbird: 🙏🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujbGZgHEs))
-- 2killamockingbird: 🙏🙏 ([link](https://www.threads.com/@2killamockingbird/post/DfujaGjABsl))
 
