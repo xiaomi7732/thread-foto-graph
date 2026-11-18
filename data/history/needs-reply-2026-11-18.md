@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (81)
+## Needs Reply (82)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **tooly_chinga**:  ([link](https://www.threads.com/@tooly_chinga/post/Df5Ogc9FlH6))
+  - Photo: Description: A person wearing a helmet, sunglasses, and layered winter gear stands outdoors in a snowy, wooded area; the background includes trees and part of a vehicle. Photograph read: The image is a close-up portrait with natural outdoor lighting; the subject is in focus, but the background is softly blurred. Reflections are visible on the sunglasses lenses. Photo type: Portrait
 - **gnd_moments_in_paradise**:  ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5NlHRiMrc))
   - Photo: Description: A beach scene at sunset, with the sky displaying vibrant orange, pink, and purple clouds above a calm sea, and the wet sand reflecting the sky’s colors. Photograph read: The composition is wide, capturing the horizon, waves, and reflections. Lighting is soft and diffuse, with the sun low on the horizon. Colors are saturated and rendered with visible contrast between sky and sea. Reflections on the wet sand are prominent and detailed. Photo type: Landscape
 - **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/Df5NbfKGqje))
