@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (69)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **picchic17**:  ([link](https://www.threads.com/@picchic17/post/Df5KSJKGzlF))
+  - Photo: Description: A calm body of water reflects a partly cloudy sky, with distant forested shores and a few small boats visible. The right shoreline is dark and tree-lined, with a rocky edge. Photograph read: The sky is bright with scattered white clouds, and sunlight creates a glare on the water’s surface. The water’s surface shows gentle ripples and reflections. The distant forest and boats are silhouetted against the brighter sky. The right shoreline is in deep shadow, obscuring texture and detail. Photo type: Natural landscape
+    - Watch-outs: - Right shoreline: Deep shadow obscures texture and detail. - Distant forest and boats: Silhouetted, lacking discernible detail.
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df5KNTPn-jq))
+  - Photo: Description: A calm body of water reflects autumn trees with golden and reddish foliage against a clear blue sky, bordered by grassy banks and reeds. Photograph read: The composition is horizontally oriented, with the water surface occupying the foreground and trees in the midground. Lighting is bright and direct, casting clear reflections. Rendering is sharp across the visible elements, with no apparent motion blur or chromatic aberration. Photo type: Natural landscape
 - **dwordops**:  ([link](https://www.threads.com/@dwordops/post/Df5I1ITk-Bn))
   - Photo: Description: The photograph shows the Audi four-ring emblem mounted on a glossy, reflective surface, likely a car hood, with a sky and clouds visible in the reflections. Photograph read: The emblem is in sharp focus, with clear metallic surfaces and reflections. Lighting is bright and even, suggesting daylight. Reflections in the emblem and surface show clouds and distant silhouettes, indicating a clear sky. The surface has minor specks and imperfections visible. Photo type: Still life
 - **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/Df5IwIwCFiE))
