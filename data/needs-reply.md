@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (61)
+## Needs Reply (65)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Df49mLXn-pT))
+  - Photo: Description: A close-up view of the front corner of a dark-colored vehicle, showing the hood, headlight, and turn signal, with water droplets scattered across the surface. Photograph read: The image is composed with the vehicle’s front end angled toward the viewer, featuring a glossy finish that reflects overhead lighting. Lighting is directional, creating bright specular highlights on the hood and headlight surfaces, with shadows defining the contours. The water droplets are visible as distinct, rounded specular points across the surface. Photo type: Macro
+    - Watch-outs: Water droplets obscure fine surface texture on the hood and headlight housing; the droplets are visible as discrete, bright spots that reduce the perception of underlying detail. Reflections on the hood surface are distorted by the droplets, making it difficult to discern the exact shape and finish of the hood’s contours.
+- **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
+  - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
+- **stickyshutterphotography**:  ([link](https://www.threads.com/@stickyshutterphotography/post/Df49PbaDlVu))
+  - Photo: Description: A cable-stayed bridge with two tall pylons spans a body of water, with its reflection visible in a shallow, grass-lined waterway in the foreground. A large ship is visible in the distance on the water. Photograph read: The bridge and its reflection are symmetrically framed, with the sky showing a gradient from pale blue to soft orange near the horizon. The lighting suggests late afternoon or early morning. Reflections are clear in the foreground water, though the water surface is not perfectly still, showing slight ripples. Photo type: Architectural landscape
 - **phatshutter**:  ([link](https://www.threads.com/@phatshutter/post/Df49E23lGYH))
   - Photo: Description: A nighttime urban scene features two illuminated rectangular structures: one large, blue-lit brick facade on the left, and a smaller, vertically oriented screen displaying a human face on the right. A solitary figure stands between them on a wet pavement that reflects the lights. Photograph read: The composition is framed with the blue structure on the left and the face screen on the right, separated by a central figure. Lighting is artificial and directional, casting strong reflections on the wet ground. The sky is uniformly dark with no discernible stars or moon. The face screen is brightly lit, while the blue structure’s illumination is more diffuse and textured. Photo type: Night photography with artificial lighting
     - Watch-outs: - The face on the screen is partially obscured by the silhouette of the figure, reducing readability of facial features. - Reflections on the wet pavement create distorted, low-contrast images of the structures, obscuring fine detail in the foreground.
@@ -89,6 +96,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up shows a white, five-petaled flower with orange anthers against a background of green leaves. The flower’s surface has a textured, slightly granular appearance. Photograph read: The image is a macro shot with natural lighting, capturing fine surface texture and leaf veins. The focus is centered on the flower, with the background leaves slightly out of focus. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
 - **marysticht79**: It's an iconic piece of Portuguese goldsmithing. I photographed it at an exhibition. ([link](https://www.threads.com/@marysticht79/post/Df4vS7MCvxH))
   - _Replying to: The gold lines never sit still - every curl leads into anot…_
+- **pattymooney69**: Quite a while, so fascinating. You seem to know a lot about this critter! ([link](https://www.threads.com/@pattymooney69/post/Df49wLEFLle))
+  - _Replying to: The wrapped parcel underneath says dinner is sorted - and t…_
 - **lucillepippetti**: I love that you give feedback. Thanks ([link](https://www.threads.com/@lucillepippetti/post/Df475mYIFhT))
   - _Replying to: The white dots are the whole trick - every leaf dusted the …_
 - **lucillepippetti**: Yes it is. ([link](https://www.threads.com/@lucillepippetti/post/Df47zRcIGlX))
