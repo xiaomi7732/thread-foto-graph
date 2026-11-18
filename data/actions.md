@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (90)
+## Needs Reply (92)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **hughietheliger**:  ([link](https://www.threads.com/@hughietheliger/post/Df5WT1RI2jA))
+  - Photo: Description: A calm lake reflects a sky with wispy clouds and tree-lined shores, viewed from the end of a metal dock with fishing gear resting on it. Photograph read: The composition is symmetrical, with the dock leading into the frame. Lighting suggests late afternoon or early morning, with soft illumination on the treeline. Reflections are clear and detailed, indicating still water. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Landscape
+- **sanchionidawn**:  ([link](https://www.threads.com/@sanchionidawn/post/Df5V-wMEsqk))
+  - Photo: Description: A highway with a concrete barrier and a reddish-brown overpass in the midground, under a heavily clouded sky with a faint rainbow arc visible behind the clouds. Distant mountains and sparse vegetation are visible beyond the overpass. Photograph read: The image is taken from a vehicle, showing a wide, slightly wet road surface. The sky is dominated by dark, layered clouds, with a subtle rainbow visible as a thin, low-contrast arc. Lighting is diffuse and even, with no strong directional highlights or shadows. The image has a flat, muted color palette with no visible lens distortion or chromatic aberration. Photo type: Documentary
 - **yvonnepevie**: My favourite one but you may have seen it before. I’ve posted it on a few reflection requests. Port Rexton, NL. 💕 ([link](https://www.threads.com/@yvonnepevie/post/Df5VWaalKK8))
   - Photo: Description: The image shows a tall, slender sea stack and a larger cliff face rising from calm water, with their reflections visible in the surface. The sky is partly cloudy. Photograph read: The composition is vertical, with the sea stack on the left and the cliff on the right. Lighting is natural daylight, with shadows on the rock faces. Reflections in the water are clear but slightly distorted by ripples. The image has no visible signs of motion blur, focus issues, or color banding. Photo type: Natural landscape
 - **32groove**:  ([link](https://www.threads.com/@32groove/post/Df5VNfyj9Y7))
