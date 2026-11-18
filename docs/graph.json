@@ -13,8 +13,35 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 185,
+      "reply_count": 188,
       "replies": [
+        {
+          "username": "jglass8",
+          "text": "Behind you",
+          "permalink": "https://www.threads.com/@jglass8/post/Df5MQ64G_mZ",
+          "photos": [
+            "Description: The image shows a view from a car\u2019s side mirror, reflecting a sunset with warm orange and pink hues across the sky, a road with distant vehicles, and silhouettes of trees and palm trees along the roadside. Photograph read: The mirror\u2019s reflective surface captures a wide-angle view of the road ahead and the sky, with the car\u2019s own body visible on the right side of the frame. Lighting is dominated by the sunset\u2019s glow, casting a warm reflection on the car\u2019s surface. The image has a shallow depth of field, with the mirror\u2019s edge and the car\u2019s body in sharper focus than the distant road and sky. Photo type: Reflection"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "simon_thenoisygoat",
+          "text": "Only edited to show the trees the \"right way up\".",
+          "permalink": "https://www.threads.com/@simon_thenoisygoat/post/Df5MIzPkaCn",
+          "photos": [
+            "Description: The image shows a distorted reflection of bare trees in a shallow, circular pool of water, surrounded by a textured, possibly mossy or gravelly surface. Photograph read: The composition is centered on the water\u2019s surface, which reflects the tree silhouettes and a pale sky. The rendering is soft and slightly streaked, with visible motion blur or lens distortion. Lighting is diffuse, with no strong directional highlights or shadows. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "- The entire image appears blurred; fine detail is not distinguishable. - Reflections are warped and indistinct, obscuring tree branches and water surface texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mike_g_crawley",
           "text": "A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.)",
@@ -478,7 +505,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ulrike6417",
+                  "text": "Das war zur Mittagszeit!",
+                  "permalink": "https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

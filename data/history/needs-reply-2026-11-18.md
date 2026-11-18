@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (75)
+## Needs Reply (78)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **jglass8**: Behind you ([link](https://www.threads.com/@jglass8/post/Df5MQ64G_mZ))
+  - Photo: Description: The image shows a view from a car’s side mirror, reflecting a sunset with warm orange and pink hues across the sky, a road with distant vehicles, and silhouettes of trees and palm trees along the roadside. Photograph read: The mirror’s reflective surface captures a wide-angle view of the road ahead and the sky, with the car’s own body visible on the right side of the frame. Lighting is dominated by the sunset’s glow, casting a warm reflection on the car’s surface. The image has a shallow depth of field, with the mirror’s edge and the car’s body in sharper focus than the distant road and sky. Photo type: Reflection
+- **simon_thenoisygoat**: Only edited to show the trees the "right way up". ([link](https://www.threads.com/@simon_thenoisygoat/post/Df5MIzPkaCn))
+  - Photo: Description: The image shows a distorted reflection of bare trees in a shallow, circular pool of water, surrounded by a textured, possibly mossy or gravelly surface. Photograph read: The composition is centered on the water’s surface, which reflects the tree silhouettes and a pale sky. The rendering is soft and slightly streaked, with visible motion blur or lens distortion. Lighting is diffuse, with no strong directional highlights or shadows. Photo type: Unclear
+    - Watch-outs: - The entire image appears blurred; fine detail is not distinguishable. - Reflections are warped and indistinct, obscuring tree branches and water surface texture.
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **p.a.tovo**: Nadine. ([link](https://www.threads.com/@p.a.tovo/post/Df5K3VLFCZT))
@@ -52,6 +57,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The trunks melt into gold ribbons and the water keeps no st…_
 - **smilingjeannie**: The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive. ([link](https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp))
   - _Replying to: That little tree earns a second showing in the water, small…_
+- **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
+  - _Replying to: The peaks come back so sharply the lake reads like a second…_
 - **diane_fediw**: Yellow taxi #1 Autumn road #5 ([link](https://www.threads.com/@diane_fediw/post/Df5Ltb1FbcV))
   - _Replying to: Five frames and the mirror keeps changing its mind - yellow…_
 - **5gttexbn**: No,it was a very hot and very still day ([link](https://www.threads.com/@5gttexbn/post/Df5K7jwEb2p))
