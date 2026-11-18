@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (68)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **allison.ludwig.31**: Arkansas river. ([link](https://www.threads.com/@allison.ludwig.31/post/Df5ivl7mNhi))
+  - Photo: Description: A black-and-white image shows a reflective water surface with bright specular highlights, set against a dark, indistinct shoreline and background. Photograph read: The composition is dominated by the water’s reflective surface, with strong contrast between bright glints and deep shadows. The lighting appears to be direct and intense, creating a high-contrast scene. The background is uniformly dark, obscuring any discernible features. Photo type: High-contrast landscape
+    - Watch-outs: - The upper portion of the image is uniformly dark, obscuring any identifiable features of the shoreline or distant objects. - The water surface, while detailed with glints, lacks texture or motion detail due to the monochrome rendering and lack of mid-tones.
+  - Photo: Description: The photograph shows a river or wide stream with scattered ice or shallow water, viewed through the silhouettes of bare tree branches in the foreground, with a dark, tree-lined bank in the background. Photograph read: The image is characterized by high contrast between the bright, reflective water surface and the dark silhouettes of branches and distant trees. The branches are in sharp silhouette, but the water surface shows glare and texture without clear detail. The background is uniformly dark, obscuring any specific features. Photo type: Silhouetted landscape
+    - Watch-outs: - Foreground branches obscure parts of the water surface, reducing visibility of texture and detail in those areas. - Background is uniformly dark, making it impossible to discern specific features or objects beyond the general tree line.
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
   - Photo: Description: The image shows a child’s reflection in a car’s side mirror, holding a blue and orange Nerf gun, with a blurred dinosaur figure visible in the background through the trees. Photograph read: The composition is framed by the mirror’s edge, with the child and gun in focus within the reflection. Lighting is bright and natural, with green foliage in the background. The mirror surface reflects the scene clearly, while the background beyond the mirror is out of focus. Photo type: Reflection
     - Watch-outs: The dinosaur figure in the background is blurred and indistinct, making its features unreadable. The child’s face in the reflection is partially obscured by the sunglasses and the angle of the mirror, limiting facial detail.
@@ -46,6 +51,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Dawn doubles itself so softly the mist sits between the two…_
 - **tooly_chinga**: It is a 250ft cell tower we had to climb to do some minor repairs. It's my highest climb. ([link](https://www.threads.com/@tooly_chinga/post/Df5iDugFsOg))
   - _Replying to: The lenses catch a tall shape twice over, and the orange ne…_
+- **gnd_moments_in_paradise**: The waves were actually coming right up to where I was standing. I had to wait for the wave to recede then take picture before the incoming wave arrived. In the picture you can see the outgoing and incoming wave. The reflection was magnificent. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5ivTaiFsM))
+  - _Replying to: The wet sand hands the whole sunset back - orange clouds, p…_
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **p.a.tovo**: Nah, she's a typical cat....new hangout every day. ([link](https://www.threads.com/@p.a.tovo/post/Df5h1OJlCgz))
@@ -54,6 +61,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The clouds get a second sky in the bay, and the boats just …_
 - **kayslazydays**:  ([link](https://www.threads.com/@kayslazydays/post/Df5Em7dEVsA))
   - Photo: Description: A woman in a blue top and black pants crouches near a child in a pink outfit riding a bicycle on a wet beach, while two brown dogs walk nearby; in the background are rocky cliffs, a grassy area, parked cars, and residential houses. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting clear reflections on the wet sand. The composition places the subjects in the foreground, with the background showing a layered landscape. The image appears sharp, with no visible motion blur or focus issues. Photo type: Natural
+- **thatguyale**: It's actually a rear back window of a parked car. I took the pic while walking my dog. ([link](https://www.threads.com/@thatguyale/post/Df5jGQbAf73))
+  - _Replying to: Did you polish the car for the shot, or does it always carr…_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
   - _Replying to: The peaks come back so sharply the lake reads like a second…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
