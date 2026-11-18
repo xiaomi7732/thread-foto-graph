@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (72)
+## Needs Reply (74)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **arigari33**:  ([link](https://www.threads.com/@arigari33/post/Df5DpB_FhBT))
+  - Photo: Description: A tree with bare branches and scattered autumn leaves is reflected in still, dark water, with additional leaves floating on the surface. Photograph read: The composition features a central tree silhouette against a reflective water surface. Lighting is diffuse, creating muted tones and soft contrasts. Rendering is flat with no visible texture or depth in the water or branches. Photo type: Still life
 - **judyfairytale_**: There was a 2 way mirror in front of us. That's why you can see 3 people on the left and only 2 on the right. ([link](https://www.threads.com/@judyfairytale_/post/Df5CfqPkfnL))
   - Photo: Description: Four people are seated on blue benches in a dimly lit, enclosed space with dark walls, facing each other across a narrow gap. Photograph read: The image is captured from a slightly elevated angle, with focused lighting on the subjects. The scene is framed by dark surroundings, and the subjects are clearly visible but not sharply detailed. The composition is symmetrical, with the benches and people arranged in a facing configuration. Photo type: Documentary
 - **loriclark414**:  ([link](https://www.threads.com/@loriclark414/post/Df5CX-yFBLQ))
@@ -123,6 +125,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
   - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
     - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
+- **my_tiny_kingdom**: It was just a little point and shoot, a Cannon power shot I think 😂 I just like to take pictures, I'm not very good but I want to learn more. ([link](https://www.threads.com/@my_tiny_kingdom/post/Df5D6gjozYE))
+  - _Replying to: That’s cool. What’s the lens and the camera ?_
 - **paulfeminella**:  ([link](https://www.threads.com/@paulfeminella/post/Df3uJ-8jpRe))
   - Photo: Description: The image shows a close-up view of frost patterns forming on a transparent surface, with irregular crystalline structures and droplets visible. Photograph read: The composition is dominated by the frost patterns, with no discernible background or foreground elements. Lighting is diffuse and even, casting no strong shadows or highlights. The rendering is monochromatic, with muted tones and no visible color information. Photo type: Macro
     - Watch-outs: Frost patterns are indistinct and lack fine detail due to low contrast and soft focus. The entire image appears slightly out of focus, reducing the clarity of the crystalline structures.
