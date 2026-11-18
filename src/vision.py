@@ -824,8 +824,8 @@ class VisionRun:
             if configuration_error:
                 raise continuous.CycleFailure(78, f"{provider}_configuration") from exc
             self.last_failure = reason
-            if status == 400:
-                # Bad image/MIME inputs are per-photo failures, not revoked credentials.
+            if status == 400 or isinstance(exc, OllamaResponseError):
+                # Invalid photo inputs/output do not establish a provider outage.
                 return
             hint = getattr(exc, "retry_at", None)
             if hint is None and response is not None:
@@ -913,8 +913,10 @@ class VisionRun:
                 except requests.RequestException as exc:
                     self.local_failures += 1
                     response = getattr(exc, "response", None)
-                    photo_error = self.retry is not None and response is not None and response.status_code == 400
-                    if isinstance(exc, OllamaResponseError) or photo_error:
+                    photo_error = isinstance(exc, OllamaResponseError) or (
+                        self.retry is not None and response is not None and response.status_code == 400
+                    )
+                    if photo_error:
                         fallback_reason = "ollama_invalid_output"
                         self.local_disabled = self.local_failures >= 3
                     else:
@@ -922,7 +924,7 @@ class VisionRun:
                         self.local_disabled = True
                     self.local_reason = fallback_reason
                     self.provider_failed("ollama", exc, fallback_reason)
-                    if photo_error and self.local_disabled:
+                    if photo_error and self.local_disabled and self.retry is not None:
                         self.retry.fail("providers", self.retry_key("ollama"), "ollama_repeated_photo_error")
                     print(f"Ollama failed ({fallback_reason}); trying Gemini if available.", flush=True)
                 else:
