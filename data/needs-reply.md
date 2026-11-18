@@ -4,9 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (43)
+## Needs Reply (52)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **mallabrand**: Siglufjörður, Iceland ([link](https://www.threads.com/@mallabrand/post/Df47xy9CBEf))
+  - Photo: Description: The photograph shows the exterior wall of a building with a large window displaying a printed image of a red house with the text “Ljóðasetur Íslands.” The wall itself is textured and shows cracks and minor wear. Photograph read: The image is taken from a street-level perspective, with even, diffuse lighting. The window’s printed image is clear and centered, with visible text and a house scene. The surrounding wall and sidewalk are in focus, with no signs of motion blur or lens distortion. Photo type: Documentary
+- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df47xaHCMeg))
+  - Photo: Description: The photograph shows the highly reflective hood of a vintage Mercedes-Benz 300 SL, with the emblem and model designation clearly visible, reflecting a cloudy sky and surrounding urban buildings. Photograph read: The image is rendered in black and white with high contrast, featuring a central composition focused on the car’s emblem and badge. Reflections of buildings and sky dominate the surface, with a visible streetlight and structural elements mirrored. Lighting appears to be diffused daylight, creating sharp highlights on the chrome and glossy paint. Photo type: Reflection Photography
+- **hobb.y6011**: Reflection in my eye ([link](https://www.threads.com/@hobb.y6011/post/Df47wrjCN20))
+  - Photo: Description: The photograph shows the Brandenburg Gate in Berlin at dusk, with wet cobblestone pavement reflecting lights and a bright moon visible through the archway. The structure is illuminated, and a yellow maintenance vehicle is parked near the center. Photograph read: The image is taken from a low angle, with the gate centered and flanked by symmetrical colonnades. Lighting is artificial, highlighting the gate’s facade and casting reflections on the wet ground. The moon is visible as a distinct, bright disc through the arch. The sky is a uniform dusky blue. Photo type: Architectural
 - **keerthi_ranjani**:  ([link](https://www.threads.com/@keerthi_ranjani/post/Df47ZzfE_SQ))
   - Photo: Description: The image shows a traditional South Indian temple complex with a central pavilion structure over a reflecting pool, surrounded by colonnaded walls and ornate gopurams under a partly cloudy sky. Photograph read: The composition is centered on the temple’s reflection in the water, with the sky and clouds mirrored. Lighting is natural daylight, with even illumination across the scene. The rendering preserves architectural detail, though the water surface shows slight ripples. Photo type: Architectural
 - **lapsednun**:  ([link](https://www.threads.com/@lapsednun/post/Df47TC8AnAH))
@@ -28,12 +34,20 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The subject’s face is partially obscured by the window’s reflection and the green tint, reducing facial detail clarity. The window’s surface introduces visible distortion and glare, affecting the sharpness of the subject’s features.
 - **gteam0**: Mirror Reflection, Los Angeles ([link](https://www.threads.com/@gteam0/post/Df44-23GzJ4))
   - Photo: Description: A convex traffic mirror mounted on a metal pole reflects a winding road bordered by rocky terrain and sparse vegetation, with a clear blue sky visible in the reflection. Photograph read: The image is taken in bright daylight with direct sunlight casting sharp shadows. The mirror’s surface reflects a wide, curved view of the road and surrounding landscape. The mirror’s frame and mounting are visible, and the surrounding vegetation is in focus. Photo type: Documentary
+- **joshtrudellimagery**: It had been raining on and off all morning. I think we were at a point where it was just sprinkling. ([link](https://www.threads.com/@joshtrudellimagery/post/Df47zLRI0Qh))
+  - _Replying to: The wet pavement turns the whole street into a second St Pa…_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
+- **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
+  - _Replying to: Where is this?_
 - **titan_actual86**: I was stuck in traffic at a red light on the 4th of July. Had meant to go around downtown but like always I forgot... lol anyways I looked over and literally saw the Pic and had to snap it. One good thing about being a mobile photographer is my phone is always with me! I wanted to center the flag a bit better but the light has just turned green and I had to scoot lol. ([link](https://www.threads.com/@titan_actual86/post/Df45zQsICCW))
   - _Replying to: I think the mirror was the right call - the sunset goes ful…_
 - **vuurenbernadettevan**: The local municipality is busy with repair and maintenance. A water feature allows water in to lake, which was working since Monday. I wanted to see it... ([link](https://www.threads.com/@vuurenbernadettevan/post/Df47aTIkZAW))
   - _Replying to: A proper pause of a photo - palms, stone steps, and the pon…_
+- **mtqiwoman**: The pond was like glass that morning ([link](https://www.threads.com/@mtqiwoman/post/Df47x45Ecqx))
+  - _Replying to: How still was that pond when you took this? The bare branch…_
+- **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
+  - _Replying to: (photo reply, no text)_
 - **dirtywaterdevil444**: Oh this is stunning ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45JEaII0E))
   - _Replying to: (photo reply, no text)_
 - **landlockedgator**: Nope. Just vacationing there, enjoying the beach. ([link](https://www.threads.com/@landlockedgator/post/Df47BkHoYmY))
@@ -56,6 +70,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up shows a white, five-petaled flower with orange anthers against a background of green leaves. The flower’s surface has a textured, slightly granular appearance. Photograph read: The image is a macro shot with natural lighting, capturing fine surface texture and leaf veins. The focus is centered on the flower, with the background leaves slightly out of focus. No visible signs of motion blur, overexposure, or underexposure. Photo type: Macro
 - **marysticht79**: It's an iconic piece of Portuguese goldsmithing. I photographed it at an exhibition. ([link](https://www.threads.com/@marysticht79/post/Df4vS7MCvxH))
   - _Replying to: The gold lines never sit still - every curl leads into anot…_
+- **lucillepippetti**: I love that you give feedback. Thanks ([link](https://www.threads.com/@lucillepippetti/post/Df475mYIFhT))
+  - _Replying to: The white dots are the whole trick - every leaf dusted the …_
+- **lucillepippetti**: Yes it is. ([link](https://www.threads.com/@lucillepippetti/post/Df47zRcIGlX))
+  - _Replying to: The white dots are the whole trick - every leaf dusted the …_
 - **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
   - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
     - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
