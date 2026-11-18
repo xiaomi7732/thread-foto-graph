@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (74)
+## Needs Reply (75)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
@@ -54,6 +54,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The trunks melt into gold ribbons and the water keeps no st…_
 - **smilingjeannie**: The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive. ([link](https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp))
   - _Replying to: That little tree earns a second showing in the water, small…_
+- **diane_fediw**: Yellow taxi #1 Autumn road #5 ([link](https://www.threads.com/@diane_fediw/post/Df5Ltb1FbcV))
+  - _Replying to: Five frames and the mirror keeps changing its mind - yellow…_
 - **5gttexbn**: No,it was a very hot and very still day ([link](https://www.threads.com/@5gttexbn/post/Df5K7jwEb2p))
   - _Replying to: The monument runs the full length of the pool and the cloud…_
 - **bobherrmann6**: Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck ([link](https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI))
