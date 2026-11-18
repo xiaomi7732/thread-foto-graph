@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (62)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **nicoleplaysbydesign**:  ([link](https://www.threads.com/@nicoleplaysbydesign/post/Df5HbBcFJV9))
+  - Photo: Description: A calm body of water reflects a blue sky with scattered clouds and surrounding green trees, with a grassy foreground containing small yellow flowers. Photograph read: The image is composed with the water surface as the central element, reflecting the sky and trees. Lighting is even and natural, suggesting daytime. Rendering is clear, with visible texture in foliage and water surface reflections. Photo type: Natural landscape
 - **caissiecat**:  ([link](https://www.threads.com/@caissiecat/post/Df5FvGBGd0p))
   - Photo: Description: A circular pool of water reflects the sky and surrounding coniferous trees, set within a barren, mineral-stained ground surrounded by a dense forest of tall pines under a partly cloudy sky. Photograph read: The composition is centered on the reflective pool, with the forest forming a vertical backdrop. Lighting is natural daylight, with bright sky areas and darker tree silhouettes. Rendering shows visible texture in the ground and tree trunks, with some color saturation in the water’s reflection. Photo type: Natural landscape
 - **manzoarnie**:  ([link](https://www.threads.com/@manzoarnie/post/Df5FqbuG47G))
@@ -39,8 +41,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image shows a tranquil lakeside scene at dusk, framed by bare tree silhouettes in the foreground, with a calm water surface reflecting the fading light of the horizon. A wooden table and chair are partially visible in the lower right corner. Photograph read: The composition is framed by dark tree trunks and branches, with the horizon glowing in soft orange and yellow hues. The water reflects these colors, and distant docks and houses are faintly visible. The foreground is in shadow, with minimal detail discernible on the table and chair. Photo type: Landscape
     - Watch-outs: - Foreground objects (table and chair) are underexposed, with no discernible texture or detail. - Silhouettes of trees and distant structures are indistinct due to low light and lack of contrast.
   - _Replying to: The dusk light turns the whole lake gold, and the second fr…_
+- **akmaleky**: I was actually washing the car, the droplets and reflection were so interesting ([link](https://www.threads.com/@akmaleky/post/Df5HTm-H-Nt))
+  - _Replying to: The hood turns into a mirror for the lights above, rain dro…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
   - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
+- **linda73linda**: A bit of both 😁 ([link](https://www.threads.com/@linda73linda/post/Df5HUCbDTgr))
+  - _Replying to: That golden willow doubles itself so neatly the river looks…_
 - **mullett.chris**: I went there on my lunch break from a conference so I’m not sure what it was like in the morning. Great reflecting pools to the north and south of the arch! ([link](https://www.threads.com/@mullett.chris/post/Df5GkoPk91i))
   - _Replying to: The arch gets the whole pond as its mirror, and the ducks j…_
 - **susiestar32**: Yes. Just before the sun came down. ([link](https://www.threads.com/@susiestar32/post/Df5Gacan8XR))
@@ -92,8 +98,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
   - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
     - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
-- **my_tiny_kingdom**: It was just a little point and shoot, a Cannon power shot I think 😂 I just like to take pictures, I'm not very good but I want to learn more. ([link](https://www.threads.com/@my_tiny_kingdom/post/Df5D6gjozYE))
-  - _Replying to: That’s cool. What’s the lens and the camera ?_
 - **paulfeminella**:  ([link](https://www.threads.com/@paulfeminella/post/Df3uJ-8jpRe))
   - Photo: Description: The image shows a close-up view of frost patterns forming on a transparent surface, with irregular crystalline structures and droplets visible. Photograph read: The composition is dominated by the frost patterns, with no discernible background or foreground elements. Lighting is diffuse and even, casting no strong shadows or highlights. The rendering is monochromatic, with muted tones and no visible color information. Photo type: Macro
     - Watch-outs: Frost patterns are indistinct and lack fine detail due to low contrast and soft focus. The entire image appears slightly out of focus, reducing the clarity of the crystalline structures.

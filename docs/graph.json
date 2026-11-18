@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 169,
+      "reply_count": 172,
       "replies": [
+        {
+          "username": "nicoleplaysbydesign",
+          "text": "",
+          "permalink": "https://www.threads.com/@nicoleplaysbydesign/post/Df5HbBcFJV9",
+          "photos": [
+            "Description: A calm body of water reflects a blue sky with scattered clouds and surrounding green trees, with a grassy foreground containing small yellow flowers. Photograph read: The image is composed with the water surface as the central element, reflecting the sky and trees. Lighting is even and natural, suggesting daytime. Rendering is clear, with visible texture in foliage and water surface reflections. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "caissiecat",
           "text": "",
@@ -603,7 +615,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "akmaleky",
+                  "text": "I was actually washing the car, the droplets and reflection were so interesting",
+                  "permalink": "https://www.threads.com/@akmaleky/post/Df5HTm-H-Nt",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -687,7 +710,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "linda73linda",
+                  "text": "A bit of both \ud83d\ude01",
+                  "permalink": "https://www.threads.com/@linda73linda/post/Df5HUCbDTgr",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2123,7 +2157,7 @@
       "watch_outs": [
         "The background is uniformly blurred, obscuring any contextual detail. The lower portion of the image, including adjacent branches, is out of focus, reducing clarity of structure and texture."
       ],
-      "reply_count": 467,
+      "reply_count": 468,
       "replies": [
         {
           "username": "danielreesart",
@@ -2812,10 +2846,21 @@
                           "text": "It was just a little point and shoot, a Cannon power shot I think \ud83d\ude02 I just like to take pictures, I'm not very good but I want to learn more.",
                           "permalink": "https://www.threads.com/@my_tiny_kingdom/post/Df5D6gjozYE",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Yeah, I still feel the fun to take out the point & shoot and take some pictures every once a while. Have fun shooting!",
+                              "permalink": "https://www.threads.com/@saars.foto/post/Df5HZChm7RB",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
