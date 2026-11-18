@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (71)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **judyfairytale_**: There was a 2 way mirror in front of us. That's why you can see 3 people on the left and only 2 on the right. ([link](https://www.threads.com/@judyfairytale_/post/Df5CfqPkfnL))
+  - Photo: Description: Four people are seated on blue benches in a dimly lit, enclosed space with dark walls, facing each other across a narrow gap. Photograph read: The image is captured from a slightly elevated angle, with focused lighting on the subjects. The scene is framed by dark surroundings, and the subjects are clearly visible but not sharply detailed. The composition is symmetrical, with the benches and people arranged in a facing configuration. Photo type: Documentary
+- **loriclark414**:  ([link](https://www.threads.com/@loriclark414/post/Df5CX-yFBLQ))
+  - Photo: Description: A calm lake reflects a distant, prominent mountain peak under a partly cloudy sky, with forested slopes in the midground and grassy foreground vegetation. Photograph read: The image shows a clear reflection of the sky and mountains on the water’s surface, with natural lighting and moderate contrast. The foreground vegetation is in focus, while the midground forest and distant mountain exhibit slight atmospheric haze. Photo type: Landscape
 - **jemalovett**:  ([link](https://www.threads.com/@jemalovett/post/Df5B9TgH36r))
   - Photo: Description: A calm body of water reflects a cloudy sky, with a distant tree-covered island and rocky shoreline visible on the left. The horizon shows a wide expanse of water under a partly cloudy sky. Photograph read: The composition is horizontally oriented, with the water’s surface mirroring the sky and clouds. Lighting is diffuse, suggesting late afternoon or early evening, with soft illumination on the clouds and muted tones in the water and land. Reflections are clear but not perfectly sharp, indicating a still surface. Photo type: Landscape
 - **jemalovett**:  ([link](https://www.threads.com/@jemalovett/post/Df5B7sLnzva))
