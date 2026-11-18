@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (72)
+## Needs Reply (74)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **mixtapemissives**: Minneapolis, MN ([link](https://www.threads.com/@mixtapemissives/post/Df5lFIKDkJM))
+  - Photo: Description: A hand holds a transparent glass sphere in the foreground, reflecting a distorted view of a park scene including a large cherry sculpture, a body of water, and distant buildings under an overcast sky. Photograph read: The image is composed with the glass sphere as the primary subject, held centrally in the frame. Lighting is diffuse and even, characteristic of an overcast day, with no harsh shadows. The rendering shows a shallow depth of field, with the sphere in focus and the background blurred. Photo type: Portrait
+    - Watch-outs: The background is significantly blurred, obscuring fine details of the park and buildings. The reflection within the sphere is distorted and incomplete, limiting the clarity of the reflected scene.
+- **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/Df5lAR1EwX6))
+  - Photo: Description: A display of various woven hats mounted on a tiled wall, viewed through a wooden-framed window or glass panel, with some hats resting on a shelf below. Photograph read: The image is framed by a wooden border and shows a wall with a grid of blue-green tiles. Hats are arranged in rows, illuminated by overhead lights. A small potted plant sits on a wooden surface in the foreground. The image has a warm color cast and visible reflections on the glass surface. Photo type: Interior decor
 - **allison.ludwig.31**: Arkansas river. ([link](https://www.threads.com/@allison.ludwig.31/post/Df5ivl7mNhi))
   - Photo: Description: A black-and-white image shows a reflective water surface with bright specular highlights, set against a dark, indistinct shoreline and background. Photograph read: The composition is dominated by the water’s reflective surface, with strong contrast between bright glints and deep shadows. The lighting appears to be direct and intense, creating a high-contrast scene. The background is uniformly dark, obscuring any discernible features. Photo type: High-contrast landscape
     - Watch-outs: - The upper portion of the image is uniformly dark, obscuring any identifiable features of the shoreline or distant objects. - The water surface, while detailed with glints, lacks texture or motion detail due to the monochrome rendering and lack of mid-tones.

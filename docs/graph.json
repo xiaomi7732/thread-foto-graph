@@ -13,8 +13,35 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 280,
+      "reply_count": 282,
       "replies": [
+        {
+          "username": "mixtapemissives",
+          "text": "Minneapolis, MN",
+          "permalink": "https://www.threads.com/@mixtapemissives/post/Df5lFIKDkJM",
+          "photos": [
+            "Description: A hand holds a transparent glass sphere in the foreground, reflecting a distorted view of a park scene including a large cherry sculpture, a body of water, and distant buildings under an overcast sky. Photograph read: The image is composed with the glass sphere as the primary subject, held centrally in the frame. Lighting is diffuse and even, characteristic of an overcast day, with no harsh shadows. The rendering shows a shallow depth of field, with the sphere in focus and the background blurred. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The background is significantly blurred, obscuring fine details of the park and buildings. The reflection within the sphere is distorted and incomplete, limiting the clarity of the reflected scene."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "posts.by.norman",
+          "text": "",
+          "permalink": "https://www.threads.com/@posts.by.norman/post/Df5lAR1EwX6",
+          "photos": [
+            "Description: A display of various woven hats mounted on a tiled wall, viewed through a wooden-framed window or glass panel, with some hats resting on a shelf below. Photograph read: The image is framed by a wooden border and shows a wall with a grid of blue-green tiles. Hats are arranged in rows, illuminated by overhead lights. A small potted plant sits on a wooden surface in the foreground. The image has a warm color cast and visible reflections on the glass surface. Photo type: Interior decor"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "allison.ludwig.31",
           "text": "Arkansas river.",
