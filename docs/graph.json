@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 181,
+      "reply_count": 184,
       "replies": [
+        {
+          "username": "mike_g_crawley",
+          "text": "A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.)",
+          "permalink": "https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj",
+          "photos": [
+            "Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group\u2019s figures. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "p.a.tovo",
           "text": "Nadine.",
@@ -636,7 +648,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "5gttexbn",
+                  "text": "No,it was a very hot and very still day",
+                  "permalink": "https://www.threads.com/@5gttexbn/post/Df5K7jwEb2p",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "2ladydilly",
@@ -1117,7 +1140,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "lapsednun",
+                  "text": "One off visit",
+                  "permalink": "https://www.threads.com/@lapsednun/post/Df5K-sMgg47",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

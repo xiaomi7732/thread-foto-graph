@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (71)
+## Needs Reply (74)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
+  - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **p.a.tovo**: Nadine. ([link](https://www.threads.com/@p.a.tovo/post/Df5K3VLFCZT))
   - Photo: Description: A tabby cat sits on a wooden surface, viewed from behind, with its reflection visible in a mirror to the left. The scene includes a lamp and a decorative box on the same surface. Photograph read: The image is lit by strong directional sunlight from the right, casting deep shadows and highlighting the cat’s fur texture. The mirror reflects the cat’s face and upper body, though the reflection is dimmer and less detailed. The composition places the cat as the central subject, with the mirror and surrounding objects framing it. Photo type: Portrait
 - **picchic17**:  ([link](https://www.threads.com/@picchic17/post/Df5KSJKGzlF))
@@ -52,6 +54,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The trunks melt into gold ribbons and the water keeps no st…_
 - **smilingjeannie**: The little lone tree persevering in this bleak and barren landscape. I loved the sense of isolation yet continuing to thrive. ([link](https://www.threads.com/@smilingjeannie/post/Df5GWNlEovp))
   - _Replying to: That little tree earns a second showing in the water, small…_
+- **5gttexbn**: No,it was a very hot and very still day ([link](https://www.threads.com/@5gttexbn/post/Df5K7jwEb2p))
+  - _Replying to: The monument runs the full length of the pool and the cloud…_
 - **bobherrmann6**: Not very but we have had a phenomenal October and November so far. Sunrises are phenominal Right from my deck ([link](https://www.threads.com/@bobherrmann6/post/Df5GL4JlhGI))
   - Photo: Description: The image shows a tranquil lakeside scene at dusk, framed by bare tree silhouettes in the foreground, with a calm water surface reflecting the fading light of the horizon. A wooden table and chair are partially visible in the lower right corner. Photograph read: The composition is framed by dark tree trunks and branches, with the horizon glowing in soft orange and yellow hues. The water reflects these colors, and distant docks and houses are faintly visible. The foreground is in shadow, with minimal detail discernible on the table and chair. Photo type: Landscape
     - Watch-outs: - Foreground objects (table and chair) are underexposed, with no discernible texture or detail. - Silhouettes of trees and distant structures are indistinct due to low light and lack of contrast.
@@ -66,6 +70,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The arch gets the whole pond as its mirror, and the ducks j…_
 - **susiestar32**: Yes. Just before the sun came down. ([link](https://www.threads.com/@susiestar32/post/Df5Gacan8XR))
   - _Replying to: A little pool of sunset sitting in the sand while the waves…_
+- **lapsednun**: One off visit ([link](https://www.threads.com/@lapsednun/post/Df5K-sMgg47))
+  - _Replying to: The mountain comes back upside down in the lake and the clo…_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
