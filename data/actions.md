@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (72)
+## Needs Reply (73)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **ristotuomarla**:  ([link](https://www.threads.com/@ristotuomarla/post/Df6g3s3iAAa))
+  - Photo: Description: A long, paved pier extends into calm water, with a few people visible on its upper walkway and steps. The scene is bathed in warm, low-angle sunlight, suggesting late afternoon or early morning. Photograph read: The composition is linear, with the pier receding into the distance. Lighting is directional, casting long shadows and highlighting the pier’s structure. Reflections of the pier are visible in the water. The image appears sharp, with no visible motion blur or focus issues. Photo type: Architectural
 - **curtiscreager**: Trackday lineup ([link](https://www.threads.com/@curtiscreager/post/Df6eoQYmzKe))
   - Photo: Description: A lineup of sports cars, including a red convertible and a blue coupe, is parked on a wet surface that reflects them and the surrounding trees under a partly cloudy sky. Photograph read: The image is composed with the cars in the upper half and their reflections in the lower half, creating a symmetrical visual. Lighting is even and diffused, suggesting an overcast day. Rendering is clear, with visible details on the vehicles and reflections, though the reflections are slightly softer than the direct view. Photo type: Reflective landscape
 - **billi_rubin**: Reflection of the sky. Zero Ai. ([link](https://www.threads.com/@billi_rubin/post/Df6dVPnDedn))
