@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (95)
+## Needs Reply (96)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **kellmell**:  ([link](https://www.threads.com/@kellmell/post/Df5zwVqm-FO))
+  - Photo: Description: The photograph shows a car’s side-view mirror reflecting a sunset over a road, with blurred evergreen trees in the background. The foreground includes the car’s window and mirror housing. Photograph read: The mirror reflects a vivid sunset with orange and yellow hues, contrasted against a blue sky. The mirror surface shows reflections of the car’s side and window, with visible water droplets. The background trees are out of focus, indicating motion or shallow depth of field. Photo type: Travel photography
+    - Watch-outs: - The mirror surface has visible water droplets, obscuring part of the reflection. - Background trees are blurred, reducing detail and depth perception.
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
