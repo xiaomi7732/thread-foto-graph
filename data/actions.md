@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (108)
+## Needs Reply (109)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **reverendbenzo**:  ([link](https://www.threads.com/@reverendbenzo/post/Df7u-DXlsMi))
+  - Photo: Description: The image captures a nighttime view looking upward through a metal-framed mesh structure, with a bright light source visible in the sky and trees below. Photograph read: The composition is angled, with the mesh frame dominating the foreground. Lighting is low, with a strong point source of light creating a glare and a visible streak. The background trees are dark and indistinct. The image exhibits motion blur or camera shake, particularly in the foreground mesh and background foliage. Photo type: Night photography with motion blur
+    - Watch-outs: - Foreground mesh structure is blurred and partially out of focus, obscuring fine grid details. - Background foliage is indistinct due to low light and motion blur, preventing identification of individual leaves or branches.
 - **nofussgus_**:  ([link](https://www.threads.com/@nofussgus_/post/Df7uMjXk_kg))
   - Photo: Description: The image shows several dark, glossy, spherical objects resting on a wet, textured rock surface, alongside clusters of small, dark, elongated shells and patches of reddish-brown algae or barnacles. Photograph read: The composition is a close-up, top-down view with natural, diffused lighting. The surface textures of the rock and the wetness of the environment are visible, but the glossy spheres reflect light unevenly, obscuring fine surface detail. The image lacks sharpness across the entire frame, with no discernible focal plane. Photo type: Documentary
 - **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Df7s8Kykgok))
