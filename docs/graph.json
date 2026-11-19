@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 377,
+      "reply_count": 378,
       "replies": [
         {
           "username": "katnealey",
@@ -100,7 +100,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "broup11",
+                  "text": "Same morning, you could walk up and touch the haystack at one point",
+                  "permalink": "https://www.threads.com/@broup11/post/Df6BMh1FD6Q",
+                  "photos": [
+                    "Description: A large, rugged sea stack dominates the shoreline under a clear blue sky, with a person and a small dog walking on the wet beach in the foreground. Photograph read: The composition places the sea stack as the central subject, with the beach and ocean in the foreground. Lighting is bright and even, casting soft shadows on the rock face. The image appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Natural landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

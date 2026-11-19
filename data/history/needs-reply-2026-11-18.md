@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (75)
+## Needs Reply (76)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **katnealey**:  ([link](https://www.threads.com/@katnealey/post/Df6A6fCJQBe))
@@ -19,6 +19,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Reflections obscure exterior details; the dark door and wall interior are visible but not distinct from the window’s own surface. The parking lot and distant lights are visible but lack sharpness and detail due to low-light conditions.
 - **d1xshooter**: Not a particularly strong image, but the Brewer fever in MKE was amazing ([link](https://www.threads.com/@d1xshooter/post/Df59QD-le5v))
   - Photo: Description: A low-angle view of a wet urban sidewalk reflecting surrounding buildings and a “MILWAUKEE” sign, with flowerbeds and decorative metallic sculptures on the right. Photograph read: The composition is a low-angle perspective with strong reflections on the wet pavement. Lighting is bright daylight, casting clear shadows and highlights on buildings and foliage. Reflections are sharp and detailed, indicating a clean, reflective surface. The image is in focus, with no visible motion blur or depth-of-field issues. Photo type: Urban landscape
+- **broup11**: Same morning, you could walk up and touch the haystack at one point ([link](https://www.threads.com/@broup11/post/Df6BMh1FD6Q))
+  - Photo: Description: A large, rugged sea stack dominates the shoreline under a clear blue sky, with a person and a small dog walking on the wet beach in the foreground. Photograph read: The composition places the sea stack as the central subject, with the beach and ocean in the foreground. Lighting is bright and even, casting soft shadows on the rock face. The image appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Natural landscape
+  - _Replying to: The big stack gets a second showing in the wet sand, and th…_
 - **annes_garden_flowers**: I took this in April of 2023. The Oregon coast has the most beautiful sunsets. This was in Depot Bay on our last trip. Our beautiful pup of 11 years passed the next week and our new pup has epilepsy so we stay pretty close to home now. Thank you, I love photography. ([link](https://www.threads.com/@annes_garden_flowers/post/Df59tk3GIwD))
   - _Replying to: That glitter path pulls the whole frame together - sun, sea…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
