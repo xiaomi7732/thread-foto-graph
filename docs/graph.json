@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17876975847649800",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Shaped Thursday Show me a shape you found out in the world \u2026",
       "text": "Shaped Thursday Show me a shape you found out in the world - a heart worn into a leaf, a perfect circle, a triangle hiding in the shadows. Any shape counts, as long as it stopped you. Mine is this fallen leaf: a little heart-shaped hole, worn right through. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What shape found you?",
@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 72,
+      "reply_count": 83,
       "replies": [
         {
           "username": "pappaga11a",
@@ -116,7 +116,22 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "helskinky",
+                  "text": "Thats what i thought. It was a big bunch wrapt around a tree",
+                  "permalink": "https://www.threads.com/@helskinky/post/Df7i8gYEQO_",
+                  "photos": [
+                    "Description: A cluster of mushrooms with convex, brownish caps and gilled undersides grows among fallen leaves and twigs at the base of a moss-covered tree trunk. The background shows tree branches and dappled light. Photograph read: The image is taken from a low angle, focusing on the underside of the mushroom caps. Lighting is natural and diffused, with some areas in shadow and others brightly lit. The rendering is sharp on the gills and caps, but the surrounding foliage and background are less detailed. Photo type: Natural",
+                    "Description: A cluster of brown, spiny-textured mushrooms grows against the rough bark of a tree trunk, with fallen leaves and dark soil at the base. Photograph read: The image is a close-up with natural, diffused lighting; the mushrooms are in focus, but the background bark and foreground leaves are slightly softer. The rendering preserves surface texture and color without obvious compression or noise. Photo type: Natural",
+                    "Description: A cluster of brown, textured mushrooms grows among fallen leaves and green foliage on the forest floor, with some smaller, spiky fruiting bodies nearby. Photograph read: The image is taken at eye level with natural, diffused lighting; the main subject is in focus but the background shows soft depth-of-field blur. Leaves and mushrooms are rendered with natural color and texture, without visible signs of overexposure, underexposure, or motion blur. Photo type: Natural"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -237,7 +252,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nechromance",
+                  "text": "Hearts in nature appear to me often. I like to think that my loved ones who have passed are showing me the way \u2764\ufe0f",
+                  "permalink": "https://www.threads.com/@nechromance/post/Df7jBsyG6iC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -248,10 +274,21 @@
           "photos": [
             "Description: A heart-shaped leaf, frosted with ice crystals along its edges, hangs from a thin, dark branch against a softly blurred, warm-toned background. Photograph read: The subject is in focus with visible texture, illuminated by a directional light source from the upper left. The background is out of focus, creating a smooth bokeh effect. The image has a shallow depth of field, with the leaf sharply defined against the blurred backdrop. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Was it still there after the sun came up? Frost on the edges, gold in the middle - a heart hanging from one thin branch.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7iintmrpm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "2killamockingbird",
@@ -292,10 +329,21 @@
           "photos": [
             "Description: A plant with broad green leaves is displayed in a spherical glass container filled with water, supported by a minimalist metal frame, positioned on a wooden surface near a window. Photograph read: The image is brightly lit by direct sunlight from the right, creating a glare on the glass sphere and casting strong highlights on the leaves. The background shows out-of-focus foliage and a windowpane with visible condensation or smudges. The glass container and roots are clearly visible, but the background remains indistinct. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the square frame is the quiet hero here - it holds the whole glass globe still while the roots tangle inside. Is this its usual spot by the window?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7ik11FObd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wj.fox",
@@ -304,10 +352,21 @@
           "photos": [
             "Description: A circular metal manhole cover with a grid of small holes is set into a paved surface made of interlocking concrete slabs. Several dry, brown leaves and a few green leaves are scattered around and on the cover. Photograph read: The image is taken from a high angle, with even, bright daylight illuminating the scene. The manhole cover and surrounding pavement are in sharp focus, with no visible motion blur or softness. The rendering preserves fine surface textures, including rust, screw heads, and leaf details. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A drain cover, dressed up by autumn leaves and a grid of little holes - the pavement does not usually look this good. What made you stop for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7imcIFeHb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shel_bee_g",
@@ -316,10 +375,21 @@
           "photos": [
             "Description: A single, dried maple leaf with red and brown hues lies on a dark, textured surface, possibly asphalt or pavement, with small debris scattered nearby. Photograph read: The leaf is in focus with visible veins and edges, illuminated by direct light casting a shadow. The background shows surface texture and minor debris. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One red leaf on dark wet stone, and suddenly the whole pavement is a gallery wall. Where did you find it - still on the branch, or already down?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7ioM0FJ0l",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mommatex",
@@ -391,10 +461,21 @@
                   "text": "Those stones are the edge of our garden which our grandkids thought was a nice resting place for it. We spotted it last year on an early morning walk on the beach. It was all alone on the sand.",
                   "permalink": "https://www.threads.com/@suzanne_raimondi_gallagher/post/Df7fkFlG1KD",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A lucky little stone, and a lovely home for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7ipkIEWpk",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -566,10 +647,21 @@
                   "text": "First I see the color and later the little heart. It was just a random picture...",
                   "permalink": "https://www.threads.com/@carocaluwe263/post/Df7e0rjjr_i",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Random pictures hide the best surprises.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7iq2Smoex",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -653,10 +745,21 @@
                   "watch_outs": [
                     "- The central crack in the ice is indistinct, with blurred edges and no clear definition of its shape or depth. - The distant treeline and lights are fuzzy and lack detail, with no discernible structure or form."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Perfect timing, and a beautiful eye for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7isbYkfvM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -687,10 +790,21 @@
                   "text": "Just after some light rain",
                   "permalink": "https://www.threads.com/@glendagh25/post/Df7fPxdFBXd",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Those droplets were worth the wait.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7iuE5m6NN",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -756,10 +870,21 @@
                   "text": "Caught the moment.",
                   "permalink": "https://www.threads.com/@bugs_eye_view_of_you/post/Df7bJW7oGHR",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "You certainly did - a perfect catch.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7ivdYFO62",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -861,7 +986,7 @@
     },
     {
       "id": "17981155218129056",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped\u2026",
       "text": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped my scroll: John Douglas Palmer @jp.dynamicphotography - Milky Way lake reflection Shel Gatewood @shel_bee_g - longhorn pond reflection Jeremy Harris @jh1962bike - 300SL skyline reflection Elsabe Schoeman @apertureandartdotcom - canal sunrise reflection Conrad Skillen @stickyshutterphotography - bridge in still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df6mbRlDzTY/",
@@ -983,7 +1108,7 @@
     },
     {
       "id": "18125516990067298",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -994,7 +1119,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 510,
+      "reply_count": 511,
       "replies": [
         {
           "username": "beezr46",
@@ -1986,7 +2111,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "katnealey",
+                  "text": "Yes the mirror was the plan.",
+                  "permalink": "https://www.threads.com/@katnealey/post/Df7i5NqpV0A",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -6975,7 +7111,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -7093,7 +7229,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -12672,7 +12808,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
