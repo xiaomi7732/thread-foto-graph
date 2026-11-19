@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (81)
+## Needs Reply (82)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **oneillwendie**: A knob (not the person 😆) on a washing machine. ([link](https://www.threads.com/@oneillwendie/post/Df6GcmljWmg))
@@ -72,6 +72,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The canal turns the whole street gold and the trees come ba…_
 - **giugiovivi**:  ([link](https://www.threads.com/@giugiovivi/post/Df5d9j3DcSx))
   - Photo: Description: A woman in a fur coat and high heels stands on a paved sidewalk beside a brick wall and a window with patterned curtains; only her lower body and partial upper body are visible. Photograph read: The image is in black and white, with high contrast between the dark fur, shoes, and structural elements against the lighter brick and pavement. The composition is framed by vertical elements, and the lighting appears direct, casting clear shadows. Photo type: Street photography
+- **chicken_poop_shoes_**: Probably the 4th photo. I was in a kayak on a river and it kept making ripples on me. Got the shot tho ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df6HQ33Dv2m))
+  - _Replying to: Frame after frame the water never once breaks character - t…_
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
   - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
     - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.

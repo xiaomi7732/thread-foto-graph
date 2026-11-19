@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 384,
+      "reply_count": 385,
       "replies": [
         {
           "username": "oneillwendie",
@@ -971,7 +971,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "chicken_poop_shoes_",
+                  "text": "Probably the 4th photo. I was in a kayak on a river and it kept making ripples on me. Got the shot tho",
+                  "permalink": "https://www.threads.com/@chicken_poop_shoes_/post/Df6HQ33Dv2m",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
