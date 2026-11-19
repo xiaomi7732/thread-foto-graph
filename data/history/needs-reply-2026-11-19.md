@@ -4,18 +4,26 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (96)
+## Needs Reply (100)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **kes_ward**: More by luck this one but the little heart in this tiny soap bubble that looks like an alien planet out in the universe somewhere. ([link](https://www.threads.com/@kes_ward/post/Df7w25tjHlV))
+  - Photo: Description: A spherical object with swirling, iridescent patterns of blue, purple, yellow, and orange dominates the lower portion of the frame against a solid black background. Photograph read: The subject is illuminated from above, creating a bright, smooth highlight along its upper curve. The surface displays fluid, abstract color patterns with no discernible texture or structure. The image is sharp and well-defined within the subject area, with no visible signs of motion blur, focus issues, or sensor noise. Photo type: Abstract
 - **storycatcher52**: Fresh cheese in the aging room at Cowgirl Creamery Point Reyes California ([link](https://www.threads.com/@storycatcher52/post/Df7wh48lKyT))
   - Photo: Description: A table covered with white paper holds multiple round, golden-brown baked goods, likely buns or small loaves, arranged in rows. Photograph read: The image is taken from a slightly elevated angle, with light coming from the upper left, casting soft shadows. The baked goods are in focus, but the background and table legs are dark and indistinct. The paper surface shows some creases and reflections. Photo type: Still life
 - **reverendbenzo**: It's an overpass. I was crossing and lay on my back to get this. It was cold as sh*t too. ([link](https://www.threads.com/@reverendbenzo/post/Df7wiCylqpm))
   - _Replying to: The beams cut the night into triangles, and that one light …_
+- **shellscorer**: I wish I’d brought him home but he was on lifeguard duty….. ([link](https://www.threads.com/@shellscorer/post/Df7xSxHiJVH))
+  - _Replying to: Snout to the left, round little body, one dark ear - that i…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
+- **ulrike6417**: Ich war auf einer Fähre durch die Kieler Förde, als die Quallen aufgetaucht sind! Ich finde sie sehr interessant! ([link](https://www.threads.com/@ulrike6417/post/Df7xUFgkSVK))
+  - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
   - _Replying to: Thank you - that frosty heart stopped my scroll._
+- **fabienne_journey**: For me just once ([link](https://www.threads.com/@fabienne_journey/post/Df7xGAajvO-))
+  - _Replying to: The same heart, back for another evening - and the red car …_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
