@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (109)
+## Needs Reply (111)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **jglass8**: A saguaro 🌵 with a window ([link](https://www.threads.com/@jglass8/post/Df7nhG2mh4t))
@@ -42,10 +42,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A cluster of brown, spiny-textured mushrooms grows against the rough bark of a tree trunk, with fallen leaves and dark soil at the base. Photograph read: The image is a close-up with natural, diffused lighting; the mushrooms are in focus, but the background bark and foreground leaves are slightly softer. The rendering preserves surface texture and color without obvious compression or noise. Photo type: Natural
   - Photo: Description: A cluster of brown, textured mushrooms grows among fallen leaves and green foliage on the forest floor, with some smaller, spiky fruiting bodies nearby. Photograph read: The image is taken at eye level with natural, diffused lighting; the main subject is in focus but the background shows soft depth-of-field blur. Leaves and mushrooms are rendered with natural color and texture, without visible signs of overexposure, underexposure, or motion blur. Photo type: Natural
   - _Replying to: How many domes are hiding in there? That big shaggy one in …_
+- **eelizjjjm**: The frame first , stump in middle of river was a bonus! ([link](https://www.threads.com/@eelizjjjm/post/Df7nt6VIJXB))
+  - _Replying to: The branches frame it like a doorway, and the stump stands …_
 - **mike.bowden.garsten**: Thanks! Yes , these blooms don’t last long. ([link](https://www.threads.com/@mike.bowden.garsten/post/Df7kJwTFWiK))
   - _Replying to: I think the tight crop is the right call - that pink spiral…_
 - **nechromance**: Hearts in nature appear to me often. I like to think that my loved ones who have passed are showing me the way ❤️ ([link](https://www.threads.com/@nechromance/post/Df7jBsyG6iC))
   - _Replying to: That teal heart in the middle of all those pebbles - did yo…_
+- **2killamockingbird**: Your words are very beautiful ([link](https://www.threads.com/@2killamockingbird/post/Df7nrbJgDeB))
+  - _Replying to: Was it still there after the sun came up? Frost on the edge…_
 - **wj.fox**: When I saw the few leaves on it. ([link](https://www.threads.com/@wj.fox/post/Df7nI9fmkCV))
   - _Replying to: A drain cover, dressed up by autumn leaves and a grid of li…_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
