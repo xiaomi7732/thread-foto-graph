@@ -10,8 +10,23 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 217,
+      "reply_count": 235,
       "replies": [
+        {
+          "username": "hippiecat51",
+          "text": "I found this little driftwood guy along the shores of Lake Ontario and brought him home.",
+          "permalink": "https://www.threads.com/@hippiecat51/post/Df8E951GQuH",
+          "photos": [
+            "Description: A hand holds a weathered, irregularly shaped piece of driftwood against a plain, light-colored background. The object has a rough, textured surface with visible cracks and a pointed, upward-curving top. Photograph read: The image is captured with even, diffuse lighting, showing the object\u2019s form and surface texture. The composition is centered, with the hand partially obscuring the lower portion of the object. The image has a shallow depth of field, with the object in focus but the background blurred. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "The hand obscures the lower third of the object, limiting visibility of its base and texture. The top portion of the object is slightly out of focus, reducing clarity of its upper contours."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "c.h.skeetsussex.ac.uk",
           "text": "I pick up the heart shaped stones I find.",
@@ -31,7 +46,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "c.h.skeetsussex.ac.uk",
+                  "text": "I have a few more here and there- some were too big and had to be left.",
+                  "permalink": "https://www.threads.com/@c.h.skeetsussex.ac.uk/post/Df8E3taDAgz",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -106,7 +132,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "coldhollowfarm",
+                  "text": "I live on a farm. Found this at daybreak walking out to the barn to feed the horse.",
+                  "permalink": "https://www.threads.com/@coldhollowfarm/post/Df8E5MMFgwV",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -209,10 +246,21 @@
           "photos": [
             "Description: A close-up of a bright magenta zinnia flower with a yellow center, set against a softly blurred green background. Photograph read: The flower is centered in the frame with even, natural lighting. The petals show texture and color saturation, while the background exhibits shallow depth of field. The center of the flower contains fine, yellow-tipped structures and a dark core, visible with clear detail. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two pale dots for eyes and that ring of yellow around the middle - the smiley was hiding in plain sight. Did you see the face before you took it, or only after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8E1-rHy18",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jeffrey_janusch",
@@ -221,19 +269,40 @@
           "photos": [
             "Description: A large, gnarled tree with a prominent, broken branch dominates the foreground of a cemetery, surrounded by gravestones on green grass under a clear sky. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the tree\u2019s bark and the surrounding greenery. The composition centers the tree, with background elements including other trees and a brick building. The rendering is sharp enough to discern texture on the tree trunk and individual gravestones. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the broken branch is the whole photo - the tree reaching out over the stones like it is pointing somewhere. Did it lose that limb in a storm, or has it always reached that way?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8E3N5iSMg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "lucybarringtonjohn",
               "text": "I love seeing the shapes trees take to survive and thrive.",
               "permalink": "https://www.threads.com/@lucybarringtonjohn/post/Df76gxdFpK7",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Every twist is a year of weather kept in the wood. Is there one tree shape you keep coming back to?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Df8E4RkAeXf",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -244,10 +313,21 @@
           "photos": [
             "Description: The photograph shows a sky filled with various cloud formations against a blue background, including large cumulus clouds and wispy cirrus clouds. Photograph read: The clouds are rendered with natural contrast and texture, illuminated by daylight. The sky exhibits a gradient of blue tones, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Once you say dragon, the whole sky turns into one - head up top, body sweeping across. Did it hold that shape long enough for a second look, or was it gone by the time you lowered the camera?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8E5mRAdaZ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dwordops",
@@ -256,10 +336,21 @@
           "photos": [
             "Description: A dirt path winds through a dense, green forest, passing beneath a large, gnarled tree with numerous hanging aerial roots and a natural archway formed by its structure. Photograph read: The image is taken from a low angle looking up, with dappled sunlight filtering through the canopy. The tree\u2019s roots and trunk dominate the center, while surrounding foliage fills the frame. The path is visible in the foreground, covered with leaves and soil. The rendering is naturalistic, with no obvious signs of digital artifacts or distortion. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A doorway the tree grew for itself, and the path goes right through it. Did you walk under it first, or stop to take it in from the path?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8E60zgYZ0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "oznatureart",
@@ -268,10 +359,21 @@
           "photos": [
             "Description: A large, gnarled tree root system with exposed, textured bark rests against a rock face, surrounded by fallen reddish-brown leaves and sparse green vegetation; a wooden bench is visible in the background to the left. Photograph read: The image is taken from a low angle, with sunlight casting strong shadows across the root and rock. The root\u2019s surface and surrounding leaves are in focus, while the background bench and foliage are slightly less sharp. The lighting creates high contrast between sunlit and shaded areas. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Round head, long limbs, boots on the ground - your spaceman is ready for launch. Did he land there, or has he been waiting on that rock all along?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8E8YFAfpn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "michelpbeaudry",
@@ -292,10 +394,21 @@
           "photos": [
             "Description: The photograph shows the interior of a church, focusing on a wooden ceiling with exposed beams, a central triangular skylight, and a suspended golden crucifix below. The crucifix is held by strings attached to a central ceiling fixture. Photograph read: The composition is vertically oriented, with the ceiling structure dominating the frame. Lighting is provided by recessed spotlights and natural light from the skylight, creating bright highlights on the wooden beams and crucifix. The rendering is clear, with visible wood grain and metallic reflections on the crucifix and ceiling fixtures. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the triangle steals it - the skylight cutting through all that warm wood, with the cross hanging right below it. Did the light land like that on its own, or did you wait for it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8FBh3Em4i",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "judy.julian77",
@@ -307,10 +420,21 @@
           "watch_outs": [
             "The entire image appears blurred; fine detail is not distinguishable. The graffiti markings are indistinct and lack clear definition due to the blur."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A tiny glowing heart, hiding in the middle of all those bunnies. Did you spot it while you were framing the fence, or only when you looked at the photo later?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8FCwHAY7h",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artisticdezine",
@@ -360,10 +484,21 @@
                   "text": "Too many to mention, our office is replacing old plumbing system",
                   "permalink": "https://www.threads.com/@akmaleky/post/Df73KAmn-Xo",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A whole career of circles, all coming out at once.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FHxogaJ-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -394,10 +529,21 @@
                   "text": "It is a famous slot canyon in Arizona, the light changes as the sun moves. I caught at a good time",
                   "permalink": "https://www.threads.com/@elobernstein/post/Df752mkGDBC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "You caught it at exactly the right moment - the light did the rest.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FJUVktzE",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -428,10 +574,21 @@
                   "text": "That's what I saw lol",
                   "permalink": "https://www.threads.com/@titan_actual86/post/Df74ALroIah",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Then your eyes were right - a bird, mid-flight, in the middle of the sky.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FKxpAZnr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -655,10 +812,21 @@
                   "text": "I have no idea, it was already open when i was there \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@dhinie_behboodzadeh/post/Df76XmvEdgn",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Already open and waiting - lucky timing on your part.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FL4okipi",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -862,10 +1030,21 @@
                   "text": "Not long! After the first flower bloomed it was less than 3 days before the rest followed",
                   "permalink": "https://www.threads.com/@dth_exotics/post/Df8AWrWFqJk",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Three days from one bloom to a whole heart - worth the wait.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FNgwgS0u",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -896,10 +1075,21 @@
                   "text": "a golf ball \ud83d\ude02",
                   "permalink": "https://www.threads.com/@mcoger55/post/Df8CP1zlMCK",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A golf ball, growing in the grass - nature has a sense of humor.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FO0ED73l",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1219,10 +1409,21 @@
                   "text": "It is actually a large brushed metal pipe art installation that surrounds an amphitheater.",
                   "permalink": "https://www.threads.com/@derekrichards4229/post/Df7x9HYDSW8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A whole amphitheater wrapped in one curve. Beautifully spotted.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8FQW_gfia",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

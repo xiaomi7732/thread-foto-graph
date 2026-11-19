@@ -4,49 +4,25 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (122)
+## Needs Reply (110)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **hippiecat51**: I found this little driftwood guy along the shores of Lake Ontario and brought him home. ([link](https://www.threads.com/@hippiecat51/post/Df8E951GQuH))
+  - Photo: Description: A hand holds a weathered, irregularly shaped piece of driftwood against a plain, light-colored background. The object has a rough, textured surface with visible cracks and a pointed, upward-curving top. Photograph read: The image is captured with even, diffuse lighting, showing the object’s form and surface texture. The composition is centered, with the hand partially obscuring the lower portion of the object. The image has a shallow depth of field, with the object in focus but the background blurred. Photo type: Natural
+    - Watch-outs: The hand obscures the lower third of the object, limiting visibility of its base and texture. The top portion of the object is slightly out of focus, reducing clarity of its upper contours.
+- **c.h.skeetsussex.ac.uk**: I have a few more here and there- some were too big and had to be left. ([link](https://www.threads.com/@c.h.skeetsussex.ac.uk/post/Df8E3taDAgz))
+  - _Replying to: A whole row of hearts, and the big one on the right still s…_
+- **coldhollowfarm**: I live on a farm. Found this at daybreak walking out to the barn to feed the horse. ([link](https://www.threads.com/@coldhollowfarm/post/Df8E5MMFgwV))
+  - _Replying to: I think the frost is what makes it - the heart was already …_
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
   - _Replying to: (photo reply, no text)_
-- **estella.haines**: Zinnia with a smiley face in the center. ([link](https://www.threads.com/@estella.haines/post/Df77LRPHUwW))
-  - Photo: Description: A close-up of a bright magenta zinnia flower with a yellow center, set against a softly blurred green background. Photograph read: The flower is centered in the frame with even, natural lighting. The petals show texture and color saturation, while the background exhibits shallow depth of field. The center of the flower contains fine, yellow-tipped structures and a dark core, visible with clear detail. Photo type: Portrait
-- **jeffrey_janusch**: This twisted tree I saw last week at Graceland Cemetery, Chicago. ([link](https://www.threads.com/@jeffrey_janusch/post/Df76C9-lsIr))
-  - Photo: Description: A large, gnarled tree with a prominent, broken branch dominates the foreground of a cemetery, surrounded by gravestones on green grass under a clear sky. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the tree’s bark and the surrounding greenery. The composition centers the tree, with background elements including other trees and a brick building. The rendering is sharp enough to discern texture on the tree trunk and individual gravestones. Photo type: Documentary
-- **lucybarringtonjohn**: I love seeing the shapes trees take to survive and thrive. ([link](https://www.threads.com/@lucybarringtonjohn/post/Df76gxdFpK7))
-  - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
-- **risanye**: Dragon cloud ([link](https://www.threads.com/@risanye/post/Df75-Jhkn45))
-  - Photo: Description: The photograph shows a sky filled with various cloud formations against a blue background, including large cumulus clouds and wispy cirrus clouds. Photograph read: The clouds are rendered with natural contrast and texture, illuminated by daylight. The sky exhibits a gradient of blue tones, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
-- **dwordops**:  ([link](https://www.threads.com/@dwordops/post/Df75-D9E_gF))
-  - Photo: Description: A dirt path winds through a dense, green forest, passing beneath a large, gnarled tree with numerous hanging aerial roots and a natural archway formed by its structure. Photograph read: The image is taken from a low angle looking up, with dappled sunlight filtering through the canopy. The tree’s roots and trunk dominate the center, while surrounding foliage fills the frame. The path is visible in the foreground, covered with leaves and soil. The rendering is naturalistic, with no obvious signs of digital artifacts or distortion. Photo type: Natural landscape
-- **oznatureart**: Spaceman in a tree root ([link](https://www.threads.com/@oznatureart/post/Df754_Bk5YH))
-  - Photo: Description: A large, gnarled tree root system with exposed, textured bark rests against a rock face, surrounded by fallen reddish-brown leaves and sparse green vegetation; a wooden bench is visible in the background to the left. Photograph read: The image is taken from a low angle, with sunlight casting strong shadows across the root and rock. The root’s surface and surrounding leaves are in focus, while the background bench and foliage are slightly less sharp. The lighting creates high contrast between sunlit and shaded areas. Photo type: Natural
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
   - Photo: Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape
-- **kidsdrs**:  ([link](https://www.threads.com/@kidsdrs/post/Df73nNXmDA5))
-  - Photo: Description: The photograph shows the interior of a church, focusing on a wooden ceiling with exposed beams, a central triangular skylight, and a suspended golden crucifix below. The crucifix is held by strings attached to a central ceiling fixture. Photograph read: The composition is vertically oriented, with the ceiling structure dominating the frame. Lighting is provided by recessed spotlights and natural light from the skylight, creating bright highlights on the wooden beams and crucifix. The rendering is clear, with visible wood grain and metallic reflections on the crucifix and ceiling fixtures. Photo type: Architectural
-- **judy.julian77**: Tiny heart-shaped reflection of light on this fence. ([link](https://www.threads.com/@judy.julian77/post/Df72aazm6sj))
-  - Photo: Description: A wooden fence with vertical slats is covered in dark, abstract graffiti-like markings, with a section of corrugated metal in the center. Green foliage overhangs the top of the fence, and a grassy foreground is visible. Photograph read: The image is taken at dusk or twilight, with uneven lighting across the fence. A small, bright, heart-shaped object is visible on the metal section. The fence’s surface shows vertical texture, and the graffiti is rendered as dark, irregular strokes. The image has a soft focus, with no sharp edges or defined lines. Photo type: Unclear
-    - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The graffiti markings are indistinct and lack clear definition due to the blur.
-- **akmaleky**: Too many to mention, our office is replacing old plumbing system ([link](https://www.threads.com/@akmaleky/post/Df73KAmn-Xo))
-  - _Replying to: How many rings deep does that stack go? Circles inside circ…_
-- **elobernstein**: It is a famous slot canyon in Arizona, the light changes as the sun moves. I caught at a good time ([link](https://www.threads.com/@elobernstein/post/Df752mkGDBC))
-  - _Replying to: The rock folds like cloth, and then that bright opening cut…_
-- **titan_actual86**: That's what I saw lol ([link](https://www.threads.com/@titan_actual86/post/Df74ALroIah))
-  - _Replying to: That long cloud in the middle - a bird mid-flight, or am I …_
-- **dhinie_behboodzadeh**: I have no idea, it was already open when i was there 😊 ([link](https://www.threads.com/@dhinie_behboodzadeh/post/Df76XmvEdgn))
-  - _Replying to: A toadstool that opened into a heart - red cap, white freck…_
-- **dth_exotics**: Not long! After the first flower bloomed it was less than 3 days before the rest followed ([link](https://www.threads.com/@dth_exotics/post/Df8AWrWFqJk))
-  - _Replying to: The blooms fell into a heart all on their own. How long did…_
-- **mcoger55**: a golf ball 😂 ([link](https://www.threads.com/@mcoger55/post/Df8CP1zlMCK))
-  - _Replying to: A golf ball, growing in the grass - even the dimples are th…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
-- **derekrichards4229**: It is actually a large brushed metal pipe art installation that surrounds an amphitheater. ([link](https://www.threads.com/@derekrichards4229/post/Df7x9HYDSW8))
-  - _Replying to: I think the curve is the whole photo - that pipe bending aw…_
 - **ulrike6417**: Ich war auf einer Fähre durch die Kieler Förde, als die Quallen aufgetaucht sind! Ich finde sie sehr interessant! ([link](https://www.threads.com/@ulrike6417/post/Df7xUFgkSVK))
   - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
