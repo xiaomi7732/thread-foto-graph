@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 385,
+      "reply_count": 386,
       "replies": [
         {
           "username": "oneillwendie",
@@ -613,7 +613,18 @@
                   "needs_response": true,
                   "action": "reply",
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "iwriteandedit",
+                      "text": "Thanks for your kind comment!",
+                      "permalink": "https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

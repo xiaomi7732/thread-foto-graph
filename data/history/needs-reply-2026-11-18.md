@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (82)
+## Needs Reply (83)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **oneillwendie**: A knob (not the person 😆) on a washing machine. ([link](https://www.threads.com/@oneillwendie/post/Df6GcmljWmg))
@@ -47,6 +47,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The puddle flips the whole street upside down, umbrellas an…_
 - **iwriteandedit**: Not as often as I used to but I still visit every two years or so... ([link](https://www.threads.com/@iwriteandedit/post/Df59HDRlAYM))
   - _Replying to: I think the B&W suits this one - the mill gets a full secon…_
+- **iwriteandedit**: Thanks for your kind comment! ([link](https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-))
+  - _Replying to: Not as often as I used to but I still visit every two years…_
 - **mixtapemissives**: Heh, not long. Grateful it wasn't a bright day. I actually burnt a hole in a glove once, holding that ball in direct sunlight. Science is a heckuva thing. Lol ([link](https://www.threads.com/@mixtapemissives/post/Df59040DsRE))
   - _Replying to: The cherry gets a tiny twin inside the sphere, and the whol…_
 - **posts.by.norman**: Nope, did not. Stood in front of the hats and pivoted to the left. Didn't see myself so I quickly snapped. ▓ ([link](https://www.threads.com/@posts.by.norman/post/Df5-PWUHzao))
