@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (116)
+## Needs Reply (118)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **32groove**:  ([link](https://www.threads.com/@32groove/post/Df8FvbvD0TE))
@@ -28,6 +28,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape
 - **kidsdrs**: Waited until the service was over. ([link](https://www.threads.com/@kidsdrs/post/Df8FgyxGiS0))
   - _Replying to: I think the triangle steals it - the skylight cutting throu…_
+- **storycatcher52**: These were in a window to be ready for the next day. It was amazing cheese, but very expensive.! ([link](https://www.threads.com/@storycatcher52/post/Df8IKaiFLz0))
+  - _Replying to: I think the rows are the best part - every round in its pla…_
+- **aaronschwartz1**: A board room? Meeting rooms for pretending to accomplish stuff? Executive offices with keys to the elevator? One cannot know. ([link](https://www.threads.com/@aaronschwartz1/post/Df8IP-goxhv))
+  - _Replying to: What lives in that square notch - a terrace? A whole chunk …_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
