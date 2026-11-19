@@ -13,8 +13,27 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 307,
+      "reply_count": 309,
       "replies": [
+        {
+          "username": "tiabird_brain23",
+          "text": "",
+          "permalink": "https://www.threads.com/@tiabird_brain23/post/Df5z5XHGcJ7",
+          "photos": [
+            "Description: A calm lake reflects a forested shoreline in autumn colors, with trees displaying orange, yellow, and green foliage under a partly cloudy sky; a small stone building and dock are visible on the right. Photograph read: The composition is symmetrical, with the lake\u2019s surface mirroring the trees and sky. Lighting is bright and even, suggesting midday. Rendering is clear, with natural color saturation and sharp detail in the trees and reflections. Photo type: Landscape",
+            "Description: A calm body of water reflects a forested hillside in autumnal colors, with trees displaying red, orange, yellow, and green foliage under a clear blue sky. Photograph read: The composition is symmetrical, with the water\u2019s surface mirroring the treeline. Lighting is bright and even, suggesting midday. Rendering is clear, with distinct color saturation and sharpness in the foliage and its reflection. Photo type: Landscape",
+            "Description: A group of people in light-colored clothing stands on a grassy bank beside a calm body of water, with a dense treeline behind them. Sunlight appears to filter through the trees, creating visible rays that extend toward the water surface. Photograph read: The image features a calm water surface reflecting the treeline and the group, with reeds in the foreground. The lighting suggests bright, possibly late-day sun, with distinct sun rays visible through the trees. The image has a soft, slightly grainy appearance with muted contrast. Photo type: Natural landscape"
+          ],
+          "watch_outs": [
+            "",
+            "",
+            "The foreground reeds are slightly out of focus and lack sharp definition. The group of people is silhouetted and indistinct, with limited discernible detail due to low contrast and distance."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kellmell",
           "text": "",
@@ -988,7 +1007,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "simon_thenoisygoat",
+                  "text": "It didn't look \"right\" before hand. I took the photo because I thought it might look good anyway. It was only a really small puddle, i had to get really close to it... something made me get down there and look at the reflection. Flipped it, and was then \"woah... I like THAT!!!\"",
+                  "permalink": "https://www.threads.com/@simon_thenoisygoat/post/Df5z3PqCPvq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
