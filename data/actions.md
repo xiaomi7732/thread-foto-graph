@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (107)
+## Needs Reply (112)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **jeffrey_janusch**: This twisted tree I saw last week at Graceland Cemetery, Chicago. ([link](https://www.threads.com/@jeffrey_janusch/post/Df76C9-lsIr))
+  - Photo: Description: A large, gnarled tree with a prominent, broken branch dominates the foreground of a cemetery, surrounded by gravestones on green grass under a clear sky. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the tree’s bark and the surrounding greenery. The composition centers the tree, with background elements including other trees and a brick building. The rendering is sharp enough to discern texture on the tree trunk and individual gravestones. Photo type: Documentary
+- **lucybarringtonjohn**: I love seeing the shapes trees take to survive and thrive. ([link](https://www.threads.com/@lucybarringtonjohn/post/Df76gxdFpK7))
+  - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
+- **risanye**: Dragon cloud ([link](https://www.threads.com/@risanye/post/Df75-Jhkn45))
+  - Photo: Description: The photograph shows a sky filled with various cloud formations against a blue background, including large cumulus clouds and wispy cirrus clouds. Photograph read: The clouds are rendered with natural contrast and texture, illuminated by daylight. The sky exhibits a gradient of blue tones, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
+- **dwordops**:  ([link](https://www.threads.com/@dwordops/post/Df75-D9E_gF))
+  - Photo: Description: A dirt path winds through a dense, green forest, passing beneath a large, gnarled tree with numerous hanging aerial roots and a natural archway formed by its structure. Photograph read: The image is taken from a low angle looking up, with dappled sunlight filtering through the canopy. The tree’s roots and trunk dominate the center, while surrounding foliage fills the frame. The path is visible in the foreground, covered with leaves and soil. The rendering is naturalistic, with no obvious signs of digital artifacts or distortion. Photo type: Natural landscape
 - **oznatureart**: Spaceman in a tree root ([link](https://www.threads.com/@oznatureart/post/Df754_Bk5YH))
   - Photo: Description: A large, gnarled tree root system with exposed, textured bark rests against a rock face, surrounded by fallen reddish-brown leaves and sparse green vegetation; a wooden bench is visible in the background to the left. Photograph read: The image is taken from a low angle, with sunlight casting strong shadows across the root and rock. The root’s surface and surrounding leaves are in focus, while the background bench and foliage are slightly less sharp. The lighting creates high contrast between sunlit and shaded areas. Photo type: Natural
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
@@ -24,6 +32,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The rock folds like cloth, and then that bright opening cut…_
 - **titan_actual86**: That's what I saw lol ([link](https://www.threads.com/@titan_actual86/post/Df74ALroIah))
   - _Replying to: That long cloud in the middle - a bird mid-flight, or am I …_
+- **dhinie_behboodzadeh**: I have no idea, it was already open when i was there 😊 ([link](https://www.threads.com/@dhinie_behboodzadeh/post/Df76XmvEdgn))
+  - _Replying to: A toadstool that opened into a heart - red cap, white freck…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
