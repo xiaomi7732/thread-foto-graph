@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (115)
+## Needs Reply (117)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **victorvoltaphoto**:  ([link](https://www.threads.com/@victorvoltaphoto/post/Df77oVfkv9d))
@@ -53,6 +53,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Vrees het niet. Deze foto is al een tijdje geleden gemaakt_
 - **fabienne_journey**: De mijne was op 15 maart 🥹 ([link](https://www.threads.com/@fabienne_journey/post/Df77ROIjr5U))
   - _Replying to: Oh, ik heb even gekeken deze is van 26 oktober 😬_
+- **linda73linda**: Ohhh. Dan is het niet hetzelfde hartje 😬😬😂😂 Maar wel mooie harten 🫶🏼 ([link](https://www.threads.com/@linda73linda/post/Df77tPXjZvJ))
+  - _Replying to: De mijne was op 15 maart 🥹_
+- **fabienne_journey**: Hartjes zijn tenslotte altijd mooi ❤️🫶🏼 ([link](https://www.threads.com/@fabienne_journey/post/Df779xADnvl))
+  - _Replying to: Ohhh. Dan is het niet hetzelfde hartje 😬😬😂😂 Maar wel mooie …_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
