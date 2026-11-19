@@ -6,47 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (111)
+## Needs Reply (99)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **judy.julian77**: Tiny heart-shaped reflection of light on this fence. ([link](https://www.threads.com/@judy.julian77/post/Df72aazm6sj))
   - Photo: Description: A wooden fence with vertical slats is covered in dark, abstract graffiti-like markings, with a section of corrugated metal in the center. Green foliage overhangs the top of the fence, and a grassy foreground is visible. Photograph read: The image is taken at dusk or twilight, with uneven lighting across the fence. A small, bright, heart-shaped object is visible on the metal section. The fence’s surface shows vertical texture, and the graffiti is rendered as dark, irregular strokes. The image has a soft focus, with no sharp edges or defined lines. Photo type: Unclear
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The graffiti markings are indistinct and lack clear definition due to the blur.
-- **artisticdezine**:  ([link](https://www.threads.com/@artisticdezine/post/Df7zzC4mN7_))
-  - Photo: Description: A pizza with multiple toppings, including pepperoni, pineapple, red onions, and green peppers, is sliced and presented on a white paper plate. A pizza cutter rests on the plate near the top edge. Photograph read: The image is taken from a top-down perspective with even, direct lighting. The pizza is in focus, and the toppings are clearly distinguishable. The background consists of a wooden surface with visible grain and minor scratches. Photo type: Food photography
-- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Df7zpHen4GH))
-  - Photo: Description: The photograph shows a close-up, top-down view of numerous stacked white PVC pipes, with their circular openings facing the camera, creating a repeating pattern of concentric rings. Photograph read: The image is composed of overlapping circular pipe openings, with moderate contrast and a cool, desaturated color tone. Lighting is even across the scene, with no visible shadows or highlights indicating direction or source. The image lacks sharpness, and edges are soft, suggesting a shallow depth of field or low-resolution capture. Photo type: Industrial
-- **elobernstein**:  ([link](https://www.threads.com/@elobernstein/post/Df7zdXhmMxG))
-  - Photo: Description: The image shows a narrow, winding sandstone canyon with smooth, flowing contours, illuminated by a bright light source from above, casting warm tones across the rock surfaces. Photograph read: The composition is dominated by the curved canyon walls, with strong contrast between the brightly lit interior and the dark surrounding areas. The lighting creates highlights and shadows that emphasize the rock’s texture and form. The image appears to be a single exposure with no visible signs of motion blur or focus issues. Photo type: Natural landscape
-- **titan_actual86**:  ([link](https://www.threads.com/@titan_actual86/post/Df7xdpVoMjj))
-  - Photo: Description: The photograph shows a view of a deep blue sky with scattered white clouds, framed by dark tree silhouettes at the bottom and a partial architectural element in the upper left corner. Photograph read: The composition is vertical, with the sky occupying most of the frame. Lighting appears natural and diffused, casting soft shadows within the clouds. The rendering has a slightly desaturated, cool-toned color palette with visible texture in the clouds and foliage. Photo type: Aesthetic landscape
-- **kes_ward**: More by luck this one but the little heart in this tiny soap bubble that looks like an alien planet out in the universe somewhere. ([link](https://www.threads.com/@kes_ward/post/Df7w25tjHlV))
-  - Photo: Description: A spherical object with swirling, iridescent patterns of blue, purple, yellow, and orange dominates the lower portion of the frame against a solid black background. Photograph read: The subject is illuminated from above, creating a bright, smooth highlight along its upper curve. The surface displays fluid, abstract color patterns with no discernible texture or structure. The image is sharp and well-defined within the subject area, with no visible signs of motion blur, focus issues, or sensor noise. Photo type: Abstract
-- **storycatcher52**: Fresh cheese in the aging room at Cowgirl Creamery Point Reyes California ([link](https://www.threads.com/@storycatcher52/post/Df7wh48lKyT))
-  - Photo: Description: A table covered with white paper holds multiple round, golden-brown baked goods, likely buns or small loaves, arranged in rows. Photograph read: The image is taken from a slightly elevated angle, with light coming from the upper left, casting soft shadows. The baked goods are in focus, but the background and table legs are dark and indistinct. The paper surface shows some creases and reflections. Photo type: Still life
-- **reverendbenzo**: It's an overpass. I was crossing and lay on my back to get this. It was cold as sh*t too. ([link](https://www.threads.com/@reverendbenzo/post/Df7wiCylqpm))
-  - _Replying to: The beams cut the night into triangles, and that one light …_
-- **shellscorer**: I wish I’d brought him home but he was on lifeguard duty….. ([link](https://www.threads.com/@shellscorer/post/Df7xSxHiJVH))
-  - _Replying to: Snout to the left, round little body, one dark ear - that i…_
-- **beckiefitzgerald**: Not sure. Just know they aid in blooming. ([link](https://www.threads.com/@beckiefitzgerald/post/Df7zSq3IOG9))
-  - _Replying to: The ants are doing the rounds on the bud while the ladybug …_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
 - **derekrichards4229**: It is actually a large brushed metal pipe art installation that surrounds an amphitheater. ([link](https://www.threads.com/@derekrichards4229/post/Df7x9HYDSW8))
   - _Replying to: I think the curve is the whole photo - that pipe bending aw…_
-- **bongapostol**: Its a bar ([link](https://www.threads.com/@bongapostol/post/Df7y_mNiThY))
-  - _Replying to: Striped cones and glowing rings all over the ceiling - is t…_
-- **jcallenderphotography**: Not sure but one thought is that it is a gall that formed on the stem tip. If it were a seed pod, it should’ve opened by March when I photographed it. ([link](https://www.threads.com/@jcallenderphotography/post/Df71k6YAal_))
-  - _Replying to: That speckled skin against the soft brown blur - a whole li…_
 - **ulrike6417**: Ich war auf einer Fähre durch die Kieler Förde, als die Quallen aufgetaucht sind! Ich finde sie sehr interessant! ([link](https://www.threads.com/@ulrike6417/post/Df7xUFgkSVK))
   - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
   - _Replying to: Thank you - that frosty heart stopped my scroll._
 - **linda73linda**: Leuk ! Zou het hetzelfde hart zijn geweest ? ([link](https://www.threads.com/@linda73linda/post/Df703UkDQJQ))
   - _Replying to: Another day, with the same heart_
-- **fabienne_journey**: For me just once ([link](https://www.threads.com/@fabienne_journey/post/Df7xGAajvO-))
-  - _Replying to: The same heart, back for another evening - and the red car …_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
