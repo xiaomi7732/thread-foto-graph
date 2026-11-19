@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (72)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **curtiscreager**: Trackday lineup ([link](https://www.threads.com/@curtiscreager/post/Df6eoQYmzKe))
@@ -13,6 +13,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A round, circular mirror with a metallic frame is positioned against a textured, patterned fabric background, reflecting a sky with soft gradient tones and faint cloud streaks. Photograph read: The mirror’s reflective surface captures a pale sky with horizontal bands of muted pink and lavender hues. The mirror’s frame and mounting hardware are visible, and the fabric background shows a repeating floral or geometric pattern with a light, neutral base color. The lighting is even and diffuse, with no harsh shadows or high-contrast areas. Photo type: Still life
 - **joshwill.jpg**: whenever I see a mirror. I see a photo opportunity! it’s taught me to not only enjoy the moment. but capture it (and quickly 🤭)! But it was just a nice night out with friends :) ([link](https://www.threads.com/@joshwill.jpg/post/Df6fFrSFFfS))
   - _Replying to: Four of you in one mirror, and the lights do the confetti f…_
+- **difishing**: 48 years of knowledge of this area. ([link](https://www.threads.com/@difishing/post/Df6ffeplsrx))
+  - _Replying to: The orange bank gets a second showing in the water, and the…_
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
   - Photo: Description: The photograph shows a tall building illuminated by warm, low-angle light, viewed through the silhouettes of tree branches in the foreground. The sky is hazy and uniformly lit, suggesting twilight or dawn. Photograph read: The composition is framed by dark, leafy branches in the foreground, with the building and a bright light source (likely the sun) behind them. The building’s windows reflect or emit light, creating a pattern of glowing points. The image has a soft, hazy quality, with no visible sharpness or defined focus. Photo type: Urban silhouette
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
@@ -21,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
+- **grayghostlife**: Yes all the time ([link](https://www.threads.com/@grayghostlife/post/Df6fnPWjs6D))
+  - _Replying to: Two fish for the price of one, and they meet nose to nose r…_
 - **iwriteandedit**: Thanks for your kind comment! ([link](https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-))
   - _Replying to: Not as often as I used to but I still visit every two years…_
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
