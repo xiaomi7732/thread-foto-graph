@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (125)
+## Needs Reply (126)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KctDGfeZ))
@@ -46,6 +46,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the triangle steals it - the skylight cutting throu…_
 - **storycatcher52**: These were in a window to be ready for the next day. It was amazing cheese, but very expensive.! ([link](https://www.threads.com/@storycatcher52/post/Df8IKaiFLz0))
   - _Replying to: I think the rows are the best part - every round in its pla…_
+- **jammy.kollings**: I was on a walk-and I saw it, and I had to pick it up and marvel at its beauty. It’s displayed in my casa now ([link](https://www.threads.com/@jammy.kollings/post/Df8NK7FFETX))
+  - _Replying to: A tiny cone with a diamond pattern, small enough to carry h…_
 - **aaronschwartz1**: A board room? Meeting rooms for pretending to accomplish stuff? Executive offices with keys to the elevator? One cannot know. ([link](https://www.threads.com/@aaronschwartz1/post/Df8IP-goxhv))
   - _Replying to: What lives in that square notch - a terrace? A whole chunk …_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
