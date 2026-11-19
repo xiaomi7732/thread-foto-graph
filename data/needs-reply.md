@@ -4,9 +4,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (77)
+## Needs Reply (82)
+
+### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
+- **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
+  - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
+- **apertureandartdotcom**: That is actually a canal. The whole town of Giethoorn is built on canals. You either float or walk. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tcd2kWa5))
+  - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **juliet.4066**:  ([link](https://www.threads.com/@juliet.4066/post/Df6vB5DDpWa))
+  - Photo: Description: The image shows a shallow, murky body of water with floating and submerged leaves, alongside a white plastic object and a cylindrical pipe, viewed through a transparent surface that reflects surrounding elements. Photograph read: The image is taken from a high angle looking down into water, with visible reflections and refractions on the surface. Lighting is diffuse, casting a yellowish tint over the scene. The water’s murkiness reduces contrast and clarity of submerged objects. Photo type: Documentary
+    - Watch-outs: - Water turbidity obscures fine detail of submerged leaves and objects, especially in the lower half of the frame. - Reflections and refractions on the transparent surface distort the view of the pipe and plastic object, making their shapes and edges indistinct.
+- **leearthur1109**:  ([link](https://www.threads.com/@leearthur1109/post/Df6u5tZDwBb))
+  - Photo: Description: A circular water feature with a central upright stone, surrounded by a border of small pebbles and larger stone blocks, set into a paved area with grid-patterned tiles. Photograph read: The image is taken from a slightly elevated angle, showing the water’s surface with ripples and reflections of warm light. The lighting suggests late afternoon or early morning, casting golden tones on the water’s surface. The rendering is clear enough to distinguish the pebbles, stone border, and the central rock, though the water’s surface has some motion blur. Photo type: Still life
 - **philwelch1961**:  ([link](https://www.threads.com/@philwelch1961/post/Df6ndPzpcOY))
   - Photo: Description: A calm canal flanked by buildings and trees, with reflections visible on the water’s surface under a clear sky. Photograph read: The canal stretches into the distance, with buildings on both sides and trees showing autumnal color. Reflections are clear in the water, though some surface ripples and floating debris are visible. Lighting suggests late afternoon or early morning, with soft shadows and a clear sky. Photo type: Urban landscape
   - Photo: Description: The photograph shows a long, symmetrical indoor hall with a central water channel flanked by sculptures on wooden platforms, under a high, arched ceiling with a large stained-glass window at the far end. Photograph read: The composition is symmetrical, with the water channel leading the eye toward the distant stained-glass window. Lighting is even and diffuse, with reflections visible on the water surface. The ceiling and walls are rendered with clear architectural lines, and the sculptures are visible but not sharply detailed. Photo type: Architectural
@@ -60,6 +71,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A quiet sunrise all to yourself is the best kind._
 - **giugiovivi**:  ([link](https://www.threads.com/@giugiovivi/post/Df5d9j3DcSx))
   - Photo: Description: A woman in a fur coat and high heels stands on a paved sidewalk beside a brick wall and a window with patterned curtains; only her lower body and partial upper body are visible. Photograph read: The image is in black and white, with high contrast between the dark fur, shoes, and structural elements against the lighter brick and pavement. The composition is framed by vertical elements, and the lighting appears direct, casting clear shadows. Photo type: Street photography
+- **pennyhay83**: Just a lucky shot! ([link](https://www.threads.com/@pennyhay83/post/Df6v77pjU-1))
+  - _Replying to: That red and yellow beak gets a second showing in the water…_
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
   - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
     - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.
