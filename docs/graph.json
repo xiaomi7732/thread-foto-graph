@@ -13,8 +13,23 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 389,
+      "reply_count": 390,
       "replies": [
+        {
+          "username": "alaska.photographer",
+          "text": "Red-necked grebe feeding her chick.",
+          "permalink": "https://www.threads.com/@alaska.photographer/post/Df6SekPG31b",
+          "photos": [
+            "Description: A bird, likely a duck, is partially submerged in shallow water near grassy vegetation, with its head and neck submerged and beak near the surface. The water surface reflects the bird and surrounding reeds. Photograph read: The image is taken from a low angle, capturing the bird\u2019s reflection in the water. The water surface is relatively calm but shows motion blur, particularly around the bird\u2019s head and beak. Lighting is diffuse, with no strong directional highlights or shadows. The reflection is clear enough to discern the bird\u2019s form and feather texture, but the actual bird is mostly obscured by water and angle. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "- Motion blur affects the bird\u2019s head and beak, reducing fine detail. - Reflections in the water partially obscure the bird\u2019s actual form, especially the head and neck."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "9w6she",
           "text": "",

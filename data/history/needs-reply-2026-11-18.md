@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (87)
+## Needs Reply (88)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **alaska.photographer**: Red-necked grebe feeding her chick. ([link](https://www.threads.com/@alaska.photographer/post/Df6SekPG31b))
+  - Photo: Description: A bird, likely a duck, is partially submerged in shallow water near grassy vegetation, with its head and neck submerged and beak near the surface. The water surface reflects the bird and surrounding reeds. Photograph read: The image is taken from a low angle, capturing the bird’s reflection in the water. The water surface is relatively calm but shows motion blur, particularly around the bird’s head and beak. Lighting is diffuse, with no strong directional highlights or shadows. The reflection is clear enough to discern the bird’s form and feather texture, but the actual bird is mostly obscured by water and angle. Photo type: Natural
+    - Watch-outs: - Motion blur affects the bird’s head and beak, reducing fine detail. - Reflections in the water partially obscure the bird’s actual form, especially the head and neck.
 - **9w6she**:  ([link](https://www.threads.com/@9w6she/post/Df6Q96Lk7Ow))
   - Photo: Description: The photograph shows the reflective glass facade of a modern building, with a distorted reflection of another building and some greenery visible in the glass panes. The foreground includes the blurred top edge of a vehicle. Photograph read: The image is taken at an angle, capturing a section of a building with a grid of glass panels. Reflections are prominent, and the glass shows vertical streaks and smudges. Lighting appears diffuse, with no strong directional highlights or shadows. The image has a shallow depth of field, with the foreground vehicle top out of focus. Photo type: Urban architectural snapshot
     - Watch-outs: - The foreground vehicle top is blurred, obscuring any detail. - Reflections in the glass are distorted and partially obscured by smudges and streaks, limiting clarity of the reflected subject.
