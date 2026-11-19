@@ -6,20 +6,27 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (84)
+## Needs Reply (86)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
-- **srravi**: Colorful fallen leaves 🍁 ([link](https://www.threads.com/@srravi/post/Df7X_HjGspZ))
+- **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
+  - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
+    - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
+- **5gttexbn**:  ([link](https://www.threads.com/@5gttexbn/post/Df7YSKAEaIS))
+  - Photo: Description: A black-and-white photograph captures an underground subway station with a distinctive geometric ceiling, featuring a repeating grid of recessed panels. The platform is lined with embedded lights, and passengers are visible on both sides of the tracks. Photograph read: The image is shot with a low-angle perspective, emphasizing the converging lines of the tracks and ceiling. Lighting is even across the scene, with no visible shadows or highlights suggesting a specific camera exposure. The image is in monochrome, lacking color information. Photo type: Architectural
+- **srravi**:  ([link](https://www.threads.com/@srravi/post/Df7YPVVGqjJ))
+  - Photo: Description: A close-up macro photograph of a green leaf, showing its central vein and branching venation pattern against a dark green background. Photograph read: The image is in focus with even lighting, revealing fine textures and vein structures. The leaf’s surface and vascular network are clearly rendered, with no visible motion blur or light falloff. Photo type: Macro
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
-- **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
-  - _Replying to: @jh1962bike Your 300SL shot is the middle slide of the Refl…_
 - **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 - **apertureandartdotcom**: That is actually a canal. The whole town of Giethoorn is built on canals. You either float or walk. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tcd2kWa5))
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **beezr46**:  ([link](https://www.threads.com/@beezr46/post/Df7YVJOkdV-))
+  - Photo: Description: A smiling young woman with long blonde hair, wearing a black hat and a mustard-yellow floral top with a black buttoned skirt, stands in front of a white-framed doorway, adjusting her hat with her right hand. Photograph read: The image is taken from a perspective behind the subject, with the photographer’s shoulder and back in the foreground, out of focus. The background shows a blurred, golden-hued outdoor scene with dry vegetation. The subject is in focus, but the foreground obstruction reduces the visible area of the subject’s body and face. Photo type: Portrait
+    - Watch-outs: - Foreground obstruction: The photographer’s shoulder and back dominate the right side of the frame, obscuring part of the subject’s body and reducing the visible area of her face and upper torso. - Depth of field: The subject is in focus, but the foreground is significantly blurred, which limits the viewer’s ability to see the full context of the subject’s pose and expression.
 - **sarahcahillsena**:  ([link](https://www.threads.com/@sarahcahillsena/post/Df7VFWjEcMp))
   - Photo: Description: A bright green kayak is positioned at the foreground, pointing toward a calm river flanked by towering red rock cliffs under a clear blue sky. The water reflects the cliffs and sky, with some ripples disturbing the surface. Photograph read: The composition is centered on the kayak’s bow, with the river and cliffs extending into the distance. Lighting is bright and direct, casting strong shadows on the right cliff face and illuminating the left cliff in warm tones. Reflections are visible but slightly distorted by surface ripples. The image appears to be captured from a first-person perspective, likely with a camera mounted on the kayak. Photo type: Landscape
 - **ritaveeps**:  ([link](https://www.threads.com/@ritaveeps/post/Df7TYIDkcL8))
