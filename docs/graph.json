@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 374,
+      "reply_count": 375,
       "replies": [
         {
           "username": "fephi",
@@ -345,7 +345,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "winestains.ca",
+                  "text": "I drive down this row in all seasons and I often video it as I drive. I thought the \u201drear view\u201d was punny for a vineyard that harvests long after most in the area are done.",
+                  "permalink": "https://www.threads.com/@winestains.ca/post/Df5_uvTAj7Z",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

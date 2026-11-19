@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (72)
+## Needs Reply (73)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **fephi**: Reflection on the car window. ([link](https://www.threads.com/@fephi/post/Df5_pSKGcSa))
@@ -24,6 +24,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
 - **bybaird**: From a cruise ship in Alaska. Not sure of the time of day. ([link](https://www.threads.com/@bybaird/post/Df59rZ_lLPC))
   - _Replying to: The mountains come back so softly in the fjord that the wat…_
+- **winestains.ca**: I drive down this row in all seasons and I often video it as I drive. I thought the ”rear view” was punny for a vineyard that harvests long after most in the area are done. ([link](https://www.threads.com/@winestains.ca/post/Df5_uvTAj7Z))
+  - _Replying to: A whole vineyard row squeezed into one mirror, grapes and a…_
 - **real_snapshot_**: I was looking down at the ground, searching for puddles, so I noticed the reflections first. Thank you. ([link](https://www.threads.com/@real_snapshot_/post/Df5-Avxmfan))
   - _Replying to: The puddle flips the whole street upside down, umbrellas an…_
 - **iwriteandedit**: Not as often as I used to but I still visit every two years or so... ([link](https://www.threads.com/@iwriteandedit/post/Df59HDRlAYM))
