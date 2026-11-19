@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (110)
+## Needs Reply (111)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **judy.julian77**: Tiny heart-shaped reflection of light on this fence. ([link](https://www.threads.com/@judy.julian77/post/Df72aazm6sj))
+  - Photo: Description: A wooden fence with vertical slats is covered in dark, abstract graffiti-like markings, with a section of corrugated metal in the center. Green foliage overhangs the top of the fence, and a grassy foreground is visible. Photograph read: The image is taken at dusk or twilight, with uneven lighting across the fence. A small, bright, heart-shaped object is visible on the metal section. The fence’s surface shows vertical texture, and the graffiti is rendered as dark, irregular strokes. The image has a soft focus, with no sharp edges or defined lines. Photo type: Unclear
+    - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The graffiti markings are indistinct and lack clear definition due to the blur.
 - **artisticdezine**:  ([link](https://www.threads.com/@artisticdezine/post/Df7zzC4mN7_))
   - Photo: Description: A pizza with multiple toppings, including pepperoni, pineapple, red onions, and green peppers, is sliced and presented on a white paper plate. A pizza cutter rests on the plate near the top edge. Photograph read: The image is taken from a top-down perspective with even, direct lighting. The pizza is in focus, and the toppings are clearly distinguishable. The background consists of a wooden surface with visible grain and minor scratches. Photo type: Food photography
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Df7zpHen4GH))
