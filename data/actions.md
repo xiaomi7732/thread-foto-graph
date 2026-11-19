@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (68)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **bluntnelson**:  ([link](https://www.threads.com/@bluntnelson/post/Df597emoN5W))
@@ -27,6 +27,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the B&W suits this one - the mill gets a full secon…_
 - **mixtapemissives**: Heh, not long. Grateful it wasn't a bright day. I actually burnt a hole in a glove once, holding that ball in direct sunlight. Science is a heckuva thing. Lol ([link](https://www.threads.com/@mixtapemissives/post/Df59040DsRE))
   - _Replying to: The cherry gets a tiny twin inside the sphere, and the whol…_
+- **posts.by.norman**: Nope, did not. Stood in front of the hats and pivoted to the left. Didn't see myself so I quickly snapped. ▓ ([link](https://www.threads.com/@posts.by.norman/post/Df5-PWUHzao))
+  - _Replying to: A whole wall of hats, twice over, and the glass just hands …_
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
   - Photo: Description: The image shows a child’s reflection in a car’s side mirror, holding a blue and orange Nerf gun, with a blurred dinosaur figure visible in the background through the trees. Photograph read: The composition is framed by the mirror’s edge, with the child and gun in focus within the reflection. Lighting is bright and natural, with green foliage in the background. The mirror surface reflects the scene clearly, while the background beyond the mirror is out of focus. Photo type: Reflection
     - Watch-outs: The dinosaur figure in the background is blurred and indistinct, making its features unreadable. The child’s face in the reflection is partially obscured by the sunglasses and the angle of the mirror, limiting facial detail.
