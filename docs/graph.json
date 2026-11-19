@@ -10,8 +10,37 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 12,
+      "reply_count": 19,
       "replies": [
+        {
+          "username": "abbytabby13",
+          "text": "",
+          "permalink": "https://www.threads.com/@abbytabby13/post/Df7aPi8FtH_",
+          "photos": [
+            "Description: The image shows a rocky outcrop against a clear blue sky, with the rock formation appearing weathered and composed of large, irregular boulders. Photograph read: The composition is dominated by the rock mass on the right, with the sky occupying the left. Lighting is bright and even, suggesting daylight. The image exhibits a noticeable pixelation and softness, reducing the sharpness of rock textures. Photo type: Unclear",
+            "Description: A large, white, cumuliform cloud dominates the upper half of the frame against a clear blue sky, with a flat, dry field and distant mountains in the lower portion. A truck and utility poles are visible in the midground. Photograph read: The image is taken from a distance with a wide field of view, showing a bright, clear sky and a relatively flat horizon. The cloud is sharply defined against the sky, while the ground and distant mountains are less detailed. The image appears to be captured with a standard camera, showing no visible signs of motion blur or distortion. Photo type: Landscape"
+          ],
+          "watch_outs": [
+            "The entire image appears blurred; fine detail is not distinguishable. The rock surfaces lack crisp edges and texture definition.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "auerbach_photos",
+          "text": "It\u2019s the shape of Split Apple Rock in New Zealand, not the photobombing man in domething resembling speedos\ud83d\ude0a",
+          "permalink": "https://www.threads.com/@auerbach_photos/post/Df7Z2XRlqtJ",
+          "photos": [
+            "Description: A shirtless man stands on a rocky outcrop in the sea, positioned to the left of a large, rounded boulder with yellowish lichen. The scene is under a clear blue sky with distant mountains visible across the water. Photograph read: The composition is centered on the man and the boulder, with the sea and sky filling the frame. Lighting is bright and even, suggesting midday sun. The image has a natural color balance and moderate sharpness, with no visible signs of motion blur or focus issues. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hereyesonphotojewels",
           "text": "",
@@ -31,10 +60,21 @@
           "photos": [
             "Description: A single orange-brown oak leaf with a heart-shaped hole lies on a dark, gravelly pavement, surrounded by small pebbles and scattered pine needles. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear texture on the leaf and ground. The leaf is in focus, with visible veins and surface imperfections. The background is composed of coarse aggregate and small stones, with no signs of motion blur or lens distortion. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A heart punched clean through an oak leaf, and the leaf just lying there like nothing happened. What gave it away first, the orange against the wet pavement or the little heart itself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7aPi0EU09",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "oneillwendie",
@@ -43,10 +83,32 @@
           "photos": [
             "Description: A large, rounded rock rests on a sandy surface, surrounded by numerous footprints and scattered small debris. Photograph read: The image is taken from a high angle, with strong directional sunlight casting a distinct shadow from the rock. The sand shows fine texture and varied footprints, while the rock\u2019s surface exhibits visible cracks and weathering. The rendering is sharp enough to discern surface details and texture, with no apparent motion blur or focus issues. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Nature's own armchair, complete with a view of the sand. Did you test-drive the seat before taking the photo?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7aNvxlrf6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "oneillwendie",
+                  "text": "I did! It was facing away from the lake!",
+                  "permalink": "https://www.threads.com/@oneillwendie/post/Df7aU9qlbiL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "hannele.heikkinen",
@@ -58,10 +120,21 @@
           "watch_outs": [
             "Whole-image blur obscures fine texture in the ice and snow; the central channel\u2019s edges are indistinct, making depth and surface detail unreadable."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two figures, back to back, and neither one saying a word to the other. Did you spot the pair on the spot, or only later when the photo came up on screen?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7aKkilqYp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "glendagh25",
@@ -112,10 +185,21 @@
           "photos": [
             "Description: A black-and-white photograph captures an underground subway station with a distinctive geometric ceiling, featuring a repeating grid of recessed panels. The platform is lined with embedded lights, and passengers are visible on both sides of the tracks. Photograph read: The image is shot with a low-angle perspective, emphasizing the converging lines of the tracks and ceiling. Lighting is even across the scene, with no visible shadows or highlights suggesting a specific camera exposure. The image is in monochrome, lacking color information. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That ceiling does all the work - row after row of squares bending into one long arc, and the platform lights picking out the rhythm. I think the black and white was the right call; did the station feel that quiet when you were there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7aMTsoDHU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "srravi",
@@ -297,7 +381,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 506,
+      "reply_count": 508,
       "replies": [
         {
           "username": "beezr46",
@@ -482,7 +566,30 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nickiddon",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@nickiddon/post/Df7aH-ZjWpa",
+                  "photos": [
+                    "Description: Four individuals stand on a long, flat watercraft on a calm body of water, with their reflections mirrored in the surface. A distant shoreline and a cloudy sky form the background. Photograph read: The composition is horizontally oriented, with the subjects centered in the midground. Lighting is diffuse, suggesting an overcast day, and the image has a muted color palette. Reflections are clear and symmetrical, indicating a very still surface. The image exhibits a slight softness, but no sharpness or focus issues are evident. Photo type: Natural"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "nickiddon",
+                  "text": "Two pirogues (dug-out canoes) and yes - it's upside down.",
+                  "permalink": "https://www.threads.com/@nickiddon/post/Df7aFFvDfRZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
