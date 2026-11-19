@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 91,
+      "reply_count": 92,
       "replies": [
+        {
+          "username": "anto_acz",
+          "text": "",
+          "permalink": "https://www.threads.com/@anto_acz/post/Df7mvgGEevi",
+          "photos": [
+            "Description: A bronze statue of a figure in a dynamic pose with one arm raised, standing on a stone pedestal by a waterfront at sunset. The base holds offerings including flowers and papers. A calm body of water and distant hills under a gradient sky form the background. Photograph read: The image is taken with the sun low on the horizon, casting a warm glow across the water and sky. The statue is silhouetted against the bright background, with visible contrast between the dark figure and the illuminated sky. The water surface reflects the sky\u2019s colors. The pedestal and base show some wear and minor discoloration. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jh1962bike",
           "text": "",
@@ -1220,7 +1232,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 512,
+      "reply_count": 513,
       "replies": [
         {
           "username": "judmacd",
@@ -1738,7 +1750,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "curtiscreager",
+                  "text": "I work at the track as high performance driving/instructor \ufffc So yes I shoot there often.",
+                  "permalink": "https://www.threads.com/@curtiscreager/post/Df7mtpxm8yI",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

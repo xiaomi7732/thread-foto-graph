@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (104)
+## Needs Reply (106)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/Df7mvgGEevi))
+  - Photo: Description: A bronze statue of a figure in a dynamic pose with one arm raised, standing on a stone pedestal by a waterfront at sunset. The base holds offerings including flowers and papers. A calm body of water and distant hills under a gradient sky form the background. Photograph read: The image is taken with the sun low on the horizon, casting a warm glow across the water and sky. The statue is silhouetted against the bright background, with visible contrast between the dark figure and the illuminated sky. The water surface reflects the sky’s colors. The pedestal and base show some wear and minor discoloration. Photo type: Landscape
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df7mRrnCBlE))
   - Photo: Description: The photograph shows a low-angle view looking up through a large, curved architectural opening into a modern, high-rise building with a distinctive, wave-like facade against a clear blue sky. Photograph read: The composition is framed by a circular aperture with a reflective, blue-tinted inner edge. The building’s facade features repeating, curved balconies and glass panels, with strong vertical lines and symmetrical structure. Lighting is bright and even, suggesting daylight, with reflections visible on the glass surfaces. The image has high contrast between the deep blue sky and the lighter building surfaces. Photo type: Architectural
 - **smilingjeannie**: The fan shape of these freshly fallen ginkgo leaves with circular raindrops after a morning shower. ([link](https://www.threads.com/@smilingjeannie/post/Df7k1vLG9zo))
@@ -86,6 +88,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The glass softens the whole gallery into a haze, and the ce…_
 - **jerseylilly**: Neither it was just a mucky window ([link](https://www.threads.com/@jerseylilly/post/Df7VKA0jTwG))
   - _Replying to: The red brick doubles in the water through the fogged glass…_
+- **curtiscreager**: I work at the track as high performance driving/instructor ￼ So yes I shoot there often. ([link](https://www.threads.com/@curtiscreager/post/Df7mtpxm8yI))
+  - _Replying to: I think letting the wet asphalt do the doubling was the rig…_
 - **billi_rubin**: Yes, I rotated it to sky side. There was 1 shot ([link](https://www.threads.com/@billi_rubin/post/Df7VnC6DZWQ))
   - _Replying to: A whole pastel sky folded into one small mirror - was it al…_
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
