@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (74)
+## Needs Reply (75)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **andy.sutton.988**:  ([link](https://www.threads.com/@andy.sutton.988/post/Df6lJCJiNt1))
+  - Photo: Description: A stone house with multiple windows and a dark roof is situated on a grassy slope, reflected in calm water in the foreground, with a large green hill rising behind it under a clear sky. Photograph read: The composition is symmetrical, with the house and its reflection centered. Lighting is bright and even, suggesting daylight. Rendering is clear enough to discern architectural features and textures, though some foliage and distant terrain lack fine detail. Photo type: Landscape
 - **jerseylilly**: Liverpool through a hotel window ([link](https://www.threads.com/@jerseylilly/post/Df6kQpIlgU6))
   - Photo: Description: The image shows a view through a fogged or wet window, with a large red brick building visible in the background, its reflection partially visible on a body of water in the foreground. The sky is a muted blue, and distant lights are faintly visible. Photograph read: The composition is framed by a dark window frame, with the entire image obscured by condensation or water droplets. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is uniformly soft due to the surface condition, with no discernible sharpness or texture in the subject. Photo type: Unclear
     - Watch-outs: The entire image is obscured by condensation, limiting visibility of all subject detail. The window surface is covered with a uniform layer of droplets and haze, reducing contrast and clarity across the entire frame.
