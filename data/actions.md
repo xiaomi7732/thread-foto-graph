@@ -6,15 +6,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (94)
+## Needs Reply (97)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **beckiefitzgerald**: Thanks! Yes, passing through. That's ([link](https://www.threads.com/@beckiefitzgerald/post/Df7p4dHIPO3))
+  - _Replying to: A perfect green globe, and a ladybug parked right beside it…_
 - **dth_exotics**: This "heart" my lemon tree flowers made when they bloomed ([link](https://www.threads.com/@dth_exotics/post/Df7o0xrFj8Z))
   - Photo: Description: A cluster of white flowers with yellow stamens and green leaves on a stem, set against a plain, out-of-focus background. Photograph read: The subject is in focus but appears slightly soft; lighting is even and diffused, with no harsh shadows or overexposed areas. The background is uniformly blurred, suggesting shallow depth of field or motion blur. Photo type: Portrait
 - **mcoger55**: Golf ball mushroom ([link](https://www.threads.com/@mcoger55/post/Df7oz4mFKr1))
   - Photo: Description: A spherical, pale mushroom with a textured, honeycomb-like cap grows from the ground amidst green grass, small leaves, and scattered dry foliage. Photograph read: The image is taken from a close, slightly elevated angle, with natural daylight illuminating the scene. The mushroom is in focus, while surrounding vegetation and background elements show mild depth-of-field blur. Color saturation is moderate, and contrast is balanced. Photo type: Natural
+- **anto_acz**: Yes, Montreux Memorial, Lac Lèman, Suisse ([link](https://www.threads.com/@anto_acz/post/Df7ppxIET0I))
+  - _Replying to: I think the fist does it - one arm up like a star against a…_
 - **jh1962bike**: First the tower , and then while walking around it looking for interesting angles saw the frame . ([link](https://www.threads.com/@jh1962bike/post/Df7pWL5CEX0))
   - _Replying to: That frame is the find - a giant rounded triangle, and the …_
+- **smilingjeannie**: I was on a morning walk just after the rain had stopped. The tree had dropped so many leaves yet these two caught my eye - loved the contrast between the bright yellow and the dark granite wall they had fallen on. ([link](https://www.threads.com/@smilingjeannie/post/Df7pXb8GwpF))
+  - _Replying to: The fan shape of these freshly fallen ginkgo leaves with ci…_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
