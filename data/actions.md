@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (128)
+## Needs Reply (131)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **posts.by.norman**: ArtScience Museum in Singapore ([link](https://www.threads.com/@posts.by.norman/post/Df8P2UgkzmZ))
+  - Photo: Description: An aerial view of a large, white, flower-like architectural structure with a central circular void, situated adjacent to a body of water with visible ripples. Photograph read: The image is taken from a high angle, showing the building’s geometric form and surrounding paved areas and water. Lighting is even and diffused, casting soft shadows. The rendering is clean and sharp, with no visible distortion or chromatic aberration. Photo type: Architectural
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KctDGfeZ))
   - Photo: Description: A single bright red maple leaf lies on a bed of green grass, surrounded by other fallen leaves in various shades of brown and red, with some grass blades showing dew. Photograph read: The image is taken in bright daylight with strong directional light casting shadows. The main leaf is in focus, while the surrounding grass and background leaves are slightly softer. Grass blades and some leaves are in sharp focus, while others are blurred due to depth of field. The image has a shallow depth of field, with the foreground and midground in focus and the background blurred. Photo type: Natural
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KXYNmb_-))
@@ -40,6 +42,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
 - **estella.haines**: After! It really made me happy at the surprise ([link](https://www.threads.com/@estella.haines/post/Df8Ody6Hcs7))
   - _Replying to: Two pale dots for eyes and that ring of yellow around the m…_
+- **david.l.mcgee56**:  ([link](https://www.threads.com/@david.l.mcgee56/post/Df8P7xImW1T))
+  - Photo: Description: The photograph shows the gnarled, textured trunks of two large, leafless trees in the foreground, with a red brick building and green shrubs visible behind them. A black lamppost stands to the left of the trees. Photograph read: The image is taken in bright daylight with strong contrast between the sunlit tree bark and the shadowed areas. The composition is centered on the trees, with the building and shrubs forming a backdrop. The rendering appears to be a standard digital capture, with visible texture in the bark and some softness in the background foliage. Photo type: Natural
+  - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
 - **jeffrey_janusch**: The left side is probably storm damage. ([link](https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln))
   - _Replying to: I think the broken branch is the whole photo - the tree rea…_
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
@@ -48,6 +53,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the triangle steals it - the skylight cutting throu…_
 - **storycatcher52**: These were in a window to be ready for the next day. It was amazing cheese, but very expensive.! ([link](https://www.threads.com/@storycatcher52/post/Df8IKaiFLz0))
   - _Replying to: I think the rows are the best part - every round in its pla…_
+- **sma81**: In my jewellery box🩷 ([link](https://www.threads.com/@sma81/post/Df8QIIvnRFr))
+  - _Replying to: I think the nail polish gives it away - a heart stone, and …_
 - **jammy.kollings**: I was on a walk-and I saw it, and I had to pick it up and marvel at its beauty. It’s displayed in my casa now ([link](https://www.threads.com/@jammy.kollings/post/Df8NK7FFETX))
   - _Replying to: A tiny cone with a diamond pattern, small enough to carry h…_
 - **aaronschwartz1**: A board room? Meeting rooms for pretending to accomplish stuff? Executive offices with keys to the elevator? One cannot know. ([link](https://www.threads.com/@aaronschwartz1/post/Df8IP-goxhv))

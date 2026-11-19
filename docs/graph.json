@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 250,
+      "reply_count": 253,
       "replies": [
+        {
+          "username": "posts.by.norman",
+          "text": "ArtScience Museum in Singapore",
+          "permalink": "https://www.threads.com/@posts.by.norman/post/Df8P2UgkzmZ",
+          "photos": [
+            "Description: An aerial view of a large, white, flower-like architectural structure with a central circular void, situated adjacent to a body of water with visible ripples. Photograph read: The image is taken from a high angle, showing the building\u2019s geometric form and surrounding paved areas and water. Lighting is even and diffused, casting soft shadows. The rendering is clean and sharp, with no visible distortion or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "tim22974",
           "text": "",
@@ -381,6 +393,18 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "david.l.mcgee56",
+              "text": "",
+              "permalink": "https://www.threads.com/@david.l.mcgee56/post/Df8P7xImW1T",
+              "photos": [
+                "Description: The photograph shows the gnarled, textured trunks of two large, leafless trees in the foreground, with a red brick building and green shrubs visible behind them. A black lamppost stands to the left of the trees. Photograph read: The image is taken in bright daylight with strong contrast between the sunlit tree bark and the shadowed areas. The composition is centered on the trees, with the building and shrubs forming a backdrop. The rendering appears to be a standard digital capture, with visible texture in the bark and some softness in the background foliage. Photo type: Natural"
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "I think the broken branch is the whole photo - the tree reaching out over the stones like it is pointing somewhere. Did it lose that limb in a storm, or has it always reached that way?",
@@ -924,7 +948,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sma81",
+                  "text": "In my jewellery box\ud83e\ude77",
+                  "permalink": "https://www.threads.com/@sma81/post/Df8QIIvnRFr",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
