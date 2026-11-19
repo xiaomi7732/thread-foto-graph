@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (133)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **ccaldwellrn**: Appeared to be a critter. Only logs. ([link](https://www.threads.com/@ccaldwellrn/post/Df8S_1Yn5se))
+  - Photo: Description: A grassy area with scattered trees and a large, weathered log lying on the ground, partially surrounded by branches and greenery; a gravel path is visible on the left. Photograph read: The image is taken in bright daylight with natural lighting, showing a shallow depth of field. The foreground grass and log are in focus, while the background is softly blurred. The composition is casual, with a green pole leaning in the foreground. Photo type: Natural
+    - Watch-outs: The log’s surface texture is indistinct due to low contrast and mild focus softness. Background foliage and distant objects are blurred, reducing detail discernibility.
 - **galveston_walkabout**:  ([link](https://www.threads.com/@galveston_walkabout/post/Df8Rod1pder))
   - Photo: Description: A black-and-white photograph shows the silhouette of numerous birds perched on the branches of a leafless tree against a bright, uniform sky. Photograph read: The image is rendered in high-contrast monochrome, with the tree and birds appearing as dark shapes against a very bright background. The composition is centered on the tree’s branching structure, with birds distributed across its limbs. No visible camera shake, lens distortion, or chromatic aberration is present. Photo type: Silhouette
 - **posts.by.norman**: ArtScience Museum in Singapore ([link](https://www.threads.com/@posts.by.norman/post/Df8P2UgkzmZ))
