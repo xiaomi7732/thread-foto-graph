@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (73)
+## Needs Reply (75)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **katnealey**:  ([link](https://www.threads.com/@katnealey/post/Df6A6fCJQBe))
+  - Photo: Description: The image shows a car’s side-view mirror reflecting a dirt road, a field with autumn-colored trees, and a forested hill under a blue sky. The outer edge of the frame includes green trees and a gravel shoulder. Photograph read: The mirror’s reflection captures a clear, bright outdoor scene with natural lighting. The mirror’s edge frames the image, and the car’s body is visible in the reflection. The reflection shows good contrast and detail, with no visible distortion or chromatic aberration. Photo type: Reflection
 - **fephi**: Reflection on the car window. ([link](https://www.threads.com/@fephi/post/Df5_pSKGcSa))
   - Photo: Description: The image shows the silhouettes of two people standing on a paved area near a body of water, viewed through a car window, with a sunset horizon visible in the reflection. Photograph read: The composition is framed by the car window’s edge, with the reflection of the sky and sea dominating the view. The subjects are dark and indistinct, with no visible facial or clothing detail. The lighting is low-contrast, with the horizon showing a gradient from orange to gray. Photo type: Reflection
     - Watch-outs: The silhouettes are indistinct, lacking discernible features or texture. The reflection surface shows visible glare and reflections of the interior of the vehicle, obscuring the clarity of the scene outside.
@@ -24,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
 - **bybaird**: From a cruise ship in Alaska. Not sure of the time of day. ([link](https://www.threads.com/@bybaird/post/Df59rZ_lLPC))
   - _Replying to: The mountains come back so softly in the fjord that the wat…_
+- **glendagh25**: Outside Florence Italy ten a.m. on a Saturday ([link](https://www.threads.com/@glendagh25/post/Df6AmBOlHKv))
+  - _Replying to: That gold canopy doubles itself right down the waterway, an…_
 - **winestains.ca**: I drive down this row in all seasons and I often video it as I drive. I thought the ”rear view” was punny for a vineyard that harvests long after most in the area are done. ([link](https://www.threads.com/@winestains.ca/post/Df5_uvTAj7Z))
   - _Replying to: A whole vineyard row squeezed into one mirror, grapes and a…_
 - **real_snapshot_**: I was looking down at the ground, searching for puddles, so I noticed the reflections first. Thank you. ([link](https://www.threads.com/@real_snapshot_/post/Df5-Avxmfan))

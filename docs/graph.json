@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 375,
+      "reply_count": 377,
       "replies": [
+        {
+          "username": "katnealey",
+          "text": "",
+          "permalink": "https://www.threads.com/@katnealey/post/Df6A6fCJQBe",
+          "photos": [
+            "Description: The image shows a car\u2019s side-view mirror reflecting a dirt road, a field with autumn-colored trees, and a forested hill under a blue sky. The outer edge of the frame includes green trees and a gravel shoulder. Photograph read: The mirror\u2019s reflection captures a clear, bright outdoor scene with natural lighting. The mirror\u2019s edge frames the image, and the car\u2019s body is visible in the reflection. The reflection shows good contrast and detail, with no visible distortion or chromatic aberration. Photo type: Reflection"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "fephi",
           "text": "Reflection on the car window.",
@@ -299,7 +311,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "glendagh25",
+                  "text": "Outside Florence Italy ten a.m. on a Saturday",
+                  "permalink": "https://www.threads.com/@glendagh25/post/Df6AmBOlHKv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
