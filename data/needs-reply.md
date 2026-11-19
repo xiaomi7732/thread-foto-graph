@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (103)
+## Needs Reply (104)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **jcallenderphotography**:  ([link](https://www.threads.com/@jcallenderphotography/post/Df7hDggFvFD))
+  - Photo: Description: A close-up shows a spherical, textured fruit or seed pod attached to a thin stem, set against a uniformly blurred, warm-toned background. Photograph read: The subject is in focus with visible surface texture and minor imperfections, but the background is completely out of focus. Lighting is even and diffuse, with no harsh shadows or highlights. The image has no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro
+    - Watch-outs: The background is uniformly blurred, obscuring any contextual detail. The main subject’s surface texture is partially obscured by minor surface debris and uneven lighting, reducing fine detail readability.
 - **vuurenbernadettevan**: Heart shadow, tiny but its there! ([link](https://www.threads.com/@vuurenbernadettevan/post/Df7f8MTkSpz))
   - Photo: Description: A single white and purple iris flower with green buds and long leaves is centered in the frame, set against dry, cracked earth and blurred green foliage in the background. Photograph read: The image is taken from a low angle, with strong sunlight casting distinct shadows on the ground. The main flower is in focus, while the background and surrounding leaves are softly blurred. The rendering is natural, with no visible signs of digital artifacts or color distortion. Photo type: Natural
 - **helskinky**: Pholiota squarrosa ([link](https://www.threads.com/@helskinky/post/Df7fPedkVdh))
