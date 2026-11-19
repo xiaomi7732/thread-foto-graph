@@ -2539,7 +2539,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 517,
+      "reply_count": 518,
       "replies": [
         {
           "username": "judmacd",
@@ -2961,7 +2961,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "philwelch1961",
+                  "text": "It was the contrast of inside and outside... And they were both from my most recent trip!",
+                  "permalink": "https://www.threads.com/@philwelch1961/post/Df7_uudJRNr",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (123)
+## Needs Reply (124)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **shiawasemainichi5**: Flowers In The Cold ([link](https://www.threads.com/@shiawasemainichi5/post/Df7_TzBk8Dx))
@@ -114,6 +114,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The mirror’s surface is obscured by a textured, non-reflective layer, limiting visibility of reflected details. The foreground asphalt shows visible cracks, but the image lacks sharpness, reducing detail clarity.
 - **estella.haines**: It’s actually my reflection in a photograph at an exhibition at the museum of fine arts in Boston. It was just the way the glass and the art looked like it was blurred and mottled. It was one of those moments that struck me as a cool shot to take. ([link](https://www.threads.com/@estella.haines/post/Df7VV1Hlifx))
   - _Replying to: The glass softens the whole gallery into a haze, and the ce…_
+- **philwelch1961**: It was the contrast of inside and outside... And they were both from my most recent trip! ([link](https://www.threads.com/@philwelch1961/post/Df7_uudJRNr))
+  - _Replying to: The canal hands the whole street back. Then the hall pours …_
 - **jerseylilly**: Neither it was just a mucky window ([link](https://www.threads.com/@jerseylilly/post/Df7VKA0jTwG))
   - _Replying to: The red brick doubles in the water through the fogged glass…_
 - **curtiscreager**: I work at the track as high performance driving/instructor ￼ So yes I shoot there often. ([link](https://www.threads.com/@curtiscreager/post/Df7mtpxm8yI))
