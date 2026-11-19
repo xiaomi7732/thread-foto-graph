@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 159,
+      "reply_count": 160,
       "replies": [
         {
           "username": "titan_actual86",
@@ -690,7 +690,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "derekrichards4229",
+                  "text": "It is actually a large brushed metal pipe art installation that surrounds an amphitheater.",
+                  "permalink": "https://www.threads.com/@derekrichards4229/post/Df7x9HYDSW8",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
