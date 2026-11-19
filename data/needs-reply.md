@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (103)
+## Needs Reply (104)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df7mRrnCBlE))
+  - Photo: Description: The photograph shows a low-angle view looking up through a large, curved architectural opening into a modern, high-rise building with a distinctive, wave-like facade against a clear blue sky. Photograph read: The composition is framed by a circular aperture with a reflective, blue-tinted inner edge. The building’s facade features repeating, curved balconies and glass panels, with strong vertical lines and symmetrical structure. Lighting is bright and even, suggesting daylight, with reflections visible on the glass surfaces. The image has high contrast between the deep blue sky and the lighter building surfaces. Photo type: Architectural
 - **smilingjeannie**: The fan shape of these freshly fallen ginkgo leaves with circular raindrops after a morning shower. ([link](https://www.threads.com/@smilingjeannie/post/Df7k1vLG9zo))
   - Photo: Description: Two golden ginkgo leaves, covered in water droplets, rest on the surface of shallow, moving water over a dark, textured stone or rock bed. Photograph read: The composition is centered on the leaves, with water ripples and reflections visible around them. Lighting appears even and diffused, illuminating the leaves’ veins and droplets clearly. The rendering shows natural surface textures and water movement without obvious distortion or color aberration. Photo type: Nature macro
 - **jammy.kollings**:  ([link](https://www.threads.com/@jammy.kollings/post/Df7kdKam4XS))
