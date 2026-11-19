@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (131)
+## Needs Reply (132)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **galveston_walkabout**:  ([link](https://www.threads.com/@galveston_walkabout/post/Df8Rod1pder))
+  - Photo: Description: A black-and-white photograph shows the silhouette of numerous birds perched on the branches of a leafless tree against a bright, uniform sky. Photograph read: The image is rendered in high-contrast monochrome, with the tree and birds appearing as dark shapes against a very bright background. The composition is centered on the tree’s branching structure, with birds distributed across its limbs. No visible camera shake, lens distortion, or chromatic aberration is present. Photo type: Silhouette
 - **posts.by.norman**: ArtScience Museum in Singapore ([link](https://www.threads.com/@posts.by.norman/post/Df8P2UgkzmZ))
   - Photo: Description: An aerial view of a large, white, flower-like architectural structure with a central circular void, situated adjacent to a body of water with visible ripples. Photograph read: The image is taken from a high angle, showing the building’s geometric form and surrounding paved areas and water. Lighting is even and diffused, casting soft shadows. The rendering is clean and sharp, with no visible distortion or chromatic aberration. Photo type: Architectural
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KctDGfeZ))
