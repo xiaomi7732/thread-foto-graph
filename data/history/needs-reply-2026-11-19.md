@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (103)
+## Needs Reply (105)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **sma81**:  ([link](https://www.threads.com/@sma81/post/Df7r_welOP4))
+  - Photo: Description: A hand with light pink nails, one of which reads "love," holds a small, heart-shaped, speckled stone in the foreground, with a blurred figure in green pants and a dark top crouching on a rocky beach in the background, near water. Photograph read: The foreground is in focus, showing the hand and stone clearly, while the background is significantly out of focus, obscuring details of the person and the beach. Lighting appears natural and diffused, with no visible harsh shadows or overexposure. The image has a shallow depth of field, with no apparent digital artifacts or color distortion. Photo type: Portrait
+    - Watch-outs: The background figure is indistinct due to blur, making facial features and specific actions unreadable. The foreground stone’s surface texture is partially obscured by the shallow depth of field and minor focus softness, reducing fine detail visibility.
+- **dhinie_behboodzadeh**:  ([link](https://www.threads.com/@dhinie_behboodzadeh/post/Df7r-zOkXBR))
+  - Photo: Description: A bright red mushroom with white spots and a white stem grows from mossy ground scattered with fallen leaves, set against a blurred forest background. Photograph read: The mushroom is in sharp focus, with visible gills and stem texture, while the background is softly out of focus. Lighting is even and diffused, suggesting an overcast day. The image has a shallow depth of field, emphasizing the mushroom. Photo type: Nature portrait
 - **shellscorer**: I found this dog on the beach in Norfolk 😊🐶 ([link](https://www.threads.com/@shellscorer/post/Df7rMSMiLNQ))
   - Photo: Description: A light blue, bulb-shaped object with a dark patch on its surface rests on sandy ground, surrounded by small pebbles and debris. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The subject is in focus, but the image has a slightly soft resolution, with minimal visible texture or sharpness in the surrounding sand. Photo type: Documentary
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/Df7q49PDjdp))
