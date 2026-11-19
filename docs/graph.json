@@ -13,8 +13,38 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 421,
+      "reply_count": 424,
       "replies": [
+        {
+          "username": "hollymm63",
+          "text": "",
+          "permalink": "https://www.threads.com/@hollymm63/post/Df6bGMdm87Z",
+          "photos": [
+            "Description: A wooden dock extends into a calm, fog-covered lake, with a line of coniferous trees visible in the distance, their forms partially obscured by mist. Photograph read: The image is composed with the dock in the foreground leading toward the water and distant treeline. Lighting is diffuse and even, with no strong directional light or shadows. The rendering is flat and muted, with no visible texture or contrast enhancement. Photo type: Natural landscape"
+          ],
+          "watch_outs": [
+            "Fog obscures the treeline and water surface, reducing detail and contrast. The dock\u2019s planks show visible grain and wear, but the overall image lacks sharpness, making fine texture indistinct across the entire frame."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ncav2021",
+          "text": "",
+          "permalink": "https://www.threads.com/@ncav2021/post/Df6a9jbIAin",
+          "photos": [
+            "Description: The photograph shows a street lined with parked cars, framed by trees on both sides, under a vibrant orange and yellow sunset sky with scattered clouds. Photograph read: The image is captured through a circular frame, likely a car window or mirror, with the foreground darkened. The sky dominates the upper portion, displaying strong warm tones, while the street and vehicles are silhouetted. The composition is symmetrical, with trees and cars framing the center. Lighting is directional, casting highlights on the right side of the foreground vehicle and the sky, while the rest of the scene is in shadow. Photo type: Street photography"
+          ],
+          "watch_outs": [
+            "- Foreground circular frame obscures part of the image and creates a vignette effect, limiting the visible area. - Silhouettes of vehicles and trees lack discernible detail due to low contrast and backlighting, making features indistinct."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "difishing",
           "text": "",
@@ -1300,7 +1330,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "apertureandartdotcom",
+                          "text": "And scarce. It turns into a mall parking lot later in the day.",
+                          "permalink": "https://www.threads.com/@apertureandartdotcom/post/Df6aJIlkatD",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

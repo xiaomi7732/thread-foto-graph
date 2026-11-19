@@ -4,9 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (73)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **hollymm63**:  ([link](https://www.threads.com/@hollymm63/post/Df6bGMdm87Z))
+  - Photo: Description: A wooden dock extends into a calm, fog-covered lake, with a line of coniferous trees visible in the distance, their forms partially obscured by mist. Photograph read: The image is composed with the dock in the foreground leading toward the water and distant treeline. Lighting is diffuse and even, with no strong directional light or shadows. The rendering is flat and muted, with no visible texture or contrast enhancement. Photo type: Natural landscape
+    - Watch-outs: Fog obscures the treeline and water surface, reducing detail and contrast. The dock’s planks show visible grain and wear, but the overall image lacks sharpness, making fine texture indistinct across the entire frame.
+- **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df6a9jbIAin))
+  - Photo: Description: The photograph shows a street lined with parked cars, framed by trees on both sides, under a vibrant orange and yellow sunset sky with scattered clouds. Photograph read: The image is captured through a circular frame, likely a car window or mirror, with the foreground darkened. The sky dominates the upper portion, displaying strong warm tones, while the street and vehicles are silhouetted. The composition is symmetrical, with trees and cars framing the center. Lighting is directional, casting highlights on the right side of the foreground vehicle and the sky, while the rest of the scene is in shadow. Photo type: Street photography
+    - Watch-outs: - Foreground circular frame obscures part of the image and creates a vignette effect, limiting the visible area. - Silhouettes of vehicles and trees lack discernible detail due to low contrast and backlighting, making features indistinct.
 - **difishing**:  ([link](https://www.threads.com/@difishing/post/Df6YLXZFFgB))
   - Photo: Description: A calm body of water reflects a clear blue sky and autumnal trees with orange and red leaves along the shoreline. The right side of the frame is dominated by the trees, while the left shows the water extending toward a distant treeline. Photograph read: The composition is a wide-angle landscape shot with the water occupying the foreground and midground. Lighting is bright and even, suggesting midday sun. The water surface has gentle ripples, and reflections are visible but not perfectly mirrored. The image appears to be captured with a standard digital camera, showing natural color rendition and no obvious distortion. Photo type: Landscape
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
@@ -43,6 +49,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **debdipmaitra**: Mirror selfies gotta count, right? ([link](https://www.threads.com/@debdipmaitra/post/Df5eHhlkrCJ))
   - Photo: Description: The image displays a central, dark, amorphous shape against a bright, textured background, with no discernible context or identifiable subject. Photograph read: The composition is dominated by a single, indistinct form in the center, set against a uniformly bright, grainy field. Lighting appears flat and diffuse, with no visible directional sources. The rendering is characterized by a grainy texture and low contrast, obscuring fine structure. Photo type: Unclear
     - Watch-outs: - Central subject is indistinct and lacks definable features due to blur and low contrast. - Background exhibits uniform brightness and grain, reducing contrast and detail visibility across the entire image.
+- **apertureandartdotcom**: And scarce. It turns into a mall parking lot later in the day. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6aJIlkatD))
+  - _Replying to: A quiet sunrise all to yourself is the best kind._
 - **giugiovivi**:  ([link](https://www.threads.com/@giugiovivi/post/Df5d9j3DcSx))
   - Photo: Description: A woman in a fur coat and high heels stands on a paved sidewalk beside a brick wall and a window with patterned curtains; only her lower body and partial upper body are visible. Photograph read: The image is in black and white, with high contrast between the dark fur, shoes, and structural elements against the lighter brick and pavement. The composition is framed by vertical elements, and the lighting appears direct, casting clear shadows. Photo type: Street photography
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
