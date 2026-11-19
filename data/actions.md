@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (73)
+## Needs Reply (74)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **joshwill.jpg**: sometimes the best things are temporary. make the most of it ([link](https://www.threads.com/@joshwill.jpg/post/Df6cJ4sFKTc))
+  - Photo: Description: Four people are positioned in a dimly lit environment with a glowing, colorful background; one person in the foreground holds a smartphone to capture the image, while others look toward the camera or upward. Photograph read: The image features a strong color gradient from cool gray to warm red-orange in the background, with scattered bright specks. The foreground subjects are partially illuminated by this ambient light, and the smartphone’s camera is visible. The image appears to be a composite or digitally enhanced photo, with visible artifacts resembling sparkles or particles overlaid across the entire frame. Photo type: Composite
+    - Watch-outs: - Overlaid speckles obscure facial features and clothing textures across all subjects, particularly on the man in the black shirt and the woman in the knitted top. - The background gradient and speckles create a high-contrast, non-realistic visual field that reduces the discernibility of fine details on the subjects’ skin and clothing.
 - **hollymm63**:  ([link](https://www.threads.com/@hollymm63/post/Df6bGMdm87Z))
   - Photo: Description: A wooden dock extends into a calm, fog-covered lake, with a line of coniferous trees visible in the distance, their forms partially obscured by mist. Photograph read: The image is composed with the dock in the foreground leading toward the water and distant treeline. Lighting is diffuse and even, with no strong directional light or shadows. The rendering is flat and muted, with no visible texture or contrast enhancement. Photo type: Natural landscape
     - Watch-outs: Fog obscures the treeline and water surface, reducing detail and contrast. The dock’s planks show visible grain and wear, but the overall image lacks sharpness, making fine texture indistinct across the entire frame.
