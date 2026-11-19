@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (119)
+## Needs Reply (120)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **rmrashotte**: A perfect fit… ([link](https://www.threads.com/@rmrashotte/post/Df790oJljHy))
+  - Photo: Description: The image shows a close-up view of irregularly shaped, textured stone pavers arranged in a grid pattern, with a small twig lying in a gap between them. Photograph read: The lighting is directional, casting distinct shadows in the gaps between pavers. The surface texture of the stones is visible, and the composition is a flat, top-down perspective with no visible lens distortion or motion blur. Photo type: Documentary
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
