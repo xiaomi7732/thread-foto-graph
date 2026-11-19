@@ -10,8 +10,37 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 123,
+      "reply_count": 126,
       "replies": [
+        {
+          "username": "kelzkidz03",
+          "text": "",
+          "permalink": "https://www.threads.com/@kelzkidz03/post/Df7q49PDjdp",
+          "photos": [
+            "Description: A covered wooden deck with a long dining table and outdoor seating overlooks a dense forest and distant mountain range under a twilight sky. Photograph read: The image is lit by recessed ceiling lights and string lights along the railing. The ceiling and railings are made of wood, and the scene includes potted plants and a fire pit area. The lighting is even across the deck, with no visible shadows or contrast extremes. Photo type: Architectural",
+            "Description: A single dry, heart-shaped leaf lies on a paved surface, with its stem still attached, adjacent to a narrow crack containing moss and small green plants. Photograph read: The image is captured from a high angle, with even, diffuse lighting that casts soft shadows. The leaf\u2019s veins and surface texture are visible, but the image has a slightly grainy appearance and muted color saturation. Photo type: Natural",
+            "Description: The photograph shows several green acorns with their caps attached to a branch, surrounded by dark green, glossy leaves. The background is out of focus. Photograph read: The image is a close-up with shallow depth of field, focusing on the acorns and adjacent leaves. Lighting is even and diffused, with no harsh shadows. The acorn caps and leaf surfaces show texture, but the image lacks sharpness in fine detail. Photo type: Macro",
+            "Description: The photograph shows a large, rusted industrial gear assembly with two stacked gear wheels and a cylindrical ribbed housing, situated outdoors on dry ground near a tree trunk. Photograph read: The image is taken in natural daylight with even illumination, showing moderate contrast and no visible signs of motion blur or focus issues. The subject is centered and in focus, though the image has a slightly grainy texture. Photo type: Documentary",
+            "Description: A close-up shot of a heavily rusted, flat tire mounted on a rusty wheel hub, attached to the undercarriage of a weathered trailer or vehicle, resting on dry grass and gravel. Photograph read: The image is taken from a low angle, with natural daylight illuminating the scene. The focus is sharp on the tire and wheel, while the background and upper structure of the trailer are slightly out of focus. The rendering preserves surface textures, including rust, tire tread, and debris. Photo type: Documentary",
+            "Description: A large, weathered wooden barn with vertical siding and a gabled roof stands on a gravel surface, surrounded by dense green trees in the background. Photograph read: The image is taken in bright daylight with even illumination across the barn\u2019s surface. The barn\u2019s siding, door, and window are clearly visible, and the gravel foreground is in focus. The composition is straightforward, with the barn centered and the trees forming a backdrop. Photo type: Documentary",
+            "Description: A kidney-shaped swimming pool with surrounding lounge chairs and a paved deck is set against a backdrop of autumn-colored trees and distant hills under a clear blue sky. Photograph read: The image is taken in bright daylight with strong shadows cast by the chairs and pool deck. The pool water reflects the sky and surrounding foliage. The composition includes a foreground deck, midground pool area, and background hills and trees, with a black metal fence separating the deck from the wooded area. Photo type: Landscape",
+            "Description: A close-up, black-and-white image shows a round, flat-headed screw with a star-shaped indentation on its top surface, embedded in a wooden surface with visible grain. Photograph read: The image is in monochrome, with shallow depth of field; the screw is in focus while the surrounding wood is softly blurred. Lighting appears even and diffused, casting minimal shadows. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "",
+            "",
+            "",
+            "",
+            "- The tire\u2019s sidewall is torn and frayed, with visible rubber fibers hanging loose, obscuring the tread pattern and reducing the ability to assess tire condition or wear. - The wheel hub and surrounding metal components are covered in rust, which reduces contrast and detail visibility in the central area.",
+            "",
+            "",
+            "The screw\u2019s head shows some surface texture, but fine details within the star-shaped indentation are not sharply defined. The wooden background exhibits motion blur or soft focus, reducing the visibility of grain detail beyond the immediate area around the screw."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "beckiefitzgerald",
           "text": "",
@@ -287,7 +316,30 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "brownieone",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@brownieone/post/Df7qy96CAVI",
+                  "photos": [
+                    "Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "brownieone",
+                  "text": "It looks like it , it\u2019s not a spiral \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@brownieone/post/Df7qve6CO5N",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
