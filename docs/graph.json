@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 433,
+      "reply_count": 437,
       "replies": [
+        {
+          "username": "billi_rubin",
+          "text": "Reflection of the sky. Zero Ai.",
+          "permalink": "https://www.threads.com/@billi_rubin/post/Df6dVPnDedn",
+          "photos": [
+            "Description: A round, circular mirror with a metallic frame is positioned against a textured, patterned fabric background, reflecting a sky with soft gradient tones and faint cloud streaks. Photograph read: The mirror\u2019s reflective surface captures a pale sky with horizontal bands of muted pink and lavender hues. The mirror\u2019s frame and mounting hardware are visible, and the fabric background shows a repeating floral or geometric pattern with a light, neutral base color. The lighting is even and diffuse, with no harsh shadows or high-contrast areas. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "joshwill.jpg",
           "text": "sometimes the best things are temporary. make the most of it",
@@ -95,10 +107,21 @@
                   "text": "Yes. Stopped on the middle of the street to look back and take a photo. Just had to.",
                   "permalink": "https://www.threads.com/@ncav2021/post/Df6c-8joPcx",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A sunset worth stopping traffic for. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6dIY9m7Cy",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -356,10 +379,32 @@
           "watch_outs": [
             "The silhouettes are indistinct, lacking discernible features or texture. The reflection surface shows visible glare and reflections of the interior of the vehicle, obscuring the clarity of the scene outside."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole sunset folded itself into one car window - sky, sea, and the two of you standing in it. Did you spot it walking past, or were you parked there waiting for the light?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6dA0nEQdu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "fephi",
+                  "text": "It\u2019s my husband and grandson , went to watch the sunset and got lucky where everything lined up. Watching the sunset turned and saw their reflection, snap!",
+                  "permalink": "https://www.threads.com/@fephi/post/Df6dZOYG-mh",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "shel_bee_g",
