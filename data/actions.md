@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (83)
+## Needs Reply (84)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **skymomma_rocks**: Savanna, Georgia ([link](https://www.threads.com/@skymomma_rocks/post/Df6JShmkZcs))
+  - Photo: Description: The photograph shows a vehicle’s side-view mirror reflecting a bridge and surrounding landscape, with the main subject being the mirror and its reflection, set against a clear blue sky and highway. Photograph read: The image is taken from inside a vehicle, with the mirror and window frame in the foreground. Reflections in the mirror show a bridge structure and traffic, while the exterior view reveals a highway and distant buildings. Lighting is bright and even, suggesting daytime. The rendering is clear, with no visible distortion or motion blur. Photo type: Documentary
 - **oneillwendie**: A knob (not the person 😆) on a washing machine. ([link](https://www.threads.com/@oneillwendie/post/Df6GcmljWmg))
   - Photo: Description: The image captures a convex security mirror reflecting a person in an orange vest and dark clothing, standing in what appears to be a retail or warehouse aisle with shelves stocked with goods. Photograph read: The mirror’s curved surface distorts the reflection, creating a fisheye effect. Lighting is diffuse and even, with no visible shadows or highlights. The image is captured from a low angle, with the mirror’s frame and ceiling structure visible in the foreground. Photo type: Convex mirror reflection
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The reflection of the person and shelves is indistinct due to the curvature and distortion of the mirror, which prevents clear identification of objects or features.

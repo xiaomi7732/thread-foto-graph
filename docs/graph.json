@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18125516990067298",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 386,
+      "reply_count": 387,
       "replies": [
+        {
+          "username": "skymomma_rocks",
+          "text": "Savanna, Georgia",
+          "permalink": "https://www.threads.com/@skymomma_rocks/post/Df6JShmkZcs",
+          "photos": [
+            "Description: The photograph shows a vehicle\u2019s side-view mirror reflecting a bridge and surrounding landscape, with the main subject being the mirror and its reflection, set against a clear blue sky and highway. Photograph read: The image is taken from inside a vehicle, with the mirror and window frame in the foreground. Reflections in the mirror show a bridge structure and traffic, while the exterior view reveals a highway and distant buildings. Lighting is bright and even, suggesting daytime. The rendering is clear, with no visible distortion or motion blur. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "oneillwendie",
           "text": "A knob (not the person \ud83d\ude06) on a washing machine.",
@@ -4551,7 +4563,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -4669,7 +4681,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -10198,7 +10210,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "photograph, visible, photo, type",
+      "label": "photograph, photo, visible, type",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
