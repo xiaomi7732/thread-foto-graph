@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (84)
+## Needs Reply (88)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **winestains.ca**:  ([link](https://www.threads.com/@winestains.ca/post/Df5vL_LFnUG))
+  - Photo: Description: The photograph shows a vineyard in autumn, with grapevines bearing clusters of dark grapes and leaves turning yellow and orange, viewed from inside a vehicle through the side mirror. Photograph read: The composition is framed by the side-view mirror on the right, reflecting a row of vines extending into the distance. Bright sunlight illuminates the scene, casting shadows on the ground and highlighting the autumnal colors. The rendering is clear, with visible texture on leaves and grapes, and no apparent distortion or motion blur. Photo type: Documentary
+- **rubydawnintl**:  ([link](https://www.threads.com/@rubydawnintl/post/Df5uhKQExLM))
+  - Photo: Description: A beach scene at sunset with the sun low on the horizon, casting a bright glare across the water; silhouettes of people are visible on the sand and in the shallow water. Photograph read: The sun is the dominant bright source, creating a strong backlight that renders foreground figures as silhouettes. The horizon is clearly defined, and the water shows gentle waves. The beach foreground is in shadow, with minimal visible texture or detail. Photo type: Surreal
+    - Watch-outs: - The sun’s glare obscures fine detail in the sky and water near the horizon; the area around the sun is overexposed and lacks texture. - Silhouettes of people on the beach are indistinct due to backlighting; facial features and clothing details are not discernible.
 - **rickjackoway**:  ([link](https://www.threads.com/@rickjackoway/post/Df5sCZWD4_t))
   - Photo: Description: A nighttime photograph shows the brightly lit neon sign of the Fremont Theatre, with people walking on a wet street in the foreground. Reflections of the neon lights shimmer on the rain-slicked pavement. Photograph read: The image features a prominent, colorful neon sign with a marquee displaying event information and website. The foreground shows silhouetted figures walking with umbrellas, and the wet ground reflects the sign’s lights. Lighting is artificial and saturated, with high contrast between the neon and dark surroundings. The image appears to be a single exposure with no visible signs of motion blur or focus issues. Photo type: Urban night photography
 - **real_snapshot_**:  ([link](https://www.threads.com/@real_snapshot_/post/Df5qkDEGVtE))
@@ -100,6 +105,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A little round sky sitting in the rust-red ground, pines an…_
 - **encinitasditka**: Yes but it was a hotel window, the Edgewater in Seattle…the Beatles fished out the window when they stayed there ([link](https://www.threads.com/@encinitasditka/post/Df5m19iD_FL))
   - _Replying to: The sun gets two showings here - one on the water, one in t…_
+- **kayslazydays**: Often. This coastline (in Wales UK) has one of the highest tidal ranges in the world so the sand is like this twice a day. We love it! ([link](https://www.threads.com/@kayslazydays/post/Df5ueubkSpk))
+  - _Replying to: The wet sand turns everyone into a double - the pink rider,…_
+- **kmwehrle**: We were stuck in traffic so I wasn’t happy about that. But then I looked in the rear view mirror and saw the beautiful sky. ([link](https://www.threads.com/@kmwehrle/post/Df5vwroDcr0))
+  - _Replying to: A whole sunset squeezed into the side mirror, and the traff…_
 - **thatguyale**: It's actually a rear back window of a parked car. I took the pic while walking my dog. ([link](https://www.threads.com/@thatguyale/post/Df5jGQbAf73))
   - _Replying to: Did you polish the car for the shot, or does it always carr…_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
