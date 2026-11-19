@@ -102,7 +102,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 453,
+      "reply_count": 454,
       "replies": [
         {
           "username": "marysticht79",
@@ -1763,7 +1763,18 @@
               "needs_response": true,
               "action": "reply",
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "giugiovivi",
+                  "text": "E\u2019 il riflesso dentro / fuori che veniva richiesto",
+                  "permalink": "https://www.threads.com/@giugiovivi/post/Df64vKjDfKv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
