@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (105)
+## Needs Reply (107)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **oznatureart**: Spaceman in a tree root ([link](https://www.threads.com/@oznatureart/post/Df754_Bk5YH))
+  - Photo: Description: A large, gnarled tree root system with exposed, textured bark rests against a rock face, surrounded by fallen reddish-brown leaves and sparse green vegetation; a wooden bench is visible in the background to the left. Photograph read: The image is taken from a low angle, with sunlight casting strong shadows across the root and rock. The root’s surface and surrounding leaves are in focus, while the background bench and foliage are slightly less sharp. The lighting creates high contrast between sunlit and shaded areas. Photo type: Natural
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
   - Photo: Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape
 - **kidsdrs**:  ([link](https://www.threads.com/@kidsdrs/post/Df73nNXmDA5))
@@ -18,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The graffiti markings are indistinct and lack clear definition due to the blur.
 - **akmaleky**: Too many to mention, our office is replacing old plumbing system ([link](https://www.threads.com/@akmaleky/post/Df73KAmn-Xo))
   - _Replying to: How many rings deep does that stack go? Circles inside circ…_
+- **elobernstein**: It is a famous slot canyon in Arizona, the light changes as the sun moves. I caught at a good time ([link](https://www.threads.com/@elobernstein/post/Df752mkGDBC))
+  - _Replying to: The rock folds like cloth, and then that bright opening cut…_
 - **titan_actual86**: That's what I saw lol ([link](https://www.threads.com/@titan_actual86/post/Df74ALroIah))
   - _Replying to: That long cloud in the middle - a bird mid-flight, or am I …_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))

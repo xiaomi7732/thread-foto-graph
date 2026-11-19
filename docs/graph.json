@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 186,
+      "reply_count": 188,
       "replies": [
+        {
+          "username": "oznatureart",
+          "text": "Spaceman in a tree root",
+          "permalink": "https://www.threads.com/@oznatureart/post/Df754_Bk5YH",
+          "photos": [
+            "Description: A large, gnarled tree root system with exposed, textured bark rests against a rock face, surrounded by fallen reddish-brown leaves and sparse green vegetation; a wooden bench is visible in the background to the left. Photograph read: The image is taken from a low angle, with sunlight casting strong shadows across the root and rock. The root\u2019s surface and surrounding leaves are in focus, while the background bench and foliage are slightly less sharp. The lighting creates high contrast between sunlit and shaded areas. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "michelpbeaudry",
           "text": "",
@@ -127,7 +139,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "elobernstein",
+                  "text": "It is a famous slot canyon in Arizona, the light changes as the sun moves. I caught at a good time",
+                  "permalink": "https://www.threads.com/@elobernstein/post/Df752mkGDBC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
