@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (89)
+## Needs Reply (91)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/Df6UHc-lu08))
+  - Photo: Description: A sunset over a beach with the sun low on the horizon, casting a warm glow across the sky and reflecting on wet sand; ocean waves are visible in the midground. Photograph read: The composition is horizontal, with the sun centered near the horizon, and its reflection clearly visible on the wet sand in the foreground. The sky shows a gradient from orange near the sun to pale yellow and gray above. The waves are moderately defined, and the sand’s surface is smooth and reflective. Photo type: Landscape
+- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Df6T-30mxvl))
+  - Photo: Description: A calm lake reflects a distant, rugged mountain range and a forested shoreline under a pale sky, with a rocky shore and pine branches visible in the foreground. Photograph read: The composition is symmetrical, with the lake’s surface mirroring the mountains and trees. Lighting is even and diffuse, suggesting an overcast or hazy day. The rendering is clear, with no visible motion blur or chromatic aberration. Photo type: Landscape
 - **alaska.photographer**: Red-necked grebe feeding her chick. ([link](https://www.threads.com/@alaska.photographer/post/Df6SekPG31b))
   - Photo: Description: A bird, likely a duck, is partially submerged in shallow water near grassy vegetation, with its head and neck submerged and beak near the surface. The water surface reflects the bird and surrounding reeds. Photograph read: The image is taken from a low angle, capturing the bird’s reflection in the water. The water surface is relatively calm but shows motion blur, particularly around the bird’s head and beak. Lighting is diffuse, with no strong directional highlights or shadows. The reflection is clear enough to discern the bird’s form and feather texture, but the actual bird is mostly obscured by water and angle. Photo type: Natural
     - Watch-outs: - Motion blur affects the bird’s head and beak, reducing fine detail. - Reflections in the water partially obscure the bird’s actual form, especially the head and neck.
