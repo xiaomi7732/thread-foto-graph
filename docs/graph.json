@@ -102,8 +102,33 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 454,
+      "reply_count": 457,
       "replies": [
+        {
+          "username": "estella.haines",
+          "text": "",
+          "permalink": "https://www.threads.com/@estella.haines/post/Df67W6bls1M",
+          "photos": [
+            "Description: A woman with short, light-colored hair and a gray scarf is in the foreground, looking toward the camera, with a gallery interior and another person viewing art in the background. Photograph read: The image is taken indoors with even, diffuse lighting from overhead fixtures. The composition is a medium close-up of the woman, with the background slightly out of focus. The foreground shows some visible motion blur or camera shake, particularly affecting the lower left area. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The foreground exhibits motion blur, reducing clarity of facial features and scarf texture. The background is slightly out of focus, obscuring fine details of the gallery walls and framed artworks."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "road_sidedaisy",
+          "text": "",
+          "permalink": "https://www.threads.com/@road_sidedaisy/post/Df67USID2eZ",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "marysticht79",
           "text": "",
@@ -3033,7 +3058,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "my_tiny_kingdom",
+                  "text": "I was just taking pictures all over the building (it was like an old barn in my ex in-law's property) and I was trying to see if I could see in the window and that's when I noticed how beautifully the tree was reflected in the remaining panes.",
+                  "permalink": "https://www.threads.com/@my_tiny_kingdom/post/Df66WMOG9Me",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

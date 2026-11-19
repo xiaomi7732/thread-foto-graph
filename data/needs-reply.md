@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (85)
+## Needs Reply (87)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
@@ -13,6 +13,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **estella.haines**:  ([link](https://www.threads.com/@estella.haines/post/Df67W6bls1M))
+  - Photo: Description: A woman with short, light-colored hair and a gray scarf is in the foreground, looking toward the camera, with a gallery interior and another person viewing art in the background. Photograph read: The image is taken indoors with even, diffuse lighting from overhead fixtures. The composition is a medium close-up of the woman, with the background slightly out of focus. The foreground shows some visible motion blur or camera shake, particularly affecting the lower left area. Photo type: Portrait
+    - Watch-outs: The foreground exhibits motion blur, reducing clarity of facial features and scarf texture. The background is slightly out of focus, obscuring fine details of the gallery walls and framed artworks.
 - **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/Df62vLWiiMk))
   - Photo: Description: A wide river flows under a clear blue sky with wispy clouds, flanked by tree-lined banks and distant hills; a single yellow buoy floats near the center. Photograph read: The composition is horizontally oriented, with the river occupying the foreground and midground, and the sky dominating the upper third. Lighting is bright and even, suggesting midday. The water surface reflects the sky and trees with minimal distortion, indicating a calm scene. The image has a natural color balance and moderate resolution. Photo type: Landscape
 - **juliet.4066**:  ([link](https://www.threads.com/@juliet.4066/post/Df6vB5DDpWa))
@@ -92,6 +95,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
   - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
+- **my_tiny_kingdom**: I was just taking pictures all over the building (it was like an old barn in my ex in-law's property) and I was trying to see if I could see in the window and that's when I noticed how beautifully the tree was reflected in the remaining panes. ([link](https://www.threads.com/@my_tiny_kingdom/post/Df66WMOG9Me))
+  - _Replying to: The broken panes do half the work - the bare branches fill …_
 - **jammy.kollings**: Yes-just like glass all day ([link](https://www.threads.com/@jammy.kollings/post/Df6RPpGlLLR))
   - _Replying to: The reflections run the full length of the frame, and that …_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
