@@ -4,13 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (70)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **curtiscreager**: Trackday lineup ([link](https://www.threads.com/@curtiscreager/post/Df6eoQYmzKe))
   - Photo: Description: A lineup of sports cars, including a red convertible and a blue coupe, is parked on a wet surface that reflects them and the surrounding trees under a partly cloudy sky. Photograph read: The image is composed with the cars in the upper half and their reflections in the lower half, creating a symmetrical visual. Lighting is even and diffused, suggesting an overcast day. Rendering is clear, with visible details on the vehicles and reflections, though the reflections are slightly softer than the direct view. Photo type: Reflective landscape
 - **billi_rubin**: Reflection of the sky. Zero Ai. ([link](https://www.threads.com/@billi_rubin/post/Df6dVPnDedn))
   - Photo: Description: A round, circular mirror with a metallic frame is positioned against a textured, patterned fabric background, reflecting a sky with soft gradient tones and faint cloud streaks. Photograph read: The mirror’s reflective surface captures a pale sky with horizontal bands of muted pink and lavender hues. The mirror’s frame and mounting hardware are visible, and the fabric background shows a repeating floral or geometric pattern with a light, neutral base color. The lighting is even and diffuse, with no harsh shadows or high-contrast areas. Photo type: Still life
+- **joshwill.jpg**: whenever I see a mirror. I see a photo opportunity! it’s taught me to not only enjoy the moment. but capture it (and quickly 🤭)! But it was just a nice night out with friends :) ([link](https://www.threads.com/@joshwill.jpg/post/Df6fFrSFFfS))
+  - _Replying to: Four of you in one mirror, and the lights do the confetti f…_
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
   - Photo: Description: The photograph shows a tall building illuminated by warm, low-angle light, viewed through the silhouettes of tree branches in the foreground. The sky is hazy and uniformly lit, suggesting twilight or dawn. Photograph read: The composition is framed by dark, leafy branches in the foreground, with the building and a bright light source (likely the sun) behind them. The building’s windows reflect or emit light, creating a pattern of glowing points. The image has a soft, hazy quality, with no visible sharpness or defined focus. Photo type: Urban silhouette
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.

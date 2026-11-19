@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 438,
+      "reply_count": 439,
       "replies": [
         {
           "username": "curtiscreager",
@@ -61,7 +61,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "joshwill.jpg",
+                  "text": "whenever I see a mirror. I see a photo opportunity! it\u2019s taught me to not only enjoy the moment. but capture it (and quickly \ud83e\udd2d)! But it was just a nice night out with friends :)",
+                  "permalink": "https://www.threads.com/@joshwill.jpg/post/Df6fFrSFFfS",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
