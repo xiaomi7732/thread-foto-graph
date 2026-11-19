@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (73)
+## Needs Reply (74)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **jerseylilly**: Liverpool through a hotel window ([link](https://www.threads.com/@jerseylilly/post/Df6kQpIlgU6))
+  - Photo: Description: The image shows a view through a fogged or wet window, with a large red brick building visible in the background, its reflection partially visible on a body of water in the foreground. The sky is a muted blue, and distant lights are faintly visible. Photograph read: The composition is framed by a dark window frame, with the entire image obscured by condensation or water droplets. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is uniformly soft due to the surface condition, with no discernible sharpness or texture in the subject. Photo type: Unclear
+    - Watch-outs: The entire image is obscured by condensation, limiting visibility of all subject detail. The window surface is covered with a uniform layer of droplets and haze, reducing contrast and clarity across the entire frame.
 - **ristotuomarla**:  ([link](https://www.threads.com/@ristotuomarla/post/Df6g3s3iAAa))
   - Photo: Description: A long, paved pier extends into calm water, with a few people visible on its upper walkway and steps. The scene is bathed in warm, low-angle sunlight, suggesting late afternoon or early morning. Photograph read: The composition is linear, with the pier receding into the distance. Lighting is directional, casting long shadows and highlighting the pier’s structure. Reflections of the pier are visible in the water. The image appears sharp, with no visible motion blur or focus issues. Photo type: Architectural
 - **curtiscreager**: Trackday lineup ([link](https://www.threads.com/@curtiscreager/post/Df6eoQYmzKe))

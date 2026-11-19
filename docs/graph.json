@@ -13,8 +13,23 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 444,
+      "reply_count": 445,
       "replies": [
+        {
+          "username": "jerseylilly",
+          "text": "Liverpool through a hotel window",
+          "permalink": "https://www.threads.com/@jerseylilly/post/Df6kQpIlgU6",
+          "photos": [
+            "Description: The image shows a view through a fogged or wet window, with a large red brick building visible in the background, its reflection partially visible on a body of water in the foreground. The sky is a muted blue, and distant lights are faintly visible. Photograph read: The composition is framed by a dark window frame, with the entire image obscured by condensation or water droplets. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is uniformly soft due to the surface condition, with no discernible sharpness or texture in the subject. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "The entire image is obscured by condensation, limiting visibility of all subject detail. The window surface is covered with a uniform layer of droplets and haze, reducing contrast and clarity across the entire frame."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ristotuomarla",
           "text": "",
