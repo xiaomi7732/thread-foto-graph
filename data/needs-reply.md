@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (122)
+## Needs Reply (123)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **shiawasemainichi5**: Flowers In The Cold ([link](https://www.threads.com/@shiawasemainichi5/post/Df7_TzBk8Dx))
+  - Photo: Description: A single, partially opened rose with pale yellow petals hangs from a stem, accompanied by several unopened buds and green leaves against a uniformly dark, out-of-focus background. Photograph read: The subject is centrally positioned with soft focus, and the lighting is subdued, highlighting the flower’s form against a dark backdrop. Leaves and buds are visible but lack sharpness. The image has a shallow depth of field, with the background blurred. Photo type: Portrait
+    - Watch-outs: - The main flower’s petals show soft edges and lack of fine texture due to shallow depth of field and low contrast. - The buds and leaves are indistinct, with some areas appearing slightly overexposed or washed out, reducing detail.
 - **coldhollowfarm**:  ([link](https://www.threads.com/@coldhollowfarm/post/Df7-8OHFlO4))
   - Photo: Description: A heart-shaped green leaf, covered in a layer of frost, is centered in the frame, surrounded by frost-covered grass and small plants. Photograph read: The image is a close-up with even, diffused lighting, showing clear surface texture of the frost and leaf veins. The leaf is in focus, with surrounding vegetation slightly less sharp. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Macro
 - **sherriebcrow**:  ([link](https://www.threads.com/@sherriebcrow/post/Df7-bwwGVsi))
