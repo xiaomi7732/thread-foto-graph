@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (98)
+## Needs Reply (100)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **helskinky**: Pholiota squarrosa ([link](https://www.threads.com/@helskinky/post/Df7fPedkVdh))
+  - Photo: Description: A cluster of orange-brown, textured fungi with a bumpy, scale-like cap surface grows among damp leaves and dark soil. The fungi are in close proximity, with some overlapping or partially obscured. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central mushroom. Lighting is diffuse, casting soft shadows and highlighting the surface texture. The rendering preserves fine surface detail on the fungi, though the background is out of focus. Photo type: Macro
 - **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/Df7eoE7IGNf))
   - Photo: Description: The image shows a view through dense foliage into a calm, greenish water body with a partially submerged tree stump visible in the center. The foreground consists of a leaf-covered ground and tangled vegetation. Photograph read: The composition is framed by overhanging branches and leaves, with the water and stump in the mid-ground. Lighting is diffused, with some brighter areas on the shore and subdued tones in the foliage. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Natural
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df7cyBVkTGc))
@@ -36,6 +38,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A frozen body of water at night, with a prominent crack or fissure running through the ice, bordered by dark, wet-looking ice edges and lighter snow or ice patches. Distant lights from a treeline and possibly buildings are visible on the horizon under a gray sky. Photograph read: The image is taken at night with low ambient light, showing a wide, flat expanse of ice with a central crack. Lighting appears to come from a distant source, casting a warm glow on the ice surface and creating strong contrast between the dark ice and lighter patches. The image has a slightly soft focus and visible grain, with no sharp edges or fine textures discernible. Photo type: Night landscape
     - Watch-outs: - The central crack in the ice is indistinct, with blurred edges and no clear definition of its shape or depth. - The distant treeline and lights are fuzzy and lack detail, with no discernible structure or form.
   - _Replying to: Two figures, back to back, and neither one saying a word to…_
+- **glendagh25**: Just after some light rain ([link](https://www.threads.com/@glendagh25/post/Df7fPxdFBXd))
+  - _Replying to: Two lamps on one stem, and the droplets still sitting on th…_
 - **bugs_eye_view_of_you**: Caught the moment. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/Df7bJW7oGHR))
   - _Replying to: A whole duck, folded into one clean triangle on the ripples…_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
@@ -265,7 +269,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (32)
+## Needs Like (33)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - 2killamockingbird: Your welcome. ([link](https://www.threads.com/@2killamockingbird/post/Df7cXIfDnYJ))
@@ -274,6 +278,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - marekoy1457:  ([link](https://www.threads.com/@marekoy1457/post/Df7DdTCkp5m))
 - shel_bee_g: Daily ([link](https://www.threads.com/@shel_bee_g/post/Df684L1nMzZ))
+- tiabird_brain23: The 2nd ([link](https://www.threads.com/@tiabird_brain23/post/Df7ffv5JX3o))
 - dasimscas:  ([link](https://www.threads.com/@dasimscas/post/Df5p9A2jIw2))
 - allison.ludwig.31: Late afternoon . ([link](https://www.threads.com/@allison.ludwig.31/post/Df6CPB2DFFT))
 - andy2528788: Beautiful 🤩 ([link](https://www.threads.com/@andy2528788/post/Df55cysDNi6))
