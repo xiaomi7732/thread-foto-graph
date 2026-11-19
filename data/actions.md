@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (124)
+## Needs Reply (125)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **shiawasemainichi5**: Flowers In The Cold ([link](https://www.threads.com/@shiawasemainichi5/post/Df7_TzBk8Dx))
@@ -51,6 +51,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That long cloud in the middle - a bird mid-flight, or am I …_
 - **dhinie_behboodzadeh**: I have no idea, it was already open when i was there 😊 ([link](https://www.threads.com/@dhinie_behboodzadeh/post/Df76XmvEdgn))
   - _Replying to: A toadstool that opened into a heart - red cap, white freck…_
+- **dth_exotics**: Not long! After the first flower bloomed it was less than 3 days before the rest followed ([link](https://www.threads.com/@dth_exotics/post/Df8AWrWFqJk))
+  - _Replying to: The blooms fell into a heart all on their own. How long did…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
