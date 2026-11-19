@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (106)
+## Needs Reply (107)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **artisticdezine**:  ([link](https://www.threads.com/@artisticdezine/post/Df7zzC4mN7_))
+  - Photo: Description: A pizza with multiple toppings, including pepperoni, pineapple, red onions, and green peppers, is sliced and presented on a white paper plate. A pizza cutter rests on the plate near the top edge. Photograph read: The image is taken from a top-down perspective with even, direct lighting. The pizza is in focus, and the toppings are clearly distinguishable. The background consists of a wooden surface with visible grain and minor scratches. Photo type: Food photography
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Df7zpHen4GH))
   - Photo: Description: The photograph shows a close-up, top-down view of numerous stacked white PVC pipes, with their circular openings facing the camera, creating a repeating pattern of concentric rings. Photograph read: The image is composed of overlapping circular pipe openings, with moderate contrast and a cool, desaturated color tone. Lighting is even across the scene, with no visible shadows or highlights indicating direction or source. The image lacks sharpness, and edges are soft, suggesting a shallow depth of field or low-resolution capture. Photo type: Industrial
 - **elobernstein**:  ([link](https://www.threads.com/@elobernstein/post/Df7zdXhmMxG))
