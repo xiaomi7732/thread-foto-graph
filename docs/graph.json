@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 202,
+      "reply_count": 204,
       "replies": [
+        {
+          "username": "coldhollowfarm",
+          "text": "",
+          "permalink": "https://www.threads.com/@coldhollowfarm/post/Df7-8OHFlO4",
+          "photos": [
+            "Description: A heart-shaped green leaf, covered in a layer of frost, is centered in the frame, surrounded by frost-covered grass and small plants. Photograph read: The image is a close-up with even, diffused lighting, showing clear surface texture of the frost and leaf veins. The leaf is in focus, with surrounding vegetation slightly less sharp. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "sherriebcrow",
           "text": "",
@@ -655,7 +667,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "beckiefitzgerald",
+                          "text": "For sure!",
+                          "permalink": "https://www.threads.com/@beckiefitzgerald/post/Df7-rFGD42M",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (121)
+## Needs Reply (122)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **coldhollowfarm**:  ([link](https://www.threads.com/@coldhollowfarm/post/Df7-8OHFlO4))
+  - Photo: Description: A heart-shaped green leaf, covered in a layer of frost, is centered in the frame, surrounded by frost-covered grass and small plants. Photograph read: The image is a close-up with even, diffused lighting, showing clear surface texture of the frost and leaf veins. The leaf is in focus, with surrounding vegetation slightly less sharp. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Macro
 - **sherriebcrow**:  ([link](https://www.threads.com/@sherriebcrow/post/Df7-bwwGVsi))
   - Photo: Description: The photograph shows a rugged, reddish-orange rock formation with multiple hollows and irregular surfaces, with a hiker visible in the upper left background among sparse vegetation. Photograph read: The image is taken from a low angle, capturing the textured rock face with natural daylight. Lighting is even, with no obvious shadows or overexposure. The composition emphasizes the rock’s contours and openings, with the hiker appearing small and distant. Photo type: Natural landscape
 - **rmrashotte**: A perfect fit… ([link](https://www.threads.com/@rmrashotte/post/Df790oJljHy))
