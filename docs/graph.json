@@ -10,8 +10,44 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 9,
+      "reply_count": 12,
       "replies": [
+        {
+          "username": "hereyesonphotojewels",
+          "text": "",
+          "permalink": "https://www.threads.com/@hereyesonphotojewels/post/Df7ZrDGlOBQ",
+          "photos": [
+            "Description: The image shows a close-up of a forest floor with vibrant green moss growing on rocks and logs, surrounded by reddish-brown pine needles and small twigs. Photograph read: The composition is a top-down view with even, diffuse lighting. The moss and surrounding debris are in focus, with no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural detail"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "carocaluwe263",
+          "text": "",
+          "permalink": "https://www.threads.com/@carocaluwe263/post/Df7ZZGODptG",
+          "photos": [
+            "Description: A single orange-brown oak leaf with a heart-shaped hole lies on a dark, gravelly pavement, surrounded by small pebbles and scattered pine needles. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear texture on the leaf and ground. The leaf is in focus, with visible veins and surface imperfections. The background is composed of coarse aggregate and small stones, with no signs of motion blur or lens distortion. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "oneillwendie",
+          "text": "The perfect seat rock. In Tiny Ontario",
+          "permalink": "https://www.threads.com/@oneillwendie/post/Df7ZW7tFQH3",
+          "photos": [
+            "Description: A large, rounded rock rests on a sandy surface, surrounded by numerous footprints and scattered small debris. Photograph read: The image is taken from a high angle, with strong directional sunlight casting a distinct shadow from the rock. The sand shows fine texture and varied footprints, while the rock\u2019s surface exhibits visible cracks and weathering. The rendering is sharp enough to discern surface details and texture, with no apparent motion blur or focus issues. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hannele.heikkinen",
           "text": "Found these two silhouettes in the river ice\u2014they look just like two people standing back to back.",
@@ -140,7 +176,7 @@
         "Description: A tranquil canal scene at sunset, flanked by traditional thatched-roof houses and a prominent tree, with the sun\u2019s glow reflected in the still water. Photograph read: The composition is centered on the canal\u2019s reflection, with warm backlighting from the sun creating silhouettes and a bright flare. The water surface is smooth, mirroring the sky and structures. Details of the houses and tree are visible as dark shapes against the bright background. Photo type: Landscape",
         "Description: A cable-stayed bridge with two tall pylons spans a body of water, its reflection mirrored in a calm, shallow pool in the foreground. A large ship is visible in the distance on the water, with a grassy bank separating the foreground from the bridge. Photograph read: The composition is vertically oriented, with the bridge and its reflection occupying the central vertical axis. Lighting suggests late afternoon or early morning, with warm tones on the bridge pylons and a clear blue sky above. The water surface is still, allowing a near-perfect reflection. The rendering is sharp in the bridge and reflection areas, with no visible motion blur or chromatic aberration. Photo type: Architectural"
       ],
-      "reply_count": 9,
+      "reply_count": 10,
       "replies": [
         {
           "username": "saars.foto",
@@ -208,10 +244,21 @@
               "text": "I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness.",
               "permalink": "https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Thank you Elsabe for sharing the story with us. \ud83d\udc4d No need to dig through your RAW files. I was just curious, but please don't spend your precious time on that.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Df7ZU_Qmyg-",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "apertureandartdotcom",

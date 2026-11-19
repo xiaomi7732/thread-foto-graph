@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (89)
+## Needs Reply (91)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **hereyesonphotojewels**:  ([link](https://www.threads.com/@hereyesonphotojewels/post/Df7ZrDGlOBQ))
+  - Photo: Description: The image shows a close-up of a forest floor with vibrant green moss growing on rocks and logs, surrounded by reddish-brown pine needles and small twigs. Photograph read: The composition is a top-down view with even, diffuse lighting. The moss and surrounding debris are in focus, with no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural detail
+- **carocaluwe263**:  ([link](https://www.threads.com/@carocaluwe263/post/Df7ZZGODptG))
+  - Photo: Description: A single orange-brown oak leaf with a heart-shaped hole lies on a dark, gravelly pavement, surrounded by small pebbles and scattered pine needles. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear texture on the leaf and ground. The leaf is in focus, with visible veins and surface imperfections. The background is composed of coarse aggregate and small stones, with no signs of motion blur or lens distortion. Photo type: Documentary
+- **oneillwendie**: The perfect seat rock. In Tiny Ontario ([link](https://www.threads.com/@oneillwendie/post/Df7ZW7tFQH3))
+  - Photo: Description: A large, rounded rock rests on a sandy surface, surrounded by numerous footprints and scattered small debris. Photograph read: The image is taken from a high angle, with strong directional sunlight casting a distinct shadow from the rock. The sand shows fine texture and varied footprints, while the rock’s surface exhibits visible cracks and weathering. The rendering is sharp enough to discern surface details and texture, with no apparent motion blur or focus issues. Photo type: Natural
 - **hannele.heikkinen**: Found these two silhouettes in the river ice—they look just like two people standing back to back. ([link](https://www.threads.com/@hannele.heikkinen/post/Df7Y5v0DoSj))
   - Photo: Description: A frozen surface with a narrow, dark channel running through it, bordered by snow and ice; distant lights from a treeline and urban area are visible under a dim sky. Photograph read: The image is taken at night or twilight with low ambient light, showing a central channel of dark ice or water contrasting with lighter snow. The composition is dominated by the channel, which leads toward the horizon. Lighting is diffuse and insufficient to reveal texture or depth in the foreground or midground. Photo type: Night landscape
     - Watch-outs: Whole-image blur obscures fine texture in the ice and snow; the central channel’s edges are indistinct, making depth and surface detail unreadable.
@@ -26,8 +32,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up macro photograph of a green leaf, showing its central vein and branching venation pattern against a dark green background. Photograph read: The image is in focus with even lighting, revealing fine textures and vein structures. The leaf’s surface and vascular network are clearly rendered, with no visible motion blur or light falloff. Photo type: Macro
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
-- **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
-  - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 - **apertureandartdotcom**: That is actually a canal. The whole town of Giethoorn is built on canals. You either float or walk. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tcd2kWa5))
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
