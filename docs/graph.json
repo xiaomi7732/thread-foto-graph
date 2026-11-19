@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 165,
+      "reply_count": 166,
       "replies": [
         {
           "username": "artisticdezine",
@@ -1420,6 +1420,16 @@
               "hidden": false,
               "replies": [
                 {
+                  "username": "linda73linda",
+                  "text": "Leuk ! Zou het hetzelfde hart zijn geweest ?",
+                  "permalink": "https://www.threads.com/@linda73linda/post/Df703UkDQJQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
                   "username": "saars.foto",
                   "text": "The same heart, back for another evening - and the red car parked right underneath it like it knew. How many evenings in a row has that heart shown up?",
                   "permalink": "https://www.threads.com/@saars.foto/post/Df7wXeiie8L",
@@ -2080,7 +2090,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 516,
+      "reply_count": 517,
       "replies": [
         {
           "username": "judmacd",
@@ -6665,7 +6675,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "phatshutter",
+                  "text": "Thanks for those observations. This is Crown Fountain at Millennium Park",
+                  "permalink": "https://www.threads.com/@phatshutter/post/Df71YDpFFAi",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
