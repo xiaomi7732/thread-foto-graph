@@ -113,7 +113,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 462,
+      "reply_count": 463,
       "replies": [
         {
           "username": "nickiddon",
@@ -1293,7 +1293,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "rickjackoway",
+                  "text": "It was. Not too hard but fortunately enough for them to use the umbrella and hurry across the steeet.",
+                  "permalink": "https://www.threads.com/@rickjackoway/post/Df7C-GaoFXU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

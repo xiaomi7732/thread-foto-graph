@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (92)
+## Needs Reply (93)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -66,6 +66,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
 - **grayghostlife**: Yes all the time ([link](https://www.threads.com/@grayghostlife/post/Df6fnPWjs6D))
   - _Replying to: Two fish for the price of one, and they meet nose to nose r…_
+- **rickjackoway**: It was. Not too hard but fortunately enough for them to use the umbrella and hurry across the steeet. ([link](https://www.threads.com/@rickjackoway/post/Df7C-GaoFXU))
+  - _Replying to: The neon gets a second showing in the wet street, and the u…_
 - **iwriteandedit**: Thanks for your kind comment! ([link](https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-))
   - _Replying to: Not as often as I used to but I still visit every two years…_
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
