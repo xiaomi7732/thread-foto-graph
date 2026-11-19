@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 425,
+      "reply_count": 433,
       "replies": [
         {
           "username": "joshwill.jpg",
@@ -25,10 +25,21 @@
           "watch_outs": [
             "- Overlaid speckles obscure facial features and clothing textures across all subjects, particularly on the man in the black shirt and the woman in the knitted top. - The background gradient and speckles create a high-contrast, non-realistic visual field that reduces the discernibility of fine details on the subjects\u2019 skin and clothing."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four of you in one mirror, and the lights do the confetti for free. What was the occasion?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6c6rMFtcA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hollymm63",
@@ -40,10 +51,21 @@
           "watch_outs": [
             "Fog obscures the treeline and water surface, reducing detail and contrast. The dock\u2019s planks show visible grain and wear, but the overall image lacks sharpness, making fine texture indistinct across the entire frame."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The treeline doubles itself in the water under all that fog, and the dock just leads the eye straight into it. Was the lake this still when you arrived?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6c19ZEeoX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ncav2021",
@@ -55,10 +77,32 @@
           "watch_outs": [
             "- Foreground circular frame obscures part of the image and creates a vignette effect, limiting the visible area. - Silhouettes of vehicles and trees lack discernible detail due to low contrast and backlighting, making features indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That orange sky fills the whole round frame, street and all. Was the sunset the reason you raised the camera?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6c3OmEb85",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "ncav2021",
+                  "text": "Yes. Stopped on the middle of the street to look back and take a photo. Just had to.",
+                  "permalink": "https://www.threads.com/@ncav2021/post/Df6c-8joPcx",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "difishing",
@@ -67,10 +111,21 @@
           "photos": [
             "Description: A calm body of water reflects a clear blue sky and autumnal trees with orange and red leaves along the shoreline. The right side of the frame is dominated by the trees, while the left shows the water extending toward a distant treeline. Photograph read: The composition is a wide-angle landscape shot with the water occupying the foreground and midground. Lighting is bright and even, suggesting midday sun. The water surface has gentle ripples, and reflections are visible but not perfectly mirrored. The image appears to be captured with a standard digital camera, showing natural color rendition and no obvious distortion. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The orange bank gets a second showing in the water, and the blue sky just fills the rest. Is this your regular walk, or a first visit to the lake?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6c4ZqkcQy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "donzela",
@@ -252,10 +307,21 @@
             "",
             "- Foreground reeds are out of focus, obscuring fine texture and detail. - Reflections in the water are slightly distorted, indicating minor surface ripples or imperfections."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The branches double so cleanly the pond looks like a second wood - dark in the first frame, all blue sky in the second. Were these the same stretch of water?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6c-wfEUhu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "katnealey",
@@ -369,10 +435,21 @@
                   "text": "Yes game five was that night",
                   "permalink": "https://www.threads.com/@d1xshooter/post/Df6YyOYlhF-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Game five light suits that street. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6c7xLFkSa",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -454,10 +531,21 @@
                   "text": "It was incredibly still. I was driving home and had to stop.",
                   "permalink": "https://www.threads.com/@nofussgus_/post/Df6YADPIXc0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A stop like that is always worth it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6c9BAFbyz",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
