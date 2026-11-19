@@ -13,8 +13,59 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 299,
+      "reply_count": 305,
       "replies": [
+        {
+          "username": "jcallenderphotography",
+          "text": "Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH.",
+          "permalink": "https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3",
+          "photos": [
+            "Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bybaird",
+          "text": "",
+          "permalink": "https://www.threads.com/@bybaird/post/Df5yYiVo8I2",
+          "photos": [
+            "Description: A glacier terminates in a turquoise fjord, with snow-dusted, rugged mountains rising behind it under a clear blue sky. Photograph read: The image displays a wide landscape with strong color saturation, particularly in the blue tones of water and ice. The glacier\u2019s terminus is sharply defined against the mountains, and the water surface reflects the scene with minimal distortion. Lighting is bright and even, suggesting direct sunlight. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "glendagh25",
+          "text": "",
+          "permalink": "https://www.threads.com/@glendagh25/post/Df5yK2KlGVC",
+          "photos": [
+            "Description: A calm waterway reflects trees with golden autumn foliage on one bank and green shrubs on the other, under an overcast sky. Photograph read: The composition is vertical, with the waterway extending into the distance. Reflections are clear but slightly distorted by gentle ripples. Lighting is diffuse and even, with no harsh shadows. Color saturation is moderate, and the image lacks visible signs of compression or noise. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "grayghostlife",
+          "text": "",
+          "permalink": "https://www.threads.com/@grayghostlife/post/Df5xzC1jr4d",
+          "photos": [
+            "Description: Two betta fish with predominantly blue bodies and orange-tipped fins are visible in an aquarium, with one fish positioned near the glass and the other slightly below it. A small green plant is visible in the bottom-left corner. Photograph read: The image is taken with a shallow depth of field, resulting in the fish being in focus while the background and foreground are blurred. Lighting appears even and diffused, illuminating the fish\u2019s scales and fin details. The image has a slightly soft resolution, with some minor motion blur visible in the fins. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "winestains.ca",
           "text": "",
@@ -862,7 +913,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "eelizjjjm",
+                  "text": "This is one of my fav. Walks. It\u2019s a huge city park 32 acres developed, and 89 wooded\u2014with people trails throughout. I\u2019ve taken hundreds of pics here over the years and season to season.",
+                  "permalink": "https://www.threads.com/@eelizjjjm/post/Df5xWxoIMR-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1051,7 +1113,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dwordops",
+                  "text": "An Audi with a high gloss on the hood and a cloudy day\u2026",
+                  "permalink": "https://www.threads.com/@dwordops/post/Df5ygdNmGzI",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

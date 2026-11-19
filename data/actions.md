@@ -6,9 +6,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (88)
+## Needs Reply (94)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
+  - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
+    - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
+- **bybaird**:  ([link](https://www.threads.com/@bybaird/post/Df5yYiVo8I2))
+  - Photo: Description: A glacier terminates in a turquoise fjord, with snow-dusted, rugged mountains rising behind it under a clear blue sky. Photograph read: The image displays a wide landscape with strong color saturation, particularly in the blue tones of water and ice. The glacier’s terminus is sharply defined against the mountains, and the water surface reflects the scene with minimal distortion. Lighting is bright and even, suggesting direct sunlight. Photo type: Landscape
+- **glendagh25**:  ([link](https://www.threads.com/@glendagh25/post/Df5yK2KlGVC))
+  - Photo: Description: A calm waterway reflects trees with golden autumn foliage on one bank and green shrubs on the other, under an overcast sky. Photograph read: The composition is vertical, with the waterway extending into the distance. Reflections are clear but slightly distorted by gentle ripples. Lighting is diffuse and even, with no harsh shadows. Color saturation is moderate, and the image lacks visible signs of compression or noise. Photo type: Natural landscape
+- **grayghostlife**:  ([link](https://www.threads.com/@grayghostlife/post/Df5xzC1jr4d))
+  - Photo: Description: Two betta fish with predominantly blue bodies and orange-tipped fins are visible in an aquarium, with one fish positioned near the glass and the other slightly below it. A small green plant is visible in the bottom-left corner. Photograph read: The image is taken with a shallow depth of field, resulting in the fish being in focus while the background and foreground are blurred. Lighting appears even and diffused, illuminating the fish’s scales and fin details. The image has a slightly soft resolution, with some minor motion blur visible in the fins. Photo type: Portrait
 - **winestains.ca**:  ([link](https://www.threads.com/@winestains.ca/post/Df5vL_LFnUG))
   - Photo: Description: The photograph shows a vineyard in autumn, with grapevines bearing clusters of dark grapes and leaves turning yellow and orange, viewed from inside a vehicle through the side mirror. Photograph read: The composition is framed by the side-view mirror on the right, reflecting a row of vines extending into the distance. Bright sunlight illuminates the scene, casting shadows on the ground and highlighting the autumnal colors. The rendering is clear, with visible texture on leaves and grapes, and no apparent distortion or motion blur. Photo type: Documentary
 - **rubydawnintl**:  ([link](https://www.threads.com/@rubydawnintl/post/Df5uhKQExLM))
@@ -93,6 +102,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The wet sand hands the whole sunset back - orange clouds, p…_
 - **gnd_moments_in_paradise**: And yes. You can see the Sun just about to drop behind the mountain. And the good people around got to see a madman running down the beach to get to the waters edge before I lost the moment. 😏📸 ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5j6DVCPbY))
   - _Replying to: The waves were actually coming right up to where I was stan…_
+- **eelizjjjm**: This is one of my fav. Walks. It’s a huge city park 32 acres developed, and 89 wooded—with people trails throughout. I’ve taken hundreds of pics here over the years and season to season. ([link](https://www.threads.com/@eelizjjjm/post/Df5xWxoIMR-))
+  - _Replying to: The bridge and the red trees both land twice, and the water…_
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **p.a.tovo**: Nah, she's a typical cat....new hangout every day. ([link](https://www.threads.com/@p.a.tovo/post/Df5h1OJlCgz))
@@ -101,6 +112,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The clouds get a second sky in the bay, and the boats just …_
 - **bumpy120**: It was a perfectly calm day. I was in the right place at the right time. ([link](https://www.threads.com/@bumpy120/post/Df5ml03H7Xj))
   - _Replying to: The gold trees double so cleanly the pond looks like a seco…_
+- **dwordops**: An Audi with a high gloss on the hood and a cloudy day… ([link](https://www.threads.com/@dwordops/post/Df5ygdNmGzI))
+  - _Replying to: Four rings and a whole sky in the paint - the clouds do the…_
 - **sahelstreams**: Thank you so much! I was on a hike with friends, not long at all… right time-right place; it’s literally called Dream Lake in Rocky Mountain National Park ([link](https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD))
   - _Replying to: That leaning tree frames the whole lake, and the forest dou…_
 - **caissiecat**: Mineral. We were hiking in Kootenay National Park. Paint Pots Trail - iron rich mineral springs, red/orange mud caused by oxidized iron. ([link](https://www.threads.com/@caissiecat/post/Df5rpzQmf3g))
