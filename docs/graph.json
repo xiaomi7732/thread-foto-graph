@@ -113,7 +113,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 465,
+      "reply_count": 466,
       "replies": [
         {
           "username": "achtung_wildwechsel",
@@ -675,7 +675,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "wj.fox",
+                  "text": "Yes same pond just different angles.",
+                  "permalink": "https://www.threads.com/@wj.fox/post/Df7IIxMHM2v",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

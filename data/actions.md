@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (94)
+## Needs Reply (95)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -61,6 +61,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
 - **9w6she**: no, it's not planned... just having my dinner while capture it ... ([link](https://www.threads.com/@9w6she/post/Df6j06_E2Yv))
   - _Replying to: That third frame is the one - the lights just pour themselv…_
+- **wj.fox**: Yes same pond just different angles. ([link](https://www.threads.com/@wj.fox/post/Df7IIxMHM2v))
+  - _Replying to: The branches double so cleanly the pond looks like a second…_
 - **fephi**: It’s my husband and grandson , went to watch the sunset and got lucky where everything lined up. Watching the sunset turned and saw their reflection, snap! ([link](https://www.threads.com/@fephi/post/Df6dZOYG-mh))
   - _Replying to: The whole sunset folded itself into one car window - sky, s…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
