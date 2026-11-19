@@ -10,8 +10,78 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 22,
+      "reply_count": 38,
       "replies": [
+        {
+          "username": "kitlawson",
+          "text": "The sun came through and I snapped the shot. I like it.",
+          "permalink": "https://www.threads.com/@kitlawson/post/Df7bKbsEY9J",
+          "photos": [
+            "Description: A plant with broad green leaves is displayed in a spherical glass container filled with water, supported by a minimalist metal frame, positioned on a wooden surface near a window. Photograph read: The image is brightly lit by direct sunlight from the right, creating a glare on the glass sphere and casting strong highlights on the leaves. The background shows out-of-focus foliage and a windowpane with visible condensation or smudges. The glass container and roots are clearly visible, but the background remains indistinct. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "wj.fox",
+          "text": "",
+          "permalink": "https://www.threads.com/@wj.fox/post/Df7bEQSnJ6q",
+          "photos": [
+            "Description: A circular metal manhole cover with a grid of small holes is set into a paved surface made of interlocking concrete slabs. Several dry, brown leaves and a few green leaves are scattered around and on the cover. Photograph read: The image is taken from a high angle, with even, bright daylight illuminating the scene. The manhole cover and surrounding pavement are in sharp focus, with no visible motion blur or softness. The rendering preserves fine surface textures, including rust, screw heads, and leaf details. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "shel_bee_g",
+          "text": "",
+          "permalink": "https://www.threads.com/@shel_bee_g/post/Df7bBdLG3Xh",
+          "photos": [
+            "Description: A single, dried maple leaf with red and brown hues lies on a dark, textured surface, possibly asphalt or pavement, with small debris scattered nearby. Photograph read: The leaf is in focus with visible veins and edges, illuminated by direct light casting a shadow. The background shows surface texture and minor debris. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mommatex",
+          "text": "",
+          "permalink": "https://www.threads.com/@mommatex/post/Df7a99SGxlo",
+          "photos": [
+            "Description: A heart-shaped cactus pad with small spines and dark spots is centered on reddish-brown, leaf-littered ground, with a darker, shadowed pad below it. Photograph read: The image has warm, uneven lighting with strong contrast between the bright green pad and dark shadows. The surface texture of the ground and the cactus are visible but not sharply defined. The image has a slightly soft or grainy appearance, with no clear signs of motion blur or focus issues. Photo type: Natural"
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the tight crop is the right call - nothing in the frame but the heart and the red dirt around it. A prickly heart, though - did it let you get close?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bULykbl5",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "mommatex",
+                  "text": "I didn\u2019t want to get too close!",
+                  "permalink": "https://www.threads.com/@mommatex/post/Df7bdyAm0xp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
         {
           "username": "suzanne_raimondi_gallagher",
           "text": "this white heart shaped rock was lying alone on the beach. Now it lives in our garden.",
@@ -19,10 +89,21 @@
           "photos": [
             "Description: A collection of rounded and angular rocks of various sizes and colors is arranged in a garden bed bordered by dark mulch and green plants, adjacent to a paved surface. Photograph read: The image is taken from a high angle, showing the rocks and surrounding garden bed clearly. Lighting is even and natural, with no visible shadows or overexposure. The image has no apparent distortion or motion blur. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "From a lonely beach to pride of place in the garden - that little white heart earned its spot. Did you spot it right away among all those stones?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bVj9FDpk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "linda73linda",
@@ -31,10 +112,21 @@
           "photos": [
             "Description: A large cloud formation dominates the sky, illuminated from behind by a low sun, casting rays through its edges; silhouettes of three vertical structures and a tree line are visible against the horizon. Photograph read: The sky exhibits strong backlighting with radiating sunbeams emerging from behind the cloud mass, which has a bright, textured edge and a dark central core. The foreground is uniformly dark, showing only silhouettes. The image appears to be a single exposure with no visible signs of motion blur or chromatic aberration. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A heart made of shadow and gold light, with the sun doing all the framing. Did the rays show up for the photo, or were they the whole reason you looked up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bWrGEQQz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "abbytabby13",
@@ -48,10 +140,21 @@
             "The entire image appears blurred; fine detail is not distinguishable. The rock surfaces lack crisp edges and texture definition.",
             ""
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two shapes for the price of one - the rocky peak and that cloud piling up over the field. Which one made you stop first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bQOpIGBF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "auerbach_photos",
@@ -60,10 +163,21 @@
           "photos": [
             "Description: A shirtless man stands on a rocky outcrop in the sea, positioned to the left of a large, rounded boulder with yellowish lichen. The scene is under a clear blue sky with distant mountains visible across the water. Photograph read: The composition is centered on the man and the boulder, with the sea and sky filling the frame. Lighting is bright and even, suggesting midday sun. The image has a natural color balance and moderate sharpness, with no visible signs of motion blur or focus issues. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A split apple the size of a house, and a bonus sunbather for scale. What did he say when he saw the camera?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bR1vEa5P",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hereyesonphotojewels",
@@ -72,10 +186,21 @@
           "photos": [
             "Description: The image shows a close-up of a forest floor with vibrant green moss growing on rocks and logs, surrounded by reddish-brown pine needles and small twigs. Photograph read: The composition is a top-down view with even, diffuse lighting. The moss and surrounding debris are in focus, with no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural detail"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A bright green heart tucked between the roots, right in the middle of all that rust-red needle litter. How long did you stare before you saw it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bTEZkVgz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "carocaluwe263",
@@ -167,7 +292,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "hannele.heikkinen",
+                  "text": "I spotted the figures while out for a walk, they had formed a crack in the ice right alongside the bridge. I always look at rivers and other watery spots\u2014the ice, thin crust, cracks, reflections. I was out at just the right time, on my way back, they were already covered in snow.",
+                  "permalink": "https://www.threads.com/@hannele.heikkinen/post/Df7bag4DuY4",
+                  "photos": [
+                    "Description: A frozen body of water at night, with a prominent crack or fissure running through the ice, bordered by dark, wet-looking ice edges and lighter snow or ice patches. Distant lights from a treeline and possibly buildings are visible on the horizon under a gray sky. Photograph read: The image is taken at night with low ambient light, showing a wide, flat expanse of ice with a central crack. Lighting appears to come from a distant source, casting a warm glow on the ice surface and creating strong contrast between the dark ice and lighter patches. The image has a slightly soft focus and visible grain, with no sharp edges or fine textures discernible. Photo type: Night landscape"
+                  ],
+                  "watch_outs": [
+                    "- The central crack in the ice is indistinct, with blurred edges and no clear definition of its shape or depth. - The distant treeline and lights are fuzzy and lack detail, with no discernible structure or form."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -178,10 +319,21 @@
           "photos": [
             "Description: Two blossoms with a red lower half and pale pink upper half, speckled with water droplets, are in focus on a stem, with blurred green foliage in the background. Photograph read: The main subject is in focus with moderate depth of field; lighting is even and diffused, with no visible shadows or highlights. The background is uniformly out of focus, creating a soft bokeh effect. The image has no signs of motion blur, overexposure, or underexposure. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two lamps on one stem, and the droplets still sitting on the shades - was this right after rain, or a morning find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bDX3oItn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bugs_eye_view_of_you",
@@ -193,10 +345,42 @@
           "watch_outs": [
             "The duck\u2019s head and bill are partially obscured by the rendering texture, reducing fine feather detail. The white chest patch is visible but appears slightly smudged due to the artistic style."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole duck, folded into one clean triangle on the ripples - did it settle into that shape, or did you catch the one moment it lined up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7bEYxFOEE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "bugs_eye_view_of_you",
+                  "text": "A little triangle where the feathers meet as well.",
+                  "permalink": "https://www.threads.com/@bugs_eye_view_of_you/post/Df7bVg_oCHv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "bugs_eye_view_of_you",
+                  "text": "Caught the moment.",
+                  "permalink": "https://www.threads.com/@bugs_eye_view_of_you/post/Df7bJW7oGHR",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "marcinewiese",
