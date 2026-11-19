@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (102)
+## Needs Reply (103)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **smilingjeannie**: The fan shape of these freshly fallen ginkgo leaves with circular raindrops after a morning shower. ([link](https://www.threads.com/@smilingjeannie/post/Df7k1vLG9zo))
+  - Photo: Description: Two golden ginkgo leaves, covered in water droplets, rest on the surface of shallow, moving water over a dark, textured stone or rock bed. Photograph read: The composition is centered on the leaves, with water ripples and reflections visible around them. Lighting appears even and diffused, illuminating the leaves’ veins and droplets clearly. The rendering shows natural surface textures and water movement without obvious distortion or color aberration. Photo type: Nature macro
 - **jammy.kollings**:  ([link](https://www.threads.com/@jammy.kollings/post/Df7kdKam4XS))
   - Photo: Description: A human hand holds a small, textured pinecone in its palm, with a ring visible on the ring finger; the background is a blurred, dark surface with indistinct shapes. Photograph read: The image is taken from a close-up perspective, with the hand and pinecone in focus. Lighting is even and diffuse, without harsh shadows or highlights. The background is out of focus, creating a shallow depth of field. Photo type: Close-up
     - Watch-outs: The pinecone’s surface texture is not sharply resolved, showing only general shape and pattern. The background is indistinct, preventing identification of context or environment.
