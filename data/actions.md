@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (114)
+## Needs Reply (115)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **32groove**:  ([link](https://www.threads.com/@32groove/post/Df8FvbvD0TE))
@@ -16,6 +16,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The hand obscures the lower third of the object, limiting visibility of its base and texture. The top portion of the object is slightly out of focus, reducing clarity of its upper contours.
 - **c.h.skeetsussex.ac.uk**: I have a few more here and there- some were too big and had to be left. ([link](https://www.threads.com/@c.h.skeetsussex.ac.uk/post/Df8E3taDAgz))
   - _Replying to: A whole row of hearts, and the big one on the right still s…_
+- **shiawasemainichi5**: Thank you. Sometimes roses don't bloom well in November and early December. They get damaged by the wind, cold, rain, and strong sunlight. But the melancholic look of roses at this time of year is also beautiful! ([link](https://www.threads.com/@shiawasemainichi5/post/Df8GJaPkz9F))
+  - _Replying to: That slow spiral of petals, opening in the cold - the pale …_
 - **coldhollowfarm**: I live on a farm. Found this at daybreak walking out to the barn to feed the horse. ([link](https://www.threads.com/@coldhollowfarm/post/Df8E5MMFgwV))
   - _Replying to: I think the frost is what makes it - the heart was already …_
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))

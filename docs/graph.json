@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 238,
+      "reply_count": 239,
       "replies": [
         {
           "username": "32groove",
@@ -121,7 +121,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "shiawasemainichi5",
+                  "text": "Thank you. Sometimes roses don't bloom well in November and early December. They get damaged by the wind, cold, rain, and strong sunlight. But the melancholic look of roses at this time of year is also beautiful!",
+                  "permalink": "https://www.threads.com/@shiawasemainichi5/post/Df8GJaPkz9F",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
