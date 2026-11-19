@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 49,
+      "reply_count": 52,
       "replies": [
+        {
+          "username": "ulrike6417",
+          "text": "",
+          "permalink": "https://www.threads.com/@ulrike6417/post/Df7cyBVkTGc",
+          "photos": [
+            "Description: The image shows several translucent, gelatinous creatures floating in murky green water, with one prominent specimen in the center displaying a circular bell and internal structures. Photograph read: The composition is vertical, with the main subject centered and slightly below the midpoint. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is soft, with minimal contrast and visible grain or noise. Photo type: Underwater"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mike.bowden.garsten",
           "text": "",
@@ -279,7 +291,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "auerbach_photos",
+                  "text": "He just kept posing for the camera!",
+                  "permalink": "https://www.threads.com/@auerbach_photos/post/Df7cr6_FqdD",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83d\ude02\ud83d\ude02\ud83e\udd23 works for me, lol",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7c51qG1Ds",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },

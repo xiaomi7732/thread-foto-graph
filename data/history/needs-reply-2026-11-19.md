@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (94)
+## Needs Reply (95)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df7cyBVkTGc))
+  - Photo: Description: The image shows several translucent, gelatinous creatures floating in murky green water, with one prominent specimen in the center displaying a circular bell and internal structures. Photograph read: The composition is vertical, with the main subject centered and slightly below the midpoint. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is soft, with minimal contrast and visible grain or noise. Photo type: Underwater
 - **mike.bowden.garsten**:  ([link](https://www.threads.com/@mike.bowden.garsten/post/Df7chZIESWj))
   - Photo: Description: The image shows a close-up of a flower with tightly curled, spiraling petals in shades of magenta and white, set against a uniformly blurred green background. Photograph read: The subject is centrally framed with a shallow depth of field, resulting in a soft focus across the entire flower. Lighting appears even and diffused, with no harsh shadows or highlights. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Macro
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The central opening of the flower is indistinct, lacking visible texture or structure.
