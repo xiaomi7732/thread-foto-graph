@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (72)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **fephi**: Reflection on the car window. ([link](https://www.threads.com/@fephi/post/Df5_pSKGcSa))
+  - Photo: Description: The image shows the silhouettes of two people standing on a paved area near a body of water, viewed through a car window, with a sunset horizon visible in the reflection. Photograph read: The composition is framed by the car window’s edge, with the reflection of the sky and sea dominating the view. The subjects are dark and indistinct, with no visible facial or clothing detail. The lighting is low-contrast, with the horizon showing a gradient from orange to gray. Photo type: Reflection
+    - Watch-outs: The silhouettes are indistinct, lacking discernible features or texture. The reflection surface shows visible glare and reflections of the interior of the vehicle, obscuring the clarity of the scene outside.
 - **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/Df5-2LPGNTC))
   - Photo: Description: Two brown, horned bovines stand on a dry, earthy bank beside a body of water, with their reflections visible in the surface. A thick rope or cable runs horizontally across the foreground, partially obscuring the view. Photograph read: The image is composed with the animals in the midground and their reflections in the foreground. Lighting appears natural and direct, casting clear shadows. The water surface shows gentle ripples, distorting reflections slightly. The rendering is clear enough to identify the subjects and their immediate surroundings. Photo type: Natural landscape
 - **bluntnelson**:  ([link](https://www.threads.com/@bluntnelson/post/Df597emoN5W))
@@ -55,6 +58,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The mist softens the far shore and the tower keeps watch ov…_
 - **sanchionidawn**:  ([link](https://www.threads.com/@sanchionidawn/post/Df5V-wMEsqk))
   - Photo: Description: A highway with a concrete barrier and a reddish-brown overpass in the midground, under a heavily clouded sky with a faint rainbow arc visible behind the clouds. Distant mountains and sparse vegetation are visible beyond the overpass. Photograph read: The image is taken from a vehicle, showing a wide, slightly wet road surface. The sky is dominated by dark, layered clouds, with a subtle rainbow visible as a thin, low-contrast arc. Lighting is diffuse and even, with no strong directional highlights or shadows. The image has a flat, muted color palette with no visible lens distortion or chromatic aberration. Photo type: Documentary
+- **tooly_chinga**: Thank you but it was work related. The guys were great subjects to photograph. ([link](https://www.threads.com/@tooly_chinga/post/Df5_qUeljUY))
+  - _Replying to: A 250-foot climb for one reflection is real commitment._
 - **gnd_moments_in_paradise**: The waves were actually coming right up to where I was standing. I had to wait for the wave to recede then take picture before the incoming wave arrived. In the picture you can see the outgoing and incoming wave. The reflection was magnificent. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5ivTaiFsM))
   - _Replying to: The wet sand hands the whole sunset back - orange clouds, p…_
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
