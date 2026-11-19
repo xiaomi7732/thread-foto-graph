@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (95)
+## Needs Reply (96)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df7cyBVkTGc))
@@ -14,6 +14,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **mike.bowden.garsten**:  ([link](https://www.threads.com/@mike.bowden.garsten/post/Df7chZIESWj))
   - Photo: Description: The image shows a close-up of a flower with tightly curled, spiraling petals in shades of magenta and white, set against a uniformly blurred green background. Photograph read: The subject is centrally framed with a shallow depth of field, resulting in a soft focus across the entire flower. Lighting appears even and diffused, with no harsh shadows or highlights. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Macro
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The central opening of the flower is indistinct, lacking visible texture or structure.
+- **stina9993**:  ([link](https://www.threads.com/@stina9993/post/Df7d4S6DTZj))
+  - Photo: Description: A dark, irregularly shaped stain resembling a footprint is visible on a textured asphalt surface, adjacent to a rusted metal manhole cover with a grid pattern. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The asphalt surface shows granular texture, and the stain contrasts with the surrounding material. The manhole cover is partially visible in the lower right corner. No motion blur, lens distortion, or chromatic aberration is evident. Photo type: Documentary
+    - Watch-outs: The stain’s edges are indistinct and blend into the surrounding asphalt, limiting visual definition. The manhole cover’s surface shows rust and wear, which obscures fine detail on its grid pattern.
+  - _Replying to: (photo reply, no text)_
 - **nechromance**:  ([link](https://www.threads.com/@nechromance/post/Df7cYGhG9yg))
   - Photo: Description: The image shows a close-up of a collection of smooth, rounded pebbles and small stones in various colors, including white, brown, gray, and a distinct teal-green pebble in the center. Photograph read: The composition is a dense, scattered arrangement of pebbles with no clear focal point. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering is sharp enough to distinguish individual pebbles and their textures, though some stones are slightly out of focus or partially obscured. Photo type: Natural
 - **2killamockingbird**:  ([link](https://www.threads.com/@2killamockingbird/post/Df7cUQZjpTv))

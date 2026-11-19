@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 52,
+      "reply_count": 53,
       "replies": [
         {
           "username": "ulrike6417",
@@ -37,7 +37,23 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "stina9993",
+              "text": "",
+              "permalink": "https://www.threads.com/@stina9993/post/Df7d4S6DTZj",
+              "photos": [
+                "Description: A dark, irregularly shaped stain resembling a footprint is visible on a textured asphalt surface, adjacent to a rusted metal manhole cover with a grid pattern. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The asphalt surface shows granular texture, and the stain contrasts with the surrounding material. The manhole cover is partially visible in the lower right corner. No motion blur, lens distortion, or chromatic aberration is evident. Photo type: Documentary"
+              ],
+              "watch_outs": [
+                "The stain\u2019s edges are indistinct and blend into the surrounding asphalt, limiting visual definition. The manhole cover\u2019s surface shows rust and wear, which obscures fine detail on its grid pattern."
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "nechromance",
