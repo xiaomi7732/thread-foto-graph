@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (102)
+## Needs Reply (103)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **vuurenbernadettevan**: Heart shadow, tiny but its there! ([link](https://www.threads.com/@vuurenbernadettevan/post/Df7f8MTkSpz))
@@ -215,6 +215,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Twenty years of morning hellos is a lot of love to carry. T…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df2w6_tCIcr))
   - Photo: Description: The photograph shows a close-up of rough, irregularly shaped rocks arranged in a pile or pathway, with some gaps and shadows between them. Photograph read: The foreground rocks are in sharper focus than the background, which is softly blurred. Lighting appears natural and directional, casting shadows and highlights across the rock surfaces. The image has a shallow depth of field, with visible texture on the focused rocks. Photo type: Macro
+- **washugolf**:  ([link](https://www.threads.com/@washugolf/post/Df7gcWZo2aj))
+  - Photo: Description: A potted plant with a tall, flowering stalk and spiky green leaves sits on a table near a window with blinds. Other potted plants, including a cactus and a palm-like plant, are nearby. The scene is indoors, with dim lighting contrasting with bright window light. Photograph read: The image is taken from a slightly elevated angle, with strong backlighting from the window blinds creating high contrast. The foreground plant is in focus, but the background is darker and less detailed. The window blinds cast linear shadows across the scene. Photo type: Indoor still life
+    - Watch-outs: - The background area behind the main plant is dark and indistinct, obscuring details of the room. - The window blinds create strong, repeating shadows that reduce contrast and detail in the mid-ground and background.
+  - _Replying to: Week three and still waiting - the update will be worth it.…_
 - **kathleen_payne**: Thank you! It's a great memory of a wonderful day. ([link](https://www.threads.com/@kathleen_payne/post/Df3c6VXD_oI))
   - _Replying to: A top-off jeep ride across the Wapito - hard to beat. Thank…_
 - **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/Df2rRKFGIMt))
