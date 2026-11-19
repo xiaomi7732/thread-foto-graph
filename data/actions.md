@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (76)
+## Needs Reply (77)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **philwelch1961**:  ([link](https://www.threads.com/@philwelch1961/post/Df6ndPzpcOY))
+  - Photo: Description: A calm canal flanked by buildings and trees, with reflections visible on the water’s surface under a clear sky. Photograph read: The canal stretches into the distance, with buildings on both sides and trees showing autumnal color. Reflections are clear in the water, though some surface ripples and floating debris are visible. Lighting suggests late afternoon or early morning, with soft shadows and a clear sky. Photo type: Urban landscape
+  - Photo: Description: The photograph shows a long, symmetrical indoor hall with a central water channel flanked by sculptures on wooden platforms, under a high, arched ceiling with a large stained-glass window at the far end. Photograph read: The composition is symmetrical, with the water channel leading the eye toward the distant stained-glass window. Lighting is even and diffuse, with reflections visible on the water surface. The ceiling and walls are rendered with clear architectural lines, and the sculptures are visible but not sharply detailed. Photo type: Architectural
 - **andy.sutton.988**:  ([link](https://www.threads.com/@andy.sutton.988/post/Df6lJCJiNt1))
   - Photo: Description: A stone house with multiple windows and a dark roof is situated on a grassy slope, reflected in calm water in the foreground, with a large green hill rising behind it under a clear sky. Photograph read: The composition is symmetrical, with the house and its reflection centered. Lighting is bright and even, suggesting daylight. Rendering is clear enough to discern architectural features and textures, though some foliage and distant terrain lack fine detail. Photo type: Landscape
 - **jerseylilly**: Liverpool through a hotel window ([link](https://www.threads.com/@jerseylilly/post/Df6kQpIlgU6))

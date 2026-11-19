@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "17981155218129056",
-      "label": "photograph, photo, visible, type",
+      "label": "photograph, visible, photo, surface",
       "group": 0,
       "snippet": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped\u2026",
       "text": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped my scroll: John Douglas Palmer @jp.dynamicphotography - Milky Way lake reflection Shel Gatewood @shel_bee_g - longhorn pond reflection Jeremy Harris @jh1962bike - 300SL skyline reflection Elsabe Schoeman @apertureandartdotcom - canal sunrise reflection Conrad Skillen @stickyshutterphotography - bridge in still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df6mbRlDzTY/",
@@ -70,7 +70,7 @@
     },
     {
       "id": "18125516990067298",
-      "label": "photograph, photo, visible, type",
+      "label": "photograph, visible, photo, surface",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -81,8 +81,21 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 447,
+      "reply_count": 448,
       "replies": [
+        {
+          "username": "philwelch1961",
+          "text": "",
+          "permalink": "https://www.threads.com/@philwelch1961/post/Df6ndPzpcOY",
+          "photos": [
+            "Description: A calm canal flanked by buildings and trees, with reflections visible on the water\u2019s surface under a clear sky. Photograph read: The canal stretches into the distance, with buildings on both sides and trees showing autumnal color. Reflections are clear in the water, though some surface ripples and floating debris are visible. Lighting suggests late afternoon or early morning, with soft shadows and a clear sky. Photo type: Urban landscape",
+            "Description: The photograph shows a long, symmetrical indoor hall with a central water channel flanked by sculptures on wooden platforms, under a high, arched ceiling with a large stained-glass window at the far end. Photograph read: The composition is symmetrical, with the water channel leading the eye toward the distant stained-glass window. Lighting is even and diffuse, with reflections visible on the water surface. The ceiling and walls are rendered with clear architectural lines, and the sculptures are visible but not sharply detailed. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "andy.sutton.988",
           "text": "",
@@ -5331,7 +5344,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, photo, visible, type",
+      "label": "photograph, visible, photo, surface",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -5449,7 +5462,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, photo, visible, type",
+      "label": "photograph, visible, photo, surface",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
@@ -11001,7 +11014,7 @@
     },
     {
       "id": "17986768581121152",
-      "label": "photograph, photo, visible, type",
+      "label": "photograph, visible, photo, surface",
       "group": 0,
       "snippet": "Neighborhood find: a Plymouth Barracuda, parked up in a dri\u2026",
       "text": "Neighborhood find: a Plymouth Barracuda, parked up in a driveway and wearing its years out in the open. Dust on the hood, moss creeping over the mirror, chrome still shining through. It has not moved in a while - and honestly, it does not need to.",
