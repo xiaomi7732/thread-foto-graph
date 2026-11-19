@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (82)
+## Needs Reply (83)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/Df62vLWiiMk))
+  - Photo: Description: A wide river flows under a clear blue sky with wispy clouds, flanked by tree-lined banks and distant hills; a single yellow buoy floats near the center. Photograph read: The composition is horizontally oriented, with the river occupying the foreground and midground, and the sky dominating the upper third. Lighting is bright and even, suggesting midday. The water surface reflects the sky and trees with minimal distortion, indicating a calm scene. The image has a natural color balance and moderate resolution. Photo type: Landscape
 - **juliet.4066**:  ([link](https://www.threads.com/@juliet.4066/post/Df6vB5DDpWa))
   - Photo: Description: The image shows a shallow, murky body of water with floating and submerged leaves, alongside a white plastic object and a cylindrical pipe, viewed through a transparent surface that reflects surrounding elements. Photograph read: The image is taken from a high angle looking down into water, with visible reflections and refractions on the surface. Lighting is diffuse, casting a yellowish tint over the scene. The water’s murkiness reduces contrast and clarity of submerged objects. Photo type: Documentary
     - Watch-outs: - Water turbidity obscures fine detail of submerged leaves and objects, especially in the lower half of the frame. - Reflections and refractions on the transparent surface distort the view of the pipe and plastic object, making their shapes and edges indistinct.
