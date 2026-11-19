@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (87)
+## Needs Reply (82)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -25,27 +25,23 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A shallow pool of water reflects the sky and surrounding red rock formations, with a small evergreen tree growing near the water’s edge on a flat, textured rock surface. Photograph read: The image is taken from a low angle, capturing the water’s reflection and the expansive red rock landscape under a partly cloudy sky. Lighting appears natural and even, with no visible signs of flash or harsh shadows. The rendering preserves surface texture and color without apparent compression or noise. Photo type: Landscape
 - **sarahcahillsena**: Water in the desert is always an amazing site, but this one is extra beautiful ([link](https://www.threads.com/@sarahcahillsena/post/Df7VMRukVl1))
   - _Replying to: (photo reply, no text)_
+- **puffin.oo**: I spot the window with the banner inside and the reflection of the street. I wait half an hour there for a good subject to enter the frame. I got lucky to get this gesture and the matching colors / stripes ([link](https://www.threads.com/@puffin.oo/post/Df7VUncFnhk))
+  - _Replying to: That middle frame is the one - the footballer holds the who…_
 - **bedsheetcinema**:  ([link](https://www.threads.com/@bedsheetcinema/post/Df6-ureESM8))
   - Photo: Description: A close-up of a car’s side-view mirror, showing a textured, frosted surface, with a cracked asphalt road visible in the foreground and background. Photograph read: The mirror’s surface is covered in a patterned, reflective texture, likely from water or a film. The image has a muted color palette and soft focus, with visible grain or noise. Lighting is diffuse, casting no strong shadows or highlights. Photo type: Photographic
     - Watch-outs: The mirror’s surface is obscured by a textured, non-reflective layer, limiting visibility of reflected details. The foreground asphalt shows visible cracks, but the image lacks sharpness, reducing detail clarity.
+- **estella.haines**: It’s actually my reflection in a photograph at an exhibition at the museum of fine arts in Boston. It was just the way the glass and the art looked like it was blurred and mottled. It was one of those moments that struck me as a cool shot to take. ([link](https://www.threads.com/@estella.haines/post/Df7VV1Hlifx))
+  - _Replying to: The glass softens the whole gallery into a haze, and the ce…_
 - **jerseylilly**: Neither it was just a mucky window ([link](https://www.threads.com/@jerseylilly/post/Df7VKA0jTwG))
   - _Replying to: The red brick doubles in the water through the fogged glass…_
+- **billi_rubin**: Yes, I rotated it to sky side. There was 1 shot ([link](https://www.threads.com/@billi_rubin/post/Df7VnC6DZWQ))
+  - _Replying to: A whole pastel sky folded into one small mirror - was it al…_
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
   - Photo: Description: The photograph shows a tall building illuminated by warm, low-angle light, viewed through the silhouettes of tree branches in the foreground. The sky is hazy and uniformly lit, suggesting twilight or dawn. Photograph read: The composition is framed by dark, leafy branches in the foreground, with the building and a bright light source (likely the sun) behind them. The building’s windows reflect or emit light, creating a pattern of glowing points. The image has a soft, hazy quality, with no visible sharpness or defined focus. Photo type: Urban silhouette
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
-- **9w6she**: no, it's not planned... just having my dinner while capture it ... ([link](https://www.threads.com/@9w6she/post/Df6j06_E2Yv))
-  - _Replying to: That third frame is the one - the lights just pour themselv…_
-- **wj.fox**: Yes same pond just different angles. ([link](https://www.threads.com/@wj.fox/post/Df7IIxMHM2v))
-  - _Replying to: The branches double so cleanly the pond looks like a second…_
-- **fephi**: It’s my husband and grandson , went to watch the sunset and got lucky where everything lined up. Watching the sunset turned and saw their reflection, snap! ([link](https://www.threads.com/@fephi/post/Df6dZOYG-mh))
-  - _Replying to: The whole sunset folded itself into one car window - sky, s…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
-- **grayghostlife**: Yes all the time ([link](https://www.threads.com/@grayghostlife/post/Df6fnPWjs6D))
-  - _Replying to: Two fish for the price of one, and they meet nose to nose r…_
-- **rickjackoway**: It was. Not too hard but fortunately enough for them to use the umbrella and hurry across the steeet. ([link](https://www.threads.com/@rickjackoway/post/Df7C-GaoFXU))
-  - _Replying to: The neon gets a second showing in the wet street, and the u…_
 - **iwriteandedit**: Thanks for your kind comment! ([link](https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-))
   - _Replying to: Not as often as I used to but I still visit every two years…_
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
@@ -73,8 +69,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: hai delle foglie su una manica 😉_
 - **chicken_poop_shoes_**: Thank you, my pleasure! ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df7K-9qld1F))
   - _Replying to: Kayak ripples and all, the fourth one landed. Thanks for sh…_
-- **pennyhay83**: Just a lucky shot! ([link](https://www.threads.com/@pennyhay83/post/Df6v77pjU-1))
-  - _Replying to: That red and yellow beak gets a second showing in the water…_
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
   - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
     - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.
@@ -88,16 +82,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
   - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
-- **my_tiny_kingdom**: I was just taking pictures all over the building (it was like an old barn in my ex in-law's property) and I was trying to see if I could see in the window and that's when I noticed how beautifully the tree was reflected in the remaining panes. ([link](https://www.threads.com/@my_tiny_kingdom/post/Df66WMOG9Me))
-  - _Replying to: The broken panes do half the work - the bare branches fill …_
 - **jammy.kollings**: Yes-just like glass all day ([link](https://www.threads.com/@jammy.kollings/post/Df6RPpGlLLR))
   - _Replying to: The reflections run the full length of the frame, and that …_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
   - _Replying to: The peaks come back so sharply the lake reads like a second…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
   - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
-- **suz_sharperphotos**: The ripples were about to settle, I got there just in time. Too bad I wasn’t a minute earlier to fit the entire circle into the frame. I still like the outcome, however. ([link](https://www.threads.com/@suz_sharperphotos/post/Df7ONMpkREm))
-  - _Replying to: That swan is trailing its own reflection like a ribbon, and…_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
