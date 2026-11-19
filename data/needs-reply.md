@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (98)
+## Needs Reply (99)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **annes_garden_flowers**:  ([link](https://www.threads.com/@annes_garden_flowers/post/Df51kcsFCzT))
+  - Photo: Description: The photograph shows a sunlit ocean surface with waves breaking near a rocky shoreline, under a clear sky with the sun positioned high and casting a bright glare across the water. Photograph read: The sun is centered in the upper portion of the frame, emitting a strong glare with visible lens flare. The horizon is defined by a thin line of clouds, and the sea reflects the sun’s light as a bright path. The foreground rocks are dark and wet, with some surface texture visible but not sharply detailed. Photo type: Landscape
 - **tiabird_brain23**:  ([link](https://www.threads.com/@tiabird_brain23/post/Df5z5XHGcJ7))
   - Photo: Description: A calm lake reflects a forested shoreline in autumn colors, with trees displaying orange, yellow, and green foliage under a partly cloudy sky; a small stone building and dock are visible on the right. Photograph read: The composition is symmetrical, with the lake’s surface mirroring the trees and sky. Lighting is bright and even, suggesting midday. Rendering is clear, with natural color saturation and sharp detail in the trees and reflections. Photo type: Landscape
   - Photo: Description: A calm body of water reflects a forested hillside in autumnal colors, with trees displaying red, orange, yellow, and green foliage under a clear blue sky. Photograph read: The composition is symmetrical, with the water’s surface mirroring the treeline. Lighting is bright and even, suggesting midday. Rendering is clear, with distinct color saturation and sharpness in the foliage and its reflection. Photo type: Landscape
