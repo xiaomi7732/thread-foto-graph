@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (105)
+## Needs Reply (107)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Df7s8Kykgok))
+  - Photo: Description: A close-up photograph features a prickly pear cactus with multiple green pads, some showing signs of decay or damage, set against a backdrop of trees and a dirt path. A yucca plant is visible in the mid-ground. Photograph read: The image is taken at natural daylight with moderate contrast. The cactus pads are in focus, but the background is softly blurred. The lighting is even, with no obvious overexposure or underexposure. Photo type: Natural
+    - Watch-outs: - The leftmost pad has a large, irregularly shaped hole, obscuring part of its surface texture and making it difficult to discern fine detail within the damaged area. - Some pads show dark, discolored patches and visible cracks, which reduce the clarity of surface texture and may obscure the distribution of spines.
 - **sma81**:  ([link](https://www.threads.com/@sma81/post/Df7r_welOP4))
   - Photo: Description: A hand with light pink nails, one of which reads "love," holds a small, heart-shaped, speckled stone in the foreground, with a blurred figure in green pants and a dark top crouching on a rocky beach in the background, near water. Photograph read: The foreground is in focus, showing the hand and stone clearly, while the background is significantly out of focus, obscuring details of the person and the beach. Lighting appears natural and diffused, with no visible harsh shadows or overexposure. The image has a shallow depth of field, with no apparent digital artifacts or color distortion. Photo type: Portrait
     - Watch-outs: The background figure is indistinct due to blur, making facial features and specific actions unreadable. The foreground stone’s surface texture is partially obscured by the shallow depth of field and minor focus softness, reducing fine detail visibility.
@@ -46,6 +49,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
   - _Replying to: Thank you - that frosty heart stopped my scroll._
+- **fabienne_journey**: Another day, with the same heart ([link](https://www.threads.com/@fabienne_journey/post/Df7tPT1jrzo))
+  - Photo: Description: A residential street at dusk, featuring a red Volkswagen hatchback parked on a paved road, with a dark brick house and a black van visible to its right, under a sky filled with orange and yellow clouds. Photograph read: The sky dominates the upper portion of the frame with streaky cloud formations illuminated by the setting sun. The foreground and midground are dimly lit, with the red car and house appearing as silhouettes or low-contrast subjects. A streetlamp and a pole are visible, but no discernible motion or depth blur is apparent. Photo type: Urban landscape
+  - _Replying to: Heart shaped cloud._
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
