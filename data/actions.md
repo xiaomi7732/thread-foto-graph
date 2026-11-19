@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (109)
+## Needs Reply (110)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **artisticdezine**:  ([link](https://www.threads.com/@artisticdezine/post/Df7zzC4mN7_))
@@ -34,6 +34,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the curve is the whole photo - that pipe bending aw…_
 - **bongapostol**: Its a bar ([link](https://www.threads.com/@bongapostol/post/Df7y_mNiThY))
   - _Replying to: Striped cones and glowing rings all over the ceiling - is t…_
+- **jcallenderphotography**: Not sure but one thought is that it is a gall that formed on the stem tip. If it were a seed pod, it should’ve opened by March when I photographed it. ([link](https://www.threads.com/@jcallenderphotography/post/Df71k6YAal_))
+  - _Replying to: That speckled skin against the soft brown blur - a whole li…_
 - **ulrike6417**: Ich war auf einer Fähre durch die Kieler Förde, als die Quallen aufgetaucht sind! Ich finde sie sehr interessant! ([link](https://www.threads.com/@ulrike6417/post/Df7xUFgkSVK))
   - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))

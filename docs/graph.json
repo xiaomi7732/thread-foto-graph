@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 166,
+      "reply_count": 167,
       "replies": [
         {
           "username": "artisticdezine",
@@ -854,7 +854,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jcallenderphotography",
+                  "text": "Not sure but one thought is that it is a gall that formed on the stem tip. If it were a seed pod, it should\u2019ve opened by March when I photographed it.",
+                  "permalink": "https://www.threads.com/@jcallenderphotography/post/Df71k6YAal_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
