@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (101)
+## Needs Reply (103)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **shellscorer**: I found this dog on the beach in Norfolk 😊🐶 ([link](https://www.threads.com/@shellscorer/post/Df7rMSMiLNQ))
+  - Photo: Description: A light blue, bulb-shaped object with a dark patch on its surface rests on sandy ground, surrounded by small pebbles and debris. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The subject is in focus, but the image has a slightly soft resolution, with minimal visible texture or sharpness in the surrounding sand. Photo type: Documentary
 - **kelzkidz03**:  ([link](https://www.threads.com/@kelzkidz03/post/Df7q49PDjdp))
   - Photo: Description: A covered wooden deck with a long dining table and outdoor seating overlooks a dense forest and distant mountain range under a twilight sky. Photograph read: The image is lit by recessed ceiling lights and string lights along the railing. The ceiling and railings are made of wood, and the scene includes potted plants and a fire pit area. The lighting is even across the deck, with no visible shadows or contrast extremes. Photo type: Architectural
   - Photo: Description: A single dry, heart-shaped leaf lies on a paved surface, with its stem still attached, adjacent to a narrow crack containing moss and small green plants. Photograph read: The image is captured from a high angle, with even, diffuse lighting that casts soft shadows. The leaf’s veins and surface texture are visible, but the image has a slightly grainy appearance and muted color saturation. Photo type: Natural
@@ -39,6 +41,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
 - **brownieone**: It looks like it , it’s not a spiral 😊 ([link](https://www.threads.com/@brownieone/post/Df7qve6CO5N))
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
+- **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
+  - _Replying to: Thank you - that frosty heart stopped my scroll._
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
