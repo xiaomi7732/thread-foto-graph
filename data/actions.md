@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (83)
+## Needs Reply (84)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
@@ -75,6 +75,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A quiet sunrise all to yourself is the best kind._
 - **giugiovivi**:  ([link](https://www.threads.com/@giugiovivi/post/Df5d9j3DcSx))
   - Photo: Description: A woman in a fur coat and high heels stands on a paved sidewalk beside a brick wall and a window with patterned curtains; only her lower body and partial upper body are visible. Photograph read: The image is in black and white, with high contrast between the dark fur, shoes, and structural elements against the lighter brick and pavement. The composition is framed by vertical elements, and the lighting appears direct, casting clear shadows. Photo type: Street photography
+- **baatkeeper**: hai delle foglie su una manica 😉 ([link](https://www.threads.com/@baatkeeper/post/Df64IovjL24))
+  - _Replying to: (photo reply, no text)_
 - **pennyhay83**: Just a lucky shot! ([link](https://www.threads.com/@pennyhay83/post/Df6v77pjU-1))
   - _Replying to: That red and yellow beak gets a second showing in the water…_
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))

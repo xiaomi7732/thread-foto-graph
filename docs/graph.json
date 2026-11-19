@@ -102,7 +102,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 452,
+      "reply_count": 453,
       "replies": [
         {
           "username": "marysticht79",
@@ -1754,7 +1754,18 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "baatkeeper",
+              "text": "hai delle foglie su una manica \ud83d\ude09",
+              "permalink": "https://www.threads.com/@baatkeeper/post/Df64IovjL24",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "chicken_poop_shoes_",
