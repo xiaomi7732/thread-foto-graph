@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 57,
+      "reply_count": 59,
       "replies": [
+        {
+          "username": "vuurenbernadettevan",
+          "text": "Heart shadow, tiny but its there!",
+          "permalink": "https://www.threads.com/@vuurenbernadettevan/post/Df7f8MTkSpz",
+          "photos": [
+            "Description: A single white and purple iris flower with green buds and long leaves is centered in the frame, set against dry, cracked earth and blurred green foliage in the background. Photograph read: The image is taken from a low angle, with strong sunlight casting distinct shadows on the ground. The main flower is in focus, while the background and surrounding leaves are softly blurred. The rendering is natural, with no visible signs of digital artifacts or color distortion. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "helskinky",
           "text": "Pholiota squarrosa",
@@ -235,7 +247,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "suzanne_raimondi_gallagher",
+                  "text": "Those stones are the edge of our garden which our grandkids thought was a nice resting place for it. We spotted it last year on an early morning walk on the beach. It was all alone on the sand.",
+                  "permalink": "https://www.threads.com/@suzanne_raimondi_gallagher/post/Df7fkFlG1KD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

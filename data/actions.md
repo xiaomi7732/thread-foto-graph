@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (100)
+## Needs Reply (102)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **vuurenbernadettevan**: Heart shadow, tiny but its there! ([link](https://www.threads.com/@vuurenbernadettevan/post/Df7f8MTkSpz))
+  - Photo: Description: A single white and purple iris flower with green buds and long leaves is centered in the frame, set against dry, cracked earth and blurred green foliage in the background. Photograph read: The image is taken from a low angle, with strong sunlight casting distinct shadows on the ground. The main flower is in focus, while the background and surrounding leaves are softly blurred. The rendering is natural, with no visible signs of digital artifacts or color distortion. Photo type: Natural
 - **helskinky**: Pholiota squarrosa ([link](https://www.threads.com/@helskinky/post/Df7fPedkVdh))
   - Photo: Description: A cluster of orange-brown, textured fungi with a bumpy, scale-like cap surface grows among damp leaves and dark soil. The fungi are in close proximity, with some overlapping or partially obscured. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central mushroom. Lighting is diffuse, casting soft shadows and highlighting the surface texture. The rendering preserves fine surface detail on the fungi, though the background is out of focus. Photo type: Macro
 - **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/Df7eoE7IGNf))
@@ -32,6 +34,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A circular metal manhole cover with a grid of small holes is set into a paved surface made of interlocking concrete slabs. Several dry, brown leaves and a few green leaves are scattered around and on the cover. Photograph read: The image is taken from a high angle, with even, bright daylight illuminating the scene. The manhole cover and surrounding pavement are in sharp focus, with no visible motion blur or softness. The rendering preserves fine surface textures, including rust, screw heads, and leaf details. Photo type: Documentary
 - **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/Df7bBdLG3Xh))
   - Photo: Description: A single, dried maple leaf with red and brown hues lies on a dark, textured surface, possibly asphalt or pavement, with small debris scattered nearby. Photograph read: The leaf is in focus with visible veins and edges, illuminated by direct light casting a shadow. The background shows surface texture and minor debris. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Documentary
+- **suzanne_raimondi_gallagher**: Those stones are the edge of our garden which our grandkids thought was a nice resting place for it. We spotted it last year on an early morning walk on the beach. It was all alone on the sand. ([link](https://www.threads.com/@suzanne_raimondi_gallagher/post/Df7fkFlG1KD))
+  - _Replying to: From a lonely beach to pride of place in the garden - that …_
 - **carocaluwe263**: First I see the color and later the little heart. It was just a random picture... ([link](https://www.threads.com/@carocaluwe263/post/Df7e0rjjr_i))
   - _Replying to: A heart punched clean through an oak leaf, and the leaf jus…_
 - **hannele.heikkinen**: I spotted the figures while out for a walk, they had formed a crack in the ice right alongside the bridge. I always look at rivers and other watery spots—the ice, thin crust, cracks, reflections. I was out at just the right time, on my way back, they were already covered in snow. ([link](https://www.threads.com/@hannele.heikkinen/post/Df7bag4DuY4))
