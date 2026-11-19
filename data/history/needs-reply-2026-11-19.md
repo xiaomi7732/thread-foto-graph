@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (82)
+## Needs Reply (83)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -27,6 +27,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **puffin.oo**: I spot the window with the banner inside and the reflection of the street. I wait half an hour there for a good subject to enter the frame. I got lucky to get this gesture and the matching colors / stripes ([link](https://www.threads.com/@puffin.oo/post/Df7VUncFnhk))
   - _Replying to: That middle frame is the one - the footballer holds the who…_
+- **achtung_wildwechsel**: Yes, it was very foggy that morning ([link](https://www.threads.com/@achtung_wildwechsel/post/Df7XQJZDBPK))
+  - Photo: Description: A misty river scene with a stone arch bridge visible in the background, partially obscured by fog; tree branches with green leaves frame the top left corner, and reflections of the bridge and trees are visible on the water’s surface. Photograph read: The image is dominated by atmospheric haze, reducing contrast and obscuring fine detail. Reflections on the water are slightly distorted due to gentle ripples. The lighting is diffuse and even, with no strong directional highlights or shadows. The composition is layered, with foreground branches, midground water, and background bridge and trees. Photo type: Atmospheric landscape
+    - Watch-outs: - The entire image appears blurred; fine detail is not distinguishable, particularly in the background bridge and distant trees. - Reflections on the water show reduced clarity and distortion due to surface ripples, obscuring sharp edges of the bridge and tree silhouettes.
+  - _Replying to: The viaduct doubles itself in the mist, arches and all, and…_
 - **bedsheetcinema**:  ([link](https://www.threads.com/@bedsheetcinema/post/Df6-ureESM8))
   - Photo: Description: A close-up of a car’s side-view mirror, showing a textured, frosted surface, with a cracked asphalt road visible in the foreground and background. Photograph read: The mirror’s surface is covered in a patterned, reflective texture, likely from water or a film. The image has a muted color palette and soft focus, with visible grain or noise. Lighting is diffuse, casting no strong shadows or highlights. Photo type: Photographic
     - Watch-outs: The mirror’s surface is obscured by a textured, non-reflective layer, limiting visibility of reflected details. The foreground asphalt shows visible cracks, but the image lacks sharpness, reducing detail clarity.
