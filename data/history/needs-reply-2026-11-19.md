@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (120)
+## Needs Reply (121)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **sherriebcrow**:  ([link](https://www.threads.com/@sherriebcrow/post/Df7-bwwGVsi))
+  - Photo: Description: The photograph shows a rugged, reddish-orange rock formation with multiple hollows and irregular surfaces, with a hiker visible in the upper left background among sparse vegetation. Photograph read: The image is taken from a low angle, capturing the textured rock face with natural daylight. Lighting is even, with no obvious shadows or overexposure. The composition emphasizes the rock’s contours and openings, with the hiker appearing small and distant. Photo type: Natural landscape
 - **rmrashotte**: A perfect fit… ([link](https://www.threads.com/@rmrashotte/post/Df790oJljHy))
   - Photo: Description: The image shows a close-up view of irregularly shaped, textured stone pavers arranged in a grid pattern, with a small twig lying in a gap between them. Photograph read: The lighting is directional, casting distinct shadows in the gaps between pavers. The surface texture of the stones is visible, and the composition is a flat, top-down perspective with no visible lens distortion or motion blur. Photo type: Documentary
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
