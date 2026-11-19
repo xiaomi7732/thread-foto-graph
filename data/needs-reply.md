@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (95)
+## Needs Reply (96)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -95,6 +95,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **giugiovivi**: E’ il riflesso dentro / fuori che veniva richiesto ([link](https://www.threads.com/@giugiovivi/post/Df64vKjDfKv))
   - _Replying to: hai delle foglie su una manica 😉_
+- **chicken_poop_shoes_**: Thank you, my pleasure! ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df7K-9qld1F))
+  - _Replying to: Kayak ripples and all, the fourth one landed. Thanks for sh…_
 - **pennyhay83**: Just a lucky shot! ([link](https://www.threads.com/@pennyhay83/post/Df6v77pjU-1))
   - _Replying to: That red and yellow beak gets a second showing in the water…_
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
