@@ -1,6 +1,74 @@
 {
   "nodes": [
     {
+      "id": "17981155218129056",
+      "label": "photograph, photo, visible, type",
+      "group": 0,
+      "snippet": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped\u2026",
+      "text": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped my scroll: John Douglas Palmer @jp.dynamicphotography - Milky Way lake reflection Shel Gatewood @shel_bee_g - longhorn pond reflection Jeremy Harris @jh1962bike - 300SL skyline reflection Elsabe Schoeman @apertureandartdotcom - canal sunrise reflection Conrad Skillen @stickyshutterphotography - bridge in still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df6mbRlDzTY/",
+      "permalink": "https://www.threads.com/@saars.foto/post/Df6moPikT7C",
+      "photos": [
+        "Description: A starry night sky with the Milky Way arching across the upper frame, reflected in a calm body of water below, with a dark, snow-capped mountain and treeline silhouetted against the horizon. Photograph read: The composition is symmetrical, with the sky and its reflection occupying the upper and lower halves. The mountain and treeline form a dark horizontal band. The sky is densely populated with stars and the Milky Way\u2019s diffuse glow. The water surface is smooth, mirroring the celestial elements with minimal distortion. Photo type: Night landscape",
+        "Description: Two brown cattle with horns stand on dry, earthy ground beside a body of water, with their reflections visible in the calm surface. Photograph read: The image is divided horizontally by a wire, with the upper half showing the animals and the lower half showing their reflections. Lighting is bright and even, casting clear shadows. Reflections are relatively sharp, though slightly distorted by ripples. The water surface shows some green vegetation partially submerged. Photo type: Natural landscape",
+        "Description: The photograph shows a close-up, low-angle view of the glossy hood of a Mercedes-Benz 300 SL, with reflections of urban buildings and a cloudy sky visible on its surface. Photograph read: The image is in black and white, with high contrast between the reflective surface and the dark reflections. The composition is centered on the car\u2019s emblem and badge, with the reflections creating a distorted, symmetrical urban scene. Lighting appears to be natural daylight, with highlights on the chrome elements and deep shadows in the reflections. Photo type: Reflections",
+        "Description: A tranquil canal scene at sunset, flanked by traditional thatched-roof houses and a prominent tree, with the sun\u2019s glow reflected in the still water. Photograph read: The composition is centered on the canal\u2019s reflection, with warm backlighting from the sun creating silhouettes and a bright flare. The water surface is smooth, mirroring the sky and structures. Details of the houses and tree are visible as dark shapes against the bright background. Photo type: Landscape",
+        "Description: A cable-stayed bridge with two tall pylons spans a body of water, its reflection mirrored in a calm, shallow pool in the foreground. A large ship is visible in the distance on the water, with a grassy bank separating the foreground from the bridge. Photograph read: The composition is vertically oriented, with the bridge and its reflection occupying the central vertical axis. Lighting suggests late afternoon or early morning, with warm tones on the bridge pylons and a clear blue sky above. The water surface is still, allowing a near-perfect reflection. The rendering is sharp in the bridge and reflection areas, with no visible motion blur or chromatic aberration. Photo type: Architectural"
+      ],
+      "reply_count": 5,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "@jp.dynamicphotography Your Milky Way lake opens the Reflection Wednesday favorites - the mountain and the galaxy both landing twice. How long was the exposure, and how still did the night have to be for the stars to hold in the water?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df6myAqkYNP",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@shel_bee_g Your longhorns are slide two of the Reflection Wednesday favorites - two for the price of four, horns and all. Do they come down to this pond every day?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df6mwBvlvvS",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@jh1962bike Your 300SL shot is the middle slide of the Reflection Wednesday favorites - a whole skyline bent around that badge. Did you spot the reflection first, or were you shooting the car and the city arrived on its own?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df6muKjkbXC",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@apertureandartdotcom Your canal sunrise is slide four of the Reflection Wednesday favorites - the whole street doubled without a ripple. How early were you out there, and how often is it that calm?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df6msQtFg5Q",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@stickyshutterphotography Your bridge shot closes the Reflection Wednesday favorites - the pylons and cables complete themselves in that channel. How long did you wait for the water to go that glassy?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df6mqLcljjK",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "18125516990067298",
       "label": "photograph, photo, visible, type",
       "group": 0,
@@ -11016,15 +11084,19 @@
   ],
   "edges": [
     {
-      "from": "18125516990067298",
+      "from": "17981155218129056",
+      "to": "18125516990067298"
+    },
+    {
+      "from": "17981155218129056",
       "to": "17978841804171278"
     },
     {
-      "from": "18125516990067298",
+      "from": "17981155218129056",
       "to": "18120910145083329"
     },
     {
-      "from": "18125516990067298",
+      "from": "17981155218129056",
       "to": "17986768581121152"
     }
   ]
