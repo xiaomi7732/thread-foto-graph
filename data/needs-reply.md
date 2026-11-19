@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (100)
+## Needs Reply (101)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **ritaveeps**:  ([link](https://www.threads.com/@ritaveeps/post/Df7TYIDkcL8))
+  - Photo: Description: The image shows the Elora Mill building situated beside a calm body of water, with reflections visible on the surface. Surrounding trees display autumnal colors, and a modern structure with balconies is visible to the right. Photograph read: The composition is centered on the mill, with the water in the foreground reflecting the building and sky. Lighting is diffuse, suggesting an overcast day, with no strong directional shadows. The rendering is clear enough to identify architectural features and foliage, though the water surface has slight ripples. Photo type: Documentary
 - **lgmineo**:  ([link](https://www.threads.com/@lgmineo/post/Df7S7cTG12R))
   - Photo: Description: A silhouette of a person stands on a wet beach facing the ocean at sunset, with the sun low on the horizon casting a golden glow across the water and sand. Photograph read: The composition centers the figure against a wide expanse of sea and sky. The sun is a distinct, bright disc, and its reflection glints on the water and sand. The image has a warm color cast and moderate contrast, with the subject rendered as a dark shape. Photo type: Surreal
 - **tnakluck**:  ([link](https://www.threads.com/@tnakluck/post/Df7S3kVFrx8))
