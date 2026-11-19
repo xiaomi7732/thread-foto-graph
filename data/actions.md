@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (90)
+## Needs Reply (92)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **nickiddon**:  ([link](https://www.threads.com/@nickiddon/post/Df7CWstDWS4))
+  - Photo: Description: A group of four people stand on a long, flat wooden structure floating on a vast, mirror-like body of water, with their reflections inverted below. The sky above is filled with scattered white clouds against a pale blue backdrop. Photograph read: The composition is symmetrical, with the horizon line dividing the sky and its reflection. Lighting is even and diffuse, suggesting an overcast or high-altitude sun. The rendering is soft, with visible grain and slight color cast, typical of film or analog capture. Photo type: Film photograph
 - **louisarobyn**: Teamlabs, Tokyo, Japan ([link](https://www.threads.com/@louisarobyn/post/Df6_ON-CN_r))
   - Photo: Description: The image shows a low-angle, inverted view of several people standing inside a mirrored or reflective installation filled with numerous bright, vertical light strands, creating a starburst effect radiating from the center. Photograph read: The composition is radial, with light strands converging toward the center. Lighting is high-contrast, with bright reflections dominating the frame. The rendering is distorted due to the perspective and reflections, with visible fisheye or wide-angle distortion. Reflections of people are visible, but their features are not clearly defined. Photo type: Abstract
 - **bedsheetcinema**:  ([link](https://www.threads.com/@bedsheetcinema/post/Df6-ureESM8))
@@ -118,6 +120,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Where is this?_
 - **abnerabel125**: You’re very welcome . ([link](https://www.threads.com/@abnerabel125/post/Df5HikTmykn))
   - _Replying to: Small harbors hold the best quiet. Thanks for sharing it._
+- **heamuch**: A beautifully picturesque little town!!! And the brewery has an amazing non alcoholic beer with a pinch of lime (I was the DD) that’s I’ve ever tasted. Everyone should visit there once! ([link](https://www.threads.com/@heamuch/post/Df7B53IFZBk))
+  - _Replying to: St John’s, Newfoundland 🇨🇦 Quidi Vidi_
 - **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
   - _Replying to: (photo reply, no text)_
 - **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))
