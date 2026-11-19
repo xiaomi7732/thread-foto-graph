@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (115)
+## Needs Reply (116)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **32groove**:  ([link](https://www.threads.com/@32groove/post/Df8FvbvD0TE))
@@ -171,6 +171,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Small harbors hold the best quiet. Thanks for sharing it._
 - **heamuch**: A beautifully picturesque little town!!! And the brewery has an amazing non alcoholic beer with a pinch of lime (I was the DD) that’s I’ve ever tasted. Everyone should visit there once! ([link](https://www.threads.com/@heamuch/post/Df7B53IFZBk))
   - _Replying to: St John’s, Newfoundland 🇨🇦 Quidi Vidi_
+- **patricahewitt**: Agreed! We rather enjoy the place too; as a matter of fact my daughter got married there! ([link](https://www.threads.com/@patricahewitt/post/Df8Hlg0nx4L))
+  - _Replying to: A beautifully picturesque little town!!! And the brewery ha…_
 - **nick.hollands.338**: Great picture Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df47tZhCqcV))
   - _Replying to: (photo reply, no text)_
 - **nick.hollands.338**: You are welcome Denise ([link](https://www.threads.com/@nick.hollands.338/post/Df48zY_itnF))

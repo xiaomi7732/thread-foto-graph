@@ -2922,7 +2922,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 519,
+      "reply_count": 520,
       "replies": [
         {
           "username": "judmacd",
@@ -8413,7 +8413,18 @@
               "needs_response": true,
               "action": "reply",
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "patricahewitt",
+                  "text": "Agreed! We rather enjoy the place too; as a matter of fact my daughter got married there!",
+                  "permalink": "https://www.threads.com/@patricahewitt/post/Df8Hlg0nx4L",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "ken.murphy.52831",
