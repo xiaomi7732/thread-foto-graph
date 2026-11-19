@@ -22,6 +22,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
   - Photo: Description: The photograph shows a tall building illuminated by warm, low-angle light, viewed through the silhouettes of tree branches in the foreground. The sky is hazy and uniformly lit, suggesting twilight or dawn. Photograph read: The composition is framed by dark, leafy branches in the foreground, with the building and a bright light source (likely the sun) behind them. The building’s windows reflect or emit light, creating a pattern of glowing points. The image has a soft, hazy quality, with no visible sharpness or defined focus. Photo type: Urban silhouette
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
+- **9w6she**: no, it's not planned... just having my dinner while capture it ... ([link](https://www.threads.com/@9w6she/post/Df6j06_E2Yv))
+  - _Replying to: That third frame is the one - the lights just pour themselv…_
 - **fephi**: It’s my husband and grandson , went to watch the sunset and got lucky where everything lined up. Watching the sunset turned and saw their reflection, snap! ([link](https://www.threads.com/@fephi/post/Df6dZOYG-mh))
   - _Replying to: The whole sunset folded itself into one car window - sky, s…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
@@ -63,9 +65,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
   - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
-- **thatguyale**: Most of my pics are all while walking this guy ([link](https://www.threads.com/@thatguyale/post/Df5-zlNGCXS))
-  - Photo: Description: A brown and white American Bully-type dog with a wrinkled face and protruding tongue stands on a paved surface, wearing a red harness with an orange collar; the background is out-of-focus green foliage. Photograph read: The image is a close-up portrait with shallow depth of field, focusing sharply on the dog’s face and upper body. Lighting is even and natural, likely daylight, with no visible shadows or overexposure. The background is softly blurred, and the dog’s fur texture and facial wrinkles are discernible. Photo type: Portrait
-  - _Replying to: A parked car and a dog walk - a good eye for the everyday._
 - **jammy.kollings**: Yes-just like glass all day ([link](https://www.threads.com/@jammy.kollings/post/Df6RPpGlLLR))
   - _Replying to: The reflections run the full length of the frame, and that …_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
