@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (100)
+## Needs Reply (101)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **titan_actual86**:  ([link](https://www.threads.com/@titan_actual86/post/Df7xdpVoMjj))
+  - Photo: Description: The photograph shows a view of a deep blue sky with scattered white clouds, framed by dark tree silhouettes at the bottom and a partial architectural element in the upper left corner. Photograph read: The composition is vertical, with the sky occupying most of the frame. Lighting appears natural and diffused, casting soft shadows within the clouds. The rendering has a slightly desaturated, cool-toned color palette with visible texture in the clouds and foliage. Photo type: Aesthetic landscape
 - **kes_ward**: More by luck this one but the little heart in this tiny soap bubble that looks like an alien planet out in the universe somewhere. ([link](https://www.threads.com/@kes_ward/post/Df7w25tjHlV))
   - Photo: Description: A spherical object with swirling, iridescent patterns of blue, purple, yellow, and orange dominates the lower portion of the frame against a solid black background. Photograph read: The subject is illuminated from above, creating a bright, smooth highlight along its upper curve. The surface displays fluid, abstract color patterns with no discernible texture or structure. The image is sharp and well-defined within the subject area, with no visible signs of motion blur, focus issues, or sensor noise. Photo type: Abstract
 - **storycatcher52**: Fresh cheese in the aging room at Cowgirl Creamery Point Reyes California ([link](https://www.threads.com/@storycatcher52/post/Df7wh48lKyT))
