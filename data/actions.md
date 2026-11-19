@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (87)
+## Needs Reply (88)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
+- **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
+  - _Replying to: @jh1962bike Your 300SL shot is the middle slide of the Refl…_
 - **apertureandartdotcom**: I was out and about in a crisp April morning. Just turned spring. I can check the time on my raws if you want? My daughter and I drove from Tilburg to Giethoorn for me to take pictures of the awesomeness. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tzFmkQaB))
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 - **apertureandartdotcom**: That is actually a canal. The whole town of Giethoorn is built on canals. You either float or walk. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tcd2kWa5))
