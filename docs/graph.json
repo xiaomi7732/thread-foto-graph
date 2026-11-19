@@ -13,7 +13,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 393,
+      "reply_count": 409,
       "replies": [
         {
           "username": "donzela",
@@ -37,10 +37,21 @@
           "photos": [
             "Description: A sunset over a beach with the sun low on the horizon, casting a warm glow across the sky and reflecting on wet sand; ocean waves are visible in the midground. Photograph read: The composition is horizontal, with the sun centered near the horizon, and its reflection clearly visible on the wet sand in the foreground. The sky shows a gradient from orange near the sun to pale yellow and gray above. The waves are moderately defined, and the sand\u2019s surface is smooth and reflective. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The sun gets a second showing on the wet sand, small and bright, while the waves keep the horizon busy. Was the tide just going out when you took this?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XccqDswJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "khoojosie",
@@ -49,10 +60,21 @@
           "photos": [
             "Description: A calm lake reflects a distant, rugged mountain range and a forested shoreline under a pale sky, with a rocky shore and pine branches visible in the foreground. Photograph read: The composition is symmetrical, with the lake\u2019s surface mirroring the mountains and trees. Lighting is even and diffuse, suggesting an overcast or hazy day. The rendering is clear, with no visible motion blur or chromatic aberration. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How still does a lake have to be to hand the whole mountain range back like that? The forest doubles itself right down to the shore.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6Xg2oFgF_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "alaska.photographer",
@@ -64,10 +86,21 @@
           "watch_outs": [
             "- Motion blur affects the bird\u2019s head and beak, reducing fine detail. - Reflections in the water partially obscure the bird\u2019s actual form, especially the head and neck."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is the grebe upside down, or did you flip the frame? The reflection makes it hard to tell, and the chick tucked under the beak is the quiet prize. How close were you for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XiGgFZ0s",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "9w6she",
@@ -85,10 +118,21 @@
             "- The entire image appears blurred; fine detail is not distinguishable, affecting both the buildings and their reflections. - The palm trees and shoreline are indistinct, with low contrast and lack of definition in foliage and structure.",
             "- Whole-image blur: Fine detail on the boat and buildings is indistinct, with soft edges and lack of sharpness. - Low contrast in water reflections: Reflections appear as streaks and smudges rather than clear, detailed images of the illuminated structures."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That third frame is the one - the lights just pour themselves down the water in a straight gold line. Was the night pair planned, or did the first two lead you there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XjKvEdDk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "skymomma_rocks",
@@ -97,10 +141,21 @@
           "photos": [
             "Description: The photograph shows a vehicle\u2019s side-view mirror reflecting a bridge and surrounding landscape, with the main subject being the mirror and its reflection, set against a clear blue sky and highway. Photograph read: The image is taken from inside a vehicle, with the mirror and window frame in the foreground. Reflections in the mirror show a bridge structure and traffic, while the exterior view reveals a highway and distant buildings. Lighting is bright and even, suggesting daytime. The rendering is clear, with no visible distortion or motion blur. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The bridge cables land in the top mirror and the traffic hides in the little one below - a whole crossing in one housing. What made you look at the mirror on that crossing?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XkWSG3gC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "oneillwendie",
@@ -112,10 +167,21 @@
           "watch_outs": [
             "The entire image appears blurred; fine detail is not distinguishable. The reflection of the person and shelves is indistinct due to the curvature and distortion of the mirror, which prevents clear identification of objects or features."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A washing-machine knob doing mirror duty, and the orange vest lands right in the middle of it. Was that a pose, or did the knob just catch them mid-aisle?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XlZHlDIE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wj.fox",
@@ -141,10 +207,21 @@
           "photos": [
             "Description: The image shows a car\u2019s side-view mirror reflecting a dirt road, a field with autumn-colored trees, and a forested hill under a blue sky. The outer edge of the frame includes green trees and a gravel shoulder. Photograph read: The mirror\u2019s reflection captures a clear, bright outdoor scene with natural lighting. The mirror\u2019s edge frames the image, and the car\u2019s body is visible in the reflection. The reflection shows good contrast and detail, with no visible distortion or chromatic aberration. Photo type: Reflection"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The gold trees do all the talking in the glass, and the dirt road just leads the eye to them. Was the mirror the plan, or did the autumn catch you by surprise?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XqWMG6m5",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fephi",
@@ -168,10 +245,21 @@
           "photos": [
             "Description: Two brown, horned bovines stand on a dry, earthy bank beside a body of water, with their reflections visible in the surface. A thick rope or cable runs horizontally across the foreground, partially obscuring the view. Photograph read: The image is composed with the animals in the midground and their reflections in the foreground. Lighting appears natural and direct, casting clear shadows. The water surface shows gentle ripples, distorting reflections slightly. The rendering is clear enough to identify the subjects and their immediate surroundings. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two for the price of four - the pond doubles the whole pair, horns and all, right under the wire. Do they come down to this spot often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XrxEm2uC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bluntnelson",
@@ -183,10 +271,21 @@
           "watch_outs": [
             "Reflections obscure exterior details; the dark door and wall interior are visible but not distinct from the window\u2019s own surface. The parking lot and distant lights are visible but lack sharpness and detail due to low-light conditions."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The window holds two scenes in one pane - the dark door from inside, the parking lot and dusk sky from outside. Which of the two did you spot first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XstaFLTh",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "d1xshooter",
@@ -195,10 +294,21 @@
           "photos": [
             "Description: A low-angle view of a wet urban sidewalk reflecting surrounding buildings and a \u201cMILWAUKEE\u201d sign, with flowerbeds and decorative metallic sculptures on the right. Photograph read: The composition is a low-angle perspective with strong reflections on the wet pavement. Lighting is bright daylight, casting clear shadows and highlights on buildings and foliage. Reflections are sharp and detailed, indicating a clean, reflective surface. The image is in focus, with no visible motion blur or depth-of-field issues. Photo type: Urban landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole street flips itself in the wet stone - the sign reads backwards and the flowers double along the edge. Was the Brewer buzz still going when you took this?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6XtyfG6a4",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "broup11",
@@ -228,10 +338,21 @@
                     "Description: A black-and-white photograph shows a large, prominent sea stack on a beach, with smaller rock formations in the background and gentle waves lapping the shore under an overcast sky. Photograph read: The image is rendered in monochrome with a wide sky and a flat horizon. The sea stack is centrally positioned, with visible texture and form, but lacks sharpness. The wet sand in the foreground reflects the rocks and sky, and the clouds show streaking motion, suggesting a long exposure. Lighting is diffuse and even, with no strong directional highlights or shadows. Photo type: Black-and-white landscape",
                     "Description: A large, rugged sea stack dominates the center of a beach, reflected in a shallow pool of water in the foreground, with several people scattered across the wet sand and rocks. Photograph read: The image is taken under bright, clear skies with even illumination; the sea stack and its reflection are sharply defined, and the composition is symmetrical with the horizon dividing the frame. The water\u2019s surface is still enough to produce a clear mirror image. The beach and rocks show natural textures without visible distortion. Photo type: Landscape"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A long stay at low tide is time well spent.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6XvN6mz5-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -311,10 +432,21 @@
                   "text": "I took this in April of 2023. The Oregon coast has the most beautiful sunsets. This was in Depot Bay on our last trip. Our beautiful pup of 11 years passed the next week and our new pup has epilepsy so we stay pretty close to home now. Thank you, I love photography.",
                   "permalink": "https://www.threads.com/@annes_garden_flowers/post/Df59tk3GIwD",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Depot Bay sunsets are worth holding close. Thanks for sharing this one.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6XwqkmxJd",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -378,10 +510,21 @@
                   "text": "I was actually in the back seat and saw the reflection in the mirror. Angled my phone between the driver (my husband) and the door and it turned out better than I expected.",
                   "permalink": "https://www.threads.com/@kellmell/post/Df6FfV3G7I-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A back-seat angle that paid off. Glad it turned out.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6Xxx4lFVd",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -427,10 +570,21 @@
                   "text": "From a cruise ship in Alaska. Not sure of the time of day.",
                   "permalink": "https://www.threads.com/@bybaird/post/Df59rZ_lLPC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Cruise-ship light is a gift either way. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6XzCNG9gG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -461,10 +615,21 @@
                   "text": "Outside Florence Italy ten a.m. on a Saturday",
                   "permalink": "https://www.threads.com/@glendagh25/post/Df6AmBOlHKv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A Saturday morning outside Florence - hard to beat.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6X0E3lK3K",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -518,10 +683,21 @@
                   "text": "I drive down this row in all seasons and I often video it as I drive. I thought the \u201drear view\u201d was punny for a vineyard that harvests long after most in the area are done.",
                   "permalink": "https://www.threads.com/@winestains.ca/post/Df5_uvTAj7Z",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A pun that good earns its mirror. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df6X07cGxLr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
