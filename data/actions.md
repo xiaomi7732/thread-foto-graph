@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (95)
+## Needs Reply (98)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7jeAZiOmV))
+  - Photo: Description: A large, multi-tiered spiral sculpture hangs from the ceiling of a spacious, industrial-style interior, with exposed metal trusses and stone walls visible in the background. A sign below reads “THE CHIMNEY LIFT BATTERSEA POWER STATION.” Photograph read: The sculpture is composed of concentric, illuminated rings with black structural elements and orange glowing bands. Lighting is provided by embedded LEDs along the rings and overhead spotlights. The image is taken from a low angle, emphasizing the sculpture’s vertical scale and circular form. The background is moderately lit, with some areas in shadow. Photo type: Architectural
+- **derekrichards4229**:  ([link](https://www.threads.com/@derekrichards4229/post/Df7jN8NDfcv))
+  - Photo: Description: The photograph shows a close-up of a large, curved metallic pipe or structural element, with a smooth, reflective surface, set against a similarly curved wall in a confined industrial or architectural space. Photograph read: The image is in black and white, with strong directional lighting creating highlights and shadows along the curved surfaces. The composition emphasizes the circular geometry and layered curvature of the pipe. The rendering is sharp on the pipe’s surface, but the background is slightly out of focus. Photo type: Industrial
 - **pappaga11a**:  ([link](https://www.threads.com/@pappaga11a/post/Df7idYjlDKo))
   - Photo: Description: The image shows a close-up of layered, plate-like coral structures with textured surfaces and irregular edges, set against a dark background. Photograph read: The composition is dense with overlapping coral plates, lit from above to highlight their edges and surface texture. Rendering is detailed in the illuminated areas, with contrast between the bright edges and dark interiors. Photo type: Macro
 - **bongapostol**:  ([link](https://www.threads.com/@bongapostol/post/Df7ibyaIEJt))
@@ -35,6 +39,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **judmacd**:  ([link](https://www.threads.com/@judmacd/post/Df7jhQCGyH-))
+  - Photo: Description: A single, curved piece of driftwood floats in calm water, with its reflection visible beneath it; the water surface shows gentle ripples and reflects muted green and blue tones from the surrounding environment. Photograph read: The composition centers the driftwood against a water surface with varied coloration and texture. Lighting appears natural and diffused, casting soft shadows and highlights on the wood. Rendering is realistic, with visible surface texture on the driftwood and water ripples, though no sharp focus or high-contrast edges are evident. Photo type: Natural landscape
 - **beezr46**:  ([link](https://www.threads.com/@beezr46/post/Df7YVJOkdV-))
   - Photo: Description: A smiling young woman with long blonde hair, wearing a black hat and a mustard-yellow floral top with a black buttoned skirt, stands in front of a white-framed doorway, adjusting her hat with her right hand. Photograph read: The image is taken from a perspective behind the subject, with the photographer’s shoulder and back in the foreground, out of focus. The background shows a blurred, golden-hued outdoor scene with dry vegetation. The subject is in focus, but the foreground obstruction reduces the visible area of the subject’s body and face. Photo type: Portrait
     - Watch-outs: - Foreground obstruction: The photographer’s shoulder and back dominate the right side of the frame, obscuring part of the subject’s body and reducing the visible area of her face and upper torso. - Depth of field: The subject is in focus, but the foreground is significantly blurred, which limits the viewer’s ability to see the full context of the subject’s pose and expression.
