@@ -6,18 +6,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (102)
+## Needs Reply (103)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
+  - Photo: Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape
 - **kidsdrs**:  ([link](https://www.threads.com/@kidsdrs/post/Df73nNXmDA5))
   - Photo: Description: The photograph shows the interior of a church, focusing on a wooden ceiling with exposed beams, a central triangular skylight, and a suspended golden crucifix below. The crucifix is held by strings attached to a central ceiling fixture. Photograph read: The composition is vertically oriented, with the ceiling structure dominating the frame. Lighting is provided by recessed spotlights and natural light from the skylight, creating bright highlights on the wooden beams and crucifix. The rendering is clear, with visible wood grain and metallic reflections on the crucifix and ceiling fixtures. Photo type: Architectural
-- **thelwellgail**:  ([link](https://www.threads.com/@thelwellgail/post/Df73eMpjKRz))
-  - Photo: Description: A pale purple mushroom with gilled underside and slightly curled margin grows in green grass and among scattered brown leaves and small green leaves. Photograph read: The image is a close-up shot with natural, diffused lighting. The mushroom is in focus, but surrounding grass and leaves are slightly out of focus. The rendering is sharp on the mushroom’s cap and gills, with no visible signs of motion blur or chromatic aberration. Photo type: Natural
 - **judy.julian77**: Tiny heart-shaped reflection of light on this fence. ([link](https://www.threads.com/@judy.julian77/post/Df72aazm6sj))
   - Photo: Description: A wooden fence with vertical slats is covered in dark, abstract graffiti-like markings, with a section of corrugated metal in the center. Green foliage overhangs the top of the fence, and a grassy foreground is visible. Photograph read: The image is taken at dusk or twilight, with uneven lighting across the fence. A small, bright, heart-shaped object is visible on the metal section. The fence’s surface shows vertical texture, and the graffiti is rendered as dark, irregular strokes. The image has a soft focus, with no sharp edges or defined lines. Photo type: Unclear
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The graffiti markings are indistinct and lack clear definition due to the blur.
 - **akmaleky**: Too many to mention, our office is replacing old plumbing system ([link](https://www.threads.com/@akmaleky/post/Df73KAmn-Xo))
   - _Replying to: How many rings deep does that stack go? Circles inside circ…_
+- **titan_actual86**: That's what I saw lol ([link](https://www.threads.com/@titan_actual86/post/Df74ALroIah))
+  - _Replying to: That long cloud in the middle - a bird mid-flight, or am I …_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_

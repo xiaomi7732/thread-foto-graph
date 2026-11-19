@@ -10,14 +10,14 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 183,
+      "reply_count": 184,
       "replies": [
         {
-          "username": "kidsdrs",
+          "username": "michelpbeaudry",
           "text": "",
-          "permalink": "https://www.threads.com/@kidsdrs/post/Df73nNXmDA5",
+          "permalink": "https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO",
           "photos": [
-            "Description: The photograph shows the interior of a church, focusing on a wooden ceiling with exposed beams, a central triangular skylight, and a suspended golden crucifix below. The crucifix is held by strings attached to a central ceiling fixture. Photograph read: The composition is vertically oriented, with the ceiling structure dominating the frame. Lighting is provided by recessed spotlights and natural light from the skylight, creating bright highlights on the wooden beams and crucifix. The rendering is clear, with visible wood grain and metallic reflections on the crucifix and ceiling fixtures. Photo type: Architectural"
+            "Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape"
           ],
           "needs_response": true,
           "action": "reply",
@@ -25,11 +25,11 @@
           "replies": []
         },
         {
-          "username": "thelwellgail",
+          "username": "kidsdrs",
           "text": "",
-          "permalink": "https://www.threads.com/@thelwellgail/post/Df73eMpjKRz",
+          "permalink": "https://www.threads.com/@kidsdrs/post/Df73nNXmDA5",
           "photos": [
-            "Description: A pale purple mushroom with gilled underside and slightly curled margin grows in green grass and among scattered brown leaves and small green leaves. Photograph read: The image is a close-up shot with natural, diffused lighting. The mushroom is in focus, but surrounding grass and leaves are slightly out of focus. The rendering is sharp on the mushroom\u2019s cap and gills, with no visible signs of motion blur or chromatic aberration. Photo type: Natural"
+            "Description: The photograph shows the interior of a church, focusing on a wooden ceiling with exposed beams, a central triangular skylight, and a suspended golden crucifix below. The crucifix is held by strings attached to a central ceiling fixture. Photograph read: The composition is vertically oriented, with the ceiling structure dominating the frame. Lighting is provided by recessed spotlights and natural light from the skylight, creating bright highlights on the wooden beams and crucifix. The rendering is clear, with visible wood grain and metallic reflections on the crucifix and ceiling fixtures. Photo type: Architectural"
           ],
           "needs_response": true,
           "action": "reply",
@@ -150,7 +150,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "titan_actual86",
+                  "text": "That's what I saw lol",
+                  "permalink": "https://www.threads.com/@titan_actual86/post/Df74ALroIah",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
