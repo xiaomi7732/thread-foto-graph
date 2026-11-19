@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (70)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **difishing**:  ([link](https://www.threads.com/@difishing/post/Df6YLXZFFgB))
@@ -19,6 +19,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **fephi**: Reflection on the car window. ([link](https://www.threads.com/@fephi/post/Df5_pSKGcSa))
   - Photo: Description: The image shows the silhouettes of two people standing on a paved area near a body of water, viewed through a car window, with a sunset horizon visible in the reflection. Photograph read: The composition is framed by the car window’s edge, with the reflection of the sky and sea dominating the view. The subjects are dark and indistinct, with no visible facial or clothing detail. The lighting is low-contrast, with the horizon showing a gradient from orange to gray. Photo type: Reflection
     - Watch-outs: The silhouettes are indistinct, lacking discernible features or texture. The reflection surface shows visible glare and reflections of the interior of the vehicle, obscuring the clarity of the scene outside.
+- **d1xshooter**: Yes game five was that night ([link](https://www.threads.com/@d1xshooter/post/Df6YyOYlhF-))
+  - _Replying to: The whole street flips itself in the wet stone - the sign r…_
 - **nofussgus_**: It was incredibly still. I was driving home and had to stop. ([link](https://www.threads.com/@nofussgus_/post/Df6YADPIXc0))
   - _Replying to: How still was that water when you took this? The sunset dou…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
