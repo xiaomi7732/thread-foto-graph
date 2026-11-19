@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (91)
+## Needs Reply (92)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
+  - Photo: Description: The photograph shows a tall building illuminated by warm, low-angle light, viewed through the silhouettes of tree branches in the foreground. The sky is hazy and uniformly lit, suggesting twilight or dawn. Photograph read: The composition is framed by dark, leafy branches in the foreground, with the building and a bright light source (likely the sun) behind them. The building’s windows reflect or emit light, creating a pattern of glowing points. The image has a soft, hazy quality, with no visible sharpness or defined focus. Photo type: Urban silhouette
+    - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
 - **lindafedor6**:  ([link](https://www.threads.com/@lindafedor6/post/Df6UHc-lu08))
   - Photo: Description: A sunset over a beach with the sun low on the horizon, casting a warm glow across the sky and reflecting on wet sand; ocean waves are visible in the midground. Photograph read: The composition is horizontal, with the sun centered near the horizon, and its reflection clearly visible on the wet sand in the foreground. The sky shows a gradient from orange near the sun to pale yellow and gray above. The waves are moderately defined, and the sand’s surface is smooth and reflective. Photo type: Landscape
 - **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Df6T-30mxvl))
