@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (92)
+## Needs Reply (93)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **suzanne_raimondi_gallagher**: this white heart shaped rock was lying alone on the beach. Now it lives in our garden. ([link](https://www.threads.com/@suzanne_raimondi_gallagher/post/Df7awG2lSAd))
+  - Photo: Description: A collection of rounded and angular rocks of various sizes and colors is arranged in a garden bed bordered by dark mulch and green plants, adjacent to a paved surface. Photograph read: The image is taken from a high angle, showing the rocks and surrounding garden bed clearly. Lighting is even and natural, with no visible shadows or overexposure. The image has no apparent distortion or motion blur. Photo type: Documentary
+- **linda73linda**: Heart shaped cloud. ([link](https://www.threads.com/@linda73linda/post/Df7acRUDU_s))
+  - Photo: Description: A large cloud formation dominates the sky, illuminated from behind by a low sun, casting rays through its edges; silhouettes of three vertical structures and a tree line are visible against the horizon. Photograph read: The sky exhibits strong backlighting with radiating sunbeams emerging from behind the cloud mass, which has a bright, textured edge and a dark central core. The foreground is uniformly dark, showing only silhouettes. The image appears to be a single exposure with no visible signs of motion blur or chromatic aberration. Photo type: Landscape
 - **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df7aPi8FtH_))
   - Photo: Description: The image shows a rocky outcrop against a clear blue sky, with the rock formation appearing weathered and composed of large, irregular boulders. Photograph read: The composition is dominated by the rock mass on the right, with the sky occupying the left. Lighting is bright and even, suggesting daylight. The image exhibits a noticeable pixelation and softness, reducing the sharpness of rock textures. Photo type: Unclear
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The rock surfaces lack crisp edges and texture definition.
@@ -17,8 +21,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A shirtless man stands on a rocky outcrop in the sea, positioned to the left of a large, rounded boulder with yellowish lichen. The scene is under a clear blue sky with distant mountains visible across the water. Photograph read: The composition is centered on the man and the boulder, with the sea and sky filling the frame. Lighting is bright and even, suggesting midday sun. The image has a natural color balance and moderate sharpness, with no visible signs of motion blur or focus issues. Photo type: Natural landscape
 - **hereyesonphotojewels**:  ([link](https://www.threads.com/@hereyesonphotojewels/post/Df7ZrDGlOBQ))
   - Photo: Description: The image shows a close-up of a forest floor with vibrant green moss growing on rocks and logs, surrounded by reddish-brown pine needles and small twigs. Photograph read: The composition is a top-down view with even, diffuse lighting. The moss and surrounding debris are in focus, with no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural detail
-- **oneillwendie**: I did! It was facing away from the lake! ([link](https://www.threads.com/@oneillwendie/post/Df7aU9qlbiL))
-  - _Replying to: Nature's own armchair, complete with a view of the sand. Di…_
 - **glendagh25**:  ([link](https://www.threads.com/@glendagh25/post/Df7Y3NjlOLR))
   - Photo: Description: Two blossoms with a red lower half and pale pink upper half, speckled with water droplets, are in focus on a stem, with blurred green foliage in the background. Photograph read: The main subject is in focus with moderate depth of field; lighting is even and diffused, with no visible shadows or highlights. The background is uniformly out of focus, creating a soft bokeh effect. The image has no signs of motion blur, overexposure, or underexposure. Photo type: Natural
 - **bugs_eye_view_of_you**:  ([link](https://www.threads.com/@bugs_eye_view_of_you/post/Df7Yu61IC4S))

@@ -10,8 +10,32 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 19,
+      "reply_count": 22,
       "replies": [
+        {
+          "username": "suzanne_raimondi_gallagher",
+          "text": "this white heart shaped rock was lying alone on the beach. Now it lives in our garden.",
+          "permalink": "https://www.threads.com/@suzanne_raimondi_gallagher/post/Df7awG2lSAd",
+          "photos": [
+            "Description: A collection of rounded and angular rocks of various sizes and colors is arranged in a garden bed bordered by dark mulch and green plants, adjacent to a paved surface. Photograph read: The image is taken from a high angle, showing the rocks and surrounding garden bed clearly. Lighting is even and natural, with no visible shadows or overexposure. The image has no apparent distortion or motion blur. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "linda73linda",
+          "text": "Heart shaped cloud.",
+          "permalink": "https://www.threads.com/@linda73linda/post/Df7acRUDU_s",
+          "photos": [
+            "Description: A large cloud formation dominates the sky, illuminated from behind by a low sun, casting rays through its edges; silhouettes of three vertical structures and a tree line are visible against the horizon. Photograph read: The sky exhibits strong backlighting with radiating sunbeams emerging from behind the cloud mass, which has a bright, textured edge and a dark central core. The foreground is uniformly dark, showing only silhouettes. The image appears to be a single exposure with no visible signs of motion blur or chromatic aberration. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "abbytabby13",
           "text": "",
@@ -101,10 +125,21 @@
                   "text": "I did! It was facing away from the lake!",
                   "permalink": "https://www.threads.com/@oneillwendie/post/Df7aU9qlbiL",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7adFjG4ze",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
