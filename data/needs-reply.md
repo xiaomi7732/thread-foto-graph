@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (78)
+## Needs Reply (81)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **oneillwendie**: A knob (not the person 😆) on a washing machine. ([link](https://www.threads.com/@oneillwendie/post/Df6GcmljWmg))
+  - Photo: Description: The image captures a convex security mirror reflecting a person in an orange vest and dark clothing, standing in what appears to be a retail or warehouse aisle with shelves stocked with goods. Photograph read: The mirror’s curved surface distorts the reflection, creating a fisheye effect. Lighting is diffuse and even, with no visible shadows or highlights. The image is captured from a low angle, with the mirror’s frame and ceiling structure visible in the foreground. Photo type: Convex mirror reflection
+    - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The reflection of the person and shelves is indistinct due to the curvature and distortion of the mirror, which prevents clear identification of objects or features.
 - **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/Df6DkQaHEeb))
   - Photo: Description: A calm body of water reflects a line of bare trees and dry vegetation along its edge, with foreground foliage partially obscuring the lower frame. Photograph read: The composition is horizontally divided, with the water surface mirroring the treeline. Lighting is subdued, casting soft shadows and muted tones; reflections are clear but not sharp. Rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Natural landscape
   - Photo: Description: A calm body of water reflects the bare branches of trees and a distant bank lined with dry grass and shrubs; the foreground features out-of-focus reeds. Photograph read: The water surface is smooth, mirroring the sky and tree silhouettes; the foreground vegetation is softly blurred, while the bank and reflections are comparatively sharper. Lighting is even, suggesting daylight without harsh shadows or overexposure. Photo type: Natural landscape
@@ -29,6 +32,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The big stack gets a second showing in the wet sand, and th…_
 - **annes_garden_flowers**: I took this in April of 2023. The Oregon coast has the most beautiful sunsets. This was in Depot Bay on our last trip. Our beautiful pup of 11 years passed the next week and our new pup has epilepsy so we stay pretty close to home now. Thank you, I love photography. ([link](https://www.threads.com/@annes_garden_flowers/post/Df59tk3GIwD))
   - _Replying to: That glitter path pulls the whole frame together - sun, sea…_
+- **kellmell**: I was actually in the back seat and saw the reflection in the mirror. Angled my phone between the driver (my husband) and the door and it turned out better than I expected. ([link](https://www.threads.com/@kellmell/post/Df6FfV3G7I-))
+  - _Replying to: The mirror keeps the whole sunset and the road behind you, …_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
@@ -63,6 +68,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **debdipmaitra**: Mirror selfies gotta count, right? ([link](https://www.threads.com/@debdipmaitra/post/Df5eHhlkrCJ))
   - Photo: Description: The image displays a central, dark, amorphous shape against a bright, textured background, with no discernible context or identifiable subject. Photograph read: The composition is dominated by a single, indistinct form in the center, set against a uniformly bright, grainy field. Lighting appears flat and diffuse, with no visible directional sources. The rendering is characterized by a grainy texture and low contrast, obscuring fine structure. Photo type: Unclear
     - Watch-outs: - Central subject is indistinct and lacks definable features due to blur and low contrast. - Background exhibits uniform brightness and grain, reducing contrast and detail visibility across the entire image.
+- **apertureandartdotcom**: No, it was sunrise. Just me and a lovely quiet moment in Giethoorn. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6GAn9Csk3))
+  - _Replying to: The canal turns the whole street gold and the trees come ba…_
 - **giugiovivi**:  ([link](https://www.threads.com/@giugiovivi/post/Df5d9j3DcSx))
   - Photo: Description: A woman in a fur coat and high heels stands on a paved sidewalk beside a brick wall and a window with patterned curtains; only her lower body and partial upper body are visible. Photograph read: The image is in black and white, with high contrast between the dark fur, shoes, and structural elements against the lighter brick and pavement. The composition is framed by vertical elements, and the lighting appears direct, casting clear shadows. Photo type: Street photography
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))

@@ -13,8 +13,23 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 381,
+      "reply_count": 384,
       "replies": [
+        {
+          "username": "oneillwendie",
+          "text": "A knob (not the person \ud83d\ude06) on a washing machine.",
+          "permalink": "https://www.threads.com/@oneillwendie/post/Df6GcmljWmg",
+          "photos": [
+            "Description: The image captures a convex security mirror reflecting a person in an orange vest and dark clothing, standing in what appears to be a retail or warehouse aisle with shelves stocked with goods. Photograph read: The mirror\u2019s curved surface distorts the reflection, creating a fisheye effect. Lighting is diffuse and even, with no visible shadows or highlights. The image is captured from a low angle, with the mirror\u2019s frame and ceiling structure visible in the foreground. Photo type: Convex mirror reflection"
+          ],
+          "watch_outs": [
+            "The entire image appears blurred; fine detail is not distinguishable. The reflection of the person and shelves is indistinct due to the curvature and distortion of the mirror, which prevents clear identification of objects or features."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "wj.fox",
           "text": "",
@@ -270,7 +285,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kellmell",
+                  "text": "I was actually in the back seat and saw the reflection in the mirror. Angled my phone between the driver (my husband) and the door and it turned out better than I expected.",
+                  "permalink": "https://www.threads.com/@kellmell/post/Df6FfV3G7I-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -894,7 +920,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "apertureandartdotcom",
+                  "text": "No, it was sunrise. Just me and a lovely quiet moment in Giethoorn.",
+                  "permalink": "https://www.threads.com/@apertureandartdotcom/post/Df6GAn9Csk3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
