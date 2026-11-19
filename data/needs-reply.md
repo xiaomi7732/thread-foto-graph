@@ -4,19 +4,32 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (64)
+## Needs Reply (67)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **bluntnelson**:  ([link](https://www.threads.com/@bluntnelson/post/Df597emoN5W))
+  - Photo: Description: The image shows a view through a window with white mullions, reflecting interior elements like a dark door and a wall, while the exterior reveals a dimly lit parking lot with several cars and distant city lights at twilight. Photograph read: The composition is framed by window mullions, with reflections superimposed on the exterior scene. Lighting is low, with ambient twilight and artificial lights from the parking lot and distant buildings. The rendering is flat, with no visible depth cues or motion blur. Photo type: Reflection
+    - Watch-outs: Reflections obscure exterior details; the dark door and wall interior are visible but not distinct from the window’s own surface. The parking lot and distant lights are visible but lack sharpness and detail due to low-light conditions.
 - **d1xshooter**: Not a particularly strong image, but the Brewer fever in MKE was amazing ([link](https://www.threads.com/@d1xshooter/post/Df59QD-le5v))
   - Photo: Description: A low-angle view of a wet urban sidewalk reflecting surrounding buildings and a “MILWAUKEE” sign, with flowerbeds and decorative metallic sculptures on the right. Photograph read: The composition is a low-angle perspective with strong reflections on the wet pavement. Lighting is bright daylight, casting clear shadows and highlights on buildings and foliage. Reflections are sharp and detailed, indicating a clean, reflective surface. The image is in focus, with no visible motion blur or depth-of-field issues. Photo type: Urban landscape
+- **annes_garden_flowers**: I took this in April of 2023. The Oregon coast has the most beautiful sunsets. This was in Depot Bay on our last trip. Our beautiful pup of 11 years passed the next week and our new pup has epilepsy so we stay pretty close to home now. Thank you, I love photography. ([link](https://www.threads.com/@annes_garden_flowers/post/Df59tk3GIwD))
+  - _Replying to: That glitter path pulls the whole frame together - sun, sea…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
+- **bybaird**: From a cruise ship in Alaska. Not sure of the time of day. ([link](https://www.threads.com/@bybaird/post/Df59rZ_lLPC))
+  - _Replying to: The mountains come back so softly in the fjord that the wat…_
+- **real_snapshot_**: I was looking down at the ground, searching for puddles, so I noticed the reflections first. Thank you. ([link](https://www.threads.com/@real_snapshot_/post/Df5-Avxmfan))
+  - _Replying to: The puddle flips the whole street upside down, umbrellas an…_
 - **iwriteandedit**: Not as often as I used to but I still visit every two years or so... ([link](https://www.threads.com/@iwriteandedit/post/Df59HDRlAYM))
   - _Replying to: I think the B&W suits this one - the mill gets a full secon…_
+- **mixtapemissives**: Heh, not long. Grateful it wasn't a bright day. I actually burnt a hole in a glove once, holding that ball in direct sunlight. Science is a heckuva thing. Lol ([link](https://www.threads.com/@mixtapemissives/post/Df59040DsRE))
+  - _Replying to: The cherry gets a tiny twin inside the sphere, and the whol…_
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
   - Photo: Description: The image shows a child’s reflection in a car’s side mirror, holding a blue and orange Nerf gun, with a blurred dinosaur figure visible in the background through the trees. Photograph read: The composition is framed by the mirror’s edge, with the child and gun in focus within the reflection. Lighting is bright and natural, with green foliage in the background. The mirror surface reflects the scene clearly, while the background beyond the mirror is out of focus. Photo type: Reflection
     - Watch-outs: The dinosaur figure in the background is blurred and indistinct, making its features unreadable. The child’s face in the reflection is partially obscured by the sunglasses and the angle of the mirror, limiting facial detail.
+- **farmertubby76**: Was sunrise and was on way to work ([link](https://www.threads.com/@farmertubby76/post/Df59iDXk3aL))
+  - _Replying to: The mirror holds a whole pink sky and the road running stra…_
 - **esion77**: Just a couple. One of the four is upside down. ([link](https://www.threads.com/@esion77/post/Df5etUfEq1n))
   - Photo: Description: A tranquil garden scene featuring a small waterfall cascading over a stone retaining wall into a still pond, surrounded by colorful autumn foliage including red, yellow, and green shrubs and trees, with a wooden bench and a child’s figure visible on the left. Photograph read: The image is taken in bright daylight with clear visibility of the scene; the water surface reflects the surrounding vegetation and waterfall. The composition is balanced, with the waterfall as a central visual anchor. The rendering preserves detail in both the foreground and background, though some areas are slightly out of focus or have soft edges. Photo type: Landscape
   - Photo: Description: A horizontally mirrored scene shows a forested hillside reflected in calm water, with several small boats and structures along the shoreline. Photograph read: The image is horizontally symmetrical, with the upper half showing the hill and sky, and the lower half showing their reflection. The water surface is relatively still, but the entire image exhibits a uniform, horizontal banding artifact across the entire frame, obscuring fine detail. Photo type: Unclear
@@ -34,22 +47,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
   - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
     - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.
+- **oznatureart**: Yes. Canberra has a very special clear light in winter and wonderful morning mists ... ([link](https://www.threads.com/@oznatureart/post/Df5-FRxEfaK))
+  - _Replying to: The mist softens the far shore and the tower keeps watch ov…_
 - **sanchionidawn**:  ([link](https://www.threads.com/@sanchionidawn/post/Df5V-wMEsqk))
   - Photo: Description: A highway with a concrete barrier and a reddish-brown overpass in the midground, under a heavily clouded sky with a faint rainbow arc visible behind the clouds. Distant mountains and sparse vegetation are visible beyond the overpass. Photograph read: The image is taken from a vehicle, showing a wide, slightly wet road surface. The sky is dominated by dark, layered clouds, with a subtle rainbow visible as a thin, low-contrast arc. Lighting is diffuse and even, with no strong directional highlights or shadows. The image has a flat, muted color palette with no visible lens distortion or chromatic aberration. Photo type: Documentary
 - **gnd_moments_in_paradise**: The waves were actually coming right up to where I was standing. I had to wait for the wave to recede then take picture before the incoming wave arrived. In the picture you can see the outgoing and incoming wave. The reflection was magnificent. ([link](https://www.threads.com/@gnd_moments_in_paradise/post/Df5ivTaiFsM))
   - _Replying to: The wet sand hands the whole sunset back - orange clouds, p…_
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
-- **encinitasditka**: Yes but it was a hotel window, the Edgewater in Seattle…the Beatles fished out the window when they stayed there ([link](https://www.threads.com/@encinitasditka/post/Df5m19iD_FL))
-  - _Replying to: The sun gets two showings here - one on the water, one in t…_
-- **kayslazydays**: Often. This coastline (in Wales UK) has one of the highest tidal ranges in the world so the sand is like this twice a day. We love it! ([link](https://www.threads.com/@kayslazydays/post/Df5ueubkSpk))
-  - _Replying to: The wet sand turns everyone into a double - the pink rider,…_
-- **kmwehrle**: We were stuck in traffic so I wasn’t happy about that. But then I looked in the rear view mirror and saw the beautiful sky. ([link](https://www.threads.com/@kmwehrle/post/Df5vwroDcr0))
-  - _Replying to: A whole sunset squeezed into the side mirror, and the traff…_
-- **thatguyale**: It's actually a rear back window of a parked car. I took the pic while walking my dog. ([link](https://www.threads.com/@thatguyale/post/Df5jGQbAf73))
-  - _Replying to: Did you polish the car for the shot, or does it always carr…_
-- **bojonvelvet2.0**: Pic was taken a long time ago but looks pretty still to me. ([link](https://www.threads.com/@bojonvelvet2.0/post/Df5zKf_EXcN))
-  - _Replying to: That boulder gets a twin in the river and the cliffs come a…_
+- **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
+  - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
   - _Replying to: The peaks come back so sharply the lake reads like a second…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
