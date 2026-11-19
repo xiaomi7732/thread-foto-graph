@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (88)
+## Needs Reply (89)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - **alaska.photographer**: Red-necked grebe feeding her chick. ([link](https://www.threads.com/@alaska.photographer/post/Df6SekPG31b))
@@ -163,6 +163,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The white dots are the whole trick - every leaf dusted the …_
 - **lucillepippetti**: Yes it is. ([link](https://www.threads.com/@lucillepippetti/post/Df47zRcIGlX))
   - _Replying to: The white dots are the whole trick - every leaf dusted the …_
+- **jhuntertenbroeck**: That’s the winter look ([link](https://www.threads.com/@jhuntertenbroeck/post/Df6TpeOESTX))
+  - _Replying to: (photo reply, no text)_
 - **pattykl**: Theme: Pattern • • #flower #pattern ([link](https://www.threads.com/@pattykl/post/Df3cZPHmxIx))
   - Photo: Description: A close-up of a pink flower with five petals, centered in the frame, against a blurred green and gray background. Photograph read: The flower is in focus with soft, painterly rendering; lighting is even and diffused, with no harsh shadows or highlights. The background is uniformly out of focus, creating a smooth bokeh effect. Photo type: Artistic
     - Watch-outs: Whole-image blur obscures fine petal texture and edge definition. Background blur renders leaf details indistinct and prevents depth perception.
