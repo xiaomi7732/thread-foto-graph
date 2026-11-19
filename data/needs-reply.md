@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (126)
+## Needs Reply (128)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KctDGfeZ))
@@ -36,6 +36,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One yellow leaf, holding its color in a ring of snow. The d…_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
+- **estella.haines**: After! It really made me happy at the surprise ([link](https://www.threads.com/@estella.haines/post/Df8Ody6Hcs7))
+  - _Replying to: Two pale dots for eyes and that ring of yellow around the m…_
 - **jeffrey_janusch**: The left side is probably storm damage. ([link](https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln))
   - _Replying to: I think the broken branch is the whole photo - the tree rea…_
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
@@ -128,6 +130,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The gold trees do all the talking in the glass, and the dir…_
 - **bluntnelson**: Dusk sky from outside. ([link](https://www.threads.com/@bluntnelson/post/Df8F4-mD2Az))
   - _Replying to: The window holds two scenes in one pane - the dark door fro…_
+- **susanrogerskaisch**: No- I wish! I live in California, about 10 miles from the coast, about halfway between LA and San Francisco. I have other lovely places to walk. I was visiting my brother in June; he lives in Alexandria. We took a nice, relaxing walk there. ([link](https://www.threads.com/@susanrogerskaisch/post/Df8OclHmUTD))
+  - _Replying to: The dead trunks come back so clearly in the water that the …_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
