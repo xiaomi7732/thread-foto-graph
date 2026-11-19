@@ -10,8 +10,35 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 87,
+      "reply_count": 89,
       "replies": [
+        {
+          "username": "jammy.kollings",
+          "text": "",
+          "permalink": "https://www.threads.com/@jammy.kollings/post/Df7kdKam4XS",
+          "photos": [
+            "Description: A human hand holds a small, textured pinecone in its palm, with a ring visible on the ring finger; the background is a blurred, dark surface with indistinct shapes. Photograph read: The image is taken from a close-up perspective, with the hand and pinecone in focus. Lighting is even and diffuse, without harsh shadows or highlights. The background is out of focus, creating a shallow depth of field. Photo type: Close-up"
+          ],
+          "watch_outs": [
+            "The pinecone\u2019s surface texture is not sharply resolved, showing only general shape and pattern. The background is indistinct, preventing identification of context or environment."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "aaronschwartz1",
+          "text": "",
+          "permalink": "https://www.threads.com/@aaronschwartz1/post/Df7kclooOdp",
+          "photos": [
+            "Description: A modern glass-clad skyscraper is photographed from a low angle against an overcast sky, with its reflective surface mirroring the clouds and interior lights. Photograph read: The composition is dominated by the building\u2019s geometric facade and its reflections. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "reef_ausic",
           "text": "",

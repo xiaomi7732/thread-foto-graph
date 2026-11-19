@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (100)
+## Needs Reply (102)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **jammy.kollings**:  ([link](https://www.threads.com/@jammy.kollings/post/Df7kdKam4XS))
+  - Photo: Description: A human hand holds a small, textured pinecone in its palm, with a ring visible on the ring finger; the background is a blurred, dark surface with indistinct shapes. Photograph read: The image is taken from a close-up perspective, with the hand and pinecone in focus. Lighting is even and diffuse, without harsh shadows or highlights. The background is out of focus, creating a shallow depth of field. Photo type: Close-up
+    - Watch-outs: The pinecone’s surface texture is not sharply resolved, showing only general shape and pattern. The background is indistinct, preventing identification of context or environment.
+- **aaronschwartz1**:  ([link](https://www.threads.com/@aaronschwartz1/post/Df7kclooOdp))
+  - Photo: Description: A modern glass-clad skyscraper is photographed from a low angle against an overcast sky, with its reflective surface mirroring the clouds and interior lights. Photograph read: The composition is dominated by the building’s geometric facade and its reflections. Lighting is diffuse and even, with no strong directional highlights or shadows. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Architectural
 - **reef_ausic**:  ([link](https://www.threads.com/@reef_ausic/post/Df7kK8noyJP))
   - Photo: Description: A close-up view of a flower’s center, showing a cluster of yellow stamens atop a fuzzy, magenta-purplish receptacle, with blurred pink petals in the foreground and a soft, out-of-focus background. Photograph read: The image is a macro shot with shallow depth of field, focusing on the flower’s reproductive parts. Lighting is even and diffused, illuminating the textures without harsh shadows. The foreground petals are softly blurred, while the central structure is in sharper focus. Photo type: Macro
     - Watch-outs: The foreground petals are significantly out of focus, obscuring the flower’s structure and reducing visual clarity. The central stamens and receptacle, though in focus, show fine texture details that are not fully resolved due to the shallow depth of field.
