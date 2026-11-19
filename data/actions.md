@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (99)
+## Needs Reply (102)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **broup11**:  ([link](https://www.threads.com/@broup11/post/Df547b1FPUI))
+  - Photo: Description: The photograph shows a coastal scene with prominent sea stacks rising from the ocean, reflected in the wet sand of a beach under a partly cloudy sky. Photograph read: The composition is horizontally oriented, with the sea stacks centered in the midground and their reflections visible in the foreground. Lighting is diffuse, suggesting an overcast or hazy day, with soft shadows and muted tones. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Natural landscape
+- **nofussgus_**:  ([link](https://www.threads.com/@nofussgus_/post/Df54toYoQsD))
+  - Photo: Description: The image captures a coastal scene at sunset, with a sky filled with clouds illuminated by golden light, reflected in shallow water near the foreground, where dark rocks are visible. Photograph read: The composition is layered, with the sky, distant landmass, water, and reflections forming horizontal bands. Lighting is warm and directional, casting highlights on clouds and water surfaces. The rendering shows some motion blur or streaking in the mid-water bands, and the foreground reflection is relatively clear despite some distortion from the rocks. Photo type: Landscape
+    - Watch-outs: - Motion blur or streaking visible in mid-water bands, affecting clarity of water surface texture and horizon detail. - Reflections in foreground water are distorted by the presence of rocks, obscuring precise detail of the sky’s reflection.
+- **susanrogerskaisch**: At Huntley Meadows Park, Alexandria, VA, last June. ([link](https://www.threads.com/@susanrogerskaisch/post/Df54fBXmbQb))
+  - Photo: Description: A murky, brownish body of water occupies the foreground, with a line of standing dead trees and green vegetation along the far bank, backed by a dense forest under an overcast sky. Photograph read: The image is taken from a slightly elevated perspective, with a wooden dock visible in the bottom right corner. The water surface shows gentle ripples and reflects the sky and trees. Lighting is diffuse and even, with no strong directional shadows. The sky is filled with gray clouds, with a small patch of blue visible on the upper right. Photo type: Natural landscape
 - **annes_garden_flowers**:  ([link](https://www.threads.com/@annes_garden_flowers/post/Df51kcsFCzT))
   - Photo: Description: The photograph shows a sunlit ocean surface with waves breaking near a rocky shoreline, under a clear sky with the sun positioned high and casting a bright glare across the water. Photograph read: The sun is centered in the upper portion of the frame, emitting a strong glare with visible lens flare. The horizon is defined by a thin line of clouds, and the sea reflects the sun’s light as a bright path. The foreground rocks are dark and wet, with some surface texture visible but not sharply detailed. Photo type: Landscape
 - **tiabird_brain23**:  ([link](https://www.threads.com/@tiabird_brain23/post/Df5z5XHGcJ7))
@@ -268,10 +275,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (26)
+## Needs Like (27)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - dasimscas:  ([link](https://www.threads.com/@dasimscas/post/Df5p9A2jIw2))
+- andy2528788: Beautiful 🤩 ([link](https://www.threads.com/@andy2528788/post/Df55cysDNi6))
 - aaronschwartz1: Yes, exactly ([link](https://www.threads.com/@aaronschwartz1/post/Df5IjdhI9zZ))
 - muddie79: Yes ([link](https://www.threads.com/@muddie79/post/Df5E6UECvFP))
 - 2ladydilly: Thats historic ([link](https://www.threads.com/@2ladydilly/post/Df4-rsyDuol))
