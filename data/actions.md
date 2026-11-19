@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (107)
+## Needs Reply (108)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **nofussgus_**:  ([link](https://www.threads.com/@nofussgus_/post/Df7uMjXk_kg))
+  - Photo: Description: The image shows several dark, glossy, spherical objects resting on a wet, textured rock surface, alongside clusters of small, dark, elongated shells and patches of reddish-brown algae or barnacles. Photograph read: The composition is a close-up, top-down view with natural, diffused lighting. The surface textures of the rock and the wetness of the environment are visible, but the glossy spheres reflect light unevenly, obscuring fine surface detail. The image lacks sharpness across the entire frame, with no discernible focal plane. Photo type: Documentary
 - **artfor4me**:  ([link](https://www.threads.com/@artfor4me/post/Df7s8Kykgok))
   - Photo: Description: A close-up photograph features a prickly pear cactus with multiple green pads, some showing signs of decay or damage, set against a backdrop of trees and a dirt path. A yucca plant is visible in the mid-ground. Photograph read: The image is taken at natural daylight with moderate contrast. The cactus pads are in focus, but the background is softly blurred. The lighting is even, with no obvious overexposure or underexposure. Photo type: Natural
     - Watch-outs: - The leftmost pad has a large, irregularly shaped hole, obscuring part of its surface texture and making it difficult to discern fine detail within the damaged area. - Some pads show dark, discolored patches and visible cracks, which reduce the clarity of surface texture and may obscure the distribution of spines.
