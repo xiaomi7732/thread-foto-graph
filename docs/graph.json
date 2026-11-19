@@ -113,8 +113,35 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 458,
+      "reply_count": 460,
       "replies": [
+        {
+          "username": "louisarobyn",
+          "text": "Teamlabs, Tokyo, Japan",
+          "permalink": "https://www.threads.com/@louisarobyn/post/Df6_ON-CN_r",
+          "photos": [
+            "Description: The image shows a low-angle, inverted view of several people standing inside a mirrored or reflective installation filled with numerous bright, vertical light strands, creating a starburst effect radiating from the center. Photograph read: The composition is radial, with light strands converging toward the center. Lighting is high-contrast, with bright reflections dominating the frame. The rendering is distorted due to the perspective and reflections, with visible fisheye or wide-angle distortion. Reflections of people are visible, but their features are not clearly defined. Photo type: Abstract"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bedsheetcinema",
+          "text": "",
+          "permalink": "https://www.threads.com/@bedsheetcinema/post/Df6-ureESM8",
+          "photos": [
+            "Description: A close-up of a car\u2019s side-view mirror, showing a textured, frosted surface, with a cracked asphalt road visible in the foreground and background. Photograph read: The mirror\u2019s surface is covered in a patterned, reflective texture, likely from water or a film. The image has a muted color palette and soft focus, with visible grain or noise. Lighting is diffuse, casting no strong shadows or highlights. Photo type: Photographic"
+          ],
+          "watch_outs": [
+            "The mirror\u2019s surface is obscured by a textured, non-reflective layer, limiting visibility of reflected details. The foreground asphalt shows visible cracks, but the image lacks sharpness, reducing detail clarity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "estella.haines",
           "text": "",

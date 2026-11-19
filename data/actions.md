@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (88)
+## Needs Reply (90)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -17,6 +17,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **louisarobyn**: Teamlabs, Tokyo, Japan ([link](https://www.threads.com/@louisarobyn/post/Df6_ON-CN_r))
+  - Photo: Description: The image shows a low-angle, inverted view of several people standing inside a mirrored or reflective installation filled with numerous bright, vertical light strands, creating a starburst effect radiating from the center. Photograph read: The composition is radial, with light strands converging toward the center. Lighting is high-contrast, with bright reflections dominating the frame. The rendering is distorted due to the perspective and reflections, with visible fisheye or wide-angle distortion. Reflections of people are visible, but their features are not clearly defined. Photo type: Abstract
+- **bedsheetcinema**:  ([link](https://www.threads.com/@bedsheetcinema/post/Df6-ureESM8))
+  - Photo: Description: A close-up of a car’s side-view mirror, showing a textured, frosted surface, with a cracked asphalt road visible in the foreground and background. Photograph read: The mirror’s surface is covered in a patterned, reflective texture, likely from water or a film. The image has a muted color palette and soft focus, with visible grain or noise. Lighting is diffuse, casting no strong shadows or highlights. Photo type: Photographic
+    - Watch-outs: The mirror’s surface is obscured by a textured, non-reflective layer, limiting visibility of reflected details. The foreground asphalt shows visible cracks, but the image lacks sharpness, reducing detail clarity.
 - **estella.haines**:  ([link](https://www.threads.com/@estella.haines/post/Df67W6bls1M))
   - Photo: Description: A woman with short, light-colored hair and a gray scarf is in the foreground, looking toward the camera, with a gallery interior and another person viewing art in the background. Photograph read: The image is taken indoors with even, diffuse lighting from overhead fixtures. The composition is a medium close-up of the woman, with the background slightly out of focus. The foreground shows some visible motion blur or camera shake, particularly affecting the lower left area. Photo type: Portrait
     - Watch-outs: The foreground exhibits motion blur, reducing clarity of facial features and scarf texture. The background is slightly out of focus, obscuring fine details of the gallery walls and framed artworks.
