@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (106)
+## Needs Reply (109)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **jglass8**: A saguaro 🌵 with a window ([link](https://www.threads.com/@jglass8/post/Df7nhG2mh4t))
+  - Photo: Description: A large saguaro cactus dominates the frame, with multiple arms extending upward and a noticeable hole near its center. The background consists of a cloudy sky and a mix of green shrubs and other cacti in the distance. Photograph read: The image is taken from a low angle, with even, diffused lighting from an overcast sky. The cactus is in focus, but the background shows soft depth of field. The colors are muted and natural, with no visible signs of digital artifacts or distortion. Photo type: Natural landscape
+- **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/Df7nK6moKFy))
+  - Photo: Description: A red ladybug with black spots rests on a green leaf near a large, round, greenish-red bud with water droplets. Surrounding foliage is in focus, with some leaves showing dew. Photograph read: The image is a close-up with shallow depth of field, keeping the ladybug and bud in sharp focus while the background is softly blurred. Lighting is even and diffused, highlighting surface textures and water droplets. Rendering is clear for the main subject, with natural color saturation and no visible compression artifacts. Photo type: Macro
 - **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/Df7mvgGEevi))
   - Photo: Description: A bronze statue of a figure in a dynamic pose with one arm raised, standing on a stone pedestal by a waterfront at sunset. The base holds offerings including flowers and papers. A calm body of water and distant hills under a gradient sky form the background. Photograph read: The image is taken with the sun low on the horizon, casting a warm glow across the water and sky. The statue is silhouetted against the bright background, with visible contrast between the dark figure and the illuminated sky. The water surface reflects the sky’s colors. The pedestal and base show some wear and minor discoloration. Photo type: Landscape
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df7mRrnCBlE))
@@ -40,6 +44,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the tight crop is the right call - that pink spiral…_
 - **nechromance**: Hearts in nature appear to me often. I like to think that my loved ones who have passed are showing me the way ❤️ ([link](https://www.threads.com/@nechromance/post/Df7jBsyG6iC))
   - _Replying to: That teal heart in the middle of all those pebbles - did yo…_
+- **wj.fox**: When I saw the few leaves on it. ([link](https://www.threads.com/@wj.fox/post/Df7nI9fmkCV))
+  - _Replying to: A drain cover, dressed up by autumn leaves and a grid of li…_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
