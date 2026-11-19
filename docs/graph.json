@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 135,
+      "reply_count": 139,
       "replies": [
         {
           "username": "patricahewitt",
@@ -35,10 +35,21 @@
           "watch_outs": [
             "- Foreground mesh structure is blurred and partially out of focus, obscuring fine grid details. - Background foliage is indistinct due to low light and motion blur, preventing identification of individual leaves or branches."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The beams cut the night into triangles, and that one light flares right through the middle. What made you stop for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7wJc4moRL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "nofussgus_",
@@ -47,10 +58,21 @@
           "photos": [
             "Description: The image shows several dark, glossy, spherical objects resting on a wet, textured rock surface, alongside clusters of small, dark, elongated shells and patches of reddish-brown algae or barnacles. Photograph read: The composition is a close-up, top-down view with natural, diffused lighting. The surface textures of the rock and the wetness of the environment are visible, but the glossy spheres reflect light unevenly, obscuring fine surface detail. The image lacks sharpness across the entire frame, with no discernible focal plane. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A row of glossy black marbles on wet rock, and the mussels crowding in beside them. How did you even spot them among all that rock?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7wKlyFH2z",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artfor4me",
@@ -62,10 +84,21 @@
           "watch_outs": [
             "- The leftmost pad has a large, irregularly shaped hole, obscuring part of its surface texture and making it difficult to discern fine detail within the damaged area. - Some pads show dark, discolored patches and visible cracks, which reduce the clarity of surface texture and may obscure the distribution of spines."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A heart-shaped hole in the pad, with another pad showing through it. How does a cactus end up with a heart-shaped hole?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7wMC5Fik6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sma81",
@@ -77,10 +110,21 @@
           "watch_outs": [
             "The background figure is indistinct due to blur, making facial features and specific actions unreadable. The foreground stone\u2019s surface texture is partially obscured by the shallow depth of field and minor focus softness, reducing fine detail visibility."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the nail polish gives it away - a heart stone, and 'love' written right there beside it. Where do you keep a find like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7wN1hlgVY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dhinie_behboodzadeh",
