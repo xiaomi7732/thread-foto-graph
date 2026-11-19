@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (98)
+## Needs Reply (100)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -15,6 +15,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **lgmineo**:  ([link](https://www.threads.com/@lgmineo/post/Df7S7cTG12R))
+  - Photo: Description: A silhouette of a person stands on a wet beach facing the ocean at sunset, with the sun low on the horizon casting a golden glow across the water and sand. Photograph read: The composition centers the figure against a wide expanse of sea and sky. The sun is a distinct, bright disc, and its reflection glints on the water and sand. The image has a warm color cast and moderate contrast, with the subject rendered as a dark shape. Photo type: Surreal
+- **tnakluck**:  ([link](https://www.threads.com/@tnakluck/post/Df7S3kVFrx8))
+  - Photo: Description: A shallow pool of water reflects the sky and surrounding red rock formations, with a small evergreen tree growing near the water’s edge on a flat, textured rock surface. Photograph read: The image is taken from a low angle, capturing the water’s reflection and the expansive red rock landscape under a partly cloudy sky. Lighting appears natural and even, with no visible signs of flash or harsh shadows. The rendering preserves surface texture and color without apparent compression or noise. Photo type: Landscape
 - **puffin.oo**:  ([link](https://www.threads.com/@puffin.oo/post/Df7N4s-lssu))
   - Photo: Description: A man in a dark suit walks past a light-colored wall, with the shadow of tree branches cast across the wall and a nearby car. The scene is urban, with a closed metal shutter visible on the building. Photograph read: The image is composed with strong contrast between bright surfaces and deep shadows. The man is rendered as a silhouette, and the tree shadows are sharply defined on the wall and car. The rendering appears to be a single exposure with no visible signs of digital noise or chromatic aberration. Photo type: Urban street photography
     - Watch-outs: The man’s face is obscured by shadow, making facial features unreadable. The car’s surface reflects the tree shadows, obscuring any visible detail on its body.
