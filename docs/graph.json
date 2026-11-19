@@ -10,8 +10,47 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 241,
+      "reply_count": 248,
       "replies": [
+        {
+          "username": "tim22974",
+          "text": "",
+          "permalink": "https://www.threads.com/@tim22974/post/Df8KctDGfeZ",
+          "photos": [
+            "Description: A single bright red maple leaf lies on a bed of green grass, surrounded by other fallen leaves in various shades of brown and red, with some grass blades showing dew. Photograph read: The image is taken in bright daylight with strong directional light casting shadows. The main leaf is in focus, while the surrounding grass and background leaves are slightly softer. Grass blades and some leaves are in sharp focus, while others are blurred due to depth of field. The image has a shallow depth of field, with the foreground and midground in focus and the background blurred. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tim22974",
+          "text": "",
+          "permalink": "https://www.threads.com/@tim22974/post/Df8KXYNmb_-",
+          "photos": [
+            "Description: A vibrant red maple leaf lies on a bed of green grass, with other fallen leaves scattered nearby; the scene is illuminated by direct sunlight. Photograph read: The image is a close-up shot with strong directional lighting casting shadows; the leaf and grass are in focus, but the background is softly blurred. The Strava app overlay is visible at the bottom, indicating metrics for a walk. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dianelynnturnbull",
+          "text": "I cannot tell you what the round, white disk is, or what the things on it might be but I carried it with me on my morning walk. And then I found the leaf...the rest is, of course, this photo.",
+          "permalink": "https://www.threads.com/@dianelynnturnbull/post/Df8JmTzCSD2",
+          "photos": [
+            "Description: A dried, cracked seed pod rests on a white circular object, which is placed upon a large, orange-brown, veined leaf. The leaf shows signs of decay and is partially submerged in dark water or wet soil. Photograph read: The image is a close-up, top-down view with even, diffuse lighting. The leaf\u2019s veins and the texture of the seed pod are visible, but the white circle has minor surface dirt and debris. The edges of the leaf and the surrounding water are slightly out of focus. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The white circular object has scattered dark specks and minor surface dirt, reducing its clarity. The seed pod\u2019s cracked surface is partially obscured by the dirt and the angle of the shot, limiting detail visibility."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "32groove",
           "text": "",
@@ -95,7 +134,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jane_st_pics",
+                  "text": "I think I glanced and the shape caught my attention - I was sitting quite far back - you can just see it on the left in this photo. I walked up to get a better view and take a photo. The shadows were angled just right to create the impression of a dragonfly.",
+                  "permalink": "https://www.threads.com/@jane_st_pics/post/Df8KaxAEemO",
+                  "photos": [
+                    "Description: An audience sits in the nave of a large Gothic cathedral, facing a screen displaying a presentation titled \u201cTHE HIDDEN CORNERS OF LONDON WITH JACK GESHER.\u201d The high vaulted ceilings and stone arches dominate the space, with chandeliers hanging from the ceiling. Photograph read: The image is taken from the back of the audience, looking down the central aisle toward the screen and altar. Lighting is warm and even, primarily from interior sources, illuminating the stone architecture and attendees. The screen is bright and legible, contrasting with the darker surroundings. The composition is linear, following the perspective of the nave\u2019s arches. Photo type: Event documentation"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -258,7 +310,29 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "victorvoltaphoto",
+                  "text": "It was the only one framed in such a manner. It was an early season smattering of snow in the Sierra so ground coverage was very sporadic and sparse.",
+                  "permalink": "https://www.threads.com/@victorvoltaphoto/post/Df8JjVQI45L",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "dianelynnturnbull",
+                      "text": "I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot.",
+                      "permalink": "https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1583,7 +1657,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "unmitigatedme",
+                  "text": "Both. As usual, several other shots were not as good.",
+                  "permalink": "https://www.threads.com/@unmitigatedme/post/Df8KSTem-xq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

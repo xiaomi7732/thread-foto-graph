@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (118)
+## Needs Reply (125)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KctDGfeZ))
+  - Photo: Description: A single bright red maple leaf lies on a bed of green grass, surrounded by other fallen leaves in various shades of brown and red, with some grass blades showing dew. Photograph read: The image is taken in bright daylight with strong directional light casting shadows. The main leaf is in focus, while the surrounding grass and background leaves are slightly softer. Grass blades and some leaves are in sharp focus, while others are blurred due to depth of field. The image has a shallow depth of field, with the foreground and midground in focus and the background blurred. Photo type: Natural
+- **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8KXYNmb_-))
+  - Photo: Description: A vibrant red maple leaf lies on a bed of green grass, with other fallen leaves scattered nearby; the scene is illuminated by direct sunlight. Photograph read: The image is a close-up shot with strong directional lighting casting shadows; the leaf and grass are in focus, but the background is softly blurred. The Strava app overlay is visible at the bottom, indicating metrics for a walk. Photo type: Natural
+- **dianelynnturnbull**: I cannot tell you what the round, white disk is, or what the things on it might be but I carried it with me on my morning walk. And then I found the leaf...the rest is, of course, this photo. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8JmTzCSD2))
+  - Photo: Description: A dried, cracked seed pod rests on a white circular object, which is placed upon a large, orange-brown, veined leaf. The leaf shows signs of decay and is partially submerged in dark water or wet soil. Photograph read: The image is a close-up, top-down view with even, diffuse lighting. The leaf’s veins and the texture of the seed pod are visible, but the white circle has minor surface dirt and debris. The edges of the leaf and the surrounding water are slightly out of focus. Photo type: Macro
+    - Watch-outs: The white circular object has scattered dark specks and minor surface dirt, reducing its clarity. The seed pod’s cracked surface is partially obscured by the dirt and the angle of the shot, limiting detail visibility.
 - **32groove**:  ([link](https://www.threads.com/@32groove/post/Df8FvbvD0TE))
   - Photo: Description: A white, spiky, circular sculpture with concentric layers of pointed protrusions is centered against a solid black background, casting a distinct shadow on a dark surface below. Photograph read: The subject is evenly lit from the front, creating sharp highlights on the spikes and deep shadows in the recesses. The composition is symmetrical and centered, with no visible motion blur or focus issues. The surface beneath the sculpture shows a soft, diffuse shadow. Photo type: Still life
 - **hippiecat51**: I found this little driftwood guy along the shores of Lake Ontario and brought him home. ([link](https://www.threads.com/@hippiecat51/post/Df8E951GQuH))
@@ -14,6 +21,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The hand obscures the lower third of the object, limiting visibility of its base and texture. The top portion of the object is slightly out of focus, reducing clarity of its upper contours.
 - **c.h.skeetsussex.ac.uk**: I have a few more here and there- some were too big and had to be left. ([link](https://www.threads.com/@c.h.skeetsussex.ac.uk/post/Df8E3taDAgz))
   - _Replying to: A whole row of hearts, and the big one on the right still s…_
+- **jane_st_pics**: I think I glanced and the shape caught my attention - I was sitting quite far back - you can just see it on the left in this photo. I walked up to get a better view and take a photo. The shadows were angled just right to create the impression of a dragonfly. ([link](https://www.threads.com/@jane_st_pics/post/Df8KaxAEemO))
+  - Photo: Description: An audience sits in the nave of a large Gothic cathedral, facing a screen displaying a presentation titled “THE HIDDEN CORNERS OF LONDON WITH JACK GESHER.” The high vaulted ceilings and stone arches dominate the space, with chandeliers hanging from the ceiling. Photograph read: The image is taken from the back of the audience, looking down the central aisle toward the screen and altar. Lighting is warm and even, primarily from interior sources, illuminating the stone architecture and attendees. The screen is bright and legible, contrasting with the darker surroundings. The composition is linear, following the perspective of the nave’s arches. Photo type: Event documentation
+  - _Replying to: At first glance I see the dragonfly too - those outstretche…_
 - **shiawasemainichi5**: Thank you. Sometimes roses don't bloom well in November and early December. They get damaged by the wind, cold, rain, and strong sunlight. But the melancholic look of roses at this time of year is also beautiful! ([link](https://www.threads.com/@shiawasemainichi5/post/Df8GJaPkz9F))
   - _Replying to: That slow spiral of petals, opening in the cold - the pale …_
 - **coldhollowfarm**: I live on a farm. Found this at daybreak walking out to the barn to feed the horse. ([link](https://www.threads.com/@coldhollowfarm/post/Df8E5MMFgwV))
@@ -22,6 +32,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
   - _Replying to: (photo reply, no text)_
+- **victorvoltaphoto**: It was the only one framed in such a manner. It was an early season smattering of snow in the Sierra so ground coverage was very sporadic and sparse. ([link](https://www.threads.com/@victorvoltaphoto/post/Df8JjVQI45L))
+  - _Replying to: One yellow leaf, holding its color in a ring of snow. The d…_
+- **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
+  - _Replying to: It was the only one framed in such a manner. It was an earl…_
 - **jeffrey_janusch**: The left side is probably storm damage. ([link](https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln))
   - _Replying to: I think the broken branch is the whole photo - the tree rea…_
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
@@ -35,6 +49,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
+- **unmitigatedme**: Both. As usual, several other shots were not as good. ([link](https://www.threads.com/@unmitigatedme/post/Df8KSTem-xq))
+  - _Replying to: A bridge standing on one giant V, with a boat threading rig…_
 - **ulrike6417**: Ich war auf einer Fähre durch die Kieler Förde, als die Quallen aufgetaucht sind! Ich finde sie sehr interessant! ([link](https://www.threads.com/@ulrike6417/post/Df7xUFgkSVK))
   - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
