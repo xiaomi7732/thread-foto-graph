@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 235,
+      "reply_count": 238,
       "replies": [
+        {
+          "username": "32groove",
+          "text": "",
+          "permalink": "https://www.threads.com/@32groove/post/Df8FvbvD0TE",
+          "photos": [
+            "Description: A white, spiky, circular sculpture with concentric layers of pointed protrusions is centered against a solid black background, casting a distinct shadow on a dark surface below. Photograph read: The subject is evenly lit from the front, creating sharp highlights on the spikes and deep shadows in the recesses. The composition is symmetrical and centered, with no visible motion blur or focus issues. The surface beneath the sculpture shows a soft, diffuse shadow. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hippiecat51",
           "text": "I found this little driftwood guy along the shores of Lake Ontario and brought him home.",
@@ -281,7 +293,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jeffrey_janusch",
+                  "text": "The left side is probably storm damage.",
+                  "permalink": "https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "lucybarringtonjohn",
@@ -406,7 +429,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kidsdrs",
+                  "text": "Waited until the service was over.",
+                  "permalink": "https://www.threads.com/@kidsdrs/post/Df8FgyxGiS0",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2877,7 +2911,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 518,
+      "reply_count": 519,
       "replies": [
         {
           "username": "judmacd",
@@ -4032,7 +4066,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bluntnelson",
+                  "text": "Dusk sky from outside.",
+                  "permalink": "https://www.threads.com/@bluntnelson/post/Df8F4-mD2Az",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

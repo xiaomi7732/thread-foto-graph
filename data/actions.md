@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (110)
+## Needs Reply (114)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **32groove**:  ([link](https://www.threads.com/@32groove/post/Df8FvbvD0TE))
+  - Photo: Description: A white, spiky, circular sculpture with concentric layers of pointed protrusions is centered against a solid black background, casting a distinct shadow on a dark surface below. Photograph read: The subject is evenly lit from the front, creating sharp highlights on the spikes and deep shadows in the recesses. The composition is symmetrical and centered, with no visible motion blur or focus issues. The surface beneath the sculpture shows a soft, diffuse shadow. Photo type: Still life
 - **hippiecat51**: I found this little driftwood guy along the shores of Lake Ontario and brought him home. ([link](https://www.threads.com/@hippiecat51/post/Df8E951GQuH))
   - Photo: Description: A hand holds a weathered, irregularly shaped piece of driftwood against a plain, light-colored background. The object has a rough, textured surface with visible cracks and a pointed, upward-curving top. Photograph read: The image is captured with even, diffuse lighting, showing the object’s form and surface texture. The composition is centered, with the hand partially obscuring the lower portion of the object. The image has a shallow depth of field, with the object in focus but the background blurred. Photo type: Natural
     - Watch-outs: The hand obscures the lower third of the object, limiting visibility of its base and texture. The top portion of the object is slightly out of focus, reducing clarity of its upper contours.
@@ -20,8 +22,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
   - _Replying to: (photo reply, no text)_
+- **jeffrey_janusch**: The left side is probably storm damage. ([link](https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln))
+  - _Replying to: I think the broken branch is the whole photo - the tree rea…_
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
   - Photo: Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape
+- **kidsdrs**: Waited until the service was over. ([link](https://www.threads.com/@kidsdrs/post/Df8FgyxGiS0))
+  - _Replying to: I think the triangle steals it - the skylight cutting throu…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
@@ -98,6 +104,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
 - **katnealey**: Yes the mirror was the plan. ([link](https://www.threads.com/@katnealey/post/Df7i5NqpV0A))
   - _Replying to: The gold trees do all the talking in the glass, and the dir…_
+- **bluntnelson**: Dusk sky from outside. ([link](https://www.threads.com/@bluntnelson/post/Df8F4-mD2Az))
+  - _Replying to: The window holds two scenes in one pane - the dark door fro…_
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
