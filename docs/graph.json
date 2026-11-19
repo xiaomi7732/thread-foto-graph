@@ -10,8 +10,32 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 161,
+      "reply_count": 164,
       "replies": [
+        {
+          "username": "akmaleky",
+          "text": "",
+          "permalink": "https://www.threads.com/@akmaleky/post/Df7zpHen4GH",
+          "photos": [
+            "Description: The photograph shows a close-up, top-down view of numerous stacked white PVC pipes, with their circular openings facing the camera, creating a repeating pattern of concentric rings. Photograph read: The image is composed of overlapping circular pipe openings, with moderate contrast and a cool, desaturated color tone. Lighting is even across the scene, with no visible shadows or highlights indicating direction or source. The image lacks sharpness, and edges are soft, suggesting a shallow depth of field or low-resolution capture. Photo type: Industrial"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "elobernstein",
+          "text": "",
+          "permalink": "https://www.threads.com/@elobernstein/post/Df7zdXhmMxG",
+          "photos": [
+            "Description: The image shows a narrow, winding sandstone canyon with smooth, flowing contours, illuminated by a bright light source from above, casting warm tones across the rock surfaces. Photograph read: The composition is dominated by the curved canyon walls, with strong contrast between the brightly lit interior and the dark surrounding areas. The lighting creates highlights and shadows that emphasize the rock\u2019s texture and form. The image appears to be a single exposure with no visible signs of motion blur or focus issues. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "titan_actual86",
           "text": "",
@@ -300,7 +324,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "beckiefitzgerald",
+                  "text": "Not sure. Just know they aid in blooming.",
+                  "permalink": "https://www.threads.com/@beckiefitzgerald/post/Df7zSq3IOG9",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

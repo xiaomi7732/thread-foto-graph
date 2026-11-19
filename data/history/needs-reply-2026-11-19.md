@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (103)
+## Needs Reply (106)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/Df7zpHen4GH))
+  - Photo: Description: The photograph shows a close-up, top-down view of numerous stacked white PVC pipes, with their circular openings facing the camera, creating a repeating pattern of concentric rings. Photograph read: The image is composed of overlapping circular pipe openings, with moderate contrast and a cool, desaturated color tone. Lighting is even across the scene, with no visible shadows or highlights indicating direction or source. The image lacks sharpness, and edges are soft, suggesting a shallow depth of field or low-resolution capture. Photo type: Industrial
+- **elobernstein**:  ([link](https://www.threads.com/@elobernstein/post/Df7zdXhmMxG))
+  - Photo: Description: The image shows a narrow, winding sandstone canyon with smooth, flowing contours, illuminated by a bright light source from above, casting warm tones across the rock surfaces. Photograph read: The composition is dominated by the curved canyon walls, with strong contrast between the brightly lit interior and the dark surrounding areas. The lighting creates highlights and shadows that emphasize the rock’s texture and form. The image appears to be a single exposure with no visible signs of motion blur or focus issues. Photo type: Natural landscape
 - **titan_actual86**:  ([link](https://www.threads.com/@titan_actual86/post/Df7xdpVoMjj))
   - Photo: Description: The photograph shows a view of a deep blue sky with scattered white clouds, framed by dark tree silhouettes at the bottom and a partial architectural element in the upper left corner. Photograph read: The composition is vertical, with the sky occupying most of the frame. Lighting appears natural and diffused, casting soft shadows within the clouds. The rendering has a slightly desaturated, cool-toned color palette with visible texture in the clouds and foliage. Photo type: Aesthetic landscape
 - **kes_ward**: More by luck this one but the little heart in this tiny soap bubble that looks like an alien planet out in the universe somewhere. ([link](https://www.threads.com/@kes_ward/post/Df7w25tjHlV))
@@ -17,6 +21,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The beams cut the night into triangles, and that one light …_
 - **shellscorer**: I wish I’d brought him home but he was on lifeguard duty….. ([link](https://www.threads.com/@shellscorer/post/Df7xSxHiJVH))
   - _Replying to: Snout to the left, round little body, one dark ear - that i…_
+- **beckiefitzgerald**: Not sure. Just know they aid in blooming. ([link](https://www.threads.com/@beckiefitzgerald/post/Df7zSq3IOG9))
+  - _Replying to: The ants are doing the rounds on the bud while the ladybug …_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
