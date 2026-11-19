@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (125)
+## Needs Reply (128)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **c.h.skeetsussex.ac.uk**: I pick up the heart shaped stones I find. ([link](https://www.threads.com/@c.h.skeetsussex.ac.uk/post/Df8DW0UDOAv))
+  - Photo: Description: A collection of irregularly shaped stones rests on a white surface against a pale yellow wall; one large, heart-shaped stone is prominent on the right, while smaller, varied stones are arranged to its left. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional light. The surface and wall show texture, but the stones retain their form without motion blur or distortion. The resolution is sufficient to discern shapes and surface features, though not fine detail. Photo type: Documentary
+- **jane_st_pics**: This drew my attention as at first glance I thought it was a dragonfly! #Southwark Cathedral ([link](https://www.threads.com/@jane_st_pics/post/Df8CzZzEXvO))
+  - Photo: Description: A black-and-white image shows a carved stone or concrete figure of a crucified Christ with outstretched arms, mounted on a wall of large, light-colored rectangular blocks. A microphone stand is visible in the lower right foreground. Photograph read: The image is rendered in monochrome with visible texture and grain. Lighting appears to come from the upper left, casting a distinct shadow of the figure onto the wall. The composition is vertical, with the figure centered and the microphone stand in the foreground. Photo type: Architectural
+    - Watch-outs: The carved figure’s facial features and hands are indistinct due to low contrast and lack of fine detail. The shadow cast by the figure is blurred and lacks sharp definition, obscuring some of the figure’s form.
 - **shiawasemainichi5**: Flowers In The Cold ([link](https://www.threads.com/@shiawasemainichi5/post/Df7_TzBk8Dx))
   - Photo: Description: A single, partially opened rose with pale yellow petals hangs from a stem, accompanied by several unopened buds and green leaves against a uniformly dark, out-of-focus background. Photograph read: The subject is centrally positioned with soft focus, and the lighting is subdued, highlighting the flower’s form against a dark backdrop. Leaves and buds are visible but lack sharpness. The image has a shallow depth of field, with the background blurred. Photo type: Portrait
     - Watch-outs: - The main flower’s petals show soft edges and lack of fine texture due to shallow depth of field and low contrast. - The buds and leaves are indistinct, with some areas appearing slightly overexposed or washed out, reducing detail.
@@ -53,6 +58,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A toadstool that opened into a heart - red cap, white freck…_
 - **dth_exotics**: Not long! After the first flower bloomed it was less than 3 days before the rest followed ([link](https://www.threads.com/@dth_exotics/post/Df8AWrWFqJk))
   - _Replying to: The blooms fell into a heart all on their own. How long did…_
+- **mcoger55**: a golf ball 😂 ([link](https://www.threads.com/@mcoger55/post/Df8CP1zlMCK))
+  - _Replying to: A golf ball, growing in the grass - even the dimples are th…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
