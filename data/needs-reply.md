@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (104)
+## Needs Reply (106)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **jcallenderphotography**:  ([link](https://www.threads.com/@jcallenderphotography/post/Df7hDggFvFD))
@@ -50,6 +50,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
   - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
+- **5gttexbn**: If memory serves me right it was quite an early start,we had an appointment at the Pentagon and had to be prompt or muss our tour slit. ([link](https://www.threads.com/@5gttexbn/post/Df7hnnBEXuG))
+  - _Replying to: That ceiling does all the work - row after row of squares b…_
 - **srravi**:  ([link](https://www.threads.com/@srravi/post/Df7YPVVGqjJ))
   - Photo: Description: A close-up macro photograph of a green leaf, showing its central vein and branching venation pattern against a dark green background. Photograph read: The image is in focus with even lighting, revealing fine textures and vein structures. The leaf’s surface and vascular network are clearly rendered, with no visible motion blur or light falloff. Photo type: Macro
 
@@ -135,6 +137,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The wet sand hands the whole sunset back - orange clouds, p…_
 - **mike_g_crawley**: A group of birders stood next to the River Ribble near Preston watching a Belted Kingfisher (an extremely rare sight in the U.K.) ([link](https://www.threads.com/@mike_g_crawley/post/Df5LFddiFIj))
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
+- **brianroffe**: Mid afternoon I think. It's Morpeth in NE England ([link](https://www.threads.com/@brianroffe/post/Df7ha2XCG2n))
+  - _Replying to: The bridge gets a perfect twin and the trees come along und…_
 - **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
   - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
 - **jammy.kollings**: Yes-just like glass all day ([link](https://www.threads.com/@jammy.kollings/post/Df6RPpGlLLR))
