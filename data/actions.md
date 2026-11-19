@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (70)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/Df5-2LPGNTC))
+  - Photo: Description: Two brown, horned bovines stand on a dry, earthy bank beside a body of water, with their reflections visible in the surface. A thick rope or cable runs horizontally across the foreground, partially obscuring the view. Photograph read: The image is composed with the animals in the midground and their reflections in the foreground. Lighting appears natural and direct, casting clear shadows. The water surface shows gentle ripples, distorting reflections slightly. The rendering is clear enough to identify the subjects and their immediate surroundings. Photo type: Natural landscape
 - **bluntnelson**:  ([link](https://www.threads.com/@bluntnelson/post/Df597emoN5W))
   - Photo: Description: The image shows a view through a window with white mullions, reflecting interior elements like a dark door and a wall, while the exterior reveals a dimly lit parking lot with several cars and distant city lights at twilight. Photograph read: The composition is framed by window mullions, with reflections superimposed on the exterior scene. Lighting is low, with ambient twilight and artificial lights from the parking lot and distant buildings. The rendering is flat, with no visible depth cues or motion blur. Photo type: Reflection
     - Watch-outs: Reflections obscure exterior details; the dark door and wall interior are visible but not distinct from the window’s own surface. The parking lot and distant lights are visible but lack sharpness and detail due to low-light conditions.
@@ -61,6 +63,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
   - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
+- **thatguyale**: Most of my pics are all while walking this guy ([link](https://www.threads.com/@thatguyale/post/Df5-zlNGCXS))
+  - Photo: Description: A brown and white American Bully-type dog with a wrinkled face and protruding tongue stands on a paved surface, wearing a red harness with an orange collar; the background is out-of-focus green foliage. Photograph read: The image is a close-up portrait with shallow depth of field, focusing sharply on the dog’s face and upper body. Lighting is even and natural, likely daylight, with no visible shadows or overexposure. The background is softly blurred, and the dog’s fur texture and facial wrinkles are discernible. Photo type: Portrait
+  - _Replying to: A parked car and a dog walk - a good eye for the everyday._
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
   - _Replying to: The peaks come back so sharply the lake reads like a second…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
