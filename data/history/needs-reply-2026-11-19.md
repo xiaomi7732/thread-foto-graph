@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (117)
+## Needs Reply (119)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
+  - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
+- **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
+  - _Replying to: (photo reply, no text)_
 - **victorvoltaphoto**:  ([link](https://www.threads.com/@victorvoltaphoto/post/Df77oVfkv9d))
   - Photo: Description: A single yellow maple leaf rests on dark, wet soil within a snow-covered patch, with snow surrounding the exposed earth and a small mound of dirt to the left. Photograph read: The image is a close-up, with even lighting that highlights the leaf’s color and the granular texture of the snow. The soil and leaf are in sharp focus, while the snow edges show slight softness. No visible lens distortion or chromatic aberration. Photo type: Nature macro
 - **estella.haines**: Zinnia with a smiley face in the center. ([link](https://www.threads.com/@estella.haines/post/Df77LRPHUwW))
