@@ -10,8 +10,21 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 134,
+      "reply_count": 135,
       "replies": [
+        {
+          "username": "patricahewitt",
+          "text": "",
+          "permalink": "https://www.threads.com/@patricahewitt/post/Df7vYOGG7XR",
+          "photos": [
+            "Description: A hand holds a smooth, gray, heart-shaped stone against a blurred background of pebbles and brown seaweed on a shoreline. Photograph read: The image is taken with a shallow depth of field, keeping the hand and stone in focus while the background is out of focus. Lighting is even and diffused, with no harsh shadows or overexposed areas. The stone\u2019s surface texture is visible, but fine details are not sharply rendered. Photo type: Portrait",
+            "Description: The photograph shows a close-up of numerous smooth, rounded stones of varying sizes and shades of gray, with one larger, irregularly shaped stone prominently centered. Photograph read: The composition is tightly framed with stones filling the entire frame; lighting is even and diffuse, with no harsh shadows or highlights. The rendering is clear, showing surface textures and subtle color variations without visible compression artifacts or noise. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "reverendbenzo",
           "text": "",
@@ -1731,7 +1744,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 514,
+      "reply_count": 515,
       "replies": [
         {
           "username": "judmacd",
@@ -3614,7 +3627,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "rockmaninmd",
+                  "text": "Yosemite Valley my first trip there..",
+                  "permalink": "https://www.threads.com/@rockmaninmd/post/Df7vIY8pWLY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (109)
+## Needs Reply (111)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **patricahewitt**:  ([link](https://www.threads.com/@patricahewitt/post/Df7vYOGG7XR))
+  - Photo: Description: A hand holds a smooth, gray, heart-shaped stone against a blurred background of pebbles and brown seaweed on a shoreline. Photograph read: The image is taken with a shallow depth of field, keeping the hand and stone in focus while the background is out of focus. Lighting is even and diffused, with no harsh shadows or overexposed areas. The stone’s surface texture is visible, but fine details are not sharply rendered. Photo type: Portrait
+  - Photo: Description: The photograph shows a close-up of numerous smooth, rounded stones of varying sizes and shades of gray, with one larger, irregularly shaped stone prominently centered. Photograph read: The composition is tightly framed with stones filling the entire frame; lighting is even and diffuse, with no harsh shadows or highlights. The rendering is clear, showing surface textures and subtle color variations without visible compression artifacts or noise. Photo type: Still life
 - **reverendbenzo**:  ([link](https://www.threads.com/@reverendbenzo/post/Df7u-DXlsMi))
   - Photo: Description: The image captures a nighttime view looking upward through a metal-framed mesh structure, with a bright light source visible in the sky and trees below. Photograph read: The composition is angled, with the mesh frame dominating the foreground. Lighting is low, with a strong point source of light creating a glare and a visible streak. The background trees are dark and indistinct. The image exhibits motion blur or camera shake, particularly in the foreground mesh and background foliage. Photo type: Night photography with motion blur
     - Watch-outs: - Foreground mesh structure is blurred and partially out of focus, obscuring fine grid details. - Background foliage is indistinct due to low light and motion blur, preventing identification of individual leaves or branches.
@@ -117,6 +120,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
 - **iwriteandedit**: Thanks for your kind comment! ([link](https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-))
   - _Replying to: Not as often as I used to but I still visit every two years…_
+- **rockmaninmd**: Yosemite Valley my first trip there.. ([link](https://www.threads.com/@rockmaninmd/post/Df7vIY8pWLY))
+  - _Replying to: The granite comes back upside down in the river and the pin…_
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/Df5ibqlFh7A))
   - Photo: Description: The image shows a child’s reflection in a car’s side mirror, holding a blue and orange Nerf gun, with a blurred dinosaur figure visible in the background through the trees. Photograph read: The composition is framed by the mirror’s edge, with the child and gun in focus within the reflection. Lighting is bright and natural, with green foliage in the background. The mirror surface reflects the scene clearly, while the background beyond the mirror is out of focus. Photo type: Reflection
     - Watch-outs: The dinosaur figure in the background is blurred and indistinct, making its features unreadable. The child’s face in the reflection is partially obscured by the sunglasses and the angle of the mirror, limiting facial detail.
