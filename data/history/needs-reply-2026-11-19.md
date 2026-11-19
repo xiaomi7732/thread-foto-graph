@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (96)
+## Needs Reply (98)
 
 ### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
 - **jh1962bike**: Many thanks , and thank you for the ideas and prompts you take the time to post . ([link](https://www.threads.com/@jh1962bike/post/Df68QtTCBbf))
@@ -15,6 +15,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **puffin.oo**:  ([link](https://www.threads.com/@puffin.oo/post/Df7N4s-lssu))
+  - Photo: Description: A man in a dark suit walks past a light-colored wall, with the shadow of tree branches cast across the wall and a nearby car. The scene is urban, with a closed metal shutter visible on the building. Photograph read: The image is composed with strong contrast between bright surfaces and deep shadows. The man is rendered as a silhouette, and the tree shadows are sharply defined on the wall and car. The rendering appears to be a single exposure with no visible signs of digital noise or chromatic aberration. Photo type: Urban street photography
+    - Watch-outs: The man’s face is obscured by shadow, making facial features unreadable. The car’s surface reflects the tree shadows, obscuring any visible detail on its body.
+  - Photo: Description: A man and a woman stand in front of a large glass window displaying a black-and-white advertisement of a football player in a striped jersey. The couple appears to be interacting with the image, with their hands and faces partially superimposed over the reflection. Photograph read: The image is composed with the couple in the foreground and the advertisement reflected in the glass behind them. Lighting is even, with no visible shadows or highlights indicating a specific light source. The rendering is sharp on the couple and the advertisement, with no visible distortion or color aberration. Photo type: Commercial
+  - Photo: Description: A woman with curly hair, wearing a red top with white lace trim and a backpack, is visible beneath a red-and-white striped awning, with blurred foreground elements and indistinct figures in the background. Photograph read: The image exhibits motion blur and soft focus, with a shallow depth of field rendering the foreground and background indistinct. Lighting is warm and directional, casting shadows and highlights across the subject’s face and clothing. The composition is layered, with overlapping forms and reflections. Photo type: Street photography
+    - Watch-outs: Motion blur affects the foreground and background, obscuring fine detail on the woman’s face and clothing. The woman’s face is partially obscured by a translucent, blurred overlay from the foreground.
 - **achtung_wildwechsel**:  ([link](https://www.threads.com/@achtung_wildwechsel/post/Df7DwImDIJ0))
   - Photo: Description: A stone viaduct with multiple arches spans a misty river, with several small boats moored in the foreground; the scene is rendered in muted tones with a foggy atmosphere. Photograph read: The image is presented in grayscale with a flat, diffuse lighting condition; the viaduct and river reflect each other, and the boats are in the lower-left corner. The overall contrast is low, and the fog obscures fine texture in the background. Photo type: Documentary
 - **nickiddon**:  ([link](https://www.threads.com/@nickiddon/post/Df7CWstDWS4))
@@ -120,6 +126,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The peaks come back so sharply the lake reads like a second…_
 - **debi0528**:  ([link](https://www.threads.com/@debi0528/post/Df49PYapWfR))
   - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
+- **suz_sharperphotos**: The ripples were about to settle, I got there just in time. Too bad I wasn’t a minute earlier to fit the entire circle into the frame. I still like the outcome, however. ([link](https://www.threads.com/@suz_sharperphotos/post/Df7ONMpkREm))
+  - _Replying to: That swan is trailing its own reflection like a ribbon, and…_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))
