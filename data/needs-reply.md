@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (77)
+## Needs Reply (78)
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/Df6DkQaHEeb))
+  - Photo: Description: A calm body of water reflects a line of bare trees and dry vegetation along its edge, with foreground foliage partially obscuring the lower frame. Photograph read: The composition is horizontally divided, with the water surface mirroring the treeline. Lighting is subdued, casting soft shadows and muted tones; reflections are clear but not sharp. Rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Natural landscape
+  - Photo: Description: A calm body of water reflects the bare branches of trees and a distant bank lined with dry grass and shrubs; the foreground features out-of-focus reeds. Photograph read: The water surface is smooth, mirroring the sky and tree silhouettes; the foreground vegetation is softly blurred, while the bank and reflections are comparatively sharper. Lighting is even, suggesting daylight without harsh shadows or overexposure. Photo type: Natural landscape
+    - Watch-outs: - Foreground reeds are out of focus, obscuring fine texture and detail. - Reflections in the water are slightly distorted, indicating minor surface ripples or imperfections.
 - **katnealey**:  ([link](https://www.threads.com/@katnealey/post/Df6A6fCJQBe))
   - Photo: Description: The image shows a car’s side-view mirror reflecting a dirt road, a field with autumn-colored trees, and a forested hill under a blue sky. The outer edge of the frame includes green trees and a gravel shoulder. Photograph read: The mirror’s reflection captures a clear, bright outdoor scene with natural lighting. The mirror’s edge frames the image, and the car’s body is visible in the reflection. The reflection shows good contrast and detail, with no visible distortion or chromatic aberration. Photo type: Reflection
 - **fephi**: Reflection on the car window. ([link](https://www.threads.com/@fephi/post/Df5_pSKGcSa))
