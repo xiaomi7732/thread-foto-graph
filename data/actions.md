@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (93)
+## Needs Reply (92)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **kitlawson**: The sun came through and I snapped the shot. I like it. ([link](https://www.threads.com/@kitlawson/post/Df7bKbsEY9J))
@@ -15,14 +15,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A circular metal manhole cover with a grid of small holes is set into a paved surface made of interlocking concrete slabs. Several dry, brown leaves and a few green leaves are scattered around and on the cover. Photograph read: The image is taken from a high angle, with even, bright daylight illuminating the scene. The manhole cover and surrounding pavement are in sharp focus, with no visible motion blur or softness. The rendering preserves fine surface textures, including rust, screw heads, and leaf details. Photo type: Documentary
 - **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/Df7bBdLG3Xh))
   - Photo: Description: A single, dried maple leaf with red and brown hues lies on a dark, textured surface, possibly asphalt or pavement, with small debris scattered nearby. Photograph read: The leaf is in focus with visible veins and edges, illuminated by direct light casting a shadow. The background shows surface texture and minor debris. No signs of motion blur, focus issues, or color distortion are evident. Photo type: Documentary
-- **mommatex**: I didn’t want to get too close! ([link](https://www.threads.com/@mommatex/post/Df7bdyAm0xp))
-  - _Replying to: I think the tight crop is the right call - nothing in the f…_
+- **linda73linda**: First the rays, later on the heart Compliments for the topics you choose everyday ([link](https://www.threads.com/@linda73linda/post/Df7b2yMDSQp))
+  - _Replying to: A heart made of shadow and gold light, with the sun doing a…_
 - **hannele.heikkinen**: I spotted the figures while out for a walk, they had formed a crack in the ice right alongside the bridge. I always look at rivers and other watery spots—the ice, thin crust, cracks, reflections. I was out at just the right time, on my way back, they were already covered in snow. ([link](https://www.threads.com/@hannele.heikkinen/post/Df7bag4DuY4))
   - Photo: Description: A frozen body of water at night, with a prominent crack or fissure running through the ice, bordered by dark, wet-looking ice edges and lighter snow or ice patches. Distant lights from a treeline and possibly buildings are visible on the horizon under a gray sky. Photograph read: The image is taken at night with low ambient light, showing a wide, flat expanse of ice with a central crack. Lighting appears to come from a distant source, casting a warm glow on the ice surface and creating strong contrast between the dark ice and lighter patches. The image has a slightly soft focus and visible grain, with no sharp edges or fine textures discernible. Photo type: Night landscape
     - Watch-outs: - The central crack in the ice is indistinct, with blurred edges and no clear definition of its shape or depth. - The distant treeline and lights are fuzzy and lack detail, with no discernible structure or form.
   - _Replying to: Two figures, back to back, and neither one saying a word to…_
-- **bugs_eye_view_of_you**: A little triangle where the feathers meet as well. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/Df7bVg_oCHv))
-  - _Replying to: A whole duck, folded into one clean triangle on the ripples…_
 - **bugs_eye_view_of_you**: Caught the moment. ([link](https://www.threads.com/@bugs_eye_view_of_you/post/Df7bJW7oGHR))
   - _Replying to: A whole duck, folded into one clean triangle on the ripples…_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
@@ -252,7 +250,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (30)
+## Needs Like (32)
+
+### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- 2killamockingbird: Beautiful... ([link](https://www.threads.com/@2killamockingbird/post/Df7bnUxDjKG))
+- bugs_eye_view_of_you: ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/Df7cCJQIOYR))
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
 - marekoy1457:  ([link](https://www.threads.com/@marekoy1457/post/Df7DdTCkp5m))

@@ -10,8 +10,18 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 38,
+      "reply_count": 43,
       "replies": [
+        {
+          "username": "2killamockingbird",
+          "text": "Beautiful...",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/Df7bnUxDjKG",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kitlawson",
           "text": "The sun came through and I snapped the shot. I like it.",
@@ -73,10 +83,21 @@
                   "text": "I didn\u2019t want to get too close!",
                   "permalink": "https://www.threads.com/@mommatex/post/Df7bdyAm0xp",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83d\ude02\ud83d\ude02\ud83e\udd23",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7bmrrm9qv",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -124,7 +145,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "linda73linda",
+                  "text": "First the rays, later on the heart Compliments for the topics you choose everyday",
+                  "permalink": "https://www.threads.com/@linda73linda/post/Df7b2yMDSQp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -363,10 +395,32 @@
                   "text": "A little triangle where the feathers meet as well.",
                   "permalink": "https://www.threads.com/@bugs_eye_view_of_you/post/Df7bVg_oCHv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "And that little cute triangle too \ud83d\ude4c",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7b_nhG7Hw",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "bugs_eye_view_of_you",
+                          "text": "\u263a\ufe0f",
+                          "permalink": "https://www.threads.com/@bugs_eye_view_of_you/post/Df7cCJQIOYR",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "username": "bugs_eye_view_of_you",
