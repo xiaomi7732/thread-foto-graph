@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (98)
+## Needs Reply (100)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **reef_ausic**:  ([link](https://www.threads.com/@reef_ausic/post/Df7kK8noyJP))
+  - Photo: Description: A close-up view of a flower’s center, showing a cluster of yellow stamens atop a fuzzy, magenta-purplish receptacle, with blurred pink petals in the foreground and a soft, out-of-focus background. Photograph read: The image is a macro shot with shallow depth of field, focusing on the flower’s reproductive parts. Lighting is even and diffused, illuminating the textures without harsh shadows. The foreground petals are softly blurred, while the central structure is in sharper focus. Photo type: Macro
+    - Watch-outs: The foreground petals are significantly out of focus, obscuring the flower’s structure and reducing visual clarity. The central stamens and receptacle, though in focus, show fine texture details that are not fully resolved due to the shallow depth of field.
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7jeAZiOmV))
   - Photo: Description: A large, multi-tiered spiral sculpture hangs from the ceiling of a spacious, industrial-style interior, with exposed metal trusses and stone walls visible in the background. A sign below reads “THE CHIMNEY LIFT BATTERSEA POWER STATION.” Photograph read: The sculpture is composed of concentric, illuminated rings with black structural elements and orange glowing bands. Lighting is provided by embedded LEDs along the rings and overhead spotlights. The image is taken from a low angle, emphasizing the sculpture’s vertical scale and circular form. The background is moderately lit, with some areas in shadow. Photo type: Architectural
 - **derekrichards4229**:  ([link](https://www.threads.com/@derekrichards4229/post/Df7jN8NDfcv))
@@ -24,6 +27,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A cluster of brown, spiny-textured mushrooms grows against the rough bark of a tree trunk, with fallen leaves and dark soil at the base. Photograph read: The image is a close-up with natural, diffused lighting; the mushrooms are in focus, but the background bark and foreground leaves are slightly softer. The rendering preserves surface texture and color without obvious compression or noise. Photo type: Natural
   - Photo: Description: A cluster of brown, textured mushrooms grows among fallen leaves and green foliage on the forest floor, with some smaller, spiky fruiting bodies nearby. Photograph read: The image is taken at eye level with natural, diffused lighting; the main subject is in focus but the background shows soft depth-of-field blur. Leaves and mushrooms are rendered with natural color and texture, without visible signs of overexposure, underexposure, or motion blur. Photo type: Natural
   - _Replying to: How many domes are hiding in there? That big shaggy one in …_
+- **mike.bowden.garsten**: Thanks! Yes , these blooms don’t last long. ([link](https://www.threads.com/@mike.bowden.garsten/post/Df7kJwTFWiK))
+  - _Replying to: I think the tight crop is the right call - that pink spiral…_
 - **nechromance**: Hearts in nature appear to me often. I like to think that my loved ones who have passed are showing me the way ❤️ ([link](https://www.threads.com/@nechromance/post/Df7jBsyG6iC))
   - _Replying to: That teal heart in the middle of all those pebbles - did yo…_
 - **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
