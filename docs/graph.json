@@ -10,8 +10,32 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 193,
+      "reply_count": 196,
       "replies": [
+        {
+          "username": "victorvoltaphoto",
+          "text": "",
+          "permalink": "https://www.threads.com/@victorvoltaphoto/post/Df77oVfkv9d",
+          "photos": [
+            "Description: A single yellow maple leaf rests on dark, wet soil within a snow-covered patch, with snow surrounding the exposed earth and a small mound of dirt to the left. Photograph read: The image is a close-up, with even lighting that highlights the leaf\u2019s color and the granular texture of the snow. The soil and leaf are in sharp focus, while the snow edges show slight softness. No visible lens distortion or chromatic aberration. Photo type: Nature macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "estella.haines",
+          "text": "Zinnia with a smiley face in the center.",
+          "permalink": "https://www.threads.com/@estella.haines/post/Df77LRPHUwW",
+          "photos": [
+            "Description: A close-up of a bright magenta zinnia flower with a yellow center, set against a softly blurred green background. Photograph read: The flower is centered in the frame with even, natural lighting. The petals show texture and color saturation, while the background exhibits shallow depth of field. The center of the flower contains fine, yellow-tipped structures and a dark core, visible with clear detail. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jeffrey_janusch",
           "text": "This twisted tree I saw last week at Graceland Cemetery, Chicago.",
@@ -1719,7 +1743,18 @@
                           "needs_response": true,
                           "action": "reply",
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "fabienne_journey",
+                              "text": "De mijne was op 15 maart \ud83e\udd79",
+                              "permalink": "https://www.threads.com/@fabienne_journey/post/Df77ROIjr5U",
+                              "photos": [],
+                              "needs_response": true,
+                              "action": "reply",
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
