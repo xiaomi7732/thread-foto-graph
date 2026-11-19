@@ -113,8 +113,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 472,
+      "reply_count": 493,
       "replies": [
+        {
+          "username": "sarahcahillsena",
+          "text": "",
+          "permalink": "https://www.threads.com/@sarahcahillsena/post/Df7VFWjEcMp",
+          "photos": [
+            "Description: A bright green kayak is positioned at the foreground, pointing toward a calm river flanked by towering red rock cliffs under a clear blue sky. The water reflects the cliffs and sky, with some ripples disturbing the surface. Photograph read: The composition is centered on the kayak\u2019s bow, with the river and cliffs extending into the distance. Lighting is bright and direct, casting strong shadows on the right cliff face and illuminating the left cliff in warm tones. Reflections are visible but slightly distorted by surface ripples. The image appears to be captured from a first-person perspective, likely with a camera mounted on the kayak. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ritaveeps",
           "text": "",
@@ -149,7 +161,18 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "sarahcahillsena",
+              "text": "Water in the desert is always an amazing site, but this one is extra beautiful",
+              "permalink": "https://www.threads.com/@sarahcahillsena/post/Df7VMRukVl1",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "puffin.oo",
@@ -165,10 +188,21 @@
             "",
             "Motion blur affects the foreground and background, obscuring fine detail on the woman\u2019s face and clothing. The woman\u2019s face is partially obscured by a translucent, blurred overlay from the foreground."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That middle frame is the one - the footballer holds the whole window while the couple walks straight through him. Did you spot the layers first, or did the window do the work?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U14Am0m-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "achtung_wildwechsel",
@@ -177,10 +211,21 @@
           "photos": [
             "Description: A stone viaduct with multiple arches spans a misty river, with several small boats moored in the foreground; the scene is rendered in muted tones with a foggy atmosphere. Photograph read: The image is presented in grayscale with a flat, diffuse lighting condition; the viaduct and river reflect each other, and the boats are in the lower-left corner. The overall contrast is low, and the fog obscures fine texture in the background. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The viaduct doubles itself in the mist, arches and all, and the boats just wait below. Was the fog already that thick when you arrived?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U3Phmwdc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "marekoy1457",
@@ -199,10 +244,21 @@
           "photos": [
             "Description: A group of four people stand on a long, flat wooden structure floating on a vast, mirror-like body of water, with their reflections inverted below. The sky above is filled with scattered white clouds against a pale blue backdrop. Photograph read: The composition is symmetrical, with the horizon line dividing the sky and its reflection. Lighting is even and diffuse, suggesting an overcast or high-altitude sun. The rendering is soft, with visible grain and slight color cast, typical of film or analog capture. Photo type: Film photograph"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four people, two skies, and the raft floating right between them - which way is up in this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U4pXm5F7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "louisarobyn",
@@ -211,10 +267,21 @@
           "photos": [
             "Description: The image shows a low-angle, inverted view of several people standing inside a mirrored or reflective installation filled with numerous bright, vertical light strands, creating a starburst effect radiating from the center. Photograph read: The composition is radial, with light strands converging toward the center. Lighting is high-contrast, with bright reflections dominating the frame. The rendering is distorted due to the perspective and reflections, with visible fisheye or wide-angle distortion. Reflections of people are visible, but their features are not clearly defined. Photo type: Abstract"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think letting the mirrors do the work was the right call - your feet turn into a whole starburst and the lights just keep going. How long did you stand in there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U52Kmyem",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bedsheetcinema",
@@ -241,20 +308,42 @@
           "watch_outs": [
             "The foreground exhibits motion blur, reducing clarity of facial features and scarf texture. The background is slightly out of focus, obscuring fine details of the gallery walls and framed artworks."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The glass softens the whole gallery into a haze, and the ceiling lights smear right across the top of it. What drew you to shoot through the pane?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U7oHlK0-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "road_sidedaisy",
           "text": "",
           "permalink": "https://www.threads.com/@road_sidedaisy/post/Df67USID2eZ",
           "photos": [],
-          "needs_response": true,
-          "action": "like",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is that a cow the mirror caught? The whole field squeezes into that little glass, sky and all.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VJx0Fimn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "marysticht79",
@@ -263,10 +352,21 @@
           "photos": [
             "Description: A wide river flows under a clear blue sky with wispy clouds, flanked by tree-lined banks and distant hills; a single yellow buoy floats near the center. Photograph read: The composition is horizontally oriented, with the river occupying the foreground and midground, and the sky dominating the upper third. Lighting is bright and even, suggesting midday. The water surface reflects the sky and trees with minimal distortion, indicating a calm scene. The image has a natural color balance and moderate resolution. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How still does a river have to be to hold the whole sky like that? The banks double along both sides, and that little yellow buoy just sits in the middle of it all.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U89CFkGK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "juliet.4066",
@@ -278,10 +378,21 @@
           "watch_outs": [
             "- Water turbidity obscures fine detail of submerged leaves and objects, especially in the lower half of the frame. - Reflections and refractions on the transparent surface distort the view of the pipe and plastic object, making their shapes and edges indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The sky slips into the water between the leaves, and then there is that white shape holding the corner. What is it - a board, or part of the drain?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U-OIlYaD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "leearthur1109",
@@ -290,10 +401,21 @@
           "photos": [
             "Description: A circular water feature with a central upright stone, surrounded by a border of small pebbles and larger stone blocks, set into a paved area with grid-patterned tiles. Photograph read: The image is taken from a slightly elevated angle, showing the water\u2019s surface with ripples and reflections of warm light. The lighting suggests late afternoon or early morning, casting golden tones on the water\u2019s surface. The rendering is clear enough to distinguish the pebbles, stone border, and the central rock, though the water\u2019s surface has some motion blur. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That gold light is doing all the work in this one - the whole pool glows and the stone just stands in the middle of it. What time of day does the water catch the gold like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7U_jXIKWq",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "philwelch1961",
@@ -303,10 +425,21 @@
             "Description: A calm canal flanked by buildings and trees, with reflections visible on the water\u2019s surface under a clear sky. Photograph read: The canal stretches into the distance, with buildings on both sides and trees showing autumnal color. Reflections are clear in the water, though some surface ripples and floating debris are visible. Lighting suggests late afternoon or early morning, with soft shadows and a clear sky. Photo type: Urban landscape",
             "Description: The photograph shows a long, symmetrical indoor hall with a central water channel flanked by sculptures on wooden platforms, under a high, arched ceiling with a large stained-glass window at the far end. Photograph read: The composition is symmetrical, with the water channel leading the eye toward the distant stained-glass window. Lighting is even and diffuse, with reflections visible on the water surface. The ceiling and walls are rendered with clear architectural lines, and the sculptures are visible but not sharply detailed. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The canal hands the whole street back. Then the hall pours its sun window into the pool. What made you pair these two waters in one post?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VBCtoOL0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "andy.sutton.988",
@@ -315,10 +448,21 @@
           "photos": [
             "Description: A stone house with multiple windows and a dark roof is situated on a grassy slope, reflected in calm water in the foreground, with a large green hill rising behind it under a clear sky. Photograph read: The composition is symmetrical, with the house and its reflection centered. Lighting is bright and even, suggesting daylight. Rendering is clear enough to discern architectural features and textures, though some foliage and distant terrain lack fine detail. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How still does the lake have to be for the reflection to hold that sharp? That house doubles so cleanly the water looks like a second hillside.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VCgdIAKD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jerseylilly",
@@ -330,10 +474,32 @@
           "watch_outs": [
             "The entire image is obscured by condensation, limiting visibility of all subject detail. The window surface is covered with a uniform layer of droplets and haze, reducing contrast and clarity across the entire frame."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The red brick doubles in the water through the fogged glass, and the whole of Liverpool goes soft behind it. Did the condensation help the shot, or did you wipe a peephole first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VEB4lnL_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "jerseylilly",
+                  "text": "Neither it was just a mucky window",
+                  "permalink": "https://www.threads.com/@jerseylilly/post/Df7VKA0jTwG",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ristotuomarla",
@@ -342,10 +508,21 @@
           "photos": [
             "Description: A long, paved pier extends into calm water, with a few people visible on its upper walkway and steps. The scene is bathed in warm, low-angle sunlight, suggesting late afternoon or early morning. Photograph read: The composition is linear, with the pier receding into the distance. Lighting is directional, casting long shadows and highlighting the pier\u2019s structure. Reflections of the pier are visible in the water. The image appears sharp, with no visible motion blur or focus issues. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Was the sunset the reason for the walk, or a lucky extra? That gold light turns the whole pier into a second shoreline.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VFNKlncR",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "curtiscreager",
@@ -354,10 +531,21 @@
           "photos": [
             "Description: A lineup of sports cars, including a red convertible and a blue coupe, is parked on a wet surface that reflects them and the surrounding trees under a partly cloudy sky. Photograph read: The image is composed with the cars in the upper half and their reflections in the lower half, creating a symmetrical visual. Lighting is even and diffused, suggesting an overcast day. Rendering is clear, with visible details on the vehicles and reflections, though the reflections are slightly softer than the direct view. Photo type: Reflective landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think letting the wet asphalt do the doubling was the right call - the whole lineup comes back, and the red one just glows. Do you shoot the track often, or was this a one-off visit?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VHTBlZvM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "billi_rubin",
@@ -366,10 +554,21 @@
           "photos": [
             "Description: A round, circular mirror with a metallic frame is positioned against a textured, patterned fabric background, reflecting a sky with soft gradient tones and faint cloud streaks. Photograph read: The mirror\u2019s reflective surface captures a pale sky with horizontal bands of muted pink and lavender hues. The mirror\u2019s frame and mounting hardware are visible, and the fabric background shows a repeating floral or geometric pattern with a light, neutral base color. The lighting is even and diffuse, with no harsh shadows or high-contrast areas. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole pastel sky folded into one small mirror - was it already catching the sky, or did you angle it for the shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df7VIddEV4p",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joshwill.jpg",
@@ -399,10 +598,21 @@
                   "text": "whenever I see a mirror. I see a photo opportunity! it\u2019s taught me to not only enjoy the moment. but capture it (and quickly \ud83e\udd2d)! But it was just a nice night out with friends :)",
                   "permalink": "https://www.threads.com/@joshwill.jpg/post/Df6fFrSFFfS",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A mirror like that is worth the quick capture. Glad it found you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7VLJ1oIKe",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -436,10 +646,21 @@
                   "text": "Yes just a calm, quiet moment.",
                   "permalink": "https://www.threads.com/@hollymm63/post/Df6lvToG9zP",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Fog like that is worth the quiet wait. Lovely to hear it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7VMj5IND9",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -518,10 +739,21 @@
                   "text": "48 years of knowledge of this area.",
                   "permalink": "https://www.threads.com/@difishing/post/Df6ffeplsrx",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Forty-eight years of knowing a place shows in a frame like that.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7VN2boAxl",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
