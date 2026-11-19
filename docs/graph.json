@@ -13,8 +13,20 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 329,
+      "reply_count": 356,
       "replies": [
+        {
+          "username": "d1xshooter",
+          "text": "Not a particularly strong image, but the Brewer fever in MKE was amazing",
+          "permalink": "https://www.threads.com/@d1xshooter/post/Df59QD-le5v",
+          "photos": [
+            "Description: A low-angle view of a wet urban sidewalk reflecting surrounding buildings and a \u201cMILWAUKEE\u201d sign, with flowerbeds and decorative metallic sculptures on the right. Photograph read: The composition is a low-angle perspective with strong reflections on the wet pavement. Lighting is bright daylight, casting clear shadows and highlights on buildings and foliage. Reflections are sharp and detailed, indicating a clean, reflective surface. The image is in focus, with no visible motion blur or depth-of-field issues. Photo type: Urban landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "broup11",
           "text": "",
@@ -414,10 +426,32 @@
           "photos": [
             "Description: A black-and-white image shows a stone building with multiple windows, partially submerged in water, with its reflection visible in the foreground. Behind the building, a river or stream flows with visible turbulence, and the background includes rocky terrain and vegetation. Photograph read: The image is composed with the building and its reflection as the central focus, creating a mirrored effect across the water. Lighting appears even and diffused, with no strong directional shadows. The rendering is grainy, with moderate contrast and visible texture in the stone and water surface. Photo type: Archival"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the B&W suits this one - the mill gets a full second showing in the river, windows and all. Do you shoot this spot often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df589fTAHwk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "iwriteandedit",
+                  "text": "Not as often as I used to but I still visit every two years or so...",
+                  "permalink": "https://www.threads.com/@iwriteandedit/post/Df59HDRlAYM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "rockmaninmd",
@@ -426,10 +460,21 @@
           "photos": [
             "Description: A calm, clear river reflects towering granite cliffs and a bright blue sky, with green trees and shrubs lining the banks under direct sunlight. Photograph read: The composition is symmetrical, with the river\u2019s surface mirroring the mountains and sky. Lighting is bright and even, with strong contrast between the dark rock faces and the vivid reflections. Rendering is sharp, with visible textures in the water, rocks, and foliage. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The granite comes back upside down in the river and the pines just stand in the middle of it. Is this a bend you return to?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df58_GFAFJk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mixtapemissives",
@@ -441,10 +486,21 @@
           "watch_outs": [
             "The background is significantly blurred, obscuring fine details of the park and buildings. The reflection within the sphere is distorted and incomplete, limiting the clarity of the reflected scene."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The cherry gets a tiny twin inside the sphere, and the whole park folds itself into that little ball. How long did you hold it still for the shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df59Af_jkpr",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -453,10 +509,21 @@
           "photos": [
             "Description: A display of various woven hats mounted on a tiled wall, viewed through a wooden-framed window or glass panel, with some hats resting on a shelf below. Photograph read: The image is framed by a wooden border and shows a wall with a grid of blue-green tiles. Hats are arranged in rows, illuminated by overhead lights. A small potted plant sits on a wooden surface in the foreground. The image has a warm color cast and visible reflections on the glass surface. Photo type: Interior decor"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole wall of hats, twice over, and the glass just hands them all back at once. Did you catch your own reflection in there too?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df59BzwjkP9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "allison.ludwig.31",
@@ -470,10 +537,21 @@
             "- The upper portion of the image is uniformly dark, obscuring any identifiable features of the shoreline or distant objects. - The water surface, while detailed with glints, lacks texture or motion detail due to the monochrome rendering and lack of mid-tones.",
             "- Foreground branches obscure parts of the water surface, reducing visibility of texture and detail in those areas. - Background is uniformly dark, making it impossible to discern specific features or objects beyond the general tree line."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The river turns into a field of sparks, and the dark bank just frames it. What time of day does the light hit the water like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df59DIzG3Wb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jdicillo",
@@ -497,10 +575,21 @@
           "photos": [
             "Description: A snow-capped mountain silhouette stands against a star-filled night sky, with the Milky Way prominently visible; its reflection is mirrored in a calm body of water below, bordered by dark forest. Photograph read: The composition is symmetrical, with the mountain and sky mirrored in the water. Lighting is low, with the sky and reflection illuminated by starlight and the Milky Way\u2019s diffuse glow. Rendering is detailed in the sky and reflection, with the landmasses appearing as dark silhouettes. Photo type: Astrophotography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The mountain and the Milky Way both land twice, and the lake keeps the whole night sky in it. How long was the exposure for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df59Edejc1u",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "farmertubby76",
@@ -512,10 +601,21 @@
           "watch_outs": [
             "- Mirror surface: Visible smudges and fingerprints obscure parts of the reflected scene. - Reflection area: The mirror\u2019s edge and surface show signs of wear and dirt, reducing clarity of the reflected image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The mirror holds a whole pink sky and the road running straight through it. Were you on your way somewhere, or did you stop just for the sunset?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df59F97FH0L",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "raggedy_nan",
@@ -524,10 +624,21 @@
           "photos": [
             "Description: A cluster of eucalyptus trees stands on a bank beside calm water, with their reflections clearly visible in the surface. Rolling, forested hills form the background under a bright sky. Photograph read: The composition is symmetrical, with the trees and their reflections forming a vertical axis. Lighting is bright and even, suggesting daylight. The water surface is smooth, producing clear reflections. Rendering is sharp enough to discern tree branches and foliage detail. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The gum trees double so cleanly the bay looks like a second sky underneath. Did you catch it at first light?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df59HXbDT6a",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "esion77",
@@ -706,10 +817,21 @@
                   "text": "Quite a number of minutes. Maybe 10-15.",
                   "permalink": "https://www.threads.com/@tiv34/post/Df5kxDvCn3Y",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ten minutes of orange is a good trade.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59ItdkZrY",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -812,10 +934,21 @@
                   "text": "I thought about it first, but it wasn\u2019t obvious from the natural sidewalk. So I walked closer to see what angle provided and I was pleasantly surprised.",
                   "permalink": "https://www.threads.com/@wnedwardsphotography/post/Df5iQWfGWl8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Some angles only show themselves up close. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59KJADpmt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -846,10 +979,21 @@
                   "text": "The reflection makes it as though there are two sets of stairs on the dock. Nope\u20266 people up top behind me.",
                   "permalink": "https://www.threads.com/@hughietheliger/post/Df5st9NI73u",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Two sets of stairs for the price of one. Glad the dock gave you both.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59LhkjdFW",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -905,10 +1049,21 @@
                     "",
                     ""
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A fine set of favorites. Thanks for sharing them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59M8mDRiO",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -939,10 +1094,21 @@
                   "text": "Thanks! Sun had been up for a couple of hours. Still early morning.",
                   "permalink": "https://www.threads.com/@32groove/post/Df5k1twj85C",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Early mornings suit that lake. Glad the light held for you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59OPuDh0M",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -983,10 +1149,21 @@
                   "text": "It\u2019s a lake in the forest I go to glad you like it.",
                   "permalink": "https://www.threads.com/@muppy007/post/Df5iCguiGIH",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A forest lake like that is worth the regular visit.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59PvbkXBt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1017,10 +1194,21 @@
                   "text": "It was very early - probably about 6:30 a.m. The ripples didn't start until after the sun rose. My favorite little lake in northern Minnesota has beautiful sunrises.\u2600\ufe0f",
                   "permalink": "https://www.threads.com/@nanceharder81/post/Df5iRN1CST8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Sunrise before the ripples start is the best kind of quiet.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59RZ4FHXf",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1100,10 +1288,21 @@
                   "text": "It is a 250ft cell tower we had to climb to do some minor repairs. It's my highest climb.",
                   "permalink": "https://www.threads.com/@tooly_chinga/post/Df5iDugFsOg",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A 250-foot climb for one reflection is real commitment.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59SmqoUAz",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1143,10 +1342,21 @@
                       "text": "And yes. You can see the Sun just about to drop behind the mountain. And the good people around got to see a madman running down the beach to get to the waters edge before I lost the moment. \ud83d\ude0f\ud83d\udcf8",
                       "permalink": "https://www.threads.com/@gnd_moments_in_paradise/post/Df5j6DVCPbY",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "A sunset and a sprint to the water's edge - worth every step.",
+                          "permalink": "https://www.threads.com/@saars.foto/post/Df59USkjFPL",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1179,10 +1389,21 @@
                   "text": "This is one of my fav. Walks. It\u2019s a huge city park 32 acres developed, and 89 wooded\u2014with people trails throughout. I\u2019ve taken hundreds of pics here over the years and season to season.",
                   "permalink": "https://www.threads.com/@eelizjjjm/post/Df5xWxoIMR-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Hundreds of visits and it still hands you new frames.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59WKyEVyr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1239,10 +1460,21 @@
                   "text": "It didn't look \"right\" before hand. I took the photo because I thought it might look good anyway. It was only a really small puddle, i had to get really close to it... something made me get down there and look at the reflection. Flipped it, and was then \"woah... I like THAT!!!\"",
                   "permalink": "https://www.threads.com/@simon_thenoisygoat/post/Df5z3PqCPvq",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A small puddle and a big payoff.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59XnNjoPG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1285,10 +1517,21 @@
                   "text": "Nah, she's a typical cat....new hangout every day.",
                   "permalink": "https://www.threads.com/@p.a.tovo/post/Df5h1OJlCgz",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Nadine clearly knows her best spots.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59Y_Vker_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1322,10 +1565,21 @@
                   "text": "I wanted to capture as much of the reflection as I could",
                   "permalink": "https://www.threads.com/@picchic17/post/Df5iSpmmcQe",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The reflection was worth chasing. Glad you caught it this full.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59aU1DSus",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1356,10 +1610,21 @@
                   "text": "It was a perfectly calm day. I was in the right place at the right time.",
                   "permalink": "https://www.threads.com/@bumpy120/post/Df5ml03H7Xj",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Right place, right time, right calm.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59b1IkeTq",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1390,10 +1655,21 @@
                   "text": "An Audi with a high gloss on the hood and a cloudy day\u2026",
                   "permalink": "https://www.threads.com/@dwordops/post/Df5ygdNmGzI",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A cloudy day and a glossy hood - a good pairing.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59dTTm9R_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1447,10 +1723,21 @@
                   "text": "Thank you so much! I was on a hike with friends, not long at all\u2026 right time-right place; it\u2019s literally called Dream Lake in Rocky Mountain National Park",
                   "permalink": "https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Dream Lake suits its name. Glad the hike was worth it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59eo_gBRw",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1504,10 +1791,21 @@
                   "text": "Mineral. We were hiking in Kootenay National Park. Paint Pots Trail - iron rich mineral springs, red/orange mud caused by oxidized iron.",
                   "permalink": "https://www.threads.com/@caissiecat/post/Df5rpzQmf3g",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Iron-rich mud and a perfect little sky. A good trail to walk.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df59gBEDI2_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
