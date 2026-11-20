@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (138)
+## Needs Reply (141)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/Df8YCAXI84I))
+  - Photo: Description: The photograph shows a canal in Venice with colorful historic buildings lining the water, moored gondolas, and a wooden pier with two people walking on it. The sky is partly cloudy. Photograph read: The image is taken from a slightly elevated perspective, with the canal and buildings occupying the mid-ground. Lighting is natural daylight, with soft shadows and visible reflections on the water. The rendering is clear enough to discern architectural details and people, though the water surface has gentle ripples. Photo type: Documentary
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/Df8X9PTEnpv))
+  - Photo: Description: The image shows a view through dense foliage, with leaves and branches framing a bright, out-of-focus sky area in the center. Photograph read: The composition is dominated by dark, overlapping silhouettes of leaves and branches, with a bright, indistinct sky visible through the gaps. The rendering is low-contrast, with no discernible texture or detail in the foreground elements. Photo type: Unclear
+    - Watch-outs: - The central sky area is overexposed and lacks detail, making it unrecognizable as a specific feature. - Foreground foliage is underexposed and indistinct, with no visible texture or structure.
+- **lizetteguy**:  ([link](https://www.threads.com/@lizetteguy/post/Df8Xx4hEQKU))
+  - Photo: Description: The image shows a close-up of a collection of smooth, rounded stones and pebbles in a shallow, rocky area, with one distinct orange-yellow pebble near the center-right. Photograph read: The composition is tightly framed on the stones, with varied sizes and muted tones. Lighting appears diffuse, casting soft shadows between stones. The rendering has a slightly textured, painterly quality, with visible grain and color saturation that is not uniform across the image. Photo type: Naturalistic
 - **wang_fong_ya**: Nature’s own geometry. 💚🌿 I love how the lines and textures of a simple leaf can become a beautiful abstract composition. ([link](https://www.threads.com/@wang_fong_ya/post/Df8V8_BoLOt))
   - Photo: Description: The photograph shows a close-up of large, dark green leaves with prominent venation, likely from a tropical plant, with another leaf partially overlapping in the foreground. Photograph read: The composition is tightly framed on the leaf surface, with strong contrast between illuminated veins and shadowed areas. Lighting appears directional, casting deep shadows across the leaf’s texture. Rendering is sharp in the focused areas, but no visible artifacts or sensor noise are present. Photo type: Macro
 - **meservelee**:  ([link](https://www.threads.com/@meservelee/post/Df8Uax_DqOl))
