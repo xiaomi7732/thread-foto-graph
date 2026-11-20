@@ -99,8 +99,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 361,
+      "reply_count": 363,
       "replies": [
+        {
+          "username": "greenvelvetgarden",
+          "text": "",
+          "permalink": "https://www.threads.com/@greenvelvetgarden/post/Df9b8F8gXNj",
+          "photos": [
+            "Description: The image shows an outdoor scene with a tall, weathered stone obelisk and a smaller stone pedestal, surrounded by trees with green and yellowing leaves, under a partly cloudy sky. Photograph read: The composition is framed by tree branches overhead, with sunlight filtering through the leaves. The obelisk and pedestal are in partial shadow, with dappled light on the ground. The image has natural depth of field, with foreground elements slightly sharper than the background foliage. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "pandandalee",
           "text": "I found this baked potato on my bed",
@@ -1087,7 +1099,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "jane_st_pics",
+                          "text": "They did!!",
+                          "permalink": "https://www.threads.com/@jane_st_pics/post/Df9cojekfrM",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (129)
+## Needs Reply (130)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -12,6 +12,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @akmaleky Your pipes are slide two of the Shaped Thursday f…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **greenvelvetgarden**:  ([link](https://www.threads.com/@greenvelvetgarden/post/Df9b8F8gXNj))
+  - Photo: Description: The image shows an outdoor scene with a tall, weathered stone obelisk and a smaller stone pedestal, surrounded by trees with green and yellowing leaves, under a partly cloudy sky. Photograph read: The composition is framed by tree branches overhead, with sunlight filtering through the leaves. The obelisk and pedestal are in partial shadow, with dappled light on the ground. The image has natural depth of field, with foreground elements slightly sharper than the background foliage. Photo type: Natural
 - **pandandalee**: I found this baked potato on my bed ([link](https://www.threads.com/@pandandalee/post/Df9PyCVG_mj))
   - Photo: Description: A dark-furred cat with light-colored markings on its face and chest is curled on a patchwork quilt, with its head resting near the center of the frame. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The cat’s fur texture and the quilt’s patchwork patterns are visible, though not sharply defined. The edges of the quilt and surrounding fabric show natural folds and creases. Photo type: Natural
 - **grantpickup62**:  ([link](https://www.threads.com/@grantpickup62/post/Df9LYN2G8QT))
