@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (165)
+## Needs Reply (168)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **gingertom43**:  ([link](https://www.threads.com/@gingertom43/post/Df-AjVDDYjq))
+  - Photo: Description: A single yellow leaf lies on a dark, textured pavement composed of small pebbles and aggregate, with a few other small leaves scattered nearby. Photograph read: The image is captured from a high angle, showing the leaf as the central subject against a granular background. Lighting is even and diffuse, with no harsh shadows or highlights. The image has a uniform resolution with no visible distortion or chromatic aberration. Photo type: Documentary
+- **dougsphotomission**:  ([link](https://www.threads.com/@dougsphotomission/post/Df-Ae3MlNf7))
+  - Photo: Description: A small bird is silhouetted against a plain, gradient sky, perched on a single horizontal wire among three parallel wires. Photograph read: The image features a minimalist composition with three thin, dark horizontal lines against a smooth, vertically graded sky. The bird is a solid black silhouette with no visible texture or detail. Lighting is uniform and diffuse, creating a high-contrast silhouette without shadows or highlights on the subject. Photo type: Minimalist
+    - Watch-outs: The bird’s silhouette lacks discernible features, making identification of species or posture impossible. The entire image is rendered with uniform contrast, obscuring any potential texture or detail on the bird or wires.
+- **infamous_harsh1t**: A pole ([link](https://www.threads.com/@infamous_harsh1t/post/Df-AGRInzGI))
+  - Photo: Description: A weathered, cylindrical pole with peeling surface and a rusted metal bracket attached at an angle, set against a uniformly gray, featureless sky. Photograph read: The image is in black and white, with even, diffuse lighting that minimizes shadows. The composition is vertical, with the pole occupying the left side of the frame. The rendering preserves surface texture and rust patterns, but lacks sharpness or contrast. Photo type: Documentary
+    - Watch-outs: The main subject (pole and bracket) shows visible surface texture but lacks fine detail due to low contrast and soft focus. The bracket’s edges are indistinct, and the peeling paint lacks crisp definition.
 - **srravi**:  ([link](https://www.threads.com/@srravi/post/Df9__p_mo4F))
   - Photo: Description: A black-and-white photograph shows a wading bird, likely a black-winged stilt, standing upright on long legs with its reflection mirrored below in calm water. The bird is positioned centrally, facing left, against a uniform gray background. Photograph read: The composition is vertically symmetrical, with the bird and its inverted reflection occupying the center. Lighting is even and diffused, creating soft contrast without harsh shadows. The rendering is monochromatic, with no visible color information, and the image has a smooth, non-grainy texture. Photo type: Portrait
 - **sooroux**:  ([link](https://www.threads.com/@sooroux/post/Df9_7gaFlIk))
