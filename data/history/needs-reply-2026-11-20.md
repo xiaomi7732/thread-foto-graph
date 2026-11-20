@@ -4,9 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (225)
+## Needs Reply (228)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/Df-feG1khZq))
+  - Photo: Description: A brightly colored parrot with a red head, yellow chest, blue wings, and greenish underparts perches on a horizontal wire against a plain, light gray background. Photograph read: The subject is centered on a wire, with even, diffuse lighting that minimizes shadows. The image has a shallow depth of field, keeping the bird in focus while the background is uniformly out of focus. The parrot’s plumage shows clear color separation, but the wire is rendered as a simple, textured line. Photo type: Portrait
+- **fragilita_12**: My favorite two ([link](https://www.threads.com/@fragilita_12/post/Df-e8pEgPnY))
+  - Photo: Description: A lone figure stands on a paddleboard in the middle of a vast, calm ocean under a pale, uniformly colored sky, likely at dawn or dusk. Photograph read: The composition is vertically oriented with the horizon dividing the frame roughly in half. The sky is a smooth gradient of soft pink and lavender, while the water shows gentle ripples with muted reflections. The subject is a dark silhouette, standing upright with arms raised, holding a paddle. The image lacks visible sharpness or texture in the water or sky. Photo type: Silhouette
+    - Watch-outs: The subject is rendered as a silhouette with no discernible facial features or clothing details. The water surface lacks texture or fine detail, appearing as a uniform pattern of small ripples.
+  - Photo: Description: Two figures are in shallow water under a clear sky; one stands while the other sits on a swing suspended from a wooden frame, both casting reflections on the calm surface. Photograph read: The image has a wide, open composition with a bright, clear sky above and a flat, reflective water surface below. The subjects are silhouetted against the sky, and the water shows gentle ripples. The image appears to be captured with a standard camera, showing no visible signs of distortion or color aberration. Photo type: Landscape
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **zoeripley_studios**:  ([link](https://www.threads.com/@zoeripley_studios/post/Df-eU5xEUXK))
@@ -187,6 +193,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One duck and all that still water - no wonder it brings you…_
 - **kcus_ym_kcid**: I was using sigma 150-600mm at 600mm zoom in and do some cropping. The problem is not how close but how long that i waited for this moment. ([link](https://www.threads.com/@kcus_ym_kcid/post/Df-Tb_tAepg))
   - _Replying to: Flying straight at you, wings wide, and nothing else in the…_
+- **marci_prag**: It was right on the beach like that pretty close to the Shoreline. It was in Maui ([link](https://www.threads.com/@marci_prag/post/Df-e80IkgA3))
+  - _Replying to: That one bare branch, stretched right across the beach - wa…_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
 - **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))

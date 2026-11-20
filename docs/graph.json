@@ -13,8 +13,37 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 356,
+      "reply_count": 359,
       "replies": [
+        {
+          "username": "raijapoignand",
+          "text": "",
+          "permalink": "https://www.threads.com/@raijapoignand/post/Df-feG1khZq",
+          "photos": [
+            "Description: A brightly colored parrot with a red head, yellow chest, blue wings, and greenish underparts perches on a horizontal wire against a plain, light gray background. Photograph read: The subject is centered on a wire, with even, diffuse lighting that minimizes shadows. The image has a shallow depth of field, keeping the bird in focus while the background is uniformly out of focus. The parrot\u2019s plumage shows clear color separation, but the wire is rendered as a simple, textured line. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "fragilita_12",
+          "text": "My favorite two",
+          "permalink": "https://www.threads.com/@fragilita_12/post/Df-e8pEgPnY",
+          "photos": [
+            "Description: A lone figure stands on a paddleboard in the middle of a vast, calm ocean under a pale, uniformly colored sky, likely at dawn or dusk. Photograph read: The composition is vertically oriented with the horizon dividing the frame roughly in half. The sky is a smooth gradient of soft pink and lavender, while the water shows gentle ripples with muted reflections. The subject is a dark silhouette, standing upright with arms raised, holding a paddle. The image lacks visible sharpness or texture in the water or sky. Photo type: Silhouette",
+            "Description: Two figures are in shallow water under a clear sky; one stands while the other sits on a swing suspended from a wooden frame, both casting reflections on the calm surface. Photograph read: The image has a wide, open composition with a bright, clear sky above and a flat, reflective water surface below. The subjects are silhouetted against the sky, and the water shows gentle ripples. The image appears to be captured with a standard camera, showing no visible signs of distortion or color aberration. Photo type: Landscape"
+          ],
+          "watch_outs": [
+            "The subject is rendered as a silhouette with no discernible facial features or clothing details. The water surface lacks texture or fine detail, appearing as a uniform pattern of small ripples.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lenzscapes.de",
           "text": "",
@@ -1391,7 +1420,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "marci_prag",
+                  "text": "It was right on the beach like that pretty close to the Shoreline. It was in Maui",
+                  "permalink": "https://www.threads.com/@marci_prag/post/Df-e80IkgA3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
