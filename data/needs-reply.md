@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (137)
+## Needs Reply (140)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -38,6 +38,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That concrete slope cuts a clean triangle right through the…_
 - **00mrlonewolf00**: LITTLE HEARTS Little hearts trapping rain Dew drop on a clover Reflecting skies up above Impressive to discover. The mist it floats through the air Lands gently on its leaves Gathering all into the center Then rolls off to feed the trees. The earth provides the beauty Inspiration through a pen To capture fleeting miracles Before they fade again. ([link](https://www.threads.com/@00mrlonewolf00/post/Df9GSaBlAH8))
   - _Replying to: Hearts of clover holding little skies - that poem reads lik…_
+- **chicken_poop_shoes_**: I spotted it before I took the photo. Was hiking on the dunes and came across it randomly. Had to snap the pic! ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df9xOITFcdg))
+  - _Replying to: A heart, drawn in twigs on the sand - did you spot the loop…_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
   - _Replying to: (photo reply, no text)_
 - **galveston_walkabout**: The tree was a Norfolk pine ( called an island pine) in Galveston Texas . The trees grew for years and that year most of them died from freezing weather . The photo wasn’t black and white, there was no color for the phone camera to show. Gray skies, dead limbs and gray doves. ([link](https://www.threads.com/@galveston_walkabout/post/Df9j-q_Je5e))
@@ -68,6 +70,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A large, gnarled tree with thick, textured bark dominates the frame, standing in a grassy area with a person partially visible on the left. The tree’s branches spread widely, and the background includes a distant utility pole and a pale sky. Photograph read: The image is taken from a low angle, emphasizing the tree’s trunk and branching structure. Lighting is natural daylight, casting soft shadows on the ground. The rendering is clear enough to discern bark texture and surrounding vegetation, though some areas are slightly underexposed. Photo type: Natural
   - Photo: Description: A large, gnarled tree with thick, textured bark dominates the frame, standing in a grassy area with a wooden fence and residential structures visible in the background. Photograph read: The image is a vertical shot with natural daylight illuminating the tree’s trunk and branches. The composition centers on the tree’s massive, twisted form, with background elements slightly out of focus. Rendering is clear on the tree’s bark texture, though some areas are shadowed. Photo type: Natural
   - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
+- **lucybarringtonjohn**: I have two. Wind shaped junipers and ancient oak trees. ([link](https://www.threads.com/@lucybarringtonjohn/post/Df9x1etloDC))
+  - _Replying to: Every twist is a year of weather kept in the wood. Is there…_
 - **reef_ausic**: Can’t agree more ([link](https://www.threads.com/@reef_ausic/post/Df89WVZI6xt))
   - _Replying to: Mid-bloom is the perfect moment to catch it._
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
@@ -158,6 +162,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
 - **alaska.photographer**: This is a reflection of the grebe and baby. This is cropped from a wider shot with my 400mm. ([link](https://www.threads.com/@alaska.photographer/post/Df80PVCm8hm))
   - _Replying to: Is the grebe upside down, or did you flip the frame? The re…_
+- **oneillwendie**: He posed for me! ([link](https://www.threads.com/@oneillwendie/post/Df9wH-tFal3))
+  - _Replying to: A washing-machine knob doing mirror duty, and the orange ve…_
 - **katnealey**: Yes the mirror was the plan. ([link](https://www.threads.com/@katnealey/post/Df7i5NqpV0A))
   - _Replying to: The gold trees do all the talking in the glass, and the dir…_
 - **bluntnelson**: Dusk sky from outside. ([link](https://www.threads.com/@bluntnelson/post/Df8F4-mD2Az))

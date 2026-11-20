@@ -131,7 +131,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 368,
+      "reply_count": 370,
       "replies": [
         {
           "username": "___nila.savitri",
@@ -509,7 +509,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "chicken_poop_shoes_",
+                  "text": "I spotted it before I took the photo. Was hiking on the dunes and came across it randomly. Had to snap the pic!",
+                  "permalink": "https://www.threads.com/@chicken_poop_shoes_/post/Df9xOITFcdg",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1613,7 +1624,18 @@
                   "needs_response": false,
                   "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "lucybarringtonjohn",
+                      "text": "I have two. Wind shaped junipers and ancient oak trees.",
+                      "permalink": "https://www.threads.com/@lucybarringtonjohn/post/Df9x1etloDC",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4522,7 +4544,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 525,
+      "reply_count": 526,
       "replies": [
         {
           "username": "signhildthomas",
@@ -5553,7 +5575,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "oneillwendie",
+                  "text": "He posed for me!",
+                  "permalink": "https://www.threads.com/@oneillwendie/post/Df9wH-tFal3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
