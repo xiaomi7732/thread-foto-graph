@@ -4,9 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (277)
+## Needs Reply (280)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **embcelt82**:  ([link](https://www.threads.com/@embcelt82/post/Df-pmW5G4K5))
+  - Photo: Description: A black-and-white nighttime photograph shows a dark, paved area adjacent to a low building with a white door and window, illuminated by a single streetlight. A tall, vertical light source is visible on the right side of the frame. Photograph read: The image is composed with a single bright light source casting a spotlight on the pavement and building, creating strong contrast against the dark surroundings. The building’s features are partially visible, but details are obscured by shadow. The right side of the frame is dominated by a bright vertical element, likely a light fixture or sign, with minimal surrounding detail. Photo type: Night photography
+    - Watch-outs: - The area around the building’s window and door is underexposed, obscuring visible detail within those features. - The right side of the image is dominated by a bright vertical element, which causes overexposure and washes out texture or detail in the adjacent wall.
+- **embcelt82**: In the night ([link](https://www.threads.com/@embcelt82/post/Df-pgb2m53o))
+  - Photo: Description: A black-and-white nighttime photograph shows a dark, paved area adjacent to a low building with a white door and window, illuminated by a single streetlight. A tall, vertical light source is visible on the right side of the frame. Photograph read: The image is composed with a single bright light source casting a spotlight on the pavement and building, creating strong contrast against the dark surroundings. The scene is rendered in monochrome, with visible grain and high contrast between illuminated and shadowed areas. Photo type: Night photography
+    - Watch-outs: - The right side of the image, including the building’s wall and the vertical light source, is overexposed, obscuring texture and detail. - The left side of the image, particularly the building’s window and door, is underexposed, making internal details and the figure visible through the window indistinct.
 - **skymomma_rocks**:  ([link](https://www.threads.com/@skymomma_rocks/post/Df-pFU3o70C))
   - Photo: Description: A small, bright green frog with dark eyes and subtle yellowish underparts is perched on a large, broad green leaf. The leaf surface shows faint veins and minor surface imperfections. Photograph read: The image is taken with a shallow depth of field, resulting in the frog being in focus while the background and foreground leaf areas are softly blurred. Lighting is even and diffused, illuminating the subject without harsh shadows or overexposure. Photo type: Macro
 - **jojoguingona**:  ([link](https://www.threads.com/@jojoguingona/post/Df-oZdvEzAG))
@@ -373,14 +379,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The entire image exhibits significant grain, reducing fine detail across the subject’s face and background. - The right side of the image is uniformly bright and devoid of detail, suggesting overexposure or lack of subject in that area.
 - **asutris**: True. It's a pleasure. ([link](https://www.threads.com/@asutris/post/Df-DPo5nYNp))
   - _Replying to: Some shots are just about being there at the right second. …_
+- **kk.sur26**: While my friends were ordering their food, I spotted the light and lines, waited for someone to walk through, took several frames, and kept the one that worked 😅 Street photography is all about patience, timing, and keeping your eyes locked on the scene. ([link](https://www.threads.com/@kk.sur26/post/Df-pvSEE-Uo))
+  - _Replying to: One person crossing all that curved floor, small against th…_
 - **lindafedor6**: Shapes ([link](https://www.threads.com/@lindafedor6/post/Df9_5y4nK2c))
   - Photo: Description: A hand holds a mixed-media collage featuring a bird-like figure made of layered paper, a pink heart, and shredded paper, set against a background of printed dictionary pages with words like “heartless” and “hearth.” Photograph read: The image is taken at a slight angle, with even, diffuse lighting. The subject is in focus, but the background is slightly out of focus. The collage’s textures and layered materials are visible, though some text is partially obscured by paper overlays. Photo type: Mixed-media collage
   - _Replying to: The Shaped Thursday favorites are live - five shapes that s…_
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
-- **smilingjeannie**: Thank you for the recognition. These two leaves had fallen and landed as photographed - another reason they caught my eye was the simplicity of the composition. ([link](https://www.threads.com/@smilingjeannie/post/Df9oWnJm5q8))
-  - _Replying to: @smilingjeannie Your ginkgo fans are the middle slide of th…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **pat.sipatsi**: Thank you... and now it has grown into this size ☺️ ([link](https://www.threads.com/@pat.sipatsi/post/Df97dDuD8bu))
@@ -423,6 +429,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
+- **mummabear1963v**: Iam not sure but its very special and these 2 i took in Thailand in 2023 ([link](https://www.threads.com/@mummabear1963v/post/Df-pZNkgfrG))
+  - Photo: Description: A large, mature tree with a thick, gnarled trunk and extensive root system stands in a grassy area, surrounded by other trees and greenery; a person is visible in the background walking on a path. Photograph read: The image is taken from a low angle, capturing the tree’s base and upward trunk; lighting is natural daylight, with some areas in shadow and others brightly lit; the tree’s bark texture and root structure are visible, though not sharply detailed. Photo type: Natural landscape
+  - Photo: Description: A large, mature tree with thick, gnarled trunks and exposed roots dominates the foreground, set in a grassy park area with other trees and a person in the background. Photograph read: The image is taken from a low angle, capturing the tree’s base and trunk. Lighting is natural daylight, with some shadows cast by the tree’s canopy. The rendering is clear enough to discern bark texture and root structure, though some areas are slightly out of focus. Photo type: Natural landscape
+  - _Replying to: Sheffield Tasmania taken july this year_
 - **david.l.mcgee56**: Yes they do… ([link](https://www.threads.com/@david.l.mcgee56/post/Df-nK2LGfTe))
   - Photo: Description: The photograph shows two views of a large, ancient ginkgo tree with vibrant yellow foliage, set in an outdoor cemetery environment with gravestones and pathways visible. Photograph read: The images are composed as a split-screen, with each panel showing the tree from a different angle. Lighting is bright daylight, casting clear shadows and highlighting the tree’s canopy and trunk. Rendering is clear, with visible texture on the bark and leaf detail. Photo type: Natural
   - _Replying to: Louisville keeps its old trees well._
