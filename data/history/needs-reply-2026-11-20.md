@@ -4,9 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (168)
+## Needs Reply (172)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **travistribevibes**: North Dakota windmill in the fog ([link](https://www.threads.com/@travistribevibes/post/Df-FiC7lv1p))
+  - Photo: Description: A wind turbine stands in a flat, open field under an overcast sky, with a faint horizontal line of trees visible on the horizon. Photograph read: The image is monochrome with uniform, low-contrast lighting. The turbine’s tower and one blade are discernible, but the blade’s shape is indistinct and partially obscured by atmospheric haze. The foreground field shows faint texture, while the background is hazy and lacks sharp detail. Photo type: Unclear
+    - Watch-outs: - The turbine’s blade is partially obscured by haze, reducing its identifiable shape and edges. - The entire image exhibits a uniform, soft focus, making fine detail in the field and horizon indistinct.
+- **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
+  - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
+- **januaragazzo**: 💡 ([link](https://www.threads.com/@januaragazzo/post/Df-FaN_o-Qp))
+  - Photo: Description: A single illuminated, spherical light bulb hangs from a dark cable against a dusky sky with scattered clouds. Photograph read: The bulb is the central subject, emitting a bright, warm glow against a cool-toned, slightly overcast sky. The cable and connector are silhouetted. The image has a shallow depth of field, with the background sky softly out of focus. Photo type: Aesthetic
+- **l.squared2**:  ([link](https://www.threads.com/@l.squared2/post/Df-FN4zmxEs))
+  - Photo: Description: A single, orange-red leaf with visible venation floats on dark, still water, with a thin stem extending downward and light reflections on the surface. Photograph read: The leaf is centrally positioned, with a bright specular highlight and a smaller blueish reflection in the upper right. The water surface shows scattered small bright spots and a faint, elongated reflection trail. The image has a flat, uniform background with no discernible depth of field or motion blur. Photo type: Still life
+    - Watch-outs: - The leaf’s surface texture is partially obscured by the water’s reflections and glare, reducing visible detail. - The bright specular highlight near the stem partially obscures the stem’s form and the leaf’s attachment point.
 - **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/Df-E5RnIKTy))
   - Photo: Description: A small bird perches atop the glass globe of a lamp post against a uniformly gray sky. The bird’s posture and plumage are discernible but not sharply detailed. Photograph read: The image is composed with the lamp post centered, featuring a clear glass dome and dark metal base. Lighting is diffuse and even, with no strong shadows or highlights. The rendering is flat, with minimal texture or contrast. Photo type: Documentary
     - Watch-outs: The bird’s features are indistinct due to soft focus, particularly the head and eye region. The glass dome shows slight surface reflections and lacks sharp definition, reducing the contrast between the bird and its perch.
