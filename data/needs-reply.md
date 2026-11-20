@@ -4,9 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (157)
+## Needs Reply (162)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
+  - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
+- **special_ed04**:  ([link](https://www.threads.com/@special_ed04/post/Df-Dz2wG8Eu))
+  - Photo: Description: A solitary tree stands in a snow-covered field under a uniformly hazy, pale blue sky, with indistinct background features obscured by atmospheric conditions. Photograph read: The image exhibits a flat, monochromatic color palette dominated by light blue and white tones. The tree appears as a faint silhouette with minimal visible texture or branch detail. The entire scene lacks sharpness and contrast, with no discernible depth or foreground-background separation. Photo type: Unclear
+    - Watch-outs: - The entire image appears blurred; fine detail is not distinguishable. - The tree’s trunk and branches are indistinct, with no visible texture or structural definition.
+- **misterleroi**:  ([link](https://www.threads.com/@misterleroi/post/Df-DiMvFNnm))
+  - Photo: Description: A desert landscape at sunset, featuring a lone tree on the right, sparse vegetation, distant hills, and a sky with streaky clouds and a golden horizon. Photograph read: The composition is wide, with the tree and foreground terrain occupying the right and lower portions. Lighting is directional, casting long shadows and highlighting the horizon’s warm glow. The sky shows natural cloud patterns and color gradients. Rendering appears flat with no visible lens distortion or chromatic aberration. Photo type: Landscape
+- **remalysh**: Roseate Spoonbill ([link](https://www.threads.com/@remalysh/post/Df-DhqtIGw5))
+  - Photo: Description: A pink-winged bird, likely a roseate spoonbill, is captured in mid-flight against a clear blue sky, with a faint green treeline visible at the bottom edge. Photograph read: The bird is positioned in the right half of the frame, with its wings spread and body angled slightly upward. The sky is uniformly blue with no clouds. Lighting is bright and even, suggesting daylight. The bird’s plumage shows distinct coloration, but edges are not sharply defined. Photo type: Wildlife
 - **resnicklr**:  ([link](https://www.threads.com/@resnicklr/post/Df-DSngIKjT))
   - Photo: Description: A single yellow citrus fruit hangs from a thorny branch, with blurred green foliage in the background. Photograph read: The image has a shallow depth of field, with the fruit in focus and the background significantly out of focus. Lighting is even and diffused, illuminating the fruit’s surface without harsh shadows or overexposure. Photo type: Natural
     - Watch-outs: The fruit’s surface texture is indistinct due to soft focus and minor surface imperfections are not clearly resolved. The background foliage is uniformly blurred, obscuring any potential detail or context beyond general green tones.
@@ -40,11 +49,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think keeping the background that dark was the right call…_
 - **marinacasalribeiro**: Here where I live, in Portugal, there are many of them when the weather gets warmer, and they stay still for a long time. I went close by and was lucky that it didn't fly away right away. ([link](https://www.threads.com/@marinacasalribeiro/post/Df-DSesiPHw))
   - _Replying to: That red against the soft green is hard to look away from -…_
-- **srravi**: Many thanks 😊 the water was still here’s color iteration 👇 ([link](https://www.threads.com/@srravi/post/Df-Da-vGjb9))
+- **srravi**: Many thanks 😊 the water was still here’s color iteration 👇 also a ripple on its feet as it had moved: these are black winged stilts ([link](https://www.threads.com/@srravi/post/Df-Da-vGjb9))
   - Photo: Description: A black-winged stilt stands in shallow water, its long pink legs and slender black-and-white body reflected in the surface. The background is a uniform deep blue. Photograph read: The composition is vertical, with the bird and its reflection forming a near-symmetrical pair. Lighting is even and bright, illuminating the bird’s features and legs. Reflections are clear and undistorted, indicating calm water. No visible signs of motion blur, overexposure, or underexposure. Photo type: Still life
   - _Replying to: The reflection doubles the legs and somehow makes the bird …_
 - **difishing**: Yes thats why he whipped around. Smelled where i walked in ([link](https://www.threads.com/@difishing/post/Df-DOv9FARr))
   - _Replying to: Mid-stride and already halfway out of the frame - I think t…_
+- **luvsravens59**: I’m always looking at the sky and things around me. ([link](https://www.threads.com/@luvsravens59/post/Df-DuMbJQ0_))
+  - _Replying to: A half moon and two contrails crossing like a quiet X in th…_
 - **vidarhaaby**: She was just passing ([link](https://www.threads.com/@vidarhaaby/post/Df-C7MKiLol))
   - _Replying to: I think the wall does half the work here - all that pattern…_
 - **gus_arch96**: It was still there a minute later ([link](https://www.threads.com/@gus_arch96/post/Df-CU6ID4pv))
