@@ -6,9 +6,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (190)
+## Needs Reply (196)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **brandy3**: One boat, one moon ([link](https://www.threads.com/@brandy3/post/Df-WFXKGKVk))
+  - Photo: Description: A sailboat is visible on a dark sea under a large, orange full moon in a deep blue sky. The horizon is faintly discernible, with no other prominent features. Photograph read: The composition places the moon in the upper right quadrant and the sailboat in the lower left. The moon is rendered as a bright, circular disc with visible surface texture. The sea and sky exhibit a smooth gradient of blue tones, with minimal visible texture or detail on the boat or water surface. The image lacks sharpness or defined edges. Photo type: Aesthetic landscape
+    - Watch-outs: The sailboat is a silhouette with indistinct features; its sails and hull lack visible detail. The moon’s surface texture is visible but not resolved into fine craters or features.
+- **coasting09**:  ([link](https://www.threads.com/@coasting09/post/Df-V_buGDhJ))
+  - Photo: Description: A bright red, spherical fruit with a bumpy surface is centered among lush, green, ovate leaves on a tree branch, with a glimpse of blue sky and distant foliage in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit leaves and shaded areas. The main subject is in focus, but some leaves show minor imperfections and irregular edges. The background is softly out of focus, creating a shallow depth of field. Photo type: Natural
+- **lilybug1145**:  ([link](https://www.threads.com/@lilybug1145/post/Df-Vz5qJeTt))
+  - Photo: Description: A circular hole in a weathered wooden surface reveals the dark interior, where two small, triangular-shaped objects with reddish interiors and yellow edges are visible, possibly young birds or eggs. Photograph read: The image is taken from a close perspective, with the wood grain clearly visible. Lighting is uneven, with the interior of the hole in shadow and the outer wood showing natural tones and texture. The focus is centered on the hole’s opening, but the objects inside are not sharply defined. Photo type: Documentary
+    - Watch-outs: The interior of the hole is dark, obscuring fine details of the objects inside. The edges of the hole are slightly blurred, reducing the clarity of the surrounding wood texture.
+- **chickievegas**:  ([link](https://www.threads.com/@chickievegas/post/Df-Vw0to5V6))
+  - Photo: Description: A hot air balloon with vertical and horizontal striped patterns in yellow, orange, and gray floats above residential houses with stone and tile roofs. A white vehicle is parked in front of one house, and flowering bushes are visible in the foreground. Photograph read: The image is taken under clear, bright sky conditions with even illumination. The balloon is the central subject, positioned above the rooftops. The foreground houses and landscaping are in focus, with no visible motion blur or distortion. Photo type: Documentary
+- **crystalsenterbrown**:  ([link](https://www.threads.com/@crystalsenterbrown/post/Df-VwSPnZay))
+  - Photo: Description: A horizontal line of dark, silhouetted birds perched on a wire spans the lower portion of the frame, set against a uniformly gray, overcast sky. Photograph read: The composition is minimalist, with the birds and wire forming a thin horizontal band against a flat, featureless background. Lighting is diffuse and even, resulting in uniform shadows and no highlights or contrast on the birds. The image lacks visible texture or depth, with no discernible camera focus or lens aberrations. Photo type: Minimalist
 - **robinohrt**:  ([link](https://www.threads.com/@robinohrt/post/Df-VgdgD8AB))
   - Photo: Description: A three-masted sailing vessel with large, dark sails is underway on calm water under an overcast sky, with several people visible on deck and flags flying from the masts. Photograph read: The image is rendered in muted tones with diffuse, even lighting due to cloud cover. The subject is centered in the frame, with soft focus and minimal contrast, resulting in subdued detail across the sails, hull, and crew. Photo type: Photographic print or digital capture with soft focus and low contrast.
 - **ginamarie2221972**:  ([link](https://www.threads.com/@ginamarie2221972/post/Df-VBSlElWO))
@@ -103,6 +115,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **jayphex1**:  ([link](https://www.threads.com/@jayphex1/post/Df-TKHTlK6w))
   - Photo: Description: A silhouette of a bird perched atop a slender, curved branch against a uniformly light, featureless background. Photograph read: The image is monochrome with high contrast between the dark subject and the plain background. The subject is rendered as a solid black shape with no visible texture or detail. The branch and bird are sharply defined against the background, suggesting direct backlighting or silhouette capture. Photo type: Silhouette
   - _Replying to: (photo reply, no text)_
+- **debi0528**: That was Sept 14, 730 pm. Sitting on my porch facing West so the sunsets can be quite incredible! ([link](https://www.threads.com/@debi0528/post/Df-WJfpJRyT))
+  - _Replying to: A sliver of moon over the treetops, and the whole sky keepi…_
 - **artgowie**: This beach is about a half mile from my house and on my way to work. ([link](https://www.threads.com/@artgowie/post/Df-PMcBlnWi))
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
 - **marcinewiese**: I was actually just taking a picture of our apple trees in bloom...didn't see the jet until days later...lol ([link](https://www.threads.com/@marcinewiese/post/Df-SzjKGLYP))

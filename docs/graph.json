@@ -13,8 +13,74 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 323,
+      "reply_count": 329,
       "replies": [
+        {
+          "username": "brandy3",
+          "text": "One boat, one moon",
+          "permalink": "https://www.threads.com/@brandy3/post/Df-WFXKGKVk",
+          "photos": [
+            "Description: A sailboat is visible on a dark sea under a large, orange full moon in a deep blue sky. The horizon is faintly discernible, with no other prominent features. Photograph read: The composition places the moon in the upper right quadrant and the sailboat in the lower left. The moon is rendered as a bright, circular disc with visible surface texture. The sea and sky exhibit a smooth gradient of blue tones, with minimal visible texture or detail on the boat or water surface. The image lacks sharpness or defined edges. Photo type: Aesthetic landscape"
+          ],
+          "watch_outs": [
+            "The sailboat is a silhouette with indistinct features; its sails and hull lack visible detail. The moon\u2019s surface texture is visible but not resolved into fine craters or features."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "coasting09",
+          "text": "",
+          "permalink": "https://www.threads.com/@coasting09/post/Df-V_buGDhJ",
+          "photos": [
+            "Description: A bright red, spherical fruit with a bumpy surface is centered among lush, green, ovate leaves on a tree branch, with a glimpse of blue sky and distant foliage in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit leaves and shaded areas. The main subject is in focus, but some leaves show minor imperfections and irregular edges. The background is softly out of focus, creating a shallow depth of field. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lilybug1145",
+          "text": "",
+          "permalink": "https://www.threads.com/@lilybug1145/post/Df-Vz5qJeTt",
+          "photos": [
+            "Description: A circular hole in a weathered wooden surface reveals the dark interior, where two small, triangular-shaped objects with reddish interiors and yellow edges are visible, possibly young birds or eggs. Photograph read: The image is taken from a close perspective, with the wood grain clearly visible. Lighting is uneven, with the interior of the hole in shadow and the outer wood showing natural tones and texture. The focus is centered on the hole\u2019s opening, but the objects inside are not sharply defined. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "The interior of the hole is dark, obscuring fine details of the objects inside. The edges of the hole are slightly blurred, reducing the clarity of the surrounding wood texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "chickievegas",
+          "text": "",
+          "permalink": "https://www.threads.com/@chickievegas/post/Df-Vw0to5V6",
+          "photos": [
+            "Description: A hot air balloon with vertical and horizontal striped patterns in yellow, orange, and gray floats above residential houses with stone and tile roofs. A white vehicle is parked in front of one house, and flowering bushes are visible in the foreground. Photograph read: The image is taken under clear, bright sky conditions with even illumination. The balloon is the central subject, positioned above the rooftops. The foreground houses and landscaping are in focus, with no visible motion blur or distortion. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "crystalsenterbrown",
+          "text": "",
+          "permalink": "https://www.threads.com/@crystalsenterbrown/post/Df-VwSPnZay",
+          "photos": [
+            "Description: A horizontal line of dark, silhouetted birds perched on a wire spans the lower portion of the frame, set against a uniformly gray, overcast sky. Photograph read: The composition is minimalist, with the birds and wire forming a thin horizontal band against a flat, featureless background. Lighting is diffuse and even, resulting in uniform shadows and no highlights or contrast on the birds. The image lacks visible texture or depth, with no discernible camera focus or lens aberrations. Photo type: Minimalist"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "robinohrt",
           "text": "",
@@ -715,7 +781,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "debi0528",
+                  "text": "That was Sept 14, 730 pm. Sitting on my porch facing West so the sunsets can be quite incredible!",
+                  "permalink": "https://www.threads.com/@debi0528/post/Df-WJfpJRyT",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
