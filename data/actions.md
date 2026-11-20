@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (210)
+## Needs Reply (211)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **carakunzart**:  ([link](https://www.threads.com/@carakunzart/post/Df-aru_ICiD))
+  - Photo: Description: A desert landscape under a bright blue sky with scattered white clouds, featuring a weathered road signpost in the foreground and distant, low-lying hills on the horizon. Photograph read: The image is taken from a roadside perspective with strong sunlight casting a distinct shadow of the signpost onto the gravel ground. The sky is vividly blue with well-defined cloud formations. The foreground terrain is textured with pebbles and sparse vegetation. The horizon shows muted, undulating terrain with no discernible motion blur or focus issues. Photo type: Natural landscape
 - **mrs.trellis**:  ([link](https://www.threads.com/@mrs.trellis/post/Df-aQlTjbt2))
   - Photo: Description: A gravel path extends through a forested area, flanked by dense green vegetation and tall trees, with a partly cloudy sky visible above. Photograph read: The path is centered in the frame, leading into the distance. Lighting is natural daylight, with some shadows cast by the foliage. The image has a shallow depth of field, with the foreground path in focus and the background gradually blurring. Photo type: Natural landscape
 - **wildrootslens**:  ([link](https://www.threads.com/@wildrootslens/post/Df-Zy74HfMW))
