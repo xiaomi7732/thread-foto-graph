@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (129)
+## Needs Reply (128)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -16,10 +16,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @32groove Your spiral sculpture is slide four of the Shaped…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
-- **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Df95F3MlL8B))
-  - Photo: Description: A circular manhole cover embedded in a paved surface, featuring a raised relief design of a fire truck, stars, and the Japanese characters “消火栓” (fire hydrant), set against a yellow background. Photograph read: The image is a direct, overhead shot with even, diffuse lighting. The manhole cover is in focus, showing clear relief details. The surrounding pavement consists of rectangular, speckled tiles with visible grout lines. Photo type: Documentary
-- **grantpickup62**: In a hedgerow in the farmland close to our house ([link](https://www.threads.com/@grantpickup62/post/Df95-iGERqR))
-  - _Replying to: A heart with a hole in it, or a hole in the shape of a hear…_
+- **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/Df96bTOkbIC))
+  - _Replying to: Right by home, and worth every step of the walk. Thank you …_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
   - _Replying to: (photo reply, no text)_
 - **galveston_walkabout**: The tree was a Norfolk pine ( called an island pine) in Galveston Texas . The trees grew for years and that year most of them died from freezing weather . The photo wasn’t black and white, there was no color for the phone camera to show. Gray skies, dead limbs and gray doves. ([link](https://www.threads.com/@galveston_walkabout/post/Df9j-q_Je5e))
