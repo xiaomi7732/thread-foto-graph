@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (123)
+## Needs Reply (124)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/Df9Joo9jjFt))
+  - Photo: Description: The photograph shows a close-up of large, deeply veined green leaves with a prominent water droplet resting on one, reflecting the leaf’s surface and surrounding environment. Smaller droplets are scattered across the leaves, and thin, dry branches are visible in the foreground and background. Photograph read: The composition is centered on the water droplet, with the leaves filling the frame. Lighting appears to be directional, creating highlights on the leaf veins and droplets, while shadows deepen in the crevices. The rendering preserves surface texture and detail, though some areas are darker and less defined. Photo type: Macro
 - **dolly_dimple123**:  ([link](https://www.threads.com/@dolly_dimple123/post/Df9CrxuiDUC))
   - Photo: Description: A single red leaf with serrated edges and visible veins is in focus, speckled with water droplets, set against a blurred green and brown background. Photograph read: The leaf is centrally framed with shallow depth of field, creating a soft background. Lighting appears diffuse, illuminating the leaf’s surface evenly without harsh shadows or highlights. The image has a natural color rendering with no obvious color distortion or clipping. Photo type: Macro
     - Watch-outs: The leaf’s surface shows water droplets, which are visible but not sharply defined; the droplets appear slightly blurred due to shallow depth of field. The background is uniformly out of focus, obscuring any potential context or detail beyond the leaf.
