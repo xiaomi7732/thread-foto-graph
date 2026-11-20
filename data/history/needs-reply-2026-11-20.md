@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (197)
+## Needs Reply (199)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **jen.isenor**:  ([link](https://www.threads.com/@jen.isenor/post/Df-vnBxkQBs))
@@ -94,10 +94,15 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Four quiet corners of the sea, from Jan Mayen to the Solent…_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
+- **pattijphoto**: It was a classical piece. I love the candid moments. Dress rehearsal. Quite awhile ago. Too many to remember ☺️ ([link](https://www.threads.com/@pattijphoto/post/Df-wAI9EZfq))
+  - Photo: Description: Three ballet dancers in colorful dresses stand on pointe with arms extended, positioned on a dark stage against a solid red backdrop. Photograph read: The dancers are evenly lit from the front, casting soft shadows on the stage floor. The image has a shallow depth of field, with the central dancer slightly more in focus than the others. The stage floor reflects some light, and the backdrop is uniformly lit with no visible texture or detail. Photo type: Performance photography
+  - _Replying to: One dancer in a single spotlight, with the whole dark stage…_
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
 - **carakunzart**: We were leaving the Grand Canyon and heading to California. ([link](https://www.threads.com/@carakunzart/post/Df-tFADHzr7))
   - _Replying to: All that empty desert, and the signpost still gets the last…_
+- **yvetime**: Yes, that is a stork. ([link](https://www.threads.com/@yvetime/post/Df-v2PuDejc))
+  - _Replying to: One bird in a hazy sky, barely more than a dark shape. Was …_
 - **life.as.art**: 5 a.m. Totally worth it. ([link](https://www.threads.com/@life.as.art/post/Df-tlgdFWnh))
   - _Replying to: One bare tree against a sunrise sky, with the mountains fad…_
 - **seniorfitgal**: It was that blue. It was in Iceland ([link](https://www.threads.com/@seniorfitgal/post/Df-tcIbn7bC))

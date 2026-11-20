@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 580,
+      "reply_count": 582,
       "replies": [
         {
           "username": "jen.isenor",
@@ -1598,7 +1598,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pattijphoto",
+                  "text": "It was a classical piece. I love the candid moments. Dress rehearsal. Quite awhile ago. Too many to remember \u263a\ufe0f",
+                  "permalink": "https://www.threads.com/@pattijphoto/post/Df-wAI9EZfq",
+                  "photos": [
+                    "Description: Three ballet dancers in colorful dresses stand on pointe with arms extended, positioned on a dark stage against a solid red backdrop. Photograph read: The dancers are evenly lit from the front, casting soft shadows on the stage floor. The image has a shallow depth of field, with the central dancer slightly more in focus than the others. The stage floor reflects some light, and the backdrop is uniformly lit with no visible texture or detail. Photo type: Performance photography"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1973,7 +1986,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "yvetime",
+                  "text": "Yes, that is a stork.",
+                  "permalink": "https://www.threads.com/@yvetime/post/Df-v2PuDejc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
