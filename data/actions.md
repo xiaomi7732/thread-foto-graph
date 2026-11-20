@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (196)
+## Needs Reply (197)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **jstvy**:  ([link](https://www.threads.com/@jstvy/post/Df-Wp_sn81Y))
+  - Photo: Description: An iguana perched on a rocky outcrop overlooks a vast, sunlit ocean under a clear sky; the animal’s tail features distinct black-and-white bands. Photograph read: The image is taken from a slightly elevated angle, with the ocean filling the background and the iguana as the central subject. Lighting is bright and direct, casting minimal shadows. The image appears to be a standard digital capture with no visible signs of distortion or compression artifacts. Photo type: Natural landscape
 - **brandy3**: One boat, one moon ([link](https://www.threads.com/@brandy3/post/Df-WFXKGKVk))
   - Photo: Description: A sailboat is visible on a dark sea under a large, orange full moon in a deep blue sky. The horizon is faintly discernible, with no other prominent features. Photograph read: The composition places the moon in the upper right quadrant and the sailboat in the lower left. The moon is rendered as a bright, circular disc with visible surface texture. The sea and sky exhibit a smooth gradient of blue tones, with minimal visible texture or detail on the boat or water surface. The image lacks sharpness or defined edges. Photo type: Aesthetic landscape
     - Watch-outs: The sailboat is a silhouette with indistinct features; its sails and hull lack visible detail. The moon’s surface texture is visible but not resolved into fine craters or features.
