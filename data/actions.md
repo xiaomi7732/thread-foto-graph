@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (134)
+## Needs Reply (136)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/Df8xclgHPfI))
+  - Photo: Description: The photograph shows a close-up of layered, fan-shaped fungi with concentric rings of brown, gray, and beige tones, growing densely on a dark, textured surface. Photograph read: The composition is tightly framed with no visible background, emphasizing the fungi’s layered structure. Lighting is even and diffuse, revealing surface texture without harsh shadows or highlights. Rendering is sharp across the visible subject, with no apparent motion blur or compression artifacts. Photo type: Macro
+- **purlygirl**:  ([link](https://www.threads.com/@purlygirl/post/Df8vydMkUN5))
+  - Photo: Description: The photograph shows a close-up of a tree trunk with a large, irregularly shaped hole or cavity, surrounded by rough, textured bark. A small green leaf is visible inside the cavity. The background includes a clear blue sky and some out-of-focus yellow foliage. Photograph read: The image is a close-up shot with even, natural lighting, likely taken outdoors during daylight. The focus is sharp on the tree trunk and the hole, with no visible signs of motion blur or focus falloff. The background is softly blurred due to depth of field, but no technical flaws are evident in the rendering. Photo type: Natural close-up
 - **00mrlonewolf00**: RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees. ([link](https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl))
 - **filiascriptoris**: This cloud that reminded me of an eagle. I captured it the best I could from the bus window. ([link](https://www.threads.com/@filiascriptoris/post/Df8ooWFjLNJ))
   - Photo: Description: The image shows a bright, circular light source partially obscured by textured, layered clouds against a dark sky. The clouds exhibit varied tones, including white, gray, and a distinct blue-green patch. Photograph read: The composition is dominated by the central light source, with clouds framing it. Lighting is high-contrast, with the light source appearing overexposed and the surrounding areas in shadow. Rendering shows visible texture in the clouds but lacks sharpness or fine detail. Photo type: Atmospheric
@@ -342,7 +346,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (36)
+## Needs Like (37)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - beckiefitzgerald: For sure! ([link](https://www.threads.com/@beckiefitzgerald/post/Df7-rFGD42M))
@@ -354,6 +358,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - road_sidedaisy: Yes. Cows ([link](https://www.threads.com/@road_sidedaisy/post/Df70pf-GjOD))
 - shel_bee_g: Daily ([link](https://www.threads.com/@shel_bee_g/post/Df684L1nMzZ))
 - tiabird_brain23: The 2nd ([link](https://www.threads.com/@tiabird_brain23/post/Df7ffv5JX3o))
+- lynnelizabethdow64: 🏆 ([link](https://www.threads.com/@lynnelizabethdow64/post/Df8wncvFFgY))
 - dasimscas:  ([link](https://www.threads.com/@dasimscas/post/Df5p9A2jIw2))
 - allison.ludwig.31: Late afternoon . ([link](https://www.threads.com/@allison.ludwig.31/post/Df6CPB2DFFT))
 - don_blasco: 🤔 ([link](https://www.threads.com/@don_blasco/post/Df7nj_pjFMi))
