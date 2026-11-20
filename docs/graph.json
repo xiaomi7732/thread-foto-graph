@@ -13,8 +13,47 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 130,
+      "reply_count": 134,
       "replies": [
+        {
+          "username": "shel_bee_g",
+          "text": "",
+          "permalink": "https://www.threads.com/@shel_bee_g/post/Df-E5RnIKTy",
+          "photos": [
+            "Description: A small bird perches atop the glass globe of a lamp post against a uniformly gray sky. The bird\u2019s posture and plumage are discernible but not sharply detailed. Photograph read: The image is composed with the lamp post centered, featuring a clear glass dome and dark metal base. Lighting is diffuse and even, with no strong shadows or highlights. The rendering is flat, with minimal texture or contrast. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "The bird\u2019s features are indistinct due to soft focus, particularly the head and eye region. The glass dome shows slight surface reflections and lacks sharp definition, reducing the contrast between the bird and its perch."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "trotta.james",
+          "text": "",
+          "permalink": "https://www.threads.com/@trotta.james/post/Df-E4a6kSHQ",
+          "photos": [
+            "Description: The photograph shows a clear blue sky with the tops of several trees visible at the bottom edges, framed against the sky, and a bright sun flare in the upper right corner. Photograph read: The composition is dominated by the expansive sky, with tree canopies occupying the lower portion. The sun is overexposed, creating a prominent lens flare. The trees appear as silhouettes with some leaf detail visible, but no fine texture or structure is discernible in the foliage. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "pappaga11a",
+          "text": "",
+          "permalink": "https://www.threads.com/@pappaga11a/post/Df-EuP5lOir",
+          "photos": [
+            "Description: A crescent moon and two faint point-like objects are visible against a dark, gradient sky that transitions from near-black at the top to lighter gray at the bottom. Photograph read: The image is monochrome with a smooth vertical gradient from dark to light. The crescent moon is positioned near the upper center, and the two point sources are separated vertically, one above and one below the moon. No visible motion blur, noise, or chromatic aberration is present. Photo type: Astronomical"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lindamu11aney",
           "text": "",
@@ -1105,7 +1144,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "travel.marvin",
+                  "text": "It\u2019s been a while, but I believe it was with a lens. I think it was Santa Monica Beach, so they were used to people.",
+                  "permalink": "https://www.threads.com/@travel.marvin/post/Df-E6ViFsMj",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

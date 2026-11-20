@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (164)
+## Needs Reply (168)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/Df-E5RnIKTy))
+  - Photo: Description: A small bird perches atop the glass globe of a lamp post against a uniformly gray sky. The bird’s posture and plumage are discernible but not sharply detailed. Photograph read: The image is composed with the lamp post centered, featuring a clear glass dome and dark metal base. Lighting is diffuse and even, with no strong shadows or highlights. The rendering is flat, with minimal texture or contrast. Photo type: Documentary
+    - Watch-outs: The bird’s features are indistinct due to soft focus, particularly the head and eye region. The glass dome shows slight surface reflections and lacks sharp definition, reducing the contrast between the bird and its perch.
+- **trotta.james**:  ([link](https://www.threads.com/@trotta.james/post/Df-E4a6kSHQ))
+  - Photo: Description: The photograph shows a clear blue sky with the tops of several trees visible at the bottom edges, framed against the sky, and a bright sun flare in the upper right corner. Photograph read: The composition is dominated by the expansive sky, with tree canopies occupying the lower portion. The sun is overexposed, creating a prominent lens flare. The trees appear as silhouettes with some leaf detail visible, but no fine texture or structure is discernible in the foliage. Photo type: Landscape
+- **pappaga11a**:  ([link](https://www.threads.com/@pappaga11a/post/Df-EuP5lOir))
+  - Photo: Description: A crescent moon and two faint point-like objects are visible against a dark, gradient sky that transitions from near-black at the top to lighter gray at the bottom. Photograph read: The image is monochrome with a smooth vertical gradient from dark to light. The crescent moon is positioned near the upper center, and the two point sources are separated vertically, one above and one below the moon. No visible motion blur, noise, or chromatic aberration is present. Photo type: Astronomical
 - **lindamu11aney**:  ([link](https://www.threads.com/@lindamu11aney/post/Df-EW6VlsDK))
   - Photo: Description: A black-and-white wading bird stands in shallow water, with its reflection visible on the surface. The background features dense green aquatic vegetation along the water’s edge, and the water reflects a blue sky with white clouds. Photograph read: The composition is vertically oriented, with the bird centered in the lower half of the frame. The water surface is relatively still, showing clear reflections of the sky and the bird. Lighting is bright and even, suggesting daylight. Rendering is sharp on the bird and its reflection, with minimal visible noise or compression artifacts. Photo type: Natural
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
@@ -72,6 +79,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Three drops, one branch, and nothing else asking for attent…_
 - **camaze**: The water was just that still that day at the St John’s River in Forida ([link](https://www.threads.com/@camaze/post/Df-Bk_IkayJ))
   - _Replying to: The poles are barely there and their reflections do half th…_
+- **travel.marvin**: It’s been a while, but I believe it was with a lens. I think it was Santa Monica Beach, so they were used to people. ([link](https://www.threads.com/@travel.marvin/post/Df-E6ViFsMj))
+  - _Replying to: That gull looks completely unbothered by the whole city beh…_
 - **abnerabel125**: It actually stayed there until after the shot. Then I accidentally knocked it off with my camera . ([link](https://www.threads.com/@abnerabel125/post/Df-CN7NFBTo))
   - _Replying to: The whole green world squeezed into one drop - I keep looki…_
 - **sahelstreams**: I think it noticed me… but so far off he/she didn’t really care ([link](https://www.threads.com/@sahelstreams/post/Df-BdVilOcf))
