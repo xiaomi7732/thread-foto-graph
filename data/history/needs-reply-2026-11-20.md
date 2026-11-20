@@ -4,7 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (128)
+## Needs Reply (132)
+
+### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **photopattyrn**:  ([link](https://www.threads.com/@photopattyrn/post/Df975ReIOZB))
+  - Photo: Description: A bright, circular light source, likely the moon, is partially obscured by clouds in a dark sky, with the silhouette of a palm tree visible at the bottom left. Photograph read: The image shows a night sky with diffuse cloud formations and a prominent luminous disc. The palm tree appears as a dark silhouette with motion blur. The clouds are rendered with soft edges and varying brightness, suggesting a long exposure or low-light capture. Photo type: Night landscape
+    - Watch-outs: - The entire image exhibits motion blur, affecting both the palm tree silhouette and the clouds, reducing fine detail. - The bright central light source is overexposed, causing a loss of detail in its immediate vicinity and creating a glare that obscures surrounding cloud texture.
+- **dwordops**:  ([link](https://www.threads.com/@dwordops/post/Df97zO4IDjM))
+  - Photo: Description: A translucent ice formation encases a thin, greenish stem, with the ice extending downward in a pointed tip; the background consists of out-of-focus, grayish branches. Photograph read: The image is a close-up with shallow depth of field, focusing on the ice-covered stem; lighting is diffuse, creating soft highlights on the ice surface without harsh shadows or overexposure. Photo type: Macro
+    - Watch-outs: The ice’s surface shows minor surface imperfections and trapped air bubbles, reducing clarity of the stem’s texture. The background blur obscures any context or scale of the subject.
+- **kk.sur26**:  ([link](https://www.threads.com/@kk.sur26/post/Df97fDBoBIr))
+  - Photo: Description: A black-and-white, high-angle shot captures a lone person walking across a large, curved, abstractly patterned floor in an indoor space, with a curved staircase and railings visible to the right. Photograph read: The image is taken from a high vantage point with a wide-angle lens, creating a curved distortion at the edges. Lighting is even and diffuse, with no visible shadows or highlights indicating a specific light source. The rendering is monochrome, with no visible color information. Photo type: Architectural
+    - Watch-outs: The main subject is partially obscured by the curved floor pattern, reducing legibility of clothing and posture. The staircase area is dark and indistinct, with low contrast making railings and figures on the upper level unreadable.
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -16,6 +27,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @32groove Your spiral sculpture is slide four of the Shaped…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **pat.sipatsi**: Thank you... and now it has grown into this size ☺️ ([link](https://www.threads.com/@pat.sipatsi/post/Df97dDuD8bu))
+  - Photo: Description: The photograph shows large, heart-shaped green leaves of a potted plant, likely an Anthurium or similar tropical species, in a white ribbed pot. Other potted plants and a window with vertical bars are visible in the background. Photograph read: The image is taken from a slightly low angle, with natural daylight illuminating the leaves. The leaves are in focus, showing clear vein patterns, while the background is softly out of focus. The composition is centered on the plant’s foliage, with some surrounding plants and a tiled floor visible. Photo type: Still life
+  - _Replying to: I think the white veins are what sell it - they draw the he…_
 - **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/Df96bTOkbIC))
   - _Replying to: Right by home, and worth every step of the walk. Thank you …_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
