@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (160)
+## Needs Reply (162)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **grayghostlife**:  ([link](https://www.threads.com/@grayghostlife/post/Df-QSPEGRU4))
+  - Photo: Description: A snail with a striped, yellowish-brown shell and dark body is positioned on a textured piece of driftwood. In the blurred background, a fish with long, flowing fins in purple, black, and yellow hues is visible. Photograph read: The image has a shallow depth of field, with the snail in focus and the background fish and surrounding elements significantly out of focus. Lighting appears even and diffused, illuminating the snail and driftwood clearly. The rendering preserves surface texture on the snail and wood but lacks sharpness in the background. Photo type: Macro
+    - Watch-outs: The background fish is indistinct due to motion blur and shallow depth of field, obscuring its form and fin details. The snail’s shell and body are in focus, but the surrounding driftwood texture is not uniformly sharp across the entire surface.
+- **jeanlouisbaugnon**: ▓ ([link](https://www.threads.com/@jeanlouisbaugnon/post/Df-QJhoFCrV))
+  - Photo: Description: The image shows a blurred, indistinct shape against a textured, dark background, with visible streaks of light and shadow suggesting motion or camera shake. Photograph read: The composition is dominated by a pattern of fine, wavy lines across the frame, with a central, vaguely triangular or leaf-like form that is out of focus. Lighting appears to originate from behind or above the subject, casting highlights and shadows across the textured surface. Photo type: Unclear
+    - Watch-outs: - Whole-image blur: The entire image exhibits motion blur or camera shake, obscuring fine detail and making subject identification difficult. - Low contrast: The subject lacks sharp edges and is rendered as a soft, indistinct shape against a dim background, reducing readability.
 - **seattle2vegas1**:  ([link](https://www.threads.com/@seattle2vegas1/post/Df-PonsFEoq))
   - Photo: Description: A rainbow arcs across a cloudy sky above the Pyramid of the Sun and the HyperX Esports Arena in Las Vegas, with a Sphinx statue and a distant obelisk visible in the foreground. Photograph read: The image captures a wide-angle view with natural daylight illuminating the scene; the rainbow is vivid and centrally positioned, while the buildings and statues are rendered with moderate contrast against the overcast sky. The pyramid’s surface shows a grid pattern, and the arena’s signage is legible. Photo type: Landscape
 - **allison.ludwig.31**: Little green spider in the middle. ([link](https://www.threads.com/@allison.ludwig.31/post/Df-Pj7JGHgD))
