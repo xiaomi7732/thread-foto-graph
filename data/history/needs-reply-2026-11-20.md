@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (236)
+## Needs Reply (240)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **riverrock608**: One photo is a hard choice. ([link](https://www.threads.com/@riverrock608/post/Df-1nbiER4g))
+  - Photo: Description: The image shows a dirt path leading through a forested area, with sunlight filtering through trees and casting bright highlights. A dark, possibly wooden structure is visible on the left side of the frame. Photograph read: The composition is framed by the dark structure on the left, with the path receding into the woods. Sunlight creates strong backlighting, resulting in bright glows through the foliage and some lens flare. The image appears to be captured with a standard camera, showing natural depth of field and no visible signs of digital artifacts. Photo type: Natural
+- **bhuda0416**:  ([link](https://www.threads.com/@bhuda0416/post/Df-1XnDFUAg))
+  - Photo: Description: A crescent moon is visible in the upper right quadrant against a uniformly black background, with no discernible stars or other celestial objects. Photograph read: The moon is partially illuminated, showing surface texture and craters, but the image lacks sharpness or defined edges. The background is completely black with no visible noise or artifacts. Photo type: Astronomical
 - **lschumm13**:  ([link](https://www.threads.com/@lschumm13/post/Df-1UaVGvI8))
   - Photo: Description: A person wearing a purple Champion t-shirt is captured from a low angle, looking upward against a clear blue sky; their face is partially illuminated by sunlight, with eyes closed and head tilted back. Photograph read: The image is taken from below, with the subject occupying the lower portion of the frame and the sky filling the rest. Lighting is direct and strong, casting shadows on the subject’s neck and face. The image appears sharp in the visible areas, with no apparent motion blur or focus issues. Photo type: Portrait
 - **hibbys_cheap_watches**:  ([link](https://www.threads.com/@hibbys_cheap_watches/post/Df-1A9tn4oF))
@@ -153,6 +157,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **carakunzart**: We were leaving the Grand Canyon and heading to California. ([link](https://www.threads.com/@carakunzart/post/Df-tFADHzr7))
   - _Replying to: All that empty desert, and the signpost still gets the last…_
+- **mrs.trellis**: Trees, trees and more trees! ([link](https://www.threads.com/@mrs.trellis/post/Df-1z43Gzu2))
+  - _Replying to: A gravel path going straight into the green, with the trees…_
 - **wildrootslens**: A teeny tiny world within it. Kind of like Whoville in a snowflake 😂 ([link](https://www.threads.com/@wildrootslens/post/Df-w1PIEabg))
   - _Replying to: That droplet is holding a whole little rainbow in it._
 - **yvetime**: Yes, that is a stork. ([link](https://www.threads.com/@yvetime/post/Df-v2PuDejc))
@@ -177,6 +183,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A small white bird in all that dark green - it is barely th…_
 - **tantesaysgo**: Destiny? ([link](https://www.threads.com/@tantesaysgo/post/Df-yA0BEVo1))
   - _Replying to: A vine reaching across the sky, all curls and thin green li…_
+- **nix633**: No idea I’m afraid, but I would say a year or two given the weathered paint and the state of the wood! ([link](https://www.threads.com/@nix633/post/Df-1hrhiHwp))
+  - _Replying to: An old boat resting on the pebbles, with the cliffs behind …_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.

@@ -13,8 +13,32 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 621,
+      "reply_count": 625,
       "replies": [
+        {
+          "username": "riverrock608",
+          "text": "One photo is a hard choice.",
+          "permalink": "https://www.threads.com/@riverrock608/post/Df-1nbiER4g",
+          "photos": [
+            "Description: The image shows a dirt path leading through a forested area, with sunlight filtering through trees and casting bright highlights. A dark, possibly wooden structure is visible on the left side of the frame. Photograph read: The composition is framed by the dark structure on the left, with the path receding into the woods. Sunlight creates strong backlighting, resulting in bright glows through the foliage and some lens flare. The image appears to be captured with a standard camera, showing natural depth of field and no visible signs of digital artifacts. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bhuda0416",
+          "text": "",
+          "permalink": "https://www.threads.com/@bhuda0416/post/Df-1XnDFUAg",
+          "photos": [
+            "Description: A crescent moon is visible in the upper right quadrant against a uniformly black background, with no discernible stars or other celestial objects. Photograph read: The moon is partially illuminated, showing surface texture and craters, but the image lacks sharpness or defined edges. The background is completely black with no visible noise or artifacts. Photo type: Astronomical"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lschumm13",
           "text": "",
@@ -2169,7 +2193,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mrs.trellis",
+                  "text": "Trees, trees and more trees!",
+                  "permalink": "https://www.threads.com/@mrs.trellis/post/Df-1z43Gzu2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3055,7 +3090,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nix633",
+                  "text": "No idea I\u2019m afraid, but I would say a year or two given the weathered paint and the state of the wood!",
+                  "permalink": "https://www.threads.com/@nix633/post/Df-1hrhiHwp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
