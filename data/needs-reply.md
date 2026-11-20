@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (240)
+## Needs Reply (241)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **dontmfpanic**:  ([link](https://www.threads.com/@dontmfpanic/post/Df-2YR1GQRk))
+  - Photo: Description: A white seagull with a red beak and legs stands on wet sand near a shallow pool of water, with its reflection visible in the puddle. Photograph read: The image is captured in natural daylight with moderate contrast; the seagull is in focus, but the background shows soft, diffuse texture. The water’s surface reflects the bird’s lower body and legs, creating a distorted, elongated image. The sand and water exhibit natural gradients and subtle ripples. Photo type: Natural
 - **riverrock608**: One photo is a hard choice. ([link](https://www.threads.com/@riverrock608/post/Df-1nbiER4g))
   - Photo: Description: The image shows a dirt path leading through a forested area, with sunlight filtering through trees and casting bright highlights. A dark, possibly wooden structure is visible on the left side of the frame. Photograph read: The composition is framed by the dark structure on the left, with the path receding into the woods. Sunlight creates strong backlighting, resulting in bright glows through the foliage and some lens flare. The image appears to be captured with a standard camera, showing natural depth of field and no visible signs of digital artifacts. Photo type: Natural
 - **bhuda0416**:  ([link](https://www.threads.com/@bhuda0416/post/Df-1XnDFUAg))
