@@ -13,8 +13,50 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 384,
+      "reply_count": 387,
       "replies": [
+        {
+          "username": "thecorktraveller",
+          "text": "",
+          "permalink": "https://www.threads.com/@thecorktraveller/post/Df-jtJXCMkQ",
+          "photos": [
+            "Description: The image shows a close-up of a mushroom cap covered in small, raised, white-tipped bumps, with a blurred background of muted brown and green tones. Photograph read: The subject is in focus, but the background is out of focus. Lighting is even and diffuse, with no harsh shadows or highlights. The image has a shallow depth of field, and the mushroom\u2019s surface texture is visible but not sharply defined. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The mushroom cap\u2019s surface texture is not sharply resolved, with some bumps appearing slightly soft or indistinct. The background is uniformly blurred, obscuring any contextual detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "aimeeday5883",
+          "text": "",
+          "permalink": "https://www.threads.com/@aimeeday5883/post/Df-jjtZknMb",
+          "photos": [
+            "Description: The photograph shows a low-angle view of tall green grass in the foreground, with a bright blue sky and scattered white clouds above. Photograph read: The composition is dominated by the sky, with grass occupying the lower third. Lighting is bright and even, suggesting daylight. The image appears to be captured with a standard camera, showing natural color rendition and no obvious distortion. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "katnealey",
+          "text": "",
+          "permalink": "https://www.threads.com/@katnealey/post/Df-jfnnmoaK",
+          "photos": [
+            "Description: A close-up shows a brown, dried leaf with a frozen droplet hanging from its tip, set against a blurred background of white snow and dark branches. Photograph read: The leaf and ice droplet are in focus, with the background rendered out of focus. Lighting appears diffuse, illuminating the leaf\u2019s texture and the ice\u2019s reflective surface. The image has a shallow depth of field, with no visible signs of color cast, noise, or distortion. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The background is heavily blurred, obscuring any discernible detail beyond the leaf and ice. The ice droplet\u2019s surface reflects surrounding elements, but the reflection is not sharp enough to identify specific objects."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "0lindar",
           "text": "",

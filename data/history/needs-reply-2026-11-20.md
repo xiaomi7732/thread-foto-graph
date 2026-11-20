@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (252)
+## Needs Reply (255)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **thecorktraveller**:  ([link](https://www.threads.com/@thecorktraveller/post/Df-jtJXCMkQ))
+  - Photo: Description: The image shows a close-up of a mushroom cap covered in small, raised, white-tipped bumps, with a blurred background of muted brown and green tones. Photograph read: The subject is in focus, but the background is out of focus. Lighting is even and diffuse, with no harsh shadows or highlights. The image has a shallow depth of field, and the mushroom’s surface texture is visible but not sharply defined. Photo type: Macro
+    - Watch-outs: The mushroom cap’s surface texture is not sharply resolved, with some bumps appearing slightly soft or indistinct. The background is uniformly blurred, obscuring any contextual detail.
+- **aimeeday5883**:  ([link](https://www.threads.com/@aimeeday5883/post/Df-jjtZknMb))
+  - Photo: Description: The photograph shows a low-angle view of tall green grass in the foreground, with a bright blue sky and scattered white clouds above. Photograph read: The composition is dominated by the sky, with grass occupying the lower third. Lighting is bright and even, suggesting daylight. The image appears to be captured with a standard camera, showing natural color rendition and no obvious distortion. Photo type: Landscape
+- **katnealey**:  ([link](https://www.threads.com/@katnealey/post/Df-jfnnmoaK))
+  - Photo: Description: A close-up shows a brown, dried leaf with a frozen droplet hanging from its tip, set against a blurred background of white snow and dark branches. Photograph read: The leaf and ice droplet are in focus, with the background rendered out of focus. Lighting appears diffuse, illuminating the leaf’s texture and the ice’s reflective surface. The image has a shallow depth of field, with no visible signs of color cast, noise, or distortion. Photo type: Macro
+    - Watch-outs: The background is heavily blurred, obscuring any discernible detail beyond the leaf and ice. The ice droplet’s surface reflects surrounding elements, but the reflection is not sharp enough to identify specific objects.
 - **0lindar**:  ([link](https://www.threads.com/@0lindar/post/Df-jeTgFur7))
   - Photo: Description: A close-up black-and-white photograph shows the right ear of a person with dark hair, featuring a small diamond stud earring and a thin hoop piercing below it. Photograph read: The image is in monochrome, with high contrast between the ear’s contours and the dark hair. Lighting highlights the ear’s surface texture and the earring’s facets, while the background is uniformly dark and out of focus. Photo type: Portrait
 - **newsie12**:  ([link](https://www.threads.com/@newsie12/post/Df-jbNalIhe))
