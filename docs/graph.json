@@ -13,8 +13,47 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 160,
+      "reply_count": 185,
       "replies": [
+        {
+          "username": "travellady",
+          "text": "",
+          "permalink": "https://www.threads.com/@travellady/post/Df-IiOemvwp",
+          "photos": [
+            "Description: A blue and white motorboat travels across a vast, deep-blue ocean, leaving a white wake behind it; the sky above is partly cloudy with sunlight breaking through. Photograph read: The image is taken from an elevated perspective, showing the boat\u2019s wake and the expansive water surface. Lighting is natural, with sunlight reflecting off the water and illuminating parts of the sky. The rendering is clear enough to discern the boat\u2019s shape and wake, though the water surface has a textured appearance. Photo type: Aerial"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "amy.salt",
+          "text": "",
+          "permalink": "https://www.threads.com/@amy.salt/post/Df-ITpeI738",
+          "photos": [
+            "Description: A close-up shows a droplet hanging from the curled edge of a reddish-brown, textured plant structure, with green, water-dappled leaves in the background. Photograph read: The image has shallow depth of field, with the droplet and foreground structure in focus while the background leaves are softly blurred. Lighting is even and diffused, illuminating the water droplet and leaf surfaces without harsh shadows or overexposure. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The droplet\u2019s surface reflects the surrounding environment, but the reflection is not sharp enough to discern specific details. The background leaves are out of focus, reducing the ability to distinguish individual leaf veins or texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kewibrophotography",
+          "text": "",
+          "permalink": "https://www.threads.com/@kewibrophotography/post/Df-IJSvFJuM",
+          "photos": [
+            "Description: A snow-covered landscape features a bare, snow-dusted tree in the foreground beside a still body of water, with a dense forest of snow-laden conifers reflected in the water\u2019s surface under an overcast sky. Photograph read: The image is composed with a tall, leafless tree on the left foreground, its branches lightly covered in snow, and a mirrored reflection of the forest across the water. The lighting is diffuse and even, with no strong directional highlights or shadows. The water surface is smooth, creating clear reflections. The sky is uniformly gray, with no visible clouds or sun. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "matt_mccord_",
           "text": "Shot on my old Minolta 45 f2 pancake adapted to my Fuji XT2.",
@@ -274,10 +313,21 @@
           "watch_outs": [
             "- The leaf\u2019s surface texture is partially obscured by the water\u2019s reflections and glare, reducing visible detail. - The bright specular highlight near the stem partially obscures the stem\u2019s form and the leaf\u2019s attachment point."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One orange leaf doing all the glowing while the water stays dark around it. How did you spot something so small on all that dark water?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IBuPoH7Q",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shel_bee_g",
@@ -289,10 +339,21 @@
           "watch_outs": [
             "The bird\u2019s features are indistinct due to soft focus, particularly the head and eye region. The glass dome shows slight surface reflections and lacks sharp definition, reducing the contrast between the bird and its perch."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A little bird on top of the lamp, like it owns the streetlight. How long did it hold the pose?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IDRIFTWk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "trotta.james",
@@ -301,10 +362,21 @@
           "photos": [
             "Description: The photograph shows a clear blue sky with the tops of several trees visible at the bottom edges, framed against the sky, and a bright sun flare in the upper right corner. Photograph read: The composition is dominated by the expansive sky, with tree canopies occupying the lower portion. The sun is overexposed, creating a prominent lens flare. The trees appear as silhouettes with some leaf detail visible, but no fine texture or structure is discernible in the foliage. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Mostly sky, just the treetops creeping in at the edges - I think leaving that much blue empty was a good call. What time of day was the blue at its best?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IEkHlm8S",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pappaga11a",
@@ -313,10 +385,21 @@
           "photos": [
             "Description: A crescent moon and two faint point-like objects are visible against a dark, gradient sky that transitions from near-black at the top to lighter gray at the bottom. Photograph read: The image is monochrome with a smooth vertical gradient from dark to light. The crescent moon is positioned near the upper center, and the two point sources are separated vertically, one above and one below the moon. No visible motion blur, noise, or chromatic aberration is present. Photo type: Astronomical"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A thin crescent holding court in all that dark, with two small lights keeping it company. How did you spot something so small and quiet up there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IGA1lgUI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lindamu11aney",
@@ -325,10 +408,21 @@
           "photos": [
             "Description: A black-and-white wading bird stands in shallow water, with its reflection visible on the surface. The background features dense green aquatic vegetation along the water\u2019s edge, and the water reflects a blue sky with white clouds. Photograph read: The composition is vertically oriented, with the bird centered in the lower half of the frame. The water surface is relatively still, showing clear reflections of the sky and the bird. Lighting is bright and even, suggesting daylight. Rendering is sharp on the bird and its reflection, with minimal visible noise or compression artifacts. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One bird, two of it - the reflection doubles the legs and the sky does the rest. How still was the water when you took it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IH6ikY_p",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kym_lorraine_porter",
@@ -352,10 +446,21 @@
           "watch_outs": [
             "- The entire image appears blurred; fine detail is not distinguishable. - The tree\u2019s trunk and branches are indistinct, with no visible texture or structural definition."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One bare tree in all that pale blue quiet - the fog did half the framing for you. What was it like standing out there in all that pale quiet?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IJwUoCbL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "misterleroi",
@@ -364,10 +469,21 @@
           "photos": [
             "Description: A desert landscape at sunset, featuring a lone tree on the right, sparse vegetation, distant hills, and a sky with streaky clouds and a golden horizon. Photograph read: The composition is wide, with the tree and foreground terrain occupying the right and lower portions. Lighting is directional, casting long shadows and highlighting the horizon\u2019s warm glow. The sky shows natural cloud patterns and color gradients. Rendering appears flat with no visible lens distortion or chromatic aberration. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That leaning tree holding the whole wide desert together while the sunset does its thing behind it. How often do you get back to that spot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-ILs2lE3n",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "remalysh",
@@ -376,10 +492,21 @@
           "photos": [
             "Description: A pink-winged bird, likely a roseate spoonbill, is captured in mid-flight against a clear blue sky, with a faint green treeline visible at the bottom edge. Photograph read: The bird is positioned in the right half of the frame, with its wings spread and body angled slightly upward. The sky is uniformly blue with no clouds. Lighting is bright and even, suggesting daylight. The bird\u2019s plumage shows distinct coloration, but edges are not sharply defined. Photo type: Wildlife"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A spoonbill in full pink flight against nothing but blue - the wings do all the talking. Where was it headed when you caught it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-INM0Fumj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "resnicklr",
@@ -391,10 +518,21 @@
           "watch_outs": [
             "The fruit\u2019s surface texture is indistinct due to soft focus and minor surface imperfections are not clearly resolved. The background foliage is uniformly blurred, obscuring any potential detail or context beyond general green tones."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One lemon, glowing against all that green blur - it looks like a small sun that stayed low. What made you reach past the thorns for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IO_IETOd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "2killamockingbird",
@@ -403,10 +541,21 @@
           "photos": [
             "Description: The photograph shows a close-up of a peacock feather, prominently displaying its eye-like pattern with concentric rings of iridescent green, blue, and black. Photograph read: The composition is centered on the feather\u2019s ocellus, with radial lines of barbs radiating outward. Lighting highlights the feather\u2019s surface texture and color gradients, with no visible signs of motion blur or focus issues. Rendering preserves fine detail in the barb structure and color transitions. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The eye of the feather, staring right back - all that blue and green packed into one small circle. Where did the feather come from?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IRrRFgzA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "smithavary",
@@ -415,10 +564,21 @@
           "photos": [
             "Description: A large tree trunk in a wooded area with autumn leaves on the ground and scattered among the branches; mounted on the trunk is a wooden plank holding a beige corded telephone and a metallic coffee pot. Photograph read: The image is taken in diffuse daylight with even illumination; the tree trunk and attached objects are in focus, though the background foliage is slightly softer. The foreground leaves are in sharp focus, and the tree bark texture is visible. No signs of motion blur, lens distortion, or chromatic aberration are apparent. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Who was that phone expecting to call? A rotary phone and a coffee pot on a tree in the middle of nowhere. How did you even find this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-ITpVFEke",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "haydnvera",
@@ -427,10 +587,21 @@
           "photos": [
             "Description: Four vertical posts emerge from a flat, reflective surface, with one post bearing a triangular sign marked with the number \"6\". The horizon is indistinct, blending sky and water into a uniform, hazy gradient. Photograph read: The composition is minimalist, with the posts arranged horizontally across the lower third of the frame. Lighting is diffuse and even, resulting in soft shadows and muted tones. Reflections of the posts are visible on the water\u2019s surface. The image lacks sharpness and contrast, with a uniform, desaturated color palette. Photo type: Minimalist"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four posts and a whole lot of nothing else - the '6' sign feels like the punchline. What was the water like that day?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IVS6FgVI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "4eveeersummmer64",
@@ -442,10 +613,21 @@
           "watch_outs": [
             "The bird\u2019s head and beak are slightly out of focus, reducing the clarity of facial features. The feet and legs show motion blur, making the toes and claws indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red - the ibis looks like it was dipped in paint and set loose on the pavement. What was it doing when you found it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IWwqlg-T",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rajesh__dixit",
@@ -454,10 +636,21 @@
           "photos": [
             "Description: A closed, vertically slatted blue window shutter is set into a plain white wall, with the shutter's hinges and vertical divisions clearly visible. Photograph read: The shutter is positioned on the left side of the frame, occupying a narrow vertical space. The lighting is even and diffuse, casting minimal shadows. The image has a flat, uniform white background with no visible texture or depth cues beyond the shutter\u2019s structure. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One blue shutter in a sea of white wall - the color does all the work here. What drew you to this one wall?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IYZVFet9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "auerbach_photos",
@@ -466,10 +659,21 @@
           "photos": [
             "Description: The image shows a close-up of a white fabric surface with a ruffled or pleated section at the top, resting on a flat, smooth white surface. Photograph read: The composition is a tight close-up with even, diffused lighting. The fabric\u2019s weave is visible across the frame, and the ruffled area at the top shows soft folds. No lens distortion or motion blur is apparent. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "White on white, and the folds still find a way to speak - it feels like a whisper of a photo. What is it - a sheet, a shirt, something you were about to fold away?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IalxEVLY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kit_lyngkhoi_",
@@ -491,10 +695,21 @@
             "",
             ""
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Six tiny worlds, one quieter than the next - the droplet holding a whole green forest might be my favorite. Which of the six did you shoot first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-IcH2ideo",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mike.bowden.garsten",
@@ -618,10 +833,21 @@
                   "text": "It was keeping watch \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@classlessvillain/post/Df-DI1kFA7R",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A proper little sentry. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df-IeTHmtBF",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -761,10 +987,21 @@
                   "text": "Here where I live, in Portugal, there are many of them when the weather gets warmer, and they stay still for a long time. I went close by and was lucky that it didn't fly away right away.",
                   "permalink": "https://www.threads.com/@marinacasalribeiro/post/Df-DSesiPHw",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Patience and a bit of luck - a lovely combination. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df-IjAjG-F4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -852,7 +1089,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "infamous_harsh1t",
+                  "text": "I was walking through my society garden, towards the gate, to buy some groceries, and then I saw this interesting pole near the garden entrance. I took the photo, and thus it was born",
+                  "permalink": "https://www.threads.com/@infamous_harsh1t/post/Df-IGlPAKqD",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -943,10 +1191,21 @@
                   "text": "Yes thats why he whipped around. Smelled where i walked in",
                   "permalink": "https://www.threads.com/@difishing/post/Df-DOv9FARr",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A nose like that misses nothing. Thanks for the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df-Ik6nlClr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1666,10 +1925,21 @@
                   "text": "It only lasted a few minutes, then it was gone !",
                   "permalink": "https://www.threads.com/@jim.mcginley.71/post/Df-DYKAjd48",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A few minutes was all it needed. Lovely catch.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df-If3LCYHl",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1902,10 +2172,21 @@
                   "text": "ice storm last winter \u2026 took out all of Nashville",
                   "permalink": "https://www.threads.com/@dwordops/post/Df-GUGTIDw_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ice storms rewrite a whole city overnight. Thanks for telling the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df-Ihm1m_OQ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2137,7 +2418,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 402,
+      "reply_count": 403,
       "replies": [
         {
           "username": "khoojosie",
@@ -2656,7 +2937,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "amy.salt",
+                  "text": "The patterns on the leaves stopped me cold",
+                  "permalink": "https://www.threads.com/@amy.salt/post/Df-IbYOozVY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
