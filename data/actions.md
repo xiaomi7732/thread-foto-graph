@@ -6,9 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (247)
+## Needs Reply (252)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **sherrycatonmason**:  ([link](https://www.threads.com/@sherrycatonmason/post/Df-3yUFmkQm))
+  - Photo: Description: A solitary bird stands on a dark, flat structure near water, with a hazy, foggy background obscuring distant trees and a faint light source. Photograph read: The image has a muted, desaturated color palette with low contrast. The bird is a silhouette against a uniformly gray, fog-filled background. The water surface shows slight ripples and a faint reflection of the bird. The foreground structure has visible surface texture and faint markings. Photo type: Unclear
+    - Watch-outs: - The bird’s features are indistinct due to silhouette against low-contrast background; no discernible markings or textures. - The background is uniformly hazy, obscuring tree details and reducing depth perception.
+- **www1ceman**:  ([link](https://www.threads.com/@www1ceman/post/Df-3tbsmpwk))
+  - Photo: Description: A small blue bird perches atop a green street sign that reads "BLUEBIRD WAY PRIVATE ROAD," with a blurred background of foliage and a dark building. Photograph read: The image is focused on the sign and bird, with the background softly out of focus. Lighting is natural daylight, casting clear shadows and highlights on the bird and sign. The sign’s text is legible, though minor surface wear is visible. Photo type: Portrait
+- **deemozart**:  ([link](https://www.threads.com/@deemozart/post/Df-3fWDiDPZ))
+  - Photo: Description: Two individuals in red attire are suspended on cables against a clear blue sky, appearing to be working on a modern cable-stayed bridge structure. Photograph read: The composition is dominated by converging white cables radiating from the lower left. Lighting is bright and even, suggesting daylight. The image has a shallow depth of field, with the subjects slightly out of focus and the background sky smooth and uniform. Photo type: Architectural
+- **corrected_visions**:  ([link](https://www.threads.com/@corrected_visions/post/Df-3XYolZ2M))
+  - Photo: Description: A white, spherical fruit hangs from a thin branch, with a single droplet suspended beneath it, set against a blurred background of autumnal leaves and branches. Photograph read: The image features a shallow depth of field, with the fruit and droplet in focus while the background is heavily blurred. Lighting appears soft and diffused, casting even illumination without harsh shadows. The rendering preserves the texture of the fruit and droplet, though the background retains no discernible detail. Photo type: Macro
+    - Watch-outs: The background is indistinct, obscuring context and depth. The droplet’s surface reflects ambient light, but no fine texture or internal structure is visible.
 - **loeswevers**:  ([link](https://www.threads.com/@loeswevers/post/Df-3NIBkZL8))
   - Photo: Description: A single kite with black, white, and red sections and long white tails flies against a clear blue sky. The kite is positioned slightly off-center, with a thin string extending from it toward the right edge of the frame. Photograph read: The image is composed with the kite as the sole subject against a uniform blue background. Lighting is even and bright, suggesting direct daylight. The rendering is sharp enough to distinguish the kite’s colors and tail shapes, with no visible signs of motion blur or compression artifacts. Photo type: Aerial subject
 - **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
@@ -121,6 +131,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A bare tree and a bench by a frozen lake, with the sky taki…_
 - **runarstoreide**: That is actually a kevlar rope/line hauling ocean bottom seismic nodes up from 1200 meters deep. ([link](https://www.threads.com/@runarstoreide/post/Df-yuZOjdbU))
   - _Replying to: One yellow rod across the frame, with the lights gone soft …_
+- **welperson**: No because A) she hates having her picture taken and usually turns away, and B) the treat tax MUST BE PAID ([link](https://www.threads.com/@welperson/post/Df-3SfPm6o1))
+  - Photo: Description: A black dog with a pink collar and a QR-code tag is positioned in the foreground, with a person wearing a blue cap leaning close to its head. The background shows trees with red berries and autumnal foliage. Photograph read: The image is a close-up shot with the dog centered and the person partially visible on the right. Lighting is even and natural, suggesting an overcast day. The focus is sharp on the dog’s face and the person’s cheek, with the background slightly out of focus. Photo type: Portrait
+  - _Replying to: Does a leaf on a dog count? It absolutely does - especially…_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
 - **sheilasphoto**: Here’s the EXIF. Around 10 am Autumn at Mona Vale Beach, Sydney, Australia. ([link](https://www.threads.com/@sheilasphoto/post/Df-ud10Ez5r))
