@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (235)
+## Needs Reply (237)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **hahn_nancy**:  ([link](https://www.threads.com/@hahn_nancy/post/Df-hDyWlTig))
+  - Photo: Description: A metallic spoon with ornate, leaf-like engraving on its bowl and handle lies diagonally across a light-colored fabric with horizontal red and blue stripes. Photograph read: The image is evenly lit with soft, diffuse illumination. The spoon’s surface reflects light, showing some tarnish and wear. The fabric’s texture and stripes are visible, but the image lacks sharpness, with fine details of the spoon’s engraving appearing slightly soft. Photo type: Still life
+    - Watch-outs: The spoon’s engraved details are slightly blurred, reducing the visibility of fine patterns. The handle’s lower end shows a dark, worn area that obscures part of the design.
+- **massiebrenda**:  ([link](https://www.threads.com/@massiebrenda/post/Df-g-AOlLtD))
+  - Photo: Description: A weathered wooden post stands in the foreground, with two dried maple leaves adhered to its surface; a green lawn with scattered fallen leaves occupies the background. Photograph read: The image is taken at a close distance, with the post occupying most of the frame. Lighting is even and diffuse, suggesting an overcast day. The focus is relatively sharp on the post and leaves, though the background is slightly softer. No visible signs of motion blur, overexposure, or underexposure. Photo type: Documentary
 - **goggledragon**:  ([link](https://www.threads.com/@goggledragon/post/Df-glgzjYgy))
   - Photo: Description: A dark, elongated slug with a glossy head and two visible tentacles crawls along a textured wooden surface, with blurred green and brown vegetation in the background. Photograph read: The image is taken at a shallow angle, with natural daylight illuminating the slug and wood. The slug is in focus relative to the background, but the background shows soft depth-of-field blur. The surface texture of the wood is visible, and the slug’s body shows fine, scattered light reflections. Photo type: Natural
 - **swishykitty**: Sunset in b & w ([link](https://www.threads.com/@swishykitty/post/Df-geUAltA1))
