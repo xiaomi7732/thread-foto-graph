@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 308,
+      "reply_count": 312,
       "replies": [
+        {
+          "username": "annette7926",
+          "text": "",
+          "permalink": "https://www.threads.com/@annette7926/post/Df-T8aukRMU",
+          "photos": [
+            "Description: A close-up, black-and-white image features a rounded, textured object resting on granular ground, with a blurred background of indistinct shapes and terrain. Photograph read: The image is rendered in monochrome with visible grain. The main subject is in focus but shows surface texture and subtle shadows; the background is uniformly out of focus, with no discernible features. Lighting appears even, casting soft shadows on the object\u2019s surface. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "The background is heavily blurred, obscuring any identifiable environmental context. The foreground object\u2019s surface texture is partially obscured by visible grain, limiting fine detail readability."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "doctor.unka.tony",
           "text": "",
@@ -868,16 +883,6 @@
           ]
         },
         {
-          "username": "saars.foto",
-          "text": "A nose like that misses nothing. Thanks for the story behind it.",
-          "permalink": "https://www.threads.com/@saars.foto/post/Df-Ik6nlClr",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
-        },
-        {
           "username": "travellady",
           "text": "",
           "permalink": "https://www.threads.com/@travellady/post/Df-IiOemvwp",
@@ -1370,7 +1375,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "l.squared2",
+                          "text": "Thanks for liking it! \ud83d\ude4f\ud83d\udcab",
+                          "permalink": "https://www.threads.com/@l.squared2/post/Df-Ty0-GJ1K",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1671,16 +1687,6 @@
               ]
             }
           ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Mid-stride and already halfway out of the frame - I think the frost is what makes it, all that white underfoot. Did it notice you at all?",
-          "permalink": "https://www.threads.com/@saars.foto/post/Df-DHFllMfW",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
         },
         {
           "username": "smithavary",
@@ -2439,6 +2445,54 @@
               "action": null,
               "hidden": false,
               "replies": []
+            }
+          ]
+        },
+        {
+          "username": "difishing",
+          "text": "",
+          "permalink": "https://www.threads.com/@difishing/post/Df9_4-EFN4p",
+          "photos": [
+            "Description: A coyote is captured mid-stride across a grassy, uneven terrain with sparse vegetation in the background. Photograph read: The image exhibits a noticeable grainy texture and muted color saturation. Lighting appears diffuse, casting soft shadows, with no strong directional highlights. The coyote\u2019s form is somewhat indistinct due to motion blur and low resolution. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "Motion blur affects the coyote\u2019s limbs and tail, reducing definition of musculature and fur texture. Graininess is visible across the entire image, obscuring fine detail in the grass and background vegetation."
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Mid-stride and already halfway out of the frame - I think the frost is what makes it, all that white underfoot. Did it notice you at all?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-DHFllMfW",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "difishing",
+                  "text": "Yes thats why he whipped around. Smelled where i walked in",
+                  "permalink": "https://www.threads.com/@difishing/post/Df-DOv9FARr",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A nose like that misses nothing. Thanks for the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df-Ik6nlClr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -8672,7 +8726,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 523,
+      "reply_count": 525,
       "replies": [
         {
           "username": "signhildthomas",
@@ -8744,16 +8798,6 @@
           ],
           "needs_response": true,
           "action": "reply",
-          "hidden": false,
-          "replies": []
-        },
-        {
-          "username": "saars.foto",
-          "text": "Forty-eight years of knowing a place shows in a frame like that.",
-          "permalink": "https://www.threads.com/@saars.foto/post/Df7VN2boAxl",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
           "hidden": false,
           "replies": []
         },
@@ -9339,16 +9383,6 @@
           ]
         },
         {
-          "username": "saars.foto",
-          "text": "The orange bank gets a second showing in the water, and the blue sky just fills the rest. Is this your regular walk, or a first visit to the lake?",
-          "permalink": "https://www.threads.com/@saars.foto/post/Df6c4ZqkcQy",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
-        },
-        {
           "username": "joshwill.jpg",
           "text": "sometimes the best things are temporary. make the most of it",
           "permalink": "https://www.threads.com/@joshwill.jpg/post/Df6cJ4sFKTc",
@@ -9480,6 +9514,51 @@
                       "username": "saars.foto",
                       "text": "A sunset worth stopping traffic for. Thanks for sharing it.",
                       "permalink": "https://www.threads.com/@saars.foto/post/Df6dIY9m7Cy",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "username": "difishing",
+          "text": "",
+          "permalink": "https://www.threads.com/@difishing/post/Df6YLXZFFgB",
+          "photos": [
+            "Description: A calm body of water reflects a clear blue sky and autumnal trees with orange and red leaves along the shoreline. The right side of the frame is dominated by the trees, while the left shows the water extending toward a distant treeline. Photograph read: The composition is a wide-angle landscape shot with the water occupying the foreground and midground. Lighting is bright and even, suggesting midday sun. The water surface has gentle ripples, and reflections are visible but not perfectly mirrored. The image appears to be captured with a standard digital camera, showing natural color rendition and no obvious distortion. Photo type: Landscape"
+          ],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The orange bank gets a second showing in the water, and the blue sky just fills the rest. Is this your regular walk, or a first visit to the lake?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df6c4ZqkcQy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "difishing",
+                  "text": "48 years of knowledge of this area.",
+                  "permalink": "https://www.threads.com/@difishing/post/Df6ffeplsrx",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Forty-eight years of knowing a place shows in a frame like that.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df7VN2boAxl",
                       "photos": [],
                       "needs_response": false,
                       "action": null,

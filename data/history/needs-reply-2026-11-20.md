@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (177)
+## Needs Reply (179)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **annette7926**:  ([link](https://www.threads.com/@annette7926/post/Df-T8aukRMU))
+  - Photo: Description: A close-up, black-and-white image features a rounded, textured object resting on granular ground, with a blurred background of indistinct shapes and terrain. Photograph read: The image is rendered in monochrome with visible grain. The main subject is in focus but shows surface texture and subtle shadows; the background is uniformly out of focus, with no discernible features. Lighting appears even, casting soft shadows on the object’s surface. Photo type: Natural
+    - Watch-outs: The background is heavily blurred, obscuring any identifiable environmental context. The foreground object’s surface texture is partially obscured by visible grain, limiting fine detail readability.
 - **doctor.unka.tony**:  ([link](https://www.threads.com/@doctor.unka.tony/post/Df-TMVwmzPY))
   - Photo: Description: A white bird, likely a heron, stands near the water’s edge under dense green foliage, with its reflection visible in the dark, still water. Photograph read: The image is dominated by deep green tones, with the bird and its reflection as the only bright elements. The foliage and water appear uniformly dark and textured, with no discernible sharpness or fine detail. The composition is centered on the bird, which is small relative to the frame. Photo type: Unclear
     - Watch-outs: - The bird’s form is indistinct due to low contrast against the green background; edges are soft and lack definition. - Reflection in the water is blurred and lacks crispness, obscuring fine detail of the bird’s shape.
@@ -94,6 +97,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: All those spots, and the ladybug still looks like it is pos…_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
+- **l.squared2**: Thanks for liking it! 🙏💫 ([link](https://www.threads.com/@l.squared2/post/Df-Ty0-GJ1K))
+  - _Replying to: A lily pad with roots in the deep - a quiet little fact. Th…_
 - **trotta.james**: Thanks for looking. I enjoying taking this shot! ([link](https://www.threads.com/@trotta.james/post/Df-P8pyoKuv))
   - _Replying to: High noon, and blue all the way down. Thanks for sharing it._
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
