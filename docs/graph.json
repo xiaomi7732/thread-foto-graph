@@ -78,8 +78,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 359,
+      "reply_count": 361,
       "replies": [
+        {
+          "username": "pandandalee",
+          "text": "I found this baked potato on my bed",
+          "permalink": "https://www.threads.com/@pandandalee/post/Df9PyCVG_mj",
+          "photos": [
+            "Description: A dark-furred cat with light-colored markings on its face and chest is curled on a patchwork quilt, with its head resting near the center of the frame. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The cat\u2019s fur texture and the quilt\u2019s patchwork patterns are visible, though not sharply defined. The edges of the quilt and surrounding fabric show natural folds and creases. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "grantpickup62",
           "text": "",
@@ -141,7 +153,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "signhildthomas",
+                  "text": "It stopped to look at me, then just moved on",
+                  "permalink": "https://www.threads.com/@signhildthomas/post/Df9O25iDXPM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

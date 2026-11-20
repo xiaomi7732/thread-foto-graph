@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (125)
+## Needs Reply (127)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **pandandalee**: I found this baked potato on my bed ([link](https://www.threads.com/@pandandalee/post/Df9PyCVG_mj))
+  - Photo: Description: A dark-furred cat with light-colored markings on its face and chest is curled on a patchwork quilt, with its head resting near the center of the frame. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The cat’s fur texture and the quilt’s patchwork patterns are visible, though not sharply defined. The edges of the quilt and surrounding fabric show natural folds and creases. Photo type: Natural
 - **grantpickup62**:  ([link](https://www.threads.com/@grantpickup62/post/Df9LYN2G8QT))
   - Photo: Description: A close-up of a green leaf with a large, irregularly shaped hole near its center, showing internal leaf structure and some discoloration along the edges. Photograph read: The image is in focus on the leaf’s surface, with even lighting that reveals texture and vein patterns. The background is out of focus, but no significant technical flaws are apparent in the rendering. Photo type: Macro
 - **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/Df9Joo9jjFt))
@@ -14,6 +16,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **dolly_dimple123**:  ([link](https://www.threads.com/@dolly_dimple123/post/Df9CrxuiDUC))
   - Photo: Description: A single red leaf with serrated edges and visible veins is in focus, speckled with water droplets, set against a blurred green and brown background. Photograph read: The leaf is centrally framed with shallow depth of field, creating a soft background. Lighting appears diffuse, illuminating the leaf’s surface evenly without harsh shadows or highlights. The image has a natural color rendering with no obvious color distortion or clipping. Photo type: Macro
     - Watch-outs: The leaf’s surface shows water droplets, which are visible but not sharply defined; the droplets appear slightly blurred due to shallow depth of field. The background is uniformly out of focus, obscuring any potential context or detail beyond the leaf.
+- **signhildthomas**: It stopped to look at me, then just moved on ([link](https://www.threads.com/@signhildthomas/post/Df9O25iDXPM))
+  - _Replying to: That concrete slope cuts a clean triangle right through the…_
 - **00mrlonewolf00**: LITTLE HEARTS Little hearts trapping rain Dew drop on a clover Reflecting skies up above Impressive to discover. The mist it floats through the air Lands gently on its leaves Gathering all into the center Then rolls off to feed the trees. The earth provides the beauty Inspiration through a pen To capture fleeting miracles Before they fade again. ([link](https://www.threads.com/@00mrlonewolf00/post/Df9GSaBlAH8))
   - _Replying to: Hearts of clover holding little skies - that poem reads lik…_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
