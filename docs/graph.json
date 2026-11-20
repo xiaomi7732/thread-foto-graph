@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 354,
+      "reply_count": 357,
       "replies": [
         {
           "username": "dolly_dimple123",
@@ -162,7 +162,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "00mrlonewolf00",
+                  "text": "LITTLE HEARTS Little hearts trapping rain Dew drop on a clover Reflecting skies up above Impressive to discover. The mist it floats through the air Lands gently on its leaves Gathering all into the center Then rolls off to feed the trees. The earth provides the beauty Inspiration through a pen To capture fleeting miracles Before they fade again.",
+                  "permalink": "https://www.threads.com/@00mrlonewolf00/post/Df9GSaBlAH8",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -631,7 +642,35 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "tim22974",
+                          "text": "",
+                          "permalink": "https://www.threads.com/@tim22974/post/Df9G7pFG2pW",
+                          "photos": [
+                            "Description: A light-colored dog, likely a golden retriever, is on a leash and sniffing the ground near a paved path, with scattered autumn leaves on the grass and pavement. The dog\u2019s shadow and the photographer\u2019s shadow are cast prominently on the ground. Photograph read: The image is taken in bright, direct sunlight, casting sharp shadows. The composition is from a high angle, looking down at the dog and the path. The dog\u2019s fur and leash are visible, but the image lacks sharpness in the dog\u2019s head and paws, suggesting motion or focus limitations. Photo type: Natural daylight snapshot",
+                            "Description: A light-colored dog walks on a paved path scattered with autumn leaves, viewed from a first-person perspective with a leash and handlebar visible in the foreground. Photograph read: The image is taken in bright daylight, casting a clear shadow of the person holding the camera. The dog\u2019s back and tail are visible, with the leash extending from the handlebar. The path surface and leaves are in focus, though the foreground handlebar and leash are slightly out of focus. The composition is a low-angle, forward-facing shot. Photo type: Action shot",
+                            "Description: A long-legged arachnid, likely a harvestman, is positioned on a textured, light-gray painted surface, with its body and legs clearly visible against the background. Photograph read: The image is in focus, with even lighting that reveals surface texture and the subject\u2019s form. The composition is a close-up, angled slightly downward, capturing the creature\u2019s full silhouette and leg spread. Photo type: Documentary"
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        },
+                        {
+                          "username": "tim22974",
+                          "text": "",
+                          "permalink": "https://www.threads.com/@tim22974/post/Df9G2HjG107",
+                          "photos": [
+                            "Description: A light-colored dog walks away on a paved path scattered with autumn leaves, viewed from a first-person perspective with a leash and handlebar visible in the foreground. Photograph read: The image is taken in bright daylight, casting a distinct shadow of the photographer and dog on the path. The composition is from a low angle, with the leash and handlebar in the foreground. The dog\u2019s back and tail are visible, and the surrounding leaves and path texture are discernible. Photo type: Action shot",
+                            "Description: A cyclist in cycling gear stands on a wooden dock beside a Pinarello bicycle, with a body of water and residential houses visible in the background under a partly cloudy sky. Photograph read: The image is taken in bright daylight with strong backlighting from the upper left, causing lens flare and overexposure in that area. The subject is in focus, but the background is slightly less sharp. The sky shows a mix of clouds and blue, with reflections on the water surface. Photo type: Portrait"
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 },
