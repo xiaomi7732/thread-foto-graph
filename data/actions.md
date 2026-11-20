@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (264)
+## Needs Reply (266)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **welperson**: Does a leaf on a dog count? ([link](https://www.threads.com/@welperson/post/Df-mx5WE9y-))
+  - Photo: Description: A black dog with a pink collar and a leaf resting on its forehead is the central subject, viewed from a close-up perspective against a blurred, light-toned background. Photograph read: The image is a close-up portrait with shallow depth of field, focusing sharply on the dog’s face and the leaf. Lighting is even and natural, illuminating the subject without harsh shadows. The leaf’s colors and the dog’s facial features are clearly rendered, though the background remains indistinct. Photo type: Portrait
+- **farrockaway_robin**: Bird at boat ([link](https://www.threads.com/@farrockaway_robin/post/Df-mpfik_Vp))
+  - Photo: Description: A white bird, likely a small heron or egret, perches on a dark cable against a plain, light-colored background. Faint, elongated shadows of foliage are cast across the background. Photograph read: The image has a shallow depth of field, with the bird in focus and the background blurred. Lighting is even and diffused, casting soft shadows. The rendering is flat with minimal texture detail visible on the bird or background. Photo type: Portrait
+    - Watch-outs: The bird’s feet and legs are slightly out of focus, reducing clarity of texture. The background shadows are blurred and lack definition, obscuring fine detail in the foliage pattern.
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
 - **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df-lh4kH2BJ))

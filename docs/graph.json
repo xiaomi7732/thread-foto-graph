@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 396,
+      "reply_count": 398,
       "replies": [
+        {
+          "username": "welperson",
+          "text": "Does a leaf on a dog count?",
+          "permalink": "https://www.threads.com/@welperson/post/Df-mx5WE9y-",
+          "photos": [
+            "Description: A black dog with a pink collar and a leaf resting on its forehead is the central subject, viewed from a close-up perspective against a blurred, light-toned background. Photograph read: The image is a close-up portrait with shallow depth of field, focusing sharply on the dog\u2019s face and the leaf. Lighting is even and natural, illuminating the subject without harsh shadows. The leaf\u2019s colors and the dog\u2019s facial features are clearly rendered, though the background remains indistinct. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "farrockaway_robin",
+          "text": "Bird at boat",
+          "permalink": "https://www.threads.com/@farrockaway_robin/post/Df-mpfik_Vp",
+          "photos": [
+            "Description: A white bird, likely a small heron or egret, perches on a dark cable against a plain, light-colored background. Faint, elongated shadows of foliage are cast across the background. Photograph read: The image has a shallow depth of field, with the bird in focus and the background blurred. Lighting is even and diffused, casting soft shadows. The rendering is flat with minimal texture detail visible on the bird or background. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The bird\u2019s feet and legs are slightly out of focus, reducing clarity of texture. The background shadows are blurred and lack definition, obscuring fine detail in the foliage pattern."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mdalida378",
           "text": "",
