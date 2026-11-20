@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18118488188109696",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Minimal Friday \ud83d\udca7 Show me your quietest shot - one subject, \u2026",
       "text": "Minimal Friday \ud83d\udca7 Show me your quietest shot - one subject, lots of empty space, nothing extra. A lone bird on a wire, one leaf on bare concrete, a single lit window. Mine: one raindrop, holding on to a red twig. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Less, but make it count - what have you got?",
@@ -13,8 +13,110 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 28,
+      "reply_count": 37,
       "replies": [
+        {
+          "username": "srravi",
+          "text": "",
+          "permalink": "https://www.threads.com/@srravi/post/Df9__p_mo4F",
+          "photos": [
+            "Description: A black-and-white photograph shows a wading bird, likely a black-winged stilt, standing upright on long legs with its reflection mirrored below in calm water. The bird is positioned centrally, facing left, against a uniform gray background. Photograph read: The composition is vertically symmetrical, with the bird and its inverted reflection occupying the center. Lighting is even and diffused, creating soft contrast without harsh shadows. The rendering is monochromatic, with no visible color information, and the image has a smooth, non-grainy texture. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "sooroux",
+          "text": "",
+          "permalink": "https://www.threads.com/@sooroux/post/Df9_7gaFlIk",
+          "photos": [
+            "Description: A single orange-capped mushroom with a yellow stem stands in a patch of green moss and lichen, surrounded by scattered pine needles and small twigs. Photograph read: The image is brightly lit with direct sunlight, casting sharp shadows. The mushroom is in focus, while the surrounding moss and lichen show natural texture. The composition is a close-up, centered on the mushroom, with no visible signs of motion blur or focus issues. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "difishing",
+          "text": "",
+          "permalink": "https://www.threads.com/@difishing/post/Df9_4-EFN4p",
+          "photos": [
+            "Description: A coyote is captured mid-stride across a grassy, uneven terrain with sparse vegetation in the background. Photograph read: The image exhibits a noticeable grainy texture and muted color saturation. Lighting appears diffuse, casting soft shadows, with no strong directional highlights. The coyote\u2019s form is somewhat indistinct due to motion blur and low resolution. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "Motion blur affects the coyote\u2019s limbs and tail, reducing definition of musculature and fur texture. Graininess is visible across the entire image, obscuring fine detail in the grass and background vegetation."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "thatguyale",
+          "text": "",
+          "permalink": "https://www.threads.com/@thatguyale/post/Df9_z_gFImG",
+          "photos": [
+            "Description: A black bird, likely a crow, is perched atop a dark-colored trash receptacle with a clear plastic liner visible around its base. The background is a plain, light-colored wall with faint vertical streaks. Photograph read: The image is vertically oriented, with the bird as a dark silhouette against a uniformly lit, pale wall. The lighting is even and diffuse, casting minimal shadow. The bird and receptacle are in focus, but the image lacks sharpness in fine texture or edge definition. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dianelynnturnbull",
+          "text": "",
+          "permalink": "https://www.threads.com/@dianelynnturnbull/post/Df9_zXiFMwP",
+          "photos": [
+            "Description: A moth with mottled brown and orange wings rests on a wet, dark, rocky surface, surrounded by small water pools and scattered debris. Photograph read: The image is a close-up shot with natural lighting, showing surface textures and water droplets on the moth and rocks. The composition is centered on the moth, with shallow depth of field blurring the immediate background. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lindafedor6",
+          "text": "",
+          "permalink": "https://www.threads.com/@lindafedor6/post/Df9_rY5nOnn",
+          "photos": [
+            "Description: An osprey is captured in mid-flight against a clear, uniform blue sky, with its wings spread and head angled downward. Photograph read: The subject is centered in the frame with even, bright illumination. The sky is a solid, untextured blue with no clouds or atmospheric distortion visible. The bird\u2019s plumage shows contrast between dark wingtips and a lighter underside, but fine feather detail is not resolvable. Photo type: Wildlife"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "helen_vaher",
+          "text": "",
+          "permalink": "https://www.threads.com/@helen_vaher/post/Df9_fchjbqn",
+          "photos": [
+            "Description: A dried, translucent leaf with a visible vein network lies on a dark, textured surface, showing signs of decay and small, light-colored spots scattered across its surface. Photograph read: The image is a close-up shot with even, diffuse lighting, capturing fine details of the leaf\u2019s structure and the surface beneath. The leaf occupies the majority of the frame, with the background appearing as a rough, dark substrate. No visible signs of motion blur, focus issues, or color distortion are present. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ranbalam",
+          "text": "",
+          "permalink": "https://www.threads.com/@ranbalam/post/Df9_eXEpVmF",
+          "photos": [
+            "Description: A silhouette of a bird perched atop a dual-headed lighting fixture against a gradient sky at dusk or dawn, with bare tree branches visible in the lower right corner. Photograph read: The image is composed with the lighting fixture and bird as central subjects, set against a softly layered sky with horizontal cloud streaks. The lighting is backlighting, creating strong silhouettes. The image appears to be captured with a standard camera sensor, showing no visible signs of lens distortion or chromatic aberration. Photo type: Silhouette"
+          ],
+          "watch_outs": [
+            "The bird\u2019s silhouette is indistinct, lacking visible texture or feather detail due to backlighting. The lighting fixture\u2019s components, including the mounting brackets and light heads, are rendered as solid black shapes with no discernible surface texture or mechanical detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "luvsravens59",
           "text": "",
@@ -380,13 +482,26 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "lindafedor6",
+              "text": "Shapes",
+              "permalink": "https://www.threads.com/@lindafedor6/post/Df9_5y4nK2c",
+              "photos": [
+                "Description: A hand holds a mixed-media collage featuring a bird-like figure made of layered paper, a pink heart, and shredded paper, set against a background of printed dictionary pages with words like \u201cheartless\u201d and \u201chearth.\u201d Photograph read: The image is taken at a slight angle, with even, diffuse lighting. The subject is in focus, but the background is slightly out of focus. The collage\u2019s textures and layered materials are visible, though some text is partially obscured by paper overlays. Photo type: Mixed-media collage"
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         }
       ]
     },
     {
       "id": "18114248357247687",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Shaped Thursday favorites \ud83c\udfc6 5 shapes that stopped my scroll\u2026",
       "text": "Shaped Thursday favorites \ud83c\udfc6 5 shapes that stopped my scroll: Eloisa Bernstein @elobernstein - canyon heart of light EkiA. @akmaleky - circles in circles Jean Hinkle Klele @smilingjeannie - ginkgo fans in the rain Reid McClure @32groove - white spiral sculpture Margie Coger @mcoger55 - mushroom sphere Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df9KxeyiVwz/",
@@ -551,7 +666,7 @@
     },
     {
       "id": "17876975847649800",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Shaped Thursday Show me a shape you found out in the world \u2026",
       "text": "Shaped Thursday Show me a shape you found out in the world - a heart worn into a leaf, a perfect circle, a triangle hiding in the shadows. Any shape counts, as long as it stopped you. Mine is this fallen leaf: a little heart-shaped hole, worn right through. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What shape found you?",
@@ -5183,7 +5298,7 @@
     },
     {
       "id": "17981155218129056",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped\u2026",
       "text": "Reflection Wednesday favorites \ud83c\udfc6 5 reflections that stopped my scroll: John Douglas Palmer @jp.dynamicphotography - Milky Way lake reflection Shel Gatewood @shel_bee_g - longhorn pond reflection Jeremy Harris @jh1962bike - 300SL skyline reflection Elsabe Schoeman @apertureandartdotcom - canal sunrise reflection Conrad Skillen @stickyshutterphotography - bridge in still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df6mbRlDzTY/",
@@ -5305,7 +5420,7 @@
     },
     {
       "id": "18125516990067298",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Reflection Wednesday Show me a reflection - in a mirror, a \u2026",
       "text": "Reflection Wednesday Show me a reflection - in a mirror, a window, a puddle, still water, shiny paint. If the world doubled itself somewhere, I want to see it. Mine: a whole red tree, caught in a car's side mirror. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Where did the world double for you?",
@@ -11456,7 +11571,7 @@
     },
     {
       "id": "17978841804171278",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: Craig Jackson Images @craigjacksonimages - frost-rimmed red leaf Jan Kolby @badegghunter - tire tread in sand Erika @erikartistry - glitter droplet, peacock feather Lucille Pippetti @lucillepippetti - white-dotted haworthia rosette Rob Major @robmajor111 - Oculus white ribs Beautiful work, all of you. The reel is on Instagram: https://www.instagram.com/reel/Df4DOrQDyOm/",
@@ -11574,7 +11689,7 @@
     },
     {
       "id": "18120910145083329",
-      "label": "photograph, photo, type, read",
+      "label": "photograph, photo, type, description",
       "group": 0,
       "snippet": "Pattern Tuesday This week, get close. Show me a pattern hid\u2026",
       "text": "Pattern Tuesday This week, get close. Show me a pattern hiding in the details - needles on a branch, bark, petals, brickwork. If it repeats, it counts. Mine: a blue spruce branch, silver needles fanning out in every direction. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel What pattern is hiding in your camera roll?",
