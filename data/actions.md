@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (177)
+## Needs Reply (180)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **looksatthesky7**:  ([link](https://www.threads.com/@looksatthesky7/post/Df-NAbwoHrl))
+  - Photo: Description: A tabby cat is seated on a wooden surface, viewed in profile against a completely black background, with light illuminating its right side. Photograph read: The cat is lit from the right, casting the left side into shadow; the background is uniformly black. The surface the cat sits on is a dark wood with visible grain and edge. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Portrait
+- **meechz1**:  ([link](https://www.threads.com/@meechz1/post/Df-MqeWlMpw))
+  - Photo: Description: A silhouette of a person wearing a hat stands on a grassy dune overlooking a calm sea at sunset, with the sun positioned directly behind them, casting a bright glare. Photograph read: The sun is centrally located in the upper frame, creating a strong backlight that renders the subject as a dark silhouette. The foreground is uniformly dark, obscuring texture and detail. The sea reflects the sun’s glow along its surface, but no discernible waves or ripples are visible beyond the general surface texture. Photo type: Silhouette
+    - Watch-outs: The subject’s silhouette is completely obscured by backlighting, making facial features, clothing details, and posture indiscernible. The foreground grass and dune are uniformly dark, with no visible texture or detail.
 - **kes_ward**: Cupboard Under The Stairs ([link](https://www.threads.com/@kes_ward/post/Df-MZqkjgK6))
   - Photo: Description: A stuffed bear sits in a wooden rocking chair, illuminated by a focused light source against a completely black background. Photograph read: The subject is centrally positioned in the frame, lit from the front, with deep shadows surrounding it. The chair and bear show visible texture and form, but the image lacks any discernible depth of field or motion blur. Photo type: Still life
 - **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/Df-MLb5mqr6))
@@ -158,6 +163,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
+- **kes_ward**: The bubble held for about 30-40 seconds. Always add glycerin into the mix and it give the bubble a little extra strength. The bubble changes quite dramatically from start to finish. This was at the start. ([link](https://www.threads.com/@kes_ward/post/Df-Mqz0Dj6p))
+  - _Replying to: A whole alien planet in a soap bubble, with a tiny heart hi…_
 - **reef_ausic**: Can’t agree more ([link](https://www.threads.com/@reef_ausic/post/Df89WVZI6xt))
   - _Replying to: Mid-bloom is the perfect moment to catch it._
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))

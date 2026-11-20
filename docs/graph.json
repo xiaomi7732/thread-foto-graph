@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 226,
+      "reply_count": 228,
       "replies": [
+        {
+          "username": "looksatthesky7",
+          "text": "",
+          "permalink": "https://www.threads.com/@looksatthesky7/post/Df-NAbwoHrl",
+          "photos": [
+            "Description: A tabby cat is seated on a wooden surface, viewed in profile against a completely black background, with light illuminating its right side. Photograph read: The cat is lit from the right, casting the left side into shadow; the background is uniformly black. The surface the cat sits on is a dark wood with visible grain and edge. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "meechz1",
+          "text": "",
+          "permalink": "https://www.threads.com/@meechz1/post/Df-MqeWlMpw",
+          "photos": [
+            "Description: A silhouette of a person wearing a hat stands on a grassy dune overlooking a calm sea at sunset, with the sun positioned directly behind them, casting a bright glare. Photograph read: The sun is centrally located in the upper frame, creating a strong backlight that renders the subject as a dark silhouette. The foreground is uniformly dark, obscuring texture and detail. The sea reflects the sun\u2019s glow along its surface, but no discernible waves or ripples are visible beyond the general surface texture. Photo type: Silhouette"
+          ],
+          "watch_outs": [
+            "The subject\u2019s silhouette is completely obscured by backlighting, making facial features, clothing details, and posture indiscernible. The foreground grass and dune are uniformly dark, with no visible texture or detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kes_ward",
           "text": "Cupboard Under The Stairs",
@@ -2894,7 +2921,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 403,
+      "reply_count": 404,
       "replies": [
         {
           "username": "khoojosie",
@@ -5178,7 +5205,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kes_ward",
+                  "text": "The bubble held for about 30-40 seconds. Always add glycerin into the mix and it give the bubble a little extra strength. The bubble changes quite dramatically from start to finish. This was at the start.",
+                  "permalink": "https://www.threads.com/@kes_ward/post/Df-Mqz0Dj6p",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
