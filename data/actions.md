@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (223)
+## Needs Reply (225)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
+  - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **zoeripley_studios**:  ([link](https://www.threads.com/@zoeripley_studios/post/Df-eU5xEUXK))
   - Photo: Description: A wide, sunlit grassy field stretches toward a line of trees under a clear sky, with the upper right corner dominated by the dense, leafy canopy of a large tree. Photograph read: The composition is framed by tree branches in the foreground, with sunlight casting long shadows across the field. The sky is bright blue with a soft gradient near the horizon. The distant treeline and field edges are visible but not sharply defined. Photo type: Landscape
 - **retrograde_60**:  ([link](https://www.threads.com/@retrograde_60/post/Df-eUiaEp7w))
@@ -195,6 +197,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: All those spots, and the ladybug still looks like it is pos…_
 - **pennyhay83**: Almost 11.30p.m ([link](https://www.threads.com/@pennyhay83/post/Df-Z74ymvyc))
   - _Replying to: Just a sliver of moon and nothing else - what time of night…_
+- **______esque**: It was a solitary flower, the first for a new seedling! Thats rather special in itself! Even if not particularly good! I think it did OK! ([link](https://www.threads.com/@______esque/post/Df-ey3kEtGb))
+  - _Replying to: All that white and one agapanthus holding the middle of it …_
 - **travistribevibes**: Unfortunately that was a quick shot while driving. A lot of my unique and colorful shots come from windshield and out the window shots. ([link](https://www.threads.com/@travistribevibes/post/Df-UpE5ln29))
   - Photo: Description: The image shows a view from inside a vehicle looking out onto a wet road curving to the left, under a vividly colored sky at sunset or sunrise, with trees and a distant horizon visible. Photograph read: The composition is framed by the car’s dashboard and windshield, with the sky exhibiting saturated orange, pink, and purple hues. The road surface reflects the sky’s colors, and the windshield shows visible water droplets or streaks. The image has a slightly soft focus and a visible color cast, with no discernible sharpness in the foreground or background elements. Photo type: Aesthetic
     - Watch-outs: The windshield is covered with water droplets or streaks, obscuring clear visibility of the road and sky. The overall image has a soft focus, reducing the sharpness of edges and fine details across the entire frame.

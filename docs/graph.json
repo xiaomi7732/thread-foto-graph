@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 354,
+      "reply_count": 356,
       "replies": [
+        {
+          "username": "lenzscapes.de",
+          "text": "",
+          "permalink": "https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh",
+          "photos": [
+            "Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "zoeripley_studios",
           "text": "",
@@ -1792,7 +1804,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "______esque",
+                  "text": "It was a solitary flower, the first for a new seedling! Thats rather special in itself! Even if not particularly good! I think it did OK!",
+                  "permalink": "https://www.threads.com/@______esque/post/Df-ey3kEtGb",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
