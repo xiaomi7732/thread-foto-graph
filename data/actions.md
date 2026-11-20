@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (281)
+## Needs Reply (284)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **rhinebeck**: Gordita has a secret ([link](https://www.threads.com/@rhinebeck/post/Df-qdN-FTEa))
+  - Photo: Description: A small, carved wooden figurine of a seated human-like form with closed eyes, wearing a headband and two feathers, rests on a wooden surface under direct sunlight. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the figurine. Strong directional light creates sharp highlights and deep shadows, emphasizing texture and form. The background is softly blurred, and the foreground surface shows wood grain. Photo type: Portrait
 - **susie.kp**:  ([link](https://www.threads.com/@susie.kp/post/Df-p3lvEVns))
   - Photo: Description: A single bright yellow flower with five petals and a dense center of stamens is centered in the frame, surrounded by green, lobed leaves with hairy stems. Photograph read: The flower is in focus and well-lit, with the surrounding foliage slightly out of focus. Lighting is even and natural, with no visible shadows or overexposure. The image has a shallow depth of field, with the background foliage blurred. Photo type: Natural
 - **embcelt82**:  ([link](https://www.threads.com/@embcelt82/post/Df-pmW5G4K5))
@@ -348,6 +350,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Half a turbine in the fog, the rest just gray. What did it …_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
+- **januaragazzo**: It’s 5:30 PM in Indonesia 🇮🇩 ([link](https://www.threads.com/@januaragazzo/post/Df-q5kCEjX2))
+  - _Replying to: One warm bulb in all that dusky blue - the only warm thing …_
 - **l.squared2**: Thanks for liking it! 🙏💫 ([link](https://www.threads.com/@l.squared2/post/Df-Ty0-GJ1K))
   - _Replying to: A lily pad with roots in the deep - a quiet little fact. Th…_
 - **trotta.james**: Thanks for looking. I enjoying taking this shot! ([link](https://www.threads.com/@trotta.james/post/Df-P8pyoKuv))
@@ -360,6 +364,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: White on white, and the folds still find a way to speak - i…_
 - **excitedpanda**: Youre welcome lol Add drizzling and the feel of ominous energy a foot lol ([link](https://www.threads.com/@excitedpanda/post/Df-O7uvmac3))
   - _Replying to: Lava fields and a far ridge - quite the walk for a few bloo…_
+- **tryan2thomas**:  ([link](https://www.threads.com/@tryan2thomas/post/Df-qdwmIIFA))
+  - Photo: Description: A red flag on a black-and-white pole stands in a snow-covered field, with bare trees in the background under bright sunlight. Photograph read: The image features a wide, snow-draped landscape with a single flag as the focal point. Strong directional light creates sharp shadows and highlights across the snow. The background trees are dark and silhouetted. The snow surface shows gentle undulations and subtle texture from wind or foot traffic. Photo type: Landscape
+  - _Replying to: A lone pier on the Potomac at sunrise_
 - **lewishblove**: Nope, stayed for a good while. I didn't have my phone when I first spotted him and he stayed for me to grab it and take lots of pics. Im not sure how long he stayed after. ([link](https://www.threads.com/@lewishblove/post/Df-PAs4llmh))
   - Photo: Description: A blurred silhouette of a person appears to be jumping or leaping in the foreground, superimposed over a garden bed with pink and white flowers. Behind this, a tiered fountain flows water onto a circular basin, with a paved plaza and parked cars visible in the background under daylight. Photograph read: The image is taken from a window, with a prominent out-of-focus human silhouette in the foreground. The background shows a fountain, landscaped area, and parking lot with vehicles and trees. Lighting is natural daylight, with no visible signs of flash or artificial illumination. The image has a shallow depth of field, with the foreground and background both out of focus. Photo type: Unclear
     - Watch-outs: - Foreground silhouette is completely blurred and indistinct, obscuring any identifiable features or actions. - Background elements, including the fountain and parked cars, are out of focus, reducing detail and clarity.

@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 412,
+      "reply_count": 415,
       "replies": [
+        {
+          "username": "rhinebeck",
+          "text": "Gordita has a secret",
+          "permalink": "https://www.threads.com/@rhinebeck/post/Df-qdN-FTEa",
+          "photos": [
+            "Description: A small, carved wooden figurine of a seated human-like form with closed eyes, wearing a headband and two feathers, rests on a wooden surface under direct sunlight. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the figurine. Strong directional light creates sharp highlights and deep shadows, emphasizing texture and form. The background is softly blurred, and the foreground surface shows wood grain. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "susie.kp",
           "text": "",
@@ -2640,7 +2652,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "januaragazzo",
+                  "text": "It\u2019s 5:30 PM in Indonesia \ud83c\uddee\ud83c\udde9",
+                  "permalink": "https://www.threads.com/@januaragazzo/post/Df-q5kCEjX2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3291,6 +3314,18 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "tryan2thomas",
+              "text": "",
+              "permalink": "https://www.threads.com/@tryan2thomas/post/Df-qdwmIIFA",
+              "photos": [
+                "Description: A red flag on a black-and-white pole stands in a snow-covered field, with bare trees in the background under bright sunlight. Photograph read: The image features a wide, snow-draped landscape with a single flag as the focal point. Strong directional light creates sharp shadows and highlights across the snow. The background trees are dark and silhouetted. The snow surface shows gentle undulations and subtle texture from wind or foot traffic. Photo type: Landscape"
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "A whole sky on fire and the pier just standing there, small and unbothered. Did you wait for the clouds to break like that, or was it luck?",
