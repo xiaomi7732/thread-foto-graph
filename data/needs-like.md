@@ -4,7 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (39)
+## Needs Like (40)
+
+### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
+- lucillepippetti: Beautiful. ([link](https://www.threads.com/@lucillepippetti/post/Df9i9vZIH3G))
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - jane_st_pics: They did!! ([link](https://www.threads.com/@jane_st_pics/post/Df9cojekfrM))

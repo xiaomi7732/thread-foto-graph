@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (130)
+## Needs Reply (133)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -12,6 +12,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @akmaleky Your pipes are slide two of the Shaped Thursday f…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df9lCYsFv8t))
+  - Photo: Description: A close-up shot features a white mushroom with a textured cap emerging from dark green grass, with another mushroom partially visible in the background; the background is out of focus and indistinct. Photograph read: The image uses shallow depth of field, with the central mushroom in focus while foreground grass and background elements are blurred. Lighting appears to come from above and slightly behind, casting soft shadows and highlighting the mushroom’s surface texture. Photo type: Macro
+    - Watch-outs: - The foreground grass is dark and out of focus, obscuring the mushroom’s base and reducing detail visibility. - The background is heavily blurred, making environmental context and any distant subjects unreadable.
+- **pat.sipatsi**:  ([link](https://www.threads.com/@pat.sipatsi/post/Df9k3x5j0n1))
+  - Photo: Description: A close-up of a large, heart-shaped green leaf with prominent white venation, emerging from a white pot, with blurred background foliage and other potted plants. Photograph read: The main leaf is in focus with visible texture and vein structure; background elements are softly blurred. Lighting appears even and diffused, illuminating the leaf’s surface without harsh shadows or overexposure. Photo type: Portrait
 - **greenvelvetgarden**:  ([link](https://www.threads.com/@greenvelvetgarden/post/Df9b8F8gXNj))
   - Photo: Description: The image shows an outdoor scene with a tall, weathered stone obelisk and a smaller stone pedestal, surrounded by trees with green and yellowing leaves, under a partly cloudy sky. Photograph read: The composition is framed by tree branches overhead, with sunlight filtering through the leaves. The obelisk and pedestal are in partial shadow, with dappled light on the ground. The image has natural depth of field, with foreground elements slightly sharper than the background foliage. Photo type: Natural
 - **pandandalee**: I found this baked potato on my bed ([link](https://www.threads.com/@pandandalee/post/Df9PyCVG_mj))
@@ -29,6 +34,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Hearts of clover holding little skies - that poem reads lik…_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
   - _Replying to: (photo reply, no text)_
+- **galveston_walkabout**: The tree was a Norfolk pine ( called an island pine) in Galveston Texas . The trees grew for years and that year most of them died from freezing weather . The photo wasn’t black and white, there was no color for the phone camera to show. Gray skies, dead limbs and gray doves. ([link](https://www.threads.com/@galveston_walkabout/post/Df9j-q_Je5e))
+  - _Replying to: Settled in for the night, every bird in its place._
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df9G7pFG2pW))
   - Photo: Description: A light-colored dog, likely a golden retriever, is on a leash and sniffing the ground near a paved path, with scattered autumn leaves on the grass and pavement. The dog’s shadow and the photographer’s shadow are cast prominently on the ground. Photograph read: The image is taken in bright, direct sunlight, casting sharp shadows. The composition is from a high angle, looking down at the dog and the path. The dog’s fur and leash are visible, but the image lacks sharpness in the dog’s head and paws, suggesting motion or focus limitations. Photo type: Natural daylight snapshot
   - Photo: Description: A light-colored dog walks on a paved path scattered with autumn leaves, viewed from a first-person perspective with a leash and handlebar visible in the foreground. Photograph read: The image is taken in bright daylight, casting a clear shadow of the person holding the camera. The dog’s back and tail are visible, with the leash extending from the handlebar. The path surface and leaves are in focus, though the foreground handlebar and leash are slightly out of focus. The composition is a low-angle, forward-facing shot. Photo type: Action shot
