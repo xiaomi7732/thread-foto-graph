@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (260)
+## Needs Reply (264)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
+  - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
+- **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df-lh4kH2BJ))
+  - Photo: Description: The photograph shows a crescent moon against a clear blue sky, with the tops of trees displaying autumnal colors in the lower portion of the frame. Photograph read: The composition is dominated by the expansive sky, with the moon positioned in the upper center. The tree tops occupy the bottom third, rendered with visible color variation. The rendering appears somewhat soft or painterly, with blended edges and reduced sharpness in foliage detail. Photo type: Natural landscape
+- **joffaboy1**:  ([link](https://www.threads.com/@joffaboy1/post/Df-lhZPgQg1))
+  - Photo: Description: A single bird, likely a raptor, is captured in flight against a clear blue sky, with a faint, elongated cloud visible below it. Photograph read: The composition is dominated by the expansive sky, with the bird positioned in the upper third. Lighting is even and natural, suggesting daylight. The image exhibits mild softness, possibly from motion or focus limitations, but no visible digital artifacts or extreme contrast. Photo type: Aerial wildlife
+    - Watch-outs: The bird’s features are indistinct due to distance and motion blur, making specific plumage or facial details unreadable. The cloud is low-contrast and lacks definition, reducing visual context for the bird’s altitude or environment.
 - **sheilasphoto**: Shimmering Pacific Ocean. ([link](https://www.threads.com/@sheilasphoto/post/Df-lCZGkw_c))
   - Photo: Description: A dark, expansive body of water stretches to a horizon line under a muted, overcast sky, with a thin, bright reflection along the horizon. Photograph read: The composition is horizontally divided, with the water occupying the lower two-thirds and the sky the upper third. The water surface shows scattered, bright specular highlights, suggesting a light source at or near the horizon. The sky is uniformly dark with a subtle gradient near the horizon. The image has a grainy texture and lacks sharpness across the entire frame. Photo type: Monochrome landscape
 - **hibiskos**: Take that chance 🐞 ([link](https://www.threads.com/@hibiskos/post/Df-k284m_iy))
@@ -268,6 +275,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **debi0528**: That was Sept 14, 730 pm. Sitting on my porch facing West so the sunsets can be quite incredible! ([link](https://www.threads.com/@debi0528/post/Df-WJfpJRyT))
   - _Replying to: A sliver of moon over the treetops, and the whole sky keepi…_
+- **thedaveatkins**: I increased the contrast.. ([link](https://www.threads.com/@thedaveatkins/post/Df-lhfIElWe))
+  - _Replying to: Just the moon and all that black around it - how did you ge…_
 - **artgowie**: This beach is about a half mile from my house and on my way to work. ([link](https://www.threads.com/@artgowie/post/Df-PMcBlnWi))
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
 - **marcinewiese**: I was actually just taking a picture of our apple trees in bloom...didn't see the jet until days later...lol ([link](https://www.threads.com/@marcinewiese/post/Df-SzjKGLYP))
