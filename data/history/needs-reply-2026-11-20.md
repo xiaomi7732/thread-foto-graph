@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (255)
+## Needs Reply (256)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **julie.cameranz**: Air New Zealand ([link](https://www.threads.com/@julie.cameranz/post/Df-kFE6EjsY))
+  - Photo: Description: A single aircraft is visible in the upper left quadrant of the frame, leaving a long, diffuse contrail that extends diagonally across the sky. The sky is a uniform, clear blue with no clouds or other objects. Photograph read: The image is composed with the aircraft and contrail as a diagonal line against a plain blue background. Lighting is even and bright, suggesting a clear day. The rendering is flat, with no visible depth-of-field effects or motion blur; the aircraft is small and lacks discernible detail. Photo type: Aerial
+    - Watch-outs: The aircraft is too small and distant to show any identifiable features or markings. The contrail is diffuse and lacks crisp edges, making its structure indistinct.
 - **thecorktraveller**:  ([link](https://www.threads.com/@thecorktraveller/post/Df-jtJXCMkQ))
   - Photo: Description: The image shows a close-up of a mushroom cap covered in small, raised, white-tipped bumps, with a blurred background of muted brown and green tones. Photograph read: The subject is in focus, but the background is out of focus. Lighting is even and diffuse, with no harsh shadows or highlights. The image has a shallow depth of field, and the mushroom’s surface texture is visible but not sharply defined. Photo type: Macro
     - Watch-outs: The mushroom cap’s surface texture is not sharply resolved, with some bumps appearing slightly soft or indistinct. The background is uniformly blurred, obscuring any contextual detail.

@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 387,
+      "reply_count": 388,
       "replies": [
+        {
+          "username": "julie.cameranz",
+          "text": "Air New Zealand",
+          "permalink": "https://www.threads.com/@julie.cameranz/post/Df-kFE6EjsY",
+          "photos": [
+            "Description: A single aircraft is visible in the upper left quadrant of the frame, leaving a long, diffuse contrail that extends diagonally across the sky. The sky is a uniform, clear blue with no clouds or other objects. Photograph read: The image is composed with the aircraft and contrail as a diagonal line against a plain blue background. Lighting is even and bright, suggesting a clear day. The rendering is flat, with no visible depth-of-field effects or motion blur; the aircraft is small and lacks discernible detail. Photo type: Aerial"
+          ],
+          "watch_outs": [
+            "The aircraft is too small and distant to show any identifiable features or markings. The contrail is diffuse and lacks crisp edges, making its structure indistinct."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "thecorktraveller",
           "text": "",
