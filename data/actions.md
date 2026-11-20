@@ -6,9 +6,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (166)
+## Needs Reply (158)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **jamesfine57**: I’ve posted this before but it brings me peace when I see it… ([link](https://www.threads.com/@jamesfine57/post/Df-I-dRn5jA))
+  - Photo: Description: A single duck swims on a calm body of water, with a dark, tree-lined shore visible in the distance under a muted sky. Reflections of the trees are mirrored on the water’s surface. Photograph read: The image has a soft, slightly grainy texture with muted tones. The duck is in silhouette, and the water’s surface is smooth, reflecting the distant treeline. Lighting is diffuse, suggesting dawn or dusk, with no harsh shadows or bright highlights. Photo type: Natural landscape
+    - Watch-outs: The duck’s form is indistinct due to low contrast and soft focus, making fine feather details unreadable. The distant treeline is blurred and lacks sharp definition, reducing the clarity of the background.
+- **kcus_ym_kcid**:  ([link](https://www.threads.com/@kcus_ym_kcid/post/Df-I8EmI87t))
+  - Photo: Description: A bird with outstretched wings is captured in mid-flight against a plain, bright background, viewed from below. Photograph read: The image is monochrome with high contrast between the bird and the background. The bird’s wings show layered feather structure, but the edges are soft and slightly blurred. The bird’s head and legs are visible, though details are not sharply defined. Photo type: Portrait
+- **marci_prag**:  ([link](https://www.threads.com/@marci_prag/post/Df-I4zZlHKS))
+  - Photo: Description: A fallen tree branch lies across a sandy beach, with green and yellow leaves overhead and the ocean in the background under a partly cloudy sky. Photograph read: The image is taken from a low angle, with the branch in the foreground and the beach and sea extending into the distance. Lighting is diffuse, suggesting an overcast or partly cloudy day. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Natural landscape
+- **u.b.monochrome**:  ([link](https://www.threads.com/@u.b.monochrome/post/Df-I0PRji1F))
+  - Photo: Description: A lit incandescent bulb housed in a metal lampshade is positioned against a dark, cloudy night sky, with a faint crescent moon visible in the upper left. Photograph read: The image is in black and white, with the bulb as the primary illuminated subject. The lampshade casts a soft glow, and the background sky is uniformly dark with subtle cloud texture. The right side of the frame includes a dark vertical structure, possibly a pole or curtain. Photo type: Still Life
 - **travellady**:  ([link](https://www.threads.com/@travellady/post/Df-IiOemvwp))
   - Photo: Description: A blue and white motorboat travels across a vast, deep-blue ocean, leaving a white wake behind it; the sky above is partly cloudy with sunlight breaking through. Photograph read: The image is taken from an elevated perspective, showing the boat’s wake and the expansive water surface. Lighting is natural, with sunlight reflecting off the water and illuminating parts of the sky. The rendering is clear enough to discern the boat’s shape and wake, though the water surface has a textured appearance. Photo type: Aerial
 - **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/Df-ITpeI738))
@@ -36,56 +45,29 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The moon’s surface texture is not resolvable due to low resolution and lack of fine detail. The entire image exhibits a soft, slightly grainy appearance, suggesting limited sensor resolution or poor optical clarity.
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
+- **l.squared2**: It’s a lily pad. It’s connected to the bottom of the lake. ([link](https://www.threads.com/@l.squared2/post/Df-Im1AmzNN))
+  - _Replying to: One orange leaf doing all the glowing while the water stays…_
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
-- **excitedpanda**: These popped out along a trail. It’s from the Kiluea Iki trail on the Island of Hawai’i the nearest background are the lava fields in the center of the crater that you cross over before climbing the ridge in the very far background ([link](https://www.threads.com/@excitedpanda/post/Df-DSN1Fj39))
-  - _Replying to: That one magenta tip is doing all the shouting while the mo…_
-- **smilingjeannie**: I remained out during the entire sunrise - was pitch black when I started. I took numerous shots during sunrise and this was my favorite. The clouds were moving throughout the session. Well worth the very early wake up call ([link](https://www.threads.com/@smilingjeannie/post/Df-ERQqkfMd))
-  - _Replying to: A whole sky on fire and the pier just standing there, small…_
-- **my_tiny_kingdom**: Morning. Mornings like this are pretty common in this area, there's often fog coming off the river and it's always stunning. ([link](https://www.threads.com/@my_tiny_kingdom/post/Df-Gjvum98f))
-  - _Replying to: Fog in the fields, pink in the clouds - was this the start …_
+- **2killamockingbird**: From a peacock 🦚 in a state garden I visted... ([link](https://www.threads.com/@2killamockingbird/post/Df-I6RogACS))
+  - _Replying to: The eye of the feather, staring right back - all that blue …_
 - **gingertom43**: It just struck me as beautiful, lonely,swimming in a big puddle. Bit like life really. ([link](https://www.threads.com/@gingertom43/post/Df-HsfzEUHp))
   - _Replying to: One yellow leaf, and the whole grey pavement suddenly has a…_
 - **infamous_harsh1t**: I was walking through my society garden, towards the gate, to buy some groceries, and then I saw this interesting pole near the garden entrance. I took the photo, and thus it was born ([link](https://www.threads.com/@infamous_harsh1t/post/Df-IGlPAKqD))
   - _Replying to: A pole, indeed - and somehow the most honest subject of the…_
-- **srravi**: Many thanks 😊 the water was still here’s color iteration 👇 also a ripple on its feet as it had moved: these are black winged stilts ([link](https://www.threads.com/@srravi/post/Df-Da-vGjb9))
-  - Photo: Description: A black-winged stilt stands in shallow water, its long pink legs and slender black-and-white body reflected in the surface. The background is a uniform deep blue. Photograph read: The composition is vertical, with the bird and its reflection forming a near-symmetrical pair. Lighting is even and bright, illuminating the bird’s features and legs. Reflections are clear and undistorted, indicating calm water. No visible signs of motion blur, overexposure, or underexposure. Photo type: Still life
-  - _Replying to: The reflection doubles the legs and somehow makes the bird …_
+- **thatguyale**: Trash can outside of a McDonald's. ([link](https://www.threads.com/@thatguyale/post/Df-I-58FKNC))
+  - _Replying to: A crow on a trash can, holding court against a whole blank …_
 - **dianelynnturnbull**: It wasn't alive but too beautiful to pass by. ([link](https://www.threads.com/@dianelynnturnbull/post/Df-HQrplEj0))
   - _Replying to: Those wings, still perfect against the wet ground. Was it a…_
-- **luvsravens59**: I’m always looking at the sky and things around me. ([link](https://www.threads.com/@luvsravens59/post/Df-DuMbJQ0_))
-  - _Replying to: A half moon and two contrails crossing like a quiet X in th…_
-- **vidarhaaby**: She was just passing ([link](https://www.threads.com/@vidarhaaby/post/Df-C7MKiLol))
-  - _Replying to: I think the wall does half the work here - all that pattern…_
-- **gus_arch96**: It was still there a minute later ([link](https://www.threads.com/@gus_arch96/post/Df-CU6ID4pv))
-  - _Replying to: One drop hanging off rusted wire, holding the light like it…_
-- **artiekay2**: It might still be there for all I know. ([link](https://www.threads.com/@artiekay2/post/Df-DA-Xln9S))
-  - _Replying to: A fishing bobber caught in a tree, floating against the blu…_
-- **hannele.heikkinen**: I was walking along a forest trail, and after a dense stretch of trees, there was a fairly large snowy area with this cotton swab right in the middle of it. ([link](https://www.threads.com/@hannele.heikkinen/post/Df-C2LsDrID))
-  - _Replying to: One thin stem, one snowball, and a whole white world to its…_
-- **yulya_m_v**: A photo taken after the rain. ([link](https://www.threads.com/@yulya_m_v/post/Df-BKrykfrH))
-  - _Replying to: Three drops, one branch, and nothing else asking for attent…_
-- **camaze**: The water was just that still that day at the St John’s River in Forida ([link](https://www.threads.com/@camaze/post/Df-Bk_IkayJ))
-  - _Replying to: The poles are barely there and their reflections do half th…_
+- **pancha.indera**: just sit there ([link](https://www.threads.com/@pancha.indera/post/Df-JDKwGr8t))
+  - _Replying to: One bird, a sky full of wires, and it picked that one. Did …_
 - **forrestkirby**: He was very cooperative! LOL ([link](https://www.threads.com/@forrestkirby/post/Df-G3ICkfDV))
   - _Replying to: Is that a flicker showing off its spotted vest against all …_
-- **travel.marvin**: It’s been a while, but I believe it was with a lens. I think it was Santa Monica Beach, so they were used to people. ([link](https://www.threads.com/@travel.marvin/post/Df-E6ViFsMj))
-  - _Replying to: That gull looks completely unbothered by the whole city beh…_
-- **abnerabel125**: It actually stayed there until after the shot. Then I accidentally knocked it off with my camera . ([link](https://www.threads.com/@abnerabel125/post/Df-CN7NFBTo))
-  - _Replying to: The whole green world squeezed into one drop - I keep looki…_
-- **sahelstreams**: I think it noticed me… but so far off he/she didn’t really care ([link](https://www.threads.com/@sahelstreams/post/Df-BdVilOcf))
-  - _Replying to: A coyote the size of a comma in all that sky and plain - I …_
-- **bcollllins**: Low tide taken at Lytham St.Annes in England, it goes out for approximately a mile at low tide & can come in very fast. If you look closely there is another figure on the right much further out. ([link](https://www.threads.com/@bcollllins/post/Df-BPvpkdzN))
-  - _Replying to: The person and the dog are barely specks and the beach stil…_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/Df980dAmGeX))
   - Photo: Description: The photograph shows a close-up, monochrome profile of a human face, partially obscured by a dark, vertical shape that may be a hand or object near the eye. The subject’s facial features are indistinct due to heavy grain and blur. Photograph read: The image is rendered in black and white with a grainy texture. Lighting appears diffuse, with no strong directional highlights or shadows. The composition is asymmetrical, with the subject occupying the left side of the frame and a large empty area on the right. Photo type: Unclear
     - Watch-outs: - The entire image exhibits significant grain, reducing fine detail across the subject’s face and background. - The right side of the image is uniformly bright and devoid of detail, suggesting overexposure or lack of subject in that area.
 - **asutris**: True. It's a pleasure. ([link](https://www.threads.com/@asutris/post/Df-DPo5nYNp))
   - _Replying to: Some shots are just about being there at the right second. …_
-- **tiv34**: I don’t know. I was having lunch in northern Cyprus and they floated by! ([link](https://www.threads.com/@tiv34/post/Df-BUAmisKh))
-  - Photo: Description: The photograph shows a table with a glass of red wine, salt and pepper shakers, and a beer bottle, viewed through a window from inside a building overlooking a coastal area with rocky outcrops and clear water. Photograph read: The image is taken from an interior perspective with a window frame visible, showing a bright, partly cloudy sky and ocean beyond. The window glass reflects some interior elements, including a person’s arm and a bottle. The foreground objects are in focus, but the background is slightly out of focus and shows natural coastal features. Photo type: Documentary
-    - Watch-outs: - Reflections on the window glass obscure parts of the view, particularly the right side of the frame, reducing clarity of the coastal landscape. - The window frame and its metallic edges create a visible obstruction along the left and center of the image, limiting the unobstructed view of the sea.
-  - _Replying to: Ten geese in a perfect little convoy, like they filed a fli…_
 - **lindafedor6**: Shapes ([link](https://www.threads.com/@lindafedor6/post/Df9_5y4nK2c))
   - Photo: Description: A hand holds a mixed-media collage featuring a bird-like figure made of layered paper, a pink heart, and shredded paper, set against a background of printed dictionary pages with words like “heartless” and “hearth.” Photograph read: The image is taken at a slight angle, with even, diffuse lighting. The subject is in focus, but the background is slightly out of focus. The collage’s textures and layered materials are visible, though some text is partially obscured by paper overlays. Photo type: Mixed-media collage
   - _Replying to: The Shaped Thursday favorites are live - five shapes that s…_
@@ -426,10 +408,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (41)
-
-### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
-- robinstory_handmade: 鷹繞一圈就直直飛回林子裡 ([link](https://www.threads.com/@robinstory_handmade/post/Df-BhhDo9Ic))
+## Needs Like (40)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - elobernstein: 😊 ([link](https://www.threads.com/@elobernstein/post/Df98Dh7GxBh))
