@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (164)
+## Needs Reply (165)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df-RcQ1EQyY))
+  - Photo: Description: A single paraglider with a dark, possibly teal-colored canopy is suspended in a vast, clear blue sky. The pilot is visible as a small silhouette beneath the canopy. Photograph read: The image is vertically oriented with a uniform blue background. The paraglider is centered in the upper half of the frame, appearing small due to distance. Lighting is even and bright, suggesting a clear day with no visible shadows or contrast extremes. Photo type: Aerial
 - **grayghostlife**:  ([link](https://www.threads.com/@grayghostlife/post/Df-QSPEGRU4))
   - Photo: Description: A snail with a striped, yellowish-brown shell and dark body is positioned on a textured piece of driftwood. In the blurred background, a fish with long, flowing fins in purple, black, and yellow hues is visible. Photograph read: The image has a shallow depth of field, with the snail in focus and the background fish and surrounding elements significantly out of focus. Lighting appears even and diffused, illuminating the snail and driftwood clearly. The rendering preserves surface texture on the snail and wood but lacks sharpness in the background. Photo type: Macro
     - Watch-outs: The background fish is indistinct due to motion blur and shallow depth of field, obscuring its form and fin details. The snail’s shell and body are in focus, but the surrounding driftwood texture is not uniformly sharp across the entire surface.
