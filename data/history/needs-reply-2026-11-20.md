@@ -4,9 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (174)
+## Needs Reply (181)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df-Gq5mFaUI))
+  - Photo: Description: A ladybug with orange elytra and black spots rests on a green leaf, viewed from above with its head and legs visible. Photograph read: The image is in focus with even lighting, capturing fine surface texture of the leaf and the ladybug’s shell. The composition centers the insect, with natural leaf veins and minor surface imperfections visible. Photo type: Macro
+- **pennyhay83**:  ([link](https://www.threads.com/@pennyhay83/post/Df-GovYmr32))
+  - Photo: Description: A crescent moon is visible against a dark, uniform sky, with the illuminated portion appearing yellowish and the rest in shadow. Photograph read: The moon is centered in the frame, with a smooth, curved edge and a visible terminator separating light and dark. The image has a low-contrast appearance with no discernible texture or surface detail on the moon’s surface. The background is uniformly dark with no visible stars or atmospheric features. Photo type: Astrophotography
+    - Watch-outs: The moon’s surface texture is not resolvable due to low resolution and lack of fine detail. The entire image exhibits a soft, slightly grainy appearance, suggesting limited sensor resolution or poor optical clarity.
+- **shawn.alma**:  ([link](https://www.threads.com/@shawn.alma/post/Df-GZJXlN9U))
+  - Photo: Description: A single dried, orange-brown leaf with a heart-like shape rests on a weathered, vertically grained wooden surface. Photograph read: The image is a close-up shot with even, diffuse lighting. The leaf and wood grain are in focus, showing clear texture and detail. The composition is centered, with the leaf occupying the middle of the frame. Photo type: Still life
+- **dougkeel**:  ([link](https://www.threads.com/@dougkeel/post/Df-GYfyoQQh))
+  - Photo: Description: A red barn sits on a grassy hillside amid a forested landscape under a partly cloudy sky, with tree branches in the foreground. Photograph read: The scene is captured with natural daylight, showing a wide view of the landscape. The sky occupies the upper portion, with clouds varying in density. The foreground includes thin branches, while the midground features a mix of bare and budding trees and a cultivated field. The barn is clearly visible but not sharply detailed. Photo type: Landscape
 - **______esque**: An agapanthus ([link](https://www.threads.com/@______esque/post/Df-F5rDmafV))
   - Photo: Description: A monochrome depiction of a flower head with numerous elongated, pointed buds clustered together, attached to a slender stem, set against a plain white background. Photograph read: The image is rendered in black and white with high contrast, showing detailed textures and outlines of the flower structure. The composition is centered, with the flower head occupying the lower half of the frame. Lighting appears even, highlighting the form without casting strong shadows. Photo type: Illustration
 - **jessgperry**:  ([link](https://www.threads.com/@jessgperry/post/Df-FyENGYic))
@@ -72,6 +81,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole sky on fire and the pier just standing there, small…_
 - **classlessvillain**: It was keeping watch 😊 ([link](https://www.threads.com/@classlessvillain/post/Df-DI1kFA7R))
   - _Replying to: I think keeping the background that dark was the right call…_
+- **my_tiny_kingdom**: Morning. Mornings like this are pretty common in this area, there's often fog coming off the river and it's always stunning. ([link](https://www.threads.com/@my_tiny_kingdom/post/Df-Gjvum98f))
+  - _Replying to: Fog in the fields, pink in the clouds - was this the start …_
 - **marinacasalribeiro**: Here where I live, in Portugal, there are many of them when the weather gets warmer, and they stay still for a long time. I went close by and was lucky that it didn't fly away right away. ([link](https://www.threads.com/@marinacasalribeiro/post/Df-DSesiPHw))
   - _Replying to: That red against the soft green is hard to look away from -…_
 - **srravi**: Many thanks 😊 the water was still here’s color iteration 👇 also a ripple on its feet as it had moved: these are black winged stilts ([link](https://www.threads.com/@srravi/post/Df-Da-vGjb9))
@@ -93,6 +104,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Three drops, one branch, and nothing else asking for attent…_
 - **camaze**: The water was just that still that day at the St John’s River in Forida ([link](https://www.threads.com/@camaze/post/Df-Bk_IkayJ))
   - _Replying to: The poles are barely there and their reflections do half th…_
+- **forrestkirby**: He was very cooperative! LOL ([link](https://www.threads.com/@forrestkirby/post/Df-G3ICkfDV))
+  - _Replying to: Is that a flicker showing off its spotted vest against all …_
 - **travel.marvin**: It’s been a while, but I believe it was with a lens. I think it was Santa Monica Beach, so they were used to people. ([link](https://www.threads.com/@travel.marvin/post/Df-E6ViFsMj))
   - _Replying to: That gull looks completely unbothered by the whole city beh…_
 - **abnerabel125**: It actually stayed there until after the shot. Then I accidentally knocked it off with my camera . ([link](https://www.threads.com/@abnerabel125/post/Df-CN7NFBTo))
@@ -112,6 +125,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows a table with a glass of red wine, salt and pepper shakers, and a beer bottle, viewed through a window from inside a building overlooking a coastal area with rocky outcrops and clear water. Photograph read: The image is taken from an interior perspective with a window frame visible, showing a bright, partly cloudy sky and ocean beyond. The window glass reflects some interior elements, including a person’s arm and a bottle. The foreground objects are in focus, but the background is slightly out of focus and shows natural coastal features. Photo type: Documentary
     - Watch-outs: - Reflections on the window glass obscure parts of the view, particularly the right side of the frame, reducing clarity of the coastal landscape. - The window frame and its metallic edges create a visible obstruction along the left and center of the image, limiting the unobstructed view of the sea.
   - _Replying to: Ten geese in a perfect little convoy, like they filed a fli…_
+- **dwordops**: ice storm last winter … took out all of Nashville ([link](https://www.threads.com/@dwordops/post/Df-GUGTIDw_))
+  - _Replying to: I think the ice turning a plain stem into glass is the whol…_
 - **lindafedor6**: Shapes ([link](https://www.threads.com/@lindafedor6/post/Df9_5y4nK2c))
   - Photo: Description: A hand holds a mixed-media collage featuring a bird-like figure made of layered paper, a pink heart, and shredded paper, set against a background of printed dictionary pages with words like “heartless” and “hearth.” Photograph read: The image is taken at a slight angle, with even, diffuse lighting. The subject is in focus, but the background is slightly out of focus. The collage’s textures and layered materials are visible, though some text is partially obscured by paper overlays. Photo type: Mixed-media collage
   - _Replying to: The Shaped Thursday favorites are live - five shapes that s…_

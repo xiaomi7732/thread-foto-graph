@@ -13,8 +13,59 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 140,
+      "reply_count": 147,
       "replies": [
+        {
+          "username": "bumpy120",
+          "text": "",
+          "permalink": "https://www.threads.com/@bumpy120/post/Df-Gq5mFaUI",
+          "photos": [
+            "Description: A ladybug with orange elytra and black spots rests on a green leaf, viewed from above with its head and legs visible. Photograph read: The image is in focus with even lighting, capturing fine surface texture of the leaf and the ladybug\u2019s shell. The composition centers the insect, with natural leaf veins and minor surface imperfections visible. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "pennyhay83",
+          "text": "",
+          "permalink": "https://www.threads.com/@pennyhay83/post/Df-GovYmr32",
+          "photos": [
+            "Description: A crescent moon is visible against a dark, uniform sky, with the illuminated portion appearing yellowish and the rest in shadow. Photograph read: The moon is centered in the frame, with a smooth, curved edge and a visible terminator separating light and dark. The image has a low-contrast appearance with no discernible texture or surface detail on the moon\u2019s surface. The background is uniformly dark with no visible stars or atmospheric features. Photo type: Astrophotography"
+          ],
+          "watch_outs": [
+            "The moon\u2019s surface texture is not resolvable due to low resolution and lack of fine detail. The entire image exhibits a soft, slightly grainy appearance, suggesting limited sensor resolution or poor optical clarity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "shawn.alma",
+          "text": "",
+          "permalink": "https://www.threads.com/@shawn.alma/post/Df-GZJXlN9U",
+          "photos": [
+            "Description: A single dried, orange-brown leaf with a heart-like shape rests on a weathered, vertically grained wooden surface. Photograph read: The image is a close-up shot with even, diffuse lighting. The leaf and wood grain are in focus, showing clear texture and detail. The composition is centered, with the leaf occupying the middle of the frame. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dougkeel",
+          "text": "",
+          "permalink": "https://www.threads.com/@dougkeel/post/Df-GYfyoQQh",
+          "photos": [
+            "Description: A red barn sits on a grassy hillside amid a forested landscape under a partly cloudy sky, with tree branches in the foreground. Photograph read: The scene is captured with natural daylight, showing a wide view of the landscape. The sky occupies the upper portion, with clouds varying in density. The foreground includes thin branches, while the midground features a mix of bare and budding trees and a cultivated field. The barn is clearly visible but not sharply detailed. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "______esque",
           "text": "An agapanthus",
@@ -460,7 +511,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "my_tiny_kingdom",
+                  "text": "Morning. Mornings like this are pretty common in this area, there's often fog coming off the river and it's always stunning.",
+                  "permalink": "https://www.threads.com/@my_tiny_kingdom/post/Df-Gjvum98f",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1196,7 +1258,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "forrestkirby",
+                  "text": "He was very cooperative! LOL",
+                  "permalink": "https://www.threads.com/@forrestkirby/post/Df-G3ICkfDV",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1666,7 +1739,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dwordops",
+                  "text": "ice storm last winter \u2026 took out all of Nashville",
+                  "permalink": "https://www.threads.com/@dwordops/post/Df-GUGTIDw_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
