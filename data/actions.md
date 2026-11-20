@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (266)
+## Needs Reply (268)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **runarstoreide**:  ([link](https://www.threads.com/@runarstoreide/post/Df-nFz8jcpo))
+  - Photo: Description: A horizontal yellow rod or tube is positioned across the frame, with a blurred background composed of out-of-focus circular light patterns in warm and cool tones. Photograph read: The image features a shallow depth of field, with the rod in focus and the background rendered as bokeh. Lighting appears to be artificial, with a mix of warm and cool highlights. The rod’s surface shows minor reflections and a slight sheen. Photo type: Abstract
+    - Watch-outs: The background bokeh obscures any identifiable foreground or background context, limiting scene understanding. The rod’s surface is smooth and lacks texture, making fine detail unobservable.
 - **welperson**: Does a leaf on a dog count? ([link](https://www.threads.com/@welperson/post/Df-mx5WE9y-))
   - Photo: Description: A black dog with a pink collar and a leaf resting on its forehead is the central subject, viewed from a close-up perspective against a blurred, light-toned background. Photograph read: The image is a close-up portrait with shallow depth of field, focusing sharply on the dog’s face and the leaf. Lighting is even and natural, illuminating the subject without harsh shadows. The leaf’s colors and the dog’s facial features are clearly rendered, though the background remains indistinct. Photo type: Portrait
 - **farrockaway_robin**: Bird at boat ([link](https://www.threads.com/@farrockaway_robin/post/Df-mpfik_Vp))
@@ -399,6 +402,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
+- **david.l.mcgee56**: Yes they do… ([link](https://www.threads.com/@david.l.mcgee56/post/Df-nK2LGfTe))
+  - Photo: Description: The photograph shows two views of a large, ancient ginkgo tree with vibrant yellow foliage, set in an outdoor cemetery environment with gravestones and pathways visible. Photograph read: The images are composed as a split-screen, with each panel showing the tree from a different angle. Lighting is bright daylight, casting clear shadows and highlighting the tree’s canopy and trunk. Rendering is clear, with visible texture on the bark and leaf detail. Photo type: Natural
+  - _Replying to: Louisville keeps its old trees well._
 - **kes_ward**: The bubble held for about 30-40 seconds. Always add glycerin into the mix and it give the bubble a little extra strength. The bubble changes quite dramatically from start to finish. This was at the start. ([link](https://www.threads.com/@kes_ward/post/Df-Mqz0Dj6p))
   - _Replying to: A whole alien planet in a soap bubble, with a tiny heart hi…_
 - **reef_ausic**: Can’t agree more ([link](https://www.threads.com/@reef_ausic/post/Df89WVZI6xt))
