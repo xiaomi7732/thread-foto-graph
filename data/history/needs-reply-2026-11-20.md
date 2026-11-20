@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (211)
+## Needs Reply (212)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **richmanannie**:  ([link](https://www.threads.com/@richmanannie/post/Df-xy8Co2Ve))
+  - Photo: Description: A city skyline is visible across a body of water under a bright blue sky, with a prominent white contrail forming a looping, abstract pattern in the upper left. Scattered cumulus clouds are present, particularly on the right. Photograph read: The sky is clear and blue, with the contrail and clouds providing contrast. The water reflects sunlight, creating a glittering surface. The skyline is silhouetted against the horizon. The image appears to be captured with a standard camera, showing no visible signs of distortion or aberration. Photo type: Aerial landscape
 - **imtayamathias**:  ([link](https://www.threads.com/@imtayamathias/post/Df-w8rXkZCq))
   - Photo: Description: A wide, flat field with patches of snow and exposed soil stretches under a clear blue sky, with a single prominent white cloud and a distant industrial smokestack visible beyond a line of bare trees. Photograph read: The composition is horizontal, with the field occupying the lower third and the sky the upper two-thirds. Lighting is bright and even, suggesting midday sun. The image has a uniform color tone and no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Landscape
 - **carolinaabq**:  ([link](https://www.threads.com/@carolinaabq/post/Df-ws1elvMl))
