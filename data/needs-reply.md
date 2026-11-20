@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (130)
+## Needs Reply (132)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **00mrlonewolf00**: RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees. ([link](https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl))
@@ -50,6 +50,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A round little house on stilts, sitting over the water like…_
 - **jglass8**: I think he rents the interior, but really prefers the top floor. ([link](https://www.threads.com/@jglass8/post/Df8gMa2FI8C))
   - _Replying to: Did something move in, or did the desert carve that window?…_
+- **reef_ausic**: Caught it mid-bloom. ([link](https://www.threads.com/@reef_ausic/post/Df8rhY3Est-))
+  - _Replying to: That magenta dome is wearing a crown of yellow curls. Did i…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
@@ -187,6 +189,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **brianroffe**: Mid afternoon I think. It's Morpeth in NE England ([link](https://www.threads.com/@brianroffe/post/Df7ha2XCG2n))
   - _Replying to: The bridge gets a perfect twin and the trees come along und…_
+- **nicoleplaysbydesign**: It was. I had gone out for a run and snapped it on my way back. ([link](https://www.threads.com/@nicoleplaysbydesign/post/Df8rkrnlWHU))
+  - _Replying to: The big tree gets a full second showing in the pond, and th…_
 - **jammy.kollings**: Yes-just like glass all day ([link](https://www.threads.com/@jammy.kollings/post/Df6RPpGlLLR))
   - _Replying to: The reflections run the full length of the frame, and that …_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
