@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (183)
+## Needs Reply (186)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **giantsfands**:  ([link](https://www.threads.com/@giantsfands/post/Df-OTyLGc1b))
+  - Photo: Description: A lone rower in a narrow boat is silhouetted against a bright, misty water surface, with a dark, indistinct shoreline and a faint blue structure visible in the background. Photograph read: The image features high contrast between the bright, hazy water surface and the dark background. The rower and boat are rendered as a dark silhouette with minimal visible detail. The water surface shows motion blur or texture, and the background is uniformly dark with no discernible features beyond the distant structure. Photo type: Unclear
+    - Watch-outs: - The rower’s form is a silhouette with no visible facial or clothing detail, limiting identification. - The background shoreline is indistinct, with no clear edges or features beyond a hazy, uniformly dark area.
+- **papi857**: "I have seen the light" 😁 ([link](https://www.threads.com/@papi857/post/Df-N0OwlKGF))
+  - Photo: Description: A red, ornate outdoor wall-mounted lamp with a curved, ribbon-like arm and a wide, shallow shade is affixed to a building with yellow horizontal siding and white trim. A clear bulb is visible beneath the shade. Photograph read: The image is taken in bright daylight, with strong contrast between the red lamp and the building’s siding. The lamp is in sharp focus, while the background shows some texture and wear on the siding. The composition is a close-up, angled slightly upward, capturing the lamp’s structure and mounting bracket. Photo type: Portrait
+- **abbytabby13**:  ([link](https://www.threads.com/@abbytabby13/post/Df-NwcnFsxo))
+  - Photo: Description: A single bird, with white and dark plumage, is partially submerged in rippling blue water, appearing to be preening or adjusting its feathers. Photograph read: The image is composed with the bird centered in the frame against a uniform water background. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering shows visible surface ripples and minor motion blur, with no discernible depth of field or focus plane. Photo type: Natural
+    - Watch-outs: The bird’s features are indistinct due to motion blur and low contrast; the affected area is the bird’s head and body. The water’s surface texture is visible but lacks fine detail, limiting the ability to discern the bird’s specific markings or posture.
 - **rscottcarlson**:  ([link](https://www.threads.com/@rscottcarlson/post/Df-Nql0ko4N))
   - Photo: Description: An orange tabby cat sits in profile atop a low brick wall, gazing leftward against a clear blue sky, with a sloped, rocky backyard and distant houses visible in the background. Photograph read: The cat is in sharp focus, with clear fur texture and eye detail; the sky is uniformly blue with no clouds; the foreground wall is in focus, showing brick texture; background elements are slightly less sharp but still discernible. Photo type: Natural daylight portrait
 - **jimasher**:  ([link](https://www.threads.com/@jimasher/post/Df-NbztEe9t))
