@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (273)
+## Needs Reply (275)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **jojoguingona**:  ([link](https://www.threads.com/@jojoguingona/post/Df-oZdvEzAG))
+  - Photo: Description: A single, spherical water droplet hangs from a thin, textured plant stem against a solid black background. The droplet reflects light, appearing bright and distinct. Photograph read: The image is high-contrast, with the droplet and stem sharply defined against a uniform black field. The stem shows fine, fibrous texture. Lighting is directional, illuminating the droplet from one side, creating a specular highlight. Photo type: High-contrast macro
+- **margieannemanuelli**: Not alone bird but minimal ([link](https://www.threads.com/@margieannemanuelli/post/Df-oM-1gfMf))
+  - Photo: Description: Two kookaburras are perched side-by-side on a dark wire against a uniformly overcast sky. Photograph read: The image is composed with the birds centered on a diagonal wire, set against a flat, light-gray sky. Lighting is diffuse and even, with no shadows or highlights indicating direct sunlight. The birds are in focus, but the image lacks sharpness in their feather textures and facial details. Photo type: Portrait
 - **karinbond1**: Dew drops on spider webs. ([link](https://www.threads.com/@karinbond1/post/Df-n-tylhjj))
   - Photo: Description: A dew-covered spiderweb hangs between branches of a bush with green and brown leaves, set against a dark building facade and a gravel ground. Photograph read: The image has moderate depth of field, with the web in relatively sharp focus. Lighting is diffuse, likely from an overcast sky, casting even illumination without harsh shadows. The rendering is naturalistic, with no visible digital artifacts or color distortion. Photo type: Natural
   - Photo: Description: A spiderweb strung between plant stems, adorned with dew droplets, is the central subject, set against a backdrop of green foliage and purple flowers with a blurred wooden fence behind. Photograph read: The image has a shallow depth of field, with the web in focus while surrounding vegetation and background are out of focus. Lighting is diffuse, creating soft highlights on the dew droplets. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Nature macro
