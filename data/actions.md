@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (275)
+## Needs Reply (277)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **skymomma_rocks**:  ([link](https://www.threads.com/@skymomma_rocks/post/Df-pFU3o70C))
+  - Photo: Description: A small, bright green frog with dark eyes and subtle yellowish underparts is perched on a large, broad green leaf. The leaf surface shows faint veins and minor surface imperfections. Photograph read: The image is taken with a shallow depth of field, resulting in the frog being in focus while the background and foreground leaf areas are softly blurred. Lighting is even and diffused, illuminating the subject without harsh shadows or overexposure. Photo type: Macro
 - **jojoguingona**:  ([link](https://www.threads.com/@jojoguingona/post/Df-oZdvEzAG))
   - Photo: Description: A single, spherical water droplet hangs from a thin, textured plant stem against a solid black background. The droplet reflects light, appearing bright and distinct. Photograph read: The image is high-contrast, with the droplet and stem sharply defined against a uniform black field. The stem shows fine, fibrous texture. Lighting is directional, illuminating the droplet from one side, creating a specular highlight. Photo type: High-contrast macro
 - **margieannemanuelli**: Not alone bird but minimal ([link](https://www.threads.com/@margieannemanuelli/post/Df-oM-1gfMf))
@@ -366,6 +368,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Four wires, one bird, and it picked the one with the best v…_
 - **srravi**: Many thanks 😊 again 🙏 ([link](https://www.threads.com/@srravi/post/Df-LN17kpwd))
   - _Replying to: Those long legs doubled in the still water - a lovely pair …_
+- **wondered.upon**: Yes, it did but pleasant in a weird way. I love encountering things as such. Makes it more interesting. Different view, perspective. And an emotion. That’s what I try to capture. There is emotion behind all my pictures ❤️ ([link](https://www.threads.com/@wondered.upon/post/Df-pEdYkQo9))
+  - _Replying to: It will more than do - that frosted leaf is holding its own…_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/Df980dAmGeX))
   - Photo: Description: The photograph shows a close-up, monochrome profile of a human face, partially obscured by a dark, vertical shape that may be a hand or object near the eye. The subject’s facial features are indistinct due to heavy grain and blur. Photograph read: The image is rendered in black and white with a grainy texture. Lighting appears diffuse, with no strong directional highlights or shadows. The composition is asymmetrical, with the subject occupying the left side of the frame and a large empty area on the right. Photo type: Unclear
     - Watch-outs: - The entire image exhibits significant grain, reducing fine detail across the subject’s face and background. - The right side of the image is uniformly bright and devoid of detail, suggesting overexposure or lack of subject in that area.
