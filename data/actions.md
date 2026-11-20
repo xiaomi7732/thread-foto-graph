@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (216)
+## Needs Reply (217)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ronaldstamant**:  ([link](https://www.threads.com/@ronaldstamant/post/Df-c-RzDx7t))
+  - Photo: Description: A wide, flat field of tilled earth stretches toward a distant tree line under a partly cloudy sky, with a wire fence and wooden post in the foreground. Photograph read: The image is taken from a low angle, with even daylight illuminating the scene. The field shows parallel furrows, and the sky has scattered clouds. The foreground fence is in focus, while the midground field and background treeline are slightly less sharp. Photo type: Agricultural landscape
 - **iainriggs**:  ([link](https://www.threads.com/@iainriggs/post/Df-cAtxEu9W))
   - Photo: Description: A lone figure walks along a wet shoreline at the edge of the ocean under a vast, softly clouded sky, with the horizon dividing the sea and sky in a muted gradient. Photograph read: The composition is horizontal, with the figure centered near the lower third. Lighting is diffuse and even, suggesting twilight or overcast conditions. The image has a uniform color palette with soft transitions and no visible sharpness or contrast extremes. Photo type: Landscape
 - **janlanrn**:  ([link](https://www.threads.com/@janlanrn/post/Df-b3q6Fr9e))
