@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (154)
+## Needs Reply (160)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **seattle2vegas1**:  ([link](https://www.threads.com/@seattle2vegas1/post/Df-PonsFEoq))
+  - Photo: Description: A rainbow arcs across a cloudy sky above the Pyramid of the Sun and the HyperX Esports Arena in Las Vegas, with a Sphinx statue and a distant obelisk visible in the foreground. Photograph read: The image captures a wide-angle view with natural daylight illuminating the scene; the rainbow is vivid and centrally positioned, while the buildings and statues are rendered with moderate contrast against the overcast sky. The pyramid’s surface shows a grid pattern, and the arena’s signage is legible. Photo type: Landscape
+- **allison.ludwig.31**: Little green spider in the middle. ([link](https://www.threads.com/@allison.ludwig.31/post/Df-Pj7JGHgD))
+  - Photo: Description: The photograph shows three roses—two fully bloomed and one in bud—with pink and yellow coloration, surrounded by green leaves and set against a blurred background of mulch and foliage. Photograph read: The image is taken with a shallow depth of field, focusing on the central bud, while the surrounding flowers and background are softly out of focus. Lighting is bright and directional, casting shadows and highlights across the petals and leaves. The rendering preserves surface texture and color gradients without visible compression or noise. Photo type: Natural
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/Df-PP_1CBmH))
   - Photo: Description: A dark, silhouetted bird is captured mid-flight against a hazy, foggy background, with blurred tree outlines and two vertical fence posts in the foreground. Photograph read: The image exhibits a uniform, soft haze that reduces contrast and detail across the entire frame. Lighting is diffuse and even, with no discernible directional source. The rendering lacks sharpness, with no visible focus plane or depth cues. Photo type: Unclear
     - Watch-outs: - The entire image appears blurred; fine detail is not distinguishable. - Background elements, including trees and the bird’s wings, are indistinct due to atmospheric haze.
@@ -34,15 +38,25 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The background is heavily blurred, obscuring any identifiable environmental context. The droplet’s surface shows internal reflections and minor distortions, but no visible texture or microstructure of the plant is discernible.
 - **veltinsthecat**: My phone focused on the spider and didn’t “catch” the net. So it’s “hovering” in the air. ([link](https://www.threads.com/@veltinsthecat/post/Df-NWm8EsiZ))
   - Photo: Description: A spider with long, hairy legs and a patterned abdomen is positioned on a uniformly yellow, textured surface. Photograph read: The spider is in sharp focus against a flat, saturated yellow background. Lighting is even, with no visible shadows or highlights indicating directional light. The image has no apparent motion blur or focus falloff. Photo type: Macro
+- **meechz1**: Had my girlfriend standing atop a small sand dune that gave the illusion she was heading towards the ocean . ([link](https://www.threads.com/@meechz1/post/Df-Phj0GNXj))
+  - _Replying to: One figure against the whole sunset - what were you walking…_
+- **embram**: The before shot ([link](https://www.threads.com/@embram/post/Df-Pvr7CDaE))
+  - Photo: Description: A bird in silhouette perches on a bare tree branch against a pale blue sky, with some small yellow buds visible on nearby branches. Photograph read: The image is composed with the bird as a central subject against a uniform sky background. Lighting is backlighting, creating a silhouette effect. Rendering is flat with no visible texture or depth beyond the subject’s outline. Photo type: Silhouette
+    - Watch-outs: The bird’s features are obscured by silhouette, making identification of specific markings or textures impossible. The buds on the branches are small and lack detail due to backlighting and shallow contrast.
+  - _Replying to: Caught mid-wingbeat, with the branches reaching up for it -…_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
   - Photo: Description: A small, dark, indistinct object is centered in the frame against a uniformly gray, textured background that lacks discernible features. Photograph read: The image is monochrome with even, flat lighting and no visible shadows or highlights. The subject appears as a faint, low-contrast shape with no clear edges or identifiable features. The background exhibits a grainy or pixelated texture across the entire frame. Photo type: Unclear
     - Watch-outs: The subject is too small and indistinct to be identified; its shape and features are not resolvable. The entire image exhibits a uniform grainy texture, which obscures fine detail across the background and subject.
+- **lilpig2012**: Thanks A field across from where I live ([link](https://www.threads.com/@lilpig2012/post/Df-P9TiEag8))
+  - _Replying to: Nothing but fog - and somehow it still works. What was hidi…_
 - **artgowie**: This beach is about a half mile from my house and on my way to work. ([link](https://www.threads.com/@artgowie/post/Df-PMcBlnWi))
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
+- **trotta.james**: Thanks for looking. I enjoying taking this shot! ([link](https://www.threads.com/@trotta.james/post/Df-P8pyoKuv))
+  - _Replying to: High noon, and blue all the way down. Thanks for sharing it._
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
 - **excitedpanda**: Youre welcome lol Add drizzling and the feel of ominous energy a foot lol ([link](https://www.threads.com/@excitedpanda/post/Df-O7uvmac3))
@@ -410,11 +424,12 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (42)
+## Needs Like (43)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
 - brianroffe: It did ([link](https://www.threads.com/@brianroffe/post/Df-PTe-CA-G))
+- 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/Df-PwZKALar))
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - elobernstein: 😊 ([link](https://www.threads.com/@elobernstein/post/Df98Dh7GxBh))
