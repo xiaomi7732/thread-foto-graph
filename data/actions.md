@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (134)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **00mrlonewolf00**: RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees. ([link](https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl))
@@ -32,12 +32,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **tim22974**: Landed like that; saw it on my dog walk; had to stop!! ([link](https://www.threads.com/@tim22974/post/Df8gmCQmVpf))
   - _Replying to: That red against the green is doing all the shouting. Did i…_
+- **dianelynnturnbull**: A mystery, forever. It might all still be on the pavement...I will check in the morning. 😊 ([link](https://www.threads.com/@dianelynnturnbull/post/Df8uZc1Ectw))
+  - _Replying to: Circles inside circles - the white disk, the seed pod, the …_
 - **32groove**: This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist’s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces. ([link](https://www.threads.com/@32groove/post/Df8h2ojjBlV))
   - _Replying to: A ring of spikes with a hole straight through the middle - …_
 - **hippiecat51**: I keep him on a box with all my nature found treasures. ([link](https://www.threads.com/@hippiecat51/post/Df8lJXhmZND))
   - _Replying to: He has a face in profile - a snout, an eye, the whole littl…_
 - **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
   - _Replying to: Melancholy suits them - a beautiful late-season rose._
+- **sherriebcrow**: Definitely spotted the face, which was why I took the picture. ([link](https://www.threads.com/@sherriebcrow/post/Df8tYfQjnpz))
+  - _Replying to: The rock is pulling a face - two round eyes and a long mout…_
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
