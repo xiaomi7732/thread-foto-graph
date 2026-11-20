@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (138)
+## Needs Reply (140)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **missbellisperennis**: Found this and took it home. ([link](https://www.threads.com/@missbellisperennis/post/Df85LDrjMTl))
+  - Photo: Description: A hand holds a small, irregularly shaped piece of wood with concentric, heart-like grooves, set against a blurred background of dry grass and yellow autumn leaves. Photograph read: The image is in focus on the hand and the wood fragment, with the background softly blurred. Lighting is even and natural, suggesting outdoor daylight. The rendering preserves surface texture and color without visible compression or noise. Photo type: Natural
+- **bababui888**:  ([link](https://www.threads.com/@bababui888/post/Df84407GxRO))
+  - Photo: Description: The photograph shows the ceiling of an indoor space with exposed industrial elements, including metal ductwork, wooden beams, and hanging paper lanterns emitting warm light. Large windows on the left reveal an outdoor scene with trees and a brick building. Photograph read: The image is taken from a low angle looking upward, capturing the ceiling structure and lanterns. Lighting is primarily from the lanterns, which cast a warm glow, while ambient light from windows illuminates the scene. The image appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Interior architectural
 - **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/Df8xwTxHMoE))
   - Photo: Description: The photograph shows a close-up, top-down view of a flowering cabbage plant, with a central rosette of purple and pink frilly leaves surrounded by larger, green, veined outer leaves. Photograph read: The image is taken from directly above, with even, natural lighting. The subject is in focus, and the leaf textures and color gradients are clearly visible. The composition is centered, with minimal background distraction. Photo type: Botanical
 - **purlygirl**:  ([link](https://www.threads.com/@purlygirl/post/Df8vydMkUN5))
