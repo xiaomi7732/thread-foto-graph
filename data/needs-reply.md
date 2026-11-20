@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (164)
+## Needs Reply (165)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **artgowie**:  ([link](https://www.threads.com/@artgowie/post/Df-K3NCFtmr))
+  - Photo: Description: A wide, flat horizon separates a uniformly gray sky from a calm body of water, with faint, distant landmasses barely visible beneath a thin band of light near the horizon. Photograph read: The composition is dominated by a large expanse of sky and water, with minimal contrast. Lighting is diffuse and muted, creating a soft, even tone across the scene. Reflections on the water are subdued, and the distant landforms are rendered as faint silhouettes. Photo type: Landscape
 - **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/Df-J8fMiMPq))
   - Photo: Description: A small, bright purple flower with five petals and a central cluster of stamens is the focal subject, set against a dark, out-of-focus background with faint green and purple streaks. Photograph read: The image features a shallow depth of field, with the flower in relatively sharp focus while the background is heavily blurred. Lighting appears to be directed at the flower, creating contrast against the dark surroundings. The rendering shows smooth transitions and no visible grain or compression artifacts. Photo type: Macro
     - Watch-outs: The background is indistinct, obscuring context and depth cues. The flower’s center is slightly soft, with minimal visible texture or detail.
