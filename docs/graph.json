@@ -1,6 +1,64 @@
 {
   "nodes": [
     {
+      "id": "18114248357247687",
+      "label": "photograph, photo, visible, type",
+      "group": 0,
+      "snippet": "Shaped Thursday favorites \ud83c\udfc6 5 shapes that stopped my scroll\u2026",
+      "text": "Shaped Thursday favorites \ud83c\udfc6 5 shapes that stopped my scroll: Eloisa Bernstein @elobernstein - canyon heart of light EkiA. @akmaleky - circles in circles Jean Hinkle Klele @smilingjeannie - ginkgo fans in the rain Reid McClure @32groove - white spiral sculpture Margie Coger @mcoger55 - mushroom sphere Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df9KxeyiVwz/",
+      "permalink": "https://www.threads.com/@saars.foto/post/Df9LHLQGy9R",
+      "photos": [
+        "Description: The photograph shows a narrow, winding sandstone canyon with smooth, flowing contours, illuminated by a bright light source from above, casting warm tones across the rock surfaces. Photograph read: The composition is vertical, with the canyon\u2019s curves dominating the frame. Lighting is high-contrast, with a bright, almost white glow at the canyon\u2019s opening, and deep shadows elsewhere. The rendering shows visible texture on the rock surfaces, but no discernible camera settings or artifacts are evident. Photo type: Natural landscape",
+        "Description: The photograph shows a close-up, top-down view of numerous stacked white PVC pipes, with their circular openings facing the camera, creating a repeating pattern of concentric rings. Photograph read: The image is composed with a shallow depth of field, focusing on the central pipes while the surrounding ones are slightly out of focus. Lighting is even and diffused, casting soft shadows within the pipe interiors. The rendering is flat with muted tones, lacking high contrast or vivid color saturation. Photo type: Industrial",
+        "Description: Two golden ginkgo leaves, covered in water droplets, rest on a dark, wet, textured surface that appears to be stone or pavement, with shallow water pooling around them. Photograph read: The composition is centered on the leaves, with the water surface reflecting the dark background. Lighting is even and diffused, illuminating the leaves\u2019 texture and droplets without harsh shadows. The rendering preserves surface detail on the leaves and water, with minimal visible distortion or noise. Photo type: Still life",
+        "Description: A white, spiky, circular sculpture with concentric layers of pointed protrusions is centered against a solid black background, casting a shadow on a dark surface below. Photograph read: The subject is illuminated from the front, casting soft shadows behind it and a distinct shadow on the surface below. The sculpture\u2019s surface appears smooth and uniformly lit, with no visible texture or depth cues beyond its geometric form. The background and foreground are uniformly dark, with no visible depth of field or motion blur. Photo type: Still life",
+        "Description: A spherical, textured mushroom with a pale, honeycomb-like cap grows from the ground amidst green foliage, dry leaves, and pine needles. Photograph read: The image is in focus, with even, natural lighting. The mushroom\u2019s surface texture and surrounding vegetation are clearly rendered. The composition centers the mushroom, with foreground and background elements in sharp detail. Photo type: Natural"
+      ],
+      "reply_count": 4,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "@akmaleky Your pipes are slide two of the Shaped Thursday favorites - circles inside circles all the way down. A lucky find in a hardware yard, or do you pass this stack all the time?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df9LRYjGyx0",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@smilingjeannie Your ginkgo fans are the middle slide of the Shaped Thursday favorites - two golden fans beaded with raindrops on dark stone. Were they already lying like that, or did you arrange the pair?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df9LMPPmyjb",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@32groove Your spiral sculpture is slide four of the Shaped Thursday favorites - a white spiked ring turning in on itself against the black. Where does it live, and what is it made of?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df9LKZFm_iV",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@mcoger55 Your mushroom closes the Shaped Thursday favorites - a perfect little sphere with a golf ball's dimples, sitting in the grass. Was it growing all on its own, or is there a whole patch coming up around it?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df9LIsdGxki",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "17876975847649800",
       "label": "photograph, photo, visible, type",
       "group": 0,
@@ -16132,19 +16190,23 @@
   ],
   "edges": [
     {
-      "from": "17876975847649800",
+      "from": "18114248357247687",
+      "to": "17876975847649800"
+    },
+    {
+      "from": "18114248357247687",
       "to": "17981155218129056"
     },
     {
-      "from": "17876975847649800",
+      "from": "18114248357247687",
       "to": "18125516990067298"
     },
     {
-      "from": "17876975847649800",
+      "from": "18114248357247687",
       "to": "17978841804171278"
     },
     {
-      "from": "17876975847649800",
+      "from": "18114248357247687",
       "to": "18120910145083329"
     }
   ]
