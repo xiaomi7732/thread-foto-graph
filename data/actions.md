@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (200)
+## Needs Reply (201)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **picsall**:  ([link](https://www.threads.com/@picsall/post/Df-YM9QkiaK))
+  - Photo: Description: A small, single-engine propeller aircraft is visible in mid-flight against a clear blue sky, with a low, hazy mountain range at the bottom edge of the frame. Photograph read: The image is composed with the aircraft centered horizontally in the upper third, set against a vast, uniformly blue sky with minimal cloud. Lighting is bright and even, suggesting daylight conditions. The rendering is clean, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Aerial
 - **seniorfitgal**:  ([link](https://www.threads.com/@seniorfitgal/post/Df-XZthH__W))
   - Photo: Description: The photograph shows a volcanic crater with a turquoise lake at its center, surrounded by steep, moss-covered slopes and reddish soil, with a few small figures visible on the rim and near the water. Photograph read: The image is captured under an overcast sky, resulting in flat, diffused lighting with no strong shadows. The colors are muted, and the overall contrast is low. The crater’s textures and the lake’s surface are visible but not sharply defined. Photo type: Natural landscape
 - **donbstevens**:  ([link](https://www.threads.com/@donbstevens/post/Df-XWnRmKau))
