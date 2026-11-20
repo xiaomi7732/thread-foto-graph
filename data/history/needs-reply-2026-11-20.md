@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (172)
+## Needs Reply (174)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **______esque**: An agapanthus ([link](https://www.threads.com/@______esque/post/Df-F5rDmafV))
+  - Photo: Description: A monochrome depiction of a flower head with numerous elongated, pointed buds clustered together, attached to a slender stem, set against a plain white background. Photograph read: The image is rendered in black and white with high contrast, showing detailed textures and outlines of the flower structure. The composition is centered, with the flower head occupying the lower half of the frame. Lighting appears even, highlighting the form without casting strong shadows. Photo type: Illustration
+- **jessgperry**:  ([link](https://www.threads.com/@jessgperry/post/Df-FyENGYic))
+  - Photo: Description: A wooden dock extends into a calm lake under a pink-hued sky, with snow-capped mountains in the distance, framed by dark pine tree branches in the foreground. Photograph read: The image is framed by silhouetted pine branches, with a long dock leading into the water. The sky and lake reflect similar warm tones, and two small human figures are visible on the dock. The water surface shows gentle ripples. Lighting suggests twilight or early dawn, with no visible signs of motion blur or focus issues. Photo type: Landscape
 - **travistribevibes**: North Dakota windmill in the fog ([link](https://www.threads.com/@travistribevibes/post/Df-FiC7lv1p))
   - Photo: Description: A wind turbine stands in a flat, open field under an overcast sky, with a faint horizontal line of trees visible on the horizon. Photograph read: The image is monochrome with uniform, low-contrast lighting. The turbine’s tower and one blade are discernible, but the blade’s shape is indistinct and partially obscured by atmospheric haze. The foreground field shows faint texture, while the background is hazy and lacks sharp detail. Photo type: Unclear
     - Watch-outs: - The turbine’s blade is partially obscured by haze, reducing its identifiable shape and edges. - The entire image exhibits a uniform, soft focus, making fine detail in the field and horizon indistinct.
