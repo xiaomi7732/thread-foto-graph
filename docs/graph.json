@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 611,
+      "reply_count": 616,
       "replies": [
         {
           "username": "mjfanaticalrebel",
@@ -1113,7 +1113,33 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mummabear1963v",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@mummabear1963v/post/Df-0J_jkkjg",
+                  "photos": [
+                    "Description: The image shows palm fronds in the foreground against a dark, cloudy night sky with a bright, slightly diffused celestial body visible above. Photograph read: The composition is dominated by the foreground foliage, with the sky occupying the upper portion. The foliage exhibits motion blur, suggesting camera movement or a long exposure. The celestial body appears as a soft, glowing disc with a slight halo, partially obscured by atmospheric haze or cloud. The overall image has low contrast and muted tones. Photo type: Night landscape"
+                  ],
+                  "watch_outs": [
+                    "- Motion blur affects the palm fronds, obscuring fine leaf details and texture. - The celestial body is diffused and lacks sharp definition, with visible atmospheric haze or cloud interference."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "mummabear1963v",
+                  "text": "My front porch light",
+                  "permalink": "https://www.threads.com/@mummabear1963v/post/Df-z7KsEtEb",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4479,7 +4505,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "realsamsavage",
+                  "text": "Not really sure. Spotted it on a walk with my dog. My guess is quite a while as there was quite a bit of morning dew from overnight.",
+                  "permalink": "https://www.threads.com/@realsamsavage/post/Df-z22qlrXA",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4528,7 +4565,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "unmitigatedme",
+                  "text": "Just a holiday decoration at a friend\u2019s house",
+                  "permalink": "https://www.threads.com/@unmitigatedme/post/Df-0DAemwkL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5380,7 +5428,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "auerbach_photos",
+                          "text": "Thank you!",
+                          "permalink": "https://www.threads.com/@auerbach_photos/post/Df-zwMHlsJ0",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

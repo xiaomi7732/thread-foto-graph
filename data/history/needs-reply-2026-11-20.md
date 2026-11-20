@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (227)
+## Needs Reply (231)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **mjfanaticalrebel**:  ([link](https://www.threads.com/@mjfanaticalrebel/post/Df-znvOjNUC))
@@ -117,6 +117,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: An ear, two earrings, and nothing else competing for attent…_
 - **newsie12**: No, I just turned as I walked past and saw it and had to capture it. I think of people I’ve lost and would like to sit there with and talk whenever I flip passed the image. ([link](https://www.threads.com/@newsie12/post/Df-uIUXlGwr))
   - _Replying to: Two white benches under a bright moon, waiting for someone …_
+- **mummabear1963v**:  ([link](https://www.threads.com/@mummabear1963v/post/Df-0J_jkkjg))
+  - Photo: Description: The image shows palm fronds in the foreground against a dark, cloudy night sky with a bright, slightly diffused celestial body visible above. Photograph read: The composition is dominated by the foreground foliage, with the sky occupying the upper portion. The foliage exhibits motion blur, suggesting camera movement or a long exposure. The celestial body appears as a soft, glowing disc with a slight halo, partially obscured by atmospheric haze or cloud. The overall image has low contrast and muted tones. Photo type: Night landscape
+    - Watch-outs: - Motion blur affects the palm fronds, obscuring fine leaf details and texture. - The celestial body is diffused and lacks sharp definition, with visible atmospheric haze or cloud interference.
+  - _Replying to: A palm frond lit up against the night, with everything else…_
+- **mummabear1963v**: My front porch light ([link](https://www.threads.com/@mummabear1963v/post/Df-z7KsEtEb))
+  - _Replying to: A palm frond lit up against the night, with everything else…_
 - **velosy**: I have no clue! It filtered through the tree branches like that. I'm an amateur with a mobile phone who enjoys taking photos and occasionally takes a good one. ([link](https://www.threads.com/@velosy/post/Df-wcgwCGFB))
   - _Replying to: The sun going down behind the bare trees, with the flare sp…_
 - **floresgeo_t**: It’s a small ceramic bottle holding a 4 inches tall, 6 months plant……that answers your question? 🌱🌿 ([link](https://www.threads.com/@floresgeo_t/post/Df-uQlZgeg4))
@@ -193,6 +199,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **debi0528**: It sure is. Thanks! ([link](https://www.threads.com/@debi0528/post/Df-uRT0H1rq))
   - _Replying to: A west-facing porch is a fine place to end a day._
+- **realsamsavage**: Not really sure. Spotted it on a walk with my dog. My guess is quite a while as there was quite a bit of morning dew from overnight. ([link](https://www.threads.com/@realsamsavage/post/Df-z22qlrXA))
+  - _Replying to: One drop at the very tip of the leaf, about to let go - how…_
+- **unmitigatedme**: Just a holiday decoration at a friend’s house ([link](https://www.threads.com/@unmitigatedme/post/Df-0DAemwkL))
+  - _Replying to: One tiny soldier, standing guard over a whole empty wall - …_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
 - **januaragazzo**: It’s 5:30 PM in Indonesia 🇮🇩 ([link](https://www.threads.com/@januaragazzo/post/Df-q5kCEjX2))
