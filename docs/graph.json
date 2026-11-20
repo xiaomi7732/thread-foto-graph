@@ -1,6 +1,22 @@
 {
   "nodes": [
     {
+      "id": "18118488188109696",
+      "label": "photograph, photo, visible, type",
+      "group": 0,
+      "snippet": "Minimal Friday \ud83d\udca7 Show me your quietest shot - one subject, \u2026",
+      "text": "Minimal Friday \ud83d\udca7 Show me your quietest shot - one subject, lots of empty space, nothing extra. A lone bird on a wire, one leaf on bare concrete, a single lit window. Mine: one raindrop, holding on to a red twig. One photo per reply, please. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel Less, but make it count - what have you got?",
+      "permalink": "https://www.threads.com/@saars.foto/post/Df97QGQG3eX",
+      "photos": [
+        "Description: A single water droplet hangs from a thin, reddish-brown twig, with a softly blurred background of warm, out-of-focus tones. Photograph read: The droplet is in focus and reflects its surroundings, while the twig shows surface texture. The background is uniformly blurred with no discernible objects. Lighting is even and diffused, without harsh shadows or highlights. Photo type: Macro"
+      ],
+      "watch_outs": [
+        "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
+      ],
+      "reply_count": 0,
+      "replies": []
+    },
+    {
       "id": "18114248357247687",
       "label": "photograph, photo, visible, type",
       "group": 0,
@@ -16717,23 +16733,27 @@
   ],
   "edges": [
     {
-      "from": "18114248357247687",
+      "from": "18118488188109696",
+      "to": "18114248357247687"
+    },
+    {
+      "from": "18118488188109696",
       "to": "17876975847649800"
     },
     {
-      "from": "18114248357247687",
+      "from": "18118488188109696",
       "to": "17981155218129056"
     },
     {
-      "from": "18114248357247687",
+      "from": "18118488188109696",
       "to": "18125516990067298"
     },
     {
-      "from": "18114248357247687",
+      "from": "18118488188109696",
       "to": "17978841804171278"
     },
     {
-      "from": "18114248357247687",
+      "from": "18118488188109696",
       "to": "18120910145083329"
     }
   ]
