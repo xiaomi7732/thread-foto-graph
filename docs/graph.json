@@ -13,8 +13,37 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 298,
+      "reply_count": 301,
       "replies": [
+        {
+          "username": "anatolii_voroniuk",
+          "text": "",
+          "permalink": "https://www.threads.com/@anatolii_voroniuk/post/Df-SpK4DAgJ",
+          "photos": [
+            "Description: A single dried leaf hangs from a thin, bare vine against a plain, light-gray background. The leaf shows signs of decay with torn edges and visible veins. Photograph read: The composition is vertical, with the leaf and vine centered slightly off-center. Lighting is even and diffused, casting soft shadows and highlighting the leaf\u2019s texture. The image has a neutral color palette with minimal contrast. Photo type: Still life",
+            "Description: A crescent moon is visible against a clear blue sky, partially obscured by a diagonal wire that cuts across the frame from the upper left to the lower right. Photograph read: The image features a simple composition with a bright, softly lit moon and a uniform blue sky. The wire appears as a thin, straight line. The moon\u2019s surface shows some visible craters and texture, but lacks sharp definition. The sky is evenly lit with no visible clouds or atmospheric distortion. Photo type: Aesthetic"
+          ],
+          "watch_outs": [
+            "",
+            "The moon\u2019s surface detail is not sharply resolved, appearing somewhat soft and indistinct. The wire, while prominent, has no discernible texture or thickness variation, appearing as a flat line."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tantesaysgo",
+          "text": "",
+          "permalink": "https://www.threads.com/@tantesaysgo/post/Df-SibWGVLs",
+          "photos": [
+            "Description: A vine with a few leaves and curling tendrils is silhouetted against a blue sky with scattered white clouds. Photograph read: The composition is a low-angle shot of the vine against the sky. Lighting is bright and even, with the vine appearing as a dark silhouette. The rendering shows some visible texture in the leaves and tendrils, but no signs of motion blur, focus issues, or color banding. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "nix633",
           "text": "A remote beach in North Wales \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
@@ -638,7 +667,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "marcinewiese",
+                  "text": "I was actually just taking a picture of our apple trees in bloom...didn't see the jet until days later...lol",
+                  "permalink": "https://www.threads.com/@marcinewiese/post/Df-SzjKGLYP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

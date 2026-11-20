@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (167)
+## Needs Reply (170)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **anatolii_voroniuk**:  ([link](https://www.threads.com/@anatolii_voroniuk/post/Df-SpK4DAgJ))
+  - Photo: Description: A single dried leaf hangs from a thin, bare vine against a plain, light-gray background. The leaf shows signs of decay with torn edges and visible veins. Photograph read: The composition is vertical, with the leaf and vine centered slightly off-center. Lighting is even and diffused, casting soft shadows and highlighting the leaf’s texture. The image has a neutral color palette with minimal contrast. Photo type: Still life
+  - Photo: Description: A crescent moon is visible against a clear blue sky, partially obscured by a diagonal wire that cuts across the frame from the upper left to the lower right. Photograph read: The image features a simple composition with a bright, softly lit moon and a uniform blue sky. The wire appears as a thin, straight line. The moon’s surface shows some visible craters and texture, but lacks sharp definition. The sky is evenly lit with no visible clouds or atmospheric distortion. Photo type: Aesthetic
+    - Watch-outs: The moon’s surface detail is not sharply resolved, appearing somewhat soft and indistinct. The wire, while prominent, has no discernible texture or thickness variation, appearing as a flat line.
+- **tantesaysgo**:  ([link](https://www.threads.com/@tantesaysgo/post/Df-SibWGVLs))
+  - Photo: Description: A vine with a few leaves and curling tendrils is silhouetted against a blue sky with scattered white clouds. Photograph read: The composition is a low-angle shot of the vine against the sky. Lighting is bright and even, with the vine appearing as a dark silhouette. The rendering shows some visible texture in the leaves and tendrils, but no signs of motion blur, focus issues, or color banding. Photo type: Natural
 - **nix633**: A remote beach in North Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ([link](https://www.threads.com/@nix633/post/Df-R6hDiCGz))
   - Photo: Description: A weathered, overturned wooden boat rests on a pebble beach, with a black-and-white dog standing in the distance near the water’s edge. A grassy cliffside slopes upward to the right, meeting a dark, overcast sky above a calm sea. Photograph read: The image is taken under diffuse, overcast lighting with no strong directional shadows. The composition places the boat prominently in the foreground, while the dog and sea recede into the midground. The sky is uniformly gray, and the sea appears flat and muted. The boat’s paint is peeling, and its structure is visibly damaged. Photo type: Natural landscape
     - Watch-outs: - The dog’s features are indistinct due to distance and low contrast; its form is recognizable but lacks fine detail. - The boat’s painted lettering is partially faded and illegible; the word “TROUG” is visible but incomplete and worn.
@@ -62,6 +68,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Nothing but fog - and somehow it still works. What was hidi…_
 - **artgowie**: This beach is about a half mile from my house and on my way to work. ([link](https://www.threads.com/@artgowie/post/Df-PMcBlnWi))
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
+- **marcinewiese**: I was actually just taking a picture of our apple trees in bloom...didn't see the jet until days later...lol ([link](https://www.threads.com/@marcinewiese/post/Df-SzjKGLYP))
+  - _Replying to: All that blue, one thin line, and somewhere in there a jet …_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
 - **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))
