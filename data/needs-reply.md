@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (162)
+## Needs Reply (164)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **lindamu11aney**:  ([link](https://www.threads.com/@lindamu11aney/post/Df-EW6VlsDK))
+  - Photo: Description: A black-and-white wading bird stands in shallow water, with its reflection visible on the surface. The background features dense green aquatic vegetation along the water’s edge, and the water reflects a blue sky with white clouds. Photograph read: The composition is vertically oriented, with the bird centered in the lower half of the frame. The water surface is relatively still, showing clear reflections of the sky and the bird. Lighting is bright and even, suggesting daylight. Rendering is sharp on the bird and its reflection, with minimal visible noise or compression artifacts. Photo type: Natural
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
 - **special_ed04**:  ([link](https://www.threads.com/@special_ed04/post/Df-Dz2wG8Eu))
@@ -45,6 +47,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A small, uniformly blue-gray bird perches on a thick, twisted wire, viewed from behind and slightly above, with its head turned toward the camera. Photograph read: The subject is in focus with clear feather texture and defined wing and tail structure. Lighting is even and diffused, with no harsh shadows or overexposed areas. Background is uniformly blurred, with no discernible objects or features. Photo type: Portrait
 - **excitedpanda**: These popped out along a trail. It’s from the Kiluea Iki trail on the Island of Hawai’i the nearest background are the lava fields in the center of the crater that you cross over before climbing the ridge in the very far background ([link](https://www.threads.com/@excitedpanda/post/Df-DSN1Fj39))
   - _Replying to: That one magenta tip is doing all the shouting while the mo…_
+- **smilingjeannie**: I remained out during the entire sunrise - was pitch black when I started. I took numerous shots during sunrise and this was my favorite. The clouds were moving throughout the session. Well worth the very early wake up call ([link](https://www.threads.com/@smilingjeannie/post/Df-ERQqkfMd))
+  - _Replying to: A whole sky on fire and the pier just standing there, small…_
 - **classlessvillain**: It was keeping watch 😊 ([link](https://www.threads.com/@classlessvillain/post/Df-DI1kFA7R))
   - _Replying to: I think keeping the background that dark was the right call…_
 - **marinacasalribeiro**: Here where I live, in Portugal, there are many of them when the weather gets warmer, and they stay still for a long time. I went close by and was lucky that it didn't fly away right away. ([link](https://www.threads.com/@marinacasalribeiro/post/Df-DSesiPHw))
