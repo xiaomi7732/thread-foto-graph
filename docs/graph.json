@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 351,
+      "reply_count": 353,
       "replies": [
         {
           "username": "signhildthomas",
@@ -22,10 +22,21 @@
           "watch_outs": [
             "The cat\u2019s facial features and eyes are not discernible due to silhouette and low contrast. The concrete surface\u2019s texture is visible but lacks fine detail in the foreground area where the cat is positioned."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That concrete slope cuts a clean triangle right through the frame, and the cat is walking its edge like it owns the line - did it stop for you, or just keep heading down?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df9BC0ulFPK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "missbellisperennis",
@@ -168,10 +179,21 @@
                   "text": "Not that long; once we started moving again, it shifted, so I felt fortunate to capture it in that moment.",
                   "permalink": "https://www.threads.com/@filiascriptoris/post/Df87ywFlpEf",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lucky timing, and a steady eye from a moving bus.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df9BHVcEeWd",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
