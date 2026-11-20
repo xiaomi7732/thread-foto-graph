@@ -320,7 +320,7 @@
         "Description: A white, spiky, circular sculpture with concentric layers of pointed protrusions is centered against a solid black background, casting a shadow on a dark surface below. Photograph read: The subject is illuminated from the front, casting soft shadows behind it and a distinct shadow on the surface below. The sculpture\u2019s surface appears smooth and uniformly lit, with no visible texture or depth cues beyond its geometric form. The background and foreground are uniformly dark, with no visible depth of field or motion blur. Photo type: Still life",
         "Description: A spherical, textured mushroom with a pale, honeycomb-like cap grows from the ground amidst green foliage, dry leaves, and pine needles. Photograph read: The image is in focus, with even, natural lighting. The mushroom\u2019s surface texture and surrounding vegetation are clearly rendered. The composition centers the mushroom, with foreground and background elements in sharp detail. Photo type: Natural"
       ],
-      "reply_count": 11,
+      "reply_count": 12,
       "replies": [
         {
           "username": "lucillepippetti",
@@ -419,10 +419,21 @@
               "text": "Thank you! It lives at WonderSpaces, Austin, Texas. It is an art exhibit consisting of a hologram. So I guess it is made of light? I need to research the artist\u2019s (creator\u2019s) name. It was an enchanting exhibit due to the 3-D image in constant motion. I have learned that Wonderspaces in Austin has permanently closed. Sad, really. It had some amazing exhibits.",
               "permalink": "https://www.threads.com/@32groove/post/Df9rbGekenB",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "I am sorry to hear that the exhibition was closed. Makes the picture even more precious.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Df9-rrHFCcH",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (152)
+## Needs Reply (151)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df9-KHsjriz))
@@ -67,8 +67,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @akmaleky Your pipes are slide two of the Shaped Thursday f…_
 - **smilingjeannie**: Thank you for the recognition. These two leaves had fallen and landed as photographed - another reason they caught my eye was the simplicity of the composition. ([link](https://www.threads.com/@smilingjeannie/post/Df9oWnJm5q8))
   - _Replying to: @smilingjeannie Your ginkgo fans are the middle slide of th…_
-- **32groove**: Thank you! It lives at WonderSpaces, Austin, Texas. It is an art exhibit consisting of a hologram. So I guess it is made of light? I need to research the artist’s (creator’s) name. It was an enchanting exhibit due to the 3-D image in constant motion. I have learned that Wonderspaces in Austin has permanently closed. Sad, really. It had some amazing exhibits. ([link](https://www.threads.com/@32groove/post/Df9rbGekenB))
-  - _Replying to: @32groove Your spiral sculpture is slide four of the Shaped…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **pat.sipatsi**: Thank you... and now it has grown into this size ☺️ ([link](https://www.threads.com/@pat.sipatsi/post/Df97dDuD8bu))
