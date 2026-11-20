@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (127)
+## Needs Reply (130)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **00mrlonewolf00**: RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees. ([link](https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl))
+- **filiascriptoris**: This cloud that reminded me of an eagle. I captured it the best I could from the bus window. ([link](https://www.threads.com/@filiascriptoris/post/Df8ooWFjLNJ))
+  - Photo: Description: The image shows a bright, circular light source partially obscured by textured, layered clouds against a dark sky. The clouds exhibit varied tones, including white, gray, and a distinct blue-green patch. Photograph read: The composition is dominated by the central light source, with clouds framing it. Lighting is high-contrast, with the light source appearing overexposed and the surrounding areas in shadow. Rendering shows visible texture in the clouds but lacks sharpness or fine detail. Photo type: Atmospheric
+    - Watch-outs: The central light source is overexposed, causing loss of detail in that area. The clouds exhibit soft, indistinct edges and lack fine texture, suggesting limited resolution or focus.
 - **colleen3631**:  ([link](https://www.threads.com/@colleen3631/post/Df8lkpkkaPa))
   - Photo: Description: The image shows a close-up of numerous white, porous, irregularly shaped rocks and fragments, with one central stone resembling a heart shape, scattered across a surface. Photograph read: The composition is tightly framed on the rocks, with bright, direct lighting casting sharp shadows. The rendering is clear and detailed, showing surface textures and pores without visible compression or noise. Photo type: Macro
 - **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df8gSAen8lQ))
@@ -19,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **galveston_walkabout**: They were all settled in for the night . ([link](https://www.threads.com/@galveston_walkabout/post/Df8hLaqpVE_))
   - _Replying to: The bare branches fan out like a candelabra, and every bird…_
+- **posts.by.norman**: Initially I saw it as an open palm. Hehe. It's still the flower shape that attracts me. ([link](https://www.threads.com/@posts.by.norman/post/Df8ornlH00P))
+  - _Replying to: A whole lotus, floating on the water - and a perfect circle…_
 - **tim22974**: Also, note the shadow of the grass blades on the leaf! ([link](https://www.threads.com/@tim22974/post/Df8g2qLmYm1))
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8gs2imUxI))

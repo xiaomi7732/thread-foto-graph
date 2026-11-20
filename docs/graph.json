@@ -10,8 +10,33 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 313,
+      "reply_count": 316,
       "replies": [
+        {
+          "username": "00mrlonewolf00",
+          "text": "RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees.",
+          "permalink": "https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "filiascriptoris",
+          "text": "This cloud that reminded me of an eagle. I captured it the best I could from the bus window.",
+          "permalink": "https://www.threads.com/@filiascriptoris/post/Df8ooWFjLNJ",
+          "photos": [
+            "Description: The image shows a bright, circular light source partially obscured by textured, layered clouds against a dark sky. The clouds exhibit varied tones, including white, gray, and a distinct blue-green patch. Photograph read: The composition is dominated by the central light source, with clouds framing it. Lighting is high-contrast, with the light source appearing overexposed and the surrounding areas in shadow. Rendering shows visible texture in the clouds but lacks sharpness or fine detail. Photo type: Atmospheric"
+          ],
+          "watch_outs": [
+            "The central light source is overexposed, causing loss of detail in that area. The clouds exhibit soft, indistinct edges and lack fine texture, suggesting limited resolution or focus."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "colleen3631",
           "text": "",
@@ -300,7 +325,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "posts.by.norman",
+                  "text": "Initially I saw it as an open palm. Hehe. It's still the flower shape that attracts me.",
+                  "permalink": "https://www.threads.com/@posts.by.norman/post/Df8ornlH00P",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
