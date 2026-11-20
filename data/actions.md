@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (171)
+## Needs Reply (174)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
+  - Photo: Description: A small, dark, indistinct object is centered in the frame against a uniformly gray, textured background that lacks discernible features. Photograph read: The image is monochrome with even, flat lighting and no visible shadows or highlights. The subject appears as a faint, low-contrast shape with no clear edges or identifiable features. The background exhibits a grainy or pixelated texture across the entire frame. Photo type: Unclear
+    - Watch-outs: The subject is too small and indistinct to be identified; its shape and features are not resolvable. The entire image exhibits a uniform grainy texture, which obscures fine detail across the background and subject.
+- **lilpig2012**: Fog ([link](https://www.threads.com/@lilpig2012/post/Df-L4aCER_r))
+  - Photo: Description: The image is a uniform, flat gray field with no discernible subject, object, or setting. Photograph read: The composition is empty and featureless, with no directional lighting or visible rendering artifacts. The entire frame exhibits consistent tone without contrast or texture. Photo type: Unclear
+- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/Df-L01IluUM))
+  - Photo: Description: A small, light-colored snail shell is perched on a slender green stem, with a blurred background of tall grasses and distant green hills under a partly cloudy sky. Photograph read: The image has a shallow depth of field, with the snail shell and stem in focus while the background is softly blurred. Lighting is even and diffused, suggesting an overcast day. The rendering preserves natural colors and textures without visible distortion or noise. Photo type: Nature portrait
 - **a_lone_crow_**:  ([link](https://www.threads.com/@a_lone_crow_/post/Df-Lbk1CL5d))
   - Photo: Description: A black silhouette of a bird perches atop a bare, twisted tree branch against a uniformly bright white background. Photograph read: The image is high-contrast, with the subject rendered as a solid dark shape against a featureless white field. The tree branches are visible as dark, angular lines, and the bird is a small, distinct silhouette. No visible motion blur, noise, or color information is present. Photo type: Silhouette
 - **debi0528**: NJ ([link](https://www.threads.com/@debi0528/post/Df-LZkJpSdA))
