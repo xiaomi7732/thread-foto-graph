@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (220)
+## Needs Reply (223)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **zoeripley_studios**:  ([link](https://www.threads.com/@zoeripley_studios/post/Df-eU5xEUXK))
+  - Photo: Description: A wide, sunlit grassy field stretches toward a line of trees under a clear sky, with the upper right corner dominated by the dense, leafy canopy of a large tree. Photograph read: The composition is framed by tree branches in the foreground, with sunlight casting long shadows across the field. The sky is bright blue with a soft gradient near the horizon. The distant treeline and field edges are visible but not sharply defined. Photo type: Landscape
+- **retrograde_60**:  ([link](https://www.threads.com/@retrograde_60/post/Df-eUiaEp7w))
+  - Photo: Description: A utility pole with multiple crossarms and wires extends vertically against a gradient sky, with a small cloud formation visible at the bottom right. Photograph read: The image is in monochrome, with a vertical composition emphasizing the pole. Lighting appears even, with no strong directional shadows. The sky shows a smooth gradient from darker gray at the top to lighter gray near the horizon, with the cloud appearing as a bright, soft-edged mass. Photo type: Documentary
+- **pattijphoto**:  ([link](https://www.threads.com/@pattijphoto/post/Df-eG_moH5N))
+  - Photo: Description: A solitary figure, likely a dancer in a dark dress and pointe shoes, stands on a dimly lit stage with their back to the camera, illuminated by a focused light source against a black backdrop. Photograph read: The subject is centrally positioned on a stage, lit by a single, warm-toned spotlight that casts a soft glow on the dancer’s silhouette and feet. The surrounding area is uniformly dark, with no visible foreground or background detail beyond the stage floor and a faintly visible object near the bottom right. Photo type: Stage performance
+    - Watch-outs: The dancer’s facial features and upper body are obscured by silhouette and low contrast. The stage floor in the foreground is dark and lacks discernible texture or markings, making it difficult to gauge scale or context.
 - **jerseylilly**:  ([link](https://www.threads.com/@jerseylilly/post/Df-dluVlrBN))
   - Photo: Description: A snow-covered tree stands in a residential yard at night, illuminated by a streetlight, with snow on the ground and a hedge and houses in the background. Photograph read: The image is lit by a single overhead streetlight, casting bright illumination on the tree’s branches while the background and sky remain dark. The tree’s structure is visible, but the image lacks sharpness, and the ground and distant elements are indistinct. Photo type: Night landscape
     - Watch-outs: - The tree’s branches are overexposed in the direct light, causing loss of texture and detail in the snow-covered limbs. - The foreground ground and background houses are underexposed, obscuring fine detail and making them appear as dark, indistinct shapes.
