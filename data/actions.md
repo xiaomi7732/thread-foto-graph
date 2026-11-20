@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (135)
+## Needs Reply (138)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **wang_fong_ya**: Nature’s own geometry. 💚🌿 I love how the lines and textures of a simple leaf can become a beautiful abstract composition. ([link](https://www.threads.com/@wang_fong_ya/post/Df8V8_BoLOt))
+  - Photo: Description: The photograph shows a close-up of large, dark green leaves with prominent venation, likely from a tropical plant, with another leaf partially overlapping in the foreground. Photograph read: The composition is tightly framed on the leaf surface, with strong contrast between illuminated veins and shadowed areas. Lighting appears directional, casting deep shadows across the leaf’s texture. Rendering is sharp in the focused areas, but no visible artifacts or sensor noise are present. Photo type: Macro
 - **meservelee**:  ([link](https://www.threads.com/@meservelee/post/Df8Uax_DqOl))
   - Photo: Description: A cluster of light-brown, flat, disc-shaped fungi grows among a bed of dry, brown leaves and twigs on the forest floor. The fungi show signs of wear, with small dark patches and debris on their surfaces. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The fungi are in focus, but the surrounding leaf litter is slightly out of focus, creating a shallow depth of field. The rendering is naturalistic, with no visible digital artifacts or color distortion. Photo type: Naturalistic
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
@@ -56,6 +58,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
 - **jeffrey_janusch**: The left side is probably storm damage. ([link](https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln))
   - _Replying to: I think the broken branch is the whole photo - the tree rea…_
+- **dwordops**: Stopped and took the shot first! ([link](https://www.threads.com/@dwordops/post/Df8V7vkHSme))
+  - _Replying to: A doorway the tree grew for itself, and the path goes right…_
 - **michelpbeaudry**:  ([link](https://www.threads.com/@michelpbeaudry/post/Df74MdZkrkO))
   - Photo: Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape
 - **kidsdrs**: Waited until the service was over. ([link](https://www.threads.com/@kidsdrs/post/Df8FgyxGiS0))
@@ -105,6 +109,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **juliahh**:  ([link](https://www.threads.com/@juliahh/post/Df8Vk3-kfOA))
+  - Photo: Description: The image shows a reflective glass surface capturing a bright sky with clouds, bare trees, and urban structures including a church spire and parked vehicles, with colorful neon-like reflections and silhouettes visible on the ground. Photograph read: The composition is dominated by a high-contrast sky and tree silhouettes, with reflections of urban elements and artificial lights on the glass. The rendering is heavily saturated, with exaggerated color tones and visible artifacts, including a bright circular highlight near the top center. Photo type: Artificially enhanced
+    - Watch-outs: - Reflections on the glass surface obscure and distort the underlying scene, making it difficult to discern fine details of the street or buildings. - The sky and tree silhouettes are overexposed, causing loss of texture and detail in the upper half of the image.
 - **judmacd**:  ([link](https://www.threads.com/@judmacd/post/Df7jhQCGyH-))
   - Photo: Description: A single, curved piece of driftwood floats in calm water, with its reflection visible beneath it; the water surface shows gentle ripples and reflects muted green and blue tones from the surrounding environment. Photograph read: The composition centers the driftwood against a water surface with varied coloration and texture. Lighting appears natural and diffused, casting soft shadows and highlights on the wood. Rendering is realistic, with visible surface texture on the driftwood and water ripples, though no sharp focus or high-contrast edges are evident. Photo type: Natural landscape
 - **beezr46**:  ([link](https://www.threads.com/@beezr46/post/Df7YVJOkdV-))

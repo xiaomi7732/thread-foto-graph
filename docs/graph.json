@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 258,
+      "reply_count": 260,
       "replies": [
+        {
+          "username": "wang_fong_ya",
+          "text": "Nature\u2019s own geometry. \ud83d\udc9a\ud83c\udf3f I love how the lines and textures of a simple leaf can become a beautiful abstract composition.",
+          "permalink": "https://www.threads.com/@wang_fong_ya/post/Df8V8_BoLOt",
+          "photos": [
+            "Description: The photograph shows a close-up of large, dark green leaves with prominent venation, likely from a tropical plant, with another leaf partially overlapping in the foreground. Photograph read: The composition is tightly framed on the leaf surface, with strong contrast between illuminated veins and shadowed areas. Lighting appears directional, casting deep shadows across the leaf\u2019s texture. Rendering is sharp in the focused areas, but no visible artifacts or sensor noise are present. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "meservelee",
           "text": "",
@@ -541,7 +553,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dwordops",
+                  "text": "Stopped and took the shot first!",
+                  "permalink": "https://www.threads.com/@dwordops/post/Df8V7vkHSme",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3149,8 +3172,23 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 518,
+      "reply_count": 519,
       "replies": [
+        {
+          "username": "juliahh",
+          "text": "",
+          "permalink": "https://www.threads.com/@juliahh/post/Df8Vk3-kfOA",
+          "photos": [
+            "Description: The image shows a reflective glass surface capturing a bright sky with clouds, bare trees, and urban structures including a church spire and parked vehicles, with colorful neon-like reflections and silhouettes visible on the ground. Photograph read: The composition is dominated by a high-contrast sky and tree silhouettes, with reflections of urban elements and artificial lights on the glass. The rendering is heavily saturated, with exaggerated color tones and visible artifacts, including a bright circular highlight near the top center. Photo type: Artificially enhanced"
+          ],
+          "watch_outs": [
+            "- Reflections on the glass surface obscure and distort the underlying scene, making it difficult to discern fine details of the street or buildings. - The sky and tree silhouettes are overexposed, causing loss of texture and detail in the upper half of the image."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "judmacd",
           "text": "",
