@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (135)
+## Needs Reply (136)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -16,6 +16,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @smilingjeannie Your ginkgo fans are the middle slide of th…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **___nila.savitri**: Tiny circles of morning dew resting on a triangle of grass.. ([link](https://www.threads.com/@___nila.savitri/post/Df9qzdjmgNP))
+  - Photo: Description: A single green grass blade with several dew droplets clinging to it, set against a uniformly dark background; a second, thinner blade extends diagonally from the upper left. Photograph read: The main subject is in focus with visible surface texture and droplet reflections; lighting is directional, illuminating the grass and droplets from the side; background is dark and out of focus, with no discernible features. Photo type: Macro
 - **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df9lCYsFv8t))
   - Photo: Description: A close-up shot features a white mushroom with a textured cap emerging from dark green grass, with another mushroom partially visible in the background; the background is out of focus and indistinct. Photograph read: The image uses shallow depth of field, with the central mushroom in focus while foreground grass and background elements are blurred. Lighting appears to come from above and slightly behind, casting soft shadows and highlighting the mushroom’s surface texture. Photo type: Macro
     - Watch-outs: - The foreground grass is dark and out of focus, obscuring the mushroom’s base and reducing detail visibility. - The background is heavily blurred, making environmental context and any distant subjects unreadable.
