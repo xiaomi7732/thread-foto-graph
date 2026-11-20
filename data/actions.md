@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (140)
+## Needs Reply (141)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -18,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @32groove Your spiral sculpture is slide four of the Shaped…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **pfgendelman**:  ([link](https://www.threads.com/@pfgendelman/post/Df9znJ-lTIc))
+  - Photo: Description: A cross-section of a felled tree trunk lies on green grass, showing concentric growth rings and a rough, mossy bark surface. In the background, scattered wooden planks and yellow flowers are visible. Photograph read: The image is taken from a slightly elevated angle, with even, natural daylight illuminating the scene. The focus is centered on the tree’s cut surface, with moderate sharpness; the bark and grass show fine texture, while the background is slightly softer. Photo type: Documentary
 - **___nila.savitri**: Tiny circles of morning dew resting on a triangle of grass.. ([link](https://www.threads.com/@___nila.savitri/post/Df9qzdjmgNP))
   - Photo: Description: A single green grass blade with several dew droplets clinging to it, set against a uniformly dark background; a second, thinner blade extends diagonally from the upper left. Photograph read: The main subject is in focus with visible surface texture and droplet reflections; lighting is directional, illuminating the grass and droplets from the side; background is dark and out of focus, with no discernible features. Photo type: Macro
 - **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df9lCYsFv8t))
