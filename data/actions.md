@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (197)
+## Needs Reply (199)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **seniorfitgal**:  ([link](https://www.threads.com/@seniorfitgal/post/Df-XZthH__W))
+  - Photo: Description: The photograph shows a volcanic crater with a turquoise lake at its center, surrounded by steep, moss-covered slopes and reddish soil, with a few small figures visible on the rim and near the water. Photograph read: The image is captured under an overcast sky, resulting in flat, diffused lighting with no strong shadows. The colors are muted, and the overall contrast is low. The crater’s textures and the lake’s surface are visible but not sharply defined. Photo type: Natural landscape
+- **donbstevens**:  ([link](https://www.threads.com/@donbstevens/post/Df-XWnRmKau))
+  - Photo: Description: A single sailboat with a tall mast floats on calm water under a hazy, uniformly blue sky, with two small red buoys visible nearby. Photograph read: The image is dominated by a monochromatic blue palette, with the sailboat and water appearing slightly out of focus. The sky is uniformly hazy, and the water surface reflects the boat and sky with soft, indistinct ripples. No sharp edges or clear textures are visible. Photo type: Aesthetic
+    - Watch-outs: The sailboat’s details are indistinct due to soft focus and low contrast; the red buoys appear as small, blurry circular shapes with no discernible texture or definition.
 - **jstvy**:  ([link](https://www.threads.com/@jstvy/post/Df-Wp_sn81Y))
   - Photo: Description: An iguana perched on a rocky outcrop overlooks a vast, sunlit ocean under a clear sky; the animal’s tail features distinct black-and-white bands. Photograph read: The image is taken from a slightly elevated angle, with the ocean filling the background and the iguana as the central subject. Lighting is bright and direct, casting minimal shadows. The image appears to be a standard digital capture with no visible signs of distortion or compression artifacts. Photo type: Natural landscape
 - **brandy3**: One boat, one moon ([link](https://www.threads.com/@brandy3/post/Df-WFXKGKVk))
