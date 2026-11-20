@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (223)
+## Needs Reply (227)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mjfanaticalrebel**:  ([link](https://www.threads.com/@mjfanaticalrebel/post/Df-znvOjNUC))
+  - Photo: Description: A wooden utility pole with multiple overhead wires stands in a field of harvested crops, under a cloudy sky with soft light; distant trees and power line towers are visible on the horizon. Photograph read: The image has a wide composition with a clear foreground, midground field, and distant horizon. Lighting is diffuse, with soft shadows and muted tones. The sky shows layered clouds with subtle color variation. The pole and wires are in focus, but the background is slightly less sharp. Photo type: Landscape
+- **marysouckar**:  ([link](https://www.threads.com/@marysouckar/post/Df-zM0UmMY0))
+  - Photo: Description: A single dahlia flower with yellow petals edged in red is centered among bright green foliage, with small white daisy-like flowers scattered in the background. Photograph read: The main subject is in focus with natural lighting, but the background foliage is softly blurred. The image has a shallow depth of field, and the leaves show some minor damage or holes. Photo type: Nature photography
+    - Watch-outs: - The main flower’s petals show slight softness in edge definition, likely due to shallow depth of field or minor focus drift. - Some leaves in the foreground have visible holes or damage, reducing their clarity and texture.
+- **___nila.savitri**: One drop, stillness, nothing else.. ([link](https://www.threads.com/@___nila.savitri/post/Df-zKYvkwH9))
+  - Photo: Description: A single droplet hangs from a slender plant stem, with smaller droplets scattered along the stem and a curved foreground element. The background is uniformly black. Photograph read: The image is in black and white, with high contrast between the bright, reflective droplets and the dark stem and background. The droplet in focus shows internal reflections, while other droplets and the stem are less defined. The foreground element is a smooth, curved line. Photo type: Macro
+    - Watch-outs: The main droplet’s surface reflections are visible but not detailed enough to discern specific textures or objects within. The stem’s surface texture is indistinct, with only faint linear detail visible.
 - **abejaah**:  ([link](https://www.threads.com/@abejaah/post/Df-y5g0jxZL))
   - Photo: Description: Two small, yellow-capped mushrooms with orange stems emerge from a dark, textured tree trunk, with some white and brown fungal growth visible nearby. Photograph read: The image is a close-up with shallow depth of field, focusing on the mushrooms. Lighting is even and natural, illuminating the subjects without harsh shadows. The background is softly blurred, and the mushrooms are in sharp focus relative to the surroundings. Photo type: Macro
 - **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/Df-yqHAE0Cg))
@@ -147,6 +155,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A crater lake sitting quietly in all that red rock, with ti…_
 - **donbstevens**: You can just discern a bit of the beach in the lower right hand corner, so it wasn’t out very far. Foggy morning in Nova Scotia. ([link](https://www.threads.com/@donbstevens/post/Df-shsVEc1A))
   - _Replying to: A boat in blue mist, and the water doing its best impressio…_
+- **coasting09**: She's a beauty, isn't she? Not from my garden, found her on a walk. ([link](https://www.threads.com/@coasting09/post/Df-zdy4o1fC))
+  - _Replying to: One red fruit in all that green, lit like a small lantern. …_
 - **lilybug1145**: No but I’m sure she was close by waiting for me to go away, lol ([link](https://www.threads.com/@lilybug1145/post/Df-s9PIpUOq))
   - _Replying to: A little beak poking out of the tree hole, waiting for brea…_
 - **chickievegas**: I’m an early riser. You usually hear them lighting the burner before you see them. ([link](https://www.threads.com/@chickievegas/post/Df-tMc1ibmK))
