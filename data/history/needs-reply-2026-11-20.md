@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (234)
+## Needs Reply (236)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **lschumm13**:  ([link](https://www.threads.com/@lschumm13/post/Df-1UaVGvI8))
+  - Photo: Description: A person wearing a purple Champion t-shirt is captured from a low angle, looking upward against a clear blue sky; their face is partially illuminated by sunlight, with eyes closed and head tilted back. Photograph read: The image is taken from below, with the subject occupying the lower portion of the frame and the sky filling the rest. Lighting is direct and strong, casting shadows on the subject’s neck and face. The image appears sharp in the visible areas, with no apparent motion blur or focus issues. Photo type: Portrait
+- **hibbys_cheap_watches**:  ([link](https://www.threads.com/@hibbys_cheap_watches/post/Df-1A9tn4oF))
+  - Photo: Description: A single, long, white contrail streaks diagonally across a solid, deep blue sky, tapering toward the bottom of the frame. Photograph read: The image is composed with a strong vertical axis of the contrail against a uniform blue background. Lighting is even and bright, with no visible shadows or highlights. The contrail shows slight texture and fading, but no discernible motion blur or depth cues. Photo type: Abstract
 - **mjfanaticalrebel**:  ([link](https://www.threads.com/@mjfanaticalrebel/post/Df-znvOjNUC))
   - Photo: Description: A wooden utility pole with multiple overhead wires stands in a field of harvested crops, under a cloudy sky with soft light; distant trees and power line towers are visible on the horizon. Photograph read: The image has a wide composition with a clear foreground, midground field, and distant horizon. Lighting is diffuse, with soft shadows and muted tones. The sky shows layered clouds with subtle color variation. The pole and wires are in focus, but the background is slightly less sharp. Photo type: Landscape
 - **marysouckar**:  ([link](https://www.threads.com/@marysouckar/post/Df-zM0UmMY0))
