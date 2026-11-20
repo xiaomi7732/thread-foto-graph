@@ -13,8 +13,49 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 350,
+      "reply_count": 351,
       "replies": [
+        {
+          "username": "jerseylilly",
+          "text": "",
+          "permalink": "https://www.threads.com/@jerseylilly/post/Df-dluVlrBN",
+          "photos": [
+            "Description: A snow-covered tree stands in a residential yard at night, illuminated by a streetlight, with snow on the ground and a hedge and houses in the background. Photograph read: The image is lit by a single overhead streetlight, casting bright illumination on the tree\u2019s branches while the background and sky remain dark. The tree\u2019s structure is visible, but the image lacks sharpness, and the ground and distant elements are indistinct. Photo type: Night landscape"
+          ],
+          "watch_outs": [
+            "- The tree\u2019s branches are overexposed in the direct light, causing loss of texture and detail in the snow-covered limbs. - The foreground ground and background houses are underexposed, obscuring fine detail and making them appear as dark, indistinct shapes."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "minnakirstinna",
+          "text": "",
+          "permalink": "https://www.threads.com/@minnakirstinna/post/Df-dhm0AM-8",
+          "photos": [
+            "Description: A close-up photograph shows a single, reflective water droplet resting on a textured, dark surface composed of tightly packed, irregularly shaped white or light-gray elements. Photograph read: The image exhibits a high-contrast, grainy appearance with a dominant dark background and bright, specular highlights. The droplet is centrally located and reflects its surroundings, though the reflection is distorted and partially obscured. The surface texture is visible but lacks fine resolution, and the overall image has a digital artifact-like quality. Photo type: Digital artifact"
+          ],
+          "watch_outs": [
+            "- The droplet\u2019s reflection is distorted and partially obscured by glare, limiting the visibility of reflected detail. - The surface texture appears overly grainy and lacks fine resolution, reducing the ability to discern individual element shapes."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": [
+            {
+              "username": "minnakirstinna",
+              "text": "A raindrop in the sun",
+              "permalink": "https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
         {
           "username": "ronaldstamant",
           "text": "",
@@ -1325,6 +1366,16 @@
               "replies": []
             }
           ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "Noticed and unbothered - the best kind of wildlife moment. Thanks for sharing it.",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df-ItZ8EQ7S",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "travellady",
@@ -2662,6 +2713,16 @@
           ]
         },
         {
+          "username": "saars.foto",
+          "text": "A coyote the size of a comma in all that sky and plain - I think the distance is the whole point here. Did it notice you, or were you just part of the landscape to it?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df-A3PrFMl1",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "buckynash_",
           "text": "",
           "permalink": "https://www.threads.com/@buckynash_/post/Df-AvU8FtrU",
@@ -3796,51 +3857,6 @@
               "action": null,
               "hidden": false,
               "replies": []
-            }
-          ]
-        },
-        {
-          "username": "sahelstreams",
-          "text": "",
-          "permalink": "https://www.threads.com/@sahelstreams/post/Df99Ab6EUMW",
-          "photos": [
-            "Description: A solitary coyote stands on a dark, grassy plain under a cloudy sky, with distant, hazy mountain ranges visible in the background. Photograph read: The image has a muted color palette with soft, diffused lighting. The sky shows layered clouds with varying brightness, and the mountains appear faded due to atmospheric haze. The foreground terrain is textured but lacks sharp detail. Photo type: Natural landscape"
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "A coyote the size of a comma in all that sky and plain - I think the distance is the whole point here. Did it notice you, or were you just part of the landscape to it?",
-              "permalink": "https://www.threads.com/@saars.foto/post/Df-A3PrFMl1",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "sahelstreams",
-                  "text": "I think it noticed me\u2026 but so far off he/she didn\u2019t really care",
-                  "permalink": "https://www.threads.com/@sahelstreams/post/Df-BdVilOcf",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": [
-                    {
-                      "username": "saars.foto",
-                      "text": "Noticed and unbothered - the best kind of wildlife moment. Thanks for sharing it.",
-                      "permalink": "https://www.threads.com/@saars.foto/post/Df-ItZ8EQ7S",
-                      "photos": [],
-                      "needs_response": false,
-                      "action": null,
-                      "hidden": false,
-                      "replies": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },

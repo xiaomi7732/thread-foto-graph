@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (217)
+## Needs Reply (220)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **jerseylilly**:  ([link](https://www.threads.com/@jerseylilly/post/Df-dluVlrBN))
+  - Photo: Description: A snow-covered tree stands in a residential yard at night, illuminated by a streetlight, with snow on the ground and a hedge and houses in the background. Photograph read: The image is lit by a single overhead streetlight, casting bright illumination on the tree’s branches while the background and sky remain dark. The tree’s structure is visible, but the image lacks sharpness, and the ground and distant elements are indistinct. Photo type: Night landscape
+    - Watch-outs: - The tree’s branches are overexposed in the direct light, causing loss of texture and detail in the snow-covered limbs. - The foreground ground and background houses are underexposed, obscuring fine detail and making them appear as dark, indistinct shapes.
+- **minnakirstinna**:  ([link](https://www.threads.com/@minnakirstinna/post/Df-dhm0AM-8))
+  - Photo: Description: A close-up photograph shows a single, reflective water droplet resting on a textured, dark surface composed of tightly packed, irregularly shaped white or light-gray elements. Photograph read: The image exhibits a high-contrast, grainy appearance with a dominant dark background and bright, specular highlights. The droplet is centrally located and reflects its surroundings, though the reflection is distorted and partially obscured. The surface texture is visible but lacks fine resolution, and the overall image has a digital artifact-like quality. Photo type: Digital artifact
+    - Watch-outs: - The droplet’s reflection is distorted and partially obscured by glare, limiting the visibility of reflected detail. - The surface texture appears overly grainy and lacks fine resolution, reducing the ability to discern individual element shapes.
+- **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
+  - _Replying to: (photo reply, no text)_
 - **ronaldstamant**:  ([link](https://www.threads.com/@ronaldstamant/post/Df-c-RzDx7t))
   - Photo: Description: A wide, flat field of tilled earth stretches toward a distant tree line under a partly cloudy sky, with a wire fence and wooden post in the foreground. Photograph read: The image is taken from a low angle, with even daylight illuminating the scene. The field shows parallel furrows, and the sky has scattered clouds. The foreground fence is in focus, while the midground field and background treeline are slightly less sharp. Photo type: Agricultural landscape
 - **iainriggs**:  ([link](https://www.threads.com/@iainriggs/post/Df-cAtxEu9W))
