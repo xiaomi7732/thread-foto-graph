@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (174)
+## Needs Reply (177)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kes_ward**: Cupboard Under The Stairs ([link](https://www.threads.com/@kes_ward/post/Df-MZqkjgK6))
+  - Photo: Description: A stuffed bear sits in a wooden rocking chair, illuminated by a focused light source against a completely black background. Photograph read: The subject is centrally positioned in the frame, lit from the front, with deep shadows surrounding it. The chair and bear show visible texture and form, but the image lacks any discernible depth of field or motion blur. Photo type: Still life
+- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/Df-MLb5mqr6))
+  - Photo: Description: A fighter jet with swept-back wings and a pointed nose is captured in mid-flight against a blue sky with scattered clouds. The aircraft appears to be in a high-speed maneuver, with visible exhaust or vapor trails near its engines. Photograph read: The image is taken from a low angle, with the jet centered in the frame. Lighting is natural daylight, casting clear shadows and highlights on the aircraft’s surfaces. The image has moderate resolution, with visible texture on the jet’s skin and cloud formations. Photo type: Aerial
+- **embram**:  ([link](https://www.threads.com/@embram/post/Df-MKHRiDqk))
+  - Photo: Description: A bird in flight, silhouetted against a pale sky, with wings spread and a visible orange beak. Below, tree branches with sparse, yellowish leaves extend into the frame. Photograph read: The bird and branches are rendered as dark silhouettes against a uniformly light background. No discernible texture or color detail is visible on the bird or foliage due to backlighting. The image lacks sharpness or defined edges, suggesting motion blur or low resolution. Photo type: Silhouette
+    - Watch-outs: The bird’s wing feathers are indistinct due to motion blur and backlighting, obscuring fine structure. The tree branches and leaves are rendered as dark shapes with minimal detail, lacking texture or color variation.
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
   - Photo: Description: A small, dark, indistinct object is centered in the frame against a uniformly gray, textured background that lacks discernible features. Photograph read: The image is monochrome with even, flat lighting and no visible shadows or highlights. The subject appears as a faint, low-contrast shape with no clear edges or identifiable features. The background exhibits a grainy or pixelated texture across the entire frame. Photo type: Unclear
     - Watch-outs: The subject is too small and indistinct to be identified; its shape and features are not resolvable. The entire image exhibits a uniform grainy texture, which obscures fine detail across the background and subject.
