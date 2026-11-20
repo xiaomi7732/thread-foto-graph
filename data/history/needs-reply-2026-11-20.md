@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (280)
+## Needs Reply (281)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **susie.kp**:  ([link](https://www.threads.com/@susie.kp/post/Df-p3lvEVns))
+  - Photo: Description: A single bright yellow flower with five petals and a dense center of stamens is centered in the frame, surrounded by green, lobed leaves with hairy stems. Photograph read: The flower is in focus and well-lit, with the surrounding foliage slightly out of focus. Lighting is even and natural, with no visible shadows or overexposure. The image has a shallow depth of field, with the background foliage blurred. Photo type: Natural
 - **embcelt82**:  ([link](https://www.threads.com/@embcelt82/post/Df-pmW5G4K5))
   - Photo: Description: A black-and-white nighttime photograph shows a dark, paved area adjacent to a low building with a white door and window, illuminated by a single streetlight. A tall, vertical light source is visible on the right side of the frame. Photograph read: The image is composed with a single bright light source casting a spotlight on the pavement and building, creating strong contrast against the dark surroundings. The building’s features are partially visible, but details are obscured by shadow. The right side of the frame is dominated by a bright vertical element, likely a light fixture or sign, with minimal surrounding detail. Photo type: Night photography
     - Watch-outs: - The area around the building’s window and door is underexposed, obscuring visible detail within those features. - The right side of the image is dominated by a bright vertical element, which causes overexposure and washes out texture or detail in the adjacent wall.
