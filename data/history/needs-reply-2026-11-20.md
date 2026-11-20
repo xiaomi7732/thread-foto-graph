@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (252)
+## Needs Reply (257)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **rkatekatia**:  ([link](https://www.threads.com/@rkatekatia/post/Df-4PssDScd))
+  - Photo: Description: A close-up, monochrome image shows a single tulip bud and its elongated leaves against a plain, dark background. The bud is partially open, with petals curling inward. Photograph read: The composition is diagonal, with the tulip’s stem and leaves extending from the lower right toward the upper center. Lighting is directional, creating soft shadows and highlights along the curves of the petals and leaves. The rendering is smooth with no visible grain or compression artifacts. Photo type: Still life
+- **annette.parker.169**:  ([link](https://www.threads.com/@annette.parker.169/post/Df-4LOHGf-v))
+  - Photo: Description: A single, dried, winged seed pod lies diagonally on a textured concrete surface, showing detailed vein-like patterns on its surface. Photograph read: The image is taken from a high angle with direct, bright lighting casting a sharp shadow. The subject is in focus, with clear rendering of surface texture and background granules. The composition is simple, with the seed pod as the central focus. Photo type: Documentary
+- **a_deeper_place**:  ([link](https://www.threads.com/@a_deeper_place/post/Df-4DZ4DzIi))
+  - Photo: Description: An abandoned railway track runs through a forested area, flanked by dense trees and undergrowth, with rusted rails and weathered wooden ties covered in dry leaves and debris. Photograph read: The image is taken from a low angle looking down the center of the track, with even, diffused lighting suggesting an overcast sky. The composition leads the eye along the rails into the distance, where the track curves slightly. The rails and ties are in focus, with surrounding vegetation showing natural texture and detail. Photo type: Documentary
+- **ohyeah_richard_hesketh**:  ([link](https://www.threads.com/@ohyeah_richard_hesketh/post/Df-3-Q0COYS))
+  - Photo: Description: A single vertical black line extends from the top edge of the frame downward, set against a clear, uniform blue sky. Photograph read: The composition is minimalist, with the line centered vertically. Lighting is even and diffuse, suggesting daylight without direct shadows or highlights. The rendering is clean, with no visible noise or compression artifacts. Photo type: Abstract
 - **sherrycatonmason**:  ([link](https://www.threads.com/@sherrycatonmason/post/Df-3yUFmkQm))
   - Photo: Description: A solitary bird stands on a dark, flat structure near water, with a hazy, foggy background obscuring distant trees and a faint light source. Photograph read: The image has a muted, desaturated color palette with low contrast. The bird is a silhouette against a uniformly gray, fog-filled background. The water surface shows slight ripples and a faint reflection of the bird. The foreground structure has visible surface texture and faint markings. Photo type: Unclear
     - Watch-outs: - The bird’s features are indistinct due to silhouette against low-contrast background; no discernible markings or textures. - The background is uniformly hazy, obscuring tree details and reducing depth perception.
@@ -207,6 +215,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One small silhouette, one fishing rod, and a whole lake of …_
 - **doctor.unka.tony**: I wasn't looking for it, but it was waiting for me. ([link](https://www.threads.com/@doctor.unka.tony/post/Df-xHvAlnlg))
   - _Replying to: A small white bird in all that dark green - it is barely th…_
+- **stickyshutterphotography**: Very still in the woods caught it peripheraly and click hey presto 😁 ([link](https://www.threads.com/@stickyshutterphotography/post/Df-3-eLiGQH))
+  - _Replying to: A single leaf hanging by a thread over a brown blur - it lo…_
 - **tantesaysgo**: Destiny? ([link](https://www.threads.com/@tantesaysgo/post/Df-yA0BEVo1))
   - _Replying to: A vine reaching across the sky, all curls and thin green li…_
 - **nix633**: No idea I’m afraid, but I would say a year or two given the weathered paint and the state of the wood! ([link](https://www.threads.com/@nix633/post/Df-1hrhiHwp))
