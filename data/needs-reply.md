@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (119)
+## Needs Reply (121)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **signhildthomas**:  ([link](https://www.threads.com/@signhildthomas/post/Df8_94oDUyK))
+  - Photo: Description: A black cat is positioned on the edge of a sloped, light-colored concrete structure, with its body angled away from the camera and head lowered toward the ground. Behind the cat is a dense thicket of dry, leafless shrubs and grasses with sparse yellow leaves. Photograph read: The image is taken from a low angle, capturing the cat’s side profile against a natural background. Lighting appears diffuse, with no strong directional shadows. The cat’s form is mostly in silhouette, and the concrete surface shows visible texture and seams. The background foliage is out of focus relative to the cat, but not blurred to the point of indistinctness. Photo type: Natural
+    - Watch-outs: The cat’s facial features and eyes are not discernible due to silhouette and low contrast. The concrete surface’s texture is visible but lacks fine detail in the foreground area where the cat is positioned.
 - **filiascriptoris**: Not that long; once we started moving again, it shifted, so I felt fortunate to capture it in that moment. ([link](https://www.threads.com/@filiascriptoris/post/Df87ywFlpEf))
   - _Replying to: An eagle, spotted from a bus window - how long did it hold …_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
@@ -56,6 +59,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 ### Reflection Wednesday Show me a reflection - in a mirror, a … ([thread](https://www.threads.com/@saars.foto/post/Df41Z2HFPwu))
+- **signhildthomas**:  ([link](https://www.threads.com/@signhildthomas/post/Df8-1BzDSts))
+  - Photo: Description: A nighttime view of a large, illuminated swimming pool with palm trees and a resort building in the background; people are visible near the poolside, and a person is inside a transparent inflatable ball in the water. Photograph read: The image is taken at night with artificial lighting reflecting off the pool surface; the water is in focus but shows ripples, and the background includes lit buildings and closed umbrellas. The composition is wide, capturing the pool, trees, and structure. Photo type: Night scene
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8ecUImYUb))
   - Photo: Description: A calm body of water reflects surrounding trees, with a textured foreground surface in sharp focus. The background trees show autumnal colors, but are blurred. Photograph read: The foreground is in focus, showing a rough, granular surface. The midground water and background trees are out of focus, with soft, indistinct shapes. Lighting is even and diffused, suggesting an overcast sky. Reflections in the water are visible but not sharp. Photo type: Portrait
     - Watch-outs: The background trees and water are blurred, obscuring fine detail and texture. The foreground surface is sharply focused, creating a shallow depth of field effect that limits the clarity of the distant scene.
