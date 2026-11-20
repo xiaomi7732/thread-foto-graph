@@ -6,68 +6,26 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (140)
+## Needs Reply (118)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
-- **missbellisperennis**: Found this and took it home. ([link](https://www.threads.com/@missbellisperennis/post/Df85LDrjMTl))
-  - Photo: Description: A hand holds a small, irregularly shaped piece of wood with concentric, heart-like grooves, set against a blurred background of dry grass and yellow autumn leaves. Photograph read: The image is in focus on the hand and the wood fragment, with the background softly blurred. Lighting is even and natural, suggesting outdoor daylight. The rendering preserves surface texture and color without visible compression or noise. Photo type: Natural
-- **bababui888**:  ([link](https://www.threads.com/@bababui888/post/Df84407GxRO))
-  - Photo: Description: The photograph shows the ceiling of an indoor space with exposed industrial elements, including metal ductwork, wooden beams, and hanging paper lanterns emitting warm light. Large windows on the left reveal an outdoor scene with trees and a brick building. Photograph read: The image is taken from a low angle looking upward, capturing the ceiling structure and lanterns. Lighting is primarily from the lanterns, which cast a warm glow, while ambient light from windows illuminates the scene. The image appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Interior architectural
-- **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/Df8xwTxHMoE))
-  - Photo: Description: The photograph shows a close-up, top-down view of a flowering cabbage plant, with a central rosette of purple and pink frilly leaves surrounded by larger, green, veined outer leaves. Photograph read: The image is taken from directly above, with even, natural lighting. The subject is in focus, and the leaf textures and color gradients are clearly visible. The composition is centered, with minimal background distraction. Photo type: Botanical
-- **purlygirl**:  ([link](https://www.threads.com/@purlygirl/post/Df8vydMkUN5))
-  - Photo: Description: The photograph shows a close-up of a tree trunk with a large, irregularly shaped hole or cavity, surrounded by rough, textured bark. A small green leaf is visible inside the cavity. The background includes a clear blue sky and some out-of-focus yellow foliage. Photograph read: The image is a close-up shot with even, natural lighting, likely taken outdoors during daylight. The focus is sharp on the tree trunk and the hole, with no visible signs of motion blur or focus falloff. The background is softly blurred due to depth of field, but no technical flaws are evident in the rendering. Photo type: Natural close-up
-- **00mrlonewolf00**: RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees. ([link](https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl))
-- **filiascriptoris**: This cloud that reminded me of an eagle. I captured it the best I could from the bus window. ([link](https://www.threads.com/@filiascriptoris/post/Df8ooWFjLNJ))
-  - Photo: Description: The image shows a bright, circular light source partially obscured by textured, layered clouds against a dark sky. The clouds exhibit varied tones, including white, gray, and a distinct blue-green patch. Photograph read: The composition is dominated by the central light source, with clouds framing it. Lighting is high-contrast, with the light source appearing overexposed and the surrounding areas in shadow. Rendering shows visible texture in the clouds but lacks sharpness or fine detail. Photo type: Atmospheric
-    - Watch-outs: The central light source is overexposed, causing loss of detail in that area. The clouds exhibit soft, indistinct edges and lack fine texture, suggesting limited resolution or focus.
-- **colleen3631**:  ([link](https://www.threads.com/@colleen3631/post/Df8lkpkkaPa))
-  - Photo: Description: The image shows a close-up of numerous white, porous, irregularly shaped rocks and fragments, with one central stone resembling a heart shape, scattered across a surface. Photograph read: The composition is tightly framed on the rocks, with bright, direct lighting casting sharp shadows. The rendering is clear and detailed, showing surface textures and pores without visible compression or noise. Photo type: Macro
-- **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df8gSAen8lQ))
-  - Photo: Description: A human hand holds two small, rounded, light-colored stones against a blurred, granular background that resembles sand or gravel. Photograph read: The hand and stones are in focus, with natural, even lighting. The background is out of focus, creating a shallow depth of field. The stones’ surfaces show texture and minor imperfections, but no sharp edges or fine details are visible beyond that. Photo type: Portrait
-- **peanutbutterscotch_**: The pier! Triangles are my favorite shape ([link](https://www.threads.com/@peanutbutterscotch_/post/Df8gY6mli2B))
-  - _Replying to: Venice bends the whole scene into a curve. Then the pier cu…_
-- **raijapoignand**: The gap is the shape of a heart 🤍 ([link](https://www.threads.com/@raijapoignand/post/Df8z6HNGVgw))
-  - _Replying to: Is that a heart showing through the leaves, or am I wishing…_
+- **filiascriptoris**: Not that long; once we started moving again, it shifted, so I felt fortunate to capture it in that moment. ([link](https://www.threads.com/@filiascriptoris/post/Df87ywFlpEf))
+  - _Replying to: An eagle, spotted from a bus window - how long did it hold …_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
   - _Replying to: (photo reply, no text)_
-- **galveston_walkabout**: They were all settled in for the night . ([link](https://www.threads.com/@galveston_walkabout/post/Df8hLaqpVE_))
-  - _Replying to: The bare branches fan out like a candelabra, and every bird…_
-- **posts.by.norman**: Initially I saw it as an open palm. Hehe. It's still the flower shape that attracts me. ([link](https://www.threads.com/@posts.by.norman/post/Df8ornlH00P))
-  - _Replying to: A whole lotus, floating on the water - and a perfect circle…_
-- **tim22974**: Also, note the shadow of the grass blades on the leaf! ([link](https://www.threads.com/@tim22974/post/Df8g2qLmYm1))
-  - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8gs2imUxI))
   - Photo: Description: A large tree with dense, deep red foliage dominates the center of the frame, set against a clear blue sky, with a residential house and driveway visible behind it. Photograph read: The composition is vertical, with the tree occupying the central area. Lighting appears to be direct sunlight from the side, casting shadows and highlighting the tree’s leaves. The image has a natural color balance and no visible signs of digital artifacts or distortion. Photo type: Natural
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **tim22974**: Landed like that; saw it on my dog walk; had to stop!! ([link](https://www.threads.com/@tim22974/post/Df8gmCQmVpf))
   - _Replying to: That red against the green is doing all the shouting. Did i…_
-- **dianelynnturnbull**: A mystery, forever. It might all still be on the pavement...I will check in the morning. 😊 ([link](https://www.threads.com/@dianelynnturnbull/post/Df8uZc1Ectw))
-  - _Replying to: Circles inside circles - the white disk, the seed pod, the …_
-- **32groove**: This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist’s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces. ([link](https://www.threads.com/@32groove/post/Df8h2ojjBlV))
-  - _Replying to: A ring of spikes with a hole straight through the middle - …_
-- **hippiecat51**: I keep him on a box with all my nature found treasures. ([link](https://www.threads.com/@hippiecat51/post/Df8lJXhmZND))
-  - _Replying to: He has a face in profile - a snout, an eye, the whole littl…_
 - **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
   - _Replying to: Melancholy suits them - a beautiful late-season rose._
-- **sherriebcrow**: Definitely spotted the face, which was why I took the picture. ([link](https://www.threads.com/@sherriebcrow/post/Df8tYfQjnpz))
-  - _Replying to: The rock is pulling a face - two round eyes and a long mout…_
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
   - _Replying to: (photo reply, no text)_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
-- **david.l.mcgee56**: In Louisville, Kentucky ([link](https://www.threads.com/@david.l.mcgee56/post/Df8hTs6mSbg))
-  - _Replying to: Two trunks leaning apart like a doorway, and the bark doing…_
-- **oznatureart**: Think he's been there a while ☺️.... I think he mislaid the spaceship ([link](https://www.threads.com/@oznatureart/post/Df8jzhQCRu0))
-  - _Replying to: Round head, long limbs, boots on the ground - your spaceman…_
-- **michelpbeaudry**: It’s a seaside sleeping cabin. The main house, and other sleeping cabins are not in the picture. ([link](https://www.threads.com/@michelpbeaudry/post/Df8jYB0mzia))
-  - _Replying to: A round little house on stilts, sitting over the water like…_
-- **jglass8**: I think he rents the interior, but really prefers the top floor. ([link](https://www.threads.com/@jglass8/post/Df8gMa2FI8C))
-  - _Replying to: Did something move in, or did the desert carve that window?…_
-- **reef_ausic**: Caught it mid-bloom. ([link](https://www.threads.com/@reef_ausic/post/Df8rhY3Est-))
-  - _Replying to: That magenta dome is wearing a crown of yellow curls. Did i…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
   - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
   - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
@@ -75,8 +33,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
   - _Replying to: Thank you - that frosty heart stopped my scroll._
-- **shel_bee_g**: Fallen in the parking lot of a grocery store, what we call Trader Joe's, just caught my eye ([link](https://www.threads.com/@shel_bee_g/post/Df8k9InH_gc))
-  - _Replying to: One red leaf on dark wet stone, and suddenly the whole pave…_
 - **linda73linda**: Leuk ! Zou het hetzelfde hart zijn geweest ? ([link](https://www.threads.com/@linda73linda/post/Df703UkDQJQ))
   - _Replying to: Another day, with the same heart_
 - **fabienne_journey**: Vrees het niet. Deze foto is al een tijdje geleden gemaakt ([link](https://www.threads.com/@fabienne_journey/post/Df74mbEDpsx))

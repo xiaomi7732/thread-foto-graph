@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 324,
+      "reply_count": 348,
       "replies": [
         {
           "username": "missbellisperennis",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A hand holds a small, irregularly shaped piece of wood with concentric, heart-like grooves, set against a blurred background of dry grass and yellow autumn leaves. Photograph read: The image is in focus on the hand and the wood fragment, with the background softly blurred. Lighting is even and natural, suggesting outdoor daylight. The rendering preserves surface texture and color without visible compression or noise. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That heart was hiding in the grain all along - what made you pick that piece up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87KzNEfyJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bababui888",
@@ -31,10 +42,21 @@
           "photos": [
             "Description: The photograph shows the ceiling of an indoor space with exposed industrial elements, including metal ductwork, wooden beams, and hanging paper lanterns emitting warm light. Large windows on the left reveal an outdoor scene with trees and a brick building. Photograph read: The image is taken from a low angle looking upward, capturing the ceiling structure and lanterns. Lighting is primarily from the lanterns, which cast a warm glow, while ambient light from windows illuminates the scene. The image appears to be a standard digital capture with no visible signs of distortion or aberration. Photo type: Interior architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A ceiling full of glowing moons, and that big vent keeping them company - how long did you sit under them?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87MVvERY4",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "amy.salt",
@@ -43,10 +65,21 @@
           "photos": [
             "Description: The photograph shows a close-up, top-down view of a flowering cabbage plant, with a central rosette of purple and pink frilly leaves surrounded by larger, green, veined outer leaves. Photograph read: The image is taken from directly above, with even, natural lighting. The subject is in focus, and the leaf textures and color gradients are clearly visible. The composition is centered, with minimal background distraction. Photo type: Botanical"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A rosette that reads like a rose, right down to the pink center - did the color pull you in first, or the spiral?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87NoQABpe",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "purlygirl",
@@ -55,20 +88,42 @@
           "photos": [
             "Description: The photograph shows a close-up of a tree trunk with a large, irregularly shaped hole or cavity, surrounded by rough, textured bark. A small green leaf is visible inside the cavity. The background includes a clear blue sky and some out-of-focus yellow foliage. Photograph read: The image is a close-up shot with even, natural lighting, likely taken outdoors during daylight. The focus is sharp on the tree trunk and the hole, with no visible signs of motion blur or focus falloff. The background is softly blurred due to depth of field, but no technical flaws are evident in the rendering. Photo type: Natural close-up"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The bark grew itself a frame, and then a sprout moved in - did you spot the green first, or the ring?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87PYknKBt",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "00mrlonewolf00",
           "text": "RAIN-LEAF CLOVER Hearts of clover, drops of rain, drip, drip, drip, the clouds did drain. Each leaf holds a little sky, where silver worlds of wonder lie. A fragile gem upon the green, the softest mirror ever seen. It trembles with a passing breeze, then slips away to feed the trees.",
           "permalink": "https://www.threads.com/@00mrlonewolf00/post/Df8orMvETSl",
           "photos": [],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Hearts of clover holding little skies - that poem reads like the photo it came from. Where did you find the clover?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87Ql2jm5B",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "filiascriptoris",
@@ -80,10 +135,32 @@
           "watch_outs": [
             "The central light source is overexposed, causing loss of detail in that area. The clouds exhibit soft, indistinct edges and lack fine texture, suggesting limited resolution or focus."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "An eagle, spotted from a bus window - how long did it hold that shape?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87R-TjtYw",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "filiascriptoris",
+                  "text": "Not that long; once we started moving again, it shifted, so I felt fortunate to capture it in that moment.",
+                  "permalink": "https://www.threads.com/@filiascriptoris/post/Df87ywFlpEf",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "colleen3631",
@@ -92,10 +169,21 @@
           "photos": [
             "Description: The image shows a close-up of numerous white, porous, irregularly shaped rocks and fragments, with one central stone resembling a heart shape, scattered across a surface. Photograph read: The composition is tightly framed on the rocks, with bright, direct lighting casting sharp shadows. The rendering is clear and detailed, showing surface textures and pores without visible compression or noise. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One heart, hiding in plain sight among all that coral - how long did you sift before it showed itself?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87ToAkVdC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "granfran66",
@@ -104,10 +192,21 @@
           "photos": [
             "Description: A human hand holds two small, rounded, light-colored stones against a blurred, granular background that resembles sand or gravel. Photograph read: The hand and stones are in focus, with natural, even lighting. The background is out of focus, creating a shallow depth of field. The stones\u2019 surfaces show texture and minor imperfections, but no sharp edges or fine details are visible beyond that. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A matched pair, big and little, both worn perfectly round - what beach gave them up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df87U9dlS7k",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "chicken_poop_shoes_",
@@ -180,10 +279,21 @@
                   "text": "The pier! Triangles are my favorite shape",
                   "permalink": "https://www.threads.com/@peanutbutterscotch_/post/Df8gY6mli2B",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Triangles everywhere on that pier - a favorite well earned.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87WaSkRuj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -217,10 +327,21 @@
                   "text": "The gap is the shape of a heart \ud83e\udd0d",
                   "permalink": "https://www.threads.com/@raijapoignand/post/Df8z6HNGVgw",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A heart made of sky - beautiful catch.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87YCXEVzr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -356,10 +477,21 @@
                   "text": "They were all settled in for the night .",
                   "permalink": "https://www.threads.com/@galveston_walkabout/post/Df8hLaqpVE_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Settled in for the night, every bird in its place.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87ZoPlem9",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -390,10 +522,21 @@
                   "text": "Initially I saw it as an open palm. Hehe. It's still the flower shape that attracts me.",
                   "permalink": "https://www.threads.com/@posts.by.norman/post/Df8ornlH00P",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "An open palm and a flower in one - a lovely double take.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87dd5DhHp",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -424,10 +567,21 @@
                   "text": "Also, note the shadow of the grass blades on the leaf!",
                   "permalink": "https://www.threads.com/@tim22974/post/Df8g2qLmYm1",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A dog walk that kept on giving - shadows and all.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87fBXAClM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 },
                 {
                   "username": "tim22974",
@@ -506,10 +660,21 @@
                   "text": "A mystery, forever. It might all still be on the pavement...I will check in the morning. \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@dianelynnturnbull/post/Df8uZc1Ectw",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Some mysteries are worth the morning check.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87glGjvc6",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -540,10 +705,21 @@
                   "text": "This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist\u2019s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces.",
                   "permalink": "https://www.threads.com/@32groove/post/Df8h2ojjBlV",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A spinning hologram - no wonder it stopped you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87iByEelB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -577,10 +753,21 @@
                   "text": "I keep him on a box with all my nature found treasures.",
                   "permalink": "https://www.threads.com/@hippiecat51/post/Df8lJXhmZND",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A treasure box is exactly the right home for him.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87jZNESfI",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -810,10 +997,21 @@
                   "text": "Definitely spotted the face, which was why I took the picture.",
                   "permalink": "https://www.threads.com/@sherriebcrow/post/Df8tYfQjnpz",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A face worth stopping for - you saw it first.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87klUFpFa",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1001,10 +1199,21 @@
                       "text": "In Louisville, Kentucky",
                       "permalink": "https://www.threads.com/@david.l.mcgee56/post/Df8hTs6mSbg",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "Louisville keeps its old trees well.",
+                          "permalink": "https://www.threads.com/@saars.foto/post/Df87lqrEaW9",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1158,10 +1367,21 @@
                   "text": "Think he's been there a while \u263a\ufe0f.... I think he mislaid the spaceship",
                   "permalink": "https://www.threads.com/@oznatureart/post/Df8jzhQCRu0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A long stay, and a spaceship still missing.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87nFBm7Xb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1192,10 +1412,21 @@
                   "text": "It\u2019s a seaside sleeping cabin. The main house, and other sleeping cabins are not in the picture.",
                   "permalink": "https://www.threads.com/@michelpbeaudry/post/Df8jYB0mzia",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A little cabin with the best seat on the shore.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87obQG_2N",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2024,10 +2255,21 @@
                   "text": "I think he rents the interior, but really prefers the top floor.",
                   "permalink": "https://www.threads.com/@jglass8/post/Df8gMa2FI8C",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Top floor with a view - hard to argue with that.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87pjKGx6C",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2288,10 +2530,21 @@
                   "text": "Caught it mid-bloom.",
                   "permalink": "https://www.threads.com/@reef_ausic/post/Df8rhY3Est-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Mid-bloom is the perfect moment to catch it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87qoIG1dv",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3011,10 +3264,21 @@
                   "text": "Fallen in the parking lot of a grocery store, what we call Trader Joe's, just caught my eye",
                   "permalink": "https://www.threads.com/@shel_bee_g/post/Df8k9InH_gc",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A grocery run with a leaf like that - worth the stop.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df87r_cmyFN",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
