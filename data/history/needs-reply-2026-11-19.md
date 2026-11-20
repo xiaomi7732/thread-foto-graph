@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (135)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **meservelee**:  ([link](https://www.threads.com/@meservelee/post/Df8Uax_DqOl))
+  - Photo: Description: A cluster of light-brown, flat, disc-shaped fungi grows among a bed of dry, brown leaves and twigs on the forest floor. The fungi show signs of wear, with small dark patches and debris on their surfaces. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The fungi are in focus, but the surrounding leaf litter is slightly out of focus, creating a shallow depth of field. The rendering is naturalistic, with no visible digital artifacts or color distortion. Photo type: Naturalistic
+- **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
+  - _Replying to: (photo reply, no text)_
 - **ccaldwellrn**: Appeared to be a critter. Only logs. ([link](https://www.threads.com/@ccaldwellrn/post/Df8S_1Yn5se))
   - Photo: Description: A grassy area with scattered trees and a large, weathered log lying on the ground, partially surrounded by branches and greenery; a gravel path is visible on the left. Photograph read: The image is taken in bright daylight with natural lighting, showing a shallow depth of field. The foreground grass and log are in focus, while the background is softly blurred. The composition is casual, with a green pole leaning in the foreground. Photo type: Natural
     - Watch-outs: The log’s surface texture is indistinct due to low contrast and mild focus softness. Background foliage and distant objects are blurred, reducing detail discernibility.
@@ -56,6 +60,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the triangle steals it - the skylight cutting throu…_
 - **storycatcher52**: These were in a window to be ready for the next day. It was amazing cheese, but very expensive.! ([link](https://www.threads.com/@storycatcher52/post/Df8IKaiFLz0))
   - _Replying to: I think the rows are the best part - every round in its pla…_
+- **nofussgus_**: My dog and I spend a lot of time clambering over rocks and exploring crevices and rock pools. We’re lucky to live in a beautiful part of Southern Tasmania. ([link](https://www.threads.com/@nofussgus_/post/Df8UpDrIERK))
+  - Photo: Description: A light-colored, curly-haired dog on a leash is sniffing seaweed at the base of large, barnacle-covered rocks on a wet beach, with a cliff and distant hills under an overcast sky. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting from an overcast sky. The focus is reasonably sharp on the dog and the immediate rocks, though the background is softly out of focus. The composition places the dog and rocks in the foreground, with the beach and cliffs receding into the background. Photo type: Natural
+  - _Replying to: A row of glossy black marbles on wet rock, and the mussels …_
 - **sma81**: In my jewellery box🩷 ([link](https://www.threads.com/@sma81/post/Df8QIIvnRFr))
   - _Replying to: I think the nail polish gives it away - a heart stone, and …_
 - **jammy.kollings**: I was on a walk-and I saw it, and I had to pick it up and marvel at its beauty. It’s displayed in my casa now ([link](https://www.threads.com/@jammy.kollings/post/Df8NK7FFETX))

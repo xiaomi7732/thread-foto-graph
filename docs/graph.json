@@ -10,8 +10,31 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 255,
+      "reply_count": 258,
       "replies": [
+        {
+          "username": "meservelee",
+          "text": "",
+          "permalink": "https://www.threads.com/@meservelee/post/Df8Uax_DqOl",
+          "photos": [
+            "Description: A cluster of light-brown, flat, disc-shaped fungi grows among a bed of dry, brown leaves and twigs on the forest floor. The fungi show signs of wear, with small dark patches and debris on their surfaces. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The fungi are in focus, but the surrounding leaf litter is slightly out of focus, creating a shallow depth of field. The rendering is naturalistic, with no visible digital artifacts or color distortion. Photo type: Naturalistic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": [
+            {
+              "username": "meservelee",
+              "text": "Kind of like a pregnant Mam mushroom.",
+              "permalink": "https://www.threads.com/@meservelee/post/Df8UlkJjtIn",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
         {
           "username": "ccaldwellrn",
           "text": "Appeared to be a critter. Only logs.",
@@ -923,7 +946,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "nofussgus_",
+                  "text": "My dog and I spend a lot of time clambering over rocks and exploring crevices and rock pools. We\u2019re lucky to live in a beautiful part of Southern Tasmania.",
+                  "permalink": "https://www.threads.com/@nofussgus_/post/Df8UpDrIERK",
+                  "photos": [
+                    "Description: A light-colored, curly-haired dog on a leash is sniffing seaweed at the base of large, barnacle-covered rocks on a wet beach, with a cliff and distant hills under an overcast sky. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting from an overcast sky. The focus is reasonably sharp on the dog and the immediate rocks, though the background is softly out of focus. The composition places the dog and rocks in the foreground, with the beach and cliffs receding into the background. Photo type: Natural"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3113,7 +3149,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 519,
+      "reply_count": 518,
       "replies": [
         {
           "username": "judmacd",
@@ -5283,6 +5319,16 @@
           ]
         },
         {
+          "username": "saars.foto",
+          "text": "That leaning tree frames the whole lake, and the forest doubles itself right down the middle. How long did you sit with this one?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df5hhq1FDqa",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "raggedy_nan",
           "text": "Adventure Bay, Bruny Island, Tasmania.",
           "permalink": "https://www.threads.com/@raggedy_nan/post/Df5fZtcEobr",
@@ -6546,29 +6592,6 @@
                   "replies": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "username": "sahelstreams",
-          "text": "",
-          "permalink": "https://www.threads.com/@sahelstreams/post/Df5HxtJlHpw",
-          "photos": [
-            "Description: A calm lake reflects a clear blue sky and surrounding coniferous forest, with a prominent tree leaning over the water on the left and rocky shore in the foreground. Photograph read: The composition is framed by a large tree on the left and a forested hillside on the right, with the lake occupying the center. Lighting is bright and even, suggesting midday sun. Reflections are clear on the water\u2019s surface, though minor ripples are visible. The image has no apparent distortion or chromatic aberration. Photo type: Natural landscape"
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "That leaning tree frames the whole lake, and the forest doubles itself right down the middle. How long did you sit with this one?",
-              "permalink": "https://www.threads.com/@saars.foto/post/Df5hhq1FDqa",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": []
             }
           ]
         },
