@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (228)
+## Needs Reply (230)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **oznatureart**:  ([link](https://www.threads.com/@oznatureart/post/Df-f9slk04v))
+  - Photo: Description: A single small white flower with a yellow center and fine, spiky green bracts at its base is visible on a thin green stem, set against a heavily blurred background of muted earth tones and indistinct shapes. Photograph read: The image features a shallow depth of field with the flower in focus, while the background is uniformly out of focus. Lighting is even and diffuse, without harsh shadows or highlights. The rendering preserves the flower’s structure but lacks sharpness in its petals and center. Photo type: Macro
+    - Watch-outs: The flower’s center is slightly soft, with fine details obscured by lack of resolution. The background blur is so extensive that no identifiable objects or textures are visible beyond color patches.
+- **dlindstr56**:  ([link](https://www.threads.com/@dlindstr56/post/Df-f0Y_j5p_))
+  - Photo: Description: A single reddish-orange maple leaf floats on the surface of calm, blue-green water, which reflects a cloudy sky. Photograph read: The image is taken from a high angle, with the leaf centered in the frame. The water surface shows soft, diffuse reflections of clouds. Lighting is even and diffused, with no harsh shadows or highlights. The leaf’s edges and veins are discernible but not sharply defined. Photo type: Still life
 - **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/Df-feG1khZq))
   - Photo: Description: A brightly colored parrot with a red head, yellow chest, blue wings, and greenish underparts perches on a horizontal wire against a plain, light gray background. Photograph read: The subject is centered on a wire, with even, diffuse lighting that minimizes shadows. The image has a shallow depth of field, keeping the bird in focus while the background is uniformly out of focus. The parrot’s plumage shows clear color separation, but the wire is rendered as a simple, textured line. Photo type: Portrait
 - **fragilita_12**: My favorite two ([link](https://www.threads.com/@fragilita_12/post/Df-e8pEgPnY))
