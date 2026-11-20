@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (193)
+## Needs Reply (196)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **bird_in_the_north**:  ([link](https://www.threads.com/@bird_in_the_north/post/Df-up7ejkmK))
+  - Photo: Description: Two white paw pads with dark pads are visible resting on a textured, dark surface against a completely black background. Photograph read: The subject is centrally positioned in the lower third of the frame, illuminated by a focused light source from above or slightly to the side, casting soft shadows. The background is uniformly black, and the surface beneath the paws has a visible woven or ribbed texture. The image has a shallow depth of field, with the paws in focus and the background and foreground elements blurred. Photo type: Portrait
+    - Watch-outs: The paws are partially obscured by motion blur or soft focus, reducing the clarity of individual toe pads and fur texture. The entire image is underexposed in the background and foreground, making the surface texture and surrounding context indistinct.
 - **chanellemclennan**: Is Saturday here so walk to the beach 🇳🇿 ([link](https://www.threads.com/@chanellemclennan/post/Df-uWYrEzyk))
   - Photo: Description: A stone monument with carved penguin figures and a sign reading “DUNE PLANTS GROWING PLEASE KEEP TO BEACH ACCESS” stands in tall grass, overlooking a sandy beach and ocean with a rocky, tree-covered island in the distance under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with clear visibility of the monument, grass, and distant landscape. The sky is mostly clear with sparse clouds. The monument’s carvings and sign are legible, and the ocean and island are distinct in the background. The composition is centered on the monument, with the beach and sea extending horizontally. Photo type: Natural landscape
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/Df-tzVUk8Dm))
@@ -53,11 +56,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A small, bright green frog with dark eyes and subtle yellowish underparts is perched on a large, broad green leaf. The leaf surface shows faint veins and minor surface imperfections. Photograph read: The image is taken with a shallow depth of field, resulting in the frog being in focus while the background and foreground leaf areas are softly blurred. Lighting is even and diffused, illuminating the subject without harsh shadows or overexposure. Photo type: Macro
 - **karinbond1**: They were all on the same day. We live right by a river and we have lots and lots of spiders. When fall comes, so does the dew and mist and makes them sparkle. ✨ ([link](https://www.threads.com/@karinbond1/post/Df-tDR1lkua))
   - _Replying to: Three webs, three mornings of dew - each one holding the li…_
+- **soirnouf_passmoilsel**: This was my office this day, behind a kind of blurred door… and just before opening the door I saw this angry face, with this hard gaze made by the window behind … and all this told story to me, I wanted to transduce it in picture… ([link](https://www.threads.com/@soirnouf_passmoilsel/post/Df-uxaoijs6))
+  - _Replying to: Vertical lines and one bright band of light, like the build…_
 - **krisanewman**: I have. But not oft. ([link](https://www.threads.com/@krisanewman/post/Df-s71ymz6t))
   - _Replying to: A bare tree and a bench by a frozen lake, with the sky taki…_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
-- **sheilasphoto**: Here’s the EXIF. Around 10 am at Mona Vale Beach, Sydney, Australia. ([link](https://www.threads.com/@sheilasphoto/post/Df-ud10Ez5r))
+- **sheilasphoto**: Here’s the EXIF. Around 10 am Autumn at Mona Vale Beach, Sydney, Australia. ([link](https://www.threads.com/@sheilasphoto/post/Df-ud10Ez5r))
   - Photo: Description: The image depicts a shimmering ocean surface under bright daylight, with the location identified as Mona Vale, Sydney, Australia. The scene is captured from a distance, with the water’s surface showing reflective patterns. Photograph read: The photograph is presented as a digital image with embedded EXIF data, showing a Canon EOS 5D camera with a 70-200mm lens. The exposure settings indicate a shutter speed of 1/1600s, f/7.1 aperture, and ISO 250. The image appears to be a standard landscape shot with no visible flash, using matrix metering and aperture priority mode. The rendering is clear enough to read the EXIF table, but the actual image content is not visible in the provided screenshot. Photo type: Unclear
   - _Replying to: Shimmering Pacific, and the light barely holding on at the …_
 - **hibiskos**: Very lucky. Not sure, but I bet it’s a great story ([link](https://www.threads.com/@hibiskos/post/Df-s-urmyt5))
@@ -70,6 +75,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two white benches under a bright moon, waiting for someone …_
 - **floresgeo_t**: It’s a small ceramic bottle holding a 4 inches tall, 6 months plant……that answers your question? 🌱🌿 ([link](https://www.threads.com/@floresgeo_t/post/Df-uQlZgeg4))
   - _Replying to: Your tiniest plant, holding the whole windowsill. How old i…_
+- **riverbedsky2229**: Yes. Not very lush. ([link](https://www.threads.com/@riverbedsky2229/post/Df-ulc0GZk-))
+  - _Replying to: A lone tree against a plain wall, with nothing else asking …_
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
