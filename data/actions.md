@@ -6,9 +6,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (170)
+## Needs Reply (177)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **doctor.unka.tony**:  ([link](https://www.threads.com/@doctor.unka.tony/post/Df-TMVwmzPY))
+  - Photo: Description: A white bird, likely a heron, stands near the water’s edge under dense green foliage, with its reflection visible in the dark, still water. Photograph read: The image is dominated by deep green tones, with the bird and its reflection as the only bright elements. The foliage and water appear uniformly dark and textured, with no discernible sharpness or fine detail. The composition is centered on the bird, which is small relative to the frame. Photo type: Unclear
+    - Watch-outs: - The bird’s form is indistinct due to low contrast against the green background; edges are soft and lack definition. - Reflection in the water is blurred and lacks crispness, obscuring fine detail of the bird’s shape.
+- **stickyshutterphotography**:  ([link](https://www.threads.com/@stickyshutterphotography/post/Df-TGJODhAj))
+  - Photo: Description: A single dry, orange-brown leaf hangs suspended by a thin, barely visible filament against a uniformly blurred, warm-toned background. Photograph read: The leaf is the central subject, positioned slightly off-center, with soft focus and minimal visible texture. The background is uniformly out of focus, lacking discernible features. Lighting is even and diffuse, with no strong shadows or highlights. Photo type: Still life
+    - Watch-outs: - The leaf’s surface texture is indistinct due to shallow depth of field and soft focus, limiting visible detail. - The background blur obscures any contextual or environmental information, reducing scene clarity.
+- **jackiethomompson**:  ([link](https://www.threads.com/@jackiethomompson/post/Df-TBFwj897))
+  - Photo: Description: A small, motion-blurred animal, likely a squirrel, is captured mid-jump on a vibrant green lawn, viewed through a window. Beyond the grass, an empty parking lot with faded white lines and a distant building with windows and shrubbery are visible. Photograph read: The image is taken from inside a room, looking out through a window, with the foreground dominated by the grass. The main subject is blurred due to motion, indicating rapid movement. Lighting is bright and directional, casting strong shadows across the grass and parking lot. The composition is shallow, with the window frame visible at the bottom. Photo type: Action shot
+    - Watch-outs: Motion blur affects the animal, obscuring its form and features. The animal is centered in the frame, but its limbs and body are indistinct due to the blur.
 - **anatolii_voroniuk**:  ([link](https://www.threads.com/@anatolii_voroniuk/post/Df-SpK4DAgJ))
   - Photo: Description: A single dried leaf hangs from a thin, bare vine against a plain, light-gray background. The leaf shows signs of decay with torn edges and visible veins. Photograph read: The composition is vertical, with the leaf and vine centered slightly off-center. Lighting is even and diffused, casting soft shadows and highlighting the leaf’s texture. The image has a neutral color palette with minimal contrast. Photo type: Still life
   - Photo: Description: A crescent moon is visible against a clear blue sky, partially obscured by a diagonal wire that cuts across the frame from the upper left to the lower right. Photograph read: The image features a simple composition with a bright, softly lit moon and a uniform blue sky. The wire appears as a thin, straight line. The moon’s surface shows some visible craters and texture, but lacks sharp definition. The sky is evenly lit with no visible clouds or atmospheric distortion. Photo type: Aesthetic
@@ -61,15 +70,24 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A bird in silhouette perches on a bare tree branch against a pale blue sky, with some small yellow buds visible on nearby branches. Photograph read: The image is composed with the bird as a central subject against a uniform sky background. Lighting is backlighting, creating a silhouette effect. Rendering is flat with no visible texture or depth beyond the subject’s outline. Photo type: Silhouette
     - Watch-outs: The bird’s features are obscured by silhouette, making identification of specific markings or textures impossible. The buds on the branches are small and lack detail due to backlighting and shallow contrast.
   - _Replying to: Caught mid-wingbeat, with the branches reaching up for it -…_
+- **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
+  - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
   - Photo: Description: A small, dark, indistinct object is centered in the frame against a uniformly gray, textured background that lacks discernible features. Photograph read: The image is monochrome with even, flat lighting and no visible shadows or highlights. The subject appears as a faint, low-contrast shape with no clear edges or identifiable features. The background exhibits a grainy or pixelated texture across the entire frame. Photo type: Unclear
     - Watch-outs: The subject is too small and indistinct to be identified; its shape and features are not resolvable. The entire image exhibits a uniform grainy texture, which obscures fine detail across the background and subject.
 - **lilpig2012**: Thanks A field across from where I live ([link](https://www.threads.com/@lilpig2012/post/Df-P9TiEag8))
   - _Replying to: Nothing but fog - and somehow it still works. What was hidi…_
+- **syldelteglia**: I spotted It from a car. It seemed so fragile, yet so determined to hold on to the stem... ([link](https://www.threads.com/@syldelteglia/post/Df-TWVJFiyq))
+  - _Replying to: One tiny shell, holding onto that one stem like it owns the…_
+- **jayphex1**:  ([link](https://www.threads.com/@jayphex1/post/Df-TKHTlK6w))
+  - Photo: Description: A silhouette of a bird perched atop a slender, curved branch against a uniformly light, featureless background. Photograph read: The image is monochrome with high contrast between the dark subject and the plain background. The subject is rendered as a solid black shape with no visible texture or detail. The branch and bird are sharply defined against the background, suggesting direct backlighting or silhouette capture. Photo type: Silhouette
+  - _Replying to: (photo reply, no text)_
 - **artgowie**: This beach is about a half mile from my house and on my way to work. ([link](https://www.threads.com/@artgowie/post/Df-PMcBlnWi))
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
 - **marcinewiese**: I was actually just taking a picture of our apple trees in bloom...didn't see the jet until days later...lol ([link](https://www.threads.com/@marcinewiese/post/Df-SzjKGLYP))
   - _Replying to: All that blue, one thin line, and somewhere in there a jet …_
+- **kcus_ym_kcid**: I was using sigma 150-600mm at 600mm zoom in and do some cropping. The problem is not how close but how long that i waited for this moment. ([link](https://www.threads.com/@kcus_ym_kcid/post/Df-Tb_tAepg))
+  - _Replying to: Flying straight at you, wings wide, and nothing else in the…_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
 - **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))

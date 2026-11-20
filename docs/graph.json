@@ -13,8 +13,53 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 301,
+      "reply_count": 308,
       "replies": [
+        {
+          "username": "doctor.unka.tony",
+          "text": "",
+          "permalink": "https://www.threads.com/@doctor.unka.tony/post/Df-TMVwmzPY",
+          "photos": [
+            "Description: A white bird, likely a heron, stands near the water\u2019s edge under dense green foliage, with its reflection visible in the dark, still water. Photograph read: The image is dominated by deep green tones, with the bird and its reflection as the only bright elements. The foliage and water appear uniformly dark and textured, with no discernible sharpness or fine detail. The composition is centered on the bird, which is small relative to the frame. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "- The bird\u2019s form is indistinct due to low contrast against the green background; edges are soft and lack definition. - Reflection in the water is blurred and lacks crispness, obscuring fine detail of the bird\u2019s shape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "stickyshutterphotography",
+          "text": "",
+          "permalink": "https://www.threads.com/@stickyshutterphotography/post/Df-TGJODhAj",
+          "photos": [
+            "Description: A single dry, orange-brown leaf hangs suspended by a thin, barely visible filament against a uniformly blurred, warm-toned background. Photograph read: The leaf is the central subject, positioned slightly off-center, with soft focus and minimal visible texture. The background is uniformly out of focus, lacking discernible features. Lighting is even and diffuse, with no strong shadows or highlights. Photo type: Still life"
+          ],
+          "watch_outs": [
+            "- The leaf\u2019s surface texture is indistinct due to shallow depth of field and soft focus, limiting visible detail. - The background blur obscures any contextual or environmental information, reducing scene clarity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jackiethomompson",
+          "text": "",
+          "permalink": "https://www.threads.com/@jackiethomompson/post/Df-TBFwj897",
+          "photos": [
+            "Description: A small, motion-blurred animal, likely a squirrel, is captured mid-jump on a vibrant green lawn, viewed through a window. Beyond the grass, an empty parking lot with faded white lines and a distant building with windows and shrubbery are visible. Photograph read: The image is taken from inside a room, looking out through a window, with the foreground dominated by the grass. The main subject is blurred due to motion, indicating rapid movement. Lighting is bright and directional, casting strong shadows across the grass and parking lot. The composition is shallow, with the window frame visible at the bottom. Photo type: Action shot"
+          ],
+          "watch_outs": [
+            "Motion blur affects the animal, obscuring its form and features. The animal is centered in the frame, but its limbs and body are indistinct due to the blur."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "anatolii_voroniuk",
           "text": "",
@@ -395,7 +440,18 @@
                   "needs_response": true,
                   "action": "reply",
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "embram",
+                      "text": "He flew off to the hedge about a metre from here where he lives.",
+                      "permalink": "https://www.threads.com/@embram/post/Df-TJNmiGFM",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -469,7 +525,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "syldelteglia",
+                  "text": "I spotted It from a car. It seemed so fragile, yet so determined to hold on to the stem...",
+                  "permalink": "https://www.threads.com/@syldelteglia/post/Df-TWVJFiyq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -484,6 +551,18 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "jayphex1",
+              "text": "",
+              "permalink": "https://www.threads.com/@jayphex1/post/Df-TKHTlK6w",
+              "photos": [
+                "Description: A silhouette of a bird perched atop a slender, curved branch against a uniformly light, featureless background. Photograph read: The image is monochrome with high contrast between the dark subject and the plain background. The subject is rendered as a solid black shape with no visible texture or detail. The branch and bird are sharply defined against the background, suggesting direct backlighting or silhouette capture. Photo type: Silhouette"
+              ],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "A whole white sky, and the crow picked the very top twig - what do you think it was looking at?",
@@ -727,7 +806,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kcus_ym_kcid",
+                  "text": "I was using sigma 150-600mm at 600mm zoom in and do some cropping. The problem is not how close but how long that i waited for this moment.",
+                  "permalink": "https://www.threads.com/@kcus_ym_kcid/post/Df-Tb_tAepg",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
