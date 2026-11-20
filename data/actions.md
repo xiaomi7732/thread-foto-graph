@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (231)
+## Needs Reply (234)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **mjfanaticalrebel**:  ([link](https://www.threads.com/@mjfanaticalrebel/post/Df-znvOjNUC))
@@ -157,6 +157,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One bird in a hazy sky, barely more than a dark shape. Was …_
 - **life.as.art**: 5 a.m. Totally worth it. ([link](https://www.threads.com/@life.as.art/post/Df-tlgdFWnh))
   - _Replying to: One bare tree against a sunrise sky, with the mountains fad…_
+- **clmharper**: Can’t say for sure but I suspect sunflower seed. Squirrels and chipmunks in our yard spent more time at our bird feeders than birds did! ([link](https://www.threads.com/@clmharper/post/Df-0iMSG2gl))
+  - _Replying to: That red against the green moss - the squirrel looks like i…_
 - **seniorfitgal**: It was that blue. It was in Iceland ([link](https://www.threads.com/@seniorfitgal/post/Df-tcIbn7bC))
   - _Replying to: A crater lake sitting quietly in all that red rock, with ti…_
 - **donbstevens**: You can just discern a bit of the beach in the lower right hand corner, so it wasn’t out very far. Foggy morning in Nova Scotia. ([link](https://www.threads.com/@donbstevens/post/Df-shsVEc1A))
@@ -167,6 +169,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A little beak poking out of the tree hole, waiting for brea…_
 - **chickievegas**: I’m an early riser. You usually hear them lighting the burner before you see them. ([link](https://www.threads.com/@chickievegas/post/Df-tMc1ibmK))
   - _Replying to: A balloon drifting over the rooftops like it owns the morni…_
+- **ginamarie2221972**: It was the light. My son was 11, just lost his dad the year before. I want to think his dad was enjoying the moment with him .🥰 ([link](https://www.threads.com/@ginamarie2221972/post/Df-0UNpH41U))
+  - _Replying to: One small silhouette, one fishing rod, and a whole lake of …_
 - **doctor.unka.tony**: I wasn't looking for it, but it was waiting for me. ([link](https://www.threads.com/@doctor.unka.tony/post/Df-xHvAlnlg))
   - _Replying to: A small white bird in all that dark green - it is barely th…_
 - **tantesaysgo**: Destiny? ([link](https://www.threads.com/@tantesaysgo/post/Df-yA0BEVo1))
@@ -185,6 +189,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A rainbow landing right on the pyramid - Vegas showing off …_
 - **jh1962bike**: No, just silence in the mist . ([link](https://www.threads.com/@jh1962bike/post/Df-w_wIiOSy))
   - _Replying to: A bird cutting through the fog past two fence posts - the w…_
+- **jmay.ornot**: From a friend's garden. Best way to get stunning roses? Let someone else grow them 😆 ([link](https://www.threads.com/@jmay.ornot/post/Df-0u4VmU08))
+  - _Replying to: A red rosebud against a darkening sky - it looks like it is…_
 - **rickthomas742**: Hey Saar, glad you approve of the photos. I think the moon/chem trail pic was well before Kobe on my son’s farm. ([link](https://www.threads.com/@rickthomas742/post/Df-tzu4GLmS))
   - _Replying to: A dog sitting in the middle of a plowed field, with a cresc…_
 - **giantsfands**: It was about 6:30 am, if I recall. I’d need to check to original file for a time stamp. ([link](https://www.threads.com/@giantsfands/post/Df-yRFUCcLS))
