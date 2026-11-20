@@ -4,9 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (240)
+## Needs Reply (244)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **riverbedsky2229**: “Lone Tree” ([link](https://www.threads.com/@riverbedsky2229/post/Df-iKWGmYBm))
+  - Photo: Description: A slender tree trunk with rough bark and sparse green foliage stands against a plain, light-colored wall, with its base resting on a concrete ledge. Photograph read: The image is vertically oriented, with even, diffuse lighting that casts minimal shadow. The tree is centered, and the background is uniformly flat. The rendering is clear enough to discern bark texture and leaf clusters, but lacks sharpness in finer details. Photo type: Documentary
+- **tallymountain**:  ([link](https://www.threads.com/@tallymountain/post/Df-iAn1kkdv))
+  - Photo: Description: A crescent moon is visible in the upper portion of the sky against a gradient background transitioning from deep blue to orange and yellow near the horizon. Photograph read: The image displays a vertical color gradient from dark blue at the top to bright orange at the bottom, with a single crescent moon positioned near the top center. The moon is small and clearly defined against the sky. The sky appears uniformly colored without visible clouds or texture. Photo type: Aesthetic gradient
+- **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
+  - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
+    - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
+- **jeangriffin8**:  ([link](https://www.threads.com/@jeangriffin8/post/Df-h0DoDhoq))
+  - Photo: Description: A yellow flower with a bee on its center is in focus, set against a blurred background of mottled gray and reddish-brown textures. Photograph read: The main subject is in focus with visible petals and bee details, while the background is out of focus. Lighting is even and natural, without obvious shadows or overexposure. Rendering appears to be a standard digital capture with no visible compression artifacts or color banding. Photo type: Natural
 - **hikingstylist**:  ([link](https://www.threads.com/@hikingstylist/post/Df-hhqtoB61))
   - Photo: Description: A frog with dark, irregularly shaped markings on a lighter background is positioned on a gravelly surface, with its head and upper body in focus and the background blurred. Photograph read: The image uses shallow depth of field, with the frog sharply rendered against a softly blurred background. Lighting appears natural and directional, casting subtle shadows and highlights on the frog’s skin and surrounding gravel. Photo type: Macro
     - Watch-outs: The frog’s eyes are partially obscured by glare, reducing clarity of the iris and pupil. The gravel surface in the foreground is out of focus, obscuring texture and individual pebbles.
