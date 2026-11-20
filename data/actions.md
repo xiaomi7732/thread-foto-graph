@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (126)
+## Needs Reply (127)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- **colleen3631**:  ([link](https://www.threads.com/@colleen3631/post/Df8lkpkkaPa))
+  - Photo: Description: The image shows a close-up of numerous white, porous, irregularly shaped rocks and fragments, with one central stone resembling a heart shape, scattered across a surface. Photograph read: The composition is tightly framed on the rocks, with bright, direct lighting casting sharp shadows. The rendering is clear and detailed, showing surface textures and pores without visible compression or noise. Photo type: Macro
 - **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df8gSAen8lQ))
   - Photo: Description: A human hand holds two small, rounded, light-colored stones against a blurred, granular background that resembles sand or gravel. Photograph read: The hand and stones are in focus, with natural, even lighting. The background is out of focus, creating a shallow depth of field. The stones’ surfaces show texture and minor imperfections, but no sharp edges or fine details are visible beyond that. Photo type: Portrait
 - **peanutbutterscotch_**: The pier! Triangles are my favorite shape ([link](https://www.threads.com/@peanutbutterscotch_/post/Df8gY6mli2B))
