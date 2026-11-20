@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (121)
+## Needs Reply (124)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df8gSAen8lQ))
@@ -24,6 +24,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **32groove**: This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist’s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces. ([link](https://www.threads.com/@32groove/post/Df8h2ojjBlV))
   - _Replying to: A ring of spikes with a hole straight through the middle - …_
+- **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
+  - _Replying to: Melancholy suits them - a beautiful late-season rose._
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
@@ -32,6 +34,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
 - **david.l.mcgee56**: In Louisville, Kentucky ([link](https://www.threads.com/@david.l.mcgee56/post/Df8hTs6mSbg))
   - _Replying to: Two trunks leaning apart like a doorway, and the bark doing…_
+- **oznatureart**: Think he's been there a while ☺️.... I think he mislaid the spaceship ([link](https://www.threads.com/@oznatureart/post/Df8jzhQCRu0))
+  - _Replying to: Round head, long limbs, boots on the ground - your spaceman…_
+- **michelpbeaudry**: It’s a seaside sleeping cabin. The main house, and other sleeping cabins are not in the picture. ([link](https://www.threads.com/@michelpbeaudry/post/Df8jYB0mzia))
+  - _Replying to: A round little house on stilts, sitting over the water like…_
 - **jglass8**: I think he rents the interior, but really prefers the top floor. ([link](https://www.threads.com/@jglass8/post/Df8gMa2FI8C))
   - _Replying to: Did something move in, or did the desert carve that window?…_
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
