@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (134)
+## Needs Reply (135)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -60,6 +60,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
+- **mummabear1963v**: Sheffield Tasmania taken july this year ([link](https://www.threads.com/@mummabear1963v/post/Df9qVJiGmSO))
+  - Photo: Description: A large, gnarled tree with thick, textured bark dominates the frame, standing in a grassy area with a person partially visible on the left. The tree’s branches spread widely, and the background includes a distant utility pole and a pale sky. Photograph read: The image is taken from a low angle, emphasizing the tree’s trunk and branching structure. Lighting is natural daylight, casting soft shadows on the ground. The rendering is clear enough to discern bark texture and surrounding vegetation, though some areas are slightly underexposed. Photo type: Natural
+  - Photo: Description: A large, gnarled tree with thick, textured bark dominates the frame, standing in a grassy area with a wooden fence and residential structures visible in the background. Photograph read: The image is a vertical shot with natural daylight illuminating the tree’s trunk and branches. The composition centers on the tree’s massive, twisted form, with background elements slightly out of focus. Rendering is clear on the tree’s bark texture, though some areas are shadowed. Photo type: Natural
+  - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
 - **reef_ausic**: Can’t agree more ([link](https://www.threads.com/@reef_ausic/post/Df89WVZI6xt))
   - _Replying to: Mid-bloom is the perfect moment to catch it._
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
