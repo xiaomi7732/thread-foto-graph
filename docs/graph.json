@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 312,
+      "reply_count": 315,
       "replies": [
+        {
+          "username": "seeblk",
+          "text": "",
+          "permalink": "https://www.threads.com/@seeblk/post/Df-UhndlQLm",
+          "photos": [
+            "Description: A close-up shows the upper portion of a purple thistle flower with spiky green bracts, positioned in the lower-left corner against a uniformly blurred green background. Photograph read: The subject is in focus with visible texture, but the background is uniformly out of focus. Lighting is even and diffused, with no harsh shadows or highlights. The image has a shallow depth of field, with the subject sharply defined against a smooth, non-textured background. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The background is uniformly blurred, obscuring any contextual detail. The subject\u2019s spiky bracts and fine filaments are visible but not sharply resolved in the uppermost part of the flower head."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "cynthj1964",
+          "text": "",
+          "permalink": "https://www.threads.com/@cynthj1964/post/Df-UMeVkmzu",
+          "photos": [
+            "Description: A smooth, heart-shaped stone rests on dry, brown soil mixed with scattered dry plant debris and small twigs. Photograph read: The image is taken from a top-down perspective with direct, harsh lighting casting strong shadows. The stone is in focus, but the surrounding ground shows some texture detail. The overall image has a warm color cast and moderate contrast. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "annette7926",
           "text": "",
@@ -2315,7 +2342,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dougsphotomission",
+                  "text": "As I recall just sitting, but this was from a while ago.",
+                  "permalink": "https://www.threads.com/@dougsphotomission/post/Df-UfmAkgNK",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

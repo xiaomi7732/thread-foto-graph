@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (179)
+## Needs Reply (182)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **seeblk**:  ([link](https://www.threads.com/@seeblk/post/Df-UhndlQLm))
+  - Photo: Description: A close-up shows the upper portion of a purple thistle flower with spiky green bracts, positioned in the lower-left corner against a uniformly blurred green background. Photograph read: The subject is in focus with visible texture, but the background is uniformly out of focus. Lighting is even and diffused, with no harsh shadows or highlights. The image has a shallow depth of field, with the subject sharply defined against a smooth, non-textured background. Photo type: Macro
+    - Watch-outs: The background is uniformly blurred, obscuring any contextual detail. The subject’s spiky bracts and fine filaments are visible but not sharply resolved in the uppermost part of the flower head.
+- **cynthj1964**:  ([link](https://www.threads.com/@cynthj1964/post/Df-UMeVkmzu))
+  - Photo: Description: A smooth, heart-shaped stone rests on dry, brown soil mixed with scattered dry plant debris and small twigs. Photograph read: The image is taken from a top-down perspective with direct, harsh lighting casting strong shadows. The stone is in focus, but the surrounding ground shows some texture detail. The overall image has a warm color cast and moderate contrast. Photo type: Natural
 - **annette7926**:  ([link](https://www.threads.com/@annette7926/post/Df-T8aukRMU))
   - Photo: Description: A close-up, black-and-white image features a rounded, textured object resting on granular ground, with a blurred background of indistinct shapes and terrain. Photograph read: The image is rendered in monochrome with visible grain. The main subject is in focus but shows surface texture and subtle shadows; the background is uniformly out of focus, with no discernible features. Lighting appears even, casting soft shadows on the object’s surface. Photo type: Natural
     - Watch-outs: The background is heavily blurred, obscuring any identifiable environmental context. The foreground object’s surface texture is partially obscured by visible grain, limiting fine detail readability.
@@ -119,6 +124,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A grasshopper pressed against the glass like it is reading …_
 - **lewishblove**: His leg is tucked up underneath him, not broken. ([link](https://www.threads.com/@lewishblove/post/Df-PAmZFtvO))
   - _Replying to: Nope, stayed for a good while. I didn't have my phone when …_
+- **dougsphotomission**: As I recall just sitting, but this was from a while ago. ([link](https://www.threads.com/@dougsphotomission/post/Df-UfmAkgNK))
+  - _Replying to: Four wires, one bird, and it picked the one with the best v…_
 - **srravi**: Many thanks 😊 again 🙏 ([link](https://www.threads.com/@srravi/post/Df-LN17kpwd))
   - _Replying to: Those long legs doubled in the still water - a lovely pair …_
 - **debdipmaitra**:  ([link](https://www.threads.com/@debdipmaitra/post/Df980dAmGeX))
