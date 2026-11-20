@@ -13,8 +13,62 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 345,
+      "reply_count": 349,
       "replies": [
+        {
+          "username": "iainriggs",
+          "text": "",
+          "permalink": "https://www.threads.com/@iainriggs/post/Df-cAtxEu9W",
+          "photos": [
+            "Description: A lone figure walks along a wet shoreline at the edge of the ocean under a vast, softly clouded sky, with the horizon dividing the sea and sky in a muted gradient. Photograph read: The composition is horizontal, with the figure centered near the lower third. Lighting is diffuse and even, suggesting twilight or overcast conditions. The image has a uniform color palette with soft transitions and no visible sharpness or contrast extremes. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "janlanrn",
+          "text": "",
+          "permalink": "https://www.threads.com/@janlanrn/post/Df-b3q6Fr9e",
+          "photos": [
+            "Description: A squirrel with a gray back and reddish-brown underparts sits atop a weathered wooden post, holding a nut or seed in its paws and appearing to eat it, with a background of tangled, leafless branches. Photograph read: The image is captured with a shallow depth of field, resulting in the squirrel being in focus while the background is blurred. Lighting is diffuse and even, without harsh shadows or highlights. The image has a natural color palette and moderate resolution, with visible wood grain and fur texture. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bitchatarian",
+          "text": "",
+          "permalink": "https://www.threads.com/@bitchatarian/post/Df-bq-SnKZ5",
+          "photos": [
+            "Description: A cat with light-colored fur, dark facial markings, and blue eyes rests its head and front paw on a red upholstered object against a dark background. Photograph read: The image is composed with the cat as the central subject, illuminated against a black background. Lighting highlights the cat\u2019s face and paw, while the red object is uniformly lit. The image exhibits soft focus, particularly on the cat\u2019s body and background, with minimal visible sharpness on the subject\u2019s features. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The cat\u2019s body and background are visibly out of focus, reducing detail clarity. The cat\u2019s facial features, while somewhat discernible, are not sharply defined due to the shallow depth of field and soft focus."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "olivaexpat",
+          "text": "Similar to yours",
+          "permalink": "https://www.threads.com/@olivaexpat/post/Df-biSyAOAZ",
+          "photos": [
+            "Description: A single water droplet hangs from the tip of a green plant stem, with a blurred green background. The droplet reflects a distorted, indistinct scene. Photograph read: The image is a close-up with shallow depth of field, focusing on the droplet and stem. Lighting is even and diffused, illuminating the droplet\u2019s surface. The background is uniformly out of focus, with no discernible features. The droplet\u2019s surface shows a clear, albeit distorted, reflection. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The droplet\u2019s reflection is indistinct, obscuring any readable detail within it. The stem\u2019s tip shows a darkened, slightly damaged area, but no visible texture or structure beyond that."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "rukhsa_macroflowers",
           "text": "",
@@ -4363,7 +4417,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 404,
+      "reply_count": 405,
       "replies": [
         {
           "username": "khoojosie",
@@ -5094,7 +5148,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "chicken_poop_shoes_",
+                          "text": "Thank you",
+                          "permalink": "https://www.threads.com/@chicken_poop_shoes_/post/Df-bwhMo-wo",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

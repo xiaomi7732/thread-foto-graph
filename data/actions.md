@@ -6,9 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (212)
+## Needs Reply (216)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **iainriggs**:  ([link](https://www.threads.com/@iainriggs/post/Df-cAtxEu9W))
+  - Photo: Description: A lone figure walks along a wet shoreline at the edge of the ocean under a vast, softly clouded sky, with the horizon dividing the sea and sky in a muted gradient. Photograph read: The composition is horizontal, with the figure centered near the lower third. Lighting is diffuse and even, suggesting twilight or overcast conditions. The image has a uniform color palette with soft transitions and no visible sharpness or contrast extremes. Photo type: Landscape
+- **janlanrn**:  ([link](https://www.threads.com/@janlanrn/post/Df-b3q6Fr9e))
+  - Photo: Description: A squirrel with a gray back and reddish-brown underparts sits atop a weathered wooden post, holding a nut or seed in its paws and appearing to eat it, with a background of tangled, leafless branches. Photograph read: The image is captured with a shallow depth of field, resulting in the squirrel being in focus while the background is blurred. Lighting is diffuse and even, without harsh shadows or highlights. The image has a natural color palette and moderate resolution, with visible wood grain and fur texture. Photo type: Natural
+- **bitchatarian**:  ([link](https://www.threads.com/@bitchatarian/post/Df-bq-SnKZ5))
+  - Photo: Description: A cat with light-colored fur, dark facial markings, and blue eyes rests its head and front paw on a red upholstered object against a dark background. Photograph read: The image is composed with the cat as the central subject, illuminated against a black background. Lighting highlights the cat’s face and paw, while the red object is uniformly lit. The image exhibits soft focus, particularly on the cat’s body and background, with minimal visible sharpness on the subject’s features. Photo type: Portrait
+    - Watch-outs: The cat’s body and background are visibly out of focus, reducing detail clarity. The cat’s facial features, while somewhat discernible, are not sharply defined due to the shallow depth of field and soft focus.
+- **olivaexpat**: Similar to yours ([link](https://www.threads.com/@olivaexpat/post/Df-biSyAOAZ))
+  - Photo: Description: A single water droplet hangs from the tip of a green plant stem, with a blurred green background. The droplet reflects a distorted, indistinct scene. Photograph read: The image is a close-up with shallow depth of field, focusing on the droplet and stem. Lighting is even and diffused, illuminating the droplet’s surface. The background is uniformly out of focus, with no discernible features. The droplet’s surface shows a clear, albeit distorted, reflection. Photo type: Macro
+    - Watch-outs: The droplet’s reflection is indistinct, obscuring any readable detail within it. The stem’s tip shows a darkened, slightly damaged area, but no visible texture or structure beyond that.
 - **rukhsa_macroflowers**:  ([link](https://www.threads.com/@rukhsa_macroflowers/post/Df-a8XjigUn))
   - Photo: Description: A close-up shows a dark, textured, berry-like cluster emerging from a pale, leafy structure atop a rough, dark branch, with a soft, out-of-focus background. Photograph read: The image features shallow depth of field, with the main subject in focus and the background blurred. A bright lens flare is visible near the branch, and the lighting appears warm and directional. The subject’s surface texture and the cluster’s granular details are visible, though not sharply defined. Photo type: Macro
 - **carakunzart**:  ([link](https://www.threads.com/@carakunzart/post/Df-aru_ICiD))
@@ -553,7 +563,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (43)
+## Needs Like (44)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
@@ -564,6 +574,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - elobernstein: 😊 ([link](https://www.threads.com/@elobernstein/post/Df98Dh7GxBh))
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
+- chicken_poop_shoes_: Thank you ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df-bwhMo-wo))
 - jane_st_pics: They did!! ([link](https://www.threads.com/@jane_st_pics/post/Df9cojekfrM))
 - dhinie_behboodzadeh: Yes ([link](https://www.threads.com/@dhinie_behboodzadeh/post/Df89BcFCgKh))
 - beckiefitzgerald: For sure! ([link](https://www.threads.com/@beckiefitzgerald/post/Df7-rFGD42M))
