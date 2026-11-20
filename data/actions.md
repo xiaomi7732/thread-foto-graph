@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (218)
+## Needs Reply (223)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **abejaah**:  ([link](https://www.threads.com/@abejaah/post/Df-y5g0jxZL))
+  - Photo: Description: Two small, yellow-capped mushrooms with orange stems emerge from a dark, textured tree trunk, with some white and brown fungal growth visible nearby. Photograph read: The image is a close-up with shallow depth of field, focusing on the mushrooms. Lighting is even and natural, illuminating the subjects without harsh shadows. The background is softly blurred, and the mushrooms are in sharp focus relative to the surroundings. Photo type: Macro
+- **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/Df-yqHAE0Cg))
+  - Photo: Description: A Philippine flag flies at half-mast on a tall pole against a cloudy sky, with additional flags and palm trees visible in the background, along with shipping containers and vehicles. Photograph read: The image is taken from a low angle, with the flagpole dominating the center-right. Lighting is diffuse and even due to overcast conditions. The sky is uniformly gray and white, with no visible shadows or highlights. The flag and pole are in focus, but background elements are less sharp. Photo type: Documentary
+- **sarigny73**:  ([link](https://www.threads.com/@sarigny73/post/Df-yl1jmqTx))
+  - Photo: Description: A sun setting behind distant mountain ridges, casting warm light across a grassy field in the foreground, with autumn-colored trees and a small building visible in the midground. Photograph read: The sun is positioned low on the horizon, creating a bright glare with lens flare visible in the foreground. The sky transitions from blue to orange near the horizon. The foreground grass is in sharp focus, while the midground trees and distant mountains show gradual atmospheric haze. Photo type: Landscape
 - **grassybranch**:  ([link](https://www.threads.com/@grassybranch/post/Df-yMHQjk-B))
   - Photo: Description: A bright green frog is perched on the rim of a terracotta pot, with a striped ball and a yellow-handled tool visible inside the pot. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The frog is in focus, but the background and interior of the pot are less sharp. The composition centers the frog against the pot’s curved rim. Photo type: Portrait
 - **docnyberg**:  ([link](https://www.threads.com/@docnyberg/post/Df-yHenEdqj))
@@ -88,6 +94,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Vertical lines and one bright band of light, like the build…_
 - **krisanewman**: I have. But not oft. ([link](https://www.threads.com/@krisanewman/post/Df-s71ymz6t))
   - _Replying to: A bare tree and a bench by a frozen lake, with the sky taki…_
+- **runarstoreide**: That is actually a kevlar rope/line hauling ocean bottom seismic nodes up from 1200 meters deep. ([link](https://www.threads.com/@runarstoreide/post/Df-yuZOjdbU))
+  - _Replying to: One yellow rod across the frame, with the lights gone soft …_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
 - **sheilasphoto**: Here’s the EXIF. Around 10 am Autumn at Mona Vale Beach, Sydney, Australia. ([link](https://www.threads.com/@sheilasphoto/post/Df-ud10Ez5r))
@@ -97,6 +105,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Caught mid-flight, wings out and all - that is a lucky fram…_
 - **thecorktraveller**: It’s a Common Puffball. ([link](https://www.threads.com/@thecorktraveller/post/Df-uHIiiHLX))
   - _Replying to: A mushroom cap covered in white bumps, like it is wearing i…_
+- **aimeeday5883**: I was Lying down in the grass taking a rest ([link](https://www.threads.com/@aimeeday5883/post/Df-y-UugW-c))
+  - _Replying to: Mostly sky, a little grass, and the clouds doing the talkin…_
 - **0lindar**: One earring (it’s one of those insert and wear forever types)… mature skin and the shadows of B&W seemed more interesting ([link](https://www.threads.com/@0lindar/post/Df-sccbnAAC))
   - _Replying to: An ear, two earrings, and nothing else competing for attent…_
 - **newsie12**: No, I just turned as I walked past and saw it and had to capture it. I think of people I’ve lost and would like to sit there with and talk whenever I flip passed the image. ([link](https://www.threads.com/@newsie12/post/Df-uIUXlGwr))
