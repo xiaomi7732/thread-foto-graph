@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (201)
+## Needs Reply (204)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **life.as.art**: In the Namib Desert, sunrise ([link](https://www.threads.com/@life.as.art/post/Df-ZKtWIPcn))
+  - Photo: Description: A solitary, leafless tree stands in silhouette against a gradient sky at sunrise or sunset, with layered mountain ranges receding into the horizon over a flat, dark foreground. Photograph read: The tree and foreground are rendered as dark silhouettes, with the sky transitioning from a warm yellow-orange near the horizon to a cooler blue-gray above. The distant mountains are softly defined by atmospheric haze. The foreground terrain shows minimal texture detail. Photo type: Landscape
+- **skriege2**: He sadly froze to my garage door sensor! ([link](https://www.threads.com/@skriege2/post/Df-ZBHvmW6U))
+  - Photo: Description: A small bird, likely a hummingbird, is perched upside down on a thin, curved wire against a light-colored vertical surface, with a pipe and a teal-colored structural element visible in the frame. Photograph read: The image is taken at a diagonal angle, with moderate lighting that casts soft shadows. The bird’s feathers appear somewhat disheveled and out of focus, and the wire is slightly blurred. The background consists of vertical siding and structural elements, with no visible signs of motion blur or lens distortion. Photo type: Natural
+    - Watch-outs: The bird’s head and beak are indistinct due to shallow depth of field and lack of sharp focus. The bird’s body shows visible feather texture but lacks fine detail, particularly around the eye and wing feathers.
+- **clmharper**:  ([link](https://www.threads.com/@clmharper/post/Df-YyADG0js))
+  - Photo: Description: A red squirrel with a bushy tail is perched on a moss-covered branch, holding and eating a small object, with a softly blurred natural background. Photograph read: The subject is in sharp focus, with even lighting and natural color rendering. The background exhibits a smooth bokeh effect, indicating a shallow depth of field. The image is well-exposed and free of visible noise or color banding. Photo type: Portrait
 - **picsall**:  ([link](https://www.threads.com/@picsall/post/Df-YM9QkiaK))
   - Photo: Description: A small, single-engine propeller aircraft is visible in mid-flight against a clear blue sky, with a low, hazy mountain range at the bottom edge of the frame. Photograph read: The image is composed with the aircraft centered horizontally in the upper third, set against a vast, uniformly blue sky with minimal cloud. Lighting is bright and even, suggesting daylight conditions. The rendering is clean, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Aerial
 - **seniorfitgal**:  ([link](https://www.threads.com/@seniorfitgal/post/Df-XZthH__W))

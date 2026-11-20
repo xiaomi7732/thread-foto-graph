@@ -13,8 +13,47 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 334,
+      "reply_count": 337,
       "replies": [
+        {
+          "username": "life.as.art",
+          "text": "In the Namib Desert, sunrise",
+          "permalink": "https://www.threads.com/@life.as.art/post/Df-ZKtWIPcn",
+          "photos": [
+            "Description: A solitary, leafless tree stands in silhouette against a gradient sky at sunrise or sunset, with layered mountain ranges receding into the horizon over a flat, dark foreground. Photograph read: The tree and foreground are rendered as dark silhouettes, with the sky transitioning from a warm yellow-orange near the horizon to a cooler blue-gray above. The distant mountains are softly defined by atmospheric haze. The foreground terrain shows minimal texture detail. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "skriege2",
+          "text": "He sadly froze to my garage door sensor!",
+          "permalink": "https://www.threads.com/@skriege2/post/Df-ZBHvmW6U",
+          "photos": [
+            "Description: A small bird, likely a hummingbird, is perched upside down on a thin, curved wire against a light-colored vertical surface, with a pipe and a teal-colored structural element visible in the frame. Photograph read: The image is taken at a diagonal angle, with moderate lighting that casts soft shadows. The bird\u2019s feathers appear somewhat disheveled and out of focus, and the wire is slightly blurred. The background consists of vertical siding and structural elements, with no visible signs of motion blur or lens distortion. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "The bird\u2019s head and beak are indistinct due to shallow depth of field and lack of sharp focus. The bird\u2019s body shows visible feather texture but lacks fine detail, particularly around the eye and wing feathers."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "clmharper",
+          "text": "",
+          "permalink": "https://www.threads.com/@clmharper/post/Df-YyADG0js",
+          "photos": [
+            "Description: A red squirrel with a bushy tail is perched on a moss-covered branch, holding and eating a small object, with a softly blurred natural background. Photograph read: The subject is in sharp focus, with even lighting and natural color rendering. The background exhibits a smooth bokeh effect, indicating a shallow depth of field. The image is well-exposed and free of visible noise or color banding. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "picsall",
           "text": "",
