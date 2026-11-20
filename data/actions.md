@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (237)
+## Needs Reply (240)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **hikingstylist**:  ([link](https://www.threads.com/@hikingstylist/post/Df-hhqtoB61))
+  - Photo: Description: A frog with dark, irregularly shaped markings on a lighter background is positioned on a gravelly surface, with its head and upper body in focus and the background blurred. Photograph read: The image uses shallow depth of field, with the frog sharply rendered against a softly blurred background. Lighting appears natural and directional, casting subtle shadows and highlights on the frog’s skin and surrounding gravel. Photo type: Macro
+    - Watch-outs: The frog’s eyes are partially obscured by glare, reducing clarity of the iris and pupil. The gravel surface in the foreground is out of focus, obscuring texture and individual pebbles.
+- **lerwin54**:  ([link](https://www.threads.com/@lerwin54/post/Df-hOnhFroa))
+  - Photo: Description: The image shows a wide expanse of water under a bright sky with scattered clouds, with a tree-lined shoreline in the distance and a few small boats visible on the water. Photograph read: The scene is captured from a vantage point on a moving or stationary vessel, with the sun high and creating specular highlights on the water surface. The horizon is clear, and the sky is mostly blue with white clouds. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Natural landscape
+- **kevintrendell**: Rhubi + Beach = Love ([link](https://www.threads.com/@kevintrendell/post/Df-hMdSmRs1))
+  - Photo: Description: A black and white dog is walking across a flat, wet surface, possibly a beach or tidal flat, with a small red object nearby. The background consists of layered horizontal bands of muted blue and gray tones. Photograph read: The image has a uniform, low-contrast appearance with horizontal banding across the entire frame. The dog is centrally located but appears somewhat indistinct due to motion blur or soft focus. Lighting is diffuse and even, with no strong directional highlights or shadows. Photo type: Unclear
+    - Watch-outs: The dog’s features are blurred and lack sharp definition, making specific details indiscernible. The entire image exhibits horizontal banding, which obscures fine texture and detail across the scene.
 - **hahn_nancy**:  ([link](https://www.threads.com/@hahn_nancy/post/Df-hDyWlTig))
   - Photo: Description: A metallic spoon with ornate, leaf-like engraving on its bowl and handle lies diagonally across a light-colored fabric with horizontal red and blue stripes. Photograph read: The image is evenly lit with soft, diffuse illumination. The spoon’s surface reflects light, showing some tarnish and wear. The fabric’s texture and stripes are visible, but the image lacks sharpness, with fine details of the spoon’s engraving appearing slightly soft. Photo type: Still life
     - Watch-outs: The spoon’s engraved details are slightly blurred, reducing the visibility of fine patterns. The handle’s lower end shows a dark, worn area that obscures part of the design.

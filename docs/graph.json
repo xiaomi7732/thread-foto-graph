@@ -13,8 +13,50 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 368,
+      "reply_count": 371,
       "replies": [
+        {
+          "username": "hikingstylist",
+          "text": "",
+          "permalink": "https://www.threads.com/@hikingstylist/post/Df-hhqtoB61",
+          "photos": [
+            "Description: A frog with dark, irregularly shaped markings on a lighter background is positioned on a gravelly surface, with its head and upper body in focus and the background blurred. Photograph read: The image uses shallow depth of field, with the frog sharply rendered against a softly blurred background. Lighting appears natural and directional, casting subtle shadows and highlights on the frog\u2019s skin and surrounding gravel. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The frog\u2019s eyes are partially obscured by glare, reducing clarity of the iris and pupil. The gravel surface in the foreground is out of focus, obscuring texture and individual pebbles."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lerwin54",
+          "text": "",
+          "permalink": "https://www.threads.com/@lerwin54/post/Df-hOnhFroa",
+          "photos": [
+            "Description: The image shows a wide expanse of water under a bright sky with scattered clouds, with a tree-lined shoreline in the distance and a few small boats visible on the water. Photograph read: The scene is captured from a vantage point on a moving or stationary vessel, with the sun high and creating specular highlights on the water surface. The horizon is clear, and the sky is mostly blue with white clouds. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kevintrendell",
+          "text": "Rhubi + Beach = Love",
+          "permalink": "https://www.threads.com/@kevintrendell/post/Df-hMdSmRs1",
+          "photos": [
+            "Description: A black and white dog is walking across a flat, wet surface, possibly a beach or tidal flat, with a small red object nearby. The background consists of layered horizontal bands of muted blue and gray tones. Photograph read: The image has a uniform, low-contrast appearance with horizontal banding across the entire frame. The dog is centrally located but appears somewhat indistinct due to motion blur or soft focus. Lighting is diffuse and even, with no strong directional highlights or shadows. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "The dog\u2019s features are blurred and lack sharp definition, making specific details indiscernible. The entire image exhibits horizontal banding, which obscures fine texture and detail across the scene."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hahn_nancy",
           "text": "",
