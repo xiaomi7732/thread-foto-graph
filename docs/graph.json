@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 147,
+      "reply_count": 150,
       "replies": [
+        {
+          "username": "ssquiresc1290",
+          "text": "",
+          "permalink": "https://www.threads.com/@ssquiresc1290/post/Df-HDVImvxl",
+          "photos": [
+            "Description: The photograph shows a low-angle view of multiple power lines and insulators silhouetted against a cloudy sky, with white clouds scattered across a dark gray background. Photograph read: The composition is dominated by diagonal and intersecting lines of power cables, with insulators visible along them. The sky is rendered in muted tones, with clouds appearing as bright patches against a darker expanse. The image has a monochrome or desaturated color palette and lacks visible color information. Photo type: Architectural/Infrastructure"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "unmitigatedme",
+          "text": "",
+          "permalink": "https://www.threads.com/@unmitigatedme/post/Df-HDZom_Kt",
+          "photos": [
+            "Description: A small, glossy toy soldier figurine stands on a flat surface against a textured, muted wall. The figurine is dark with red and metallic highlights and has a small loop at the top. Photograph read: The image is dimly lit with a shallow depth of field, causing the background wall to appear soft and textured while the figurine is relatively in focus. The lighting casts a shadow behind the figurine, and the overall image has a slightly grainy appearance. Photo type: Still Life"
+          ],
+          "watch_outs": [
+            "The figurine\u2019s facial features and finer details are indistinct due to low contrast and limited lighting. The background wall\u2019s texture is visible but lacks sharp definition, reducing contextual clarity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "bumpy120",
           "text": "",
@@ -848,7 +875,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dianelynnturnbull",
+                  "text": "It wasn't alive but too beautiful to pass by.",
+                  "permalink": "https://www.threads.com/@dianelynnturnbull/post/Df-HQrplEj0",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

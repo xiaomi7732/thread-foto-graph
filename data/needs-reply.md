@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (181)
+## Needs Reply (184)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ssquiresc1290**:  ([link](https://www.threads.com/@ssquiresc1290/post/Df-HDVImvxl))
+  - Photo: Description: The photograph shows a low-angle view of multiple power lines and insulators silhouetted against a cloudy sky, with white clouds scattered across a dark gray background. Photograph read: The composition is dominated by diagonal and intersecting lines of power cables, with insulators visible along them. The sky is rendered in muted tones, with clouds appearing as bright patches against a darker expanse. The image has a monochrome or desaturated color palette and lacks visible color information. Photo type: Architectural/Infrastructure
+- **unmitigatedme**:  ([link](https://www.threads.com/@unmitigatedme/post/Df-HDZom_Kt))
+  - Photo: Description: A small, glossy toy soldier figurine stands on a flat surface against a textured, muted wall. The figurine is dark with red and metallic highlights and has a small loop at the top. Photograph read: The image is dimly lit with a shallow depth of field, causing the background wall to appear soft and textured while the figurine is relatively in focus. The lighting casts a shadow behind the figurine, and the overall image has a slightly grainy appearance. Photo type: Still Life
+    - Watch-outs: The figurine’s facial features and finer details are indistinct due to low contrast and limited lighting. The background wall’s texture is visible but lacks sharp definition, reducing contextual clarity.
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/Df-Gq5mFaUI))
   - Photo: Description: A ladybug with orange elytra and black spots rests on a green leaf, viewed from above with its head and legs visible. Photograph read: The image is in focus with even lighting, capturing fine surface texture of the leaf and the ladybug’s shell. The composition centers the insect, with natural leaf veins and minor surface imperfections visible. Photo type: Macro
 - **pennyhay83**:  ([link](https://www.threads.com/@pennyhay83/post/Df-GovYmr32))
@@ -90,6 +95,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The reflection doubles the legs and somehow makes the bird …_
 - **difishing**: Yes thats why he whipped around. Smelled where i walked in ([link](https://www.threads.com/@difishing/post/Df-DOv9FARr))
   - _Replying to: Mid-stride and already halfway out of the frame - I think t…_
+- **dianelynnturnbull**: It wasn't alive but too beautiful to pass by. ([link](https://www.threads.com/@dianelynnturnbull/post/Df-HQrplEj0))
+  - _Replying to: Those wings, still perfect against the wet ground. Was it a…_
 - **luvsravens59**: I’m always looking at the sky and things around me. ([link](https://www.threads.com/@luvsravens59/post/Df-DuMbJQ0_))
   - _Replying to: A half moon and two contrails crossing like a quiet X in th…_
 - **vidarhaaby**: She was just passing ([link](https://www.threads.com/@vidarhaaby/post/Df-C7MKiLol))
