@@ -4,12 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (134)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
 - **akmaleky**: Finally I got featured. Thank you 😍 ([link](https://www.threads.com/@akmaleky/post/Df9YbWlGvXs))
   - _Replying to: @akmaleky Your pipes are slide two of the Shaped Thursday f…_
+- **smilingjeannie**: Thank you for the recognition. These two leaves had fallen and landed as photographed - another reason they caught my eye was the simplicity of the composition. ([link](https://www.threads.com/@smilingjeannie/post/Df9oWnJm5q8))
+  - _Replying to: @smilingjeannie Your ginkgo fans are the middle slide of th…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df9lCYsFv8t))
