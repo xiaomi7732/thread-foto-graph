@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (136)
+## Needs Reply (138)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/Df8xwTxHMoE))
@@ -21,6 +21,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A human hand holds two small, rounded, light-colored stones against a blurred, granular background that resembles sand or gravel. Photograph read: The hand and stones are in focus, with natural, even lighting. The background is out of focus, creating a shallow depth of field. The stones’ surfaces show texture and minor imperfections, but no sharp edges or fine details are visible beyond that. Photo type: Portrait
 - **peanutbutterscotch_**: The pier! Triangles are my favorite shape ([link](https://www.threads.com/@peanutbutterscotch_/post/Df8gY6mli2B))
   - _Replying to: Venice bends the whole scene into a curve. Then the pier cu…_
+- **raijapoignand**: The gap is the shape of a heart 🤍 ([link](https://www.threads.com/@raijapoignand/post/Df8z6HNGVgw))
+  - _Replying to: Is that a heart showing through the leaves, or am I wishing…_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
   - _Replying to: (photo reply, no text)_
 - **galveston_walkabout**: They were all settled in for the night . ([link](https://www.threads.com/@galveston_walkabout/post/Df8hLaqpVE_))
@@ -146,6 +148,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **donzela**:  ([link](https://www.threads.com/@donzela/post/Df6WHEbEVfn))
   - Photo: Description: The photograph shows a tall building illuminated by warm, low-angle light, viewed through the silhouettes of tree branches in the foreground. The sky is hazy and uniformly lit, suggesting twilight or dawn. Photograph read: The composition is framed by dark, leafy branches in the foreground, with the building and a bright light source (likely the sun) behind them. The building’s windows reflect or emit light, creating a pattern of glowing points. The image has a soft, hazy quality, with no visible sharpness or defined focus. Photo type: Urban silhouette
     - Watch-outs: - Foreground foliage obscures significant portions of the building, reducing visible detail on its facade. - The bright light source is overexposed, causing a glare that washes out surrounding areas and reduces contrast in the midground.
+- **alaska.photographer**: This is a reflection of the grebe and baby. This is cropped from a wider shot with my 400mm. ([link](https://www.threads.com/@alaska.photographer/post/Df80PVCm8hm))
+  - _Replying to: Is the grebe upside down, or did you flip the frame? The re…_
 - **katnealey**: Yes the mirror was the plan. ([link](https://www.threads.com/@katnealey/post/Df7i5NqpV0A))
   - _Replying to: The gold trees do all the talking in the glass, and the dir…_
 - **bluntnelson**: Dusk sky from outside. ([link](https://www.threads.com/@bluntnelson/post/Df8F4-mD2Az))

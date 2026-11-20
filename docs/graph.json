@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 321,
+      "reply_count": 322,
       "replies": [
         {
           "username": "amy.salt",
@@ -187,7 +187,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "raijapoignand",
+                  "text": "The gap is the shape of a heart \ud83e\udd0d",
+                  "permalink": "https://www.threads.com/@raijapoignand/post/Df8z6HNGVgw",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3856,7 +3867,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 523,
+      "reply_count": 524,
       "replies": [
         {
           "username": "tim22974",
@@ -4761,7 +4772,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "alaska.photographer",
+                  "text": "This is a reflection of the grebe and baby. This is cropped from a wider shot with my 400mm.",
+                  "permalink": "https://www.threads.com/@alaska.photographer/post/Df80PVCm8hm",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
