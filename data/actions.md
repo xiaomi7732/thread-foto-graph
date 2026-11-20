@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (241)
+## Needs Reply (247)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **loeswevers**:  ([link](https://www.threads.com/@loeswevers/post/Df-3NIBkZL8))
+  - Photo: Description: A single kite with black, white, and red sections and long white tails flies against a clear blue sky. The kite is positioned slightly off-center, with a thin string extending from it toward the right edge of the frame. Photograph read: The image is composed with the kite as the sole subject against a uniform blue background. Lighting is even and bright, suggesting direct daylight. The rendering is sharp enough to distinguish the kite’s colors and tail shapes, with no visible signs of motion blur or compression artifacts. Photo type: Aerial subject
+- **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
+  - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro
+- **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-24VTGIyH))
+  - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The image is a shallow depth-of-field macro shot with the bud and droplet in focus, set against a blurred, dark background. Lighting is subdued, illuminating the bud’s surface and the droplet’s curvature, with no visible flash or harsh shadows. Photo type: Macro
+    - Watch-outs: The bud’s surface shows minimal texture detail due to soft focus and low contrast. The droplet’s surface is smooth and reflective, but lacks visible internal structure or microtexture.
 - **dontmfpanic**:  ([link](https://www.threads.com/@dontmfpanic/post/Df-2YR1GQRk))
   - Photo: Description: A white seagull with a red beak and legs stands on wet sand near a shallow pool of water, with its reflection visible in the puddle. Photograph read: The image is captured in natural daylight with moderate contrast; the seagull is in focus, but the background shows soft, diffuse texture. The water’s surface reflects the bird’s lower body and legs, creating a distorted, elongated image. The sand and water exhibit natural gradients and subtle ripples. Photo type: Natural
 - **riverrock608**: One photo is a hard choice. ([link](https://www.threads.com/@riverrock608/post/Df-1nbiER4g))
@@ -146,6 +153,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
+- **lerwin54**: Boating on the St. Croix River. ([link](https://www.threads.com/@lerwin54/post/Df-2gZ_jBJ7))
+  - _Replying to: (photo reply, no text)_
 - **kevintrendell**: Sometimes she is distracted. When she is locked in I can throw the ball 100 times and she will chase it like a rocket and return to show me she has it. Sometimes there is a detour to the water and she will drop it in the shallows to wash it off before returning 😎❤️ ([link](https://www.threads.com/@kevintrendell/post/Df-tQQEGSoV))
   - _Replying to: Rhubi out in the shallows with a red ball for company - tha…_
 - **lynnpearcephotographer**: Probably Jan Mayen, as it is an uninhabited island, except for a small group of geologists greeting us the morning we arrived. Fiercely cold and windy, even the seabirds had taken shelter leaving a disarming stillness. Thanks for the question. 🙏🏼 ([link](https://www.threads.com/@lynnpearcephotographer/post/Df-uSmLkTu4))
@@ -159,6 +168,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One dancer in a single spotlight, with the whole dark stage…_
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
+- **ronaldstamant**: That farm is a hay field. So a few weeks before it was rolls and rolls ([link](https://www.threads.com/@ronaldstamant/post/Df-2gdQG_Ut))
+  - _Replying to: A tilled field going all the way to the trees, with a fence…_
 - **carakunzart**: We were leaving the Grand Canyon and heading to California. ([link](https://www.threads.com/@carakunzart/post/Df-tFADHzr7))
   - _Replying to: All that empty desert, and the signpost still gets the last…_
 - **mrs.trellis**: Trees, trees and more trees! ([link](https://www.threads.com/@mrs.trellis/post/Df-1z43Gzu2))
@@ -211,6 +222,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One rower in the mist, and the water barely awake. What tim…_
 - **papi857**: The red against a mostly beige storefront with just this one lamp ([link](https://www.threads.com/@papi857/post/Df-tLzNFAap))
   - _Replying to: I have seen the light - and it is bright red, curled over t…_
+- **rscottcarlson**: A bird? A lizard? Or more likely nothing. 😂 ([link](https://www.threads.com/@rscottcarlson/post/Df-2mP9jO-X))
+  - _Replying to: An orange cat on a wall, looking off at something only cats…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
   - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))

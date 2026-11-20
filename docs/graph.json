@@ -13,8 +13,47 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 626,
+      "reply_count": 632,
       "replies": [
+        {
+          "username": "loeswevers",
+          "text": "",
+          "permalink": "https://www.threads.com/@loeswevers/post/Df-3NIBkZL8",
+          "photos": [
+            "Description: A single kite with black, white, and red sections and long white tails flies against a clear blue sky. The kite is positioned slightly off-center, with a thin string extending from it toward the right edge of the frame. Photograph read: The image is composed with the kite as the sole subject against a uniform blue background. Lighting is even and bright, suggesting direct daylight. The rendering is sharp enough to distinguish the kite\u2019s colors and tail shapes, with no visible signs of motion blur or compression artifacts. Photo type: Aerial subject"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "alangray490",
+          "text": "",
+          "permalink": "https://www.threads.com/@alangray490/post/Df-3EEUGDZT",
+          "photos": [
+            "Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "alangray490",
+          "text": "",
+          "permalink": "https://www.threads.com/@alangray490/post/Df-24VTGIyH",
+          "photos": [
+            "Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The image is a shallow depth-of-field macro shot with the bud and droplet in focus, set against a blurred, dark background. Lighting is subdued, illuminating the bud\u2019s surface and the droplet\u2019s curvature, with no visible flash or harsh shadows. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The bud\u2019s surface shows minimal texture detail due to soft focus and low contrast. The droplet\u2019s surface is smooth and reflective, but lacks visible internal structure or microtexture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dontmfpanic",
           "text": "",
@@ -1493,6 +1532,16 @@
           "hidden": false,
           "replies": [
             {
+              "username": "lerwin54",
+              "text": "Boating on the St. Croix River.",
+              "permalink": "https://www.threads.com/@lerwin54/post/Df-2gZ_jBJ7",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
+            {
               "username": "saars.foto",
               "text": "Water, sky, and a little boat or two - the horizon barely bothers to show up. Were you out on the water yourself?",
               "permalink": "https://www.threads.com/@saars.foto/post/Df-ssKaHWl_",
@@ -2027,7 +2076,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ronaldstamant",
+                  "text": "That farm is a hay field. So a few weeks before it was rolls and rolls",
+                  "permalink": "https://www.threads.com/@ronaldstamant/post/Df-2gdQG_Ut",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3520,7 +3580,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "rscottcarlson",
+                  "text": "A bird? A lizard? Or more likely nothing. \ud83d\ude02",
+                  "permalink": "https://www.threads.com/@rscottcarlson/post/Df-2mP9jO-X",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
