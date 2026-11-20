@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (124)
+## Needs Reply (126)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df8gSAen8lQ))
@@ -26,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **32groove**: This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist’s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces. ([link](https://www.threads.com/@32groove/post/Df8h2ojjBlV))
   - _Replying to: A ring of spikes with a hole straight through the middle - …_
+- **hippiecat51**: I keep him on a box with all my nature found treasures. ([link](https://www.threads.com/@hippiecat51/post/Df8lJXhmZND))
+  - _Replying to: He has a face in profile - a snout, an eye, the whole littl…_
 - **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
   - _Replying to: Melancholy suits them - a beautiful late-season rose._
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
@@ -49,6 +51,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Did you wait for them to line up like that, or did the drif…_
 - **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
   - _Replying to: Thank you - that frosty heart stopped my scroll._
+- **shel_bee_g**: Fallen in the parking lot of a grocery store, what we call Trader Joe's, just caught my eye ([link](https://www.threads.com/@shel_bee_g/post/Df8k9InH_gc))
+  - _Replying to: One red leaf on dark wet stone, and suddenly the whole pave…_
 - **linda73linda**: Leuk ! Zou het hetzelfde hart zijn geweest ? ([link](https://www.threads.com/@linda73linda/post/Df703UkDQJQ))
   - _Replying to: Another day, with the same heart_
 - **fabienne_journey**: Vrees het niet. Deze foto is al een tijdje geleden gemaakt ([link](https://www.threads.com/@fabienne_journey/post/Df74mbEDpsx))
