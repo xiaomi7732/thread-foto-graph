@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (257)
+## Needs Reply (259)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **bethanyangle**:  ([link](https://www.threads.com/@bethanyangle/post/Df-478vFMO_))
+  - Photo: Description: An orange cat with a white chest sits atop a weathered wooden fence post, positioned against a backdrop of dense purple flowering plants and green trees. Photograph read: The image is taken at eye level with the cat as the central subject, framed by a rustic fence. Lighting appears natural and diffused, with no harsh shadows. The image has a shallow depth of field, rendering the foreground foliage and background trees somewhat out of focus. Photo type: Natural
 - **rkatekatia**:  ([link](https://www.threads.com/@rkatekatia/post/Df-4PssDScd))
   - Photo: Description: A close-up, monochrome image shows a single tulip bud and its elongated leaves against a plain, dark background. The bud is partially open, with petals curling inward. Photograph read: The composition is diagonal, with the tulip’s stem and leaves extending from the lower right toward the upper center. Lighting is directional, creating soft shadows and highlights along the curves of the petals and leaves. The rendering is smooth with no visible grain or compression artifacts. Photo type: Still life
 - **annette.parker.169**:  ([link](https://www.threads.com/@annette.parker.169/post/Df-4LOHGf-v))
@@ -191,6 +193,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **ronaldstamant**: That farm is a hay field. So a few weeks before it was rolls and rolls ([link](https://www.threads.com/@ronaldstamant/post/Df-2gdQG_Ut))
   - _Replying to: A tilled field going all the way to the trees, with a fence…_
+- **iainriggs**: Hua Hin, Thailand so looking East, pretty sure it was dusk. ([link](https://www.threads.com/@iainriggs/post/Df-4Zk7kjJn))
+  - _Replying to: One small figure on a long wet shore, and the sky doing mos…_
 - **carakunzart**: We were leaving the Grand Canyon and heading to California. ([link](https://www.threads.com/@carakunzart/post/Df-tFADHzr7))
   - _Replying to: All that empty desert, and the signpost still gets the last…_
 - **mrs.trellis**: Trees, trees and more trees! ([link](https://www.threads.com/@mrs.trellis/post/Df-1z43Gzu2))

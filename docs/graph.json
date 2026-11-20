@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 642,
+      "reply_count": 644,
       "replies": [
+        {
+          "username": "bethanyangle",
+          "text": "",
+          "permalink": "https://www.threads.com/@bethanyangle/post/Df-478vFMO_",
+          "photos": [
+            "Description: An orange cat with a white chest sits atop a weathered wooden fence post, positioned against a backdrop of dense purple flowering plants and green trees. Photograph read: The image is taken at eye level with the cat as the central subject, framed by a rustic fence. Lighting appears natural and diffused, with no harsh shadows. The image has a shallow depth of field, rendering the foreground foliage and background trees somewhat out of focus. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "rkatekatia",
           "text": "",
@@ -2225,7 +2237,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "iainriggs",
+                  "text": "Hua Hin, Thailand so looking East, pretty sure it was dusk.",
+                  "permalink": "https://www.threads.com/@iainriggs/post/Df-4Zk7kjJn",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
