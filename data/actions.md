@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (192)
+## Needs Reply (193)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **chanellemclennan**: Is Saturday here so walk to the beach 🇳🇿 ([link](https://www.threads.com/@chanellemclennan/post/Df-uWYrEzyk))
+  - Photo: Description: A stone monument with carved penguin figures and a sign reading “DUNE PLANTS GROWING PLEASE KEEP TO BEACH ACCESS” stands in tall grass, overlooking a sandy beach and ocean with a rocky, tree-covered island in the distance under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with clear visibility of the monument, grass, and distant landscape. The sky is mostly clear with sparse clouds. The monument’s carvings and sign are legible, and the ocean and island are distinct in the background. The composition is centered on the monument, with the beach and sea extending horizontally. Photo type: Natural landscape
 - **kazz_bo_**:  ([link](https://www.threads.com/@kazz_bo_/post/Df-tzVUk8Dm))
   - Photo: Description: A cluster of yellow and green, fuzzy-textured flowers with reddish stems is positioned against a plain, uniformly colored beige wall. Photograph read: The composition is a close-up with the flowers occupying the left side of the frame. Lighting is even and diffuse, without harsh shadows or highlights. The image has a shallow depth of field, with the main flower cluster in focus and the background blurred. Fine surface textures of the flowers are visible. Photo type: Macro
 - **mikemccoy__**:  ([link](https://www.threads.com/@mikemccoy__/post/Df-twMWmTw3))
@@ -55,17 +57,26 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A bare tree and a bench by a frozen lake, with the sky taki…_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
+- **sheilasphoto**: Here’s the EXIF. Around 10 am at Mona Vale Beach, Sydney, Australia. ([link](https://www.threads.com/@sheilasphoto/post/Df-ud10Ez5r))
+  - Photo: Description: The image depicts a shimmering ocean surface under bright daylight, with the location identified as Mona Vale, Sydney, Australia. The scene is captured from a distance, with the water’s surface showing reflective patterns. Photograph read: The photograph is presented as a digital image with embedded EXIF data, showing a Canon EOS 5D camera with a 70-200mm lens. The exposure settings indicate a shutter speed of 1/1600s, f/7.1 aperture, and ISO 250. The image appears to be a standard landscape shot with no visible flash, using matrix metering and aperture priority mode. The rendering is clear enough to read the EXIF table, but the actual image content is not visible in the provided screenshot. Photo type: Unclear
+  - _Replying to: Shimmering Pacific, and the light barely holding on at the …_
 - **hibiskos**: Very lucky. Not sure, but I bet it’s a great story ([link](https://www.threads.com/@hibiskos/post/Df-s-urmyt5))
   - _Replying to: Caught mid-flight, wings out and all - that is a lucky fram…_
-- **thecorktraveller**: It’s a Common Puffball ([link](https://www.threads.com/@thecorktraveller/post/Df-trW2iG1-))
+- **thecorktraveller**: It’s a Common Puffball. ([link](https://www.threads.com/@thecorktraveller/post/Df-uHIiiHLX))
   - _Replying to: A mushroom cap covered in white bumps, like it is wearing i…_
 - **0lindar**: One earring (it’s one of those insert and wear forever types)… mature skin and the shadows of B&W seemed more interesting ([link](https://www.threads.com/@0lindar/post/Df-sccbnAAC))
   - _Replying to: An ear, two earrings, and nothing else competing for attent…_
+- **newsie12**: No, I just turned as I walked past and saw it and had to capture it. I think of people I’ve lost and would like to sit there with and talk whenever I flip passed the image. ([link](https://www.threads.com/@newsie12/post/Df-uIUXlGwr))
+  - _Replying to: Two white benches under a bright moon, waiting for someone …_
+- **floresgeo_t**: It’s a small ceramic bottle holding a 4 inches tall, 6 months plant……that answers your question? 🌱🌿 ([link](https://www.threads.com/@floresgeo_t/post/Df-uQlZgeg4))
+  - _Replying to: Your tiniest plant, holding the whole windowsill. How old i…_
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
 - **kevintrendell**: Sometimes she is distracted. When she is locked in I can throw the ball 100 times and she will chase it like a rocket and return to show me she has it. Sometimes there is a detour to the water and she will drop it in the shallows to wash it off before returning 😎❤️ ([link](https://www.threads.com/@kevintrendell/post/Df-tQQEGSoV))
   - _Replying to: Rhubi out in the shallows with a red ball for company - tha…_
+- **lynnpearcephotographer**: Probably Jan Mayen, as it is an uninhabited island, except for a small group of geologists greeting us the morning we arrived. Fiercely cold and windy, even the seabirds had taken shelter leaving a disarming stillness. Thanks for the question. 🙏🏼 ([link](https://www.threads.com/@lynnpearcephotographer/post/Df-uSmLkTu4))
+  - _Replying to: Four quiet corners of the sea, from Jan Mayen to the Solent…_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
@@ -85,6 +96,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **ginamarie2221972**:  ([link](https://www.threads.com/@ginamarie2221972/post/Df-VBSlElWO))
   - Photo: Description: A silhouette of a person holding a fishing rod stands at the edge of a body of water, facing a sunset that reflects in the water, with a dark treeline in the background. Photograph read: The image is composed with the subject centered in silhouette against a warm-toned, reflective water surface and a gradient sky. Lighting is dominated by the sunset’s glow, casting the subject and foreground into shadow. Rendering appears flat with minimal texture or depth, lacking visible sharpness or detail. Photo type: Silhouette
     - Watch-outs: The subject’s silhouette is indistinct, lacking discernible features or clothing detail due to complete obscurity. The foreground grass and shoreline are uniformly dark and lack texture or edge definition.
+- **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
+  - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
 - **jeanlouisbaugnon**: ▓ ([link](https://www.threads.com/@jeanlouisbaugnon/post/Df-QJhoFCrV))
   - Photo: Description: The image shows a blurred, indistinct shape against a textured, dark background, with visible streaks of light and shadow suggesting motion or camera shake. Photograph read: The composition is dominated by a pattern of fine, wavy lines across the frame, with a central, vaguely triangular or leaf-like form that is out of focus. Lighting appears to originate from behind or above the subject, casting highlights and shadows across the textured surface. Photo type: Unclear
     - Watch-outs: - Whole-image blur: The entire image exhibits motion blur or camera shake, obscuring fine detail and making subject identification difficult. - Low contrast: The subject lacks sharp edges and is rendered as a soft, indistinct shape against a dim background, reducing readability.
@@ -92,28 +105,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A dog sitting in the middle of a plowed field, with a cresc…_
 - **papi857**: The red against a mostly beige storefront with just this one lamp ([link](https://www.threads.com/@papi857/post/Df-tLzNFAap))
   - _Replying to: I have seen the light - and it is bright red, curled over t…_
-- **embram**: The before shot ([link](https://www.threads.com/@embram/post/Df-Pvr7CDaE))
-  - Photo: Description: A bird in silhouette perches on a bare tree branch against a pale blue sky, with some small yellow buds visible on nearby branches. Photograph read: The image is composed with the bird as a central subject against a uniform sky background. Lighting is backlighting, creating a silhouette effect. Rendering is flat with no visible texture or depth beyond the subject’s outline. Photo type: Silhouette
-    - Watch-outs: The bird’s features are obscured by silhouette, making identification of specific markings or textures impossible. The buds on the branches are small and lack detail due to backlighting and shallow contrast.
-  - _Replying to: Caught mid-wingbeat, with the branches reaching up for it -…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
   - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
   - Photo: Description: A small, dark, indistinct object is centered in the frame against a uniformly gray, textured background that lacks discernible features. Photograph read: The image is monochrome with even, flat lighting and no visible shadows or highlights. The subject appears as a faint, low-contrast shape with no clear edges or identifiable features. The background exhibits a grainy or pixelated texture across the entire frame. Photo type: Unclear
     - Watch-outs: The subject is too small and indistinct to be identified; its shape and features are not resolvable. The entire image exhibits a uniform grainy texture, which obscures fine detail across the background and subject.
-- **lilpig2012**: Thanks A field across from where I live ([link](https://www.threads.com/@lilpig2012/post/Df-P9TiEag8))
-  - _Replying to: Nothing but fog - and somehow it still works. What was hidi…_
 - **jayphex1**:  ([link](https://www.threads.com/@jayphex1/post/Df-TKHTlK6w))
   - Photo: Description: A silhouette of a bird perched atop a slender, curved branch against a uniformly light, featureless background. Photograph read: The image is monochrome with high contrast between the dark subject and the plain background. The subject is rendered as a solid black shape with no visible texture or detail. The branch and bird are sharply defined against the background, suggesting direct backlighting or silhouette capture. Photo type: Silhouette
   - _Replying to: (photo reply, no text)_
-- **thedaveatkins**: I increased the contrast.. ([link](https://www.threads.com/@thedaveatkins/post/Df-lhfIElWe))
-  - _Replying to: Just the moon and all that black around it - how did you ge…_
-- **jamesfine57**: It’s along the walk I take each day. ([link](https://www.threads.com/@jamesfine57/post/Df-VTqRn0Yo))
-  - _Replying to: One duck and all that still water - no wonder it brings you…_
-- **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))
-  - _Replying to: One bare tree, and the whole snowy forest doubled in the wa…_
-- **______esque**: It was a solitary flower, the first for a new seedling! Thats rather special in itself! Even if not particularly good! I think it did OK! ([link](https://www.threads.com/@______esque/post/Df-ey3kEtGb))
-  - _Replying to: All that white and one agapanthus holding the middle of it …_
+- **debi0528**: It sure is. Thanks! ([link](https://www.threads.com/@debi0528/post/Df-uRT0H1rq))
+  - _Replying to: A west-facing porch is a fine place to end a day._
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
 - **januaragazzo**: It’s 5:30 PM in Indonesia 🇮🇩 ([link](https://www.threads.com/@januaragazzo/post/Df-q5kCEjX2))
@@ -491,9 +492,12 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (43)
+## Needs Like (46)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- minnakirstinna: The sparkle. ([link](https://www.threads.com/@minnakirstinna/post/Df-uDH_indD))
+- glendagh25: No idea 🤷‍♀️ ([link](https://www.threads.com/@glendagh25/post/Df-uTabj0Ll))
+- syldelteglia:  ([link](https://www.threads.com/@syldelteglia/post/Df-ucBkFhC7))
 - shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/Df-PwZKALar))
 - gingertom43: No problem... ([link](https://www.threads.com/@gingertom43/post/Df-iIfUkbZ0))
