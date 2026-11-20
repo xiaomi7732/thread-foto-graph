@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 388,
+      "reply_count": 392,
       "replies": [
+        {
+          "username": "sheilasphoto",
+          "text": "Shimmering Pacific Ocean.",
+          "permalink": "https://www.threads.com/@sheilasphoto/post/Df-lCZGkw_c",
+          "photos": [
+            "Description: A dark, expansive body of water stretches to a horizon line under a muted, overcast sky, with a thin, bright reflection along the horizon. Photograph read: The composition is horizontally divided, with the water occupying the lower two-thirds and the sky the upper third. The water surface shows scattered, bright specular highlights, suggesting a light source at or near the horizon. The sky is uniformly dark with a subtle gradient near the horizon. The image has a grainy texture and lacks sharpness across the entire frame. Photo type: Monochrome landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "hibiskos",
+          "text": "Take that chance \ud83d\udc1e",
+          "permalink": "https://www.threads.com/@hibiskos/post/Df-k284m_iy",
+          "photos": [
+            "Description: A ladybug is captured mid-flight against a blurred green background, with its wings extended and legs visible. A leaf and a cut stem are partially in focus in the foreground. Photograph read: The image has a shallow depth of field, with the ladybug in focus and the background and foreground elements blurred. Lighting is even and natural, with no visible shadows or harsh contrast. The rendering appears to be a digital capture with no apparent distortion or color aberration. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The ladybug\u2019s wings show motion blur, reducing edge definition. The foreground leaf and stem are partially out of focus, obscuring fine texture."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "julie.cameranz",
           "text": "Air New Zealand",
@@ -1345,7 +1372,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "wj.fox",
+                  "text": "Just the blink of an eye.",
+                  "permalink": "https://www.threads.com/@wj.fox/post/Df-k7y9Gj1w",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1841,7 +1879,25 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "u.b.monochrome",
+                  "text": "Neither actually. I went there for a lighthouse \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@u.b.monochrome/post/Df-kskXiAh-",
+                  "photos": [
+                    "Description: A lighthouse with a white tower and black-and-white striped upper section is viewed through a window frame, with the structure\u2019s lattice support visible against a sky with scattered clouds. Photograph read: The image is in black and white, with strong contrast between the bright lighthouse and the darker window frame and sky. The composition is framed by the window\u2019s vertical and horizontal edges, with the lighthouse centered in the view. Lighting appears to be natural daylight, casting clear shadows and highlights on the structure. Photo type: Architectural",
+                    "Description: A water tower with a domed top and observation deck is the central subject, set against a muted sky with bare trees and a low structure visible to the right. Photograph read: The image is in black and white, with the tower rendered as a central vertical form. The tower\u2019s midsection is overlaid with a network of intersecting light streaks, suggesting motion or a long exposure with a moving light source. The top section is relatively sharp, showing a railing and a bright light source within the dome. The background is softly blurred, and the foreground is dark and indistinct. Photo type: Long exposure with light trails"
+                  ],
+                  "watch_outs": [
+                    "The window frame partially obscures the lighthouse\u2019s lower section, reducing visibility of its base and the surrounding ground. Reflections or glare on the glass surface slightly distort the view of the lighthouse\u2019s mid-section.",
+                    "- The midsection of the tower is obscured by a dense pattern of intersecting light streaks, making structural details unreadable. - The base of the tower and foreground are dark and lack discernible texture or detail, limiting contextual clarity."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

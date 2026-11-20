@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (256)
+## Needs Reply (260)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **sheilasphoto**: Shimmering Pacific Ocean. ([link](https://www.threads.com/@sheilasphoto/post/Df-lCZGkw_c))
+  - Photo: Description: A dark, expansive body of water stretches to a horizon line under a muted, overcast sky, with a thin, bright reflection along the horizon. Photograph read: The composition is horizontally divided, with the water occupying the lower two-thirds and the sky the upper third. The water surface shows scattered, bright specular highlights, suggesting a light source at or near the horizon. The sky is uniformly dark with a subtle gradient near the horizon. The image has a grainy texture and lacks sharpness across the entire frame. Photo type: Monochrome landscape
+- **hibiskos**: Take that chance 🐞 ([link](https://www.threads.com/@hibiskos/post/Df-k284m_iy))
+  - Photo: Description: A ladybug is captured mid-flight against a blurred green background, with its wings extended and legs visible. A leaf and a cut stem are partially in focus in the foreground. Photograph read: The image has a shallow depth of field, with the ladybug in focus and the background and foreground elements blurred. Lighting is even and natural, with no visible shadows or harsh contrast. The rendering appears to be a digital capture with no apparent distortion or color aberration. Photo type: Macro
+    - Watch-outs: The ladybug’s wings show motion blur, reducing edge definition. The foreground leaf and stem are partially out of focus, obscuring fine texture.
 - **julie.cameranz**: Air New Zealand ([link](https://www.threads.com/@julie.cameranz/post/Df-kFE6EjsY))
   - Photo: Description: A single aircraft is visible in the upper left quadrant of the frame, leaving a long, diffuse contrail that extends diagonally across the sky. The sky is a uniform, clear blue with no clouds or other objects. Photograph read: The image is composed with the aircraft and contrail as a diagonal line against a plain blue background. Lighting is even and bright, suggesting a clear day. The rendering is flat, with no visible depth-of-field effects or motion blur; the aircraft is small and lacks discernible detail. Photo type: Aerial
     - Watch-outs: The aircraft is too small and distant to show any identifiable features or markings. The contrail is diffuse and lacks crisp edges, making its structure indistinct.
@@ -241,6 +246,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That light found the cat and nothing else - what was it sta…_
 - **meechz1**: Had my girlfriend standing atop a small sand dune that gave the illusion she was heading towards the ocean . ([link](https://www.threads.com/@meechz1/post/Df-Phj0GNXj))
   - _Replying to: One figure against the whole sunset - what were you walking…_
+- **wj.fox**: Just the blink of an eye. ([link](https://www.threads.com/@wj.fox/post/Df-k7y9Gj1w))
+  - _Replying to: All that blue, and then the jet cutting straight through it…_
 - **embram**: The before shot ([link](https://www.threads.com/@embram/post/Df-Pvr7CDaE))
   - Photo: Description: A bird in silhouette perches on a bare tree branch against a pale blue sky, with some small yellow buds visible on nearby branches. Photograph read: The image is composed with the bird as a central subject against a uniform sky background. Lighting is backlighting, creating a silhouette effect. Rendering is flat with no visible texture or depth beyond the subject’s outline. Photo type: Silhouette
     - Watch-outs: The bird’s features are obscured by silhouette, making identification of specific markings or textures impossible. The buds on the branches are small and lack detail due to backlighting and shallow contrast.
@@ -269,6 +276,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Flying straight at you, wings wide, and nothing else in the…_
 - **marci_prag**: It was right on the beach like that pretty close to the Shoreline. It was in Maui ([link](https://www.threads.com/@marci_prag/post/Df-e80IkgA3))
   - _Replying to: That one bare branch, stretched right across the beach - wa…_
+- **u.b.monochrome**: Neither actually. I went there for a lighthouse 😊 ([link](https://www.threads.com/@u.b.monochrome/post/Df-kskXiAh-))
+  - Photo: Description: A lighthouse with a white tower and black-and-white striped upper section is viewed through a window frame, with the structure’s lattice support visible against a sky with scattered clouds. Photograph read: The image is in black and white, with strong contrast between the bright lighthouse and the darker window frame and sky. The composition is framed by the window’s vertical and horizontal edges, with the lighthouse centered in the view. Lighting appears to be natural daylight, casting clear shadows and highlights on the structure. Photo type: Architectural
+    - Watch-outs: The window frame partially obscures the lighthouse’s lower section, reducing visibility of its base and the surrounding ground. Reflections or glare on the glass surface slightly distort the view of the lighthouse’s mid-section.
+  - Photo: Description: A water tower with a domed top and observation deck is the central subject, set against a muted sky with bare trees and a low structure visible to the right. Photograph read: The image is in black and white, with the tower rendered as a central vertical form. The tower’s midsection is overlaid with a network of intersecting light streaks, suggesting motion or a long exposure with a moving light source. The top section is relatively sharp, showing a railing and a bright light source within the dome. The background is softly blurred, and the foreground is dark and indistinct. Photo type: Long exposure with light trails
+    - Watch-outs: - The midsection of the tower is obscured by a dense pattern of intersecting light streaks, making structural details unreadable. - The base of the tower and foreground are dark and lack discernible texture or detail, limiting contextual clarity.
+  - _Replying to: A bulb and a sliver of moon, sharing the same dark sky - wh…_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
 - **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))
