@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (180)
+## Needs Reply (183)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **rscottcarlson**:  ([link](https://www.threads.com/@rscottcarlson/post/Df-Nql0ko4N))
+  - Photo: Description: An orange tabby cat sits in profile atop a low brick wall, gazing leftward against a clear blue sky, with a sloped, rocky backyard and distant houses visible in the background. Photograph read: The cat is in sharp focus, with clear fur texture and eye detail; the sky is uniformly blue with no clouds; the foreground wall is in focus, showing brick texture; background elements are slightly less sharp but still discernible. Photo type: Natural daylight portrait
+- **jimasher**:  ([link](https://www.threads.com/@jimasher/post/Df-NbztEe9t))
+  - Photo: Description: A close-up shows a large, translucent water droplet clinging to the tip of a dark, spiky plant structure, with a blurred background of tree silhouettes against a pale sky. Photograph read: The droplet is in focus and reflects the background, while the background is uniformly out of focus. Lighting is diffuse and even, with no harsh shadows or highlights. The image has a shallow depth of field, emphasizing the droplet. Photo type: Macro
+    - Watch-outs: The background is heavily blurred, obscuring any identifiable environmental context. The droplet’s surface shows internal reflections and minor distortions, but no visible texture or microstructure of the plant is discernible.
+- **veltinsthecat**: My phone focused on the spider and didn’t “catch” the net. So it’s “hovering” in the air. ([link](https://www.threads.com/@veltinsthecat/post/Df-NWm8EsiZ))
+  - Photo: Description: A spider with long, hairy legs and a patterned abdomen is positioned on a uniformly yellow, textured surface. Photograph read: The spider is in sharp focus against a flat, saturated yellow background. Lighting is even, with no visible shadows or highlights indicating directional light. The image has no apparent motion blur or focus falloff. Photo type: Macro
 - **looksatthesky7**:  ([link](https://www.threads.com/@looksatthesky7/post/Df-NAbwoHrl))
   - Photo: Description: A tabby cat is seated on a wooden surface, viewed in profile against a completely black background, with light illuminating its right side. Photograph read: The cat is lit from the right, casting the left side into shadow; the background is uniformly black. The surface the cat sits on is a dark wood with visible grain and edge. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Portrait
 - **meechz1**:  ([link](https://www.threads.com/@meechz1/post/Df-MqeWlMpw))
@@ -457,7 +464,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (40)
+## Needs Like (41)
+
+### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - elobernstein: 😊 ([link](https://www.threads.com/@elobernstein/post/Df98Dh7GxBh))
