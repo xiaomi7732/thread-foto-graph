@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (142)
+## Needs Reply (129)
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
@@ -18,32 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **khoojosie**:  ([link](https://www.threads.com/@khoojosie/post/Df95F3MlL8B))
   - Photo: Description: A circular manhole cover embedded in a paved surface, featuring a raised relief design of a fire truck, stars, and the Japanese characters “消火栓” (fire hydrant), set against a yellow background. Photograph read: The image is a direct, overhead shot with even, diffuse lighting. The manhole cover is in focus, showing clear relief details. The surrounding pavement consists of rectangular, speckled tiles with visible grout lines. Photo type: Documentary
-- **pfgendelman**:  ([link](https://www.threads.com/@pfgendelman/post/Df9znJ-lTIc))
-  - Photo: Description: A cross-section of a felled tree trunk lies on green grass, showing concentric growth rings and a rough, mossy bark surface. In the background, scattered wooden planks and yellow flowers are visible. Photograph read: The image is taken from a slightly elevated angle, with even, natural daylight illuminating the scene. The focus is centered on the tree’s cut surface, with moderate sharpness; the bark and grass show fine texture, while the background is slightly softer. Photo type: Documentary
-- **___nila.savitri**: Tiny circles of morning dew resting on a triangle of grass.. ([link](https://www.threads.com/@___nila.savitri/post/Df9qzdjmgNP))
-  - Photo: Description: A single green grass blade with several dew droplets clinging to it, set against a uniformly dark background; a second, thinner blade extends diagonally from the upper left. Photograph read: The main subject is in focus with visible surface texture and droplet reflections; lighting is directional, illuminating the grass and droplets from the side; background is dark and out of focus, with no discernible features. Photo type: Macro
-- **mapletreephotography_wpm**:  ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df9lCYsFv8t))
-  - Photo: Description: A close-up shot features a white mushroom with a textured cap emerging from dark green grass, with another mushroom partially visible in the background; the background is out of focus and indistinct. Photograph read: The image uses shallow depth of field, with the central mushroom in focus while foreground grass and background elements are blurred. Lighting appears to come from above and slightly behind, casting soft shadows and highlighting the mushroom’s surface texture. Photo type: Macro
-    - Watch-outs: - The foreground grass is dark and out of focus, obscuring the mushroom’s base and reducing detail visibility. - The background is heavily blurred, making environmental context and any distant subjects unreadable.
-- **pat.sipatsi**:  ([link](https://www.threads.com/@pat.sipatsi/post/Df9k3x5j0n1))
-  - Photo: Description: A close-up of a large, heart-shaped green leaf with prominent white venation, emerging from a white pot, with blurred background foliage and other potted plants. Photograph read: The main leaf is in focus with visible texture and vein structure; background elements are softly blurred. Lighting appears even and diffused, illuminating the leaf’s surface without harsh shadows or overexposure. Photo type: Portrait
-- **greenvelvetgarden**:  ([link](https://www.threads.com/@greenvelvetgarden/post/Df9b8F8gXNj))
-  - Photo: Description: The image shows an outdoor scene with a tall, weathered stone obelisk and a smaller stone pedestal, surrounded by trees with green and yellowing leaves, under a partly cloudy sky. Photograph read: The composition is framed by tree branches overhead, with sunlight filtering through the leaves. The obelisk and pedestal are in partial shadow, with dappled light on the ground. The image has natural depth of field, with foreground elements slightly sharper than the background foliage. Photo type: Natural
-- **pandandalee**: I found this baked potato on my bed ([link](https://www.threads.com/@pandandalee/post/Df9PyCVG_mj))
-  - Photo: Description: A dark-furred cat with light-colored markings on its face and chest is curled on a patchwork quilt, with its head resting near the center of the frame. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The cat’s fur texture and the quilt’s patchwork patterns are visible, though not sharply defined. The edges of the quilt and surrounding fabric show natural folds and creases. Photo type: Natural
-- **grantpickup62**:  ([link](https://www.threads.com/@grantpickup62/post/Df9LYN2G8QT))
-  - Photo: Description: A close-up of a green leaf with a large, irregularly shaped hole near its center, showing internal leaf structure and some discoloration along the edges. Photograph read: The image is in focus on the leaf’s surface, with even lighting that reveals texture and vein patterns. The background is out of focus, but no significant technical flaws are apparent in the rendering. Photo type: Macro
-- **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/Df9Joo9jjFt))
-  - Photo: Description: The photograph shows a close-up of large, deeply veined green leaves with a prominent water droplet resting on one, reflecting the leaf’s surface and surrounding environment. Smaller droplets are scattered across the leaves, and thin, dry branches are visible in the foreground and background. Photograph read: The composition is centered on the water droplet, with the leaves filling the frame. Lighting appears to be directional, creating highlights on the leaf veins and droplets, while shadows deepen in the crevices. The rendering preserves surface texture and detail, though some areas are darker and less defined. Photo type: Macro
-- **dolly_dimple123**:  ([link](https://www.threads.com/@dolly_dimple123/post/Df9CrxuiDUC))
-  - Photo: Description: A single red leaf with serrated edges and visible veins is in focus, speckled with water droplets, set against a blurred green and brown background. Photograph read: The leaf is centrally framed with shallow depth of field, creating a soft background. Lighting appears diffuse, illuminating the leaf’s surface evenly without harsh shadows or highlights. The image has a natural color rendering with no obvious color distortion or clipping. Photo type: Macro
-    - Watch-outs: The leaf’s surface shows water droplets, which are visible but not sharply defined; the droplets appear slightly blurred due to shallow depth of field. The background is uniformly out of focus, obscuring any potential context or detail beyond the leaf.
-- **signhildthomas**: It stopped to look at me, then just moved on ([link](https://www.threads.com/@signhildthomas/post/Df9O25iDXPM))
-  - _Replying to: That concrete slope cuts a clean triangle right through the…_
-- **00mrlonewolf00**: LITTLE HEARTS Little hearts trapping rain Dew drop on a clover Reflecting skies up above Impressive to discover. The mist it floats through the air Lands gently on its leaves Gathering all into the center Then rolls off to feed the trees. The earth provides the beauty Inspiration through a pen To capture fleeting miracles Before they fade again. ([link](https://www.threads.com/@00mrlonewolf00/post/Df9GSaBlAH8))
-  - _Replying to: Hearts of clover holding little skies - that poem reads lik…_
-- **chicken_poop_shoes_**: I spotted it before I took the photo. Was hiking on the dunes and came across it randomly. Had to snap the pic! ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df9xOITFcdg))
-  - _Replying to: A heart, drawn in twigs on the sand - did you spot the loop…_
+- **grantpickup62**: In a hedgerow in the farmland close to our house ([link](https://www.threads.com/@grantpickup62/post/Df95-iGERqR))
+  - _Replying to: A heart with a hole in it, or a hole in the shape of a hear…_
 - **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
   - _Replying to: (photo reply, no text)_
 - **galveston_walkabout**: The tree was a Norfolk pine ( called an island pine) in Galveston Texas . The trees grew for years and that year most of them died from freezing weather . The photo wasn’t black and white, there was no color for the phone camera to show. Gray skies, dead limbs and gray doves. ([link](https://www.threads.com/@galveston_walkabout/post/Df9j-q_Je5e))
@@ -70,12 +46,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
   - _Replying to: It was the only one framed in such a manner. It was an earl…_
-- **mummabear1963v**: Sheffield Tasmania taken july this year ([link](https://www.threads.com/@mummabear1963v/post/Df9qVJiGmSO))
-  - Photo: Description: A large, gnarled tree with thick, textured bark dominates the frame, standing in a grassy area with a person partially visible on the left. The tree’s branches spread widely, and the background includes a distant utility pole and a pale sky. Photograph read: The image is taken from a low angle, emphasizing the tree’s trunk and branching structure. Lighting is natural daylight, casting soft shadows on the ground. The rendering is clear enough to discern bark texture and surrounding vegetation, though some areas are slightly underexposed. Photo type: Natural
-  - Photo: Description: A large, gnarled tree with thick, textured bark dominates the frame, standing in a grassy area with a wooden fence and residential structures visible in the background. Photograph read: The image is a vertical shot with natural daylight illuminating the tree’s trunk and branches. The composition centers on the tree’s massive, twisted form, with background elements slightly out of focus. Rendering is clear on the tree’s bark texture, though some areas are shadowed. Photo type: Natural
-  - _Replying to: This twisted tree I saw last week at Graceland Cemetery, Ch…_
-- **lucybarringtonjohn**: I have two. Wind shaped junipers and ancient oak trees. ([link](https://www.threads.com/@lucybarringtonjohn/post/Df9x1etloDC))
-  - _Replying to: Every twist is a year of weather kept in the wood. Is there…_
 - **reef_ausic**: Can’t agree more ([link](https://www.threads.com/@reef_ausic/post/Df89WVZI6xt))
   - _Replying to: Mid-bloom is the perfect moment to catch it._
 - **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
