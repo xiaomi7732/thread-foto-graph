@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (134)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **tiv34**:  ([link](https://www.threads.com/@tiv34/post/Df98UTKCsN3))
+  - Photo: Description: A group of approximately ten geese swims in a loose formation on a body of clear, rippling water, with the seabed visible in shallower areas. Photograph read: The image is taken from a high angle, showing the water’s surface texture and the geese’s movement. Lighting is even and natural, with no obvious shadows or overexposure. The water’s clarity allows for some visibility of the seabed, but the geese are not sharply defined. Photo type: Natural
+- **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/Df98NW3FFCk))
+  - Photo: Description: A solitary figure stands in silhouette on a paved overlook, facing a vast expanse of ocean under a heavily clouded sky with bright sunlight breaking through. Photograph read: The image is rendered in monochrome with high contrast between the dark silhouette and the bright, overexposed sky. The horizon shows a reflective glare from the sun on the water. The foreground pavement exhibits visible cracks and texture. Photo type: Black-and-white
+    - Watch-outs: - The subject’s face and hands are not visible due to silhouette; no facial features or hand details can be discerned. - The sky is overexposed in areas where the sun shines through clouds, causing loss of detail in those regions.
 - **photopattyrn**:  ([link](https://www.threads.com/@photopattyrn/post/Df975ReIOZB))
   - Photo: Description: A bright, circular light source, likely the moon, is partially obscured by clouds in a dark sky, with the silhouette of a palm tree visible at the bottom left. Photograph read: The image shows a night sky with diffuse cloud formations and a prominent luminous disc. The palm tree appears as a dark silhouette with motion blur. The clouds are rendered with soft edges and varying brightness, suggesting a long exposure or low-light capture. Photo type: Night landscape
     - Watch-outs: - The entire image exhibits motion blur, affecting both the palm tree silhouette and the clouds, reducing fine detail. - The bright central light source is overexposed, causing a loss of detail in its immediate vicinity and creating a glare that obscures surrounding cloud texture.
