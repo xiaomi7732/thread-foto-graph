@@ -13,8 +13,50 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 150,
+      "reply_count": 160,
       "replies": [
+        {
+          "username": "matt_mccord_",
+          "text": "Shot on my old Minolta 45 f2 pancake adapted to my Fuji XT2.",
+          "permalink": "https://www.threads.com/@matt_mccord_/post/Df-H5GSIMG6",
+          "photos": [
+            "Description: A duck with a dark head, yellow beak, and mottled body floats on calm water, with large, dark rocks in the foreground and a blurred rocky shoreline in the background. Photograph read: The image has a shallow depth of field, with the duck in focus and the foreground and background significantly blurred. Lighting is subdued, casting soft shadows and muted tones across the scene. The water surface reflects the rocks and sky with minimal ripples. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "The duck\u2019s head and beak are slightly out of focus, reducing fine feather detail. The foreground rocks are blurred, obscuring texture and edge definition."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "cheap_cheerful_lp_collector",
+          "text": "",
+          "permalink": "https://www.threads.com/@cheap_cheerful_lp_collector/post/Df-HwXwkXq3",
+          "photos": [
+            "Description: A seagull perches atop a dark, seaweed-covered rock in calm blue water, with a rocky shoreline covered in seaweed and small stones in the foreground. Photograph read: The image has a clear, sunlit composition with the bird centered on a rock, and the water shows gentle ripples. The foreground rocks are in sharp focus, while the water and distant horizon are slightly less defined. Rendering is natural, with no visible digital artifacts or color distortion. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "realsamsavage",
+          "text": "",
+          "permalink": "https://www.threads.com/@realsamsavage/post/Df-HsGCluUJ",
+          "photos": [
+            "Description: A close-up shows a single water droplet hanging from the tip of a leaf with dark green and yellow variegated patterns. The background is uniformly out of focus and muted. Photograph read: The main subject is the droplet and the leaf tip, with shallow depth of field blurring the surrounding foliage. Lighting is diffuse, creating soft highlights on the droplet and leaf surface. The image has a muted color palette and lacks sharpness across the entire frame. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The droplet and leaf tip are in focus, but the background is uniformly blurred, obscuring any context. The foreground foliage, including leaf veins and edges, is partially obscured by soft focus and low contrast, reducing detail readability."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ssquiresc1290",
           "text": "",
@@ -76,10 +118,21 @@
           "photos": [
             "Description: A single dried, orange-brown leaf with a heart-like shape rests on a weathered, vertically grained wooden surface. Photograph read: The image is a close-up shot with even, diffuse lighting. The leaf and wood grain are in focus, showing clear texture and detail. The composition is centered, with the leaf occupying the middle of the frame. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That little heart-shaped leaf on the weathered boards - the gold against the gray is what caught me. What caught your eye first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-H3OIETfN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dougkeel",
@@ -88,10 +141,21 @@
           "photos": [
             "Description: A red barn sits on a grassy hillside amid a forested landscape under a partly cloudy sky, with tree branches in the foreground. Photograph read: The scene is captured with natural daylight, showing a wide view of the landscape. The sky occupies the upper portion, with clouds varying in density. The foreground includes thin branches, while the midground features a mix of bare and budding trees and a cultivated field. The barn is clearly visible but not sharply detailed. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The sky does most of the talking here, and then that one small red barn answers it. All that blue and green, and the red just sits there like a full stop. What made you stop for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-H5EPlj_0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "______esque",
@@ -100,10 +164,21 @@
           "photos": [
             "Description: A monochrome depiction of a flower head with numerous elongated, pointed buds clustered together, attached to a slender stem, set against a plain white background. Photograph read: The image is rendered in black and white with high contrast, showing detailed textures and outlines of the flower structure. The composition is centered, with the flower head occupying the lower half of the frame. Lighting appears even, highlighting the form without casting strong shadows. Photo type: Illustration"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "All that white and one agapanthus holding the middle of it - the black-and-white treatment turns it into a little ink drawing. What made you pick this one out of the bunch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-H6nPiWNS",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jessgperry",
@@ -112,10 +187,21 @@
           "photos": [
             "Description: A wooden dock extends into a calm lake under a pink-hued sky, with snow-capped mountains in the distance, framed by dark pine tree branches in the foreground. Photograph read: The image is framed by silhouetted pine branches, with a long dock leading into the water. The sky and lake reflect similar warm tones, and two small human figures are visible on the dock. The water surface shows gentle ripples. Lighting suggests twilight or early dawn, with no visible signs of motion blur or focus issues. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole lake gone pink and one small figure out on the dock, taking it all in. How long did the pink last?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-H8hUFADK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "travistribevibes",
@@ -127,10 +213,21 @@
           "watch_outs": [
             "- The turbine\u2019s blade is partially obscured by haze, reducing its identifiable shape and edges. - The entire image exhibits a uniform, soft focus, making fine detail in the field and horizon indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Half a turbine in the fog, the rest just gray. What did it sound like through the fog?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-H-J8nNVs",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "knitting_pagoda",
@@ -151,10 +248,21 @@
           "photos": [
             "Description: A single illuminated, spherical light bulb hangs from a dark cable against a dusky sky with scattered clouds. Photograph read: The bulb is the central subject, emitting a bright, warm glow against a cool-toned, slightly overcast sky. The cable and connector are silhouetted. The image has a shallow depth of field, with the background sky softly out of focus. Photo type: Aesthetic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One warm bulb in all that dusky blue - the only warm thing in the whole frame. What time of evening was it when the sky went that blue?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df-H_tvFQ7e",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "l.squared2",
@@ -681,7 +789,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "gingertom43",
+                  "text": "It just struck me as beautiful, lonely,swimming in a big puddle. Bit like life really.",
+                  "permalink": "https://www.threads.com/@gingertom43/post/Df-HsfzEUHp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
