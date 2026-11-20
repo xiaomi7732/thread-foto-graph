@@ -10,8 +10,20 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 265,
+      "reply_count": 306,
       "replies": [
+        {
+          "username": "granfran66",
+          "text": "",
+          "permalink": "https://www.threads.com/@granfran66/post/Df8gSAen8lQ",
+          "photos": [
+            "Description: A human hand holds two small, rounded, light-colored stones against a blurred, granular background that resembles sand or gravel. Photograph read: The hand and stones are in focus, with natural, even lighting. The background is out of focus, creating a shallow depth of field. The stones\u2019 surfaces show texture and minor imperfections, but no sharp edges or fine details are visible beyond that. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "chicken_poop_shoes_",
           "text": "",
@@ -19,10 +31,21 @@
           "photos": [
             "Description: A dry, tangled twig or root structure lies on a textured sandy surface, with scattered small debris and dark specks around it. Photograph read: The image is a flat, top-down view with even, diffuse lighting. The subject is in focus, but the rendering lacks sharpness in fine textures, and the sand\u2019s granular detail is visible but not crisp. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A heart, drawn in twigs on the sand - did you spot the loop first, or only see it once you looked at the photo?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gODWDXux",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "back_to_cloth",
@@ -31,10 +54,21 @@
           "photos": [
             "Description: The image shows a close-up view of a concrete sidewalk with visible cracks and a threshold at the entrance of a building with a dark door and textured wall. Photograph read: The composition is a downward-looking perspective of the pavement, with natural daylight illuminating the scene. The rendering is clear enough to discern surface texture, crack patterns, and the edge of the threshold, with no apparent distortion or color aberration. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The crack runs corner to corner across the squares, straight as a ruler until it isn't. What caught your eye first - the grid or the break in it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gPf2jDOw",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "peanutbutterscotch_",
@@ -43,10 +77,32 @@
           "photos": [
             "Description: The photograph shows a canal in Venice with colorful historic buildings lining the water, moored gondolas, and a wooden pier with two people walking on it. The sky is partly cloudy. Photograph read: The image is taken from a slightly elevated perspective, with the canal and buildings occupying the mid-ground. Lighting is natural daylight, with soft shadows and visible reflections on the water. The rendering is clear enough to discern architectural details and people, though the water surface has gentle ripples. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Venice bends the whole scene into a curve. Then the pier cuts straight across it, posts and all. Was the pier the shape you were after, or did the canal do the work?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gRxTkVHg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "peanutbutterscotch_",
+                  "text": "The pier! Triangles are my favorite shape",
+                  "permalink": "https://www.threads.com/@peanutbutterscotch_/post/Df8gY6mli2B",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "raijapoignand",
@@ -58,10 +114,21 @@
           "watch_outs": [
             "- The central sky area is overexposed and lacks detail, making it unrecognizable as a specific feature. - Foreground foliage is underexposed and indistinct, with no visible texture or structure."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is that a heart showing through the leaves, or am I wishing one into the gap? The bright patch has the shape of one, point and all.",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gTPKAK3p",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lizetteguy",
@@ -70,10 +137,21 @@
           "photos": [
             "Description: The image shows a close-up of a collection of smooth, rounded stones and pebbles in a shallow, rocky area, with one distinct orange-yellow pebble near the center-right. Photograph read: The composition is tightly framed on the stones, with varied sizes and muted tones. Lighting appears diffuse, casting soft shadows between stones. The rendering has a slightly textured, painterly quality, with visible grain and color saturation that is not uniform across the image. Photo type: Naturalistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One orange triangle in a whole bed of round grey pebbles. It jumps out like it was placed there on purpose. Did you spot the color first, or the shape?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gU2aEQ6J",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wang_fong_ya",
@@ -82,10 +160,21 @@
           "photos": [
             "Description: The photograph shows a close-up of large, dark green leaves with prominent venation, likely from a tropical plant, with another leaf partially overlapping in the foreground. Photograph read: The composition is tightly framed on the leaf surface, with strong contrast between illuminated veins and shadowed areas. Lighting appears directional, casting deep shadows across the leaf\u2019s texture. Rendering is sharp in the focused areas, but no visible artifacts or sensor noise are present. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the veins are the whole photo - they fan out from the rib like the leaf is showing its skeleton. What plant is it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gWoyG5wU",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "meservelee",
@@ -94,10 +183,20 @@
           "photos": [
             "Description: A cluster of light-brown, flat, disc-shaped fungi grows among a bed of dry, brown leaves and twigs on the forest floor. The fungi show signs of wear, with small dark patches and debris on their surfaces. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The fungi are in focus, but the surrounding leaf litter is slightly out of focus, creating a shallow depth of field. The rendering is naturalistic, with no visible digital artifacts or color distortion. Photo type: Naturalistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A stack of flat discs, each with its own ring - they look like plates left out in the leaves. How many were in the cluster?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gYLkG9A_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "meservelee",
               "text": "Kind of like a pregnant Mam mushroom.",
@@ -120,10 +219,21 @@
           "watch_outs": [
             "The log\u2019s surface texture is indistinct due to low contrast and mild focus softness. Background foliage and distant objects are blurred, reducing detail discernibility."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That log has a head and a long neck - did you do a double take when you first saw it grazing there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gZQSEVSX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "galveston_walkabout",
@@ -132,10 +242,32 @@
           "photos": [
             "Description: A black-and-white photograph shows the silhouette of numerous birds perched on the branches of a leafless tree against a bright, uniform sky. Photograph read: The image is rendered in high-contrast monochrome, with the tree and birds appearing as dark shapes against a very bright background. The composition is centered on the tree\u2019s branching structure, with birds distributed across its limbs. No visible camera shake, lens distortion, or chromatic aberration is present. Photo type: Silhouette"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The bare branches fan out like a candelabra, and every bird has its own perch. Were they all there at once, or did they keep arriving while you watched?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gaYcjv1G",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "galveston_walkabout",
+                  "text": "They were all settled in for the night .",
+                  "permalink": "https://www.threads.com/@galveston_walkabout/post/Df8hLaqpVE_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -144,10 +276,21 @@
           "photos": [
             "Description: An aerial view of a large, white, flower-like architectural structure with a central circular void, situated adjacent to a body of water with visible ripples. Photograph read: The image is taken from a high angle, showing the building\u2019s geometric form and surrounding paved areas and water. Lighting is even and diffused, casting soft shadows. The rendering is clean and sharp, with no visible distortion or chromatic aberration. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole lotus, floating on the water - and a perfect circle right at its heart. Is the flower shape the whole point of the building, or did the circle steal it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gcBxlNWb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tim22974",
@@ -156,10 +299,54 @@
           "photos": [
             "Description: A single bright red maple leaf lies on a bed of green grass, surrounded by other fallen leaves in various shades of brown and red, with some grass blades showing dew. Photograph read: The image is taken in bright daylight with strong directional light casting shadows. The main leaf is in focus, while the surrounding grass and background leaves are slightly softer. Grass blades and some leaves are in sharp focus, while others are blurred due to depth of field. The image has a shallow depth of field, with the foreground and midground in focus and the background blurred. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red against the green is doing all the shouting. Did it land upright like that, or did you stand it up for the shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8geUbjv9C",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "tim22974",
+                  "text": "Also, note the shadow of the grass blades on the leaf!",
+                  "permalink": "https://www.threads.com/@tim22974/post/Df8g2qLmYm1",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "tim22974",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@tim22974/post/Df8gs2imUxI",
+                  "photos": [
+                    "Description: A large tree with dense, deep red foliage dominates the center of the frame, set against a clear blue sky, with a residential house and driveway visible behind it. Photograph read: The composition is vertical, with the tree occupying the central area. Lighting appears to be direct sunlight from the side, casting shadows and highlighting the tree\u2019s leaves. The image has a natural color balance and no visible signs of digital artifacts or distortion. Photo type: Natural"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "tim22974",
+                  "text": "Landed like that; saw it on my dog walk; had to stop!!",
+                  "permalink": "https://www.threads.com/@tim22974/post/Df8gmCQmVpf",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "tim22974",
@@ -168,10 +355,21 @@
           "photos": [
             "Description: A vibrant red maple leaf lies on a bed of green grass, with other fallen leaves scattered nearby; the scene is illuminated by direct sunlight. Photograph read: The image is a close-up shot with strong directional lighting casting shadows; the leaf and grass are in focus, but the background is softly blurred. The Strava app overlay is visible at the bottom, indicating metrics for a walk. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Same leaf, second look - and the walk logged underneath it. Was the leaf the reason for the stop, or just the best thing on the route?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gfrcDfxN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dianelynnturnbull",
@@ -183,10 +381,21 @@
           "watch_outs": [
             "The white circular object has scattered dark specks and minor surface dirt, reducing its clarity. The seed pod\u2019s cracked surface is partially obscured by the dirt and the angle of the shot, limiting detail visibility."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Circles inside circles - the white disk, the seed pod, the whole orange leaf holding them. Have you figured out what the disk is yet, or is it still a mystery?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gg8JkV8s",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "32groove",
@@ -195,10 +404,21 @@
           "photos": [
             "Description: A white, spiky, circular sculpture with concentric layers of pointed protrusions is centered against a solid black background, casting a distinct shadow on a dark surface below. Photograph read: The subject is evenly lit from the front, creating sharp highlights on the spikes and deep shadows in the recesses. The composition is symmetrical and centered, with no visible motion blur or focus issues. The surface beneath the sculpture shows a soft, diffuse shadow. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A ring of spikes with a hole straight through the middle - where did you find a sea urchin that is also a donut?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8giLmjVF_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hippiecat51",
@@ -210,10 +430,21 @@
           "watch_outs": [
             "The hand obscures the lower third of the object, limiting visibility of its base and texture. The top portion of the object is slightly out of focus, reducing clarity of its upper contours."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "He has a face in profile - a snout, an eye, the whole little character. Where does he live now, on a shelf or by the door?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gjgrDh8I",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "c.h.skeetsussex.ac.uk",
@@ -240,10 +471,21 @@
                   "text": "I have a few more here and there- some were too big and had to be left.",
                   "permalink": "https://www.threads.com/@c.h.skeetsussex.ac.uk/post/Df8E3taDAgz",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Some hearts are too big to carry home, and that is exactly right.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gnQhHWKt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -279,10 +521,21 @@
                   "photos": [
                     "Description: An audience sits in the nave of a large Gothic cathedral, facing a screen displaying a presentation titled \u201cTHE HIDDEN CORNERS OF LONDON WITH JACK GESHER.\u201d The high vaulted ceilings and stone arches dominate the space, with chandeliers hanging from the ceiling. Photograph read: The image is taken from the back of the audience, looking down the central aisle toward the screen and altar. Lighting is warm and even, primarily from interior sources, illuminating the stone architecture and attendees. The screen is bright and legible, contrasting with the darker surroundings. The composition is linear, following the perspective of the nave\u2019s arches. Photo type: Event documentation"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The shadows did half the work that day.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gowGFEQG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -316,10 +569,21 @@
                   "text": "Thank you. Sometimes roses don't bloom well in November and early December. They get damaged by the wind, cold, rain, and strong sunlight. But the melancholic look of roses at this time of year is also beautiful!",
                   "permalink": "https://www.threads.com/@shiawasemainichi5/post/Df8GJaPkz9F",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Melancholy suits them - a beautiful late-season rose.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gqQ-m780",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -350,10 +614,21 @@
                   "text": "I live on a farm. Found this at daybreak walking out to the barn to feed the horse.",
                   "permalink": "https://www.threads.com/@coldhollowfarm/post/Df8E5MMFgwV",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Daybreak walks pay off like that.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8grlHlC0P",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -453,10 +728,20 @@
                   "text": "It was the only one framed in such a manner. It was an early season smattering of snow in the Sierra so ground coverage was very sporadic and sparse.",
                   "permalink": "https://www.threads.com/@victorvoltaphoto/post/Df8JjVQI45L",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The snow framed it exactly right.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gtHolFWj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "dianelynnturnbull",
                       "text": "I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot.",
@@ -498,10 +783,21 @@
                   "text": "After! It really made me happy at the surprise",
                   "permalink": "https://www.threads.com/@estella.haines/post/Df8Ody6Hcs7",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A happy surprise, right in the middle of the flower.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8guYEDLrd",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -525,10 +821,32 @@
               "photos": [
                 "Description: The photograph shows the gnarled, textured trunks of two large, leafless trees in the foreground, with a red brick building and green shrubs visible behind them. A black lamppost stands to the left of the trees. Photograph read: The image is taken in bright daylight with strong contrast between the sunlit tree bark and the shadowed areas. The composition is centered on the trees, with the building and shrubs forming a backdrop. The rendering appears to be a standard digital capture, with visible texture in the bark and some softness in the background foliage. Photo type: Natural"
               ],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Two trunks leaning apart like a doorway, and the bark doing the rest. Is this the same tree Jeffrey found, or another old one in the cemetery?",
+                  "permalink": "https://www.threads.com/@saars.foto/post/Df8gkyaEdGw",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "david.l.mcgee56",
+                      "text": "In Louisville, Kentucky",
+                      "permalink": "https://www.threads.com/@david.l.mcgee56/post/Df8hTs6mSbg",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -544,10 +862,21 @@
                   "text": "The left side is probably storm damage.",
                   "permalink": "https://www.threads.com/@jeffrey_janusch/post/Df8F069Fjln",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Storm damage or not, it reaches beautifully.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gvXxESvo",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -622,10 +951,21 @@
                   "text": "Stopped and took the shot first!",
                   "permalink": "https://www.threads.com/@dwordops/post/Df8V7vkHSme",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Stopping first was the right call.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gwapG66N",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -661,10 +1001,21 @@
           "photos": [
             "Description: A circular wooden structure on stilts sits atop a rocky, forested shoreline, with a wooden dock and logs in the foreground, all reflected in calm water. Photograph read: The image is taken from a distance across water, with natural daylight illuminating the scene. The composition is layered, showing the structure, rocks, and water. The rendering is clear enough to discern textures and forms, though some areas are in shadow. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A round little house on stilts, sitting over the water like it grew there. What is it for - a lookout, a cabin, or just the best seat on the shore?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df8gmaLEftk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kidsdrs",
@@ -691,10 +1042,21 @@
                   "text": "Waited until the service was over.",
                   "permalink": "https://www.threads.com/@kidsdrs/post/Df8FgyxGiS0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Worth the wait - the light was still there.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gyP_lHBK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -932,10 +1294,21 @@
                   "text": "These were in a window to be ready for the next day. It was amazing cheese, but very expensive.!",
                   "permalink": "https://www.threads.com/@storycatcher52/post/Df8IKaiFLz0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Beautiful cheese, and a beautiful window to find it in.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8gzSKADHr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1040,10 +1413,21 @@
                   "photos": [
                     "Description: A light-colored, curly-haired dog on a leash is sniffing seaweed at the base of large, barnacle-covered rocks on a wet beach, with a cliff and distant hills under an overcast sky. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting from an overcast sky. The focus is reasonably sharp on the dog and the immediate rocks, though the background is softly out of focus. The composition places the dog and rocks in the foreground, with the beach and cliffs receding into the background. Photo type: Natural"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lucky dog, lucky beach - a lovely part of the world.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8g0iQDhcT",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1103,10 +1487,21 @@
                   "text": "In my jewellery box\ud83e\ude77",
                   "permalink": "https://www.threads.com/@sma81/post/Df8QIIvnRFr",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A heart stone deserves a jewellery box.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8g1-ZnSLr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1439,7 +1834,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jglass8",
+                  "text": "I think he rents the interior, but really prefers the top floor.",
+                  "permalink": "https://www.threads.com/@jglass8/post/Df8gMa2FI8C",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1605,10 +2011,21 @@
                   "text": "I was on a walk-and I saw it, and I had to pick it up and marvel at its beauty. It\u2019s displayed in my casa now",
                   "permalink": "https://www.threads.com/@jammy.kollings/post/Df8NK7FFETX",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A good home for it - it earned the shelf.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8g3TRmyDp",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1639,10 +2056,21 @@
                   "text": "A board room? Meeting rooms for pretending to accomplish stuff? Executive offices with keys to the elevator? One cannot know.",
                   "permalink": "https://www.threads.com/@aaronschwartz1/post/Df8IP-goxhv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Pretending to accomplish stuff, with a view like that.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8g4odm6Dw",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1869,10 +2297,21 @@
                   "text": "Both. As usual, several other shots were not as good.",
                   "permalink": "https://www.threads.com/@unmitigatedme/post/Df8KSTem-xq",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Both it is - the good one found you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8g554Gr5s",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2718,10 +3157,21 @@
                   "text": "Hard to say\u2026.I was eyes wide open for the whole walk.",
                   "permalink": "https://www.threads.com/@hereyesonphotojewels/post/Df8EuArlHzR",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Eyes wide open is the whole trick.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df8g7KsHZ7J",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
