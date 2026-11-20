@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (188)
+## Needs Reply (190)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **robinohrt**:  ([link](https://www.threads.com/@robinohrt/post/Df-VgdgD8AB))
+  - Photo: Description: A three-masted sailing vessel with large, dark sails is underway on calm water under an overcast sky, with several people visible on deck and flags flying from the masts. Photograph read: The image is rendered in muted tones with diffuse, even lighting due to cloud cover. The subject is centered in the frame, with soft focus and minimal contrast, resulting in subdued detail across the sails, hull, and crew. Photo type: Photographic print or digital capture with soft focus and low contrast.
 - **ginamarie2221972**:  ([link](https://www.threads.com/@ginamarie2221972/post/Df-VBSlElWO))
   - Photo: Description: A silhouette of a person holding a fishing rod stands at the edge of a body of water, facing a sunset that reflects in the water, with a dark treeline in the background. Photograph read: The image is composed with the subject centered in silhouette against a warm-toned, reflective water surface and a gradient sky. Lighting is dominated by the sunset’s glow, casting the subject and foreground into shadow. Rendering appears flat with minimal texture or depth, lacking visible sharpness or detail. Photo type: Silhouette
     - Watch-outs: The subject’s silhouette is indistinct, lacking discernible features or clothing detail due to complete obscurity. The foreground grass and shoreline are uniformly dark and lack texture or edge definition.
@@ -103,6 +105,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
 - **marcinewiese**: I was actually just taking a picture of our apple trees in bloom...didn't see the jet until days later...lol ([link](https://www.threads.com/@marcinewiese/post/Df-SzjKGLYP))
   - _Replying to: All that blue, one thin line, and somewhere in there a jet …_
+- **jamesfine57**: It’s along the walk I take each day. ([link](https://www.threads.com/@jamesfine57/post/Df-VTqRn0Yo))
+  - _Replying to: One duck and all that still water - no wonder it brings you…_
 - **kcus_ym_kcid**: I was using sigma 150-600mm at 600mm zoom in and do some cropping. The problem is not how close but how long that i waited for this moment. ([link](https://www.threads.com/@kcus_ym_kcid/post/Df-Tb_tAepg))
   - _Replying to: Flying straight at you, wings wide, and nothing else in the…_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))

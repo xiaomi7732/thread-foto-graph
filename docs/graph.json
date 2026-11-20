@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 321,
+      "reply_count": 323,
       "replies": [
+        {
+          "username": "robinohrt",
+          "text": "",
+          "permalink": "https://www.threads.com/@robinohrt/post/Df-VgdgD8AB",
+          "photos": [
+            "Description: A three-masted sailing vessel with large, dark sails is underway on calm water under an overcast sky, with several people visible on deck and flags flying from the masts. Photograph read: The image is rendered in muted tones with diffuse, even lighting due to cloud cover. The subject is centered in the frame, with soft focus and minimal contrast, resulting in subdued detail across the sails, hull, and crew. Photo type: Photographic print or digital capture with soft focus and low contrast."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ginamarie2221972",
           "text": "",
@@ -882,7 +894,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jamesfine57",
+                  "text": "It\u2019s along the walk I take each day.",
+                  "permalink": "https://www.threads.com/@jamesfine57/post/Df-VTqRn0Yo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
