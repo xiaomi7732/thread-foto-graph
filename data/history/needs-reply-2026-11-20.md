@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (205)
+## Needs Reply (211)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **imtayamathias**:  ([link](https://www.threads.com/@imtayamathias/post/Df-w8rXkZCq))
+  - Photo: Description: A wide, flat field with patches of snow and exposed soil stretches under a clear blue sky, with a single prominent white cloud and a distant industrial smokestack visible beyond a line of bare trees. Photograph read: The composition is horizontal, with the field occupying the lower third and the sky the upper two-thirds. Lighting is bright and even, suggesting midday sun. The image has a uniform color tone and no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Landscape
 - **carolinaabq**:  ([link](https://www.threads.com/@carolinaabq/post/Df-ws1elvMl))
   - Photo: Description: A single bird is silhouetted against a gradient sky transitioning from pale blue at the top to warm orange near the bottom, suggesting either sunrise or sunset. Photograph read: The composition is vertical, with the bird positioned in the upper right quadrant. The sky exhibits a smooth color gradient with no visible clouds or texture. The bird’s silhouette is distinct but lacks discernible features due to backlighting. Photo type: Aesthetic landscape
 - **flinn.steve**:  ([link](https://www.threads.com/@flinn.steve/post/Df-wcqzkfVO))
@@ -111,6 +113,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **carakunzart**: We were leaving the Grand Canyon and heading to California. ([link](https://www.threads.com/@carakunzart/post/Df-tFADHzr7))
   - _Replying to: All that empty desert, and the signpost still gets the last…_
+- **wildrootslens**: A teeny tiny world within it. Kind of like Whoville in a snowflake 😂 ([link](https://www.threads.com/@wildrootslens/post/Df-w1PIEabg))
+  - _Replying to: That droplet is holding a whole little rainbow in it._
 - **yvetime**: Yes, that is a stork. ([link](https://www.threads.com/@yvetime/post/Df-v2PuDejc))
   - _Replying to: One bird in a hazy sky, barely more than a dark shape. Was …_
 - **life.as.art**: 5 a.m. Totally worth it. ([link](https://www.threads.com/@life.as.art/post/Df-tlgdFWnh))
@@ -123,10 +127,22 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A little beak poking out of the tree hole, waiting for brea…_
 - **chickievegas**: I’m an early riser. You usually hear them lighting the burner before you see them. ([link](https://www.threads.com/@chickievegas/post/Df-tMc1ibmK))
   - _Replying to: A balloon drifting over the rooftops like it owns the morni…_
+- **doctor.unka.tony**: I wasn't looking for it, but it was waiting for me. ([link](https://www.threads.com/@doctor.unka.tony/post/Df-xHvAlnlg))
+  - _Replying to: A small white bird in all that dark green - it is barely th…_
+- **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
+  - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
+    - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
+  - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
 - **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
+- **jeanlouisbaugnon**: Only one shot from inside, but a few more outside. 😊 I was real lucky to get that shot from the other side of the glass. ([link](https://www.threads.com/@jeanlouisbaugnon/post/Df-xDZgFGnS))
+  - Photo: Description: A green tree frog is clinging to a transparent surface, likely glass, with its limbs extended and eyes visible. Reflections of the frog and surrounding environment are visible on the surface. Photograph read: The image is taken at a slight angle, with the frog as the central subject. Lighting appears natural and diffused, casting soft shadows. The surface has a textured or ribbed pattern, and the background is out of focus. The frog’s skin texture and limb details are partially discernible. Photo type: Natural
+    - Watch-outs: The frog’s eyes are partially obscured by the reflection on the glass surface. The reflection of the frog’s limbs and body is visible but not sharp, reducing clarity of the subject’s posture.
+  - _Replying to: A frog pressed to the far side of the glass, and the ripple…_
 - **seattle2vegas1**: This is from my balcony. ([link](https://www.threads.com/@seattle2vegas1/post/Df-wclrGRGQ))
   - _Replying to: A rainbow landing right on the pyramid - Vegas showing off …_
+- **jh1962bike**: No, just silence in the mist . ([link](https://www.threads.com/@jh1962bike/post/Df-w_wIiOSy))
+  - _Replying to: A bird cutting through the fog past two fence posts - the w…_
 - **rickthomas742**: Hey Saar, glad you approve of the photos. I think the moon/chem trail pic was well before Kobe on my son’s farm. ([link](https://www.threads.com/@rickthomas742/post/Df-tzu4GLmS))
   - _Replying to: A dog sitting in the middle of a plowed field, with a cresc…_
 - **papi857**: The red against a mostly beige storefront with just this one lamp ([link](https://www.threads.com/@papi857/post/Df-tLzNFAap))
