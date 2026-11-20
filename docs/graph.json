@@ -10,7 +10,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 306,
+      "reply_count": 307,
       "replies": [
         {
           "username": "granfran66",
@@ -416,7 +416,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "32groove",
+                  "text": "This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist\u2019s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces.",
+                  "permalink": "https://www.threads.com/@32groove/post/Df8h2ojjBlV",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (120)
+## Needs Reply (121)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **granfran66**:  ([link](https://www.threads.com/@granfran66/post/Df8gSAen8lQ))
@@ -24,6 +24,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **tim22974**: Landed like that; saw it on my dog walk; had to stop!! ([link](https://www.threads.com/@tim22974/post/Df8gmCQmVpf))
   - _Replying to: That red against the green is doing all the shouting. Did i…_
+- **32groove**: This image is a hologram I photographed during a visit to WonderSpaces in Austin, Texas several years ago. In the artist’s exhibit, it was spinning around with the top section rotating opposite the bottom section. There were so many terrific artist exhibits on display at WonderSpaces. ([link](https://www.threads.com/@32groove/post/Df8h2ojjBlV))
+  - _Replying to: A ring of spikes with a hole straight through the middle - …_
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
   - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
 - **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
