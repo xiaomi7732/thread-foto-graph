@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (207)
+## Needs Reply (210)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mrs.trellis**:  ([link](https://www.threads.com/@mrs.trellis/post/Df-aQlTjbt2))
+  - Photo: Description: A gravel path extends through a forested area, flanked by dense green vegetation and tall trees, with a partly cloudy sky visible above. Photograph read: The path is centered in the frame, leading into the distance. Lighting is natural daylight, with some shadows cast by the foliage. The image has a shallow depth of field, with the foreground path in focus and the background gradually blurring. Photo type: Natural landscape
+- **wildrootslens**:  ([link](https://www.threads.com/@wildrootslens/post/Df-Zy74HfMW))
+  - Photo: Description: A single, spherical water droplet rests on a textured green leaf, reflecting light and surrounding details with rainbow-like refractions. A partially eaten leaf is visible in the upper left. Photograph read: The droplet is in focus and centrally positioned, with visible internal reflections and refractions. The leaf surface shows fine texture and veins. Lighting is bright and direct, casting a soft shadow beneath the droplet. The image has a shallow depth of field, with the background leaf slightly out of focus. Photo type: Macro
+    - Watch-outs: The droplet’s surface reflects a distorted, colorful image of the leaf, obscuring direct observation of the leaf’s surface texture beneath it. The upper-left leaf shows a torn edge, but the area is not sharply defined due to shallow depth of field.
 - **muzzyscollage**:  ([link](https://www.threads.com/@muzzyscollage/post/Df-ZvC8I7f0))
   - Photo: Description: A peeled banana rests on a white, ridged plastic tray, which is placed on a dark, textured surface. The banana is curved and appears to be partially eaten or broken at one end. Photograph read: The image is taken from a top-down perspective with even, direct lighting. The tray’s ridges and embossed text are visible, and the banana’s surface shows natural texture and slight sheen. The background is uniformly dark and out of focus, with no discernible depth or detail. Photo type: Still life
     - Watch-outs: - The banana’s peel shows minor imperfections and slight discoloration, but no significant damage or obscuring marks. - The tray’s embossed text is partially legible but not fully clear due to shallow depth of field and minor surface wear.
@@ -157,6 +162,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One bare tree, and the whole snowy forest doubled in the wa…_
 - **bumpy120**: I'm in Quebec Canada. It's starting to get cold here. The Lady bugs are getting very sluggish. This one was just sitting there! ([link](https://www.threads.com/@bumpy120/post/Df-SFwKH_-P))
   - _Replying to: All those spots, and the ladybug still looks like it is pos…_
+- **pennyhay83**: Almost 11.30p.m ([link](https://www.threads.com/@pennyhay83/post/Df-Z74ymvyc))
+  - _Replying to: Just a sliver of moon and nothing else - what time of night…_
 - **travistribevibes**: Unfortunately that was a quick shot while driving. A lot of my unique and colorful shots come from windshield and out the window shots. ([link](https://www.threads.com/@travistribevibes/post/Df-UpE5ln29))
   - Photo: Description: The image shows a view from inside a vehicle looking out onto a wet road curving to the left, under a vividly colored sky at sunset or sunrise, with trees and a distant horizon visible. Photograph read: The composition is framed by the car’s dashboard and windshield, with the sky exhibiting saturated orange, pink, and purple hues. The road surface reflects the sky’s colors, and the windshield shows visible water droplets or streaks. The image has a slightly soft focus and a visible color cast, with no discernible sharpness in the foreground or background elements. Photo type: Aesthetic
     - Watch-outs: The windshield is covered with water droplets or streaks, obscuring clear visibility of the road and sky. The overall image has a soft focus, reducing the sharpness of edges and fine details across the entire frame.

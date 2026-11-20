@@ -13,8 +13,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 340,
+      "reply_count": 343,
       "replies": [
+        {
+          "username": "mrs.trellis",
+          "text": "",
+          "permalink": "https://www.threads.com/@mrs.trellis/post/Df-aQlTjbt2",
+          "photos": [
+            "Description: A gravel path extends through a forested area, flanked by dense green vegetation and tall trees, with a partly cloudy sky visible above. Photograph read: The path is centered in the frame, leading into the distance. Lighting is natural daylight, with some shadows cast by the foliage. The image has a shallow depth of field, with the foreground path in focus and the background gradually blurring. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "wildrootslens",
+          "text": "",
+          "permalink": "https://www.threads.com/@wildrootslens/post/Df-Zy74HfMW",
+          "photos": [
+            "Description: A single, spherical water droplet rests on a textured green leaf, reflecting light and surrounding details with rainbow-like refractions. A partially eaten leaf is visible in the upper left. Photograph read: The droplet is in focus and centrally positioned, with visible internal reflections and refractions. The leaf surface shows fine texture and veins. Lighting is bright and direct, casting a soft shadow beneath the droplet. The image has a shallow depth of field, with the background leaf slightly out of focus. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "The droplet\u2019s surface reflects a distorted, colorful image of the leaf, obscuring direct observation of the leaf\u2019s surface texture beneath it. The upper-left leaf shows a torn edge, but the area is not sharply defined due to shallow depth of field."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "muzzyscollage",
           "text": "",
@@ -1483,7 +1510,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pennyhay83",
+                  "text": "Almost 11.30p.m",
+                  "permalink": "https://www.threads.com/@pennyhay83/post/Df-Z74ymvyc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
