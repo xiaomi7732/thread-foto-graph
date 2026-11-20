@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (158)
+## Needs Reply (162)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **marcinewiese**: If you look closely you'll see one lone jet flying over the city ([link](https://www.threads.com/@marcinewiese/post/Df-JsHNmFjw))
+  - Photo: Description: A cluster of flowering trees, including white blossoms and some with pink blooms, is set against a clear blue sky, with a thin contrail visible in the upper center. Photograph read: The image is taken from a low angle, capturing the tops of trees against a bright sky. Lighting is even and natural, with no visible shadows or overexposure. The rendering is sharp enough to distinguish individual blossoms and tree branches, though some foliage is slightly out of focus. Photo type: Natural landscape
 - **jamesfine57**: I’ve posted this before but it brings me peace when I see it… ([link](https://www.threads.com/@jamesfine57/post/Df-I-dRn5jA))
   - Photo: Description: A single duck swims on a calm body of water, with a dark, tree-lined shore visible in the distance under a muted sky. Reflections of the trees are mirrored on the water’s surface. Photograph read: The image has a soft, slightly grainy texture with muted tones. The duck is in silhouette, and the water’s surface is smooth, reflecting the distant treeline. Lighting is diffuse, suggesting dawn or dusk, with no harsh shadows or bright highlights. Photo type: Natural landscape
     - Watch-outs: The duck’s form is indistinct due to low contrast and soft focus, making fine feather details unreadable. The distant treeline is blurred and lacks sharp definition, reducing the clarity of the background.
@@ -49,14 +51,18 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
 - **2killamockingbird**: From a peacock 🦚 in a state garden I visted... ([link](https://www.threads.com/@2killamockingbird/post/Df-I6RogACS))
   - _Replying to: The eye of the feather, staring right back - all that blue …_
+- **haydnvera**: Couldn’t get more quiet than that shot. Void of everything; noise and action. A whole lot of nothing. The water was like glass and it was a very overcast day. ([link](https://www.threads.com/@haydnvera/post/Df-JYjEoN3s))
+  - _Replying to: Four posts and a whole lot of nothing else - the '6' sign f…_
 - **gingertom43**: It just struck me as beautiful, lonely,swimming in a big puddle. Bit like life really. ([link](https://www.threads.com/@gingertom43/post/Df-HsfzEUHp))
   - _Replying to: One yellow leaf, and the whole grey pavement suddenly has a…_
-- **infamous_harsh1t**: I was walking through my society garden, towards the gate, to buy some groceries, and then I saw this interesting pole near the garden entrance. I took the photo, and thus it was born ([link](https://www.threads.com/@infamous_harsh1t/post/Df-IGlPAKqD))
+- **infamous_harsh1t**: I was walking through my society garden, towards the gate, to buy some groceries, and then I saw this interesting pole near the garden entrance. I took the photo with my vivo phone, and thus it was born ([link](https://www.threads.com/@infamous_harsh1t/post/Df-IGlPAKqD))
   - _Replying to: A pole, indeed - and somehow the most honest subject of the…_
 - **thatguyale**: Trash can outside of a McDonald's. ([link](https://www.threads.com/@thatguyale/post/Df-I-58FKNC))
   - _Replying to: A crow on a trash can, holding court against a whole blank …_
 - **dianelynnturnbull**: It wasn't alive but too beautiful to pass by. ([link](https://www.threads.com/@dianelynnturnbull/post/Df-HQrplEj0))
   - _Replying to: Those wings, still perfect against the wet ground. Was it a…_
+- **ranbalam**: It stayed for at least 15 minutes, then I had to move on. ([link](https://www.threads.com/@ranbalam/post/Df-JS9GJccA))
+  - _Replying to: A bird perched on a floodlight like it booked the best seat…_
 - **pancha.indera**: just sit there ([link](https://www.threads.com/@pancha.indera/post/Df-JDKwGr8t))
   - _Replying to: One bird, a sky full of wires, and it picked that one. Did …_
 - **forrestkirby**: He was very cooperative! LOL ([link](https://www.threads.com/@forrestkirby/post/Df-G3ICkfDV))
@@ -186,6 +192,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Four people, two skies, and the raft floating right between…_
 - **nickiddon**: Two pirogues (dug-out canoes) and yes - it's upside down. ([link](https://www.threads.com/@nickiddon/post/Df7aFFvDfRZ))
   - _Replying to: Four people, two skies, and the raft floating right between…_
+- **louisarobyn**: Oh a few hours because each hall led to another one and they were all so amazing I didn't want to leave! ([link](https://www.threads.com/@louisarobyn/post/Df-JmceiIxb))
+  - _Replying to: I think letting the mirrors do the work was the right call …_
 - **bedsheetcinema**:  ([link](https://www.threads.com/@bedsheetcinema/post/Df6-ureESM8))
   - Photo: Description: A close-up of a car’s side-view mirror, showing a textured, frosted surface, with a cracked asphalt road visible in the foreground and background. Photograph read: The mirror’s surface is covered in a patterned, reflective texture, likely from water or a film. The image has a muted color palette and soft focus, with visible grain or noise. Lighting is diffuse, casting no strong shadows or highlights. Photo type: Photographic
     - Watch-outs: The mirror’s surface is obscured by a textured, non-reflective layer, limiting visibility of reflected details. The foreground asphalt shows visible cracks, but the image lacks sharpness, reducing detail clarity.
