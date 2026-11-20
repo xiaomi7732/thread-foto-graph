@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 332,
+      "reply_count": 333,
       "replies": [
         {
           "username": "seniorfitgal",
@@ -533,7 +533,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "looksatthesky7",
+                  "text": "Probably wondering when he might get a treat!",
+                  "permalink": "https://www.threads.com/@looksatthesky7/post/Df-XmzEk6wY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
