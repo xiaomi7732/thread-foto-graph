@@ -13,8 +13,56 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 214,
+      "reply_count": 220,
       "replies": [
+        {
+          "username": "a_lone_crow_",
+          "text": "",
+          "permalink": "https://www.threads.com/@a_lone_crow_/post/Df-Lbk1CL5d",
+          "photos": [
+            "Description: A black silhouette of a bird perches atop a bare, twisted tree branch against a uniformly bright white background. Photograph read: The image is high-contrast, with the subject rendered as a solid dark shape against a featureless white field. The tree branches are visible as dark, angular lines, and the bird is a small, distinct silhouette. No visible motion blur, noise, or color information is present. Photo type: Silhouette"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "debi0528",
+          "text": "NJ",
+          "permalink": "https://www.threads.com/@debi0528/post/Df-LZkJpSdA",
+          "photos": [
+            "Description: A crescent moon hangs in a clear sky above the silhouetted tops of trees and a dark foreground surface, with a subtle color gradient from pale to deeper blue in the sky. Photograph read: The composition places the moon high in the frame, with tree silhouettes occupying the lower third. Lighting suggests twilight, with the sky showing a smooth gradient and the trees appearing as dark, textured shapes. The image has a uniform, slightly soft rendering without visible sharpness or motion blur. Photo type: Aesthetic landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "thedaveatkins",
+          "text": "",
+          "permalink": "https://www.threads.com/@thedaveatkins/post/Df-LDlMmDxf",
+          "photos": [
+            "Description: A crescent moon is visible against a completely black background, with its illuminated portion showing surface features. Photograph read: The moon is positioned off-center, with a clear contrast between its lit surface and the dark sky. Surface texture and craters are discernible but not sharply defined. The image lacks any visible foreground or background elements. Photo type: Astronomical"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "chezvies_shop",
+          "text": "",
+          "permalink": "https://www.threads.com/@chezvies_shop/post/Df-LDMrH9Kr",
+          "photos": [
+            "Description: A dark-colored bird perches on a slender, leafy branch against a clear, uniform blue sky. The bird\u2019s head and beak are angled upward, and the branch extends diagonally from the lower right. Photograph read: The composition is dominated by the expansive blue sky, with the bird and branch occupying the lower right quadrant. Lighting appears direct and bright, casting subtle shadows on the bird\u2019s body and highlighting the branch\u2019s texture. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Nature"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "artgowie",
           "text": "",
@@ -498,7 +546,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "trotta.james",
+                  "text": "Ooh I believe high noon. Just so Blue!",
+                  "permalink": "https://www.threads.com/@trotta.james/post/Df-LWk6kanU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1332,7 +1391,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "srravi",
+                          "text": "Many thanks \ud83d\ude0a again \ud83d\ude4f",
+                          "permalink": "https://www.threads.com/@srravi/post/Df-LN17kpwd",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

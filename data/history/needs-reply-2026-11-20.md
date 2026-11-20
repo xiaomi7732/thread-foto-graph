@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (165)
+## Needs Reply (171)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **a_lone_crow_**:  ([link](https://www.threads.com/@a_lone_crow_/post/Df-Lbk1CL5d))
+  - Photo: Description: A black silhouette of a bird perches atop a bare, twisted tree branch against a uniformly bright white background. Photograph read: The image is high-contrast, with the subject rendered as a solid dark shape against a featureless white field. The tree branches are visible as dark, angular lines, and the bird is a small, distinct silhouette. No visible motion blur, noise, or color information is present. Photo type: Silhouette
+- **debi0528**: NJ ([link](https://www.threads.com/@debi0528/post/Df-LZkJpSdA))
+  - Photo: Description: A crescent moon hangs in a clear sky above the silhouetted tops of trees and a dark foreground surface, with a subtle color gradient from pale to deeper blue in the sky. Photograph read: The composition places the moon high in the frame, with tree silhouettes occupying the lower third. Lighting suggests twilight, with the sky showing a smooth gradient and the trees appearing as dark, textured shapes. The image has a uniform, slightly soft rendering without visible sharpness or motion blur. Photo type: Aesthetic landscape
+- **thedaveatkins**:  ([link](https://www.threads.com/@thedaveatkins/post/Df-LDlMmDxf))
+  - Photo: Description: A crescent moon is visible against a completely black background, with its illuminated portion showing surface features. Photograph read: The moon is positioned off-center, with a clear contrast between its lit surface and the dark sky. Surface texture and craters are discernible but not sharply defined. The image lacks any visible foreground or background elements. Photo type: Astronomical
+- **chezvies_shop**:  ([link](https://www.threads.com/@chezvies_shop/post/Df-LDMrH9Kr))
+  - Photo: Description: A dark-colored bird perches on a slender, leafy branch against a clear, uniform blue sky. The bird’s head and beak are angled upward, and the branch extends diagonally from the lower right. Photograph read: The composition is dominated by the expansive blue sky, with the bird and branch occupying the lower right quadrant. Lighting appears direct and bright, casting subtle shadows on the bird’s body and highlighting the branch’s texture. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Nature
 - **artgowie**:  ([link](https://www.threads.com/@artgowie/post/Df-K3NCFtmr))
   - Photo: Description: A wide, flat horizon separates a uniformly gray sky from a calm body of water, with faint, distant landmasses barely visible beneath a thin band of light near the horizon. Photograph read: The composition is dominated by a large expanse of sky and water, with minimal contrast. Lighting is diffuse and muted, creating a soft, even tone across the scene. Reflections on the water are subdued, and the distant landforms are rendered as faint silhouettes. Photo type: Landscape
 - **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/Df-J8fMiMPq))
@@ -55,6 +63,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
 - **l.squared2**: It’s a lily pad. It’s connected to the bottom of the lake. ([link](https://www.threads.com/@l.squared2/post/Df-Im1AmzNN))
   - _Replying to: One orange leaf doing all the glowing while the water stays…_
+- **trotta.james**: Ooh I believe high noon. Just so Blue! ([link](https://www.threads.com/@trotta.james/post/Df-LWk6kanU))
+  - _Replying to: Mostly sky, just the treetops creeping in at the edges - I …_
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
 - **2killamockingbird**: From a peacock 🦚 in a stately garden I visted... ([link](https://www.threads.com/@2killamockingbird/post/Df-I6RogACS))
@@ -65,6 +75,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One yellow leaf, and the whole grey pavement suddenly has a…_
 - **infamous_harsh1t**: I was walking through my society garden, towards the gate, to buy some groceries, and then I saw this interesting pole near the garden entrance. I took the photo with my vivo phone, and thus it was born ([link](https://www.threads.com/@infamous_harsh1t/post/Df-IGlPAKqD))
   - _Replying to: A pole, indeed - and somehow the most honest subject of the…_
+- **srravi**: Many thanks 😊 again 🙏 ([link](https://www.threads.com/@srravi/post/Df-LN17kpwd))
+  - _Replying to: Those long legs doubled in the still water - a lovely pair …_
 - **thatguyale**: Trash can outside of a McDonald's. ([link](https://www.threads.com/@thatguyale/post/Df-I-58FKNC))
   - _Replying to: A crow on a trash can, holding court against a whole blank …_
 - **dianelynnturnbull**: It wasn't alive but too beautiful to pass by. ([link](https://www.threads.com/@dianelynnturnbull/post/Df-HQrplEj0))
