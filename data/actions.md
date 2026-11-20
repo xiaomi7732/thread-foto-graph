@@ -6,9 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (204)
+## Needs Reply (207)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **muzzyscollage**:  ([link](https://www.threads.com/@muzzyscollage/post/Df-ZvC8I7f0))
+  - Photo: Description: A peeled banana rests on a white, ridged plastic tray, which is placed on a dark, textured surface. The banana is curved and appears to be partially eaten or broken at one end. Photograph read: The image is taken from a top-down perspective with even, direct lighting. The tray’s ridges and embossed text are visible, and the banana’s surface shows natural texture and slight sheen. The background is uniformly dark and out of focus, with no discernible depth or detail. Photo type: Still life
+    - Watch-outs: - The banana’s peel shows minor imperfections and slight discoloration, but no significant damage or obscuring marks. - The tray’s embossed text is partially legible but not fully clear due to shallow depth of field and minor surface wear.
+- **suzannecheavens**:  ([link](https://www.threads.com/@suzannecheavens/post/Df-ZeZaj0uB))
+  - Photo: Description: A single yellow-green leaf with a water droplet rests on the surface of shallow, clear water over a bed of wet, rounded pebbles. Photograph read: The image is a top-down view with even, diffused lighting. The leaf and pebbles are in focus, showing surface textures and water reflections. The water surface is relatively still, allowing for clear visibility of the leaf’s veins and the pebbles beneath. Photo type: Macro
+- **yvetime**:  ([link](https://www.threads.com/@yvetime/post/Df-ZOtfDW1H))
+  - Photo: Description: A single bird, likely a stork, is silhouetted against a uniformly hazy sky with faint, low-lying cloud formations at the bottom. Photograph read: The image has a flat, muted color palette with diffuse lighting. The bird is centered in the upper half, appearing as a dark shape with minimal visible texture or detail. The sky lacks contrast and shows no sharp edges or defined features. Photo type: Unclear
+    - Watch-outs: The bird’s silhouette lacks discernible feather texture or anatomical detail due to low contrast. The entire image exhibits a uniform grainy texture, reducing fine detail visibility across the frame.
 - **life.as.art**: In the Namib Desert, sunrise ([link](https://www.threads.com/@life.as.art/post/Df-ZKtWIPcn))
   - Photo: Description: A solitary, leafless tree stands in silhouette against a gradient sky at sunrise or sunset, with layered mountain ranges receding into the horizon over a flat, dark foreground. Photograph read: The tree and foreground are rendered as dark silhouettes, with the sky transitioning from a warm yellow-orange near the horizon to a cooler blue-gray above. The distant mountains are softly defined by atmospheric haze. The foreground terrain shows minimal texture detail. Photo type: Landscape
 - **skriege2**: He sadly froze to my garage door sensor! ([link](https://www.threads.com/@skriege2/post/Df-ZBHvmW6U))
