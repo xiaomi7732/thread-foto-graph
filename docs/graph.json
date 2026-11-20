@@ -13,8 +13,32 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 582,
+      "reply_count": 588,
       "replies": [
+        {
+          "username": "carolinaabq",
+          "text": "",
+          "permalink": "https://www.threads.com/@carolinaabq/post/Df-ws1elvMl",
+          "photos": [
+            "Description: A single bird is silhouetted against a gradient sky transitioning from pale blue at the top to warm orange near the bottom, suggesting either sunrise or sunset. Photograph read: The composition is vertical, with the bird positioned in the upper right quadrant. The sky exhibits a smooth color gradient with no visible clouds or texture. The bird\u2019s silhouette is distinct but lacks discernible features due to backlighting. Photo type: Aesthetic landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "flinn.steve",
+          "text": "",
+          "permalink": "https://www.threads.com/@flinn.steve/post/Df-wcqzkfVO",
+          "photos": [
+            "Description: A wide expanse of water under a cloudy sky, with two swans swimming near a dock on the right side and a distant shoreline. The water reflects sunlight, creating a shimmering surface. Photograph read: The composition is horizontal, with the horizon centered. Lighting is diffuse, with bright reflections on the water and muted tones in the sky. The image has a natural color palette and moderate contrast, with no visible signs of overexposure or underexposure. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jen.isenor",
           "text": "",
@@ -937,7 +961,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "velosy",
+                  "text": "I have no clue! It filtered through the tree branches like that. I'm an amateur with a mobile phone who enjoys taking photos and occasionally takes a good one.",
+                  "permalink": "https://www.threads.com/@velosy/post/Df-wcgwCGFB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1103,7 +1138,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tallymountain",
+                  "text": "Yes, it was so pretty \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@tallymountain/post/Df-wiiGEofN",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1406,6 +1452,16 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "stephen_deakin_composer",
+              "text": "The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame.",
+              "permalink": "https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "An archway framing a column and a whole lot of blue sky - Rome in one quiet corner. What made you stop and frame that archway?",
@@ -2814,7 +2870,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "seattle2vegas1",
+                  "text": "This is from my balcony.",
+                  "permalink": "https://www.threads.com/@seattle2vegas1/post/Df-wclrGRGQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

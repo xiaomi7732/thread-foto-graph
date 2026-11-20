@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (199)
+## Needs Reply (205)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **carolinaabq**:  ([link](https://www.threads.com/@carolinaabq/post/Df-ws1elvMl))
+  - Photo: Description: A single bird is silhouetted against a gradient sky transitioning from pale blue at the top to warm orange near the bottom, suggesting either sunrise or sunset. Photograph read: The composition is vertical, with the bird positioned in the upper right quadrant. The sky exhibits a smooth color gradient with no visible clouds or texture. The bird’s silhouette is distinct but lacks discernible features due to backlighting. Photo type: Aesthetic landscape
+- **flinn.steve**:  ([link](https://www.threads.com/@flinn.steve/post/Df-wcqzkfVO))
+  - Photo: Description: A wide expanse of water under a cloudy sky, with two swans swimming near a dock on the right side and a distant shoreline. The water reflects sunlight, creating a shimmering surface. Photograph read: The composition is horizontal, with the horizon centered. Lighting is diffuse, with bright reflections on the water and muted tones in the sky. The image has a natural color palette and moderate contrast, with no visible signs of overexposure or underexposure. Photo type: Natural landscape
 - **jen.isenor**:  ([link](https://www.threads.com/@jen.isenor/post/Df-vnBxkQBs))
   - Photo: Description: A small bird perches on a thin horizontal line against a solid blue background, with a clear reflection of the bird visible below the line. Photograph read: The image is composed with a single subject centered on a horizontal line, set against a uniform blue field. Lighting is even and diffuse, with no visible shadows or highlights. The rendering is flat, with no discernible depth or texture beyond the bird and its reflection. Photo type: Still life
     - Watch-outs: The bird’s features are indistinct due to low resolution; fine plumage details are not visible. The reflection is slightly blurred and lacks sharpness, indicating a potential focus or resolution limitation.
@@ -83,10 +87,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: An ear, two earrings, and nothing else competing for attent…_
 - **newsie12**: No, I just turned as I walked past and saw it and had to capture it. I think of people I’ve lost and would like to sit there with and talk whenever I flip passed the image. ([link](https://www.threads.com/@newsie12/post/Df-uIUXlGwr))
   - _Replying to: Two white benches under a bright moon, waiting for someone …_
+- **velosy**: I have no clue! It filtered through the tree branches like that. I'm an amateur with a mobile phone who enjoys taking photos and occasionally takes a good one. ([link](https://www.threads.com/@velosy/post/Df-wcgwCGFB))
+  - _Replying to: The sun going down behind the bare trees, with the flare sp…_
 - **floresgeo_t**: It’s a small ceramic bottle holding a 4 inches tall, 6 months plant……that answers your question? 🌱🌿 ([link](https://www.threads.com/@floresgeo_t/post/Df-uQlZgeg4))
   - _Replying to: Your tiniest plant, holding the whole windowsill. How old i…_
 - **riverbedsky2229**: Yes. Not very lush. ([link](https://www.threads.com/@riverbedsky2229/post/Df-ulc0GZk-))
   - _Replying to: A lone tree against a plain wall, with nothing else asking …_
+- **tallymountain**: Yes, it was so pretty 😊 ([link](https://www.threads.com/@tallymountain/post/Df-wiiGEofN))
+  - _Replying to: A whole sky fading from blue to orange, with one small moon…_
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
@@ -94,6 +102,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rhubi out in the shallows with a red ball for company - tha…_
 - **lynnpearcephotographer**: Probably Jan Mayen, as it is an uninhabited island, except for a small group of geologists greeting us the morning we arrived. Fiercely cold and windy, even the seabirds had taken shelter leaving a disarming stillness. Thanks for the question. 🙏🏼 ([link](https://www.threads.com/@lynnpearcephotographer/post/Df-uSmLkTu4))
   - _Replying to: Four quiet corners of the sea, from Jan Mayen to the Solent…_
+- **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))
+  - _Replying to: (photo reply, no text)_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **pattijphoto**: It was a classical piece. I love the candid moments. Dress rehearsal. Quite awhile ago. Too many to remember ☺️ ([link](https://www.threads.com/@pattijphoto/post/Df-wAI9EZfq))
@@ -117,6 +127,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A balloon drifting over the rooftops like it owns the morni…_
 - **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
+- **seattle2vegas1**: This is from my balcony. ([link](https://www.threads.com/@seattle2vegas1/post/Df-wclrGRGQ))
+  - _Replying to: A rainbow landing right on the pyramid - Vegas showing off …_
 - **rickthomas742**: Hey Saar, glad you approve of the photos. I think the moon/chem trail pic was well before Kobe on my son’s farm. ([link](https://www.threads.com/@rickthomas742/post/Df-tzu4GLmS))
   - _Replying to: A dog sitting in the middle of a plowed field, with a cresc…_
 - **papi857**: The red against a mostly beige storefront with just this one lamp ([link](https://www.threads.com/@papi857/post/Df-tLzNFAap))
