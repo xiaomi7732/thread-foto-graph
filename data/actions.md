@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (165)
+## Needs Reply (167)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **nix633**: A remote beach in North Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ([link](https://www.threads.com/@nix633/post/Df-R6hDiCGz))
+  - Photo: Description: A weathered, overturned wooden boat rests on a pebble beach, with a black-and-white dog standing in the distance near the water’s edge. A grassy cliffside slopes upward to the right, meeting a dark, overcast sky above a calm sea. Photograph read: The image is taken under diffuse, overcast lighting with no strong directional shadows. The composition places the boat prominently in the foreground, while the dog and sea recede into the midground. The sky is uniformly gray, and the sea appears flat and muted. The boat’s paint is peeling, and its structure is visibly damaged. Photo type: Natural landscape
+    - Watch-outs: - The dog’s features are indistinct due to distance and low contrast; its form is recognizable but lacks fine detail. - The boat’s painted lettering is partially faded and illegible; the word “TROUG” is visible but incomplete and worn.
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/Df-RcQ1EQyY))
   - Photo: Description: A single paraglider with a dark, possibly teal-colored canopy is suspended in a vast, clear blue sky. The pilot is visible as a small silhouette beneath the canopy. Photograph read: The image is vertically oriented with a uniform blue background. The paraglider is centered in the upper half of the frame, appearing small due to distance. Lighting is even and bright, suggesting a clear day with no visible shadows or contrast extremes. Photo type: Aerial
 - **grayghostlife**:  ([link](https://www.threads.com/@grayghostlife/post/Df-QSPEGRU4))
@@ -63,6 +66,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
 - **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))
   - _Replying to: One bare tree, and the whole snowy forest doubled in the wa…_
+- **bumpy120**: I'm in Quebec Canada. It's starting to get cold here. The Lady bugs are getting very sluggish. This one was just sitting there! ([link](https://www.threads.com/@bumpy120/post/Df-SFwKH_-P))
+  - _Replying to: All those spots, and the ladybug still looks like it is pos…_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
 - **trotta.james**: Thanks for looking. I enjoying taking this shot! ([link](https://www.threads.com/@trotta.james/post/Df-P8pyoKuv))
