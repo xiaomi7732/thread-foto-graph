@@ -4,7 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (127)
+## Needs Reply (129)
+
+### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
+- **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
+- **akmaleky**: Finally I got featured. Thank you 😍 ([link](https://www.threads.com/@akmaleky/post/Df9YbWlGvXs))
+  - _Replying to: @akmaleky Your pipes are slide two of the Shaped Thursday f…_
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **pandandalee**: I found this baked potato on my bed ([link](https://www.threads.com/@pandandalee/post/Df9PyCVG_mj))
