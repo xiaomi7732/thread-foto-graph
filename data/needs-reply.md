@@ -4,9 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (212)
+## Needs Reply (218)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **grassybranch**:  ([link](https://www.threads.com/@grassybranch/post/Df-yMHQjk-B))
+  - Photo: Description: A bright green frog is perched on the rim of a terracotta pot, with a striped ball and a yellow-handled tool visible inside the pot. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The frog is in focus, but the background and interior of the pot are less sharp. The composition centers the frog against the pot’s curved rim. Photo type: Portrait
+- **docnyberg**:  ([link](https://www.threads.com/@docnyberg/post/Df-yHenEdqj))
+  - Photo: Description: A single bird, likely a seabird, is captured in mid-flight against a uniform, hazy sky that transitions from pale yellow at the bottom to grayish tones above. Photograph read: The image has a flat, even exposure with no discernible shadows or highlights. The bird is silhouetted, lacking texture or color detail. The sky is uniformly out of focus, with no visible cloud structure or atmospheric features. Photo type: Unclear
+    - Watch-outs: The bird’s wings and body are indistinct, lacking visible feather detail or contour. The entire sky area is uniformly blurred, obscuring any potential background context or depth.
+- **froststudiosphoto**:  ([link](https://www.threads.com/@froststudiosphoto/post/Df-yDl9GEpG))
+  - Photo: Description: The image shows a calm body of water with weathered wooden pilings and moss-covered rocks extending from the right foreground, under a hazy sky with distant landmasses and a faint ship on the horizon. Photograph read: The composition features a low horizon, with the water occupying most of the frame. Lighting is diffuse and even, resulting in muted tones and soft reflections. The water surface appears smooth, suggesting a long exposure or windless conditions. Reflections of pilings are visible, but no sharp edges or textures are discernible. Photo type: Long exposure
+    - Watch-outs: - The entire image appears blurred; fine detail is not distinguishable on pilings, rocks, or distant land. - The distant ship and shoreline are indistinct due to atmospheric haze, reducing clarity and definition.
+- **dhome510**:  ([link](https://www.threads.com/@dhome510/post/Df-x_wrlkGp))
+  - Photo: Description: A clear glass vase holds two slender stems with small white flowers and green buds, positioned against a dark, plain wall on a light-colored surface. Photograph read: The image is vertically oriented, with the vase centered slightly to the right. Lighting appears to come from the front, casting a soft shadow behind the vase. The glass vase has visible facets and reflects ambient light. The background is uniformly dark with no texture or detail. Photo type: Still life
 - **richmanannie**:  ([link](https://www.threads.com/@richmanannie/post/Df-xy8Co2Ve))
   - Photo: Description: A city skyline is visible across a body of water under a bright blue sky, with a prominent white contrail forming a looping, abstract pattern in the upper left. Scattered cumulus clouds are present, particularly on the right. Photograph read: The sky is clear and blue, with the contrail and clouds providing contrast. The water reflects sunlight, creating a glittering surface. The skyline is silhouetted against the horizon. The image appears to be captured with a standard camera, showing no visible signs of distortion or aberration. Photo type: Aerial landscape
 - **imtayamathias**:  ([link](https://www.threads.com/@imtayamathias/post/Df-w8rXkZCq))
@@ -131,6 +141,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A balloon drifting over the rooftops like it owns the morni…_
 - **doctor.unka.tony**: I wasn't looking for it, but it was waiting for me. ([link](https://www.threads.com/@doctor.unka.tony/post/Df-xHvAlnlg))
   - _Replying to: A small white bird in all that dark green - it is barely th…_
+- **tantesaysgo**: Destiny? ([link](https://www.threads.com/@tantesaysgo/post/Df-yA0BEVo1))
+  - _Replying to: A vine reaching across the sky, all curls and thin green li…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
@@ -147,6 +159,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A bird cutting through the fog past two fence posts - the w…_
 - **rickthomas742**: Hey Saar, glad you approve of the photos. I think the moon/chem trail pic was well before Kobe on my son’s farm. ([link](https://www.threads.com/@rickthomas742/post/Df-tzu4GLmS))
   - _Replying to: A dog sitting in the middle of a plowed field, with a cresc…_
+- **giantsfands**: It was about 6:30 am, if I recall. I’d need to check to original file for a time stamp. ([link](https://www.threads.com/@giantsfands/post/Df-yRFUCcLS))
+  - _Replying to: One rower in the mist, and the water barely awake. What tim…_
 - **papi857**: The red against a mostly beige storefront with just this one lamp ([link](https://www.threads.com/@papi857/post/Df-tLzNFAap))
   - _Replying to: I have seen the light - and it is bright red, curled over t…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
