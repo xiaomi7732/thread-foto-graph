@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 293,
+      "reply_count": 295,
       "replies": [
         {
           "username": "grayghostlife",
@@ -799,7 +799,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kewibrophotography",
+                  "text": "The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone.",
+                  "permalink": "https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1639,7 +1650,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "auerbach_photos",
+                  "text": "It was a table setting and the napkins were so beautifully dancing on the tablecloth!",
+                  "permalink": "https://www.threads.com/@auerbach_photos/post/Df-QsyeFuyQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

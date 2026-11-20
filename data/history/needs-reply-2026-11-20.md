@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (162)
+## Needs Reply (164)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **grayghostlife**:  ([link](https://www.threads.com/@grayghostlife/post/Df-QSPEGRU4))
@@ -57,12 +57,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Sky and water and almost nothing else - that thin line of l…_
 - **travellady**: Not sure where headed. Spotted it off the shore in Barbados. ([link](https://www.threads.com/@travellady/post/Df-O-k_H88P))
   - _Replying to: One boat and a whole lot of ocean - that wake is the only t…_
+- **kewibrophotography**: The tree drew me first unfortunately I didn't have a wide enough lens on my camera and had to shoot with my phone. ([link](https://www.threads.com/@kewibrophotography/post/Df-Q1LZI6pg))
+  - _Replying to: One bare tree, and the whole snowy forest doubled in the wa…_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
 - **trotta.james**: Thanks for looking. I enjoying taking this shot! ([link](https://www.threads.com/@trotta.james/post/Df-P8pyoKuv))
   - _Replying to: High noon, and blue all the way down. Thanks for sharing it._
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
+- **auerbach_photos**: It was a table setting and the napkins were so beautifully dancing on the tablecloth! ([link](https://www.threads.com/@auerbach_photos/post/Df-QsyeFuyQ))
+  - _Replying to: White on white, and the folds still find a way to speak - i…_
 - **excitedpanda**: Youre welcome lol Add drizzling and the feel of ominous energy a foot lol ([link](https://www.threads.com/@excitedpanda/post/Df-O7uvmac3))
   - _Replying to: Lava fields and a far ridge - quite the walk for a few bloo…_
 - **lewishblove**: Nope, stayed for a good while. I didn't have my phone when I first spotted him and he stayed for me to grab it and take lots of pics. Im not sure how long he stayed after. ([link](https://www.threads.com/@lewishblove/post/Df-PAs4llmh))
