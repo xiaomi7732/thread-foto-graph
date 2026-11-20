@@ -4,9 +4,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (151)
+## Needs Reply (156)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **luvsravens59**:  ([link](https://www.threads.com/@luvsravens59/post/Df9_YuoJc8h))
+  - Photo: Description: A clear blue sky contains a crescent moon near the center, intersected by two thin, wispy contrails and three dark power lines in the lower-left corner. Photograph read: The sky is uniformly blue with no clouds or atmospheric distortion. The moon is visible as a distinct crescent. Contrails are faint and elongated. Power lines are straight and dark against the sky. No visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Aerial landscape
+- **vidarhaaby**:  ([link](https://www.threads.com/@vidarhaaby/post/Df9_VvSiKsf))
+  - Photo: Description: A silhouetted figure walks across a paved area in front of a large, uniformly textured wall composed of horizontal panels with repeating dot patterns. Photograph read: The image is monochrome with high contrast between the dark silhouette and the light wall. The wall’s pattern is visible in detail across all panels. The ground shows geometric paving lines. No visible motion blur or focus issues are present. Photo type: Architectural
+- **gus_arch96**:  ([link](https://www.threads.com/@gus_arch96/post/Df9_ULWj6gJ))
+  - Photo: Description: A close-up shows a rusted metal barbed wire with a single water droplet hanging from its end, against a uniformly blurred, neutral-toned background. Photograph read: The composition is centered on the wire and droplet, with shallow depth of field blurring the background. Lighting highlights the texture of rust and the reflective surface of the droplet. The droplet’s surface shows clear refraction of the wire’s form. Photo type: Macro
+    - Watch-outs: The background is uniformly out of focus, obscuring any contextual detail. The rusted wire’s surface texture is partially obscured by the droplet’s reflection and the image’s shallow depth of field, limiting surface detail visibility.
+- **ad.ira409**: Little droplets❤️ ([link](https://www.threads.com/@ad.ira409/post/Df9_QBamPZb))
+  - Photo: Description: A close-up view of a green leaf with multiple water droplets resting on its surface, showing visible vein patterns and surface texture. Photograph read: The image is a macro shot with shallow depth of field, focusing on the leaf’s surface and droplets. Lighting is even and diffused, highlighting the leaf’s texture and the droplets’ reflective surfaces. The background is out of focus and dark, contrasting with the leaf. Photo type: Macro
+- **pancha.indera**:  ([link](https://www.threads.com/@pancha.indera/post/Df9_AzMGssG))
+  - Photo: Description: A small bird is perched on a single power line against a uniformly overcast sky, with multiple parallel lines running horizontally across the frame. Photograph read: The image is composed of evenly spaced horizontal lines against a flat, gray sky. Lighting is diffuse and even, with no shadows or highlights. The bird is a dark silhouette with minimal visible texture or detail. The image has no apparent motion blur or focus issues. Photo type: Documentary
+    - Watch-outs: The bird’s silhouette is indistinct, lacking visible features or texture. The sky is uniformly gray with no discernible cloud structure or texture.
+- **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/Df9_Ag2lvZ7))
+  - Photo: Description: A thin, bare tree branch with small buds extends diagonally across a clear blue sky, with a red-and-white fishing bobber hanging from it by a thin line. Photograph read: The composition is simple, with the branch and bobber as the central focus against a uniform blue background. Lighting is even and bright, suggesting daylight. The image has a slightly soft resolution, with minimal visible noise or distortion. Photo type: Still life
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/Df9-KHsjriz))
   - Photo: Description: A single, thin, curved stem protrudes from a snow-covered surface, topped with a small, fluffy snowball-like mass. The surrounding area is uniformly white snow with soft, undulating texture. Photograph read: The image is composed with a central vertical element against a flat, expansive white background. Lighting is diffuse and even, with no discernible shadows or highlights. The rendering appears smooth and slightly soft, with no visible grain or sharpness artifacts. Photo type: Minimalist
 - **yulya_m_v**: Almost minimalism. ([link](https://www.threads.com/@yulya_m_v/post/Df9-IookYb4))
@@ -61,8 +75,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
-- **akmaleky**: Finally I got featured. Thank you 😍 ([link](https://www.threads.com/@akmaleky/post/Df9YbWlGvXs))
-  - _Replying to: @akmaleky Your pipes are slide two of the Shaped Thursday f…_
 - **smilingjeannie**: Thank you for the recognition. These two leaves had fallen and landed as photographed - another reason they caught my eye was the simplicity of the composition. ([link](https://www.threads.com/@smilingjeannie/post/Df9oWnJm5q8))
   - _Replying to: @smilingjeannie Your ginkgo fans are the middle slide of th…_
 
