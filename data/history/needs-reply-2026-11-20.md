@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (211)
+## Needs Reply (212)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **rukhsa_macroflowers**:  ([link](https://www.threads.com/@rukhsa_macroflowers/post/Df-a8XjigUn))
+  - Photo: Description: A close-up shows a dark, textured, berry-like cluster emerging from a pale, leafy structure atop a rough, dark branch, with a soft, out-of-focus background. Photograph read: The image features shallow depth of field, with the main subject in focus and the background blurred. A bright lens flare is visible near the branch, and the lighting appears warm and directional. The subject’s surface texture and the cluster’s granular details are visible, though not sharply defined. Photo type: Macro
 - **carakunzart**:  ([link](https://www.threads.com/@carakunzart/post/Df-aru_ICiD))
   - Photo: Description: A desert landscape under a bright blue sky with scattered white clouds, featuring a weathered road signpost in the foreground and distant, low-lying hills on the horizon. Photograph read: The image is taken from a roadside perspective with strong sunlight casting a distinct shadow of the signpost onto the gravel ground. The sky is vividly blue with well-defined cloud formations. The foreground terrain is textured with pebbles and sparse vegetation. The horizon shows muted, undulating terrain with no discernible motion blur or focus issues. Photo type: Natural landscape
 - **mrs.trellis**:  ([link](https://www.threads.com/@mrs.trellis/post/Df-aQlTjbt2))
