@@ -3113,7 +3113,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 521,
+      "reply_count": 519,
       "replies": [
         {
           "username": "judmacd",
@@ -4282,6 +4282,16 @@
               ]
             }
           ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "Dream Lake suits its name. Glad the hike was worth it.",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df59eo_gBRw",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "d1xshooter",
@@ -6558,40 +6568,7 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": [
-                {
-                  "username": "sahelstreams",
-                  "text": "Thank you so much! I was on a hike with friends, not long at all\u2026 right time-right place; it\u2019s literally called Dream Lake in Rocky Mountain National Park",
-                  "permalink": "https://www.threads.com/@sahelstreams/post/Df5jWPvFCMD",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": [
-                    {
-                      "username": "saars.foto",
-                      "text": "Dream Lake suits its name. Glad the hike was worth it.",
-                      "permalink": "https://www.threads.com/@saars.foto/post/Df59eo_gBRw",
-                      "photos": [],
-                      "needs_response": false,
-                      "action": null,
-                      "hidden": false,
-                      "replies": [
-                        {
-                          "username": "sahelstreams",
-                          "text": "Thanks, yeah it was amazing",
-                          "permalink": "https://www.threads.com/@sahelstreams/post/Df59tmglIpE",
-                          "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
-                          "hidden": false,
-                          "replies": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
+              "replies": []
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (132)
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - **ccaldwellrn**: Appeared to be a critter. Only logs. ([link](https://www.threads.com/@ccaldwellrn/post/Df8S_1Yn5se))
@@ -191,8 +191,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A group of people stands along the bank of a calm body of water, some in shallow water, observing something off-camera; the bank is lined with trees and dry vegetation, and reflections are visible on the water surface. Photograph read: The image is taken from a distance, with natural daylight illuminating the scene; the composition places the group centrally, with the water and bank forming the foreground and background; the rendering is relatively clear, though some motion blur or soft focus is present in the group’s figures. Photo type: Natural
 - **brianroffe**: Mid afternoon I think. It's Morpeth in NE England ([link](https://www.threads.com/@brianroffe/post/Df7ha2XCG2n))
   - _Replying to: The bridge gets a perfect twin and the trees come along und…_
-- **sahelstreams**: Thanks, yeah it was amazing ([link](https://www.threads.com/@sahelstreams/post/Df59tmglIpE))
-  - _Replying to: Dream Lake suits its name. Glad the hike was worth it._
 - **jammy.kollings**: Yes-just like glass all day ([link](https://www.threads.com/@jammy.kollings/post/Df6RPpGlLLR))
   - _Replying to: The reflections run the full length of the frame, and that …_
 - **ulrike6417**: Das war zur Mittagszeit! ([link](https://www.threads.com/@ulrike6417/post/Df5MW-AkaIq))
