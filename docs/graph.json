@@ -16,6 +16,23 @@
       "reply_count": 213,
       "replies": [
         {
+          "username": "brianroffe",
+          "text": "",
+          "permalink": "https://www.threads.com/@brianroffe/post/Df-J8fMiMPq",
+          "photos": [
+            "Description: A small, bright purple flower with five petals and a central cluster of stamens is the focal subject, set against a dark, out-of-focus background with faint green and purple streaks. Photograph read: The image features a shallow depth of field, with the flower in relatively sharp focus while the background is heavily blurred. Lighting appears to be directed at the flower, creating contrast against the dark surroundings. The rendering shows smooth transitions and no visible grain or compression artifacts. Photo type: Macro",
+            "Description: A white ceramic vase with a floral pattern holds two large, fully bloomed roses\u2014one bright pink and one orange\u2014against a dark wooden surface with a dark background. Photograph read: The image is composed with the vase centered, featuring a shallow depth of field that blurs the background. Lighting is directional, casting soft shadows and highlighting the petals and vase\u2019s surface. The rendering preserves texture and color without visible compression or noise artifacts. Photo type: Still life"
+          ],
+          "watch_outs": [
+            "The background is indistinct, obscuring context and depth cues. The flower\u2019s center is slightly soft, with minimal visible texture or detail.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "marcinewiese",
           "text": "If you look closely you'll see one lone jet flying over the city",
           "permalink": "https://www.threads.com/@marcinewiese/post/Df-JsHNmFjw",
@@ -75,6 +92,16 @@
           ],
           "needs_response": true,
           "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "A nose like that misses nothing. Thanks for the story behind it.",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df-Ik6nlClr",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": []
         },
@@ -255,7 +282,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dougkeel",
+                  "text": "I didn\u2019t stop. iPhone out the window while driving. I take many like that while traveling 30k miles each year.",
+                  "permalink": "https://www.threads.com/@dougkeel/post/Df-KK25oaFW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -630,7 +668,7 @@
               "replies": [
                 {
                   "username": "2killamockingbird",
-                  "text": "From a peacock \ud83e\udd9a in a state garden I visted...",
+                  "text": "From a peacock \ud83e\udd9a in a stately garden I visted...",
                   "permalink": "https://www.threads.com/@2killamockingbird/post/Df-I6RogACS",
                   "photos": [],
                   "needs_response": true,
@@ -641,6 +679,16 @@
               ]
             }
           ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "Mid-stride and already halfway out of the frame - I think the frost is what makes it, all that white underfoot. Did it notice you at all?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df-DHFllMfW",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "smithavary",
@@ -1300,54 +1348,6 @@
               "action": null,
               "hidden": false,
               "replies": []
-            }
-          ]
-        },
-        {
-          "username": "difishing",
-          "text": "",
-          "permalink": "https://www.threads.com/@difishing/post/Df9_4-EFN4p",
-          "photos": [
-            "Description: A coyote is captured mid-stride across a grassy, uneven terrain with sparse vegetation in the background. Photograph read: The image exhibits a noticeable grainy texture and muted color saturation. Lighting appears diffuse, casting soft shadows, with no strong directional highlights. The coyote\u2019s form is somewhat indistinct due to motion blur and low resolution. Photo type: Unclear"
-          ],
-          "watch_outs": [
-            "Motion blur affects the coyote\u2019s limbs and tail, reducing definition of musculature and fur texture. Graininess is visible across the entire image, obscuring fine detail in the grass and background vegetation."
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "Mid-stride and already halfway out of the frame - I think the frost is what makes it, all that white underfoot. Did it notice you at all?",
-              "permalink": "https://www.threads.com/@saars.foto/post/Df-DHFllMfW",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "difishing",
-                  "text": "Yes thats why he whipped around. Smelled where i walked in",
-                  "permalink": "https://www.threads.com/@difishing/post/Df-DOv9FARr",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": [
-                    {
-                      "username": "saars.foto",
-                      "text": "A nose like that misses nothing. Thanks for the story behind it.",
-                      "permalink": "https://www.threads.com/@saars.foto/post/Df-Ik6nlClr",
-                      "photos": [],
-                      "needs_response": false,
-                      "action": null,
-                      "hidden": false,
-                      "replies": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -7515,7 +7515,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 525,
+      "reply_count": 523,
       "replies": [
         {
           "username": "signhildthomas",
@@ -7587,6 +7587,16 @@
           ],
           "needs_response": true,
           "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "Forty-eight years of knowing a place shows in a frame like that.",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df7VN2boAxl",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": []
         },
@@ -8172,6 +8182,16 @@
           ]
         },
         {
+          "username": "saars.foto",
+          "text": "The orange bank gets a second showing in the water, and the blue sky just fills the rest. Is this your regular walk, or a first visit to the lake?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df6c4ZqkcQy",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "joshwill.jpg",
           "text": "sometimes the best things are temporary. make the most of it",
           "permalink": "https://www.threads.com/@joshwill.jpg/post/Df6cJ4sFKTc",
@@ -8303,51 +8323,6 @@
                       "username": "saars.foto",
                       "text": "A sunset worth stopping traffic for. Thanks for sharing it.",
                       "permalink": "https://www.threads.com/@saars.foto/post/Df6dIY9m7Cy",
-                      "photos": [],
-                      "needs_response": false,
-                      "action": null,
-                      "hidden": false,
-                      "replies": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "username": "difishing",
-          "text": "",
-          "permalink": "https://www.threads.com/@difishing/post/Df6YLXZFFgB",
-          "photos": [
-            "Description: A calm body of water reflects a clear blue sky and autumnal trees with orange and red leaves along the shoreline. The right side of the frame is dominated by the trees, while the left shows the water extending toward a distant treeline. Photograph read: The composition is a wide-angle landscape shot with the water occupying the foreground and midground. Lighting is bright and even, suggesting midday sun. The water surface has gentle ripples, and reflections are visible but not perfectly mirrored. The image appears to be captured with a standard digital camera, showing natural color rendition and no obvious distortion. Photo type: Landscape"
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "The orange bank gets a second showing in the water, and the blue sky just fills the rest. Is this your regular walk, or a first visit to the lake?",
-              "permalink": "https://www.threads.com/@saars.foto/post/Df6c4ZqkcQy",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "difishing",
-                  "text": "48 years of knowledge of this area.",
-                  "permalink": "https://www.threads.com/@difishing/post/Df6ffeplsrx",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": [
-                    {
-                      "username": "saars.foto",
-                      "text": "Forty-eight years of knowing a place shows in a frame like that.",
-                      "permalink": "https://www.threads.com/@saars.foto/post/Df7VN2boAxl",
                       "photos": [],
                       "needs_response": false,
                       "action": null,

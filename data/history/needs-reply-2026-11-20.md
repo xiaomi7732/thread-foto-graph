@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (162)
+## Needs Reply (164)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **brianroffe**:  ([link](https://www.threads.com/@brianroffe/post/Df-J8fMiMPq))
+  - Photo: Description: A small, bright purple flower with five petals and a central cluster of stamens is the focal subject, set against a dark, out-of-focus background with faint green and purple streaks. Photograph read: The image features a shallow depth of field, with the flower in relatively sharp focus while the background is heavily blurred. Lighting appears to be directed at the flower, creating contrast against the dark surroundings. The rendering shows smooth transitions and no visible grain or compression artifacts. Photo type: Macro
+    - Watch-outs: The background is indistinct, obscuring context and depth cues. The flower’s center is slightly soft, with minimal visible texture or detail.
+  - Photo: Description: A white ceramic vase with a floral pattern holds two large, fully bloomed roses—one bright pink and one orange—against a dark wooden surface with a dark background. Photograph read: The image is composed with the vase centered, featuring a shallow depth of field that blurs the background. Lighting is directional, casting soft shadows and highlighting the petals and vase’s surface. The rendering preserves texture and color without visible compression or noise artifacts. Photo type: Still life
 - **marcinewiese**: If you look closely you'll see one lone jet flying over the city ([link](https://www.threads.com/@marcinewiese/post/Df-JsHNmFjw))
   - Photo: Description: A cluster of flowering trees, including white blossoms and some with pink blooms, is set against a clear blue sky, with a thin contrail visible in the upper center. Photograph read: The image is taken from a low angle, capturing the tops of trees against a bright sky. Lighting is even and natural, with no visible shadows or overexposure. The rendering is sharp enough to distinguish individual blossoms and tree branches, though some foliage is slightly out of focus. Photo type: Natural landscape
 - **jamesfine57**: I’ve posted this before but it brings me peace when I see it… ([link](https://www.threads.com/@jamesfine57/post/Df-I-dRn5jA))
@@ -43,13 +47,15 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **pennyhay83**:  ([link](https://www.threads.com/@pennyhay83/post/Df-GovYmr32))
   - Photo: Description: A crescent moon is visible against a dark, uniform sky, with the illuminated portion appearing yellowish and the rest in shadow. Photograph read: The moon is centered in the frame, with a smooth, curved edge and a visible terminator separating light and dark. The image has a low-contrast appearance with no discernible texture or surface detail on the moon’s surface. The background is uniformly dark with no visible stars or atmospheric features. Photo type: Astrophotography
     - Watch-outs: The moon’s surface texture is not resolvable due to low resolution and lack of fine detail. The entire image exhibits a soft, slightly grainy appearance, suggesting limited sensor resolution or poor optical clarity.
+- **dougkeel**: I didn’t stop. iPhone out the window while driving. I take many like that while traveling 30k miles each year. ([link](https://www.threads.com/@dougkeel/post/Df-KK25oaFW))
+  - _Replying to: The sky does most of the talking here, and then that one sm…_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
 - **l.squared2**: It’s a lily pad. It’s connected to the bottom of the lake. ([link](https://www.threads.com/@l.squared2/post/Df-Im1AmzNN))
   - _Replying to: One orange leaf doing all the glowing while the water stays…_
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))
   - Photo: Description: A toddler lies on an asphalt surface, holding a green toy truck, with their head resting on the ground and gaze directed toward the toy. Photograph read: The image is taken from a high angle, with natural outdoor lighting casting soft shadows. The asphalt texture is visible, and the child’s clothing and toy are in focus, though the image lacks sharpness in fine detail. Photo type: Documentary
-- **2killamockingbird**: From a peacock 🦚 in a state garden I visted... ([link](https://www.threads.com/@2killamockingbird/post/Df-I6RogACS))
+- **2killamockingbird**: From a peacock 🦚 in a stately garden I visted... ([link](https://www.threads.com/@2killamockingbird/post/Df-I6RogACS))
   - _Replying to: The eye of the feather, staring right back - all that blue …_
 - **haydnvera**: Couldn’t get more quiet than that shot. Void of everything; noise and action. A whole lot of nothing. The water was like glass and it was a very overcast day. ([link](https://www.threads.com/@haydnvera/post/Df-JYjEoN3s))
   - _Replying to: Four posts and a whole lot of nothing else - the '6' sign f…_
