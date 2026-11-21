@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1108,
+      "reply_count": 1109,
       "replies": [
         {
           "username": "ariffkodri",
@@ -1575,7 +1575,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "traci_dyann",
+                  "text": "Honestly? I jumped out at me..... I was leaving work walking down a busy sidewalk and there he was.... my little heart. All alone. \ud83d\ude4f\ud83c\udffb\ud83e\udef6",
+                  "permalink": "https://www.threads.com/@traci_dyann/post/DgARre3FG-v",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

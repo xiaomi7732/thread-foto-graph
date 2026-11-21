@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (228)
+## Needs Reply (229)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -85,6 +85,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A speckled gull on the rail, the city gone soft behind it. …_
 - **_ivy.lane_**: Yes, I did! And it was absolutely worth it! ([link](https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6))
   - _Replying to: One yellow flower in front, the sea doing the rest behind i…_
+- **traci_dyann**: Honestly? I jumped out at me..... I was leaving work walking down a busy sidewalk and there he was.... my little heart. All alone. 🙏🏻🫶 ([link](https://www.threads.com/@traci_dyann/post/DgARre3FG-v))
+  - _Replying to: A little heart on the concrete, easy to walk straight past.…_
 - **sunneesideup**: They had popped up after a rain. I thought they looked so beautiful against the dark green flora around them. My dad’s new house has a beautiful garden left to become over grown. It’s a peaceful place to go and reconnect work nature. ([link](https://www.threads.com/@sunneesideup/post/DgAC_VdG04r))
   - Photo: Description: The photograph shows several white flowers with yellow centers, likely daffodils, against a dark, out-of-focus background of green foliage. One flower is partially wilted and drooping. Photograph read: The image has a shallow depth of field, with the foreground flowers in focus and the background heavily blurred. Lighting is subdued, casting soft shadows and lacking high contrast. The colors are muted, with the white petals standing out against the dark greens. Photo type: Nature portrait
     - Watch-outs: - Background blur obscures background foliage detail, limiting context. - Partially wilted flower on the lower right shows degraded petal structure, reducing visual clarity.
