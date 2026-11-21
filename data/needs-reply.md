@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (215)
+## Needs Reply (216)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -157,6 +157,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
 - **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
+- **jimasher**: It hung on for some time as it was a frozen droplet! Here are some other pics taken that same day. ([link](https://www.threads.com/@jimasher/post/DgAHaY5ltDw))
+  - Photo: Description: A close-up shows a single, teardrop-shaped water droplet clinging to the end of a dark, slender object, with a blurred background of light and dark vertical lines. Photograph read: The droplet is in focus and reflects the background, while the background is out of focus with soft, indistinct vertical and horizontal bands. Lighting is diffuse, creating a high-key, cool-toned scene with minimal shadows. Photo type: Macro
+    - Watch-outs: The background is heavily blurred, obscuring any identifiable context or detail behind the droplet. The droplet’s reflection is partially distorted and lacks sharpness, limiting the visibility of reflected detail.
+  - Photo: Description: A close-up shows a single, clear water droplet hanging from the tip of a green leaf, with a blurred background of foliage and light. Photograph read: The droplet is in focus and reflects the surroundings, while the leaf and background are out of focus. Lighting is diffuse, with no harsh shadows or highlights. The image has a shallow depth of field, emphasizing the droplet. Photo type: Macro
+    - Watch-outs: The droplet’s reflection is partially obscured by internal refraction and surface irregularities, limiting the clarity of reflected detail. The leaf surface and background are indistinct due to shallow depth of field, reducing contextual information.
+  - _Replying to: One droplet hanging off the leaf tip, holding the whole wor…_
 - **kes_ward**: Waiting to be played with again. Been put in the cupboard and forgotten about. I love the look in the bears eyes that give it a sad feeling of being left behind. The cupboard door opens, a little light gets let in, but it’s not the bear they’re after. ([link](https://www.threads.com/@kes_ward/post/Df_1dJKjsP5))
   - _Replying to: One small bear, one chair, and the whole dark to itself - w…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
