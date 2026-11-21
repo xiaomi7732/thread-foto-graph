@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 689,
+      "reply_count": 690,
       "replies": [
         {
           "username": "kuhl_kathy",
@@ -2338,7 +2338,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "swishykitty",
+                  "text": "I live on the Gulf Coast and take photos of many beautiful sunsets. I liked the composition of this sunset and wanted it to be focal point instead of the color",
+                  "permalink": "https://www.threads.com/@swishykitty/post/Df_C5smjJVt",
+                  "photos": [
+                    "Description: A large, bright red sun hangs low in a sky filled with orange and red clouds, reflected as a vertical streak of light on a calm body of water, with a dark silhouette of land and a distant tower visible at the horizon. Photograph read: The composition is vertically oriented, with the sun centered in the upper half, casting a strong reflection on the water. The sky shows layered clouds with varying degrees of illumination. The horizon line is sharp, separating the sky from the water and land. The water surface has gentle ripples, distorting the reflection into a series of bright, elongated bands. Photo type: Landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

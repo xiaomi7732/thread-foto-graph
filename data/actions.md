@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (303)
+## Needs Reply (304)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **kuhl_kathy**: The smile on the old building ([link](https://www.threads.com/@kuhl_kathy/post/Df_ClOnDKRa))
@@ -278,6 +278,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rhubi out in the shallows with a red ball for company - tha…_
 - **massiebrenda**: They are actually caught in a spider web in front of the post. This was a few years ago, so I can't remember how long they were there. ([link](https://www.threads.com/@massiebrenda/post/Df-978yjDYj))
   - _Replying to: Two dried leaves stuck to an old post, like they chose the …_
+- **swishykitty**: I live on the Gulf Coast and take photos of many beautiful sunsets. I liked the composition of this sunset and wanted it to be focal point instead of the color ([link](https://www.threads.com/@swishykitty/post/Df_C5smjJVt))
+  - Photo: Description: A large, bright red sun hangs low in a sky filled with orange and red clouds, reflected as a vertical streak of light on a calm body of water, with a dark silhouette of land and a distant tower visible at the horizon. Photograph read: The composition is vertically oriented, with the sun centered in the upper half, casting a strong reflection on the water. The sky shows layered clouds with varying degrees of illumination. The horizon line is sharp, separating the sky from the water and land. The water surface has gentle ripples, distorting the reflection into a series of bright, elongated bands. Photo type: Landscape
+  - _Replying to: Sunset in black and white, and the sun still burns right th…_
 - **lynnpearcephotographer**: Probably Jan Mayen, as it is an uninhabited island, except for a small group of geologists greeting us the morning we arrived. Fiercely cold and windy, even the seabirds had taken shelter leaving a disarming stillness. Thanks for the question. 🙏🏼 ([link](https://www.threads.com/@lynnpearcephotographer/post/Df-uSmLkTu4))
   - _Replying to: Four quiet corners of the sea, from Jan Mayen to the Solent…_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))
