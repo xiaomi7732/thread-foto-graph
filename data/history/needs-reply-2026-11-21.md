@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (178)
+## Needs Reply (183)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **lucillepippetti**: Here's to another 500 before the end of the year! ([link](https://www.threads.com/@lucillepippetti/post/DgA2DoUIBMM))
@@ -56,6 +56,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A large tree with vibrant red and orange autumn foliage dominates the frame against a clear blue sky, with the roof and siding of a house visible at the bottom. Photograph read: The tree fills most of the frame, with bright, direct sunlight illuminating its leaves from above. The sky is uniform and clear. The image appears to be captured with a standard camera, showing natural color saturation and contrast without visible distortion or compression artifacts. Photo type: Natural
   - Photo: Description: The photograph shows a close-up of autumn leaves, predominantly in shades of orange, yellow, and reddish-brown, with a clear blue sky visible through the branches. Photograph read: The composition is dense with overlapping leaves and branches, with strong backlighting creating highlights and shadows. The rendering is detailed in the leaf textures and colors, though some areas are overexposed or slightly soft. Photo type: Natural
   - _Replying to: A plane sliding across all that blue, branches framing the …_
+- **matson5381**: The golden light down at the Marsh only lasts about 30 minutes in early winter. You have to be on your toes -2 that is if you have any feeling in them. ([link](https://www.threads.com/@matson5381/post/DgA7CwLGtCF))
+  - _Replying to: A single duck in all that gold water, ripples doing the res…_
 - **cjg223**: One of my favorite ducks. Always elegant. ([link](https://www.threads.com/@cjg223/post/DgAJQJaFuwT))
   - _Replying to: (photo reply, no text)_
 - **edwardlin1995**: Maybe we were waiting both☺️ ([link](https://www.threads.com/@edwardlin1995/post/DgAfecwE3el))
@@ -239,6 +241,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **dianelynnturnbull**:  ([link](https://www.threads.com/@dianelynnturnbull/post/DgA55SMkraR))
   - Photo: Description: A flat-lay composition features a large green leaf with dark spots, overlaid by a dried brown leaf and a white circular object containing a small, textured item, all resting on a cross-section of a tree trunk with visible wood grain. Photograph read: The image is in focus with even, diffused lighting. Colors are natural and saturated, with no visible vignetting or chromatic aberration. The composition is centered, with the leaf and object arranged symmetrically against the tree trunk background. Photo type: Still life
   - _Replying to: Some mysteries are worth the morning check._
+- **dianelynnturnbull**: Here's what I learned about it when I asked AI: That's not a piece of plastic — it's a fungus! It's a bird's nest fungus, most likely the white bird's nest fungus - Crucibulum laeve, which is super common in Oregon in the fall. Here's what you're looking at: The white disk: That's the "nest" — the cup-shaped fruiting body. It's white on the outside and has that slightly fuzzy/hairy edge in your photo. The brown middle: That's the inside of the cup. It's gotten dirty/old. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7VNkkjiO))
+  - _Replying to: (photo reply, no text)_
+- **dianelynnturnbull**: That is why it looks tan and speckled. The little gray cracked lump on the right: That's the best clue. That's a peridiole — the "egg" in the nest. A fresh one is smooth and gray-white, and when it dries out it cracks like that. Most of the eggs have already splashed out of this one. They grow on dead leaves, wood chips, and mulch, and they work like tiny splash cups. When a raindrop hits the nest, it launches those little eggs out to spread the spores. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7aSHkiJb))
+  - _Replying to: Here's what I learned about it when I asked AI: That's not …_
+- **dianelynnturnbull**: Totally harmless, just breaking down that dead leaf underneath it. It's a good sign your leaf litter is healthy ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7aSQElfo))
+  - _Replying to: That is why it looks tan and speckled. The little gray crac…_
+- **dianelynnturnbull**: Totally harmless, just breaking down that dead leaf underneath it. It's a good sign your leaf litter is healthy ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7aRykqCL))
+  - _Replying to: Totally harmless, just breaking down that dead leaf underne…_
 - **dianelynnturnbull**: I found it. I think I am going to decopauge it onto this wood cookie. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA55Sikkxd))
   - _Replying to: (photo reply, no text)_
 - **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
