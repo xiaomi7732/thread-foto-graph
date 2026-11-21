@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 935,
+      "reply_count": 938,
       "replies": [
+        {
+          "username": "la_shack",
+          "text": "",
+          "permalink": "https://www.threads.com/@la_shack/post/Df_gX7vG1NZ",
+          "photos": [
+            "Description: A close-up view of an ant mound composed of compacted brown soil, with a central hole and a single ant visible near the top edge, surrounded by dry grass. Photograph read: The image is in focus with even, natural lighting, capturing fine texture of the soil and the ant\u2019s form. The composition centers the mound, with surrounding grass framing it. No visible motion blur or color distortion. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "pandandalee",
           "text": "",
@@ -4816,7 +4828,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "fragilita_12",
+                  "text": "It was dusk",
+                  "permalink": "https://www.threads.com/@fragilita_12/post/Df_gPZ5gFan",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5217,7 +5240,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "olivaexpat",
+                  "text": "*plink",
+                  "permalink": "https://www.threads.com/@olivaexpat/post/Df_gph5gG4-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

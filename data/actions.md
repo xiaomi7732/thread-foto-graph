@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (252)
+## Needs Reply (254)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **la_shack**:  ([link](https://www.threads.com/@la_shack/post/Df_gX7vG1NZ))
+  - Photo: Description: A close-up view of an ant mound composed of compacted brown soil, with a central hole and a single ant visible near the top edge, surrounded by dry grass. Photograph read: The image is in focus with even, natural lighting, capturing fine texture of the soil and the ant’s form. The composition centers the mound, with surrounding grass framing it. No visible motion blur or color distortion. Photo type: Documentary
 - **pandandalee**:  ([link](https://www.threads.com/@pandandalee/post/Df_edamm1b2))
   - Photo: Description: A small, light-colored, shaggy dog with erect ears is sleeping on its side on a red leather couch. The dog’s paws and collar are visible, and its eyes are closed. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting. The focus is generally sharp on the dog’s body and face, though some fur texture is soft. The red leather couch shows natural creases and texture. Photo type: Natural
 - **rex.skeletor.2691**:  ([link](https://www.threads.com/@rex.skeletor.2691/post/Df_djxCDkKJ))
@@ -212,6 +214,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **oznatureart**: I'm always looking and exploring!!!... might be something from my youth, when we went camping and my sister and I were challenged by my parents to see how many wild flowers we could collect while they pitched the tent 😊 ([link](https://www.threads.com/@oznatureart/post/Df_IjJ9keaA))
   - _Replying to: A tiny white flower on a thin stem, standing up in all that…_
+- **fragilita_12**: It was dusk ([link](https://www.threads.com/@fragilita_12/post/Df_gPZ5gFan))
+  - _Replying to: A lone paddleboarder in all that pink and lavender - the se…_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
@@ -619,13 +623,14 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (53)
+## Needs Like (54)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - axewerk: Mid afternoon ([link](https://www.threads.com/@axewerk/post/Df_IZZTG_ek))
 - quimby.susan: Yes, noonish 😊 ([link](https://www.threads.com/@quimby.susan/post/Df_Ig85gCNi))
 - simonjpugh: Consent withdrawn. ([link](https://www.threads.com/@simonjpugh/post/Df_Q07mCi_q))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
+- olivaexpat: *plink ([link](https://www.threads.com/@olivaexpat/post/Df_gph5gG4-))
 - lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))
 - jmay.ornot: 😄 ([link](https://www.threads.com/@jmay.ornot/post/Df_KWbHmVko))
 - syldelteglia:  ([link](https://www.threads.com/@syldelteglia/post/Df-ucBkFhC7))
