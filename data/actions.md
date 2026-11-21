@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (201)
+## Needs Reply (203)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -15,6 +15,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **audbal79**:  ([link](https://www.threads.com/@audbal79/post/Df_8yj2llBr))
+  - Photo: Description: A rustic, dark barn stands in a frost-covered field under a cloudy sky, with the sun low on the horizon behind bare trees; a frozen body of water is visible to the right. Photograph read: The sun is bright and slightly overexposed, casting a warm glow across the sky and silhouetting the trees and barn. The foreground field is covered in frost, and the barn appears dark and indistinct. The image has a flat, muted color palette with no visible lens distortion or sharp focus. Photo type: Natural landscape
+    - Watch-outs: The barn’s structure is obscured by shadow and lack of detail, making specific features unreadable. The sun’s brightness creates a glare that reduces contrast in the sky and foreground, limiting visibility of subtle textures.
+- **edwardlin1995**: The morning light during my trip ([link](https://www.threads.com/@edwardlin1995/post/Df_8iAFE1Y4))
+  - Photo: Description: A tall electricity pylon stands in a flat, wetland area near a body of water under a cloudy sky, with sunbeams piercing through the clouds. Photograph read: The image features a central pylon with multiple power lines, silhouetted against a sky with visible sun rays breaking through clouds. The foreground shows a muddy, waterlogged terrain with faint ripples and scattered vegetation. The lighting is dim and atmospheric, with a warm glow near the horizon. Photo type: Landscape
 - **janethopkins365**: Odin the Eagle Owl ([link](https://www.threads.com/@janethopkins365/post/Df_zuPdkcnv))
   - Photo: Description: A large owl with prominent ear tufts and orange eyes is perched on a person’s gloved hand, with a festive background including a wreath and red gift bags on green shelves. Photograph read: The image is taken at close range with direct lighting, showing clear feather texture and eye detail. The background is in focus but less detailed. The owl’s head and upper body dominate the frame. Photo type: Portrait
 - **alanbillings61**:  ([link](https://www.threads.com/@alanbillings61/post/Df_wYl6CCqk))
