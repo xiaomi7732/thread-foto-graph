@@ -4,9 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (306)
+## Needs Reply (308)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **fma719**:  ([link](https://www.threads.com/@fma719/post/Df_FUJylMZk))
+  - Photo: Description: A black, open rectangular box with a single heart-shaped chocolate resting in a central compartment, surrounded by empty slots; the box is set against a plain, light-colored surface. Photograph read: The image is in black and white, with even, diffuse lighting that casts soft shadows. The box’s interior and the chocolate are in focus, but the surrounding paper wrapping shows creases and a small tear on the right side. Photo type: Still life
+    - Watch-outs: - The right side of the box’s outer wrapping shows a visible tear, affecting the integrity of the packaging’s appearance. - The chocolate’s surface is smooth and reflective, but lacks texture detail due to the image’s monochrome rendering and moderate contrast.
+- **amygfoodie**:  ([link](https://www.threads.com/@amygfoodie/post/Df_FFTIDL-N))
+  - Photo: Description: A black-and-white image shows a dog, likely a large breed with dark and light fur, sitting on the back of an armchair and gazing out a window. The window is framed by sheer curtains, and outside, bare tree branches are visible against a bright, overexposed background. Photograph read: The image is in black and white, with strong backlighting from the window creating a high-contrast scene. The dog is in silhouette, and the window area is overexposed, reducing detail. The armchair and dog are in relative shadow, with no visible depth of field or lens distortion. Photo type: Portrait
+    - Watch-outs: The window area is overexposed, obscuring fine details of the outdoor scene. The dog’s fur texture and facial features are indistinct due to backlighting and lack of contrast.
 - **elliott72**:  ([link](https://www.threads.com/@elliott72/post/Df_EGkfFjQ9))
   - Photo: Description: A large butterfly with dark wings and colorful markings is perched on a cluster of small purple flowers, surrounded by green foliage and other flower clusters in various stages of bloom. Photograph read: The image has a shallow depth of field, with the butterfly in focus and the background softly blurred. Lighting is even and natural, illuminating the butterfly’s wing patterns and the surrounding flora. The rendering preserves fine details on the butterfly’s wings and the texture of the flowers. Photo type: Nature portrait
 - **kuhl_kathy**: The smile on the old building ([link](https://www.threads.com/@kuhl_kathy/post/Df_ClOnDKRa))
