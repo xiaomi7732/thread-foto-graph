@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (163)
+## Needs Reply (164)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -23,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **lasclasicasmotos**:  ([link](https://www.threads.com/@lasclasicasmotos/post/DgAcZYBCPWF))
   - Photo: Description: A small gecko is perched on a dark, curved metal object, with a lattice-patterned bench visible in the background and a gravel surface beneath. Photograph read: The image is taken at night or in low light, with a warm-toned illumination source casting shadows. The gecko and metal object are in focus, but the background and surrounding areas are dimmer and less detailed. The composition is close-up, with the gecko as the central subject. Photo type: Close-up
     - Watch-outs: The gecko’s fine scale texture and toe pads are visible but not sharply detailed due to shallow depth of field and low-light conditions. The gravel ground in the foreground and background is out of focus and lacks texture definition.
+- **leoaw.id**: I think the grass had its full attention. I was just part of the scenery. ([link](https://www.threads.com/@leoaw.id/post/DgAoeW7E4LC))
+  - _Replying to: One buffalo, one wide green field, and all that water in fr…_
 - **sammajsarah**: I think the dirt on the mushroom top looks like a sad face. Two black eyes and a _ for a mouth ([link](https://www.threads.com/@sammajsarah/post/DgAfNodlnlZ))
   - _Replying to: A single mushroom holding the whole black frame, spots and …_
 - **taiwanese726**: Just happened to crest it ([link](https://www.threads.com/@taiwanese726/post/DgAiBkvlNTZ))

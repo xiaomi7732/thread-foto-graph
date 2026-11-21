@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1211,
+      "reply_count": 1212,
       "replies": [
         {
           "username": "isadoralovesscarves",
@@ -219,7 +219,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "leoaw.id",
+                  "text": "I think the grass had its full attention. I was just part of the scenery.",
+                  "permalink": "https://www.threads.com/@leoaw.id/post/DgAoeW7E4LC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
