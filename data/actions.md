@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (244)
+## Needs Reply (245)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/Df_amoDFJO7))
@@ -444,6 +444,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **mapletreephotography_wpm**: Stars off my rooftop. ([link](https://www.threads.com/@mapletreephotography_wpm/post/Df5cHavH0xt))
   - Photo: Description: A night sky filled with stars and wispy clouds dominates the upper frame, with the dark silhouette of a car’s roof and side in the foreground and a parked Jeep visible to the right. Photograph read: The composition is wide-angle, with the sky occupying most of the frame. Lighting is low, with minimal illumination on the ground, and the foreground car and distant Jeep are silhouetted. The sky shows motion blur in clouds and star trails, indicating a long exposure. No visible signs of digital noise or lens distortion. Photo type: Long-exposure astrophotography
     - Watch-outs: - The foreground car’s interior and side windows are dark and indistinct, with no visible detail. - The distant Jeep’s features are obscured by low light and distance, making specific details unreadable.
+- **mwr1144**: We had a picnic there and that was just the shot on that day. ([link](https://www.threads.com/@mwr1144/post/Df_a7-BG1sZ))
+  - _Replying to: The mountain comes back so clean in the water it is hard to…_
 - **sanchionidawn**:  ([link](https://www.threads.com/@sanchionidawn/post/Df5V-wMEsqk))
   - Photo: Description: A highway with a concrete barrier and a reddish-brown overpass in the midground, under a heavily clouded sky with a faint rainbow arc visible behind the clouds. Distant mountains and sparse vegetation are visible beyond the overpass. Photograph read: The image is taken from a vehicle, showing a wide, slightly wet road surface. The sky is dominated by dark, layered clouds, with a subtle rainbow visible as a thin, low-contrast arc. Lighting is diffuse and even, with no strong directional highlights or shadows. The image has a flat, muted color palette with no visible lens distortion or chromatic aberration. Photo type: Documentary
 - **tooly_chinga**: Thank you but it was work related. The guys were great subjects to photograph. ([link](https://www.threads.com/@tooly_chinga/post/Df5_qUeljUY))
