@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (193)
+## Needs Reply (179)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **kayseamc**:  ([link](https://www.threads.com/@kayseamc/post/Df_jHw_lGu1))
@@ -23,20 +23,17 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **ilovemydogs2022**: This was taken on a beach in Baja. There were quite a few sandpipers around. But I didn't get pictures of them. ([link](https://www.threads.com/@ilovemydogs2022/post/Df_jAm_lKtK))
   - Photo: Description: A sandy beach stretches toward the ocean under a soft, hazy sky at twilight, with scattered seaweed and footprints visible; distant hills and gentle waves are silhouetted against the fading light. Photograph read: The scene is captured with a wide-angle perspective, showing the beach in the foreground, ocean midground, and hills in the background. The sky displays a gradient of pale pink and orange near the horizon, fading into muted blue above. The sand and seaweed show natural texture, but the image lacks sharpness and contrast, with subdued tones and no visible lens distortion. Photo type: Natural landscape
   - _Replying to: Tiny footprints all over the sand, and the bird long gone. …_
-- **elliott72**: I was amazed at how long it sat still. I took several photos and even moved for another angle. When I walked off it was still sitting there. ([link](https://www.threads.com/@elliott72/post/Df_HknilpNE))
-  - _Replying to: A black butterfly with blue spots, holding still on the pur…_
+- **wendyballenart**: I was walking my dog around the block. I saw the Monarch on the grass close to home. Had my phone and took a shot from about 3 feet above the monarch. ([link](https://www.threads.com/@wendyballenart/post/Df_jUEVFUSF))
+  - _Replying to: A monarch at rest on the grass, wings wide open. How close …_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
-- **valgal7148**:  ([link](https://www.threads.com/@valgal7148/post/Df_Jb6OGyGw))
-  - Photo: Description: A small snail with a brown, spiraled shell is positioned on a textured white vertical surface, while a human hand with a gold ring on the index finger is visible on the right side of the frame. Photograph read: The image is composed with the snail centered on the left and the hand occupying the right third. Lighting is even and diffuse, with no visible shadows or highlights. The surface texture of the wall is discernible, and the hand’s skin and ring are in focus. No motion blur or chromatic aberration is apparent. Photo type: Portrait
-  - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
+- **spudyank**: I like the way it worked out🙂 ([link](https://www.threads.com/@spudyank/post/Df_jchmG-rN))
+  - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
 - **valgal7148**: Took this one first to show size ([link](https://www.threads.com/@valgal7148/post/Df_Jh9jm2zZ))
   - _Replying to: (photo reply, no text)_
 - **valgal7148**: I sure did … fascinating detail in miniature ([link](https://www.threads.com/@valgal7148/post/Df_I-PKG3sg))
   - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
-- **theothermrtjacks**: I was sitting on the porch. Looked up and saw it. Took the shot and it flew away. ([link](https://www.threads.com/@theothermrtjacks/post/Df_S2ptm8f_))
-  - _Replying to: A dragonfly on a fence post, wings out like glass. Did it s…_
 - **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
@@ -45,26 +42,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: You doing ok_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
-- **artmama007**: This was the night of an eclipse. But it was very hard for me to take the picture. I kept trying without a good result in my opinion. But it was the best that I got. ([link](https://www.threads.com/@artmama007/post/Df_TnYuGzfo))
-  - _Replying to: Just a sliver of moon in all that black, and it still fills…_
-- **lindascates2012**: Just snow on the poppy pods. ([link](https://www.threads.com/@lindascates2012/post/Df_JsU9mIpP))
-  - _Replying to: Dried stems with snow on top, standing up against the dark.…_
-- **a_deeper_place**: It’s an old section of track on the northern Oregon coast. ([link](https://www.threads.com/@a_deeper_place/post/Df_Jys5mIyO))
-  - _Replying to: Two rails running straight into the trees, and nothing else…_
-- **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
-  - _Replying to: The dark background makes that little green bud glow, drop …_
-- **___nila.savitri**: Honestly, I love leaving it a little mysterious—whether dew or lingering rain, that split second of stillness before it fell was everything.. ☺️ ([link](https://www.threads.com/@___nila.savitri/post/Df_UrRGmgwo))
-  - _Replying to: One drop, stillness, nothing else - you delivered on the br…_
-- **dhome510**: Why does it matter what flower it is? Beauty is what matters. ([link](https://www.threads.com/@dhome510/post/Df_SRSWFo6k))
-  - _Replying to: One stem in a glass vase, standing up in the dark like it i…_
-- **flinn.steve**: It's my backyard and we always have a pair that come and visit. ([link](https://www.threads.com/@flinn.steve/post/Df_JG4ukYvV))
-  - _Replying to: A whole lake of sunset, with one small swan out in the midd…_
 - **crooked.paw**: I thank you for the compliment, but this is a photo. Just well processed. ([link](https://www.threads.com/@crooked.paw/post/Df_H_LwAUB4))
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
-- **68nursekelly**: You know, I wish I could remember what was through the end of that glorious fog! 😂 I thought it looked so mysterious … ([link](https://www.threads.com/@68nursekelly/post/Df_Wr_6m5Ll))
-  - _Replying to: One tiny walker on a long straight path, with the fog doing…_
-- **cultiveemais_pas_legume**: The drop on a curled tendril was the first one ([link](https://www.threads.com/@cultiveemais_pas_legume/post/Df_I2pODMjz))
-  - _Replying to: Two quiet frames, a drop on a curling tendril and a frosted…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
@@ -78,26 +57,18 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))
   - _Replying to: (photo reply, no text)_
-- **fragilita_12**: It was dusk ([link](https://www.threads.com/@fragilita_12/post/Df_gPZ5gFan))
-  - _Replying to: A lone paddleboarder in all that pink and lavender - the se…_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
 - **rukhsa_macroflowers**: It was wonderful to see, no I dont know which plant it is🧐 ([link](https://www.threads.com/@rukhsa_macroflowers/post/Df_iDFninG7))
   - _Replying to: A dark berry cluster on a pale stem, lit like a small jewel…_
-- **rajeshwar8380**: I guess no... ([link](https://www.threads.com/@rajeshwar8380/post/Df_Q825Eyck))
-  - _Replying to: A bird dropping into the water, wings folded, with the whol…_
-- **jackiethomompson**: A small frog. ([link](https://www.threads.com/@jackiethomompson/post/Df_cAlkjsJN))
-  - _Replying to: A little blur of motion across the grass - whatever it was,…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
 - **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
-- **grayghostlife**: Nope they lived in the same tank ([link](https://www.threads.com/@grayghostlife/post/Df_MGarlDHl))
-  - _Replying to: A snail on the rock, with a flash of fin above it like a cu…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
   - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
@@ -485,14 +456,13 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (53)
+## Needs Like (52)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
-- quimby.susan: Yes, noonish 😊 ([link](https://www.threads.com/@quimby.susan/post/Df_Ig85gCNi))
-- simonjpugh: Consent withdrawn. ([link](https://www.threads.com/@simonjpugh/post/Df_Q07mCi_q))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - olivaexpat: *plink ([link](https://www.threads.com/@olivaexpat/post/Df_gph5gG4-))
 - lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))
+- rajeshwar8380: Thanks... 😊 ([link](https://www.threads.com/@rajeshwar8380/post/Df_jxnMmjoL))
 - jmay.ornot: 😄 ([link](https://www.threads.com/@jmay.ornot/post/Df_KWbHmVko))
 - syldelteglia:  ([link](https://www.threads.com/@syldelteglia/post/Df-ucBkFhC7))
 - shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
