@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (219)
+## Needs Reply (220)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kali467**: A very hungry grasshopper ([link](https://www.threads.com/@kali467/post/Df_PZS-o7Or))
+  - Photo: Description: A grasshopper is perched on the yellow petals of a sunflower, with its head and forelegs visible near the flower’s center. The background consists of out-of-focus dry grass and distant green leaves. Photograph read: The image has a shallow depth of field, with the sunflower and grasshopper in focus while the background is blurred. Lighting is even and natural, with no visible shadows or overexposure. The rendering preserves the flower’s color and texture, though the grasshopper’s details are somewhat soft. Photo type: Natural
 - **kathleen_payne**:  ([link](https://www.threads.com/@kathleen_payne/post/Df_OrllmwSG))
   - Photo: Description: A solitary tree stands on a gently sloping, grassy hill under an overcast sky, with faint fence lines visible in the background. Photograph read: The image is composed with the tree centered in the mid-ground, casting a distinct shadow. Lighting is diffuse, with no harsh shadows or highlights. The rendering shows natural color saturation and texture, with no visible signs of compression or noise. Photo type: Landscape
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
