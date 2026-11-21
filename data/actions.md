@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (220)
+## Needs Reply (221)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -142,6 +142,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A dark sheep on the hilltop, drawn against all that blue li…_
 - **herman.terhorst.14**: It was one of a flock on a dike ([link](https://www.threads.com/@herman.terhorst.14/post/Df_lUFijcpI))
   - _Replying to: A dark sheep on the hilltop, drawn against all that blue li…_
+- **2tvisuals**: It had been calm for some days, the water was conpletely flat and the horizon was blocked by fog - an absolutely amazing morning 🤩 Oh, and if you look closely you can spot a few feathers in the water 🤩 ([link](https://www.threads.com/@2tvisuals/post/DgAJ2mhiCSU))
+  - _Replying to: That boat is barely there and still holds the whole frame. …_
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.

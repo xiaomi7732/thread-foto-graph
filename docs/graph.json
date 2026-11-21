@@ -132,7 +132,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1101,
+      "reply_count": 1102,
       "replies": [
         {
           "username": "mygirlscallmephyllis",
@@ -5965,7 +5965,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "2tvisuals",
+                  "text": "It had been calm for some days, the water was conpletely flat and the horizon was blocked by fog - an absolutely amazing morning \ud83e\udd29 Oh, and if you look closely you can spot a few feathers in the water \ud83e\udd29",
+                  "permalink": "https://www.threads.com/@2tvisuals/post/DgAJ2mhiCSU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
