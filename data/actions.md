@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (240)
+## Needs Reply (242)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **sidneym1976**:  ([link](https://www.threads.com/@sidneym1976/post/Df_YYV2G-lM))
+  - Photo: Description: An owl perched on a wooden post, holding a small rodent in its talons, with a blurred forest background under a pale sky. Photograph read: The image has a soft, out-of-focus quality throughout, with muted colors and low contrast. The owl and rodent are centrally framed, but fine feather detail and the rodent’s features are indistinct. Background trees are hazy and lack sharp definition. Photo type: Unclear
+    - Watch-outs: - The owl’s facial features and eye detail are obscured by blur and low contrast, affecting the subject’s recognizability. - The rodent’s form is indistinct, with its tail and limbs blurred, limiting observable detail.
+- **laurieports**:  ([link](https://www.threads.com/@laurieports/post/Df_X30GDtcE))
+  - Photo: Description: A monarch butterfly with orange and black wings rests on a dense cluster of small white flowers, surrounded by green stems. Photograph read: The image is taken from a slightly elevated angle, with even, bright daylight illuminating the scene. The butterfly and flowers are in focus, though the background shows some softness due to depth of field. The rendering is clear, with no visible digital artifacts or color distortion. Photo type: Natural
 - **wang_fong_ya**: Finding beauty in simple architectural details, quiet shadows, and negative space. Sometimes, less really is more. 🤍📷 ([link](https://www.threads.com/@wang_fong_ya/post/Df_WP6DD5On))
   - Photo: Description: The photograph shows three metal-framed balconies with green arched canopies mounted on a plain, light-colored wall, alongside one standard window with curtains. Photograph read: The composition is arranged in a grid-like pattern with the balconies positioned at upper left, upper right, and lower right, while the window is centered lower. Lighting is direct and strong, casting sharp, geometric shadows from the balconies onto the wall. The image has a flat, even exposure with no visible vignetting or lens distortion. Photo type: Architectural
 - **cjluk77**:  ([link](https://www.threads.com/@cjluk77/post/Df_T-L9ALqU))
