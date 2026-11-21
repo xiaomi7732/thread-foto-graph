@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (197)
+## Needs Reply (199)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
+- **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
+  - _Replying to: @rickthomas742 Slide four of the Minimal Friday favorites i…_
 - **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
@@ -75,6 +77,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A tall, weathered stone monument with carved Māori-style motifs stands on a grassy field under a cloudy sky, with trees visible in the background. Photograph read: The image is taken at eye level with the monument, showing natural daylight and a partly cloudy sky. The stone’s surface and carvings are visible, though not sharply detailed. The grass and trees are in focus, with no apparent motion blur or lens distortion. Photo type: Outdoor landscape
   - Photo: Description: A metallic plaque is mounted on a rough, speckled stone surface, with engraved text describing a sculpture titled “Mahitahi” and crediting Peter Cramond and the Tauranga District Council. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear legibility of the engraved text. The plaque is secured by four screws, and the surrounding stone has visible texture and minor debris. Photo type: Documentary
   - _Replying to: It's the Rena penguin memorial, commemorating the little bl…_
+- **susie.kp**: Surprisingly , in my own backyard ! That Spring , many wild flowers , including poppies sprung up near a border by the fence . I thought they might be fleeting , so took photos to remember.. ([link](https://www.threads.com/@susie.kp/post/Df_44A5EdNs))
+  - _Replying to: One yellow buttercup in all that green, lit up like a small…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
 - **runarstoreide**: It did. And my Voigtländer f 0.95 helped a lot. Bot because of darkness and the soft background. ([link](https://www.threads.com/@runarstoreide/post/Df_0ZnIjRSW))
@@ -504,7 +508,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (60)
+## Needs Like (59)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - asutris: Thank you so much. 🙏🏻 ([link](https://www.threads.com/@asutris/post/Df_1BC4GDof))
@@ -513,7 +517,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - jojo8163: A conker ([link](https://www.threads.com/@jojo8163/post/Df_2Gs8CAd_))
-- stefano.caiazzo.14: Buongiorno ([link](https://www.threads.com/@stefano.caiazzo.14/post/Df_vASrEZqz))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - velosy: Thank you ([link](https://www.threads.com/@velosy/post/Df_zv8ujp1r))
 - herman.terhorst.14: 👍 ([link](https://www.threads.com/@herman.terhorst.14/post/Df_nJn5DQZ6))
