@@ -153,8 +153,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1135,
+      "reply_count": 1170,
       "replies": [
+        {
+          "username": "dreamy_blue.eyed_lily",
+          "text": "",
+          "permalink": "https://www.threads.com/@dreamy_blue.eyed_lily/post/DgAfT-OG6lh",
+          "photos": [
+            "Description: A small, bright yellow bird stands in a field of green grass dotted with water droplets. The bird is positioned slightly off-center, with its head and upper body visible above the grass. Photograph read: The image is taken from a high angle, with even, diffused lighting. The grass and bird are in focus, though the overall resolution is moderate. The water droplets on the grass are visible as small, distinct beads. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lasclasicasmotos",
           "text": "",
@@ -241,7 +253,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sammajsarah",
+                  "text": "I think the dirt on the mushroom top looks like a sad face. Two black eyes and a _ for a mouth",
+                  "permalink": "https://www.threads.com/@sammajsarah/post/DgAfNodlnlZ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -290,7 +313,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "thesyberian",
+                  "text": "Estrangement.",
+                  "permalink": "https://www.threads.com/@thesyberian/post/DgAfNHbCOtu",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -324,10 +358,21 @@
           "photos": [
             "Description: A close-up shows a horizontal branch or branch-like structure covered in snow and ice, with small icicles hanging from its underside. The background is out of focus and indistinct. Photograph read: The image is in black and white, with shallow depth of field. The main subject is in focus, but the background is blurred. Lighting appears even, with no strong directional shadows or highlights. The texture of the snow and ice is visible, but the background lacks discernible features. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Icicles hanging off a snow-dusted branch, and the rest of the world gone soft behind it. What was the morning like when you took it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe6d2G6GC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "b_tricia",
@@ -336,10 +381,21 @@
           "photos": [
             "Description: A solitary, leafless tree stands on a grassy, rocky hillside under a uniformly gray, overcast sky. The tree\u2019s branches are bare and spread outward, with a smaller, similar tree visible to its right. Photograph read: The image is in black and white, with a flat, diffuse lighting condition. The sky is a solid gray with no visible texture or detail. The foreground hillside shows grass and scattered rocks, but lacks sharp definition. The tree\u2019s form is visible as a silhouette against the sky, with no discernible texture or depth in the branches. Photo type: Black and white landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One bare tree doing all the talking on that hillside. What drew you to this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe7ojG753",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "keywestsnapshots",
@@ -348,10 +404,21 @@
           "photos": [
             "Description: A butterfly with black and yellow wings is perched on a bright red flower with a yellow center, set against a blue sky with scattered clouds and tree branches in the background. Photograph read: The image is taken from a low angle, with the butterfly and flower in the foreground. Lighting is natural daylight, and the image appears in focus, though the background foliage is slightly out of focus. The sky is clear with minimal cloud cover. Photo type: Nature photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A black-and-yellow butterfly on a red flower against all that blue - the color does the shouting here. Did it sit still for you, or was this a one-frame catch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe8s8m5UQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ariffkodri",
@@ -360,10 +427,21 @@
           "photos": [
             "Description: A small boat with a canopy and poles is moving across choppy water, with distant, hazy mountains and a cloudy sky in the background; two birds are visible in flight. Photograph read: The image is in black and white, with moderate contrast and visible grain. The water surface shows texture and reflection, while the distant mountains are softly blurred. The boat is centered in the frame, with no discernible motion blur or focus issues. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One little boat out on all that grey water, with the mountains barely there behind it. Your caption asks if it is worth it - what did the water say back?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe9xTm7jy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "elizabeth.watkinsmorris",
@@ -372,10 +450,21 @@
           "photos": [
             "Description: A small, green, leaf-shaped object rests on a textured, yellowish surface. The object\u2019s form resembles a folded leaf with visible vein-like patterns. Photograph read: The image is captured with even, diffuse lighting, showing a textured background and a relatively clear subject. The subject is in focus, though the image lacks sharpness in fine details. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A green moth folded up like a leaf on a yellow wall - it blends in so well I almost missed it. How did you spot it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe-9dm5nZ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "aussky",
@@ -387,10 +476,21 @@
           "watch_outs": [
             "The ant\u2019s legs and antennae are not sharply defined, limiting detail visibility. The barbed wire\u2019s barbs are partially obscured by rust and wear, reducing clarity of their shape."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A tiny ant with a green belly, marching along barbed wire like it owns the place. How close did you have to get for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe_-MG5AD",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mygirlscallmephyllis",
@@ -399,10 +499,21 @@
           "photos": [
             "Description: An airplane is captured from below against a clear blue sky, with bare tree branches and dried leaves in the upper portion of the frame. Photograph read: The image is taken from a low angle, with the airplane centered and viewed from its underside. The sky is uniformly bright blue, and the airplane\u2019s livery is visible, though not sharply detailed. Tree branches and leaves occupy the top-left and top-right areas, partially framing the scene. Photo type: Aerial"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A plane sliding across all that blue, branches framing the top like they are waving it off. What made you look up at just that moment?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfBAGm-Aq",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "naniiman",
@@ -411,10 +522,21 @@
           "photos": [
             "Description: A single insect, likely a winged ant, is visible on a glass surface, with a blurred urban background of buildings and greenery. Photograph read: The insect is in focus and centrally positioned, with shallow depth of field blurring the background. Lighting is bright and even, casting a clear shadow of the insect on the glass. The image has no visible signs of motion blur, overexposure, or color distortion. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One winged ant on the glass, whole city blurred behind it. Was it trying to get in, or just showing off its shadow?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfCGRm4tY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "matson5381",
@@ -426,10 +548,20 @@
           "watch_outs": [
             "The entire image exhibits visible grain, reducing fine detail across all areas. The duck\u2019s beak and eye are not sharply defined, and the water\u2019s surface lacks crisp texture or reflection detail."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A single duck in all that gold water, ripples doing the rest. How long did the light hold like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfDR6lJQP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "cjg223",
               "text": "One of my favorite ducks. Always elegant.",
@@ -462,10 +594,21 @@
           "watch_outs": [
             "The paraglider\u2019s canopy shows no discernible text or markings due to low resolution and distance. The pilot\u2019s silhouette lacks detail, making equipment or posture indistinguishable."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One paraglider hanging in all that grey sky, coast somewhere far below. What was it like watching it drift by?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfFcdgAph",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sheilam99",
@@ -474,10 +617,21 @@
           "photos": [
             "Description: A cicada rests on the tip of a human finger, with its wings partially extended and red eyes visible; the background is out of focus and indistinct. Photograph read: The image is a close-up with shallow depth of field, showing the cicada in sharp focus against a blurred background. Lighting is even and natural, without obvious shadows or overexposure. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A cicada on a fingertip, red eyes and all, with your husband's garden behind it. Did it sit there long enough to pose, or was it off the second the shutter clicked?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfG4fIGnR",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "gjbrown.art",
@@ -486,10 +640,21 @@
           "photos": [
             "Description: A white pigeon is perched on a rough-textured surface, viewed from the side, with a blurred green grassy background. Photograph read: The image is in focus on the pigeon, with even lighting that highlights its feathers and features. The background is softly out of focus, creating a shallow depth of field. The pigeon\u2019s eye and beak are clearly visible, and feather texture is discernible. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That white dove, feathers like fresh linen, staring right past the lens. What time does it usually show up for its bath?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfH-GHK51",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dingenwu",
@@ -501,10 +666,21 @@
           "watch_outs": [
             "The entire image appears blurred; fine detail is not distinguishable. The exterior scene, including the group of people and the background, is indistinct due to out-of-focus rendering."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A rusted pipe turning into a perfect round frame, with the whole colorful world blurred outside it. What made you look through it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfJBNIQSv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "audbal79",
@@ -516,10 +692,21 @@
           "watch_outs": [
             "The barn\u2019s structure is obscured by shadow and lack of detail, making specific features unreadable. The sun\u2019s brightness creates a glare that reduces contrast in the sky and foreground, limiting visibility of subtle textures."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A dark barn in a frost field, sun sitting low behind the bare trees. How much longer did the frost last after this shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfKUrkStx",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "edwardlin1995",
@@ -528,10 +715,32 @@
           "photos": [
             "Description: A tall electricity pylon stands in a flat, wetland area near a body of water under a cloudy sky, with sunbeams piercing through the clouds. Photograph read: The image features a central pylon with multiple power lines, silhouetted against a sky with visible sun rays breaking through clouds. The foreground shows a muddy, waterlogged terrain with faint ripples and scattered vegetation. The lighting is dim and atmospheric, with a warm glow near the horizon. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One pylon, one break in the clouds, and the light doing all the drama. Did the beams appear while you were there, or were you waiting for them?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfLcdHC1a",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "edwardlin1995",
+                  "text": "Maybe we were waiting both\u263a\ufe0f",
+                  "permalink": "https://www.threads.com/@edwardlin1995/post/DgAfecwE3el",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "janethopkins365",
@@ -540,10 +749,21 @@
           "photos": [
             "Description: A large owl with prominent ear tufts and orange eyes is perched on a person\u2019s gloved hand, with a festive background including a wreath and red gift bags on green shelves. Photograph read: The image is taken at close range with direct lighting, showing clear feather texture and eye detail. The background is in focus but less detailed. The owl\u2019s head and upper body dominate the frame. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Odin's orange eyes are doing all the staring here - the rest of the frame barely gets a look in. How long did he hold still for the portrait?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfM1_EbCl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "alanbillings61",
@@ -552,10 +772,21 @@
           "photos": [
             "Description: A wide field of green grass dotted with yellow flowers stretches toward a tree-covered hillside under an overcast sky, with rolling hills and distant mountains visible in the background. Photograph read: The image is captured from a relatively flat foreground to a sloping hillside, with diffuse, even lighting due to cloud cover. The field occupies the foreground and midground, while the hills recede into the background with gradual atmospheric softness. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole field of yellow dots under a grey sky, hills rolling off behind. What made you stop for this field?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfN1jEYKr",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "gretchylolly",
@@ -564,10 +795,21 @@
           "photos": [
             "Description: A modern building with a flat roof and horizontal window panels is photographed against a clear blue sky, with a visible moon positioned above the roofline. Photograph read: The composition is vertically oriented, with the building occupying the lower two-thirds and the sky and moon in the upper third. The lighting is even and bright, suggesting daylight with the moon visible. The image has a clean, structured aesthetic with sharp edges and no visible motion blur or chromatic aberration. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A flat-roofed building, a strip of windows, and the moon just hanging over the top like it belongs there. When did you notice the moon was in the frame?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfO0MnH2W",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mcveyclicks",
@@ -579,10 +821,21 @@
           "watch_outs": [
             "The left and right sides are heavily underexposed, obscuring fine texture and detail in the rock surfaces. The central rock face, while detailed, shows visible loss of detail in the darkest recesses due to shadowing."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red rock folding in on itself, light slipping down the middle. It looks carved by water and patience - how long were you down in there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfP4tlJd_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "greyhound_2025",
@@ -596,10 +849,21 @@
             "The background horizon is blurred, obscuring any identifiable features. The grain head and awns are visible but lack fine detail due to shallow depth of field and low contrast.",
             "The swan\u2019s body and head are indistinct due to low contrast and lack of detail. The water\u2019s surface texture is blurred, obscuring fine ripples and reflections."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One grain stalk against a sunset gradient, and then a lone swan doing the same trick on the water. Two quiet frames - which one stopped you first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfQ5DkWxC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "alex_hautecombe",
@@ -608,10 +872,21 @@
           "photos": [
             "Description: A small boat with outriggers is silhouetted against a vast ocean under a sky filled with golden, textured clouds at sunset. The horizon shows a band of orange light, with distant landmasses barely visible. Photograph read: The composition is wide, with the boat centered in the lower third. Lighting is dominated by the warm, low-angle sunset, casting the boat in silhouette. The sky exhibits high contrast between illuminated cloud layers and darker regions. The water surface reflects the sky\u2019s glow with subdued texture. Photo type: Aerial or elevated landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A tiny outrigger on a huge gold sea, sunset doing the heavy lifting. Where was it headed when you caught it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfR8jjpoJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ncav2021",
@@ -667,10 +942,21 @@
           "watch_outs": [
             "The bird\u2019s silhouette lacks visible texture or detail due to backlighting and contrast. The streetlight fixture\u2019s surface shows minor wear and rust, but no fine detail is resolvable."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One bird on a bent streetlight, the sky doing a slow fade behind it. How long did it stay up there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfTJkFnmg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "simnasho.pistachio",
@@ -682,10 +968,21 @@
           "watch_outs": [
             "The moon and halo are partially obscured by faint, wispy cloud-like structures that reduce contrast and definition. The foreground silhouette lacks any visible texture or detail, making it indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A moon with a full halo around it, like it brought its own spotlight. How long did the ring stay - was it there all night, or just for your shot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfUZalsMX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "louloxt",
@@ -697,10 +994,21 @@
           "watch_outs": [
             "The caterpillar\u2019s body details, including its segmented hairs and color bands, are indistinct due to soft focus. The background texture is visible but lacks crispness, reducing contrast and detail clarity for the subject."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That fuzzy yellow caterpillar with the black and orange trim, bright against the grey stone. Did it keep crawling while you shot, or pose like it knew?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAfVlflrZh",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kayseamc",
@@ -1569,10 +1877,21 @@
                   "text": "It really was that empty. A few fishermen behind us but just a couple.",
                   "permalink": "https://www.threads.com/@janetcolm/post/DgAU1eLkXEY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Empty beach, a few fishermen, and all that space to yourself. Sounds like the walk was worth it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfa5im7Tx",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1781,10 +2100,21 @@
                   "text": "Yes, I did! And it was absolutely worth it!",
                   "permalink": "https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Worth it, and it shows. A lovely one to end the day on.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfeI7m9zz",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2380,10 +2710,21 @@
                   "text": "I don\u2019t remember. The light was refracted through the largest icicle; I was disappointed that the photo doesn\u2019t show the colors.",
                   "permalink": "https://www.threads.com/@fruitcake59/post/DgAHTMroPNY",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The colors may not have made it into the frame, but the light through that icicle still does the talking. Thanks for sharing the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfXiplITj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2468,10 +2809,21 @@
                   "text": "Even just an hour\u2014the time before sunrise is always the best.",
                   "permalink": "https://www.threads.com/@astdie/post/Df_2zcljd84",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That hour before sunrise is worth every early alarm. Glad it gave you this one.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfYr_FFF6",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2575,10 +2927,21 @@
                   "text": "I knew it was a caterpillar.",
                   "permalink": "https://www.threads.com/@frankie_giordano_/post/Df_x4-QkjDu",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "You called it right, then. A sharp eye and a patient wait.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfdD1GAPX",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -7127,10 +7490,21 @@
                   "text": "Yes, quite often. I live very near.",
                   "permalink": "https://www.threads.com/@zoeripley_studios/post/Df_qjIUAueT",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Living that close, you get the good light more than most of us. Lucky spot, and a lovely frame for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfZtCoHtC",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -9632,10 +10006,21 @@
                   "text": "Waiting to be played with again. Been put in the cupboard and forgotten about. I love the look in the bears eyes that give it a sad feeling of being left behind. The cupboard door opens, a little light gets let in, but it\u2019s not the bear they\u2019re after.",
                   "permalink": "https://www.threads.com/@kes_ward/post/Df_1dJKjsP5",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That little bear's sad eyes stayed with me - the light through the cupboard door says it all. Thanks for telling it so well.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgAfcDim2qw",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
