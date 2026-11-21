@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (190)
+## Needs Reply (191)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **alanbillings61**:  ([link](https://www.threads.com/@alanbillings61/post/Df_wYl6CCqk))
+  - Photo: Description: A wide field of green grass dotted with yellow flowers stretches toward a tree-covered hillside under an overcast sky, with rolling hills and distant mountains visible in the background. Photograph read: The image is captured from a relatively flat foreground to a sloping hillside, with diffuse, even lighting due to cloud cover. The field occupies the foreground and midground, while the hills recede into the background with gradual atmospheric softness. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **gretchylolly**:  ([link](https://www.threads.com/@gretchylolly/post/Df_vVu7Fr7p))
   - Photo: Description: A modern building with a flat roof and horizontal window panels is photographed against a clear blue sky, with a visible moon positioned above the roofline. Photograph read: The composition is vertically oriented, with the building occupying the lower two-thirds and the sky and moon in the upper third. The lighting is even and bright, suggesting daylight with the moon visible. The image has a clean, structured aesthetic with sharp edges and no visible motion blur or chromatic aberration. Photo type: Architectural
 - **mcveyclicks**:  ([link](https://www.threads.com/@mcveyclicks/post/Df_ugZzlX8L))
