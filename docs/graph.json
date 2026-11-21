@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1109,
+      "reply_count": 1111,
       "replies": [
         {
           "username": "ariffkodri",
@@ -855,7 +855,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "cjluk77",
+                  "text": "I honestly don\u2019t know. My husband took the picture. It\u2019s one of my favorite photos.",
+                  "permalink": "https://www.threads.com/@cjluk77/post/DgATPhUFLv9",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -956,7 +967,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "carolann0803",
+                  "text": "Out my back door. Maybe 20-25 feet.",
+                  "permalink": "https://www.threads.com/@carolann0803/post/DgATWzQETk-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

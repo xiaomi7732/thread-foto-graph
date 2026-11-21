@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (229)
+## Needs Reply (231)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -75,6 +75,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **louloxt**:  ([link](https://www.threads.com/@louloxt/post/Df_mKPYjJ3v))
   - Photo: Description: A fuzzy, bright yellow-green caterpillar with black and orange markings is positioned on a textured, grayish surface that appears to be stone or concrete, with a few small twigs nearby. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The surface texture is visible, but the caterpillar’s fine hairs and subtle color transitions are not sharply defined. The image has a slightly soft or painterly rendering, possibly due to a filter or compression artifact. Photo type: Unclear
     - Watch-outs: The caterpillar’s body details, including its segmented hairs and color bands, are indistinct due to soft focus. The background texture is visible but lacks crispness, reducing contrast and detail clarity for the subject.
+- **cjluk77**: I honestly don’t know. My husband took the picture. It’s one of my favorite photos. ([link](https://www.threads.com/@cjluk77/post/DgATPhUFLv9))
+  - _Replying to: The bridge and its reflection, nearly perfect twins. Did th…_
+- **carolann0803**: Out my back door. Maybe 20-25 feet. ([link](https://www.threads.com/@carolann0803/post/DgATWzQETk-))
+  - _Replying to: A white heron, standing in the shallows like it owns the pl…_
 - **kali467**: It did. I kept it short so it wouldn’t jump away. ([link](https://www.threads.com/@kali467/post/Df_oOl8m8VC))
   - _Replying to: A very hungry grasshopper, right on cue at the sunflower's …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
