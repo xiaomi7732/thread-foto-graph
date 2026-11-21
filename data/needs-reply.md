@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (198)
+## Needs Reply (202)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ian_hanna**:  ([link](https://www.threads.com/@ian_hanna/post/Df_KpPWlow-))
+  - Photo: Description: A metallic fork is positioned on a textured, light-beige surface, casting a distinct shadow with four parallel lines. The fork’s tines are partially reflective, and the surface shows minor imperfections. Photograph read: The image is taken from a slightly elevated angle, with direct lighting creating sharp shadows. The surface has a uniform, fine-grained texture. The fork’s reflective surfaces show specular highlights, while the shadow is crisp and well-defined. Photo type: Still life
+- **sheila_mann65**:  ([link](https://www.threads.com/@sheila_mann65/post/Df_KfkfmFD-))
+  - Photo: Description: The photograph shows a river flowing through a narrow canyon with steep, layered red rock cliffs on both sides, under a partly cloudy sky; the water surface reflects the cliffs and sky, and a portion of a boat’s deck and a person’s arm are visible in the lower right corner. Photograph read: The composition is wide, with the river occupying the foreground and midground, and the canyon walls rising on either side. Lighting is diffuse and even, suggesting overcast or twilight conditions, with muted tones and soft reflections on the water. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Landscape
 - **adriana.f2302**:  ([link](https://www.threads.com/@adriana.f2302/post/Df_J2HtiDBB))
   - Photo: Description: The photograph shows an empty art gallery room with white walls displaying multiple framed abstract artworks arranged in grids. A dark, minimalist bench sits in the center of the dark floor, under track lighting from the ceiling. Photograph read: The composition is symmetrical, with the bench centered and artworks on both walls. Lighting is direct and even, with spotlights mounted on a grid ceiling. The rendering is clean, with sharp edges on frames and minimal shadows, suggesting a controlled indoor environment. Photo type: Interior documentation
 - **massmaker_5.0**:  ([link](https://www.threads.com/@massmaker_5.0/post/Df_JZBvjauE))
@@ -48,6 +52,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The window area is overexposed, obscuring fine details of the outdoor scene. The dog’s fur texture and facial features are indistinct due to backlighting and lack of contrast.
 - **elliott72**: I was amazed at how long it sat still. I took several photos and even moved for another angle. When I walked off it was still sitting there. ([link](https://www.threads.com/@elliott72/post/Df_HknilpNE))
   - _Replying to: A black butterfly with blue spots, holding still on the pur…_
+- **kuhl_kathy**: I've drive by this every week for years. It still stands and smiles. I did a school project once that was a compilation of photos of buildings with faces. ([link](https://www.threads.com/@kuhl_kathy/post/Df_KLdxDF4M))
+  - _Replying to: The smile on the old building - the doorway and windows do …_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
@@ -65,6 +71,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
 - **steve_lim72**: Early and eerily quiet. ([link](https://www.threads.com/@steve_lim72/post/Df_J8pmDVI3))
   - _Replying to: A lone post in the fog, with the world gone soft around it.…_
+- **missty_misanthrope**: Nope. I’d never seen this before. I’m thinking one is a male. 😎 ([link](https://www.threads.com/@missty_misanthrope/post/Df_KX31Ef5y))
+  - _Replying to: Two ladybugs on one green leaf, both heading somewhere. Do …_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
   - _Replying to: (photo reply, no text)_
 - **greghillman11**: No, it was on a trip to Sth Australia, my home state. ([link](https://www.threads.com/@greghillman11/post/Df_I7MxE_xn))

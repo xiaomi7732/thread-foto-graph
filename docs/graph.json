@@ -13,8 +13,32 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 878,
+      "reply_count": 883,
       "replies": [
+        {
+          "username": "ian_hanna",
+          "text": "",
+          "permalink": "https://www.threads.com/@ian_hanna/post/Df_KpPWlow-",
+          "photos": [
+            "Description: A metallic fork is positioned on a textured, light-beige surface, casting a distinct shadow with four parallel lines. The fork\u2019s tines are partially reflective, and the surface shows minor imperfections. Photograph read: The image is taken from a slightly elevated angle, with direct lighting creating sharp shadows. The surface has a uniform, fine-grained texture. The fork\u2019s reflective surfaces show specular highlights, while the shadow is crisp and well-defined. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "sheila_mann65",
+          "text": "",
+          "permalink": "https://www.threads.com/@sheila_mann65/post/Df_KfkfmFD-",
+          "photos": [
+            "Description: The photograph shows a river flowing through a narrow canyon with steep, layered red rock cliffs on both sides, under a partly cloudy sky; the water surface reflects the cliffs and sky, and a portion of a boat\u2019s deck and a person\u2019s arm are visible in the lower right corner. Photograph read: The composition is wide, with the river occupying the foreground and midground, and the canyon walls rising on either side. Lighting is diffuse and even, suggesting overcast or twilight conditions, with muted tones and soft reflections on the water. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "adriana.f2302",
           "text": "",
@@ -287,7 +311,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kuhl_kathy",
+                  "text": "I've drive by this every week for years. It still stands and smiles. I did a school project once that was a compilation of photos of buildings with faces.",
+                  "permalink": "https://www.threads.com/@kuhl_kathy/post/Df_KLdxDF4M",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -998,7 +1033,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "missty_misanthrope",
+                  "text": "Nope. I\u2019d never seen this before. I\u2019m thinking one is a male. \ud83d\ude0e",
+                  "permalink": "https://www.threads.com/@missty_misanthrope/post/Df_KX31Ef5y",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "zaydad2",
@@ -6124,7 +6170,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "jmay.ornot",
+                          "text": "\ud83d\ude04",
+                          "permalink": "https://www.threads.com/@jmay.ornot/post/Df_KWbHmVko",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
