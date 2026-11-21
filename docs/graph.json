@@ -121,7 +121,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1075,
+      "reply_count": 1077,
       "replies": [
         {
           "username": "janethopkins365",
@@ -1869,7 +1869,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "astdie",
+                  "text": "Even just an hour\u2014the time before sunrise is always the best.",
+                  "permalink": "https://www.threads.com/@astdie/post/Df_2zcljd84",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -7727,7 +7738,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "anhalojo",
+                  "text": "The more I take photos, the more I look for the things that are otherwise easy to overlook. I seek a moment of calm amid the daily hustle.",
+                  "permalink": "https://www.threads.com/@anhalojo/post/Df_2-qLFZKp",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

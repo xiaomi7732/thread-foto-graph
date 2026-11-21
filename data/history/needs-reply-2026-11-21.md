@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (195)
+## Needs Reply (197)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
@@ -47,6 +47,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
 - **spudyank**: I like the way it worked out🙂 ([link](https://www.threads.com/@spudyank/post/Df_jchmG-rN))
   - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
+- **astdie**: Even just an hour—the time before sunrise is always the best. ([link](https://www.threads.com/@astdie/post/Df_2zcljd84))
+  - _Replying to: Mist on the water, a rod in hand, and the sun just coming u…_
 - **valgal7148**: Took this one first to show size ([link](https://www.threads.com/@valgal7148/post/Df_Jh9jm2zZ))
   - _Replying to: (photo reply, no text)_
 - **valgal7148**: I sure did … fascinating detail in miniature ([link](https://www.threads.com/@valgal7148/post/Df_I-PKG3sg))
@@ -101,6 +103,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A sunlit field with the trees at the edge, and one big cano…_
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
+- **anhalojo**: The more I take photos, the more I look for the things that are otherwise easy to overlook. I seek a moment of calm amid the daily hustle. ([link](https://www.threads.com/@anhalojo/post/Df_2-qLFZKp))
+  - _Replying to: One pale petal standing up in all that green - it looks lik…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
