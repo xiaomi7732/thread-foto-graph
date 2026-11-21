@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 893,
+      "reply_count": 894,
       "replies": [
         {
           "username": "rhondawrightclark",
@@ -2034,7 +2034,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "docnyberg",
+                  "text": "There were more birds- an more photos. The colour of the sky is what captured me \u2026",
+                  "permalink": "https://www.threads.com/@docnyberg/post/Df_MsUEiPjg",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (212)
+## Needs Reply (213)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **rhondawrightclark**:  ([link](https://www.threads.com/@rhondawrightclark/post/Df_LntRm6f6))
@@ -102,6 +102,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A sunset over a field, with the autumn trees catching the l…_
 - **grassybranch**: It probably did, but I didn't. ([link](https://www.threads.com/@grassybranch/post/Df_IJg6Dt5G))
   - _Replying to: A little green frog on the pot, looking right at the camera…_
+- **docnyberg**: There were more birds- an more photos. The colour of the sky is what captured me … ([link](https://www.threads.com/@docnyberg/post/Df_MsUEiPjg))
+  - _Replying to: One tiny bird in a whole pale sky, barely more than a mark.…_
 - **froststudiosphoto**: The waterfront in Tacoma on the way to Ruston. ([link](https://www.threads.com/@froststudiosphoto/post/Df_LFSbGMAL))
   - _Replying to: Still water, a few old posts, and one mossy rock holding it…_
 - **flinn.steve**: It's my backyard and we always have a pair that come and visit. ([link](https://www.threads.com/@flinn.steve/post/Df_JG4ukYvV))
