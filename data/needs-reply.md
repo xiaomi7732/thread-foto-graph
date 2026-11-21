@@ -4,9 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (297)
+## Needs Reply (300)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kellsmt365**:  ([link](https://www.threads.com/@kellsmt365/post/Df_A8BVmcft))
+  - Photo: Description: A windmill is silhouetted against a gradient sky transitioning from deep purple to pink, with a small bird perched on a platform near the top of the tower. Photograph read: The image is composed with the windmill centered, its blades and tower forming a dark silhouette against a smooth, colored sky. Lighting is backlighting, creating high contrast between the subject and background. The rendering is uniform, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Silhouette
+- **thomasj.moore**:  ([link](https://www.threads.com/@thomasj.moore/post/Df_A5pWHTDJ))
+  - Photo: Description: A single, bright yellow flower with numerous elongated petals and a dense, circular center is in focus, surrounded by green leaves and a blurred background of dry grass and soil. Photograph read: The flower is centrally framed with shallow depth of field, causing the background to be out of focus. Lighting is even and natural, illuminating the petals without harsh shadows or overexposure. The image has no visible signs of digital noise or compression artifacts. Photo type: Natural
+- **spudyank**:  ([link](https://www.threads.com/@spudyank/post/Df_AZxXGXSc))
+  - Photo: Description: The image shows a view from an airplane window, looking down upon a dense, white, cumulus-like cloud layer with patches of blue sky visible between them. Photograph read: The composition is dominated by the clouds, with the curved edge of the window frame visible in the foreground. Lighting is diffuse, illuminating the clouds from above, creating soft highlights and subtle shadows. The rendering is smooth, with no visible grain or compression artifacts. Photo type: Aerial landscape
 - **loramere**:  ([link](https://www.threads.com/@loramere/post/Df_ASvJmoOn))
   - Photo: Description: A lone person walks along a wide, sandy beach toward the water’s edge under a heavily clouded sky, with the sun visible through breaks in the clouds. Photograph read: The composition is wide and horizontal, with the horizon dividing the frame roughly in half. Lighting is diffuse due to cloud cover, with bright highlights on the water and a strong sun glare at the top center. The image has a moderate level of detail, with visible sand texture and sparse foreground posts. Photo type: Natural landscape
 - **axewerk**:  ([link](https://www.threads.com/@axewerk/post/Df_AH5vmapg))
