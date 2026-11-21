@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (179)
+## Needs Reply (180)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **kayseamc**:  ([link](https://www.threads.com/@kayseamc/post/Df_jHw_lGu1))
@@ -23,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **ilovemydogs2022**: This was taken on a beach in Baja. There were quite a few sandpipers around. But I didn't get pictures of them. ([link](https://www.threads.com/@ilovemydogs2022/post/Df_jAm_lKtK))
   - Photo: Description: A sandy beach stretches toward the ocean under a soft, hazy sky at twilight, with scattered seaweed and footprints visible; distant hills and gentle waves are silhouetted against the fading light. Photograph read: The scene is captured with a wide-angle perspective, showing the beach in the foreground, ocean midground, and hills in the background. The sky displays a gradient of pale pink and orange near the horizon, fading into muted blue above. The sand and seaweed show natural texture, but the image lacks sharpness and contrast, with subdued tones and no visible lens distortion. Photo type: Natural landscape
   - _Replying to: Tiny footprints all over the sand, and the bird long gone. …_
+- **greg.c.james**: Yes , it was taken on the edge of the Nullarbor plain in Australia. Very few trees and even less people ([link](https://www.threads.com/@greg.c.james/post/Df_koTdn7ry))
+  - _Replying to: A lone tree against a sky going orange at the edges. That s…_
 - **wendyballenart**: I was walking my dog around the block. I saw the Monarch on the grass close to home. Had my phone and took a shot from about 3 feet above the monarch. ([link](https://www.threads.com/@wendyballenart/post/Df_jUEVFUSF))
   - _Replying to: A monarch at rest on the grass, wings wide open. How close …_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
@@ -456,9 +458,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (52)
+## Needs Like (53)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - olivaexpat: *plink ([link](https://www.threads.com/@olivaexpat/post/Df_gph5gG4-))
 - lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))

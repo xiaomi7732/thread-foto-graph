@@ -4,9 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (52)
+## Needs Like (53)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - olivaexpat: *plink ([link](https://www.threads.com/@olivaexpat/post/Df_gph5gG4-))
 - lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))
