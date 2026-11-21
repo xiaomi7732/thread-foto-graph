@@ -132,8 +132,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1091,
+      "reply_count": 1096,
       "replies": [
+        {
+          "username": "naniiman",
+          "text": "",
+          "permalink": "https://www.threads.com/@naniiman/post/DgAGBCRnWUR",
+          "photos": [
+            "Description: A single insect, likely a winged ant, is visible on a glass surface, with a blurred urban background of buildings and greenery. Photograph read: The insect is in focus and centrally positioned, with shallow depth of field blurring the background. Lighting is bright and even, casting a clear shadow of the insect on the glass. The image has no visible signs of motion blur, overexposure, or color distortion. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "matson5381",
+          "text": "",
+          "permalink": "https://www.threads.com/@matson5381/post/DgAF_hFkY7c",
+          "photos": [
+            "Description: A single duck stands in shallow water, viewed from the side, with its head turned slightly toward the viewer. The water surface reflects golden light, creating a textured, rippled background. Photograph read: The image has a grainy, pixelated texture across the entire frame. Lighting is even and diffuse, casting soft shadows. The duck\u2019s form is discernible but lacks fine feather detail, and the water surface shows no sharp reflections or ripples. Photo type: Digital noise"
+          ],
+          "watch_outs": [
+            "The entire image exhibits visible grain, reducing fine detail across all areas. The duck\u2019s beak and eye are not sharply defined, and the water\u2019s surface lacks crisp texture or reflection detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "saga4arts",
           "text": "",
@@ -1952,7 +1979,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "fruitcake59",
+                  "text": "I don\u2019t remember. The light was refracted through the largest icicle; I was disappointed that the photo doesn\u2019t show the colors.",
+                  "permalink": "https://www.threads.com/@fruitcake59/post/DgAHTMroPNY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2352,7 +2390,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sellenmurray",
+                  "text": "No...just a moment in time...",
+                  "permalink": "https://www.threads.com/@sellenmurray/post/DgAGgX9jFWa",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3291,7 +3340,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "loeswevers",
+                  "text": "Someone at the beach in Bloemendaal aan zee, The Netherlands \ud83c\uddf3\ud83c\uddf1\ud83e\udde1",
+                  "permalink": "https://www.threads.com/@loeswevers/post/DgAFq9IEfhT",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

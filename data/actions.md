@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (210)
+## Needs Reply (215)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -15,6 +15,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **naniiman**:  ([link](https://www.threads.com/@naniiman/post/DgAGBCRnWUR))
+  - Photo: Description: A single insect, likely a winged ant, is visible on a glass surface, with a blurred urban background of buildings and greenery. Photograph read: The insect is in focus and centrally positioned, with shallow depth of field blurring the background. Lighting is bright and even, casting a clear shadow of the insect on the glass. The image has no visible signs of motion blur, overexposure, or color distortion. Photo type: Portrait
+- **matson5381**:  ([link](https://www.threads.com/@matson5381/post/DgAF_hFkY7c))
+  - Photo: Description: A single duck stands in shallow water, viewed from the side, with its head turned slightly toward the viewer. The water surface reflects golden light, creating a textured, rippled background. Photograph read: The image has a grainy, pixelated texture across the entire frame. Lighting is even and diffuse, casting soft shadows. The duck’s form is discernible but lacks fine feather detail, and the water surface shows no sharp reflections or ripples. Photo type: Digital noise
+    - Watch-outs: The entire image exhibits visible grain, reducing fine detail across all areas. The duck’s beak and eye are not sharply defined, and the water’s surface lacks crisp texture or reflection detail.
 - **kusnirah1985**:  ([link](https://www.threads.com/@kusnirah1985/post/DgADHDDEggE))
   - Photo: Description: A paraglider with a blue, yellow, and red canopy is suspended in a cloudy sky above a coastal landscape featuring a shoreline, sea, and distant landmasses. Photograph read: The image is captured from a low angle, with the paraglider positioned in the upper portion of the frame. The sky is uniformly overcast, resulting in flat, diffuse lighting. The paraglider and pilot are visible as a silhouette, with minimal contrast against the sky. The foreground and background are hazy, with no sharp edges or defined textures. Photo type: Aerial landscape
     - Watch-outs: The paraglider’s canopy shows no discernible text or markings due to low resolution and distance. The pilot’s silhouette lacks detail, making equipment or posture indistinguishable.
@@ -72,6 +77,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
 - **spudyank**: I like the way it worked out🙂 ([link](https://www.threads.com/@spudyank/post/Df_jchmG-rN))
   - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
+- **fruitcake59**: I don’t remember. The light was refracted through the largest icicle; I was disappointed that the photo doesn’t show the colors. ([link](https://www.threads.com/@fruitcake59/post/DgAHTMroPNY))
+  - _Replying to: Icicles hanging in the gray, one long one leading the way d…_
 - **downtown_design**: Shelf, quite moments where we find them… not just plates, Sasaki stoneware designed by Massimo Vignelli which I’ve had forever ([link](https://www.threads.com/@downtown_design/post/DgAAEalm8YW))
   - _Replying to: A bowl and a stack of plates, lined up on the dark like the…_
 - **downtown_design**: There’s something sacred about every day simplicity ([link](https://www.threads.com/@downtown_design/post/DgAAgTVGyHy))
@@ -90,12 +97,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A tiny caterpillar on weathered wood, all yellow and green.…_
 - **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
+- **sellenmurray**: No...just a moment in time... ([link](https://www.threads.com/@sellenmurray/post/DgAGgX9jFWa))
+  - _Replying to: One tiny bird on a dark hilltop, with a whole yellow sky be…_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
   - _Replying to: (photo reply, no text)_
 - **missty_misanthrope**: Funny you should ask. This photo made me cry a little. I took it standing in front of our home in Boulder Creek. That was the last house we lived in together before he got sick. The last time we were happy. 😢❤️‍🩹 ([link](https://www.threads.com/@missty_misanthrope/post/Df_LC2WkTsV))
   - _Replying to: You doing ok_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
+- **loeswevers**: Someone at the beach in Bloemendaal aan zee, The Netherlands 🇳🇱🧡 ([link](https://www.threads.com/@loeswevers/post/DgAFq9IEfhT))
+  - _Replying to: One kite in a whole blue sky, with the string barely there.…_
 - **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
   - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro
 - **imtayamathias**: It's actually a cloud. That's why I took the picture. I thought it looked so strange. I should have put this in the comments. Apologies, I had a lot of brain farts yesterday 😅 ([link](https://www.threads.com/@imtayamathias/post/Df_7QyiEUzX))
