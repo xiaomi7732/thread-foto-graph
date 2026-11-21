@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (185)
+## Needs Reply (186)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **greyhound_2025**:  ([link](https://www.threads.com/@greyhound_2025/post/Df_tPstCPC9))
+  - Photo: Description: A single stalk of grain, likely wheat or barley, is silhouetted against a gradient sky transitioning from orange near the horizon to blue above. The background shows a blurred horizon with indistinct shapes. Photograph read: The grain stalk is in focus and contrasts sharply with the sky. The sky exhibits a smooth color gradient. The foreground and distant horizon are out of focus, with no discernible texture or detail. Photo type: Portrait
+    - Watch-outs: The background horizon is blurred, obscuring any identifiable features. The grain head and awns are visible but lack fine detail due to shallow depth of field and low contrast.
+  - Photo: Description: A single swan is silhouetted against rippling water, with its head turned slightly to the right. The water reflects a gradient of warm and cool tones, suggesting twilight or early morning. Photograph read: The swan is centered in the frame, with its form rendered as a dark silhouette. The water surface shows gentle ripples and reflections of ambient light. The image lacks sharpness and fine detail, with no discernible texture on the swan or water. Photo type: Natural
+    - Watch-outs: The swan’s body and head are indistinct due to low contrast and lack of detail. The water’s surface texture is blurred, obscuring fine ripples and reflections.
 - **alex_hautecombe**:  ([link](https://www.threads.com/@alex_hautecombe/post/Df_onTRgk4F))
   - Photo: Description: A small boat with outriggers is silhouetted against a vast ocean under a sky filled with golden, textured clouds at sunset. The horizon shows a band of orange light, with distant landmasses barely visible. Photograph read: The composition is wide, with the boat centered in the lower third. Lighting is dominated by the warm, low-angle sunset, casting the boat in silhouette. The sky exhibits high contrast between illuminated cloud layers and darker regions. The water surface reflects the sky’s glow with subdued texture. Photo type: Aerial or elevated landscape
 - **ncav2021**: Can you find the tiny crab in the picture? ([link](https://www.threads.com/@ncav2021/post/Df_oGEXoDmI))
