@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 889,
+      "reply_count": 892,
       "replies": [
+        {
+          "username": "rhondawrightclark",
+          "text": "",
+          "permalink": "https://www.threads.com/@rhondawrightclark/post/Df_LntRm6f6",
+          "photos": [
+            "Description: A single vibrant purple flower with a white center is partially obscured by green grass blades, set against a background of more grass and a blurred terracotta pot. Photograph read: The image is taken in bright daylight with natural lighting, showing sharp grass blades and the flower\u2019s petals. The composition is a close-up with the flower centered, though some blades partially obscure it. No visible signs of motion blur, focus issues, or color distortion. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "The flower\u2019s center is partially obscured by overlapping grass blades, reducing visibility of its stamen. The flower is partially hidden behind a grass blade, limiting direct observation of its full form."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ian_hanna",
           "text": "",
@@ -421,7 +436,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "thomasj.moore",
+                  "text": "It\u2019s a calendula. In our garden today British Columbia.",
+                  "permalink": "https://www.threads.com/@thomasj.moore/post/Df_LnWOHT9e",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2495,7 +2521,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jinksys_mum",
+                  "text": "Not sure, but most of the green is reflected from the trees near the pond.",
+                  "permalink": "https://www.threads.com/@jinksys_mum/post/Df_Lf2VjtIk",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

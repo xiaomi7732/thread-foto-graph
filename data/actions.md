@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (208)
+## Needs Reply (211)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **rhondawrightclark**:  ([link](https://www.threads.com/@rhondawrightclark/post/Df_LntRm6f6))
+  - Photo: Description: A single vibrant purple flower with a white center is partially obscured by green grass blades, set against a background of more grass and a blurred terracotta pot. Photograph read: The image is taken in bright daylight with natural lighting, showing sharp grass blades and the flower’s petals. The composition is a close-up with the flower centered, though some blades partially obscure it. No visible signs of motion blur, focus issues, or color distortion. Photo type: Natural
+    - Watch-outs: The flower’s center is partially obscured by overlapping grass blades, reducing visibility of its stamen. The flower is partially hidden behind a grass blade, limiting direct observation of its full form.
 - **ian_hanna**:  ([link](https://www.threads.com/@ian_hanna/post/Df_KtO4FsGm))
   - Photo: Description: The photograph shows shallow ocean waves receding onto a wet sandy beach, with visible ripple patterns in the sand and sparkling reflections on the water’s surface. Photograph read: The composition is dominated by the interface between water and sand, with diagonal lines formed by wave patterns. Lighting is bright, creating specular highlights on the water and enhancing the texture of the wet sand. The rendering is clear, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
 - **ian_hanna**:  ([link](https://www.threads.com/@ian_hanna/post/Df_KpPWlow-))
@@ -61,6 +64,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
+- **thomasj.moore**: It’s a calendula. In our garden today British Columbia. ([link](https://www.threads.com/@thomasj.moore/post/Df_LnWOHT9e))
+  - _Replying to: One yellow flower, all petals and light, with the green gon…_
 - **spudyank**: Probably about eight minutes! ([link](https://www.threads.com/@spudyank/post/Df_JpLQGacU))
   - _Replying to: Clouds from the window, all soft white and blue, with the f…_
 - **loramere**: This is Utah Beach in Normandy, France. The walker is my 70 yo husband contemplating what happened there 80 yo on Dday. We spent a lot of time there but didn’t walk it as such. Below is another from that day. ([link](https://www.threads.com/@loramere/post/Df_IDarGqmH))
@@ -110,6 +115,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
 - **cultiveemais_pas_legume**: The drop on a curled tendril was the first one ([link](https://www.threads.com/@cultiveemais_pas_legume/post/Df_I2pODMjz))
   - _Replying to: Two quiet frames, a drop on a curling tendril and a frosted…_
+- **jinksys_mum**: Not sure, but most of the green is reflected from the trees near the pond. ([link](https://www.threads.com/@jinksys_mum/post/Df_Lf2VjtIk))
+  - _Replying to: A duck floating in green ripples, with the water doing all …_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
 - **skymomma_rocks**: He hopped away slowly & I followed him with my phone until he got to the end of the leaf then jumped to another leaf - probably a good minute went by. ([link](https://www.threads.com/@skymomma_rocks/post/Df_LOVjEYnv))
