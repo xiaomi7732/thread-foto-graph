@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (229)
+## Needs Reply (232)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **love_god_and_love_others**:  ([link](https://www.threads.com/@love_god_and_love_others/post/Df_S6AtFQph))
+  - Photo: Description: A bird with outstretched wings stands in shallow water, creating ripples, while its reflection is visible on the surface. The water contains scattered floating debris and a dark shoreline silhouette to the right. Photograph read: The image is characterized by muted tones and a subdued color palette. The bird’s wings show motion blur, and the overall image lacks sharpness. Reflections are visible but not crisp. Lighting appears diffuse, with no strong directional highlights or shadows. Photo type: Natural
+    - Watch-outs: Motion blur is visible in the bird’s wings, reducing detail. Reflections are indistinct and lack clarity.
 - **lightimagesphotography**:  ([link](https://www.threads.com/@lightimagesphotography/post/Df_SjGBiSdP))
   - Photo: Description: A single, slender grass stalk with feathery, elongated seed heads stands upright against a uniformly dark, out-of-focus background. Photograph read: The subject is centrally positioned with a shallow depth of field, rendering the background as a smooth, dark gradient. Lighting appears to come from the side or front, illuminating the grass’s texture and structure, though the overall image lacks high contrast or sharpness. Photo type: Macro
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The background is uniformly indistinct, obscuring any contextual or environmental information.
@@ -93,8 +96,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **valgal7148**: I sure did … fascinating detail in miniature ([link](https://www.threads.com/@valgal7148/post/Df_I-PKG3sg))
   - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
+- **theothermrtjacks**: I was sitting on the porch. Looked up and saw it. Took the shot and it flew away. ([link](https://www.threads.com/@theothermrtjacks/post/Df_S2ptm8f_))
+  - _Replying to: A dragonfly on a fence post, wings out like glass. Did it s…_
 - **steve_lim72**: Early and eerily quiet. ([link](https://www.threads.com/@steve_lim72/post/Df_J8pmDVI3))
   - _Replying to: A lone post in the fog, with the world gone soft around it.…_
+- **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
+  - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
 - **missty_misanthrope**: Nope. I’d never seen this before. I’m thinking one is a male. 😎 ([link](https://www.threads.com/@missty_misanthrope/post/Df_KX31Ef5y))
   - _Replying to: Two ladybugs on one green leaf, both heading somewhere. Do …_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))

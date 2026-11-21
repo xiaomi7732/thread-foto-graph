@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 912,
+      "reply_count": 915,
       "replies": [
+        {
+          "username": "love_god_and_love_others",
+          "text": "",
+          "permalink": "https://www.threads.com/@love_god_and_love_others/post/Df_S6AtFQph",
+          "photos": [
+            "Description: A bird with outstretched wings stands in shallow water, creating ripples, while its reflection is visible on the surface. The water contains scattered floating debris and a dark shoreline silhouette to the right. Photograph read: The image is characterized by muted tones and a subdued color palette. The bird\u2019s wings show motion blur, and the overall image lacks sharpness. Reflections are visible but not crisp. Lighting appears diffuse, with no strong directional highlights or shadows. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "Motion blur is visible in the bird\u2019s wings, reducing detail. Reflections are indistinct and lack clarity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lightimagesphotography",
           "text": "",
@@ -844,7 +859,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "theothermrtjacks",
+                  "text": "I was sitting on the porch. Looked up and saw it. Took the shot and it flew away.",
+                  "permalink": "https://www.threads.com/@theothermrtjacks/post/Df_S2ptm8f_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -930,7 +956,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kennedy535",
+                  "text": "The teddy bear\u2019s \ud83e\uddf8name is Mario, who is my traveling \ud83e\uddf3 companion and has traveled with me to Italy \ud83c\uddee\ud83c\uddf9 , The Netherlands \ud83c\uddf3\ud83c\uddf1 , England \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn\u2019t pass up the shot when I came across the pay phone \u260e\ufe0f He\u2019s a great conversation starter wherever I go and travels very well.",
+                  "permalink": "https://www.threads.com/@kennedy535/post/Df_TLWmlXzr",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
