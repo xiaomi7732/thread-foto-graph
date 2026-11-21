@@ -132,7 +132,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1079,
+      "reply_count": 1080,
       "replies": [
         {
           "username": "janethopkins365",
@@ -4078,7 +4078,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bird_in_the_north",
+                  "text": "A warning! \ud83d\ude02",
+                  "permalink": "https://www.threads.com/@bird_in_the_north/post/Df_8aV6jmgz",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
