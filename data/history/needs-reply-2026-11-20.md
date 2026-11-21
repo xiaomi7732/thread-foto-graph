@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (264)
+## Needs Reply (265)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **artmama007**:  ([link](https://www.threads.com/@artmama007/post/Df-6ofzG2mA))
+  - Photo: Description: A crescent-shaped celestial body, likely the Moon, is visible against a uniformly black background, with its illuminated portion showing a soft, warm glow. Photograph read: The subject is centered in the frame, with a smooth, out-of-focus rendering that blurs surface features. Lighting is concentrated on the visible arc, with no discernible texture or craters. The background is completely dark with no visible stars or atmospheric effects. Photo type: Unclear
+    - Watch-outs: - Whole-image blur obscures surface detail on the crescent. - Brightness gradient around the crescent’s edge creates a halo effect, reducing contrast and detail visibility.
 - **happytexasduck**:  ([link](https://www.threads.com/@happytexasduck/post/Df-6BAnHTFj))
   - Photo: Description: A single, detailed snowflake rests on a dark, wet surface, with scattered droplets and streaks visible across the surface. Photograph read: The image is taken from a close perspective, with the snowflake centered and in focus, while the surrounding surface and background exhibit motion blur and bokeh from water droplets. Lighting is diffuse, with a bright area at the top left, suggesting an overexposed or reflective surface. Photo type: Macro
     - Watch-outs: - The snowflake is partially obscured by out-of-focus droplets and streaks in the foreground and background, reducing clarity of its edges. - The upper-left area is overexposed, causing loss of detail in the bright region and creating a glare that affects contrast and visibility.
