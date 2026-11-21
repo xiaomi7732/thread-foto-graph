@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (184)
+## Needs Reply (185)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **syldelteglia**: Congrats! You deserve this and more 🎉🎉 ([link](https://www.threads.com/@syldelteglia/post/DgA7u-blkjG))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Thank you Dee! Have a good weekend!_
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
+- **camaze**: Thank you so much for the recognition ([link](https://www.threads.com/@camaze/post/DgBRGoLo6PI))
+  - _Replying to: A place worth returning to, and a photo worth keeping. Than…_
 - **rickthomas742**: lol I know. The plane is the star (pun intended!). 😉 ([link](https://www.threads.com/@rickthomas742/post/DgAwBq6GDJS))
   - _Replying to: Decent shot! I am glad you didn’t crop the plane out 👍_
 
