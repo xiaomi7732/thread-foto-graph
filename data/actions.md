@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (233)
+## Needs Reply (236)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **cjluk77**:  ([link](https://www.threads.com/@cjluk77/post/Df_T-L9ALqU))
+  - Photo: Description: A long concrete arch bridge spans a calm body of water, with its reflection clearly visible in the surface. The sky is clear and blue, and tree-lined banks are visible on the far side. Photograph read: The composition is symmetrical, with the bridge and its reflection forming a near-perfect mirror image. Lighting is bright and even, suggesting midday sun. The rendering is sharp, with clear definition of the bridge’s structure and water surface. Photo type: Architectural
+- **aerosmiss**:  ([link](https://www.threads.com/@aerosmiss/post/Df_T8jljOk2))
+  - Photo: Description: A close-up shows two dark berries with light-colored stems resting on a textured, gray, slatted surface, with green leaves visible through the gaps. Photograph read: The image is composed with horizontal slats framing the berries and foliage. Lighting is even and diffuse, casting minimal shadows. The surface texture is visible, and the berries are in focus relative to the background. Photo type: Still life
 - **love_god_and_love_others**:  ([link](https://www.threads.com/@love_god_and_love_others/post/Df_S6AtFQph))
   - Photo: Description: A bird with outstretched wings stands in shallow water, creating ripples, while its reflection is visible on the surface. The water contains scattered floating debris and a dark shoreline silhouette to the right. Photograph read: The image is characterized by muted tones and a subdued color palette. The bird’s wings show motion blur, and the overall image lacks sharpness. Reflections are visible but not crisp. Lighting appears diffuse, with no strong directional highlights or shadows. Photo type: Natural
     - Watch-outs: Motion blur is visible in the bird’s wings, reducing detail. Reflections are indistinct and lack clarity.
@@ -173,6 +177,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
 - **lerwin54**: Boating on the St. Croix River. ([link](https://www.threads.com/@lerwin54/post/Df-2gZ_jBJ7))
   - _Replying to: (photo reply, no text)_
+- **spiritofoizys**: I'm not entirely sure. Just a thorny vine coming out of the ground going up into the tree canopy . I loved the color of it, so I snapped a photo. ([link](https://www.threads.com/@spiritofoizys/post/Df_T5InEYEM))
+  - _Replying to: One red thorn, sharp and bright against the green. It looks…_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))
   - _Replying to: (photo reply, no text)_
 - **oznatureart**: I'm always looking and exploring!!!... might be something from my youth, when we went camping and my sister and I were challenged by my parents to see how many wild flowers we could collect while they pitched the tent 😊 ([link](https://www.threads.com/@oznatureart/post/Df_IjJ9keaA))
