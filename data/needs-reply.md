@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (260)
+## Needs Reply (264)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **happytexasduck**:  ([link](https://www.threads.com/@happytexasduck/post/Df-6BAnHTFj))
+  - Photo: Description: A single, detailed snowflake rests on a dark, wet surface, with scattered droplets and streaks visible across the surface. Photograph read: The image is taken from a close perspective, with the snowflake centered and in focus, while the surrounding surface and background exhibit motion blur and bokeh from water droplets. Lighting is diffuse, with a bright area at the top left, suggesting an overexposed or reflective surface. Photo type: Macro
+    - Watch-outs: - The snowflake is partially obscured by out-of-focus droplets and streaks in the foreground and background, reducing clarity of its edges. - The upper-left area is overexposed, causing loss of detail in the bright region and creating a glare that affects contrast and visibility.
+- **lindascates2012**:  ([link](https://www.threads.com/@lindascates2012/post/Df-5liGEa5C))
+  - Photo: Description: Three dried, dark seed pods on slender stems are topped with frost, set against a uniformly blurred, grayish background. Photograph read: The subject is in focus, with visible texture on the frost and pods. Lighting is diffuse and even, casting no strong shadows. The background is out of focus, creating a soft, non-distracting backdrop. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Still life
+- **mcmallory1**:  ([link](https://www.threads.com/@mcmallory1/post/Df-5jgDmiPU))
+  - Photo: Description: A bird of prey perches atop a wooden birdhouse, with autumnal trees and foliage in the background. The bird’s head, eyes, and talons are visible, but the surrounding environment is not sharply defined. Photograph read: The image is taken in natural daylight with a shallow depth of field, resulting in the bird and birdhouse in focus while the background and foreground elements are softly blurred. The rendering appears to be a standard digital capture with no visible signs of distortion or color aberration. Photo type: Natural
 - **simonjpugh**: Derwent Water in heavy rain. ([link](https://www.threads.com/@simonjpugh/post/Df-5GwrCgoE))
   - Photo: Description: A wooden pier extends from the foreground into a calm body of water, flanked by vertical pilings, with hazy mountains and a flat horizon in the background under an overcast sky. Photograph read: The image is in black and white, with a symmetrical composition centered on the pier. Lighting is diffuse and even, with no strong directional highlights or shadows. The water surface and distant mountains are rendered with soft, smooth gradients, suggesting a long exposure. The wood grain on the pilings is visible, but the deck planks show minimal texture. Photo type: Long exposure landscape
     - Watch-outs: The water surface is uniformly smooth and blurred, obscuring any wave motion or texture. The distant mountains are indistinct due to atmospheric haze, reducing definition and detail.
@@ -252,6 +259,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I have seen the light - and it is bright red, curled over t…_
 - **rscottcarlson**: A bird? A lizard? Or more likely nothing. 😂 ([link](https://www.threads.com/@rscottcarlson/post/Df-2mP9jO-X))
   - _Replying to: An orange cat on a wall, looking off at something only cats…_
+- **veltinsthecat**: I think so. It was two years ago in a special exhibition at the National History Museum in LA. ([link](https://www.threads.com/@veltinsthecat/post/Df-55AXD4PN))
+  - _Replying to: Your spider came out beautifully - the web stayed invisible…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
   - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
