@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (202)
+## Needs Reply (208)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ian_hanna**:  ([link](https://www.threads.com/@ian_hanna/post/Df_KtO4FsGm))
+  - Photo: Description: The photograph shows shallow ocean waves receding onto a wet sandy beach, with visible ripple patterns in the sand and sparkling reflections on the water’s surface. Photograph read: The composition is dominated by the interface between water and sand, with diagonal lines formed by wave patterns. Lighting is bright, creating specular highlights on the water and enhancing the texture of the wet sand. The rendering is clear, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Natural landscape
 - **ian_hanna**:  ([link](https://www.threads.com/@ian_hanna/post/Df_KpPWlow-))
   - Photo: Description: A metallic fork is positioned on a textured, light-beige surface, casting a distinct shadow with four parallel lines. The fork’s tines are partially reflective, and the surface shows minor imperfections. Photograph read: The image is taken from a slightly elevated angle, with direct lighting creating sharp shadows. The surface has a uniform, fine-grained texture. The fork’s reflective surfaces show specular highlights, while the shadow is crisp and well-defined. Photo type: Still life
 - **sheila_mann65**:  ([link](https://www.threads.com/@sheila_mann65/post/Df_KfkfmFD-))
@@ -75,6 +77,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two ladybugs on one green leaf, both heading somewhere. Do …_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
   - _Replying to: (photo reply, no text)_
+- **missty_misanthrope**: Funny you should ask. This photo made me cry a little. I took it standing in front of our home in Boulder Creek. That was the last house we lived in together before he got sick. The last time we were happy. 😢❤️‍🩹 ([link](https://www.threads.com/@missty_misanthrope/post/Df_LC2WkTsV))
+  - _Replying to: You doing ok_
 - **greghillman11**: No, it was on a trip to Sth Australia, my home state. ([link](https://www.threads.com/@greghillman11/post/Df_I7MxE_xn))
   - _Replying to: A single tree on a bare hill, and the gray sky giving it al…_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
@@ -87,10 +91,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A bluebird sitting on its own street sign - it could not ha…_
 - **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
   - _Replying to: The dark background makes that little green bud glow, drop …_
+- **sarigny73**: Actually, sitting by a field in SW Vermont at my brother’s home. ([link](https://www.threads.com/@sarigny73/post/Df_K7RsGlRA))
+  - _Replying to: A sunset over a field, with the autumn trees catching the l…_
 - **grassybranch**: It probably did, but I didn't. ([link](https://www.threads.com/@grassybranch/post/Df_IJg6Dt5G))
   - _Replying to: A little green frog on the pot, looking right at the camera…_
+- **froststudiosphoto**: The waterfront in Tacoma on the way to Ruston. ([link](https://www.threads.com/@froststudiosphoto/post/Df_LFSbGMAL))
+  - _Replying to: Still water, a few old posts, and one mossy rock holding it…_
 - **flinn.steve**: It's my backyard and we always have a pair that come and visit. ([link](https://www.threads.com/@flinn.steve/post/Df_JG4ukYvV))
   - _Replying to: A whole lake of sunset, with one small swan out in the midd…_
+- **jen.isenor**: I think the bird on the wire would, except I zoomed it and it's not as sharp. The footprints tell a story. The second gull probably fills the bill better. It has less noise around it. I had cropped it a while back and think that had I left it, it would even be better. ([link](https://www.threads.com/@jen.isenor/post/Df_LMxFEasQ))
+  - _Replying to: Four quiet frames - a bird on a wire, footprints in the san…_
 - **crooked.paw**: The original photo ([link](https://www.threads.com/@crooked.paw/post/Df_IOstARSS))
   - Photo: Description: A pelican with a white head, black wingtips, and a long pinkish bill is floating in rippling green water, its body angled slightly to the right. Photograph read: The image is captured at a medium resolution, with natural lighting reflecting off the water surface. The pelican is in focus, but the water’s surface shows visible ripples and reflections, creating a textured background. The pelican’s eye and bill are clearly defined, with no signs of motion blur or focus falloff. Photo type: Natural
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
@@ -100,6 +110,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two quiet frames, a drop on a curling tendril and a frosted…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
+- **skymomma_rocks**: He hopped away slowly & I followed him with my phone until he got to the end of the leaf then jumped to another leaf - probably a good minute went by. ([link](https://www.threads.com/@skymomma_rocks/post/Df_LOVjEYnv))
+  - Photo: Description: A small, green frog perches on the edge of a large, broad leaf with prominent venation, surrounded by other similar leaves in a lush, green environment. Photograph read: The image is taken at a close distance with natural, diffused lighting. The frog and leaf are in focus, but the background is softly blurred. The leaf surface shows fine texture and minor imperfections, while the frog’s form is discernible but not sharply detailed. Photo type: Natural
+  - _Replying to: A tiny frog on a big green leaf, with the whole leaf to its…_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
 - **mummabear1963v**: My front porch light ([link](https://www.threads.com/@mummabear1963v/post/Df-z7KsEtEb))
