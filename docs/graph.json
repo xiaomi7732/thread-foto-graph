@@ -23,7 +23,7 @@
         "",
         ""
       ],
-      "reply_count": 13,
+      "reply_count": 14,
       "replies": [
         {
           "username": "valgal7148",
@@ -123,7 +123,18 @@
                   "needs_response": false,
                   "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "rickthomas742",
+                      "text": "lol I know. The plane is the star (pun intended!). \ud83d\ude09",
+                      "permalink": "https://www.threads.com/@rickthomas742/post/DgAwBq6GDJS",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -175,7 +186,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1219,
+      "reply_count": 1221,
       "replies": [
         {
           "username": "isadoralovesscarves",
@@ -1015,7 +1026,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "alex_hautecombe",
+                  "text": "The photo was shot in the Philippines in Anilao which is an area known for its marine diversity and diving expeditions. The outrigger is likely a diving boat heading home.",
+                  "permalink": "https://www.threads.com/@alex_hautecombe/post/DgAv7AwAuKc",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1655,7 +1677,22 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "love_god_and_love_others",
+                  "text": "I can\u2019t remember if the bird was landing or taking off! I was standing at the edge of a lake near the Meditarrian Sea in southern France with friends watching flamingos flying in a v formation similar to geese in the USA when I spotted the bird in the previous post. Here was what I was watching!",
+                  "permalink": "https://www.threads.com/@love_god_and_love_others/post/DgAvktBFWhZ",
+                  "photos": [
+                    "Description: A black-winged stilt stands in shallow water, creating ripples around its legs, with dark vegetation visible on the right bank and scattered floating debris in the water. Photograph read: The image is composed with the bird centered in the frame, lit from the side, casting a clear silhouette against the water. Reflections are visible in the water, and the surface shows gentle ripples. The lighting is subdued, with no harsh shadows or highlights. Photo type: Natural",
+                    "Description: A sunset over a body of water with a silhouetted bird in flight, distant landforms, and a cloudy sky with the sun partially obscured. Photograph read: The sky shows warm orange and yellow tones near the horizon, with darker clouds above. The water reflects the sky\u2019s glow. The bird is a dark silhouette against the bright background. Foreground vegetation is dark and indistinct. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural landscape",
+                    "Description: Silhouettes of six birds in flight are visible against a cloudy sky, with a faint glow near the horizon suggesting either sunrise or sunset. Photograph read: The birds are rendered as dark shapes against a muted, layered sky with soft gradients from gray to pale yellow. The image lacks sharpness, with no discernible texture or fine detail on the birds or clouds. The lighting is diffuse, with no strong directional highlights or shadows. Photo type: Silhouette"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

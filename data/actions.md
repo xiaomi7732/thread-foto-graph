@@ -6,11 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (167)
+## Needs Reply (170)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
   - _Replying to: @camaze The middle of the Minimal Friday favorites is your …_
+- **rickthomas742**: lol I know. The plane is the star (pun intended!). 😉 ([link](https://www.threads.com/@rickthomas742/post/DgAwBq6GDJS))
+  - _Replying to: Decent shot! I am glad you didn’t crop the plane out 👍_
 - **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
@@ -49,6 +51,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Odin's orange eyes are doing all the staring here - the res…_
 - **mcveyclicks**: Unfortunately the only way to go into Antelope Canyon is to be part of a tour group, so we weren’t down there too long. ([link](https://www.threads.com/@mcveyclicks/post/DgAi9FaFZHF))
   - _Replying to: That red rock folding in on itself, light slipping down the…_
+- **alex_hautecombe**: The photo was shot in the Philippines in Anilao which is an area known for its marine diversity and diving expeditions. The outrigger is likely a diving boat heading home. ([link](https://www.threads.com/@alex_hautecombe/post/DgAv7AwAuKc))
+  - _Replying to: A tiny outrigger on a huge gold sea, sunset doing the heavy…_
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
 - **carocaluwe263**: It was just a lucky shot on a random walk. I saw this bird and at the just moment I took this photo. The bird was there for 10 minutes I think. ([link](https://www.threads.com/@carocaluwe263/post/DgAijNfDnWm))
@@ -61,6 +65,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **sidneym1976**: Was noticed for sure. ([link](https://www.threads.com/@sidneym1976/post/DgAqeZDI5_k))
   - _Replying to: That stare, straight down the lens, with the mist doing the…_
+- **love_god_and_love_others**: I can’t remember if the bird was landing or taking off! I was standing at the edge of a lake near the Meditarrian Sea in southern France with friends watching flamingos flying in a v formation similar to geese in the USA when I spotted the bird in the previous post. Here was what I was watching! ([link](https://www.threads.com/@love_god_and_love_others/post/DgAvktBFWhZ))
+  - Photo: Description: A black-winged stilt stands in shallow water, creating ripples around its legs, with dark vegetation visible on the right bank and scattered floating debris in the water. Photograph read: The image is composed with the bird centered in the frame, lit from the side, casting a clear silhouette against the water. Reflections are visible in the water, and the surface shows gentle ripples. The lighting is subdued, with no harsh shadows or highlights. Photo type: Natural
+  - Photo: Description: A sunset over a body of water with a silhouetted bird in flight, distant landforms, and a cloudy sky with the sun partially obscured. Photograph read: The sky shows warm orange and yellow tones near the horizon, with darker clouds above. The water reflects the sky’s glow. The bird is a dark silhouette against the bright background. Foreground vegetation is dark and indistinct. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural landscape
+  - Photo: Description: Silhouettes of six birds in flight are visible against a cloudy sky, with a faint glow near the horizon suggesting either sunrise or sunset. Photograph read: The birds are rendered as dark shapes against a muted, layered sky with soft gradients from gray to pale yellow. The image lacks sharpness, with no discernible texture or fine detail on the birds or clouds. The lighting is diffuse, with no strong directional highlights or shadows. Photo type: Silhouette
+  - _Replying to: Wings up, ripples out, and the reflection keeping pace. Wha…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
