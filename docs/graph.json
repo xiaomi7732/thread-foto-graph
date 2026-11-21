@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1129,
+      "reply_count": 1135,
       "replies": [
         {
           "username": "lasclasicasmotos",
@@ -180,10 +180,21 @@
           "watch_outs": [
             "The main subject (buffalo) shows soft focus, reducing fine detail on its hide and facial features. The distant background elements are indistinct, making precise identification of structures or other animals impossible."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One buffalo, one wide green field, and all that water in front. Did it even notice you, or was the grass too good to look up from?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAez7zm6Na",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "karenjcollins1220",
@@ -192,10 +203,21 @@
           "photos": [
             "Description: A close-up of a flower bud, partially wrapped in dried, translucent sheath material, attached to a green stem against a plain, light-colored background. Photograph read: The image is in focus with even, diffuse lighting. The subject is centrally framed, with no visible lens distortion or motion blur. The bud\u2019s coloration and texture are clearly rendered, and the stem\u2019s surface detail is visible. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That purple tip pushing out of the papery sheath - it looks like the flower is unwrapping itself. How long before it opens, do you think?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe1Pbm7Wv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sammajsarah",
@@ -207,10 +229,21 @@
           "watch_outs": [
             "The mushroom cap\u2019s surface shows visible texture and spots, but the background and foreground elements are indistinct and lack definition. The entire image exhibits a uniform dark tone with no discernible depth or detail beyond the central subject."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A single mushroom holding the whole black frame, spots and all. What gave this one its melancholy mood for you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe2TUG8fE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "taiwanese726",
@@ -219,10 +252,21 @@
           "photos": [
             "Description: A black-and-white image shows three silhouetted figures atop a large sand dune, with a plain, lightly clouded sky above. Photograph read: The composition is dominated by the dark, textured surface of the dune, which occupies the lower two-thirds of the frame. The figures are small and sharply contrasted against the sky. Lighting appears to be from behind the subjects, creating strong silhouettes. The image is rendered in monochrome with no visible color information. Photo type: Silhouette"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Three tiny figures on top of all that dune, and nothing else for miles. Were they posing for you, or did they just happen to crest it at the right second?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe3TAG9gA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "thesyberian",
@@ -234,10 +278,21 @@
           "watch_outs": [
             "The left figure is almost entirely a silhouette, obscuring facial and body detail. The right figure\u2019s face and upper body are not visible due to the hood and lighting conditions."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two hoods, one white wall, and the shadow doing half the work. What do you see in it when you look at it now?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe4XUG4TV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "nope1952",
@@ -246,10 +301,21 @@
           "photos": [
             "Description: A cluster of brown, shelf-like mushrooms grows against the textured bark of a tree trunk, with a grassy, leaf-strewn ground visible in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The mushroom cluster is in focus, while the background is softly out of focus. The tree bark shows clear texture, and the mushrooms display subtle surface details and white margins. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those shelves fanning out of the bark, one overlapping the next. What caught your eye first when you found them?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgAe5arm-45",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tp703",
