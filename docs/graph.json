@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1207,
+      "reply_count": 1209,
       "replies": [
         {
           "username": "isadoralovesscarves",
@@ -671,7 +671,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kusnirah1985",
+                  "text": "Amazed",
+                  "permalink": "https://www.threads.com/@kusnirah1985/post/DgAlXZrkkkv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5168,7 +5179,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "carolinaabq",
+                  "text": "Totally luck \ud83d\ude02",
+                  "permalink": "https://www.threads.com/@carolinaabq/post/DgAlgDsm1cv",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

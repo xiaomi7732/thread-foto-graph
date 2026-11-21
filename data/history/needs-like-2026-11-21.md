@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (54)
+## Needs Like (56)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - valgal7148: Beautiful choices ([link](https://www.threads.com/@valgal7148/post/DgAN1Npm5K5))
@@ -13,8 +13,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - thesyberian: Estrangement. ([link](https://www.threads.com/@thesyberian/post/DgAfNHbCOtu))
 - saga4arts:  ([link](https://www.threads.com/@saga4arts/post/DgAEcKLjvnB))
+- kusnirah1985: Amazed ([link](https://www.threads.com/@kusnirah1985/post/DgAlXZrkkkv))
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
+- carolinaabq: Totally luck 😂 ([link](https://www.threads.com/@carolinaabq/post/DgAlgDsm1cv))
 - jen.isenor: Thank you! ([link](https://www.threads.com/@jen.isenor/post/DgAjDL7Ed9D))
 - kazz_bo_: Thats right 😀 ([link](https://www.threads.com/@kazz_bo_/post/DgAgseuk2EU))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
