@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (179)
+## Needs Reply (180)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **carocaluwe263**:  ([link](https://www.threads.com/@carocaluwe263/post/Df_nyMdDqNV))
+  - Photo: Description: A dark bird perches on the curved arm of a streetlight against a clear, gradient sky that transitions from darker to lighter blue. Photograph read: The image is taken from a low angle, with the streetlight and bird positioned in the upper right quadrant. The lighting is even and diffuse, casting minimal shadow. The streetlight fixture is circular and appears to be made of metal, with a visible LED panel. The bird is a silhouette with no discernible texture or features. Photo type: Still life
+    - Watch-outs: The bird’s silhouette lacks visible texture or detail due to backlighting and contrast. The streetlight fixture’s surface shows minor wear and rust, but no fine detail is resolvable.
 - **simnasho.pistachio**:  ([link](https://www.threads.com/@simnasho.pistachio/post/Df_mUmKG0P4))
   - Photo: Description: A bright moon is centered in the frame, surrounded by a faint, circular halo against a dark night sky with scattered stars; the foreground consists of a dark, silhouetted landmass. Photograph read: The moon is the primary illuminated subject, with a visible circular halo encircling it. The sky is dark and sparsely star-marked. The foreground is a solid black silhouette with no discernible texture or detail. The image lacks visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Astronomical
     - Watch-outs: The moon and halo are partially obscured by faint, wispy cloud-like structures that reduce contrast and definition. The foreground silhouette lacks any visible texture or detail, making it indistinct.
