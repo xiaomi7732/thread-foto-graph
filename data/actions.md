@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (245)
+## Needs Reply (246)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **cathyk_621**:  ([link](https://www.threads.com/@cathyk_621/post/Df_bowPlrgM))
+  - Photo: Description: A translucent chrysalis hangs from a dark, curved support structure, with a blurred background of yellow and green foliage. Photograph read: The image has a shallow depth of field, with the chrysalis in focus and the background rendered as soft bokeh. Lighting appears natural and directional, illuminating the chrysalis from the side. The chrysalis’s internal structure is visible through its thin casing, but surface textures are not sharply defined. Photo type: Macro
+    - Watch-outs: The chrysalis’s surface shows slight translucency and minor debris, which reduces contrast and detail. The chrysalis’s internal structures are visible but not sharply resolved, limiting the ability to discern fine anatomical features.
 - **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/Df_amoDFJO7))
   - Photo: Description: A person’s legs and feet, wearing hiking boots and blue jeans, are positioned atop a large, round hay bale under a clear blue sky. The hay bale is wrapped with visible blue and red netting. Photograph read: The image is taken from a low angle, looking upward toward the subject’s feet and the sky. Lighting is bright and direct, casting clear shadows on the jeans and hay. The composition is dominated by the sky and the hay bale, with the subject’s feet centrally framed. The image is in focus, with no visible motion blur or chromatic aberration. Photo type: Outdoor
 - **sidneym1976**:  ([link](https://www.threads.com/@sidneym1976/post/Df_YYV2G-lM))
