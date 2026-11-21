@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 915,
+      "reply_count": 916,
       "replies": [
         {
           "username": "love_god_and_love_others",
@@ -1406,7 +1406,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "artmama007",
+                  "text": "This was the night of an eclipse. But it was very hard for me to take the picture. I kept trying without a good result in my opinion. But it was the best that I got.",
+                  "permalink": "https://www.threads.com/@artmama007/post/Df_TnYuGzfo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

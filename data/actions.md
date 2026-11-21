@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (232)
+## Needs Reply (233)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **love_god_and_love_others**:  ([link](https://www.threads.com/@love_god_and_love_others/post/Df_S6AtFQph))
@@ -114,6 +114,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
 - **js.newberry**: Tiger Eye. A friend of mine told me that botanists recently reclassified this species from its historical name, Abutilon pictum, to Callianthe picta. ([link](https://www.threads.com/@js.newberry/post/Df_OjU8FTnV))
   - _Replying to: One red lantern flower hanging down, lit like a little lamp…_
+- **artmama007**: This was the night of an eclipse. But it was very hard for me to take the picture. I kept trying without a good result in my opinion. But it was the best that I got. ([link](https://www.threads.com/@artmama007/post/Df_TnYuGzfo))
+  - _Replying to: Just a sliver of moon in all that black, and it still fills…_
 - **lindascates2012**: Just snow on the poppy pods. ([link](https://www.threads.com/@lindascates2012/post/Df_JsU9mIpP))
   - _Replying to: Dried stems with snow on top, standing up against the dark.…_
 - **a_deeper_place**: It’s an old section of track on the northern Oregon coast. ([link](https://www.threads.com/@a_deeper_place/post/Df_Jys5mIyO))
