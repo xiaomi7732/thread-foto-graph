@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (226)
+## Needs Reply (229)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **lightimagesphotography**:  ([link](https://www.threads.com/@lightimagesphotography/post/Df_SjGBiSdP))
+  - Photo: Description: A single, slender grass stalk with feathery, elongated seed heads stands upright against a uniformly dark, out-of-focus background. Photograph read: The subject is centrally positioned with a shallow depth of field, rendering the background as a smooth, dark gradient. Lighting appears to come from the side or front, illuminating the grass’s texture and structure, though the overall image lacks high contrast or sharpness. Photo type: Macro
+    - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The background is uniformly indistinct, obscuring any contextual or environmental information.
 - **carolann0803**:  ([link](https://www.threads.com/@carolann0803/post/Df_Qacumlgj))
   - Photo: Description: A white heron with a long neck and yellow beak stands at the water’s edge, partially submerged, with a grassy bank in the foreground and a rippling body of water behind it. Photograph read: The image is composed with the heron centered slightly to the right, against a background of water and grass. Lighting is bright and even, suggesting daylight. The image exhibits a uniform, fine-grained texture across the entire frame, indicating a digital artifact or compression artifact. Photo type: Digital
     - Watch-outs: The entire image appears uniformly blurred, with fine detail indistinct across all subjects, including the heron’s feathers and the grass texture. The water surface shows no sharp ripples or reflections, indicating a lack of resolution or focus.
@@ -128,6 +131,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One tiny bird in a whole pale sky, barely more than a mark.…_
 - **froststudiosphoto**: The waterfront in Tacoma on the way to Ruston. ([link](https://www.threads.com/@froststudiosphoto/post/Df_LFSbGMAL))
   - _Replying to: Still water, a few old posts, and one mossy rock holding it…_
+- **dhome510**: Why does it matter what flower it is? Beauty is what matters. ([link](https://www.threads.com/@dhome510/post/Df_SRSWFo6k))
+  - _Replying to: One stem in a glass vase, standing up in the dark like it i…_
 - **flinn.steve**: It's my backyard and we always have a pair that come and visit. ([link](https://www.threads.com/@flinn.steve/post/Df_JG4ukYvV))
   - _Replying to: A whole lake of sunset, with one small swan out in the midd…_
 - **jen.isenor**: I think the bird on the wire would, except I zoomed it and it's not as sharp. The footprints tell a story. The second gull probably fills the bill better. It has less noise around it. I had cropped it a while back and think that had I left it, it would even be better. ([link](https://www.threads.com/@jen.isenor/post/Df_LMxFEasQ))
@@ -165,6 +170,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
+- **robinohrt**: Schooner races in Rockland Maine ([link](https://www.threads.com/@robinohrt/post/Df_Sc-sjpt6))
+  - _Replying to: A tall ship with full sails on a calm sea - it looks like i…_
 - **rajeshwar8380**: I guess no... ([link](https://www.threads.com/@rajeshwar8380/post/Df_Q825Eyck))
   - _Replying to: A bird dropping into the water, wings folded, with the whol…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
