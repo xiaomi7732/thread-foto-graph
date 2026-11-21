@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (213)
+## Needs Reply (216)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
+  - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **rhondawrightclark**:  ([link](https://www.threads.com/@rhondawrightclark/post/Df_LntRm6f6))
   - Photo: Description: A single vibrant purple flower with a white center is partially obscured by green grass blades, set against a background of more grass and a blurred terracotta pot. Photograph read: The image is taken in bright daylight with natural lighting, showing sharp grass blades and the flower’s petals. The composition is a close-up with the flower centered, though some blades partially obscure it. No visible signs of motion blur, focus issues, or color distortion. Photo type: Natural
     - Watch-outs: The flower’s center is partially obscured by overlapping grass blades, reducing visibility of its stamen. The flower is partially hidden behind a grass blade, limiting direct observation of its full form.
@@ -96,6 +98,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A bluebird sitting on its own street sign - it could not ha…_
 - **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
   - _Replying to: The dark background makes that little green bud glow, drop …_
+- **abejaah**: Oh um. Idk I just notice. But if you like small mushies look at this one! ([link](https://www.threads.com/@abejaah/post/Df_NQqzm6WN))
+  - Photo: Description: A small, pale mushroom with a curved stem emerges from a dense patch of green and brown moss growing on dark, textured soil or decaying wood. Photograph read: The image is composed with the mushroom as a central focal point, surrounded by moss. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering preserves fine textures of the moss and the mushroom’s cap, though the background is darker and less detailed. Photo type: Natural
+  - Photo: Description: The image shows a close-up of a moss-covered tree trunk with a small, pale mushroom emerging from the mossy surface. Photograph read: The composition is tightly framed on the textured surface, with natural, diffused lighting. The rendering preserves surface detail, though some areas are slightly out of focus. Photo type: Macro
+  - _Replying to: Two little yellow umbrellas on a tree trunk, and the bark d…_
+- **posts.by.norman**: It's the Philippine flag. That's the Independence Flagpole (also called the Philippine National Flagpole) in Luneta (Rizal Park) standing at 45.72 meters (150 feet) tall. It is recognized as the tallest flagpole in the Philippines. ([link](https://www.threads.com/@posts.by.norman/post/Df_NNLwH7ih))
+  - _Replying to: A flagpole going straight up into the clouds, with the flag…_
 - **sarigny73**: Actually, sitting by a field in SW Vermont at my brother’s home. ([link](https://www.threads.com/@sarigny73/post/Df_K7RsGlRA))
   - _Replying to: A sunset over a field, with the autumn trees catching the l…_
 - **grassybranch**: It probably did, but I didn't. ([link](https://www.threads.com/@grassybranch/post/Df_IJg6Dt5G))
