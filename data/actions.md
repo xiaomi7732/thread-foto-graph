@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (227)
+## Needs Reply (228)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ariffkodri**: Sometime we will ask ourselves , is it worth it ? ([link](https://www.threads.com/@ariffkodri/post/DgAQpwOoBqK))
+  - Photo: Description: A small boat with a canopy and poles is moving across choppy water, with distant, hazy mountains and a cloudy sky in the background; two birds are visible in flight. Photograph read: The image is in black and white, with moderate contrast and visible grain. The water surface shows texture and reflection, while the distant mountains are softly blurred. The boat is centered in the frame, with no discernible motion blur or focus issues. Photo type: Documentary
 - **elizabeth.watkinsmorris**:  ([link](https://www.threads.com/@elizabeth.watkinsmorris/post/DgANvdWGyrF))
   - Photo: Description: A small, green, leaf-shaped object rests on a textured, yellowish surface. The object’s form resembles a folded leaf with visible vein-like patterns. Photograph read: The image is captured with even, diffuse lighting, showing a textured background and a relatively clear subject. The subject is in focus, though the image lacks sharpness in fine details. Photo type: Macro
 - **aussky**:  ([link](https://www.threads.com/@aussky/post/DgANoriGL0G))
