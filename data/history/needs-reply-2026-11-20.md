@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (242)
+## Needs Reply (243)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **sidneym1976**:  ([link](https://www.threads.com/@sidneym1976/post/Df_YYV2G-lM))
@@ -198,6 +198,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
+- **muzzyscollage**: Most comments have interpreted this photo as quite phallic. ([link](https://www.threads.com/@muzzyscollage/post/Df_YyUnAG1-))
+  - _Replying to: A peeled banana on a tray, presented like it is the main co…_
 - **robinohrt**: Schooner races in Rockland Maine ([link](https://www.threads.com/@robinohrt/post/Df_Sc-sjpt6))
   - _Replying to: A tall ship with full sails on a calm sea - it looks like i…_
 - **rajeshwar8380**: I guess no... ([link](https://www.threads.com/@rajeshwar8380/post/Df_Q825Eyck))
