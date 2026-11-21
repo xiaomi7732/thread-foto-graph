@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (174)
+## Needs Reply (175)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **lucillepippetti**: Here's to another 500 before the end of the year! ([link](https://www.threads.com/@lucillepippetti/post/DgA2DoUIBMM))
@@ -36,6 +36,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Three tiny figures on top of all that dune, and nothing els…_
 - **nope1952**: I imagined fairies sleeping there. ([link](https://www.threads.com/@nope1952/post/DgAye19o0VR))
   - _Replying to: Those shelves fanning out of the bark, one overlapping the …_
+- **tp703**: A winter storm trifecta. Freezing rain, then sleet, then light snow. Here are a few more from that day. ([link](https://www.threads.com/@tp703/post/DgA3Q83Flnh))
+  - Photo: Description: A frozen plant stem, covered in ice and snow, with a red berry or fruit partially visible beneath the ice. The background is out of focus with indistinct horizontal bands of color. Photograph read: The image is a close-up with shallow depth of field, focusing on the icy stem. Lighting appears diffuse, with no harsh shadows. The ice and snow show crystalline texture, while the red object is blurred and indistinct. Background blur is uniform and non-structured. Photo type: Macro
+    - Watch-outs: The red berry/object is blurred and lacks definition, obscuring its shape and texture. The ice-covered stem shows surface detail but lacks fine structural clarity in the foreground.
+  - Photo: Description: A snow-covered branch with dried, brown leaves and small ice drips hangs against a uniformly blurred, white background, suggesting a winter scene. Photograph read: The image features a shallow depth of field, with the branch and leaves in focus while the background is indistinct. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering preserves texture on the branch and ice, but lacks sharpness in the background. Photo type: Nature macro
+  - Photo: Description: The photograph shows a close-up of bare tree branches encrusted with ice, with a few dried, brownish leaves still clinging to the branches, set against a blurred, indistinct background. Photograph read: The image is composed of tangled, ice-coated branches in the foreground, with shallow depth of field blurring the background. Lighting appears diffuse, casting soft shadows and highlighting the icy textures. The rendering preserves the crystalline structure of the ice but lacks sharpness in the branches' finer details. Photo type: Natural
+  - Photo: Description: A winter scene shows ice-laden tree branches in the foreground, with a snow-covered bench and blurred forest background visible through the branches. Photograph read: The foreground branches are in focus, displaying ice formations, while the background is softly out of focus. Lighting is diffuse and even, with no harsh shadows or highlights. The image has a shallow depth of field, emphasizing the branches over the distant bench and trees. Photo type: Nature photography
+    - Watch-outs: Foreground branches are sharp and detailed, but the background bench and trees are indistinct due to depth of field blur. The ice formations on branches are visible but not fully resolved in texture due to slight softness in the image.
+  - _Replying to: Icicles hanging off a snow-dusted branch, and the rest of t…_
 - **keywestsnapshots**: I pulled in my driveway, saw it, rolled out of my car with my arms full and hoisted my phone. Couldn’t believe I captured this! 🧡🧡 ([link](https://www.threads.com/@keywestsnapshots/post/DgAgYH9nClN))
   - _Replying to: A black-and-yellow butterfly on a red flower against all th…_
 - **mygirlscallmephyllis**: I just happen to take this photo on my morning walk as I do most mornings plus I’m a retired flight attendant obsessed with planes ([link](https://www.threads.com/@mygirlscallmephyllis/post/DgAhkqtFJLB))
