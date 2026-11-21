@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (244)
+## Needs Reply (246)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **karenjcollins1220**:  ([link](https://www.threads.com/@karenjcollins1220/post/DgAaR68Fch8))
+  - Photo: Description: A close-up of a flower bud, partially wrapped in dried, translucent sheath material, attached to a green stem against a plain, light-colored background. Photograph read: The image is in focus with even, diffuse lighting. The subject is centrally framed, with no visible lens distortion or motion blur. The bud’s coloration and texture are clearly rendered, and the stem’s surface detail is visible. Photo type: Macro
 - **sammajsarah**: One solo melancholy mushroom. ([link](https://www.threads.com/@sammajsarah/post/DgAWAcDlqTk))
   - Photo: Description: A single mushroom with a conical cap featuring radial ridges and scattered dark spots stands against a uniformly black background; small, indistinct shapes are visible in the foreground and background. Photograph read: The mushroom is centrally positioned, illuminated against a dark field, with high contrast between the subject and background. The cap’s texture and spots are visible, but the image lacks fine detail in the surrounding area. The foreground and background contain blurry, low-contrast shapes. Photo type: High-contrast macro
     - Watch-outs: The mushroom cap’s surface shows visible texture and spots, but the background and foreground elements are indistinct and lack definition. The entire image exhibits a uniform dark tone with no discernible depth or detail beyond the central subject.
@@ -89,6 +91,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **louloxt**:  ([link](https://www.threads.com/@louloxt/post/Df_mKPYjJ3v))
   - Photo: Description: A fuzzy, bright yellow-green caterpillar with black and orange markings is positioned on a textured, grayish surface that appears to be stone or concrete, with a few small twigs nearby. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The surface texture is visible, but the caterpillar’s fine hairs and subtle color transitions are not sharply defined. The image has a slightly soft or painterly rendering, possibly due to a filter or compression artifact. Photo type: Unclear
     - Watch-outs: The caterpillar’s body details, including its segmented hairs and color bands, are indistinct due to soft focus. The background texture is visible but lacks crispness, reducing contrast and detail clarity for the subject.
+- **donohueronald**: Silence in the sunset at Chambers bay neighbor. ([link](https://www.threads.com/@donohueronald/post/DgAaSzlFBex))
+  - Photo: Description: A lone tree stands in silhouette on a dark, undulating foreground, with a wide body of water reflecting a bright, horizontal band of light from the setting sun. A dark forested landmass lies across the water under a gradient sky of orange and yellow. Photograph read: The composition is layered with a foreground silhouette, a reflective water surface, and a luminous sky. The sun’s reflection creates a strong horizontal band across the water, while the tree and distant landmass are rendered as dark silhouettes. The foreground is mostly in shadow, with minimal visible texture or detail. Photo type: Landscape
+    - Watch-outs: The foreground terrain is uniformly dark, obscuring texture and contour details. The tree’s silhouette is defined but lacks visible surface detail or branching structure due to backlighting and low contrast.
+  - _Replying to: (photo reply, no text)_
 - **johnsiler**: The brilliant color of the leaf 🍁 ([link](https://www.threads.com/@johnsiler/post/DgAZLuRlEfy))
   - _Replying to: One leaf, one stone, and every bit of autumn packed into it…_
 - **cjluk77**: I honestly don’t know. My husband took the picture. It’s one of my favorite photos. ([link](https://www.threads.com/@cjluk77/post/DgATPhUFLv9))
