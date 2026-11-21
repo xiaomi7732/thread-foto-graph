@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (238)
+## Needs Reply (239)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -145,6 +145,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One kite in a whole blue sky, with the string barely there.…_
 - **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
   - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro
+- **lschumm13**: The sun. It felt so wonderful on my face. ([link](https://www.threads.com/@lschumm13/post/DgAVKXDG2un))
+  - _Replying to: Looking straight up into the blue, with nothing else in the…_
 - **imtayamathias**: It's actually a cloud. That's why I took the picture. I thought it looked so strange. I should have put this in the comments. Apologies, I had a lot of brain farts yesterday 😅 ([link](https://www.threads.com/@imtayamathias/post/Df_7QyiEUzX))
   - _Replying to: A flat field, a pale sky, and one plume of smoke on the hor…_
 - **crooked.paw**: I thank you for the compliment, but this is a photo. Just well processed. ([link](https://www.threads.com/@crooked.paw/post/Df_H_LwAUB4))
