@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (164)
+## Needs Reply (168)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -55,14 +55,20 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
 - **carocaluwe263**: It was just a lucky shot on a random walk. I saw this bird and at the just moment I took this photo. The bird was there for 10 minutes I think. ([link](https://www.threads.com/@carocaluwe263/post/DgAijNfDnWm))
   - _Replying to: One bird on a bent streetlight, the sky doing a slow fade b…_
+- **louloxt**: I was on a trip with school and the students were mesmerised by it. When I looked it up later I found out it was saw fly lavae and not a caterpillar would you believe! ([link](https://www.threads.com/@louloxt/post/DgArBOwjNMI))
+  - _Replying to: That fuzzy yellow caterpillar with the black and orange tri…_
 - **donohueronald**: Silence in the sunset at Chambers bay neighbor. ([link](https://www.threads.com/@donohueronald/post/DgAaSzlFBex))
   - Photo: Description: A lone tree stands in silhouette on a dark, undulating foreground, with a wide body of water reflecting a bright, horizontal band of light from the setting sun. A dark forested landmass lies across the water under a gradient sky of orange and yellow. Photograph read: The composition is layered with a foreground silhouette, a reflective water surface, and a luminous sky. The sun’s reflection creates a strong horizontal band across the water, while the tree and distant landmass are rendered as dark silhouettes. The foreground is mostly in shadow, with minimal visible texture or detail. Photo type: Landscape
     - Watch-outs: The foreground terrain is uniformly dark, obscuring texture and contour details. The tree’s silhouette is defined but lacks visible surface detail or branching structure due to backlighting and low contrast.
   - _Replying to: (photo reply, no text)_
+- **sidneym1976**: Was noticed for sure. ([link](https://www.threads.com/@sidneym1976/post/DgAqeZDI5_k))
+  - _Replying to: That stare, straight down the lens, with the mist doing the…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
+- **mmc51264**: She did. Until she took a new assignment 🌈💜 ([link](https://www.threads.com/@mmc51264/post/DgArLwfFlBp))
+  - _Replying to: An old dog on guard duty, facing the fence like the world m…_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
@@ -82,6 +88,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **missty_misanthrope**: Funny you should ask. This photo made me cry a little. I took it standing in front of our home in Boulder Creek. That was the last house we lived in together before he got sick. The last time we were happy. 😢❤️‍🩹 ([link](https://www.threads.com/@missty_misanthrope/post/Df_LC2WkTsV))
   - _Replying to: You doing ok_
+- **beetleb64**: The color caught my eye on my morning walk :) ([link](https://www.threads.com/@beetleb64/post/DgAqsHRm1X7))
+  - _Replying to: Those wings spread flat on the concrete, all green and glas…_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
 - **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
