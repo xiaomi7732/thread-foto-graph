@@ -1175,7 +1175,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "greyhound_2025",
+                  "text": "Lone swan was the first",
+                  "permalink": "https://www.threads.com/@greyhound_2025/post/DgBEv_NCBG7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4093,16 +4104,6 @@
                       "photos": [],
                       "needs_response": false,
                       "action": null,
-                      "hidden": false,
-                      "replies": []
-                    },
-                    {
-                      "username": "ameliapraise42",
-                      "text": "Hey dear hope you're having a great day \ud83d\ude0a Always up for a good chat and meeting new people. If you're keen, say hello on Telegram \ud83d\udcac t.me/amelia91",
-                      "permalink": "https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p",
-                      "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
                       "hidden": false,
                       "replies": []
                     }
@@ -19879,7 +19880,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 526,
+      "reply_count": 527,
       "replies": [
         {
           "username": "signhildthomas",
@@ -21824,7 +21825,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dasimscas",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@dasimscas/post/DgBEXr1mUmm",
+                  "photos": [
+                    "Description: The image is a composite of two vertical panels: the left shows a dark water surface with faint, irregular white reflections near a wooden dock, while the right shows a clear blue sky with a contrail above a calm lake and distant treeline. Photograph read: The left panel has a dark, low-contrast water surface with minimal visible detail, and the right panel features a bright, clear sky with a distinct contrail and a reflective lake surface. The text overlay is in pink, underlined, and spans both panels. The image appears to be a digital composite with no visible camera lens distortion or sensor artifacts. Photo type: Composite"
+                  ],
+                  "watch_outs": [
+                    "Left panel: Water surface is dark and lacks discernible texture or detail beyond the faint white reflections. Right panel: Contrail is sharp and well-defined against the sky, but the lake surface below is relatively featureless and lacks visible ripples or waves."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

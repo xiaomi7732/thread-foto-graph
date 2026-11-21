@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (184)
+## Needs Reply (185)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **syldelteglia**: Congrats! You deserve this and more 🎉🎉 ([link](https://www.threads.com/@syldelteglia/post/DgA7u-blkjG))
@@ -67,6 +67,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Odin's orange eyes are doing all the staring here - the res…_
 - **mcveyclicks**: Unfortunately the only way to go into Antelope Canyon is to be part of a tour group, so we weren’t down there too long. ([link](https://www.threads.com/@mcveyclicks/post/DgAi9FaFZHF))
   - _Replying to: That red rock folding in on itself, light slipping down the…_
+- **greyhound_2025**: Lone swan was the first ([link](https://www.threads.com/@greyhound_2025/post/DgBEv_NCBG7))
+  - _Replying to: One grain stalk against a sunset gradient, and then a lone …_
 - **alex_hautecombe**: The photo was shot in the Philippines in Anilao which is an area known for its marine diversity and diving expeditions. The outrigger is likely a diving boat heading home. ([link](https://www.threads.com/@alex_hautecombe/post/DgAv7AwAuKc))
   - _Replying to: A tiny outrigger on a huge gold sea, sunset doing the heavy…_
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
@@ -117,8 +119,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: You doing ok_
 - **beetleb64**: The color caught my eye on my morning walk :) ([link](https://www.threads.com/@beetleb64/post/DgAqsHRm1X7))
   - _Replying to: Those wings spread flat on the concrete, all green and glas…_
-- **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
-  - _Replying to: No, it was on a trip to Sth Australia, my home state._
 - **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
   - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro
 - **alangray490**: Thank you I try ([link](https://www.threads.com/@alangray490/post/DgAZrVUEfWG))
@@ -372,6 +372,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **jcallenderphotography**: Late to the party but I have a unique one! Porsche 356 reflection on a glossy wood door in Portsmouth, NH. ([link](https://www.threads.com/@jcallenderphotography/post/Df5yfUfCEk3))
   - Photo: Description: The image shows a close-up of a textured, warm-toned surface, likely wood or a similar material, with several bright, out-of-focus spots and a horizontal band at the bottom. Photograph read: The composition is dominated by a blurred, uniform background with scattered bright circular highlights. Lighting appears to be direct and reflective, creating glare. The rendering lacks sharpness across the entire frame. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail across the surface. Bright glare spots (left and right) reduce contrast and readability of underlying texture.
+- **dasimscas**:  ([link](https://www.threads.com/@dasimscas/post/DgBEXr1mUmm))
+  - Photo: Description: The image is a composite of two vertical panels: the left shows a dark water surface with faint, irregular white reflections near a wooden dock, while the right shows a clear blue sky with a contrail above a calm lake and distant treeline. Photograph read: The left panel has a dark, low-contrast water surface with minimal visible detail, and the right panel features a bright, clear sky with a distinct contrail and a reflective lake surface. The text overlay is in pink, underlined, and spans both panels. The image appears to be a digital composite with no visible camera lens distortion or sensor artifacts. Photo type: Composite
+    - Watch-outs: Left panel: Water surface is dark and lacks discernible texture or detail beyond the faint white reflections. Right panel: Contrail is sharp and well-defined against the sky, but the lake surface below is relatively featureless and lacks visible ripples or waves.
+  - _Replying to: Is that the jet's trail drawing itself across the dark wate…_
 - **iwriteandedit**: Thanks for your kind comment! ([link](https://www.threads.com/@iwriteandedit/post/Df6IZ71FLF-))
   - _Replying to: Not as often as I used to but I still visit every two years…_
 - **rockmaninmd**: Yosemite Valley my first trip there.. ([link](https://www.threads.com/@rockmaninmd/post/Df7vIY8pWLY))
