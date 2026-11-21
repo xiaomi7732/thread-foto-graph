@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (287)
+## Needs Reply (289)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **theothermrtjacks**:  ([link](https://www.threads.com/@theothermrtjacks/post/Df-_HQOHF1c))
+  - Photo: Description: A dragonfly perches atop a weathered wooden post against a blurred background of dry terrain and a clear sky. Photograph read: The dragonfly is in focus with visible wing venation and body segments, while the background is softly out of focus. Lighting is bright and even, suggesting daylight. The post shows texture and wear, but the background lacks detail. Photo type: Nature portrait
 - **steve_lim72**: It’s in the am, cold and foggy. No other soul in sight. ([link](https://www.threads.com/@steve_lim72/post/Df-94byDUcu))
   - Photo: Description: A solitary, weathered wooden post, bound with rope, stands in calm water under a dense fog, with indistinct tree silhouettes visible on the left bank. Photograph read: The image is monochrome, with soft, diffused lighting and a muted tonal range. The post is sharply defined against the hazy background, which lacks contrast and detail. Reflections of the post are visible in the water, but the surface is smooth and featureless. Photo type: Black and white landscape
     - Watch-outs: - Fog obscures the background and distant shoreline, reducing visibility and detail in the left half of the image. - The water surface is uniformly smooth and reflective, lacking texture or ripples, which limits visual interest and environmental context.
@@ -250,6 +252,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
+- **retrograde_60**: The telephone lines, the grain of the pole and the way the light seemed to kiss the sky … When then the soft clouds began coming up to the horizon I knew I wanted to capture the organic and the man-made in a single frame. But only just…minimal ([link](https://www.threads.com/@retrograde_60/post/Df-_PFbDyzx))
+  - _Replying to: A utility pole in black and white, all lines and angles aga…_
 - **pattijphoto**: It was a classical piece. I love the candid moments. Dress rehearsal. Quite awhile ago. Too many to remember ☺️ ([link](https://www.threads.com/@pattijphoto/post/Df-wAI9EZfq))
   - Photo: Description: Three ballet dancers in colorful dresses stand on pointe with arms extended, positioned on a dark stage against a solid red backdrop. Photograph read: The dancers are evenly lit from the front, casting soft shadows on the stage floor. The image has a shallow depth of field, with the central dancer slightly more in focus than the others. The stage floor reflects some light, and the backdrop is uniformly lit with no visible texture or detail. Photo type: Performance photography
   - _Replying to: One dancer in a single spotlight, with the whole dark stage…_
