@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (236)
+## Needs Reply (238)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **cjluk77**:  ([link](https://www.threads.com/@cjluk77/post/Df_T-L9ALqU))
@@ -128,10 +128,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A tiny bird in all that fog, barely there over the water. D…_
 - **www1ceman**: It nests nearby at Five Rivers Environmental Education Center, and hangs out there frequently. ([link](https://www.threads.com/@www1ceman/post/Df_InNPGp_1))
   - _Replying to: A bluebird sitting on its own street sign - it could not ha…_
+- **corrected_visions**: I believe it is a snowberry, it’s native to Oregon where the photo was taken. ([link](https://www.threads.com/@corrected_visions/post/Df_U7FFleD3))
+  - _Replying to: One white berry hanging on a bare twig, with the autumn blu…_
 - **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
   - _Replying to: The dark background makes that little green bud glow, drop …_
 - **dontmfpanic**: it is an area of the beach where water from a lake further inland seeps through the sand . tide was receding . ([link](https://www.threads.com/@dontmfpanic/post/Df_QMdymagC))
   - _Replying to: A gull with red legs and its own reflection, standing on we…_
+- **___nila.savitri**: Honestly, I love leaving it a little mysterious—whether dew or lingering rain, that split second of stillness before it fell was everything.. ☺️ ([link](https://www.threads.com/@___nila.savitri/post/Df_UrRGmgwo))
+  - _Replying to: One drop, stillness, nothing else - you delivered on the br…_
 - **abejaah**: Oh um. Idk I just notice. But if you like small mushies look at this one! ([link](https://www.threads.com/@abejaah/post/Df_NQqzm6WN))
   - Photo: Description: A small, pale mushroom with a curved stem emerges from a dense patch of green and brown moss growing on dark, textured soil or decaying wood. Photograph read: The image is composed with the mushroom as a central focal point, surrounded by moss. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering preserves fine textures of the moss and the mushroom’s cap, though the background is darker and less detailed. Photo type: Natural
   - Photo: Description: The image shows a close-up of a moss-covered tree trunk with a small, pale mushroom emerging from the mossy surface. Photograph read: The composition is tightly framed on the textured surface, with natural, diffused lighting. The rendering preserves surface detail, though some areas are slightly out of focus. Photo type: Macro

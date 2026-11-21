@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 919,
+      "reply_count": 921,
       "replies": [
         {
           "username": "cjluk77",
@@ -1806,7 +1806,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "corrected_visions",
+                  "text": "I believe it is a snowberry, it\u2019s native to Oregon where the photo was taken.",
+                  "permalink": "https://www.threads.com/@corrected_visions/post/Df_U7FFleD3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -2090,7 +2101,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "___nila.savitri",
+                  "text": "Honestly, I love leaving it a little mysterious\u2014whether dew or lingering rain, that split second of stillness before it fell was everything.. \u263a\ufe0f",
+                  "permalink": "https://www.threads.com/@___nila.savitri/post/Df_UrRGmgwo",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
