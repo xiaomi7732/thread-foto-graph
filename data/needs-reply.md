@@ -4,13 +4,26 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (275)
+## Needs Reply (280)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mn_chick**:  ([link](https://www.threads.com/@mn_chick/post/Df-8Xs_DFAK))
+  - Photo: Description: A snow-covered hillside with a line of sparse, slender trees silhouetted against a uniformly white, overcast sky. The scene is dominated by monochrome tones and lacks distinct foreground or background separation. Photograph read: The composition is minimalist, with the trees positioned along the right edge of the frame. Lighting is diffuse and flat, with no discernible shadows or highlights. The rendering is soft and lacks sharpness, with no visible texture or detail in either the snow or the trees. Photo type: Unclear
+    - Watch-outs: Whole-image blur obscures fine detail in the trees and snow. Uniform white background reduces contrast, making the trees appear as faint silhouettes with no discernible texture or form.
+- **tracileetracy**: Moon and Venus ([link](https://www.threads.com/@tracileetracy/post/Df-8QxxFNkK))
+  - Photo: Description: The image shows a twilight sky with a crescent moon and a faint point of light, likely a planet, above a dark tree line. The horizon glows with orange and pink hues, fading into a pale blue sky above. Photograph read: The composition is framed by dark vertical edges, suggesting a view through a window or doorway. The sky exhibits a smooth gradient of color from orange near the horizon to pale blue above. The tree line is a silhouette with minimal detail. The crescent moon and the brighter point are distinct but small. Photo type: Aesthetic landscape
+- **btvs62**:  ([link](https://www.threads.com/@btvs62/post/Df-8Ms1DYiV))
+  - Photo: Description: A solitary heron stands in shallow water near a shoreline, with a distant treeline and a pale sky at the horizon. The water shows gentle ripples and reflects subdued light. Photograph read: The image is composed with the heron centered in the midground, against a wide expanse of water and a dark shoreline. Lighting is dim, suggesting dusk or dawn, with a soft gradient in the sky. The rendering is flat with minimal contrast, and the water’s surface texture is visible but not sharp. Photo type: Natural
+    - Watch-outs: The heron’s silhouette is indistinct due to low contrast against the water; fine feather detail is not visible. The foreground sand is uniformly dark and lacks texture detail.
+- **mn_chick**:  ([link](https://www.threads.com/@mn_chick/post/Df-8EDqDEdF))
+  - Photo: Description: A solitary tree with a full canopy stands in a misty, open field; distant, faint shapes are barely discernible through the fog. Photograph read: The image is uniformly hazy with low contrast, obscuring fine texture and depth; the tree is the primary visible subject, with a flat, pale sky and indistinct horizon. Photo type: Unclear
+    - Watch-outs: Whole-image blur obscures detail in the tree canopy and ground; background elements are indistinct due to atmospheric haze.
 - **traquy96**:  ([link](https://www.threads.com/@traquy96/post/Df-7dGeI2Vn))
   - Photo: Description: A single hot air balloon with a pattern of red, orange, and yellow panels floats against a partly cloudy sky. The sky features blue patches, wispy clouds, and a faint contrail. Photograph read: The image is taken from a low angle, with the balloon positioned toward the upper right. Lighting is natural daylight, with no obvious signs of overexposure or underexposure. The balloon is in focus relative to the background, though the image lacks sharpness in fine detail. Photo type: Aerial landscape
 - **missty_misanthrope**:  ([link](https://www.threads.com/@missty_misanthrope/post/Df-7OIbkYhw))
   - Photo: Description: Two ladybugs with red elytra and black spots are positioned on a textured green leaf, with the background blurred and indistinct. Photograph read: The image features a shallow depth of field, with the leaf and insects in focus, while the background is out of focus. Lighting is bright and even, highlighting the leaf’s surface texture and the insects’ coloration. The rendering preserves fine surface detail on the leaf and the insects’ bodies. Photo type: Macro
+- **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
+  - _Replying to: (photo reply, no text)_
 - **beetleb64**:  ([link](https://www.threads.com/@beetleb64/post/Df-7M1emAah))
   - Photo: Description: A newly emerged cicada with translucent turquoise wings and a greenish head is attached to its brown exoskeleton, resting on a rough, dark, granular surface. Photograph read: The image is in focus with even lighting, capturing fine details of the cicada’s wings, eyes, and exoskeleton. The background is a textured, dark surface with scattered small particles. Photo type: Macro
 - **greghillman11**:  ([link](https://www.threads.com/@greghillman11/post/Df-7Jfuk_Vb))
