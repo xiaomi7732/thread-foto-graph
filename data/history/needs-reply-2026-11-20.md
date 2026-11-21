@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (300)
+## Needs Reply (301)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
+  - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
+    - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
 - **kellsmt365**:  ([link](https://www.threads.com/@kellsmt365/post/Df_A8BVmcft))
   - Photo: Description: A windmill is silhouetted against a gradient sky transitioning from deep purple to pink, with a small bird perched on a platform near the top of the tower. Photograph read: The image is composed with the windmill centered, its blades and tower forming a dark silhouette against a smooth, colored sky. Lighting is backlighting, creating high contrast between the subject and background. The rendering is uniform, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Silhouette
 - **thomasj.moore**:  ([link](https://www.threads.com/@thomasj.moore/post/Df_A5pWHTDJ))
