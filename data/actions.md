@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (189)
+## Needs Reply (190)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **gretchylolly**:  ([link](https://www.threads.com/@gretchylolly/post/Df_vVu7Fr7p))
+  - Photo: Description: A modern building with a flat roof and horizontal window panels is photographed against a clear blue sky, with a visible moon positioned above the roofline. Photograph read: The composition is vertically oriented, with the building occupying the lower two-thirds and the sky and moon in the upper third. The lighting is even and bright, suggesting daylight with the moon visible. The image has a clean, structured aesthetic with sharp edges and no visible motion blur or chromatic aberration. Photo type: Architectural
 - **mcveyclicks**:  ([link](https://www.threads.com/@mcveyclicks/post/Df_ugZzlX8L))
   - Photo: Description: The image shows a narrow canyon passage with smooth, undulating sandstone walls illuminated by light from above, framed by dark, shadowed rock on either side. Photograph read: The composition is framed by near-black silhouettes on the left and right, with a bright, overexposed sky visible at the top center. The central rock face displays layered, wavy textures with warm reds and oranges, contrasted by deep shadows in crevices and folds. Photo type: Natural landscape
     - Watch-outs: The left and right sides are heavily underexposed, obscuring fine texture and detail in the rock surfaces. The central rock face, while detailed, shows visible loss of detail in the darkest recesses due to shadowing.
