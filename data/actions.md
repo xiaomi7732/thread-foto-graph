@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (238)
+## Needs Reply (240)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **wang_fong_ya**: Finding beauty in simple architectural details, quiet shadows, and negative space. Sometimes, less really is more. 🤍📷 ([link](https://www.threads.com/@wang_fong_ya/post/Df_WP6DD5On))
+  - Photo: Description: The photograph shows three metal-framed balconies with green arched canopies mounted on a plain, light-colored wall, alongside one standard window with curtains. Photograph read: The composition is arranged in a grid-like pattern with the balconies positioned at upper left, upper right, and lower right, while the window is centered lower. Lighting is direct and strong, casting sharp, geometric shadows from the balconies onto the wall. The image has a flat, even exposure with no visible vignetting or lens distortion. Photo type: Architectural
 - **cjluk77**:  ([link](https://www.threads.com/@cjluk77/post/Df_T-L9ALqU))
   - Photo: Description: A long concrete arch bridge spans a calm body of water, with its reflection clearly visible in the surface. The sky is clear and blue, and tree-lined banks are visible on the far side. Photograph read: The composition is symmetrical, with the bridge and its reflection forming a near-perfect mirror image. Lighting is bright and even, suggesting midday sun. The rendering is sharp, with clear definition of the bridge’s structure and water surface. Photo type: Architectural
 - **aerosmiss**:  ([link](https://www.threads.com/@aerosmiss/post/Df_T8jljOk2))
@@ -163,6 +165,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
 - **mikemccoy__**: It's a young Herring gull. Just sitting there. It was in Alaska. Maybe just watching the salmon swim by. ([link](https://www.threads.com/@mikemccoy__/post/Df_RgeZlLTt))
   - _Replying to: A gull standing in the shallows, all speckled grey and whit…_
+- **68nursekelly**: You know, I wish I could remember what was through the end of that glorious fog! 😂 I thought it looked so mysterious … ([link](https://www.threads.com/@68nursekelly/post/Df_Wr_6m5Ll))
+  - _Replying to: One tiny walker on a long straight path, with the fog doing…_
 - **cultiveemais_pas_legume**: The drop on a curled tendril was the first one ([link](https://www.threads.com/@cultiveemais_pas_legume/post/Df_I2pODMjz))
   - _Replying to: Two quiet frames, a drop on a curling tendril and a frosted…_
 - **jinksys_mum**: Not sure, but most of the green is reflected from the trees near the pond. ([link](https://www.threads.com/@jinksys_mum/post/Df_Lf2VjtIk))
