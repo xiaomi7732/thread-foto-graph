@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (289)
+## Needs Reply (291)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **valgal7148**: Teeny Tiny 🐌 friends … no bigger than a pea ([link](https://www.threads.com/@valgal7148/post/Df-_xayG3Wv))
+  - Photo: Description: A small snail with a coiled shell and extended antennae is centered on a textured, light-gray wall surface. Photograph read: The image has a vignette effect with darkened corners, and the subject is in focus but appears small within the frame. Lighting is even across the subject, with no visible shadows or highlights. Photo type: Macro
+    - Watch-outs: The snail’s shell shows minimal visible detail due to low contrast and uniform lighting. The wall’s texture is visible but lacks sharp definition, limiting context for scale or surface condition.
+- **frankie_giordano_**:  ([link](https://www.threads.com/@frankie_giordano_/post/Df-_dt1lRVY))
+  - Photo: Description: A yellow and black caterpillar with segmented body and small protrusions is positioned on a weathered wooden surface, curving slightly upward. Photograph read: The image has a shallow depth of field, with the caterpillar in focus and the surrounding wood blurred. Lighting is even and diffuse, without harsh shadows or highlights. The surface texture of the wood is visible in the foreground and background, but not uniformly sharp. Photo type: Macro
+    - Watch-outs: The caterpillar’s head and anterior segments are slightly out of focus, reducing clarity of fine features. The background wood grain is blurred, obscuring texture detail beyond the immediate subject area.
 - **theothermrtjacks**:  ([link](https://www.threads.com/@theothermrtjacks/post/Df-_HQOHF1c))
   - Photo: Description: A dragonfly perches atop a weathered wooden post against a blurred background of dry terrain and a clear sky. Photograph read: The dragonfly is in focus with visible wing venation and body segments, while the background is softly out of focus. Lighting is bright and even, suggesting daylight. The post shows texture and wear, but the background lacks detail. Photo type: Nature portrait
 - **steve_lim72**: It’s in the am, cold and foggy. No other soul in sight. ([link](https://www.threads.com/@steve_lim72/post/Df-94byDUcu))
@@ -252,7 +258,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
-- **retrograde_60**: The telephone lines, the grain of the pole and the way the light seemed to kiss the sky … When then the soft clouds began coming up to the horizon I knew I wanted to capture the organic and the man-made in a single frame. But only just…minimal ([link](https://www.threads.com/@retrograde_60/post/Df-_PFbDyzx))
+- **retrograde_60**: The telephone lines, the grain of the pole and the way the light seemed to kiss the sky … When then the soft clouds began coming up to the horizon I knew I wanted to capture the organic and the man-made in a single frame. But only just…minimal. It’s funny … I had been thinking about communication and had been looking at telephone poles with a kind of nostalgia. ([link](https://www.threads.com/@retrograde_60/post/Df-_PFbDyzx))
   - _Replying to: A utility pole in black and white, all lines and angles aga…_
 - **pattijphoto**: It was a classical piece. I love the candid moments. Dress rehearsal. Quite awhile ago. Too many to remember ☺️ ([link](https://www.threads.com/@pattijphoto/post/Df-wAI9EZfq))
   - Photo: Description: Three ballet dancers in colorful dresses stand on pointe with arms extended, positioned on a dark stage against a solid red backdrop. Photograph read: The dancers are evenly lit from the front, casting soft shadows on the stage floor. The image has a shallow depth of field, with the central dancer slightly more in focus than the others. The stage floor reflects some light, and the backdrop is uniformly lit with no visible texture or detail. Photo type: Performance photography
