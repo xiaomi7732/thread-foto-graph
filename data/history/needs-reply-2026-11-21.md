@@ -4,7 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (193)
+## Needs Reply (195)
+
+### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
+- **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
+  - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **janethopkins365**: Odin the Eagle Owl ([link](https://www.threads.com/@janethopkins365/post/Df_zuPdkcnv))
@@ -103,6 +107,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
 - **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
+- **kes_ward**: Waiting to be played with again. Been put in the cupboard and forgotten about. I love the look in the bears eyes that give it a sad feeling of being left behind. The cupboard door opens, a little light gets let in, but it’s not the bear they’re after. ([link](https://www.threads.com/@kes_ward/post/Df_1dJKjsP5))
+  - _Replying to: One small bear, one chair, and the whole dark to itself - w…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
   - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
