@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 908,
+      "reply_count": 909,
       "replies": [
         {
           "username": "carolann0803",
@@ -2552,7 +2552,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mikemccoy__",
+                  "text": "It's a young Herring gull. Just sitting there. It was in Alaska. Maybe just watching the salmon swim by.",
+                  "permalink": "https://www.threads.com/@mikemccoy__/post/Df_RgeZlLTt",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
