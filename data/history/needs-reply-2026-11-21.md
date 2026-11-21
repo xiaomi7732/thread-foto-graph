@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (156)
+## Needs Reply (157)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -22,6 +22,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The gecko’s fine scale texture and toe pads are visible but not sharply detailed due to shallow depth of field and low-light conditions. The gravel ground in the foreground and background is out of focus and lacks texture definition.
 - **sammajsarah**: I think the dirt on the mushroom top looks like a sad face. Two black eyes and a _ for a mouth ([link](https://www.threads.com/@sammajsarah/post/DgAfNodlnlZ))
   - _Replying to: A single mushroom holding the whole black frame, spots and …_
+- **taiwanese726**: Just happened to crest it ([link](https://www.threads.com/@taiwanese726/post/DgAiBkvlNTZ))
+  - _Replying to: Three tiny figures on top of all that dune, and nothing els…_
 - **keywestsnapshots**: I pulled in my driveway, saw it, rolled out of my car with my arms full and hoisted my phone. Couldn’t believe I captured this! 🧡🧡 ([link](https://www.threads.com/@keywestsnapshots/post/DgAgYH9nClN))
   - _Replying to: A black-and-yellow butterfly on a red flower against all th…_
 - **mygirlscallmephyllis**: I just happen to take this photo on my morning walk as I do most mornings plus I’m a retired flight attendant obsessed with planes ([link](https://www.threads.com/@mygirlscallmephyllis/post/DgAhkqtFJLB))
