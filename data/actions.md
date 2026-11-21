@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (205)
+## Needs Reply (208)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **sheilam99**: Here’s a native cicada my husband came across in our garden (Sydney, Australia) ([link](https://www.threads.com/@sheilam99/post/DgAAl6FIzI-))
+  - Photo: Description: A cicada rests on the tip of a human finger, with its wings partially extended and red eyes visible; the background is out of focus and indistinct. Photograph read: The image is a close-up with shallow depth of field, showing the cicada in sharp focus against a blurred background. Lighting is even and natural, without obvious shadows or overexposure. Photo type: Macro
 - **gjbrown.art**: The dove who visits my garden every morning for a bath. ([link](https://www.threads.com/@gjbrown.art/post/Df_-hrCjX1P))
   - Photo: Description: A white pigeon is perched on a rough-textured surface, viewed from the side, with a blurred green grassy background. Photograph read: The image is in focus on the pigeon, with even lighting that highlights its feathers and features. The background is softly out of focus, creating a shallow depth of field. The pigeon’s eye and beak are clearly visible, and feather texture is discernible. Photo type: Portrait
 - **dingenwu**:  ([link](https://www.threads.com/@dingenwu/post/Df_9bvTGRx6))
@@ -63,6 +65,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
 - **spudyank**: I like the way it worked out🙂 ([link](https://www.threads.com/@spudyank/post/Df_jchmG-rN))
   - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
+- **downtown_design**: Shelf, quite moments where we find them… not just plates, Sasaki stoneware designed by Massimo Vignelli which I’ve had forever ([link](https://www.threads.com/@downtown_design/post/DgAAEalm8YW))
+  - _Replying to: A bowl and a stack of plates, lined up on the dark like the…_
+- **downtown_design**: There’s something sacred about every day simplicity ([link](https://www.threads.com/@downtown_design/post/DgAAgTVGyHy))
+  - Photo: Description: The image shows a stack of seven white, flat, circular objects, likely plates, arranged horizontally in a row against a uniformly dark background. Photograph read: The objects are captured from a top-down perspective, with their rims visible as horizontal lines. Lighting is directional, creating a bright highlight along the top edge of each object and casting a dark shadow beneath. The image has a shallow depth of field, with the topmost object slightly more in focus than the others, and the bottommost object appears least sharp. Photo type: Still life
+  - Photo: Description: A dark, shallow bowl with a white rim is positioned against a textured, gray wall, with a dark horizontal band at the top of the frame. Photograph read: The bowl is in the lower third of the frame, viewed from above; the lighting is flat and diffuse, casting minimal shadow. The wall texture is visible but lacks sharpness. The image has a uniform, slightly grainy appearance with no discernible depth of field or motion blur. Photo type: Still life
+    - Watch-outs: The bowl’s interior is completely dark and unilluminated, obscuring any surface detail or texture. The white rim is visible but lacks contrast against the wall, making its edge appear flat and indistinct.
+  - Photo: Description: Three white ceramic bowls are stacked horizontally against a dark, textured wall, with the largest bowl at the bottom and the smallest at the top. Photograph read: The image is composed with the bowls centered, lit from the front, casting soft shadows behind them. The wall exhibits a rough, granular texture. The bowls appear smooth and uniformly colored, with no visible surface imperfections or markings. Photo type: Still life
+  - _Replying to: Shelf, quite moments where we find them… not just plates, S…_
 - **astdie**: Even just an hour—the time before sunrise is always the best. ([link](https://www.threads.com/@astdie/post/Df_2zcljd84))
   - _Replying to: Mist on the water, a rod in hand, and the sun just coming u…_
 - **valgal7148**: Took this one first to show size ([link](https://www.threads.com/@valgal7148/post/Df_Jh9jm2zZ))

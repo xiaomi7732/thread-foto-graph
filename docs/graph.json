@@ -132,8 +132,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1084,
+      "reply_count": 1087,
       "replies": [
+        {
+          "username": "sheilam99",
+          "text": "Here\u2019s a native cicada my husband came across in our garden (Sydney, Australia)",
+          "permalink": "https://www.threads.com/@sheilam99/post/DgAAl6FIzI-",
+          "photos": [
+            "Description: A cicada rests on the tip of a human finger, with its wings partially extended and red eyes visible; the background is out of focus and indistinct. Photograph read: The image is a close-up with shallow depth of field, showing the cicada in sharp focus against a blurred background. Lighting is even and natural, without obvious shadows or overexposure. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "gjbrown.art",
           "text": "The dove who visits my garden every morning for a bath.",
@@ -1922,7 +1934,38 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "downtown_design",
+                  "text": "Shelf, quite moments where we find them\u2026 not just plates, Sasaki stoneware designed by Massimo Vignelli which I\u2019ve had forever",
+                  "permalink": "https://www.threads.com/@downtown_design/post/DgAAEalm8YW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "downtown_design",
+                      "text": "There\u2019s something sacred about every day simplicity",
+                      "permalink": "https://www.threads.com/@downtown_design/post/DgAAgTVGyHy",
+                      "photos": [
+                        "Description: The image shows a stack of seven white, flat, circular objects, likely plates, arranged horizontally in a row against a uniformly dark background. Photograph read: The objects are captured from a top-down perspective, with their rims visible as horizontal lines. Lighting is directional, creating a bright highlight along the top edge of each object and casting a dark shadow beneath. The image has a shallow depth of field, with the topmost object slightly more in focus than the others, and the bottommost object appears least sharp. Photo type: Still life",
+                        "Description: A dark, shallow bowl with a white rim is positioned against a textured, gray wall, with a dark horizontal band at the top of the frame. Photograph read: The bowl is in the lower third of the frame, viewed from above; the lighting is flat and diffuse, casting minimal shadow. The wall texture is visible but lacks sharpness. The image has a uniform, slightly grainy appearance with no discernible depth of field or motion blur. Photo type: Still life",
+                        "Description: Three white ceramic bowls are stacked horizontally against a dark, textured wall, with the largest bowl at the bottom and the smallest at the top. Photograph read: The image is composed with the bowls centered, lit from the front, casting soft shadows behind them. The wall exhibits a rough, granular texture. The bowls appear smooth and uniformly colored, with no visible surface imperfections or markings. Photo type: Still life"
+                      ],
+                      "watch_outs": [
+                        "",
+                        "The bowl\u2019s interior is completely dark and unilluminated, obscuring any surface detail or texture. The white rim is visible but lacks contrast against the wall, making its edge appear flat and indistinct.",
+                        ""
+                      ],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
