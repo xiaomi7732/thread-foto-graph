@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1204,
+      "reply_count": 1205,
       "replies": [
         {
           "username": "dreamy_blue.eyed_lily",
@@ -1004,7 +1004,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "carocaluwe263",
+                  "text": "It was just a lucky shot on a random walk. I saw this bird and at the just moment I took this photo. The bird was there for 10 minutes I think.",
+                  "permalink": "https://www.threads.com/@carocaluwe263/post/DgAijNfDnWm",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

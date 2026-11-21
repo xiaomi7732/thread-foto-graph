@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (157)
+## Needs Reply (158)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -42,6 +42,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One pylon, one break in the clouds, and the light doing all…_
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
+- **carocaluwe263**: It was just a lucky shot on a random walk. I saw this bird and at the just moment I took this photo. The bird was there for 10 minutes I think. ([link](https://www.threads.com/@carocaluwe263/post/DgAijNfDnWm))
+  - _Replying to: One bird on a bent streetlight, the sky doing a slow fade b…_
 - **donohueronald**: Silence in the sunset at Chambers bay neighbor. ([link](https://www.threads.com/@donohueronald/post/DgAaSzlFBex))
   - Photo: Description: A lone tree stands in silhouette on a dark, undulating foreground, with a wide body of water reflecting a bright, horizontal band of light from the setting sun. A dark forested landmass lies across the water under a gradient sky of orange and yellow. Photograph read: The composition is layered with a foreground silhouette, a reflective water surface, and a luminous sky. The sun’s reflection creates a strong horizontal band across the water, while the tree and distant landmass are rendered as dark silhouettes. The foreground is mostly in shadow, with minimal visible texture or detail. Photo type: Landscape
     - Watch-outs: The foreground terrain is uniformly dark, obscuring texture and contour details. The tree’s silhouette is defined but lacks visible surface detail or branching structure due to backlighting and low contrast.
