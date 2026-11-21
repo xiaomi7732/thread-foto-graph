@@ -6,13 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (168)
+## Needs Reply (167)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
   - _Replying to: @camaze The middle of the Minimal Friday favorites is your …_
-- **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
-  - _Replying to: @rickthomas742 Slide four of the Minimal Friday favorites i…_
 - **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
@@ -67,11 +65,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
-- **mmc51264**: She did. Until she took a new assignment 🌈💜 ([link](https://www.threads.com/@mmc51264/post/DgArLwfFlBp))
-  - _Replying to: An old dog on guard duty, facing the fence like the world m…_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
+- **kellsmt365**: It was a sunset indeed. This was from a November road trip from Washington to California. After driving through hours of freezing fog I came down a hill to an opening in the fog and drove down the first farm road I came across. ￼ I thought the windmill was pretty cool and then the owl landed there. ([link](https://www.threads.com/@kellsmt365/post/DgAuHjKlBnw))
+  - _Replying to: A windmill against a pink sky, with one small bird perched …_
 - **spudyank**: I like the way it worked out🙂 ([link](https://www.threads.com/@spudyank/post/Df_jchmG-rN))
   - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
 - **downtown_design**: Shelf, quite moments where we find them… not just plates, Sasaki stoneware designed by Massimo Vignelli which I’ve had forever ([link](https://www.threads.com/@downtown_design/post/DgAAEalm8YW))
@@ -421,7 +419,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ## Needs Like (56)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
-- valgal7148: Beautiful choices ([link](https://www.threads.com/@valgal7148/post/DgAN1Npm5K5))
 - asutris: Thank you so much. 🙏🏻 ([link](https://www.threads.com/@asutris/post/Df_1BC4GDof))
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
@@ -429,6 +426,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - saga4arts:  ([link](https://www.threads.com/@saga4arts/post/DgAEcKLjvnB))
 - kusnirah1985: Amazed ([link](https://www.threads.com/@kusnirah1985/post/DgAlXZrkkkv))
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
+- bhuda0416: Yeah, definitely..😊✌️ ([link](https://www.threads.com/@bhuda0416/post/DgAtzurlSKT))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - carolinaabq: Totally luck 😂 ([link](https://www.threads.com/@carolinaabq/post/DgAlgDsm1cv))
 - jen.isenor: Thank you! ([link](https://www.threads.com/@jen.isenor/post/DgAjDL7Ed9D))
