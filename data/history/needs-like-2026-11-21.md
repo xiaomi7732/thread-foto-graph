@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (52)
+## Needs Like (53)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - valgal7148: Beautiful choices ([link](https://www.threads.com/@valgal7148/post/DgAN1Npm5K5))
@@ -31,6 +31,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - auerbach_photos: Thank you! ([link](https://www.threads.com/@auerbach_photos/post/Df-zwMHlsJ0))
 - zacharias1818: My favorite ([link](https://www.threads.com/@zacharias1818/post/Df-7a2VFnTz))
 - gingertom43: No problem... ([link](https://www.threads.com/@gingertom43/post/Df-iIfUkbZ0))
+- achiklin79: Superb ([link](https://www.threads.com/@achiklin79/post/DgAhO0EGV7Z))
 
 ### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
 - chicken_poop_shoes_: Thank you ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df-bwhMo-wo))
