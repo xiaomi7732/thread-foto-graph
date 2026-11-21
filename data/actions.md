@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (180)
+## Needs Reply (183)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **ncav2021**: Can you find the tiny crab in the picture? ([link](https://www.threads.com/@ncav2021/post/Df_oGEXoDmI))
+- **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
+  - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
 - **carocaluwe263**:  ([link](https://www.threads.com/@carocaluwe263/post/Df_nyMdDqNV))
   - Photo: Description: A dark bird perches on the curved arm of a streetlight against a clear, gradient sky that transitions from darker to lighter blue. Photograph read: The image is taken from a low angle, with the streetlight and bird positioned in the upper right quadrant. The lighting is even and diffuse, casting minimal shadow. The streetlight fixture is circular and appears to be made of metal, with a visible LED panel. The bird is a silhouette with no discernible texture or features. Photo type: Still life
     - Watch-outs: The bird’s silhouette lacks visible texture or detail due to backlighting and contrast. The streetlight fixture’s surface shows minor wear and rust, but no fine detail is resolvable.
@@ -18,6 +21,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **louloxt**:  ([link](https://www.threads.com/@louloxt/post/Df_mKPYjJ3v))
   - Photo: Description: A fuzzy, bright yellow-green caterpillar with black and orange markings is positioned on a textured, grayish surface that appears to be stone or concrete, with a few small twigs nearby. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The surface texture is visible, but the caterpillar’s fine hairs and subtle color transitions are not sharply defined. The image has a slightly soft or painterly rendering, possibly due to a filter or compression artifact. Photo type: Unclear
     - Watch-outs: The caterpillar’s body details, including its segmented hairs and color bands, are indistinct due to soft focus. The background texture is visible but lacks crispness, reducing contrast and detail clarity for the subject.
+- **kali467**: It did. I kept it short so it wouldn’t jump away. ([link](https://www.threads.com/@kali467/post/Df_oOl8m8VC))
+  - _Replying to: A very hungry grasshopper, right on cue at the sunflower's …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))

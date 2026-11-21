@@ -13,8 +13,30 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1057,
+      "reply_count": 1060,
       "replies": [
+        {
+          "username": "ncav2021",
+          "text": "Can you find the tiny crab in the picture?",
+          "permalink": "https://www.threads.com/@ncav2021/post/Df_oGEXoDmI",
+          "photos": [],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ncav2021",
+          "text": "",
+          "permalink": "https://www.threads.com/@ncav2021/post/Df_oDM9IAAa",
+          "photos": [
+            "Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand\u2019s granular texture is visible across the frame, and the crab\u2019s form is discernible but not sharply defined. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "carocaluwe263",
           "text": "",
@@ -561,7 +583,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "kali467",
+                  "text": "It did. I kept it short so it wouldn\u2019t jump away.",
+                  "permalink": "https://www.threads.com/@kali467/post/Df_oOl8m8VC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
