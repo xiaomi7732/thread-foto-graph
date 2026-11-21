@@ -16,6 +16,21 @@
       "reply_count": 1063,
       "replies": [
         {
+          "username": "mcveyclicks",
+          "text": "",
+          "permalink": "https://www.threads.com/@mcveyclicks/post/Df_ugZzlX8L",
+          "photos": [
+            "Description: The image shows a narrow canyon passage with smooth, undulating sandstone walls illuminated by light from above, framed by dark, shadowed rock on either side. Photograph read: The composition is framed by near-black silhouettes on the left and right, with a bright, overexposed sky visible at the top center. The central rock face displays layered, wavy textures with warm reds and oranges, contrasted by deep shadows in crevices and folds. Photo type: Natural landscape"
+          ],
+          "watch_outs": [
+            "The left and right sides are heavily underexposed, obscuring fine texture and detail in the rock surfaces. The central rock face, while detailed, shows visible loss of detail in the darkest recesses due to shadowing."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
           "username": "greyhound_2025",
           "text": "",
           "permalink": "https://www.threads.com/@greyhound_2025/post/Df_tPstCPC9",
@@ -2939,21 +2954,10 @@
           "photos": [
             "Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro"
           ],
-          "needs_response": false,
-          "action": null,
+          "needs_response": true,
+          "action": "reply",
           "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "A green bud holding one perfect drop, like it is saving it for later. How long did that drop hang on?",
-              "permalink": "https://www.threads.com/@saars.foto/post/Df_H4l9EaN-",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": []
-            }
-          ]
+          "replies": []
         },
         {
           "username": "alangray490",

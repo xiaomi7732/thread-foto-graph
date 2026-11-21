@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (186)
+## Needs Reply (188)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mcveyclicks**:  ([link](https://www.threads.com/@mcveyclicks/post/Df_ugZzlX8L))
+  - Photo: Description: The image shows a narrow canyon passage with smooth, undulating sandstone walls illuminated by light from above, framed by dark, shadowed rock on either side. Photograph read: The composition is framed by near-black silhouettes on the left and right, with a bright, overexposed sky visible at the top center. The central rock face displays layered, wavy textures with warm reds and oranges, contrasted by deep shadows in crevices and folds. Photo type: Natural landscape
+    - Watch-outs: The left and right sides are heavily underexposed, obscuring fine texture and detail in the rock surfaces. The central rock face, while detailed, shows visible loss of detail in the darkest recesses due to shadowing.
 - **greyhound_2025**:  ([link](https://www.threads.com/@greyhound_2025/post/Df_tPstCPC9))
   - Photo: Description: A single stalk of grain, likely wheat or barley, is silhouetted against a gradient sky transitioning from orange near the horizon to blue above. The background shows a blurred horizon with indistinct shapes. Photograph read: The grain stalk is in focus and contrasts sharply with the sky. The sky exhibits a smooth color gradient. The foreground and distant horizon are out of focus, with no discernible texture or detail. Photo type: Portrait
     - Watch-outs: The background horizon is blurred, obscuring any identifiable features. The grain head and awns are visible but lack fine detail due to shallow depth of field and low contrast.
@@ -49,6 +52,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: You doing ok_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
+- **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
+  - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro
 - **crooked.paw**: I thank you for the compliment, but this is a photo. Just well processed. ([link](https://www.threads.com/@crooked.paw/post/Df_H_LwAUB4))
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
 - **chanellemclennan**: It's the Rena penguin memorial, commemorating the little blue penguins (kororā) affected by the 2011 Rena oil spill that happened here. ([link](https://www.threads.com/@chanellemclennan/post/Df_mlH9kd9J))
