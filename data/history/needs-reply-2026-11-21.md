@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (218)
+## Needs Reply (220)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -20,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **matson5381**:  ([link](https://www.threads.com/@matson5381/post/DgAF_hFkY7c))
   - Photo: Description: A single duck stands in shallow water, viewed from the side, with its head turned slightly toward the viewer. The water surface reflects golden light, creating a textured, rippled background. Photograph read: The image has a grainy, pixelated texture across the entire frame. Lighting is even and diffuse, casting soft shadows. The duck’s form is discernible but lacks fine feather detail, and the water surface shows no sharp reflections or ripples. Photo type: Digital noise
     - Watch-outs: The entire image exhibits visible grain, reducing fine detail across all areas. The duck’s beak and eye are not sharply defined, and the water’s surface lacks crisp texture or reflection detail.
+- **cjg223**: One of my favorite ducks. Always elegant. ([link](https://www.threads.com/@cjg223/post/DgAJQJaFuwT))
+  - _Replying to: (photo reply, no text)_
 - **kusnirah1985**:  ([link](https://www.threads.com/@kusnirah1985/post/DgADHDDEggE))
   - Photo: Description: A paraglider with a blue, yellow, and red canopy is suspended in a cloudy sky above a coastal landscape featuring a shoreline, sea, and distant landmasses. Photograph read: The image is captured from a low angle, with the paraglider positioned in the upper portion of the frame. The sky is uniformly overcast, resulting in flat, diffuse lighting. The paraglider and pilot are visible as a silhouette, with minimal contrast against the sky. The foreground and background are hazy, with no sharp edges or defined textures. Photo type: Aerial landscape
     - Watch-outs: The paraglider’s canopy shows no discernible text or markings due to low resolution and distance. The pilot’s silhouette lacks detail, making equipment or posture indistinguishable.
@@ -66,6 +68,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A very hungry grasshopper, right on cue at the sunflower's …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
+- **adriana.f2302**: I love to stay for a while to enjoy deeper the art ([link](https://www.threads.com/@adriana.f2302/post/DgAJkfAEXTy))
+  - _Replying to: An empty gallery, a bench, and all that white space to sit …_
 - **_ivy.lane_**: Yes, I did! And it was absolutely worth it! ([link](https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6))
   - _Replying to: One yellow flower in front, the sea doing the rest behind i…_
 - **sunneesideup**: They had popped up after a rain. I thought they looked so beautiful against the dark green flora around them. My dad’s new house has a beautiful garden left to become over grown. It’s a peaceful place to go and reconnect work nature. ([link](https://www.threads.com/@sunneesideup/post/DgAC_VdG04r))

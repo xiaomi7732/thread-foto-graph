@@ -132,7 +132,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1099,
+      "reply_count": 1101,
       "replies": [
         {
           "username": "mygirlscallmephyllis",
@@ -171,7 +171,18 @@
           "needs_response": true,
           "action": "reply",
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "cjg223",
+              "text": "One of my favorite ducks. Always elegant.",
+              "permalink": "https://www.threads.com/@cjg223/post/DgAJQJaFuwT",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saga4arts",
@@ -1098,7 +1109,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "adriana.f2302",
+                  "text": "I love to stay for a while to enjoy deeper the art",
+                  "permalink": "https://www.threads.com/@adriana.f2302/post/DgAJkfAEXTy",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
