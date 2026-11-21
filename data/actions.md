@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (308)
+## Needs Reply (310)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **traci_dyann**:  ([link](https://www.threads.com/@traci_dyann/post/Df_FzL_o1xm))
+  - Photo: Description: A small, light-colored heart-shaped object rests on a rough, mottled gray concrete surface, which shows minor stains and scattered debris. Photograph read: The image is a flat, top-down view with even, diffuse lighting. The heart is centered in the frame, and the surface texture is visible but lacks sharpness. No lens distortion or motion blur is apparent. Photo type: Documentary
+- **sunneesideup**: A White Narcissus. ([link](https://www.threads.com/@sunneesideup/post/Df_FsSkG11Z))
+  - Photo: Description: A single white flower with six petals and a yellow center is in focus, set against a blurred background of dark green, elongated foliage. Photograph read: The flower is centrally positioned with a shallow depth of field, causing the background to be out of focus. Lighting is even and diffused, illuminating the flower without harsh shadows or highlights. Photo type: Macro
+    - Watch-outs: The background foliage is indistinct due to blur, obscuring any potential texture or detail. The flower’s petals show minimal surface texture, with no visible imperfections or fine structures.
 - **fma719**:  ([link](https://www.threads.com/@fma719/post/Df_FUJylMZk))
   - Photo: Description: A black, open rectangular box with a single heart-shaped chocolate resting in a central compartment, surrounded by empty slots; the box is set against a plain, light-colored surface. Photograph read: The image is in black and white, with even, diffuse lighting that casts soft shadows. The box’s interior and the chocolate are in focus, but the surrounding paper wrapping shows creases and a small tear on the right side. Photo type: Still life
     - Watch-outs: - The right side of the box’s outer wrapping shows a visible tear, affecting the integrity of the packaging’s appearance. - The chocolate’s surface is smooth and reflective, but lacks texture detail due to the image’s monochrome rendering and moderate contrast.
