@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (216)
+## Needs Reply (217)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -13,6 +13,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mygirlscallmephyllis**:  ([link](https://www.threads.com/@mygirlscallmephyllis/post/DgAIT_iloMy))
+  - Photo: Description: An airplane is captured from below against a clear blue sky, with bare tree branches and dried leaves in the upper portion of the frame. Photograph read: The image is taken from a low angle, with the airplane centered and viewed from its underside. The sky is uniformly bright blue, and the airplane’s livery is visible, though not sharply detailed. Tree branches and leaves occupy the top-left and top-right areas, partially framing the scene. Photo type: Aerial
 - **naniiman**:  ([link](https://www.threads.com/@naniiman/post/DgAGBCRnWUR))
   - Photo: Description: A single insect, likely a winged ant, is visible on a glass surface, with a blurred urban background of buildings and greenery. Photograph read: The insect is in focus and centrally positioned, with shallow depth of field blurring the background. Lighting is bright and even, casting a clear shadow of the insect on the glass. The image has no visible signs of motion blur, overexposure, or color distortion. Photo type: Portrait
 - **matson5381**:  ([link](https://www.threads.com/@matson5381/post/DgAF_hFkY7c))
