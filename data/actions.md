@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (172)
+## Needs Reply (173)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -71,6 +71,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **sidneym1976**: Was noticed for sure. ([link](https://www.threads.com/@sidneym1976/post/DgAqeZDI5_k))
   - _Replying to: That stare, straight down the lens, with the mist doing the…_
+- **aerosmiss**: I always have an eye for that kind of stuff 😉. ([link](https://www.threads.com/@aerosmiss/post/DgAzkxFgORO))
+  - _Replying to: Two berries, a slatted grey stage, and nothing else needed.…_
 - **love_god_and_love_others**: I can’t remember if the bird was landing or taking off! I was standing at the edge of a lake near the Meditarrian Sea in southern France with friends watching flamingos flying in a v formation similar to geese in the USA when I spotted the bird in the previous post. Here was what I was watching! ([link](https://www.threads.com/@love_god_and_love_others/post/DgAvktBFWhZ))
   - Photo: Description: A black-winged stilt stands in shallow water, creating ripples around its legs, with dark vegetation visible on the right bank and scattered floating debris in the water. Photograph read: The image is composed with the bird centered in the frame, lit from the side, casting a clear silhouette against the water. Reflections are visible in the water, and the surface shows gentle ripples. The lighting is subdued, with no harsh shadows or highlights. Photo type: Natural
   - Photo: Description: A sunset over a body of water with a silhouetted bird in flight, distant landforms, and a cloudy sky with the sun partially obscured. Photograph read: The sky shows warm orange and yellow tones near the horizon, with darker clouds above. The water reflects the sky’s glow. The bird is a dark silhouette against the bright background. Foreground vegetation is dark and indistinct. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Natural landscape
