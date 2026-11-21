@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (242)
+## Needs Reply (244)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -144,6 +144,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
 - **sellenmurray**: No...just a moment in time... ([link](https://www.threads.com/@sellenmurray/post/DgAGgX9jFWa))
   - _Replying to: One tiny bird on a dark hilltop, with a whole yellow sky be…_
+- **tracileetracy**: Pure luck! Walked by my sliding window and took the shot. Love the shadow play! ([link](https://www.threads.com/@tracileetracy/post/DgAZlQWIbJ6))
+  - _Replying to: A crescent moon and Venus sharing the dusk, with the trees …_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
   - _Replying to: (photo reply, no text)_
 - **missty_misanthrope**: Funny you should ask. This photo made me cry a little. I took it standing in front of our home in Boulder Creek. That was the last house we lived in together before he got sick. The last time we were happy. 😢❤️‍🩹 ([link](https://www.threads.com/@missty_misanthrope/post/Df_LC2WkTsV))
@@ -154,6 +156,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One kite in a whole blue sky, with the string barely there.…_
 - **alangray490**:  ([link](https://www.threads.com/@alangray490/post/Df-3EEUGDZT))
   - Photo: Description: A close-up shows a green, unopened bud at the end of a thin, dark branch, with a single water droplet hanging from its tip. The background is uniformly dark and out of focus. Photograph read: The subject is sharply focused against a blurred background. Lighting is soft and directional, illuminating the bud and droplet from the side. The image has a shallow depth of field, with the background rendered as a smooth gradient of dark tones. Photo type: Macro
+- **alangray490**: Thank you I try ([link](https://www.threads.com/@alangray490/post/DgAZrVUEfWG))
+  - _Replying to: Dark background, macro lens, and the bud doing the glowing.…_
 - **lschumm13**: The sun. It felt so wonderful on my face. ([link](https://www.threads.com/@lschumm13/post/DgAVKXDG2un))
   - _Replying to: Looking straight up into the blue, with nothing else in the…_
 - **imtayamathias**: It's actually a cloud. That's why I took the picture. I thought it looked so strange. I should have put this in the comments. Apologies, I had a lot of brain farts yesterday 😅 ([link](https://www.threads.com/@imtayamathias/post/Df_7QyiEUzX))

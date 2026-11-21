@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1122,
+      "reply_count": 1124,
       "replies": [
         {
           "username": "sammajsarah",
@@ -2734,7 +2734,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tracileetracy",
+                  "text": "Pure luck! Walked by my sliding window and took the shot. Love the shadow play!",
+                  "permalink": "https://www.threads.com/@tracileetracy/post/DgAZlQWIbJ6",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3668,7 +3679,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "alangray490",
+                          "text": "Thank you I try",
+                          "permalink": "https://www.threads.com/@alangray490/post/DgAZrVUEfWG",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
