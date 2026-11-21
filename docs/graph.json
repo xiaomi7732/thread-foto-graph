@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1039,
+      "reply_count": 1043,
       "replies": [
+        {
+          "username": "simnasho.pistachio",
+          "text": "",
+          "permalink": "https://www.threads.com/@simnasho.pistachio/post/Df_mUmKG0P4",
+          "photos": [
+            "Description: A bright moon is centered in the frame, surrounded by a faint, circular halo against a dark night sky with scattered stars; the foreground consists of a dark, silhouetted landmass. Photograph read: The moon is the primary illuminated subject, with a visible circular halo encircling it. The sky is dark and sparsely star-marked. The foreground is a solid black silhouette with no discernible texture or detail. The image lacks visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Astronomical"
+          ],
+          "watch_outs": [
+            "The moon and halo are partially obscured by faint, wispy cloud-like structures that reduce contrast and definition. The foreground silhouette lacks any visible texture or detail, making it indistinct."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "louloxt",
           "text": "",
@@ -3685,7 +3700,32 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "chanellemclennan",
+                  "text": "It's the Rena penguin memorial, commemorating the little blue penguins (koror\u0101) affected by the 2011 Rena oil spill that happened here.",
+                  "permalink": "https://www.threads.com/@chanellemclennan/post/Df_mlH9kd9J",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": [
+                    {
+                      "username": "chanellemclennan",
+                      "text": "We have quite a bit around NZ",
+                      "permalink": "https://www.threads.com/@chanellemclennan/post/Df_mqNFEZ_-",
+                      "photos": [
+                        "Description: A tall, weathered stone monument with carved M\u0101ori-style motifs stands on a grassy field under a cloudy sky, with trees visible in the background. Photograph read: The image is taken at eye level with the monument, showing natural daylight and a partly cloudy sky. The stone\u2019s surface and carvings are visible, though not sharply detailed. The grass and trees are in focus, with no apparent motion blur or lens distortion. Photo type: Outdoor landscape",
+                        "Description: A metallic plaque is mounted on a rough, speckled stone surface, with engraved text describing a sculpture titled \u201cMahitahi\u201d and crediting Peter Cramond and the Tauranga District Council. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear legibility of the engraved text. The plaque is secured by four screws, and the surrounding stone has visible texture and minor debris. Photo type: Documentary"
+                      ],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -8513,7 +8553,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "lilpig2012",
+                          "text": "Good morning I am happy that you appreciated it and accepted my perspective / take on the theme. It made my day when you asked about it. Not everyone gets what I do or sees where I am coming from. Mind, sometimes I don\u2019t, I just see something in a scene / photograph \ud83d\ude42 Then I think does it come across a bit pretentious.",
+                          "permalink": "https://www.threads.com/@lilpig2012/post/Df_mmYICL0D",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

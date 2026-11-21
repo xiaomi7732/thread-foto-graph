@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (185)
+## Needs Reply (189)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **simnasho.pistachio**:  ([link](https://www.threads.com/@simnasho.pistachio/post/Df_mUmKG0P4))
+  - Photo: Description: A bright moon is centered in the frame, surrounded by a faint, circular halo against a dark night sky with scattered stars; the foreground consists of a dark, silhouetted landmass. Photograph read: The moon is the primary illuminated subject, with a visible circular halo encircling it. The sky is dark and sparsely star-marked. The foreground is a solid black silhouette with no discernible texture or detail. The image lacks visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Astronomical
+    - Watch-outs: The moon and halo are partially obscured by faint, wispy cloud-like structures that reduce contrast and definition. The foreground silhouette lacks any visible texture or detail, making it indistinct.
 - **louloxt**:  ([link](https://www.threads.com/@louloxt/post/Df_mKPYjJ3v))
   - Photo: Description: A fuzzy, bright yellow-green caterpillar with black and orange markings is positioned on a textured, grayish surface that appears to be stone or concrete, with a few small twigs nearby. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The surface texture is visible, but the caterpillar’s fine hairs and subtle color transitions are not sharply defined. The image has a slightly soft or painterly rendering, possibly due to a filter or compression artifact. Photo type: Unclear
     - Watch-outs: The caterpillar’s body details, including its segmented hairs and color bands, are indistinct due to soft focus. The background texture is visible but lacks crispness, reducing contrast and detail clarity for the subject.
@@ -51,6 +54,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
 - **crooked.paw**: I thank you for the compliment, but this is a photo. Just well processed. ([link](https://www.threads.com/@crooked.paw/post/Df_H_LwAUB4))
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
+- **chanellemclennan**: It's the Rena penguin memorial, commemorating the little blue penguins (kororā) affected by the 2011 Rena oil spill that happened here. ([link](https://www.threads.com/@chanellemclennan/post/Df_mlH9kd9J))
+  - _Replying to: A stone marker in the dunes, with the whole beach and sea b…_
+- **chanellemclennan**: We have quite a bit around NZ ([link](https://www.threads.com/@chanellemclennan/post/Df_mqNFEZ_-))
+  - Photo: Description: A tall, weathered stone monument with carved Māori-style motifs stands on a grassy field under a cloudy sky, with trees visible in the background. Photograph read: The image is taken at eye level with the monument, showing natural daylight and a partly cloudy sky. The stone’s surface and carvings are visible, though not sharply detailed. The grass and trees are in focus, with no apparent motion blur or lens distortion. Photo type: Outdoor landscape
+  - Photo: Description: A metallic plaque is mounted on a rough, speckled stone surface, with engraved text describing a sculpture titled “Mahitahi” and crediting Peter Cramond and the Tauranga District Council. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear legibility of the engraved text. The plaque is secured by four screws, and the surrounding stone has visible texture and minor debris. Photo type: Documentary
+  - _Replying to: It's the Rena penguin memorial, commemorating the little bl…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
@@ -88,6 +97,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
   - Photo: Description: A small, dark, indistinct object is centered in the frame against a uniformly gray, textured background that lacks discernible features. Photograph read: The image is monochrome with even, flat lighting and no visible shadows or highlights. The subject appears as a faint, low-contrast shape with no clear edges or identifiable features. The background exhibits a grainy or pixelated texture across the entire frame. Photo type: Unclear
     - Watch-outs: The subject is too small and indistinct to be identified; its shape and features are not resolvable. The entire image exhibits a uniform grainy texture, which obscures fine detail across the background and subject.
+- **lilpig2012**: Good morning I am happy that you appreciated it and accepted my perspective / take on the theme. It made my day when you asked about it. Not everyone gets what I do or sees where I am coming from. Mind, sometimes I don’t, I just see something in a scene / photograph 🙂 Then I think does it come across a bit pretentious. ([link](https://www.threads.com/@lilpig2012/post/Df_mmYICL0D))
+  - _Replying to: Lovely and quiet. Thanks for sharing your view._
 - **jayphex1**:  ([link](https://www.threads.com/@jayphex1/post/Df-TKHTlK6w))
   - Photo: Description: A silhouette of a bird perched atop a slender, curved branch against a uniformly light, featureless background. Photograph read: The image is monochrome with high contrast between the dark subject and the plain background. The subject is rendered as a solid black shape with no visible texture or detail. The branch and bird are sharply defined against the background, suggesting direct backlighting or silhouette capture. Photo type: Silhouette
   - _Replying to: (photo reply, no text)_
