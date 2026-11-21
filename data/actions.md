@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (154)
+## Needs Reply (155)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -45,6 +45,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
 - **downtown_design**: Shelf, quite moments where we find them… not just plates, Sasaki stoneware designed by Massimo Vignelli which I’ve had forever ([link](https://www.threads.com/@downtown_design/post/DgAAEalm8YW))
   - _Replying to: A bowl and a stack of plates, lined up on the dark like the…_
+- **downtown_design**: Stoneware Henge… vibe ([link](https://www.threads.com/@downtown_design/post/DgAhD8BlHeM))
+  - _Replying to: Quiet moments and old stoneware, kept forever. There is som…_
 - **valgal7148**: Took this one first to show size ([link](https://www.threads.com/@valgal7148/post/Df_Jh9jm2zZ))
   - _Replying to: (photo reply, no text)_
 - **valgal7148**: I sure did … fascinating detail in miniature ([link](https://www.threads.com/@valgal7148/post/Df_I-PKG3sg))
@@ -381,7 +383,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (51)
+## Needs Like (52)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - valgal7148: Beautiful choices ([link](https://www.threads.com/@valgal7148/post/DgAN1Npm5K5))
@@ -392,6 +394,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - saga4arts:  ([link](https://www.threads.com/@saga4arts/post/DgAEcKLjvnB))
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
+- kazz_bo_: Thats right 😀 ([link](https://www.threads.com/@kazz_bo_/post/DgAgseuk2EU))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - velosy: Thank you ([link](https://www.threads.com/@velosy/post/Df_zv8ujp1r))
 - herman.terhorst.14: 👍 ([link](https://www.threads.com/@herman.terhorst.14/post/Df_nJn5DQZ6))
