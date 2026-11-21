@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (227)
+## Needs Reply (204)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **massmaker_5.0**:  ([link](https://www.threads.com/@massmaker_5.0/post/Df_JZBvjauE))
+  - Photo: Description: A paved pathway with geometric patterns leads toward a waterfront promenade, flanked by green grass and a balustrade, under a bright sun with scattered clouds; the water reflects sunlight, and distant buildings are visible on the horizon. Photograph read: The sun is positioned near the top-left, casting a starburst effect and creating glare; the sky is blue with white clouds; the pathway and grass are in sharp focus, while the distant horizon and water show natural atmospheric softness. Photo type: Landscape
 - **bdemps42**:  ([link](https://www.threads.com/@bdemps42/post/Df_I6jTjWXT))
   - Photo: Description: A visitor stands before a wall of five framed paintings in a gallery with blue walls and wooden flooring, observing the artworks from behind. Photograph read: The composition is horizontally aligned, with the visitor centered in the lower third. Lighting is even and diffuse, illuminating the paintings without harsh shadows. The rendering is clear enough to discern subjects and frames, though the image lacks sharpness in fine detail. Photo type: Documentary
 - **mmc51264**: Old dog waiting for something, anything, to protect me from 💕 ([link](https://www.threads.com/@mmc51264/post/Df_IqPxjbIF))
@@ -52,16 +54,27 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **loramere**: This is Utah Beach in Normandy, France. The walker is my 70 yo husband contemplating what happened there 80 yo on Dday. We spent a lot of time there but didn’t walk it as such. Below is another from that day. ([link](https://www.threads.com/@loramere/post/Df_IDarGqmH))
   - Photo: Description: Two horses pull a cart along a wide, wet beach near the water’s edge, with a distant shoreline and cloudy sky overhead. Photograph read: The scene is captured under diffuse, overcast lighting with soft, even illumination. The image exhibits a moderate level of grain or digital noise, and the horizon line is slightly soft, suggesting a shallow depth of field or atmospheric haze. The beach and water show natural reflections and textures, but no sharp focus is evident across the entire frame. Photo type: Natural
   - _Replying to: One walker on a wide beach, with the clouds doing most of t…_
+- **valgal7148**:  ([link](https://www.threads.com/@valgal7148/post/Df_Jb6OGyGw))
+  - Photo: Description: A small snail with a brown, spiraled shell is positioned on a textured white vertical surface, while a human hand with a gold ring on the index finger is visible on the right side of the frame. Photograph read: The image is composed with the snail centered on the left and the hand occupying the right third. Lighting is even and diffuse, with no visible shadows or highlights. The surface texture of the wall is discernible, and the hand’s skin and ring are in focus. No motion blur or chromatic aberration is apparent. Photo type: Portrait
+  - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
+- **valgal7148**: Took this one first to show size ([link](https://www.threads.com/@valgal7148/post/Df_Jh9jm2zZ))
+  - _Replying to: (photo reply, no text)_
+- **valgal7148**: I sure did … fascinating detail in miniature ([link](https://www.threads.com/@valgal7148/post/Df_I-PKG3sg))
+  - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
   - _Replying to: (photo reply, no text)_
 - **greghillman11**: No, it was on a trip to Sth Australia, my home state. ([link](https://www.threads.com/@greghillman11/post/Df_I7MxE_xn))
   - _Replying to: A single tree on a bare hill, and the gray sky giving it al…_
+- **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
+  - _Replying to: No, it was on a trip to Sth Australia, my home state._
 - **www1ceman**: It nests nearby at Five Rivers Environmental Education Center, and hangs out there frequently. ([link](https://www.threads.com/@www1ceman/post/Df_InNPGp_1))
   - _Replying to: A bluebird sitting on its own street sign - it could not ha…_
 - **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
   - _Replying to: The dark background makes that little green bud glow, drop …_
 - **grassybranch**: It probably did, but I didn't. ([link](https://www.threads.com/@grassybranch/post/Df_IJg6Dt5G))
   - _Replying to: A little green frog on the pot, looking right at the camera…_
+- **flinn.steve**: It's my backyard and we always have a pair that come and visit. ([link](https://www.threads.com/@flinn.steve/post/Df_JG4ukYvV))
+  - _Replying to: A whole lake of sunset, with one small swan out in the midd…_
 - **crooked.paw**: The original photo ([link](https://www.threads.com/@crooked.paw/post/Df_IOstARSS))
   - Photo: Description: A pelican with a white head, black wingtips, and a long pinkish bill is floating in rippling green water, its body angled slightly to the right. Photograph read: The image is captured at a medium resolution, with natural lighting reflecting off the water surface. The pelican is in focus, but the water’s surface shows visible ripples and reflections, creating a textured background. The pelican’s eye and bill are clearly defined, with no signs of motion blur or focus falloff. Photo type: Natural
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
@@ -71,10 +84,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two quiet frames, a drop on a curling tendril and a frosted…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
-- **karinbond1**: They were all on the same day. We live right by a river and we have lots and lots of spiders. When fall comes, so does the dew and mist and makes them sparkle. ✨ ([link](https://www.threads.com/@karinbond1/post/Df-tDR1lkua))
-  - _Replying to: Three webs, three mornings of dew - each one holding the li…_
-- **soirnouf_passmoilsel**: This was my office this day, behind a kind of blurred door… and just before opening the door I saw this angry face, with this hard gaze made by the window behind … and all this told story to me, I wanted to transduce it in picture… ([link](https://www.threads.com/@soirnouf_passmoilsel/post/Df-uxaoijs6))
-  - _Replying to: Vertical lines and one bright band of light, like the build…_
 - **runarstoreide**: That is actually a kevlar rope/line hauling ocean bottom seismic nodes up from 1200 meters deep. ([link](https://www.threads.com/@runarstoreide/post/Df-yuZOjdbU))
   - _Replying to: One yellow rod across the frame, with the lights gone soft …_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
@@ -86,16 +95,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A mushroom cap covered in white bumps, like it is wearing i…_
 - **aimeeday5883**: I was Lying down in the grass taking a rest ([link](https://www.threads.com/@aimeeday5883/post/Df-y-UugW-c))
   - _Replying to: Mostly sky, a little grass, and the clouds doing the talkin…_
-- **newsie12**: No, I just turned as I walked past and saw it and had to capture it. I think of people I’ve lost and would like to sit there with and talk whenever I flip passed the image. ([link](https://www.threads.com/@newsie12/post/Df-uIUXlGwr))
-  - _Replying to: Two white benches under a bright moon, waiting for someone …_
 - **mummabear1963v**: My front porch light ([link](https://www.threads.com/@mummabear1963v/post/Df-z7KsEtEb))
   - _Replying to: A palm frond lit up against the night, with everything else…_
 - **floresgeo_t**: It’s a small ceramic bottle holding a 4 inches tall, 6 months plant……that answers your question? 🌱🌿 ([link](https://www.threads.com/@floresgeo_t/post/Df-uQlZgeg4))
   - _Replying to: Your tiniest plant, holding the whole windowsill. How old i…_
-- **riverbedsky2229**: Yes. Not very lush. ([link](https://www.threads.com/@riverbedsky2229/post/Df-ulc0GZk-))
-  - _Replying to: A lone tree against a plain wall, with nothing else asking …_
-- **tallymountain**: Yes, it was so pretty 😊 ([link](https://www.threads.com/@tallymountain/post/Df-wiiGEofN))
-  - _Replying to: A whole sky fading from blue to orange, with one small moon…_
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
@@ -103,46 +106,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **kevintrendell**: Sometimes she is distracted. When she is locked in I can throw the ball 100 times and she will chase it like a rocket and return to show me she has it. Sometimes there is a detour to the water and she will drop it in the shallows to wash it off before returning 😎❤️ ([link](https://www.threads.com/@kevintrendell/post/Df-tQQEGSoV))
   - _Replying to: Rhubi out in the shallows with a red ball for company - tha…_
-- **swishykitty**: I live on the Gulf Coast and take photos of many beautiful sunsets. I liked the composition of this sunset and wanted it to be focal point instead of the color ([link](https://www.threads.com/@swishykitty/post/Df_C5smjJVt))
-  - Photo: Description: A large, bright red sun hangs low in a sky filled with orange and red clouds, reflected as a vertical streak of light on a calm body of water, with a dark silhouette of land and a distant tower visible at the horizon. Photograph read: The composition is vertically oriented, with the sun centered in the upper half, casting a strong reflection on the water. The sky shows layered clouds with varying degrees of illumination. The horizon line is sharp, separating the sky from the water and land. The water surface has gentle ripples, distorting the reflection into a series of bright, elongated bands. Photo type: Landscape
-  - _Replying to: Sunset in black and white, and the sun still burns right th…_
-- **lynnpearcephotographer**: Probably Jan Mayen, as it is an uninhabited island, except for a small group of geologists greeting us the morning we arrived. Fiercely cold and windy, even the seabirds had taken shelter leaving a disarming stillness. Thanks for the question. 🙏🏼 ([link](https://www.threads.com/@lynnpearcephotographer/post/Df-uSmLkTu4))
-  - _Replying to: Four quiet corners of the sea, from Jan Mayen to the Solent…_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))
   - _Replying to: (photo reply, no text)_
 - **oznatureart**: I'm always looking and exploring!!!... might be something from my youth, when we went camping and my sister and I were challenged by my parents to see how many wild flowers we could collect while they pitched the tent 😊 ([link](https://www.threads.com/@oznatureart/post/Df_IjJ9keaA))
   - _Replying to: A tiny white flower on a thin stem, standing up in all that…_
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
-- **retrograde_60**: The telephone lines, the grain of the pole and the way the light seemed to kiss the sky … When the the soft clouds began coming up to the horizon I knew I wanted to capture the organic and the man-made in a single frame. But only just…minimal. It’s funny … I had been thinking about communication and had been looking at telephone poles with a kind of nostalgia. ([link](https://www.threads.com/@retrograde_60/post/Df-_PFbDyzx))
-  - _Replying to: A utility pole in black and white, all lines and angles aga…_
-- **pattijphoto**: It was a classical piece. I love the candid moments. Dress rehearsal. Quite awhile ago. Too many to remember ☺️ ([link](https://www.threads.com/@pattijphoto/post/Df-wAI9EZfq))
-  - Photo: Description: Three ballet dancers in colorful dresses stand on pointe with arms extended, positioned on a dark stage against a solid red backdrop. Photograph read: The dancers are evenly lit from the front, casting soft shadows on the stage floor. The image has a shallow depth of field, with the central dancer slightly more in focus than the others. The stage floor reflects some light, and the backdrop is uniformly lit with no visible texture or detail. Photo type: Performance photography
-  - _Replying to: One dancer in a single spotlight, with the whole dark stage…_
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
-- **ronaldstamant**: That farm is a hay field. So a few weeks before it was rolls and rolls ([link](https://www.threads.com/@ronaldstamant/post/Df-2gdQG_Ut))
-  - _Replying to: A tilled field going all the way to the trees, with a fence…_
-- **iainriggs**: Hua Hin, Thailand so looking East, pretty sure it was dusk. ([link](https://www.threads.com/@iainriggs/post/Df-4Zk7kjJn))
-  - _Replying to: One small figure on a long wet shore, and the sky doing mos…_
-- **bitchatarian**: Usually anything near me ☺️ ([link](https://www.threads.com/@bitchatarian/post/Df-7T1_nFXG))
-  - _Replying to: That chin on the red cushion says everything - half asleep,…_
-- **carakunzart**: We were leaving the Grand Canyon and heading to California. ([link](https://www.threads.com/@carakunzart/post/Df-tFADHzr7))
-  - _Replying to: All that empty desert, and the signpost still gets the last…_
-- **mrs.trellis**: Trees, trees and more trees! ([link](https://www.threads.com/@mrs.trellis/post/Df-1z43Gzu2))
-  - _Replying to: A gravel path going straight into the green, with the trees…_
-- **yvetime**: Yes, that is a stork. ([link](https://www.threads.com/@yvetime/post/Df-v2PuDejc))
-  - _Replying to: One bird in a hazy sky, barely more than a dark shape. Was …_
-- **clmharper**: Can’t say for sure but I suspect sunflower seed. Squirrels and chipmunks in our yard spent more time at our bird feeders than birds did! ([link](https://www.threads.com/@clmharper/post/Df-0iMSG2gl))
-  - _Replying to: That red against the green moss - the squirrel looks like i…_
 - **seniorfitgal**: It was that blue. It was in Iceland ([link](https://www.threads.com/@seniorfitgal/post/Df-tcIbn7bC))
   - _Replying to: A crater lake sitting quietly in all that red rock, with ti…_
-- **donbstevens**: You can just discern a bit of the beach in the lower right hand corner, so it wasn’t out very far. Foggy morning in Nova Scotia. ([link](https://www.threads.com/@donbstevens/post/Df-shsVEc1A))
-  - _Replying to: A boat in blue mist, and the water doing its best impressio…_
-- **lilybug1145**: No but I’m sure she was close by waiting for me to go away, lol ([link](https://www.threads.com/@lilybug1145/post/Df-s9PIpUOq))
-  - _Replying to: A little beak poking out of the tree hole, waiting for brea…_
-- **chickievegas**: I’m an early riser. You usually hear them lighting the burner before you see them. ([link](https://www.threads.com/@chickievegas/post/Df-tMc1ibmK))
-  - _Replying to: A balloon drifting over the rooftops like it owns the morni…_
 - **cynthj1964**: It’s still on the property I live on, just relocated to a place it can be admired. ([link](https://www.threads.com/@cynthj1964/post/Df-6-Bajydq))
   - _Replying to: A heart-shaped stone just sitting there in the dirt - natur…_
 - **tantesaysgo**: Destiny? ([link](https://www.threads.com/@tantesaysgo/post/Df-yA0BEVo1))
@@ -153,22 +126,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
 - **ulrike6417**: Das kann ich leider nicht sagen, ich bin sehr schlecht im schätzen!🫣 ([link](https://www.threads.com/@ulrike6417/post/Df-uGtdkZCv))
   - _Replying to: A tiny paraglider in all that blue - it looks like a comma …_
-- **jeanlouisbaugnon**: Only one shot from inside, but a few more outside. 😊 I was real lucky to get that shot from the other side of the glass. ([link](https://www.threads.com/@jeanlouisbaugnon/post/Df-xDZgFGnS))
-  - Photo: Description: A green tree frog is clinging to a transparent surface, likely glass, with its limbs extended and eyes visible. Reflections of the frog and surrounding environment are visible on the surface. Photograph read: The image is taken at a slight angle, with the frog as the central subject. Lighting appears natural and diffused, casting soft shadows. The surface has a textured or ribbed pattern, and the background is out of focus. The frog’s skin texture and limb details are partially discernible. Photo type: Natural
-    - Watch-outs: The frog’s eyes are partially obscured by the reflection on the glass surface. The reflection of the frog’s limbs and body is visible but not sharp, reducing clarity of the subject’s posture.
-  - _Replying to: A frog pressed to the far side of the glass, and the ripple…_
-- **seattle2vegas1**: This is from my balcony. ([link](https://www.threads.com/@seattle2vegas1/post/Df-wclrGRGQ))
-  - _Replying to: A rainbow landing right on the pyramid - Vegas showing off …_
-- **jh1962bike**: No, just silence in the mist . ([link](https://www.threads.com/@jh1962bike/post/Df-w_wIiOSy))
-  - _Replying to: A bird cutting through the fog past two fence posts - the w…_
-- **jmay.ornot**: From a friend's garden. Best way to get stunning roses? Let someone else grow them 😆 ([link](https://www.threads.com/@jmay.ornot/post/Df-0u4VmU08))
-  - _Replying to: A red rosebud against a darkening sky - it looks like it is…_
-- **rickthomas742**: Hey Saar, glad you approve of the photos. I think the moon/chem trail pic was well before Kobe on my son’s farm. ([link](https://www.threads.com/@rickthomas742/post/Df-tzu4GLmS))
-  - _Replying to: A dog sitting in the middle of a plowed field, with a cresc…_
-- **rscottcarlson**: A bird? A lizard? Or more likely nothing. 😂 ([link](https://www.threads.com/@rscottcarlson/post/Df-2mP9jO-X))
-  - _Replying to: An orange cat on a wall, looking off at something only cats…_
-- **veltinsthecat**: I think so. It was two years ago in a special exhibition at the National History Museum in LA. ([link](https://www.threads.com/@veltinsthecat/post/Df-55AXD4PN))
-  - _Replying to: Your spider came out beautifully - the web stayed invisible…_
 - **embram**: He flew off to the hedge about a metre from here where he lives. ([link](https://www.threads.com/@embram/post/Df-TJNmiGFM))
   - _Replying to: The before shot_
 - **pictures_from_markus**:  ([link](https://www.threads.com/@pictures_from_markus/post/Df-MApXCPcx))
@@ -179,14 +136,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **debi0528**: It sure is. Thanks! ([link](https://www.threads.com/@debi0528/post/Df-uRT0H1rq))
   - _Replying to: A west-facing porch is a fine place to end a day._
-- **realsamsavage**: Not really sure. Spotted it on a walk with my dog. My guess is quite a while as there was quite a bit of morning dew from overnight. ([link](https://www.threads.com/@realsamsavage/post/Df-z22qlrXA))
-  - _Replying to: One drop at the very tip of the leaf, about to let go - how…_
-- **unmitigatedme**: Just a holiday decoration at a friend’s house ([link](https://www.threads.com/@unmitigatedme/post/Df-0DAemwkL))
-  - _Replying to: One tiny soldier, standing guard over a whole empty wall - …_
 - **knitting_pagoda**:  ([link](https://www.threads.com/@knitting_pagoda/post/Df-Favoo7c9))
   - Photo: Description: A miniature diorama featuring wooden shelves with books, ceramic teacups, and small figurines, alongside hanging ornaments and a window with floral etching. Photograph read: The image is taken from a slightly low angle, with strong directional light casting shadows on the wall. The composition includes a bookshelf on the left, a central display area with figurines and a teapot, and a window on the right. The rendering is flat with no visible depth-of-field blur or lens distortion. Photo type: Still life
-- **januaragazzo**: It’s 5:30 PM in Indonesia 🇮🇩 ([link](https://www.threads.com/@januaragazzo/post/Df-q5kCEjX2))
-  - _Replying to: One warm bulb in all that dusky blue - the only warm thing …_
 - **l.squared2**: Thanks for liking it! 🙏💫 ([link](https://www.threads.com/@l.squared2/post/Df-Ty0-GJ1K))
   - _Replying to: A lily pad with roots in the deep - a quiet little fact. Th…_
 - **shel_bee_g**: 5 minutes, little American Kestrel ([link](https://www.threads.com/@shel_bee_g/post/Df_DT8Wn_c3))
@@ -562,13 +513,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (51)
+## Needs Like (49)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - axewerk: Mid afternoon ([link](https://www.threads.com/@axewerk/post/Df_IZZTG_ek))
 - quimby.susan: Yes, noonish 😊 ([link](https://www.threads.com/@quimby.susan/post/Df_Ig85gCNi))
-- minnakirstinna: The sparkle. ([link](https://www.threads.com/@minnakirstinna/post/Df-uDH_indD))
-- glendagh25: No idea 🤷‍♀️ ([link](https://www.threads.com/@glendagh25/post/Df-uTabj0Ll))
 - syldelteglia:  ([link](https://www.threads.com/@syldelteglia/post/Df-ucBkFhC7))
 - shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
 - kewibrophotography: Thank you ([link](https://www.threads.com/@kewibrophotography/post/Df-xBJAj853))
