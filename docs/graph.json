@@ -153,8 +153,35 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1119,
+      "reply_count": 1121,
       "replies": [
+        {
+          "username": "sammajsarah",
+          "text": "One solo melancholy mushroom.",
+          "permalink": "https://www.threads.com/@sammajsarah/post/DgAWAcDlqTk",
+          "photos": [
+            "Description: A single mushroom with a conical cap featuring radial ridges and scattered dark spots stands against a uniformly black background; small, indistinct shapes are visible in the foreground and background. Photograph read: The mushroom is centrally positioned, illuminated against a dark field, with high contrast between the subject and background. The cap\u2019s texture and spots are visible, but the image lacks fine detail in the surrounding area. The foreground and background contain blurry, low-contrast shapes. Photo type: High-contrast macro"
+          ],
+          "watch_outs": [
+            "The mushroom cap\u2019s surface shows visible texture and spots, but the background and foreground elements are indistinct and lack definition. The entire image exhibits a uniform dark tone with no discernible depth or detail beyond the central subject."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "taiwanese726",
+          "text": "",
+          "permalink": "https://www.threads.com/@taiwanese726/post/DgAV7-NlAoM",
+          "photos": [
+            "Description: A black-and-white image shows three silhouetted figures atop a large sand dune, with a plain, lightly clouded sky above. Photograph read: The composition is dominated by the dark, textured surface of the dune, which occupies the lower two-thirds of the frame. The figures are small and sharply contrasted against the sky. Lighting appears to be from behind the subjects, creating strong silhouettes. The image is rendered in monochrome with no visible color information. Photo type: Silhouette"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "thesyberian",
           "text": "",

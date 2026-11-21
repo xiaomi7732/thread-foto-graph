@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (239)
+## Needs Reply (241)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -15,6 +15,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **sammajsarah**: One solo melancholy mushroom. ([link](https://www.threads.com/@sammajsarah/post/DgAWAcDlqTk))
+  - Photo: Description: A single mushroom with a conical cap featuring radial ridges and scattered dark spots stands against a uniformly black background; small, indistinct shapes are visible in the foreground and background. Photograph read: The mushroom is centrally positioned, illuminated against a dark field, with high contrast between the subject and background. The cap’s texture and spots are visible, but the image lacks fine detail in the surrounding area. The foreground and background contain blurry, low-contrast shapes. Photo type: High-contrast macro
+    - Watch-outs: The mushroom cap’s surface shows visible texture and spots, but the background and foreground elements are indistinct and lack definition. The entire image exhibits a uniform dark tone with no discernible depth or detail beyond the central subject.
+- **taiwanese726**:  ([link](https://www.threads.com/@taiwanese726/post/DgAV7-NlAoM))
+  - Photo: Description: A black-and-white image shows three silhouetted figures atop a large sand dune, with a plain, lightly clouded sky above. Photograph read: The composition is dominated by the dark, textured surface of the dune, which occupies the lower two-thirds of the frame. The figures are small and sharply contrasted against the sky. Lighting appears to be from behind the subjects, creating strong silhouettes. The image is rendered in monochrome with no visible color information. Photo type: Silhouette
 - **thesyberian**:  ([link](https://www.threads.com/@thesyberian/post/DgAU0e5iGqK))
   - Photo: Description: Two figures, one in a hooded jacket and light-colored pants, stand facing a bright, overexposed wall, with a second figure partially visible as a silhouette beside them. The scene is set on a paved surface adjacent to a large, dark architectural structure. Photograph read: The image is high-contrast black and white, with a stark division between a bright white wall and a deep shadowed area. The figures are positioned near the wall’s base, casting shadows on the ground. The ground shows texture, but the figures themselves are mostly in silhouette or partially illuminated. Photo type: Architectural
     - Watch-outs: The left figure is almost entirely a silhouette, obscuring facial and body detail. The right figure’s face and upper body are not visible due to the hood and lighting conditions.
