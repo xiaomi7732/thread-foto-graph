@@ -4,9 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (310)
+## Needs Reply (314)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mikepry**:  ([link](https://www.threads.com/@mikepry/post/Df_GrhoJZzY))
+  - Photo: Description: A seagull stands on a wooden railing in the foreground, with a wide expanse of water and a distant, hazy cityscape lining the shore. Photograph read: The image has a muted color palette with a desaturated background; the seagull is in focus and retains texture, while the city and water are softly blurred. Lighting is diffuse and even, with no harsh shadows or highlights. Photo type: Urban coastal portrait
+    - Watch-outs: - The distant cityscape is obscured by atmospheric haze, reducing architectural detail and contrast. - The water surface shows minimal texture, appearing uniformly gray and flat, with no visible wave or ripple detail.
+- **jerriecook**:  ([link](https://www.threads.com/@jerriecook/post/Df_Gft-IB2c))
+  - Photo: Description: A colorful, striped hot air balloon lantern is illuminated from within and suspended above a paved surface at night, with a house and parked vehicle visible in the background. Photograph read: The image is taken at night with the subject centrally framed; the lantern emits a warm glow through its translucent, horizontally striped panels. The background is dark and out of focus, with indistinct shapes of a house and vehicle. The lantern’s lower basket and supporting chains are visible but appear slightly blurred. Photo type: Night photography with low-light subject
+    - Watch-outs: Whole-image motion blur affects the lantern and background, reducing sharpness of detail. The lantern’s internal light source creates a bright spot that obscures fine texture in the surrounding fabric panels.
+- **_ivy.lane_**:  ([link](https://www.threads.com/@_ivy.lane_/post/Df_GexpiD89))
+  - Photo: Description: A yellow flower in the foreground is in focus, with a wooden staircase leading down to a beach where waves crash against the shore under a partly cloudy sky. Photograph read: The composition places the flower in the right foreground, with the beach and ocean extending to the horizon. Lighting is natural daylight, with even illumination across the scene. The image has a shallow depth of field, rendering the background slightly softer while the flower remains sharp. Photo type: Landscape
+- **wendyballenart**:  ([link](https://www.threads.com/@wendyballenart/post/Df_GQ-jlUbR))
+  - Photo: Description: A monarch butterfly with orange and black wings, marked by white spots along the edges, rests on a patch of green and brown grass. Photograph read: The image is taken from a high angle, with even, natural lighting. The butterfly is in focus and centrally positioned, with the grass forming a textured background. No visible signs of motion blur, overexposure, or underexposure. Photo type: Documentary
 - **traci_dyann**:  ([link](https://www.threads.com/@traci_dyann/post/Df_FzL_o1xm))
   - Photo: Description: A small, light-colored heart-shaped object rests on a rough, mottled gray concrete surface, which shows minor stains and scattered debris. Photograph read: The image is a flat, top-down view with even, diffuse lighting. The heart is centered in the frame, and the surface texture is visible but lacks sharpness. No lens distortion or motion blur is apparent. Photo type: Documentary
 - **sunneesideup**: A White Narcissus. ([link](https://www.threads.com/@sunneesideup/post/Df_FsSkG11Z))
