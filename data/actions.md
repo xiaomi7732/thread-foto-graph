@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (304)
+## Needs Reply (305)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **kuhl_kathy**: The smile on the old building ([link](https://www.threads.com/@kuhl_kathy/post/Df_ClOnDKRa))
@@ -380,6 +380,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One warm bulb in all that dusky blue - the only warm thing …_
 - **l.squared2**: Thanks for liking it! 🙏💫 ([link](https://www.threads.com/@l.squared2/post/Df-Ty0-GJ1K))
   - _Replying to: A lily pad with roots in the deep - a quiet little fact. Th…_
+- **shel_bee_g**: 5 minutes, little American Kestrel ([link](https://www.threads.com/@shel_bee_g/post/Df_DT8Wn_c3))
+  - _Replying to: A little bird on top of the lamp, like it owns the streetli…_
 - **trotta.james**: Thanks for looking. I enjoying taking this shot! ([link](https://www.threads.com/@trotta.james/post/Df-P8pyoKuv))
   - _Replying to: High noon, and blue all the way down. Thanks for sharing it._
 - **kym_lorraine_porter**:  ([link](https://www.threads.com/@kym_lorraine_porter/post/Df-D5bKmiFk))

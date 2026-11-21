@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 690,
+      "reply_count": 691,
       "replies": [
         {
           "username": "kuhl_kathy",
@@ -5913,7 +5913,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "shel_bee_g",
+                  "text": "5 minutes, little American Kestrel",
+                  "permalink": "https://www.threads.com/@shel_bee_g/post/Df_DT8Wn_c3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
