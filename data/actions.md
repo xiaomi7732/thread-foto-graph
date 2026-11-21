@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (183)
+## Needs Reply (185)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **louloxt**:  ([link](https://www.threads.com/@louloxt/post/Df_mKPYjJ3v))
+  - Photo: Description: A fuzzy, bright yellow-green caterpillar with black and orange markings is positioned on a textured, grayish surface that appears to be stone or concrete, with a few small twigs nearby. Photograph read: The image is captured from a top-down perspective with even, diffuse lighting. The surface texture is visible, but the caterpillar’s fine hairs and subtle color transitions are not sharply defined. The image has a slightly soft or painterly rendering, possibly due to a filter or compression artifact. Photo type: Unclear
+    - Watch-outs: The caterpillar’s body details, including its segmented hairs and color bands, are indistinct due to soft focus. The background texture is visible but lacks crispness, reducing contrast and detail clarity for the subject.
 - **kayseamc**:  ([link](https://www.threads.com/@kayseamc/post/Df_jHw_lGu1))
   - Photo: Description: The image captures a sunset over a body of water, with the sun low on the horizon casting a bright reflection across the surface. A distant treeline and a solitary tree on the foreground shore are visible. Photograph read: The sun is bright and centrally positioned, with a noticeable lens flare. The sky shows layered clouds with warm tones near the horizon. The water reflects the sun’s glow, and the foreground terrain is in silhouette. Photo type: Landscape
     - Watch-outs: - Lens flare from the sun is visible near the center-right, partially obscuring the sky and water reflection. - Foreground terrain is underexposed, reducing detail and texture visibility.
@@ -16,6 +19,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A single maple leaf with red, orange, and green mottling lies on a textured, gray stone surface, which shows cracks and small patches of lichen or moss. Photograph read: The leaf is centered in the frame, with even lighting that highlights its veins and color variations. The stone background is in focus, showing granular texture and minor imperfections. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Still life
 - **la_shack**:  ([link](https://www.threads.com/@la_shack/post/Df_gX7vG1NZ))
   - Photo: Description: A close-up view of an ant mound composed of compacted brown soil, with a central hole and a single ant visible near the top edge, surrounded by dry grass. Photograph read: The image is in focus with even, natural lighting, capturing fine texture of the soil and the ant’s form. The composition centers the mound, with surrounding grass framing it. No visible motion blur or color distortion. Photo type: Documentary
+- **daleh6611**: Thank you. I was there in the afternoon and it was very still and then it rained. ([link](https://www.threads.com/@daleh6611/post/Df_lzNfoE_R))
+  - _Replying to: The pebbles in front, the mountains far off - the whole fra…_
 - **wang_fong_ya**: Thank you! 😊 It was captured in the afternoon, when the sunlight created those beautiful geometric shadows. I love how light and architecture come together so naturally. 📷✨ ([link](https://www.threads.com/@wang_fong_ya/post/Df_inIDj5JF))
   - _Replying to: The shadows do the talking here - those green canopies draw…_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
@@ -465,9 +470,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (53)
+## Needs Like (54)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - olivaexpat: *plink ([link](https://www.threads.com/@olivaexpat/post/Df_gph5gG4-))
