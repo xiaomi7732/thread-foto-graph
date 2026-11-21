@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (188)
+## Needs Reply (189)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **mcveyclicks**:  ([link](https://www.threads.com/@mcveyclicks/post/Df_ugZzlX8L))
@@ -74,6 +74,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.
+- **jeangriffin8**: I took it with my phone, lots of bees in my garden Here's a less focused photo 😊 ([link](https://www.threads.com/@jeangriffin8/post/Df_vHU8jtWB))
+  - Photo: Description: A bumblebee is perched on a pink flower, with purple flowers and green, hairy stems in the background. The bee’s body and wings are visible, but the image lacks sharpness. Photograph read: The image has a shallow depth of field, with the bee and flower in focus but surrounding elements blurred. Lighting is natural and even, with no visible shadows or overexposure. The rendering preserves color and texture but lacks fine detail. Photo type: Macro
+    - Watch-outs: The bee’s wings show motion blur, reducing edge definition. The background foliage is out of focus, obscuring fine texture and detail.
+  - _Replying to: A bee right in the middle of that yellow dahlia, working th…_
 - **lerwin54**: Boating on the St. Croix River. ([link](https://www.threads.com/@lerwin54/post/Df-2gZ_jBJ7))
   - _Replying to: (photo reply, no text)_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))

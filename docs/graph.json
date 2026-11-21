@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1063,
+      "reply_count": 1065,
       "replies": [
         {
           "username": "mcveyclicks",
@@ -4271,6 +4271,16 @@
           "hidden": false,
           "replies": [
             {
+              "username": "stefano.caiazzo.14",
+              "text": "Buongiorno",
+              "permalink": "https://www.threads.com/@stefano.caiazzo.14/post/Df_vASrEZqz",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": []
+            },
+            {
               "username": "saars.foto",
               "text": "One yellow buttercup in all that green, lit up like a small sun. Where did you find a flower that bright?",
               "permalink": "https://www.threads.com/@saars.foto/post/Df_HBa9lQL6",
@@ -5586,7 +5596,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jeangriffin8",
+                  "text": "I took it with my phone, lots of bees in my garden Here's a less focused photo \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@jeangriffin8/post/Df_vHU8jtWB",
+                  "photos": [
+                    "Description: A bumblebee is perched on a pink flower, with purple flowers and green, hairy stems in the background. The bee\u2019s body and wings are visible, but the image lacks sharpness. Photograph read: The image has a shallow depth of field, with the bee and flower in focus but surrounding elements blurred. Lighting is natural and even, with no visible shadows or overexposure. The rendering preserves color and texture but lacks fine detail. Photo type: Macro"
+                  ],
+                  "watch_outs": [
+                    "The bee\u2019s wings show motion blur, reducing edge definition. The background foliage is out of focus, obscuring fine texture and detail."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
