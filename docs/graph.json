@@ -153,8 +153,47 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1114,
+      "reply_count": 1118,
       "replies": [
+        {
+          "username": "thesyberian",
+          "text": "",
+          "permalink": "https://www.threads.com/@thesyberian/post/DgAU0e5iGqK",
+          "photos": [
+            "Description: Two figures, one in a hooded jacket and light-colored pants, stand facing a bright, overexposed wall, with a second figure partially visible as a silhouette beside them. The scene is set on a paved surface adjacent to a large, dark architectural structure. Photograph read: The image is high-contrast black and white, with a stark division between a bright white wall and a deep shadowed area. The figures are positioned near the wall\u2019s base, casting shadows on the ground. The ground shows texture, but the figures themselves are mostly in silhouette or partially illuminated. Photo type: Architectural"
+          ],
+          "watch_outs": [
+            "The left figure is almost entirely a silhouette, obscuring facial and body detail. The right figure\u2019s face and upper body are not visible due to the hood and lighting conditions."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "nope1952",
+          "text": "",
+          "permalink": "https://www.threads.com/@nope1952/post/DgAUm7_jZyC",
+          "photos": [
+            "Description: A cluster of brown, shelf-like mushrooms grows against the textured bark of a tree trunk, with a grassy, leaf-strewn ground visible in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The mushroom cluster is in focus, while the background is softly out of focus. The tree bark shows clear texture, and the mushrooms display subtle surface details and white margins. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "tp703",
+          "text": "",
+          "permalink": "https://www.threads.com/@tp703/post/DgAUjwploJu",
+          "photos": [
+            "Description: A close-up shows a horizontal branch or branch-like structure covered in snow and ice, with small icicles hanging from its underside. The background is out of focus and indistinct. Photograph read: The image is in black and white, with shallow depth of field. The main subject is in focus, but the background is blurred. Lighting appears even, with no strong directional shadows or highlights. The texture of the snow and ice is visible, but the background lacks discernible features. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "b_tricia",
           "text": "",
@@ -1352,7 +1391,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "janetcolm",
+                  "text": "It really was that empty. A few fishermen behind us but just a couple.",
+                  "permalink": "https://www.threads.com/@janetcolm/post/DgAU1eLkXEY",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

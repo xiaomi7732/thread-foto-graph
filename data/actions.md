@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (234)
+## Needs Reply (238)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -17,6 +17,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **thesyberian**:  ([link](https://www.threads.com/@thesyberian/post/DgAU0e5iGqK))
+  - Photo: Description: Two figures, one in a hooded jacket and light-colored pants, stand facing a bright, overexposed wall, with a second figure partially visible as a silhouette beside them. The scene is set on a paved surface adjacent to a large, dark architectural structure. Photograph read: The image is high-contrast black and white, with a stark division between a bright white wall and a deep shadowed area. The figures are positioned near the wall’s base, casting shadows on the ground. The ground shows texture, but the figures themselves are mostly in silhouette or partially illuminated. Photo type: Architectural
+    - Watch-outs: The left figure is almost entirely a silhouette, obscuring facial and body detail. The right figure’s face and upper body are not visible due to the hood and lighting conditions.
+- **nope1952**:  ([link](https://www.threads.com/@nope1952/post/DgAUm7_jZyC))
+  - Photo: Description: A cluster of brown, shelf-like mushrooms grows against the textured bark of a tree trunk, with a grassy, leaf-strewn ground visible in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The mushroom cluster is in focus, while the background is softly out of focus. The tree bark shows clear texture, and the mushrooms display subtle surface details and white margins. Photo type: Natural
+- **tp703**:  ([link](https://www.threads.com/@tp703/post/DgAUjwploJu))
+  - Photo: Description: A close-up shows a horizontal branch or branch-like structure covered in snow and ice, with small icicles hanging from its underside. The background is out of focus and indistinct. Photograph read: The image is in black and white, with shallow depth of field. The main subject is in focus, but the background is blurred. Lighting appears even, with no strong directional shadows or highlights. The texture of the snow and ice is visible, but the background lacks discernible features. Photo type: Macro
 - **b_tricia**:  ([link](https://www.threads.com/@b_tricia/post/DgATjv1G82u))
   - Photo: Description: A solitary, leafless tree stands on a grassy, rocky hillside under a uniformly gray, overcast sky. The tree’s branches are bare and spread outward, with a smaller, similar tree visible to its right. Photograph read: The image is in black and white, with a flat, diffuse lighting condition. The sky is a solid gray with no visible texture or detail. The foreground hillside shows grass and scattered rocks, but lacks sharp definition. The tree’s form is visible as a silhouette against the sky, with no discernible texture or depth in the branches. Photo type: Black and white landscape
 - **keywestsnapshots**: And Butterflies are free to fly Fly away, bye bye. 🦋 ([link](https://www.threads.com/@keywestsnapshots/post/DgATa4BHCaL))
@@ -91,6 +98,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: An empty gallery, a bench, and all that white space to sit …_
 - **massmaker_5.0**: Was at an event, waiting for it to start. ([link](https://www.threads.com/@massmaker_5.0/post/DgAUN_9FcOt))
   - _Replying to: The path pulling the eye straight to the water, the sun doi…_
+- **janetcolm**: It really was that empty. A few fishermen behind us but just a couple. ([link](https://www.threads.com/@janetcolm/post/DgAU1eLkXEY))
+  - _Replying to: One walker, miles of sand, and footprints trailing behind. …_
 - **mikepry**: “The sea, once it casts its spell, holds one in its net of wonder forever”. - Jacques Yves Cousteau ([link](https://www.threads.com/@mikepry/post/DgAMFp5JR2c))
   - _Replying to: A speckled gull on the rail, the city gone soft behind it. …_
 - **_ivy.lane_**: Yes, I did! And it was absolutely worth it! ([link](https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6))
