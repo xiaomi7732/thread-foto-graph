@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (53)
+## Needs Like (54)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - valgal7148: Beautiful choices ([link](https://www.threads.com/@valgal7148/post/DgAN1Npm5K5))
@@ -15,6 +15,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - saga4arts:  ([link](https://www.threads.com/@saga4arts/post/DgAEcKLjvnB))
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
+- jen.isenor: Thank you! ([link](https://www.threads.com/@jen.isenor/post/DgAjDL7Ed9D))
 - kazz_bo_: Thats right 😀 ([link](https://www.threads.com/@kazz_bo_/post/DgAgseuk2EU))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
 - velosy: Thank you ([link](https://www.threads.com/@velosy/post/Df_zv8ujp1r))

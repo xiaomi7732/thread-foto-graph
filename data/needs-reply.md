@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (158)
+## Needs Reply (160)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -15,6 +15,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **isadoralovesscarves**:  ([link](https://www.threads.com/@isadoralovesscarves/post/DgAjPF2iqLH))
+  - Photo: Description: A seagull is captured in flight against a clear blue sky, wings spread wide with its beak open, suggesting active movement or vocalization. Photograph read: The subject is silhouetted against the sky, with lighting coming from behind, creating a dark outline. The image has a vertical composition with no discernible foreground or background elements other than the sky. The bird’s form is recognizable but lacks fine detail due to the lighting and contrast. Photo type: Silhouette
+    - Watch-outs: The bird’s wingtips and tail feathers are partially obscured by shadow, reducing visible texture. The head and beak area are underexposed, making specific features indistinct.
 - **dreamy_blue.eyed_lily**:  ([link](https://www.threads.com/@dreamy_blue.eyed_lily/post/DgAfT-OG6lh))
   - Photo: Description: A small, bright yellow bird stands in a field of green grass dotted with water droplets. The bird is positioned slightly off-center, with its head and upper body visible above the grass. Photograph read: The image is taken from a high angle, with even, diffused lighting. The grass and bird are in focus, though the overall resolution is moderate. The water droplets on the grass are visible as small, distinct beads. Photo type: Natural
 - **lasclasicasmotos**:  ([link](https://www.threads.com/@lasclasicasmotos/post/DgAcZYBCPWF))
@@ -40,6 +43,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **edwardlin1995**: Maybe we were waiting both☺️ ([link](https://www.threads.com/@edwardlin1995/post/DgAfecwE3el))
   - _Replying to: One pylon, one break in the clouds, and the light doing all…_
+- **mcveyclicks**: Unfortunately the only way to go into Antelope Canyon is to be part of a tour group, so we weren’t down there too long. ([link](https://www.threads.com/@mcveyclicks/post/DgAi9FaFZHF))
+  - _Replying to: That red rock folding in on itself, light slipping down the…_
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
 - **carocaluwe263**: It was just a lucky shot on a random walk. I saw this bird and at the just moment I took this photo. The bird was there for 10 minutes I think. ([link](https://www.threads.com/@carocaluwe263/post/DgAijNfDnWm))

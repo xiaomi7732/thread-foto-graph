@@ -153,8 +153,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1205,
+      "reply_count": 1206,
       "replies": [
+        {
+          "username": "isadoralovesscarves",
+          "text": "",
+          "permalink": "https://www.threads.com/@isadoralovesscarves/post/DgAjPF2iqLH",
+          "photos": [
+            "Description: A seagull is captured in flight against a clear blue sky, wings spread wide with its beak open, suggesting active movement or vocalization. Photograph read: The subject is silhouetted against the sky, with lighting coming from behind, creating a dark outline. The image has a vertical composition with no discernible foreground or background elements other than the sky. The bird\u2019s form is recognizable but lacks fine detail due to the lighting and contrast. Photo type: Silhouette"
+          ],
+          "watch_outs": [
+            "The bird\u2019s wingtips and tail feathers are partially obscured by shadow, reducing visible texture. The head and beak area are underexposed, making specific features indistinct."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dreamy_blue.eyed_lily",
           "text": "",
@@ -883,7 +898,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mcveyclicks",
+                  "text": "Unfortunately the only way to go into Antelope Canyon is to be part of a tour group, so we weren\u2019t down there too long.",
+                  "permalink": "https://www.threads.com/@mcveyclicks/post/DgAi9FaFZHF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1920,6 +1946,16 @@
               ]
             }
           ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "A lovely place to sit with them.",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df_JTTBkbDA",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "bdemps42",
@@ -5216,7 +5252,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "jen.isenor",
+                          "text": "Thank you!",
+                          "permalink": "https://www.threads.com/@jen.isenor/post/DgAjDL7Ed9D",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5635,6 +5682,16 @@
               ]
             }
           ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "Two white benches under a bright moon, waiting for someone to sit and watch the water. Is this a regular evening spot for you?",
+          "permalink": "https://www.threads.com/@saars.foto/post/Df-s37tIFWJ",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "jinksys_mum",
@@ -6728,54 +6785,6 @@
                       "username": "saars.foto",
                       "text": "The shadows did the work beautifully.",
                       "permalink": "https://www.threads.com/@saars.foto/post/Df_IsEwDWtN",
-                      "photos": [],
-                      "needs_response": false,
-                      "action": null,
-                      "hidden": false,
-                      "replies": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "username": "newsie12",
-          "text": "",
-          "permalink": "https://www.threads.com/@newsie12/post/Df-jbNalIhe",
-          "photos": [
-            "Description: Two white benches sit on a wooden boardwalk facing a dark body of water under a bright moon, with a faintly visible horizon and a low fence in the midground. Photograph read: The image is composed with the benches centered in the midground, the moon high in the upper left, and the water reflecting its glow. The boardwalk planks are in sharp focus in the foreground, while the benches and background are slightly softer. The sky is a deep blue with minimal cloud detail. The moon appears as a bright, slightly overexposed disc with a visible contrail or cloud streak. Photo type: Night photography"
-          ],
-          "watch_outs": [
-            "- The moon is overexposed, causing a bright glare that obscures surrounding sky detail. - The benches are silhouetted against the dark background, reducing visible texture and surface detail on their surfaces."
-          ],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "Two white benches under a bright moon, waiting for someone to sit and watch the water. Is this a regular evening spot for you?",
-              "permalink": "https://www.threads.com/@saars.foto/post/Df-s37tIFWJ",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "newsie12",
-                  "text": "No, I just turned as I walked past and saw it and had to capture it. I think of people I\u2019ve lost and would like to sit there with and talk whenever I flip passed the image.",
-                  "permalink": "https://www.threads.com/@newsie12/post/Df-uIUXlGwr",
-                  "photos": [],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": [
-                    {
-                      "username": "saars.foto",
-                      "text": "A lovely place to sit with them.",
-                      "permalink": "https://www.threads.com/@saars.foto/post/Df_JTTBkbDA",
                       "photos": [],
                       "needs_response": false,
                       "action": null,
