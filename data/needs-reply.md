@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (208)
+## Needs Reply (210)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -13,6 +13,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kusnirah1985**:  ([link](https://www.threads.com/@kusnirah1985/post/DgADHDDEggE))
+  - Photo: Description: A paraglider with a blue, yellow, and red canopy is suspended in a cloudy sky above a coastal landscape featuring a shoreline, sea, and distant landmasses. Photograph read: The image is captured from a low angle, with the paraglider positioned in the upper portion of the frame. The sky is uniformly overcast, resulting in flat, diffuse lighting. The paraglider and pilot are visible as a silhouette, with minimal contrast against the sky. The foreground and background are hazy, with no sharp edges or defined textures. Photo type: Aerial landscape
+    - Watch-outs: The paraglider’s canopy shows no discernible text or markings due to low resolution and distance. The pilot’s silhouette lacks detail, making equipment or posture indistinguishable.
 - **sheilam99**: Here’s a native cicada my husband came across in our garden (Sydney, Australia) ([link](https://www.threads.com/@sheilam99/post/DgAAl6FIzI-))
   - Photo: Description: A cicada rests on the tip of a human finger, with its wings partially extended and red eyes visible; the background is out of focus and indistinct. Photograph read: The image is a close-up with shallow depth of field, showing the cicada in sharp focus against a blurred background. Lighting is even and natural, without obvious shadows or overexposure. Photo type: Macro
 - **gjbrown.art**: The dove who visits my garden every morning for a bath. ([link](https://www.threads.com/@gjbrown.art/post/Df_-hrCjX1P))
@@ -58,6 +61,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **_ivy.lane_**: Yes, I did! And it was absolutely worth it! ([link](https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6))
   - _Replying to: One yellow flower in front, the sea doing the rest behind i…_
+- **sunneesideup**: They had popped up after a rain. I thought they looked so beautiful against the dark green flora around them. My dad’s new house has a beautiful garden left to become over grown. It’s a peaceful place to go and reconnect work nature. ([link](https://www.threads.com/@sunneesideup/post/DgAC_VdG04r))
+  - Photo: Description: The photograph shows several white flowers with yellow centers, likely daffodils, against a dark, out-of-focus background of green foliage. One flower is partially wilted and drooping. Photograph read: The image has a shallow depth of field, with the foreground flowers in focus and the background heavily blurred. Lighting is subdued, casting soft shadows and lacking high contrast. The colors are muted, with the white petals standing out against the dark greens. Photo type: Nature portrait
+    - Watch-outs: - Background blur obscures background foliage detail, limiting context. - Partially wilted flower on the lower right shows degraded petal structure, reducing visual clarity.
+  - _Replying to: One white narcissus, all six petals and light. The dark gre…_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.

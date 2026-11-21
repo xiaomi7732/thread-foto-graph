@@ -132,8 +132,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1088,
+      "reply_count": 1090,
       "replies": [
+        {
+          "username": "kusnirah1985",
+          "text": "",
+          "permalink": "https://www.threads.com/@kusnirah1985/post/DgADHDDEggE",
+          "photos": [
+            "Description: A paraglider with a blue, yellow, and red canopy is suspended in a cloudy sky above a coastal landscape featuring a shoreline, sea, and distant landmasses. Photograph read: The image is captured from a low angle, with the paraglider positioned in the upper portion of the frame. The sky is uniformly overcast, resulting in flat, diffuse lighting. The paraglider and pilot are visible as a silhouette, with minimal contrast against the sky. The foreground and background are hazy, with no sharp edges or defined textures. Photo type: Aerial landscape"
+          ],
+          "watch_outs": [
+            "The paraglider\u2019s canopy shows no discernible text or markings due to low resolution and distance. The pilot\u2019s silhouette lacks detail, making equipment or posture indistinguishable."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "sheilam99",
           "text": "Here\u2019s a native cicada my husband came across in our garden (Sydney, Australia)",
@@ -1444,7 +1459,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sunneesideup",
+                  "text": "They had popped up after a rain. I thought they looked so beautiful against the dark green flora around them. My dad\u2019s new house has a beautiful garden left to become over grown. It\u2019s a peaceful place to go and reconnect work nature.",
+                  "permalink": "https://www.threads.com/@sunneesideup/post/DgAC_VdG04r",
+                  "photos": [
+                    "Description: The photograph shows several white flowers with yellow centers, likely daffodils, against a dark, out-of-focus background of green foliage. One flower is partially wilted and drooping. Photograph read: The image has a shallow depth of field, with the foreground flowers in focus and the background heavily blurred. Lighting is subdued, casting soft shadows and lacking high contrast. The colors are muted, with the white petals standing out against the dark greens. Photo type: Nature portrait"
+                  ],
+                  "watch_outs": [
+                    "- Background blur obscures background foliage detail, limiting context. - Partially wilted flower on the lower right shows degraded petal structure, reducing visual clarity."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
