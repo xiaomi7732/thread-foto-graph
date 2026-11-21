@@ -4,13 +4,14 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (54)
+## Needs Like (55)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
-- olivaexpat: *plink ([link](https://www.threads.com/@olivaexpat/post/Df_gph5gG4-))
+- herman.terhorst.14: 👍 ([link](https://www.threads.com/@herman.terhorst.14/post/Df_nJn5DQZ6))
+- rukhsa_macroflowers: So true🙃 ([link](https://www.threads.com/@rukhsa_macroflowers/post/Df_nPR6ipef))
 - lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))
 - rajeshwar8380: Thanks... 😊 ([link](https://www.threads.com/@rajeshwar8380/post/Df_jxnMmjoL))
 - jmay.ornot: 😄 ([link](https://www.threads.com/@jmay.ornot/post/Df_KWbHmVko))
