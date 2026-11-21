@@ -6,15 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (225)
+## Needs Reply (227)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
+- **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
+  - _Replying to: @camaze The middle of the Minimal Friday favorites is your …_
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
   - _Replying to: @rickthomas742 Slide four of the Minimal Friday favorites i…_
 - **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **elizabeth.watkinsmorris**:  ([link](https://www.threads.com/@elizabeth.watkinsmorris/post/DgANvdWGyrF))
+  - Photo: Description: A small, green, leaf-shaped object rests on a textured, yellowish surface. The object’s form resembles a folded leaf with visible vein-like patterns. Photograph read: The image is captured with even, diffuse lighting, showing a textured background and a relatively clear subject. The subject is in focus, though the image lacks sharpness in fine details. Photo type: Macro
 - **aussky**:  ([link](https://www.threads.com/@aussky/post/DgANoriGL0G))
   - Photo: Description: An ant with a greenish abdomen crawls along a barbed wire strand, with a blurred background of green foliage and sky. Photograph read: The image has a shallow depth of field, with the ant and wire in focus while the background is out of focus. Lighting is even and diffused, suggesting an overcast day. The wire’s barbs are visible, but the ant’s legs and antennae are not sharply defined. Photo type: Macro
     - Watch-outs: The ant’s legs and antennae are not sharply defined, limiting detail visibility. The barbed wire’s barbs are partially obscured by rust and wear, reducing clarity of their shape.
@@ -575,9 +579,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (62)
+## Needs Like (63)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
+- valgal7148: Beautiful choices ([link](https://www.threads.com/@valgal7148/post/DgAN1Npm5K5))
 - asutris: Thank you so much. 🙏🏻 ([link](https://www.threads.com/@asutris/post/Df_1BC4GDof))
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
