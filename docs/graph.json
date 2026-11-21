@@ -132,8 +132,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1083,
+      "reply_count": 1084,
       "replies": [
+        {
+          "username": "gjbrown.art",
+          "text": "The dove who visits my garden every morning for a bath.",
+          "permalink": "https://www.threads.com/@gjbrown.art/post/Df_-hrCjX1P",
+          "photos": [
+            "Description: A white pigeon is perched on a rough-textured surface, viewed from the side, with a blurred green grassy background. Photograph read: The image is in focus on the pigeon, with even lighting that highlights its feathers and features. The background is softly out of focus, creating a shallow depth of field. The pigeon\u2019s eye and beak are clearly visible, and feather texture is discernible. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dingenwu",
           "text": "",

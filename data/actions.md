@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (204)
+## Needs Reply (205)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **gjbrown.art**: The dove who visits my garden every morning for a bath. ([link](https://www.threads.com/@gjbrown.art/post/Df_-hrCjX1P))
+  - Photo: Description: A white pigeon is perched on a rough-textured surface, viewed from the side, with a blurred green grassy background. Photograph read: The image is in focus on the pigeon, with even lighting that highlights its feathers and features. The background is softly out of focus, creating a shallow depth of field. The pigeon’s eye and beak are clearly visible, and feather texture is discernible. Photo type: Portrait
 - **dingenwu**:  ([link](https://www.threads.com/@dingenwu/post/Df_9bvTGRx6))
   - Photo: Description: The image shows a view from inside a rusted, dark cylindrical pipe, looking outward through its circular opening onto a group of people in colorful jackets, who are out of focus. Photograph read: The composition is centered on the pipe’s interior, with the circular aperture framing the blurred background. Lighting appears natural and diffused, illuminating the pipe’s textured, corroded surface and the distant figures. The rendering is characterized by a shallow depth of field, with the pipe’s interior in focus and the exterior scene significantly blurred. Photo type: Portrait
     - Watch-outs: The entire image appears blurred; fine detail is not distinguishable. The exterior scene, including the group of people and the background, is indistinct due to out-of-focus rendering.
