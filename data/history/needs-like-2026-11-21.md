@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (58)
+## Needs Like (59)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - beckiefitzgerald: Congratulations 👏 ([link](https://www.threads.com/@beckiefitzgerald/post/DgA2YS7IITP))
@@ -12,6 +12,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - asutris: Thank you so much. 🙏🏻 ([link](https://www.threads.com/@asutris/post/Df_1BC4GDof))
+- asutris: My pleasure. ([link](https://www.threads.com/@asutris/post/DgBabRNkxxq))
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - thesyberian: Estrangement. ([link](https://www.threads.com/@thesyberian/post/DgAfNHbCOtu))
