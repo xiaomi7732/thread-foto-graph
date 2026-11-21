@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (248)
+## Needs Reply (251)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **rex.skeletor.2691**:  ([link](https://www.threads.com/@rex.skeletor.2691/post/Df_djxCDkKJ))
+  - Photo: Description: A vibrant magenta peony flower is centered among bright green, compound leaves, with a background of grass and foliage. Photograph read: The image has a shallow depth of field, with the flower in focus and surrounding leaves slightly softer. Lighting is even and natural, with no visible shadows or overexposure. Color saturation is high, and the image has a slight vignette effect at the edges. Photo type: Natural
+- **lololeelee**:  ([link](https://www.threads.com/@lololeelee/post/Df_dHfiFHmR))
+  - Photo: Description: A dark, silhouetted bird perches atop a rocky, uneven terrain under a clear blue sky. The bird’s posture is upright, with its head tilted slightly upward. Photograph read: The composition places the bird in the lower third against a vast sky, with no visible foreground or background elements. Lighting is bright and even, casting minimal shadow on the bird or terrain. The image exhibits a uniform, slightly grainy texture across the entire frame. Photo type: Natural landscape
+    - Watch-outs: The bird’s features are indistinct due to silhouette against the sky; no discernible texture or color detail is visible on its body. The rocky surface shows no clear texture or detail, appearing as a mottled, low-contrast mass.
+- **daleh6611**:  ([link](https://www.threads.com/@daleh6611/post/Df_dEYnoBp3))
+  - Photo: Description: A pebble-strewn shoreline in the foreground leads to a calm lake, flanked by forested mountains under an overcast sky. Photograph read: The composition is layered, with the foreground pebbles in sharp focus, the midground lake showing gentle ripples, and the distant mountains appearing hazy. Lighting is diffuse and even, with no strong directional shadows. The rendering is naturalistic, with muted tones and no visible digital artifacts. Photo type: Landscape
 - **cathyk_621**:  ([link](https://www.threads.com/@cathyk_621/post/Df_cSOCFnvS))
   - Photo: Description: A translucent chrysalis hangs from a dark, curved support structure, with blurred yellow and green floral background elements. Photograph read: The image features a shallow depth of field, with the chrysalis in focus and the background rendered as soft bokeh. Lighting appears natural and directional, highlighting the chrysalis’s semi-transparent structure. The chrysalis shows visible internal structures and faint markings, but the background lacks discernible detail. Photo type: Macro
     - Watch-outs: The chrysalis’s internal structures are partially obscured by translucency and low contrast. The background bokeh is indistinct, preventing identification of specific flowers or foliage.
