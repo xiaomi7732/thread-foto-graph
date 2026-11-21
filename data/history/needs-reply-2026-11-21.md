@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (221)
+## Needs Reply (224)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **rickthomas742**: That’s awesome. Thanks! I was on my deck and just happened to look up and noticed a very quiet sky with a bright crescent moon. I’ve never photographed the moon but this was so clear and bright I wanted to see if I could. It was then I noticed the plane enter the frame. At first I wanted to crop it out, but, like the moon, it was so clear and defined I thought heck, why not? And now this shot is my go-to minimalist photo in my portfolio. ([link](https://www.threads.com/@rickthomas742/post/Df_53UhJTa1))
@@ -70,6 +70,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **adriana.f2302**: I love to stay for a while to enjoy deeper the art ([link](https://www.threads.com/@adriana.f2302/post/DgAJkfAEXTy))
   - _Replying to: An empty gallery, a bench, and all that white space to sit …_
+- **mikepry**: “The sea, once it casts its spell, holds one in its net of wonder forever”. - Jacques Yves Cousteau ([link](https://www.threads.com/@mikepry/post/DgAMFp5JR2c))
+  - _Replying to: A speckled gull on the rail, the city gone soft behind it. …_
 - **_ivy.lane_**: Yes, I did! And it was absolutely worth it! ([link](https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6))
   - _Replying to: One yellow flower in front, the sea doing the rest behind i…_
 - **sunneesideup**: They had popped up after a rain. I thought they looked so beautiful against the dark green flora around them. My dad’s new house has a beautiful garden left to become over grown. It’s a peaceful place to go and reconnect work nature. ([link](https://www.threads.com/@sunneesideup/post/DgAC_VdG04r))
@@ -123,6 +125,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A tall, weathered stone monument with carved Māori-style motifs stands on a grassy field under a cloudy sky, with trees visible in the background. Photograph read: The image is taken at eye level with the monument, showing natural daylight and a partly cloudy sky. The stone’s surface and carvings are visible, though not sharply detailed. The grass and trees are in focus, with no apparent motion blur or lens distortion. Photo type: Outdoor landscape
   - Photo: Description: A metallic plaque is mounted on a rough, speckled stone surface, with engraved text describing a sculpture titled “Mahitahi” and crediting Peter Cramond and the Tauranga District Council. Photograph read: The image is a close-up shot with even, diffuse lighting, showing clear legibility of the engraved text. The plaque is secured by four screws, and the surrounding stone has visible texture and minor debris. Photo type: Documentary
   - _Replying to: It's the Rena penguin memorial, commemorating the little bl…_
+- **rhinebeck**: A secret told is no longer a secret. ([link](https://www.threads.com/@rhinebeck/post/DgALvkilX3f))
+  - _Replying to: A little stone figure with feathers and a secret, sitting i…_
 - **susie.kp**: Surprisingly , in my own backyard ! That Spring , many wild flowers , including poppies sprung up near a border by the fence . I thought they might be fleeting , so took photos to remember.. ([link](https://www.threads.com/@susie.kp/post/Df_44A5EdNs))
   - _Replying to: One yellow buttercup in all that green, lit up like a small…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
@@ -153,6 +157,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))
   - _Replying to: (photo reply, no text)_
+- **fragilita_12**: Yes. I like this shot ([link](https://www.threads.com/@fragilita_12/post/DgAMLFdgEPE))
+  - _Replying to: Dusk, and the sea barely moving. A quiet end to the day._
 - **lenzscapes.de**:  ([link](https://www.threads.com/@lenzscapes.de/post/Df-eyYaCSrh))
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **zoeripley_studios**: Yes, quite often. I live very near. ([link](https://www.threads.com/@zoeripley_studios/post/Df_qjIUAueT))

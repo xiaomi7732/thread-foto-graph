@@ -132,7 +132,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1102,
+      "reply_count": 1105,
       "replies": [
         {
           "username": "mygirlscallmephyllis",
@@ -1376,7 +1376,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mikepry",
+                  "text": "\u201cThe sea, once it casts its spell, holds one in its net of wonder forever\u201d. - Jacques Yves Cousteau",
+                  "permalink": "https://www.threads.com/@mikepry/post/DgAMFp5JR2c",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4741,7 +4752,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "rhinebeck",
+                  "text": "A secret told is no longer a secret.",
+                  "permalink": "https://www.threads.com/@rhinebeck/post/DgALvkilX3f",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -6666,7 +6688,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "fragilita_12",
+                          "text": "Yes. I like this shot",
+                          "permalink": "https://www.threads.com/@fragilita_12/post/DgAMLFdgEPE",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
