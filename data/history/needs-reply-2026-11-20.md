@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (283)
+## Needs Reply (287)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **steve_lim72**: It’s in the am, cold and foggy. No other soul in sight. ([link](https://www.threads.com/@steve_lim72/post/Df-94byDUcu))
+  - Photo: Description: A solitary, weathered wooden post, bound with rope, stands in calm water under a dense fog, with indistinct tree silhouettes visible on the left bank. Photograph read: The image is monochrome, with soft, diffused lighting and a muted tonal range. The post is sharply defined against the hazy background, which lacks contrast and detail. Reflections of the post are visible in the water, but the surface is smooth and featureless. Photo type: Black and white landscape
+    - Watch-outs: - Fog obscures the background and distant shoreline, reducing visibility and detail in the left half of the image. - The water surface is uniformly smooth and reflective, lacking texture or ripples, which limits visual interest and environmental context.
+- **deb7fan**:  ([link](https://www.threads.com/@deb7fan/post/Df-92zUD7Rs))
+  - Photo: Description: A bird of prey with outstretched wings is captured mid-flight against a solid blue background, showing white and dark feather patterns on its body and wings. Photograph read: The subject is centered in the frame with even, bright illumination. The image has a uniform blue background with no discernible foreground or background elements. The bird’s form is visible but lacks fine detail due to soft focus and low resolution. Photo type: Unclear
+    - Watch-outs: The bird’s wingtips and tail feathers are indistinct due to soft focus, reducing edge definition. The bird’s head and facial features are blurred, obscuring anatomical detail.
+- **kennedy535**:  ([link](https://www.threads.com/@kennedy535/post/Df-9rfLCV-u))
+  - Photo: Description: A blue public telephone booth with a plush teddy bear resting on its metal platform, surrounded by green grass and trees in the background. The booth is covered in various stickers and shows signs of wear. Photograph read: The image is taken in natural daylight with even illumination across the subject. The composition is straightforward, with the telephone booth centered and the background slightly out of focus. The rendering preserves fine details on the stickers and the teddy bear’s fur. Photo type: Documentary
 - **mn_chick**:  ([link](https://www.threads.com/@mn_chick/post/Df-8yLnDGpC))
   - Photo: Description: The image shows a pale, overcast sky with a faint, warm glow near the horizon, partially obscured by a tree silhouette in the lower center. The horizon line is low, with indistinct dark shapes suggesting distant treeline or vegetation. Photograph read: The sky dominates the frame with soft, diffuse tones and minimal texture. A bright, slightly overexposed circular disc is visible behind a tree, indicating the sun or a similar light source. The tree and horizon are rendered as dark silhouettes with no discernible detail. The overall image has low contrast and lacks sharpness. Photo type: Unclear
     - Watch-outs: - The sun disc is overexposed, causing a bright glare that obscures detail within the tree silhouette directly behind it. - The horizon and tree silhouettes lack discernible texture or fine detail, appearing as flat, dark shapes with no visible structure.
@@ -232,6 +240,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **kevintrendell**: Sometimes she is distracted. When she is locked in I can throw the ball 100 times and she will chase it like a rocket and return to show me she has it. Sometimes there is a detour to the water and she will drop it in the shallows to wash it off before returning 😎❤️ ([link](https://www.threads.com/@kevintrendell/post/Df-tQQEGSoV))
   - _Replying to: Rhubi out in the shallows with a red ball for company - tha…_
+- **massiebrenda**: They are actually caught in a spider web in front of the post. This was a few years ago, so I can't remember how long they were there. ([link](https://www.threads.com/@massiebrenda/post/Df-978yjDYj))
+  - _Replying to: Two dried leaves stuck to an old post, like they chose the …_
 - **lynnpearcephotographer**: Probably Jan Mayen, as it is an uninhabited island, except for a small group of geologists greeting us the morning we arrived. Fiercely cold and windy, even the seabirds had taken shelter leaving a disarming stillness. Thanks for the question. 🙏🏼 ([link](https://www.threads.com/@lynnpearcephotographer/post/Df-uSmLkTu4))
   - _Replying to: Four quiet corners of the sea, from Jan Mayen to the Solent…_
 - **stephen_deakin_composer**: The curve and the blue, like seeing an earth sky from the rim of a crater with my spaceship in the frame. ([link](https://www.threads.com/@stephen_deakin_composer/post/Df-wQegGYWu))

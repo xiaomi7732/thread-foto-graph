@@ -13,8 +13,50 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 669,
+      "reply_count": 673,
       "replies": [
+        {
+          "username": "steve_lim72",
+          "text": "It\u2019s in the am, cold and foggy. No other soul in sight.",
+          "permalink": "https://www.threads.com/@steve_lim72/post/Df-94byDUcu",
+          "photos": [
+            "Description: A solitary, weathered wooden post, bound with rope, stands in calm water under a dense fog, with indistinct tree silhouettes visible on the left bank. Photograph read: The image is monochrome, with soft, diffused lighting and a muted tonal range. The post is sharply defined against the hazy background, which lacks contrast and detail. Reflections of the post are visible in the water, but the surface is smooth and featureless. Photo type: Black and white landscape"
+          ],
+          "watch_outs": [
+            "- Fog obscures the background and distant shoreline, reducing visibility and detail in the left half of the image. - The water surface is uniformly smooth and reflective, lacking texture or ripples, which limits visual interest and environmental context."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "deb7fan",
+          "text": "",
+          "permalink": "https://www.threads.com/@deb7fan/post/Df-92zUD7Rs",
+          "photos": [
+            "Description: A bird of prey with outstretched wings is captured mid-flight against a solid blue background, showing white and dark feather patterns on its body and wings. Photograph read: The subject is centered in the frame with even, bright illumination. The image has a uniform blue background with no discernible foreground or background elements. The bird\u2019s form is visible but lacks fine detail due to soft focus and low resolution. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "The bird\u2019s wingtips and tail feathers are indistinct due to soft focus, reducing edge definition. The bird\u2019s head and facial features are blurred, obscuring anatomical detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kennedy535",
+          "text": "",
+          "permalink": "https://www.threads.com/@kennedy535/post/Df-9rfLCV-u",
+          "photos": [
+            "Description: A blue public telephone booth with a plush teddy bear resting on its metal platform, surrounded by green grass and trees in the background. The booth is covered in various stickers and shows signs of wear. Photograph read: The image is taken in natural daylight with even illumination across the subject. The composition is straightforward, with the telephone booth centered and the background slightly out of focus. The rendering preserves fine details on the stickers and the teddy bear\u2019s fur. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mn_chick",
           "text": "",
@@ -2047,7 +2089,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "massiebrenda",
+                  "text": "They are actually caught in a spider web in front of the post. This was a few years ago, so I can't remember how long they were there.",
+                  "permalink": "https://www.threads.com/@massiebrenda/post/Df-978yjDYj",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
