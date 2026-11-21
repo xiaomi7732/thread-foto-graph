@@ -153,7 +153,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1121,
+      "reply_count": 1122,
       "replies": [
         {
           "username": "sammajsarah",
@@ -639,7 +639,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "johnsiler",
+                  "text": "The brilliant color of the leaf \ud83c\udf41",
+                  "permalink": "https://www.threads.com/@johnsiler/post/DgAZLuRlEfy",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
