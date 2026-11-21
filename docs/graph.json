@@ -10,8 +10,18 @@
       "photos": [
         "Description: A cluster of red maple leaves hangs from a thin branch, with water droplets visible on their surfaces; the background is out of focus with indistinct green and dark tones. Photograph read: The subject is in focus with moderate contrast, illuminated by diffuse light; the background exhibits shallow depth of field blur, and the image has a soft, natural color rendering without visible artifacts. Photo type: Portrait"
       ],
-      "reply_count": 7,
+      "reply_count": 8,
       "replies": [
+        {
+          "username": "derekrichards4229",
+          "text": "Congratulations!\ud83d\udcf8\ud83d\udcf8\ud83d\udcf8",
+          "permalink": "https://www.threads.com/@derekrichards4229/post/DgA5ycPjVoh",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "beckiefitzgerald",
           "text": "Congratulations \ud83d\udc4f",
@@ -273,7 +283,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1224,
+      "reply_count": 1225,
       "replies": [
         {
           "username": "isadoralovesscarves",
@@ -2774,7 +2784,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "amygfoodie",
+                  "text": "He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it.",
+                  "permalink": "https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -14910,7 +14931,7 @@
       "photos": [
         "Description: A single autumn leaf with reddish-brown hues and a small hole lies on green grass, surrounded by other fallen leaves in soft focus. Photograph read: The image is a close-up shot with shallow depth of field, focusing on the central leaf. Lighting is diffuse, casting soft shadows. The rendering shows natural color saturation and texture, with background elements blurred. Photo type: Nature macro"
       ],
-      "reply_count": 408,
+      "reply_count": 410,
       "replies": [
         {
           "username": "khoojosie",
@@ -16140,7 +16161,31 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "dianelynnturnbull",
+                          "text": "",
+                          "permalink": "https://www.threads.com/@dianelynnturnbull/post/DgA55SMkraR",
+                          "photos": [
+                            "Description: A flat-lay composition features a large green leaf with dark spots, overlaid by a dried brown leaf and a white circular object containing a small, textured item, all resting on a cross-section of a tree trunk with visible wood grain. Photograph read: The image is in focus with even, diffused lighting. Colors are natural and saturated, with no visible vignetting or chromatic aberration. The composition is centered, with the leaf and object arranged symmetrically against the tree trunk background. Photo type: Still life"
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": [
+                            {
+                              "username": "dianelynnturnbull",
+                              "text": "I found it. I think I am going to decopauge it onto this wood cookie.",
+                              "permalink": "https://www.threads.com/@dianelynnturnbull/post/DgA55Sikkxd",
+                              "photos": [],
+                              "needs_response": true,
+                              "action": "reply",
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }

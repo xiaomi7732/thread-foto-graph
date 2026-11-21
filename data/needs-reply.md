@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (175)
+## Needs Reply (178)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **lucillepippetti**: Here's to another 500 before the end of the year! ([link](https://www.threads.com/@lucillepippetti/post/DgA2DoUIBMM))
@@ -89,6 +89,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
+- **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))
+  - _Replying to: A dog on the back of the chair, watching the bare branches …_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
@@ -234,6 +236,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That red against the green is doing all the shouting. Did i…_
 - **tim22974**: Landed like that; saw it on my dog walk; had to stop!! ([link](https://www.threads.com/@tim22974/post/Df8gmCQmVpf))
   - _Replying to: That red against the green is doing all the shouting. Did i…_
+- **dianelynnturnbull**:  ([link](https://www.threads.com/@dianelynnturnbull/post/DgA55SMkraR))
+  - Photo: Description: A flat-lay composition features a large green leaf with dark spots, overlaid by a dried brown leaf and a white circular object containing a small, textured item, all resting on a cross-section of a tree trunk with visible wood grain. Photograph read: The image is in focus with even, diffused lighting. Colors are natural and saturated, with no visible vignetting or chromatic aberration. The composition is centered, with the leaf and object arranged symmetrically against the tree trunk background. Photo type: Still life
+  - _Replying to: Some mysteries are worth the morning check._
+- **dianelynnturnbull**: I found it. I think I am going to decopauge it onto this wood cookie. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA55Sikkxd))
+  - _Replying to: (photo reply, no text)_
 - **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
   - _Replying to: Melancholy suits them - a beautiful late-season rose._
 - **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
