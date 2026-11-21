@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (191)
+## Needs Reply (192)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **janethopkins365**: Odin the Eagle Owl ([link](https://www.threads.com/@janethopkins365/post/Df_zuPdkcnv))
+  - Photo: Description: A large owl with prominent ear tufts and orange eyes is perched on a person’s gloved hand, with a festive background including a wreath and red gift bags on green shelves. Photograph read: The image is taken at close range with direct lighting, showing clear feather texture and eye detail. The background is in focus but less detailed. The owl’s head and upper body dominate the frame. Photo type: Portrait
 - **alanbillings61**:  ([link](https://www.threads.com/@alanbillings61/post/Df_wYl6CCqk))
   - Photo: Description: A wide field of green grass dotted with yellow flowers stretches toward a tree-covered hillside under an overcast sky, with rolling hills and distant mountains visible in the background. Photograph read: The image is captured from a relatively flat foreground to a sloping hillside, with diffuse, even lighting due to cloud cover. The field occupies the foreground and midground, while the hills recede into the background with gradual atmospheric softness. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **gretchylolly**:  ([link](https://www.threads.com/@gretchylolly/post/Df_vVu7Fr7p))
@@ -490,13 +492,14 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (57)
+## Needs Like (58)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
 - posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
 - stefano.caiazzo.14: Buongiorno ([link](https://www.threads.com/@stefano.caiazzo.14/post/Df_vASrEZqz))
 - mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
+- velosy: Thank you ([link](https://www.threads.com/@velosy/post/Df_zv8ujp1r))
 - herman.terhorst.14: 👍 ([link](https://www.threads.com/@herman.terhorst.14/post/Df_nJn5DQZ6))
 - rukhsa_macroflowers: So true🙃 ([link](https://www.threads.com/@rukhsa_macroflowers/post/Df_nPR6ipef))
 - lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))

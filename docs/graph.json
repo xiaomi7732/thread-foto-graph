@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1070,
+      "reply_count": 1072,
       "replies": [
+        {
+          "username": "janethopkins365",
+          "text": "Odin the Eagle Owl",
+          "permalink": "https://www.threads.com/@janethopkins365/post/Df_zuPdkcnv",
+          "photos": [
+            "Description: A large owl with prominent ear tufts and orange eyes is perched on a person\u2019s gloved hand, with a festive background including a wreath and red gift bags on green shelves. Photograph read: The image is taken at close range with direct lighting, showing clear feather texture and eye detail. The background is in focus but less detailed. The owl\u2019s head and upper body dominate the frame. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "alanbillings61",
           "text": "",
@@ -5346,7 +5358,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "velosy",
+                          "text": "Thank you",
+                          "permalink": "https://www.threads.com/@velosy/post/Df_zv8ujp1r",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
