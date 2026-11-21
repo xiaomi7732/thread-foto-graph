@@ -132,7 +132,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1077,
+      "reply_count": 1079,
       "replies": [
         {
           "username": "janethopkins365",
@@ -1273,7 +1273,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "_ivy.lane_",
+                  "text": "Yes, I did! And it was absolutely worth it!",
+                  "permalink": "https://www.threads.com/@_ivy.lane_/post/Df_61AaiDq6",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3817,7 +3828,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "imtayamathias",
+                  "text": "It's actually a cloud. That's why I took the picture. I thought it looked so strange. I should have put this in the comments. Apologies, I had a lot of brain farts yesterday \ud83d\ude05",
+                  "permalink": "https://www.threads.com/@imtayamathias/post/Df_7QyiEUzX",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
