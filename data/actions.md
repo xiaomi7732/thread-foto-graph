@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (183)
+## Needs Reply (184)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **alex_hautecombe**:  ([link](https://www.threads.com/@alex_hautecombe/post/Df_onTRgk4F))
+  - Photo: Description: A small boat with outriggers is silhouetted against a vast ocean under a sky filled with golden, textured clouds at sunset. The horizon shows a band of orange light, with distant landmasses barely visible. Photograph read: The composition is wide, with the boat centered in the lower third. Lighting is dominated by the warm, low-angle sunset, casting the boat in silhouette. The sky exhibits high contrast between illuminated cloud layers and darker regions. The water surface reflects the sky’s glow with subdued texture. Photo type: Aerial or elevated landscape
 - **ncav2021**: Can you find the tiny crab in the picture? ([link](https://www.threads.com/@ncav2021/post/Df_oGEXoDmI))
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
