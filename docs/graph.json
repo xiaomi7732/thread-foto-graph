@@ -13,8 +13,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 897,
+      "reply_count": 900,
       "replies": [
+        {
+          "username": "kathleen_payne",
+          "text": "",
+          "permalink": "https://www.threads.com/@kathleen_payne/post/Df_OrllmwSG",
+          "photos": [
+            "Description: A solitary tree stands on a gently sloping, grassy hill under an overcast sky, with faint fence lines visible in the background. Photograph read: The image is composed with the tree centered in the mid-ground, casting a distinct shadow. Lighting is diffuse, with no harsh shadows or highlights. The rendering shows natural color saturation and texture, with no visible signs of compression or noise. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "sandycook78",
           "text": "Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless.",
@@ -1263,7 +1275,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "js.newberry",
+                  "text": "Tiger Eye. Botanists recently reclassified this species from its historical name, Abutilon pictum, to Callianthe picta.",
+                  "permalink": "https://www.threads.com/@js.newberry/post/Df_OjU8FTnV",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -10644,7 +10667,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "kk.sur26",
+                          "text": "Thank you so much for appreciated",
+                          "permalink": "https://www.threads.com/@kk.sur26/post/Df_OqRZoKyl",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

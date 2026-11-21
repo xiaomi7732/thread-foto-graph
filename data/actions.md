@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (216)
+## Needs Reply (219)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kathleen_payne**:  ([link](https://www.threads.com/@kathleen_payne/post/Df_OrllmwSG))
+  - Photo: Description: A solitary tree stands on a gently sloping, grassy hill under an overcast sky, with faint fence lines visible in the background. Photograph read: The image is composed with the tree centered in the mid-ground, casting a distinct shadow. Lighting is diffuse, with no harsh shadows or highlights. The rendering shows natural color saturation and texture, with no visible signs of compression or noise. Photo type: Landscape
 - **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
   - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **rhondawrightclark**:  ([link](https://www.threads.com/@rhondawrightclark/post/Df_LntRm6f6))
@@ -92,6 +94,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A single tree on a bare hill, and the gray sky giving it al…_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
+- **js.newberry**: Tiger Eye. Botanists recently reclassified this species from its historical name, Abutilon pictum, to Callianthe picta. ([link](https://www.threads.com/@js.newberry/post/Df_OjU8FTnV))
+  - _Replying to: One red lantern flower hanging down, lit like a little lamp…_
 - **lindascates2012**: Just snow on the poppy pods. ([link](https://www.threads.com/@lindascates2012/post/Df_JsU9mIpP))
   - _Replying to: Dried stems with snow on top, standing up against the dark.…_
 - **a_deeper_place**: It’s an old section of track on the northern Oregon coast. ([link](https://www.threads.com/@a_deeper_place/post/Df_Jys5mIyO))
@@ -191,6 +195,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The entire image exhibits significant grain, reducing fine detail across the subject’s face and background. - The right side of the image is uniformly bright and devoid of detail, suggesting overexposure or lack of subject in that area.
 - **asutris**: True. It's a pleasure. ([link](https://www.threads.com/@asutris/post/Df-DPo5nYNp))
   - _Replying to: Some shots are just about being there at the right second. …_
+- **kk.sur26**: Thank you so much for appreciated ([link](https://www.threads.com/@kk.sur26/post/Df_OqRZoKyl))
+  - _Replying to: Patience and good timing, all in one frame._
 - **lindafedor6**: Shapes ([link](https://www.threads.com/@lindafedor6/post/Df9_5y4nK2c))
   - Photo: Description: A hand holds a mixed-media collage featuring a bird-like figure made of layered paper, a pink heart, and shredded paper, set against a background of printed dictionary pages with words like “heartless” and “hearth.” Photograph read: The image is taken at a slight angle, with even, diffuse lighting. The subject is in focus, but the background is slightly out of focus. The collage’s textures and layered materials are visible, though some text is partially obscured by paper overlays. Photo type: Mixed-media collage
   - _Replying to: The Shaped Thursday favorites are live - five shapes that s…_
