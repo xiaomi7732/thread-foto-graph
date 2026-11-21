@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (259)
+## Needs Reply (260)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **simonjpugh**: Derwent Water in heavy rain. ([link](https://www.threads.com/@simonjpugh/post/Df-5GwrCgoE))
+  - Photo: Description: A wooden pier extends from the foreground into a calm body of water, flanked by vertical pilings, with hazy mountains and a flat horizon in the background under an overcast sky. Photograph read: The image is in black and white, with a symmetrical composition centered on the pier. Lighting is diffuse and even, with no strong directional highlights or shadows. The water surface and distant mountains are rendered with soft, smooth gradients, suggesting a long exposure. The wood grain on the pilings is visible, but the deck planks show minimal texture. Photo type: Long exposure landscape
+    - Watch-outs: The water surface is uniformly smooth and blurred, obscuring any wave motion or texture. The distant mountains are indistinct due to atmospheric haze, reducing definition and detail.
 - **bethanyangle**:  ([link](https://www.threads.com/@bethanyangle/post/Df-478vFMO_))
   - Photo: Description: An orange cat with a white chest sits atop a weathered wooden fence post, positioned against a backdrop of dense purple flowering plants and green trees. Photograph read: The image is taken at eye level with the cat as the central subject, framed by a rustic fence. Lighting appears natural and diffused, with no harsh shadows. The image has a shallow depth of field, rendering the foreground foliage and background trees somewhat out of focus. Photo type: Natural
 - **rkatekatia**:  ([link](https://www.threads.com/@rkatekatia/post/Df-4PssDScd))

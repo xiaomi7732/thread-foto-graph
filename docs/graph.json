@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 644,
+      "reply_count": 645,
       "replies": [
+        {
+          "username": "simonjpugh",
+          "text": "Derwent Water in heavy rain.",
+          "permalink": "https://www.threads.com/@simonjpugh/post/Df-5GwrCgoE",
+          "photos": [
+            "Description: A wooden pier extends from the foreground into a calm body of water, flanked by vertical pilings, with hazy mountains and a flat horizon in the background under an overcast sky. Photograph read: The image is in black and white, with a symmetrical composition centered on the pier. Lighting is diffuse and even, with no strong directional highlights or shadows. The water surface and distant mountains are rendered with soft, smooth gradients, suggesting a long exposure. The wood grain on the pilings is visible, but the deck planks show minimal texture. Photo type: Long exposure landscape"
+          ],
+          "watch_outs": [
+            "The water surface is uniformly smooth and blurred, obscuring any wave motion or texture. The distant mountains are indistinct due to atmospheric haze, reducing definition and detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "bethanyangle",
           "text": "",
