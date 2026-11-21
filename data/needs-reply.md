@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (305)
+## Needs Reply (306)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **elliott72**:  ([link](https://www.threads.com/@elliott72/post/Df_EGkfFjQ9))
+  - Photo: Description: A large butterfly with dark wings and colorful markings is perched on a cluster of small purple flowers, surrounded by green foliage and other flower clusters in various stages of bloom. Photograph read: The image has a shallow depth of field, with the butterfly in focus and the background softly blurred. Lighting is even and natural, illuminating the butterfly’s wing patterns and the surrounding flora. The rendering preserves fine details on the butterfly’s wings and the texture of the flowers. Photo type: Nature portrait
 - **kuhl_kathy**: The smile on the old building ([link](https://www.threads.com/@kuhl_kathy/post/Df_ClOnDKRa))
   - Photo: Description: A gravel road leads toward a weathered, two-story wooden structure with an open doorway and two small windows, surrounded by dense green foliage and trees. Photograph read: The image is taken in bright daylight with dappled shadows cast by overhead trees. The road and surrounding grass are in focus, while the structure is moderately in focus. The foliage on the right is dense and partially obscures the view. No visible signs of motion blur, chromatic aberration, or sensor noise are present. Photo type: Natural landscape
 - **grumpybutt808**: One blossom at the orchid show ([link](https://www.threads.com/@grumpybutt808/post/Df_CfZUIy3e))
