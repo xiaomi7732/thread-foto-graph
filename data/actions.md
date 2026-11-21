@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (162)
+## Needs Reply (163)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -45,6 +45,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **edwardlin1995**: Maybe we were waiting both☺️ ([link](https://www.threads.com/@edwardlin1995/post/DgAfecwE3el))
   - _Replying to: One pylon, one break in the clouds, and the light doing all…_
+- **janethopkins365**: Well funnily enough he quite likes me, so he sits still, about 15 minutes after this photo he put his head into my neck, it was so sweet. He did run away (fly) once the same year as the photos, thankfully he was found he was very hungry but he’d managed to unearth a mouse. Odin and other birds are cared for in a sanctuary they were either abandoned or injured, there are quite a few owls of different makes. ([link](https://www.threads.com/@janethopkins365/post/DgAnfbDkYw7))
+  - _Replying to: Odin's orange eyes are doing all the staring here - the res…_
 - **mcveyclicks**: Unfortunately the only way to go into Antelope Canyon is to be part of a tour group, so we weren’t down there too long. ([link](https://www.threads.com/@mcveyclicks/post/DgAi9FaFZHF))
   - _Replying to: That red rock folding in on itself, light slipping down the…_
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
