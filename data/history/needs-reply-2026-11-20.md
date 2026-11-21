@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (280)
+## Needs Reply (283)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mn_chick**:  ([link](https://www.threads.com/@mn_chick/post/Df-8yLnDGpC))
+  - Photo: Description: The image shows a pale, overcast sky with a faint, warm glow near the horizon, partially obscured by a tree silhouette in the lower center. The horizon line is low, with indistinct dark shapes suggesting distant treeline or vegetation. Photograph read: The sky dominates the frame with soft, diffuse tones and minimal texture. A bright, slightly overexposed circular disc is visible behind a tree, indicating the sun or a similar light source. The tree and horizon are rendered as dark silhouettes with no discernible detail. The overall image has low contrast and lacks sharpness. Photo type: Unclear
+    - Watch-outs: - The sun disc is overexposed, causing a bright glare that obscures detail within the tree silhouette directly behind it. - The horizon and tree silhouettes lack discernible texture or fine detail, appearing as flat, dark shapes with no visible structure.
+- **sellenmurray**:  ([link](https://www.threads.com/@sellenmurray/post/Df-8s9PjJEx))
+  - Photo: Description: A silhouette of a small bird perches atop a dark, undulating, corrugated surface against a bright, golden-hued sky with scattered clouds. Photograph read: The image features strong backlighting, creating a silhouette effect with minimal visible detail on the bird or surface. The sky shows distinct cloud forms illuminated by the sun, which is partially visible near the horizon. The foreground is uniformly dark, obscuring texture and form. Photo type: Silhouette
+    - Watch-outs: The bird’s silhouette is indistinct, lacking visible features or texture due to backlighting. The corrugated surface’s texture is not discernible, appearing as a smooth dark mass with no visible ridges or patterns.
+- **rrpare**: Patience ([link](https://www.threads.com/@rrpare/post/Df-8YzKlWRb))
+  - Photo: Description: A wooden arched bridge spans calm water, with a heron standing on a pier beneath it; a tree branch extends into the upper right corner against a pale sky. Photograph read: The image is composed with the bridge as the central subject, its reflection visible in the water. Lighting is even and diffused, suggesting an overcast or late-day sky. Rendering is clear enough to discern structural details of the bridge and the bird, though the water’s surface shows gentle ripples. Photo type: Natural landscape
 - **mn_chick**:  ([link](https://www.threads.com/@mn_chick/post/Df-8Xs_DFAK))
   - Photo: Description: A snow-covered hillside with a line of sparse, slender trees silhouetted against a uniformly white, overcast sky. The scene is dominated by monochrome tones and lacks distinct foreground or background separation. Photograph read: The composition is minimalist, with the trees positioned along the right edge of the frame. Lighting is diffuse and flat, with no discernible shadows or highlights. The rendering is soft and lacks sharpness, with no visible texture or detail in either the snow or the trees. Photo type: Unclear
     - Watch-outs: Whole-image blur obscures fine detail in the trees and snow. Uniform white background reduces contrast, making the trees appear as faint silhouettes with no discernible texture or form.
