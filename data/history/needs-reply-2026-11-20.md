@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (251)
+## Needs Reply (252)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **pandandalee**:  ([link](https://www.threads.com/@pandandalee/post/Df_edamm1b2))
+  - Photo: Description: A small, light-colored, shaggy dog with erect ears is sleeping on its side on a red leather couch. The dog’s paws and collar are visible, and its eyes are closed. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting. The focus is generally sharp on the dog’s body and face, though some fur texture is soft. The red leather couch shows natural creases and texture. Photo type: Natural
 - **rex.skeletor.2691**:  ([link](https://www.threads.com/@rex.skeletor.2691/post/Df_djxCDkKJ))
   - Photo: Description: A vibrant magenta peony flower is centered among bright green, compound leaves, with a background of grass and foliage. Photograph read: The image has a shallow depth of field, with the flower in focus and surrounding leaves slightly softer. Lighting is even and natural, with no visible shadows or overexposure. Color saturation is high, and the image has a slight vignette effect at the edges. Photo type: Natural
 - **lololeelee**:  ([link](https://www.threads.com/@lololeelee/post/Df_dHfiFHmR))
