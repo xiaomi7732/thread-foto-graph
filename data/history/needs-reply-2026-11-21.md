@@ -21,7 +21,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The swan’s body and head are indistinct due to low contrast and lack of detail. The water’s surface texture is blurred, obscuring fine ripples and reflections.
 - **alex_hautecombe**:  ([link](https://www.threads.com/@alex_hautecombe/post/Df_onTRgk4F))
   - Photo: Description: A small boat with outriggers is silhouetted against a vast ocean under a sky filled with golden, textured clouds at sunset. The horizon shows a band of orange light, with distant landmasses barely visible. Photograph read: The composition is wide, with the boat centered in the lower third. Lighting is dominated by the warm, low-angle sunset, casting the boat in silhouette. The sky exhibits high contrast between illuminated cloud layers and darker regions. The water surface reflects the sky’s glow with subdued texture. Photo type: Aerial or elevated landscape
-- **ncav2021**: Can you find the tiny crab in the picture? ([link](https://www.threads.com/@ncav2021/post/Df_oGEXoDmI))
 - **ncav2021**:  ([link](https://www.threads.com/@ncav2021/post/Df_oDM9IAAa))
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
 - **carocaluwe263**:  ([link](https://www.threads.com/@carocaluwe263/post/Df_nyMdDqNV))
@@ -46,6 +45,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **valgal7148**: I sure did … fascinating detail in miniature ([link](https://www.threads.com/@valgal7148/post/Df_I-PKG3sg))
   - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
+- **frankie_giordano_**: I knew it was a caterpillar. ([link](https://www.threads.com/@frankie_giordano_/post/Df_x4-QkjDu))
+  - _Replying to: A tiny caterpillar on weathered wood, all yellow and green.…_
 - **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
