@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (246)
+## Needs Reply (247)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -99,6 +99,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **johnsiler**: The brilliant color of the leaf 🍁 ([link](https://www.threads.com/@johnsiler/post/DgAZLuRlEfy))
   - _Replying to: One leaf, one stone, and every bit of autumn packed into it…_
+- **cathyk_621**: I watched her grow from a caterpillar to a chrysalis to a butterfly! ([link](https://www.threads.com/@cathyk_621/post/DgAaf2jFsn9))
+  - _Replying to: That chrysalis, lit up like a little lantern against the ye…_
 - **cjluk77**: I honestly don’t know. My husband took the picture. It’s one of my favorite photos. ([link](https://www.threads.com/@cjluk77/post/DgATPhUFLv9))
   - _Replying to: The bridge and its reflection, nearly perfect twins. Did th…_
 - **carolann0803**: Out my back door. Maybe 20-25 feet. ([link](https://www.threads.com/@carolann0803/post/DgATWzQETk-))
