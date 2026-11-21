@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (247)
+## Needs Reply (249)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -17,6 +17,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **lasclasicasmotos**:  ([link](https://www.threads.com/@lasclasicasmotos/post/DgAcZYBCPWF))
+  - Photo: Description: A small gecko is perched on a dark, curved metal object, with a lattice-patterned bench visible in the background and a gravel surface beneath. Photograph read: The image is taken at night or in low light, with a warm-toned illumination source casting shadows. The gecko and metal object are in focus, but the background and surrounding areas are dimmer and less detailed. The composition is close-up, with the gecko as the central subject. Photo type: Close-up
+    - Watch-outs: The gecko’s fine scale texture and toe pads are visible but not sharply detailed due to shallow depth of field and low-light conditions. The gravel ground in the foreground and background is out of focus and lacks texture definition.
+- **leoaw.id**:  ([link](https://www.threads.com/@leoaw.id/post/DgAcHnRGHhp))
+  - Photo: Description: A water buffalo grazes on a green grassy bank adjacent to a body of water, with another distant buffalo and faint structures visible on the horizon under a clear sky. Photograph read: The image has a wide horizontal composition with the foreground dominated by rippling water and a grassy bank. The main subject is in focus but appears slightly soft, with even lighting and no visible shadows or harsh contrasts. The background is flat and distant, with minimal texture or detail. Photo type: Natural landscape
+    - Watch-outs: The main subject (buffalo) shows soft focus, reducing fine detail on its hide and facial features. The distant background elements are indistinct, making precise identification of structures or other animals impossible.
 - **karenjcollins1220**:  ([link](https://www.threads.com/@karenjcollins1220/post/DgAaR68Fch8))
   - Photo: Description: A close-up of a flower bud, partially wrapped in dried, translucent sheath material, attached to a green stem against a plain, light-colored background. Photograph read: The image is in focus with even, diffuse lighting. The subject is centrally framed, with no visible lens distortion or motion blur. The bud’s coloration and texture are clearly rendered, and the stem’s surface detail is visible. Photo type: Macro
 - **sammajsarah**: One solo melancholy mushroom. ([link](https://www.threads.com/@sammajsarah/post/DgAWAcDlqTk))
