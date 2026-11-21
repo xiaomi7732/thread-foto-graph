@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (192)
+## Needs Reply (193)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **janethopkins365**: Odin the Eagle Owl ([link](https://www.threads.com/@janethopkins365/post/Df_zuPdkcnv))
@@ -69,6 +69,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: It's the Rena penguin memorial, commemorating the little bl…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
   - _Replying to: (photo reply, no text)_
+- **runarstoreide**: It did. And my Voigtländer f 0.95 helped a lot. Bot because of darkness and the soft background. ([link](https://www.threads.com/@runarstoreide/post/Df_0ZnIjRSW))
+  - _Replying to: Twelve hundred meters down, and it made a quiet frame up he…_
 - **mdalida378**:  ([link](https://www.threads.com/@mdalida378/post/Df-loexm2qC))
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
 - **mummabear1963v**: My front porch light ([link](https://www.threads.com/@mummabear1963v/post/Df-z7KsEtEb))
