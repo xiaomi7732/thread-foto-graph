@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 STATUS_PATH = ROOT / "cache" / "continuous-cycle.json"
 LIVE_PATHS = (
     "data/needs-reply.md", "data/needs-like.md", "data/actions.md",
-    "data/topics.md", "docs/graph.json",
+    "data/topics.md", "docs/graph.json", "data/photo-styles.json",
 )
 INTERVALS = (300, 900, 1800)
 STOP_TIMEOUT = 6000

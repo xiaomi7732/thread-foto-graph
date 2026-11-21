@@ -5,7 +5,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from unittest.mock import patch
 
-from src import reply_gallery
+from src import reply_gallery, photo_styles
 
 
 class ReplyGalleryTests(unittest.TestCase):
@@ -85,6 +85,55 @@ class ReplyGalleryTests(unittest.TestCase):
             html,
         )
         self.assertIn(f'href="{self.photo["permalink"]}"', markdown)
+
+    def test_cached_styles_support_legacy_and_structured_entries_without_inference(self):
+        for entry in (
+            "Description: A flower. Photograph read: Soft light. Photo type: Macro photography.",
+            {"description": "Description: A flower.\nPhotograph read: Soft light.\n"
+             "Photo type:\nMacro photography\nWatch-outs: None observed."},
+        ):
+            with self.subTest(entry=entry), patch.object(
+                reply_gallery.threads_client, "get_conversation", return_value=[self.photo],
+            ):
+                threads = reply_gallery.collect_gallery({"nodes": [self.node]}, {"photo": entry})
+                self.assertEqual(threads[0]["photos"][0]["style"], "Macro photography")
+                html, _ = reply_gallery.render_gallery(threads, "now")
+                self.assertIn('data-photo-style="macro photography"', html)
+                self.assertIn('value="macro photography"', html)
+                self.assertIn('Macro photography (1)', html)
+                self.assertNotIn("{{STYLE_FILTERS}}", html)
+        self.assertEqual(reply_gallery.photo_style(None), "Unknown")
+        self.assertEqual(reply_gallery.photo_style({"description": "No classification"}), "Unknown")
+
+    def test_carousel_styles_use_individual_photo_cache_ids_and_escape_labels(self):
+        with patch.object(reply_gallery.threads_client, "get_conversation", return_value=[{
+            **self.photo, "media_type": "CAROUSEL_ALBUM",
+            "children": {"data": [
+                {"id": "one", "media_type": "IMAGE", "media_url": "https://example.com/1"},
+                {"id": "two", "media_type": "IMAGE", "media_url": "https://example.com/2"},
+            ]},
+        }]):
+            threads = reply_gallery.collect_gallery(
+                {"nodes": [self.node]},
+                {"one": 'Photo type: Portrait"><script>bad</script>'},
+            )
+        self.assertEqual(threads[0]["photos"][1]["style"], "Unknown")
+        html, _ = reply_gallery.render_gallery(threads, "now")
+        self.assertIn('data-photo-style="unknown"', html)
+        self.assertIn('Unknown (1)', html)
+        self.assertNotIn("<script>bad</script>", html)
+        self.assertIn("Portrait&quot;&gt;&lt;script&gt;bad&lt;/script&gt;", html)
+
+    def test_published_style_takes_precedence_over_a_different_workflow_cache(self):
+        with patch.object(reply_gallery.threads_client, "get_conversation", return_value=[
+            self.photo, {**self.photo, "id": "new-photo"},
+        ]):
+            threads = reply_gallery.collect_gallery(
+                {"nodes": [self.node]},
+                {"photo": "Photo type: Portrait", "new-photo": "Photo type: Macro"},
+                {"photo": "Landscape"},
+            )
+        self.assertEqual([photo["style"] for photo in threads[0]["photos"]], ["Landscape", "Macro"])
 
     def test_untrusted_content_is_escaped_and_links_are_copyable(self):
         self.node["text"] = '<script>alert("root")</script>'
@@ -217,9 +266,14 @@ class ReplyGalleryTests(unittest.TestCase):
             (root / "docs").mkdir()
             graph = json.dumps({"nodes": [self.node], "edges": []})
             (root / "docs" / "graph.json").write_text(graph, encoding="utf-8")
+            (root / "data").mkdir()
+            (root / "data" / "photo-styles.json").write_text(
+                '{"version":1,"styles":{"photo":"Published landscape"}}', encoding="utf-8",
+            )
             with (
                 patch.object(reply_gallery, "ROOT_DIR", root),
                 patch.object(reply_gallery.config, "THREADS_ACCESS_TOKEN", "test-token"),
+                patch.object(reply_gallery, "load_cache", return_value={"photo": "Photo type: Landscape"}),
                 patch.object(
                     reply_gallery.threads_client,
                     "get_conversation",
@@ -228,6 +282,9 @@ class ReplyGalleryTests(unittest.TestCase):
             ):
                 self.assertEqual(reply_gallery.main(), 0)
             self.assertTrue((root / "docs" / "reply-images.html").is_file())
+            self.assertIn('data-photo-style="published landscape"', (
+                root / "docs" / "reply-images.html"
+            ).read_text(encoding="utf-8"))
             self.assertFalse((root / "docs" / "reply-images.md").exists())
             self.assertIn(
                 'href="reply-images.txt" download="reply-images.md"',
@@ -238,6 +295,50 @@ class ReplyGalleryTests(unittest.TestCase):
                 (root / "data" / "reply-images.md").read_text(encoding="utf-8"),
             )
             self.assertEqual((root / "docs" / "graph.json").read_text(encoding="utf-8"), graph)
+
+
+class PhotoStyleIndexTests(unittest.TestCase):
+    def setUp(self):
+        self.directory = self.enterContext(tempfile.TemporaryDirectory())
+        self.path = Path(self.directory) / "photo-styles.json"
+        self.enterContext(patch.object(photo_styles, "STYLE_PATH", self.path))
+
+    def test_export_excludes_roots_hidden_branches_and_private_cache_metadata(self):
+        image = lambda media_id: {"id": media_id, "media_type": "IMAGE"}
+        threads = [{**image("root"), "replies": [
+            {**image("one"), "replies": [image("two")]},
+            {**image("hidden"), "hide_status": "HIDDEN", "replies": [image("hidden-child")]},
+        ]}]
+        cache = {
+            media_id: {"description": f"Photo type: {style}\nWatch-outs: private notes",
+                       "model": "private model", "provider": "private provider"}
+            for media_id, style in (("root", "Root style"), ("one", "Macro"),
+                                    ("hidden", "Hidden style"), ("hidden-child", "Hidden style"))
+        }
+        photo_styles.write_styles(threads, cache, {"one": "Old", "two": "Portrait", "expired": "Old"})
+        self.assertEqual(photo_styles.load_styles(), {"one": "Macro", "two": "Portrait"})
+        text = self.path.read_text()
+        self.assertNotIn("private", text)
+        self.assertNotIn("hidden", text)
+        self.assertNotIn("root", text)
+
+    def test_missing_or_unknown_cache_preserves_known_styles_and_stable_bytes(self):
+        threads = [{"id": "root", "replies": [{"id": "photo", "media_type": "IMAGE"}]}]
+        photo_styles.write_styles(threads, {}, {"photo": "Landscape"})
+        before = self.path.read_bytes()
+        photo_styles.write_styles(threads, {"photo": "Photo type: Unknown"}, photo_styles.load_styles())
+        self.assertEqual(self.path.read_bytes(), before)
+        photo_styles.write_styles([], {}, photo_styles.load_styles())
+        self.assertEqual(photo_styles.load_styles(), {})
+
+    def test_absent_index_is_supported_but_invalid_schema_fails_closed(self):
+        self.assertEqual(photo_styles.load_styles(), {})
+        for data in ([], {"version": True, "styles": {}}, {"version": 2, "styles": {}},
+                     {"version": 1, "styles": {"photo": None}}, {"version": 1, "styles": []}):
+            with self.subTest(data=data):
+                self.path.write_text(json.dumps(data))
+                with self.assertRaises(ValueError):
+                    photo_styles.load_styles()
 
 
 if __name__ == "__main__":

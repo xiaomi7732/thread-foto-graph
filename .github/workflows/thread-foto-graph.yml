@@ -87,6 +87,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # Hosted backup cannot reach the box's loopback Ollama endpoint.
           VISION_PROVIDER: gemini
+          PHOTO_STYLES_PUBLISHER: "1"
           # Variables: everything else (not sensitive on its own, just
           # config) -- set these under Settings -> Secrets and variables ->
           # Actions -> Variables. `||` supplies the same defaults config.py
@@ -130,7 +131,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/needs-reply.md data/needs-like.md data/actions.md data/topics.md data/threads data/history docs/graph.json
+          git add data/needs-reply.md data/needs-like.md data/actions.md data/topics.md data/threads data/history data/photo-styles.json docs/graph.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

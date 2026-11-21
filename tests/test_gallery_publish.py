@@ -56,6 +56,9 @@ class GalleryPublishTests(unittest.TestCase):
             if os.environ.get("GALLERY_TEST_FAIL"):
                 raise SystemExit(2)
             graph = Path("docs/graph.json").read_text(encoding="utf-8")
+            styles = Path("data/photo-styles.json")
+            if styles.exists():
+                graph += styles.read_text(encoding="utf-8")
             Path("calls.log").write_text(graph, encoding="utf-8")
             for path in ("docs/reply-images.html", "docs/reply-images.txt", "data/reply-images.md"):
                 Path(path).write_text(graph, encoding="utf-8")
@@ -119,6 +122,13 @@ class GalleryPublishTests(unittest.TestCase):
         self.assertEqual(
             self.git(self.remote, "show", "main:docs/reply-images.html"), "old graph\n"
         )
+
+    def test_style_only_update_is_regenerated_before_push(self):
+        self.push_upstream("data/photo-styles.json", "new styles\n")
+        result = self.publish()
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        for path in GALLERY_FILES:
+            self.assertEqual(self.git(self.remote, "show", f"main:{path}"), "old graph\nnew styles\n")
 
     def test_generation_failure_does_not_push_stale_gallery(self):
         self.push_upstream("docs/graph.json", "new graph\n")

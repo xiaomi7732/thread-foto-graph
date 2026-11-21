@@ -285,7 +285,8 @@ https://ai.google.dev/gemini-api/docs/models for current model IDs.
    .venv\Scripts\python.exe -u -m src.main
    ```
    Check `data/needs-reply.md`, `data/needs-like.md`, `data/actions.md`,
-   `data/topics.md`, `data/threads/`, `data/history/`, and `docs/graph.json`
+   `data/topics.md`, `data/threads/`, `data/history/`, `data/photo-styles.json`,
+   and `docs/graph.json`
    were created/updated.
 
 ## Obtaining a long-lived Threads token
@@ -840,6 +841,30 @@ copies fall back to its reply link. Copying
 Markdown copies the embed text, not image files. If the browser blocks clipboard
 access, a selected text box lets you copy manually.
 
+Use **Photo styles** to filter by `Photo type` labels. Select multiple
+styles to show any of them, or **Show all styles** to clear the filter. Photos
+without a cached classification remain selectable under **Unknown**. Style filters
+combine with **Show favorites** without changing saved picks. Filters only change
+the view; copy buttons retain their existing all-images/all-favorites behavior.
+Gallery generation reads the published `data/photo-styles.json` first, using
+its local cache only as a fallback, and does not run inference. The normal
+publisher exports this small index from its own cache alongside the graph.
+Only visible reply-photo IDs and classification labels are published: root
+images, hidden branches, credentials, full descriptions, and provider metadata
+are excluded. Previously published labels are retained when another writer's
+cache lacks a classification; entries outside the current visible reply set
+are removed. Style-only updates count as activity for adaptive polling.
+
+Deploy the publisher update on the AI box and let one successful cycle publish
+the index before running the GitHub gallery workflow. This avoids relying on
+the workflow's separate vision cache. An empty or absent index is supported:
+the workflow uses cached labels where available, otherwise **Unknown**.
+Updated publisher wrappers advertise index support internally. If an old Bash
+wrapper auto-pulls the update mid-cycle, Python defers writing the new index
+until a fresh wrapper starts, avoiding an unstaged generated file. Custom
+noninteractive launchers that set `GIT_TERMINAL_PROMPT=0` must also set
+`PHOTO_STYLES_PUBLISHER=1` and include the index in their publication paths.
+
 Click **Favorite** on individual images, then **Show favorites** to review only
 your picks. **Copy favorite image links** copies one link per selected photo,
 including separate links for photos from the same reply.
@@ -869,7 +894,8 @@ secrets, writer concurrency group, and token/vision cache. No additional
 secrets or Pages configuration are needed.
 
 Graph, gallery, and outward runs share a queued writer lock so pending updates are not
-replaced by gallery runs. If an external push changes `docs/graph.json` during
+replaced by gallery runs. If an external push changes `docs/graph.json` or
+`data/photo-styles.json` during
 generation, the gallery workflow regenerates against the new topics before
 retrying publication.
 

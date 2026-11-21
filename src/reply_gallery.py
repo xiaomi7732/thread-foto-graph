@@ -2,12 +2,15 @@
 from __future__ import annotations
 
 import json
+from collections import Counter
 from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
 from urllib.parse import urlsplit
 
 from . import config, threads_client, topic_graph
+from .cache import load_cache
+from .photo_styles import load_styles, photo_style
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
@@ -19,7 +22,9 @@ def _https_url(value: str) -> str:
     return value
 
 
-def collect_gallery(graph: dict) -> list[dict]:
+def collect_gallery(
+    graph: dict, media_cache: dict | None = None, style_index: dict | None = None,
+) -> list[dict]:
     """Refresh media URLs for exactly the roots in the current topic graph."""
     threads = []
     for node in graph["nodes"]:
@@ -54,6 +59,9 @@ def collect_gallery(graph: dict) -> list[dict]:
                         "username": reply.get("username") or "unknown",
                         "text": reply.get("text") or "",
                         "number": index,
+                        "style": (style_index or {}).get(photo["id"]) or photo_style(
+                            (media_cache or {}).get(photo["id"])
+                        ),
                     })
                 walk(reply.get("replies", []))
 
@@ -82,6 +90,20 @@ def _photo_markdown(photo: dict) -> str:
 
 def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
     count = sum(len(thread["photos"]) for thread in threads)
+    labels = {
+        photo.get("style", "Unknown").casefold(): photo.get("style", "Unknown")
+        for thread in threads for photo in thread["photos"]
+    }
+    style_counts = Counter(
+        photo.get("style", "Unknown").casefold()
+        for thread in threads for photo in thread["photos"]
+    )
+    style_filters = "\n".join(
+        f'<label><input type="checkbox" class="style-filter" '
+        f'value="{escape(key, quote=True)}" /> '
+        f'{escape(labels[key])} ({style_counts[key]})</label>'
+        for key in sorted(labels)
+    )
     note = (
         f"Generated {generated}. {count} reply images. Includes answered and "
         "unanswered replies; hidden branches and root-post images are excluded. "
@@ -111,6 +133,7 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
                 continue
             sections.append('<div class="grid">')
             for photo in thread["photos"]:
+                style = photo.get("style", "Unknown")
                 snippet = _photo_markdown(photo)
                 markdown.extend([snippet, ""])
                 username = escape(photo["username"])
@@ -125,11 +148,13 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
                 )
                 sections.append(
                     f'<article data-photo-id="{escape(photo["id"], quote=True)}" '
+                    f'data-photo-style="{escape(style.casefold(), quote=True)}" '
                     f'data-image-url="{escape(photo["url"], quote=True)}" '
                     f'data-reply-url="{escape(photo["reply_url"], quote=True)}">'
                     f'<a class="thumbnail" href="{escape(photo["url"] or photo["reply_url"], quote=True)}">'
                     f'{image}</a><p><strong>@{username}</strong> '
-                    f'&middot; photo {photo["number"]}</p><p class="caption">{caption}</p>'
+                    f'&middot; photo {photo["number"]}</p>'
+                    f'<p class="photo-style">{escape(style)}</p><p class="caption">{caption}</p>'
                     f'<p><a href="{escape(photo["reply_url"], quote=True)}">Reply</a>'
                     '</p>'
                     '<button type="button" class="favorite-toggle" '
@@ -154,7 +179,7 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
     controls = _button("Copy all Markdown", md, "all-markdown")
     controls += _button("Copy all image links", links, "all-links")
     template = (Path(__file__).with_name("reply_gallery.html")).read_text(encoding="utf-8")
-    html = template.replace("{{NOTE}}", escape(note)).replace(
+    html = template.replace("{{NOTE}}", escape(note)).replace("{{STYLE_FILTERS}}", style_filters).replace(
         "{{CONTENT}}", controls + "\n".join(sections)
     )
     return html, md
@@ -164,7 +189,7 @@ def main() -> int:
     graph = json.loads((ROOT_DIR / "docs" / "graph.json").read_text(encoding="utf-8"))
     if graph["nodes"]:
         config.require("THREADS_ACCESS_TOKEN", config.THREADS_ACCESS_TOKEN)
-    threads = collect_gallery(graph)
+    threads = collect_gallery(graph, load_cache(), load_styles(ROOT_DIR / "data" / "photo-styles.json"))
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     html, markdown = render_gallery(threads, generated)
     for relative, content in (

@@ -321,7 +321,7 @@ vision/token caches:
 ```bash
 git stash push --include-untracked -m "AI box smoke outputs before publishing" -- \
   data/needs-reply.md data/needs-like.md data/actions.md data/topics.md \
-  data/threads data/history docs/graph.json
+  data/threads data/history data/photo-styles.json docs/graph.json
 git status --short
 ```
 
@@ -457,6 +457,13 @@ The helper waits for any active cycle to finish before restarting the user
 service, then shows its status and recent journal messages. It does not update
 the checkout, change service settings, or restart Ollama. Keep the checkout
 clean as required for normal publishing.
+
+The publisher also writes `data/photo-styles.json` from the private media
+cache and publishes it with the graph. It contains only classifications for
+visible reply-photo IDs, not credentials or full cached descriptions. After
+deploying this update, let a successful cycle push the index before generating
+the gallery through GitHub Actions. The gallery uses these published labels
+before its own separate cache; missing cache entries do not erase known labels.
 
 Outside protected mornings, quiet-period activity may wait 30 minutes plus
 processing; protected mornings target roughly five minutes plus processing.

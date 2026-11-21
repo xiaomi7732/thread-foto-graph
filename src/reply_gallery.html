@@ -15,6 +15,9 @@
     .favorite-toggle[aria-pressed="true"] { background: #fff0bd; }
     [hidden] { display: none !important; }
     .favorites-toolbar { padding: 8px; background: #f4f4f4; border-radius: 8px; }
+    .styles-toolbar { margin: 16px 0; }
+    .styles-toolbar label { display: inline-block; margin: 4px 12px 4px 0; }
+    .photo-style { color: #555; font-size: 0.9em; }
     .thumbnail { display: flex; align-items: center; justify-content: center; height: 180px; background: #f4f4f4; }
     .thumbnail img { max-width: 100%; max-height: 180px; object-fit: contain; }
     .caption { max-height: 5em; overflow: auto; white-space: pre-wrap; }
@@ -27,6 +30,13 @@
   <h1>Reply image gallery</h1>
   <p>{{NOTE}}</p>
   <p>Click a thumbnail to open that image; use Reply to open its conversation. Markdown copies include linked thumbnails, not image files. Image links can expire; rerun the gallery action to refresh them. If an image URL is missing, copies use its reply link instead.</p>
+  <fieldset class="styles-toolbar">
+    <legend>Photo styles</legend>
+    {{STYLE_FILTERS}}
+    <button type="button" id="clear-styles" disabled>Show all styles</button>
+    <p>Styles come from cached Photo type labels; uncached or unclassified photos are Unknown. Select any matching styles, or none to show all. Filters only change the view; copy buttons still include all their images.</p>
+    <span id="visible-count" role="status" aria-live="polite"></span>
+  </fieldset>
   <div class="favorites-toolbar" role="group" aria-label="Favorites">
     <span id="favorite-count" role="status" aria-live="polite">0 favorites</span>
     <button type="button" id="favorite-view" aria-pressed="false">Show favorites</button>
@@ -38,12 +48,15 @@
   <p id="status" role="status" aria-live="polite"></p>
   <textarea id="manual-copy" aria-label="Copy manually" hidden readonly></textarea>
   <p id="no-favorites" hidden>No favorites in this gallery. Choose Show all images to start picking.</p>
+  <p id="no-style-matches" hidden>No images match the selected photo styles. Choose Show all styles to clear the filter.</p>
   <main>{{CONTENT}}</main>
   <script>
     const storageKey = 'thread-foto-graph:reply-image-favorites:v1';
     const favorites = new Set();
     const pendingFavoriteChanges = [];
     const cards = [...document.querySelectorAll('article[data-reply-url]')];
+    const styleFilters = [...document.querySelectorAll('.style-filter')];
+    const clearStyles = document.getElementById('clear-styles');
     const favoriteView = document.getElementById('favorite-view');
     const copyFavorites = document.getElementById('copy-favorites');
     const resetFavorites = document.getElementById('reset-favorites');
@@ -133,26 +146,38 @@
     }
 
     function updateFavorites() {
+      const selectedStyles = new Set(styleFilters.filter(input => input.checked).map(input => input.value));
+      const filtering = favoritesOnly || selectedStyles.size > 0;
       const selectedCards = cards.filter(card => favorites.has(card.dataset.photoId));
       cards.forEach(card => {
         const selected = favorites.has(card.dataset.photoId);
         card.classList.toggle('favorite', selected);
-        card.hidden = favoritesOnly && !selected;
+        card.hidden = (favoritesOnly && !selected) ||
+          (selectedStyles.size > 0 && !selectedStyles.has(card.dataset.photoStyle || 'unknown'));
         const button = card.querySelector('.favorite-toggle');
         button.setAttribute('aria-pressed', String(selected));
         button.textContent = selected ? 'Favorited' : 'Favorite';
         button.setAttribute('aria-disabled', String(savingFavorites));
       });
       document.querySelectorAll('.gallery-thread').forEach(thread => {
-        thread.hidden = favoritesOnly && ![...thread.querySelectorAll('article')].some(card => favorites.has(card.dataset.photoId));
+        thread.hidden = filtering && ![...thread.querySelectorAll('article')].some(card => !card.hidden);
       });
       document.querySelectorAll('.gallery-topic').forEach(topic => {
-        topic.hidden = favoritesOnly && ![...topic.querySelectorAll('.gallery-thread')].some(thread => !thread.hidden);
+        topic.hidden = filtering && ![...topic.querySelectorAll('.gallery-thread')].some(thread => !thread.hidden);
       });
       document.getElementById('favorite-count').textContent =
         `${selectedCards.length} favorite${selectedCards.length === 1 ? '' : 's'}` +
         (favorites.size > selectedCards.length ? ` (${favorites.size - selectedCards.length} saved picks not in this gallery)` : '');
-      document.getElementById('no-favorites').hidden = !favoritesOnly || selectedCards.length > 0;
+      const visibleCount = cards.filter(card => !card.hidden).length;
+      document.getElementById('visible-count').textContent = `${visibleCount} of ${cards.length} images shown`;
+      clearStyles.disabled = selectedStyles.size === 0;
+      document.getElementById('no-style-matches').hidden =
+        favoritesOnly || selectedStyles.size === 0 || visibleCount > 0;
+      const noFavorites = document.getElementById('no-favorites');
+      noFavorites.hidden = !favoritesOnly || visibleCount > 0;
+      noFavorites.textContent = selectedCards.length > 0
+        ? 'No favorites match the selected photo styles. Choose Show all styles to see your picks.'
+        : 'No favorites in this gallery. Choose Show all images to start picking.';
       favoriteView.setAttribute('aria-pressed', String(favoritesOnly));
       favoriteView.textContent = favoritesOnly ? 'Show all images' : 'Show favorites';
       copyFavorites.disabled = selectedCards.length === 0;
@@ -173,6 +198,12 @@
     document.addEventListener('click', async event => {
       const button = event.target.closest('button');
       if (!button) return;
+      if (button === clearStyles) {
+        styleFilters.forEach(input => { input.checked = false; });
+        clearCopyState();
+        updateFavorites();
+        return;
+      }
       if (savingFavorites && (button.classList.contains('favorite-toggle') || button === resetFavorites)) return;
       if (button.classList.contains('favorite-toggle')) {
         const card = button.closest('article');
@@ -211,6 +242,11 @@
         manual.select();
         status.textContent = 'Clipboard unavailable. Copy the selected text manually (Ctrl+C or Cmd+C).';
       }
+    });
+    document.addEventListener('change', event => {
+      if (!styleFilters.includes(event.target)) return;
+      clearCopyState();
+      updateFavorites();
     });
     window.addEventListener('storage', event => {
       if (!savingFavorites && (event.key === storageKey || event.key === null)) {

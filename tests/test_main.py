@@ -41,6 +41,9 @@ class MainIterationTests(unittest.TestCase):
             self.describe,
         ) = self.mocks
         self.describe.return_value = (0, False, 0, 0, 0)
+        self.enterContext(patch.object(main.photo_styles, "load_styles", return_value={}))
+        self.enterContext(patch.dict(os.environ, {"PHOTO_STYLES_PUBLISHER": "1"}))
+        self.export_styles = self.enterContext(patch.object(main.photo_styles, "write_styles"))
 
     def stop_patches(self):
         for patcher in reversed(self.patches):
@@ -58,6 +61,7 @@ class MainIterationTests(unittest.TestCase):
         self.assertEqual(self.collect.call_count, 3)
         self.assertEqual(self.describe.call_count, 10)
         self.build_graph.assert_called_once_with(latest_threads)
+        self.export_styles.assert_called_once_with(latest_threads, {}, {})
 
     def test_honors_iteration_cap(self):
         main.config.MAX_ITERATIONS = 2
@@ -130,6 +134,7 @@ class ContinuousMainTests(unittest.TestCase):
         self.root = Path(self.directory)
         self.status = self.root / "cache" / "continuous-cycle.json"
         self.enterContext(patch.dict(os.environ, {"CONTINUOUS_CYCLE_ID": "current"}))
+        self.enterContext(patch.dict(os.environ, {"PHOTO_STYLES_PUBLISHER": "1"}))
         self.enterContext(patch.multiple(
             main.config, THREADS_ACCESS_TOKEN="private", THREADS_USERNAME="owner",
             VISION_PROVIDER="ollama", MAX_ITERATIONS=3,
@@ -140,6 +145,7 @@ class ContinuousMainTests(unittest.TestCase):
         self.enterContext(patch.object(main, "VisionRetry", side_effect=lambda: VisionRetry(self.root / "cache" / "retry.json")))
         self.enterContext(patch.object(main, "load_cache", return_value={}))
         self.enterContext(patch.object(main, "save_cache"))
+        self.enterContext(patch.object(main.photo_styles, "STYLE_PATH", self.root / "data" / "photo-styles.json"))
         paths = {
             "NEEDS_REPLY_MD_PATH": self.root / "data" / "needs-reply.md",
             "NEEDS_LIKE_MD_PATH": self.root / "data" / "needs-like.md",
@@ -218,6 +224,30 @@ class ContinuousMainTests(unittest.TestCase):
         path.write_text("{bad")
         self.assertEqual(main.main(), 1)
         self.assertFalse(self.status.exists())
+
+    def test_corrupt_public_style_index_stops_before_collection_and_rendering(self):
+        path = self.root / "data" / "photo-styles.json"
+        path.parent.mkdir()
+        path.write_text('{"version":1,"styles":{"photo":null}}')
+        self.assertEqual(main.main(), 1)
+        self.collect.assert_not_called()
+        self.assertFalse((self.root / "docs" / "graph.json").exists())
+
+    def test_legacy_auto_updating_wrapper_leaves_new_index_untouched(self):
+        path = self.root / "data" / "photo-styles.json"
+        path.parent.mkdir()
+        path.write_bytes(b'{"version": 1, "styles": {}}\n')
+        before = path.read_bytes()
+        with patch.dict(os.environ, {
+            "GIT_TERMINAL_PROMPT": "0", "PHOTO_STYLES_PUBLISHER": "",
+        }):
+            self.assertEqual(main.main(), 0)
+            self.assertEqual(path.read_bytes(), before)
+        with patch.dict(os.environ, {
+            "GIT_TERMINAL_PROMPT": "0", "PHOTO_STYLES_PUBLISHER": "1",
+        }):
+            self.assertEqual(main.main(), 0)
+            self.assertNotEqual(path.read_bytes(), before)
 
 
 if __name__ == "__main__":

@@ -71,6 +71,7 @@ fi
 
 # The Python deadline leaves time to render outputs; this is a hard backstop.
 phase=pipeline
+export PHOTO_STYLES_PUBLISHER=1
 pipeline_status=0
 timeout --signal=TERM --kill-after=30s "${PIPELINE_TIMEOUT_SECONDS:-3000}s" \
   "$python" -u -m src.main || pipeline_status=$?
@@ -88,7 +89,7 @@ fi
 
 phase=git
 run_git add -- data/needs-reply.md data/needs-like.md data/actions.md data/topics.md \
-  data/threads data/history docs/graph.json
+  data/threads data/history data/photo-styles.json docs/graph.json
 if run_git diff --cached --quiet; then
   echo "No output changes to publish."
   exit 0

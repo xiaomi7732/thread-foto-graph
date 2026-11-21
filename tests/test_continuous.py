@@ -75,6 +75,16 @@ class CycleContractTests(unittest.TestCase):
                 with self.assertRaises(PermissionError):
                     continuous.live_hashes(root)
 
+    def test_style_only_updates_are_live_activity(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "data").mkdir()
+            styles = root / "data" / "photo-styles.json"
+            styles.write_text('{"version":1,"styles":{}}')
+            before = continuous.live_hashes(root)
+            styles.write_text('{"version":1,"styles":{"photo":"Macro"}}')
+            self.assertNotEqual(continuous.live_hashes(root), before)
+
     @patch.dict(os.environ, {"CONTINUOUS_CYCLE_ID": "test"})
     def test_collection_and_refresh_classification_and_schema_validation(self):
         with patch.object(threads_auth, "get_valid_access_token", return_value="private"):

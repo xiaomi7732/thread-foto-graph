@@ -61,13 +61,13 @@ jobs:
           git commit -m "Update reply image gallery"
           for attempt in 1 2 3 4 5; do
             git fetch origin main
-            graph_changed=false
-            if ! git diff --quiet HEAD origin/main -- docs/graph.json; then
-              graph_changed=true
+            inputs_changed=false
+            if ! git diff --quiet HEAD origin/main -- docs/graph.json data/photo-styles.json; then
+              inputs_changed=true
             fi
             git rebase origin/main
-            if [ "$graph_changed" = true ]; then
-              echo "Topics changed upstream; regenerating the gallery before publishing."
+            if [ "$inputs_changed" = true ]; then
+              echo "Topics or photo styles changed upstream; regenerating the gallery before publishing."
               python -m src.reply_gallery
               git add docs/reply-images.html docs/reply-images.txt data/reply-images.md
               if ! git diff --cached --quiet; then

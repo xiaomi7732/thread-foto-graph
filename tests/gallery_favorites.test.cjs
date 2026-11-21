@@ -47,7 +47,11 @@ function tab(shared, options = {}) {
   for (const id of [
     'favorite-view', 'copy-favorites', 'reset-favorites', 'status',
     'manual-copy', 'storage-status', 'favorite-count', 'no-favorites',
+    'clear-styles', 'visible-count', 'no-style-matches',
   ]) elements[id] = button();
+  const styleFilters = ['landscape', 'portrait', 'unknown'].map(value => ({
+    value, checked: false,
+  }));
   const cards = ['a', 'b'].map(id => {
     const favoriteButton = button(true);
     const card = {
@@ -55,6 +59,7 @@ function tab(shared, options = {}) {
         photoId: id,
         replyUrl: 'https://example.com/reply',
         imageUrl: `https://example.com/${id}`,
+        photoStyle: options.photoStyles?.[id] || (id === 'a' ? 'landscape' : 'portrait'),
       },
       hidden: false,
       classList: { toggle() {} },
@@ -84,6 +89,7 @@ function tab(shared, options = {}) {
         '.gallery-thread': [thread],
         '.gallery-topic': [topic],
         '.thumbnail img': [],
+        '.style-filter': styleFilters,
       })[selector],
       addEventListener: (event, handler) => { handlers[event] = handler; },
     },
@@ -104,14 +110,61 @@ function tab(shared, options = {}) {
     return handlers.click({ target });
   };
   return {
-    flags, elements, cards,
+    flags, elements, cards, thread, topic,
     favorite: id => click(cards.find(card => card.dataset.photoId === id).querySelector()),
     reset: () => click(elements['reset-favorites']),
     copy: () => click(elements['copy-favorites']),
+    viewFavorites: () => click(elements['favorite-view']),
+    clearStyles: () => click(elements['clear-styles']),
+    filter: value => {
+      const input = styleFilters.find(input => input.value === value);
+      input.checked = !input.checked;
+      return handlers.change({ target: input });
+    },
     synchronize: () => handlers.storage({ key }),
     selected: () => JSON.parse(vm.runInContext('JSON.stringify([...favorites].sort())', context)),
   };
 }
+
+test('style filters match any selected style and clearing restores the gallery', async () => {
+  const a = tab(sharedState());
+  await a.filter('landscape');
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, true]);
+  assert.equal(a.elements['visible-count'].textContent, '1 of 2 images shown');
+  await a.filter('portrait');
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, false]);
+  await a.filter('unknown');
+  await a.filter('landscape');
+  await a.filter('portrait');
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, true]);
+  assert.equal(a.thread.hidden, true);
+  assert.equal(a.topic.hidden, true);
+  assert.equal(a.elements['no-style-matches'].hidden, false);
+  await a.clearStyles();
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, false]);
+  assert.equal(a.thread.hidden, false);
+  assert.equal(a.topic.hidden, false);
+});
+
+test('style filtering intersects favorites without changing saved picks', async () => {
+  const shared = sharedState(['a']);
+  const a = tab(shared);
+  await a.viewFavorites();
+  await a.filter('portrait');
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, true]);
+  assert.equal(a.elements['no-favorites'].hidden, false);
+  assert.match(a.elements['no-favorites'].textContent, /No favorites match/);
+  assert.equal(a.elements['no-style-matches'].hidden, true);
+  assert.deepEqual(shared.saved(), ['a']);
+  await a.clearStyles();
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, true]);
+});
+
+test('unknown style keeps uncached photos selectable', async () => {
+  const a = tab(sharedState(), { photoStyles: { a: 'unknown' } });
+  await a.filter('unknown');
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, true]);
+});
 
 test('concurrent additions preserve both picks and picks absent from both galleries', async () => {
   const shared = sharedState(['absent']);

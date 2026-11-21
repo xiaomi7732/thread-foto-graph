@@ -92,7 +92,7 @@ class LinuxRunnerTests(unittest.TestCase):
         for path in (
             "data/needs-reply.md", "data/needs-like.md", "data/actions.md",
             "data/topics.md", "data/threads/.gitkeep", "data/history/.gitkeep",
-            "docs/graph.json",
+            "docs/graph.json", "data/photo-styles.json",
         ):
             self.write(path, "")
         self.git("add", ".")
@@ -105,6 +105,9 @@ class LinuxRunnerTests(unittest.TestCase):
         self.write("test-bin/sleep", "#!/usr/bin/env bash\nexit 0\n")
         self.write(".venv/bin/python", """#!/usr/bin/env bash
 printf 'retained' > cache/media_cache.json
+if [[ -n "${TEST_REQUIRE_STYLES_CAPABILITY:-}" && "${PHOTO_STYLES_PUBLISHER:-}" != 1 ]]; then
+  exit 42
+fi
 if [[ -n "${TEST_PIPELINE_FAIL:-}" ]]; then exit 7; fi
 if [[ -n "${TEST_OTHER:-}" ]]; then
   printf 'remote change' > "$TEST_OTHER/data/needs-reply.md"
@@ -114,6 +117,9 @@ if [[ -n "${TEST_OTHER:-}" ]]; then
 fi
 if [[ -n "${TEST_CHANGE:-}" ]]; then
   printf '%s' "$TEST_CHANGE" > data/needs-reply.md
+fi
+if [[ -n "${TEST_STYLES:-}" ]]; then
+  printf '%s' "$TEST_STYLES" > data/photo-styles.json
 fi
 """)
 
@@ -179,6 +185,37 @@ fi
         self.assertEqual(changed, ["data/needs-reply.md"])
         self.assertEqual(self.git("rev-parse", "origin/main").stdout.strip(), self.head())
         self.assertTrue((self.repo / "cache/media_cache.json").exists())
+
+    def test_style_only_change_is_published_without_the_private_cache(self):
+        result = self.run_script(
+            "--publish", TEST_STYLES='{"version":1,"styles":{"photo":"Macro"}}',
+            TEST_REQUIRE_STYLES_CAPABILITY="1",
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        changed = self.git("diff-tree", "--no-commit-id", "--name-only", "-r", "HEAD").stdout.splitlines()
+        self.assertEqual(changed, ["data/photo-styles.json"])
+        self.assertEqual(self.git("rev-parse", "origin/main").stdout.strip(), self.head())
+
+    @unittest.skipUnless(os.name == "nt" and (shutil.which("pwsh") or shutil.which("powershell")),
+                         "Windows PowerShell is required")
+    def test_windows_publisher_commits_style_only_changes_without_the_private_cache(self):
+        source = (ROOT / "run_daily.ps1").read_text(encoding="utf-8")
+        publish = "git add" + source.split("\ngit add", 1)[1]
+        self.write("publish.ps1", '$ErrorActionPreference = "Stop"\nSet-Location $PSScriptRoot\n' + publish)
+        updated = '{"version":1,"styles":{"photo":"Landscape"}}'
+        self.write("data/photo-styles.json", updated)
+        self.write("cache/media_cache.json", "private cache")
+        result = subprocess.run(
+            [shutil.which("pwsh") or shutil.which("powershell"),
+             "-NoProfile", "-NonInteractive", "-File", str(self.repo / "publish.ps1")],
+            cwd=self.repo, capture_output=True, text=True, timeout=30,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertEqual(
+            self.git("show", "origin/main:data/photo-styles.json").stdout.strip(), updated,
+        )
+        changed = self.git("diff-tree", "--no-commit-id", "--name-only", "-r", "HEAD").stdout.splitlines()
+        self.assertEqual(changed, ["data/photo-styles.json"])
 
     def test_rejected_push_retains_commit_and_refuses_another_pipeline_run(self):
         hook = self.remote / "hooks" / "pre-receive"

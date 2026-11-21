@@ -2,17 +2,18 @@
 
 Intended to run on a schedule (see README for Task Scheduler setup). After
 this script finishes, the caller (scheduled wrapper) commits & pushes
-data/needs-reply.md, data/needs-like.md, data/actions.md, data/topics.md and
-docs/graph.json so GitHub Pages and Muse
+data/needs-reply.md, data/needs-like.md, data/actions.md, data/topics.md,
+data/photo-styles.json and docs/graph.json so GitHub Pages and Muse
 can read them.
 """
 from __future__ import annotations
 
 import datetime as dt
+import os
 import sys
 import time
 
-from . import config, threads_client, topic_graph, vision, continuous
+from . import config, threads_client, topic_graph, vision, continuous, photo_styles
 from .cache import load_cache, save_cache
 from .vision_retry import VisionRetry
 
@@ -45,6 +46,7 @@ def run() -> int:
     before_outputs = continuous.live_hashes() if mode else None
 
     cache = load_cache()
+    previous_styles = photo_styles.load_styles()
     state = vision.VisionRun(retry=VisionRetry() if mode else None)
     started = time.monotonic()
     if config.VISION_PROVIDER == "auto" and not config.GEMINI_API_KEY:
@@ -209,6 +211,15 @@ def run() -> int:
     )
 
     graph = topic_graph.build_topic_graph(threads)
+    if (
+        os.environ.get("GIT_TERMINAL_PROMPT") == "0"
+        and os.environ.get("PHOTO_STYLES_PUBLISHER") != "1"
+    ):
+        # An old wrapper may pull new Python code while retaining its old staging list.
+        print("Photo-style export deferred until an updated publisher wrapper starts.", flush=True)
+    else:
+        photo_styles.write_styles(threads, cache, previous_styles)
+        print("Wrote data/photo-styles.json.", flush=True)
     if mode:
         media_ids = {
             photo["id"]
