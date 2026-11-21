@@ -94,7 +94,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A single tree on a bare hill, and the gray sky giving it al…_
 - **ameliapraise42**: Hey dear hope you're having a great day 😊 Always up for a good chat and meeting new people. If you're keen, say hello on Telegram 💬 t.me/amelia91 ([link](https://www.threads.com/@ameliapraise42/post/Df_JMJYJS5p))
   - _Replying to: No, it was on a trip to Sth Australia, my home state._
-- **js.newberry**: Tiger Eye. Botanists recently reclassified this species from its historical name, Abutilon pictum, to Callianthe picta. ([link](https://www.threads.com/@js.newberry/post/Df_OjU8FTnV))
+- **js.newberry**: Tiger Eye. A friend of mine told me that botanists recently reclassified this species from its historical name, Abutilon pictum, to Callianthe picta. ([link](https://www.threads.com/@js.newberry/post/Df_OjU8FTnV))
   - _Replying to: One red lantern flower hanging down, lit like a little lamp…_
 - **lindascates2012**: Just snow on the poppy pods. ([link](https://www.threads.com/@lindascates2012/post/Df_JsU9mIpP))
   - _Replying to: Dried stems with snow on top, standing up against the dark.…_
