@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (185)
+## Needs Reply (184)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **syldelteglia**: Congrats! You deserve this and more 🎉🎉 ([link](https://www.threads.com/@syldelteglia/post/DgA7u-blkjG))
@@ -13,12 +13,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Thank you Dee! Have a good weekend!_
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
-- **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
-  - _Replying to: @camaze The middle of the Minimal Friday favorites is your …_
 - **rickthomas742**: lol I know. The plane is the star (pun intended!). 😉 ([link](https://www.threads.com/@rickthomas742/post/DgAwBq6GDJS))
   - _Replying to: Decent shot! I am glad you didn’t crop the plane out 👍_
-- **asutris**: Just caught mid-peek. 😄 ([link](https://www.threads.com/@asutris/post/Df_1h8TGEQU))
-  - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **isadoralovesscarves**:  ([link](https://www.threads.com/@isadoralovesscarves/post/DgAjPF2iqLH))
@@ -65,6 +61,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One pylon, one break in the clouds, and the light doing all…_
 - **janethopkins365**: Well funnily enough he quite likes me, so he sits still, about 15 minutes after this photo he put his head into my neck, it was so sweet. He did run away (fly) once the same year as the photos, thankfully he was found he was very hungry but he’d managed to unearth a mouse. Odin and other birds are cared for in a sanctuary they were either abandoned or injured, there are quite a few owls of different makes. ([link](https://www.threads.com/@janethopkins365/post/DgAnfbDkYw7))
   - _Replying to: Odin's orange eyes are doing all the staring here - the res…_
+- **alanbillings61**: i was on awalk. the yellow dots are Cowslips, thousands of them. ([link](https://www.threads.com/@alanbillings61/post/DgBNkKCiJ8L))
+  - _Replying to: A whole field of yellow dots under a grey sky, hills rollin…_
 - **mcveyclicks**: Unfortunately the only way to go into Antelope Canyon is to be part of a tour group, so we weren’t down there too long. ([link](https://www.threads.com/@mcveyclicks/post/DgAi9FaFZHF))
   - _Replying to: That red rock folding in on itself, light slipping down the…_
 - **greyhound_2025**: Lone swan was the first ([link](https://www.threads.com/@greyhound_2025/post/DgBEv_NCBG7))

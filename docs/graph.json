@@ -151,7 +151,7 @@
         "",
         ""
       ],
-      "reply_count": 14,
+      "reply_count": 16,
       "replies": [
         {
           "username": "valgal7148",
@@ -218,10 +218,21 @@
               "text": "Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John\u2019s River especially at sunset.",
               "permalink": "https://www.threads.com/@camaze/post/DgAOIdQkclR",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "A place worth returning to, and a photo worth keeping. Thanks for sharing it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgBORv_oBFs",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -282,10 +293,21 @@
               "text": "Just caught mid-peek. \ud83d\ude04",
               "permalink": "https://www.threads.com/@asutris/post/Df_1h8TGEQU",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "That mid-peek is pure joy - thanks for sharing it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgBOS-YFLlx",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -314,7 +336,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1226,
+      "reply_count": 1227,
       "replies": [
         {
           "username": "isadoralovesscarves",
@@ -1087,7 +1109,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "alanbillings61",
+                  "text": "i was on awalk. the yellow dots are Cowslips, thousands of them.",
+                  "permalink": "https://www.threads.com/@alanbillings61/post/DgBNkKCiJ8L",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
