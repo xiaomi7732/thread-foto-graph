@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (180)
+## Needs Reply (183)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
 - **kayseamc**:  ([link](https://www.threads.com/@kayseamc/post/Df_jHw_lGu1))
@@ -52,6 +52,13 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A peacock stands on a grassy slope in the mid-ground, with a cluster of bright orange lilies in the foreground right. Behind them are large, leafy trees lining the slope. Photograph read: The image has a shallow depth of field, with the foreground lilies in focus and the peacock slightly softer. Lighting is even and diffused, suggesting an overcast day or shaded area. The image has a natural color balance with no visible color cast or exposure issues. Photo type: Natural
 - **mummabear1963v**: My front porch light ([link](https://www.threads.com/@mummabear1963v/post/Df-z7KsEtEb))
   - _Replying to: A palm frond lit up against the night, with everything else…_
+- **herman.terhorst.14**: The only black one ([link](https://www.threads.com/@herman.terhorst.14/post/Df_lcHxDast))
+  - _Replying to: A dark sheep on the hilltop, drawn against all that blue li…_
+- **herman.terhorst.14**:  ([link](https://www.threads.com/@herman.terhorst.14/post/Df_lXmyDQqI))
+  - Photo: Description: A flock of sheep grazes on a grassy embankment beside a body of water, with a narrow path and fence running along the crest; a single black sheep is visible near the water’s edge. Photograph read: The image is taken in bright, even daylight with a wide field of view; the foreground sheep are in focus, while the background shows a hazy, misty water surface and distant land; the grassy slope is rendered with natural color and texture. Photo type: Landscape
+  - _Replying to: A dark sheep on the hilltop, drawn against all that blue li…_
+- **herman.terhorst.14**: It was one of a flock on a dike ([link](https://www.threads.com/@herman.terhorst.14/post/Df_lUFijcpI))
+  - _Replying to: A dark sheep on the hilltop, drawn against all that blue li…_
 - **mix4tv**:  ([link](https://www.threads.com/@mix4tv/post/Df-h-8iG3V3))
   - Photo: Description: The photograph shows a porch with white railings and dark siding, featuring a large window with a view into a warmly lit interior room containing a lamp, bottles, and a small plant. A stroller and a jacket are visible on the porch. Photograph read: The image is taken from a slightly elevated angle, with sunlight casting strong highlights on the window and interior. The window glass reflects some ambient light, reducing interior detail. The foreground shows out-of-focus shrubbery. Photo type: Natural daylight portrait
     - Watch-outs: - Interior details through the window are obscured by reflections and glare, limiting readability of objects inside. - Foreground shrubbery is out of focus, reducing sharpness and detail in the lower portion of the frame.

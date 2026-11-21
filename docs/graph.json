@@ -13,7 +13,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1033,
+      "reply_count": 1036,
       "replies": [
         {
           "username": "kayseamc",
@@ -5063,7 +5063,40 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "herman.terhorst.14",
+                  "text": "The only black one",
+                  "permalink": "https://www.threads.com/@herman.terhorst.14/post/Df_lcHxDast",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "herman.terhorst.14",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@herman.terhorst.14/post/Df_lXmyDQqI",
+                  "photos": [
+                    "Description: A flock of sheep grazes on a grassy embankment beside a body of water, with a narrow path and fence running along the crest; a single black sheep is visible near the water\u2019s edge. Photograph read: The image is taken in bright, even daylight with a wide field of view; the foreground sheep are in focus, while the background shows a hazy, misty water surface and distant land; the grassy slope is rendered with natural color and texture. Photo type: Landscape"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "herman.terhorst.14",
+                  "text": "It was one of a flock on a dike",
+                  "permalink": "https://www.threads.com/@herman.terhorst.14/post/Df_lUFijcpI",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
