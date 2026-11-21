@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 904,
+      "reply_count": 908,
       "replies": [
+        {
+          "username": "carolann0803",
+          "text": "",
+          "permalink": "https://www.threads.com/@carolann0803/post/Df_Qacumlgj",
+          "photos": [
+            "Description: A white heron with a long neck and yellow beak stands at the water\u2019s edge, partially submerged, with a grassy bank in the foreground and a rippling body of water behind it. Photograph read: The image is composed with the heron centered slightly to the right, against a background of water and grass. Lighting is bright and even, suggesting daylight. The image exhibits a uniform, fine-grained texture across the entire frame, indicating a digital artifact or compression artifact. Photo type: Digital"
+          ],
+          "watch_outs": [
+            "The entire image appears uniformly blurred, with fine detail indistinct across all subjects, including the heron\u2019s feathers and the grass texture. The water surface shows no sharp ripples or reflections, indicating a lack of resolution or focus."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "johnnycerveza64",
           "text": "",
@@ -1441,6 +1456,16 @@
           "hidden": false,
           "replies": [
             {
+              "username": "simonjpugh",
+              "text": "Consent withdrawn.",
+              "permalink": "https://www.threads.com/@simonjpugh/post/Df_Q07mCi_q",
+              "photos": [],
+              "needs_response": true,
+              "action": "like",
+              "hidden": false,
+              "replies": []
+            },
+            {
               "username": "saars.foto",
               "text": "A black and white pier in the rain, with the water going soft all around it. Was the rain still falling when you took this?",
               "permalink": "https://www.threads.com/@saars.foto/post/Df_H_e1DWX4",
@@ -1600,7 +1625,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sherrycatonmason",
+                  "text": "It\u2019s a blue heron and he\u2019s has several spots on the lake where he hangs out. We rarely have fog so I was so pleased to get this photo. The dam is one of his hangouts. It\u2019s usually not a compelling shot but the fog gave it atmosphere !",
+                  "permalink": "https://www.threads.com/@sherrycatonmason/post/Df_QwY2mljf",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5697,7 +5733,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "rajeshwar8380",
+                  "text": "I guess no...",
+                  "permalink": "https://www.threads.com/@rajeshwar8380/post/Df_Q825Eyck",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

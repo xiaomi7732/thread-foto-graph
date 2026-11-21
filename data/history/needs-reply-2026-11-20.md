@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (222)
+## Needs Reply (225)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **carolann0803**:  ([link](https://www.threads.com/@carolann0803/post/Df_Qacumlgj))
+  - Photo: Description: A white heron with a long neck and yellow beak stands at the water’s edge, partially submerged, with a grassy bank in the foreground and a rippling body of water behind it. Photograph read: The image is composed with the heron centered slightly to the right, against a background of water and grass. Lighting is bright and even, suggesting daylight. The image exhibits a uniform, fine-grained texture across the entire frame, indicating a digital artifact or compression artifact. Photo type: Digital
+    - Watch-outs: The entire image appears uniformly blurred, with fine detail indistinct across all subjects, including the heron’s feathers and the grass texture. The water surface shows no sharp ripples or reflections, indicating a lack of resolution or focus.
 - **johnnycerveza64**:  ([link](https://www.threads.com/@johnnycerveza64/post/Df_QL8RG1AS))
   - Photo: Description: A dark-colored bird, likely an American robin, is perched on a bare tree branch against a pale, overcast sky. The bird faces right, with its head slightly turned. Photograph read: The image is composed with diagonal branches crossing the frame, and the bird is the central subject. Lighting is flat and diffuse, with no strong shadows or highlights. The bird and branches are rendered in silhouette, with minimal visible texture or color detail. Photo type: Silhouette
     - Watch-outs: The bird’s head and beak are indistinct due to silhouette against the sky; no fine feather detail is visible. The bird’s underbelly shows a faint reddish-brown patch, but it is not clearly defined.
@@ -103,6 +106,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Dried stems with snow on top, standing up against the dark.…_
 - **a_deeper_place**: It’s an old section of track on the northern Oregon coast. ([link](https://www.threads.com/@a_deeper_place/post/Df_Jys5mIyO))
   - _Replying to: Two rails running straight into the trees, and nothing else…_
+- **sherrycatonmason**: It’s a blue heron and he’s has several spots on the lake where he hangs out. We rarely have fog so I was so pleased to get this photo. The dam is one of his hangouts. It’s usually not a compelling shot but the fog gave it atmosphere ! ([link](https://www.threads.com/@sherrycatonmason/post/Df_QwY2mljf))
+  - _Replying to: A tiny bird in all that fog, barely there over the water. D…_
 - **www1ceman**: It nests nearby at Five Rivers Environmental Education Center, and hangs out there frequently. ([link](https://www.threads.com/@www1ceman/post/Df_InNPGp_1))
   - _Replying to: A bluebird sitting on its own street sign - it could not ha…_
 - **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
@@ -158,6 +163,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
+- **rajeshwar8380**: I guess no... ([link](https://www.threads.com/@rajeshwar8380/post/Df_Q825Eyck))
+  - _Replying to: A bird dropping into the water, wings folded, with the whol…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
