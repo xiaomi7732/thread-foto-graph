@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (231)
+## Needs Reply (233)
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - **camaze**: Thank you so much! I no longer live in Florida where this was taken. But when I visit, I always return to the St John’s River especially at sunset. ([link](https://www.threads.com/@camaze/post/DgAOIdQkclR))
@@ -17,6 +17,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @asutris Slide five of the Minimal Friday favorites is your…_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **b_tricia**:  ([link](https://www.threads.com/@b_tricia/post/DgATjv1G82u))
+  - Photo: Description: A solitary, leafless tree stands on a grassy, rocky hillside under a uniformly gray, overcast sky. The tree’s branches are bare and spread outward, with a smaller, similar tree visible to its right. Photograph read: The image is in black and white, with a flat, diffuse lighting condition. The sky is a solid gray with no visible texture or detail. The foreground hillside shows grass and scattered rocks, but lacks sharp definition. The tree’s form is visible as a silhouette against the sky, with no discernible texture or depth in the branches. Photo type: Black and white landscape
+- **keywestsnapshots**: And Butterflies are free to fly Fly away, bye bye. 🦋 ([link](https://www.threads.com/@keywestsnapshots/post/DgATa4BHCaL))
+  - Photo: Description: A butterfly with black and yellow wings is perched on a bright red flower with a yellow center, set against a blue sky with scattered clouds and tree branches in the background. Photograph read: The image is taken from a low angle, with the butterfly and flower in the foreground. Lighting is natural daylight, and the image appears in focus, though the background foliage is slightly out of focus. The sky is clear with minimal cloud cover. Photo type: Nature photography
 - **ariffkodri**: Sometime we will ask ourselves , is it worth it ? ([link](https://www.threads.com/@ariffkodri/post/DgAQpwOoBqK))
   - Photo: Description: A small boat with a canopy and poles is moving across choppy water, with distant, hazy mountains and a cloudy sky in the background; two birds are visible in flight. Photograph read: The image is in black and white, with moderate contrast and visible grain. The water surface shows texture and reflection, while the distant mountains are softly blurred. The boat is centered in the frame, with no discernible motion blur or focus issues. Photo type: Documentary
 - **elizabeth.watkinsmorris**:  ([link](https://www.threads.com/@elizabeth.watkinsmorris/post/DgANvdWGyrF))
