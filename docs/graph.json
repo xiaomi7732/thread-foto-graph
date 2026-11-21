@@ -13,8 +13,32 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 786,
+      "reply_count": 825,
       "replies": [
+        {
+          "username": "bdemps42",
+          "text": "",
+          "permalink": "https://www.threads.com/@bdemps42/post/Df_I6jTjWXT",
+          "photos": [
+            "Description: A visitor stands before a wall of five framed paintings in a gallery with blue walls and wooden flooring, observing the artworks from behind. Photograph read: The composition is horizontally aligned, with the visitor centered in the lower third. Lighting is even and diffuse, illuminating the paintings without harsh shadows. The rendering is clear enough to discern subjects and frames, though the image lacks sharpness in fine detail. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mmc51264",
+          "text": "Old dog waiting for something, anything, to protect me from \ud83d\udc95",
+          "permalink": "https://www.threads.com/@mmc51264/post/Df_IqPxjbIF",
+          "photos": [
+            "Description: A German Shepherd sits on grass facing a chain-link fence, looking toward a paved area with a white garage door in the background. A green plant is visible in the upper right corner. Photograph read: The image is taken in daylight with even illumination across the scene. The chain-link fence and the dog\u2019s back are in focus, while the background elements are slightly less sharp. The grass shows natural texture, and the dog\u2019s fur has visible detail. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "purlygirl",
           "text": "",
@@ -227,10 +251,21 @@
           "photos": [
             "Description: A gravel road leads toward a weathered, two-story wooden structure with an open doorway and two small windows, surrounded by dense green foliage and trees. Photograph read: The image is taken in bright daylight with dappled shadows cast by overhead trees. The road and surrounding grass are in focus, while the structure is moderately in focus. The foliage on the right is dense and partially obscures the view. No visible signs of motion blur, chromatic aberration, or sensor noise are present. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The smile on the old building - the doorway and windows do look like a face once you see it. Did you notice the smile before you took it, or after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_InbtDMWL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "grumpybutt808",
@@ -431,7 +466,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "quimby.susan",
+                  "text": "Yes, noonish \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@quimby.susan/post/Df_Ig85gCNi",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -540,10 +586,21 @@
           "watch_outs": [
             "The caterpillar\u2019s head and anterior segments are slightly out of focus, reducing clarity of fine features. The background wood grain is blurred, obscuring texture detail beyond the immediate subject area."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A tiny caterpillar on weathered wood, all yellow and green. Did you know what it was when you found it, or look it up after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_Ig_AmsWV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "theothermrtjacks",
@@ -604,10 +661,21 @@
           "watch_outs": [
             "The bird\u2019s wingtips and tail feathers are indistinct due to soft focus, reducing edge definition. The bird\u2019s head and facial features are blurred, obscuring anatomical detail."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "An osprey mid-flight against nothing but blue, wings wide and steady. Did it circle back, or was this the one frame you got?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IZ_WjfFy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kennedy535",
@@ -691,10 +759,21 @@
           "photos": [
             "Description: A wooden arched bridge spans calm water, with a heron standing on a pier beneath it; a tree branch extends into the upper right corner against a pale sky. Photograph read: The image is composed with the bridge as the central subject, its reflection visible in the water. Lighting is even and diffused, suggesting an overcast or late-day sky. Rendering is clear enough to discern structural details of the bridge and the bird, though the water\u2019s surface shows gentle ripples. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A bridge and its reflection making a perfect circle on the water. Patience, indeed - how long did you wait for the water to go that still?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_Ioh7EUcO",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mn_chick",
@@ -755,10 +834,21 @@
           "watch_outs": [
             "The heron\u2019s silhouette is indistinct due to low contrast against the water; fine feather detail is not visible. The foreground sand is uniformly dark and lacks texture detail."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One heron, standing still in all that silver water, like it has all the time in the world. How long did it hold that pose?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IckmFtiQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mn_chick",
@@ -884,7 +974,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "greghillman11",
+                  "text": "No, it was on a trip to Sth Australia, my home state.",
+                  "permalink": "https://www.threads.com/@greghillman11/post/Df_I7MxE_xn",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -952,10 +1053,21 @@
           "watch_outs": [
             "The background is heavily blurred, obscuring any contextual detail. The flower\u2019s petal patterns are visible but not sharply defined, suggesting a slight softness in focus or resolution."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One red lantern flower hanging down, lit like a little lamp. Do you know its name?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IjLgG8ML",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artmama007",
@@ -1088,10 +1200,21 @@
           "photos": [
             "Description: An orange cat with a white chest sits atop a weathered wooden fence post, positioned against a backdrop of dense purple flowering plants and green trees. Photograph read: The image is taken at eye level with the cat as the central subject, framed by a rustic fence. Lighting appears natural and diffused, with no harsh shadows. The image has a shallow depth of field, rendering the foreground foliage and background trees somewhat out of focus. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A cat on a fence post, supervising a whole field of purple. Does it always claim that spot?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IbPlAKtp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rkatekatia",
@@ -1169,10 +1292,21 @@
           "photos": [
             "Description: A single vertical black line extends from the top edge of the frame downward, set against a clear, uniform blue sky. Photograph read: The composition is minimalist, with the line centered vertically. Lighting is even and diffuse, suggesting daylight without direct shadows or highlights. The rendering is clean, with no visible noise or compression artifacts. Photo type: Abstract"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One straight wire down a whole blue sky, and nothing else. That is about as minimal as it gets - what is the wire holding up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_ImNxGhUb",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sherrycatonmason",
@@ -1219,7 +1353,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "www1ceman",
+                  "text": "It nests nearby at Five Rivers Environmental Education Center, and hangs out there frequently.",
+                  "permalink": "https://www.threads.com/@www1ceman/post/Df_InNPGp_1",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1340,7 +1485,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "alangray490",
+                  "text": "I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point",
+                  "permalink": "https://www.threads.com/@alangray490/post/Df_IudaDoRt",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1541,10 +1697,21 @@
           "photos": [
             "Description: Two small, yellow-capped mushrooms with orange stems emerge from a dark, textured tree trunk, with some white and brown fungal growth visible nearby. Photograph read: The image is a close-up with shallow depth of field, focusing on the mushrooms. Lighting is even and natural, illuminating the subjects without harsh shadows. The background is softly blurred, and the mushrooms are in sharp focus relative to the surroundings. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two little yellow umbrellas on a tree trunk, and the bark doing the rest. How did you spot something so small on all that bark?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_Ie0joHhd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -1731,10 +1898,21 @@
           "photos": [
             "Description: A wide, flat field with patches of snow and exposed soil stretches under a clear blue sky, with a single prominent white cloud and a distant industrial smokestack visible beyond a line of bare trees. Photograph read: The composition is horizontal, with the field occupying the lower third and the sky the upper two-thirds. Lighting is bright and even, suggesting midday sun. The image has a uniform color tone and no visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A flat field, a pale sky, and one plume of smoke on the horizon doing all the talking. Do you know what was burning?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IgA_Gxxl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "carolinaabq",
@@ -1766,10 +1944,21 @@
           "photos": [
             "Description: A wide expanse of water under a cloudy sky, with two swans swimming near a dock on the right side and a distant shoreline. The water reflects sunlight, creating a shimmering surface. Photograph read: The composition is horizontal, with the horizon centered. Lighting is diffuse, with bright reflections on the water and muted tones in the sky. The image has a natural color palette and moderate contrast, with no visible signs of overexposure or underexposure. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole lake of sunset, with one small swan out in the middle of it. Was the swan the reason you stopped, or a lucky extra?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IdwfEdsV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jen.isenor",
@@ -1905,10 +2094,21 @@
           "photos": [
             "Description: A stone monument with carved penguin figures and a sign reading \u201cDUNE PLANTS GROWING PLEASE KEEP TO BEACH ACCESS\u201d stands in tall grass, overlooking a sandy beach and ocean with a rocky, tree-covered island in the distance under a blue sky with scattered clouds. Photograph read: The image is taken in bright daylight with clear visibility of the monument, grass, and distant landscape. The sky is mostly clear with sparse clouds. The monument\u2019s carvings and sign are legible, and the ocean and island are distinct in the background. The composition is centered on the monument, with the beach and sea extending horizontally. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A stone marker in the dunes, with the whole beach and sea behind it. What does it mark?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IiKLG4xM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kazz_bo_",
@@ -2020,10 +2220,32 @@
             "The background is uniformly blurred, obscuring any contextual detail. The droplet on the main branch is slightly overexposed, causing a loss of subtle surface texture and internal reflections.",
             "The background is indistinct, obscuring context and depth. The frost on the spike is visible but lacks fine texture detail due to shallow depth of field and soft focus."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two quiet frames, a drop on a curling tendril and a frosted seed head. Which of the two did you shoot first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IkFRG6Ef",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "cultiveemais_pas_legume",
+                  "text": "The drop on a curled tendril was the first one",
+                  "permalink": "https://www.threads.com/@cultiveemais_pas_legume/post/Df_I2pODMjz",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "jinksys_mum",
@@ -2241,10 +2463,21 @@
           "watch_outs": [
             "- The right side of the image, including the building\u2019s wall and the vertical light source, is overexposed, obscuring texture and detail. - The left side of the image, particularly the building\u2019s window and door, is underexposed, making internal details and the figure visible through the window indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Another night frame, all black with one bright doorway. Do you shoot the dark often, or was this a one-off?",
+              "permalink": "https://www.threads.com/@saars.foto/post/Df_IlIdGiAu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "skymomma_rocks",
@@ -2441,10 +2674,21 @@
                   "text": "I have. But not oft.",
                   "permalink": "https://www.threads.com/@krisanewman/post/Df-s71ymz6t",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A bench worth visiting, even if not often.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_Iq6eDKms",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2537,10 +2781,21 @@
                   "photos": [
                     "Description: A black dog with a pink collar and a QR-code tag is positioned in the foreground, with a person wearing a blue cap leaning close to its head. The background shows trees with red berries and autumnal foliage. Photograph read: The image is a close-up shot with the dog centered and the person partially visible on the right. Lighting is even and natural, suggesting an overcast day. The focus is sharp on the dog\u2019s face and the person\u2019s cheek, with the background slightly out of focus. Photo type: Portrait"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The treat tax is real, and she wears the leaf well.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_Ix_jDt-r",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2697,10 +2952,21 @@
                   "text": "Very lucky. Not sure, but I bet it\u2019s a great story",
                   "permalink": "https://www.threads.com/@hibiskos/post/Df-s-urmyt5",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Luck and a good eye, all in one frame.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I585DtqP",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2734,10 +3000,21 @@
                   "text": "Probably going from Auckland to Wellington.",
                   "permalink": "https://www.threads.com/@julie.cameranz/post/Df-62MsElr5",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A fine line to draw across all that blue.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_ItMsjc44",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2865,10 +3142,21 @@
                   "text": "One earring (it\u2019s one of those insert and wear forever types)\u2026 mature skin and the shadows of B&W seemed more interesting",
                   "permalink": "https://www.threads.com/@0lindar/post/Df-sccbnAAC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The shadows did the work beautifully.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_IsEwDWtN",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2944,10 +3232,21 @@
                   "watch_outs": [
                     "- Motion blur affects the palm fronds, obscuring fine leaf details and texture. - The celestial body is diffused and lacks sharp definition, with visible atmospheric haze or cloud interference."
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That porch light earned its place in the frame.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I0L_jooL",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 },
                 {
                   "username": "mummabear1963v",
@@ -2991,10 +3290,21 @@
                   "text": "I have no clue! It filtered through the tree branches like that. I'm an amateur with a mobile phone who enjoys taking photos and occasionally takes a good one.",
                   "permalink": "https://www.threads.com/@velosy/post/Df-wcgwCGFB",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A happy accident, beautifully caught.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I3d4oAYR",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3362,10 +3672,21 @@
                   "text": "They are actually caught in a spider web in front of the post. This was a few years ago, so I can't remember how long they were there.",
                   "permalink": "https://www.threads.com/@massiebrenda/post/Df-978yjDYj",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Caught in the web, and caught beautifully.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I4pODlsM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3554,7 +3875,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "oznatureart",
+                  "text": "I'm always looking and exploring!!!... might be something from my youth, when we went camping and my sister and I were challenged by my parents to see how many wild flowers we could collect while they pitched the tent \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@oznatureart/post/Df_IjJ9keaA",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4086,10 +4418,21 @@
                   "text": "A teeny tiny world within it. Kind of like Whoville in a snowflake \ud83d\ude02",
                   "permalink": "https://www.threads.com/@wildrootslens/post/Df-w1PIEabg",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A whole little world in one drop. Lovely.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_IzNkjd4g",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4206,10 +4549,21 @@
                   "text": "5 a.m. Totally worth it.",
                   "permalink": "https://www.threads.com/@life.as.art/post/Df-tlgdFWnh",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Five in the morning, well spent.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_IvyBFhFt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4443,10 +4797,21 @@
                   "text": "She's a beauty, isn't she? Not from my garden, found her on a walk.",
                   "permalink": "https://www.threads.com/@coasting09/post/Df-zdy4o1fC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A fine find on a walk.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I2QkkWi7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4597,10 +4962,21 @@
                   "text": "It was the light. My son was 11, just lost his dad the year before. I want to think his dad was enjoying the moment with him .\ud83e\udd70",
                   "permalink": "https://www.threads.com/@ginamarie2221972/post/Df-0UNpH41U",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Thank you for sharing that with us. The light in the frame carries it all.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_IuNMFGXO",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4806,10 +5182,21 @@
                   "text": "I wasn't looking for it, but it was waiting for me.",
                   "permalink": "https://www.threads.com/@doctor.unka.tony/post/Df-xHvAlnlg",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The best ones always seem to be waiting.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I1N9lQgT",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4843,10 +5230,21 @@
                   "text": "Very still in the woods caught it peripheraly and click hey presto \ud83d\ude01",
                   "permalink": "https://www.threads.com/@stickyshutterphotography/post/Df-3-eLiGQH",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Still in the woods, and still lovely.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I9gMEVQS",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -4968,10 +5366,21 @@
                   "text": "No idea I\u2019m afraid, but I would say a year or two given the weathered paint and the state of the wood!",
                   "permalink": "https://www.threads.com/@nix633/post/Df-1hrhiHwp",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A fine old boat, however long it has been resting.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I8UejLGD",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -5292,10 +5701,21 @@
                   "text": "It was about 6:30 am, if I recall. I\u2019d need to check to original file for a time stamp.",
                   "permalink": "https://www.threads.com/@giantsfands/post/Df-yRFUCcLS",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Half past six, well worth the early start.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_I7JRADJG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -5326,10 +5746,21 @@
                   "text": "The red against a mostly beige storefront with just this one lamp",
                   "permalink": "https://www.threads.com/@papi857/post/Df-tLzNFAap",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "One red lamp, and the whole wall wakes up.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/Df_IxC2kcNj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
