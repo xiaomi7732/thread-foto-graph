@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (301)
+## Needs Reply (303)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **kuhl_kathy**: The smile on the old building ([link](https://www.threads.com/@kuhl_kathy/post/Df_ClOnDKRa))
+  - Photo: Description: A gravel road leads toward a weathered, two-story wooden structure with an open doorway and two small windows, surrounded by dense green foliage and trees. Photograph read: The image is taken in bright daylight with dappled shadows cast by overhead trees. The road and surrounding grass are in focus, while the structure is moderately in focus. The foliage on the right is dense and partially obscures the view. No visible signs of motion blur, chromatic aberration, or sensor noise are present. Photo type: Natural landscape
+- **grumpybutt808**: One blossom at the orchid show ([link](https://www.threads.com/@grumpybutt808/post/Df_CfZUIy3e))
+  - Photo: Description: A hanging orchid with a distinctive, elongated, reddish-purple flower and fuzzy, striped labellum is attached to a mossy, root-covered substrate, with several green leaves and small, round, yellowish structures nearby. Photograph read: The image is taken from a low angle, with the orchid hanging against a smooth, light-blue background that shows bright, out-of-focus circular reflections. The flower and leaves are in relatively sharp focus, but the background is uniformly blurred and lacks texture. Photo type: Still life
+    - Watch-outs: The background is uniformly blurred, obscuring any context or depth cues. The flower’s fine, fuzzy texture is visible but not sharply defined, and the small yellow structures are slightly out of focus.
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
   - Photo: Description: A young person with light-colored, tousled hair is seated in a dark environment, holding a dark object, with one hand resting under their chin and the head tilted downward. Photograph read: The subject is illuminated from the front-left, casting highlights on the hair and face while the background is uniformly black. The image has a shallow depth of field, with the subject in focus and the background blurred. The lighting creates strong contrast, with some areas of the subject’s face and hair appearing overexposed relative to the rest of the image. Photo type: Portrait
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
