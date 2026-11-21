@@ -4,12 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (246)
+## Needs Reply (248)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
-- **cathyk_621**:  ([link](https://www.threads.com/@cathyk_621/post/Df_bowPlrgM))
-  - Photo: Description: A translucent chrysalis hangs from a dark, curved support structure, with a blurred background of yellow and green foliage. Photograph read: The image has a shallow depth of field, with the chrysalis in focus and the background rendered as soft bokeh. Lighting appears natural and directional, illuminating the chrysalis from the side. The chrysalis’s internal structure is visible through its thin casing, but surface textures are not sharply defined. Photo type: Macro
-    - Watch-outs: The chrysalis’s surface shows slight translucency and minor debris, which reduces contrast and detail. The chrysalis’s internal structures are visible but not sharply resolved, limiting the ability to discern fine anatomical features.
+- **cathyk_621**:  ([link](https://www.threads.com/@cathyk_621/post/Df_cSOCFnvS))
+  - Photo: Description: A translucent chrysalis hangs from a dark, curved support structure, with blurred yellow and green floral background elements. Photograph read: The image features a shallow depth of field, with the chrysalis in focus and the background rendered as soft bokeh. Lighting appears natural and directional, highlighting the chrysalis’s semi-transparent structure. The chrysalis shows visible internal structures and faint markings, but the background lacks discernible detail. Photo type: Macro
+    - Watch-outs: The chrysalis’s internal structures are partially obscured by translucency and low contrast. The background bokeh is indistinct, preventing identification of specific flowers or foliage.
 - **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/Df_amoDFJO7))
   - Photo: Description: A person’s legs and feet, wearing hiking boots and blue jeans, are positioned atop a large, round hay bale under a clear blue sky. The hay bale is wrapped with visible blue and red netting. Photograph read: The image is taken from a low angle, looking upward toward the subject’s feet and the sky. Lighting is bright and direct, casting clear shadows on the jeans and hay. The composition is dominated by the sky and the hay bale, with the subject’s feet centrally framed. The image is in focus, with no visible motion blur or chromatic aberration. Photo type: Outdoor
 - **sidneym1976**:  ([link](https://www.threads.com/@sidneym1976/post/Df_YYV2G-lM))
@@ -116,6 +116,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A lone post in the fog, with the world gone soft around it.…_
 - **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
+- **btvs62**: I stood and watched it a solid 5 min. I moved along first. ([link](https://www.threads.com/@btvs62/post/Df_cEE_jRdz))
+  - _Replying to: One heron, standing still in all that silver water, like it…_
 - **missty_misanthrope**: Nope. I’d never seen this before. I’m thinking one is a male. 😎 ([link](https://www.threads.com/@missty_misanthrope/post/Df_KX31Ef5y))
   - _Replying to: Two ladybugs on one green leaf, both heading somewhere. Do …_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
@@ -209,6 +211,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A tall ship with full sails on a calm sea - it looks like i…_
 - **rajeshwar8380**: I guess no... ([link](https://www.threads.com/@rajeshwar8380/post/Df_Q825Eyck))
   - _Replying to: A bird dropping into the water, wings folded, with the whol…_
+- **jackiethomompson**: A small frog. ([link](https://www.threads.com/@jackiethomompson/post/Df_cAlkjsJN))
+  - _Replying to: A little blur of motion across the grass - whatever it was,…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
