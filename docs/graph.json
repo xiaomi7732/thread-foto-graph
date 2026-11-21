@@ -132,7 +132,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1087,
+      "reply_count": 1088,
       "replies": [
         {
           "username": "sheilam99",
@@ -3401,7 +3401,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bhuda0416",
+                  "text": "Nothing special..\ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@bhuda0416/post/DgACfMEFYWL",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
