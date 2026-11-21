@@ -6,9 +6,25 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (265)
+## Needs Reply (273)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **missty_misanthrope**:  ([link](https://www.threads.com/@missty_misanthrope/post/Df-7OIbkYhw))
+  - Photo: Description: Two ladybugs with red elytra and black spots are positioned on a textured green leaf, with the background blurred and indistinct. Photograph read: The image features a shallow depth of field, with the leaf and insects in focus, while the background is out of focus. Lighting is bright and even, highlighting the leaf’s surface texture and the insects’ coloration. The rendering preserves fine surface detail on the leaf and the insects’ bodies. Photo type: Macro
+- **beetleb64**:  ([link](https://www.threads.com/@beetleb64/post/Df-7M1emAah))
+  - Photo: Description: A newly emerged cicada with translucent turquoise wings and a greenish head is attached to its brown exoskeleton, resting on a rough, dark, granular surface. Photograph read: The image is in focus with even lighting, capturing fine details of the cicada’s wings, eyes, and exoskeleton. The background is a textured, dark surface with scattered small particles. Photo type: Macro
+- **greghillman11**:  ([link](https://www.threads.com/@greghillman11/post/Df-7Jfuk_Vb))
+  - Photo: Description: A solitary tree with a dense, rounded canopy stands on a gently sloping, dry grassy hill under an overcast sky filled with diffuse cloud cover. Photograph read: The composition places the tree off-center against a vast, uniformly gray sky. Lighting is flat and diffused, with no strong shadows or highlights. The image has a muted color palette and appears to be captured with a standard lens, showing no visible signs of lens distortion or chromatic aberration. Photo type: Landscape
+- **rustikal_studio**:  ([link](https://www.threads.com/@rustikal_studio/post/Df-6_nBn9Da))
+  - Photo: Description: A wooden dock extends from a dark shoreline into calm water under a twilight sky, with a gradient of orange to blue across the horizon. Photograph read: The composition features a leading line of the dock receding into the frame, with the water rendered smooth due to long exposure. Lighting is low, with the horizon showing a soft gradient; the dock is mostly in shadow with minimal surface detail visible. Photo type: Long exposure landscape
+    - Watch-outs: The water surface is uniformly blurred, obscuring any wave or ripple detail. The dock’s planks and railings are dark and lack texture due to low light and exposure, making fine grain or wear indiscernible.
+  - Photo: Description: A weathered wooden ladder-like structure extends diagonally into calm, turquoise water, with its rungs and supports showing signs of decay and exposure. Photograph read: The composition uses a low-angle perspective, with the structure receding into the distance. Lighting is even and diffused, casting soft shadows. The water surface is smooth, suggesting long exposure or still conditions. Rendered with a shallow depth of field, the foreground elements are in focus while the distant end of the structure is slightly less defined. Photo type: Long exposure
+- **mary.k.snow**: Top gun jet making my initial in the sky ([link](https://www.threads.com/@mary.k.snow/post/Df-64skme26))
+  - Photo: Description: The image shows a vast expanse of solid blue, with two faint, indistinct white shapes visible against it—one roughly circular and one elongated and curved. Photograph read: The composition is dominated by a uniform blue field with minimal contrast. The two white shapes are small, low-contrast, and lack defined edges. There is no visible directional lighting or texture in the background. Photo type: Unclear
+    - Watch-outs: - The two white shapes are indistinct and lack discernible features, making identification or context impossible. - The entire image exhibits a uniform, non-textured blue field with no visible detail or structure beyond the two shapes.
+- **js.newberry**:  ([link](https://www.threads.com/@js.newberry/post/Df-61xVFUp7))
+  - Photo: Description: A hanging, bell-shaped flower with red and yellow patterned petals and a reddish stamen is the central subject, suspended from a green stem against a blurred background of green foliage and a light-colored wall. Photograph read: The image has a shallow depth of field, with the flower in focus and the background significantly blurred. Lighting appears natural and diffused, illuminating the flower evenly without harsh shadows or overexposure. The rendering preserves the flower’s texture and color detail. Photo type: Portrait
+    - Watch-outs: The background is heavily blurred, obscuring any contextual detail. The flower’s petal patterns are visible but not sharply defined, suggesting a slight softness in focus or resolution.
 - **artmama007**:  ([link](https://www.threads.com/@artmama007/post/Df-6ofzG2mA))
   - Photo: Description: A crescent-shaped celestial body, likely the Moon, is visible against a uniformly black background, with its illuminated portion showing a soft, warm glow. Photograph read: The subject is centered in the frame, with a smooth, out-of-focus rendering that blurs surface features. Lighting is concentrated on the visible arc, with no discernible texture or craters. The background is completely dark with no visible stars or atmospheric effects. Photo type: Unclear
     - Watch-outs: - Whole-image blur obscures surface detail on the crescent. - Brightness gradient around the crescent’s edge creates a halo effect, reducing contrast and detail visibility.
@@ -164,6 +180,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Shimmering Pacific, and the light barely holding on at the …_
 - **hibiskos**: Very lucky. Not sure, but I bet it’s a great story ([link](https://www.threads.com/@hibiskos/post/Df-s-urmyt5))
   - _Replying to: Caught mid-flight, wings out and all - that is a lucky fram…_
+- **julie.cameranz**: Probably going from Auckland to Wellington. ([link](https://www.threads.com/@julie.cameranz/post/Df-62MsElr5))
+  - _Replying to: A tiny plane drawing one long line across all that blue. Wh…_
 - **thecorktraveller**: It’s a Common Puffball. ([link](https://www.threads.com/@thecorktraveller/post/Df-uHIiiHLX))
   - _Replying to: A mushroom cap covered in white bumps, like it is wearing i…_
 - **aimeeday5883**: I was Lying down in the grass taking a rest ([link](https://www.threads.com/@aimeeday5883/post/Df-y-UugW-c))
@@ -232,6 +250,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A balloon drifting over the rooftops like it owns the morni…_
 - **ginamarie2221972**: It was the light. My son was 11, just lost his dad the year before. I want to think his dad was enjoying the moment with him .🥰 ([link](https://www.threads.com/@ginamarie2221972/post/Df-0UNpH41U))
   - _Replying to: One small silhouette, one fishing rod, and a whole lake of …_
+- **cynthj1964**: It’s still on the property I live on, just relocated to a place it can be admired. ([link](https://www.threads.com/@cynthj1964/post/Df-6-Bajydq))
+  - _Replying to: A heart-shaped stone just sitting there in the dirt - natur…_
 - **doctor.unka.tony**: I wasn't looking for it, but it was waiting for me. ([link](https://www.threads.com/@doctor.unka.tony/post/Df-xHvAlnlg))
   - _Replying to: A small white bird in all that dark green - it is barely th…_
 - **stickyshutterphotography**: Very still in the woods caught it peripheraly and click hey presto 😁 ([link](https://www.threads.com/@stickyshutterphotography/post/Df-3-eLiGQH))
