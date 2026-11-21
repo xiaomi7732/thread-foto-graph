@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (220)
+## Needs Reply (222)
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **johnnycerveza64**:  ([link](https://www.threads.com/@johnnycerveza64/post/Df_QL8RG1AS))
+  - Photo: Description: A dark-colored bird, likely an American robin, is perched on a bare tree branch against a pale, overcast sky. The bird faces right, with its head slightly turned. Photograph read: The image is composed with diagonal branches crossing the frame, and the bird is the central subject. Lighting is flat and diffuse, with no strong shadows or highlights. The bird and branches are rendered in silhouette, with minimal visible texture or color detail. Photo type: Silhouette
+    - Watch-outs: The bird’s head and beak are indistinct due to silhouette against the sky; no fine feather detail is visible. The bird’s underbelly shows a faint reddish-brown patch, but it is not clearly defined.
 - **kali467**: A very hungry grasshopper ([link](https://www.threads.com/@kali467/post/Df_PZS-o7Or))
   - Photo: Description: A grasshopper is perched on the yellow petals of a sunflower, with its head and forelegs visible near the flower’s center. The background consists of out-of-focus dry grass and distant green leaves. Photograph read: The image has a shallow depth of field, with the sunflower and grasshopper in focus while the background is blurred. Lighting is even and natural, with no visible shadows or overexposure. The rendering preserves the flower’s color and texture, though the grasshopper’s details are somewhat soft. Photo type: Natural
 - **kathleen_payne**:  ([link](https://www.threads.com/@kathleen_payne/post/Df_OrllmwSG))
@@ -104,6 +107,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A bluebird sitting on its own street sign - it could not ha…_
 - **alangray490**: I do look for a way to high light the subject. In this case a macro lense helped. The background was always going to be dark featureless which was the point ([link](https://www.threads.com/@alangray490/post/Df_IudaDoRt))
   - _Replying to: The dark background makes that little green bud glow, drop …_
+- **dontmfpanic**: it is an area of the beach where water from a lake further inland seeps through the sand . tide was receding . ([link](https://www.threads.com/@dontmfpanic/post/Df_QMdymagC))
+  - _Replying to: A gull with red legs and its own reflection, standing on we…_
 - **abejaah**: Oh um. Idk I just notice. But if you like small mushies look at this one! ([link](https://www.threads.com/@abejaah/post/Df_NQqzm6WN))
   - Photo: Description: A small, pale mushroom with a curved stem emerges from a dense patch of green and brown moss growing on dark, textured soil or decaying wood. Photograph read: The image is composed with the mushroom as a central focal point, surrounded by moss. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering preserves fine textures of the moss and the mushroom’s cap, though the background is darker and less detailed. Photo type: Natural
   - Photo: Description: The image shows a close-up of a moss-covered tree trunk with a small, pale mushroom emerging from the mossy surface. Photograph read: The composition is tightly framed on the textured surface, with natural, diffused lighting. The rendering preserves surface detail, though some areas are slightly out of focus. Photo type: Macro

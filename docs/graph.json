@@ -13,8 +13,23 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 901,
+      "reply_count": 904,
       "replies": [
+        {
+          "username": "johnnycerveza64",
+          "text": "",
+          "permalink": "https://www.threads.com/@johnnycerveza64/post/Df_QL8RG1AS",
+          "photos": [
+            "Description: A dark-colored bird, likely an American robin, is perched on a bare tree branch against a pale, overcast sky. The bird faces right, with its head slightly turned. Photograph read: The image is composed with diagonal branches crossing the frame, and the bird is the central subject. Lighting is flat and diffuse, with no strong shadows or highlights. The bird and branches are rendered in silhouette, with minimal visible texture or color detail. Photo type: Silhouette"
+          ],
+          "watch_outs": [
+            "The bird\u2019s head and beak are indistinct due to silhouette against the sky; no fine feather detail is visible. The bird\u2019s underbelly shows a faint reddish-brown patch, but it is not clearly defined."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kali467",
           "text": "A very hungry grasshopper",
@@ -1774,7 +1789,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dontmfpanic",
+                  "text": "it is an area of the beach where water from a lake further inland seeps through the sand . tide was receding .",
+                  "permalink": "https://www.threads.com/@dontmfpanic/post/Df_QMdymagC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -5491,7 +5517,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "lilybug1145",
+                          "text": "Yes indeed",
+                          "permalink": "https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
