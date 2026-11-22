@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (132)
+## Needs Reply (133)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -112,6 +112,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The subject’s face is partially obscured by hair and the angle of the head, reducing facial detail visibility. The right side of the subject’s face and the hand under the chin are underexposed, making fine features indistinct.
 - **kellsmt365**: It was a sunset indeed. This was from a November road trip from Washington to California. After driving through hours of freezing fog I came down a hill to an opening in the fog and drove down the first farm road I came across. ￼ I thought the windmill was pretty cool and then the owl landed there. ([link](https://www.threads.com/@kellsmt365/post/DgAuHjKlBnw))
   - _Replying to: A windmill against a pink sky, with one small bird perched …_
+- **thomasj.moore**: Hard to believe on Nov 20! ([link](https://www.threads.com/@thomasj.moore/post/DgDy8lqEuPY))
+  - _Replying to: A calendula from your own garden, on a day like that. Lovel…_
 - **spudyank**: I like the way it worked out🙂 ([link](https://www.threads.com/@spudyank/post/Df_jchmG-rN))
   - _Replying to: Eight minutes of clouds, well spent. That soft blue was wor…_
 - **downtown_design**: Shelf, quite moments where we find them… not just plates, Sasaki stoneware designed by Massimo Vignelli which I’ve had forever ([link](https://www.threads.com/@downtown_design/post/DgAAEalm8YW))
