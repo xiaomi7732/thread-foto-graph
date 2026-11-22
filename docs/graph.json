@@ -413,7 +413,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1228,
+      "reply_count": 1229,
       "replies": [
         {
           "username": "isadoralovesscarves",
@@ -1744,7 +1744,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "cathyk_621",
+                          "text": "Thank you\u2014All in one photo. And it is one of my favorites. I actually helped her stay protected. And I watched her hatch. See Insta cathyk_621 on may 25-27-29!",
+                          "permalink": "https://www.threads.com/@cathyk_621/post/DgBiWXMlu07",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
