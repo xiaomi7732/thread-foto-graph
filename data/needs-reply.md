@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (191)
+## Needs Reply (192)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -101,6 +101,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wings up, ripples out, and the reflection keeping pace. Wha…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
+- **mmc51264**: It’s ok. She was an amazing dog. Found her literally running in the road. She converted me to become a GSD owner. I now have 4 others. Best dogs ever ([link](https://www.threads.com/@mmc51264/post/DgC2R8bEVeh))
+  - Photo: Description: Two German Shepherd dogs are lying on a grassy field, with one dog’s tongue out and a colorful ball near its front paws; the background consists of dense green foliage. Photograph read: The image is taken at natural outdoor light, with moderate contrast and visible grass texture. The dogs are in focus, but the background foliage is slightly out of focus, creating a shallow depth of field. No signs of motion blur, overexposure, or underexposure are evident. Photo type: Natural
+  - Photo: Description: A young puppy with a tri-color coat—white, black, and tan—is positioned in front of a wooden fence. The puppy’s face is centrally framed, with soft, fluffy fur and dark eyes. Photograph read: The image is a close-up portrait with even, natural lighting. The subject is in focus, and the background shows vertical wood planks with visible grain. The rendering is sharp on the puppy’s face and fur texture, with no apparent motion blur or lens distortion. Photo type: Portrait
+  - Photo: Description: A German Shepherd puppy with dark and tan fur lies on a wooden porch, facing the camera with its tongue out, positioned in front of a white-framed door with a glass panel. Photograph read: The image is captured with even, natural lighting, showing clear detail on the puppy’s fur, paws, and facial features. The composition is centered, with the puppy occupying the foreground. The background includes a door frame and a weathered wooden surface to the right. Photo type: Portrait
+  - _Replying to: Oh~~~_
 - **mn_chick**: I was pretty close in this photo, it was just a really, really foggy day. ([link](https://www.threads.com/@mn_chick/post/DgCZ_bYEeZN))
   - _Replying to: One tree in the fog, with the field going soft around it. H…_
 - **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))

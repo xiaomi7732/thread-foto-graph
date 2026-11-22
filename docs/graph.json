@@ -434,7 +434,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1239,
+      "reply_count": 1240,
       "replies": [
         {
           "username": "mn_chick",
@@ -2566,7 +2566,22 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "mmc51264",
+                          "text": "It\u2019s ok. She was an amazing dog. Found her literally running in the road. She converted me to become a GSD owner. I now have 4 others. Best dogs ever",
+                          "permalink": "https://www.threads.com/@mmc51264/post/DgC2R8bEVeh",
+                          "photos": [
+                            "Description: Two German Shepherd dogs are lying on a grassy field, with one dog\u2019s tongue out and a colorful ball near its front paws; the background consists of dense green foliage. Photograph read: The image is taken at natural outdoor light, with moderate contrast and visible grass texture. The dogs are in focus, but the background foliage is slightly out of focus, creating a shallow depth of field. No signs of motion blur, overexposure, or underexposure are evident. Photo type: Natural",
+                            "Description: A young puppy with a tri-color coat\u2014white, black, and tan\u2014is positioned in front of a wooden fence. The puppy\u2019s face is centrally framed, with soft, fluffy fur and dark eyes. Photograph read: The image is a close-up portrait with even, natural lighting. The subject is in focus, and the background shows vertical wood planks with visible grain. The rendering is sharp on the puppy\u2019s face and fur texture, with no apparent motion blur or lens distortion. Photo type: Portrait",
+                            "Description: A German Shepherd puppy with dark and tan fur lies on a wooden porch, facing the camera with its tongue out, positioned in front of a white-framed door with a glass panel. Photograph read: The image is captured with even, natural lighting, showing clear detail on the puppy\u2019s fur, paws, and facial features. The composition is centered, with the puppy occupying the foreground. The background includes a door frame and a weathered wooden surface to the right. Photo type: Portrait"
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
