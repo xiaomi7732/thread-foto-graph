@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (187)
+## Needs Reply (186)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -96,8 +96,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wings up, ripples out, and the reflection keeping pace. Wha…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
-- **sandycook78**: Great Sand Dunes in the far distance, 3yo grandson in the nearer distance. Wide open space to run and yell, priceless. ([link](https://www.threads.com/@sandycook78/post/Df_NGDvFO1e))
-  - Photo: Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape
 - **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))
   - _Replying to: A dog on the back of the chair, watching the bare branches …_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))

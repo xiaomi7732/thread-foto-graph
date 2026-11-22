@@ -413,7 +413,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1231,
+      "reply_count": 1232,
       "replies": [
         {
           "username": "cathyk_621",
@@ -2220,10 +2220,21 @@
           "photos": [
             "Description: A lone child in a yellow shirt walks away down a dirt path through an open, arid landscape, with a distant mountain range under a heavily clouded sky. Photograph read: The image is composed with the path leading toward the horizon, framed by sparse vegetation. Lighting is diffuse, with no strong directional shadows, and the sky shows a mix of dense clouds and patches of blue. The rendering is naturalistic, with no visible signs of digital artifacts or distortion. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That tiny yellow shirt against all that space - the road, the sky, the dunes waiting on the horizon. How far did he get before he turned around?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgB5Z4pkf2M",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rhondawrightclark",
