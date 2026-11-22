@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (186)
+## Needs Reply (187)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -436,6 +436,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A swimming pool illuminated by underwater lights is centered in a backyard at dusk, with lounge chairs, lanterns, and a fire pit visible on a concrete patio, bordered by a white fence and trees. Photograph read: The pool’s surface reflects ambient light, with two glowing lanterns on stone pedestals and a small floating light source visible. The sky shows twilight hues, and the surrounding yard is dimly lit. The image has a shallow depth of field, with the pool in focus and background elements slightly softer. Photo type: Landscape
 - **phatshutter**: Thanks for those observations. This is Crown Fountain at Millennium Park ([link](https://www.threads.com/@phatshutter/post/Df71YDpFFAi))
   - _Replying to: The blue tower and the face both land twice - once in the a…_
+- **keerthi_ranjani**: That's actually a small lake (kulam) within a temple. Almost every temple in Tamil nadu has a kulam where the idol of the deity is cleansed. It's very pure.... like holy water. ([link](https://www.threads.com/@keerthi_ranjani/post/DgCLUuUkTp1))
+  - _Replying to: The pavilion gets a softer twin in the water, clouds and al…_
 - **dirtywaterdevil444**: Where is this? ([link](https://www.threads.com/@dirtywaterdevil444/post/Df45MEzoC1N))
   - _Replying to: (photo reply, no text)_
 - **joshtrudellimagery**: St. Paul's Cathedral, London. ([link](https://www.threads.com/@joshtrudellimagery/post/Df4714vI9Jd))

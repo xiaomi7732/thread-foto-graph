@@ -20089,7 +20089,7 @@
       "watch_outs": [
         "The mirror\u2019s reflective surface is visibly blurry, obscuring fine detail in the reflected scene. The mirror\u2019s surface also shows minor smudges or dirt, reducing clarity of the reflection."
       ],
-      "reply_count": 527,
+      "reply_count": 528,
       "replies": [
         {
           "username": "signhildthomas",
@@ -25135,7 +25135,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "keerthi_ranjani",
+                  "text": "That's actually a small lake (kulam) within a temple. Almost every temple in Tamil nadu has a kulam where the idol of the deity is cleansed. It's very pure.... like holy water.",
+                  "permalink": "https://www.threads.com/@keerthi_ranjani/post/DgCLUuUkTp1",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
