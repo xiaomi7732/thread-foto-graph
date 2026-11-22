@@ -413,8 +413,20 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1229,
+      "reply_count": 1231,
       "replies": [
+        {
+          "username": "cathyk_621",
+          "text": "",
+          "permalink": "https://www.threads.com/@cathyk_621/post/DgB4o8tFkRv",
+          "photos": [
+            "Description: A thin, bright green vine curling in a spiral shape is wrapped around a vertical wooden surface, with the wood grain visible and a darker vertical edge to the left. Photograph read: The image is a close-up with even, warm-toned lighting, showing clear texture on the wood and the vine\u2019s surface. The vine\u2019s curve casts a distinct shadow against the wood. The focus is consistent across the subject, with no visible motion blur or depth-of-field issues. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "isadoralovesscarves",
           "text": "",
@@ -1437,7 +1449,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "simnasho.pistachio",
+                  "text": "It was like that for about 5 more minutes before it started fading",
+                  "permalink": "https://www.threads.com/@simnasho.pistachio/post/DgB2anYEZwF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (185)
+## Needs Reply (187)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Decent shot! I am glad you didn’t crop the plane out 👍_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **cathyk_621**:  ([link](https://www.threads.com/@cathyk_621/post/DgB4o8tFkRv))
+  - Photo: Description: A thin, bright green vine curling in a spiral shape is wrapped around a vertical wooden surface, with the wood grain visible and a darker vertical edge to the left. Photograph read: The image is a close-up with even, warm-toned lighting, showing clear texture on the wood and the vine’s surface. The vine’s curve casts a distinct shadow against the wood. The focus is consistent across the subject, with no visible motion blur or depth-of-field issues. Photo type: Macro
 - **isadoralovesscarves**:  ([link](https://www.threads.com/@isadoralovesscarves/post/DgAjPF2iqLH))
   - Photo: Description: A seagull is captured in flight against a clear blue sky, wings spread wide with its beak open, suggesting active movement or vocalization. Photograph read: The subject is silhouetted against the sky, with lighting coming from behind, creating a dark outline. The image has a vertical composition with no discernible foreground or background elements other than the sky. The bird’s form is recognizable but lacks fine detail due to the lighting and contrast. Photo type: Silhouette
     - Watch-outs: The bird’s wingtips and tail feathers are partially obscured by shadow, reducing visible texture. The head and beak area are underexposed, making specific features indistinct.
@@ -73,6 +75,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A small, camouflaged crab is partially buried in coarse, multicolored sand, with its legs and carapace visible near the center of the frame. Photograph read: The image is taken from a high angle, with even, diffuse lighting. The sand’s granular texture is visible across the frame, and the crab’s form is discernible but not sharply defined. Photo type: Natural
 - **carocaluwe263**: It was just a lucky shot on a random walk. I saw this bird and at the just moment I took this photo. The bird was there for 10 minutes I think. ([link](https://www.threads.com/@carocaluwe263/post/DgAijNfDnWm))
   - _Replying to: One bird on a bent streetlight, the sky doing a slow fade b…_
+- **simnasho.pistachio**: It was like that for about 5 more minutes before it started fading ([link](https://www.threads.com/@simnasho.pistachio/post/DgB2anYEZwF))
+  - _Replying to: A moon with a full halo around it, like it brought its own …_
 - **louloxt**: I was on a trip with school and the students were mesmerised by it. When I looked it up later I found out it was saw fly lavae and not a caterpillar would you believe! ([link](https://www.threads.com/@louloxt/post/DgArBOwjNMI))
   - _Replying to: That fuzzy yellow caterpillar with the black and orange tri…_
 - **donohueronald**: Silence in the sunset at Chambers bay neighbor. ([link](https://www.threads.com/@donohueronald/post/DgAaSzlFBex))
