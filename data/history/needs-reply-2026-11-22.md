@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (187)
+## Needs Reply (188)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -17,6 +17,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Decent shot! I am glad you didn’t crop the plane out 👍_
 
 ### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
+- **mn_chick**: I was pretty close in this photo, it was just a really, really foggy day. ([link](https://www.threads.com/@mn_chick/post/DgCZiy9Ef1b))
 - **cathyk_621**:  ([link](https://www.threads.com/@cathyk_621/post/DgB4o8tFkRv))
   - Photo: Description: A thin, bright green vine curling in a spiral shape is wrapped around a vertical wooden surface, with the wood grain visible and a darker vertical edge to the left. Photograph read: The image is a close-up with even, warm-toned lighting, showing clear texture on the wood and the vine’s surface. The vine’s curve casts a distinct shadow against the wood. The focus is consistent across the subject, with no visible motion blur or depth-of-field issues. Photo type: Macro
 - **isadoralovesscarves**:  ([link](https://www.threads.com/@isadoralovesscarves/post/DgAjPF2iqLH))
@@ -96,6 +97,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wings up, ripples out, and the reflection keeping pace. Wha…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
+- **mn_chick**: I was pretty close in this photo, it was just a really, really foggy day. ([link](https://www.threads.com/@mn_chick/post/DgCZ_bYEeZN))
+  - _Replying to: One tree in the fog, with the field going soft around it. H…_
 - **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))
   - _Replying to: A dog on the back of the chair, watching the bare branches …_
 - **taradeluca**: Her name is Olivia. She’s my granddaughter and I love her. ([link](https://www.threads.com/@taradeluca/post/Df_Bq-amzSX))
@@ -115,6 +118,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
 - **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
+- **mn_chick**: This was taken during a snowstorm atop a mountain in Telluride. ([link](https://www.threads.com/@mn_chick/post/DgCZb15kXeN))
+  - _Replying to: A snowy hillside with just a few bare trees standing in the…_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))
   - _Replying to: (photo reply, no text)_
 - **missty_misanthrope**: Funny you should ask. This photo made me cry a little. I took it standing in front of our home in Boulder Creek. That was the last house we lived in together before he got sick. The last time we were happy. 😢❤️‍🩹 ([link](https://www.threads.com/@missty_misanthrope/post/Df_LC2WkTsV))
@@ -456,10 +461,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **2killamockingbird**: Thank you sweetheart 💓 ([link](https://www.threads.com/@2killamockingbird/post/Df48iA7gNrB))
   - _Replying to: Oh this is stunning_
-
-### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/Df4D1xZm1ln))
-- **2killamockingbird**: Always a pleasure Saars🙏 ☺️ ([link](https://www.threads.com/@2killamockingbird/post/Df41ssCAHvv))
-  - _Replying to: Thank you! 🙏_
-- **lucillepippetti**: She's my new Plant model. I found her at a craft fair on Saturday. Thank you so much. ([link](https://www.threads.com/@lucillepippetti/post/Df4GAlfFnW_))
-  - _Replying to: @lucillepippetti Slide four of the Pattern Tuesday favorite…_
 
