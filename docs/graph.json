@@ -434,7 +434,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1237,
+      "reply_count": 1238,
       "replies": [
         {
           "username": "mn_chick",
@@ -1160,7 +1160,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "audbal79",
+                  "text": "It was sunrise, I was on my way home after work. I can\u2019t remember the specific time of year beyond late fall/winter. Depending on the temperature the frost could\u2019ve lasted in the shaded areas all day. If it was especially cold, even in the clear areas frost could\u2019ve lingered till midday",
+                  "permalink": "https://www.threads.com/@audbal79/post/DgCcoDUEe8E",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
