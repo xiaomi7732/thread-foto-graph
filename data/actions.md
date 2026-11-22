@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (188)
+## Needs Reply (189)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -120,6 +120,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A teeny tiny snail on a big gray wall, with all that empty …_
 - **kennedy535**: The teddy bear’s 🧸name is Mario, who is my traveling 🧳 companion and has traveled with me to Italy 🇮🇹 , The Netherlands 🇳🇱 , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and of course my local travels. This was taken at a small park during my travels to Kauai a couple years ago. Couldn’t pass up the shot when I came across the pay phone ☎️ He’s a great conversation starter wherever I go and travels very well. ([link](https://www.threads.com/@kennedy535/post/Df_TLWmlXzr))
   - _Replying to: A teddy bear sitting in a phone booth, like it is waiting f…_
+- **mn_chick**: Actually, it wasn’t planned at all. I was driving past a field and just started hitting the photo button on my phone…and this was one of the pics I caught. Pure luck. ([link](https://www.threads.com/@mn_chick/post/DgCaNKQkTK2))
+  - _Replying to: The sun caught right in the bare branches, glowing through …_
 - **mn_chick**: This was taken during a snowstorm atop a mountain in Telluride. ([link](https://www.threads.com/@mn_chick/post/DgCZb15kXeN))
   - _Replying to: A snowy hillside with just a few bare trees standing in the…_
 - **zaydad2**: You doing ok ([link](https://www.threads.com/@zaydad2/post/Df-8TFgjRvT))

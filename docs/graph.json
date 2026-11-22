@@ -434,7 +434,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1236,
+      "reply_count": 1237,
       "replies": [
         {
           "username": "mn_chick",
@@ -3943,7 +3943,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mn_chick",
+                  "text": "Actually, it wasn\u2019t planned at all. I was driving past a field and just started hitting the photo button on my phone\u2026and this was one of the pics I caught. Pure luck.",
+                  "permalink": "https://www.threads.com/@mn_chick/post/DgCaNKQkTK2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
