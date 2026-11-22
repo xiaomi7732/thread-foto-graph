@@ -434,7 +434,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1240,
+      "reply_count": 1241,
       "replies": [
         {
           "username": "mn_chick",
@@ -6716,7 +6716,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jojoguingona",
+                  "text": "It was tied to a beam out of frame.",
+                  "permalink": "https://www.threads.com/@jojoguingona/post/DgDDW1HIMl3",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
