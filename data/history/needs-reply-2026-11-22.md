@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (133)
+## Needs Reply (134)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -144,6 +144,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One bright dahlia in all that green, lit like a small sun. …_
 - **crooked.paw**: I thank you for the compliment, but this is a photo. Just well processed. ([link](https://www.threads.com/@crooked.paw/post/Df_H_LwAUB4))
   - _Replying to: Drawn in pencil, with the water just suggested around it. H…_
+- **bird_in_the_north**: Ha! Thank you ☺️ ([link](https://www.threads.com/@bird_in_the_north/post/DgD2MlOjhXC))
+  - _Replying to: Consider the warning heard, and happily so. A sharp little …_
 - **chanellemclennan**: It's the Rena penguin memorial, commemorating the little blue penguins (kororā) affected by the 2011 Rena oil spill that happened here. ([link](https://www.threads.com/@chanellemclennan/post/Df_mlH9kd9J))
   - _Replying to: A stone marker in the dunes, with the whole beach and sea b…_
 - **embcelt82**: I pass this place going home from work. I work till 11 o'clock. Mamiya C3 10 second exposure ([link](https://www.threads.com/@embcelt82/post/Df_IC8PG5Oj))
