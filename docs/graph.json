@@ -434,7 +434,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1241,
+      "reply_count": 1244,
       "replies": [
         {
           "username": "mn_chick",
@@ -1177,10 +1177,21 @@
                   "text": "It was sunrise, I was on my way home after work. I can\u2019t remember the specific time of year beyond late fall/winter. Depending on the temperature the frost could\u2019ve lasted in the shaded areas all day. If it was especially cold, even in the clear areas frost could\u2019ve lingered till midday",
                   "permalink": "https://www.threads.com/@audbal79/post/DgCcoDUEe8E",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "\ud83e\udd76 \ud83d\ude4f thanks for sharing",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgDOcFbI8PU",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -2576,10 +2587,21 @@
                             "Description: A young puppy with a tri-color coat\u2014white, black, and tan\u2014is positioned in front of a wooden fence. The puppy\u2019s face is centrally framed, with soft, fluffy fur and dark eyes. Photograph read: The image is a close-up portrait with even, natural lighting. The subject is in focus, and the background shows vertical wood planks with visible grain. The rendering is sharp on the puppy\u2019s face and fur texture, with no apparent motion blur or lens distortion. Photo type: Portrait",
                             "Description: A German Shepherd puppy with dark and tan fur lies on a wooden porch, facing the camera with its tongue out, positioned in front of a white-framed door with a glass panel. Photograph read: The image is captured with even, natural lighting, showing clear detail on the puppy\u2019s fur, paws, and facial features. The composition is centered, with the puppy occupying the foreground. The background includes a door frame and a weathered wooden surface to the right. Photo type: Portrait"
                           ],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "That\u2019s so sweet! Thanks for sharing!",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DgDOP3pozPo",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -9979,7 +10001,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "seeblk",
+                  "text": "Wild and free :)",
+                  "permalink": "https://www.threads.com/@seeblk/post/DgDPZ8FFbGP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (129)
+## Needs Reply (128)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -62,8 +62,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **matson5381**: Abbott marshlands in Trenton is good for them. I was at Forsyth wildlife refuge yesterday and didn’t see any. ([link](https://www.threads.com/@matson5381/post/DgCgATSEX16))
   - _Replying to: One of my favorite ducks. Always elegant._
-- **audbal79**: It was sunrise, I was on my way home after work. I can’t remember the specific time of year beyond late fall/winter. Depending on the temperature the frost could’ve lasted in the shaded areas all day. If it was especially cold, even in the clear areas frost could’ve lingered till midday ([link](https://www.threads.com/@audbal79/post/DgCcoDUEe8E))
-  - _Replying to: A dark barn in a frost field, sun sitting low behind the ba…_
 - **edwardlin1995**: Maybe we were waiting both☺️ ([link](https://www.threads.com/@edwardlin1995/post/DgAfecwE3el))
   - _Replying to: One pylon, one break in the clouds, and the light doing all…_
 - **janethopkins365**: Well funnily enough he quite likes me, so he sits still, about 15 minutes after this photo he put his head into my neck, it was so sweet. He did run away (fly) once the same year as the photos, thankfully he was found he was very hungry but he’d managed to unearth a mouse. Odin and other birds are cared for in a sanctuary they were either abandoned or injured, there are quite a few owls of different makes. ([link](https://www.threads.com/@janethopkins365/post/DgAnfbDkYw7))
@@ -101,11 +99,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wings up, ripples out, and the reflection keeping pace. Wha…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
-- **mmc51264**: It’s ok. She was an amazing dog. Found her literally running in the road. She converted me to become a GSD owner. I now have 4 others. Best dogs ever ([link](https://www.threads.com/@mmc51264/post/DgC2R8bEVeh))
-  - Photo: Description: Two German Shepherd dogs are lying on a grassy field, with one dog’s tongue out and a colorful ball near its front paws; the background consists of dense green foliage. Photograph read: The image is taken at natural outdoor light, with moderate contrast and visible grass texture. The dogs are in focus, but the background foliage is slightly out of focus, creating a shallow depth of field. No signs of motion blur, overexposure, or underexposure are evident. Photo type: Natural
-  - Photo: Description: A young puppy with a tri-color coat—white, black, and tan—is positioned in front of a wooden fence. The puppy’s face is centrally framed, with soft, fluffy fur and dark eyes. Photograph read: The image is a close-up portrait with even, natural lighting. The subject is in focus, and the background shows vertical wood planks with visible grain. The rendering is sharp on the puppy’s face and fur texture, with no apparent motion blur or lens distortion. Photo type: Portrait
-  - Photo: Description: A German Shepherd puppy with dark and tan fur lies on a wooden porch, facing the camera with its tongue out, positioned in front of a white-framed door with a glass panel. Photograph read: The image is captured with even, natural lighting, showing clear detail on the puppy’s fur, paws, and facial features. The composition is centered, with the puppy occupying the foreground. The background includes a door frame and a weathered wooden surface to the right. Photo type: Portrait
-  - _Replying to: Oh~~~_
 - **mn_chick**: I was pretty close in this photo, it was just a really, really foggy day. ([link](https://www.threads.com/@mn_chick/post/DgCZ_bYEeZN))
   - _Replying to: One tree in the fog, with the field going soft around it. H…_
 - **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))
@@ -177,6 +170,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A dense forest with tall, slender tree trunks and a thick canopy of green leaves, with dappled sunlight filtering through the foliage onto the forest floor. Photograph read: The image features a natural forest scene with vertical tree trunks dominating the frame. Light is unevenly distributed, with bright patches in the mid-ground and darker areas in the foreground and background. The rendering shows visible texture on tree bark and leaf surfaces, with no apparent motion blur or distortion. Photo type: Natural landscape
 - **minnakirstinna**: A raindrop in the sun ([link](https://www.threads.com/@minnakirstinna/post/Df-dhnmgC-E))
   - _Replying to: (photo reply, no text)_
+- **seeblk**: Wild and free :) ([link](https://www.threads.com/@seeblk/post/DgDPZ8FFbGP))
+  - _Replying to: A purple thistle against soft green, sharp where it counts.…_
 - **ynarieldaniel_09**:  ([link](https://www.threads.com/@ynarieldaniel_09/post/Df-xBZ7EhGH))
   - Photo: Description: A small bird, likely a sparrow, perches on a dark, horizontal wire against a uniformly blurred blue background. Photograph read: The image features a single bird as the central subject, positioned on a wire that stretches diagonally across the frame. The background is uniformly out of focus, with no discernible texture or detail. Lighting appears even and bright, illuminating the bird’s form without harsh shadows or overexposure. Photo type: Portrait
     - Watch-outs: The bird’s head and facial markings are indistinct due to shallow depth of field and soft focus. The background blur obscures any environmental context, making it impossible to identify the setting or other subjects.
