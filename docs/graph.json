@@ -10,17 +10,28 @@
       "photos": [
         "Description: A cluster of red maple leaves hangs from a thin branch, with water droplets visible on their surfaces; the background is out of focus with indistinct green and dark tones. Photograph read: The subject is in focus with moderate contrast, illuminated by diffuse light; the background exhibits shallow depth of field blur, and the image has a soft, natural color rendering without visible artifacts. Photo type: Portrait"
       ],
-      "reply_count": 17,
+      "reply_count": 18,
       "replies": [
         {
           "username": "ulrike6417",
           "text": "Herzlichen Gl\u00fcckwunsch!\ud83e\udd73\ud83e\udd73 Auf die n\u00e4chsten 500!\ud83e\udd17",
           "permalink": "https://www.threads.com/@ulrike6417/post/DgB_L-RjDQQ",
           "photos": [],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thank you",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgCFGd-G9Fq",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "skymomma_rocks",
