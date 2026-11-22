@@ -4,10 +4,9 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (185)
+## Needs Reply (184)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
-- **syldelteglia**: Congrats! You deserve this and more 🎉🎉 ([link](https://www.threads.com/@syldelteglia/post/DgA7u-blkjG))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
   - _Replying to: Thank you Dee! Have a good weekend!_
 
