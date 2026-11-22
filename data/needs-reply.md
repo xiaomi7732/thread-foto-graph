@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (186)
+## Needs Reply (187)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -55,6 +55,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A large tree with vibrant red and orange autumn foliage dominates the frame against a clear blue sky, with the roof and siding of a house visible at the bottom. Photograph read: The tree fills most of the frame, with bright, direct sunlight illuminating its leaves from above. The sky is uniform and clear. The image appears to be captured with a standard camera, showing natural color saturation and contrast without visible distortion or compression artifacts. Photo type: Natural
   - Photo: Description: The photograph shows a close-up of autumn leaves, predominantly in shades of orange, yellow, and reddish-brown, with a clear blue sky visible through the branches. Photograph read: The composition is dense with overlapping leaves and branches, with strong backlighting creating highlights and shadows. The rendering is detailed in the leaf textures and colors, though some areas are overexposed or slightly soft. Photo type: Natural
   - _Replying to: A plane sliding across all that blue, branches framing the …_
+- **naniiman**: ohh its a winged ant? i thought its a kind of bee or wasp. Yup eventually it flew off with some coaxing from me 🤭 ([link](https://www.threads.com/@naniiman/post/DgB67_InZ9n))
+  - _Replying to: One winged ant on the glass, whole city blurred behind it. …_
 - **matson5381**: The golden light down at the Marsh only lasts about 30 minutes in early winter. You have to be on your toes -2 that is if you have any feeling in them. ([link](https://www.threads.com/@matson5381/post/DgA7CwLGtCF))
   - _Replying to: A single duck in all that gold water, ripples doing the res…_
 - **cjg223**: One of my favorite ducks. Always elegant. ([link](https://www.threads.com/@cjg223/post/DgAJQJaFuwT))

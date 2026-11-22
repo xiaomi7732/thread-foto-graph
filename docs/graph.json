@@ -413,7 +413,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1232,
+      "reply_count": 1233,
       "replies": [
         {
           "username": "cathyk_621",
@@ -915,7 +915,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "naniiman",
+                  "text": "ohh its a winged ant? i thought its a kind of bee or wasp. Yup eventually it flew off with some coaxing from me \ud83e\udd2d",
+                  "permalink": "https://www.threads.com/@naniiman/post/DgB67_InZ9n",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
