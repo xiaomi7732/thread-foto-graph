@@ -250,9 +250,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (28)
+## Needs Like (29)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
+- 9iovanno_12aphael: Congratulations bro 👍 ([link](https://www.threads.com/@9iovanno_12aphael/post/DgFyj-sk6jA))
 - charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/DgA6dCHmTpr))
 
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
