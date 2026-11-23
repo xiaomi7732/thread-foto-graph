@@ -434,7 +434,7 @@
       "watch_outs": [
         "The background blur obscures any contextual detail. The droplet\u2019s reflection is small and not clearly identifiable due to shallow depth of field and lack of contrast in the reflected scene."
       ],
-      "reply_count": 1251,
+      "reply_count": 1252,
       "replies": [
         {
           "username": "mn_chick",
@@ -2340,7 +2340,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sandycook78",
+                  "text": "I think I hollered that he needed to wait for Gigi. The road was rather rocky and I was a little concerned he was going to fall and smack his head. He\u2019s already had stitches twice and I didn\u2019t want the third time to be here! He was CONVINCED we were going to walk all the way to the Dunes, told mom that just as we left our rental. We did , in fact, not make it all the way to the Dunes. But we did get a good walk in and found lots of cool sticks and a few weird bugs.",
+                  "permalink": "https://www.threads.com/@sandycook78/post/DgEaRarlNSk",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

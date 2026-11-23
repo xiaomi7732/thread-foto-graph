@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (135)
+## Needs Reply (136)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -103,6 +103,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wings up, ripples out, and the reflection keeping pace. Wha…_
 - **kathleen_payne**: I'm a sucker for the one standing alone of anything, lol! ([link](https://www.threads.com/@kathleen_payne/post/DgAkU77m-Cn))
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
+- **sandycook78**: I think I hollered that he needed to wait for Gigi. The road was rather rocky and I was a little concerned he was going to fall and smack his head. He’s already had stitches twice and I didn’t want the third time to be here! He was CONVINCED we were going to walk all the way to the Dunes, told mom that just as we left our rental. We did , in fact, not make it all the way to the Dunes. But we did get a good walk in and found lots of cool sticks and a few weird bugs. ([link](https://www.threads.com/@sandycook78/post/DgEaRarlNSk))
+  - _Replying to: That tiny yellow shirt against all that space - the road, t…_
 - **mn_chick**: I was pretty close in this photo, it was just a really, really foggy day. ([link](https://www.threads.com/@mn_chick/post/DgCZ_bYEeZN))
   - _Replying to: One tree in the fog, with the field going soft around it. H…_
 - **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))
