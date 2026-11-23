@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (136)
+## Needs Reply (137)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -64,6 +64,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: (photo reply, no text)_
 - **matson5381**: Abbott marshlands in Trenton is good for them. I was at Forsyth wildlife refuge yesterday and didn’t see any. ([link](https://www.threads.com/@matson5381/post/DgCgATSEX16))
   - _Replying to: One of my favorite ducks. Always elegant._
+- **sheilam99**: It certainly wasn’t camera shy and was still on his finger after I took the photo :) ([link](https://www.threads.com/@sheilam99/post/DgE4lNVo-o-))
+  - _Replying to: A cicada on a fingertip, red eyes and all, with your husban…_
 - **edwardlin1995**: Maybe we were waiting both☺️ ([link](https://www.threads.com/@edwardlin1995/post/DgAfecwE3el))
   - _Replying to: One pylon, one break in the clouds, and the light doing all…_
 - **janethopkins365**: Well funnily enough he quite likes me, so he sits still, about 15 minutes after this photo he put his head into my neck, it was so sweet. He did run away (fly) once the same year as the photos, thankfully he was found he was very hungry but he’d managed to unearth a mouse. Odin and other birds are cared for in a sanctuary they were either abandoned or injured, there are quite a few owls of different makes. ([link](https://www.threads.com/@janethopkins365/post/DgAnfbDkYw7))
