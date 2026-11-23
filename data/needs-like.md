@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (35)
+## Needs Like (28)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/DgA6dCHmTpr))
@@ -39,13 +39,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - zacharias1818: My favorite ([link](https://www.threads.com/@zacharias1818/post/Df-7a2VFnTz))
 - gingertom43: No problem... ([link](https://www.threads.com/@gingertom43/post/Df-iIfUkbZ0))
 - achiklin79: Superb ([link](https://www.threads.com/@achiklin79/post/DgAhO0EGV7Z))
-
-### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
-- chicken_poop_shoes_: Thank you ([link](https://www.threads.com/@chicken_poop_shoes_/post/Df-bwhMo-wo))
-- jane_st_pics: They did!! ([link](https://www.threads.com/@jane_st_pics/post/Df9cojekfrM))
-- dhinie_behboodzadeh: Yes ([link](https://www.threads.com/@dhinie_behboodzadeh/post/Df89BcFCgKh))
-- beckiefitzgerald: For sure! ([link](https://www.threads.com/@beckiefitzgerald/post/Df7-rFGD42M))
-- coccinelli3: prachtig!! ([link](https://www.threads.com/@coccinelli3/post/Df_pLg3jfop))
-- 2killamockingbird: Your welcome. ([link](https://www.threads.com/@2killamockingbird/post/Df7cXIfDnYJ))
-- bugs_eye_view_of_you: ☺️ ([link](https://www.threads.com/@bugs_eye_view_of_you/post/Df7cCJQIOYR))
 

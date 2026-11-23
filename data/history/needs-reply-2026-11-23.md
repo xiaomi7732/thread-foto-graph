@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (136)
+## Needs Reply (100)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -107,6 +107,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: One tree, one green hill, and the sky doing the rest. What …_
 - **sandycook78**: I think I hollered that he needed to wait for Gigi. The road was rather rocky and I was a little concerned he was going to fall and smack his head. He’s already had stitches twice and I didn’t want the third time to be here! He was CONVINCED we were going to walk all the way to the Dunes, told mom that just as we left our rental. We did , in fact, not make it all the way to the Dunes. But we did get a good walk in and found lots of cool sticks and a few weird bugs. ([link](https://www.threads.com/@sandycook78/post/DgEaRarlNSk))
   - _Replying to: That tiny yellow shirt against all that space - the road, t…_
+- **sheila_mann65**: At least an hour. It was beautiful 😊 ([link](https://www.threads.com/@sheila_mann65/post/DgFpTPuj9hC))
+  - _Replying to: The river doing the mirroring, the cliffs doing the standin…_
 - **mn_chick**: I was pretty close in this photo, it was just a really, really foggy day. ([link](https://www.threads.com/@mn_chick/post/DgCZ_bYEeZN))
   - _Replying to: One tree in the fog, with the field going soft around it. H…_
 - **amygfoodie**: He loved that spot, especially during snowstorms like this. We live in a different house now without a big window. I know he misses it. ([link](https://www.threads.com/@amygfoodie/post/DgA5AxGIGVE))
@@ -240,94 +242,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 
 ### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
 - **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
-
-### Shaped Thursday Show me a shape you found out in the world … ([thread](https://www.threads.com/@saars.foto/post/Df7WzZFFKiJ))
-- **pat.sipatsi**: Thank you... and now it has grown into this size ☺️ ([link](https://www.threads.com/@pat.sipatsi/post/Df97dDuD8bu))
-  - Photo: Description: The photograph shows large, heart-shaped green leaves of a potted plant, likely an Anthurium or similar tropical species, in a white ribbed pot. Other potted plants and a window with vertical bars are visible in the background. Photograph read: The image is taken from a slightly low angle, with natural daylight illuminating the leaves. The leaves are in focus, showing clear vein patterns, while the background is softly out of focus. The composition is centered on the plant’s foliage, with some surrounding plants and a tiled floor visible. Photo type: Still life
-  - _Replying to: I think the white veins are what sell it - they draw the he…_
-- **pandandalee**: Usually sprawled out like dis ([link](https://www.threads.com/@pandandalee/post/Df-DIpKm8kF))
-  - Photo: Description: A dark-furred cat with lighter underbelly and chest markings lies stretched out on a bed covered with a light-colored, patterned blanket and a draped pinkish blanket. A white dresser with pink handles is visible in the background. Photograph read: The image is taken from a slightly elevated angle, with the cat as the central subject. Lighting is even and appears to be indoor ambient light, casting soft shadows. The image has a moderate level of detail, with visible fur texture and paw pads, though some areas are slightly out of focus. Photo type: Natural
-  - _Replying to: A baked potato with ears - that round little loaf on the qu…_
-- **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/Df96bTOkbIC))
-  - _Replying to: Right by home, and worth every step of the walk. Thank you …_
-- **fabienne_journey**: It’s my pleasure to share. ([link](https://www.threads.com/@fabienne_journey/post/Df99zO0js9c))
-  - _Replying to: A sharp eye for the small things. Thank you for sharing it._
-- **bababui888**: You can sit as long as you like 😃 ([link](https://www.threads.com/@bababui888/post/Df999yrFDDx))
-  - _Replying to: A ceiling full of glowing moons, and that big vent keeping …_
-- **amy.salt**: The patterns on the leaves stopped me cold ([link](https://www.threads.com/@amy.salt/post/Df-IbYOozVY))
-  - _Replying to: A rosette that reads like a rose, right down to the pink ce…_
-- **meservelee**: Kind of like a pregnant Mam mushroom. ([link](https://www.threads.com/@meservelee/post/Df8UlkJjtIn))
-  - _Replying to: (photo reply, no text)_
-- **galveston_walkabout**: The tree was a Norfolk pine ( called an island pine) in Galveston Texas . The trees grew for years and that year most of them died from freezing weather . The photo wasn’t black and white, there was no color for the phone camera to show. Gray skies, dead limbs and gray doves. ([link](https://www.threads.com/@galveston_walkabout/post/Df9j-q_Je5e))
-  - _Replying to: Settled in for the night, every bird in its place._
-- **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df9G7pFG2pW))
-  - Photo: Description: A light-colored dog, likely a golden retriever, is on a leash and sniffing the ground near a paved path, with scattered autumn leaves on the grass and pavement. The dog’s shadow and the photographer’s shadow are cast prominently on the ground. Photograph read: The image is taken in bright, direct sunlight, casting sharp shadows. The composition is from a high angle, looking down at the dog and the path. The dog’s fur and leash are visible, but the image lacks sharpness in the dog’s head and paws, suggesting motion or focus limitations. Photo type: Natural daylight snapshot
-  - Photo: Description: A light-colored dog walks on a paved path scattered with autumn leaves, viewed from a first-person perspective with a leash and handlebar visible in the foreground. Photograph read: The image is taken in bright daylight, casting a clear shadow of the person holding the camera. The dog’s back and tail are visible, with the leash extending from the handlebar. The path surface and leaves are in focus, though the foreground handlebar and leash are slightly out of focus. The composition is a low-angle, forward-facing shot. Photo type: Action shot
-  - Photo: Description: A long-legged arachnid, likely a harvestman, is positioned on a textured, light-gray painted surface, with its body and legs clearly visible against the background. Photograph read: The image is in focus, with even lighting that reveals surface texture and the subject’s form. The composition is a close-up, angled slightly downward, capturing the creature’s full silhouette and leg spread. Photo type: Documentary
-  - _Replying to: A dog walk that kept on giving - shadows and all._
-- **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df9G2HjG107))
-  - Photo: Description: A light-colored dog walks away on a paved path scattered with autumn leaves, viewed from a first-person perspective with a leash and handlebar visible in the foreground. Photograph read: The image is taken in bright daylight, casting a distinct shadow of the photographer and dog on the path. The composition is from a low angle, with the leash and handlebar in the foreground. The dog’s back and tail are visible, and the surrounding leaves and path texture are discernible. Photo type: Action shot
-  - Photo: Description: A cyclist in cycling gear stands on a wooden dock beside a Pinarello bicycle, with a body of water and residential houses visible in the background under a partly cloudy sky. Photograph read: The image is taken in bright daylight with strong backlighting from the upper left, causing lens flare and overexposure in that area. The subject is in focus, but the background is slightly less sharp. The sky shows a mix of clouds and blue, with reflections on the water surface. Photo type: Portrait
-  - _Replying to: A dog walk that kept on giving - shadows and all._
-- **tim22974**:  ([link](https://www.threads.com/@tim22974/post/Df8gs2imUxI))
-  - Photo: Description: A large tree with dense, deep red foliage dominates the center of the frame, set against a clear blue sky, with a residential house and driveway visible behind it. Photograph read: The composition is vertical, with the tree occupying the central area. Lighting appears to be direct sunlight from the side, casting shadows and highlighting the tree’s leaves. The image has a natural color balance and no visible signs of digital artifacts or distortion. Photo type: Natural
-  - _Replying to: That red against the green is doing all the shouting. Did i…_
-- **tim22974**: Landed like that; saw it on my dog walk; had to stop!! ([link](https://www.threads.com/@tim22974/post/Df8gmCQmVpf))
-  - _Replying to: That red against the green is doing all the shouting. Did i…_
-- **dianelynnturnbull**:  ([link](https://www.threads.com/@dianelynnturnbull/post/DgA55SMkraR))
-  - Photo: Description: A flat-lay composition features a large green leaf with dark spots, overlaid by a dried brown leaf and a white circular object containing a small, textured item, all resting on a cross-section of a tree trunk with visible wood grain. Photograph read: The image is in focus with even, diffused lighting. Colors are natural and saturated, with no visible vignetting or chromatic aberration. The composition is centered, with the leaf and object arranged symmetrically against the tree trunk background. Photo type: Still life
-  - _Replying to: Some mysteries are worth the morning check._
-- **dianelynnturnbull**: Here's what I learned about it when I asked AI: That's not a piece of plastic — it's a fungus! It's a bird's nest fungus, most likely the white bird's nest fungus - Crucibulum laeve, which is super common in Oregon in the fall. Here's what you're looking at: The white disk: That's the "nest" — the cup-shaped fruiting body. It's white on the outside and has that slightly fuzzy/hairy edge in your photo. The brown middle: That's the inside of the cup. It's gotten dirty/old. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7VNkkjiO))
-  - _Replying to: (photo reply, no text)_
-- **dianelynnturnbull**: That is why it looks tan and speckled. The little gray cracked lump on the right: That's the best clue. That's a peridiole — the "egg" in the nest. A fresh one is smooth and gray-white, and when it dries out it cracks like that. Most of the eggs have already splashed out of this one. They grow on dead leaves, wood chips, and mulch, and they work like tiny splash cups. When a raindrop hits the nest, it launches those little eggs out to spread the spores. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7aSHkiJb))
-  - _Replying to: Here's what I learned about it when I asked AI: That's not …_
-- **dianelynnturnbull**: Totally harmless, just breaking down that dead leaf underneath it. It's a good sign your leaf litter is healthy ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7aSQElfo))
-  - _Replying to: That is why it looks tan and speckled. The little gray crac…_
-- **dianelynnturnbull**: Totally harmless, just breaking down that dead leaf underneath it. It's a good sign your leaf litter is healthy ([link](https://www.threads.com/@dianelynnturnbull/post/DgA7aRykqCL))
-  - _Replying to: Totally harmless, just breaking down that dead leaf underne…_
-- **dianelynnturnbull**: I found it. I think I am going to decopauge it onto this wood cookie. ([link](https://www.threads.com/@dianelynnturnbull/post/DgA55Sikkxd))
-  - _Replying to: (photo reply, no text)_
-- **shiawasemainichi5**: Yes. Even those beautiful flowers, like roses, look sad. ([link](https://www.threads.com/@shiawasemainichi5/post/Df8kFf_iKdf))
-  - _Replying to: Melancholy suits them - a beautiful late-season rose._
-- **julespmar**:  ([link](https://www.threads.com/@julespmar/post/Df79EhckVD9))
-  - Photo: Description: A light blue athletic shoe and a portion of a light green backpack strap rest on weathered wooden planks, with a small, fuzzy, irregularly shaped object lying between them. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The wooden planks show visible grain and wear, and the objects are in focus with no apparent motion blur or distortion. Photo type: Documentary
-- **julespmar**: This was where I walk the dog and it’s a tennis ball cover probably ripped off by another dog. ([link](https://www.threads.com/@julespmar/post/Df79UAOkWXV))
-  - _Replying to: (photo reply, no text)_
-- **dianelynnturnbull**: I see a sweet cowboy boot for someone with very large calves...the leaf is icing on the...boot. ([link](https://www.threads.com/@dianelynnturnbull/post/Df8Ki4ZicOv))
-  - _Replying to: It was the only one framed in such a manner. It was an earl…_
-- **mummabear1963v**: Iam not sure but its very special and these 2 i took in Thailand in 2023 ([link](https://www.threads.com/@mummabear1963v/post/Df-pZNkgfrG))
-  - Photo: Description: A large, mature tree with a thick, gnarled trunk and extensive root system stands in a grassy area, surrounded by other trees and greenery; a person is visible in the background walking on a path. Photograph read: The image is taken from a low angle, capturing the tree’s base and upward trunk; lighting is natural daylight, with some areas in shadow and others brightly lit; the tree’s bark texture and root structure are visible, though not sharply detailed. Photo type: Natural landscape
-  - Photo: Description: A large, mature tree with thick, gnarled trunks and exposed roots dominates the foreground, set in a grassy park area with other trees and a person in the background. Photograph read: The image is taken from a low angle, capturing the tree’s base and trunk. Lighting is natural daylight, with some shadows cast by the tree’s canopy. The rendering is clear enough to discern bark texture and root structure, though some areas are slightly out of focus. Photo type: Natural landscape
-  - _Replying to: Sheffield Tasmania taken july this year_
-- **david.l.mcgee56**: Yes they do… ([link](https://www.threads.com/@david.l.mcgee56/post/Df-nK2LGfTe))
-  - Photo: Description: The photograph shows two views of a large, ancient ginkgo tree with vibrant yellow foliage, set in an outdoor cemetery environment with gravestones and pathways visible. Photograph read: The images are composed as a split-screen, with each panel showing the tree from a different angle. Lighting is bright daylight, casting clear shadows and highlighting the tree’s canopy and trunk. Rendering is clear, with visible texture on the bark and leaf detail. Photo type: Natural
-  - _Replying to: Louisville keeps its old trees well._
-- **kes_ward**: The bubble held for about 30-40 seconds. Always add glycerin into the mix and it give the bubble a little extra strength. The bubble changes quite dramatically from start to finish. This was at the start. ([link](https://www.threads.com/@kes_ward/post/Df-Mqz0Dj6p))
-  - _Replying to: A whole alien planet in a soap bubble, with a tiny heart hi…_
-- **reef_ausic**: Can’t agree more ([link](https://www.threads.com/@reef_ausic/post/Df89WVZI6xt))
-  - _Replying to: Mid-bloom is the perfect moment to catch it._
-- **brownieone**:  ([link](https://www.threads.com/@brownieone/post/Df7qy96CAVI))
-  - Photo: Description: The image shows a downward-looking view of a large, circular, multi-tiered metal structure with radial beams and embedded lights, set within a building with visible ceiling beams and windows. Photograph read: The composition is centered on concentric circular rings, with radial metal elements radiating outward. Lighting is provided by warm-toned point sources embedded in the structure, casting highlights on metallic surfaces. The rendering is clear enough to distinguish structural components and lighting fixtures. Photo type: Architectural
-  - _Replying to: Rings of light winding up into a spiral - does it turn, or …_
-- **ulrike6417**: Ich war auf einer Fähre durch die Kieler Förde, als die Quallen aufgetaucht sind! Ich finde sie sehr interessant! ([link](https://www.threads.com/@ulrike6417/post/Df7xUFgkSVK))
-  - _Replying to: Did you wait for them to line up like that, or did the drif…_
-- **2killamockingbird**: I'm glad you liked it,thank you.. ([link](https://www.threads.com/@2killamockingbird/post/Df7rZ-JgAI7))
-  - _Replying to: Thank you - that frosty heart stopped my scroll._
-- **linda73linda**: Leuk ! Zou het hetzelfde hart zijn geweest ? ([link](https://www.threads.com/@linda73linda/post/Df703UkDQJQ))
-  - _Replying to: Another day, with the same heart_
-- **fabienne_journey**: Vrees het niet. Deze foto is al een tijdje geleden gemaakt ([link](https://www.threads.com/@fabienne_journey/post/Df74mbEDpsx))
-  - _Replying to: Leuk ! Zou het hetzelfde hart zijn geweest ?_
-- **linda73linda**: Oh, ik heb even gekeken deze is van 26 oktober 😬 ([link](https://www.threads.com/@linda73linda/post/Df75UgTDcEC))
-  - _Replying to: Vrees het niet. Deze foto is al een tijdje geleden gemaakt_
-- **fabienne_journey**: De mijne was op 15 maart 🥹 ([link](https://www.threads.com/@fabienne_journey/post/Df77ROIjr5U))
-  - _Replying to: Oh, ik heb even gekeken deze is van 26 oktober 😬_
-- **linda73linda**: Ohhh. Dan is het niet hetzelfde hartje 😬😬😂😂 Maar wel mooie harten 🫶🏼 ([link](https://www.threads.com/@linda73linda/post/Df77tPXjZvJ))
-  - _Replying to: De mijne was op 15 maart 🥹_
-- **fabienne_journey**: Hartjes zijn tenslotte altijd mooi ❤️🫶🏼 ([link](https://www.threads.com/@fabienne_journey/post/Df779xADnvl))
-  - _Replying to: Ohhh. Dan is het niet hetzelfde hartje 😬😬😂😂 Maar wel mooie …_
-- **marcinewiese**: My grandson put his hands behind his back and put his chin on my head for an unusually shaped selfie with me ([link](https://www.threads.com/@marcinewiese/post/Df7YjHflkHY))
-  - Photo: Description: Two individuals are positioned in a domestic interior: a younger person with short dark hair and a smiling expression is seated behind an older person with white hair and glasses, who is looking directly at the camera. Photograph read: The image is taken indoors with natural light coming from a window behind the subjects, partially obscured by sheer curtains. The foreground subject is in focus, while the background includes a dark shelving unit and a decorative sign. Lighting is uneven, with bright areas near the window and darker regions to the left. Photo type: Portrait
-    - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
-- **srravi**:  ([link](https://www.threads.com/@srravi/post/Df7YPVVGqjJ))
-  - Photo: Description: A close-up macro photograph of a green leaf, showing its central vein and branching venation pattern against a dark green background. Photograph read: The image is in focus with even lighting, revealing fine textures and vein structures. The leaf’s surface and vascular network are clearly rendered, with no visible motion blur or light falloff. Photo type: Macro
 
