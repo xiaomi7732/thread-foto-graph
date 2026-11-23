@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (137)
+## Needs Reply (136)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -332,10 +332,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The older person’s face shows visible skin texture and glasses, but the image lacks sharpness in the background elements, including the window curtains and shelving, indicating a shallow depth of field. The younger person’s smile is visible, but the teeth are slightly overexposed, reducing contrast and detail.
 - **srravi**:  ([link](https://www.threads.com/@srravi/post/Df7YPVVGqjJ))
   - Photo: Description: A close-up macro photograph of a green leaf, showing its central vein and branching venation pattern against a dark green background. Photograph read: The image is in focus with even lighting, revealing fine textures and vein structures. The leaf’s surface and vascular network are clearly rendered, with no visible motion blur or light falloff. Photo type: Macro
-
-### Reflection Wednesday favorites 🏆 5 reflections that stopped… ([thread](https://www.threads.com/@saars.foto/post/Df6moPikT7C))
-- **apertureandartdotcom**: That is actually a canal. The whole town of Giethoorn is built on canals. You either float or walk. ([link](https://www.threads.com/@apertureandartdotcom/post/Df6tcd2kWa5))
-  - _Replying to: @apertureandartdotcom Your canal sunrise is slide four of t…_
 
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
