@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (24)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **patrickcullie**: Cadaquez, Spain. 2012. ([link](https://www.threads.com/@patrickcullie/post/DgIce6gG59l))
+  - Photo: Description: A circular mosaic table with a grid of light beige and tan tiles, featuring a small pile of smooth, gray stones at its center, set on a tiled patio with black metal chairs and a railing in the background. Photograph read: The image is taken from a high angle, with strong sunlight casting sharp shadows from the railing onto the table. The mosaic pattern is clearly visible, and the stones are in focus. The composition is centered, with the table occupying most of the frame. Photo type: Still life
 - **tile_conscious**:  ([link](https://www.threads.com/@tile_conscious/post/DgIbpTim3-H))
   - Photo: Description: The photograph shows the facade of a tall, modern building with a grid of green-tinted windows and horizontal bands of perforated panels. Photograph read: The image is composed of repeating vertical and horizontal lines, with uniform lighting across the surface. The rendering is flat and lacks depth cues, with no visible motion blur or distortion. Photo type: Architectural
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgIbKJuDjzI))
@@ -30,6 +32,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows an interior view of a covered cloister with stone arches and columns, a wooden-beamed ceiling, and a tiled floor, with a grassy courtyard visible through the arches. Photograph read: The image is taken from a low angle, emphasizing the perspective of the cloister’s arcade. Lighting is natural, casting shadows across the floor, with sunlight entering through the arches. The rendering is clear enough to discern architectural details, including column capitals and tile patterns. Photo type: Architectural
 - **peanutbutterscotch_**: I didn’t plan it that way, but I had to stop when I noticed! ([link](https://www.threads.com/@peanutbutterscotch_/post/DgIa_2ZmGdW))
   - _Replying to: The arches march off into the distance, and the sun lays a …_
+- **smilingjeannie**: We were passing through with no time for a relaxing cup of tea, unfortunately. He did offer though. ([link](https://www.threads.com/@smilingjeannie/post/DgIcwY7naFS))
+  - _Replying to: The whole tent is stripes and diamonds, and then there is t…_
 - **lisasmithmulholland**: I took this looking up into the stairwell. I thought they look like lace as well. It is in a lighthouse and there are windows all the way to the top. I just found it to be so stunning. Thanks for commenting back. ([link](https://www.threads.com/@lisasmithmulholland/post/DgIbP0AJYJ5))
   - _Replying to: Those perforated steps turn the whole stairwell into lace a…_
 - **a_sicilian_baker**: We were driving on the 101 and I saw this amazing scene 😍 ([link](https://www.threads.com/@a_sicilian_baker/post/DgIbe0Gmvcr))

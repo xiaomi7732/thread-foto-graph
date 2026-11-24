@@ -235,8 +235,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 163,
+      "reply_count": 165,
       "replies": [
+        {
+          "username": "patrickcullie",
+          "text": "Cadaquez, Spain. 2012.",
+          "permalink": "https://www.threads.com/@patrickcullie/post/DgIce6gG59l",
+          "photos": [
+            "Description: A circular mosaic table with a grid of light beige and tan tiles, featuring a small pile of smooth, gray stones at its center, set on a tiled patio with black metal chairs and a railing in the background. Photograph read: The image is taken from a high angle, with strong sunlight casting sharp shadows from the railing onto the table. The mosaic pattern is clearly visible, and the stones are in focus. The composition is centered, with the table occupying most of the frame. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "tile_conscious",
           "text": "",
@@ -419,7 +431,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "smilingjeannie",
+                  "text": "We were passing through with no time for a relaxing cup of tea, unfortunately. He did offer though.",
+                  "permalink": "https://www.threads.com/@smilingjeannie/post/DgIcwY7naFS",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
