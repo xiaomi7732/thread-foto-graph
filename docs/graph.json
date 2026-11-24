@@ -224,8 +224,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 294,
+      "reply_count": 296,
       "replies": [
+        {
+          "username": "skepticalfla",
+          "text": "",
+          "permalink": "https://www.threads.com/@skepticalfla/post/DgI-v8TlVLs",
+          "photos": [
+            "Description: A multi-story building with curved, repeating balconies and vertical support columns, photographed at an angle against a clear sky, with warm light illuminating the facade. Photograph read: The image shows a low-angle perspective of the building\u2019s facade, with strong directional lighting casting warm tones on the balconies and shadows in recessed areas. The balconies are uniformly spaced and feature metal railings; windows are visible but mostly dark or indistinct. The image has a clean, sharp focus across the visible structure, with no apparent motion blur or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "shel_bee_g",
           "text": "",
@@ -890,7 +902,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "cindi7741",
+                  "text": "The arches are in Rocky point Mexico at my sister's house. The tracks are up in Washington state.",
+                  "permalink": "https://www.threads.com/@cindi7741/post/DgI_CyoEpL-",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
