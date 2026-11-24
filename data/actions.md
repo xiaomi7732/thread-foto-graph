@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (27)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **kateksm**:  ([link](https://www.threads.com/@kateksm/post/DgIlulYDenM))
+  - Photo: Description: A rusted metal staircase dominates the foreground, leading upward toward a large, curved, multi-story building with a repeating geometric window pattern under a clear blue sky. Photograph read: The image is taken from a low angle, emphasizing the staircase’s structure. Bright sunlight illuminates the building and sky, casting strong shadows on the staircase. The building’s facade is detailed but appears slightly soft, with no visible sharpness or focus issues. The foreground staircase is dark and textured, contrasting with the brighter background. Photo type: Architectural
 - **storycatcher52**: Summer concert ([link](https://www.threads.com/@storycatcher52/post/DgIlVH3lJwP))
   - Photo: Description: Rows of white plastic chairs are arranged on a green grass field under bright sunlight, with shadows cast across the seats. Photograph read: The image is taken from a low angle, showing multiple rows of chairs receding into the background. Lighting is direct and strong, creating sharp, striped shadows on the chair surfaces. The image has a shallow depth of field, with the foreground chairs in focus and the background gradually blurring. Photo type: Documentary
 - **de_wanderer_soul**: Does this fit the theme ([link](https://www.threads.com/@de_wanderer_soul/post/DgIlLpICCWw))
