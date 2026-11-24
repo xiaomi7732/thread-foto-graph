@@ -227,7 +227,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, lighting",
+      "label": "photograph, photo, visible, read",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -235,8 +235,56 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 59,
+      "reply_count": 76,
       "replies": [
+        {
+          "username": "e_wat_son",
+          "text": "",
+          "permalink": "https://www.threads.com/@e_wat_son/post/DgITf_VpXHA",
+          "photos": [
+            "Description: Five off-white, cube-shaped dice are scattered on a dark green surface, each displaying a black club symbol; one die shows partial blue and green markings. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The dice are in focus, but the background is uniformly dark and lacks texture. The dice surfaces reflect light, creating soft highlights. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "akmaleky",
+          "text": "",
+          "permalink": "https://www.threads.com/@akmaleky/post/DgITKAgmuL2",
+          "photos": [
+            "Description: A wooden chair with a curved backrest is positioned in front of a decorative lattice screen composed of repeating geometric patterns, set against a white background. Photograph read: The composition is framed by the chair\u2019s armrest and the vertical edge of the screen. Lighting is even and diffused, casting soft shadows. The screen\u2019s pattern is clearly visible, and the chair\u2019s wood grain is discernible. No signs of motion blur, focus issues, or color distortion are apparent. Photo type: Interior design"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "rolivertarheels",
+          "text": "",
+          "permalink": "https://www.threads.com/@rolivertarheels/post/DgITGuTkddE",
+          "photos": [
+            "Description: The image shows the Gateway Arch in St. Louis, Missouri, under a partly cloudy sky, with visitors visible at its base and a bridge in the distant background. Photograph read: The arch dominates the frame, captured from a low angle, with bright daylight illuminating its metallic surface. Clouds are visible in the sky, and a tree is partially framing the left side. The image appears sharp, with clear definition on the arch\u2019s structure and surrounding elements. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "marinacasalribeiro",
+          "text": "",
+          "permalink": "https://www.threads.com/@marinacasalribeiro/post/DgITCiPiCJ9",
+          "photos": [
+            "Description: The image shows a large, modern architectural structure with a lattice-like, undulating form, set against a clear blue sky, with a staircase and railings in the foreground. Photograph read: The composition is taken from a low angle, emphasizing the structure\u2019s upward curve. Lighting is bright and direct, casting clear shadows and highlighting the geometric patterns. The rendering is sharp, with visible texture on the structure\u2019s surfaces and defined edges. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "robbbertphoto",
           "text": "Glass.",
@@ -256,10 +304,21 @@
           "photos": [
             "Description: A group of uniformed marching soldiers in grey coats, white sashes, and tall black plumed hats march in formation on a city street, with a \u201cNew York Public Library\u201d sign visible in the background. Photograph read: The image is taken from a slightly elevated angle, capturing the soldiers in profile as they march. Lighting is even and diffuse, suggesting an overcast day. The image has a shallow depth of field, with the foreground soldiers in focus and the background slightly softer. The resolution is sufficient to discern uniforms, insignia, and facial features, though not exceptionally sharp. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Row after row of gray, white crossbelts, and tall plumes marching in step - the cadets are the pattern, and the library sign behind them is the only thing not in uniform. Did the formation march past, or did you wait for it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITUhGEc4b",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artiekay2",
@@ -284,10 +343,21 @@
             "Description: A tall, red-and-gray metal observation tower with stairs and platforms stands against a clear blue sky, surrounded by evergreen trees and distant hills; a wooden deck with railings occupies the foreground. Photograph read: The image is taken in bright daylight with even illumination; the tower and surrounding landscape are in focus, showing clear structural details and natural textures. The composition is vertical, with the tower centered, and the foreground deck provides a sense of depth. Photo type: Documentary",
             "Description: A wooden staircase with matching paneling on the walls ascends toward an upper level, flanked by a thick green rope handrail on the right. Photograph read: The image is taken from a low angle looking up the stairs, with even, diffuse indoor lighting. The wood grain and knots on the steps and walls are visible, and the rope handrail shows texture. The composition is straightforward, with no visible distortion or color aberration. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two staircases in one post, and they could not be more different - the tower zigzags up into open sky and the wooden one climbs straight up indoors. Which one did you climb first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITNd6oK-W",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "d1xshooter",
@@ -299,10 +369,21 @@
           "watch_outs": [
             "- The boat and figures are indistinct due to low contrast and lack of detail; the shapes are vague and not clearly defined. - The water\u2019s bright reflections obscure parts of the boat\u2019s structure and figures, reducing visibility of their forms."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The water turned to glitter around that little boat, and the two figures just stand in the middle of it like it happens every night. What was throwing the light?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITOkmmz4l",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "charhedman",
@@ -311,10 +392,21 @@
           "photos": [
             "Description: The photograph shows a modern high-rise building with a repetitive, modular facade of balconies and windows, captured in monochrome. A worker on a suspended platform is visible near the center-right of the frame. Photograph read: The image is in black and white, with high contrast between light and shadow. The composition is dense and geometric, emphasizing the repetitive structure of the balconies. Lighting appears to be direct, casting sharp shadows and highlighting edges. No visible signs of motion blur, focus issues, or sensor noise. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you notice the work platform while you were shooting, or only after? The balconies stack like cubes in a puzzle that forgot to stop, and the two people on that little platform bring the scale crashing back.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITPmFlDUa",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "silmarillioncollector",
@@ -323,10 +415,21 @@
           "photos": [
             "Description: The image shows a close-up of a split or cracked surface, likely wood or bark, with a distinct vertical edge separating a rough, textured area from a smoother, linear-grained surface. Photograph read: The composition is split vertically, with the left side showing a cracked, granular texture and the right side displaying vertical wood grain. Lighting is directional, casting shadows along the crack and highlighting the texture. Rendering is sharp in the visible areas, with no apparent motion blur or chromatic aberration. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The cracks in that weathered wood read like crazy paving, and the smooth plank beside it makes the rough side look even older. A fence doing its best impression of a tiled floor.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITQjkG0Rv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "junt0k",
@@ -335,10 +438,21 @@
           "photos": [
             "Description: A multi-story white building with vertically aligned windows featuring colorful shutters in a rainbow gradient from purple to red, viewed from across a paved street with lane markings. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting suggesting an overcast day. The building\u2019s facade is the primary subject, with clear architectural details visible. The street in the foreground is empty of traffic and pedestrians, and a single streetlamp stands near the center. The image has no visible signs of motion blur or focus issues. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the rainbow running across those identical windows is what makes it - same shutters, same building, and the color does all the talking. What caught your eye first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITRgum0_M",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "toddawg001",
@@ -347,10 +461,21 @@
           "photos": [
             "Description: A snow-covered mountain landscape with dense evergreen forests arranged in terraced rows across sloping terrain, with rocky, snow-dusted peaks in the background. Photograph read: The image presents a wide, high-angle view with even, diffused lighting, showing clear contrast between the dark coniferous trees and white snow. Textures of snow and rock are visible, but no sharp focus or motion blur is apparent. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The trees stripe the whole slope dark green and white, band after band, right up to the bare rock. The snow between them turns the bands into stripes you can count.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITSp2EdpJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "42_z_photos",
@@ -359,10 +484,21 @@
           "photos": [
             "Description: The photograph shows a downward-looking view of a spiral staircase with dark carpeted steps, accented by white and pink stripes, and a polished wooden handrail supported by metal balusters with ornamental caps. Photograph read: The image is taken from a high vantage point, looking down the center of the spiral staircase. The composition is symmetrical and radial, with the staircase curving inward. Lighting is even and artificial, illuminating the staircase uniformly without harsh shadows or overexposure. The rendering is sharp, with clear definition of the handrail, balusters, and carpet patterns. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The spiral winds down through black and pink stripes and lands on a little checkered floor - a chessboard waiting at the bottom.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITThqm0P0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dwordops",
@@ -383,7 +519,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dwordops",
+                  "text": "It\u2019s the \u201cshow\u201d barrel house underneath Caymus. No mirror, no AI, I just lined up the shot \u2026",
+                  "permalink": "https://www.threads.com/@dwordops/post/DgITZ8rkcji",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -492,10 +639,21 @@
                   "text": "Audain Art Gallery Whistler B.C.",
                   "permalink": "https://www.threads.com/@gil_o_gram/post/DgISpEvm1Sr",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A fine payoff for a climb like that.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgITVqDmvtR",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -697,7 +855,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dianelynnturnbull",
+                  "text": "Lol! I have no idea! It had been lightly raining as I was driving. When I pulled into the parking lot the rain had stopped. I feel very lucky that this fir tree hung onto the rain drops long enough for me to find them.",
+                  "permalink": "https://www.threads.com/@dianelynnturnbull/post/DgITGZGm2kQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -708,10 +877,21 @@
           "photos": [
             "Description: A white-painted brick wall displays rows of black, capitalized names in a grid layout, with a dark wooden door visible to the left and a reddish-brown vertical element to the right. Photograph read: The image is evenly lit with a direct light source above, casting minimal shadows. The brick texture is visible beneath the painted surface. The text is rendered in a bold, sans-serif font and is legible, though slightly uneven in alignment. No motion blur, chromatic aberration, or lens distortion is apparent. Photo type: Document"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Row after row of names, and every single one a person who lived there. That is a wall you do not walk past quickly. Did any one name stay with you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITXBVmiy1",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "picsall",
@@ -720,10 +900,21 @@
           "photos": [
             "Description: A dried, compound leaf with multiple elongated segments lies on a ground surface composed of gravel, small stones, and dirt, with a few larger rocks scattered nearby. Photograph read: The image is a close-up, top-down view with even, diffuse lighting. Details of the leaf\u2019s veins and surface texture are visible, but the image lacks sharpness in the background gravel and stones. No signs of motion blur, lens distortion, or chromatic aberration are evident. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The leaflets do their own repeating - five long blades fanned off one stem, all that gold against the gravel. Was it the color that caught you, or the shape?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgITX-lmnNi",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bojonvelvet2.0",
@@ -939,7 +1130,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, photo, visible, lighting",
+      "label": "photograph, photo, visible, read",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",
