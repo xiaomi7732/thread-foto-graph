@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (27)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **ashu_anu87**:  ([link](https://www.threads.com/@ashu_anu87/post/DgIUe8JpYGd))
+  - Photo: Description: A wooden boardwalk with red, perforated metal planks extends upward through a forested mountain slope, flanked by evergreen trees and bare-branched trees, leading toward a distant, hazy valley under a pale sky. Photograph read: The composition is a low-angle perspective looking up the boardwalk, framed by tree branches overhead. Lighting is diffuse and even, with no strong shadows or highlights. The image has a cool, slightly desaturated color tone and visible grain or texture in the wood and foliage. Photo type: Natural landscape
 - **william67walter**: Lobby ceiling light ([link](https://www.threads.com/@william67walter/post/DgIUKyREayW))
   - Photo: Description: A circular, illuminated object with a geometric, petal-like or honeycomb pattern is centered against a dark, textured background. The object emits a warm, even glow from within. Photograph read: The image is a top-down view of the object, with radial symmetry emphasized by the lighting. The lighting is uniform and diffused, casting soft shadows within the pattern. The background is dark and non-reflective, contrasting with the object’s glow. No visible lens distortion or motion blur is present. Photo type: Still life
 - **bythelightofdawn**:  ([link](https://www.threads.com/@bythelightofdawn/post/DgIUJR9Fjsj))
@@ -30,12 +32,18 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DgISgcZESAN))
   - Photo: Description: A grid of circular holes in a dark, uniform surface, with some holes reflecting a golden, insect-like object, while others show only reflections of ambient light or empty space. Photograph read: The image is composed of a repeating pattern of circular apertures. Lighting is diffuse, creating soft reflections within the holes. Reflections are visible in some holes but are inconsistent in clarity and content. The surface appears smooth and uniform, with no visible texture or depth cues. Photo type: Abstract
     - Watch-outs: - Reflections in the holes are inconsistent; some show clear, detailed insect-like forms while others are indistinct or show only light reflections. - The main subject (insect reflections) is partially obscured by the uniformity of the grid and the lack of sharp focus across the entire image.
+- **bobherrmann6**: The Tower is the stairway to heaven like the song The wooden one is the stairway to the man cave (Going down) ([link](https://www.threads.com/@bobherrmann6/post/DgIUWyzlSTR))
+  - _Replying to: Two staircases in one post, and they could not be more diff…_
+- **d1xshooter**: Fishing for Lake Trout, probably a spoon ([link](https://www.threads.com/@d1xshooter/post/DgIUj1sFYSm))
+  - _Replying to: The water turned to glitter around that little boat, and th…_
 - **charhedman**: I saw them right away and wanted them in the photo. They really do look so small. 🙏 ([link](https://www.threads.com/@charhedman/post/DgIUGTRm3TU))
   - _Replying to: Did you notice the work platform while you were shooting, o…_
 - **dwordops**: It’s the “show” barrel house underneath Caymus. No mirror, no AI, I just lined up the shot … ([link](https://www.threads.com/@dwordops/post/DgITZ8rkcji))
   - _Replying to: Two barrels up front like sentries, and then the rows just …_
 - **an_aginggrace**: The former. That upper right triangle is reflective metal. ([link](https://www.threads.com/@an_aginggrace/post/DgIS6o8Oudc))
   - _Replying to: Is that wavy diagonal beam reflecting the wall, or is the w…_
+- **ritaveeps**: Blue hour, one Christmas season.. ([link](https://www.threads.com/@ritaveeps/post/DgIUWyoEQnk))
+  - _Replying to: Those blue circles frame the snowy branches like a second w…_
 - **musemoon63**: It circles back around to the entrance. Glad you like . ([link](https://www.threads.com/@musemoon63/post/DgISz60EbaF))
   - _Replying to: How far back do those barrels go? The curve of the cellar k…_
 - **beckiefitzgerald**: Not too long. 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DgIS3cUoAK8))
@@ -46,6 +54,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The slats run one way, then the curve bends them the other …_
 - **dianelynnturnbull**: Lol! I have no idea! It had been lightly raining as I was driving. When I pulled into the parking lot the rain had stopped. I feel very lucky that this fir tree hung onto the rain drops long enough for me to find them. ([link](https://www.threads.com/@dianelynnturnbull/post/DgITGZGm2kQ))
   - _Replying to: The needles line up in such neat rows, and then the droplet…_
+- **paul.moorman91**: No individual name stood out but the overwhelming volume of first names only struck me. Sobering. ([link](https://www.threads.com/@paul.moorman91/post/DgIUWJjltYA))
+  - Photo: Description: A white-painted brick wall features rows of black, capitalized names etched or painted onto its surface, flanking a dark wooden door with six glass panes. The floor is paved with reddish-brown bricks. Photograph read: The image is evenly lit, with no visible shadows or overexposure. The door is centered, and the names are clearly legible. The brick texture is visible, and the door’s hardware is distinct. The ceiling has a recessed light fixture. Photo type: Documentary
+  - _Replying to: Row after row of names, and every single one a person who l…_
 - **infamous_harsh1t**:  ([link](https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f))
   - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
     - Watch-outs: The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form.
