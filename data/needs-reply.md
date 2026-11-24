@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (17)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/DgI_pLHCFmX))
+  - Photo: Description: A modern building with a grid of vertical windows on one side and an ornate, repeating quatrefoil pattern on the adjacent facade, framed by bare tree branches in the foreground. Photograph read: The image is in black and white, with strong contrast between the bright facade and dark window frames. Lighting creates sharp shadows and highlights on the architectural surfaces. The composition is angled, emphasizing the building’s corner and the patterned facade. Photo type: Architectural
 - **skepticalfla**:  ([link](https://www.threads.com/@skepticalfla/post/DgI-v8TlVLs))
   - Photo: Description: A multi-story building with curved, repeating balconies and vertical support columns, photographed at an angle against a clear sky, with warm light illuminating the facade. Photograph read: The image shows a low-angle perspective of the building’s facade, with strong directional lighting casting warm tones on the balconies and shadows in recessed areas. The balconies are uniformly spaced and feature metal railings; windows are visible but mostly dark or indistinct. The image has a clean, sharp focus across the visible structure, with no apparent motion blur or chromatic aberration. Photo type: Architectural
 - **zanny2mg_fl**: Just happened to be there at the right time while out shooting that day :) ([link](https://www.threads.com/@zanny2mg_fl/post/DgI9Yylkcc8))
@@ -15,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Hands from every direction, all landing in the same middle …_
 - **cindi7741**: The arches are in Rocky point Mexico at my sister's house. The tracks are up in Washington state. ([link](https://www.threads.com/@cindi7741/post/DgI_CyoEpL-))
   - _Replying to: The arches frame the sea, and the old tracks run off into t…_
+- **iphhoto4u71**: Haha. Thankyou. It was a private entrance☺️🙏 ([link](https://www.threads.com/@iphhoto4u71/post/DgI_gg3kmzc))
+  - _Replying to: The railing shadows rake across the steps in long black str…_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
