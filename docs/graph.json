@@ -224,7 +224,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 240,
+      "reply_count": 241,
       "replies": [
         {
           "username": "luvsravens59",
@@ -1312,7 +1312,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "lestriesch",
+                  "text": "It\u2019s at Bishops Castle in Galveston . Probably since the early 1930\u2019s",
+                  "permalink": "https://www.threads.com/@lestriesch/post/DgIzpl_j58h",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

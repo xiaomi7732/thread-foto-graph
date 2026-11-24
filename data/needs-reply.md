@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (47)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **luvsravens59**: Jewish memorial Boston ([link](https://www.threads.com/@luvsravens59/post/DgIxbZHpfbv))
@@ -104,6 +104,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Thanks, I love this one. I took it at the Louvre in the fal…_
 - **kennethstevenson9**: A row of lifeboats. ([link](https://www.threads.com/@kennethstevenson9/post/DgIaXj3m4qc))
   - _Replying to: Rows of windows on a cruise ship as it passes by my house i…_
+- **lestriesch**: It’s at Bishops Castle in Galveston . Probably since the early 1930’s ([link](https://www.threads.com/@lestriesch/post/DgIzpl_j58h))
+  - _Replying to: The vines wrap those pillars like they are trying to hold t…_
 - **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
   - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
 - **ashu_anu87**: It’s on top of the mount Killington Vermont USA it’s very serene during autumn and summer ([link](https://www.threads.com/@ashu_anu87/post/DgIoBSDGJqJ))
