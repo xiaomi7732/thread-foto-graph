@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (27)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **photopattyrn**:  ([link](https://www.threads.com/@photopattyrn/post/DgIdXUzIClq))
+  - Photo: Description: The photograph shows a low-angle view through horizontal window blinds, with a mesh screen visible behind them, revealing a blurred outdoor scene including foliage and building structures. Photograph read: The image is in black and white, with strong diagonal lines formed by the blinds and their shadows. Lighting creates high contrast between bright slats and dark shadowed areas. The composition is tilted, and the background through the blinds is out of focus. Photo type: Architectural
 - **patrickcullie**: Cadaquez, Spain. 2012. ([link](https://www.threads.com/@patrickcullie/post/DgIce6gG59l))
   - Photo: Description: A circular mosaic table with a grid of light beige and tan tiles, featuring a small pile of smooth, gray stones at its center, set on a tiled patio with black metal chairs and a railing in the background. Photograph read: The image is taken from a high angle, with strong sunlight casting sharp shadows from the railing onto the table. The mosaic pattern is clearly visible, and the stones are in focus. The composition is centered, with the table occupying most of the frame. Photo type: Still life
 - **tile_conscious**:  ([link](https://www.threads.com/@tile_conscious/post/DgIbpTim3-H))
@@ -46,6 +48,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
 - **william67walter**: One ceiling light fixture I thought was gorgeous. There were three matching smaller wall mounted heading toward the elevators. Our hotel in Killarney 2 years ago. ([link](https://www.threads.com/@william67walter/post/DgIa8urkZDC))
   - _Replying to: Is that one light, or a whole cluster of them glowing toget…_
+- **bythelightofdawn**: No. It just SO COLD that practically everyone else was enjoying the heat indoors. Only foolhardy folk like me were out on the deck. ([link](https://www.threads.com/@bythelightofdawn/post/DgId3BHmzPy))
+  - Photo: Description: A smiling woman with long dreadlocks wearing a dark hooded jacket is in the foreground, seated on a ferry; a man in a blue jacket stands in the background near a window. Photograph read: The image is taken indoors on a ferry, with even, diffuse lighting. The subject is in focus, while the background shows some depth of field blur. The composition is a close-up selfie with the subject centered. Photo type: Portrait
+  - _Replying to: An empty ferry deck with all those railings marching off to…_
 - **rolivertarheels**:  ([link](https://www.threads.com/@rolivertarheels/post/DgITGuTkddE))
   - Photo: Description: The image shows the Gateway Arch in St. Louis, Missouri, under a partly cloudy sky, with visitors visible at its base and a bridge in the distant background. Photograph read: The arch dominates the frame, captured from a low angle, with bright daylight illuminating its metallic surface. Clouds are visible in the sky, and a tree is partially framing the left side. The image appears sharp, with clear definition on the arch’s structure and surrounding elements. Photo type: Architectural
 - **d1xshooter**: In the Milwaukee River downtown. It’s fun I actually can fish right out of my apartment. Thank you for the interest ([link](https://www.threads.com/@d1xshooter/post/DgIU4QvFZfw))

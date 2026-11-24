@@ -235,8 +235,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 166,
+      "reply_count": 168,
       "replies": [
+        {
+          "username": "photopattyrn",
+          "text": "",
+          "permalink": "https://www.threads.com/@photopattyrn/post/DgIdXUzIClq",
+          "photos": [
+            "Description: The photograph shows a low-angle view through horizontal window blinds, with a mesh screen visible behind them, revealing a blurred outdoor scene including foliage and building structures. Photograph read: The image is in black and white, with strong diagonal lines formed by the blinds and their shadows. Lighting creates high contrast between bright slats and dark shadowed areas. The composition is tilted, and the background through the blinds is out of focus. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "patrickcullie",
           "text": "Cadaquez, Spain. 2012.",
@@ -802,7 +814,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bythelightofdawn",
+                  "text": "No. It just SO COLD that practically everyone else was enjoying the heat indoors. Only foolhardy folk like me were out on the deck.",
+                  "permalink": "https://www.threads.com/@bythelightofdawn/post/DgId3BHmzPy",
+                  "photos": [
+                    "Description: A smiling woman with long dreadlocks wearing a dark hooded jacket is in the foreground, seated on a ferry; a man in a blue jacket stands in the background near a window. Photograph read: The image is taken indoors on a ferry, with even, diffuse lighting. The subject is in focus, while the background shows some depth of field blur. The composition is a close-up selfie with the subject centered. Photo type: Portrait"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
