@@ -6,7 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (3)
+## Needs Reply (5)
+
+### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **arxhloverx**:  ([link](https://www.threads.com/@arxhloverx/post/DgIO5btEoa2))
+  - Photo: Description: Two people walking up a wide, multi-tiered staircase with metal railings, one holding a white umbrella and the other a black umbrella; the stairs are paved with light-colored tiles and cast strong shadows. Photograph read: The image is taken from a high angle, showing strong diagonal shadows cast by the railings and steps. Lighting is bright and direct, creating high contrast between sunlit areas and deep shadows. The composition emphasizes geometric repetition and perspective lines. No visible signs of motion blur, focus issues, or color distortion. Photo type: Architectural
+- **remondiazart**:  ([link](https://www.threads.com/@remondiazart/post/DgIOszakVmh))
+  - Photo: Description: A black-and-white photograph shows a grid of square windows on a concrete building facade, with a dark silhouette of a bird in flight superimposed over one window. Photograph read: The image is composed of repeating rectangular panels and bright, uniformly lit windows. Strong shadows cast by the building’s structure create high-contrast areas. The bird silhouette is sharply defined against the window, suggesting it is in focus and not blurred. Photo type: Architectural
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
