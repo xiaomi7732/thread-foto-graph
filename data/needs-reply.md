@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (22)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **cindi7741**:  ([link](https://www.threads.com/@cindi7741/post/DgIkaiUmn1k))
+  - Photo: Description: The photograph shows an outdoor patio with arched colonnades and ceiling fans, overlooking a bright blue ocean with a distant sailboat; a person is seated at a table on the left. Photograph read: The image is taken in bright daylight with clear visibility of the scene. The patio floor and architectural elements are in focus, and the ocean horizon is sharp. The composition uses the arches to frame the view, with natural light casting distinct shadows. Photo type: Architectural
+  - Photo: Description: The photograph shows a close-up view of weathered railroad tracks with wooden sleepers, gravel ballast, and scattered vegetation, extending into a grassy, tree-lined area in the background. Photograph read: The image is taken from a low angle, with the tracks receding into the distance. Lighting is natural daylight, casting soft shadows. The rendering is clear enough to discern textures on the wood and gravel, though some areas are slightly out of focus or show minor graininess. Photo type: Documentary
 - **reverendbenzo**:  ([link](https://www.threads.com/@reverendbenzo/post/DgIj3XUlhil))
   - Photo: Description: The image shows a road and horizon viewed through a chain-link fence, with a dusky sky displaying pink and orange hues near the horizon, flanked by dark trees and utility poles. Photograph read: The foreground fence is in sharp focus, while the background scene is softly blurred. The lighting suggests twilight, with ambient light from the sky and distant artificial sources. The rendering is flat with no visible lens distortion or chromatic aberration. Photo type: Street photography
     - Watch-outs: - The entire background scene is out of focus, obscuring fine details of the road, vehicles, and buildings. - The chain-link fence’s diamond pattern is sharp and repetitive, creating a grid that partially obscures the view behind it.
