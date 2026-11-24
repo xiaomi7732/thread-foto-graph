@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (30)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **ladenizen2**:  ([link](https://www.threads.com/@ladenizen2/post/DgIngNLGOlq))
@@ -65,6 +65,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Rows of windows on a cruise ship as it passes by my house i…_
 - **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
   - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
+- **ashu_anu87**: It’s on top of the mount Killington Vermont USA it’s very serene during autumn and summer ([link](https://www.threads.com/@ashu_anu87/post/DgIoBSDGJqJ))
+  - _Replying to: That rust-red walkway cutting through all that green reads …_
 - **e_wat_son**: Never that lucky. Totally staged it. ([link](https://www.threads.com/@e_wat_son/post/DgIlT13t5Ba))
   - _Replying to: Five dice and every one of them showing clubs. Did they lan…_
 - **rolivertarheels**:  ([link](https://www.threads.com/@rolivertarheels/post/DgITGuTkddE))
