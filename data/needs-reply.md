@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (33)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **glendagh25**: The American Cemetery, near Florence, Italy ([link](https://www.threads.com/@glendagh25/post/DgIfrmylJ9d))
+  - Photo: Description: Rows of white crosses are arranged in orderly lines across a green field, with trees displaying autumnal foliage and tall evergreens in the background under a cloudy sky. Photograph read: The image shows a wide, open field with evenly spaced crosses. Lighting is diffuse, with no strong directional shadows. The sky is filled with clouds, and the trees are in medium to long focus, with the crosses appearing slightly soft or indistinct in detail. Photo type: Documentary
+- **chris.prut**:  ([link](https://www.threads.com/@chris.prut/post/DgIfoCciMnn))
+  - Photo: Description: The image shows a close-up of a tiled surface with repeating ornamental patterns in dark and light tones, arranged in a grid. Photograph read: The composition is uniform, with consistent lighting across the tiles. The rendering is clear enough to discern the pattern details, though the grout lines are visible as thin, straight lines between tiles. Photo type: Patterned tile
 - **real_art_by_aj**:  ([link](https://www.threads.com/@real_art_by_aj/post/DgIfRPeDe55))
   - Photo: Description: A nighttime view from beneath a large, angular concrete structure with repeating horizontal slats, looking out over a paved walkway flanked by water channels toward a distant illuminated shoreline and bridge. Photograph read: The composition is framed by the structure’s underside, with artificial lights illuminating the walkway and water surfaces. Reflections are visible on the water, and distant lights are visible across the water. The image has a shallow depth of field, with the immediate foreground and structure in focus, while the distant lights are slightly soft. Photo type: Architectural
 - **seeblk**:  ([link](https://www.threads.com/@seeblk/post/DgIedGClWri))
