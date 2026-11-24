@@ -235,8 +235,35 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 174,
+      "reply_count": 176,
       "replies": [
+        {
+          "username": "pattymooney69",
+          "text": "",
+          "permalink": "https://www.threads.com/@pattymooney69/post/DgIgWuAGhp7",
+          "photos": [
+            "Description: Two spiky, sunlit yucca plants dominate the foreground, with a hazy urban landscape and distant hills visible behind a dark hedge under a partly cloudy sky. Photograph read: The image is taken from a high vantage point, with strong backlighting creating bright highlights on the yucca fronds and deep shadows in the foreground hedge. The background is softly out of focus, and the sky shows a mix of blue and white clouds. Photo type: Landscape"
+          ],
+          "watch_outs": [
+            "- Foreground hedge is heavily underexposed, obscuring texture and detail. - Background urban area is indistinct due to atmospheric haze and shallow depth of field."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dspainter",
+          "text": "I'm always looking up.",
+          "permalink": "https://www.threads.com/@dspainter/post/DgIgM9foOgZ",
+          "photos": [
+            "Description: The photograph shows a highly detailed, colorful tiled ceiling with repeating geometric patterns, featuring hexagons, diamonds, and star-like motifs in blue, green, orange, and red. Photograph read: The composition is symmetrical and tessellated, with uniform lighting that highlights the tile surfaces. The rendering is sharp and consistent across the entire frame, with no visible distortion or motion blur. Photo type: Patterned ceiling"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "glendagh25",
           "text": "The American Cemetery, near Florence, Italy",

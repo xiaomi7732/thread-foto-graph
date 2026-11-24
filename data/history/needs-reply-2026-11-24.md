@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (35)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **pattymooney69**:  ([link](https://www.threads.com/@pattymooney69/post/DgIgWuAGhp7))
+  - Photo: Description: Two spiky, sunlit yucca plants dominate the foreground, with a hazy urban landscape and distant hills visible behind a dark hedge under a partly cloudy sky. Photograph read: The image is taken from a high vantage point, with strong backlighting creating bright highlights on the yucca fronds and deep shadows in the foreground hedge. The background is softly out of focus, and the sky shows a mix of blue and white clouds. Photo type: Landscape
+    - Watch-outs: - Foreground hedge is heavily underexposed, obscuring texture and detail. - Background urban area is indistinct due to atmospheric haze and shallow depth of field.
+- **dspainter**: I'm always looking up. ([link](https://www.threads.com/@dspainter/post/DgIgM9foOgZ))
+  - Photo: Description: The photograph shows a highly detailed, colorful tiled ceiling with repeating geometric patterns, featuring hexagons, diamonds, and star-like motifs in blue, green, orange, and red. Photograph read: The composition is symmetrical and tessellated, with uniform lighting that highlights the tile surfaces. The rendering is sharp and consistent across the entire frame, with no visible distortion or motion blur. Photo type: Patterned ceiling
 - **glendagh25**: The American Cemetery, near Florence, Italy ([link](https://www.threads.com/@glendagh25/post/DgIfrmylJ9d))
   - Photo: Description: Rows of white crosses are arranged in orderly lines across a green field, with trees displaying autumnal foliage and tall evergreens in the background under a cloudy sky. Photograph read: The image shows a wide, open field with evenly spaced crosses. Lighting is diffuse, with no strong directional shadows. The sky is filled with clouds, and the trees are in medium to long focus, with the crosses appearing slightly soft or indistinct in detail. Photo type: Documentary
 - **chris.prut**:  ([link](https://www.threads.com/@chris.prut/post/DgIfoCciMnn))
