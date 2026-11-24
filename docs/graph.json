@@ -235,8 +235,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 119,
+      "reply_count": 124,
       "replies": [
+        {
+          "username": "lestriesch",
+          "text": "",
+          "permalink": "https://www.threads.com/@lestriesch/post/DgIWnK4ltF9",
+          "photos": [
+            "Description: The photograph shows a pathway under a covered structure with stone pillars, entwined by thick, gnarled vines that wrap around the pillars and overhead beams. The ground is covered with mulch and scattered leaves, and sunlight filters through the foliage in the background. Photograph read: The composition is a low-angle shot along a linear path, with the pillars receding into the distance. Lighting is natural daylight, casting shadows from the structure and vines. The rendering is clear enough to distinguish textures of stone, bark, and foliage, though some areas are in shadow. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "catmac720",
           "text": "",
@@ -515,7 +527,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "marinacasalribeiro",
+                  "text": "The grid, no doubt.",
+                  "permalink": "https://www.threads.com/@marinacasalribeiro/post/DgIWf_HCP5I",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -597,10 +620,21 @@
           "watch_outs": [
             "- Reflections in the holes are inconsistent; some show clear, detailed insect-like forms while others are indistinct or show only light reflections. - The main subject (insect reflections) is partially obscured by the uniformity of the grid and the lack of sharp focus across the entire image."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole grid of holes, and then something golden starts peeking through them one hole at a time. What is hiding behind the panel?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIWgawjjFY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bobherrmann6",
@@ -743,7 +777,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "charhedman",
+                          "text": "Totally. We are so small.",
+                          "permalink": "https://www.threads.com/@charhedman/post/DgIWfhcmgXM",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -793,7 +838,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "junt0k",
+                  "text": "the colorful windows pattern",
+                  "permalink": "https://www.threads.com/@junt0k/post/DgIWv6ekgKy",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

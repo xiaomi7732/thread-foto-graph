@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (12)
+## Needs Reply (15)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **lestriesch**:  ([link](https://www.threads.com/@lestriesch/post/DgIWnK4ltF9))
+  - Photo: Description: The photograph shows a pathway under a covered structure with stone pillars, entwined by thick, gnarled vines that wrap around the pillars and overhead beams. The ground is covered with mulch and scattered leaves, and sunlight filters through the foliage in the background. Photograph read: The composition is a low-angle shot along a linear path, with the pillars receding into the distance. Lighting is natural daylight, casting shadows from the structure and vines. The rendering is clear enough to distinguish textures of stone, bark, and foliage, though some areas are in shadow. Photo type: Natural
 - **catmac720**:  ([link](https://www.threads.com/@catmac720/post/DgIWPsAlTAx))
   - Photo: Description: The photograph shows a multi-story, cylindrical architectural structure with arched openings and balconies, illuminated at night against a dark background, with a portion of an adjacent building visible to the right. Photograph read: The image is taken at night with directional lighting highlighting the architectural features, creating strong contrast between lit areas and deep shadows. The composition is a low-angle shot, emphasizing the verticality of the structure. The rendering appears to be from a digital camera, with no visible signs of motion blur or chromatic aberration. Photo type: Architectural
 - **thedaveatkins**:  ([link](https://www.threads.com/@thedaveatkins/post/DgIWCvBG0gZ))
@@ -20,11 +22,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
 - **rolivertarheels**:  ([link](https://www.threads.com/@rolivertarheels/post/DgITGuTkddE))
   - Photo: Description: The image shows the Gateway Arch in St. Louis, Missouri, under a partly cloudy sky, with visitors visible at its base and a bridge in the distant background. Photograph read: The arch dominates the frame, captured from a low angle, with bright daylight illuminating its metallic surface. Clouds are visible in the sky, and a tree is partially framing the left side. The image appears sharp, with clear definition on the arch’s structure and surrounding elements. Photo type: Architectural
-- **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DgISgcZESAN))
-  - Photo: Description: A grid of circular holes in a dark, uniform surface, with some holes reflecting a golden, insect-like object, while others show only reflections of ambient light or empty space. Photograph read: The image is composed of a repeating pattern of circular apertures. Lighting is diffuse, creating soft reflections within the holes. Reflections are visible in some holes but are inconsistent in clarity and content. The surface appears smooth and uniform, with no visible texture or depth cues. Photo type: Abstract
-    - Watch-outs: - Reflections in the holes are inconsistent; some show clear, detailed insect-like forms while others are indistinct or show only light reflections. - The main subject (insect reflections) is partially obscured by the uniformity of the grid and the lack of sharp focus across the entire image.
+- **marinacasalribeiro**: The grid, no doubt. ([link](https://www.threads.com/@marinacasalribeiro/post/DgIWf_HCP5I))
+  - _Replying to: The honeycomb under that mushroom roof goes on forever - ev…_
 - **d1xshooter**: In the Milwaukee River downtown. It’s fun I actually can fish right out of my apartment. Thank you for the interest ([link](https://www.threads.com/@d1xshooter/post/DgIU4QvFZfw))
   - _Replying to: Fishing for Lake Trout, probably a spoon_
+- **charhedman**: Totally. We are so small. ([link](https://www.threads.com/@charhedman/post/DgIWfhcmgXM))
+  - _Replying to: Good eye - they give the whole grid its scale._
+- **junt0k**: the colorful windows pattern ([link](https://www.threads.com/@junt0k/post/DgIWv6ekgKy))
+  - _Replying to: I think the rainbow running across those identical windows …_
 - **infamous_harsh1t**:  ([link](https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f))
   - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
     - Watch-outs: The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form.
