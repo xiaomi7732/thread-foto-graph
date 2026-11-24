@@ -6,13 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (17)
+## Needs Reply (18)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/DgI_pLHCFmX))
   - Photo: Description: A modern building with a grid of vertical windows on one side and an ornate, repeating quatrefoil pattern on the adjacent facade, framed by bare tree branches in the foreground. Photograph read: The image is in black and white, with strong contrast between the bright facade and dark window frames. Lighting creates sharp shadows and highlights on the architectural surfaces. The composition is angled, emphasizing the building’s corner and the patterned facade. Photo type: Architectural
 - **skepticalfla**:  ([link](https://www.threads.com/@skepticalfla/post/DgI-v8TlVLs))
   - Photo: Description: A multi-story building with curved, repeating balconies and vertical support columns, photographed at an angle against a clear sky, with warm light illuminating the facade. Photograph read: The image shows a low-angle perspective of the building’s facade, with strong directional lighting casting warm tones on the balconies and shadows in recessed areas. The balconies are uniformly spaced and feature metal railings; windows are visible but mostly dark or indistinct. The image has a clean, sharp focus across the visible structure, with no apparent motion blur or chromatic aberration. Photo type: Architectural
+- **shel_bee_g**: First one, photo ⬇️ different view and day of first one ([link](https://www.threads.com/@shel_bee_g/post/DgI_zWsEsxx))
+  - Photo: Description: A long wooden trestle bridge spans a body of water, with its reflection visible in the calm surface below, under a sky displaying a smooth gradient from orange to purple to blue. Photograph read: The bridge is silhouetted against the sky, with the water reflecting its structure. The sky shows a uniform color gradient without clouds or texture. The image has a flat, even exposure across the entire frame, with no visible contrast or sharpness variation. Photo type: Landscape
+  - _Replying to: Row after row of X-braced pillars over the sand, and then a…_
 - **zanny2mg_fl**: Just happened to be there at the right time while out shooting that day :) ([link](https://www.threads.com/@zanny2mg_fl/post/DgI9Yylkcc8))
   - _Replying to: Two rows of cars funnelling into that orange sky, and the y…_
 - **marcinewiese**: I honestly don't know...it was a meme that I stole from another post symbolizing that diversity should be alive and well ([link](https://www.threads.com/@marcinewiese/post/DgI9_kUGIoF))
