@@ -235,8 +235,23 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 125,
+      "reply_count": 127,
       "replies": [
+        {
+          "username": "a_sicilian_baker",
+          "text": "",
+          "permalink": "https://www.threads.com/@a_sicilian_baker/post/DgIXvw6msfx",
+          "photos": [
+            "Description: A vibrant rainbow arcs across a twilight sky above a road lined with palm trees and residential buildings, with a red car and a vintage van visible on the road. Photograph read: The image displays a wide-angle view with a strong color gradient in the sky, transitioning from pink to purple. The rainbow is prominent and well-defined against the sky. The foreground vehicles and palm trees are in focus, though the red car shows slight motion blur. The lighting suggests late afternoon or early evening. Photo type: Aesthetic"
+          ],
+          "watch_outs": [
+            "The red car exhibits motion blur, reducing the visibility of fine surface details. The rear of the vintage van is partially obscured by the angle and lighting, making license plate and other markings illegible."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kathleen_payne",
           "text": "",
@@ -458,7 +473,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "welperson",
+                  "text": "That's my sister buying our parking ticket! I turned around to wait for her and noticed the light/shadow combo and couldn't resist.",
+                  "permalink": "https://www.threads.com/@welperson/post/DgIX3Iwm-d_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

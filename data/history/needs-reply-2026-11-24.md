@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (16)
+## Needs Reply (18)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **a_sicilian_baker**:  ([link](https://www.threads.com/@a_sicilian_baker/post/DgIXvw6msfx))
+  - Photo: Description: A vibrant rainbow arcs across a twilight sky above a road lined with palm trees and residential buildings, with a red car and a vintage van visible on the road. Photograph read: The image displays a wide-angle view with a strong color gradient in the sky, transitioning from pink to purple. The rainbow is prominent and well-defined against the sky. The foreground vehicles and palm trees are in focus, though the red car shows slight motion blur. The lighting suggests late afternoon or early evening. Photo type: Aesthetic
+    - Watch-outs: The red car exhibits motion blur, reducing the visibility of fine surface details. The rear of the vintage van is partially obscured by the angle and lighting, making license plate and other markings illegible.
 - **kathleen_payne**:  ([link](https://www.threads.com/@kathleen_payne/post/DgIXgpmm_5S))
   - Photo: Description: A set of weathered stone stairs with metal anti-slip strips leads down from a curved overlook, with a winding road and distant river valley visible beyond a low concrete barrier under a cloudy sky. Photograph read: The image is captured in a vertical orientation with a wide-angle perspective, showing a foreground of stairs and a midground road, leading to a distant landscape of water and mountains under an overcast sky. Lighting is diffuse, with no strong directional highlights or shadows. The image exhibits a slight vignette and visible texture in the stone and metal surfaces. Photo type: Landscape
 - **lestriesch**:  ([link](https://www.threads.com/@lestriesch/post/DgIWnK4ltF9))
@@ -22,6 +25,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: Foreground foliage obscures a significant portion of the lower-left area, preventing visibility of building details. The building’s surface shows no visible texture or fine detail due to the reflective, patterned panels and lack of contrast.
 - **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
   - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
+- **welperson**: That's my sister buying our parking ticket! I turned around to wait for her and noticed the light/shadow combo and couldn't resist. ([link](https://www.threads.com/@welperson/post/DgIX3Iwm-d_))
+  - _Replying to: Three identical parking machines in a row, and the sun stri…_
 - **rolivertarheels**:  ([link](https://www.threads.com/@rolivertarheels/post/DgITGuTkddE))
   - Photo: Description: The image shows the Gateway Arch in St. Louis, Missouri, under a partly cloudy sky, with visitors visible at its base and a bridge in the distant background. Photograph read: The arch dominates the frame, captured from a low angle, with bright daylight illuminating its metallic surface. Clouds are visible in the sky, and a tree is partially framing the left side. The image appears sharp, with clear definition on the arch’s structure and surrounding elements. Photo type: Architectural
 - **marinacasalribeiro**: The grid, no doubt. ([link](https://www.threads.com/@marinacasalribeiro/post/DgIWf_HCP5I))
