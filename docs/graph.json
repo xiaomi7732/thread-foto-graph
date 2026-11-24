@@ -224,8 +224,35 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 227,
+      "reply_count": 229,
       "replies": [
+        {
+          "username": "lucillepippetti",
+          "text": "",
+          "permalink": "https://www.threads.com/@lucillepippetti/post/DgIsxODIDf0",
+          "photos": [
+            "Description: The foreground features a cluster of dark, textured, castle-like sand formations on a beach, with a bright sun setting over the ocean in the background, casting a warm glow across the water and sand. Photograph read: The composition places the sand structures in the foreground, with the sun and horizon in the background. Lighting is directional, casting shadows and highlighting textures on the sand structures. The image exhibits a shallow depth of field, with the foreground structures in focus and the background slightly softer. The sun appears as a bright disc with minimal atmospheric haze. Photo type: Natural landscape"
+          ],
+          "watch_outs": [
+            "Foreground sand structures show fine texture detail, but the image lacks sharpness in the mid-ground sand, making individual grains or features indistinct. Background ocean surface is slightly blurred, reducing definition of wave patterns and horizon detail."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "oznatureart",
+          "text": "",
+          "permalink": "https://www.threads.com/@oznatureart/post/DgIsYSdE0n-",
+          "photos": [
+            "Description: A modern high-rise building with a geometric, angular facade made of reflective glass panels is captured from a low angle against a cloudy sky, with bare tree branches visible in the upper right. Photograph read: The image is taken from a low angle, emphasizing the building\u2019s verticality. The sky is overcast with soft, diffused lighting. The glass surfaces reflect the sky and surrounding trees, creating a cool-toned, blue-green color cast. The image exhibits a high-contrast rendering between the dark building edges and the bright sky, with visible grid lines on the glass panels. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jh1962bike",
           "text": "",

@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (35)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/DgIsxODIDf0))
+  - Photo: Description: The foreground features a cluster of dark, textured, castle-like sand formations on a beach, with a bright sun setting over the ocean in the background, casting a warm glow across the water and sand. Photograph read: The composition places the sand structures in the foreground, with the sun and horizon in the background. Lighting is directional, casting shadows and highlighting textures on the sand structures. The image exhibits a shallow depth of field, with the foreground structures in focus and the background slightly softer. The sun appears as a bright disc with minimal atmospheric haze. Photo type: Natural landscape
+    - Watch-outs: Foreground sand structures show fine texture detail, but the image lacks sharpness in the mid-ground sand, making individual grains or features indistinct. Background ocean surface is slightly blurred, reducing definition of wave patterns and horizon detail.
+- **oznatureart**:  ([link](https://www.threads.com/@oznatureart/post/DgIsYSdE0n-))
+  - Photo: Description: A modern high-rise building with a geometric, angular facade made of reflective glass panels is captured from a low angle against a cloudy sky, with bare tree branches visible in the upper right. Photograph read: The image is taken from a low angle, emphasizing the building’s verticality. The sky is overcast with soft, diffused lighting. The glass surfaces reflect the sky and surrounding trees, creating a cool-toned, blue-green color cast. The image exhibits a high-contrast rendering between the dark building edges and the bright sky, with visible grid lines on the glass panels. Photo type: Architectural
 - **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/DgIsKC4iLa0))
   - Photo: Description: The photograph shows a close-up of a modern building’s exterior, featuring a grid of windows framed by warm-toned, possibly metallic, panels. Reflections of the sky and surrounding structures are visible in the glass. Photograph read: The composition is dominated by repeating geometric patterns of windows and panels. Lighting is bright and directional, casting sharp shadows across the surfaces. The rendering is crisp, with clear edges and no visible signs of motion blur or focus issues. Photo type: Architectural
 - **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DgIrw8imKlf))
