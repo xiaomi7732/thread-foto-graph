@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (100)
+## Needs Reply (99)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
@@ -241,9 +241,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **lindafedor6**: Shapes ([link](https://www.threads.com/@lindafedor6/post/Df9_5y4nK2c))
   - Photo: Description: A hand holds a mixed-media collage featuring a bird-like figure made of layered paper, a pink heart, and shredded paper, set against a background of printed dictionary pages with words like “heartless” and “hearth.” Photograph read: The image is taken at a slight angle, with even, diffuse lighting. The subject is in focus, but the background is slightly out of focus. The collage’s textures and layered materials are visible, though some text is partially obscured by paper overlays. Photo type: Mixed-media collage
   - _Replying to: The Shaped Thursday favorites are live - five shapes that s…_
-
-### Shaped Thursday favorites 🏆 5 shapes that stopped my scroll… ([thread](https://www.threads.com/@saars.foto/post/Df9LHLQGy9R))
-- **2killamockingbird**: Beautiful captures great pickes... ([link](https://www.threads.com/@2killamockingbird/post/Df9V85ngBIT))
 
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
