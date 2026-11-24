@@ -235,14 +235,40 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 135,
+      "reply_count": 154,
       "replies": [
         {
           "username": "kennethstevenson9",
-          "text": "Rows of windows on a cruise ship as it passes by my house (green in foreground (.",
-          "permalink": "https://www.threads.com/@kennethstevenson9/post/DgIZ2AVmzwY",
+          "text": "Rows of windows on a cruise ship as it passes by my house in the foreground.",
+          "permalink": "https://www.threads.com/@kennethstevenson9/post/DgIaS1OGyEb",
           "photos": [
-            "Description: A large white cruise ship, identifiable as the Carnival Panorama, is moored in a waterway, viewed from an elevated position with residential buildings and trees in the foreground and hazy, forested hills in the background. Photograph read: The image is captured under overcast, diffuse lighting, resulting in muted tones and soft contrast. The composition is framed by foreground foliage and a house, with the ship occupying the mid-ground. The image exhibits no visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary"
+            "Description: A large white cruise ship, identifiable as the Carnival Panorama, is docked in a waterway, with a small tugboat nearby. In the foreground, a residential house and trees are visible, with misty hills in the background under an overcast sky. Photograph read: The image is taken from an elevated perspective, with a moderate depth of field. Lighting is flat and diffused due to cloud cover, resulting in muted tones and no strong shadows. The image has a slight softness, likely from atmospheric conditions or lens characteristics, but no sharp focus or motion blur is evident. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": [
+            {
+              "username": "kennethstevenson9",
+              "text": "A row of lifeboats.",
+              "permalink": "https://www.threads.com/@kennethstevenson9/post/DgIaXj3m4qc",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "larry_usselman",
+          "text": "",
+          "permalink": "https://www.threads.com/@larry_usselman/post/DgIaMlPlnom",
+          "photos": [
+            "Description: A person wearing dark pants and a dark top with colorful sneakers is walking on a cobblestone pavement, with a curb and sidewalk visible in the upper left corner. Photograph read: The image is taken from a high angle, showing the pavement\u2019s repeating stone pattern and the subject\u2019s lower body and feet. Lighting is directional, casting a distinct shadow and creating bright highlights on the stones. The image has a shallow depth of field, with the subject slightly out of focus and the foreground stones in sharper detail. Photo type: Street photography"
+          ],
+          "watch_outs": [
+            "The subject\u2019s upper body and face are not visible, limiting identification of the person. The subject\u2019s feet are partially obscured by motion blur, reducing clarity of shoe details and posture."
           ],
           "needs_response": true,
           "action": "reply",
@@ -271,10 +297,21 @@
           "watch_outs": [
             "The background foliage is heavily blurred, obscuring fine texture and detail. The white flowers in the mid-ground are indistinct due to shallow depth of field and lack of sharpness."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That red spike is all repetition - segment after segment climbing the stem, each one the same bright red. The white flowers behind it are the quiet contrast.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaKRjljK7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "peanutbutterscotch_",
@@ -283,10 +320,21 @@
           "photos": [
             "Description: The photograph shows a covered arcade with repeating stone arches and columns, leading into a sunlit courtyard. Adjacent buildings with warm-toned facades and windows are visible on the left. Photograph read: The composition is linear, with the arcade receding into the distance. Lighting is natural daylight, casting distinct shadows from the arches onto the paved ground. The image is in focus, with clear rendering of architectural details and textures. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The arches march off into the distance, and the sun lays a second arcade of shadows flat on the floor. Did you catch it at the exact hour the stripes line up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIZ9EaFoTd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "smilingjeannie",
@@ -295,10 +343,21 @@
           "photos": [
             "Description: A man sits inside a tent with vibrant, patterned textiles, holding a steaming teapot on a low, ornate table; the background features layered red and orange geometric designs. Photograph read: The image is brightly saturated with high contrast, showing saturated reds and yellows. The subject is in focus, but the foreground table and teapot exhibit slight surface glare and texture loss. The tent fabric patterns are crisp, and the man\u2019s facial features are discernible. Photo type: Colorful interior portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole tent is stripes and diamonds, and then there is the tea, steaming, right in the middle of it all. Did he pour for you, or were you just passing through?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIZ-JhoLne",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lisasmithmulholland",
@@ -307,10 +366,21 @@
           "photos": [
             "Description: The image shows a spiral staircase with perforated metal steps and railings, ascending within a cylindrical brick-walled structure, viewed from below looking upward. Photograph read: The composition is a low-angle, circular perspective emphasizing the spiral\u2019s curvature. Lighting is dim, with some illumination from above, casting shadows on the staircase and walls. The image has a slightly soft focus, with visible texture in the brickwork and metalwork, but no sharp edges or fine details are crisply rendered. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those perforated steps turn the whole stairwell into lace as it winds up. How many turns before the light runs out?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIZ_KkFBu-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "a_sicilian_baker",
@@ -322,10 +392,21 @@
           "watch_outs": [
             "The red car exhibits motion blur, reducing the visibility of fine surface details. The rear of the vintage van is partially obscured by the angle and lighting, making license plate and other markings illegible."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A rainbow, a row of palms, and a red car driving right under it - the whole street lined up for you. What pulled you outside, the rainbow or the pink sky?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaACUlkhf",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kathleen_payne",
@@ -334,10 +415,21 @@
           "photos": [
             "Description: A set of weathered stone stairs with metal anti-slip strips leads down from a curved overlook, with a winding road and distant river valley visible beyond a low concrete barrier under a cloudy sky. Photograph read: The image is captured in a vertical orientation with a wide-angle perspective, showing a foreground of stairs and a midground road, leading to a distant landscape of water and mountains under an overcast sky. Lighting is diffuse, with no strong directional highlights or shadows. The image exhibits a slight vignette and visible texture in the stone and metal surfaces. Photo type: Landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The diamond strips on those steps turn a staircase into a pattern all by itself, and then the valley opens up past the road. I think the wide view was worth the climb.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaA8hFNJi",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lestriesch",
@@ -346,10 +438,21 @@
           "photos": [
             "Description: The photograph shows a pathway under a covered structure with stone pillars, entwined by thick, gnarled vines that wrap around the pillars and overhead beams. The ground is covered with mulch and scattered leaves, and sunlight filters through the foliage in the background. Photograph read: The composition is a low-angle shot along a linear path, with the pillars receding into the distance. Lighting is natural daylight, casting shadows from the structure and vines. The rendering is clear enough to distinguish textures of stone, bark, and foliage, though some areas are in shadow. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The vines wrap those pillars like they are trying to hold the whole walkway together. How long has that tangle been growing?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaB0DoNkP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "catmac720",
@@ -358,10 +461,32 @@
           "photos": [
             "Description: The photograph shows a multi-story, cylindrical architectural structure with arched openings and balconies, illuminated at night against a dark background, with a portion of an adjacent building visible to the right. Photograph read: The image is taken at night with directional lighting highlighting the architectural features, creating strong contrast between lit areas and deep shadows. The composition is a low-angle shot, emphasizing the verticality of the structure. The rendering appears to be from a digital camera, with no visible signs of motion blur or chromatic aberration. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Arches stacked on arches, all of it lit up against the black - a whole building glowing like a lantern.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaC4loXkh",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "catmac720",
+                  "text": "Took this in Venice!!",
+                  "permalink": "https://www.threads.com/@catmac720/post/DgIacXDlQYm",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "thedaveatkins",
@@ -370,10 +495,21 @@
           "photos": [
             "Description: The photograph shows a close-up, low-angle view of a sloped roof covered in dark, overlapping, rectangular tiles, set against a partly cloudy sky. Photograph read: The composition is dominated by the repeating geometric pattern of the tiles, with strong diagonal lines created by their arrangement. Lighting appears to be natural daylight, casting subtle shadows between the tiles and creating a gradient of tones from deep purple to gray. The rendering is sharp, with clear edges and texture visible on the tiles. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Row after row of tiles overlapping like scales, and the color drifting purple to gray across the slope. What made you stop at a roof?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaHTlFv0V",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "alexinpgh",
@@ -382,10 +518,21 @@
           "photos": [
             "Description: The photograph shows a low-angle view of three adjacent buildings: a tall, ornate brick structure with vertical detailing, a modern glass skyscraper to its right, and a smaller, colorful corner building with decorative windows in the foreground. Photograph read: The image is taken from a low vantage point, capturing the buildings against a partly cloudy sky. Lighting is diffuse, with no harsh shadows or overexposed areas. The rendering appears natural, with visible texture on the brick and glass surfaces, and no obvious signs of digital artifacts or motion blur. Photo type: Urban architecture"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Three buildings, three completely different window rhythms, and the little yellow corner one holding its own against the two towers. Which facade did your eye land on first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaIUilNEj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jessgperry",
@@ -397,10 +544,32 @@
           "watch_outs": [
             "Foreground foliage obscures a significant portion of the lower-left area, preventing visibility of building details. The building\u2019s surface shows no visible texture or fine detail due to the reflective, patterned panels and lack of contrast."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The stripes run one way on one face and the other way on the next, and the dark leaves in front make the whole building look stenciled. I think the leaves in front are what make it - without them it would be all geometry.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgIaJUglAxy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "jessgperry",
+                  "text": "Thanks!",
+                  "permalink": "https://www.threads.com/@jessgperry/post/DgIaUzAmr6e",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "auerbach_photos",
@@ -554,10 +723,21 @@
                   "text": "That's my sister buying our parking ticket! I turned around to wait for her and noticed the light/shadow combo and couldn't resist.",
                   "permalink": "https://www.threads.com/@welperson/post/DgIX3Iwm-d_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A lucky turn-around - the light paid for the wait.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgIaLYRG_d7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -646,10 +826,21 @@
                   "text": "The grid, no doubt.",
                   "permalink": "https://www.threads.com/@marinacasalribeiro/post/DgIWf_HCP5I",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The grid wins it. Nicely spotted.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgIaMY5GD7Z",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -751,10 +942,21 @@
                   "text": "A grasshopper, on the third floor.",
                   "permalink": "https://www.threads.com/@artiekay2/post/DgIYL-wFsTh",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A grasshopper on the third floor - the panel was worth the visit.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgIaNdkmuYx",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -968,10 +1170,21 @@
                   "text": "the colorful windows pattern",
                   "permalink": "https://www.threads.com/@junt0k/post/DgIWv6ekgKy",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Color doing the talking - a fine pick.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgIaOe2miBB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
