@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (23)
+## Needs Reply (24)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
@@ -27,6 +27,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Four patterns, and the orange sweater is the one splash of …_
 - **dr0ma_**: 3 floors. I took the photo from the sub ground level. ([link](https://www.threads.com/@dr0ma_/post/DgJAWwWCDjL))
   - _Replying to: How many floors does it climb? The spiral winds up into all…_
+- **lucillepippetti**: I found them. I believe some sort of burrowing sea creature made them. I thought they looked like a gathering of aliens. ([link](https://www.threads.com/@lucillepippetti/post/DgJD_qlIH3G))
+  - _Replying to: A whole forest of sand spires, each one piled up the same w…_
 - **cindi7741**: The arches are in Rocky point Mexico at my sister's house. The tracks are up in Washington state. ([link](https://www.threads.com/@cindi7741/post/DgI_CyoEpL-))
   - _Replying to: The arches frame the sea, and the old tracks run off into t…_
 - **iphhoto4u71**: Haha. Thankyou. It was a private entrance☺️🙏 ([link](https://www.threads.com/@iphhoto4u71/post/DgI_gg3kmzc))
