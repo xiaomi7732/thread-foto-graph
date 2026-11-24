@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18019113215966769",
-      "label": "thank, 500, congratulations, appreciate",
+      "label": "thank, congratulations, 500, appreciate",
       "group": 0,
       "snippet": "500 followers, and 100k views this month. I would count the\u2026",
       "text": "500 followers, and 100k views this month. I would count them one by one, but you would all rather be out taking photos. Thank you for building this with me - every prompt reply, every story behind a shot, every favorite. Here is to the next 500 mornings. \ud83c\udf41",
@@ -224,8 +224,38 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 212,
+      "reply_count": 215,
       "replies": [
+        {
+          "username": "reverendbenzo",
+          "text": "",
+          "permalink": "https://www.threads.com/@reverendbenzo/post/DgIj3XUlhil",
+          "photos": [
+            "Description: The image shows a road and horizon viewed through a chain-link fence, with a dusky sky displaying pink and orange hues near the horizon, flanked by dark trees and utility poles. Photograph read: The foreground fence is in sharp focus, while the background scene is softly blurred. The lighting suggests twilight, with ambient light from the sky and distant artificial sources. The rendering is flat with no visible lens distortion or chromatic aberration. Photo type: Street photography"
+          ],
+          "watch_outs": [
+            "- The entire background scene is out of focus, obscuring fine details of the road, vehicles, and buildings. - The chain-link fence\u2019s diamond pattern is sharp and repetitive, creating a grid that partially obscures the view behind it."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "iphhoto4u71",
+          "text": "Mine",
+          "permalink": "https://www.threads.com/@iphhoto4u71/post/DgIjotnGGK8",
+          "photos": [
+            "Description: A staircase with concrete steps and a metal railing ascends from the bottom right toward the upper left, set against a dark, indistinct background with faint vertical structures visible. Photograph read: The image is characterized by high contrast, with bright highlights on the steps and deep shadows cast by the railing. The steps show visible texture and wear, and a small white object lies on one step. The railing casts long, sharp shadows across the steps. The background is uniformly dark, obscuring any context. Photo type: High-contrast architectural"
+          ],
+          "watch_outs": [
+            "- The upper portion of the image is completely dark, obscuring any visible detail or context beyond the staircase. - The railing\u2019s shadows are sharp and cast across multiple steps, partially obscuring the step surfaces and reducing readability of texture and edge definition."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "pappaga11a",
           "text": "",
@@ -527,7 +557,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tile_conscious",
+                  "text": "Didn't count the floors, but the United Nations headquarters always intrigues me. I was surprised at the symmetrical results of this shot taken across the East River from Long Island City.",
+                  "permalink": "https://www.threads.com/@tile_conscious/post/DgIkFuxGw4E",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
