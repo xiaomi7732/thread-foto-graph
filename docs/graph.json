@@ -235,8 +235,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 124,
+      "reply_count": 125,
       "replies": [
+        {
+          "username": "kathleen_payne",
+          "text": "",
+          "permalink": "https://www.threads.com/@kathleen_payne/post/DgIXgpmm_5S",
+          "photos": [
+            "Description: A set of weathered stone stairs with metal anti-slip strips leads down from a curved overlook, with a winding road and distant river valley visible beyond a low concrete barrier under a cloudy sky. Photograph read: The image is captured in a vertical orientation with a wide-angle perspective, showing a foreground of stairs and a midground road, leading to a distant landscape of water and mountains under an overcast sky. Lighting is diffuse, with no strong directional highlights or shadows. The image exhibits a slight vignette and visible texture in the stone and metal surfaces. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "lestriesch",
           "text": "",

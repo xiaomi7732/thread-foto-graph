@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (16)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **kathleen_payne**:  ([link](https://www.threads.com/@kathleen_payne/post/DgIXgpmm_5S))
+  - Photo: Description: A set of weathered stone stairs with metal anti-slip strips leads down from a curved overlook, with a winding road and distant river valley visible beyond a low concrete barrier under a cloudy sky. Photograph read: The image is captured in a vertical orientation with a wide-angle perspective, showing a foreground of stairs and a midground road, leading to a distant landscape of water and mountains under an overcast sky. Lighting is diffuse, with no strong directional highlights or shadows. The image exhibits a slight vignette and visible texture in the stone and metal surfaces. Photo type: Landscape
 - **lestriesch**:  ([link](https://www.threads.com/@lestriesch/post/DgIWnK4ltF9))
   - Photo: Description: The photograph shows a pathway under a covered structure with stone pillars, entwined by thick, gnarled vines that wrap around the pillars and overhead beams. The ground is covered with mulch and scattered leaves, and sunlight filters through the foliage in the background. Photograph read: The composition is a low-angle shot along a linear path, with the pillars receding into the distance. Lighting is natural daylight, casting shadows from the structure and vines. The rendering is clear enough to distinguish textures of stone, bark, and foliage, though some areas are in shadow. Photo type: Natural
 - **catmac720**:  ([link](https://www.threads.com/@catmac720/post/DgIWPsAlTAx))
