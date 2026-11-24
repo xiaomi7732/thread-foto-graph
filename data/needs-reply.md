@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (33)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **alexinpgh**:  ([link](https://www.threads.com/@alexinpgh/post/DgIV5MdFTBF))
+  - Photo: Description: The photograph shows a low-angle view of three adjacent buildings: a tall, ornate brick structure with vertical detailing, a modern glass skyscraper to its right, and a smaller, colorful corner building with decorative windows in the foreground. Photograph read: The image is taken from a low vantage point, capturing the buildings against a partly cloudy sky. Lighting is diffuse, with no harsh shadows or overexposed areas. The rendering appears natural, with visible texture on the brick and glass surfaces, and no obvious signs of digital artifacts or motion blur. Photo type: Urban architecture
+- **jessgperry**:  ([link](https://www.threads.com/@jessgperry/post/DgIVi_kmqTV))
+  - Photo: Description: A low-angle view of a modern building with a geometric, angular facade composed of reflective, striped panels, partially obscured by dark silhouettes of foliage in the foreground. Photograph read: The image is in black and white, with strong diagonal and vertical lines creating a grid-like pattern on the building’s surface. Lighting appears even, with no visible shadows or highlights indicating a specific time of day. The foreground foliage is in silhouette, with no discernible texture or detail. Photo type: Architectural
+    - Watch-outs: Foreground foliage obscures a significant portion of the lower-left area, preventing visibility of building details. The building’s surface shows no visible texture or fine detail due to the reflective, patterned panels and lack of contrast.
 - **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
   - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
 - **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DgIVQs1GyWb))
