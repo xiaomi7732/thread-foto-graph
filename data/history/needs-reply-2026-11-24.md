@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (22)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DgIZJOTGo99))
+  - Photo: Description: The photograph shows a covered arcade with repeating stone arches and columns, leading into a sunlit courtyard. Adjacent buildings with warm-toned facades and windows are visible on the left. Photograph read: The composition is linear, with the arcade receding into the distance. Lighting is natural daylight, casting distinct shadows from the arches onto the paved ground. The image is in focus, with clear rendering of architectural details and textures. Photo type: Architectural
 - **smilingjeannie**: Morning tea in Little Petra, Jordan. ([link](https://www.threads.com/@smilingjeannie/post/DgIYaK0EeNw))
   - Photo: Description: A man sits inside a tent with vibrant, patterned textiles, holding a steaming teapot on a low, ornate table; the background features layered red and orange geometric designs. Photograph read: The image is brightly saturated with high contrast, showing saturated reds and yellows. The subject is in focus, but the foreground table and teapot exhibit slight surface glare and texture loss. The tent fabric patterns are crisp, and the man’s facial features are discernible. Photo type: Colorful interior portrait
 - **lisasmithmulholland**:  ([link](https://www.threads.com/@lisasmithmulholland/post/DgIYRzQpZWE))
