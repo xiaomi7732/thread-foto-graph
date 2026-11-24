@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (43)
+## Needs Reply (45)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **luvsravens59**: Jewish memorial Boston ([link](https://www.threads.com/@luvsravens59/post/DgIxbZHpfbv))
+  - Photo: Description: The image shows a street scene with traffic lights and green foliage in the foreground, with a series of transparent, cube-like structures and distant skyscrapers visible behind them under a clear sky. Photograph read: The composition is dominated by foreground foliage and traffic infrastructure, with mid-ground transparent cubes and background buildings. Lighting is bright daylight, casting clear shadows and highlights. Rendering is flat with no visible lens distortion or chromatic aberration. Photo type: Urban landscape
+    - Watch-outs: - Foreground foliage is out of focus, obscuring fine texture and detail. - Background buildings are partially obscured by the transparent cubes and foliage, reducing clarity of architectural features.
+- **watsjoey**:  ([link](https://www.threads.com/@watsjoey/post/DgIxZZxk8CE))
+  - Photo: Description: The photograph shows a close-up of snow-covered evergreen branches, with dense foliage partially obscured by white snow accumulation. Photograph read: The image is composed of overlapping branches with snow clinging to needles; lighting is diffuse, creating soft contrast between snow and green. Rendering is uniform across the frame, with no visible signs of motion blur, focus issues, or color distortion. Photo type: Natural
 - **elstergavin**:  ([link](https://www.threads.com/@elstergavin/post/DgIwVs3ki_I))
   - Photo: Description: A tall building facade is illuminated by a pattern of rectangular shadows cast by an adjacent structure, with a clear blue sky and a contrail visible above. A smaller building with external stairs is to the left, and a metal gate is in the foreground. Photograph read: The image is taken at a low angle, with strong sunlight casting sharp, repeating geometric shadows across the building’s wall. The sky is bright and clear, and the shadows are well-defined against the wall. The foreground includes a metal gate and a partially visible sign. The image appears to be a standard digital capture with no visible signs of motion blur or lens distortion. Photo type: Urban photography
 - **elstergavin**:  ([link](https://www.threads.com/@elstergavin/post/DgIvzrAklqC))

@@ -224,8 +224,35 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 237,
+      "reply_count": 239,
       "replies": [
+        {
+          "username": "luvsravens59",
+          "text": "Jewish memorial Boston",
+          "permalink": "https://www.threads.com/@luvsravens59/post/DgIxbZHpfbv",
+          "photos": [
+            "Description: The image shows a street scene with traffic lights and green foliage in the foreground, with a series of transparent, cube-like structures and distant skyscrapers visible behind them under a clear sky. Photograph read: The composition is dominated by foreground foliage and traffic infrastructure, with mid-ground transparent cubes and background buildings. Lighting is bright daylight, casting clear shadows and highlights. Rendering is flat with no visible lens distortion or chromatic aberration. Photo type: Urban landscape"
+          ],
+          "watch_outs": [
+            "- Foreground foliage is out of focus, obscuring fine texture and detail. - Background buildings are partially obscured by the transparent cubes and foliage, reducing clarity of architectural features."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "watsjoey",
+          "text": "",
+          "permalink": "https://www.threads.com/@watsjoey/post/DgIxZZxk8CE",
+          "photos": [
+            "Description: The photograph shows a close-up of snow-covered evergreen branches, with dense foliage partially obscured by white snow accumulation. Photograph read: The image is composed of overlapping branches with snow clinging to needles; lighting is diffuse, creating soft contrast between snow and green. Rendering is uniform across the frame, with no visible signs of motion blur, focus issues, or color distortion. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "elstergavin",
           "text": "",
