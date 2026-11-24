@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (31)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **ladenizen2**:  ([link](https://www.threads.com/@ladenizen2/post/DgIngNLGOlq))
@@ -56,6 +56,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Floor after floor of green glass, with those perforated ban…_
 - **hannele.heikkinen**: Popular spot, had to wait a while for the right moment and be quick. ([link](https://www.threads.com/@hannele.heikkinen/post/DgIi2HgDolh))
   - _Replying to: Black and white cobbles rolling in waves all the way to the…_
+- **bslifkin**: Two different bridges .. ([link](https://www.threads.com/@bslifkin/post/DgIoedzlCtZ))
+  - _Replying to: Two bridges in one post - the cables fanning out from the p…_
 - **jen.isenor**: Thanks, I love this one. I took it at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
   - _Replying to: The glass grid goes on forever overhead, and then that pill…_
 - **jen.isenor**: Another shot for more of the story. This shows nice pattern too. ([link](https://www.threads.com/@jen.isenor/post/DgIiSAIEc1O))
