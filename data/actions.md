@@ -6,11 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (12)
+## Needs Reply (13)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **zanny2mg_fl**: Just happened to be there at the right time while out shooting that day :) ([link](https://www.threads.com/@zanny2mg_fl/post/DgI9Yylkcc8))
   - _Replying to: Two rows of cars funnelling into that orange sky, and the y…_
+- **marcinewiese**: I honestly don't know...it was a meme that I stole from another post symbolizing that diversity should be alive and well ([link](https://www.threads.com/@marcinewiese/post/DgI9_kUGIoF))
+  - _Replying to: Hands from every direction, all landing in the same middle …_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
