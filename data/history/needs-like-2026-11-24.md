@@ -4,7 +4,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (28)
+## Needs Like (3)
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/DgA6dCHmTpr))
@@ -12,31 +12,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
 - asutris: Thank you so much. 🙏🏻 ([link](https://www.threads.com/@asutris/post/Df_1BC4GDof))
 - asutris: My pleasure. ([link](https://www.threads.com/@asutris/post/DgBabRNkxxq))
-
-### Minimal Friday 💧 Show me your quietest shot - one subject, … ([thread](https://www.threads.com/@saars.foto/post/Df97QGQG3eX))
-- thesyberian: Estrangement. ([link](https://www.threads.com/@thesyberian/post/DgAfNHbCOtu))
-- saga4arts:  ([link](https://www.threads.com/@saga4arts/post/DgAEcKLjvnB))
-- kusnirah1985: Amazed ([link](https://www.threads.com/@kusnirah1985/post/DgAlXZrkkkv))
-- missty_misanthrope: 😎😃 ([link](https://www.threads.com/@missty_misanthrope/post/Df_l_ilkXlH))
-- bhuda0416: Yeah, definitely..😊✌️ ([link](https://www.threads.com/@bhuda0416/post/DgAtzurlSKT))
-- posts.by.norman: My pleasure! ([link](https://www.threads.com/@posts.by.norman/post/Df_kyePnw4I))
-- carolinaabq: Totally luck 😂 ([link](https://www.threads.com/@carolinaabq/post/DgAlgDsm1cv))
-- jen.isenor: Thank you! ([link](https://www.threads.com/@jen.isenor/post/DgAjDL7Ed9D))
-- kazz_bo_: Thats right 😀 ([link](https://www.threads.com/@kazz_bo_/post/DgAgseuk2EU))
-- mummabear1963v: Thank you ([link](https://www.threads.com/@mummabear1963v/post/Df_ZwTCmpg-))
-- velosy: Thank you ([link](https://www.threads.com/@velosy/post/Df_zv8ujp1r))
-- herman.terhorst.14: 👍 ([link](https://www.threads.com/@herman.terhorst.14/post/Df_nJn5DQZ6))
-- rukhsa_macroflowers: So true🙃 ([link](https://www.threads.com/@rukhsa_macroflowers/post/Df_nPR6ipef))
-- lilybug1145: Yes indeed ([link](https://www.threads.com/@lilybug1145/post/Df_QUaNpVTm))
-- rajeshwar8380: Thanks... 😊 ([link](https://www.threads.com/@rajeshwar8380/post/Df_jxnMmjoL))
-- jmay.ornot: 😄 ([link](https://www.threads.com/@jmay.ornot/post/Df_KWbHmVko))
-- syldelteglia:  ([link](https://www.threads.com/@syldelteglia/post/Df-ucBkFhC7))
-- shadowbigtail: Wow!!!!! ([link](https://www.threads.com/@shadowbigtail/post/Df-NQ_To2mU))
-- kewibrophotography: Thank you ([link](https://www.threads.com/@kewibrophotography/post/Df-xBJAj853))
-- unmitigatedme: Thank you ([link](https://www.threads.com/@unmitigatedme/post/DgAgDbXGw0c))
-- 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/Df-PwZKALar))
-- auerbach_photos: Thank you! ([link](https://www.threads.com/@auerbach_photos/post/Df-zwMHlsJ0))
-- zacharias1818: My favorite ([link](https://www.threads.com/@zacharias1818/post/Df-7a2VFnTz))
-- gingertom43: No problem... ([link](https://www.threads.com/@gingertom43/post/Df-iIfUkbZ0))
-- achiklin79: Superb ([link](https://www.threads.com/@achiklin79/post/DgAhO0EGV7Z))
 
