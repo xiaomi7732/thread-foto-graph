@@ -227,7 +227,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, shadows",
+      "label": "photograph, photo, visible, lighting",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -235,8 +235,104 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 24,
+      "reply_count": 32,
       "replies": [
+        {
+          "username": "junt0k",
+          "text": "",
+          "permalink": "https://www.threads.com/@junt0k/post/DgIRwMwEhyA",
+          "photos": [
+            "Description: A multi-story white building with vertically aligned windows featuring colorful shutters in a rainbow gradient from purple to red, viewed from across a paved street with lane markings. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting suggesting an overcast day. The building\u2019s facade is the primary subject, with clear architectural details visible. The street in the foreground is empty of traffic and pedestrians, and a single streetlamp stands near the center. The image has no visible signs of motion blur or focus issues. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "toddawg001",
+          "text": "",
+          "permalink": "https://www.threads.com/@toddawg001/post/DgIRurPkQrA",
+          "photos": [
+            "Description: A snow-covered mountain landscape with dense evergreen forests arranged in terraced rows across sloping terrain, with rocky, snow-dusted peaks in the background. Photograph read: The image presents a wide, high-angle view with even, diffused lighting, showing clear contrast between the dark coniferous trees and white snow. Textures of snow and rock are visible, but no sharp focus or motion blur is apparent. Photo type: Landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "42_z_photos",
+          "text": "",
+          "permalink": "https://www.threads.com/@42_z_photos/post/DgIRtycFs60",
+          "photos": [
+            "Description: The photograph shows a downward-looking view of a spiral staircase with dark carpeted steps, accented by white and pink stripes, and a polished wooden handrail supported by metal balusters with ornamental caps. Photograph read: The image is taken from a high vantage point, looking down the center of the spiral staircase. The composition is symmetrical and radial, with the staircase curving inward. Lighting is even and artificial, illuminating the staircase uniformly without harsh shadows or overexposure. The rendering is sharp, with clear definition of the handrail, balusters, and carpet patterns. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dwordops",
+          "text": "",
+          "permalink": "https://www.threads.com/@dwordops/post/DgIRrreEcCX",
+          "photos": [
+            "Description: Rows of wooden wine barrels are arranged in a dimly lit, long warehouse with a red floor, extending into the distance under a high, dark ceiling. Photograph read: The image is composed with strong linear perspective, featuring symmetrical barrel rows converging toward a central vanishing point. Lighting is low and directional, casting soft shadows and highlighting the barrels\u2019 wood grain and metal bands. The image has a warm, reddish color cast and shows some visible grain and minor noise. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "an_aginggrace",
+          "text": "",
+          "permalink": "https://www.threads.com/@an_aginggrace/post/DgIRmM3FZ8E",
+          "photos": [
+            "Description: The photograph shows a modern architectural interior with vertically corrugated metal panels, a diagonal wooden-textured wall, and a metal railing in the foreground, set against a brick-paved floor. Photograph read: The image is characterized by warm, directional lighting casting strong shadows and highlights across the corrugated surfaces. The composition is angular, with the railing and diagonal wall creating leading lines. The rendering is sharp in the foreground and midground, with no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "ritaveeps",
+          "text": "",
+          "permalink": "https://www.threads.com/@ritaveeps/post/DgIRly1keFe",
+          "photos": [
+            "Description: The photograph shows a view through a stained-glass window, with snow-covered tree branches visible outside. The window features vertical and horizontal panels of blue, red, and gold-tinted glass, framed by dark borders. Photograph read: The composition is symmetrical, with the central pane showing the snowy trees. Lighting appears diffuse, likely from an overcast sky, casting even illumination across the scene. The glass panes show distinct color and texture, with some areas appearing translucent or frosted. Photo type: Stained-glass window photograph"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mix4tv",
+          "text": "",
+          "permalink": "https://www.threads.com/@mix4tv/post/DgIRgT2Gyx9",
+          "photos": [
+            "Description: The photograph shows a high-contrast, black-and-white view of a textured ceiling with parallel ridges casting shadows onto a vertically panelled wall below, with a sharply defined diagonal light beam illuminating part of the wall. Photograph read: The composition is dominated by strong geometric lines and sharp shadows, with a diagonal light beam creating a high-contrast diagonal across the wall. The rendering is monochromatic, with visible texture in both ceiling and wall surfaces, and the image appears to be captured with a fixed focal plane. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "gil_o_gram",
+          "text": "",
+          "permalink": "https://www.threads.com/@gil_o_gram/post/DgIRYAGmy2o",
+          "photos": [
+            "Description: A staircase with metallic steps and sleek handrails ascends between vertically slatted wooden walls, leading toward a brightly lit, slatted ceiling opening at the top. Photograph read: The composition is symmetrical, with strong vertical lines guiding the eye upward. Lighting is directional, with bright illumination from the ceiling opening and softer ambient light along the walls. The rendering is sharp, with clear textures on the wood and metallic surfaces. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "musemoon63",
           "text": "",
@@ -532,7 +628,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, photo, visible, shadows",
+      "label": "photograph, photo, visible, lighting",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",
