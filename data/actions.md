@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (31)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **real_art_by_aj**:  ([link](https://www.threads.com/@real_art_by_aj/post/DgIfRPeDe55))
+  - Photo: Description: A nighttime view from beneath a large, angular concrete structure with repeating horizontal slats, looking out over a paved walkway flanked by water channels toward a distant illuminated shoreline and bridge. Photograph read: The composition is framed by the structure’s underside, with artificial lights illuminating the walkway and water surfaces. Reflections are visible on the water, and distant lights are visible across the water. The image has a shallow depth of field, with the immediate foreground and structure in focus, while the distant lights are slightly soft. Photo type: Architectural
 - **seeblk**:  ([link](https://www.threads.com/@seeblk/post/DgIedGClWri))
   - Photo: Description: The photograph shows several parallel, orange-colored stems or branches with water droplets clinging to their surfaces, captured in a close-up view against a softly blurred background. Photograph read: The composition features a shallow depth of field, with the foreground stem in sharper focus than the background stems. Lighting is even and diffused, illuminating the droplets and stems without harsh shadows. The rendering preserves surface texture and the reflective quality of the water droplets. Photo type: Macro
   - Photo: Description: A sepia-toned photograph shows a spiral staircase with metal railings and perforated steps, adjacent to a corrugated metal wall, under an overcast sky. Photograph read: The composition is a low-angle shot emphasizing diagonal lines and geometric forms. Lighting is flat and diffuse, casting minimal shadows. The image is rendered in monochrome with visible grain and moderate contrast, preserving structural details without over-saturation. Photo type: Architectural
