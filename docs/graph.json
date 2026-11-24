@@ -227,7 +227,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, railings, photo, shadows",
+      "label": "photograph, shadows, photo, composition",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -235,8 +235,35 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 6,
+      "reply_count": 8,
       "replies": [
+        {
+          "username": "bojonvelvet2.0",
+          "text": "",
+          "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DgIP6GBm7oZ",
+          "photos": [
+            "Description: Three modern high-rise buildings are captured from a low-angle perspective against a blue sky with scattered white clouds. The buildings vary in facade design, with one featuring a grid of recessed windows, another displaying horizontal banding, and the third showing a stepped, angular profile. Photograph read: The image is taken from a low angle, emphasizing the verticality of the buildings. Lighting appears natural and diffused, with no obvious harsh shadows or overexposure. The sky is visible with moderate cloud cover, and the buildings\u2019 surfaces show clear geometric patterns without apparent motion blur or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "infamous_harsh1t",
+          "text": "",
+          "permalink": "https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f",
+          "photos": [
+            "Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture"
+          ],
+          "watch_outs": [
+            "The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "rickjackoway",
           "text": "",
@@ -314,7 +341,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, railings, photo, shadows",
+      "label": "photograph, shadows, photo, composition",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",
