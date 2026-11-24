@@ -235,8 +235,32 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 87,
+      "reply_count": 91,
       "replies": [
+        {
+          "username": "auerbach_photos",
+          "text": "Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand.",
+          "permalink": "https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS",
+          "photos": [
+            "Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "medium.gords7",
+          "text": "",
+          "permalink": "https://www.threads.com/@medium.gords7/post/DgIVQs1GyWb",
+          "photos": [
+            "Description: A row of wooden stall partitions extends into the distance in what appears to be a public restroom, with a hexagonal-tiled floor featuring small black dots on a light background. Photograph read: The image is taken at a low angle, emphasizing the receding line of stalls. Lighting is even and diffused, casting soft shadows. The rendering is clear, with visible wood grain and tile patterns, though the perspective creates a slight vanishing point distortion. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ashu_anu87",
           "text": "",
@@ -376,7 +400,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jphbb",
+                  "text": "I was watching a parade.",
+                  "permalink": "https://www.threads.com/@jphbb/post/DgIU4c8Fb8Z",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -461,7 +496,18 @@
                   "needs_response": true,
                   "action": "reply",
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "d1xshooter",
+                      "text": "In the Milwaukee River downtown. It\u2019s fun I actually can fish right out of my apartment. Thank you for the interest",
+                      "permalink": "https://www.threads.com/@d1xshooter/post/DgIU4QvFZfw",
+                      "photos": [],
+                      "needs_response": true,
+                      "action": "reply",
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

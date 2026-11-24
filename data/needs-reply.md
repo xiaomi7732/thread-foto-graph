@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (31)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
+  - Photo: Description: The photograph shows the interior of a narrow, rocky passage with rough, textured walls and a dark, receding tunnel ahead. Photograph read: The composition is framed by the vertical rock faces, with light illuminating the upper portions of the walls and casting deep shadows into the tunnel. The rendering is naturalistic, with visible surface textures and subtle tonal variations. Photo type: Natural
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DgIVQs1GyWb))
+  - Photo: Description: A row of wooden stall partitions extends into the distance in what appears to be a public restroom, with a hexagonal-tiled floor featuring small black dots on a light background. Photograph read: The image is taken at a low angle, emphasizing the receding line of stalls. Lighting is even and diffused, casting soft shadows. The rendering is clear, with visible wood grain and tile patterns, though the perspective creates a slight vanishing point distortion. Photo type: Architectural
 - **ashu_anu87**:  ([link](https://www.threads.com/@ashu_anu87/post/DgIUe8JpYGd))
   - Photo: Description: A wooden boardwalk with red, perforated metal planks extends upward through a forested mountain slope, flanked by evergreen trees and bare-branched trees, leading toward a distant, hazy valley under a pale sky. Photograph read: The composition is a low-angle perspective looking up the boardwalk, framed by tree branches overhead. Lighting is diffuse and even, with no strong shadows or highlights. The image has a cool, slightly desaturated color tone and visible grain or texture in the wood and foliage. Photo type: Natural landscape
 - **william67walter**: Lobby ceiling light ([link](https://www.threads.com/@william67walter/post/DgIUKyREayW))
@@ -27,6 +31,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image shows a large, modern architectural structure with a lattice-like, undulating form, set against a clear blue sky, with a staircase and railings in the foreground. Photograph read: The composition is taken from a low angle, emphasizing the structure’s upward curve. Lighting is bright and direct, casting clear shadows and highlighting the geometric patterns. The rendering is sharp, with visible texture on the structure’s surfaces and defined edges. Photo type: Architectural
 - **robbbertphoto**: Glass. ([link](https://www.threads.com/@robbbertphoto/post/DgIS_dyEXFx))
   - Photo: Description: The image shows a close-up of a textured surface with repeating wavy, parallel lines that create a pattern of alternating light and dark bands, possibly on a reflective or semi-translucent material. Photograph read: The composition is dominated by the repeating wave pattern, with lighting creating specular highlights along the ridges. The surface appears smooth and uniform, with no discernible depth or texture beyond the pattern. The rendering is consistent across the frame, with no visible signs of motion blur, focus issues, or color distortion. Photo type: Abstract
+- **jphbb**: I was watching a parade. ([link](https://www.threads.com/@jphbb/post/DgIU4c8Fb8Z))
+  - _Replying to: Row after row of gray, white crossbelts, and tall plumes ma…_
 - **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DgISgcZESAN))
   - Photo: Description: A grid of circular holes in a dark, uniform surface, with some holes reflecting a golden, insect-like object, while others show only reflections of ambient light or empty space. Photograph read: The image is composed of a repeating pattern of circular apertures. Lighting is diffuse, creating soft reflections within the holes. Reflections are visible in some holes but are inconsistent in clarity and content. The surface appears smooth and uniform, with no visible texture or depth cues. Photo type: Abstract
     - Watch-outs: - Reflections in the holes are inconsistent; some show clear, detailed insect-like forms while others are indistinct or show only light reflections. - The main subject (insect reflections) is partially obscured by the uniformity of the grid and the lack of sharp focus across the entire image.
@@ -34,6 +40,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two staircases in one post, and they could not be more diff…_
 - **d1xshooter**: Fishing for Lake Trout, probably a spoon ([link](https://www.threads.com/@d1xshooter/post/DgIUj1sFYSm))
   - _Replying to: The water turned to glitter around that little boat, and th…_
+- **d1xshooter**: In the Milwaukee River downtown. It’s fun I actually can fish right out of my apartment. Thank you for the interest ([link](https://www.threads.com/@d1xshooter/post/DgIU4QvFZfw))
+  - _Replying to: Fishing for Lake Trout, probably a spoon_
 - **charhedman**: I saw them right away and wanted them in the photo. They really do look so small. 🙏 ([link](https://www.threads.com/@charhedman/post/DgIUGTRm3TU))
   - _Replying to: Did you notice the work platform while you were shooting, o…_
 - **dwordops**: It’s the “show” barrel house underneath Caymus. No mirror, no AI, I just lined up the shot … ([link](https://www.threads.com/@dwordops/post/DgITZ8rkcji))
