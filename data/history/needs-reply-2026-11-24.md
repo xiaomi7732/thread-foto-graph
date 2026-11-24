@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (22)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **tile_conscious**:  ([link](https://www.threads.com/@tile_conscious/post/DgIbpTim3-H))
+  - Photo: Description: The photograph shows the facade of a tall, modern building with a grid of green-tinted windows and horizontal bands of perforated panels. Photograph read: The image is composed of repeating vertical and horizontal lines, with uniform lighting across the surface. The rendering is flat and lacks depth cues, with no visible motion blur or distortion. Photo type: Architectural
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgIbKJuDjzI))
   - Photo: Description: The photograph shows a paved surface composed of interlocking dark and light cobblestones arranged in flowing, wave-like patterns. Photograph read: The image is captured from a slightly elevated angle, showing the repeating geometric pattern of the pavement. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual stone shapes and the precise layout of the pattern. Photo type: Patterned pavement
 - **bslifkin**:  ([link](https://www.threads.com/@bslifkin/post/DgIbAviFMv9))
