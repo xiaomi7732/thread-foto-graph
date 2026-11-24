@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (36)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **dr0ma_**:  ([link](https://www.threads.com/@dr0ma_/post/DgItOCDCJjl))
+  - Photo: Description: A black-and-white photograph captures a spiral staircase from a low-angle perspective, with a modern architectural ceiling featuring horizontal slats and structural beams visible above. Photograph read: The image is rendered in monochrome, with strong contrast between dark stair treads and lighter structural elements. Lighting appears to be artificial, with visible light sources mounted on the ceiling. The composition uses a low-angle shot to emphasize the spiral’s curvature and verticality. Photo type: Architectural
 - **lucillepippetti**:  ([link](https://www.threads.com/@lucillepippetti/post/DgIsxODIDf0))
   - Photo: Description: The foreground features a cluster of dark, textured, castle-like sand formations on a beach, with a bright sun setting over the ocean in the background, casting a warm glow across the water and sand. Photograph read: The composition places the sand structures in the foreground, with the sun and horizon in the background. Lighting is directional, casting shadows and highlighting textures on the sand structures. The image exhibits a shallow depth of field, with the foreground structures in focus and the background slightly softer. The sun appears as a bright disc with minimal atmospheric haze. Photo type: Natural landscape
     - Watch-outs: Foreground sand structures show fine texture detail, but the image lacks sharpness in the mid-ground sand, making individual grains or features indistinct. Background ocean surface is slightly blurred, reducing definition of wave patterns and horizon detail.
