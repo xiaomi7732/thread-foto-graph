@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (25)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **kennethstevenson9**: Rows of windows on a cruise ship as it passes by my house (green in foreground (. ([link](https://www.threads.com/@kennethstevenson9/post/DgIZ2AVmzwY))
+  - Photo: Description: A large white cruise ship, identifiable as the Carnival Panorama, is moored in a waterway, viewed from an elevated position with residential buildings and trees in the foreground and hazy, forested hills in the background. Photograph read: The image is captured under overcast, diffuse lighting, resulting in muted tones and soft contrast. The composition is framed by foreground foliage and a house, with the ship occupying the mid-ground. The image exhibits no visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary
+- **mommatex**:  ([link](https://www.threads.com/@mommatex/post/DgIZ1VImlYT))
+  - Photo: Description: The photograph shows an interior view of a covered cloister with stone arches and columns, a wooden-beamed ceiling, and a tiled floor, with a grassy courtyard visible through the arches. Photograph read: The image is taken from a low angle, emphasizing the perspective of the cloister’s arcade. Lighting is natural, casting shadows across the floor, with sunlight entering through the arches. The rendering is clear enough to discern architectural details, including column capitals and tile patterns. Photo type: Architectural
+- **bevz123**:  ([link](https://www.threads.com/@bevz123/post/DgIZZZ-kh_a))
+  - Photo: Description: A close-up photograph features a vibrant red, spiky inflorescence with numerous tubular segments, set against a blurred background of green foliage and out-of-focus white flowers. Photograph read: The main subject is in focus, with saturated colors and high contrast. The background exhibits significant bokeh, with green and white elements softly blurred. The image has a shallow depth of field, and the rendering appears to be from a smartphone camera, as indicated by the watermark. Photo type: Portrait
+    - Watch-outs: The background foliage is heavily blurred, obscuring fine texture and detail. The white flowers in the mid-ground are indistinct due to shallow depth of field and lack of sharpness.
 - **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DgIZJOTGo99))
   - Photo: Description: The photograph shows a covered arcade with repeating stone arches and columns, leading into a sunlit courtyard. Adjacent buildings with warm-toned facades and windows are visible on the left. Photograph read: The composition is linear, with the arcade receding into the distance. Lighting is natural daylight, casting distinct shadows from the arches onto the paved ground. The image is in focus, with clear rendering of architectural details and textures. Photo type: Architectural
 - **smilingjeannie**: Morning tea in Little Petra, Jordan. ([link](https://www.threads.com/@smilingjeannie/post/DgIYaK0EeNw))

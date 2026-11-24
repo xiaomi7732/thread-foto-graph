@@ -235,8 +235,47 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 131,
+      "reply_count": 135,
       "replies": [
+        {
+          "username": "kennethstevenson9",
+          "text": "Rows of windows on a cruise ship as it passes by my house (green in foreground (.",
+          "permalink": "https://www.threads.com/@kennethstevenson9/post/DgIZ2AVmzwY",
+          "photos": [
+            "Description: A large white cruise ship, identifiable as the Carnival Panorama, is moored in a waterway, viewed from an elevated position with residential buildings and trees in the foreground and hazy, forested hills in the background. Photograph read: The image is captured under overcast, diffuse lighting, resulting in muted tones and soft contrast. The composition is framed by foreground foliage and a house, with the ship occupying the mid-ground. The image exhibits no visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mommatex",
+          "text": "",
+          "permalink": "https://www.threads.com/@mommatex/post/DgIZ1VImlYT",
+          "photos": [
+            "Description: The photograph shows an interior view of a covered cloister with stone arches and columns, a wooden-beamed ceiling, and a tiled floor, with a grassy courtyard visible through the arches. Photograph read: The image is taken from a low angle, emphasizing the perspective of the cloister\u2019s arcade. Lighting is natural, casting shadows across the floor, with sunlight entering through the arches. The rendering is clear enough to discern architectural details, including column capitals and tile patterns. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bevz123",
+          "text": "",
+          "permalink": "https://www.threads.com/@bevz123/post/DgIZZZ-kh_a",
+          "photos": [
+            "Description: A close-up photograph features a vibrant red, spiky inflorescence with numerous tubular segments, set against a blurred background of green foliage and out-of-focus white flowers. Photograph read: The main subject is in focus, with saturated colors and high contrast. The background exhibits significant bokeh, with green and white elements softly blurred. The image has a shallow depth of field, and the rendering appears to be from a smartphone camera, as indicated by the watermark. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The background foliage is heavily blurred, obscuring fine texture and detail. The white flowers in the mid-ground are indistinct due to shallow depth of field and lack of sharpness."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "peanutbutterscotch_",
           "text": "",
@@ -1280,7 +1319,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "beckiefitzgerald",
+                          "text": "Thanks! \u263a\ufe0f",
+                          "permalink": "https://www.threads.com/@beckiefitzgerald/post/DgIZVxZoFhi",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
