@@ -235,8 +235,32 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 127,
+      "reply_count": 130,
       "replies": [
+        {
+          "username": "smilingjeannie",
+          "text": "Morning tea in Little Petra, Jordan.",
+          "permalink": "https://www.threads.com/@smilingjeannie/post/DgIYaK0EeNw",
+          "photos": [
+            "Description: A man sits inside a tent with vibrant, patterned textiles, holding a steaming teapot on a low, ornate table; the background features layered red and orange geometric designs. Photograph read: The image is brightly saturated with high contrast, showing saturated reds and yellows. The subject is in focus, but the foreground table and teapot exhibit slight surface glare and texture loss. The tent fabric patterns are crisp, and the man\u2019s facial features are discernible. Photo type: Colorful interior portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "lisasmithmulholland",
+          "text": "",
+          "permalink": "https://www.threads.com/@lisasmithmulholland/post/DgIYRzQpZWE",
+          "photos": [
+            "Description: The image shows a spiral staircase with perforated metal steps and railings, ascending within a cylindrical brick-walled structure, viewed from below looking upward. Photograph read: The composition is a low-angle, circular perspective emphasizing the spiral\u2019s curvature. Lighting is dim, with some illumination from above, casting shadows on the staircase and walls. The image has a slightly soft focus, with visible texture in the brickwork and metalwork, but no sharp edges or fine details are crisply rendered. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "a_sicilian_baker",
           "text": "",
@@ -670,7 +694,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "artiekay2",
+                  "text": "A grasshopper, on the third floor.",
+                  "permalink": "https://www.threads.com/@artiekay2/post/DgIYL-wFsTh",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

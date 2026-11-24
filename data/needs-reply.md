@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (18)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **smilingjeannie**: Morning tea in Little Petra, Jordan. ([link](https://www.threads.com/@smilingjeannie/post/DgIYaK0EeNw))
+  - Photo: Description: A man sits inside a tent with vibrant, patterned textiles, holding a steaming teapot on a low, ornate table; the background features layered red and orange geometric designs. Photograph read: The image is brightly saturated with high contrast, showing saturated reds and yellows. The subject is in focus, but the foreground table and teapot exhibit slight surface glare and texture loss. The tent fabric patterns are crisp, and the man’s facial features are discernible. Photo type: Colorful interior portrait
+- **lisasmithmulholland**:  ([link](https://www.threads.com/@lisasmithmulholland/post/DgIYRzQpZWE))
+  - Photo: Description: The image shows a spiral staircase with perforated metal steps and railings, ascending within a cylindrical brick-walled structure, viewed from below looking upward. Photograph read: The composition is a low-angle, circular perspective emphasizing the spiral’s curvature. Lighting is dim, with some illumination from above, casting shadows on the staircase and walls. The image has a slightly soft focus, with visible texture in the brickwork and metalwork, but no sharp edges or fine details are crisply rendered. Photo type: Architectural
 - **a_sicilian_baker**:  ([link](https://www.threads.com/@a_sicilian_baker/post/DgIXvw6msfx))
   - Photo: Description: A vibrant rainbow arcs across a twilight sky above a road lined with palm trees and residential buildings, with a red car and a vintage van visible on the road. Photograph read: The image displays a wide-angle view with a strong color gradient in the sky, transitioning from pink to purple. The rainbow is prominent and well-defined against the sky. The foreground vehicles and palm trees are in focus, though the red car shows slight motion blur. The lighting suggests late afternoon or early evening. Photo type: Aesthetic
     - Watch-outs: The red car exhibits motion blur, reducing the visibility of fine surface details. The rear of the vintage van is partially obscured by the angle and lighting, making license plate and other markings illegible.
@@ -31,6 +35,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image shows the Gateway Arch in St. Louis, Missouri, under a partly cloudy sky, with visitors visible at its base and a bridge in the distant background. Photograph read: The arch dominates the frame, captured from a low angle, with bright daylight illuminating its metallic surface. Clouds are visible in the sky, and a tree is partially framing the left side. The image appears sharp, with clear definition on the arch’s structure and surrounding elements. Photo type: Architectural
 - **marinacasalribeiro**: The grid, no doubt. ([link](https://www.threads.com/@marinacasalribeiro/post/DgIWf_HCP5I))
   - _Replying to: The honeycomb under that mushroom roof goes on forever - ev…_
+- **artiekay2**: A grasshopper, on the third floor. ([link](https://www.threads.com/@artiekay2/post/DgIYL-wFsTh))
+  - _Replying to: A whole grid of holes, and then something golden starts pee…_
 - **d1xshooter**: In the Milwaukee River downtown. It’s fun I actually can fish right out of my apartment. Thank you for the interest ([link](https://www.threads.com/@d1xshooter/post/DgIU4QvFZfw))
   - _Replying to: Fishing for Lake Trout, probably a spoon_
 - **charhedman**: Totally. We are so small. ([link](https://www.threads.com/@charhedman/post/DgIWfhcmgXM))
