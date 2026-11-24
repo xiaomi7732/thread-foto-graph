@@ -235,8 +235,37 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 154,
+      "reply_count": 158,
       "replies": [
+        {
+          "username": "bslifkin",
+          "text": "",
+          "permalink": "https://www.threads.com/@bslifkin/post/DgIbAviFMv9",
+          "photos": [
+            "Description: A cable-stayed bridge with three prominent concrete pylons and white cables spans a body of water, viewed through tree branches in the foreground, with a cloudy sky above and green hills in the background. Photograph read: The image is taken from a slightly elevated angle, with foreground foliage partially obscuring the view. Lighting is diffuse, with no strong directional highlights or shadows. The bridge structure is visible but not sharply defined, and the image lacks fine detail in the foliage and building elements. Photo type: Urban landscape",
+            "Description: The photograph shows the underside of a large concrete bridge with repeating, fluted support columns, viewed from the water level. In the distance, buildings and docks are visible along the shoreline under a bright sky. Photograph read: The image is rendered in a desaturated, sepia-toned color palette with a cool blue tint in the water. The composition is symmetrical, emphasizing the repeating architectural forms. Lighting is even and diffuse, suggesting an overcast or midday sky. The water surface shows gentle ripples, and the bridge structure is in sharp focus. Photo type: Architectural"
+          ],
+          "watch_outs": [
+            "- Foreground foliage partially obscures the bridge, reducing visibility of the main subject. - Low contrast and soft focus throughout the image limit the discernibility of fine structural details on the bridge and surrounding elements.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jen.isenor",
+          "text": "",
+          "permalink": "https://www.threads.com/@jen.isenor/post/DgIarj_kZEc",
+          "photos": [
+            "Description: The photograph shows a low-angle view of a glass and metal roof structure, with a cluster of colorful, patterned spherical objects resting on a vertical pillar beneath it. Photograph read: The composition is dominated by the geometric grid of the roof\u2019s framework, with the pillar and spheres positioned diagonally in the lower right. Lighting is diffuse, suggesting an overcast sky, and the image has a uniform exposure across the scene with no visible highlights or shadows. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kennethstevenson9",
           "text": "Rows of windows on a cruise ship as it passes by my house in the foreground.",
@@ -332,7 +361,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "peanutbutterscotch_",
+                  "text": "I didn\u2019t plan it that way, but I had to stop when I noticed!",
+                  "permalink": "https://www.threads.com/@peanutbutterscotch_/post/DgIa_2ZmGdW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -648,7 +688,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "william67walter",
+                  "text": "One ceiling light fixture I thought was gorgeous. There were three matching smaller wall mounted heading toward the elevators. Our hotel in Killarney 2 years ago.",
+                  "permalink": "https://www.threads.com/@william67walter/post/DgIa8urkZDC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
