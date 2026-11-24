@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (40)
+## Needs Reply (41)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **marcinewiese**:  ([link](https://www.threads.com/@marcinewiese/post/DgIvHemmDnu))
+  - Photo: Description: A group of people with diverse appearances are gathered in a circle, joining their hands together at the center, viewed from above. The setting appears to be an indoor space with a light-colored, patterned tiled floor. Photograph read: The image is taken from a high-angle, overhead perspective. Lighting is even and diffuse, illuminating the subjects without harsh shadows. The rendering is clear enough to distinguish individual hands, arms, and clothing colors, though some areas are slightly out of focus or partially obscured. Photo type: Group portrait
 - **tallerthanyou2026**:  ([link](https://www.threads.com/@tallerthanyou2026/post/DgIuiDYEpv2))
   - Photo: Description: A large, illuminated, geometrically patterned structure stands in a dark outdoor setting, casting intricate shadow patterns on the ground. Surrounding vegetation and low lighting fixtures are visible in the background. Photograph read: The structure is centrally framed, lit from within, casting detailed shadows on the ground. Background elements are dimly lit, with some foliage and low walls visible. The image is taken at night, with a dark sky and minimal ambient light. Photo type: Art installation photography
 - **globetoppers**: Can I give you 4? Can't choose. :) ([link](https://www.threads.com/@globetoppers/post/DgIuVOJlAiS))
