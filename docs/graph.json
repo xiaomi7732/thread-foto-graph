@@ -227,7 +227,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, read",
+      "label": "photograph, photo, visible, lighting",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -235,8 +235,56 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 76,
+      "reply_count": 82,
       "replies": [
+        {
+          "username": "william67walter",
+          "text": "Lobby ceiling light",
+          "permalink": "https://www.threads.com/@william67walter/post/DgIUKyREayW",
+          "photos": [
+            "Description: A circular, illuminated object with a geometric, petal-like or honeycomb pattern is centered against a dark, textured background. The object emits a warm, even glow from within. Photograph read: The image is a top-down view of the object, with radial symmetry emphasized by the lighting. The lighting is uniform and diffused, casting soft shadows within the pattern. The background is dark and non-reflective, contrasting with the object\u2019s glow. No visible lens distortion or motion blur is present. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "bythelightofdawn",
+          "text": "",
+          "permalink": "https://www.threads.com/@bythelightofdawn/post/DgIUJR9Fjsj",
+          "photos": [
+            "Description: The photograph shows the open deck of a ferry, featuring rows of seating, white railings, and a metal roof structure, with a view of the sea and a cloudy sky beyond. Photograph read: The composition is linear, following the deck\u2019s length toward the horizon. Lighting is diffuse, with no strong directional shadows, suggesting overcast conditions. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "deputysec",
+          "text": "\u263a\ufe0f\ud83e\udef6\ud83c\udffd",
+          "permalink": "https://www.threads.com/@deputysec/post/DgIT5cQFTIx",
+          "photos": [
+            "Description: The image shows an indoor atrium with multiple levels of balconies, each lined with white railings and adorned with cascading green foliage. The architecture features curved, repeating structural elements and a central open space with a visible lower-level pool or spa area. Photograph read: The composition is vertical, looking down through multiple floors. Lighting is even and diffuse, with no harsh shadows or overexposed areas. The rendering is clear enough to distinguish architectural details and plant textures, though some foliage appears slightly out of focus. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "welperson",
+          "text": "",
+          "permalink": "https://www.threads.com/@welperson/post/DgITwUvIF3a",
+          "photos": [
+            "Description: A woman stands near three parking payment kiosks under an orange-painted metal canopy, with chain-link fencing and a trash can nearby; sunlight casts strong shadows across the tiled floor. Photograph read: The image is taken in bright daylight with clear shadows from overhead structures; the subject and surrounding objects are in focus, with no visible motion blur or lens distortion. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "e_wat_son",
           "text": "",
@@ -404,7 +452,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "charhedman",
+                  "text": "I saw them right away and wanted them in the photo. They really do look so small. \ud83d\ude4f",
+                  "permalink": "https://www.threads.com/@charhedman/post/DgIUGTRm3TU",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -832,7 +891,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "solent_lens_",
+                  "text": "The gold as you have to get in under to see the rest pan out.",
+                  "permalink": "https://www.threads.com/@solent_lens_/post/DgITnR0jO5e",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1130,7 +1200,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, photo, visible, read",
+      "label": "photograph, photo, visible, lighting",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",

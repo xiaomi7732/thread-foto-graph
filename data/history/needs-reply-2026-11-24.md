@@ -4,9 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (16)
+## Needs Reply (22)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **william67walter**: Lobby ceiling light ([link](https://www.threads.com/@william67walter/post/DgIUKyREayW))
+  - Photo: Description: A circular, illuminated object with a geometric, petal-like or honeycomb pattern is centered against a dark, textured background. The object emits a warm, even glow from within. Photograph read: The image is a top-down view of the object, with radial symmetry emphasized by the lighting. The lighting is uniform and diffused, casting soft shadows within the pattern. The background is dark and non-reflective, contrasting with the object’s glow. No visible lens distortion or motion blur is present. Photo type: Still life
+- **bythelightofdawn**:  ([link](https://www.threads.com/@bythelightofdawn/post/DgIUJR9Fjsj))
+  - Photo: Description: The photograph shows the open deck of a ferry, featuring rows of seating, white railings, and a metal roof structure, with a view of the sea and a cloudy sky beyond. Photograph read: The composition is linear, following the deck’s length toward the horizon. Lighting is diffuse, with no strong directional shadows, suggesting overcast conditions. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Documentary
+- **deputysec**: ☺️🫶🏽 ([link](https://www.threads.com/@deputysec/post/DgIT5cQFTIx))
+  - Photo: Description: The image shows an indoor atrium with multiple levels of balconies, each lined with white railings and adorned with cascading green foliage. The architecture features curved, repeating structural elements and a central open space with a visible lower-level pool or spa area. Photograph read: The composition is vertical, looking down through multiple floors. Lighting is even and diffuse, with no harsh shadows or overexposed areas. The rendering is clear enough to distinguish architectural details and plant textures, though some foliage appears slightly out of focus. Photo type: Architectural
+- **welperson**:  ([link](https://www.threads.com/@welperson/post/DgITwUvIF3a))
+  - Photo: Description: A woman stands near three parking payment kiosks under an orange-painted metal canopy, with chain-link fencing and a trash can nearby; sunlight casts strong shadows across the tiled floor. Photograph read: The image is taken in bright daylight with clear shadows from overhead structures; the subject and surrounding objects are in focus, with no visible motion blur or lens distortion. Photo type: Documentary
 - **e_wat_son**:  ([link](https://www.threads.com/@e_wat_son/post/DgITf_VpXHA))
   - Photo: Description: Five off-white, cube-shaped dice are scattered on a dark green surface, each displaying a black club symbol; one die shows partial blue and green markings. Photograph read: The image is taken from a top-down perspective with even, diffuse lighting. The dice are in focus, but the background is uniformly dark and lacks texture. The dice surfaces reflect light, creating soft highlights. Photo type: Still life
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgITKAgmuL2))
@@ -20,6 +28,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DgISgcZESAN))
   - Photo: Description: A grid of circular holes in a dark, uniform surface, with some holes reflecting a golden, insect-like object, while others show only reflections of ambient light or empty space. Photograph read: The image is composed of a repeating pattern of circular apertures. Lighting is diffuse, creating soft reflections within the holes. Reflections are visible in some holes but are inconsistent in clarity and content. The surface appears smooth and uniform, with no visible texture or depth cues. Photo type: Abstract
     - Watch-outs: - Reflections in the holes are inconsistent; some show clear, detailed insect-like forms while others are indistinct or show only light reflections. - The main subject (insect reflections) is partially obscured by the uniformity of the grid and the lack of sharp focus across the entire image.
+- **charhedman**: I saw them right away and wanted them in the photo. They really do look so small. 🙏 ([link](https://www.threads.com/@charhedman/post/DgIUGTRm3TU))
+  - _Replying to: Did you notice the work platform while you were shooting, o…_
 - **dwordops**: It’s the “show” barrel house underneath Caymus. No mirror, no AI, I just lined up the shot … ([link](https://www.threads.com/@dwordops/post/DgITZ8rkcji))
   - _Replying to: Two barrels up front like sentries, and then the rows just …_
 - **an_aginggrace**: The former. That upper right triangle is reflective metal. ([link](https://www.threads.com/@an_aginggrace/post/DgIS6o8Oudc))
@@ -30,6 +40,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The black fence in front of the red barn gives the whole fi…_
 - **imtayamathias**: It was actually the gold coloured one in the middle. I just love all the Fall colours 😍 ([link](https://www.threads.com/@imtayamathias/post/DgIS0UYEeNP))
   - _Replying to: A whole carpet of fallen leaves, and then that one bright o…_
+- **solent_lens_**: The gold as you have to get in under to see the rest pan out. ([link](https://www.threads.com/@solent_lens_/post/DgITnR0jO5e))
+  - _Replying to: The slats run one way, then the curve bends them the other …_
 - **dianelynnturnbull**: Lol! I have no idea! It had been lightly raining as I was driving. When I pulled into the parking lot the rain had stopped. I feel very lucky that this fir tree hung onto the rain drops long enough for me to find them. ([link](https://www.threads.com/@dianelynnturnbull/post/DgITGZGm2kQ))
   - _Replying to: The needles line up in such neat rows, and then the droplet…_
 - **infamous_harsh1t**:  ([link](https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f))
