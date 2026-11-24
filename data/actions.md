@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (52)
+## Needs Reply (54)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **shel_bee_g**:  ([link](https://www.threads.com/@shel_bee_g/post/DgI6Kl2Ejm0))
+  - Photo: Description: A black-and-white photograph shows the underside of a wooden pier extending over a beach, with the ocean and waves visible in the background. Photograph read: The composition is framed by the pier’s structural supports, creating repeating geometric patterns. Lighting is even and diffused, casting soft shadows on the sand. Rendering is monochromatic with high contrast between the dark wood and lighter sand and sky. Photo type: Architectural
+  - Photo: Description: A tall, multi-colored, box-like structure mounted on a metal support frame, set against a pale sky with some trees visible at the edges. Photograph read: The image is taken from a low angle, with even, diffuse lighting. The structure’s panels show color gradients and panel divisions, but the image lacks sharpness and fine detail is not discernible across the surface. The metal frame is visible but not sharply defined. Photo type: Documentary
+- **codydog3**:  ([link](https://www.threads.com/@codydog3/post/DgI5OH3G4aW))
+  - Photo: Description: The image shows a spiral staircase with wooden treads and a curved wooden handrail, viewed from above, within a stone-walled interior that includes windows and a chandelier. Photograph read: The composition is a high-angle shot of the staircase curving upward, with strong directional lighting from a window casting highlights on the steps and walls. The image exhibits a visible grainy texture and color cast, with muted tones and soft transitions between light and shadow. Photo type: Digital photograph
+    - Watch-outs: - The entire image has a noticeable grainy texture, reducing fine detail visibility across all areas. - The staircase’s handrail and balusters appear slightly indistinct due to the grain, particularly in the mid-to-upper sections.
 - **docnyberg**: The Congres hall in Reykjavík, Iceland. ([link](https://www.threads.com/@docnyberg/post/DgI1gIfkSCW))
   - Photo: Description: The photograph shows a modern building with a facade composed of irregular, hexagonal glass panels, reflecting a clear blue sky. The structure’s geometric pattern is prominent, with varying shades of blue and green from the glass surfaces. Photograph read: The image is taken from a low angle, emphasizing the building’s upward slope. Lighting is bright and direct, creating strong reflections and highlights on the glass. The composition is dominated by the repeating geometric pattern, with no visible signs of motion blur or focus issues. Photo type: Architectural
 - **anasun_art**:  ([link](https://www.threads.com/@anasun_art/post/DgI1cpIDFM9))
