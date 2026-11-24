@@ -227,7 +227,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "railings, photo, photograph, shadows",
+      "label": "photograph, railings, photo, shadows",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -235,8 +235,47 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 3,
+      "reply_count": 6,
       "replies": [
+        {
+          "username": "rickjackoway",
+          "text": "",
+          "permalink": "https://www.threads.com/@rickjackoway/post/DgIPhpbG1n_",
+          "photos": [
+            "Description: The photograph shows the underside of a pier with numerous dark, cylindrical support pillars extending into turbulent, foamy water. Waves crash against the pillars, creating spray and white water. Photograph read: The composition is dominated by the vertical and angled pillars, with the spray of water filling the midground. Lighting appears to be low-contrast, with some specular highlights on the pillars\u2019 surfaces. The water spray is rendered as a diffuse, bright mass, obscuring finer details. The image lacks sharpness across the entire frame. Photo type: Underwater/structural"
+          ],
+          "watch_outs": [
+            "- The spray and foam obscure the lower portions of the pillars and the water\u2019s surface texture, reducing visibility of contact points and surface detail. - The pillars\u2019 surfaces show visible reflections and highlights, but no fine surface texture or markings are discernible due to the wetness and spray."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mike.bowden.garsten",
+          "text": "",
+          "permalink": "https://www.threads.com/@mike.bowden.garsten/post/DgIPg-yEdRA",
+          "photos": [
+            "Description: The photograph shows the interior of a large, modern exhibition hall with a complex, curved metal and glass roof structure, housing various vehicles including race cars, aircraft, and a helicopter, with visitors walking among them. Photograph read: The image is taken from a low angle, capturing the expansive, geometrically intricate ceiling and the display area below. Lighting is diffuse and even, with no obvious shadows or highlights. The floor reflects the ceiling and exhibits, suggesting a wet or polished surface. The composition is wide, with the ceiling dominating the frame. Photo type: Architectural documentation"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "amaginings",
+          "text": "",
+          "permalink": "https://www.threads.com/@amaginings/post/DgIPSG-FfTp",
+          "photos": [
+            "Description: The photograph shows a vertical sequence of repeating, angular balcony structures with vertical slat railings, set against a textured, grid-patterned building facade. The balconies are arranged in a stepped, zigzagging pattern with visible support columns and spherical light fixtures beneath each level. Photograph read: The image is in black and white, with high contrast between the bright railings and deep shadows. The composition is linear and repetitive, emphasizing geometric patterns. Lighting appears to be direct and overhead, casting sharp shadows. The rendering is crisp, with no visible motion blur or chromatic aberration. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "arxhloverx",
           "text": "",
@@ -275,7 +314,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "railings, photo, photograph, shadows",
+      "label": "photograph, railings, photo, shadows",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",
