@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (26)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
@@ -29,6 +29,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: How many floors does it climb? The spiral winds up into all…_
 - **lucillepippetti**: I found them. I believe some sort of burrowing sea creature made them. I thought they looked like a gathering of aliens. ([link](https://www.threads.com/@lucillepippetti/post/DgJD_qlIH3G))
   - _Replying to: A whole forest of sand spires, each one piled up the same w…_
+- **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
+  - _Replying to: I found them. I believe some sort of burrowing sea creature…_
 - **cindi7741**: The arches are in Rocky point Mexico at my sister's house. The tracks are up in Washington state. ([link](https://www.threads.com/@cindi7741/post/DgI_CyoEpL-))
   - _Replying to: The arches frame the sea, and the old tracks run off into t…_
 - **reverendbenzo**: The sky but I thought maybe it would look interesting behind the chain link. That's actually an overpass. ([link](https://www.threads.com/@reverendbenzo/post/DgJEPzJlu-J))
