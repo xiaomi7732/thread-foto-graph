@@ -235,7 +235,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 203,
+      "reply_count": 206,
       "replies": [
         {
           "username": "kes_ward",
@@ -363,7 +363,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "real_art_by_aj",
+                  "text": "I was down at The V&A in Dundee, this is the view under the building looking into the Tay. Wanted to see it at night, it's an awesome building \ud83e\udd29",
+                  "permalink": "https://www.threads.com/@real_art_by_aj/post/DgIhvkujQq_",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -410,7 +421,21 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "stefano_svizzeretto",
+                  "text": "6 piani. \u00c8 il Centro Commerciale Millenium a Caracas.",
+                  "permalink": "https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi",
+                  "photos": [
+                    "Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building\u2019s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural",
+                    "Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -553,7 +578,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jen.isenor",
+                  "text": "Thanks, I love this one. I took it in the main entrance at the Louvre in the fall of 2022.",
+                  "permalink": "https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
