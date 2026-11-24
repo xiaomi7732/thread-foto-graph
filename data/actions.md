@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (13)
+## Needs Reply (14)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **kes_ward**:  ([link](https://www.threads.com/@kes_ward/post/DgIhDwEmNSa))
@@ -17,8 +17,11 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
   - _Replying to: How many floors of escalators is that? They zigzag up throu…_
-- **jen.isenor**: Thanks, I love this one. I took it in the main entrance at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
+- **jen.isenor**: Thanks, I love this one. I took it at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
   - _Replying to: The glass grid goes on forever overhead, and then that pill…_
+- **jen.isenor**: Another shot for more of the story. This shows nice pattern too. ([link](https://www.threads.com/@jen.isenor/post/DgIiSAIEc1O))
+  - Photo: Description: The photograph shows the interior of the Louvre Museum, featuring its glass pyramid roof and a tall, colorful sculpture composed of stacked spheres. In the background, the classical architecture of the Louvre’s main building is visible through the transparent roof. Photograph read: The composition is framed from a low angle, emphasizing the pyramid’s geometric structure and the sculpture. Natural daylight filters through the glass, illuminating the scene evenly. The rendering is clear, with sharp edges on architectural elements and distinct textures on the sculpture. Photo type: Architectural
+  - _Replying to: Thanks, I love this one. I took it at the Louvre in the fal…_
 - **kennethstevenson9**: A row of lifeboats. ([link](https://www.threads.com/@kennethstevenson9/post/DgIaXj3m4qc))
   - _Replying to: Rows of windows on a cruise ship as it passes by my house i…_
 - **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
