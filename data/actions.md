@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (29)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
@@ -45,6 +45,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
   - _Replying to: How many floors of escalators is that? They zigzag up throu…_
+- **patrickcullie**: If memory serves, I photographed it from a window above at the Hotel Rocamor in Cadaquez just as it was. ([link](https://www.threads.com/@patrickcullie/post/DgJF-INm93k))
+  - _Replying to: A whole grid of tiles in a perfect circle, and then that li…_
 - **jen.isenor**: Thanks, I love this one. I took it at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
   - _Replying to: The glass grid goes on forever overhead, and then that pill…_
 - **kennethstevenson9**: This photo was actually taken by one of my neighbors that lives farther up the hill. This ship was one of a kind as far as I know, we get sternwheelers and other cruise vessels that dock at the waterfront across from where I live. We see lots of shipping vessels passing by. ([link](https://www.threads.com/@kennethstevenson9/post/DgJFtibEifv))
