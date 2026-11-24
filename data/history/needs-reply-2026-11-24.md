@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **robbbertphoto**: Glass. ([link](https://www.threads.com/@robbbertphoto/post/DgIS_dyEXFx))
+  - Photo: Description: The image shows a close-up of a textured surface with repeating wavy, parallel lines that create a pattern of alternating light and dark bands, possibly on a reflective or semi-translucent material. Photograph read: The composition is dominated by the repeating wave pattern, with lighting creating specular highlights along the ridges. The surface appears smooth and uniform, with no discernible depth or texture beyond the pattern. The rendering is consistent across the frame, with no visible signs of motion blur, focus issues, or color distortion. Photo type: Abstract
+- **jphbb**: West Point cadets ([link](https://www.threads.com/@jphbb/post/DgISlymlcdv))
+  - Photo: Description: A group of uniformed marching soldiers in grey coats, white sashes, and tall black plumed hats march in formation on a city street, with a “New York Public Library” sign visible in the background. Photograph read: The image is taken from a slightly elevated angle, capturing the soldiers in profile as they march. Lighting is even and diffuse, suggesting an overcast day. The image has a shallow depth of field, with the foreground soldiers in focus and the background slightly softer. The resolution is sufficient to discern uniforms, insignia, and facial features, though not exceptionally sharp. Photo type: Documentary
+- **artiekay2**:  ([link](https://www.threads.com/@artiekay2/post/DgISgcZESAN))
+  - Photo: Description: A grid of circular holes in a dark, uniform surface, with some holes reflecting a golden, insect-like object, while others show only reflections of ambient light or empty space. Photograph read: The image is composed of a repeating pattern of circular apertures. Lighting is diffuse, creating soft reflections within the holes. Reflections are visible in some holes but are inconsistent in clarity and content. The surface appears smooth and uniform, with no visible texture or depth cues. Photo type: Abstract
+    - Watch-outs: - Reflections in the holes are inconsistent; some show clear, detailed insect-like forms while others are indistinct or show only light reflections. - The main subject (insect reflections) is partially obscured by the uniformity of the grid and the lack of sharp focus across the entire image.
 - **bobherrmann6**:  ([link](https://www.threads.com/@bobherrmann6/post/DgISXe5lWy-))
   - Photo: Description: A tall, red-and-gray metal observation tower with stairs and platforms stands against a clear blue sky, surrounded by evergreen trees and distant hills; a wooden deck with railings occupies the foreground. Photograph read: The image is taken in bright daylight with even illumination; the tower and surrounding landscape are in focus, showing clear structural details and natural textures. The composition is vertical, with the tower centered, and the foreground deck provides a sense of depth. Photo type: Documentary
   - Photo: Description: A wooden staircase with matching paneling on the walls ascends toward an upper level, flanked by a thick green rope handrail on the right. Photograph read: The image is taken from a low angle looking up the stairs, with even, diffuse indoor lighting. The wood grain and knots on the steps and walls are visible, and the rope handrail shows texture. The composition is straightforward, with no visible distortion or color aberration. Photo type: Documentary
@@ -23,6 +30,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A snow-covered mountain landscape with dense evergreen forests arranged in terraced rows across sloping terrain, with rocky, snow-dusted peaks in the background. Photograph read: The image presents a wide, high-angle view with even, diffused lighting, showing clear contrast between the dark coniferous trees and white snow. Textures of snow and rock are visible, but no sharp focus or motion blur is apparent. Photo type: Landscape
 - **42_z_photos**:  ([link](https://www.threads.com/@42_z_photos/post/DgIRtycFs60))
   - Photo: Description: The photograph shows a downward-looking view of a spiral staircase with dark carpeted steps, accented by white and pink stripes, and a polished wooden handrail supported by metal balusters with ornamental caps. Photograph read: The image is taken from a high vantage point, looking down the center of the spiral staircase. The composition is symmetrical and radial, with the staircase curving inward. Lighting is even and artificial, illuminating the staircase uniformly without harsh shadows or overexposure. The rendering is sharp, with clear definition of the handrail, balusters, and carpet patterns. Photo type: Architectural
+- **an_aginggrace**: The former. That upper right triangle is reflective metal. ([link](https://www.threads.com/@an_aginggrace/post/DgIS6o8Oudc))
+  - _Replying to: Is that wavy diagonal beam reflecting the wall, or is the w…_
+- **gil_o_gram**: Audain Art Gallery Whistler B.C. ([link](https://www.threads.com/@gil_o_gram/post/DgISpEvm1Sr))
+  - _Replying to: The slatted skylight at the top is doing quiet work - it tu…_
+- **musemoon63**: It circles back around to the entrance. Glad you like . ([link](https://www.threads.com/@musemoon63/post/DgISz60EbaF))
+  - _Replying to: How far back do those barrels go? The curve of the cellar k…_
+- **beckiefitzgerald**: Not too long. 😊 ([link](https://www.threads.com/@beckiefitzgerald/post/DgIS3cUoAK8))
+  - _Replying to: The black fence in front of the red barn gives the whole fi…_
+- **imtayamathias**: It was actually the gold coloured one in the middle. I just love all the Fall colours 😍 ([link](https://www.threads.com/@imtayamathias/post/DgIS0UYEeNP))
+  - _Replying to: A whole carpet of fallen leaves, and then that one bright o…_
 - **paul.moorman91**: Names of some of the slaves at George Washington’s Mt. Vernon estate ([link](https://www.threads.com/@paul.moorman91/post/DgIQObOlquW))
   - Photo: Description: A white-painted brick wall displays rows of black, capitalized names in a grid layout, with a dark wooden door visible to the left and a reddish-brown vertical element to the right. Photograph read: The image is evenly lit with a direct light source above, casting minimal shadows. The brick texture is visible beneath the painted surface. The text is rendered in a bold, sans-serif font and is legible, though slightly uneven in alignment. No motion blur, chromatic aberration, or lens distortion is apparent. Photo type: Document
 - **picsall**:  ([link](https://www.threads.com/@picsall/post/DgIQNdEm4Tl))
@@ -30,10 +47,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **infamous_harsh1t**:  ([link](https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f))
   - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
     - Watch-outs: The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form.
-- **rickjackoway**: Waited, but not long with the big waves lately ([link](https://www.threads.com/@rickjackoway/post/DgIQ0LNm5bo))
-  - _Replying to: The pillars march off in such a neat row and then the water…_
-- **remondiazart**: It is the shadow of the bird. ([link](https://www.threads.com/@remondiazart/post/DgIQ5wUEXyL))
-  - _Replying to: A whole grid of windows and the bird picked exactly one to …_
 
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
