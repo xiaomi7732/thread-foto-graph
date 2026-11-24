@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (32)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **artsdepot**:  ([link](https://www.threads.com/@artsdepot/post/DgJKYsvo9jn))
+  - Photo: Description: A concrete staircase ascends within a narrow, enclosed space, with weathered walls showing patches of green discoloration and cracks. Photograph read: The image is taken from a low angle looking up the stairs, with strong directional light illuminating the upper steps and casting deep shadows below. The walls and steps show texture and wear, with a circular cover visible on the landing. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural
+- **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/DgJJkOAEyE9))
+  - Photo: Description: A close-up view of an ornate, dark metal spiral staircase with intricate scrollwork railings and circular patterns on the steps, set against a softly lit interior wall and ceiling. Photograph read: The image is composed with a shallow depth of field, focusing on the staircase’s mid-section. Lighting is subdued, casting soft shadows and highlighting the texture of the metal. The rendering preserves fine details in the railings but shows slight softness in the background and foreground edges. Photo type: Architectural
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
   - Photo: Description: The photograph shows a low-angle view of the Eiffel Tower at night, illuminated with warm and cool lights against a dark sky, with the tower’s iron lattice structure prominently visible. Photograph read: The composition is dominated by the tower’s framework, with lighting highlighting the structure’s geometry. The top section is brightly lit with blue and white accents, while the lower visible sections show warm yellow illumination. The image appears to be captured with a standard camera, showing no visible signs of lens distortion or chromatic aberration. Photo type: Architecture
   - Photo: Description: A low-angle nighttime shot of a metal lattice tower, illuminated against a dark sky, with its upper section and spire visible. Photograph read: The image is in black and white, with high contrast between the bright structure and the black background. The structure’s geometric framework is clearly visible, with some internal lighting visible through openings. The composition is angled upward, emphasizing the tower’s height and structural complexity. Photo type: Architectural
@@ -63,6 +67,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Fishing for Lake Trout, probably a spoon_
 - **charhedman**: Totally. We are so small. ([link](https://www.threads.com/@charhedman/post/DgIWfhcmgXM))
   - _Replying to: Good eye - they give the whole grid its scale._
+- **zanny2mg_fl**: I love spiral staircase! ([link](https://www.threads.com/@zanny2mg_fl/post/DgJJqHjjgci))
+  - _Replying to: It does wind nicely - those pink stripes carry your eye all…_
 - **infamous_harsh1t**:  ([link](https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f))
   - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
     - Watch-outs: The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form.
