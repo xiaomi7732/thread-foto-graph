@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (33)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **jh1962bike**:  ([link](https://www.threads.com/@jh1962bike/post/DgIsKC4iLa0))
+  - Photo: Description: The photograph shows a close-up of a modern building’s exterior, featuring a grid of windows framed by warm-toned, possibly metallic, panels. Reflections of the sky and surrounding structures are visible in the glass. Photograph read: The composition is dominated by repeating geometric patterns of windows and panels. Lighting is bright and directional, casting sharp shadows across the surfaces. The rendering is crisp, with clear edges and no visible signs of motion blur or focus issues. Photo type: Architectural
+- **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DgIrw8imKlf))
+  - Photo: Description: A large, colorful, quilted wind spinner with eight radiating arms, each featuring geometric patterns in yellow, teal, red, black, and white, mounted outdoors against a backdrop of trees and green grass. Photograph read: The image is taken from a frontal perspective with even, natural daylight. The subject is in focus, with clear stitching and fabric patterns visible. The background trees are slightly out of focus but still discernible. No visible signs of motion blur, overexposure, or underexposure. Photo type: Outdoor decorative object photograph
 - **ladenizen2**:  ([link](https://www.threads.com/@ladenizen2/post/DgIngNLGOlq))
   - Photo: Description: The photograph shows numerous bright yellow, triangular-shaped objects suspended from above, hanging in rows against a multi-level indoor architectural structure with metal railings and staircases. Photograph read: The image is taken from a low angle looking upward, with even, diffuse lighting illuminating the scene. The objects are uniformly colored and arranged in vertical columns, creating a patterned visual field. The background includes structural elements like railings and signage, with some areas in shadow. Photo type: Architectural
 - **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/DgImkxNjtbU))
