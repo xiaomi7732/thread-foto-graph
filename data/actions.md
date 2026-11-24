@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (28)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
@@ -21,6 +21,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Row after row of X-braced pillars over the sand, and then a…_
 - **zanny2mg_fl**: Just happened to be there at the right time while out shooting that day :) ([link](https://www.threads.com/@zanny2mg_fl/post/DgI9Yylkcc8))
   - _Replying to: Two rows of cars funnelling into that orange sky, and the y…_
+- **watsjoey**: It snowed the day before. Have never seen snow stay on branches like this. And yes! Lace was the first thought that came to mind. ([link](https://www.threads.com/@watsjoey/post/DgJF6StGTxL))
+  - _Replying to: How long after the snowfall did you get out there? The snow…_
 - **marcinewiese**: I honestly don't know...it was a meme that I stole from another post symbolizing that diversity should be alive and well ([link](https://www.threads.com/@marcinewiese/post/DgI9_kUGIoF))
   - _Replying to: Hands from every direction, all landing in the same middle …_
 - **tallerthanyou2026**: Full dark. Botanical Garden in Phoenix ([link](https://www.threads.com/@tallerthanyou2026/post/DgJAxJnkiyv))
@@ -45,6 +47,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: How many floors of escalators is that? They zigzag up throu…_
 - **jen.isenor**: Thanks, I love this one. I took it at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
   - _Replying to: The glass grid goes on forever overhead, and then that pill…_
+- **kennethstevenson9**: This photo was actually taken by one of my neighbors that lives farther up the hill. This ship was one of a kind as far as I know, we get sternwheelers and other cruise vessels that dock at the waterfront across from where I live. We see lots of shipping vessels passing by. ([link](https://www.threads.com/@kennethstevenson9/post/DgJFtibEifv))
+  - _Replying to: Rows of windows, a row of orange lifeboats, and the whole s…_
 - **kennethstevenson9**: A row of lifeboats. ([link](https://www.threads.com/@kennethstevenson9/post/DgIaXj3m4qc))
   - _Replying to: Rows of windows on a cruise ship as it passes by my house i…_
 - **larry_usselman**: I was focusing on the cobblestones and the young person came into the picture. I snapped a couple of quick shots and that was it. No real planning, just lucky. ([link](https://www.threads.com/@larry_usselman/post/DgJAU8sNAj-))
