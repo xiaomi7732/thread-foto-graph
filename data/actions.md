@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (45)
+## Needs Reply (46)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **luvsravens59**: Jewish memorial Boston ([link](https://www.threads.com/@luvsravens59/post/DgIxbZHpfbv))
@@ -85,6 +85,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The photograph shows an upward view of a highly decorated ceiling and supporting architectural elements, featuring geometric patterns in red, blue, orange, and beige, with recessed lighting fixtures. Photograph read: The composition is symmetrical, with a central vertical axis and repeating patterns. Lighting is provided by multiple circular fixtures, casting bright spots on the ceiling. The rendering is sharp, with clear delineation of patterns and textures on the stone and painted surfaces. Photo type: Architectural
   - Photo: Description: The photograph shows a long, narrow hallway with a highly decorative, geometrically patterned ceiling and walls, featuring stained glass and mosaic-like tilework. A central stained glass window depicting a figure with wings is visible at the far end, flanked by repeating geometric motifs. Photograph read: The composition is a straight-on perspective down the hallway, with the ceiling’s intricate patterns and lighting fixtures creating a strong vertical emphasis. Lighting is artificial, with multiple ceiling lights casting even illumination. The rendering is sharp, with clear definition of textures and colors, though some areas appear saturated or over-processed. Photo type: Art Deco interior
   - _Replying to: Looking up paid off - diamonds in blue and green and gold, …_
+- **chris.prut**: Shit , no , didnt see it before you noticed. Thats a bummer ([link](https://www.threads.com/@chris.prut/post/DgIy-jHCGnM))
+  - _Replying to: The rosettes and diamonds repeat so neatly, and then your s…_
 - **real_art_by_aj**: I was down at The V&A in Dundee, this is the view under the building looking into the Tay. Wanted to see it at night, it's an awesome building 🤩 ([link](https://www.threads.com/@real_art_by_aj/post/DgIhvkujQq_))
   - _Replying to: The slats stack overhead like ribs, and the walkway threads…_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
