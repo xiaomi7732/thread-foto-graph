@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (29)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **ladenizen2**:  ([link](https://www.threads.com/@ladenizen2/post/DgIngNLGOlq))
+  - Photo: Description: The photograph shows numerous bright yellow, triangular-shaped objects suspended from above, hanging in rows against a multi-level indoor architectural structure with metal railings and staircases. Photograph read: The image is taken from a low angle looking upward, with even, diffuse lighting illuminating the scene. The objects are uniformly colored and arranged in vertical columns, creating a patterned visual field. The background includes structural elements like railings and signage, with some areas in shadow. Photo type: Architectural
 - **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/DgImkxNjtbU))
   - Photo: Description: The image displays a repeating geometric pattern of diamond-shaped facets arranged in a grid, with radiating lines emanating from each center point, all rendered in monochrome tones. Photograph read: The composition is uniform and symmetrical, with consistent lighting that creates bright specular highlights at the pattern centers. The rendering is flat and lacks depth cues, with no visible depth of field or motion blur. Photo type: Abstract
 - **kateksm**:  ([link](https://www.threads.com/@kateksm/post/DgIlulYDenM))
