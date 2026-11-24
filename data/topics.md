@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (photo, question, or substantive text) or **[NEEDS LIKE]** (short acknowledgement or common thanks/praise). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: thank, 500, congratulations, appreciate
+## Topic: thank, congratulations, 500, appreciate
 
 - **Thread** [18019113215966769](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o): 500 followers, and 100k views this month. I would count them one by one, but you would all rather be out taking photos. Thank you for building this with me - every prompt reply, every story behind a shot, every favorite. Here is to the next 500 mornings. 🍁
   - Photo: Description: A cluster of red maple leaves hangs from a thin branch, with water droplets visible on their surfaces; the background is out of focus with indistinct green and dark tones. Photograph read: The subject is in focus with moderate contrast, illuminated by diffuse light; the background exhibits shallow depth of field blur, and the image has a soft, natural color rendering without visible artifacts. Photo type: Portrait
@@ -14,10 +14,13 @@ _Compact, actionable-first view: only replies still awaiting a response are show
       - **[NEEDS REPLY]** Reply by 2killamockingbird: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
   _(+13 more replies elsewhere in this thread already answered, see [full thread](threads/18019113215966769.md))_
 
-## Topic: photograph, photo, visible, lighting
+## Topic: photograph, visible, photo, lighting
 
 - **Thread** [18109143851249248](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo): Pattern Tuesday 🔷 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: • Top 5 featured tomorrow on Threads, pinned • Top 3 also in the Instagram reel • Full credit to the author everywhere • Standouts may join a best-of-the-week reel
   - Photo: Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural
+  - **[NEEDS REPLY]** Reply by shiawasemainichi5:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
+    - Photo: Description: The photograph shows a low-angle view of the Eiffel Tower at night, illuminated with warm and cool lights against a dark sky, with the tower’s iron lattice structure prominently visible. Photograph read: The composition is dominated by the tower’s framework, with lighting highlighting the structure’s geometry. The top section is brightly lit with blue and white accents, while the lower visible sections show warm yellow illumination. The image appears to be captured with a standard camera, showing no visible signs of lens distortion or chromatic aberration. Photo type: Architecture
+    - Photo: Description: A low-angle nighttime shot of a metal lattice tower, illuminated against a dark sky, with its upper section and spire visible. Photograph read: The image is in black and white, with high contrast between the bright structure and the black background. The structure’s geometric framework is clearly visible, with some internal lighting visible through openings. The composition is angled upward, emphasizing the tower’s height and structural complexity. Photo type: Architectural
   - **[NEEDS REPLY]** Reply by mazpaz46:  ([link](https://www.threads.com/@mazpaz46/post/DgI_pLHCFmX))
     - Photo: Description: A modern building with a grid of vertical windows on one side and an ornate, repeating quatrefoil pattern on the adjacent facade, framed by bare tree branches in the foreground. Photograph read: The image is in black and white, with strong contrast between the bright facade and dark window frames. Lighting creates sharp shadows and highlights on the architectural surfaces. The composition is angled, emphasizing the building’s corner and the patterned facade. Photo type: Architectural
   - **[NEEDS REPLY]** Reply by skepticalfla:  ([link](https://www.threads.com/@skepticalfla/post/DgI-v8TlVLs))

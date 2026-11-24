@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18019113215966769",
-      "label": "thank, 500, congratulations, appreciate",
+      "label": "thank, congratulations, 500, appreciate",
       "group": 0,
       "snippet": "500 followers, and 100k views this month. I would count the\u2026",
       "text": "500 followers, and 100k views this month. I would count them one by one, but you would all rather be out taking photos. Thank you for building this with me - every prompt reply, every story behind a shot, every favorite. Here is to the next 500 mornings. \ud83c\udf41",
@@ -216,7 +216,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, lighting",
+      "label": "photograph, visible, photo, lighting",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -224,8 +224,21 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 303,
+      "reply_count": 304,
       "replies": [
+        {
+          "username": "shiawasemainichi5",
+          "text": "",
+          "permalink": "https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6",
+          "photos": [
+            "Description: The photograph shows a low-angle view of the Eiffel Tower at night, illuminated with warm and cool lights against a dark sky, with the tower\u2019s iron lattice structure prominently visible. Photograph read: The composition is dominated by the tower\u2019s framework, with lighting highlighting the structure\u2019s geometry. The top section is brightly lit with blue and white accents, while the lower visible sections show warm yellow illumination. The image appears to be captured with a standard camera, showing no visible signs of lens distortion or chromatic aberration. Photo type: Architecture",
+            "Description: A low-angle nighttime shot of a metal lattice tower, illuminated against a dark sky, with its upper section and spire visible. Photograph read: The image is in black and white, with high contrast between the bright structure and the black background. The structure\u2019s geometric framework is clearly visible, with some internal lighting visible through openings. The composition is angled upward, emphasizing the tower\u2019s height and structural complexity. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mazpaz46",
           "text": "",
@@ -3765,7 +3778,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, photo, visible, lighting",
+      "label": "photograph, visible, photo, lighting",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",

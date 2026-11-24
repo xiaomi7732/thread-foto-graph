@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (23)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgJBVnbE3b6))
+  - Photo: Description: The photograph shows a low-angle view of the Eiffel Tower at night, illuminated with warm and cool lights against a dark sky, with the tower’s iron lattice structure prominently visible. Photograph read: The composition is dominated by the tower’s framework, with lighting highlighting the structure’s geometry. The top section is brightly lit with blue and white accents, while the lower visible sections show warm yellow illumination. The image appears to be captured with a standard camera, showing no visible signs of lens distortion or chromatic aberration. Photo type: Architecture
+  - Photo: Description: A low-angle nighttime shot of a metal lattice tower, illuminated against a dark sky, with its upper section and spire visible. Photograph read: The image is in black and white, with high contrast between the bright structure and the black background. The structure’s geometric framework is clearly visible, with some internal lighting visible through openings. The composition is angled upward, emphasizing the tower’s height and structural complexity. Photo type: Architectural
 - **mazpaz46**:  ([link](https://www.threads.com/@mazpaz46/post/DgI_pLHCFmX))
   - Photo: Description: A modern building with a grid of vertical windows on one side and an ornate, repeating quatrefoil pattern on the adjacent facade, framed by bare tree branches in the foreground. Photograph read: The image is in black and white, with strong contrast between the bright facade and dark window frames. Lighting creates sharp shadows and highlights on the architectural surfaces. The composition is angled, emphasizing the building’s corner and the patterned facade. Photo type: Architectural
 - **skepticalfla**:  ([link](https://www.threads.com/@skepticalfla/post/DgI-v8TlVLs))
