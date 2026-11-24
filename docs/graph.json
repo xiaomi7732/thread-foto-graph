@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18019113215966769",
-      "label": "thank, congratulations, 500, appreciate",
+      "label": "thank, 500, congratulations, appreciate",
       "group": 0,
       "snippet": "500 followers, and 100k views this month. I would count the\u2026",
       "text": "500 followers, and 100k views this month. I would count them one by one, but you would all rather be out taking photos. Thank you for building this with me - every prompt reply, every story behind a shot, every favorite. Here is to the next 500 mornings. \ud83c\udf41",
@@ -224,8 +224,54 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 230,
+      "reply_count": 233,
       "replies": [
+        {
+          "username": "globetoppers",
+          "text": "Can I give you 4? Can't choose. :)",
+          "permalink": "https://www.threads.com/@globetoppers/post/DgIuVOJlAiS",
+          "photos": [
+            "Description: A black-and-white photograph shows the entrance to the 42 St\u2013Bryant Pk Station, with stairs descending into a tiled subway passage. Above the stairs, a sign lists the station name and subway lines (B, D, F, V, 7), with a secondary sign below providing fare instructions. Photograph read: The image is in monochrome, with a bright overhead fluorescent light illuminating the entranceway. The stairs and walls are in shadow, creating high contrast. The composition is a downward-looking perspective from the entrance, with railings on both sides and a metal grate on the stairs. Photo type: Urban documentary",
+            "Description: The image shows three horizontal rows of parallel wooden slats, likely part of a shelf or rack structure, viewed from a low angle against a dark background. Photograph read: The composition is dominated by repeating vertical lines formed by the slats, with strong contrast between the illuminated edges and deep shadows. Lighting appears directional, casting highlights along the slats\u2019 surfaces. The image exhibits visible grain and slight softness, with no clear signs of sharp focus or specific exposure issues. Photo type: Textured",
+            "Description: An individual in an orange sweater and dark pants is ascending an escalator, viewed from below. To the right is a store sign for \u201cCUCINA & CO.\u201d and \u201cthe escalator,\u201d with a \u201cRESTROOMS\u201d sign visible to the left. Photograph read: The image is taken from a low angle looking up the escalator, with the subject centered. Lighting is even and artificial, typical of an indoor commercial space. The escalator steps show motion blur, and the image has a slightly desaturated color palette with the orange sweater as the most saturated element. Photo type: Commercial interior",
+            "Description: A street musician playing a saxophone stands on a sidewalk beside stone steps, while a pedestrian walks up the stairs; a traffic signal and directional sign are visible in the upper right. Photograph read: The image is in black and white, with even, diffused lighting. The composition places the musician and pedestrian diagonally, with the steps forming a strong leading line. The saxophone and case are in the foreground, and the musician\u2019s posture and instrument are clearly rendered. The pedestrian\u2019s face and features are partially visible but not sharply detailed. Photo type: Street photography"
+          ],
+          "watch_outs": [
+            "- The sign\u2019s text is partially obscured by shadows and contrast, making some letters illegible. - The lower portion of the stairs and the tiled floor are underexposed, reducing detail visibility.",
+            "",
+            "Motion blur is visible on the escalator steps and the subject\u2019s hands, reducing detail. The escalator\u2019s metal handrails and steps are indistinct due to motion blur and low contrast.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "deb7fan",
+          "text": "",
+          "permalink": "https://www.threads.com/@deb7fan/post/DgIuOuFk4Ca",
+          "photos": [
+            "Description: The photograph shows a sunlit, covered walkway with stone flooring and arched supports, featuring exposed wooden beams overhead and weathered walls with brick accents. A palm tree and tiled roof are visible in the background under a clear sky. Photograph read: The composition is a linear perspective shot down the walkway, with strong shadows cast by the overhead beams. Lighting is bright and direct, creating high contrast between sunlit areas and shaded regions. The rendering is clear, with visible textures on the stone, brick, and plaster surfaces. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "woogie.lawrence1",
+          "text": "",
+          "permalink": "https://www.threads.com/@woogie.lawrence1/post/DgIt8BukZRu",
+          "photos": [
+            "Description: The photograph shows a row of four tall, multi-paned stained glass windows with decorative, geometric, and heraldic motifs, set against a dark interior wall. In the foreground, numerous clear drinking glasses are arranged on a surface, with some stacked and others upright. Photograph read: The composition is dominated by the vertical windows, which are brightly lit from behind, casting colored light into the dark room. The foreground glasses are in shadow, with minimal detail visible. The image has a flat, even exposure across the windows, with no visible lens distortion or motion blur. Photo type: Interior architectural",
+            "Description: A collection of decorative plates of various sizes and designs is mounted on a muted green exterior wall, adjacent to a window and an air conditioning unit; trees are visible in the background. Photograph read: The plates are arranged in a dense, somewhat random pattern across the wall. Lighting appears to be natural daylight, casting soft shadows. The image is in focus, with no visible motion blur or chromatic aberration. The wall surface shows minor texture and some minor imperfections. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dr0ma_",
           "text": "",
