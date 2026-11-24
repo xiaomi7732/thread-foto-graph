@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (17)
+## Needs Reply (18)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **pappaga11a**:  ([link](https://www.threads.com/@pappaga11a/post/DgIikPClMF0))
@@ -46,6 +46,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Fishing for Lake Trout, probably a spoon_
 - **charhedman**: Totally. We are so small. ([link](https://www.threads.com/@charhedman/post/DgIWfhcmgXM))
   - _Replying to: Good eye - they give the whole grid its scale._
+- **mix4tv**: I took that at Amsterdam airport waiting for my flight. Just lucky ([link](https://www.threads.com/@mix4tv/post/DgIjN_mmwYa))
+  - _Replying to: A whole wall of ribs, and then one diagonal shaft of light …_
 - **infamous_harsh1t**:  ([link](https://www.threads.com/@infamous_harsh1t/post/DgIP0yVCP4f))
   - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
     - Watch-outs: The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form.
