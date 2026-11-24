@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (28)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/DgImkxNjtbU))
+  - Photo: Description: The image displays a repeating geometric pattern of diamond-shaped facets arranged in a grid, with radiating lines emanating from each center point, all rendered in monochrome tones. Photograph read: The composition is uniform and symmetrical, with consistent lighting that creates bright specular highlights at the pattern centers. The rendering is flat and lacks depth cues, with no visible depth of field or motion blur. Photo type: Abstract
 - **kateksm**:  ([link](https://www.threads.com/@kateksm/post/DgIlulYDenM))
   - Photo: Description: A rusted metal staircase dominates the foreground, leading upward toward a large, curved, multi-story building with a repeating geometric window pattern under a clear blue sky. Photograph read: The image is taken from a low angle, emphasizing the staircase’s structure. Bright sunlight illuminates the building and sky, casting strong shadows on the staircase. The building’s facade is detailed but appears slightly soft, with no visible sharpness or focus issues. The foreground staircase is dark and textured, contrasting with the brighter background. Photo type: Architectural
 - **storycatcher52**: Summer concert ([link](https://www.threads.com/@storycatcher52/post/DgIlVH3lJwP))
