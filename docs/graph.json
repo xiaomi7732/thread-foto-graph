@@ -224,7 +224,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 349,
+      "reply_count": 350,
       "replies": [
         {
           "username": "rmeyerconsulting",
@@ -398,7 +398,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "posts.by.norman",
+                  "text": "Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps.",
+                  "permalink": "https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,11 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (13)
+## Needs Reply (14)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **caelian_kwon**: I shoot the wave one first. ([link](https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8))
   - _Replying to: I think the pair works because they argue with each other -…_
+- **posts.by.norman**: Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps. ([link](https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2))
+  - _Replying to: The scrollwork on those rails is doing lacework in iron - d…_
 - **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
   - _Replying to: I found them. I believe some sort of burrowing sea creature…_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
