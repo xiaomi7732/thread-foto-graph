@@ -6,9 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (30)
+
+### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
+- **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
+  - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **kelzkidz03**: I love an unexpected pattern ([link](https://www.threads.com/@kelzkidz03/post/DgKfiaPEX9U))
+  - Photo: Description: A wooden staircase with metal railings ascends between two structures, framed by a clear sky and autumnal foliage visible through wire mesh barriers. Photograph read: The image is taken from below the stairs, looking upward. Warm, directional sunlight illuminates the steps and railings, casting shadows. The composition is vertical, with the staircase leading toward a bright sky. The wire mesh and vines are visible but not sharply detailed. Photo type: Architectural
+  - Photo: Description: A stack of dark, irregularly shaped rocks is balanced vertically against a plain, light-colored sky background. Photograph read: The image is composed with the rock stack centered, showing a vertical arrangement of five stones. Lighting is diffuse and even, with no strong shadows or highlights. The rendering is flat, with minimal texture detail visible on the rocks due to low contrast and uniform illumination. Photo type: Still life
+  - Photo: Description: The photograph shows rows of cardboard boxes filled with fresh raspberries and blackberries arranged on a red-covered table at what appears to be an outdoor market stall. Photograph read: The image is taken from a slightly elevated angle, with even, bright daylight illuminating the berries. The composition is grid-like, with boxes arranged in neat rows. The rendering is clear enough to distinguish individual berries and box edges, though some boxes are slightly out of focus or have soft edges. Photo type: Commercial product photography
+  - Photo: Description: Three white ducks are walking away from the camera across a grassy area bordered by dense green foliage and a wooden structure in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The ducks are in focus, though the image has a mild motion blur and softness, likely from a handheld shot or low shutter speed. The background foliage and distant structure are less sharp. Photo type: Natural
+  - Photo: Description: The photograph shows a staircase with white risers and light wood treads, flanked by dark metal balusters and wooden handrails, leading upward to a landing with a wooden cabinet behind a railing. Photograph read: The image is taken from a low angle looking up the stairs, with even indoor lighting. The composition is symmetrical along the staircase’s centerline, and the rendering is clear, showing texture on the handrails and walls without visible distortion or noise. Photo type: Interior architectural
 - **mark_l**:  ([link](https://www.threads.com/@mark_l/post/DgKc4dAEX0j))
   - Photo: Description: A spiral staircase with white steps and ornate blue metal railings ascends toward a circular skylight at the top, viewed from below. Photograph read: The image is taken from a low angle looking upward, with strong radial lines from the staircase converging toward the center. Lighting is bright and even, with the skylight casting a diffuse glow. The image has a high-contrast, clean rendering with no visible signs of motion blur, noise, or color banding. Photo type: Architectural
 - **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgKWORNGbPr))
