@@ -4,25 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (23)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DgK03velvY8))
   - Photo: Description: A juvenile eagle with brown and white mottled plumage perches on a dark, cylindrical post, facing the camera, with a body of water in the background. Photograph read: The image is taken at a moderate distance with a shallow depth of field, resulting in the eagle being in focus while the background water is softly blurred. Lighting is even and diffuse, without harsh shadows or highlights. The image has a natural color palette and moderate resolution, with visible feather texture and claw detail. Photo type: Natural
 - **jessgperry**: A Bubble in a Fountain of Square Tiles ✌️ ([link](https://www.threads.com/@jessgperry/post/DgK02RXm3wX))
   - Photo: Description: The image shows a close-up of a soap bubble with a textured, iridescent surface, surrounded by smaller droplets and reflecting distorted surroundings. Photograph read: The composition is centered on the bubble, with visible surface tension patterns and color reflections. Lighting creates specular highlights and chromatic interference patterns. Rendering is sharp on the bubble’s surface and surrounding droplets, with no visible motion blur or focus falloff. Photo type: Macro
-- **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/DgK0CoVm17A))
-  - Photo: Description: A close-up, black-and-white portrait of a cat’s face, focusing on its eyes, nose, and whiskers, with fur texture visible around the muzzle and eyes. Photograph read: The image is a shallow depth-of-field portrait with the cat’s eyes and nose in focus, while the surrounding fur and whiskers are softly blurred. Lighting is even across the subject, with no harsh shadows or overexposed areas. The rendering is monochromatic, preserving tonal gradations in fur texture. Photo type: Portrait
-    - Watch-outs: - The cat’s eyes are slightly out of focus relative to the nose, with the iris detail less sharp than the surrounding fur texture. - Whiskers in the foreground and background are blurred, reducing their definition and making them appear as soft streaks rather than distinct structures.
-- **ranbalam**:  ([link](https://www.threads.com/@ranbalam/post/DgKzqFhJRgQ))
-  - Photo: Description: The photograph shows a cluster of sunflowers with large yellow petals and dark centers, set against a clear blue sky, with utility wires and a wooden pole visible in the background. Photograph read: The image is taken from a low angle, with sunflowers in the foreground and background elements including foliage and a white fence. Lighting is bright and direct, casting some shadows on the leaves and flowers. The image has a slightly soft focus, with no visible signs of motion blur or lens distortion. Photo type: Natural
-- **2killamockingbird**:  ([link](https://www.threads.com/@2killamockingbird/post/DgKzjVVgI4T))
-  - Photo: Description: A white race car with prominent sponsor decals, including “95,” “harman/kardon,” “RACOR Parker,” “PENINSULA TR,” and “DEWALT,” is displayed indoors, with abstract wall art and informational panels in the background. Photograph read: The image is rendered in a stylized, high-contrast monochrome tone with visible posterization and edge sharpening. Lighting is even and frontal, casting minimal shadows. The car’s surface reflects light, but text and logos are rendered with bold, blocky lettering and sharp outlines. Photo type: Stylized
-- **mountainmoves77**:  ([link](https://www.threads.com/@mountainmoves77/post/DgKzftFkd2D))
-  - Photo: Description: A close-up black-and-white shot of the front left headlight and fender of a vintage car, showing signs of wear and dirt on the bodywork. Photograph read: The headlight is circular with a grid pattern, framed by a chrome bezel. The car’s fender and hood show surface imperfections and smudges. The image is in monochrome, with high contrast between the bright headlight and darker areas. The background is out of focus, but the car’s form is discernible. Photo type: Documentary
-    - Watch-outs: - Headlight lens shows visible grid lines and reflections, but no indication of internal damage or fogging. - Surface of the fender is covered with dark smudges and scratches, reducing surface detail clarity.
-- **taracee_2017**:  ([link](https://www.threads.com/@taracee_2017/post/DgKzWdHADrr))
-  - Photo: Description: A large mural depicts a woman with white hair holding a handgun, painted on a red wall beside a window; the floor is tiled with light and dark squares. Photograph read: The mural is rendered with sharp detail, featuring realistic skin tones, hair texture, and weapon form. Lighting appears even, with no visible shadows or overexposure. The composition is a close-up of the subject’s face and upper body, with the background mural elements partially visible. Photo type: Street art
+- **corwyn671**: I waited for a minute I wasn't going to take the shot. I was shooting a model in her kitchen. At the time. ([link](https://www.threads.com/@corwyn671/post/DgK1i8Jm0HB))
+  - _Replying to: How long did that stare hold - one lucky frame, or did the …_
+- **2killamockingbird**: I gave up lol 😆 ([link](https://www.threads.com/@2killamockingbird/post/DgK1SHcAO30))
+  - _Replying to: That front end is all eyes - four round lamps staring strai…_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))

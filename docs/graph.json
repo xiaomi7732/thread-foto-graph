@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 8,
+      "reply_count": 15,
       "replies": [
         {
           "username": "paul.moorman91",
@@ -49,10 +49,32 @@
           "watch_outs": [
             "- The cat\u2019s eyes are slightly out of focus relative to the nose, with the iris detail less sharp than the surrounding fur texture. - Whiskers in the foreground and background are blurred, reducing their definition and making them appear as soft streaks rather than distinct structures."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How long did that stare hold - one lucky frame, or did the cat keep you there a while? Those eyes do all the talking in black and white.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK1BMgm4Md",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "corwyn671",
+                  "text": "I waited for a minute I wasn't going to take the shot. I was shooting a model in her kitchen. At the time.",
+                  "permalink": "https://www.threads.com/@corwyn671/post/DgK1i8Jm0HB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "ranbalam",
@@ -61,10 +83,21 @@
           "photos": [
             "Description: The photograph shows a cluster of sunflowers with large yellow petals and dark centers, set against a clear blue sky, with utility wires and a wooden pole visible in the background. Photograph read: The image is taken from a low angle, with sunflowers in the foreground and background elements including foliage and a white fence. Lighting is bright and direct, casting some shadows on the leaves and flowers. The image has a slightly soft focus, with no visible signs of motion blur or lens distortion. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Every dark center turned your way at once - a whole field caught mid-stare. Were they all facing the sun when you found them, or just showing off for you?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK1CUtlMmN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "2killamockingbird",
@@ -73,10 +106,32 @@
           "photos": [
             "Description: A white race car with prominent sponsor decals, including \u201c95,\u201d \u201charman/kardon,\u201d \u201cRACOR Parker,\u201d \u201cPENINSULA TR,\u201d and \u201cDEWALT,\u201d is displayed indoors, with abstract wall art and informational panels in the background. Photograph read: The image is rendered in a stylized, high-contrast monochrome tone with visible posterization and edge sharpening. Lighting is even and frontal, casting minimal shadows. The car\u2019s surface reflects light, but text and logos are rendered with bold, blocky lettering and sharp outlines. Photo type: Stylized"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That front end is all eyes - four round lamps staring straight back at you from under the number 95. How long did you stand there before it blinked first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK1DbTkZTG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "2killamockingbird",
+                  "text": "I gave up lol \ud83d\ude06",
+                  "permalink": "https://www.threads.com/@2killamockingbird/post/DgK1SHcAO30",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "mountainmoves77",
@@ -88,10 +143,21 @@
           "watch_outs": [
             "- Headlight lens shows visible grid lines and reflections, but no indication of internal damage or fogging. - Surface of the fender is covered with dark smudges and scratches, reducing surface detail clarity."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the tight black-and-white is a good call - it turns one old headlight into a portrait, chrome ring and all. How much of the car was left outside the frame?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK1EdVoYaR",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "taracee_2017",
@@ -100,10 +166,21 @@
           "photos": [
             "Description: A large mural depicts a woman with white hair holding a handgun, painted on a red wall beside a window; the floor is tiled with light and dark squares. Photograph read: The mural is rendered with sharp detail, featuring realistic skin tones, hair texture, and weapon form. Lighting appears even, with no visible shadows or overexposure. The composition is a close-up of the subject\u2019s face and upper body, with the background mural elements partially visible. Photo type: Street art"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "She is not letting anyone walk past without a look - that stare follows you right down the street. Where did you find her?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK1FklFN2B",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",
