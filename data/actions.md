@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (19)
+## Needs Reply (20)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **the.dobson.collective**:  ([link](https://www.threads.com/@the.dobson.collective/post/DgJ06GiiPdJ))
+  - Photo: Description: The photograph shows a downward-looking view of a staircase with metal mesh flooring and railings, framed by dark structural beams against white walls. Photograph read: The image is in black and white, with high contrast between the dark metal mesh and bright walls. The composition uses strong diagonal lines and repeating geometric patterns. Lighting appears even, with no visible shadows or highlights suggesting a specific light source. Photo type: Architectural
 - **annette7926**: Oh I love a good pattern ([link](https://www.threads.com/@annette7926/post/DgJy8OciMFd))
   - Photo: Description: The image shows a close-up, upward-looking view of a large, radially symmetric structure with deep red and purple hues, possibly a decorative canopy or ceiling installation, featuring glowing vertical ribs and scattered light specks. Photograph read: The composition is dominated by radial lines emanating from the center, with a dark background and luminous edges. Lighting is artificial and directional, casting highlights along the ribs and illuminating speckled patterns across the surface. Rendering appears smooth but lacks sharpness, with visible softness in texture and edge definition. Photo type: Abstract
 - **scott.wynn**: It’s in the main bedroom of our Airbnb. The picture I shared with you was a rough layout of non finished pecan wood. We have 27 riverside acres that we share with people from all over the world. It’s located just outside the Paradise/Nisqually entrance to Mt Rainier national park. My wife comes up with the decor ideas and I make them come to life. Texture/patterns are the highlight of the main bedroom here. That’s a woven wool rug on the wall with the pecan headboard below. ([link](https://www.threads.com/@scott.wynn/post/DgJ0DZVFNKx))
@@ -69,9 +71,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (9)
+## Needs Like (10)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- mannydr: Only me. ([link](https://www.threads.com/@mannydr/post/DgJ0jl8gb48))
 - jh1962bike: Nice description 👍🏼 ([link](https://www.threads.com/@jh1962bike/post/DgI9ppGiBtg))
 - newblueday:  ([link](https://www.threads.com/@newblueday/post/DgJD27pES1A))
 - jessgperry: Thanks! ([link](https://www.threads.com/@jessgperry/post/DgIaUzAmr6e))

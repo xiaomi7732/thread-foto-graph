@@ -235,8 +235,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 383,
+      "reply_count": 385,
       "replies": [
+        {
+          "username": "the.dobson.collective",
+          "text": "",
+          "permalink": "https://www.threads.com/@the.dobson.collective/post/DgJ06GiiPdJ",
+          "photos": [
+            "Description: The photograph shows a downward-looking view of a staircase with metal mesh flooring and railings, framed by dark structural beams against white walls. Photograph read: The image is in black and white, with high contrast between the dark metal mesh and bright walls. The composition uses strong diagonal lines and repeating geometric patterns. Lighting appears even, with no visible shadows or highlights suggesting a specific light source. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "annette7926",
           "text": "Oh I love a good pattern",
@@ -448,7 +460,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "mannydr",
+                  "text": "Only me.",
+                  "permalink": "https://www.threads.com/@mannydr/post/DgJ0jl8gb48",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
