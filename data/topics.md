@@ -12,7 +12,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Reply by 2killamockingbird: Congratulations 🎊 👏 💐 🥳 🎊 ([link](https://www.threads.com/@2killamockingbird/post/DgAxmPkgL_1))
     - Reply by saars.foto: Thank you Dee! Have a good weekend! ([link](https://www.threads.com/@saars.foto/post/DgAxx3Co0Y3))
       - **[NEEDS REPLY]** Reply by 2killamockingbird: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
-  _(+13 more replies elsewhere in this thread already answered, see [full thread](threads/18019113215966769.md))_
+  _(+14 more replies elsewhere in this thread already answered, see [full thread](threads/18019113215966769.md))_
 
 ## Topic: photograph, visible, photo, lighting
 
