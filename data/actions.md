@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (27)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgKWORNGbPr))
+  - Photo: Description: A large textile with a black-and-beige striped pattern is being held open by a person wearing a red-and-white plaid shirt, with a blurred outdoor background including greenery and a stone wall. Photograph read: The image is taken at a close-to-medium distance, with natural daylight illuminating the fabric. The fabric’s texture and pattern are visible, though the image has soft focus and slight motion blur, particularly in the upper right corner where the hand and shirt are. The composition is angled, showing the fabric’s surface and edges. Photo type: Documentary
+    - Watch-outs: - The upper right corner shows motion blur affecting the hand and shirt, reducing fine detail. - The fabric’s surface has visible creases and folds, which slightly obscure the uniformity of the pattern.
 - **mcdonald6162**:  ([link](https://www.threads.com/@mcdonald6162/post/DgKQREuEsWq))
   - Photo: Description: A dog’s nose and part of its muzzle peek through vertical wooden slats, with the background consisting of blurred, textured surfaces. Photograph read: The image is a close-up with shallow depth of field, focusing on the dog’s nose and the adjacent wood. Lighting is even but not harsh, with no visible shadows or overexposure. The background is out of focus, and the wood grain is visible along the slats. Photo type: Portrait
     - Watch-outs: The dog’s face is partially obscured by the slats, limiting visibility of its features. The background is indistinct, reducing context and depth perception.
@@ -34,6 +37,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
 - **rmeyerconsulting**: It’s the sky bridge connecting the OHSU tram to the building in Portland, OR. ([link](https://www.threads.com/@rmeyerconsulting/post/DgKKKuzG57j))
   - _Replying to: A whole walkway of X-braces and floor diamonds, and then on…_
+- **shiawasemainichi5**: Thank you so much. This is Tokyo Tower. It's a beautiful symbol of Tokyo. I like both color and black and white photos.🗼😊 ([link](https://www.threads.com/@shiawasemainichi5/post/DgKXvLPE4ej))
+  - _Replying to: Same tower twice - once in gold, once in black and white. W…_
 - **shel_bee_g**: Last one, same trestle ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
   - Photo: Description: A long, dark silhouette of a bridge spans a body of water at sunset, with the sun low on the horizon behind it, casting golden reflections on the water and illuminating clouds above. Photograph read: The bridge’s structure is sharply defined against a sky transitioning from deep blue to golden orange near the horizon. The water reflects the bridge’s pillars and the sun’s glow, with some ripples distorting the reflections. Clouds are illuminated from below, creating contrast with the darker sky above. Photo type: Landscape
   - _Replying to: A second view and the reflection doubles the whole trestle …_
