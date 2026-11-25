@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (23)
+## Needs Reply (25)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **syldelteglia**: This is a bad photo, but one I particularly like. Street art in Portugal, the juxtaposition of the cobalt blue and the rusty orange caught my atention first, and then the wide open eye of a child...the sadness behind that look...The door is actually very small. ([link](https://www.threads.com/@syldelteglia/post/DgLGIRKHKVt))
+  - _Replying to: One big eye behind the bars, and the little rust door is wa…_
+- **camaze**: Turned around on the sidewalk and saw it - guess I felt eyes on me… ([link](https://www.threads.com/@camaze/post/DgLGK9FkS5o))
+  - _Replying to: Did you catch it on a walk through the Strip? Two eyes the …_
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
