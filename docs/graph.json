@@ -1090,7 +1090,7 @@
         "Foreground figure is blurred, obscuring facial features and clothing details. Text on the wall to the left is partially legible but not fully readable due to low contrast and slight softness.",
         ""
       ],
-      "reply_count": 12,
+      "reply_count": 13,
       "replies": [
         {
           "username": "peanutbutterscotch_",
@@ -1154,7 +1154,18 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "marinacasalribeiro",
+              "text": "I walked around it, climbed the stairs and walked underneath. The photo was taken when I thought that would be the best angle. Thank you for highlighting.",
+              "permalink": "https://www.threads.com/@marinacasalribeiro/post/DgLWZ6MiHP-",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",
@@ -1230,8 +1241,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 440,
+      "reply_count": 441,
       "replies": [
+        {
+          "username": "2408bridget",
+          "text": "",
+          "permalink": "https://www.threads.com/@2408bridget/post/DgLWoyyjup-",
+          "photos": [
+            "Description: The image displays a close-up of a textile surface composed of black and white woven patterns, with a solid dark gray background section visible in the corners. Photograph read: The composition is a flat, direct overhead view with even, diffuse lighting. The image is sharp and in focus, revealing detailed weave structures. No visible signs of motion blur, lens distortion, or color banding. Photo type: Textile macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mataherry",
           "text": "",
