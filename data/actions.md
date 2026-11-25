@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (32)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **smilingjeannie**: Sadly not. We spent the day on a boat cruising through the Delta and saw so many abandoned and deteriorating boats. Most of the residents, young ones, have moved to the “big city - Saigon” as the old ways of life and making a living in the Delta have disappeared. ([link](https://www.threads.com/@smilingjeannie/post/DgLom4KEvmz))
+  - _Replying to: A boat with its own eyes on the bow - it was watching the r…_
+- **ashu_anu87**: My son built it .. it take him months to built that ([link](https://www.threads.com/@ashu_anu87/post/DgLqL9AGGf9))
+  - _Replying to: How long did that build take? Two little red eyes up front,…_
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
 - **tiv34**: It’s my car. I took it for facebook but I didn’t want to show my plate. It’s almost got an eye at the rear too. ! ([link](https://www.threads.com/@tiv34/post/DgLh91Xiua3))
