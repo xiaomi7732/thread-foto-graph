@@ -6,15 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (17)
+## Needs Reply (20)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **mannydr**:  ([link](https://www.threads.com/@mannydr/post/DgJdK0cgYs2))
   - Photo: Description: Two individuals are present in a room with vertical wooden slats as a background; one stands holding a phone, the other sits at a table facing away, also holding a phone. Photograph read: The image features strong vertical lines from the background slats, with warm, directional lighting casting shadows. The standing person is partially illuminated, while the seated person is in silhouette. The table holds a bottle, glasses, and a cup, but no sharp focus or depth-of-field blur is evident. Photo type: Portrait
 - **caelian_kwon**: I shoot the wave one first. ([link](https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8))
   - _Replying to: I think the pair works because they argue with each other -…_
+- **riverbedsky2229**: Thank you so much! Yours was a good prompt, exemplified by your own fine image. ([link](https://www.threads.com/@riverbedsky2229/post/DgJd-eFDc2z))
+  - _Replying to: Row after row of gold and brown cobbles, and then that pale…_
 - **posts.by.norman**: Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps. ([link](https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2))
   - _Replying to: The scrollwork on those rails is doing lacework in iron - d…_
+- **luvsravens59**: Etched into the glass are the numbers of each life lost. As you walk through each tower you can see these numbers. It’s beautiful but also sad to see how many lives were lost. ([link](https://www.threads.com/@luvsravens59/post/DgJd10uDZUl))
+  - _Replying to: A row of glass towers rising out of the green - a quiet fra…_
 - **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/DgJaw0wjEnN))
   - Photo: Description: The image is a four-panel collage showing people using escalators inside a store, with one panel depicting the exterior of Macy’s with a red sign reading “THE WORLD’S LARGEST STORE.” The interior scenes show individuals ascending escalators, with one person in an orange sweater clearly visible. Photograph read: The collage uses a selective color technique, with the exterior sign in color and the rest in black and white. The lighting is even indoors, with some reflections on escalator surfaces. The escalator panels and handrails show signs of wear and rust. A warning sticker is visible on the side of one escalator. Photo type: Collage
     - Watch-outs: - The top-left panel shows motion blur on a person ascending the escalator, obscuring fine detail on their clothing and surroundings. - The top-right panel has a visible “No Stairs” warning sticker on the escalator, which is partially legible but not fully readable due to low contrast and small print.
@@ -32,6 +36,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
   - _Replying to: How many floors of escalators is that? They zigzag up throu…_
+- **patrickcullie**: Yes. 15 years ago. ([link](https://www.threads.com/@patrickcullie/post/DgJdpskG49b))
+  - _Replying to: A window above in Cadaquez - the stones were already waitin…_
 - **jen.isenor**: Thanks, I love this one. I took it at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
   - _Replying to: The glass grid goes on forever overhead, and then that pill…_
 - **kennethstevenson9**: A row of lifeboats. ([link](https://www.threads.com/@kennethstevenson9/post/DgIaXj3m4qc))
