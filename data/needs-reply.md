@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (30)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **scott.wynn**:  ([link](https://www.threads.com/@scott.wynn/post/DgJsWW7FIdh))
@@ -31,6 +31,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Row after row of gold and brown cobbles, and then that pale…_
 - **posts.by.norman**: Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps. ([link](https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2))
   - _Replying to: The scrollwork on those rails is doing lacework in iron - d…_
+- **shel_bee_g**: Last one ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
+  - Photo: Description: A long, dark silhouette of a bridge spans a body of water at sunset, with the sun low on the horizon behind it, casting golden reflections on the water and illuminating clouds above. Photograph read: The bridge’s structure is sharply defined against a sky transitioning from deep blue to golden orange near the horizon. The water reflects the bridge’s pillars and the sun’s glow, with some ripples distorting the reflections. Clouds are illuminated from below, creating contrast with the darker sky above. Photo type: Landscape
+  - _Replying to: A second view and the reflection doubles the whole trestle …_
 - **luvsravens59**: Etched into the glass are the numbers of each life lost. As you walk through each tower you can see these numbers. It’s beautiful but also sad to see how many lives were lost. ([link](https://www.threads.com/@luvsravens59/post/DgJd10uDZUl))
   - _Replying to: A row of glass towers rising out of the green - a quiet fra…_
 - **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/DgJaw0wjEnN))
