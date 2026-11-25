@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (26)
+## Needs Reply (29)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **scott.wynn**:  ([link](https://www.threads.com/@scott.wynn/post/DgJsWW7FIdh))
+  - Photo: Description: The image shows a close-up of a wall constructed from horizontally arranged wooden planks of varying lengths and widths, with visible grain and warm tones. Photograph read: The planks are arranged in staggered rows with visible gaps between them. Lighting is even and warm, casting soft shadows in the gaps. The image is in focus and has no visible distortion or motion blur. Photo type: Architectural
 - **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/DgJn7JBGJot))
   - Photo: Description: A modernist building with a distinctive geometric facade composed of repeating curved concrete elements, viewed from a low angle against a plain sky; the ground floor features a solid, blocky wall with horizontal panels. Photograph read: The image is presented in monochrome, with even, diffused lighting that minimizes shadows and highlights the structural repetition of the facade. The composition is a low-angle shot emphasizing the building’s corner and upward thrust. The rendering preserves fine surface texture and form, with no visible signs of motion blur or chromatic aberration. Photo type: Architectural
 - **christinabreitenfeldt**: The rows of trees on the as almond orchard across the street ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJnWa8m0rA))
@@ -44,6 +46,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The Macy's escalator, then - the city handed you the assign…_
 - **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
   - _Replying to: I found them. I believe some sort of burrowing sea creature…_
+- **ladenizen2**: It’s a decorative screen on a parking garage at San Diego airport. There are other colors so people can find their cars. ([link](https://www.threads.com/@ladenizen2/post/DgJr2hHEXdh))
+  - _Replying to: What are they - part of an installation? Row after row of b…_
 - **pappaga11a**: This is Karnak in Luxor. ([link](https://www.threads.com/@pappaga11a/post/DgJdLcdFM10))
   - _Replying to: Which temple is this? A whole row of pharaohs, each one sta…_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
@@ -54,6 +58,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A window above in Cadaquez - the stones were already waitin…_
 - **jen.isenor**: Thanks, I love this one. I took it at the Louvre in the fall of 2022. ([link](https://www.threads.com/@jen.isenor/post/DgIh0k_kXLW))
   - _Replying to: The glass grid goes on forever overhead, and then that pill…_
+- **kennethstevenson9**: Like ships passing in the…………..daylight😁. ([link](https://www.threads.com/@kennethstevenson9/post/DgJtOJwmwaq))
+  - _Replying to: A neighbor's eye and a one-of-a-kind ship - the river keeps…_
 - **kennethstevenson9**: A row of lifeboats. ([link](https://www.threads.com/@kennethstevenson9/post/DgIaXj3m4qc))
   - _Replying to: Rows of windows on a cruise ship as it passes by my house i…_
 - **auerbach_photos**: Beautiful patterns found in nature. A tree root hugging a boulder. New Zealand. ([link](https://www.threads.com/@auerbach_photos/post/DgIVS_GFiuS))
