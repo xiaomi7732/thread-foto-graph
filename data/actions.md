@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (42)
+## Needs Reply (44)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **ashu_anu87**:  ([link](https://www.threads.com/@ashu_anu87/post/DgLY60lGJId))
+  - Photo: Description: A yellow and black LEGO Technic model of a sports car is positioned on a dark wooden surface, with a blurred office chair and wall in the background. Photograph read: The image is taken at a slight angle, with the car as the central subject. Lighting is even and ambient, casting soft shadows. The focus is primarily on the car, with the background intentionally out of focus. The car’s mechanical components are visible, including its chassis, wheels, and engine bay. Photo type: Product photography
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
 - **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/DgLW7PODv7z))
@@ -75,6 +77,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The tiled floor does geometry in black and white, and then …_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
+- **shiawasemainichi5**: Yes, you're absolutely right. Thank you very much. ([link](https://www.threads.com/@shiawasemainichi5/post/DgLYz7hE4P-))
+  - _Replying to: Tokyo Tower in both moods - a fine symbol to keep._
 - **shel_bee_g**: Last one, same trestle ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
   - Photo: Description: A long, dark silhouette of a bridge spans a body of water at sunset, with the sun low on the horizon behind it, casting golden reflections on the water and illuminating clouds above. Photograph read: The bridge’s structure is sharply defined against a sky transitioning from deep blue to golden orange near the horizon. The water reflects the bridge’s pillars and the sun’s glow, with some ripples distorting the reflections. Clouds are illuminated from below, creating contrast with the darker sky above. Photo type: Landscape
   - _Replying to: A second view and the reflection doubles the whole trestle …_
