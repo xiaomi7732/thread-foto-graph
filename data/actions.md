@@ -6,11 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (22)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **d1xshooter**: MFD Co#11 ([link](https://www.threads.com/@d1xshooter/post/DgK2a-tFcXC))
   - Photo: Description: A close-up of the front of a red fire truck, showing the grille, headlights, a folded fire hose, and a red coupling on the bumper, with a decal identifying it as “Engine 1” for Milwaukee Fire East Town. Photograph read: The image is well-lit with even illumination, capturing fine surface details on the truck’s paint, chrome, and hose. The composition focuses on the front bumper and grille area, with no visible motion blur or distortion. Lighting is direct and diffused, avoiding harsh shadows or overexposure. Photo type: Documentary
+- **jessgperry**: Only a few more seconds after I got the shot…. ([link](https://www.threads.com/@jessgperry/post/DgK3C-Zm2OG))
+  - _Replying to: It even caught your peace sign in the reflection - a bubble…_
+- **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
+  - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
@@ -72,7 +76,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (12)
+## Needs Like (13)
+
+### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DgK22vHADtH))
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - unclediss: 😎🙏 ([link](https://www.threads.com/@unclediss/post/DgKoEPxm_Y_))
