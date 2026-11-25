@@ -11,7 +11,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
-- **foto.by.gc**: They did not pose, I just got lucky, right place at the right time 😊 ([link](https://www.threads.com/@foto.by.gc/post/DgKwte3lYFn))
+- **foto.by.gc**: They did not pose, I just got lucky, right place at the right time 😊 ([link](https://www.threads.com/@foto.by.gc/post/DgKybvVlUHy))
   - _Replying to: Did you catch them mid-shoot, or did they pose for the fram…_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
