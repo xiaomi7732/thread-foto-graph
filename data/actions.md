@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (28)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **mojochix**: Happy elevator panel. ([link](https://www.threads.com/@mojochix/post/DgK5Zq3kRRD))
+  - Photo: Description: The image shows a metallic surface with two circular arrays of perforations and a dark rectangular panel below, which contains a small red light. Photograph read: The surface has a warm, gradient lighting effect, with the upper portion brighter than the lower. The perforated circles are evenly spaced and symmetrical, while the panel below is mostly dark with a single illuminated point. Photo type: Functional
+    - Watch-outs: - The dark rectangular panel is underexposed, obscuring any readable details or text. - The small red light is isolated and lacks context, making its function or associated interface elements indiscernible.
 - **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DgK46K_EVid))
   - Photo: Description: A close-up frontal view of a vintage Hudson automobile, featuring a black grille, prominent yellow headlights, and a license plate reading “73006 W 15,” with a Hudson Motor Car Co. emblem above the grille. The car’s body is partially visible in blue paint, with trees and a tarp in the blurred background. Photograph read: The image is a focused close-up with even lighting, capturing fine details of the grille mesh, headlight lenses, and license plate. The background is softly blurred, indicating a shallow depth of field. The composition centers on the front end, with the license plate and emblem clearly legible. Photo type: Portrait
 - **bendlesmaid269**:  ([link](https://www.threads.com/@bendlesmaid269/post/DgK41ywCpQq))
@@ -19,6 +22,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **walter.wilkes**:  ([link](https://www.threads.com/@walter.wilkes/post/DgK3d_WFcnB))
   - Photo: Description: A black-and-white photograph features a coin-operated binocular viewer in the foreground, with a sailboat visible through its lenses on a body of water, backed by a tree-lined shore under a bright sky. Photograph read: The image is in monochrome, with high contrast between the dark binoculars and the bright sky and water. The binoculars are in sharp focus, while the sailboat and distant treeline are less defined. The water shows texture and motion, but lacks fine detail. The composition uses the binoculars as a framing device for the distant scene. Photo type: Still Life / Landscape
     - Watch-outs: The sailboat is small and distant, appearing as a faint silhouette with minimal discernible detail. The tree line is a broad, indistinct band with no clear individual tree shapes.
+- **paul.moorman91**: I’m guessing 10 minutes but it felt like an hour lol ([link](https://www.threads.com/@paul.moorman91/post/DgK5STWlsFL))
+  - Photo: Description: A close-up portrait of a young eagle with brown plumage, a dark eye, and a hooked beak, set against a uniformly blurred green background. Photograph read: The subject is in focus with moderate contrast; lighting is even and diffused, with no harsh shadows or overexposed areas. The background is uniformly out of focus, creating a soft bokeh effect. The eagle’s feathers show texture and individual strands. Photo type: Portrait
+  - Photo: Description: A juvenile eagle perches on a metal post atop a wooden dock, with a calm, greenish water surface and a tree-lined shoreline in the background. Photograph read: The image is taken in natural daylight with moderate contrast; the eagle is in focus, but the water and distant trees show slight motion blur from raindrops or wind. The dock planks and post are in sharp focus, while the background is softly blurred. Photo type: Natural
+  - _Replying to: That stare could stop a boat mid-river - and those yellow f…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
@@ -27,6 +34,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **mataherry**:  ([link](https://www.threads.com/@mataherry/post/DgK5SkjEpQB))
+  - Photo: Description: A long, arched pedestrian walkway with a herringbone-patterned floor, glass and metal railings, and large windows along one side, leading toward a darkened entrance at the far end. Photograph read: The image is evenly lit with diffuse light, showing a symmetrical perspective down the corridor. The ceiling has a segmented, curved design with visible seams and pipes. The floor pattern is clearly defined, and the railings are sharp. The far end is dark, with no discernible detail. Photo type: Architectural
 - **mssapi_**: Hello 👋🏻 ([link](https://www.threads.com/@mssapi_/post/DgK4KXwmAvY))
   - Photo: Description: The photograph shows a dimly lit interior hallway leading to a brighter outdoor courtyard with greenery, including a palm tree. A plaque mounted on the wall to the right contains partially legible text, and a traffic cone stands near its base. Photograph read: The image features strong contrast between deep shadows in the foreground and midground and bright, striped sunlight cast across the tiled floor. The composition is framed by architectural elements, with the plaque and cone positioned on the right. The lighting appears natural and directional, casting distinct shadows. The plaque’s text is readable in parts but not fully legible due to low contrast and slight blurriness. Photo type: Architectural
     - Watch-outs: - The plaque’s text is partially obscured by low contrast and slight blurriness, making full readability difficult. - The foreground and midground are underexposed, limiting visibility of fine details on the tiled floor and surrounding walls.
