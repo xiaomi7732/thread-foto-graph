@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 94,
+      "reply_count": 96,
       "replies": [
         {
           "username": "smilingjeannie",
@@ -25,10 +25,21 @@
           "watch_outs": [
             "The boat\u2019s hull shows significant wear and peeling paint, reducing the clarity of its original finish. The painted bow design, while visible, is partially obscured by the angle and surrounding foliage."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A boat with its own eyes on the bow - it was watching the river before you were. Was it still working the Delta when you found it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgLhDasCb6y",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shiawasemainichi5",
@@ -37,10 +48,21 @@
           "photos": [
             "Description: A small green bird with a white eye-ring perches on a branch adorned with white blossoms against a clear blue sky. Photograph read: The bird and blossoms are in focus, with bright, direct lighting casting shadows. The background sky is uniform and out of focus, creating a shallow depth of field. The blossoms show fine detail, including stamens and petals. Photo type: Nature portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That white ring turns a small green bird into a proper stare. Did it hold the pose, or was this a one-shot catch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgLhEkomkZZ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ashu_anu87",

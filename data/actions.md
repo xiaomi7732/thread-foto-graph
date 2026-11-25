@@ -6,14 +6,9 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (44)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- **smilingjeannie**: Mekong Delta, Vietnam ([link](https://www.threads.com/@smilingjeannie/post/DgLdOMVkpRV))
-  - Photo: Description: A weathered wooden boat with a painted red bow featuring stylized eyes and an anchor symbol is moored in murky water, surrounded by green aquatic plants and tree branches overhead. Photograph read: The image is taken under bright, even daylight with no visible shadows or overexposed areas. The composition is framed by tree branches at the top right and the boat occupies the center-right. The rendering is clear enough to discern surface textures and painted details, though the boat’s hull shows signs of wear. Photo type: Documentary
-    - Watch-outs: The boat’s hull shows significant wear and peeling paint, reducing the clarity of its original finish. The painted bow design, while visible, is partially obscured by the angle and surrounding foliage.
-- **shiawasemainichi5**: White-eyes ([link](https://www.threads.com/@shiawasemainichi5/post/DgLZOMSE21u))
-  - Photo: Description: A small green bird with a white eye-ring perches on a branch adorned with white blossoms against a clear blue sky. Photograph read: The bird and blossoms are in focus, with bright, direct lighting casting shadows. The background sky is uniform and out of focus, creating a shallow depth of field. The blossoms show fine detail, including stamens and petals. Photo type: Nature portrait
 - **ashu_anu87**:  ([link](https://www.threads.com/@ashu_anu87/post/DgLY60lGJId))
   - Photo: Description: A yellow and black LEGO Technic model of a sports car is positioned on a dark wooden surface, with a blurred office chair and wall in the background. Photograph read: The image is taken at a slight angle, with the car as the central subject. Lighting is even and ambient, casting soft shadows. The focus is primarily on the car, with the background intentionally out of focus. The car’s mechanical components are visible, including its chassis, wheels, and engine bay. Photo type: Product photography
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
