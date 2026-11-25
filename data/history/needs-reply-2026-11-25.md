@@ -4,13 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (33)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **artisticdezine**: iPhone Oregon ([link](https://www.threads.com/@artisticdezine/post/DgKlzASm46H))
+  - Photo: Description: The photograph shows a dramatic, layered cloud formation dominating the sky, with silhouettes of buildings, trees, and street infrastructure at the bottom. A small bird is visible in flight against the clouds. Photograph read: The sky fills the frame with textured, wave-like clouds in varying shades of gray and white, with a hint of warm light near the horizon. The foreground elements are rendered as dark silhouettes, with minimal visible detail. The image appears to be captured with a standard camera sensor, showing no visible signs of lens distortion or chromatic aberration. Photo type: Urban landscape
 - **foto.by.gc**: Pattern Tuesday 🔷️ ([link](https://www.threads.com/@foto.by.gc/post/DgKiLLWlTjw))
   - Photo: Description: The photograph shows a multi-level staircase with dark railings, viewed through a narrow vertical opening framed by light blue tiled walls. Two people are visible on the stairs, one appearing to take a photo of the other. Photograph read: The composition is framed vertically, with symmetrical wall-mounted lights casting warm illumination on the staircase. The staircase recedes into the background, creating a layered effect. The image is sharp and well-lit, with no visible signs of motion blur or focus issues. Photo type: Architectural
 - **kelzkidz03**: I love an unexpected pattern ([link](https://www.threads.com/@kelzkidz03/post/DgKfiaPEX9U))
