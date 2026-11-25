@@ -52,6 +52,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Is the whole orchard in bloom like this, or just the row across the street? The white blossom over those dark trunks reads like snow that forgot to melt. ([link](https://www.threads.com/@saars.foto/post/DgJzHY2m-5l))
       - **[NEEDS REPLY]** Reply by christinabreitenfeldt: But they blossom south to north. My daughter lives about 50 miles south of us and I can watch them blossom from her place to mine ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ9T3AG9UR))
       - **[NEEDS REPLY]** Reply by christinabreitenfeldt: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
+  - Reply by unclediss:  ([link](https://www.threads.com/@unclediss/post/DgJjDiym19f))
+    - Photo: Description: The photograph shows a black-and-white, low-angle view of a multi-story, curved parking structure with repeating circular bays, some containing vehicles and others appearing empty or dark. Photograph read: The image is composed with strong vertical and horizontal repetition, emphasizing the building’s geometric rhythm. Lighting is high-contrast, with bright white structural elements and deep shadows within the bays. Rendering is monochromatic, with no visible color information. Photo type: Architectural
+    - Reply by saars.foto: Row after row of curved bays, and the cars parked inside them give the whole tower its scale. The black and white turns it into pure rhythm. ([link](https://www.threads.com/@saars.foto/post/DgJzJUjG86o))
+      - **[NEEDS LIKE]** Reply by unclediss: 😎🙏 ([link](https://www.threads.com/@unclediss/post/DgKoEPxm_Y_))
   - Reply by ericpalonen:  ([link](https://www.threads.com/@ericpalonen/post/DgJeJ6VkbSN))
     - Photo: Description: A small, dark object, likely a bird, is visible in mid-air above a body of water with concentric ripples radiating outward. The water surface dominates the frame, with a gradient from darker to lighter tones. Photograph read: The image is composed with the bird centered horizontally but low in the frame, against a textured water surface. Lighting is diffuse, casting minimal contrast. The rendering is uniform, with no visible lens distortion or chromatic aberration. Photo type: Aerial or drone shot
     - Reply by saars.foto: The water is all fine parallel lines, and then one tiny bird right in the middle of it. Was the bird the shot, or did the ripples pull you in? ([link](https://www.threads.com/@saars.foto/post/DgJzLGiFKj9))
@@ -184,7 +188,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
   - Reply by saars.foto: Yesterday's favorites are up - Minimal Friday's best, featured here: https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn ([link](https://www.threads.com/@saars.foto/post/DgIOYQ_Gykv))
     - **[NEEDS LIKE]** Reply by pattykl: Beautiful selection ([link](https://www.threads.com/@pattykl/post/DgKD7LzldTf))
-  _(+300 more replies elsewhere in this thread already answered, see [full thread](threads/18109143851249248.md))_
+  _(+298 more replies elsewhere in this thread already answered, see [full thread](threads/18109143851249248.md))_
 
 ## Topic: thank, congratulations, 500, appreciate
 
