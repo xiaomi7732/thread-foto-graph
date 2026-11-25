@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (31)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **docnyberg**: What You looking’ at ? ([link](https://www.threads.com/@docnyberg/post/DgLD_GBiJAM))
@@ -92,16 +92,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
     - Watch-outs: The lower portion of the image is almost entirely black, obscuring any detail of the staircase or floor. The upper right corner is underexposed, making it difficult to discern texture or form.
 
-### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
-- **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
-  - _Replying to: Thank you Dee! Have a good weekend!_
-
 
 _Flat list of short text-only acknowledgements and common thanks/praise still awaiting a like -- no topic grouping, each thread's link shown only once. See data/needs-reply.md for photos, questions, and substantive text that need an actual reply._
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (14)
+## Needs Like (13)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - akmaleky:  ([link](https://www.threads.com/@akmaleky/post/DgLBdy6DKxa))
@@ -119,7 +115,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - dwordops: Thank you ! ([link](https://www.threads.com/@dwordops/post/DgIWbc2kXrB))
 - beckiefitzgerald: Thanks! ☺️ ([link](https://www.threads.com/@beckiefitzgerald/post/DgIZVxZoFhi))
 - pattykl: Beautiful selection ([link](https://www.threads.com/@pattykl/post/DgKD7LzldTf))
-
-### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
-- charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/DgA6dCHmTpr))
 

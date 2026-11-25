@@ -201,15 +201,3 @@ _Compact, actionable-first view: only replies still awaiting a response are show
   - Reply by saars.foto: Yesterday's favorites are up - Minimal Friday's best, featured here: https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn ([link](https://www.threads.com/@saars.foto/post/DgIOYQ_Gykv))
     - **[NEEDS LIKE]** Reply by pattykl: Beautiful selection ([link](https://www.threads.com/@pattykl/post/DgKD7LzldTf))
   _(+334 more replies elsewhere in this thread already answered, see [full thread](threads/18109143851249248.md))_
-
-## Topic: thank, congratulations, 500, appreciate
-
-- **Thread** [18019113215966769](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o): 500 followers, and 100k views this month. I would count them one by one, but you would all rather be out taking photos. Thank you for building this with me - every prompt reply, every story behind a shot, every favorite. Here is to the next 500 mornings. 🍁
-  - Photo: Description: A cluster of red maple leaves hangs from a thin branch, with water droplets visible on their surfaces; the background is out of focus with indistinct green and dark tones. Photograph read: The subject is in focus with moderate contrast, illuminated by diffuse light; the background exhibits shallow depth of field blur, and the image has a soft, natural color rendering without visible artifacts. Photo type: Portrait
-  - Reply by charhedman: Congratulations! I appreciate your comments 🥰 ([link](https://www.threads.com/@charhedman/post/DgA1OXOmZtb))
-    - Reply by saars.foto: Thank you Char! And I appreciate yours 🤭 ([link](https://www.threads.com/@saars.foto/post/DgA1U_xHzZW))
-      - **[NEEDS LIKE]** Reply by charhedman: You're welcome! ([link](https://www.threads.com/@charhedman/post/DgA6dCHmTpr))
-  - Reply by 2killamockingbird: Congratulations 🎊 👏 💐 🥳 🎊 ([link](https://www.threads.com/@2killamockingbird/post/DgAxmPkgL_1))
-    - Reply by saars.foto: Thank you Dee! Have a good weekend! ([link](https://www.threads.com/@saars.foto/post/DgAxx3Co0Y3))
-      - **[NEEDS REPLY]** Reply by 2killamockingbird: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
-  _(+14 more replies elsewhere in this thread already answered, see [full thread](threads/18019113215966769.md))_
