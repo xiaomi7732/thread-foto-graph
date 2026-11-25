@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (34)
+## Needs Reply (35)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **ben.bennion**: Spotted in Venice ([link](https://www.threads.com/@ben.bennion/post/DgK8VC4grKx))
+  - Photo: Description: A stone-faced intercom unit with two brass bells as eyes, engraved nameplates above them, a perforated speaker grille, and a mail slot, mounted in a weathered stone wall with visible rusted metal fixtures to the left. Photograph read: The image is in sharp focus, with even, diffuse lighting that illuminates the subject clearly. The stone texture, engraved text, and metallic surfaces are visible with no signs of motion blur, overexposure, or underexposure. Photo type: Documentary
 - **deputysec**: The first one no longer exists . They tore it down 😔 ([link](https://www.threads.com/@deputysec/post/DgK7HxhFRsU))
   - Photo: Description: The photograph shows a large mural of Frida Kahlo on a building wall, framed by railroad crossing signals and barriers, with two pedestrians standing on a sidewalk in the foreground. Photograph read: The image is taken in bright daylight with clear visibility of the mural and surrounding infrastructure. The composition is framed by the railroad signals, with the mural centered behind them. The rendering is sharp enough to discern facial features, colors, and structural details of the signs and building. Photo type: Documentary
   - Photo: Description: A large mural depicting a stylized female face with floral elements adorns a building wall, set against a backdrop of trees and a partly cloudy sky. Photograph read: The mural is the central subject, rendered with vivid colors and clear outlines. Lighting is natural daylight, casting soft shadows. The image is taken from a low angle, capturing the mural’s full width and the adjacent sidewalk and hedges. Photo type: Street photography
