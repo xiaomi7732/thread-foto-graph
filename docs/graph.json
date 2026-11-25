@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18079101221478599",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, image, photo, read",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -13,8 +13,45 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 36,
+      "reply_count": 40,
       "replies": [
+        {
+          "username": "deputysec",
+          "text": "The first one no longer exists . They tore it down \ud83d\ude14",
+          "permalink": "https://www.threads.com/@deputysec/post/DgK7HxhFRsU",
+          "photos": [
+            "Description: The photograph shows a large mural of Frida Kahlo on a building wall, framed by railroad crossing signals and barriers, with two pedestrians standing on a sidewalk in the foreground. Photograph read: The image is taken in bright daylight with clear visibility of the mural and surrounding infrastructure. The composition is framed by the railroad signals, with the mural centered behind them. The rendering is sharp enough to discern facial features, colors, and structural details of the signs and building. Photo type: Documentary",
+            "Description: A large mural depicting a stylized female face with floral elements adorns a building wall, set against a backdrop of trees and a partly cloudy sky. Photograph read: The mural is the central subject, rendered with vivid colors and clear outlines. Lighting is natural daylight, casting soft shadows. The image is taken from a low angle, capturing the mural\u2019s full width and the adjacent sidewalk and hedges. Photo type: Street photography"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "amaginings",
+          "text": "Ceiling smiling",
+          "permalink": "https://www.threads.com/@amaginings/post/DgK7GCvm7lG",
+          "photos": [
+            "Description: The image shows a close-up, top-down view of a circular, recessed ceiling fixture with two bright, circular light sources embedded within a grid-patterned diffuser panel. Photograph read: The composition is centered on the circular fixture, framed by a curved, light-gray architectural element. Lighting is even and diffused, with the two lights appearing as bright, overexposed circles. The diffuser panel exhibits a fine, uniform grid texture. The image is monochrome, with no visible color information. Photo type: Abstract"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "jh1962bike",
+          "text": "",
+          "permalink": "https://www.threads.com/@jh1962bike/post/DgK69ltCNpR",
+          "photos": [
+            "Description: A circular black vinyl record is mounted on a light-colored, textured wall, with a stylized pink and black eye illustration painted across its lower half, partially obscuring the record\u2019s grooves. Photograph read: The image is taken from a direct overhead angle, with even, diffuse lighting. The record\u2019s central label is legible, and the painted eye design is clearly rendered with fine linework. The wall\u2019s texture is visible, and the bottom edge of the frame shows a smudged, spray-painted area. Photo type: Still Life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "akmaleky",
           "text": "",
@@ -130,7 +167,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "d1xshooter",
+                  "text": "I\u2019m a retired Truckie most of the crew I know or trained. So I see and greet on calls close to the apartment or when I\u2019m out and about",
+                  "permalink": "https://www.threads.com/@d1xshooter/post/DgK7DsdlQgJ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -450,7 +498,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, image, photo, read",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -557,7 +605,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, image, photo, read",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
