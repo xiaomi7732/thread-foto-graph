@@ -6,13 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (34)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **zscape01**:  ([link](https://www.threads.com/@zscape01/post/DgKsJN4kWGL))
+  - Photo: Description: The photograph shows a dense array of colorful, hand-painted buoys mounted on a green wire mesh structure, likely a lobster trap or similar fishing gear. Photograph read: The image is composed with buoys arranged in a grid-like pattern across the frame. Lighting is bright and even, casting minimal shadows. Rendering is saturated with vivid colors, but lacks fine detail on the buoys’ painted surfaces and text. Some buoys are partially obscured by the mesh or overlapping elements. Photo type: Saturated color photography
+    - Watch-outs: - Text on buoys is illegible due to low resolution and image compression artifacts, especially on the lower right and upper center buoys. - Mesh structure and buoys overlap, causing partial occlusion and reduced distinguishability of individual buoys in the central and upper regions.
 - **artisticdezine**: iPhone Oregon ([link](https://www.threads.com/@artisticdezine/post/DgKlzASm46H))
   - Photo: Description: The photograph shows a dramatic, layered cloud formation dominating the sky, with silhouettes of buildings, trees, and street infrastructure at the bottom. A small bird is visible in flight against the clouds. Photograph read: The sky fills the frame with textured, wave-like clouds in varying shades of gray and white, with a hint of warm light near the horizon. The foreground elements are rendered as dark silhouettes, with minimal visible detail. The image appears to be captured with a standard camera sensor, showing no visible signs of lens distortion or chromatic aberration. Photo type: Urban landscape
 - **foto.by.gc**: Pattern Tuesday 🔷️ ([link](https://www.threads.com/@foto.by.gc/post/DgKiLLWlTjw))
