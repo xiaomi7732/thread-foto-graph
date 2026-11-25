@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (26)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **lmk3.mama**:  ([link](https://www.threads.com/@lmk3.mama/post/DgJn7JBGJot))
+  - Photo: Description: A modernist building with a distinctive geometric facade composed of repeating curved concrete elements, viewed from a low angle against a plain sky; the ground floor features a solid, blocky wall with horizontal panels. Photograph read: The image is presented in monochrome, with even, diffused lighting that minimizes shadows and highlights the structural repetition of the facade. The composition is a low-angle shot emphasizing the building’s corner and upward thrust. The rendering preserves fine surface texture and form, with no visible signs of motion blur or chromatic aberration. Photo type: Architectural
 - **christinabreitenfeldt**: The rows of trees on the as almond orchard across the street ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJnWa8m0rA))
   - Photo: Description: Rows of flowering trees, likely almond or cherry, stretch across a cultivated field under a partly cloudy sky; the ground is dry and sparsely vegetated. Photograph read: The image shows a wide-angle view of the orchard with trees in alternating rows, under bright daylight with soft shadows. The blossoms appear as dense white clusters, and the sky is visible above with scattered clouds. The image has a slightly soft focus and muted contrast, with no obvious signs of digital artifacts or motion blur. Photo type: Aesthetic landscape
 - **ceruleanseren**:  ([link](https://www.threads.com/@ceruleanseren/post/DgJku3SEcPL))
