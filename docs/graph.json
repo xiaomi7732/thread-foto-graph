@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 65,
+      "reply_count": 67,
       "replies": [
         {
           "username": "syldelteglia",
@@ -210,7 +210,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jh1962bike",
+                  "text": "Just caught my eye \ud83d\ude0a",
+                  "permalink": "https://www.threads.com/@jh1962bike/post/DgLDGx5CCQx",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -342,7 +353,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bendlesmaid269",
+                  "text": "He stayed there and fell fast asleep",
+                  "permalink": "https://www.threads.com/@bendlesmaid269/post/DgLDAS_EeCr",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (31)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/DgLCVA8HL3G))
@@ -23,6 +23,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
 - **deputysec**: No. I was shooting people going to the blue protests 🪧☺️. She just was perfect for the background .i came back a few months later and it was gone 😔 ([link](https://www.threads.com/@deputysec/post/DgLAt_1lXSP))
   - _Replying to: She is still watching over the street in the second one, at…_
+- **jh1962bike**: Just caught my eye 😊 ([link](https://www.threads.com/@jh1962bike/post/DgLDGx5CCQx))
+  - _Replying to: That painted eye turns a record into a stare - pink and bla…_
+- **bendlesmaid269**: He stayed there and fell fast asleep ([link](https://www.threads.com/@bendlesmaid269/post/DgLDAS_EeCr))
+  - _Replying to: That look over the paw says it all - half asleep, fully kee…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
