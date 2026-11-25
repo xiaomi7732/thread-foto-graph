@@ -235,7 +235,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 387,
+      "reply_count": 394,
       "replies": [
         {
           "username": "the.dobson.collective",
@@ -244,10 +244,21 @@
           "photos": [
             "Description: The photograph shows a downward-looking view of a staircase with metal mesh flooring and railings, framed by dark structural beams against white walls. Photograph read: The image is in black and white, with high contrast between the dark metal mesh and bright walls. The composition uses strong diagonal lines and repeating geometric patterns. Lighting appears even, with no visible shadows or highlights suggesting a specific light source. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How many floors of mesh is that? The landings stack down like a tunnel of diamonds, each one the same and each one smaller.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJ4qzwFF0x",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "annette7926",
@@ -256,10 +267,21 @@
           "photos": [
             "Description: The image shows a close-up, upward-looking view of a large, radially symmetric structure with deep red and purple hues, possibly a decorative canopy or ceiling installation, featuring glowing vertical ribs and scattered light specks. Photograph read: The composition is dominated by radial lines emanating from the center, with a dark background and luminous edges. Lighting is artificial and directional, casting highlights along the ribs and illuminating speckled patterns across the surface. Rendering appears smooth but lacks sharpness, with visible softness in texture and edge definition. Photo type: Abstract"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The gold ribs fan out from the center and the speckles fall like stars across all that red - it reads like a circus tent lit from inside. Where did you find this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJ4sEAmwEl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "scott.wynn",
@@ -288,10 +310,21 @@
                   "photos": [
                     "Description: A neatly made bed with a patterned duvet and multiple pillows, set against a textured wall with a wooden headboard, flanked by nightstands with lamps and small objects. Photograph read: The image is evenly lit with no visible shadows or overexposed areas. The composition is centered on the bed, with clear focus on the bedding and headboard. The textures of the wall, wood, and fabric are visible. Photo type: Interior"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Handmade, riverside, and full of pattern - a bedroom worth the stay.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJ4tDzFep6",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -339,7 +372,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "christinabreitenfeldt",
+                  "text": "When the blossoms fall it looks like snow.",
+                  "permalink": "https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -466,10 +510,21 @@
                   "text": "Only me.",
                   "permalink": "https://www.threads.com/@mannydr/post/DgJ0jl8gb48",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "like",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Just you, then - the wall was yours alone.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJ4wL2kdXK",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1355,10 +1410,21 @@
                   "text": "I\u2019m not sure. This is a corridor on one side of a courtyard at Mission San Juan Capistrano.",
                   "permalink": "https://www.threads.com/@deb7fan/post/DgJ0OENFBa0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A corridor worth wandering - the arches kept their rhythm.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJ4uTQFhYG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1721,10 +1787,21 @@
                   "text": "Thanks, saw it while getting down the stairs, clicked it from lower part of the stairs",
                   "permalink": "https://www.threads.com/@de_wanderer_soul/post/DgJ2tGCiIEH",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The spheres were worth the stop - a fine find on the way down.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJ4vM-kTrD",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
