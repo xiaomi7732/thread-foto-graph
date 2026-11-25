@@ -224,8 +224,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 314,
+      "reply_count": 315,
       "replies": [
+        {
+          "username": "jimasher",
+          "text": "",
+          "permalink": "https://www.threads.com/@jimasher/post/DgJNEdJjiRO",
+          "photos": [
+            "Description: The photograph shows the interior structural framework of a rusted steel truss bridge, viewed from beneath, with intersecting beams and riveted joints receding into the distance. Photograph read: The composition is symmetrical and converging, with diagonal beams forming a repeating geometric pattern. Lighting is high-contrast, with bright vertical bands of sky visible through openings between the trusses. The rendering is sharp on the foreground beams, but the far end of the structure is less distinct due to perspective and diminishing detail. Photo type: Industrial architecture"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "artsdepot",
           "text": "",

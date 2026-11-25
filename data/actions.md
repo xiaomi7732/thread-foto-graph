@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (33)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **jimasher**:  ([link](https://www.threads.com/@jimasher/post/DgJNEdJjiRO))
+  - Photo: Description: The photograph shows the interior structural framework of a rusted steel truss bridge, viewed from beneath, with intersecting beams and riveted joints receding into the distance. Photograph read: The composition is symmetrical and converging, with diagonal beams forming a repeating geometric pattern. Lighting is high-contrast, with bright vertical bands of sky visible through openings between the trusses. The rendering is sharp on the foreground beams, but the far end of the structure is less distinct due to perspective and diminishing detail. Photo type: Industrial architecture
 - **artsdepot**:  ([link](https://www.threads.com/@artsdepot/post/DgJKYsvo9jn))
   - Photo: Description: A concrete staircase ascends within a narrow, enclosed space, with weathered walls showing patches of green discoloration and cracks. Photograph read: The image is taken from a low angle looking up the stairs, with strong directional light illuminating the upper steps and casting deep shadows below. The walls and steps show texture and wear, with a circular cover visible on the landing. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural
 - **posts.by.norman**:  ([link](https://www.threads.com/@posts.by.norman/post/DgJJkOAEyE9))
