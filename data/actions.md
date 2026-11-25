@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (19)
+## Needs Reply (20)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **maxieellia**:  ([link](https://www.threads.com/@maxieellia/post/DgJ7qkgERuq))
@@ -14,6 +14,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **the.dobson.collective**: 4 floors at my workplace. ([link](https://www.threads.com/@the.dobson.collective/post/DgJ6AfVEeTF))
   - Photo: Description: The photograph shows a low-angle view of a metal staircase with mesh railings and grating, leading upward into a dimly lit, enclosed space with vertical structural elements. Photograph read: The image is in black and white, with strong contrast between the dark metal framework and lighter mesh. The composition uses converging lines to create depth, and the lighting appears to come from above, casting shadows on the steps and railings. Photo type: Industrial
   - _Replying to: How many floors of mesh is that? The landings stack down li…_
+- **christinabreitenfeldt**: But they blossom south to north. My daughter lives about 50 miles south of us and I can watch them blossom from her place to mine ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ9T3AG9UR))
+  - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
 - **shel_bee_g**: Last one, same trestle ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
