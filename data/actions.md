@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (28)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **mark_l**:  ([link](https://www.threads.com/@mark_l/post/DgKc4dAEX0j))
+  - Photo: Description: A spiral staircase with white steps and ornate blue metal railings ascends toward a circular skylight at the top, viewed from below. Photograph read: The image is taken from a low angle looking upward, with strong radial lines from the staircase converging toward the center. Lighting is bright and even, with the skylight casting a diffuse glow. The image has a high-contrast, clean rendering with no visible signs of motion blur, noise, or color banding. Photo type: Architectural
 - **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgKWORNGbPr))
   - Photo: Description: A large textile with a black-and-beige striped pattern is being held open by a person wearing a red-and-white plaid shirt, with a blurred outdoor background including greenery and a stone wall. Photograph read: The image is taken at a close-to-medium distance, with natural daylight illuminating the fabric. The fabric’s texture and pattern are visible, though the image has soft focus and slight motion blur, particularly in the upper right corner where the hand and shirt are. The composition is angled, showing the fabric’s surface and edges. Photo type: Documentary
     - Watch-outs: - The upper right corner shows motion blur affecting the hand and shirt, reducing fine detail. - The fabric’s surface has visible creases and folds, which slightly obscure the uniformity of the pattern.
