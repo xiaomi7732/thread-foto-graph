@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (36)
+## Needs Reply (38)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **tiv34**:  ([link](https://www.threads.com/@tiv34/post/DgLWA7MCmmA))
+  - Photo: Description: A white compact hatchback is parked on a paved driveway in front of a brick wall, with its front driver’s side prominently visible, including the headlight, grille, and wheel. Photograph read: The image is taken at eye level with the front of the car, under natural daylight. The surface of the car is glossy and reflects the surroundings. The headlight assembly is circular with a chrome trim, and the front bumper has a black air intake. The pavement and brick wall are in focus, with no visible motion blur or distortion. Photo type: Portrait
+  - Photo: Description: The photograph shows the Falkirk Wheel, a rotating boat lift, with a blue circular sign reading “Welcome to Scottish Canals The Falkirk Wheel” affixed to its structure. People are visible on a paved walkway to the left, and the structure is reflected in the still water below, under an overcast sky. Photograph read: The image is taken from a low angle, capturing the structure’s vertical form and its reflection. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering is clear enough to identify the structure, signage, and surrounding environment, though the water’s surface shows minor ripples and debris. Photo type: Documentary
+- **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
+  - Photo: Description: The photograph shows a close-up of a weathered wooden fence composed of vertical planks, with a partly cloudy sky and tree foliage visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit and shadowed areas on the fence. The wood grain and knots are visible, but some planks show minor imperfections like holes and small cracks. The background elements are slightly out of focus compared to the fence. Photo type: Documentary
+    - Watch-outs: - The top edge of the fence is slightly out of focus, reducing clarity of the horizontal rail. - Some planks exhibit visible wear and small holes, which are not sharply defined due to shallow depth of field or natural surface texture.
 - **shellscorer**: Seaton Delaval Hall, Northumberland ([link](https://www.threads.com/@shellscorer/post/DgLP18piMK7))
   - Photo: Description: A wall-mounted arrangement of framed objects, including mirrors and circular paintings of eyes and clouds, displayed on a light-colored surface. Photograph read: The composition is a flat, two-dimensional arrangement of circular frames of varying sizes and ornamental styles. Lighting is even and diffuse, casting soft shadows. Rendering is clear enough to distinguish frame details and subject content within each frame. Photo type: Still life
 - **s.a.genius**:  ([link](https://www.threads.com/@s.a.genius/post/DgLPv6bFR2M))
