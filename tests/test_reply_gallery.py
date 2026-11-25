@@ -98,12 +98,57 @@ class ReplyGalleryTests(unittest.TestCase):
                 threads = reply_gallery.collect_gallery({"nodes": [self.node]}, {"photo": entry})
                 self.assertEqual(threads[0]["photos"][0]["style"], "Macro photography")
                 html, _ = reply_gallery.render_gallery(threads, "now")
-                self.assertIn('data-photo-style="macro photography"', html)
-                self.assertIn('value="macro photography"', html)
-                self.assertIn('Macro photography (1)', html)
+                self.assertIn('data-photo-style="macro"', html)
+                self.assertIn('value="macro"', html)
+                self.assertIn('Macro (1)', html)
+                self.assertIn('<p class="photo-style">Macro photography</p>', html)
                 self.assertNotIn("{{STYLE_FILTERS}}", html)
         self.assertEqual(reply_gallery.photo_style(None), "Unknown")
         self.assertEqual(reply_gallery.photo_style({"description": "No classification"}), "Unknown")
+
+    def test_style_variants_share_one_filter_without_losing_original_labels(self):
+        threads = self.collect([self.photo])
+        labels = ["Macro photography", "Close-up", "Macro flower photography",
+                  "Botanical photography", "Unusual custom style", "Unknown"]
+        threads[0]["photos"] = [
+            {**threads[0]["photos"][0], "id": str(index), "style": label}
+            for index, label in enumerate(labels)
+        ]
+        html, _ = reply_gallery.render_gallery(threads, "now")
+        self.assertEqual(html.count('class="style-filter"'), 4)
+        self.assertIn("Macro (3)", html)
+        self.assertIn("Plants &amp; flowers (1)", html)
+        self.assertIn("Other (1)", html)
+        self.assertIn("Unknown (1)", html)
+        self.assertEqual(html.count('data-photo-style="macro"'), 3)
+        for label in labels:
+            self.assertIn(f'<p class="photo-style">{label}</p>', html)
+
+    def test_style_categories_are_bounded_and_match_whole_words(self):
+        examples = {
+            "Bird photography": "Animals",
+            "Birds and animals": "Animals",
+            "Flowers": "Plants & flowers",
+            "Environmental portrait": "Portrait",
+            "Urban architecture": "Architecture",
+            "Candid street photography": "Street & documentary",
+            "Astrophotography": "Landscape",
+            "Still-life photography": "Food & still life",
+            "Intentional camera movement": "Abstract & experimental",
+            "Delicate lighting": "Other",
+            "Unknown.": "Unknown",
+        }
+        for label, expected in examples.items():
+            with self.subTest(label=label):
+                self.assertEqual(reply_gallery._style_category(label), expected)
+        threads = self.collect([self.photo])
+        threads[0]["photos"] = [
+            {**threads[0]["photos"][0], "id": str(index), "style": f"Custom style {index}"}
+            for index in range(100)
+        ]
+        html, _ = reply_gallery.render_gallery(threads, "now")
+        self.assertEqual(html.count('class="style-filter"'), 1)
+        self.assertIn("Other (100)", html)
 
     def test_carousel_styles_use_individual_photo_cache_ids_and_escape_labels(self):
         with patch.object(reply_gallery.threads_client, "get_conversation", return_value=[{
@@ -282,7 +327,7 @@ class ReplyGalleryTests(unittest.TestCase):
             ):
                 self.assertEqual(reply_gallery.main(), 0)
             self.assertTrue((root / "docs" / "reply-images.html").is_file())
-            self.assertIn('data-photo-style="published landscape"', (
+            self.assertIn('data-photo-style="landscape"', (
                 root / "docs" / "reply-images.html"
             ).read_text(encoding="utf-8"))
             self.assertFalse((root / "docs" / "reply-images.md").exists())

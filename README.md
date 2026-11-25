@@ -841,7 +841,12 @@ copies fall back to its reply link. Copying
 Markdown copies the embed text, not image files. If the browser blocks clipboard
 access, a selected text box lets you copy manually.
 
-Use **Photo styles** to filter by `Photo type` labels. Select multiple
+Use **Photo styles** to filter by broad categories rather than individual free-form
+`Photo type` labels. Variants such as "Macro photography" and "Close-up" share
+one **Macro** filter. Each photo belongs to one category, with specific subjects
+and techniques taking priority over general labels in compound classifications.
+The original label remains on the photo card. Unrecognized labels are grouped
+under **Other**, keeping the filter list to at most 11 choices. Select multiple
 styles to show any of them, or **Show all styles** to clear the filter. Photos
 without a cached classification remain selectable under **Unknown**. Style filters
 combine with **Show favorites** without changing saved picks. Filters only change

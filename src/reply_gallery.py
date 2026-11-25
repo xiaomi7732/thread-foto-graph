@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 from collections import Counter
 from datetime import datetime, timezone
 from html import escape
@@ -13,6 +14,27 @@ from .cache import load_cache
 from .photo_styles import load_styles, photo_style
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
+
+STYLE_CATEGORIES = (
+    ("Macro", r"macro|close[\s-]?up|micro"),
+    ("Animals", r"wildlife|animal|bird|pet|dog|cat|insect|butterfly"),
+    ("Plants & flowers", r"plant|flower|floral|botanical|flora"),
+    ("Architecture", r"architectur\w*|building|interior|cityscape"),
+    ("Street & documentary", r"street|documentary|candid|photojournal\w*|travel|urban"),
+    ("Portrait", r"portrait\w*|people|person|selfie|fashion|family|wedding"),
+    ("Landscape", r"landscape\w*|nature|scenery|scenic|seascape|nightscape|astro\w*|sky|sunset|sunrise"),
+    ("Food & still life", r"food|still[\s-]?life|product|tabletop"),
+    ("Abstract & experimental", r"abstract|experimental|minimal\w*|icm|intentional camera movement"),
+)
+
+
+def _style_category(style: str) -> str:
+    if style.strip().casefold().rstrip(".") in ("", "unknown", "unclassified"):
+        return "Unknown"
+    for category, pattern in STYLE_CATEGORIES:
+        if re.search(rf"\b(?:{pattern})(?:s)?\b", style, re.IGNORECASE):
+            return category
+    return "Other"
 
 
 def _https_url(value: str) -> str:
@@ -90,19 +112,15 @@ def _photo_markdown(photo: dict) -> str:
 
 def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
     count = sum(len(thread["photos"]) for thread in threads)
-    labels = {
-        photo.get("style", "Unknown").casefold(): photo.get("style", "Unknown")
-        for thread in threads for photo in thread["photos"]
-    }
     style_counts = Counter(
-        photo.get("style", "Unknown").casefold()
+        _style_category(photo.get("style", "Unknown"))
         for thread in threads for photo in thread["photos"]
     )
     style_filters = "\n".join(
         f'<label><input type="checkbox" class="style-filter" '
-        f'value="{escape(key, quote=True)}" /> '
-        f'{escape(labels[key])} ({style_counts[key]})</label>'
-        for key in sorted(labels)
+        f'value="{escape(category.casefold(), quote=True)}" /> '
+        f'{escape(category)} ({style_counts[category]})</label>'
+        for category in sorted(style_counts)
     )
     note = (
         f"Generated {generated}. {count} reply images. Includes answered and "
@@ -148,7 +166,7 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
                 )
                 sections.append(
                     f'<article data-photo-id="{escape(photo["id"], quote=True)}" '
-                    f'data-photo-style="{escape(style.casefold(), quote=True)}" '
+                    f'data-photo-style="{escape(_style_category(style).casefold(), quote=True)}" '
                     f'data-image-url="{escape(photo["url"], quote=True)}" '
                     f'data-reply-url="{escape(photo["reply_url"], quote=True)}">'
                     f'<a class="thumbnail" href="{escape(photo["url"] or photo["reply_url"], quote=True)}">'
