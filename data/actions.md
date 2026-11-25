@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (25)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **newblueday**:  ([link](https://www.threads.com/@newblueday/post/DgK46K_EVid))
+  - Photo: Description: A close-up frontal view of a vintage Hudson automobile, featuring a black grille, prominent yellow headlights, and a license plate reading “73006 W 15,” with a Hudson Motor Car Co. emblem above the grille. The car’s body is partially visible in blue paint, with trees and a tarp in the blurred background. Photograph read: The image is a focused close-up with even lighting, capturing fine details of the grille mesh, headlight lenses, and license plate. The background is softly blurred, indicating a shallow depth of field. The composition centers on the front end, with the license plate and emblem clearly legible. Photo type: Portrait
+- **bendlesmaid269**:  ([link](https://www.threads.com/@bendlesmaid269/post/DgK41ywCpQq))
+  - Photo: Description: A close-up black-and-white photograph shows the head and front paw of a dog resting on a textured fabric surface, with its eyes open and looking slightly upward. Photograph read: The image is in monochrome, with high contrast between the dog’s dark fur and white markings. The dog’s face is in focus, but the background fabric and surrounding area are softly blurred. Lighting appears even, without harsh shadows or overexposed highlights. Photo type: Portrait
+- **mssapi_**: 😻 ([link](https://www.threads.com/@mssapi_/post/DgK4rXGGHHK))
+  - Photo: Description: A tabby cat with green eyes peers through a circular opening in a weathered green metal structure, with a paved surface visible in the background. Photograph read: The image is taken from a low angle, focusing on the cat’s face through the circular aperture. Lighting is even and natural, with no visible shadows or overexposure. The metal structure shows signs of wear and fading paint. The cat’s eyes and facial features are in focus, while the surrounding metal and pavement are slightly out of focus. Photo type: Portrait
+    - Watch-outs: The cat’s face is partially obscured by the circular frame, limiting full visibility of its features. The metal structure’s edges are worn and slightly blurred, reducing sharpness around the aperture.
 - **walter.wilkes**:  ([link](https://www.threads.com/@walter.wilkes/post/DgK3d_WFcnB))
   - Photo: Description: A black-and-white photograph features a coin-operated binocular viewer in the foreground, with a sailboat visible through its lenses on a body of water, backed by a tree-lined shore under a bright sky. Photograph read: The image is in monochrome, with high contrast between the dark binoculars and the bright sky and water. The binoculars are in sharp focus, while the sailboat and distant treeline are less defined. The water shows texture and motion, but lacks fine detail. The composition uses the binoculars as a framing device for the distant scene. Photo type: Still Life / Landscape
     - Watch-outs: The sailboat is small and distant, appearing as a faint silhouette with minimal discernible detail. The tree line is a broad, indistinct band with no clear individual tree shapes.
