@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (23)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **unclediss**:  ([link](https://www.threads.com/@unclediss/post/DgJjDiym19f))
+  - Photo: Description: The photograph shows a black-and-white, low-angle view of a multi-story, curved parking structure with repeating circular bays, some containing vehicles and others appearing empty or dark. Photograph read: The image is composed with strong vertical and horizontal repetition, emphasizing the building’s geometric rhythm. Lighting is high-contrast, with bright white structural elements and deep shadows within the bays. Rendering is monochromatic, with no visible color information. Photo type: Architectural
 - **tallymountain**:  ([link](https://www.threads.com/@tallymountain/post/DgJgXR8EpII))
   - Photo: Description: The photograph shows close-up fern fronds with curled, unopened fiddleheads and dew droplets on the surfaces, set against a darker, indistinct background. Photograph read: The image is dominated by saturated, high-contrast green tones with visible water droplets and leaf veins. The composition is dense with overlapping fronds, and the rendering appears digitally enhanced or overexposed, with some areas losing natural texture. Photo type: Digital enhancement
     - Watch-outs: - High contrast and saturation obscure fine leaf texture in the central fiddleheads and along the frond edges. - Dew droplets appear as overexposed, bright spots rather than distinct, readable water beads.
