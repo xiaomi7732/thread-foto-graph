@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (29)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgK--tyDuPl))
@@ -20,8 +20,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
 - **deputysec**: No. I was shooting people going to the blue protests 🪧☺️. She just was perfect for the background .i came back a few months later and it was gone 😔 ([link](https://www.threads.com/@deputysec/post/DgLAt_1lXSP))
   - _Replying to: She is still watching over the street in the second one, at…_
-- **d1xshooter**: I greatly appreciate the critique of all posts. I miss that. Thank You!! Enjoy you’re holiday weekend ([link](https://www.threads.com/@d1xshooter/post/DgK_h5MlX9e))
-  - _Replying to: That is a fine way to keep the crew close. Thanks for shari…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 

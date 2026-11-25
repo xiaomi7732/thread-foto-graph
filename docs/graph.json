@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 62,
+      "reply_count": 64,
       "replies": [
         {
           "username": "hannele.heikkinen",
@@ -221,7 +221,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "akmaleky",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@akmaleky/post/DgLBdy6DKxa",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -415,10 +426,21 @@
                           "text": "I greatly appreciate the critique of all posts. I miss that. Thank You!! Enjoy you\u2019re holiday weekend",
                           "permalink": "https://www.threads.com/@d1xshooter/post/DgK_h5MlX9e",
                           "photos": [],
-                          "needs_response": true,
-                          "action": "reply",
+                          "needs_response": false,
+                          "action": null,
                           "hidden": false,
-                          "replies": []
+                          "replies": [
+                            {
+                              "username": "saars.foto",
+                              "text": "Thank you and happy thanksgiving!",
+                              "permalink": "https://www.threads.com/@saars.foto/post/DgLBYarGlQB",
+                              "photos": [],
+                              "needs_response": false,
+                              "action": null,
+                              "hidden": false,
+                              "replies": []
+                            }
+                          ]
                         }
                       ]
                     }
