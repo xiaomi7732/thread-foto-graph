@@ -235,7 +235,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 381,
+      "reply_count": 383,
       "replies": [
         {
           "username": "annette7926",
@@ -268,7 +268,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "scott.wynn",
+                  "text": "It\u2019s in the main bedroom of our Airbnb. The picture I shared with you was a rough layout of non finished pecan wood. We have 27 riverside acres that we share with people from all over the world. It\u2019s located just outside the Paradise/Nisqually entrance to Mt Rainier national park. My wife comes up with the decor ideas and I make them come to life. Texture/patterns are the highlight of the main bedroom here. That\u2019s a woven wool rug on the wall with the pecan headboard below.",
+                  "permalink": "https://www.threads.com/@scott.wynn/post/DgJ0DZVFNKx",
+                  "photos": [
+                    "Description: A neatly made bed with a patterned duvet and multiple pillows, set against a textured wall with a wooden headboard, flanked by nightstands with lamps and small objects. Photograph read: The image is evenly lit with no visible shadows or overexposed areas. The composition is centered on the bed, with clear focus on the bedding and headboard. The textures of the wall, wood, and fabric are visible. Photo type: Interior"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1302,7 +1315,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "deb7fan",
+                  "text": "I\u2019m not sure. This is a corridor on one side of a courtyard at Mission San Juan Capistrano.",
+                  "permalink": "https://www.threads.com/@deb7fan/post/DgJ0OENFBa0",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
