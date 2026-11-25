@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 60,
+      "reply_count": 61,
       "replies": [
         {
           "username": "hannele.heikkinen",
@@ -398,7 +398,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "d1xshooter",
+                          "text": "I greatly appreciate the critique of all posts. I miss that. Thank You!! Enjoy you\u2019re holiday weekend",
+                          "permalink": "https://www.threads.com/@d1xshooter/post/DgK_h5MlX9e",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -752,7 +763,7 @@
         "Foreground figure is blurred, obscuring facial features and clothing details. Text on the wall to the left is partially legible but not fully readable due to low contrast and slight softness.",
         ""
       ],
-      "reply_count": 9,
+      "reply_count": 10,
       "replies": [
         {
           "username": "zanny2mg_fl",
@@ -844,7 +855,18 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "rickjackoway",
+              "text": "Thanks! It\u2019s the Pismo Beach pier and I shoot surfing there if the surf permits.",
+              "permalink": "https://www.threads.com/@rickjackoway/post/DgK_XvCGnDd",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         }
       ]
     },

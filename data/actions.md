@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (27)
+## Needs Reply (29)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgK--tyDuPl))
@@ -20,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
+- **d1xshooter**: I greatly appreciate the critique of all posts. I miss that. Thank You!! Enjoy you’re holiday weekend ([link](https://www.threads.com/@d1xshooter/post/DgK_h5MlX9e))
+  - _Replying to: That is a fine way to keep the crew close. Thanks for shari…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
@@ -27,6 +29,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **zanny2mg_fl**: All great choices and great photos 👏🏼 👏🏼 👏🏼 ([link](https://www.threads.com/@zanny2mg_fl/post/DgK842uEX7R))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
+- **rickjackoway**: Thanks! It’s the Pismo Beach pier and I shoot surfing there if the surf permits. ([link](https://www.threads.com/@rickjackoway/post/DgK_XvCGnDd))
+  - _Replying to: @rickjackoway Your pier pillars close the Pattern Tuesday f…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **mataherry**:  ([link](https://www.threads.com/@mataherry/post/DgK5SkjEpQB))
