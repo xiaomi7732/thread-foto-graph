@@ -96,7 +96,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 416,
+      "reply_count": 425,
       "replies": [
         {
           "username": "zscape01",
@@ -108,10 +108,21 @@
           "watch_outs": [
             "- Text on buoys is illegible due to low resolution and image compression artifacts, especially on the lower right and upper center buoys. - Mesh structure and buoys overlap, causing partial occlusion and reduced distinguishability of individual buoys in the central and upper regions."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Row after row of painted buoys, every one different, and the green mesh holding them all in line. Is this a wall, or a stack of traps waiting for the season?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwR4fETqL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artisticdezine",
@@ -120,10 +131,21 @@
           "photos": [
             "Description: The photograph shows a dramatic, layered cloud formation dominating the sky, with silhouettes of buildings, trees, and street infrastructure at the bottom. A small bird is visible in flight against the clouds. Photograph read: The sky fills the frame with textured, wave-like clouds in varying shades of gray and white, with a hint of warm light near the horizon. The foreground elements are rendered as dark silhouettes, with minimal visible detail. The image appears to be captured with a standard camera sensor, showing no visible signs of lens distortion or chromatic aberration. Photo type: Urban landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That little bird, right in the middle of all those ripples - the sky turned into waves and it is still flying through them. Did the clouds roll in like that, or did you wait for the pattern to form?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwS-7FjmJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "foto.by.gc",
@@ -132,10 +154,21 @@
           "photos": [
             "Description: The photograph shows a multi-level staircase with dark railings, viewed through a narrow vertical opening framed by light blue tiled walls. Two people are visible on the stairs, one appearing to take a photo of the other. Photograph read: The composition is framed vertically, with symmetrical wall-mounted lights casting warm illumination on the staircase. The staircase recedes into the background, creating a layered effect. The image is sharp and well-lit, with no visible signs of motion blur or focus issues. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you catch them mid-shoot, or did they pose for the frame? Two people on the stairs, one photographing the other, and the whole zigzag framed by those pale blue walls.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwUPQkd-X",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kelzkidz03",
@@ -148,10 +181,21 @@
             "Description: Three white ducks are walking away from the camera across a grassy area bordered by dense green foliage and a wooden structure in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The ducks are in focus, though the image has a mild motion blur and softness, likely from a handheld shot or low shutter speed. The background foliage and distant structure are less sharp. Photo type: Natural",
             "Description: The photograph shows a staircase with white risers and light wood treads, flanked by dark metal balusters and wooden handrails, leading upward to a landing with a wooden cabinet behind a railing. Photograph read: The image is taken from a low angle looking up the stairs, with even indoor lighting. The composition is symmetrical along the staircase\u2019s centerline, and the rendering is clear, showing texture on the handrails and walls without visible distortion or noise. Photo type: Interior architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Five patterns in one post - a sunlit staircase, a rock stack, berry boxes in rows, three ducks in a line, and one more staircase indoors. Which one did you shoot first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwVZJFUJg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mark_l",
@@ -160,10 +204,21 @@
           "photos": [
             "Description: A spiral staircase with white steps and ornate blue metal railings ascends toward a circular skylight at the top, viewed from below. Photograph read: The image is taken from a low angle looking upward, with strong radial lines from the staircase converging toward the center. Lighting is bright and even, with the skylight casting a diffuse glow. The image has a high-contrast, clean rendering with no visible signs of motion blur, noise, or color banding. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the blue railings are what make it - white steps winding up to that round skylight, and the blue doing all the talking. What pulled you to look up - the blue, or the circle of light at the top?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwW_BG7ag",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "_aliblahblah_",
@@ -175,10 +230,21 @@
           "watch_outs": [
             "- The upper right corner shows motion blur affecting the hand and shirt, reducing fine detail. - The fabric\u2019s surface has visible creases and folds, which slightly obscure the uniformity of the pattern."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those stripes ripple like water, and then the plaid shirt at the edge gives the whole cloth its scale. Is that one piece, or two patterns sewn together?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwX_qlcj_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mcdonald6162",
@@ -190,10 +256,21 @@
           "watch_outs": [
             "The dog\u2019s face is partially obscured by the slats, limiting visibility of its features. The background is indistinct, reducing context and depth perception."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The slats run straight up and down, and then a nose pokes through like it is checking who is out there. How long did you wait for the peek?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwZO0ICYa",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mcdonald6162",
@@ -202,10 +279,21 @@
           "photos": [
             "Description: A long, curved walkway with vertical, colorful slats runs alongside a body of water, bordered by grass and trees under a cloudy sky. Photograph read: The composition features a strong diagonal line of the walkway leading into the distance. Lighting is diffuse, with no harsh shadows, and the image exhibits a high-contrast color palette. Rendering shows visible grain and slight softness, particularly in the water and distant foliage. Photo type: Aesthetic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole wall of colored slats curving away beside the water, pink and green and red in one long line. Does the color run the whole walk, or just this stretch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwajkkW3-",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "vickymorris7719",
@@ -219,10 +307,21 @@
             "",
             "The entire image exhibits soft focus, reducing the visibility of individual seed filaments and the central receptacle. The dark background lacks contrast, obscuring any potential texture or detail in the surrounding area."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The coneflower's center is all spikes and orange, and then the dandelion clock answers it in white - two kinds of symmetry in one post. Did the dandelion hold still for you, or did you catch it between breezes?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgKwbp1jr9t",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "marysticht79",
