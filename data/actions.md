@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (24)
+## Needs Reply (26)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DgK03velvY8))
+  - Photo: Description: A juvenile eagle with brown and white mottled plumage perches on a dark, cylindrical post, facing the camera, with a body of water in the background. Photograph read: The image is taken at a moderate distance with a shallow depth of field, resulting in the eagle being in focus while the background water is softly blurred. Lighting is even and diffuse, without harsh shadows or highlights. The image has a natural color palette and moderate resolution, with visible feather texture and claw detail. Photo type: Natural
+- **jessgperry**: A Bubble in a Fountain of Square Tiles ✌️ ([link](https://www.threads.com/@jessgperry/post/DgK02RXm3wX))
+  - Photo: Description: The image shows a close-up of a soap bubble with a textured, iridescent surface, surrounded by smaller droplets and reflecting distorted surroundings. Photograph read: The composition is centered on the bubble, with visible surface tension patterns and color reflections. Lighting creates specular highlights and chromatic interference patterns. Rendering is sharp on the bubble’s surface and surrounding droplets, with no visible motion blur or focus falloff. Photo type: Macro
 - **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/DgK0CoVm17A))
   - Photo: Description: A close-up, black-and-white portrait of a cat’s face, focusing on its eyes, nose, and whiskers, with fur texture visible around the muzzle and eyes. Photograph read: The image is a shallow depth-of-field portrait with the cat’s eyes and nose in focus, while the surrounding fur and whiskers are softly blurred. Lighting is even across the subject, with no harsh shadows or overexposed areas. The rendering is monochromatic, preserving tonal gradations in fur texture. Photo type: Portrait
     - Watch-outs: - The cat’s eyes are slightly out of focus relative to the nose, with the iris detail less sharp than the surrounding fur texture. - Whiskers in the foreground and background are blurred, reducing their definition and making them appear as soft streaks rather than distinct structures.
@@ -82,10 +86,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (13)
-
-### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
-- syldelteglia: Beautiful pics!!! ([link](https://www.threads.com/@syldelteglia/post/DgKzRednGRa))
+## Needs Like (12)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - unclediss: 😎🙏 ([link](https://www.threads.com/@unclediss/post/DgKoEPxm_Y_))
