@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (34)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **riverbedsky2229**:  ([link](https://www.threads.com/@riverbedsky2229/post/DgJOcrQjfFB))
+  - Photo: Description: The photograph shows a close-up of a paved surface composed of rectangular, textured pavers in varying earthy tones, with a distinct horizontal band of lighter, smoother tiles at the top. Photograph read: The image is composed with a shallow depth of field, focusing on the pavers below the light band. Lighting is directional, casting highlights and shadows across the pavers’ surfaces. The rendering preserves texture but lacks sharpness in some areas, particularly in the darker pavers. Photo type: Texture-focused
 - **jimasher**:  ([link](https://www.threads.com/@jimasher/post/DgJNEdJjiRO))
   - Photo: Description: The photograph shows the interior structural framework of a rusted steel truss bridge, viewed from beneath, with intersecting beams and riveted joints receding into the distance. Photograph read: The composition is symmetrical and converging, with diagonal beams forming a repeating geometric pattern. Lighting is high-contrast, with bright vertical bands of sky visible through openings between the trusses. The rendering is sharp on the foreground beams, but the far end of the structure is less distinct due to perspective and diminishing detail. Photo type: Industrial architecture
 - **artsdepot**:  ([link](https://www.threads.com/@artsdepot/post/DgJKYsvo9jn))
