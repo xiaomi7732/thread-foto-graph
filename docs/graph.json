@@ -216,7 +216,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, lighting",
+      "label": "photograph, visible, photo, lighting",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -224,7 +224,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 350,
+      "reply_count": 351,
       "replies": [
         {
           "username": "rmeyerconsulting",
@@ -961,7 +961,29 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "globetoppers",
+                          "text": "",
+                          "permalink": "https://www.threads.com/@globetoppers/post/DgJaw0wjEnN",
+                          "photos": [
+                            "Description: The image is a four-panel collage showing people using escalators inside a store, with one panel depicting the exterior of Macy\u2019s with a red sign reading \u201cTHE WORLD\u2019S LARGEST STORE.\u201d The interior scenes show individuals ascending escalators, with one person in an orange sweater clearly visible. Photograph read: The collage uses a selective color technique, with the exterior sign in color and the rest in black and white. The lighting is even indoors, with some reflections on escalator surfaces. The escalator panels and handrails show signs of wear and rust. A warning sticker is visible on the side of one escalator. Photo type: Collage",
+                            "Description: A person in an orange sweater and dark pants is ascending an escalator, viewed from below. To the right, a sign for \u201cCUCINA & CO.\u201d is visible, and to the left, a \u201cRESTROOMS\u201d sign and retail displays are partially visible. Photograph read: The image is taken from a low angle looking up the escalator, with the subject centered. Lighting is even and artificial, typical of an indoor commercial space. The escalator steps show motion blur, and the image has a slightly desaturated color palette with the orange sweater being the most saturated element. Photo type: Commercial interior",
+                            "Description: The photograph shows an interior space with sweeping white curved walls and multiple levels, populated by people in motion and stillness; a blurred figure dominates the foreground, while others are visible on upper levels. Photograph read: The image is in black and white, with even, diffused lighting from ceiling fixtures. The composition uses strong diagonal and curved lines, and the foreground figure exhibits motion blur, while background figures are sharper. Photo type: Architectural",
+                            "Description: The photograph shows a fire escape ladder attached to a brick building, with metal railings and grates, viewed from a low angle looking upward. Photograph read: The image is composed with diagonal lines from the ladder structure, lit by direct sunlight casting strong shadows. Rendering is sharp on the metal and brick surfaces, with some paint peeling visible on the ladder\u2019s upper section. Photo type: Architectural"
+                          ],
+                          "watch_outs": [
+                            "- The top-left panel shows motion blur on a person ascending the escalator, obscuring fine detail on their clothing and surroundings. - The top-right panel has a visible \u201cNo Stairs\u201d warning sticker on the escalator, which is partially legible but not fully readable due to low contrast and small print.",
+                            "Motion blur is visible on the escalator steps and the person\u2019s lower body, reducing detail. The sign on the right is partially obscured by the escalator\u2019s structure and has low contrast, making text less legible.",
+                            "Foreground figure is blurred, obscuring facial and bodily detail. Text on the left wall is partially legible but not fully readable due to low contrast and proximity to the blur.",
+                            ""
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4294,7 +4316,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, photo, visible, lighting",
+      "label": "photograph, visible, photo, lighting",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",

@@ -4,13 +4,22 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (14)
+## Needs Reply (15)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **caelian_kwon**: I shoot the wave one first. ([link](https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8))
   - _Replying to: I think the pair works because they argue with each other -…_
 - **posts.by.norman**: Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps. ([link](https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2))
   - _Replying to: The scrollwork on those rails is doing lacework in iron - d…_
+- **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/DgJaw0wjEnN))
+  - Photo: Description: The image is a four-panel collage showing people using escalators inside a store, with one panel depicting the exterior of Macy’s with a red sign reading “THE WORLD’S LARGEST STORE.” The interior scenes show individuals ascending escalators, with one person in an orange sweater clearly visible. Photograph read: The collage uses a selective color technique, with the exterior sign in color and the rest in black and white. The lighting is even indoors, with some reflections on escalator surfaces. The escalator panels and handrails show signs of wear and rust. A warning sticker is visible on the side of one escalator. Photo type: Collage
+    - Watch-outs: - The top-left panel shows motion blur on a person ascending the escalator, obscuring fine detail on their clothing and surroundings. - The top-right panel has a visible “No Stairs” warning sticker on the escalator, which is partially legible but not fully readable due to low contrast and small print.
+  - Photo: Description: A person in an orange sweater and dark pants is ascending an escalator, viewed from below. To the right, a sign for “CUCINA & CO.” is visible, and to the left, a “RESTROOMS” sign and retail displays are partially visible. Photograph read: The image is taken from a low angle looking up the escalator, with the subject centered. Lighting is even and artificial, typical of an indoor commercial space. The escalator steps show motion blur, and the image has a slightly desaturated color palette with the orange sweater being the most saturated element. Photo type: Commercial interior
+    - Watch-outs: Motion blur is visible on the escalator steps and the person’s lower body, reducing detail. The sign on the right is partially obscured by the escalator’s structure and has low contrast, making text less legible.
+  - Photo: Description: The photograph shows an interior space with sweeping white curved walls and multiple levels, populated by people in motion and stillness; a blurred figure dominates the foreground, while others are visible on upper levels. Photograph read: The image is in black and white, with even, diffused lighting from ceiling fixtures. The composition uses strong diagonal and curved lines, and the foreground figure exhibits motion blur, while background figures are sharper. Photo type: Architectural
+    - Watch-outs: Foreground figure is blurred, obscuring facial and bodily detail. Text on the left wall is partially legible but not fully readable due to low contrast and proximity to the blur.
+  - Photo: Description: The photograph shows a fire escape ladder attached to a brick building, with metal railings and grates, viewed from a low angle looking upward. Photograph read: The image is composed with diagonal lines from the ladder structure, lit by direct sunlight casting strong shadows. Rendering is sharp on the metal and brick surfaces, with some paint peeling visible on the ladder’s upper section. Photo type: Architectural
+  - _Replying to: The Macy's escalator, then - the city handed you the assign…_
 - **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
   - _Replying to: I found them. I believe some sort of burrowing sea creature…_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
