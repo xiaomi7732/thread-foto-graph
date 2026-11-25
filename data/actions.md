@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (22)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **tallymountain**:  ([link](https://www.threads.com/@tallymountain/post/DgJgXR8EpII))
+  - Photo: Description: The photograph shows close-up fern fronds with curled, unopened fiddleheads and dew droplets on the surfaces, set against a darker, indistinct background. Photograph read: The image is dominated by saturated, high-contrast green tones with visible water droplets and leaf veins. The composition is dense with overlapping fronds, and the rendering appears digitally enhanced or overexposed, with some areas losing natural texture. Photo type: Digital enhancement
+    - Watch-outs: - High contrast and saturation obscure fine leaf texture in the central fiddleheads and along the frond edges. - Dew droplets appear as overexposed, bright spots rather than distinct, readable water beads.
 - **ericpalonen**:  ([link](https://www.threads.com/@ericpalonen/post/DgJeJ6VkbSN))
   - Photo: Description: A small, dark object, likely a bird, is visible in mid-air above a body of water with concentric ripples radiating outward. The water surface dominates the frame, with a gradient from darker to lighter tones. Photograph read: The image is composed with the bird centered horizontally but low in the frame, against a textured water surface. Lighting is diffuse, casting minimal contrast. The rendering is uniform, with no visible lens distortion or chromatic aberration. Photo type: Aerial or drone shot
     - Watch-outs: The bird is small and lacks discernible features due to low resolution and distance. The ripples are uniform and lack fine detail, making the water surface appear smooth and non-textured.
