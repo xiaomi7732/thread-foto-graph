@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (24)
+## Needs Reply (25)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **christinabreitenfeldt**: The rows of trees on the as almond orchard across the street ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJnWa8m0rA))
+  - Photo: Description: Rows of flowering trees, likely almond or cherry, stretch across a cultivated field under a partly cloudy sky; the ground is dry and sparsely vegetated. Photograph read: The image shows a wide-angle view of the orchard with trees in alternating rows, under bright daylight with soft shadows. The blossoms appear as dense white clusters, and the sky is visible above with scattered clouds. The image has a slightly soft focus and muted contrast, with no obvious signs of digital artifacts or motion blur. Photo type: Aesthetic landscape
 - **ceruleanseren**:  ([link](https://www.threads.com/@ceruleanseren/post/DgJku3SEcPL))
   - Photo: Description: The image shows a honeycomb-patterned display wall with hexagonal compartments, each containing a labeled chemical element or related item, such as aluminum, chlorine, and selenium, with some items in jars or bottles. Photograph read: The composition is a close-up of a repeating geometric pattern with evenly spaced hexagonal cells. Lighting is bright and uniform within the compartments, creating high contrast between the illuminated interiors and the darker frame. The rendering is sharp within the cells, with clear text and object outlines visible. Photo type: Documentary
 - **unclediss**:  ([link](https://www.threads.com/@unclediss/post/DgJjDiym19f))
