@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (29)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/DgLCVA8HL3G))
+  - Photo: Description: A graffiti-style mural depicts a human face partially obscured by vertical bars, rendered in rust-orange tones, superimposed on a rectangular metal panel that resembles a door. The panel is inset into a plain, off-white wall with a dark blue lower section. Photograph read: The image is composed with the panel centered, showing a single visible eye and part of the nose and mouth. Lighting is even and diffuse, casting minimal shadows. The rendering is flat with visible texture, including a circular lock detail and faded lettering at the bottom. Photo type: Street art
+    - Watch-outs: The face’s features are partially obscured by the bars, limiting facial detail visibility. The lettering at the bottom of the panel is partially faded and indistinct, reducing readability.
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgK--tyDuPl))
   - Photo: Description: The image shows a surface of murky water reflecting a cloudy sky, with a rocky edge visible in the lower portion. Photograph read: The composition is dominated by water surface reflections, with muted tones and diffuse lighting. Rendering is flat with no discernible depth or sharpness, and no distinct features are visible beyond the water’s surface and the rock edge. Photo type: Unclear
     - Watch-outs: - The entire image exhibits significant blur, obscuring fine detail in both water surface and rock texture. - Reflections are indistinct, with no clear separation between sky elements and water, making subject identification difficult.

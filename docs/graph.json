@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18079101221478599",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -13,8 +13,23 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 64,
+      "reply_count": 65,
       "replies": [
+        {
+          "username": "syldelteglia",
+          "text": "",
+          "permalink": "https://www.threads.com/@syldelteglia/post/DgLCVA8HL3G",
+          "photos": [
+            "Description: A graffiti-style mural depicts a human face partially obscured by vertical bars, rendered in rust-orange tones, superimposed on a rectangular metal panel that resembles a door. The panel is inset into a plain, off-white wall with a dark blue lower section. Photograph read: The image is composed with the panel centered, showing a single visible eye and part of the nose and mouth. Lighting is even and diffuse, casting minimal shadows. The rendering is flat with visible texture, including a circular lock detail and faded lettering at the bottom. Photo type: Street art"
+          ],
+          "watch_outs": [
+            "The face\u2019s features are partially obscured by the bars, limiting facial detail visibility. The lettering at the bottom of the panel is partially faded and indistinct, reducing readability."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hannele.heikkinen",
           "text": "",
@@ -777,7 +792,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -916,7 +931,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
