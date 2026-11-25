@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18019113215966769",
-      "label": "thank, congratulations, 500, appreciate",
+      "label": "thank, 500, congratulations, appreciate",
       "group": 0,
       "snippet": "500 followers, and 100k views this month. I would count the\u2026",
       "text": "500 followers, and 100k views this month. I would count them one by one, but you would all rather be out taking photos. Thank you for building this with me - every prompt reply, every story behind a shot, every favorite. Here is to the next 500 mornings. \ud83c\udf41",
@@ -224,8 +224,36 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 316,
+      "reply_count": 318,
       "replies": [
+        {
+          "username": "pbowser",
+          "text": "",
+          "permalink": "https://www.threads.com/@pbowser/post/DgJPq_8nxA7",
+          "photos": [
+            "Description: A window with green framing and blinds is set into a brick wall, with an air conditioning unit mounted below; a small portrait is visible in one of the upper-left window panes. Photograph read: The image has a strong digital artifact pattern, including horizontal and vertical streaks and color fringing, particularly along edges. The window and brick wall are in focus, but the overall image exhibits a grainy, distorted texture. Lighting appears even and diffuse, with no strong shadows or highlights. Photo type: Digital artifact"
+          ],
+          "watch_outs": [
+            "Visible horizontal and vertical streaking artifacts across the entire image, affecting clarity and detail. Color fringing along the window frame and air conditioner unit edges, reducing edge definition."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "caelian_kwon",
+          "text": "mine",
+          "permalink": "https://www.threads.com/@caelian_kwon/post/DgJPj8tE1qr",
+          "photos": [
+            "Description: The image shows a close-up of a modern building\u2019s exterior, characterized by a pattern of vertical, wavy, alternating dark and light stripes that curve across the surface. Photograph read: The composition is dominated by repeating linear patterns with strong contrast between dark and light bands. Lighting appears even and diffused, with no harsh shadows or highlights. The rendering is sharp within the patterned area, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Abstract",
+            "Description: The photograph shows a close-up of a building\u2019s exterior corner, featuring a pattern of parallel, horizontal slats that create a geometric, repetitive texture. Photograph read: The composition is dominated by strong diagonal lines formed by the corner of the structure, with even lighting that highlights the edges of the slats. The rendering is sharp and consistent, with no visible noise or motion blur. Photo type: Architectural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "riverbedsky2229",
           "text": "",

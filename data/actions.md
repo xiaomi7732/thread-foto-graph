@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (34)
+## Needs Reply (36)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **pbowser**:  ([link](https://www.threads.com/@pbowser/post/DgJPq_8nxA7))
+  - Photo: Description: A window with green framing and blinds is set into a brick wall, with an air conditioning unit mounted below; a small portrait is visible in one of the upper-left window panes. Photograph read: The image has a strong digital artifact pattern, including horizontal and vertical streaks and color fringing, particularly along edges. The window and brick wall are in focus, but the overall image exhibits a grainy, distorted texture. Lighting appears even and diffuse, with no strong shadows or highlights. Photo type: Digital artifact
+    - Watch-outs: Visible horizontal and vertical streaking artifacts across the entire image, affecting clarity and detail. Color fringing along the window frame and air conditioner unit edges, reducing edge definition.
+- **caelian_kwon**: mine ([link](https://www.threads.com/@caelian_kwon/post/DgJPj8tE1qr))
+  - Photo: Description: The image shows a close-up of a modern building’s exterior, characterized by a pattern of vertical, wavy, alternating dark and light stripes that curve across the surface. Photograph read: The composition is dominated by repeating linear patterns with strong contrast between dark and light bands. Lighting appears even and diffused, with no harsh shadows or highlights. The rendering is sharp within the patterned area, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Abstract
+  - Photo: Description: The photograph shows a close-up of a building’s exterior corner, featuring a pattern of parallel, horizontal slats that create a geometric, repetitive texture. Photograph read: The composition is dominated by strong diagonal lines formed by the corner of the structure, with even lighting that highlights the edges of the slats. The rendering is sharp and consistent, with no visible noise or motion blur. Photo type: Architectural
 - **riverbedsky2229**:  ([link](https://www.threads.com/@riverbedsky2229/post/DgJOcrQjfFB))
   - Photo: Description: The photograph shows a close-up of a paved surface composed of rectangular, textured pavers in varying earthy tones, with a distinct horizontal band of lighter, smoother tiles at the top. Photograph read: The image is composed with a shallow depth of field, focusing on the pavers below the light band. Lighting is directional, casting highlights and shadows across the pavers’ surfaces. The rendering preserves texture but lacks sharpness in some areas, particularly in the darker pavers. Photo type: Texture-focused
 - **jimasher**:  ([link](https://www.threads.com/@jimasher/post/DgJNEdJjiRO))
