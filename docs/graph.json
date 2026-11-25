@@ -224,7 +224,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 325,
+      "reply_count": 349,
       "replies": [
         {
           "username": "rmeyerconsulting",
@@ -295,7 +295,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "caelian_kwon",
+                  "text": "I shoot the wave one first.",
+                  "permalink": "https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -329,10 +340,21 @@
           "photos": [
             "Description: The photograph shows the interior structural framework of a rusted steel truss bridge, viewed from beneath, with intersecting beams and riveted joints receding into the distance. Photograph read: The composition is symmetrical and converging, with diagonal beams forming a repeating geometric pattern. Lighting is high-contrast, with bright vertical bands of sky visible through openings between the trusses. The rendering is sharp on the foreground beams, but the far end of the structure is less distinct due to perspective and diminishing detail. Photo type: Industrial architecture"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How far back do those X-beams run? The rust turns the whole truss into one long corridor of triangles.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYRSRm7ka",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artsdepot",
@@ -341,10 +363,21 @@
           "photos": [
             "Description: A concrete staircase ascends within a narrow, enclosed space, with weathered walls showing patches of green discoloration and cracks. Photograph read: The image is taken from a low angle looking up the stairs, with strong directional light illuminating the upper steps and casting deep shadows below. The walls and steps show texture and wear, with a circular cover visible on the landing. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That round cover on the landing is the quiet joke of the frame - step after step of worn concrete, and then one perfect circle. What is at the top of those stairs?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYSKylOkd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "posts.by.norman",
@@ -353,10 +386,21 @@
           "photos": [
             "Description: A close-up view of an ornate, dark metal spiral staircase with intricate scrollwork railings and circular patterns on the steps, set against a softly lit interior wall and ceiling. Photograph read: The image is composed with a shallow depth of field, focusing on the staircase\u2019s mid-section. Lighting is subdued, casting soft shadows and highlighting the texture of the metal. The rendering preserves fine details in the railings but shows slight softness in the background and foreground edges. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The scrollwork on those rails is doing lacework in iron - did you climb it for the view, or just for the pattern under your feet?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYTXHDN18",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shiawasemainichi5",
@@ -366,10 +410,21 @@
             "Description: The photograph shows a low-angle view of the Eiffel Tower at night, illuminated with warm and cool lights against a dark sky, with the tower\u2019s iron lattice structure prominently visible. Photograph read: The composition is dominated by the tower\u2019s framework, with lighting highlighting the structure\u2019s geometry. The top section is brightly lit with blue and white accents, while the lower visible sections show warm yellow illumination. The image appears to be captured with a standard camera, showing no visible signs of lens distortion or chromatic aberration. Photo type: Architecture",
             "Description: A low-angle nighttime shot of a metal lattice tower, illuminated against a dark sky, with its upper section and spire visible. Photograph read: The image is in black and white, with high contrast between the bright structure and the black background. The structure\u2019s geometric framework is clearly visible, with some internal lighting visible through openings. The composition is angled upward, emphasizing the tower\u2019s height and structural complexity. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Same tower twice - once in gold, once in black and white. Which one would you hang on the wall, the warm one or the stark one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYUWom8Ee",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mazpaz46",
@@ -378,10 +433,21 @@
           "photos": [
             "Description: A modern building with a grid of vertical windows on one side and an ornate, repeating quatrefoil pattern on the adjacent facade, framed by bare tree branches in the foreground. Photograph read: The image is in black and white, with strong contrast between the bright facade and dark window frames. Lighting creates sharp shadows and highlights on the architectural surfaces. The composition is angled, emphasizing the building\u2019s corner and the patterned facade. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two facades in one corner - plain window grid on one side, quatrefoil lace on the other, and bare branches scribbling across the front. Did the branches get in the way, or finish the frame?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYVM0CSbk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "skepticalfla",
@@ -390,10 +456,21 @@
           "photos": [
             "Description: A multi-story building with curved, repeating balconies and vertical support columns, photographed at an angle against a clear sky, with warm light illuminating the facade. Photograph read: The image shows a low-angle perspective of the building\u2019s facade, with strong directional lighting casting warm tones on the balconies and shadows in recessed areas. The balconies are uniformly spaced and feature metal railings; windows are visible but mostly dark or indistinct. The image has a clean, sharp focus across the visible structure, with no apparent motion blur or chromatic aberration. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Balcony after balcony curving around the corner, all of it washed in evening gold. How many floors of it are there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYWHRm0Y7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shel_bee_g",
@@ -423,10 +500,21 @@
                   "photos": [
                     "Description: A long wooden trestle bridge spans a body of water, with its reflection visible in the calm surface below, under a sky displaying a smooth gradient from orange to purple to blue. Photograph read: The bridge is silhouetted against the sky, with the water reflecting its structure. The sky shows a uniform color gradient without clouds or texture. The image has a flat, even exposure across the entire frame, with no visible contrast or sharpness variation. Photo type: Landscape"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A second view and the reflection doubles the whole trestle - the sky does the rest.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYoeEFHmp",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -538,10 +626,21 @@
                   "text": "Just happened to be there at the right time while out shooting that day :)",
                   "permalink": "https://www.threads.com/@zanny2mg_fl/post/DgI9Yylkcc8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Right time, right street - the taxis lined up for you.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYtUOjtP3",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -598,10 +697,21 @@
                   "text": "It snowed the day before. Have never seen snow stay on branches like this. And yes! Lace was the first thought that came to mind.",
                   "permalink": "https://www.threads.com/@watsjoey/post/DgJF6StGTxL",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lace was the right first thought - the branches held it well.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYaU_mieV",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -632,10 +742,21 @@
                   "text": "It\u2019s the sun reflecting of an adjacent high rise",
                   "permalink": "https://www.threads.com/@elstergavin/post/DgJRqCMGxld",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A neighboring tower doing the lighting - the wall kept the glow.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYXFUiU9i",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -673,10 +794,21 @@
                   "text": "The metro station",
                   "permalink": "https://www.threads.com/@elstergavin/post/DgJRkVYm2tI",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The metro station, then - the arches were waiting there.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYYWZmtyn",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -707,10 +839,21 @@
                   "text": "I honestly don't know...it was a meme that I stole from another post symbolizing that diversity should be alive and well",
                   "permalink": "https://www.threads.com/@marcinewiese/post/DgI9_kUGIoF",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Borrowed or not, the circle lands - a fine frame for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYrnDFHla",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -741,10 +884,21 @@
                   "text": "Full dark. Botanical Garden in Phoenix",
                   "permalink": "https://www.threads.com/@tallerthanyou2026/post/DgJAxJnkiyv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Full dark in Phoenix - the pod glows for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYkVVGs8z",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -784,10 +938,21 @@
                   "text": "Honestly, I thought the assignment WAS stairs! LOL The wooden stairs is the iconic Macy's escalator! Cities are rich with step patterns. ;)",
                   "permalink": "https://www.threads.com/@globetoppers/post/DgJAspJFE95",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The Macy's escalator, then - the city handed you the assignment after all.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYlNSia-v",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -865,10 +1030,21 @@
                   "text": "3 floors. I took the photo from the sub ground level.",
                   "permalink": "https://www.threads.com/@dr0ma_/post/DgJAWwWCDjL",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Three floors of spiral from the sub ground - worth the climb.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYmJNDrnZ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -902,10 +1078,20 @@
                   "text": "I found them. I believe some sort of burrowing sea creature made them. I thought they looked like a gathering of aliens.",
                   "permalink": "https://www.threads.com/@lucillepippetti/post/DgJD_qlIH3G",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Sea creatures or builders - either way, the gathering stays wonderfully strange.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYfPsGvpV",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "lucillepippetti",
                       "text": "Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them.",
@@ -1177,10 +1363,21 @@
                   "text": "The arches are in Rocky point Mexico at my sister's house. The tracks are up in Washington state.",
                   "permalink": "https://www.threads.com/@cindi7741/post/DgI_CyoEpL-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Two walks, two countries - both frames earned their keep.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYqfTDqmm",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1214,10 +1411,21 @@
                   "text": "The sky but I thought maybe it would look interesting behind the chain link. That's actually an overpass.",
                   "permalink": "https://www.threads.com/@reverendbenzo/post/DgJEPzJlu-J",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The sky did the choosing - the fence just framed it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYjT1mv2i",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1251,10 +1459,21 @@
                   "text": "Haha. Thankyou. It was a private entrance\u263a\ufe0f\ud83d\ude4f",
                   "permalink": "https://www.threads.com/@iphhoto4u71/post/DgI_gg3kmzc",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A private entrance with a public glow - nicely kept.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYpfXDC24",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1610,10 +1829,21 @@
                   "text": "If memory serves, I photographed it from a window above at the Hotel Rocamor in Cadaquez just as it was.",
                   "permalink": "https://www.threads.com/@patrickcullie/post/DgJF-INm93k",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A window above in Cadaquez - the stones were already waiting.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYZXYGmtP",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1842,10 +2072,21 @@
                   "text": "This photo was actually taken by one of my neighbors that lives farther up the hill. This ship was one of a kind as far as I know, we get sternwheelers and other cruise vessels that dock at the waterfront across from where I live. We see lots of shipping vessels passing by.",
                   "permalink": "https://www.threads.com/@kennethstevenson9/post/DgJFtibEifv",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A neighbor's eye and a one-of-a-kind ship - the river keeps delivering.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYeWNmv36",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             },
@@ -1889,10 +2130,21 @@
                   "text": "I was focusing on the cobblestones and the young person came into the picture. I snapped a couple of quick shots and that was it. No real planning, just lucky.",
                   "permalink": "https://www.threads.com/@larry_usselman/post/DgJAU8sNAj-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lucky timing and quick feet - the sneakers paid it back.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJYndejoiM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3125,10 +3377,21 @@
                       "text": "I love spiral staircase!",
                       "permalink": "https://www.threads.com/@zanny2mg_fl/post/DgJJqHjjgci",
                       "photos": [],
-                      "needs_response": true,
-                      "action": "reply",
+                      "needs_response": false,
+                      "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "saars.foto",
+                          "text": "Hard not to love it - the stripes do all the work.",
+                          "permalink": "https://www.threads.com/@saars.foto/post/DgJYuNSGtbP",
+                          "photos": [],
+                          "needs_response": false,
+                          "action": null,
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
