@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (29)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **olivaexpat**:  ([link](https://www.threads.com/@olivaexpat/post/DgLMOYhgAnZ))
+  - Photo: Description: A close-up frontal view of a motorcycle’s headlight assembly, featuring bright yellow fairings and a black central section with carbon-fiber textured panels. The image is taken outdoors, with a blurred background suggesting a paved surface and a blue wall. Photograph read: The composition is tightly framed on the front fairing and headlights, with even, diffused lighting that reflects off the headlight lenses. The rendering is sharp on the headlight bezels and fairing contours, with no visible signs of motion blur or focus falloff. Photo type: Product
 - **maxs_auntkris**:  ([link](https://www.threads.com/@maxs_auntkris/post/DgLK7OzEslM))
   - Photo: Description: A large mural covers the exterior wall of a multi-story building, depicting a stylized face with prominent eyes and a mouth, rendered in a geometric, patchwork style using colorful, irregularly shaped panels. Several windows are embedded within the mural design, and the building’s entrance and utility boxes are visible at the base. Photograph read: The image is taken from a frontal, eye-level perspective under clear, bright daylight. The mural’s colors and textures are visible with good contrast, though some areas appear slightly washed out or flat. The building’s windows reflect ambient light, and the foreground includes trash bins and a parking sign. No motion blur or focus issues are evident. Photo type: Street photography
 - **hannele.heikkinen**: I spotted the face in profile while walking along a small stream after a frosty night. ([link](https://www.threads.com/@hannele.heikkinen/post/DgLGdTCjrtB))
