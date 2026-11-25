@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (36)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **shellscorer**: Seaton Delaval Hall, Northumberland ([link](https://www.threads.com/@shellscorer/post/DgLP18piMK7))
@@ -52,6 +52,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The slats run straight up and down, and then a nose pokes t…_
 - **mcdonald6162**: It runs the whole walk on all the bridge sections. ([link](https://www.threads.com/@mcdonald6162/post/DgLNJ37Eknn))
   - _Replying to: A whole wall of colored slats curving away beside the water…_
+- **marysticht79**: I didn't knit it. My older sister did it as a gift for her daughter. But it's a really beautiful pattern. ([link](https://www.threads.com/@marysticht79/post/DgLUTDOkcFM))
+  - _Replying to: Did you crochet it yourself? Stitch after stitch in pink, a…_
 - **camera_clare**: Thank you very much. This was taken in one of my campus buildings at UCL on Gordon Square, just by Tavistock Square Garden. I love seeing this every week. ([link](https://www.threads.com/@camera_clare/post/DgKzM4SjT5s))
   - _Replying to: The tiled floor does geometry in black and white, and then …_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))

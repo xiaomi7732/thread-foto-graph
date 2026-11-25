@@ -1202,7 +1202,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 439,
+      "reply_count": 440,
       "replies": [
         {
           "username": "mataherry",
@@ -1511,7 +1511,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "marysticht79",
+                  "text": "I didn't knit it. My older sister did it as a gift for her daughter. But it's a really beautiful pattern.",
+                  "permalink": "https://www.threads.com/@marysticht79/post/DgLUTDOkcFM",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
