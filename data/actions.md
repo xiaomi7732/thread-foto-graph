@@ -6,56 +6,23 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (44)
+## Needs Reply (29)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- **ashu_anu87**:  ([link](https://www.threads.com/@ashu_anu87/post/DgLY60lGJId))
-  - Photo: Description: A yellow and black LEGO Technic model of a sports car is positioned on a dark wooden surface, with a blurred office chair and wall in the background. Photograph read: The image is taken at a slight angle, with the car as the central subject. Lighting is even and ambient, casting soft shadows. The focus is primarily on the car, with the background intentionally out of focus. The car’s mechanical components are visible, including its chassis, wheels, and engine bay. Photo type: Product photography
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
-- **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/DgLW7PODv7z))
-  - Photo: Description: The image shows a close-up of a wooden surface with vertical planks, upon which a dark, shadowy silhouette resembling a face with large, circular eyes is cast. Photograph read: The composition is dominated by the contrast between the warm, golden-toned wood and the dark silhouette. Lighting appears to originate from the side, casting the shadow with soft edges. The wood grain, knots, and plank lines are visible, but the shadow’s texture is indistinct due to its darkness. Photo type: Abstract
-    - Watch-outs: The silhouette’s features are obscured by darkness, making internal detail unreadable. The shadow’s edges blend into the wood, reducing definition of the face’s form.
-- **tiv34**:  ([link](https://www.threads.com/@tiv34/post/DgLWA7MCmmA))
-  - Photo: Description: A white compact hatchback is parked on a paved driveway in front of a brick wall, with its front driver’s side prominently visible, including the headlight, grille, and wheel. Photograph read: The image is taken at eye level with the front of the car, under natural daylight. The surface of the car is glossy and reflects the surroundings. The headlight assembly is circular with a chrome trim, and the front bumper has a black air intake. The pavement and brick wall are in focus, with no visible motion blur or distortion. Photo type: Portrait
-  - Photo: Description: The photograph shows the Falkirk Wheel, a rotating boat lift, with a blue circular sign reading “Welcome to Scottish Canals The Falkirk Wheel” affixed to its structure. People are visible on a paved walkway to the left, and the structure is reflected in the still water below, under an overcast sky. Photograph read: The image is taken from a low angle, capturing the structure’s vertical form and its reflection. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering is clear enough to identify the structure, signage, and surrounding environment, though the water’s surface shows minor ripples and debris. Photo type: Documentary
 - **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
   - Photo: Description: The photograph shows a close-up of a weathered wooden fence composed of vertical planks, with a partly cloudy sky and tree foliage visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit and shadowed areas on the fence. The wood grain and knots are visible, but some planks show minor imperfections like holes and small cracks. The background elements are slightly out of focus compared to the fence. Photo type: Documentary
     - Watch-outs: - The top edge of the fence is slightly out of focus, reducing clarity of the horizontal rail. - Some planks exhibit visible wear and small holes, which are not sharply defined due to shallow depth of field or natural surface texture.
-- **shellscorer**: Seaton Delaval Hall, Northumberland ([link](https://www.threads.com/@shellscorer/post/DgLP18piMK7))
-  - Photo: Description: A wall-mounted arrangement of framed objects, including mirrors and circular paintings of eyes and clouds, displayed on a light-colored surface. Photograph read: The composition is a flat, two-dimensional arrangement of circular frames of varying sizes and ornamental styles. Lighting is even and diffuse, casting soft shadows. Rendering is clear enough to distinguish frame details and subject content within each frame. Photo type: Still life
-- **s.a.genius**:  ([link](https://www.threads.com/@s.a.genius/post/DgLPv6bFR2M))
-  - Photo: Description: A circular, rusted metal cover is embedded in a concrete surface, featuring three screws arranged to form a stylized face with two eyes and a nose. Photograph read: The image is a top-down, close-up shot with even, diffuse lighting. The subject is in focus, with visible texture on the metal and surrounding concrete. No motion blur, lens distortion, or color cast is apparent. Photo type: Documentary
-- **kennethstevenson9**:  ([link](https://www.threads.com/@kennethstevenson9/post/DgLM7pGEu6P))
-  - Photo: Description: A performer stands on a dimly lit stage in front of a large, brightly illuminated screen displaying a colorful, stylized illustration of a steaming cup with an eye motif, held by skeletal hands. The audience is visible as silhouettes in the foreground. Photograph read: The image is taken from the audience perspective, with the stage and screen as the primary focus. The screen emits bright, saturated colors, while the performer and audience are in shadow. The screen’s content is rendered with high contrast and vivid hues, but the image lacks sharpness and detail in the foreground elements. Photo type: Live event capture
-    - Watch-outs: The performer’s face and upper body are partially obscured by shadow and low contrast, limiting facial detail. The audience silhouettes are indistinct, lacking discernible features or expressions.
-- **olivaexpat**:  ([link](https://www.threads.com/@olivaexpat/post/DgLMOYhgAnZ))
-  - Photo: Description: A close-up frontal view of a motorcycle’s headlight assembly, featuring bright yellow fairings and a black central section with carbon-fiber textured panels. The image is taken outdoors, with a blurred background suggesting a paved surface and a blue wall. Photograph read: The composition is tightly framed on the front fairing and headlights, with even, diffused lighting that reflects off the headlight lenses. The rendering is sharp on the headlight bezels and fairing contours, with no visible signs of motion blur or focus falloff. Photo type: Product
-- **maxs_auntkris**:  ([link](https://www.threads.com/@maxs_auntkris/post/DgLK7OzEslM))
-  - Photo: Description: A large mural covers the exterior wall of a multi-story building, depicting a stylized face with prominent eyes and a mouth, rendered in a geometric, patchwork style using colorful, irregularly shaped panels. Several windows are embedded within the mural design, and the building’s entrance and utility boxes are visible at the base. Photograph read: The image is taken from a frontal, eye-level perspective under clear, bright daylight. The mural’s colors and textures are visible with good contrast, though some areas appear slightly washed out or flat. The building’s windows reflect ambient light, and the foreground includes trash bins and a parking sign. No motion blur or focus issues are evident. Photo type: Street photography
-- **hannele.heikkinen**: I spotted the face in profile while walking along a small stream after a frosty night. ([link](https://www.threads.com/@hannele.heikkinen/post/DgLGdTCjrtB))
-  - _Replying to: Is that a face in profile hiding in the ice? I keep seeing …_
-- **syldelteglia**: This is a bad photo, but one I particularly like. Street art in Portugal, the juxtaposition of the cobalt blue and the rusty orange caught my atention first, and then the wide open eye of a child...the sadness behind that look...The door is actually very small. ([link](https://www.threads.com/@syldelteglia/post/DgLGIRKHKVt))
-  - _Replying to: One big eye behind the bars, and the little rust door is wa…_
-- **camaze**: Turned around on the sidewalk and saw it - guess I felt eyes on me… ([link](https://www.threads.com/@camaze/post/DgLGK9FkS5o))
-  - _Replying to: Did you catch it on a walk through the Strip? Two eyes the …_
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
-- **amaginings**: I noticed the spiral of the staircase first and later the lights as eyes. ([link](https://www.threads.com/@amaginings/post/DgLGOPfGZdX))
-  - _Replying to: Two bright eyes and the whole ceiling is smiling back at yo…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **peanutbutterscotch_**:  ([link](https://www.threads.com/@peanutbutterscotch_/post/DgLPZhjE8MJ))
   - Photo: Description: The photograph shows the interior of a church with black-and-white striped columns, a checkered floor, and an altar with an organ behind it, viewed from the nave aisle. Photograph read: The image is taken from a central aisle perspective, with rows of wooden pews on either side. Lighting comes from windows and chandeliers, illuminating the space evenly. The composition is symmetrical, with the altar and organ centered. The ceiling has exposed dark wooden beams and arched vaults. The floor pattern is clearly visible, and the columns are sharply defined. Photo type: Architectural
-- **marinacasalribeiro**: I walked around it, climbed the stairs and walked underneath. The photo was taken when I thought that would be the best angle. Thank you for highlighting. ([link](https://www.threads.com/@marinacasalribeiro/post/DgLWZ6MiHP-))
-  - _Replying to: @marinacasalribeiro Your Parasol canopy opens the Pattern T…_
-- **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
-  - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
-- **rickjackoway**: Thanks! It’s the Pismo Beach pier and I shoot surfing there if the surf permits. ([link](https://www.threads.com/@rickjackoway/post/DgK_XvCGnDd))
-  - _Replying to: @rickjackoway Your pier pillars close the Pattern Tuesday f…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **2408bridget**:  ([link](https://www.threads.com/@2408bridget/post/DgLWoyyjup-))
@@ -124,9 +91,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (14)
+## Needs Like (15)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- syldelteglia: Thank you. ([link](https://www.threads.com/@syldelteglia/post/DgLhbwzHO-X))
 - bendlesmaid269: Always 💙🐶 ([link](https://www.threads.com/@bendlesmaid269/post/DgLGaM7EYVb))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DgK22vHADtH))
 
