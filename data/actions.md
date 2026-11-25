@@ -6,11 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (30)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
+- **tiv34**: It’s my car. I took it for facebook but I didn’t want to show my plate. It’s almost got an eye at the rear too. ! ([link](https://www.threads.com/@tiv34/post/DgLh91Xiua3))
+  - Photo: Description: A white compact hatchback, with “TO3” visible on the rear, is parked on a brick driveway beside a white garage door and brick wall. The vehicle has black trim around the windows and lower body, and silver alloy wheels. Photograph read: The image is taken from a rear three-quarter angle, with even, diffuse daylight illuminating the car. Reflections are visible on the glossy paint and windows. The composition is straightforward, with no visible distortion or motion blur. Photo type: Documentary
+    - Watch-outs: - The rear taillight assembly is partially obscured by the car’s body curvature and reflections, limiting visibility of its internal structure. - The “TO3” badge is small and partially cut off by the image frame, reducing legibility.
+  - _Replying to: One big round eye, and the whole car is watching you walk u…_
 - **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
   - Photo: Description: The photograph shows a close-up of a weathered wooden fence composed of vertical planks, with a partly cloudy sky and tree foliage visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit and shadowed areas on the fence. The wood grain and knots are visible, but some planks show minor imperfections like holes and small cracks. The background elements are slightly out of focus compared to the fence. Photo type: Documentary
     - Watch-outs: - The top edge of the fence is slightly out of focus, reducing clarity of the horizontal rail. - Some planks exhibit visible wear and small holes, which are not sharply defined due to shallow depth of field or natural surface texture.

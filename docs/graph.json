@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 109,
+      "reply_count": 110,
       "replies": [
         {
           "username": "smilingjeannie",
@@ -145,7 +145,23 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "tiv34",
+                  "text": "It\u2019s my car. I took it for facebook but I didn\u2019t want to show my plate. It\u2019s almost got an eye at the rear too. !",
+                  "permalink": "https://www.threads.com/@tiv34/post/DgLh91Xiua3",
+                  "photos": [
+                    "Description: A white compact hatchback, with \u201cTO3\u201d visible on the rear, is parked on a brick driveway beside a white garage door and brick wall. The vehicle has black trim around the windows and lower body, and silver alloy wheels. Photograph read: The image is taken from a rear three-quarter angle, with even, diffuse daylight illuminating the car. Reflections are visible on the glossy paint and windows. The composition is straightforward, with no visible distortion or motion blur. Photo type: Documentary"
+                  ],
+                  "watch_outs": [
+                    "- The rear taillight assembly is partially obscured by the car\u2019s body curvature and reflections, limiting visibility of its internal structure. - The \u201cTO3\u201d badge is small and partially cut off by the image frame, reducing legibility."
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
