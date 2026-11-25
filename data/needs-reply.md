@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (23)
+## Needs Reply (24)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **corwyn671**:  ([link](https://www.threads.com/@corwyn671/post/DgK0CoVm17A))
+  - Photo: Description: A close-up, black-and-white portrait of a cat’s face, focusing on its eyes, nose, and whiskers, with fur texture visible around the muzzle and eyes. Photograph read: The image is a shallow depth-of-field portrait with the cat’s eyes and nose in focus, while the surrounding fur and whiskers are softly blurred. Lighting is even across the subject, with no harsh shadows or overexposed areas. The rendering is monochromatic, preserving tonal gradations in fur texture. Photo type: Portrait
+    - Watch-outs: - The cat’s eyes are slightly out of focus relative to the nose, with the iris detail less sharp than the surrounding fur texture. - Whiskers in the foreground and background are blurred, reducing their definition and making them appear as soft streaks rather than distinct structures.
 - **ranbalam**:  ([link](https://www.threads.com/@ranbalam/post/DgKzqFhJRgQ))
   - Photo: Description: The photograph shows a cluster of sunflowers with large yellow petals and dark centers, set against a clear blue sky, with utility wires and a wooden pole visible in the background. Photograph read: The image is taken from a low angle, with sunflowers in the foreground and background elements including foliage and a white fence. Lighting is bright and direct, casting some shadows on the leaves and flowers. The image has a slightly soft focus, with no visible signs of motion blur or lens distortion. Photo type: Natural
 - **2killamockingbird**:  ([link](https://www.threads.com/@2killamockingbird/post/DgKzjVVgI4T))
