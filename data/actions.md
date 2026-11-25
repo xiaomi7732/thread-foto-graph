@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **camera_clare**:  ([link](https://www.threads.com/@camera_clare/post/DgJ-ztjEdWC))
+  - Photo: Description: The photograph shows a corner of an interior space featuring a white radiator mounted on a wall, a decorative white iron staircase balustrade with a dark handrail, and a black-and-white geometric tiled floor. Photograph read: The image is in black and white, with strong contrast between the dark tiles and light floor patterns. The composition is angled, emphasizing the diagonal lines of the floor and the staircase. Lighting appears to come from the upper left, casting shadows from the radiator and balustrade. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural
 - **maxieellia**:  ([link](https://www.threads.com/@maxieellia/post/DgJ7qkgERuq))
   - Photo: Description: The photograph shows a close-up, angled view of a modern building’s exterior facade, characterized by a repeating grid of vertical and horizontal structural elements creating a rhythmic pattern of dark and light rectangles. Photograph read: The composition is dominated by strong geometric lines and high-contrast tonal separation. Lighting appears to be direct and even, casting sharp shadows within the recessed grid. The rendering is monochrome, with no visible color information. Photo type: Architectural
 - **the.dobson.collective**: 4 floors at my workplace. ([link](https://www.threads.com/@the.dobson.collective/post/DgJ6AfVEeTF))
