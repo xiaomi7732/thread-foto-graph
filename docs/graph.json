@@ -85,8 +85,52 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 403,
+      "reply_count": 407,
       "replies": [
+        {
+          "username": "mcdonald6162",
+          "text": "",
+          "permalink": "https://www.threads.com/@mcdonald6162/post/DgKQREuEsWq",
+          "photos": [
+            "Description: A dog\u2019s nose and part of its muzzle peek through vertical wooden slats, with the background consisting of blurred, textured surfaces. Photograph read: The image is a close-up with shallow depth of field, focusing on the dog\u2019s nose and the adjacent wood. Lighting is even but not harsh, with no visible shadows or overexposure. The background is out of focus, and the wood grain is visible along the slats. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The dog\u2019s face is partially obscured by the slats, limiting visibility of its features. The background is indistinct, reducing context and depth perception."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "mcdonald6162",
+          "text": "",
+          "permalink": "https://www.threads.com/@mcdonald6162/post/DgKQKRDkv29",
+          "photos": [
+            "Description: A long, curved walkway with vertical, colorful slats runs alongside a body of water, bordered by grass and trees under a cloudy sky. Photograph read: The composition features a strong diagonal line of the walkway leading into the distance. Lighting is diffuse, with no harsh shadows, and the image exhibits a high-contrast color palette. Rendering shows visible grain and slight softness, particularly in the water and distant foliage. Photo type: Aesthetic"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "vickymorris7719",
+          "text": "I love the symmetry found in nature.",
+          "permalink": "https://www.threads.com/@vickymorris7719/post/DgKP5EanPom",
+          "photos": [
+            "Description: A close-up of a coneflower, showing its central disk with dark brown, spiky florets and surrounding pinkish-purple petals. Photograph read: The image is a tight close-up with the flower\u2019s center in focus, revealing texture and color. Lighting is even, illuminating the flower\u2019s surface without harsh shadows. The petals show fine striations and slight surface imperfections. Background is softly out of focus but retains some green color. Photo type: Macro",
+            "Description: A dandelion seed head is centered against a dark, textured background, with a small green stem visible to the right. Photograph read: The subject is in focus but appears soft, with fine hairs and seeds rendered as blurred streaks. Lighting is even, illuminating the seed head from above, with no visible shadows or highlights. The background shows faint concentric grooves, suggesting a vinyl record surface. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "",
+            "The entire image exhibits soft focus, reducing the visibility of individual seed filaments and the central receptacle. The dark background lacks contrast, obscuring any potential texture or detail in the surrounding area."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "marysticht79",
           "text": "",
@@ -2126,7 +2170,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "chris.prut",
+                          "text": "And the color kinda fits in",
+                          "permalink": "https://www.threads.com/@chris.prut/post/DgKQMmTiGYn",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
