@@ -6,13 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (22)
+## Needs Reply (21)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- **d1xshooter**: MFD Co#11 ([link](https://www.threads.com/@d1xshooter/post/DgK2a-tFcXC))
-  - Photo: Description: A close-up of the front of a red fire truck, showing the grille, headlights, a folded fire hose, and a red coupling on the bumper, with a decal identifying it as “Engine 1” for Milwaukee Fire East Town. Photograph read: The image is well-lit with even illumination, capturing fine surface details on the truck’s paint, chrome, and hose. The composition focuses on the front bumper and grille area, with no visible motion blur or distortion. Lighting is direct and diffused, avoiding harsh shadows or overexposure. Photo type: Documentary
-- **jessgperry**: Only a few more seconds after I got the shot…. ([link](https://www.threads.com/@jessgperry/post/DgK3C-Zm2OG))
-  - _Replying to: It even caught your peace sign in the reflection - a bubble…_
+- **walter.wilkes**:  ([link](https://www.threads.com/@walter.wilkes/post/DgK3d_WFcnB))
+  - Photo: Description: A black-and-white photograph features a coin-operated binocular viewer in the foreground, with a sailboat visible through its lenses on a body of water, backed by a tree-lined shore under a bright sky. Photograph read: The image is in monochrome, with high contrast between the dark binoculars and the bright sky and water. The binoculars are in sharp focus, while the sailboat and distant treeline are less defined. The water shows texture and motion, but lacks fine detail. The composition uses the binoculars as a framing device for the distant scene. Photo type: Still Life / Landscape
+    - Watch-outs: The sailboat is small and distant, appearing as a faint silhouette with minimal discernible detail. The tree line is a broad, indistinct band with no clear individual tree shapes.
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 

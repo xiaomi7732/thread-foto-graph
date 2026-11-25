@@ -13,8 +13,23 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 26,
+      "reply_count": 29,
       "replies": [
+        {
+          "username": "walter.wilkes",
+          "text": "",
+          "permalink": "https://www.threads.com/@walter.wilkes/post/DgK3d_WFcnB",
+          "photos": [
+            "Description: A black-and-white photograph features a coin-operated binocular viewer in the foreground, with a sailboat visible through its lenses on a body of water, backed by a tree-lined shore under a bright sky. Photograph read: The image is in monochrome, with high contrast between the dark binoculars and the bright sky and water. The binoculars are in sharp focus, while the sailboat and distant treeline are less defined. The water shows texture and motion, but lacks fine detail. The composition uses the binoculars as a framing device for the distant scene. Photo type: Still Life / Landscape"
+          ],
+          "watch_outs": [
+            "The sailboat is small and distant, appearing as a faint silhouette with minimal discernible detail. The tree line is a broad, indistinct band with no clear individual tree shapes."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "d1xshooter",
           "text": "MFD Co#11",
@@ -22,10 +37,21 @@
           "photos": [
             "Description: A close-up of the front of a red fire truck, showing the grille, headlights, a folded fire hose, and a red coupling on the bumper, with a decal identifying it as \u201cEngine 1\u201d for Milwaukee Fire East Town. Photograph read: The image is well-lit with even illumination, capturing fine surface details on the truck\u2019s paint, chrome, and hose. The composition focuses on the front bumper and grille area, with no visible motion blur or distortion. Lighting is direct and diffused, avoiding harsh shadows or overexposure. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That gold 1 up top, two headlights underneath - the whole front end is looking right back at you. Did it let you get this close, or was it a quick grab?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK3lXJIavi",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "paul.moorman91",
@@ -75,10 +101,21 @@
                   "text": "Only a few more seconds after I got the shot\u2026.",
                   "permalink": "https://www.threads.com/@jessgperry/post/DgK3C-Zm2OG",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Right on time, then - a bubble that knew its moment. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgK3mbFFUqt",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
