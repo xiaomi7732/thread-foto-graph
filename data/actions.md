@@ -6,17 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (23)
+## Needs Reply (20)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DgK03velvY8))
-  - Photo: Description: A juvenile eagle with brown and white mottled plumage perches on a dark, cylindrical post, facing the camera, with a body of water in the background. Photograph read: The image is taken at a moderate distance with a shallow depth of field, resulting in the eagle being in focus while the background water is softly blurred. Lighting is even and diffuse, without harsh shadows or highlights. The image has a natural color palette and moderate resolution, with visible feather texture and claw detail. Photo type: Natural
-- **jessgperry**: A Bubble in a Fountain of Square Tiles ✌️ ([link](https://www.threads.com/@jessgperry/post/DgK02RXm3wX))
-  - Photo: Description: The image shows a close-up of a soap bubble with a textured, iridescent surface, surrounded by smaller droplets and reflecting distorted surroundings. Photograph read: The composition is centered on the bubble, with visible surface tension patterns and color reflections. Lighting creates specular highlights and chromatic interference patterns. Rendering is sharp on the bubble’s surface and surrounding droplets, with no visible motion blur or focus falloff. Photo type: Macro
-- **corwyn671**: I waited for a minute I wasn't going to take the shot. I was shooting a model in her kitchen. At the time. ([link](https://www.threads.com/@corwyn671/post/DgK1i8Jm0HB))
-  - _Replying to: How long did that stare hold - one lucky frame, or did the …_
-- **2killamockingbird**: I gave up lol 😆 ([link](https://www.threads.com/@2killamockingbird/post/DgK1SHcAO30))
-  - _Replying to: That front end is all eyes - four round lamps staring strai…_
+- **d1xshooter**: MFD Co#11 ([link](https://www.threads.com/@d1xshooter/post/DgK2a-tFcXC))
+  - Photo: Description: A close-up of the front of a red fire truck, showing the grille, headlights, a folded fire hose, and a red coupling on the bumper, with a decal identifying it as “Engine 1” for Milwaukee Fire East Town. Photograph read: The image is well-lit with even illumination, capturing fine surface details on the truck’s paint, chrome, and hose. The composition focuses on the front bumper and grille area, with no visible motion blur or distortion. Lighting is direct and diffused, avoiding harsh shadows or overexposure. Photo type: Documentary
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
@@ -78,10 +72,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (13)
-
-### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- taracee_2017: Torremolinos spain ([link](https://www.threads.com/@taracee_2017/post/DgK2EvZAKwW))
+## Needs Like (12)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - unclediss: 😎🙏 ([link](https://www.threads.com/@unclediss/post/DgKoEPxm_Y_))
