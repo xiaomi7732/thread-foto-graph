@@ -796,17 +796,28 @@
         "Foreground figure is blurred, obscuring facial features and clothing details. Text on the wall to the left is partially legible but not fully readable due to low contrast and slight softness.",
         ""
       ],
-      "reply_count": 10,
+      "reply_count": 11,
       "replies": [
         {
           "username": "zanny2mg_fl",
           "text": "All great choices and great photos \ud83d\udc4f\ud83c\udffc \ud83d\udc4f\ud83c\udffc \ud83d\udc4f\ud83c\udffc",
           "permalink": "https://www.threads.com/@zanny2mg_fl/post/DgK842uEX7R",
           "photos": [],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thank you!",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgLBovaGohS",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "syldelteglia",
