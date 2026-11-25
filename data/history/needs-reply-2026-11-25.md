@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (32)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **docnyberg**: What You looking’ at ? ([link](https://www.threads.com/@docnyberg/post/DgLD_GBiJAM))
+  - Photo: Description: A seagull with white plumage, a yellow beak, and dark wingtips stands on a dark surface against a clear blue sky with scattered clouds. A distant crane and rooftops are visible in the background. Photograph read: The subject is in focus and well-lit, with natural daylight illuminating the bird’s features. The background shows soft cloud formations and distant structures. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Natural
 - **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgLDv4kDsX2))
   - Photo: Description: A close-up view of a partially frozen water surface, with a large, dark, irregularly shaped ice formation dominating the left side, surrounded by frost-covered vegetation and scattered debris. Photograph read: The image is composed with a shallow depth of field, focusing on the ice and surrounding frost. Lighting is diffuse, casting muted tones across the scene. Rendering shows visible texture in the ice and frost, with some areas appearing slightly overexposed or washed out. Photo type: Natural
     - Watch-outs: - The ice formation’s surface is partially obscured by reflections and trapped debris, reducing clarity of its internal structure. - Frost patterns on the right edge are overexposed and appear grainy, limiting fine detail discernment.

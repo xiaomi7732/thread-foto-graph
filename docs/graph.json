@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18079101221478599",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -13,8 +13,20 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 67,
+      "reply_count": 68,
       "replies": [
+        {
+          "username": "docnyberg",
+          "text": "What You looking\u2019 at ?",
+          "permalink": "https://www.threads.com/@docnyberg/post/DgLD_GBiJAM",
+          "photos": [
+            "Description: A seagull with white plumage, a yellow beak, and dark wingtips stands on a dark surface against a clear blue sky with scattered clouds. A distant crane and rooftops are visible in the background. Photograph read: The subject is in focus and well-lit, with natural daylight illuminating the bird\u2019s features. The background shows soft cloud formations and distant structures. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "hannele.heikkinen",
           "text": "",
@@ -814,7 +826,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -953,7 +965,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
