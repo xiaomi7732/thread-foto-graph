@@ -470,8 +470,23 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 435,
+      "reply_count": 436,
       "replies": [
+        {
+          "username": "mssapi_",
+          "text": "Hello \ud83d\udc4b\ud83c\udffb",
+          "permalink": "https://www.threads.com/@mssapi_/post/DgK4KXwmAvY",
+          "photos": [
+            "Description: The photograph shows a dimly lit interior hallway leading to a brighter outdoor courtyard with greenery, including a palm tree. A plaque mounted on the wall to the right contains partially legible text, and a traffic cone stands near its base. Photograph read: The image features strong contrast between deep shadows in the foreground and midground and bright, striped sunlight cast across the tiled floor. The composition is framed by architectural elements, with the plaque and cone positioned on the right. The lighting appears natural and directional, casting distinct shadows. The plaque\u2019s text is readable in parts but not fully legible due to low contrast and slight blurriness. Photo type: Architectural"
+          ],
+          "watch_outs": [
+            "- The plaque\u2019s text is partially obscured by low contrast and slight blurriness, making full readability difficult. - The foreground and midground are underexposed, limiting visibility of fine details on the tiled floor and surrounding walls."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "zscape01",
           "text": "",

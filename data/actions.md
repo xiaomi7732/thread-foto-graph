@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (22)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **walter.wilkes**:  ([link](https://www.threads.com/@walter.wilkes/post/DgK3d_WFcnB))
@@ -20,6 +20,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **mssapi_**: Hello 👋🏻 ([link](https://www.threads.com/@mssapi_/post/DgK4KXwmAvY))
+  - Photo: Description: The photograph shows a dimly lit interior hallway leading to a brighter outdoor courtyard with greenery, including a palm tree. A plaque mounted on the wall to the right contains partially legible text, and a traffic cone stands near its base. Photograph read: The image features strong contrast between deep shadows in the foreground and midground and bright, striped sunlight cast across the tiled floor. The composition is framed by architectural elements, with the plaque and cone positioned on the right. The lighting appears natural and directional, casting distinct shadows. The plaque’s text is readable in parts but not fully legible due to low contrast and slight blurriness. Photo type: Architectural
+    - Watch-outs: - The plaque’s text is partially obscured by low contrast and slight blurriness, making full readability difficult. - The foreground and midground are underexposed, limiting visibility of fine details on the tiled floor and surrounding walls.
 - **foto.by.gc**: They did not pose, I just got lucky, right place at the right time 😊 ([link](https://www.threads.com/@foto.by.gc/post/DgKybvVlUHy))
   - _Replying to: Did you catch them mid-shoot, or did they pose for the fram…_
 - **camera_clare**: Thank you very much. This was taken in one of my campus buildings at UCL on Gordon Square, just by Tavistock Square Garden. I love seeing this every week. ([link](https://www.threads.com/@camera_clare/post/DgKzM4SjT5s))
