@@ -224,7 +224,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 321,
+      "reply_count": 325,
       "replies": [
         {
           "username": "rmeyerconsulting",
@@ -233,10 +233,21 @@
           "photos": [
             "Description: A long, covered pedestrian walkway with a geometrically patterned floor and white structural supports, viewed from the center looking down its length toward a distant, indistinct end. A single person with luggage is visible in the far distance. Photograph read: The image is taken from a low angle looking down a linear corridor, with repeating structural elements creating strong leading lines. Lighting is diffuse and even, with reflections visible on the glossy floor. The image has a slightly soft focus, and the far end is indistinct. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole walkway of X-braces and floor diamonds, and then one traveler with a red case walking away down the middle of it. Where does it come out at the far end?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYMloFkRJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pbowser",
@@ -248,10 +259,21 @@
           "watch_outs": [
             "Visible horizontal and vertical streaking artifacts across the entire image, affecting clarity and detail. Color fringing along the window frame and air conditioner unit edges, reducing edge definition."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A grid of blinds, a brick wall, and then a small red portrait tucked into one corner pane like it is keeping watch. Did you spot the face first, or the grid?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYNomFMy3",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "caelian_kwon",
@@ -261,10 +283,21 @@
             "Description: The image shows a close-up of a modern building\u2019s exterior, characterized by a pattern of vertical, wavy, alternating dark and light stripes that curve across the surface. Photograph read: The composition is dominated by repeating linear patterns with strong contrast between dark and light bands. Lighting appears even and diffused, with no harsh shadows or highlights. The rendering is sharp within the patterned area, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Abstract",
             "Description: The photograph shows a close-up of a building\u2019s exterior corner, featuring a pattern of parallel, horizontal slats that create a geometric, repetitive texture. Photograph read: The composition is dominated by strong diagonal lines formed by the corner of the structure, with even lighting that highlights the edges of the slats. The rendering is sharp and consistent, with no visible noise or motion blur. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the pair works because they argue with each other - one facade ripples, the other holds a hard straight edge at the corner. Which one did you shoot first, the wavy one or the corner?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYOw9FHyd",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "riverbedsky2229",
@@ -273,10 +306,21 @@
           "photos": [
             "Description: The photograph shows a close-up of a paved surface composed of rectangular, textured pavers in varying earthy tones, with a distinct horizontal band of lighter, smoother tiles at the top. Photograph read: The image is composed with a shallow depth of field, focusing on the pavers below the light band. Lighting is directional, casting highlights and shadows across the pavers\u2019 surfaces. The rendering preserves texture but lacks sharpness in some areas, particularly in the darker pavers. Photo type: Texture-focused"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Row after row of gold and brown cobbles, and then that pale band across the top ties the whole pavement together like a hem.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJYP_MIEAI",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jimasher",
