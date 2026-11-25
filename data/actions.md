@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (38)
+## Needs Reply (39)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **rmeyerconsulting**:  ([link](https://www.threads.com/@rmeyerconsulting/post/DgJT7gxGPI5))
+  - Photo: Description: A long, covered pedestrian walkway with a geometrically patterned floor and white structural supports, viewed from the center looking down its length toward a distant, indistinct end. A single person with luggage is visible in the far distance. Photograph read: The image is taken from a low angle looking down a linear corridor, with repeating structural elements creating strong leading lines. Lighting is diffuse and even, with reflections visible on the glossy floor. The image has a slightly soft focus, and the far end is indistinct. Photo type: Architectural
 - **pbowser**:  ([link](https://www.threads.com/@pbowser/post/DgJPq_8nxA7))
   - Photo: Description: A window with green framing and blinds is set into a brick wall, with an air conditioning unit mounted below; a small portrait is visible in one of the upper-left window panes. Photograph read: The image has a strong digital artifact pattern, including horizontal and vertical streaks and color fringing, particularly along edges. The window and brick wall are in focus, but the overall image exhibits a grainy, distorted texture. Lighting appears even and diffuse, with no strong shadows or highlights. Photo type: Digital artifact
     - Watch-outs: Visible horizontal and vertical streaking artifacts across the entire image, affecting clarity and detail. Color fringing along the window frame and air conditioner unit edges, reducing edge definition.
