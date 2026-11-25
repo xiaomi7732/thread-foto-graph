@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (36)
+## Needs Reply (38)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **pbowser**:  ([link](https://www.threads.com/@pbowser/post/DgJPq_8nxA7))
@@ -35,6 +35,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Two rows of cars funnelling into that orange sky, and the y…_
 - **watsjoey**: It snowed the day before. Have never seen snow stay on branches like this. And yes! Lace was the first thought that came to mind. ([link](https://www.threads.com/@watsjoey/post/DgJF6StGTxL))
   - _Replying to: How long after the snowfall did you get out there? The snow…_
+- **elstergavin**: It’s the sun reflecting of an adjacent high rise ([link](https://www.threads.com/@elstergavin/post/DgJRqCMGxld))
+  - _Replying to: Rows of glowing rectangles laid across a plain wall, and th…_
+- **elstergavin**: The metro station ([link](https://www.threads.com/@elstergavin/post/DgJRkVYm2tI))
+  - _Replying to: The arches curve away, the pylon folds in on itself, and th…_
 - **marcinewiese**: I honestly don't know...it was a meme that I stole from another post symbolizing that diversity should be alive and well ([link](https://www.threads.com/@marcinewiese/post/DgI9_kUGIoF))
   - _Replying to: Hands from every direction, all landing in the same middle …_
 - **tallerthanyou2026**: Full dark. Botanical Garden in Phoenix ([link](https://www.threads.com/@tallerthanyou2026/post/DgJAxJnkiyv))
