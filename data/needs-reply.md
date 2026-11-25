@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (37)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **gil_o_gram**:  ([link](https://www.threads.com/@gil_o_gram/post/DgK8pTlG9Y4))
+  - Photo: Description: A brass door knocker with a hexagonal frame and a sculpted face at the top is mounted on a wooden door with visible grain. Photograph read: The image is in focus, with even lighting that highlights the metallic sheen and surface details of the knocker. The wood grain is clearly visible, and the knocker’s ornamental features are distinct. Photo type: Still life
 - **ben.bennion**: Spotted in Venice ([link](https://www.threads.com/@ben.bennion/post/DgK8VC4grKx))
   - Photo: Description: A stone-faced intercom unit with two brass bells as eyes, engraved nameplates above them, a perforated speaker grille, and a mail slot, mounted in a weathered stone wall with visible rusted metal fixtures to the left. Photograph read: The image is in sharp focus, with even, diffuse lighting that illuminates the subject clearly. The stone texture, engraved text, and metallic surfaces are visible with no signs of motion blur, overexposure, or underexposure. Photo type: Documentary
 - **deputysec**: The first one no longer exists . They tore it down 😔 ([link](https://www.threads.com/@deputysec/post/DgK7HxhFRsU))
@@ -44,6 +46,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
+- **zanny2mg_fl**: All great choices and great photos 👏🏼 👏🏼 👏🏼 ([link](https://www.threads.com/@zanny2mg_fl/post/DgK842uEX7R))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
