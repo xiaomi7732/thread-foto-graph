@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (40)
+## Needs Reply (41)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **ianhcooper**:  ([link](https://www.threads.com/@ianhcooper/post/DgLW7PODv7z))
+  - Photo: Description: The image shows a close-up of a wooden surface with vertical planks, upon which a dark, shadowy silhouette resembling a face with large, circular eyes is cast. Photograph read: The composition is dominated by the contrast between the warm, golden-toned wood and the dark silhouette. Lighting appears to originate from the side, casting the shadow with soft edges. The wood grain, knots, and plank lines are visible, but the shadow’s texture is indistinct due to its darkness. Photo type: Abstract
+    - Watch-outs: The silhouette’s features are obscured by darkness, making internal detail unreadable. The shadow’s edges blend into the wood, reducing definition of the face’s form.
 - **tiv34**:  ([link](https://www.threads.com/@tiv34/post/DgLWA7MCmmA))
   - Photo: Description: A white compact hatchback is parked on a paved driveway in front of a brick wall, with its front driver’s side prominently visible, including the headlight, grille, and wheel. Photograph read: The image is taken at eye level with the front of the car, under natural daylight. The surface of the car is glossy and reflects the surroundings. The headlight assembly is circular with a chrome trim, and the front bumper has a black air intake. The pavement and brick wall are in focus, with no visible motion blur or distortion. Photo type: Portrait
   - Photo: Description: The photograph shows the Falkirk Wheel, a rotating boat lift, with a blue circular sign reading “Welcome to Scottish Canals The Falkirk Wheel” affixed to its structure. People are visible on a paved walkway to the left, and the structure is reflected in the still water below, under an overcast sky. Photograph read: The image is taken from a low angle, capturing the structure’s vertical form and its reflection. Lighting is diffuse and even, with no harsh shadows or highlights. The rendering is clear enough to identify the structure, signage, and surrounding environment, though the water’s surface shows minor ripples and debris. Photo type: Documentary
