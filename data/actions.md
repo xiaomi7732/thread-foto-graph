@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **ericpalonen**:  ([link](https://www.threads.com/@ericpalonen/post/DgJeJ6VkbSN))
+  - Photo: Description: A small, dark object, likely a bird, is visible in mid-air above a body of water with concentric ripples radiating outward. The water surface dominates the frame, with a gradient from darker to lighter tones. Photograph read: The image is composed with the bird centered horizontally but low in the frame, against a textured water surface. Lighting is diffuse, casting minimal contrast. The rendering is uniform, with no visible lens distortion or chromatic aberration. Photo type: Aerial or drone shot
+    - Watch-outs: The bird is small and lacks discernible features due to low resolution and distance. The ripples are uniform and lack fine detail, making the water surface appear smooth and non-textured.
 - **mannydr**:  ([link](https://www.threads.com/@mannydr/post/DgJdK0cgYs2))
   - Photo: Description: Two individuals are present in a room with vertical wooden slats as a background; one stands holding a phone, the other sits at a table facing away, also holding a phone. Photograph read: The image features strong vertical lines from the background slats, with warm, directional lighting casting shadows. The standing person is partially illuminated, while the seated person is in silhouette. The table holds a bottle, glasses, and a cup, but no sharp focus or depth-of-field blur is evident. Photo type: Portrait
 - **caelian_kwon**: I shoot the wave one first. ([link](https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8))
