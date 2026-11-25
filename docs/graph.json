@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 79,
+      "reply_count": 82,
       "replies": [
         {
           "username": "docnyberg",
@@ -60,7 +60,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "hannele.heikkinen",
+                  "text": "I spotted the face in profile while walking along a small stream after a frosty night.",
+                  "permalink": "https://www.threads.com/@hannele.heikkinen/post/DgLGdTCjrtB",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -287,7 +298,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "amaginings",
+                  "text": "I noticed the spiral of the staircase first and later the lights as eyes.",
+                  "permalink": "https://www.threads.com/@amaginings/post/DgLGOPfGZdX",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -493,7 +515,18 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "bendlesmaid269",
+                          "text": "Always \ud83d\udc99\ud83d\udc36",
+                          "permalink": "https://www.threads.com/@bendlesmaid269/post/DgLGaM7EYVb",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "like",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }
