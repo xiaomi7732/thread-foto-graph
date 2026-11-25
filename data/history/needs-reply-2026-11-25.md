@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (33)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **smilingjeannie**: Sadly not. We spent the day on a boat cruising through the Delta and saw so many abandoned and deteriorating boats. Most of the residents, young ones, have moved to the “big city - Saigon” as the old ways of life and making a living in the Delta have disappeared. ([link](https://www.threads.com/@smilingjeannie/post/DgLom4KEvmz))
@@ -20,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
   - Photo: Description: The photograph shows a close-up of a weathered wooden fence composed of vertical planks, with a partly cloudy sky and tree foliage visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit and shadowed areas on the fence. The wood grain and knots are visible, but some planks show minor imperfections like holes and small cracks. The background elements are slightly out of focus compared to the fence. Photo type: Documentary
     - Watch-outs: - The top edge of the fence is slightly out of focus, reducing clarity of the horizontal rail. - Some planks exhibit visible wear and small holes, which are not sharply defined due to shallow depth of field or natural surface texture.
+- **olivaexpat**: Spotted outside the local post office. I did a double take when I saw it 😄 ([link](https://www.threads.com/@olivaexpat/post/DgLuUpSABJv))
+  - _Replying to: That headlight is wide awake, and the whole bike is staring…_
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
