@@ -216,7 +216,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, visible, photo, lighting",
+      "label": "photograph, photo, visible, lighting",
       "group": 1,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -224,8 +224,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 351,
+      "reply_count": 353,
       "replies": [
+        {
+          "username": "mannydr",
+          "text": "",
+          "permalink": "https://www.threads.com/@mannydr/post/DgJdK0cgYs2",
+          "photos": [
+            "Description: Two individuals are present in a room with vertical wooden slats as a background; one stands holding a phone, the other sits at a table facing away, also holding a phone. Photograph read: The image features strong vertical lines from the background slats, with warm, directional lighting casting shadows. The standing person is partially illuminated, while the seated person is in silhouette. The table holds a bottle, glasses, and a cup, but no sharp focus or depth-of-field blur is evident. Photo type: Portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "rmeyerconsulting",
           "text": "",
@@ -1531,7 +1543,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "pappaga11a",
+                  "text": "This is Karnak in Luxor.",
+                  "permalink": "https://www.threads.com/@pappaga11a/post/DgJdLcdFM10",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -4316,7 +4339,7 @@
     },
     {
       "id": "18103812629426127",
-      "label": "photograph, visible, photo, lighting",
+      "label": "photograph, photo, visible, lighting",
       "group": 1,
       "snippet": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my s\u2026",
       "text": "Minimal Friday favorites \ud83c\udfc6 6 quiet frames that stopped my scroll: Caroline @carocaluwe263 - crow on a lamp arm Ian Hanna @ian_hanna - fork and long shadows Carol @camaze - poles in blue water Rick Thomas @rickthomas742 - contrail and crescent moon Andry Sutrisna @asutris - cat in the stairwell 2T Visuals @2tvisuals - one boat, still water Beautiful work, all of you. Reel: https://www.instagram.com/reel/Df_0F80Diym/",

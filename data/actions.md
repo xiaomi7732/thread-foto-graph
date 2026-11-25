@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (15)
+## Needs Reply (17)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **mannydr**:  ([link](https://www.threads.com/@mannydr/post/DgJdK0cgYs2))
+  - Photo: Description: Two individuals are present in a room with vertical wooden slats as a background; one stands holding a phone, the other sits at a table facing away, also holding a phone. Photograph read: The image features strong vertical lines from the background slats, with warm, directional lighting casting shadows. The standing person is partially illuminated, while the seated person is in silhouette. The table holds a bottle, glasses, and a cup, but no sharp focus or depth-of-field blur is evident. Photo type: Portrait
 - **caelian_kwon**: I shoot the wave one first. ([link](https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8))
   - _Replying to: I think the pair works because they argue with each other -…_
 - **posts.by.norman**: Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps. ([link](https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2))
@@ -24,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The Macy's escalator, then - the city handed you the assign…_
 - **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
   - _Replying to: I found them. I believe some sort of burrowing sea creature…_
+- **pappaga11a**: This is Karnak in Luxor. ([link](https://www.threads.com/@pappaga11a/post/DgJdLcdFM10))
+  - _Replying to: Which temple is this? A whole row of pharaohs, each one sta…_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
