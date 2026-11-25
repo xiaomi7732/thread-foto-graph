@@ -13,8 +13,23 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 84,
+      "reply_count": 85,
       "replies": [
+        {
+          "username": "kennethstevenson9",
+          "text": "",
+          "permalink": "https://www.threads.com/@kennethstevenson9/post/DgLM7pGEu6P",
+          "photos": [
+            "Description: A performer stands on a dimly lit stage in front of a large, brightly illuminated screen displaying a colorful, stylized illustration of a steaming cup with an eye motif, held by skeletal hands. The audience is visible as silhouettes in the foreground. Photograph read: The image is taken from the audience perspective, with the stage and screen as the primary focus. The screen emits bright, saturated colors, while the performer and audience are in shadow. The screen\u2019s content is rendered with high contrast and vivid hues, but the image lacks sharpness and detail in the foreground elements. Photo type: Live event capture"
+          ],
+          "watch_outs": [
+            "The performer\u2019s face and upper body are partially obscured by shadow and low contrast, limiting facial detail. The audience silhouettes are indistinct, lacking discernible features or expressions."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "olivaexpat",
           "text": "",
@@ -1151,7 +1166,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 437,
+      "reply_count": 436,
       "replies": [
         {
           "username": "mataherry",
@@ -1441,6 +1456,16 @@
               "replies": []
             }
           ]
+        },
+        {
+          "username": "pattykl",
+          "text": "Beautiful selection",
+          "permalink": "https://www.threads.com/@pattykl/post/DgKD7LzldTf",
+          "photos": [],
+          "needs_response": true,
+          "action": "like",
+          "hidden": false,
+          "replies": []
         },
         {
           "username": "camera_clare",
@@ -6219,27 +6244,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Yesterday's favorites are up - Minimal Friday's best, featured here: https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn",
-          "permalink": "https://www.threads.com/@saars.foto/post/DgIOYQ_Gykv",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": [
-            {
-              "username": "pattykl",
-              "text": "Beautiful selection",
-              "permalink": "https://www.threads.com/@pattykl/post/DgKD7LzldTf",
-              "photos": [],
-              "needs_response": true,
-              "action": "like",
-              "hidden": false,
-              "replies": []
             }
           ]
         }

@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (29)
+## Needs Reply (30)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **kennethstevenson9**:  ([link](https://www.threads.com/@kennethstevenson9/post/DgLM7pGEu6P))
+  - Photo: Description: A performer stands on a dimly lit stage in front of a large, brightly illuminated screen displaying a colorful, stylized illustration of a steaming cup with an eye motif, held by skeletal hands. The audience is visible as silhouettes in the foreground. Photograph read: The image is taken from the audience perspective, with the stage and screen as the primary focus. The screen emits bright, saturated colors, while the performer and audience are in shadow. The screen’s content is rendered with high contrast and vivid hues, but the image lacks sharpness and detail in the foreground elements. Photo type: Live event capture
+    - Watch-outs: The performer’s face and upper body are partially obscured by shadow and low contrast, limiting facial detail. The audience silhouettes are indistinct, lacking discernible features or expressions.
 - **olivaexpat**:  ([link](https://www.threads.com/@olivaexpat/post/DgLMOYhgAnZ))
   - Photo: Description: A close-up frontal view of a motorcycle’s headlight assembly, featuring bright yellow fairings and a black central section with carbon-fiber textured panels. The image is taken outdoors, with a blurred background suggesting a paved surface and a blue wall. Photograph read: The composition is tightly framed on the front fairing and headlights, with even, diffused lighting that reflects off the headlight lenses. The rendering is sharp on the headlight bezels and fairing contours, with no visible signs of motion blur or focus falloff. Photo type: Product
 - **maxs_auntkris**:  ([link](https://www.threads.com/@maxs_auntkris/post/DgLK7OzEslM))

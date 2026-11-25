@@ -11,6 +11,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DgK22vHADtH))
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- pattykl: Beautiful selection ([link](https://www.threads.com/@pattykl/post/DgKD7LzldTf))
 - unclediss: 😎🙏 ([link](https://www.threads.com/@unclediss/post/DgKoEPxm_Y_))
 - posts.by.norman: Always. ▓ ([link](https://www.threads.com/@posts.by.norman/post/DgJ1HUZH12V))
 - nitisharma2086: Really nice👌 ([link](https://www.threads.com/@nitisharma2086/post/DgJ7DRro-oh))
@@ -21,5 +22,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - jphbb: Thanks ([link](https://www.threads.com/@jphbb/post/DgIjQXjGARA))
 - dwordops: Thank you ! ([link](https://www.threads.com/@dwordops/post/DgIWbc2kXrB))
 - beckiefitzgerald: Thanks! ☺️ ([link](https://www.threads.com/@beckiefitzgerald/post/DgIZVxZoFhi))
-- pattykl: Beautiful selection ([link](https://www.threads.com/@pattykl/post/DgKD7LzldTf))
 
