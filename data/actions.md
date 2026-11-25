@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (32)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **kennethstevenson9**:  ([link](https://www.threads.com/@kennethstevenson9/post/DgLM7pGEu6P))
@@ -44,6 +44,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - The plaque’s text is partially obscured by low contrast and slight blurriness, making full readability difficult. - The foreground and midground are underexposed, limiting visibility of fine details on the tiled floor and surrounding walls.
 - **foto.by.gc**: They did not pose, I just got lucky, right place at the right time 😊 ([link](https://www.threads.com/@foto.by.gc/post/DgKybvVlUHy))
   - _Replying to: Did you catch them mid-shoot, or did they pose for the fram…_
+- **mcdonald6162**: Didn’t have to wait long, they were a pair of sticky beaks. I think it took me longer to stretch out over the balcony and set the shot than it took for them to come and peek, 😂 ([link](https://www.threads.com/@mcdonald6162/post/DgLNmalEpDH))
+  - _Replying to: The slats run straight up and down, and then a nose pokes t…_
+- **mcdonald6162**: It runs the whole walk on all the bridge sections. ([link](https://www.threads.com/@mcdonald6162/post/DgLNJ37Eknn))
+  - _Replying to: A whole wall of colored slats curving away beside the water…_
 - **camera_clare**: Thank you very much. This was taken in one of my campus buildings at UCL on Gordon Square, just by Tavistock Square Garden. I love seeing this every week. ([link](https://www.threads.com/@camera_clare/post/DgKzM4SjT5s))
   - _Replying to: The tiled floor does geometry in black and white, and then …_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
