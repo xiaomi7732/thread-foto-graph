@@ -4,33 +4,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (25)
+## Needs Reply (18)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
   - _Replying to: @jphbb The middle slide of the Pattern Tuesday favorites is…_
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
-- **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/DgKH0mtisbT))
-  - Photo: Description: A light pink crocheted shawl with a triangular shape and decorative lace border lies flat on a glass table with a wooden frame. In the background, a wooden cabinet with a glass-fronted section is partially visible. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting. The shawl’s texture and crochet patterns are visible, though not sharply defined. A circular object with a bright reflection is positioned near the bottom right of the shawl. Photo type: Still life
-    - Watch-outs: - The bottom right corner of the shawl is partially obscured by a bright, reflective circular object, reducing visibility of the pattern there. - The glass table surface reflects ambient light, creating a glare that slightly reduces contrast and detail in the foreground area.
-- **camera_clare**:  ([link](https://www.threads.com/@camera_clare/post/DgJ-ztjEdWC))
-  - Photo: Description: The photograph shows a corner of an interior space featuring a white radiator mounted on a wall, a decorative white iron staircase balustrade with a dark handrail, and a black-and-white geometric tiled floor. Photograph read: The image is in black and white, with strong contrast between the dark tiles and light floor patterns. The composition is angled, emphasizing the diagonal lines of the floor and the staircase. Lighting appears to come from the upper left, casting shadows from the radiator and balustrade. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural
-- **maxieellia**:  ([link](https://www.threads.com/@maxieellia/post/DgJ7qkgERuq))
-  - Photo: Description: The photograph shows a close-up, angled view of a modern building’s exterior facade, characterized by a repeating grid of vertical and horizontal structural elements creating a rhythmic pattern of dark and light rectangles. Photograph read: The composition is dominated by strong geometric lines and high-contrast tonal separation. Lighting appears to be direct and even, casting sharp shadows within the recessed grid. The rendering is monochrome, with no visible color information. Photo type: Architectural
-- **the.dobson.collective**: 4 floors at my workplace. ([link](https://www.threads.com/@the.dobson.collective/post/DgJ6AfVEeTF))
-  - Photo: Description: The photograph shows a low-angle view of a metal staircase with mesh railings and grating, leading upward into a dimly lit, enclosed space with vertical structural elements. Photograph read: The image is in black and white, with strong contrast between the dark metal framework and lighter mesh. The composition uses converging lines to create depth, and the lighting appears to come from above, casting shadows on the steps and railings. Photo type: Industrial
-  - _Replying to: How many floors of mesh is that? The landings stack down li…_
-- **christinabreitenfeldt**: But they blossom south to north. My daughter lives about 50 miles south of us and I can watch them blossom from her place to mine ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ9T3AG9UR))
-  - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
+- **foto.by.gc**: They did not pose, I just got lucky, right place at the right time 😊 ([link](https://www.threads.com/@foto.by.gc/post/DgKwte3lYFn))
+  - _Replying to: Did you catch them mid-shoot, or did they pose for the fram…_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
-- **ericpalonen**: It's a tiny leaf. The ripple pattern pulled the eye ([link](https://www.threads.com/@ericpalonen/post/DgKkRNikTTw))
-  - _Replying to: The water is all fine parallel lines, and then one tiny bir…_
-- **rmeyerconsulting**: It’s the sky bridge connecting the OHSU tram to the building in Portland, OR. ([link](https://www.threads.com/@rmeyerconsulting/post/DgKKKuzG57j))
-  - _Replying to: A whole walkway of X-braces and floor diamonds, and then on…_
-- **shiawasemainichi5**: Thank you so much. This is Tokyo Tower. It's a beautiful symbol of Tokyo. I like both color and black and white photos.🗼😊 ([link](https://www.threads.com/@shiawasemainichi5/post/DgKXvLPE4ej))
-  - _Replying to: Same tower twice - once in gold, once in black and white. W…_
 - **shel_bee_g**: Last one, same trestle ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
   - Photo: Description: A long, dark silhouette of a bridge spans a body of water at sunset, with the sun low on the horizon behind it, casting golden reflections on the water and illuminating clouds above. Photograph read: The bridge’s structure is sharply defined against a sky transitioning from deep blue to golden orange near the horizon. The water reflects the bridge’s pillars and the sun’s glow, with some ripples distorting the reflections. Clouds are illuminated from below, creating contrast with the darker sky above. Photo type: Landscape
   - _Replying to: A second view and the reflection doubles the whole trestle …_
