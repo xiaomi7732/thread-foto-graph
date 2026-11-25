@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18079101221478599",
-      "label": "photograph, image, photo, read",
+      "label": "photograph, photo, image, read",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -13,8 +13,50 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 43,
+      "reply_count": 60,
       "replies": [
+        {
+          "username": "hannele.heikkinen",
+          "text": "",
+          "permalink": "https://www.threads.com/@hannele.heikkinen/post/DgK--tyDuPl",
+          "photos": [
+            "Description: The image shows a surface of murky water reflecting a cloudy sky, with a rocky edge visible in the lower portion. Photograph read: The composition is dominated by water surface reflections, with muted tones and diffuse lighting. Rendering is flat with no discernible depth or sharpness, and no distinct features are visible beyond the water\u2019s surface and the rock edge. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "- The entire image exhibits significant blur, obscuring fine detail in both water surface and rock texture. - Reflections are indistinct, with no clear separation between sky elements and water, making subject identification difficult."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "auerbach_art",
+          "text": "",
+          "permalink": "https://www.threads.com/@auerbach_art/post/DgK-8TGFgSF",
+          "photos": [
+            "Description: Two illuminated, egg-shaped objects rest on a textured surface against a dark blue sky, with a faint horizon line and distant silhouette visible in the background. Photograph read: The foreground surface is in focus, showing texture and light reflection; the two glowing objects are softly lit and appear slightly out of focus relative to the foreground. The background is dark and indistinct, with a thin horizontal blue line suggesting a distant feature or edge. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "camaze",
+          "text": "Strip District Pittsburgh",
+          "permalink": "https://www.threads.com/@camaze/post/DgK-4plEQiM",
+          "photos": [
+            "Description: A large mural depicting a human face, focusing on the eyes and upper forehead, is painted on a brick wall. A red fabric or tarp covers the lower foreground, partially obscuring the view. Photograph read: The image is taken from a low angle, capturing the mural\u2019s upper portion against a plain sky and overhead wires. Lighting is diffuse and even, with no strong shadows or highlights. The mural\u2019s rendering shows visible brushstrokes and texture, with the brick wall surface showing through the paint. Photo type: Street photography"
+          ],
+          "watch_outs": [
+            "The lower foreground is obscured by a red tarp, hiding the mural\u2019s base and preventing full context. The mural\u2019s right eye is partially cut off by the tarp\u2019s edge, limiting visibility of the subject\u2019s facial expression."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "l_faefife",
           "text": "",
@@ -37,10 +79,21 @@
           "photos": [
             "Description: A brass door knocker with a hexagonal frame and a sculpted face at the top is mounted on a wooden door with visible grain. Photograph read: The image is in focus, with even lighting that highlights the metallic sheen and surface details of the knocker. The wood grain is clearly visible, and the knocker\u2019s ornamental features are distinct. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A face on the door that does the greeting before anyone knocks. How long has that one been keeping watch?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK-6AmkdGp",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ben.bennion",
@@ -49,10 +102,21 @@
           "photos": [
             "Description: A stone-faced intercom unit with two brass bells as eyes, engraved nameplates above them, a perforated speaker grille, and a mail slot, mounted in a weathered stone wall with visible rusted metal fixtures to the left. Photograph read: The image is in sharp focus, with even, diffuse lighting that illuminates the subject clearly. The stone texture, engraved text, and metallic surfaces are visible with no signs of motion blur, overexposure, or underexposure. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two brass bells for eyes and a mail slot for a mouth - the wall was already mid-conversation. Did it answer when you rang?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK-67_HGzx",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "deputysec",
@@ -62,10 +126,21 @@
             "Description: The photograph shows a large mural of Frida Kahlo on a building wall, framed by railroad crossing signals and barriers, with two pedestrians standing on a sidewalk in the foreground. Photograph read: The image is taken in bright daylight with clear visibility of the mural and surrounding infrastructure. The composition is framed by the railroad signals, with the mural centered behind them. The rendering is sharp enough to discern facial features, colors, and structural details of the signs and building. Photo type: Documentary",
             "Description: A large mural depicting a stylized female face with floral elements adorns a building wall, set against a backdrop of trees and a partly cloudy sky. Photograph read: The mural is the central subject, rendered with vivid colors and clear outlines. Lighting is natural daylight, casting soft shadows. The image is taken from a low angle, capturing the mural\u2019s full width and the adjacent sidewalk and hedges. Photo type: Street photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "She is still watching over the street in the second one, at least - and the first lives on in this frame now. Was the wall already coming down when you shot it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK-77kifN0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "amaginings",
@@ -74,10 +149,21 @@
           "photos": [
             "Description: The image shows a close-up, top-down view of a circular, recessed ceiling fixture with two bright, circular light sources embedded within a grid-patterned diffuser panel. Photograph read: The composition is centered on the circular fixture, framed by a curved, light-gray architectural element. Lighting is even and diffused, with the two lights appearing as bright, overexposed circles. The diffuser panel exhibits a fine, uniform grid texture. The image is monochrome, with no visible color information. Photo type: Abstract"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two bright eyes and the whole ceiling is smiling back at you. Did you spot the face first, or the light?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK-9Fxlrjr",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jh1962bike",
@@ -86,10 +172,21 @@
           "photos": [
             "Description: A circular black vinyl record is mounted on a light-colored, textured wall, with a stylized pink and black eye illustration painted across its lower half, partially obscuring the record\u2019s grooves. Photograph read: The image is taken from a direct overhead angle, with even, diffuse lighting. The record\u2019s central label is legible, and the painted eye design is clearly rendered with fine linework. The wall\u2019s texture is visible, and the bottom edge of the frame shows a smudged, spray-painted area. Photo type: Still Life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That painted eye turns a record into a stare - pink and black against the grooves. Did it stop you mid-step when you first saw it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK-9_2IEfH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "akmaleky",
@@ -101,10 +198,21 @@
           "watch_outs": [
             "The cat\u2019s face is partially obscured by the rug\u2019s edge, limiting visibility of its whiskers and nose. The hand\u2019s fingers are slightly out of focus, reducing detail in that area."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Just the eyes and a whisker over the edge of the rug - the rest of the cat is still deciding whether to come out. Did it stay hidden, or pop up right after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK-_I2kQ1R",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "p2tlushamiza",
@@ -113,10 +221,21 @@
           "photos": [
             "Description: A close-up photograph of a cat\u2019s face, showing one eye, part of the nose, and surrounding fur in black, white, and gray tones. Photograph read: The eye is in focus with visible iris detail and pupil, surrounded by textured fur and whiskers. Lighting is even, with no obvious shadows or overexposure. The image has a shallow depth of field, with the background blurred and the foreground subject sharp. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One eye and it still fills the whole frame. What was it staring at so hard?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK_AEhIBtc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mojochix",
@@ -128,10 +247,21 @@
           "watch_outs": [
             "- The dark rectangular panel is underexposed, obscuring any readable details or text. - The small red light is isolated and lacks context, making its function or associated interface elements indiscernible."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two dotted eyes, one tiny red nose-light, and the elevator is grinning at you. Did it smile the whole ride up, or just for the photo?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK_BGslcsL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "newblueday",
@@ -140,10 +270,21 @@
           "photos": [
             "Description: A close-up frontal view of a vintage Hudson automobile, featuring a black grille, prominent yellow headlights, and a license plate reading \u201c73006 W 15,\u201d with a Hudson Motor Car Co. emblem above the grille. The car\u2019s body is partially visible in blue paint, with trees and a tarp in the blurred background. Photograph read: The image is a focused close-up with even lighting, capturing fine details of the grille mesh, headlight lenses, and license plate. The background is softly blurred, indicating a shallow depth of field. The composition centers on the front end, with the license plate and emblem clearly legible. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those two yellow headlights are wide awake - the whole front end is staring straight back. What year is the Hudson?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK_CTfoMne",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bendlesmaid269",
@@ -152,10 +293,21 @@
           "photos": [
             "Description: A close-up black-and-white photograph shows the head and front paw of a dog resting on a textured fabric surface, with its eyes open and looking slightly upward. Photograph read: The image is in monochrome, with high contrast between the dog\u2019s dark fur and white markings. The dog\u2019s face is in focus, but the background fabric and surrounding area are softly blurred. Lighting appears even, without harsh shadows or overexposed highlights. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That look over the paw says it all - half asleep, fully keeping an eye on you. Did it stay put for the shot, or wander off right after?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK_DXXG5re",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mssapi_",
@@ -167,10 +319,21 @@
           "watch_outs": [
             "The cat\u2019s face is partially obscured by the circular frame, limiting full visibility of its features. The metal structure\u2019s edges are worn and slightly blurred, reducing sharpness around the aperture."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A green-eyed stare through a round window in the metal - the cat found the perfect frame and knew it. How long did it hold the pose?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK_EQkFuo8",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "walter.wilkes",
@@ -182,10 +345,21 @@
           "watch_outs": [
             "The sailboat is small and distant, appearing as a faint silhouette with minimal discernible detail. The tree line is a broad, indistinct band with no clear individual tree shapes."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The viewer is doing the looking back this time - two round eyes with a glint in each, and a sailboat drifting past behind it. Did you set out to catch the face, or did it catch you first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgK_FJOlTpl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "d1xshooter",
@@ -212,10 +386,21 @@
                   "text": "I\u2019m a retired Truckie most of the crew I know or trained. So I see and greet on calls close to the apartment or when I\u2019m out and about",
                   "permalink": "https://www.threads.com/@d1xshooter/post/DgK7DsdlQgJ",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That is a fine way to keep the crew close. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgK_GPkGzCh",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -249,10 +434,21 @@
                     "Description: A close-up portrait of a young eagle with brown plumage, a dark eye, and a hooked beak, set against a uniformly blurred green background. Photograph read: The subject is in focus with moderate contrast; lighting is even and diffused, with no harsh shadows or overexposed areas. The background is uniformly out of focus, creating a soft bokeh effect. The eagle\u2019s feathers show texture and individual strands. Photo type: Portrait",
                     "Description: A juvenile eagle perches on a metal post atop a wooden dock, with a calm, greenish water surface and a tree-lined shoreline in the background. Photograph read: The image is taken in natural daylight with moderate contrast; the eagle is in focus, but the water and distant trees show slight motion blur from raindrops or wind. The dock planks and post are in sharp focus, while the background is softly blurred. Photo type: Natural"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ten minutes that felt like an hour - that stare earns every second of it. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgK_HUZlnyG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -537,7 +733,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, image, photo, read",
+      "label": "photograph, photo, image, read",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -654,7 +850,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, image, photo, read",
+      "label": "photograph, photo, image, read",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
