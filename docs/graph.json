@@ -235,8 +235,20 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 366,
+      "reply_count": 381,
       "replies": [
+        {
+          "username": "annette7926",
+          "text": "Oh I love a good pattern",
+          "permalink": "https://www.threads.com/@annette7926/post/DgJy8OciMFd",
+          "photos": [
+            "Description: The image shows a close-up, upward-looking view of a large, radially symmetric structure with deep red and purple hues, possibly a decorative canopy or ceiling installation, featuring glowing vertical ribs and scattered light specks. Photograph read: The composition is dominated by radial lines emanating from the center, with a dark background and luminous edges. Lighting is artificial and directional, casting highlights along the ribs and illuminating speckled patterns across the surface. Rendering appears smooth but lacks sharpness, with visible softness in texture and edge definition. Photo type: Abstract"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "scott.wynn",
           "text": "",
@@ -244,10 +256,21 @@
           "photos": [
             "Description: The image shows a close-up of a wall constructed from horizontally arranged wooden planks of varying lengths and widths, with visible grain and warm tones. Photograph read: The planks are arranged in staggered rows with visible gaps between them. Lighting is even and warm, casting soft shadows in the gaps. The image is in focus and has no visible distortion or motion blur. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Warm wood, row after row, and the staggered joints turn it into brickwork without a single brick. What room is this wall in?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzFSTFAfG",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "lmk3.mama",
@@ -256,10 +279,21 @@
           "photos": [
             "Description: A modernist building with a distinctive geometric facade composed of repeating curved concrete elements, viewed from a low angle against a plain sky; the ground floor features a solid, blocky wall with horizontal panels. Photograph read: The image is presented in monochrome, with even, diffused lighting that minimizes shadows and highlights the structural repetition of the facade. The composition is a low-angle shot emphasizing the building\u2019s corner and upward thrust. The rendering preserves fine surface texture and form, with no visible signs of motion blur or chromatic aberration. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those curved concrete fins repeat all the way up the corner, and the glass peeking through between them keeps it from feeling heavy. I think the monochrome was the right call - the shapes do all the talking.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzGQXm60_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "christinabreitenfeldt",
@@ -268,10 +302,21 @@
           "photos": [
             "Description: Rows of flowering trees, likely almond or cherry, stretch across a cultivated field under a partly cloudy sky; the ground is dry and sparsely vegetated. Photograph read: The image shows a wide-angle view of the orchard with trees in alternating rows, under bright daylight with soft shadows. The blossoms appear as dense white clusters, and the sky is visible above with scattered clouds. The image has a slightly soft focus and muted contrast, with no obvious signs of digital artifacts or motion blur. Photo type: Aesthetic landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is the whole orchard in bloom like this, or just the row across the street? The white blossom over those dark trunks reads like snow that forgot to melt.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzHY2m-5l",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ceruleanseren",
@@ -280,10 +325,21 @@
           "photos": [
             "Description: The image shows a honeycomb-patterned display wall with hexagonal compartments, each containing a labeled chemical element or related item, such as aluminum, chlorine, and selenium, with some items in jars or bottles. Photograph read: The composition is a close-up of a repeating geometric pattern with evenly spaced hexagonal cells. Lighting is bright and uniform within the compartments, creating high contrast between the illuminated interiors and the darker frame. The rendering is sharp within the cells, with clear text and object outlines visible. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the honeycomb wall is the find of the day - every hexagon lit up with a different element, jars and bottles tucked inside like specimens. Which cell did you linger on longest?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzIYIlGxA",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "unclediss",
@@ -292,10 +348,21 @@
           "photos": [
             "Description: The photograph shows a black-and-white, low-angle view of a multi-story, curved parking structure with repeating circular bays, some containing vehicles and others appearing empty or dark. Photograph read: The image is composed with strong vertical and horizontal repetition, emphasizing the building\u2019s geometric rhythm. Lighting is high-contrast, with bright white structural elements and deep shadows within the bays. Rendering is monochromatic, with no visible color information. Photo type: Architectural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Row after row of curved bays, and the cars parked inside them give the whole tower its scale. The black and white turns it into pure rhythm.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzJUjG86o",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tallymountain",
@@ -307,10 +374,21 @@
           "watch_outs": [
             "- High contrast and saturation obscure fine leaf texture in the central fiddleheads and along the frond edges. - Dew droplets appear as overexposed, bright spots rather than distinct, readable water beads."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How many fiddleheads are still curled up in there? The fronds fan out in every direction, dew beading on every one of them.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzKLnm8ON",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ericpalonen",
@@ -322,10 +400,21 @@
           "watch_outs": [
             "The bird is small and lacks discernible features due to low resolution and distance. The ripples are uniform and lack fine detail, making the water surface appear smooth and non-textured."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The water is all fine parallel lines, and then one tiny bird right in the middle of it. Was the bird the shot, or did the ripples pull you in?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzLGiFKj9",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mannydr",
@@ -334,10 +423,21 @@
           "photos": [
             "Description: Two individuals are present in a room with vertical wooden slats as a background; one stands holding a phone, the other sits at a table facing away, also holding a phone. Photograph read: The image features strong vertical lines from the background slats, with warm, directional lighting casting shadows. The standing person is partially illuminated, while the seated person is in silhouette. The table holds a bottle, glasses, and a cup, but no sharp focus or depth-of-field blur is evident. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The slats run top to bottom like a warm sunset, and the two of them are both lost in their phones in front of it. Did anyone in the room notice the wall at all?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgJzPJMlm1z",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "rmeyerconsulting",
@@ -414,10 +514,21 @@
                   "text": "I shoot the wave one first.",
                   "permalink": "https://www.threads.com/@caelian_kwon/post/DgJYvuVhYI8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The wavy one first, then - a fine order to shoot them in.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJzQRKDtDv",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -448,10 +559,21 @@
                   "text": "Thank you so much! Yours was a good prompt, exemplified by your own fine image.",
                   "permalink": "https://www.threads.com/@riverbedsky2229/post/DgJd-eFDc2z",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Kind words - the pavement earned them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJzRXtEaCo",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -528,10 +650,21 @@
                   "text": "Going down was part of the tour of the Heritage House. Intentionally fell behind the tour group so I could take a shot of the stair's detailed steps.",
                   "permalink": "https://www.threads.com/@posts.by.norman/post/DgJZSuGn2c2",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Falling behind the tour for the shot - that is exactly how the good frames happen.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJzSaMFjZA",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -822,10 +955,21 @@
                   "text": "Etched into the glass are the numbers of each life lost. As you walk through each tower you can see these numbers. It\u2019s beautiful but also sad to see how many lives were lost.",
                   "permalink": "https://www.threads.com/@luvsravens59/post/DgJd10uDZUl",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A heavy count to carry, and a beautiful way to hold it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJzTUEFj3-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1405,10 +1549,21 @@
                   "text": "It\u2019s a decorative screen on a parking garage at San Diego airport. There are other colors so people can find their cars.",
                   "permalink": "https://www.threads.com/@ladenizen2/post/DgJr2hHEXdh",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A garage that color-codes the way home - practical and pretty at once.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJzXfpFns4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1696,10 +1851,21 @@
                   "text": "This is Karnak in Luxor.",
                   "permalink": "https://www.threads.com/@pappaga11a/post/DgJdLcdFM10",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Karnak, then - a row of pharaohs worth the journey.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgJzYlojl4s",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
