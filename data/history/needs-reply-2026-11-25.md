@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (32)
 
 ### Pattern Tuesday favorites 🏆 5 patterns that stopped my scro… ([thread](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4))
 - **jphbb**: This was Veteran’s day in NYC. I’m so glad you liked it. ([link](https://www.threads.com/@jphbb/post/DgKfo-xlZ-f))
@@ -47,6 +47,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
+- **ericpalonen**: It's a tiny leaf. The ripple pattern pulled the eye ([link](https://www.threads.com/@ericpalonen/post/DgKkRNikTTw))
+  - _Replying to: The water is all fine parallel lines, and then one tiny bir…_
 - **rmeyerconsulting**: It’s the sky bridge connecting the OHSU tram to the building in Portland, OR. ([link](https://www.threads.com/@rmeyerconsulting/post/DgKKKuzG57j))
   - _Replying to: A whole walkway of X-braces and floor diamonds, and then on…_
 - **shiawasemainichi5**: Thank you so much. This is Tokyo Tower. It's a beautiful symbol of Tokyo. I like both color and black and white photos.🗼😊 ([link](https://www.threads.com/@shiawasemainichi5/post/DgKXvLPE4ej))

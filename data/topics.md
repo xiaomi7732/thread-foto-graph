@@ -2,7 +2,7 @@
 
 _Compact, actionable-first view: only replies still awaiting a response are shown in full, marked **[NEEDS REPLY]** (photo, question, or substantive text) or **[NEEDS LIKE]** (short acknowledgement or common thanks/praise). Already-answered replies collapse to a count -- see the linked archive for the complete conversation._
 
-## Topic: photograph, image, pattern, lighting
+## Topic: photograph, pattern, image, lighting
 
 - **Thread** [18138351349788936](https://www.threads.com/@saars.foto/post/DgKAo7jlpa4): Pattern Tuesday favorites 🏆 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/
   - Photo: Description: The photograph shows a modern, curved architectural structure with a lattice-like, honeycomb pattern, set against a clear blue sky, with a staircase and railings in the foreground. Photograph read: The image is taken from a low angle, emphasizing the structure’s upward curve. Bright sunlight illuminates the scene, casting distinct shadows within the lattice. The structure’s surface appears smooth and uniform, with no visible texture or surface imperfections. The staircase and railings are in sharp focus relative to the background. Photo type: Architectural
@@ -50,6 +50,10 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Reply by saars.foto: Is the whole orchard in bloom like this, or just the row across the street? The white blossom over those dark trunks reads like snow that forgot to melt. ([link](https://www.threads.com/@saars.foto/post/DgJzHY2m-5l))
       - **[NEEDS REPLY]** Reply by christinabreitenfeldt: But they blossom south to north. My daughter lives about 50 miles south of us and I can watch them blossom from her place to mine ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ9T3AG9UR))
       - **[NEEDS REPLY]** Reply by christinabreitenfeldt: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
+  - Reply by ericpalonen:  ([link](https://www.threads.com/@ericpalonen/post/DgJeJ6VkbSN))
+    - Photo: Description: A small, dark object, likely a bird, is visible in mid-air above a body of water with concentric ripples radiating outward. The water surface dominates the frame, with a gradient from darker to lighter tones. Photograph read: The image is composed with the bird centered horizontally but low in the frame, against a textured water surface. Lighting is diffuse, casting minimal contrast. The rendering is uniform, with no visible lens distortion or chromatic aberration. Photo type: Aerial or drone shot
+    - Reply by saars.foto: The water is all fine parallel lines, and then one tiny bird right in the middle of it. Was the bird the shot, or did the ripples pull you in? ([link](https://www.threads.com/@saars.foto/post/DgJzLGiFKj9))
+      - **[NEEDS REPLY]** Reply by ericpalonen: It's a tiny leaf. The ripple pattern pulled the eye ([link](https://www.threads.com/@ericpalonen/post/DgKkRNikTTw))
   - Reply by rmeyerconsulting:  ([link](https://www.threads.com/@rmeyerconsulting/post/DgJT7gxGPI5))
     - Photo: Description: A long, covered pedestrian walkway with a geometrically patterned floor and white structural supports, viewed from the center looking down its length toward a distant, indistinct end. A single person with luggage is visible in the far distance. Photograph read: The image is taken from a low angle looking down a linear corridor, with repeating structural elements creating strong leading lines. Lighting is diffuse and even, with reflections visible on the glossy floor. The image has a slightly soft focus, and the far end is indistinct. Photo type: Architectural
     - Reply by saars.foto: A whole walkway of X-braces and floor diamonds, and then one traveler with a red case walking away down the middle of it. Where does it come out at the far end? ([link](https://www.threads.com/@saars.foto/post/DgJYMloFkRJ))
@@ -178,7 +182,7 @@ _Compact, actionable-first view: only replies still awaiting a response are show
     - Photo: Description: The image shows a dimly lit interior staircase or corridor with angular concrete walls and a single illuminated triangular section on the upper wall, casting a warm, orange glow. Photograph read: The composition is dominated by geometric angles and shadows, with a single light source illuminating a narrow triangular area. The rendering is low-contrast, with deep shadows obscuring most of the scene. The texture of the walls is visible in the lit area but not elsewhere. Photo type: Architecture
   - Reply by saars.foto: Yesterday's favorites are up - Minimal Friday's best, featured here: https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn ([link](https://www.threads.com/@saars.foto/post/DgIOYQ_Gykv))
     - **[NEEDS LIKE]** Reply by pattykl: Beautiful selection ([link](https://www.threads.com/@pattykl/post/DgKD7LzldTf))
-  _(+302 more replies elsewhere in this thread already answered, see [full thread](threads/18109143851249248.md))_
+  _(+300 more replies elsewhere in this thread already answered, see [full thread](threads/18109143851249248.md))_
 
 ## Topic: thank, congratulations, 500, appreciate
 
