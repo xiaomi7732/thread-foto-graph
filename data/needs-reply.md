@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (21)
+## Needs Reply (20)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
+- **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/DgKH0mtisbT))
+  - Photo: Description: A light pink crocheted shawl with a triangular shape and decorative lace border lies flat on a glass table with a wooden frame. In the background, a wooden cabinet with a glass-fronted section is partially visible. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting. The shawl’s texture and crochet patterns are visible, though not sharply defined. A circular object with a bright reflection is positioned near the bottom right of the shawl. Photo type: Still life
+    - Watch-outs: - The bottom right corner of the shawl is partially obscured by a bright, reflective circular object, reducing visibility of the pattern there. - The glass table surface reflects ambient light, creating a glare that slightly reduces contrast and detail in the foreground area.
 - **camera_clare**:  ([link](https://www.threads.com/@camera_clare/post/DgJ-ztjEdWC))
   - Photo: Description: The photograph shows a corner of an interior space featuring a white radiator mounted on a wall, a decorative white iron staircase balustrade with a dark handrail, and a black-and-white geometric tiled floor. Photograph read: The image is in black and white, with strong contrast between the dark tiles and light floor patterns. The composition is angled, emphasizing the diagonal lines of the floor and the staircase. Lighting appears to come from the upper left, casting shadows from the radiator and balustrade. The image has no visible signs of motion blur, focus issues, or chromatic aberration. Photo type: Architectural
 - **maxieellia**:  ([link](https://www.threads.com/@maxieellia/post/DgJ7qkgERuq))
@@ -59,10 +62,4 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### 500 followers, and 100k views this month. I would count the… ([thread](https://www.threads.com/@saars.foto/post/DgAxW2CmI-o))
 - **2killamockingbird**: You too my friend 🧡 ([link](https://www.threads.com/@2killamockingbird/post/DgAx8PhALWu))
   - _Replying to: Thank you Dee! Have a good weekend!_
-
-### Minimal Friday favorites 🏆 6 quiet frames that stopped my s… ([thread](https://www.threads.com/@saars.foto/post/Df_0VE8Fhmn))
-- **camaze**: Thank you so much for the recognition ([link](https://www.threads.com/@camaze/post/DgBRGoLo6PI))
-  - _Replying to: A place worth returning to, and a photo worth keeping. Than…_
-- **rickthomas742**: lol I know. The plane is the star (pun intended!). 😉 ([link](https://www.threads.com/@rickthomas742/post/DgAwBq6GDJS))
-  - _Replying to: Decent shot! I am glad you didn’t crop the plane out 👍_
 
