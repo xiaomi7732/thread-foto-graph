@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (28)
+## Needs Reply (30)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgK5opFmFeR))
+  - Photo: Description: A tabby cat with large, round eyes and a short tail is positioned on a light-colored wooden floor, peeking over the edge of a dark, textured rug. A human hand is partially visible near the rug’s edge. Photograph read: The image is taken from a high angle, looking down at the cat. The lighting is even and bright, illuminating the cat’s features and the floor. The cat’s face and eyes are in focus, while the rug’s texture and the hand are less sharp. The composition is framed by the rug’s edge, creating a diagonal division. Photo type: Portrait
+    - Watch-outs: The cat’s face is partially obscured by the rug’s edge, limiting visibility of its whiskers and nose. The hand’s fingers are slightly out of focus, reducing detail in that area.
+- **p2tlushamiza**:  ([link](https://www.threads.com/@p2tlushamiza/post/DgK5m5mk1_l))
+  - Photo: Description: A close-up photograph of a cat’s face, showing one eye, part of the nose, and surrounding fur in black, white, and gray tones. Photograph read: The eye is in focus with visible iris detail and pupil, surrounded by textured fur and whiskers. Lighting is even, with no obvious shadows or overexposure. The image has a shallow depth of field, with the background blurred and the foreground subject sharp. Photo type: Portrait
 - **mojochix**: Happy elevator panel. ([link](https://www.threads.com/@mojochix/post/DgK5Zq3kRRD))
   - Photo: Description: The image shows a metallic surface with two circular arrays of perforations and a dark rectangular panel below, which contains a small red light. Photograph read: The surface has a warm, gradient lighting effect, with the upper portion brighter than the lower. The perforated circles are evenly spaced and symmetrical, while the panel below is mostly dark with a single illuminated point. Photo type: Functional
     - Watch-outs: - The dark rectangular panel is underexposed, obscuring any readable details or text. - The small red light is isolated and lacks context, making its function or associated interface elements indiscernible.
