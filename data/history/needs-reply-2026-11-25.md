@@ -4,31 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (23)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- **docnyberg**: What You looking’ at ? ([link](https://www.threads.com/@docnyberg/post/DgLD_GBiJAM))
-  - Photo: Description: A seagull with white plumage, a yellow beak, and dark wingtips stands on a dark surface against a clear blue sky with scattered clouds. A distant crane and rooftops are visible in the background. Photograph read: The subject is in focus and well-lit, with natural daylight illuminating the bird’s features. The background shows soft cloud formations and distant structures. The image has no visible signs of motion blur, overexposure, or underexposure. Photo type: Natural
-- **hannele.heikkinen**:  ([link](https://www.threads.com/@hannele.heikkinen/post/DgLDv4kDsX2))
-  - Photo: Description: A close-up view of a partially frozen water surface, with a large, dark, irregularly shaped ice formation dominating the left side, surrounded by frost-covered vegetation and scattered debris. Photograph read: The image is composed with a shallow depth of field, focusing on the ice and surrounding frost. Lighting is diffuse, casting muted tones across the scene. Rendering shows visible texture in the ice and frost, with some areas appearing slightly overexposed or washed out. Photo type: Natural
-    - Watch-outs: - The ice formation’s surface is partially obscured by reflections and trapped debris, reducing clarity of its internal structure. - Frost patterns on the right edge are overexposed and appear grainy, limiting fine detail discernment.
-- **syldelteglia**:  ([link](https://www.threads.com/@syldelteglia/post/DgLCVA8HL3G))
-  - Photo: Description: A graffiti-style mural depicts a human face partially obscured by vertical bars, rendered in rust-orange tones, superimposed on a rectangular metal panel that resembles a door. The panel is inset into a plain, off-white wall with a dark blue lower section. Photograph read: The image is composed with the panel centered, showing a single visible eye and part of the nose and mouth. Lighting is even and diffuse, casting minimal shadows. The rendering is flat with visible texture, including a circular lock detail and faded lettering at the bottom. Photo type: Street art
-    - Watch-outs: The face’s features are partially obscured by the bars, limiting facial detail visibility. The lettering at the bottom of the panel is partially faded and indistinct, reducing readability.
-- **auerbach_art**:  ([link](https://www.threads.com/@auerbach_art/post/DgK-8TGFgSF))
-  - Photo: Description: Two illuminated, egg-shaped objects rest on a textured surface against a dark blue sky, with a faint horizon line and distant silhouette visible in the background. Photograph read: The foreground surface is in focus, showing texture and light reflection; the two glowing objects are softly lit and appear slightly out of focus relative to the foreground. The background is dark and indistinct, with a thin horizontal blue line suggesting a distant feature or edge. Photo type: Still life
-- **camaze**: Strip District Pittsburgh ([link](https://www.threads.com/@camaze/post/DgK-4plEQiM))
-  - Photo: Description: A large mural depicting a human face, focusing on the eyes and upper forehead, is painted on a brick wall. A red fabric or tarp covers the lower foreground, partially obscuring the view. Photograph read: The image is taken from a low angle, capturing the mural’s upper portion against a plain sky and overhead wires. Lighting is diffuse and even, with no strong shadows or highlights. The mural’s rendering shows visible brushstrokes and texture, with the brick wall surface showing through the paint. Photo type: Street photography
-    - Watch-outs: The lower foreground is obscured by a red tarp, hiding the mural’s base and preventing full context. The mural’s right eye is partially cut off by the tarp’s edge, limiting visibility of the subject’s facial expression.
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
-- **deputysec**: No. I was shooting people going to the blue protests 🪧☺️. She just was perfect for the background .i came back a few months later and it was gone 😔 ([link](https://www.threads.com/@deputysec/post/DgLAt_1lXSP))
-  - _Replying to: She is still watching over the street in the second one, at…_
-- **jh1962bike**: Just caught my eye 😊 ([link](https://www.threads.com/@jh1962bike/post/DgLDGx5CCQx))
-  - _Replying to: That painted eye turns a record into a stare - pink and bla…_
-- **bendlesmaid269**: He stayed there and fell fast asleep ([link](https://www.threads.com/@bendlesmaid269/post/DgLDAS_EeCr))
-  - _Replying to: That look over the paw says it all - half asleep, fully kee…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
