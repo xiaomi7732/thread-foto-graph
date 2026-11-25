@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **marysticht79**:  ([link](https://www.threads.com/@marysticht79/post/DgKH0mtisbT))
@@ -23,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
 - **christinabreitenfeldt**: When the blossoms fall it looks like snow. ([link](https://www.threads.com/@christinabreitenfeldt/post/DgJ5lEKG3Ze))
   - _Replying to: Is the whole orchard in bloom like this, or just the row ac…_
+- **rmeyerconsulting**: It’s the sky bridge connecting the OHSU tram to the building in Portland, OR. ([link](https://www.threads.com/@rmeyerconsulting/post/DgKKKuzG57j))
+  - _Replying to: A whole walkway of X-braces and floor diamonds, and then on…_
 - **shel_bee_g**: Last one, same trestle ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
   - Photo: Description: A long, dark silhouette of a bridge spans a body of water at sunset, with the sun low on the horizon behind it, casting golden reflections on the water and illuminating clouds above. Photograph read: The bridge’s structure is sharply defined against a sky transitioning from deep blue to golden orange near the horizon. The water reflects the bridge’s pillars and the sun’s glow, with some ripples distorting the reflections. Clouds are illuminated from below, creating contrast with the darker sky above. Photo type: Landscape
   - _Replying to: A second view and the reflection doubles the whole trestle …_
