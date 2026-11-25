@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (20)
+## Needs Reply (21)
 
 ### Pattern Tuesday 🔷 Patterns hide in plain sight - today's pr… ([thread](https://www.threads.com/@saars.foto/post/DgIOPVlGyZo))
 - **the.dobson.collective**:  ([link](https://www.threads.com/@the.dobson.collective/post/DgJ06GiiPdJ))
@@ -32,6 +32,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The beams run like ribs across the walkway, and the arches …_
 - **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
   - _Replying to: I found them. I believe some sort of burrowing sea creature…_
+- **de_wanderer_soul**: Thanks, saw it while getting down the stairs, clicked it from lower part of the stairs ([link](https://www.threads.com/@de_wanderer_soul/post/DgJ2tGCiIEH))
+  - _Replying to: Hundreds of glowing spheres, hanging in rings and spilling …_
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
   - Photo: Description: A sepia-toned photograph shows a large, modern architectural structure with a prominent angular roof supported by slender pillars, surrounded by a crowd of pedestrians on a paved plaza. In the background, urban buildings are visible under an overcast sky. Photograph read: The image is rendered in monochrome with a flat, even exposure. The composition is dominated by the building’s sweeping roofline, with the crowd and background buildings receding into the frame. Lighting is diffuse, lacking strong directional highlights or shadows. The image has a moderate level of detail, but lacks sharpness in the foreground and midground. Photo type: Architectural
   - Photo: Description: An overhead, black-and-white view of a crowded indoor dining area with numerous round tables and seated patrons, framed by curved architectural elements on the left and right. Photograph read: The image is composed with a high-angle perspective, showing a grid of tables and chairs with people seated. Lighting is even across the scene, with no obvious shadows or highlights suggesting a specific light source. The rendering is monochromatic, with no visible color information. Photo type: Architectural interior
