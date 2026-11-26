@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (34)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **smilingjeannie**: Sadly not. We spent the day on a boat cruising through the Delta and saw so many abandoned and deteriorating boats. Most of the residents, young ones, have moved to the “big city - Saigon” as the old ways of life and making a living in the Delta have disappeared. ([link](https://www.threads.com/@smilingjeannie/post/DgLom4KEvmz))
@@ -27,6 +27,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
+- **mssapi_**: Less than a minute, i think. I passed by it and when i turn right the cat was there, looking at me. Luckily my camera was ready so i imdtly click the pic 😉 ([link](https://www.threads.com/@mssapi_/post/DgLwbTKkwim))
+  - _Replying to: A green-eyed stare through a round window in the metal - th…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
