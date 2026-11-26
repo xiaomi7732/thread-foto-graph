@@ -4,7 +4,18 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (35)
+
+### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
+- **ben.bennion**: Checking my photos two of these were on the same street , could I find it again I doubt it . We got lost so many times but we had all week . We stayed in the flat belonging to a friend of a friend who lives there ([link](https://www.threads.com/@ben.bennion/post/DgMtVqYghnN))
+  - Photo: Description: A polished wooden object with a curved, asymmetrical shape and a horizontal metallic strip is placed on a flat, dark green surface. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional light. The subject is in focus, with clear wood grain and the metallic strip’s reflective surface. The background is uniformly textured and unobtrusive. Photo type: Still life
+  - Photo: Description: A circular, weathered metal plaque is mounted on a peeling teal-painted wooden door, which is set within a worn frame; the plaque features abstract geometric and possibly symbolic cutouts and textures. Photograph read: The image is captured with even, diffuse lighting, showing no obvious shadows or highlights. The composition centers the plaque, with the door’s vertical planks and frame framing it. The rendering is clear enough to discern surface textures and paint degradation, but lacks sharpness in fine details. Photo type: Documentary
+    - Watch-outs: The plaque’s surface shows significant patina and wear, obscuring fine textures and engraved details. The paint on the door is peeling and flaking, particularly on the left side, reducing surface clarity and revealing underlying wood.
+  - Photo: Description: The image shows a close-up of an ornate, dark wooden door composed of square panels, some carved with floral or geometric patterns, featuring a metal ring pull and a small barred window. Photograph read: The composition is a grid of square panels with varying degrees of carving and wood tone. Lighting is even across the surface, with no visible shadows or highlights indicating a specific light source. The rendering is sharp enough to discern carved details and the texture of the wood. Photo type: Architectural detail
+  - Photo: Description: The photograph shows a large, conical, weathered chimney or vent structure rising from a tiled roofline of aged buildings under a clear blue sky. The buildings exhibit worn stucco and brickwork with visible windows and roof details. Photograph read: The image is taken from a low angle, emphasizing the chimney against the sky. Lighting is bright and direct, casting clear shadows. The rendering is sharp on the chimney and adjacent roof elements, with no visible motion blur or focus issues. Photo type: Architectural
+  - _Replying to: @ben.bennion The middle slide of the Looking Back Wednesday…_
+- **ben.bennion**: No I was there a week and took many photos . They have weird chimneys I hadn’t seen before and door knobs always I find interesting . ([link](https://www.threads.com/@ben.bennion/post/DgMrH5VAg-T))
+  - _Replying to: @ben.bennion The middle slide of the Looking Back Wednesday…_
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **monaw17**: I should look so good 😁 ([link](https://www.threads.com/@monaw17/post/DgMeY2UFNIC))
