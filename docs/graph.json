@@ -10,7 +10,7 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 89,
+      "reply_count": 90,
       "replies": [
         {
           "username": "bojonvelvet2.0",
@@ -382,10 +382,21 @@
           "watch_outs": [
             "- The object\u2019s upper section, including the scissors and wire coil, is partially obscured by rust and debris, reducing clarity of mechanical details. - The background is out of focus, limiting context and depth perception for the object\u2019s spatial relationship to its environment."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole little world of rust and wire in one handful, and the scissors on top look like they are listening in. What was the strangest thing you pulled out of the ash?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNtst-lAH7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sue_wigs",

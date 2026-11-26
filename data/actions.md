@@ -6,14 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (44)
+## Needs Reply (43)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgNrOKto1Ub))
   - Photo: Description: A close-up shot of a pile of fresh radishes with their green leafy tops and fine root hairs visible, set against a dark background with a hint of yellow vertical structure in the upper portion. Photograph read: The image is composed with a shallow depth of field, focusing on the radishes in the foreground. Lighting is direct and bright, creating strong highlights on the radish skins and casting shadows in the crevices. The rendering preserves surface texture and color saturation, with some areas of the radishes appearing overexposed. Photo type: Still life
-- **dianelynnturnbull**: These are things I picked up on the camp property as we were cleaning up after the Oregon fires in 2020. ([link](https://www.threads.com/@dianelynnturnbull/post/DgNeYUQFHRx))
-  - Photo: Description: A hand holds a corroded, rusted object that appears to be a modified or damaged grenade, featuring a bottle-like body, a wire coil, and a pair of scissors attached to its top, set against a blurred outdoor background of grass and dirt. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the foreground object and the background. The focus is centered on the object, though some parts are slightly soft. The rendering preserves surface textures and rust patterns, with no visible signs of motion blur or lens distortion. Photo type: Documentary
-    - Watch-outs: - The object’s upper section, including the scissors and wire coil, is partially obscured by rust and debris, reducing clarity of mechanical details. - The background is out of focus, limiting context and depth perception for the object’s spatial relationship to its environment.
 - **sue_wigs**: Got a feeling they are in there 24 hrs. ([link](https://www.threads.com/@sue_wigs/post/DgNj2jgCCfC))
   - _Replying to: Row after row of kippers hung up in the dark like laundry o…_
 - **difishing**: Down stream shot looking back up ([link](https://www.threads.com/@difishing/post/DgNeECflvDM))
