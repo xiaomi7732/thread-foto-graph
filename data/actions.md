@@ -6,11 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (41)
+## Needs Reply (43)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **nimaalaa1**: Life is beautiful 🤗💕 ([link](https://www.threads.com/@nimaalaa1/post/DgNdBRyCGan))
+  - Photo: Description: A dense arrangement of various flowers in multiple colors, including roses, hydrangeas, dahlias, and purple spikes, displayed in metal buckets on a surface. Photograph read: The image is brightly lit with even illumination across the floral subjects. The composition is tightly packed, with no visible depth of field blur or motion blur. Rendering is sharp enough to discern individual petals and leaf structures. Photo type: Floral still life
 - **resnicklr**:  ([link](https://www.threads.com/@resnicklr/post/DgNcsbgDR1C))
   - Photo: Description: A pile of colorful, mostly spherical buoys and some rectangular floats rests on a grassy field, with a thin stick or rod lying among them. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting. The buoys are in focus, though some are partially obscured by overlapping or grass. The grass shows natural texture and variation in green and brown tones. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Documentary
+- **difishing**: Its fall and leaves been accumulating last couple of weeks. Natural Dam is what it’s called in the town of Natural Dam Arkansas. My grandfather was born in the area and was the last of 11 kids. Been 30 years since i had last seen the place. ([link](https://www.threads.com/@difishing/post/DgNdN7LliOw))
+  - _Replying to: Is that one bright yellow leaf the whole reason you stopped…_
 - **brownmgjmu**: Childhood memories ([link](https://www.threads.com/@brownmgjmu/post/DgNa7X4jdq9))
   - Photo: Description: A collage of numerous vintage photographs depicting children, families, and domestic scenes from various eras, including holiday gatherings, portraits, and outdoor settings. Photograph read: The images vary in color saturation, contrast, and resolution; some are in color, others in black and white, with inconsistent sharpness and exposure. Many show signs of aging, such as fading, creasing, or slight discoloration. Photo type: Vintage family album collage
     - Watch-outs: - Multiple images show faded or washed-out color, particularly in the upper right quadrant where a child in a light dress appears indistinct. - Several photographs exhibit visible creases or paper damage, especially along the edges of the lower-left and center images, affecting legibility of subjects.
