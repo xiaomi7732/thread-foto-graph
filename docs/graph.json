@@ -1,6 +1,81 @@
 {
   "nodes": [
     {
+      "id": "18132221831491360",
+      "label": "photograph, photo, visible, image",
+      "group": 0,
+      "snippet": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my \u2026",
+      "text": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my scroll: Jean Hinkle Klele @smilingjeannie - painted boat eyes @ranbalam - sunflower face @ben.bennion - Venice doorbell face @jessgperry - bubble in the fountain @walter.wilkes - binocular viewer Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgMjBkqJnRO/",
+      "permalink": "https://www.threads.com/@saars.foto/post/DgMjQrmEZy5",
+      "photos": [
+        "Description: A weathered wooden boat with a painted red bow featuring stylized eyes and an anchor emblem is moored in a green, plant-filled waterway, with another vessel and tree branches visible in the background. Photograph read: The image is taken in daylight with even, diffused lighting; the composition places the boat\u2019s bow prominently in the foreground, with foliage and water in the midground. The rendering preserves surface textures and color contrasts without visible distortion or compression artifacts. Photo type: Documentary",
+        "Description: The photograph shows several sunflowers in full bloom, with large yellow petals and dark centers, set against a clear blue sky and green foliage. A utility pole and wires are visible in the background, along with a white structure at the bottom right. Photograph read: The image is taken from a low angle, with the sunflowers occupying the foreground. Lighting is bright and direct, casting shadows on the leaves and flowers. The rendering appears natural, with no visible signs of digital artifacts or distortion. Photo type: Natural",
+        "Description: A stone-faced intercom or mail slot with two brass-rimmed eyes and a perforated nose, mounted in a weathered stone wall; two rusted, perforated metal discs are visible to the left. Photograph read: The image is in sharp focus, with even, diffuse lighting that illuminates the textures of the stone and metal. The composition is centered on the intercom face, with no visible lens distortion or color aberration. Photo type: Documentary",
+        "Description: The image shows a close-up of a soap bubble with a ring of smaller bubbles around its circumference, reflecting iridescent colors and distorted reflections of an outdoor scene. Photograph read: The composition is centered on the bubble, with the background exhibiting strong chromatic refraction patterns. Lighting appears to be diffuse, illuminating the bubble\u2019s surface evenly without harsh shadows. Rendering shows surface detail, including the texture of the bubble film and the specular highlights on the smaller droplets. Photo type: Macro",
+        "Description: A black-and-white photograph features a close-up of a public binocular viewer in the foreground, with a sailboat on a body of water and a tree-lined shore in the background. Photograph read: The image is composed with the binoculars framing the view, using a shallow depth of field that renders the background relatively sharp. Lighting is even and diffused, with no visible shadows or harsh highlights. The rendering is monochrome, preserving tonal gradation without color information. Photo type: Black-and-white still life"
+      ],
+      "watch_outs": [
+        "",
+        "",
+        "",
+        "- The bubble\u2019s surface shows visible surface texture and small droplets, but the reflections are distorted and not clearly identifiable due to curvature and refraction. - The background exhibits strong color fringing and pattern distortion, which obscures any discernible environmental context.",
+        ""
+      ],
+      "reply_count": 5,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "@smilingjeannie Your painted boat opens the Looking Back Wednesday favorites - those red bow eyes watching the river. Did you see other boats on the Delta still carrying eyes like that?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgMjd6LldXD",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@ranbalam Slide two of the Looking Back Wednesday favorites is your sunflower face - two blooms for eyes, the nodding one underneath for a mouth. When did the face first show itself to you: out in the garden, or later in the photo?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgMjcfcEdY7",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@ben.bennion The middle slide of the Looking Back Wednesday favorites is your Venice doorbell - brass bells for eyes and a mail slot for a mouth. Was it a street you know, or a wrong turn that paid off?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgMjanRmyJu",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@jessgperry Slide four of the Looking Back Wednesday favorites is your bubble in the tiled fountain - it even caught your peace sign in the reflection. How many bubbles did you go through before one held still for you?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgMjTxPmx-F",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@walter.wilkes Your binocular viewer closes the Looking Back Wednesday favorites - two lenses for eyes and a sailboat sitting right in its grin. Did you wait for the boat to drift into place, or was it already there when you looked?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgMjSMHEZ0p",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "18079101221478599",
       "label": "photograph, photo, visible, image",
       "group": 0,
@@ -6992,11 +7067,15 @@
   ],
   "edges": [
     {
-      "from": "18079101221478599",
+      "from": "18132221831491360",
+      "to": "18079101221478599"
+    },
+    {
+      "from": "18132221831491360",
       "to": "18138351349788936"
     },
     {
-      "from": "18079101221478599",
+      "from": "18132221831491360",
       "to": "18109143851249248"
     }
   ]
