@@ -10,8 +10,20 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 90,
+      "reply_count": 92,
       "replies": [
+        {
+          "username": "akmaleky",
+          "text": "",
+          "permalink": "https://www.threads.com/@akmaleky/post/DgNuKYRn8A9",
+          "photos": [
+            "Description: A green wire mesh enclosure contains a large pile of discarded plastic bottles and containers, with various caps and labels visible. Photograph read: The image is composed of a close-up, grid-patterned foreground with a dense mass of plastic waste behind it. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual bottles and caps, though some labels are partially obscured. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "bojonvelvet2.0",
           "text": "",
@@ -394,7 +406,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "dianelynnturnbull",
+                  "text": "I can't recall anything strange but some things that were certainly unexpected. A year or so ago I found a brush covered set of stairs...",
+                  "permalink": "https://www.threads.com/@dianelynnturnbull/post/DgNuYkzEvP6",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
