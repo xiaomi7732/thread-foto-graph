@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (52)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **glendagh25**: The herding dog is just out of frame ([link](https://www.threads.com/@glendagh25/post/DgNlK1Lj50H))
@@ -29,6 +29,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Row after row of kippers hung up in the dark like laundry o…_
 - **sue_wigs**: Got a feeling they are in there 24 hrs. ([link](https://www.threads.com/@sue_wigs/post/DgNj2jgCCfC))
   - _Replying to: Row after row of kippers hung up in the dark like laundry o…_
+- **jh1962bike**: Real hats on a board . It was on a construction site , so I don’t know if the workers were just having fun with their hats or what ?? ([link](https://www.threads.com/@jh1962bike/post/DgNmcgFiFBd))
+  - _Replying to: That deep red one at the top left is doing all the talking,…_
 - **difishing**: Down stream shot looking back up ([link](https://www.threads.com/@difishing/post/DgNeECflvDM))
   - Photo: Description: A shallow, slow-moving stream with a low stone weir reflects the overcast sky and autumnal trees lining its banks, which display muted orange, yellow, and brown foliage. Photograph read: The image is captured under diffuse, even lighting from an overcast sky, with muted tones and soft contrast. Reflections in the water are visible but slightly distorted. The composition is centered on the stream and weir, with trees framing the scene. No signs of motion blur, chromatic aberration, or lens distortion are evident. Photo type: Natural landscape
   - _Replying to: Is that one bright yellow leaf the whole reason you stopped…_
