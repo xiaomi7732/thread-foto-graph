@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (45)
+## Needs Reply (42)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **jh1962bike**: Hard hats ([link](https://www.threads.com/@jh1962bike/post/DgNbngCCHJV))
+  - Photo: Description: The image displays a collection of red and yellow hard hats arranged on a textured, dark gray surface with streaks of white and red paint. Photograph read: The hard hats are centrally composed, with varied orientations and slight surface reflections. The background shows vertical streaks and splatters, suggesting paint application. Lighting is even across the scene, with no visible shadows or highlights indicating a specific light source. Photo type: Still life
 - **difishing**:  ([link](https://www.threads.com/@difishing/post/DgNbHe6FnhZ))
   - Photo: Description: A shallow, clear body of water is filled with floating autumn leaves and green aquatic plants, with tree-lined banks in the background under an overcast sky. Photograph read: The image has a low-contrast, muted color palette with diffuse lighting. Reflections of trees and leaves are visible on the water’s surface, and the water’s clarity allows for viewing submerged debris. The composition is centered on the water’s surface, with the background trees appearing slightly out of focus. Photo type: Natural landscape
 - **auerbach_photos**:  ([link](https://www.threads.com/@auerbach_photos/post/DgNbEDhlsA4))
@@ -14,16 +16,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **brownmgjmu**: Childhood memories ([link](https://www.threads.com/@brownmgjmu/post/DgNa7X4jdq9))
   - Photo: Description: A collage of numerous vintage photographs depicting children, families, and domestic scenes from various eras, including holiday gatherings, portraits, and outdoor settings. Photograph read: The images vary in color saturation, contrast, and resolution; some are in color, others in black and white, with inconsistent sharpness and exposure. Many show signs of aging, such as fading, creasing, or slight discoloration. Photo type: Vintage family album collage
     - Watch-outs: - Multiple images show faded or washed-out color, particularly in the upper right quadrant where a child in a light dress appears indistinct. - Several photographs exhibit visible creases or paper damage, especially along the edges of the lower-left and center images, affecting legibility of subjects.
-- **syldelteglia**: Moroccan roses in the zoco. ([link](https://www.threads.com/@syldelteglia/post/DgNa5oaHPrB))
-  - Photo: Description: The photograph shows a close-up of numerous dried rose buds and petals, predominantly in shades of purple and pink, with some green sepals and stems visible. Photograph read: The image is a close-up shot with no apparent depth of field, showing the subject in relatively even illumination without strong directional light or shadows. The rendering is consistent with a standard digital capture, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro
-- **suz_sharperphotos**: Nature’s gathering. Beautiful rocks on a beach - one of my favorite things. ([link](https://www.threads.com/@suz_sharperphotos/post/DgNZ_9hETbz))
-  - Photo: Description: The photograph shows a close-up view of smooth, rounded pebbles of various colors and sizes partially submerged in shallow, flowing water, with visible ripples and bubbles on the surface. Photograph read: The composition is a low-angle close-up with shallow depth of field, focusing on the pebbles in the foreground while the water and background pebbles are softer. Lighting is natural and diffused, creating highlights on wet surfaces and subtle shadows. The rendering is clear on the foreground pebbles, but the water surface and distant pebbles show motion blur and reduced sharpness. Photo type: Macro
-- **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/DgNZyvsIMls))
-  - Photo: Description: The photograph shows a collection of pumpkins and gourds of various sizes and colors, arranged on and around hay bales, suggesting a fall market or farm display. Photograph read: The image is a wide, horizontal shot with even, diffuse lighting. The pumpkins are clustered in the foreground and midground, with hay bales serving as a base and separator. The rendering is flat, with no visible depth-of-field effects or lens distortion. Photo type: Still life
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
   - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
-- **jdicillo**: Rochester Public Market ([link](https://www.threads.com/@jdicillo/post/DgNbB7-Fkp1))
-  - _Replying to: A whole bundle of garlic tied up with twine, roots and all …_
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
 - **smilingjeannie**: Thank you for the selection and recognition. And yes, we saw quite a few that had these same “eyes.” ([link](https://www.threads.com/@smilingjeannie/post/DgNJbc4kYHp))
