@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (49)
+## Needs Reply (50)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DgOMsCnERSZ))
+  - Photo: Description: The photograph shows a dense layer of fallen autumn leaves covering the ground, with a mix of yellow, brown, and pale beige hues, and some leaves showing signs of decay or damage. Photograph read: The image is a top-down view with even, diffuse lighting, capturing the texture and color variation of the leaves. The composition is filled with overlapping leaves, with no discernible focal point or depth of field variation. Rendering is consistent across the frame without visible artifacts or distortion. Photo type: Natural
 - **schemenme**:  ([link](https://www.threads.com/@schemenme/post/DgOIoCoAdua))
   - Photo: Description: A black and white puppy with a fluffy coat is positioned in the foreground, looking toward the right, surrounded by small pumpkins and a woven basket. The background features a patterned fabric with autumnal motifs. Photograph read: The image is taken with shallow depth of field, keeping the puppy in focus while the background and surrounding objects are softly blurred. Lighting appears natural and directional, illuminating the puppy’s face and fur. The rendering preserves texture on the puppy’s coat and the basket’s weave, though some areas are slightly out of focus. Photo type: Portrait
 - **monaw17**: There's a 'guard' that perches on a wire to control who can feed. This was his 'day off' so it was first available or hover til there's a free spot! ([link](https://www.threads.com/@monaw17/post/DgOHBMeEmvs))
