@@ -10,7 +10,7 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 73,
+      "reply_count": 77,
       "replies": [
         {
           "username": "mcoger55",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A white plastic container filled with fresh green beans sits outdoors on grass and dirt, with the container\u2019s label partially visible. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the green beans and the container. The composition is a close-up, angled shot, with the container positioned slightly off-center. The container\u2019s label is legible, though partially obscured by the beans. The background shows grass and bare soil, with no signs of motion blur or focus issues. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the tub is the best part - a whole harvest carried home in whatever was handy. How many plants did a pile like that take?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNqkkcCZNg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "demidova_nadezda",
@@ -31,10 +42,21 @@
           "photos": [
             "Description: A marina filled with numerous sailboats and yachts, viewed from a dockside vantage point with a large suspension bridge visible in the background under an overcast sky. Photograph read: The image is captured under diffuse, even lighting from an overcast sky, resulting in muted tones and soft shadows. The composition is wide, with the foreground showing a dock gate and railing, midground dominated by boat masts and hulls, and background featuring the bridge. Reflections are visible on the water surface. No signs of motion blur, focus issues, or chromatic aberration are apparent. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole forest of masts under one gray sky, and the bridge holding the horizon. Do the boats ever feel crowded in there, or does the water give them room to breathe?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNqhkjCXL4",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "amaginings",
@@ -43,10 +65,21 @@
           "photos": [
             "Description: A market stall displays fresh produce in plastic crates, including grapes, strawberries, cherries, and figs, with price signs indicating promotions. Photograph read: The image is composed with multiple fruit displays in adjacent crates, lit by direct, even illumination. Colors are saturated and distinct. The rendering is sharp enough to discern individual fruits and text on price signs. Photo type: Commercial"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The strawberries are practically shouting from the bottom crate. What did you take home from a stall like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNqipvG9HE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "glendagh25",
@@ -55,10 +88,21 @@
           "photos": [
             "Description: A group of sheep with thick wool and dark faces are clustered near a metal fence, with one sheep in the foreground having prominent curved horns and a yellow ear tag. A person in jeans and a dark jacket stands behind them, touching one sheep. The ground is a mix of gravel and grass, with some muddy patches. Photograph read: The image is taken from a slightly elevated angle, with the foreground dominated by a metal fence. Lighting is diffuse and even, suggesting an overcast day. The sheep\u2019s wool appears textured, and the ear tags are legible. The composition is tight, focusing on the animals and the immediate surroundings. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is the dog just past the frame, keeping them all in line? The pink dye and the yellow ear tags make the whole flock look dressed for something.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNqjnplG8l",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "carolyn.suski",
