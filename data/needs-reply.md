@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (39)
+## Needs Reply (40)
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
 - **smilingjeannie**: Thank you for the selection and recognition. And yes, we saw quite a few that had these same “eyes.” ([link](https://www.threads.com/@smilingjeannie/post/DgNJbc4kYHp))
@@ -18,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @ben.bennion The middle slide of the Looking Back Wednesday…_
 - **ben.bennion**: No I was there a week and took many photos . They have weird chimneys I hadn’t seen before and door knobs always I find interesting . ([link](https://www.threads.com/@ben.bennion/post/DgMrH5VAg-T))
   - _Replying to: @ben.bennion The middle slide of the Looking Back Wednesday…_
+- **jessgperry**: Thank you! Not as many bubbles as you might expect…the conditions were good that day. Not too windy, still(ish) water, etc. ([link](https://www.threads.com/@jessgperry/post/DgNQg3YlLSE))
+  - _Replying to: @jessgperry Slide four of the Looking Back Wednesday favori…_
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **simonrae9225**:  ([link](https://www.threads.com/@simonrae9225/post/DgM13ObgITw))

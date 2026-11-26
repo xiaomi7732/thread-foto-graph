@@ -21,7 +21,7 @@
         "- The bubble\u2019s surface shows visible surface texture and small droplets, but the reflections are distorted and not clearly identifiable due to curvature and refraction. - The background exhibits strong color fringing and pattern distortion, which obscures any discernible environmental context.",
         ""
       ],
-      "reply_count": 9,
+      "reply_count": 10,
       "replies": [
         {
           "username": "lucillepippetti",
@@ -114,7 +114,18 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "jessgperry",
+              "text": "Thank you! Not as many bubbles as you might expect\u2026the conditions were good that day. Not too windy, still(ish) water, etc.",
+              "permalink": "https://www.threads.com/@jessgperry/post/DgNQg3YlLSE",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",
@@ -2004,7 +2015,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 442,
+      "reply_count": 440,
       "replies": [
         {
           "username": "2408bridget",
@@ -2042,6 +2053,16 @@
           ],
           "needs_response": true,
           "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "Four floors of mesh - a fine workplace to climb through.",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgKwhJ4IIns",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
           "hidden": false,
           "replies": []
         },
@@ -2408,51 +2429,14 @@
           ]
         },
         {
-          "username": "the.dobson.collective",
-          "text": "",
-          "permalink": "https://www.threads.com/@the.dobson.collective/post/DgJ06GiiPdJ",
-          "photos": [
-            "Description: The photograph shows a downward-looking view of a staircase with metal mesh flooring and railings, framed by dark structural beams against white walls. Photograph read: The image is in black and white, with high contrast between the dark metal mesh and bright walls. The composition uses strong diagonal lines and repeating geometric patterns. Lighting appears even, with no visible shadows or highlights suggesting a specific light source. Photo type: Architectural"
-          ],
+          "username": "saars.foto",
+          "text": "How many floors of mesh is that? The landings stack down like a tunnel of diamonds, each one the same and each one smaller.",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgJ4qzwFF0x",
+          "photos": [],
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": [
-            {
-              "username": "saars.foto",
-              "text": "How many floors of mesh is that? The landings stack down like a tunnel of diamonds, each one the same and each one smaller.",
-              "permalink": "https://www.threads.com/@saars.foto/post/DgJ4qzwFF0x",
-              "photos": [],
-              "needs_response": false,
-              "action": null,
-              "hidden": false,
-              "replies": [
-                {
-                  "username": "the.dobson.collective",
-                  "text": "4 floors at my workplace.",
-                  "permalink": "https://www.threads.com/@the.dobson.collective/post/DgJ6AfVEeTF",
-                  "photos": [
-                    "Description: The photograph shows a low-angle view of a metal staircase with mesh railings and grating, leading upward into a dimly lit, enclosed space with vertical structural elements. Photograph read: The image is in black and white, with strong contrast between the dark metal framework and lighter mesh. The composition uses converging lines to create depth, and the lighting appears to come from above, casting shadows on the steps and railings. Photo type: Industrial"
-                  ],
-                  "needs_response": false,
-                  "action": null,
-                  "hidden": false,
-                  "replies": [
-                    {
-                      "username": "saars.foto",
-                      "text": "Four floors of mesh - a fine workplace to climb through.",
-                      "permalink": "https://www.threads.com/@saars.foto/post/DgKwhJ4IIns",
-                      "photos": [],
-                      "needs_response": false,
-                      "action": null,
-                      "hidden": false,
-                      "replies": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "replies": []
         },
         {
           "username": "annette7926",
