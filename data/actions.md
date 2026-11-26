@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (55)
+## Needs Reply (59)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **watsjoey**:  ([link](https://www.threads.com/@watsjoey/post/DgN35LYmTdR))
@@ -25,10 +25,21 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A green wire mesh enclosure contains a large pile of discarded plastic bottles and containers, with various caps and labels visible. Photograph read: The image is composed of a close-up, grid-patterned foreground with a dense mass of plastic waste behind it. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual bottles and caps, though some labels are partially obscured. Photo type: Documentary
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgNrOKto1Ub))
   - Photo: Description: A close-up shot of a pile of fresh radishes with their green leafy tops and fine root hairs visible, set against a dark background with a hint of yellow vertical structure in the upper portion. Photograph read: The image is composed with a shallow depth of field, focusing on the radishes in the foreground. Lighting is direct and bright, creating strong highlights on the radish skins and casting shadows in the crevices. The rendering preserves surface texture and color saturation, with some areas of the radishes appearing overexposed. Photo type: Still life
+- **mcoger55**: The rest of the story. ‘‘Twas a long day. ([link](https://www.threads.com/@mcoger55/post/DgN97JOlBho))
+  - Photo: Description: A kitchen countertop holds multiple containers filled with fresh green beans, alongside a red toaster, a measuring cup, and various kitchen items against wooden cabinets and a tiled backsplash. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the scene. The composition is centered on the containers of green beans, with background elements including a lotion bottle and a small shelf with figurines. The rendering is clear enough to distinguish objects and textures, though some items are partially obscured or in the background. Photo type: Domestic still life
+  - Photo: Description: A large quantity of fresh green beans rests on a light-colored towel spread over a surface, with a wooden knife block and a paper towel roll visible in the background. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The beans are in sharp focus, while the background elements are slightly less defined. The towel’s texture is visible, and the beans’ surfaces reflect light, indicating a non-reflective, diffuse illumination. Photo type: Still life
+  - Photo: Description: The photograph shows multiple bags and containers of fresh green beans arranged on a plain white surface. The beans are packed in clear plastic bags and two light blue cardboard containers. Photograph read: The image is taken from a high angle, with even, diffuse lighting that minimizes shadows. The composition is straightforward, with the beans arranged in rows and clusters. The plastic bags show some wrinkles and reflections, and the cardboard containers have visible perforations. Photo type: Product
+  - _Replying to: I think the tub is the best part - a whole harvest carried …_
+- **mcoger55**: It took 90 minutes to pick this half row of beans. There were 2 of us so we had 2 buckets full. Then we cleaned and took off the ends and blanched them to freeze ([link](https://www.threads.com/@mcoger55/post/DgN9ydhFJPb))
+  - _Replying to: I think the tub is the best part - a whole harvest carried …_
 - **demidova_nadezda**: There is enough space for yachts to enter and exit. There are several such places along the coast of San Francisco, and this is not the largest. ([link](https://www.threads.com/@demidova_nadezda/post/DgNz8X5iHUo))
   - _Replying to: A whole forest of masts under one gray sky, and the bridge …_
+- **amaginings**: Nothing from this stall, it was just a colorful feast for the eyes, but did sample plenty of great food throughout the Mercado do Bolhão (Porto, PT) ([link](https://www.threads.com/@amaginings/post/DgN-LHak7zx))
+  - _Replying to: The strawberries are practically shouting from the bottom c…_
 - **glendagh25**: The dog brought them down off the hill and is laying down up and off to the right. The colors on the sheep identify to which farmer the sheep belong when pastures are shared. The purple mark(s) are how many lambs the winter ultrasound showed the ewe is expecting. ([link](https://www.threads.com/@glendagh25/post/DgNxp0oj6fP))
   - _Replying to: Is the dog just past the frame, keeping them all in line? T…_
+- **5938crest**: This is taken in Dubai’s supermarket - price is in dirham/kg. $1=3.7 UAE dirham = price is $13.5 per 2.5 lbs . Everything there appeared to be of an excellent quality . ([link](https://www.threads.com/@5938crest/post/DgN91q-E1nj))
+  - _Replying to: A mountain of shrimp on ice and a 49.99 sign doing its best…_
 - **dianelynnturnbull**:  ([link](https://www.threads.com/@dianelynnturnbull/post/DgN1MQEEiPy))
   - Photo: Description: A holly bush with green, spiky leaves and red berries is in the foreground, surrounded by mossy rocks and grass, with a light-colored building and trees in the background under an overcast sky. Photograph read: The image is taken at natural, diffused lighting with no visible shadows or high-contrast areas. The composition places the holly bush centrally, with the background slightly out of focus. The rendering is clear enough to distinguish leaves, berries, and rock textures. Photo type: Natural
   - _Replying to: A whole little world of rust and wire in one handful, and t…_
