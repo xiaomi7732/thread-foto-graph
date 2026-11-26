@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (59)
+## Needs Reply (61)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **ericpalonen**:  ([link](https://www.threads.com/@ericpalonen/post/DgOAudyG95u))
+  - Photo: Description: A wooden tray holds four orange pumpkins, with a dense cluster of red and yellow flowers above them, set against a wooden surface and gravel ground. Photograph read: The image is taken from a high angle, with warm, directional lighting casting strong shadows. The rendering shows visible texture on the pumpkins and flowers, but the image has a slightly grainy or noisy appearance. Photo type: Still life
+- **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgOAEeGE79s))
+  - Photo: Description: Roses of various colors, including pink, peach, white, and deep red, float on the surface of water, with some petals and buds visible and green stems partially submerged. Photograph read: The image is a close-up, top-down view with even, diffuse lighting. The water surface shows subtle ripples and reflections, and the roses are in focus with visible petal texture. No signs of motion blur, overexposure, or underexposure are evident. Photo type: Still life
 - **watsjoey**:  ([link](https://www.threads.com/@watsjoey/post/DgN35LYmTdR))
   - Photo: Description: The photograph shows a large pile of peppers, including red chili peppers at the top, followed by a dense layer of purple and dark-colored bell peppers, and a foreground of bright orange bell peppers. Photograph read: The image is composed of a close-up, top-down view of the peppers, with even lighting that highlights their glossy surfaces and varied colors. The peppers are tightly packed, creating a textured, layered appearance with no visible depth-of-field issues or motion blur. Photo type: Still life
 - **ben.bennion**: The most expensive found of drinks I bought in Kyoto ([link](https://www.threads.com/@ben.bennion/post/DgN21G6mOkW))
