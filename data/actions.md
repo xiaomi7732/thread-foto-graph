@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (61)
+## Needs Reply (62)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/DgOB1A1Eseu))
+  - Photo: Description: A group of rainbow lorikeets and several smaller, brownish birds are gathered on a grassy area beneath leafy trees, with some birds perched on branches in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The birds are in motion, causing some motion blur, particularly on the lorikeets in the center. The grass and foliage are in focus, but the motion blur affects the clarity of the birds’ plumage and movements. Photo type: Natural
+    - Watch-outs: Motion blur affects the central cluster of lorikeets, obscuring fine details of their feathers and facial features. Some birds in the foreground and background are partially obscured by out-of-focus foreground leaves and branches.
 - **ericpalonen**:  ([link](https://www.threads.com/@ericpalonen/post/DgOAudyG95u))
   - Photo: Description: A wooden tray holds four orange pumpkins, with a dense cluster of red and yellow flowers above them, set against a wooden surface and gravel ground. Photograph read: The image is taken from a high angle, with warm, directional lighting casting strong shadows. The rendering shows visible texture on the pumpkins and flowers, but the image has a slightly grainy or noisy appearance. Photo type: Still life
 - **shiawasemainichi5**:  ([link](https://www.threads.com/@shiawasemainichi5/post/DgOAEeGE79s))

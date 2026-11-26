@@ -10,8 +10,23 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 109,
+      "reply_count": 110,
       "replies": [
+        {
+          "username": "raijapoignand",
+          "text": "",
+          "permalink": "https://www.threads.com/@raijapoignand/post/DgOB1A1Eseu",
+          "photos": [
+            "Description: A group of rainbow lorikeets and several smaller, brownish birds are gathered on a grassy area beneath leafy trees, with some birds perched on branches in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The birds are in motion, causing some motion blur, particularly on the lorikeets in the center. The grass and foliage are in focus, but the motion blur affects the clarity of the birds\u2019 plumage and movements. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "Motion blur affects the central cluster of lorikeets, obscuring fine details of their feathers and facial features. Some birds in the foreground and background are partially obscured by out-of-focus foreground leaves and branches."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "ericpalonen",
           "text": "",
