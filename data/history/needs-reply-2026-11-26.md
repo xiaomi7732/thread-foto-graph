@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (41)
+## Needs Reply (43)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/DgNZyvsIMls))
+  - Photo: Description: The photograph shows a collection of pumpkins and gourds of various sizes and colors, arranged on and around hay bales, suggesting a fall market or farm display. Photograph read: The image is a wide, horizontal shot with even, diffuse lighting. The pumpkins are clustered in the foreground and midground, with hay bales serving as a base and separator. The rendering is flat, with no visible depth-of-field effects or lens distortion. Photo type: Still life
+- **paul.moorman91**:  ([link](https://www.threads.com/@paul.moorman91/post/DgNZh6-FslO))
+  - Photo: Description: A dense school of tropical fish, including yellow and black striped species and blue-bodied fish, swims among varied coral formations and sea urchins in a deep-blue aquatic environment. Photograph read: The image is characterized by a strong blue color cast, with high contrast between brightly colored fish and dark, textured coral backgrounds. Lighting appears to originate from above, casting highlights on fish and coral surfaces, while shadows deepen in crevices. The image exhibits some motion blur and slight softness, particularly in the fish and coral edges. Photo type: Underwater wildlife photography
+    - Watch-outs: - Motion blur is visible on several fish, especially those in mid-swim, reducing the clarity of their fin details and body contours. - Some coral structures, particularly in the lower right and upper center, appear slightly out of focus, obscuring fine texture and individual polyps.
 - **artiekay2**: My granddaughter’s seashell creation. ([link](https://www.threads.com/@artiekay2/post/DgNZGDlgEPc))
   - Photo: Description: A collection of assorted seashells and a starfish rests on a patch of dark, wet sand, bordered by a concrete surface. Photograph read: The image is taken from a high angle, with strong directional sunlight casting sharp shadows. The shells and starfish are clustered in the center, with some overlapping and varying in size and condition. The rendering shows saturated colors and high contrast, with visible grain and slight overexposure in highlights. Photo type: Natural
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
