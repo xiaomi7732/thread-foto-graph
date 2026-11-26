@@ -6,7 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (37)
+## Needs Reply (39)
+
+### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **abbytabby13**: A gathering of the clan.... ([link](https://www.threads.com/@abbytabby13/post/DgNYmeRlnbd))
+  - Photo: Description: Five cats are resting in two adjacent, cushioned beds placed on a wooden bench against a wall; one bed holds three cats, the other holds two, with varied fur patterns including tabby, black, and grey-and-white. Photograph read: The image is taken from a slightly elevated angle, showing the cats and beds in a corner. Lighting is even and ambient, with no visible shadows or highlights indicating flash or directional light. The image has no visible signs of motion blur, focus issues, or compression artifacts. Photo type: Natural
+- **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/DgNYjDXFs-U))
+  - Photo: Description: A bundle of dried garlic plants, tied together with twine, rests in a wooden crate; the bulbs are visible at the base with attached stems and dried leaves. Photograph read: The image is brightly lit with direct sunlight, casting sharp shadows; the composition focuses on the garlic bundle, with the background consisting of similar dried stalks. The rendering is clear, with visible texture on the garlic skins and stems. Photo type: Still life
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
 - **smilingjeannie**: Thank you for the selection and recognition. And yes, we saw quite a few that had these same “eyes.” ([link](https://www.threads.com/@smilingjeannie/post/DgNJbc4kYHp))
