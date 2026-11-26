@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (30)
+## Needs Reply (31)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **lucillepippetti**: Ohhh my she can wake me out of a deep sleep with that stare. No meows no blinks. Nothing phases her until I stand up. ([link](https://www.threads.com/@lucillepippetti/post/DgMAtKnlxsu))
+  - _Replying to: No meow needed - those green eyes are doing all the talking…_
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
 - **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
@@ -94,10 +96,11 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (16)
+## Needs Like (17)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - anouc90:  ([link](https://www.threads.com/@anouc90/post/DgL-NqjGdm2))
+- shiawasemainichi5: You're welcome. ([link](https://www.threads.com/@shiawasemainichi5/post/DgMA9nGiMKp))
 - syldelteglia: Thank you. ([link](https://www.threads.com/@syldelteglia/post/DgLhbwzHO-X))
 - bendlesmaid269: Always 💙🐶 ([link](https://www.threads.com/@bendlesmaid269/post/DgLGaM7EYVb))
 - 2killamockingbird: My pleasure 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DgK22vHADtH))
