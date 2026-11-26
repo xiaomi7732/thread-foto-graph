@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (50)
+## Needs Reply (51)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **dspainter**:  ([link](https://www.threads.com/@dspainter/post/DgNzMnlmOYg))
@@ -19,6 +19,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A green wire mesh enclosure contains a large pile of discarded plastic bottles and containers, with various caps and labels visible. Photograph read: The image is composed of a close-up, grid-patterned foreground with a dense mass of plastic waste behind it. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual bottles and caps, though some labels are partially obscured. Photo type: Documentary
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgNrOKto1Ub))
   - Photo: Description: A close-up shot of a pile of fresh radishes with their green leafy tops and fine root hairs visible, set against a dark background with a hint of yellow vertical structure in the upper portion. Photograph read: The image is composed with a shallow depth of field, focusing on the radishes in the foreground. Lighting is direct and bright, creating strong highlights on the radish skins and casting shadows in the crevices. The rendering preserves surface texture and color saturation, with some areas of the radishes appearing overexposed. Photo type: Still life
+- **demidova_nadezda**: There is enough space for yachts to enter and exit. There are several such places along the coast of San Francisco, and this is not the largest. ([link](https://www.threads.com/@demidova_nadezda/post/DgNz8X5iHUo))
+  - _Replying to: A whole forest of masts under one gray sky, and the bridge …_
 - **glendagh25**: The dog brought them down off the hill and is laying down up and off to the right. The colors on the sheep identify to which farmer the sheep belong when pastures are shared. The purple mark(s) are how many lambs the winter ultrasound showed the ewe is expecting. ([link](https://www.threads.com/@glendagh25/post/DgNxp0oj6fP))
   - _Replying to: Is the dog just past the frame, keeping them all in line? T…_
 - **dianelynnturnbull**: I can't recall anything strange but some things that were certainly unexpected. A year or so ago I found a brush covered set of stairs... ([link](https://www.threads.com/@dianelynnturnbull/post/DgNuYkzEvP6))
