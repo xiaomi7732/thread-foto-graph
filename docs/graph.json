@@ -10,8 +10,20 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 25,
+      "reply_count": 34,
       "replies": [
+        {
+          "username": "resnicklr",
+          "text": "",
+          "permalink": "https://www.threads.com/@resnicklr/post/DgNcsbgDR1C",
+          "photos": [
+            "Description: A pile of colorful, mostly spherical buoys and some rectangular floats rests on a grassy field, with a thin stick or rod lying among them. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting. The buoys are in focus, though some are partially obscured by overlapping or grass. The grass shows natural texture and variation in green and brown tones. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "tim22974",
           "text": "",
@@ -19,10 +31,32 @@
           "photos": [
             "Description: A white rocking chair with a decorative pillow rests on a porch, beside an open wooden trunk filled with pumpkins and dried floral arrangements. Behind them are white shutters and a window with a screen. Photograph read: The image is taken in bright daylight, with strong directional sunlight casting sharp shadows. The composition is angled, focusing on the chair and trunk. The rendering is clear, with visible textures on the wood and fabric, though some areas are overexposed to the point of loss of detail. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The rocking chair does the inviting and the chest behind it does the showing off - pumpkins, gourds, and a pillow that says the quiet part out loud. Is that your harvest, or a fall display you build every year?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNcb9Nm9VB",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "tim22974",
+                  "text": "Fall display \ud83d\udc4d\ud83c\udf41",
+                  "permalink": "https://www.threads.com/@tim22974/post/DgNcoRgDaOI",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "like",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "jh1962bike",
@@ -31,10 +65,21 @@
           "photos": [
             "Description: The image displays a collection of red and yellow hard hats arranged on a textured, dark gray surface with streaks of white and red paint. Photograph read: The hard hats are centrally composed, with varied orientations and slight surface reflections. The background shows vertical streaks and splatters, suggesting paint application. Lighting is even across the scene, with no visible shadows or highlights indicating a specific light source. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That deep red one at the top left is doing all the talking, and the rest of the crew just backs it up. Are they real hats mounted on the wall, or is the whole thing paint?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNcYpkoKxl",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "difishing",
@@ -43,10 +88,21 @@
           "photos": [
             "Description: A shallow, clear body of water is filled with floating autumn leaves and green aquatic plants, with tree-lined banks in the background under an overcast sky. Photograph read: The image has a low-contrast, muted color palette with diffuse lighting. Reflections of trees and leaves are visible on the water\u2019s surface, and the water\u2019s clarity allows for viewing submerged debris. The composition is centered on the water\u2019s surface, with the background trees appearing slightly out of focus. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Is that one bright yellow leaf the whole reason you stopped, or did the whole drift pull you in? The creek did the gathering for you - every leaf settled exactly where the water wanted it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNcZ7zkYP8",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "auerbach_photos",
@@ -55,10 +111,21 @@
           "photos": [
             "Description: The photograph shows a dense pile of snail shells with spiral patterns, varying in color from beige to brown, some with visible openings. Photograph read: The image is a close-up, with even lighting and no discernible camera shake or motion blur. The shells are in sharp focus, revealing surface textures and patterns. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A pile of spirals, every one striped a little differently - I keep coming back to that pale one with the dark bands near the top. One beach walk, or a whole season of gathering?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNca5nFFxX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "brownmgjmu",
@@ -97,13 +164,35 @@
               "replies": [
                 {
                   "username": "syldelteglia",
-                  "text": "Not really sure, I think they are appreciate for their fragrance. They were a lovely sight, indeed.",
+                  "text": "Not really sure, but I think they are appreciated for their fragrance. They were a lovely sight, indeed.",
                   "permalink": "https://www.threads.com/@syldelteglia/post/DgNb-SFHF_e",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Fragrance and color both - a lovely sight indeed. Thanks for sharing them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgNcc6yIJJU",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": [
+                        {
+                          "username": "syldelteglia",
+                          "text": "Thanks to you for your kindness.",
+                          "permalink": "https://www.threads.com/@syldelteglia/post/DgNcpnhHL5T",
+                          "photos": [],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -183,10 +272,21 @@
                   "text": "A very busy aquarium tank intersection lol",
                   "permalink": "https://www.threads.com/@paul.moorman91/post/DgNb4eXlmN6",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A busy intersection, and you caught it at rush hour. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgNcd-Gli2j",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
