@@ -4,29 +4,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (34)
+## Needs Reply (30)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
-- **smilingjeannie**: Sadly not. We spent the day on a boat cruising through the Delta and saw so many abandoned and deteriorating boats. Most of the residents, young ones, have moved to the “big city - Saigon” as the old ways of life and making a living in the Delta have disappeared. ([link](https://www.threads.com/@smilingjeannie/post/DgLom4KEvmz))
-  - _Replying to: A boat with its own eyes on the bow - it was watching the r…_
-- **ashu_anu87**: My son built it .. it take him months to built that ([link](https://www.threads.com/@ashu_anu87/post/DgLqL9AGGf9))
-  - _Replying to: How long did that build take? Two little red eyes up front,…_
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
-- **tiv34**: It’s my car. I took it for facebook but I didn’t want to show my plate. It’s almost got an eye at the rear too. ! ([link](https://www.threads.com/@tiv34/post/DgLh91Xiua3))
-  - Photo: Description: A white compact hatchback, with “TO3” visible on the rear, is parked on a brick driveway beside a white garage door and brick wall. The vehicle has black trim around the windows and lower body, and silver alloy wheels. Photograph read: The image is taken from a rear three-quarter angle, with even, diffuse daylight illuminating the car. Reflections are visible on the glossy paint and windows. The composition is straightforward, with no visible distortion or motion blur. Photo type: Documentary
-    - Watch-outs: - The rear taillight assembly is partially obscured by the car’s body curvature and reflections, limiting visibility of its internal structure. - The “TO3” badge is small and partially cut off by the image frame, reducing legibility.
-  - _Replying to: One big round eye, and the whole car is watching you walk u…_
 - **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
   - Photo: Description: The photograph shows a close-up of a weathered wooden fence composed of vertical planks, with a partly cloudy sky and tree foliage visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between sunlit and shadowed areas on the fence. The wood grain and knots are visible, but some planks show minor imperfections like holes and small cracks. The background elements are slightly out of focus compared to the fence. Photo type: Documentary
     - Watch-outs: - The top edge of the fence is slightly out of focus, reducing clarity of the horizontal rail. - Some planks exhibit visible wear and small holes, which are not sharply defined due to shallow depth of field or natural surface texture.
-- **olivaexpat**: Spotted outside the local post office. I did a double take when I saw it 😄 ([link](https://www.threads.com/@olivaexpat/post/DgLuUpSABJv))
-  - _Replying to: That headlight is wide awake, and the whole bike is staring…_
+- **kennethstevenson9**: The act was Capo Chino. ([link](https://www.threads.com/@kennethstevenson9/post/DgL77Xskh61))
+  - Photo: Description: A dimly lit indoor venue features a large screen displaying a colorful, stylized illustration of a skull with curly hair holding a steaming, ornate cup. Silhouettes of audience members and a performer are visible in the foreground. Photograph read: The image is taken from the audience perspective, with the screen as the primary subject. The screen emits bright, saturated colors against a dark background. The foreground is mostly black, with only silhouettes and minimal detail visible. The screen’s content is sharp and clearly rendered, while the surrounding environment is underexposed. Photo type: Event Photography
+  - _Replying to: An eye in a steaming cup, held up by skeleton hands - the s…_
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
-- **mssapi_**: Less than a minute, i think. I passed by it and when i turn right the cat was there, looking at me. Luckily my camera was ready so i imdtly click the pic 😉 ([link](https://www.threads.com/@mssapi_/post/DgLwbTKkwim))
-  - _Replying to: A green-eyed stare through a round window in the metal - th…_
 - **ranbalam**: Exactly how I saw it. ([link](https://www.threads.com/@ranbalam/post/DgK2zWupbE5))
   - _Replying to: Wait - looking again, it is not a field of starers at all. …_
 
