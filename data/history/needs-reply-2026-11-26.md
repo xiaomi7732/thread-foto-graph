@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (52)
+## Needs Reply (53)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **amaginings**: Farmers’ Market ([link](https://www.threads.com/@amaginings/post/DgNmqkylKMu))
+  - Photo: Description: A market stall displays fresh produce in plastic crates, including grapes, strawberries, cherries, and figs, with price signs indicating promotions. Photograph read: The image is composed with multiple fruit displays in adjacent crates, lit by direct, even illumination. Colors are saturated and distinct. The rendering is sharp enough to discern individual fruits and text on price signs. Photo type: Commercial
 - **glendagh25**: The herding dog is just out of frame ([link](https://www.threads.com/@glendagh25/post/DgNlK1Lj50H))
   - Photo: Description: A group of sheep with thick wool and dark faces are clustered near a metal fence, with one sheep in the foreground having prominent curved horns and a yellow ear tag. A person in jeans and a dark jacket stands behind them, touching one sheep. The ground is a mix of gravel and grass, with some muddy patches. Photograph read: The image is taken from a slightly elevated angle, with the foreground dominated by a metal fence. Lighting is diffuse and even, suggesting an overcast day. The sheep’s wool appears textured, and the ear tags are legible. The composition is tight, focusing on the animals and the immediate surroundings. Photo type: Documentary
 - **carolyn.suski**: That was not created by me, only photographed by me; it was part of a beautiful fall arrangement outside of a winery in Niagara. The vignette was too pretty to not capture! ([link](https://www.threads.com/@carolyn.suski/post/DgNlQTDPYCQ))
