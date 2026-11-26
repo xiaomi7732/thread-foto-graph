@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (63)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **monaw17**:  ([link](https://www.threads.com/@monaw17/post/DgOCSMUEqUg))
+  - Photo: Description: A red hummingbird feeder with multiple perches holds several small birds, likely hummingbirds, feeding from yellow ports; green foliage is visible at the bottom, with a house wall and window in the background. Photograph read: The image is taken at a moderate distance with a shallow depth of field, resulting in the feeder and birds being in focus while the background is blurred. Lighting is even and diffused, with no harsh shadows or overexposed areas. The image has a slightly soft resolution, with no visible digital artifacts. Photo type: Natural
 - **raijapoignand**:  ([link](https://www.threads.com/@raijapoignand/post/DgOB1A1Eseu))
   - Photo: Description: A group of rainbow lorikeets and several smaller, brownish birds are gathered on a grassy area beneath leafy trees, with some birds perched on branches in the background. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The birds are in motion, causing some motion blur, particularly on the lorikeets in the center. The grass and foliage are in focus, but the motion blur affects the clarity of the birds’ plumage and movements. Photo type: Natural
     - Watch-outs: Motion blur affects the central cluster of lorikeets, obscuring fine details of their feathers and facial features. Some birds in the foreground and background are partially obscured by out-of-focus foreground leaves and branches.
