@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (57)
+## Needs Reply (58)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **mcoger55**:  ([link](https://www.threads.com/@mcoger55/post/DgNp5aOFBcj))
+  - Photo: Description: A white plastic container filled with fresh green beans sits outdoors on grass and dirt, with the container’s label partially visible. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the green beans and the container. The composition is a close-up, angled shot, with the container positioned slightly off-center. The container’s label is legible, though partially obscured by the beans. The background shows grass and bare soil, with no signs of motion blur or focus issues. Photo type: Documentary
 - **demidova_nadezda**:  ([link](https://www.threads.com/@demidova_nadezda/post/DgNopngCJoP))
   - Photo: Description: A marina filled with numerous sailboats and yachts, viewed from a dockside vantage point with a large suspension bridge visible in the background under an overcast sky. Photograph read: The image is captured under diffuse, even lighting from an overcast sky, resulting in muted tones and soft shadows. The composition is wide, with the foreground showing a dock gate and railing, midground dominated by boat masts and hulls, and background featuring the bridge. Reflections are visible on the water surface. No signs of motion blur, focus issues, or chromatic aberration are apparent. Photo type: Documentary
 - **amaginings**: Farmers’ Market ([link](https://www.threads.com/@amaginings/post/DgNmqkylKMu))
