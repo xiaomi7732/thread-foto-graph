@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (52)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **tallymountain**: People ([link](https://www.threads.com/@tallymountain/post/DgOQOUrEnC2))
@@ -58,6 +58,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @ben.bennion The middle slide of the Looking Back Wednesday…_
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **juliahh**:  ([link](https://www.threads.com/@juliahh/post/DgOVWXYEcVT))
+  - Photo: Description: A mural painted on the side of a utility box depicts a bearded man in a sailor’s cap with a ship in the background; the box has a small warning sticker and the text “ARTUNIQUE.de” visible. Photograph read: The image is taken at eye level with the mural as the central subject; the background shows a building with warm tones and a blue sky. The mural is rendered with clear detail, but the utility box’s vertical seams divide the image into panels. Lighting appears natural and even, with no visible shadows or overexposure. Photo type: Street photography
 - **ashu_anu87**: Thanks for inspiring words here is one more he built ([link](https://www.threads.com/@ashu_anu87/post/DgMM8-8mNW-))
   - Photo: Description: A LEGO-built sports car model, primarily gray with orange and blue accents, is positioned on a dark wooden surface, with a blurred background containing office furniture and a plant. Photograph read: The image is taken from a low angle, focusing on the car’s side and front. Lighting is even and diffused, with no harsh shadows or overexposed areas. The depth of field is shallow, causing the background to be out of focus while the car is relatively sharp. The car’s internal mechanical components are visible but not sharply detailed. Photo type: Product photography
     - Watch-outs: - The front bumper and lower chassis area are slightly out of focus, reducing clarity of mechanical parts. - The rear engine compartment and upper body panels show minor motion blur or soft focus, obscuring fine details of the LEGO construction.
