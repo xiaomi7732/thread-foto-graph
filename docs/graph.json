@@ -10,8 +10,59 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 12,
+      "reply_count": 17,
       "replies": [
+        {
+          "username": "difishing",
+          "text": "",
+          "permalink": "https://www.threads.com/@difishing/post/DgNbHe6FnhZ",
+          "photos": [
+            "Description: A shallow, clear body of water is filled with floating autumn leaves and green aquatic plants, with tree-lined banks in the background under an overcast sky. Photograph read: The image has a low-contrast, muted color palette with diffuse lighting. Reflections of trees and leaves are visible on the water\u2019s surface, and the water\u2019s clarity allows for viewing submerged debris. The composition is centered on the water\u2019s surface, with the background trees appearing slightly out of focus. Photo type: Natural landscape"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "auerbach_photos",
+          "text": "",
+          "permalink": "https://www.threads.com/@auerbach_photos/post/DgNbEDhlsA4",
+          "photos": [
+            "Description: The photograph shows a dense pile of snail shells with spiral patterns, varying in color from beige to brown, some with visible openings. Photograph read: The image is a close-up, with even lighting and no discernible camera shake or motion blur. The shells are in sharp focus, revealing surface textures and patterns. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "brownmgjmu",
+          "text": "Childhood memories",
+          "permalink": "https://www.threads.com/@brownmgjmu/post/DgNa7X4jdq9",
+          "photos": [
+            "Description: A collage of numerous vintage photographs depicting children, families, and domestic scenes from various eras, including holiday gatherings, portraits, and outdoor settings. Photograph read: The images vary in color saturation, contrast, and resolution; some are in color, others in black and white, with inconsistent sharpness and exposure. Many show signs of aging, such as fading, creasing, or slight discoloration. Photo type: Vintage family album collage"
+          ],
+          "watch_outs": [
+            "- Multiple images show faded or washed-out color, particularly in the upper right quadrant where a child in a light dress appears indistinct. - Several photographs exhibit visible creases or paper damage, especially along the edges of the lower-left and center images, affecting legibility of subjects."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "syldelteglia",
+          "text": "Moroccan roses in the zoco.",
+          "permalink": "https://www.threads.com/@syldelteglia/post/DgNa5oaHPrB",
+          "photos": [
+            "Description: The photograph shows a close-up of numerous dried rose buds and petals, predominantly in shades of purple and pink, with some green sepals and stems visible. Photograph read: The image is a close-up shot with no apparent depth of field, showing the subject in relatively even illumination without strong directional light or shadows. The rendering is consistent with a standard digital capture, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Macro"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "suz_sharperphotos",
           "text": "Nature\u2019s gathering. Beautiful rocks on a beach - one of my favorite things.",
@@ -139,7 +190,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "jdicillo",
+                  "text": "Rochester Public Market",
+                  "permalink": "https://www.threads.com/@jdicillo/post/DgNbB7-Fkp1",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
