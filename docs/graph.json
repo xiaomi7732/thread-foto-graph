@@ -152,7 +152,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 141,
+      "reply_count": 144,
       "replies": [
         {
           "username": "simonrae9225",
@@ -161,10 +161,21 @@
           "photos": [
             "Description: A black wooden gate with diagonal supports frames the view of two spiderwebs strung between the bars, set against a gravel surface with scattered leaves. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting. The gate\u2019s structure and the webs are in focus, while the gravel ground shows fine texture. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two round webs in the top of the gate, each with a bright little hub - the gate is watching the drive now. Were you aiming for the webs, or did they catch your eye on the way past?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgNUul9luR0",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pennysterling",
@@ -217,10 +228,21 @@
                   "text": "I should look so good \ud83d\ude01",
                   "permalink": "https://www.threads.com/@monaw17/post/DgMeY2UFNIC",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A top hat, a boa, and one googly eye - hard to argue with that entrance.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgNUzOkkUv4",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1219,10 +1241,21 @@
                   "text": "At that moment, she was staring at the camera with a wary look, 'cause she wasn't my cat.",
                   "permalink": "https://www.threads.com/@p2tlushamiza/post/DgNFXVKk74v",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A wary stare from a stranger's cat, held just for the camera - that is a proper look-back.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgNU0TRDrzb",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
