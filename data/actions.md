@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (53)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **kennenkaufmann**: Soldier crabs ([link](https://www.threads.com/@kennenkaufmann/post/DgN1TdtEyOn))
+  - Photo: Description: A large swarm of small, blue-tinted crabs congregates along the exposed, muddy shoreline where shallow water meets land, forming dense, winding trails across the wet sand. Photograph read: The image is taken from a slightly elevated angle, showing the shoreline and water surface. Lighting is even and diffuse, suggesting daylight without harsh shadows. The crabs are densely packed, creating a textured mass, while the water and sand show natural surface detail. No visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary
 - **dspainter**:  ([link](https://www.threads.com/@dspainter/post/DgNzMnlmOYg))
   - Photo: Description: A large pile of worn, varied plush toys, including bears, Pikachu, and other characters, is piled outdoors under an overcast sky with bare trees in the background. Photograph read: The image is composed with the pile of toys filling the frame, captured with diffuse, even lighting. The rendering shows moderate contrast and color saturation, with no visible signs of lens distortion or chromatic aberration. Photo type: Still life
 - **jbrucewilcox**: nekkedKen gathered all his balls together for you... ([link](https://www.threads.com/@jbrucewilcox/post/DgNxit-Fhi3))
@@ -23,6 +25,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole forest of masts under one gray sky, and the bridge …_
 - **glendagh25**: The dog brought them down off the hill and is laying down up and off to the right. The colors on the sheep identify to which farmer the sheep belong when pastures are shared. The purple mark(s) are how many lambs the winter ultrasound showed the ewe is expecting. ([link](https://www.threads.com/@glendagh25/post/DgNxp0oj6fP))
   - _Replying to: Is the dog just past the frame, keeping them all in line? T…_
+- **dianelynnturnbull**:  ([link](https://www.threads.com/@dianelynnturnbull/post/DgN1MQEEiPy))
+  - Photo: Description: A holly bush with green, spiky leaves and red berries is in the foreground, surrounded by mossy rocks and grass, with a light-colored building and trees in the background under an overcast sky. Photograph read: The image is taken at natural, diffused lighting with no visible shadows or high-contrast areas. The composition places the holly bush centrally, with the background slightly out of focus. The rendering is clear enough to distinguish leaves, berries, and rock textures. Photo type: Natural
+  - _Replying to: A whole little world of rust and wire in one handful, and t…_
 - **dianelynnturnbull**: I can't recall anything strange but some things that were certainly unexpected. A year or so ago I found a brush covered set of stairs... ([link](https://www.threads.com/@dianelynnturnbull/post/DgNuYkzEvP6))
   - _Replying to: A whole little world of rust and wire in one handful, and t…_
 - **dianelynnturnbull**: I can't find the photo but I will try and share it later. Gotta go cook some thanksgiving food! ☺️ ([link](https://www.threads.com/@dianelynnturnbull/post/DgNu-EpkjQG))
