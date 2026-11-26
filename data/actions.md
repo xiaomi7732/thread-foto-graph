@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (45)
+## Needs Reply (46)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **monaw17**: There's a 'guard' that perches on a wire to control who can feed. This was his 'day off' so it was first available or hover til there's a free spot! ([link](https://www.threads.com/@monaw17/post/DgOHBMeEmvs))
@@ -18,6 +18,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the deep red ones against all that pale pink are do…_
 - **ben.bennion**: There are eight drinks . Of our group of 15 , 8 of us weren’t going to let the price of beer put us off . One of the group was on a budget of £25 a day . Me and my mate worked out costs in the number of beers . By the end this group were in on it . Steve bought a hand made cheesecake for 3 beers ( £25) and after ordering it went back 4 hours later and we shared the cheesecake on the train . We found we could have two beers or have a cheap meal and get the two beers for the same price . ([link](https://www.threads.com/@ben.bennion/post/DgOHICHAuLF))
   - _Replying to: Seven glasses, four people, and everyone grinning like the …_
+- **jbrucewilcox**: lolol... I found Ken discarded in an alley trash pile- so right off I rescued him and he quickly became the star of an ongoing series of facebook posts--- the nekkedKen Chronicles. He's anatomically incorrect so fb won't censor him. As for the eyeballs- I have 3 more... and we're probably working together on ideas- so yes... lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOHTCAFl-L))
+  - _Replying to: Did Ken gather the balls, or did the balls gather Ken? The …_
 - **mcoger55**: The rest of the story. ‘‘Twas a long day. ([link](https://www.threads.com/@mcoger55/post/DgN97JOlBho))
   - Photo: Description: A kitchen countertop holds multiple containers filled with fresh green beans, alongside a red toaster, a measuring cup, and various kitchen items against wooden cabinets and a tiled backsplash. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the scene. The composition is centered on the containers of green beans, with background elements including a lotion bottle and a small shelf with figurines. The rendering is clear enough to distinguish objects and textures, though some items are partially obscured or in the background. Photo type: Domestic still life
   - Photo: Description: A large quantity of fresh green beans rests on a light-colored towel spread over a surface, with a wooden knife block and a paper towel roll visible in the background. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The beans are in sharp focus, while the background elements are slightly less defined. The towel’s texture is visible, and the beans’ surfaces reflect light, indicating a non-reflective, diffuse illumination. Photo type: Still life
