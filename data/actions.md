@@ -6,15 +6,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (47)
+## Needs Reply (49)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **jbrucewilcox**: nekkedKen gathered all his balls together for you... ([link](https://www.threads.com/@jbrucewilcox/post/DgNxit-Fhi3))
+  - Photo: Description: A male action figure stands centrally among a collection of various balls, including sports balls, decorative spheres, and novelty items, all arranged on a dark surface. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional lighting. The subject and surrounding objects are in focus, with no signs of motion blur or lens distortion. The composition is flat, with no depth cues beyond the arrangement of items. Photo type: Still life
 - **stickyshutterphotography**:  ([link](https://www.threads.com/@stickyshutterphotography/post/DgNvydQiKXy))
   - Photo: Description: A cluster of small, pale mushrooms grows densely from a mossy, textured tree trunk, with the background showing dark, rough bark and green moss. Photograph read: The image is in sharp focus, with even lighting that highlights the mushrooms’ rounded caps and slender stems. The composition centers the fungal cluster against the contrasting dark bark and green moss. Rendering is naturalistic, with no visible signs of compression, noise, or color distortion. Photo type: Naturalistic
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgNuKYRn8A9))
   - Photo: Description: A green wire mesh enclosure contains a large pile of discarded plastic bottles and containers, with various caps and labels visible. Photograph read: The image is composed of a close-up, grid-patterned foreground with a dense mass of plastic waste behind it. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual bottles and caps, though some labels are partially obscured. Photo type: Documentary
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgNrOKto1Ub))
   - Photo: Description: A close-up shot of a pile of fresh radishes with their green leafy tops and fine root hairs visible, set against a dark background with a hint of yellow vertical structure in the upper portion. Photograph read: The image is composed with a shallow depth of field, focusing on the radishes in the foreground. Lighting is direct and bright, creating strong highlights on the radish skins and casting shadows in the crevices. The rendering preserves surface texture and color saturation, with some areas of the radishes appearing overexposed. Photo type: Still life
+- **glendagh25**: The dog brought them down off the hill and is laying down up and off to the right. The colors on the sheep identify to which farmer the sheep belong when pastures are shared. The purple mark(s) are how many lambs the winter ultrasound showed the ewe is expecting. ([link](https://www.threads.com/@glendagh25/post/DgNxp0oj6fP))
+  - _Replying to: Is the dog just past the frame, keeping them all in line? T…_
 - **dianelynnturnbull**: I can't recall anything strange but some things that were certainly unexpected. A year or so ago I found a brush covered set of stairs... ([link](https://www.threads.com/@dianelynnturnbull/post/DgNuYkzEvP6))
   - _Replying to: A whole little world of rust and wire in one handful, and t…_
 - **dianelynnturnbull**: I can't find the photo but I will try and share it later. Gotta go cook some thanksgiving food! ☺️ ([link](https://www.threads.com/@dianelynnturnbull/post/DgNu-EpkjQG))

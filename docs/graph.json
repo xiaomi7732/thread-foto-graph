@@ -10,8 +10,20 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 95,
+      "reply_count": 97,
       "replies": [
+        {
+          "username": "jbrucewilcox",
+          "text": "nekkedKen gathered all his balls together for you...",
+          "permalink": "https://www.threads.com/@jbrucewilcox/post/DgNxit-Fhi3",
+          "photos": [
+            "Description: A male action figure stands centrally among a collection of various balls, including sports balls, decorative spheres, and novelty items, all arranged on a dark surface. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional lighting. The subject and surrounding objects are in focus, with no signs of motion blur or lens distortion. The composition is flat, with no depth cues beyond the arrangement of items. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "stickyshutterphotography",
           "text": "",
@@ -136,7 +148,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "glendagh25",
+                  "text": "The dog brought them down off the hill and is laying down up and off to the right. The colors on the sheep identify to which farmer the sheep belong when pastures are shared. The purple mark(s) are how many lambs the winter ultrasound showed the ewe is expecting.",
+                  "permalink": "https://www.threads.com/@glendagh25/post/DgNxp0oj6fP",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
