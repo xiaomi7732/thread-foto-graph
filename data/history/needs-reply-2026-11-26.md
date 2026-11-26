@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (39)
+## Needs Reply (41)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **artiekay2**: My granddaughter’s seashell creation. ([link](https://www.threads.com/@artiekay2/post/DgNZGDlgEPc))
+  - Photo: Description: A collection of assorted seashells and a starfish rests on a patch of dark, wet sand, bordered by a concrete surface. Photograph read: The image is taken from a high angle, with strong directional sunlight casting sharp shadows. The shells and starfish are clustered in the center, with some overlapping and varying in size and condition. The rendering shows saturated colors and high contrast, with visible grain and slight overexposure in highlights. Photo type: Natural
+- **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
+  - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
 - **abbytabby13**: A gathering of the clan.... ([link](https://www.threads.com/@abbytabby13/post/DgNYmeRlnbd))
   - Photo: Description: Five cats are resting in two adjacent, cushioned beds placed on a wooden bench against a wall; one bed holds three cats, the other holds two, with varied fur patterns including tabby, black, and grey-and-white. Photograph read: The image is taken from a slightly elevated angle, showing the cats and beds in a corner. Lighting is even and ambient, with no visible shadows or highlights indicating flash or directional light. The image has no visible signs of motion blur, focus issues, or compression artifacts. Photo type: Natural
 - **jdicillo**:  ([link](https://www.threads.com/@jdicillo/post/DgNYjDXFs-U))
