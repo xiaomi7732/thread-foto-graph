@@ -10,7 +10,7 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 111,
+      "reply_count": 132,
       "replies": [
         {
           "username": "monaw17",
@@ -19,10 +19,32 @@
           "photos": [
             "Description: A red hummingbird feeder with multiple perches holds several small birds, likely hummingbirds, feeding from yellow ports; green foliage is visible at the bottom, with a house wall and window in the background. Photograph read: The image is taken at a moderate distance with a shallow depth of field, resulting in the feeder and birds being in focus while the background is blurred. Lighting is even and diffused, with no harsh shadows or overexposed areas. The image has a slightly soft resolution, with no visible digital artifacts. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Do they take turns at the yellow ports, or is it whoever gets there first? Three at one feeder and not a single seat empty.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGHRNoBkQ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "monaw17",
+                  "text": "There's a 'guard' that perches on a wire to control who can feed. This was his 'day off' so it was first available or hover til there's a free spot!",
+                  "permalink": "https://www.threads.com/@monaw17/post/DgOHBMeEmvs",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "raijapoignand",
@@ -34,10 +56,21 @@
           "watch_outs": [
             "Motion blur affects the central cluster of lorikeets, obscuring fine details of their feathers and facial features. Some birds in the foreground and background are partially obscured by out-of-focus foreground leaves and branches."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That one pink bird in the middle of all that green and orange looks like it wandered into the wrong party and decided to stay. Did you even try to count the lorikeets, or just enjoy the noise?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGIZqlgSy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ericpalonen",
@@ -46,10 +79,21 @@
           "photos": [
             "Description: A wooden tray holds four orange pumpkins, with a dense cluster of red and yellow flowers above them, set against a wooden surface and gravel ground. Photograph read: The image is taken from a high angle, with warm, directional lighting casting strong shadows. The rendering shows visible texture on the pumpkins and flowers, but the image has a slightly grainy or noisy appearance. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four pumpkins and a whole cloud of red mums, all of it glowing in that low light. The tray looks too small for the job. Was it your idea, or did the harvest just end up there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGJmrmQqE",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "shiawasemainichi5",
@@ -58,10 +102,39 @@
           "photos": [
             "Description: Roses of various colors, including pink, peach, white, and deep red, float on the surface of water, with some petals and buds visible and green stems partially submerged. Photograph read: The image is a close-up, top-down view with even, diffuse lighting. The water surface shows subtle ripples and reflections, and the roses are in focus with visible petal texture. No signs of motion blur, overexposure, or underexposure are evident. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the deep red ones against all that pale pink are doing the heavy lifting here. Did you scatter them in, or did they drift together on their own?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGKtQmq3m",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "shiawasemainichi5",
+                  "text": "Thank you so much. This is a service that visitors to the rose garden can enjoy. It's a little sad to cut such beautiful roses, but I think it's a wonderful idea.\ud83e\udd40",
+                  "permalink": "https://www.threads.com/@shiawasemainichi5/post/DgOHE9ykwlf",
+                  "photos": [
+                    "Description: Roses of various colors\u2014red, pink, cream, and white\u2014are floating on the surface of rippling water, with reflections and distortions visible on the water\u2019s surface. Photograph read: The composition is dominated by the water surface, which shows concentric ripples and distorted reflections. The roses are clustered in the lower portion of the frame, with some petals showing slight texture and moisture. Lighting appears diffuse, casting soft shadows and muted highlights. The image has a cool, desaturated color tone overall. Photo type: Still life",
+                    "Description: Roses of various colors\u2014red, pink, white, and peach\u2014are floating on the surface of clear water, with ripples visible around them. Photograph read: The image is a close-up shot with even, diffused lighting. The roses are in focus, though some petals show slight softness. The water surface reflects light and shows gentle ripples, with no visible lens distortion or chromatic aberration. Photo type: Still life"
+                  ],
+                  "watch_outs": [
+                    "- The water surface exhibits significant motion blur and distortion, obscuring fine detail in the reflections and surrounding areas. - Some rose petals in the foreground are slightly out of focus, reducing sharpness and texture clarity.",
+                    ""
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "watsjoey",
@@ -70,10 +143,21 @@
           "photos": [
             "Description: The photograph shows a large pile of peppers, including red chili peppers at the top, followed by a dense layer of purple and dark-colored bell peppers, and a foreground of bright orange bell peppers. Photograph read: The image is composed of a close-up, top-down view of the peppers, with even lighting that highlights their glossy surfaces and varied colors. The peppers are tightly packed, creating a textured, layered appearance with no visible depth-of-field issues or motion blur. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Red chilies on top, purple in the middle, orange at the bottom - is that the market's own color order, or did you stack them that way for the photo?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGME4m-nJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ben.bennion",
@@ -82,10 +166,32 @@
           "photos": [
             "Description: Four people are seated around a small, oval table with beer glasses, smiling at the camera; behind them are wall hangings and framed black-and-white images. Photograph read: The image is captured in indoor lighting with even illumination across the subjects. The table surface and glasses are in focus, but the background elements are slightly out of focus. The photograph has a standard digital resolution and color depth, with no visible distortion or chromatic aberration. Photo type: Casual portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Seven glasses, four people, and everyone grinning like the bill never arrived. What made that round in Kyoto worth it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGNPCo6h6",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "ben.bennion",
+                  "text": "There are eight drinks . Of our group of 15 , 8 of us weren\u2019t going to let the price of beer put us off . One of the group was on a budget of \u00a325 a day . Me and my mate worked out costs in the number of beers . By the end this group were in on it . Steve bought a hand made cheesecake for 3 beers ( \u00a325) and after ordering it went back 4 hours later and we shared the cheesecake on the train . We found we could have two beers or have a cheap meal and get the two beers for the same price .",
+                  "permalink": "https://www.threads.com/@ben.bennion/post/DgOHICHAuLF",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "kennenkaufmann",
@@ -94,10 +200,21 @@
           "photos": [
             "Description: A large swarm of small, blue-tinted crabs congregates along the exposed, muddy shoreline where shallow water meets land, forming dense, winding trails across the wet sand. Photograph read: The image is taken from a slightly elevated angle, showing the shoreline and water surface. Lighting is even and diffuse, suggesting daylight without harsh shadows. The crabs are densely packed, creating a textured mass, while the water and sand show natural surface detail. No visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thousands of them, and the whole shoreline looks like it is moving. How long did you watch before the pattern sank in?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGOUDlO6G",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dspainter",
@@ -106,10 +223,21 @@
           "photos": [
             "Description: A large pile of worn, varied plush toys, including bears, Pikachu, and other characters, is piled outdoors under an overcast sky with bare trees in the background. Photograph read: The image is composed with the pile of toys filling the frame, captured with diffuse, even lighting. The rendering shows moderate contrast and color saturation, with no visible signs of lens distortion or chromatic aberration. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Pikachu is holding court on the right while a very tired-looking bear keeps watch over the whole pile. Is this a collection, or a rescue pile?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGPY3H9WX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jbrucewilcox",
@@ -118,10 +246,21 @@
           "photos": [
             "Description: A male action figure stands centrally among a collection of various balls, including sports balls, decorative spheres, and novelty items, all arranged on a dark surface. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional lighting. The subject and surrounding objects are in focus, with no signs of motion blur or lens distortion. The composition is flat, with no depth cues beyond the arrangement of items. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did Ken gather the balls, or did the balls gather Ken? The two eyeballs at the bottom are watching the whole thing, and I am not sure what to make of them.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGQc8llLV",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "stickyshutterphotography",
@@ -130,10 +269,21 @@
           "photos": [
             "Description: A cluster of small, pale mushrooms grows densely from a mossy, textured tree trunk, with the background showing dark, rough bark and green moss. Photograph read: The image is in sharp focus, with even lighting that highlights the mushrooms\u2019 rounded caps and slender stems. The composition centers the fungal cluster against the contrasting dark bark and green moss. Rendering is naturalistic, with no visible signs of compression, noise, or color distortion. Photo type: Naturalistic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The smallest caps at the bottom look like they are still waiting their turn. Did you count them, or give up halfway?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGRaenTL8",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "akmaleky",
@@ -142,10 +292,21 @@
           "photos": [
             "Description: A green wire mesh enclosure contains a large pile of discarded plastic bottles and containers, with various caps and labels visible. Photograph read: The image is composed of a close-up, grid-patterned foreground with a dense mass of plastic waste behind it. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual bottles and caps, though some labels are partially obscured. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One cage, a whole season of empties, and the colored caps doing all the decorating. How long did a pile like that take to fill?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGSnco7FJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bojonvelvet2.0",
@@ -154,10 +315,21 @@
           "photos": [
             "Description: A close-up shot of a pile of fresh radishes with their green leafy tops and fine root hairs visible, set against a dark background with a hint of yellow vertical structure in the upper portion. Photograph read: The image is composed with a shallow depth of field, focusing on the radishes in the foreground. Lighting is direct and bright, creating strong highlights on the radish skins and casting shadows in the crevices. The rendering preserves surface texture and color saturation, with some areas of the radishes appearing overexposed. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The roots are doing all the talking here. Were these pulled this morning?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgOGT1LGeAR",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mcoger55",
@@ -198,10 +370,21 @@
                   "text": "It took 90 minutes to pick this half row of beans. There were 2 of us so we had 2 buckets full. Then we cleaned and took off the ends and blanched them to freeze",
                   "permalink": "https://www.threads.com/@mcoger55/post/DgN9ydhFJPb",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ninety minutes for half a row - that is a harvest earned twice over. Thanks for sharing the work behind the pile.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgOGVnxj2ZE",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -232,10 +415,21 @@
                   "text": "There is enough space for yachts to enter and exit. There are several such places along the coast of San Francisco, and this is not the largest.",
                   "permalink": "https://www.threads.com/@demidova_nadezda/post/DgNz8X5iHUo",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Room to breathe, even in a forest of masts. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgOGWz4H7Mj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -266,10 +460,21 @@
                   "text": "Nothing from this stall, it was just a colorful feast for the eyes, but did sample plenty of great food throughout the Mercado do Bolh\u00e3o (Porto, PT)",
                   "permalink": "https://www.threads.com/@amaginings/post/DgN-LHak7zx",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A feast for the eyes is still a feast. Thanks for sharing the market with us.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgOGUx1lO7Y",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -300,10 +505,21 @@
                   "text": "The dog brought them down off the hill and is laying down up and off to the right. The colors on the sheep identify to which farmer the sheep belong when pastures are shared. The purple mark(s) are how many lambs the winter ultrasound showed the ewe is expecting.",
                   "permalink": "https://www.threads.com/@glendagh25/post/DgNxp0oj6fP",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The dog did the herding and the dye did the bookkeeping. Thanks for sharing them.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgOGX4Mj27g",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -533,10 +749,21 @@
                   "text": "This is taken in Dubai\u2019s supermarket - price is in dirham/kg. $1=3.7 UAE dirham = price is $13.5 per 2.5 lbs . Everything there appeared to be of an excellent quality .",
                   "permalink": "https://www.threads.com/@5938crest/post/DgN91q-E1nj",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Dubai prices, then - and quality worth every dirham. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgOGZCYnYD2",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -627,10 +854,20 @@
                   "text": "I can't recall anything strange but some things that were certainly unexpected. A year or so ago I found a brush covered set of stairs...",
                   "permalink": "https://www.threads.com/@dianelynnturnbull/post/DgNuYkzEvP6",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
                   "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A brush-covered staircase is a strange and wonderful find. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgOGaYQGOgP",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    },
                     {
                       "username": "dianelynnturnbull",
                       "text": "I can't find the photo but I will try and share it later. Gotta go cook some thanksgiving food! \u263a\ufe0f",
@@ -1321,7 +1558,7 @@
         "- The bubble\u2019s surface shows visible surface texture and small droplets, but the reflections are distorted and not clearly identifiable due to curvature and refraction. - The background exhibits strong color fringing and pattern distortion, which obscures any discernible environmental context.",
         ""
       ],
-      "reply_count": 10,
+      "reply_count": 13,
       "replies": [
         {
           "username": "lucillepippetti",
@@ -1347,10 +1584,21 @@
               "text": "Thank you for the selection and recognition. And yes, we saw quite a few that had these same \u201ceyes.\u201d",
               "permalink": "https://www.threads.com/@smilingjeannie/post/DgNJbc4kYHp",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Those eyes stopped my scroll for a reason. Thanks for sharing the story behind them.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgOGbbnlBqW",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1389,10 +1637,21 @@
                 "",
                 ""
               ],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Getting happily lost is half the trip. Thanks for the story behind the street.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgOGcprCe4q",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "ben.bennion",
@@ -1420,10 +1679,21 @@
               "text": "Thank you! Not as many bubbles as you might expect\u2026the conditions were good that day. Not too windy, still(ish) water, etc.",
               "permalink": "https://www.threads.com/@jessgperry/post/DgNQg3YlLSE",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Still water, kind light, and the bubbles behaved. Thanks for sharing the story behind it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgOGd9JGt8S",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
