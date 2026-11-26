@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (38)
+## Needs Reply (39)
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
+- **smilingjeannie**: Thank you for the selection and recognition. And yes, we saw quite a few that had these same “eyes.” ([link](https://www.threads.com/@smilingjeannie/post/DgNJbc4kYHp))
+  - _Replying to: @smilingjeannie Your painted boat opens the Looking Back We…_
 - **ben.bennion**: Checking my photos two of these were on the same street , could I find it again I doubt it . We got lost so many times but we had all week . We stayed in the flat belonging to a friend of a friend who lives there ([link](https://www.threads.com/@ben.bennion/post/DgMtVqYghnN))
   - Photo: Description: A polished wooden object with a curved, asymmetrical shape and a horizontal metallic strip is placed on a flat, dark green surface. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional light. The subject is in focus, with clear wood grain and the metallic strip’s reflective surface. The background is uniformly textured and unobtrusive. Photo type: Still life
   - Photo: Description: A circular, weathered metal plaque is mounted on a peeling teal-painted wooden door, which is set within a worn frame; the plaque features abstract geometric and possibly symbolic cutouts and textures. Photograph read: The image is captured with even, diffuse lighting, showing no obvious shadows or highlights. The composition centers the plaque, with the door’s vertical planks and frame framing it. The rendering is clear enough to discern surface textures and paint degradation, but lacks sharpness in fine details. Photo type: Documentary
