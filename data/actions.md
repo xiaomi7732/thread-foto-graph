@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (35)
+## Needs Reply (37)
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
 - **ben.bennion**: Checking my photos two of these were on the same street , could I find it again I doubt it . We got lost so many times but we had all week . We stayed in the flat belonging to a friend of a friend who lives there ([link](https://www.threads.com/@ben.bennion/post/DgMtVqYghnN))
@@ -20,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @ben.bennion The middle slide of the Looking Back Wednesday…_
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **simonrae9225**:  ([link](https://www.threads.com/@simonrae9225/post/DgM13ObgITw))
+  - Photo: Description: A black wooden gate with diagonal supports frames the view of two spiderwebs strung between the bars, set against a gravel surface with scattered leaves. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting. The gate’s structure and the webs are in focus, while the gravel ground shows fine texture. No signs of motion blur, overexposure, or underexposure are visible. Photo type: Documentary
 - **monaw17**: I should look so good 😁 ([link](https://www.threads.com/@monaw17/post/DgMeY2UFNIC))
   - _Replying to: One googly eye, a top hat, and the Pink Panther riding alon…_
 - **ashu_anu87**: Thanks for inspiring words here is one more he built ([link](https://www.threads.com/@ashu_anu87/post/DgMM8-8mNW-))
@@ -34,6 +36,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **kennethstevenson9**: The act was Capo Chino. ([link](https://www.threads.com/@kennethstevenson9/post/DgL77Xskh61))
   - Photo: Description: A dimly lit indoor venue features a large screen displaying a colorful, stylized illustration of a skull with curly hair holding a steaming, ornate cup. Silhouettes of audience members and a performer are visible in the foreground. Photograph read: The image is taken from the audience perspective, with the screen as the primary subject. The screen emits bright, saturated colors against a dark background. The foreground is mostly black, with only silhouettes and minimal detail visible. The screen’s content is sharp and clearly rendered, while the surrounding environment is underexposed. Photo type: Event Photography
   - _Replying to: An eye in a steaming cup, held up by skeleton hands - the s…_
+- **kennethstevenson9**: You are welcome, it was a very goodshow! ([link](https://www.threads.com/@kennethstevenson9/post/DgM2MwnGyzR))
+  - _Replying to: Capo Chino behind the staring cup - the whole room was in o…_
 - **l_faefife**:  ([link](https://www.threads.com/@l_faefife/post/DgK-Y90CPc-))
   - Photo: Description: The photograph captures an indoor event with silhouetted figures against a brightly lit stage, featuring green laser beams and a backdrop resembling a theater facade. A large feather arrangement is prominent in the foreground, with tables and chairs partially visible. Photograph read: The image is dominated by strong backlighting from stage lights, creating high contrast between dark silhouettes and bright beams. The foreground elements are underexposed, while the stage area is overexposed, with visible light rays and haze. The composition is framed from a seated perspective, looking toward the stage. Photo type: Event photography
     - Watch-outs: - Foreground tables and chairs are underexposed, obscuring details of table settings and chair shapes. - Silhouetted figures are indistinct, with no discernible facial features or clothing details due to backlighting.
