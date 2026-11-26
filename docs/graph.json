@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 136,
+      "reply_count": 137,
       "replies": [
         {
           "username": "pennysterling",
@@ -25,10 +25,21 @@
           "watch_outs": [
             "- The pole\u2019s surface is covered with overlapping, degraded posters, making individual text or imagery unreadable. - The image exhibits a pronounced vignette, darkening the edges and reducing contrast in the corners, which obscures peripheral detail."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two pink rings for eyes, and the whole pole is staring back at you - with a little heart above it reminding you you are awesome. Did the face catch you first, or the tower of posters?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgMdaUglk3w",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "monaw17",
