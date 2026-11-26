@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (54)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **amaginings**: Farmers’ Market ([link](https://www.threads.com/@amaginings/post/DgNmqkylKMu))
@@ -43,6 +43,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Fragrance and color both - a lovely sight indeed. Thanks fo…_
 - **eelizjjjm**: The Pumpkin Patch displaying it’s wares in an artful manner— Hooke me in! I bought 3! ([link](https://www.threads.com/@eelizjjjm/post/DgNlLitIIlQ))
   - _Replying to: That little striped gourd on the right looks like it wander…_
+- **artiekay2**: She started with a pile of sand, put shells around it and then on top. ([link](https://www.threads.com/@artiekay2/post/DgNnkXbFlsW))
+  - _Replying to: The starfish right in the middle like it is holding court -…_
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
   - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
 
