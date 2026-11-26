@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (54)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **ben.bennion**: The most expensive found of drinks I bought in Kyoto ([link](https://www.threads.com/@ben.bennion/post/DgN21G6mOkW))
+  - Photo: Description: Four people are seated around a small, oval table with beer glasses, smiling at the camera; behind them are wall hangings and framed black-and-white images. Photograph read: The image is captured in indoor lighting with even illumination across the subjects. The table surface and glasses are in focus, but the background elements are slightly out of focus. The photograph has a standard digital resolution and color depth, with no visible distortion or chromatic aberration. Photo type: Casual portrait
 - **kennenkaufmann**: Soldier crabs ([link](https://www.threads.com/@kennenkaufmann/post/DgN1TdtEyOn))
   - Photo: Description: A large swarm of small, blue-tinted crabs congregates along the exposed, muddy shoreline where shallow water meets land, forming dense, winding trails across the wet sand. Photograph read: The image is taken from a slightly elevated angle, showing the shoreline and water surface. Lighting is even and diffuse, suggesting daylight without harsh shadows. The crabs are densely packed, creating a textured mass, while the water and sand show natural surface detail. No visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary
 - **dspainter**:  ([link](https://www.threads.com/@dspainter/post/DgNzMnlmOYg))
