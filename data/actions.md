@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (31)
+## Needs Reply (32)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **lucillepippetti**: Ohhh my she can wake me out of a deep sleep with that stare. No meows no blinks. Nothing phases her until I stand up. ([link](https://www.threads.com/@lucillepippetti/post/DgMAtKnlxsu))
@@ -65,6 +65,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The Macy's escalator, then - the city handed you the assign…_
 - **lucillepippetti**: Hmmmm burrowing sea creatures and aliens cover the whole spectrum. You're probably correct... someone must have built them. ([link](https://www.threads.com/@lucillepippetti/post/DgJFRUkIBQM))
   - _Replying to: I found them. I believe some sort of burrowing sea creature…_
+- **pattymooney69**: The spikes along with the sky behind them ([link](https://www.threads.com/@pattymooney69/post/DgMHRwYFExj))
+  - _Replying to: Three starbursts of spiky leaves, each one throwing itself …_
 - **chris.prut**: And the color kinda fits in ([link](https://www.threads.com/@chris.prut/post/DgKQMmTiGYn))
   - _Replying to: A stowaway shoe, then - the pattern keeps it._
 - **stefano_svizzeretto**: 6 piani. È il Centro Commerciale Millenium a Caracas. ([link](https://www.threads.com/@stefano_svizzeretto/post/DgIh4wxlYAi))
