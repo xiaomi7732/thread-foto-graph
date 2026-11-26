@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (42)
+## Needs Reply (45)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **tim22974**:  ([link](https://www.threads.com/@tim22974/post/DgNb5aADWrZ))
+  - Photo: Description: A white rocking chair with a decorative pillow rests on a porch, beside an open wooden trunk filled with pumpkins and dried floral arrangements. Behind them are white shutters and a window with a screen. Photograph read: The image is taken in bright daylight, with strong directional sunlight casting sharp shadows. The composition is angled, focusing on the chair and trunk. The rendering is clear, with visible textures on the wood and fabric, though some areas are overexposed to the point of loss of detail. Photo type: Still life
 - **jh1962bike**: Hard hats ([link](https://www.threads.com/@jh1962bike/post/DgNbngCCHJV))
   - Photo: Description: The image displays a collection of red and yellow hard hats arranged on a textured, dark gray surface with streaks of white and red paint. Photograph read: The hard hats are centrally composed, with varied orientations and slight surface reflections. The background shows vertical streaks and splatters, suggesting paint application. Lighting is even across the scene, with no visible shadows or highlights indicating a specific light source. Photo type: Still life
 - **difishing**:  ([link](https://www.threads.com/@difishing/post/DgNbHe6FnhZ))
@@ -16,6 +18,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **brownmgjmu**: Childhood memories ([link](https://www.threads.com/@brownmgjmu/post/DgNa7X4jdq9))
   - Photo: Description: A collage of numerous vintage photographs depicting children, families, and domestic scenes from various eras, including holiday gatherings, portraits, and outdoor settings. Photograph read: The images vary in color saturation, contrast, and resolution; some are in color, others in black and white, with inconsistent sharpness and exposure. Many show signs of aging, such as fading, creasing, or slight discoloration. Photo type: Vintage family album collage
     - Watch-outs: - Multiple images show faded or washed-out color, particularly in the upper right quadrant where a child in a light dress appears indistinct. - Several photographs exhibit visible creases or paper damage, especially along the edges of the lower-left and center images, affecting legibility of subjects.
+- **syldelteglia**: Not really sure, I think they are appreciate for their fragrance. They were a lovely sight, indeed. ([link](https://www.threads.com/@syldelteglia/post/DgNb-SFHF_e))
+  - _Replying to: A whole market stall in one frame, and every bud still hold…_
+- **paul.moorman91**: A very busy aquarium tank intersection lol ([link](https://www.threads.com/@paul.moorman91/post/DgNb4eXlmN6))
+  - _Replying to: A whole reef turned up in one frame. I think the yellow one…_
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
   - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
 

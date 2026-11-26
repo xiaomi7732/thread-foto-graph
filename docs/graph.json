@@ -10,8 +10,20 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 22,
+      "reply_count": 25,
       "replies": [
+        {
+          "username": "tim22974",
+          "text": "",
+          "permalink": "https://www.threads.com/@tim22974/post/DgNb5aADWrZ",
+          "photos": [
+            "Description: A white rocking chair with a decorative pillow rests on a porch, beside an open wooden trunk filled with pumpkins and dried floral arrangements. Behind them are white shutters and a window with a screen. Photograph read: The image is taken in bright daylight, with strong directional sunlight casting sharp shadows. The composition is angled, focusing on the chair and trunk. The rendering is clear, with visible textures on the wood and fabric, though some areas are overexposed to the point of loss of detail. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jh1962bike",
           "text": "Hard hats",
@@ -82,7 +94,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "syldelteglia",
+                  "text": "Not really sure, I think they are appreciate for their fragrance. They were a lovely sight, indeed.",
+                  "permalink": "https://www.threads.com/@syldelteglia/post/DgNb-SFHF_e",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -154,7 +177,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "paul.moorman91",
+                  "text": "A very busy aquarium tank intersection lol",
+                  "permalink": "https://www.threads.com/@paul.moorman91/post/DgNb4eXlmN6",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
