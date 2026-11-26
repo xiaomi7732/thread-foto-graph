@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (53)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **carolyn.suski**:  ([link](https://www.threads.com/@carolyn.suski/post/DgNidvKFdr8))
+  - Photo: Description: A rustic wooden wagon filled with assorted pumpkins, gourds, dried corn stalks, and autumnal foliage is positioned on a paved surface, with a green building and grassy area in the background. Photograph read: The image is taken in natural daylight with even illumination. The wagon and its contents are in focus, while the background is slightly out of focus. The rendering preserves texture and color without visible compression or noise artifacts. Photo type: Still life
+- **silmarillioncollector**: A mud flat full of Northern lapwings (Vanellus vanellus), taken on Monday 23 November at @wwtslimbridge . ([link](https://www.threads.com/@silmarillioncollector/post/DgNiJrtiCM3))
+  - Photo: Description: A flock of wading birds stands in shallow water near the edge of a lake, with a grassy foreground and reeds in the background. Photograph read: The image is taken in bright, even daylight with a shallow depth of field, causing the foreground grass and distant reeds to be out of focus. The birds are in focus but appear as a group without individual detail discernible. The water surface shows gentle ripples and reflections. Photo type: Natural landscape
 - **leanne.raddatz**: Sea Glass ([link](https://www.threads.com/@leanne.raddatz/post/DgNhWzEm7oD))
   - Photo: Description: The image shows a close-up of a surface covered with small, fragmented pieces of glass and pebbles, mixed with sand and seaweed, likely on a beach or rocky shoreline. Photograph read: The composition is a dense, textured field of glass shards and stones. Lighting is uneven, with bright highlights on some glass fragments and deep shadows in surrounding areas. Rendering is flat, with no visible depth of field or lens distortion. Photo type: Macro
     - Watch-outs: - The upper right corner is dark and indistinct, obscuring the boundary between the gravel and surrounding rock. - The lower edge of the image is partially cut off, limiting the view of the subject’s extent and context.
