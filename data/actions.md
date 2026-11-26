@@ -6,13 +6,20 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (47)
+## Needs Reply (51)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **glendagh25**: The herding dog is just out of frame ([link](https://www.threads.com/@glendagh25/post/DgNlK1Lj50H))
+  - Photo: Description: A group of sheep with thick wool and dark faces are clustered near a metal fence, with one sheep in the foreground having prominent curved horns and a yellow ear tag. A person in jeans and a dark jacket stands behind them, touching one sheep. The ground is a mix of gravel and grass, with some muddy patches. Photograph read: The image is taken from a slightly elevated angle, with the foreground dominated by a metal fence. Lighting is diffuse and even, suggesting an overcast day. The sheep’s wool appears textured, and the ear tags are legible. The composition is tight, focusing on the animals and the immediate surroundings. Photo type: Documentary
+- **carolyn.suski**: That was not created by me, only photographed by me; it was part of a beautiful fall arrangement outside of a winery in Niagara. The vignette was too pretty to not capture! ([link](https://www.threads.com/@carolyn.suski/post/DgNlQTDPYCQ))
+  - _Replying to: That wagon is doing a lot of heavy lifting for autumn - pum…_
 - **silmarillioncollector**: The flock had been there for at least twenty minutes; then one more flew in, and I took the shot while its wings were still up. ([link](https://www.threads.com/@silmarillioncollector/post/DgNkHCuCDn0))
   - _Replying to: How long did you wait before the whole flock settled into t…_
 - **leanne.raddatz**: I look for anything. The Sea Glass Beach at Fort Bragg CA has now been plundered. This was taken over 10 years ago. It really is sad that it doesn't exist in this form, but I am glad I got to see it in its glory. ([link](https://www.threads.com/@leanne.raddatz/post/DgNj2lJmHKI))
   - _Replying to: I think the tight crop is a good call - every shard gets it…_
+- **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/DgNlQcKAhZs))
+  - Photo: Description: A dark-colored car is parked on an asphalt surface scattered with fallen autumn leaves, with reflections of trees and a building visible on its glossy side panel and window. Photograph read: The image is taken at a low angle, capturing the car’s side door and window. Lighting is diffuse, suggesting an overcast day. Reflections on the car’s surface are clear but do not obscure the subject. The asphalt and leaves are in focus, with no visible motion blur or depth-of-field issues. Photo type: Documentary
+  - _Replying to: Are those leaves on the ground, or in the car door, or both…_
 - **sue_wigs**: They were massing because people were feeding them. ([link](https://www.threads.com/@sue_wigs/post/DgNkE7SCNxA))
   - _Replying to: A whole flotilla of swans, neck after neck, lined up along …_
 - **dianelynnturnbull**: These are things I picked up on the camp property as we were cleaning up after the Oregon fires in 2020. ([link](https://www.threads.com/@dianelynnturnbull/post/DgNeYUQFHRx))
@@ -30,6 +37,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Multiple images show faded or washed-out color, particularly in the upper right quadrant where a child in a light dress appears indistinct. - Several photographs exhibit visible creases or paper damage, especially along the edges of the lower-left and center images, affecting legibility of subjects.
 - **syldelteglia**: Thanks to you for your kindness. ([link](https://www.threads.com/@syldelteglia/post/DgNcpnhHL5T))
   - _Replying to: Fragrance and color both - a lovely sight indeed. Thanks fo…_
+- **eelizjjjm**: The Pumpkin Patch displaying it’s wares in an artful manner— Hooke me in! I bought 3! ([link](https://www.threads.com/@eelizjjjm/post/DgNlLitIIlQ))
+  - _Replying to: That little striped gourd on the right looks like it wander…_
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
   - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
 
