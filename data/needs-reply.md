@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (49)
+## Needs Reply (50)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **dspainter**:  ([link](https://www.threads.com/@dspainter/post/DgNzMnlmOYg))
+  - Photo: Description: A large pile of worn, varied plush toys, including bears, Pikachu, and other characters, is piled outdoors under an overcast sky with bare trees in the background. Photograph read: The image is composed with the pile of toys filling the frame, captured with diffuse, even lighting. The rendering shows moderate contrast and color saturation, with no visible signs of lens distortion or chromatic aberration. Photo type: Still life
 - **jbrucewilcox**: nekkedKen gathered all his balls together for you... ([link](https://www.threads.com/@jbrucewilcox/post/DgNxit-Fhi3))
   - Photo: Description: A male action figure stands centrally among a collection of various balls, including sports balls, decorative spheres, and novelty items, all arranged on a dark surface. Photograph read: The image is evenly lit with no visible shadows or highlights indicating directional lighting. The subject and surrounding objects are in focus, with no signs of motion blur or lens distortion. The composition is flat, with no depth cues beyond the arrangement of items. Photo type: Still life
 - **stickyshutterphotography**:  ([link](https://www.threads.com/@stickyshutterphotography/post/DgNvydQiKXy))
