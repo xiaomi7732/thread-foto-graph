@@ -10,7 +10,7 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 57,
+      "reply_count": 62,
       "replies": [
         {
           "username": "carolyn.suski",
@@ -54,7 +54,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "silmarillioncollector",
+                  "text": "The flock had been there for at least twenty minutes; then one more flew in, and I took the shot while its wings were still up.",
+                  "permalink": "https://www.threads.com/@silmarillioncollector/post/DgNkHCuCDn0",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -80,7 +91,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "leanne.raddatz",
+                  "text": "I look for anything. The Sea Glass Beach at Fort Bragg CA has now been plundered. This was taken over 10 years ago. It really is sad that it doesn't exist in this form, but I am glad I got to see it in its glory.",
+                  "permalink": "https://www.threads.com/@leanne.raddatz/post/DgNj2lJmHKI",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -152,7 +174,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sue_wigs",
+                  "text": "They were massing because people were feeding them.",
+                  "permalink": "https://www.threads.com/@sue_wigs/post/DgNkE7SCNxA",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -193,7 +226,28 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "sue_wigs",
+                  "text": "Can you see the tar from them on the walls?",
+                  "permalink": "https://www.threads.com/@sue_wigs/post/DgNj7MniPh7",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
+                {
+                  "username": "sue_wigs",
+                  "text": "Got a feeling they are in there 24 hrs.",
+                  "permalink": "https://www.threads.com/@sue_wigs/post/DgNj2jgCCfC",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
