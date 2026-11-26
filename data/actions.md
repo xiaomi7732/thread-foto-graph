@@ -6,9 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (49)
+## Needs Reply (51)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **leanne.raddatz**: Sea Glass ([link](https://www.threads.com/@leanne.raddatz/post/DgNhWzEm7oD))
+  - Photo: Description: The image shows a close-up of a surface covered with small, fragmented pieces of glass and pebbles, mixed with sand and seaweed, likely on a beach or rocky shoreline. Photograph read: The composition is a dense, textured field of glass shards and stones. Lighting is uneven, with bright highlights on some glass fragments and deep shadows in surrounding areas. Rendering is flat, with no visible depth of field or lens distortion. Photo type: Macro
+    - Watch-outs: - The upper right corner is dark and indistinct, obscuring the boundary between the gravel and surrounding rock. - The lower edge of the image is partially cut off, limiting the view of the subject’s extent and context.
+- **fabienne_journey**: In the reflection of the door of a car ([link](https://www.threads.com/@fabienne_journey/post/DgNhWOUgvqY))
+  - Photo: Description: The foreground shows a ground covered in fallen brown leaves, with a weathered wooden surface and a metal rail visible at the bottom. In the background, bare trees frame a row of residential buildings across a grassy or muddy embankment, with a small body of water partially visible. Photograph read: The image has a shallow depth of field, with the foreground leaves in focus and the background buildings and trees blurred. Lighting is diffuse and even, suggesting an overcast day. The image exhibits a slight softness or motion blur, particularly in the midground vegetation and background structures. Photo type: Natural
+    - Watch-outs: The background buildings are indistinct due to atmospheric haze and blur, reducing detail. The foreground leaves, while in focus, show no discernible texture or individual leaf structure beyond general color and shape.
 - **5938crest**:  ([link](https://www.threads.com/@5938crest/post/DgNe5lmFOQ5))
   - Photo: Description: A large pile of fresh shrimp rests on ice in a seafood market, with shoppers and price signs visible in the background against a blue aquarium backdrop. Photograph read: The foreground shrimp are in focus, with even lighting from overhead sources. Background figures and signage are slightly less sharp but still legible. The aquarium wall is brightly lit and shows clear fish imagery. Photo type: Commercial
 - **sue_wigs**: Swans, Stratford upon Avon, U. K. ([link](https://www.threads.com/@sue_wigs/post/DgNeztaCIEZ))

@@ -10,8 +10,38 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 42,
+      "reply_count": 44,
       "replies": [
+        {
+          "username": "leanne.raddatz",
+          "text": "Sea Glass",
+          "permalink": "https://www.threads.com/@leanne.raddatz/post/DgNhWzEm7oD",
+          "photos": [
+            "Description: The image shows a close-up of a surface covered with small, fragmented pieces of glass and pebbles, mixed with sand and seaweed, likely on a beach or rocky shoreline. Photograph read: The composition is a dense, textured field of glass shards and stones. Lighting is uneven, with bright highlights on some glass fragments and deep shadows in surrounding areas. Rendering is flat, with no visible depth of field or lens distortion. Photo type: Macro"
+          ],
+          "watch_outs": [
+            "- The upper right corner is dark and indistinct, obscuring the boundary between the gravel and surrounding rock. - The lower edge of the image is partially cut off, limiting the view of the subject\u2019s extent and context."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "fabienne_journey",
+          "text": "In the reflection of the door of a car",
+          "permalink": "https://www.threads.com/@fabienne_journey/post/DgNhWOUgvqY",
+          "photos": [
+            "Description: The foreground shows a ground covered in fallen brown leaves, with a weathered wooden surface and a metal rail visible at the bottom. In the background, bare trees frame a row of residential buildings across a grassy or muddy embankment, with a small body of water partially visible. Photograph read: The image has a shallow depth of field, with the foreground leaves in focus and the background buildings and trees blurred. Lighting is diffuse and even, suggesting an overcast day. The image exhibits a slight softness or motion blur, particularly in the midground vegetation and background structures. Photo type: Natural"
+          ],
+          "watch_outs": [
+            "The background buildings are indistinct due to atmospheric haze and blur, reducing detail. The foreground leaves, while in focus, show no discernible texture or individual leaf structure beyond general color and shape."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "5938crest",
           "text": "",
