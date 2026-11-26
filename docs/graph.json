@@ -10,8 +10,32 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 39,
+      "reply_count": 42,
       "replies": [
+        {
+          "username": "5938crest",
+          "text": "",
+          "permalink": "https://www.threads.com/@5938crest/post/DgNe5lmFOQ5",
+          "photos": [
+            "Description: A large pile of fresh shrimp rests on ice in a seafood market, with shoppers and price signs visible in the background against a blue aquarium backdrop. Photograph read: The foreground shrimp are in focus, with even lighting from overhead sources. Background figures and signage are slightly less sharp but still legible. The aquarium wall is brightly lit and shows clear fish imagery. Photo type: Commercial"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "sue_wigs",
+          "text": "Swans, Stratford upon Avon, U. K.",
+          "permalink": "https://www.threads.com/@sue_wigs/post/DgNeztaCIEZ",
+          "photos": [
+            "Description: A large group of white swans is gathered in a body of water near a paved embankment, with two tour boats moored in the background and trees and a distant spire visible across the water. Photograph read: The image is taken from a slightly elevated angle, with the swans occupying the foreground and midground. Lighting is bright and even, suggesting daytime. The water surface shows gentle ripples, and the image has a shallow depth of field, with the swans in focus while the background is slightly softer. The embankment edge is in sharp focus, contrasting with the water. Photo type: Natural"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "dianelynnturnbull",
           "text": "These are things I picked up on the camp property as we were cleaning up after the Oregon fires in 2020.",
@@ -188,7 +212,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "auerbach_photos",
+                  "text": "This was taken at a street market in Athens! I was drawn to the beauty and life within each one, so different yet the same.",
+                  "permalink": "https://www.threads.com/@auerbach_photos/post/DgNe3TTlt47",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (49)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **5938crest**:  ([link](https://www.threads.com/@5938crest/post/DgNe5lmFOQ5))
+  - Photo: Description: A large pile of fresh shrimp rests on ice in a seafood market, with shoppers and price signs visible in the background against a blue aquarium backdrop. Photograph read: The foreground shrimp are in focus, with even lighting from overhead sources. Background figures and signage are slightly less sharp but still legible. The aquarium wall is brightly lit and shows clear fish imagery. Photo type: Commercial
+- **sue_wigs**: Swans, Stratford upon Avon, U. K. ([link](https://www.threads.com/@sue_wigs/post/DgNeztaCIEZ))
+  - Photo: Description: A large group of white swans is gathered in a body of water near a paved embankment, with two tour boats moored in the background and trees and a distant spire visible across the water. Photograph read: The image is taken from a slightly elevated angle, with the swans occupying the foreground and midground. Lighting is bright and even, suggesting daytime. The water surface shows gentle ripples, and the image has a shallow depth of field, with the swans in focus while the background is slightly softer. The embankment edge is in sharp focus, contrasting with the water. Photo type: Natural
 - **dianelynnturnbull**: These are things I picked up on the camp property as we were cleaning up after the Oregon fires in 2020. ([link](https://www.threads.com/@dianelynnturnbull/post/DgNeYUQFHRx))
   - Photo: Description: A hand holds a corroded, rusted object that appears to be a modified or damaged grenade, featuring a bottle-like body, a wire coil, and a pair of scissors attached to its top, set against a blurred outdoor background of grass and dirt. Photograph read: The image is taken in bright daylight with natural lighting, showing clear contrast between the foreground object and the background. The focus is centered on the object, though some parts are slightly soft. The rendering preserves surface textures and rust patterns, with no visible signs of motion blur or lens distortion. Photo type: Documentary
     - Watch-outs: - The object’s upper section, including the scissors and wire coil, is partially obscured by rust and debris, reducing clarity of mechanical details. - The background is out of focus, limiting context and depth perception for the object’s spatial relationship to its environment.
@@ -24,6 +28,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Is that one bright yellow leaf the whole reason you stopped…_
 - **difishing**: Its fall and leaves been accumulating last couple of weeks. Natural Dam is what it’s called in the town of Natural Dam Arkansas. My grandfather was born in the area and was the last of 11 kids. Been 30 years since i had last seen the place. ([link](https://www.threads.com/@difishing/post/DgNdN7LliOw))
   - _Replying to: Is that one bright yellow leaf the whole reason you stopped…_
+- **auerbach_photos**: This was taken at a street market in Athens! I was drawn to the beauty and life within each one, so different yet the same. ([link](https://www.threads.com/@auerbach_photos/post/DgNe3TTlt47))
+  - _Replying to: A pile of spirals, every one striped a little differently -…_
 - **brownmgjmu**: Childhood memories ([link](https://www.threads.com/@brownmgjmu/post/DgNa7X4jdq9))
   - Photo: Description: A collage of numerous vintage photographs depicting children, families, and domestic scenes from various eras, including holiday gatherings, portraits, and outdoor settings. Photograph read: The images vary in color saturation, contrast, and resolution; some are in color, others in black and white, with inconsistent sharpness and exposure. Many show signs of aging, such as fading, creasing, or slight discoloration. Photo type: Vintage family album collage
     - Watch-outs: - Multiple images show faded or washed-out color, particularly in the upper right quadrant where a child in a light dress appears indistinct. - Several photographs exhibit visible creases or paper damage, especially along the edges of the lower-left and center images, affecting legibility of subjects.
