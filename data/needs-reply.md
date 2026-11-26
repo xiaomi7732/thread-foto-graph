@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (50)
+## Needs Reply (51)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **tallymountain**: People ([link](https://www.threads.com/@tallymountain/post/DgOQOUrEnC2))
+  - Photo: Description: A group of people in yellow rain ponchos stands on a wet viewing platform overlooking the powerful, mist-laden Niagara Falls, with a tour boat visible on the river below. Photograph read: The image is taken from an elevated position, capturing the falls and the crowd under an overcast sky. The lighting is diffuse and even, with no harsh shadows or highlights. The water and mist are rendered with visible motion and texture, while the people are relatively sharp but appear slightly compressed in the frame. Photo type: Documentary
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DgOMsCnERSZ))
   - Photo: Description: The photograph shows a dense layer of fallen autumn leaves covering the ground, with a mix of yellow, brown, and pale beige hues, and some leaves showing signs of decay or damage. Photograph read: The image is a top-down view with even, diffuse lighting, capturing the texture and color variation of the leaves. The composition is filled with overlapping leaves, with no discernible focal point or depth of field variation. Rendering is consistent across the frame without visible artifacts or distortion. Photo type: Natural
 - **schemenme**:  ([link](https://www.threads.com/@schemenme/post/DgOIoCoAdua))
