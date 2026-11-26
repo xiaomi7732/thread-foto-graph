@@ -13,7 +13,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 130,
+      "reply_count": 131,
       "replies": [
         {
           "username": "monaw17",
@@ -212,7 +212,23 @@
                       "needs_response": false,
                       "action": null,
                       "hidden": false,
-                      "replies": []
+                      "replies": [
+                        {
+                          "username": "ashu_anu87",
+                          "text": "Thanks for inspiring words here is one more he built",
+                          "permalink": "https://www.threads.com/@ashu_anu87/post/DgMM8-8mNW-",
+                          "photos": [
+                            "Description: A LEGO-built sports car model, primarily gray with orange and blue accents, is positioned on a dark wooden surface, with a blurred background containing office furniture and a plant. Photograph read: The image is taken from a low angle, focusing on the car\u2019s side and front. Lighting is even and diffused, with no harsh shadows or overexposed areas. The depth of field is shallow, causing the background to be out of focus while the car is relatively sharp. The car\u2019s internal mechanical components are visible but not sharply detailed. Photo type: Product photography"
+                          ],
+                          "watch_outs": [
+                            "- The front bumper and lower chassis area are slightly out of focus, reducing clarity of mechanical parts. - The rear engine compartment and upper body panels show minor motion blur or soft focus, obscuring fine details of the LEGO construction."
+                          ],
+                          "needs_response": true,
+                          "action": "reply",
+                          "hidden": false,
+                          "replies": []
+                        }
+                      ]
                     }
                   ]
                 }

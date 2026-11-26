@@ -6,13 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (33)
+## Needs Reply (34)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
 - **monaw17**:  ([link](https://www.threads.com/@monaw17/post/DgMJ862FAvn))
   - Photo: Description: A black bird-like mask with a large beak and a single prominent googly eye wears a black top hat with a purple band and a cartoon sticker of the Pink Panther. The mask is adorned with purple feathers around its neck and has a purple ribbon at the throat. The subject is positioned in front of a white-framed window with a textured white wall to the left. Photograph read: The image is a close-up shot with even, diffuse lighting. The subject is in focus, and the background is softly blurred due to depth of field. The hat’s brim and the feathers are clearly visible, and the texture of the mask’s surface is discernible. The window frame and wall provide a simple, non-distracting backdrop. Photo type: Portrait
 - **lucillepippetti**: Ohhh my she can wake me out of a deep sleep with that stare. No meows no blinks. Nothing phases her until I stand up. ([link](https://www.threads.com/@lucillepippetti/post/DgMAtKnlxsu))
   - _Replying to: No meow needed - those green eyes are doing all the talking…_
+- **ashu_anu87**: Thanks for inspiring words here is one more he built ([link](https://www.threads.com/@ashu_anu87/post/DgMM8-8mNW-))
+  - Photo: Description: A LEGO-built sports car model, primarily gray with orange and blue accents, is positioned on a dark wooden surface, with a blurred background containing office furniture and a plant. Photograph read: The image is taken from a low angle, focusing on the car’s side and front. Lighting is even and diffused, with no harsh shadows or overexposed areas. The depth of field is shallow, causing the background to be out of focus while the car is relatively sharp. The car’s internal mechanical components are visible but not sharply detailed. Photo type: Product photography
+    - Watch-outs: - The front bumper and lower chassis area are slightly out of focus, reducing clarity of mechanical parts. - The rear engine compartment and upper body panels show minor motion blur or soft focus, obscuring fine details of the LEGO construction.
+  - _Replying to: Months of patience in one little car - your son built a pro…_
 - **raylehr1783**: Toilet seat in the sky. Get ready to get dumped on! 😳 ([link](https://www.threads.com/@raylehr1783/post/DgLXY1doLjD))
   - Photo: Description: A single, elongated white cloud formation floats against a deep blue sky, with a small contrail visible within it and a tree silhouette in the lower right corner. Photograph read: The cloud is centrally positioned, with bright illumination from above, casting subtle shadows within its structure. The sky is uniformly blue with no visible atmospheric haze or lens distortion. The tree branches are sharply defined against the sky. Photo type: Natural landscape
 - **tiv34**: Owls. They’re there if you look. ([link](https://www.threads.com/@tiv34/post/DgLVwiuCodH))
