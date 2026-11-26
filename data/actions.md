@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (54)
+## Needs Reply (55)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **amaginings**: Farmers’ Market ([link](https://www.threads.com/@amaginings/post/DgNmqkylKMu))
@@ -31,6 +31,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Row after row of kippers hung up in the dark like laundry o…_
 - **sue_wigs**: Got a feeling they are in there 24 hrs. ([link](https://www.threads.com/@sue_wigs/post/DgNj2jgCCfC))
   - _Replying to: Row after row of kippers hung up in the dark like laundry o…_
+- **resnicklr**: Came across it hiking on coast of Iceland. ([link](https://www.threads.com/@resnicklr/post/DgNn_T4FY8j))
+  - _Replying to: A whole fleet of runaway buoys, beached on the grass and st…_
 - **jh1962bike**: Real hats on a board . It was on a construction site , so I don’t know if the workers were just having fun with their hats or what ?? ([link](https://www.threads.com/@jh1962bike/post/DgNmcgFiFBd))
   - _Replying to: That deep red one at the top left is doing all the talking,…_
 - **difishing**: Down stream shot looking back up ([link](https://www.threads.com/@difishing/post/DgNeECflvDM))
