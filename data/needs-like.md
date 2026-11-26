@@ -4,9 +4,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (20)
+## Needs Like (21)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- silmarillioncollector: Thank you! ([link](https://www.threads.com/@silmarillioncollector/post/DgNutIejBWo))
 - tim22974: Fall display 👍🍁 ([link](https://www.threads.com/@tim22974/post/DgNcoRgDaOI))
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))

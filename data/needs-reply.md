@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (45)
+## Needs Reply (46)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgNuKYRn8A9))
@@ -13,6 +13,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A close-up shot of a pile of fresh radishes with their green leafy tops and fine root hairs visible, set against a dark background with a hint of yellow vertical structure in the upper portion. Photograph read: The image is composed with a shallow depth of field, focusing on the radishes in the foreground. Lighting is direct and bright, creating strong highlights on the radish skins and casting shadows in the crevices. The rendering preserves surface texture and color saturation, with some areas of the radishes appearing overexposed. Photo type: Still life
 - **dianelynnturnbull**: I can't recall anything strange but some things that were certainly unexpected. A year or so ago I found a brush covered set of stairs... ([link](https://www.threads.com/@dianelynnturnbull/post/DgNuYkzEvP6))
   - _Replying to: A whole little world of rust and wire in one handful, and t…_
+- **dianelynnturnbull**: I can't find the photo but I will try and share it later. Gotta go cook some thanksgiving food! ☺️ ([link](https://www.threads.com/@dianelynnturnbull/post/DgNu-EpkjQG))
+  - _Replying to: I can't recall anything strange but some things that were c…_
 - **sue_wigs**: Got a feeling they are in there 24 hrs. ([link](https://www.threads.com/@sue_wigs/post/DgNj2jgCCfC))
   - _Replying to: Row after row of kippers hung up in the dark like laundry o…_
 - **difishing**: Down stream shot looking back up ([link](https://www.threads.com/@difishing/post/DgNeECflvDM))
