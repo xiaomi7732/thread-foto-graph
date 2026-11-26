@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (32)
+## Needs Reply (33)
 
 ### Looking Back Wednesday 👀 Today's prompt is things that look… ([thread](https://www.threads.com/@saars.foto/post/DgKy_JioK1F))
+- **monaw17**: I should look so good 😁 ([link](https://www.threads.com/@monaw17/post/DgMeY2UFNIC))
+  - _Replying to: One googly eye, a top hat, and the Pink Panther riding alon…_
 - **ashu_anu87**: Thanks for inspiring words here is one more he built ([link](https://www.threads.com/@ashu_anu87/post/DgMM8-8mNW-))
   - Photo: Description: A LEGO-built sports car model, primarily gray with orange and blue accents, is positioned on a dark wooden surface, with a blurred background containing office furniture and a plant. Photograph read: The image is taken from a low angle, focusing on the car’s side and front. Lighting is even and diffused, with no harsh shadows or overexposed areas. The depth of field is shallow, causing the background to be out of focus while the car is relatively sharp. The car’s internal mechanical components are visible but not sharply detailed. Photo type: Product photography
     - Watch-outs: - The front bumper and lower chassis area are slightly out of focus, reducing clarity of mechanical parts. - The rear engine compartment and upper body panels show minor motion blur or soft focus, obscuring fine details of the LEGO construction.
