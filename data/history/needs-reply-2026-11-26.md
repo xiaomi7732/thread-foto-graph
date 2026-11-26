@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (47)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **stickyshutterphotography**:  ([link](https://www.threads.com/@stickyshutterphotography/post/DgNvydQiKXy))
+  - Photo: Description: A cluster of small, pale mushrooms grows densely from a mossy, textured tree trunk, with the background showing dark, rough bark and green moss. Photograph read: The image is in sharp focus, with even lighting that highlights the mushrooms’ rounded caps and slender stems. The composition centers the fungal cluster against the contrasting dark bark and green moss. Rendering is naturalistic, with no visible signs of compression, noise, or color distortion. Photo type: Naturalistic
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgNuKYRn8A9))
   - Photo: Description: A green wire mesh enclosure contains a large pile of discarded plastic bottles and containers, with various caps and labels visible. Photograph read: The image is composed of a close-up, grid-patterned foreground with a dense mass of plastic waste behind it. Lighting is even and diffuse, with no strong shadows or highlights. The rendering is clear enough to discern individual bottles and caps, though some labels are partially obscured. Photo type: Documentary
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgNrOKto1Ub))
