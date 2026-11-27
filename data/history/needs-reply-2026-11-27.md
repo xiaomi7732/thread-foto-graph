@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (71)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgQ3JS9kr_K))
@@ -26,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A partially decomposed animal carcass, including a skull and ribcage, lies on a ground surface of dry grass, small stones, and scattered debris. Photograph read: The image is taken from a high angle, with direct sunlight casting sharp shadows. The subject is in focus, but the surrounding ground shows no signs of motion blur or focus falloff. Color saturation is natural, and contrast is moderate. Photo type: Documentary
 - **anthonywood1277**: Yeah I new the wreck was there, I have been to this beach many times ([link](https://www.threads.com/@anthonywood1277/post/DgQr30Ek8Ig))
   - _Replying to: Those blackened ribs sticking out of the sand look like the…_
+- **medium.gords7**: I like to think it’s still sitting there. 😀 I took this photo in Ireland 10 years ago. ([link](https://www.threads.com/@medium.gords7/post/DgQ3zHtGzhP))
+  - _Replying to: A blue boat pulled up at the shore with its oars still aboa…_
 - **jessgperry**: It was in the morning, for sure. ([link](https://www.threads.com/@jessgperry/post/DgQu14RkteP))
   - _Replying to: Jeans on the pavement, a Blue Moon on the gravel - somebody…_
 - **ben.bennion**: I photographed my mother holding one and made her put it back . I even borrowed some of her water to cover some pebbles to give them a sheen . And still made her put it back ([link](https://www.threads.com/@ben.bennion/post/DgQrnv7Avyq))
