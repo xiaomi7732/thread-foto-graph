@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (60)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **smilingjeannie**: Lobster traps left behind for the next season. Scotland. ([link](https://www.threads.com/@smilingjeannie/post/DgQALqjEa4T))
@@ -16,15 +16,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **maureenozerimages**: Tyres at beach ([link](https://www.threads.com/@maureenozerimages/post/DgP_9bDDdAD))
   - Photo: Description: Two discarded car wheels, one with a rusted steel rim and the other with a more corroded, possibly aluminum rim, lie on sandy ground next to a concrete curb, with sparse green grass nearby. Photograph read: The image is in focus with even, natural lighting, capturing fine details on the tires and rust patterns. The composition places the wheels in the foreground, with a shallow depth of field blurring the background pavement and curb. Photo type: Documentary
     - Watch-outs: - The tire tread and sidewall text on the front wheel are partially legible but not fully readable due to wear and dirt. - The rust patterns on the rims are visible but not sharply defined, with some areas obscured by surface texture and debris.
-- **mommatex**:  ([link](https://www.threads.com/@mommatex/post/DgP_Z00lEFp))
-  - Photo: Description: A yellow and black toy excavator rests on wet sand near the water’s edge, surrounded by scattered green seaweed and small debris. Photograph read: The image is taken from a slightly elevated angle, with even, diffused lighting. The focus is centered on the toy, with the background and foreground seaweed slightly out of focus. The sand’s texture is visible, and the water’s surface is shallow and reflective. Photo type: Documentary
-- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DgP_RnflVAe))
-  - Photo: Description: A heavy, rusted chain lies coiled on a concrete surface, with a similarly corroded cylindrical metal structure partially visible in the background. Photograph read: The image is in sharp focus, with even lighting that clearly renders the texture and rust patterns on the chain and cylinder. The composition is straightforward, with the chain as the central subject and the cylinder as a background element. Photo type: Documentary
-- **p.a.tovo**:  ([link](https://www.threads.com/@p.a.tovo/post/DgP-tXKG8Wc))
-  - Photo: Description: A black-and-white photograph shows a small, round, smiling figurine with the word "LOVE" written on its body, positioned among dense, leafy vegetation on the ground. Photograph read: The image is in monochrome, with high contrast between the light-colored figurine and the dark foliage. The figurine is in focus, while the surrounding vegetation is slightly out of focus. Lighting appears natural and even, with no visible shadows or harsh highlights. Photo type: Still Life
-  - Photo: Description: A doll with a human-like face and bare torso lies on grass, partially surrounded by blades and small clover-like plants, with one arm extended outward. Photograph read: The image is in black and white, with high contrast between the grass and the doll. The doll is centrally positioned but not sharply focused, and the grass texture is dense and detailed. Lighting appears even, without obvious shadows or highlights. Photo type: Documentary
-- **unclediss**: I think there was some sort of beach celebration the day before, so I just came across this on a lovely Chicago summer morning.￼ ([link](https://www.threads.com/@unclediss/post/DgP_2jGG7D4))
+- **unclediss**: There must have been a ￼beach celebration prior, but I just came across this on a lovely Chicago summer morning.￼ ([link](https://www.threads.com/@unclediss/post/DgP_2jGG7D4))
   - _Replying to: The statue on the sand, pink flowers beside it, the sea rig…_
+- **auerbach_photos**: It was standing there, on the boulders, with other Inukshuks around them. ([link](https://www.threads.com/@auerbach_photos/post/DgQAdv8Fkcy))
+  - _Replying to: Did you find it standing there, or stack it stone by stone?…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
