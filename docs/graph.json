@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18083868308441870",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Left Behind Friday \ud83e\udde4 Today's prompt is the things we leave \u2026",
       "text": "Left Behind Friday \ud83e\udde4 Today's prompt is the things we leave behind - lost, forgotten, waiting to be found again. Mine is a worn longboard sitting in the leaves, still waiting for its rider. Show me ONE photo of something left behind: a lost glove, a lone shoe, a bike chained to nothing, a toy in the park. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -10,8 +10,20 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 62,
+      "reply_count": 82,
       "replies": [
+        {
+          "username": "sunnyclarkphotography",
+          "text": "Left behind.",
+          "permalink": "https://www.threads.com/@sunnyclarkphotography/post/DgQIno0FWRY",
+          "photos": [
+            "Description: A tattered, gray fabric garment hangs from a wire mesh fence with barbed wire above, against a light pink concrete block wall, with dry grass visible at the base. Photograph read: The image is in focus with even, diffuse lighting. The fence and wall are clearly rendered, and the fabric\u2019s texture, tears, and stains are visible. No motion blur, overexposure, or underexposure is apparent. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "musulnamja",
           "text": "",
@@ -34,10 +46,21 @@
           "watch_outs": [
             "The interior of the opening is dark, obscuring fine details of the bottle and the wall\u2019s inner surface. The broken stone slab is partially obscured by shadow and texture, limiting visibility of its shape and surface condition."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A little bottle tucked into the wall's dark window, a tin sheet for a curtain. Somebody left it there on purpose - what was it keeping?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQI0cCCWsn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "upsnodowns",
@@ -49,10 +72,21 @@
           "watch_outs": [
             "The background is significantly blurred, obscuring details of the surrounding environment. The plaid sphere\u2019s surface has visible texture and pattern, but the edges are not sharply defined, suggesting limited depth of field or slight focus softness."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The little one at the end of the bench, keeping the big dog company while the evening lights come on. I hope its owner comes back for it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQI1fkGnee",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "artiekay2",
@@ -61,10 +95,21 @@
           "photos": [
             "Description: A partially decomposed Mickey Mouse costume lies among dry leaves and pine needles on the forest floor, with visible wear and discoloration. Photograph read: The image is taken from a high angle, with natural, diffused lighting. The costume\u2019s red and yellow features are visible but faded, and the surrounding foliage is in focus. The texture of the leaves and needles is discernible, but the costume\u2019s fabric shows creases and dirt. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That Mickey print, half-buried in the leaves - a small bright thing in a heavy place. Thanks for looking closely enough to see it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQI2gBIKVm",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "irishrose_3",
@@ -73,10 +118,21 @@
           "photos": [
             "Description: Two apples, one green and one red, are positioned side-by-side on a flat surface with a blurred background featuring a grid-like pattern. Photograph read: The apples are in focus with visible surface texture and specular highlights. Lighting is direct and even, casting soft shadows. The background is out of focus, with no discernible depth of field beyond the foreground subjects. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two apples left on the desk, green and red side by side like they are keeping each other company. Who walked away from lunch, do you think?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIm1RFRSu",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "susanrutledge",
@@ -100,10 +156,21 @@
           "watch_outs": [
             "- The entire image exhibits visible grain and pixelation, reducing fine detail across the entire frame. - The ship\u2019s nameplate is partially worn, with faded lettering and minor chipping, limiting legibility of the text."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The name still reads clear across the water, all these years on. Is this from a visit, or an old family print?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIn2Im8Oz",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "akmaleky",
@@ -112,10 +179,21 @@
           "photos": [
             "Description: An abandoned, rusted vintage car with missing panels and interior components sits in a dirt yard beside a concrete block wall, surrounded by trees with yellowing leaves. Photograph read: The image is taken in natural daylight with even illumination; the car and surrounding foliage are in focus, though details are not sharply defined. The composition places the car centrally, with trees framing the sides and a wall behind. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That old car has settled right into the yard, trees and all, like the place grew up around it. What do you think its last drive was?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIoteEUj2",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joanmduffy",
@@ -127,10 +205,21 @@
           "watch_outs": [
             "The background waves are indistinct and blurred, obscuring any fine detail or texture. The toy car\u2019s paint and markings are partially worn and faded, reducing legibility of the number \u201c409\u201d and other graphics."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A little red-wheeled train left on a stump, waves behind it, paint worn down to the wood. Somebody's favorite once - I wonder how long it has been sitting there.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIqAGke_L",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "leanne.raddatz",
@@ -139,10 +228,21 @@
           "photos": [
             "Description: A plush pig with white fur and dark spots rests on the top of a weathered wooden fence post, with a residential street and a concrete wall in the background under clear skies. Photograph read: The image is taken in bright daylight with natural lighting, showing a shallow depth of field that blurs the background. The foreground fence and plush pig are in focus, while the background houses and foliage are softly out of focus. The pig\u2019s features are discernible, but the texture of the fence and surrounding environment is not sharply defined. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A spotted pig, perched on a fence post like it owns the street. Did it climb up there itself, or did someone give it the best seat?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIrIdlE2q",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mix4tv",
@@ -151,10 +251,21 @@
           "photos": [
             "Description: A single black high-heeled boot is positioned on a rough concrete surface, with a blurred background of a road, guardrails, and distant trees. Photograph read: The image is taken from a low angle, with the boot in sharp focus against a softly blurred background. Lighting appears to be natural daylight, casting subtle shadows. The image has a shallow depth of field, with the background rendered indistinct. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One boot, on its own by the shuttle bus, with the road going nowhere behind it. Whose night ended there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIsKoG0fN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "hilkatze",
@@ -175,20 +286,42 @@
           "photos": [
             "Description: A bicycle with a black frame, red-rimmed rear wheel, and a heart-shaped seat is parked against a weathered wooden fence, with a potted plant to its right on a concrete slab. Photograph read: The image is rendered with a warm color cast and moderate contrast, showing clear textures on the wood fence and bicycle components. The composition is static, with the bicycle occupying the left side and the plant on the right, both resting on a ground covered in dry leaves. Photo type: Aesthetic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Parked against the fence with the leaves piling up around it, like it has been waiting a while. Does it still get ridden, or is the fence its home now?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQItVrG_rg",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ben.bennion",
           "text": "When I went to Japan I stayed with friends I got a message that I had left an jacket and a towel at their house . They have a phrase for that - The things we left behind\" in Japanese can be translated as \u79c1\u305f\u3061\u304c\u6b8b\u3057\u305f\u3082\u306e (watashitachi ga nokoshita mono)",
           "permalink": "https://www.threads.com/@ben.bennion/post/DgQD52uAssb",
           "photos": [],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A jacket and a towel, and a whole phrase for the things we leave behind. I like that there is a name for it - did they send them back to you, or are they still waiting in Japan?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIuYIlHZC",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "vanamonde",
@@ -197,10 +330,21 @@
           "photos": [
             "Description: A crushed aluminum can of Dr Pepper sits on a wooden surface next to a partially opened pink cardboard box of \u201cUrban Eat\u201d egg mayo and bacon, and a green-wrapped Wrigley\u2019s Juicy Fruit candy bar. A black bag strap is visible to the left. Photograph read: The image is taken from a slightly elevated angle, with direct lighting casting clear shadows. The can and packaging are in focus, with visible text and details. The background includes a white countertop and a white wall, with no signs of motion blur or focus issues. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole lunch, left exactly where it ended - can open, sandwich box empty, gum for the road. What made its owner walk away mid-bite?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIvQRFGku",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "eleanorangelaholohan",
@@ -209,10 +353,21 @@
           "photos": [
             "Description: A weathered, two-story building with a rusted balcony and a dark wooden door stands at the end of a narrow, cobblestone alleyway, flanked by other residential structures. Photograph read: The image is taken in bright daylight with clear visibility of textures and architectural details. The composition is straightforward, with the building centered and the alley receding into the background. Shadows are present but not obscuring, and the image lacks signs of motion blur or focus issues. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole house, left at the end of a narrow alley with its shutters hanging. I think the rust on that old railing tells the story better than any plaque - how did you find your way to it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIwI3mjzX",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jh1962bike",
@@ -221,10 +376,21 @@
           "photos": [
             "Description: A red bicycle with a round red helmet mounted on the handlebars is positioned against a textured wall, with a brick or block wall visible to the right and a rough floor beneath. Photograph read: The image has a warm, high-contrast color cast with visible grain or texture. Lighting is directional, casting strong shadows and highlighting the bike\u2019s frame and wheels. The composition is a side profile, with the bike leaning against a vertical surface. Photo type: Aesthetic"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thirty years untouched, helmet still on the handlebars like its rider just stepped off for a minute. Some waits are longer than others - whose bike is it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIxRNFerY",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ashu_anu87",
@@ -233,10 +399,21 @@
           "photos": [
             "Description: The photograph shows footprints in wet sand on a beach, with waves breaking at the shoreline and a dark sky above the ocean. Photograph read: The foreground sand and footprints are in focus, while the ocean and sky are softly blurred. Lighting is even, suggesting daylight, with no visible shadows or harsh contrast. The image has a shallow depth of field, emphasizing the footprints. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Four prints in the sand, and the sea already on its way to take them. I like that the photo caught them just before they were gone.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIyfhlOEy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "beckiefitzgerald",
@@ -245,10 +422,21 @@
           "photos": [
             "Description: A black leather wallet with light-colored stitching rests on a wooden surface with visible grain. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting that highlights the wallet\u2019s surface and stitching. The rendering is clear, with no visible motion blur or focus issues. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A wallet, left on the wood with nothing else around it. Somebody is patting their pockets somewhere right now - did it find its way home?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQIzf7mvHB",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "debbiedunlap79",
@@ -275,10 +463,21 @@
                   "text": "Good question...\ud83d\ude06 At first I just saw the bike, the shadow second, when I was getting ready to take the picture. I was happy with the result. \ud83e\udd17",
                   "permalink": "https://www.threads.com/@debbiedunlap79/post/DgQDEO3lSC0",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A happy accident, and a keeper. Thanks for telling the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQI3qgFLWM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -312,10 +511,21 @@
                   "text": "The season in the Scottish lochs is from June through September. This photo was taken in early October. And yes, the remarkable Eilean Donan castle stands guard in the background.",
                   "permalink": "https://www.threads.com/@smilingjeannie/post/DgQCsQjERaX",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Early October light and a castle on watch - a fine end to the season. Thanks for the story.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQI4n6Fnir",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -375,10 +585,21 @@
                   "text": "The rust makes you feel like they\u2019d been there ages. I\u2019ve no idea how long they were there for, I just thought it was such an unusual place for them to be.",
                   "permalink": "https://www.threads.com/@maureenozerimages/post/DgQG5YfjXMz",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A strange spot for them, and all the better for it. Thanks for sharing the find.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQI5r9Fgg9",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -763,7 +984,7 @@
     },
     {
       "id": "18145194265627732",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Gathered Thursday favorites \ud83c\udfc6 5 gatherings that stopped my \u2026",
       "text": "Gathered Thursday favorites \ud83c\udfc6 5 gatherings that stopped my scroll: @wj.fox - mule team hitched @tallymountain - Niagara poncho crowd @jh1962bike - hard hats wall @dianelynnturnbull - fire cleanup finds @artiekay2 - seashell mandala Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgPKFWWPm_l/",
@@ -979,7 +1200,7 @@
     },
     {
       "id": "17923539612245125",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Gathered Thursday \ud83e\uddfa Happy Thanksgiving - today's prompt is \u2026",
       "text": "Gathered Thursday \ud83e\uddfa Happy Thanksgiving - today's prompt is abundance, things gathered together. My hero is a pile of ornamental gourds, every shape and color jostling for room. Show me ONE photo of things gathered: a drift of leaves, a shelf of jars, a harvest pile, a table full of people. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -3033,7 +3254,7 @@
     },
     {
       "id": "18132221831491360",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my \u2026",
       "text": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my scroll: Jean Hinkle Klele @smilingjeannie - painted boat eyes @ranbalam - sunflower face @ben.bennion - Venice doorbell face @jessgperry - bubble in the fountain @walter.wilkes - binocular viewer Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgMjBkqJnRO/",
@@ -3205,7 +3426,7 @@
     },
     {
       "id": "18079101221478599",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -4922,7 +5143,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -5117,7 +5338,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, image, read",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
