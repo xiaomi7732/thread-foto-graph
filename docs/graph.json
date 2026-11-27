@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 103,
+      "reply_count": 116,
       "replies": [
         {
           "username": "jglass8",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A single red buoy floats on a calm, blue water surface, with its reflection visible below. The water shows gentle ripples and subtle wave patterns. Photograph read: The image is composed with the buoy centered in the mid-frame against a uniform water background. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering is flat, with minimal texture or depth cues beyond the buoy\u2019s reflection. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One red dot in all that blue, keeping its own reflection for company. Lost at sea, or just the only one that stayed put?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPiHtmC4J",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "scott_holl_photography",
@@ -31,10 +42,21 @@
           "photos": [
             "Description: A bicycle lies on its side near three white bollards on a paved surface, adjacent to a dark brick building with a visible security camera. Behind them, dense trees form a dark backdrop under a uniformly gray sky. Photograph read: The image is monochrome with high contrast between the dark foliage and building, and the lighter bollards and bicycle. Lighting appears to be diffuse, possibly from an overcast sky or twilight, casting minimal shadows. The bicycle and bollards are in relative focus, while the background trees are uniformly dark and lack texture. Photo type: Black and white"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The black and white does the heavy lifting here - a bike down on its side, three white bollards standing guard, and nobody around to pick it up. Whose ride was it, do you think?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPjEpnX1k",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "resnicklr",
@@ -43,10 +65,21 @@
           "photos": [
             "Description: A wooden lifeguard stand stands on a wide, flat sandy beach, with a calm blue ocean stretching to the horizon under a light blue sky with faint clouds. Photograph read: The image is composed with the lifeguard stand centered in the mid-ground, framed by the beach in the foreground and the sea in the background. Lighting is bright and even, suggesting midday sun. The rendering is clear, with visible texture in the sand and distinct edges on the stand and signs. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "When does the season end there - is the chair waiting for summer, or just keeping the beach company till then?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPkHaGI_3",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "demidova_nadezda",
@@ -58,10 +91,21 @@
           "watch_outs": [
             "The dried leaf partially covers the shoe\u2019s midsection, obscuring surface texture and branding details; the shoe\u2019s upper material shows visible wear and frayed edges, reducing clarity of stitched seams and fabric weave."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A little shoe, worn soft and left hanging on a branch with a dry leaf tucked in like a bookmark. Somebody small is walking home one shoe light - do you think it was put there to be found?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPlFXHamj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "mikiec34",
@@ -70,10 +114,21 @@
           "photos": [
             "Description: A bicycle, heavily covered in dark, fibrous material resembling moss or soil, is positioned in a garden bed beside a weathered wooden picket fence. The bike has a wire basket on the handlebars and is surrounded by green foliage. Photograph read: The image is taken in natural daylight with even illumination. The composition is straightforward, capturing the bicycle and surrounding vegetation. The rendering is clear enough to discern the bike\u2019s structure, though the covering material obscures fine details. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the garden has adopted it - moss over every tube, weeds through the wheels, and the basket still hanging on. How long before the fence eats the rest of it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPmKyGEXH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "tiffany.art2020",
@@ -85,10 +140,21 @@
           "watch_outs": [
             "- Motion blur in the flowing water, particularly in the left and right margins, obscures fine detail of submerged rocks and leaves. - The right opening is dark and underexposed, reducing visibility of the pebbles and organic matter within."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A concrete block in the stream, and one square has gone full pond - duckweed and all. Did the stream put it there, or did somebody leave it as a tiny garden?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPnLkGI-J",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ry.rah_q",
@@ -97,10 +163,21 @@
           "photos": [
             "Description: An abandoned, rusted vintage car with missing panels and a broken windshield sits in a forested area, surrounded by fallen leaves and trees, with a large fallen log resting across its roof. Photograph read: The image is captured in natural daylight with even illumination across the scene. The composition centers the car, with trees framing the sides and background. The rendering preserves surface textures and details of the car\u2019s rust and surrounding foliage, with no visible signs of motion blur or focus issues. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did you follow a trail to find it, or did it just appear through the trees - leaves up to the sills, a log across the roof, and the door still hanging open?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPoNMmCye",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "pappaga11a",
@@ -109,10 +186,21 @@
           "photos": [
             "Description: A handprint impression is embedded in a textured, light-colored wall surface, showing the palm and five fingers with visible creases and contours. Photograph read: The image is a close-up with even, diffuse lighting that casts minimal shadows, revealing surface texture and the handprint\u2019s contours. The resolution is sufficient to discern the handprint\u2019s shape and fine details like finger joints and palm lines. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A handprint, pressed into the building work centuries ago and now hanging in a museum in Tipaza. That worker never knew their mark would outlast them - what a find.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPpIqHX9I",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "sunnyclarkphotography",
@@ -121,10 +209,21 @@
           "photos": [
             "Description: A tattered, gray fabric garment hangs from a wire mesh fence with barbed wire above, against a light pink concrete block wall, with dry grass visible at the base. Photograph read: The image is in focus with even, diffuse lighting. The fence and wall are clearly rendered, and the fabric\u2019s texture, tears, and stains are visible. No motion blur, overexposure, or underexposure is apparent. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That ragged thing has hung on the fence so long it has gone grey with the weather - somebody walked away from it once, and the fence kept it.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPqQeGFe7",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "musulnamja",
@@ -133,10 +232,21 @@
           "photos": [
             "Description: A corroded, seaweed-covered electric scooter lies on a paved dock beside calm water, with a floating barrier and distant railing visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between the dark, wet scooter and the sunlit pavement. The subject is in focus, but the water surface shows natural ripples and reflections. The composition is straightforward, with the scooter centered in the frame. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Dragged out of the water and left on the dock, seaweed and all - it looks like the harbour gave it back. Was it fished out, or did it wash up on its own?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQPrXWmNYn",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "stickyshutterphotography",
@@ -192,10 +302,21 @@
                   "text": "I keep imagining a little one crying for their favorite stuffed animal \u2593",
                   "permalink": "https://www.threads.com/@upsnodowns/post/DgQL5Eemy67",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Somewhere a little one is still hoping it turns up. Thanks for giving it the best seat in the house.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQPsOtGqvy",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -310,10 +431,21 @@
                   "text": "Probably 10 years.",
                   "permalink": "https://www.threads.com/@akmaleky/post/DgQK3qtmFI8",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Ten years in the yard, and the trees moved in around it. A fine long wait - thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQPtKVGNb7",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -370,10 +502,21 @@
                   "text": "I put it up there so it would be more visible to the little one who might be looking for it. I figured it fell out of a stroller. As a mom, I have lived this drama first hand\ud83d\ude42",
                   "permalink": "https://www.threads.com/@leanne.raddatz/post/DgQKFsFEsEW",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A mom who has lived the drama, putting it where its little one can spot it. That is exactly the right perch.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQPuB5GIxa",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
