@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (45)
+## Needs Reply (46)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **smilingjeannie**: We were observing them from the jeep and were probably 25-30 yards away. ([link](https://www.threads.com/@smilingjeannie/post/DgOkEsrEVLB))
+  - _Replying to: A whole parade crossing the gold grass, little ones tucked …_
 - **watsjoey**: That’s the way they were displayed. I love going to the market in the fall. The colours are all so vibrant. ([link](https://www.threads.com/@watsjoey/post/DgOhXt_mVy0))
   - _Replying to: (photo reply, no text)_
 - **bojonvelvet2.0**: Nope, an old photo. ([link](https://www.threads.com/@bojonvelvet2.0/post/DgOJ2kUAVIu))
