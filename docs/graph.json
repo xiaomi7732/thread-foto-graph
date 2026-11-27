@@ -10,8 +10,20 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 116,
+      "reply_count": 121,
       "replies": [
+        {
+          "username": "joleen_i_mn",
+          "text": "",
+          "permalink": "https://www.threads.com/@joleen_i_mn/post/DgQPx0WjkLl",
+          "photos": [
+            "Description: A red and white fishing bobber hangs from a tree branch, with a hook dangling below, set against a blurred background of water and sky; a few green maple leaves are visible at the top. Photograph read: The image has a shallow depth of field, with the bobber and branch in focus while the background is softly blurred. Lighting is bright and even, suggesting daylight. The rendering is clear on the subject, with no visible distortion or color aberration. Photo type: Still life"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "jglass8",
           "text": "Beautiful capture! Lost at sea?",
@@ -614,10 +626,21 @@
                   "text": "Luckily his parents are friends and we\u2019re visiting him later I told them to use the towel but I world have the jacket back",
                   "permalink": "https://www.threads.com/@ben.bennion/post/DgQJBOLgpTH",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Friends, a visit, and a jacket coming home - a good ending for a left-behind. Thanks for the update.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQP1F5FeLN",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -673,10 +696,21 @@
                   "photos": [
                     "Description: A narrow street corner features a two-story building with a white door, a balcony adorned with hanging flower pots, and a large tiled mural depicting a knight on horseback defeating a dragon. The building has an orange-yellow facade, a blue window frame, and a green mailbox. Photograph read: The image is taken from a low angle looking up the street, with the building\u2019s facade and entrance centered. Lighting appears even and diffused, suggesting an overcast day. The photograph has a standard digital resolution, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Urban architecture"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The restored one keeps the street bright - tiles, flowers, and a dragon on the wall. Lovely to see both sides of the same corner.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQPyHnCXtj",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 },
                 {
                   "username": "eleanorangelaholohan",
@@ -717,10 +751,21 @@
                   "text": "It was my wife\u2019s . It\u2019s been sitting upstairs in the barn at her parent\u2019s place.",
                   "permalink": "https://www.threads.com/@jh1962bike/post/DgQJNFrCKUO",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Upstairs in the barn all these years, helmet still on the bars. Glad it stayed in the family.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQPzQzFCZM",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -774,10 +819,21 @@
                   "text": "Yeah. Found before we left.",
                   "permalink": "https://www.threads.com/@beckiefitzgerald/post/DgQJWXrIIRP",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Found before you left - a lucky ending for a wallet. Thanks for closing the loop on it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQP0J8lCum",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }

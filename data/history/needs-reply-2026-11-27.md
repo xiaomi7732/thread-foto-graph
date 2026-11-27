@@ -4,26 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (59)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **joleen_i_mn**:  ([link](https://www.threads.com/@joleen_i_mn/post/DgQPx0WjkLl))
+  - Photo: Description: A red and white fishing bobber hangs from a tree branch, with a hook dangling below, set against a blurred background of water and sky; a few green maple leaves are visible at the top. Photograph read: The image has a shallow depth of field, with the bobber and branch in focus while the background is softly blurred. Lighting is bright and even, suggesting daylight. The rendering is clear on the subject, with no visible distortion or color aberration. Photo type: Still life
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **mix4tv**: Ive always wondered about that. This was an early morning bus, too ([link](https://www.threads.com/@mix4tv/post/DgQO1HHm6Ql))
   - _Replying to: One boot, on its own by the shuttle bus, with the road goin…_
 - **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
-- **ben.bennion**: Luckily his parents are friends and we’re visiting him later I told them to use the towel but I world have the jacket back ([link](https://www.threads.com/@ben.bennion/post/DgQJBOLgpTH))
-  - _Replying to: A jacket and a towel, and a whole phrase for the things we …_
-- **eleanorangelaholohan**: This is a similar house on the Via Bella Vista which has been beautifully restored ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQKQpejHOG))
-  - Photo: Description: A narrow street corner features a two-story building with a white door, a balcony adorned with hanging flower pots, and a large tiled mural depicting a knight on horseback defeating a dragon. The building has an orange-yellow facade, a blue window frame, and a green mailbox. Photograph read: The image is taken from a low angle looking up the street, with the building’s facade and entrance centered. Lighting appears even and diffused, suggesting an overcast day. The photograph has a standard digital resolution, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Urban architecture
-  - _Replying to: A whole house, left at the end of a narrow alley with its s…_
 - **eleanorangelaholohan**: When in Pizzo, I pass it on my walk down to the Piazza ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQJRu1gkch))
   - _Replying to: A whole house, left at the end of a narrow alley with its s…_
-- **jh1962bike**: It was my wife’s . It’s been sitting upstairs in the barn at her parent’s place. ([link](https://www.threads.com/@jh1962bike/post/DgQJNFrCKUO))
-  - _Replying to: Thirty years untouched, helmet still on the handlebars like…_
-- **beckiefitzgerald**: Yeah. Found before we left. ([link](https://www.threads.com/@beckiefitzgerald/post/DgQJWXrIIRP))
-  - _Replying to: A wallet, left on the wood with nothing else around it. Som…_
 - **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/DgQJ8nHDivT))
   - _Replying to: That little story stays with the photo now. Thanks for shar…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
