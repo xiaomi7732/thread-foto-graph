@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (63)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **vanamonde**:  ([link](https://www.threads.com/@vanamonde/post/DgQDcvPiLCC))
+  - Photo: Description: A crushed aluminum can of Dr Pepper sits on a wooden surface next to a partially opened pink cardboard box of “Urban Eat” egg mayo and bacon, and a green-wrapped Wrigley’s Juicy Fruit candy bar. A black bag strap is visible to the left. Photograph read: The image is taken from a slightly elevated angle, with direct lighting casting clear shadows. The can and packaging are in focus, with visible text and details. The background includes a white countertop and a white wall, with no signs of motion blur or focus issues. Photo type: Documentary
 - **eleanorangelaholohan**: Abandoned casa in Bella Vista Calabria ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQC8zAjFkG))
   - Photo: Description: A weathered, two-story building with a rusted balcony and a dark wooden door stands at the end of a narrow, cobblestone alleyway, flanked by other residential structures. Photograph read: The image is taken in bright daylight with clear visibility of textures and architectural details. The composition is straightforward, with the building centered and the alley receding into the background. Shadows are present but not obscuring, and the image lacks signs of motion blur or focus issues. Photo type: Documentary
 - **jh1962bike**: Untouched for 30 years. ([link](https://www.threads.com/@jh1962bike/post/DgQC1rXiAXb))
