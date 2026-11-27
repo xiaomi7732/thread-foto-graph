@@ -6,27 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (52)
+## Needs Reply (46)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
-- **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/DgOqWZ1nCd4))
-  - Photo: Description: The image shows a dense cluster of layered, shelf-like fungi with concentric, wavy ridges and a white margin, growing on a dark, textured surface. Photograph read: The composition is tightly framed, filling the frame with overlapping fungal growths. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering preserves fine texture and color variation across the fungal surfaces. Photo type: Macro
-- **leahbogie**:  ([link](https://www.threads.com/@leahbogie/post/DgOo9lFEfuP))
-  - Photo: Description: A ground surface covered with fallen autumn leaves in various colors, including red, orange, yellow, and brown, scattered over green grass. Photograph read: The image is a flat, top-down view with even, diffuse lighting. Leaves are densely packed, overlapping, and show varied degrees of color saturation and texture. No visible lens distortion or motion blur. No signs of digital compression or chromatic aberration. Photo type: Natural
-- **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DgOmlRsnLSm))
-  - Photo: Description: A team of mules, harnessed together, pulls a large green agricultural machine across a harvested field under a bright sky; distant trees and power lines are visible on the horizon. Photograph read: The image is taken in bright, even daylight with no visible shadows or contrast extremes. The mules and machinery are in focus, but the foreground field is slightly out of focus, and the background is softly blurred. The composition places the subjects centrally, with the horizon line dividing the frame. Photo type: Agricultural
-- **smilingjeannie**: We were observing them from the jeep and were probably 25-30 yards away. ([link](https://www.threads.com/@smilingjeannie/post/DgOkEsrEVLB))
-  - _Replying to: A whole parade crossing the gold grass, little ones tucked …_
-- **anouc90**: Perhaps a combination...thought it looks like a bowl of leaves salad .😎 ([link](https://www.threads.com/@anouc90/post/DgOsDbdIcY6))
-  - _Replying to: Did the stump collect those leaves, or did the wind do the …_
-- **tallymountain**: The ponchos did okay actually. I’m little so it pretty well kept me dry 😊 ([link](https://www.threads.com/@tallymountain/post/DgOxxlzEhud))
-  - _Replying to: The yellow ponchos steal the show - a whole crowd dressed l…_
-- **watsjoey**: That’s the way they were displayed. I love going to the market in the fall. The colours are all so vibrant. ([link](https://www.threads.com/@watsjoey/post/DgOhXt_mVy0))
-  - _Replying to: (photo reply, no text)_
+- **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
+  - _Replying to: A whole autumn pressed flat into one frame, and every leaf …_
 - **jbrucewilcox**: It fit your theme!!! lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOtI7tDAbE))
   - _Replying to: A rescue, a series, and three more eyeballs in reserve. Tha…_
-- **bojonvelvet2.0**: Nope, an old photo. ([link](https://www.threads.com/@bojonvelvet2.0/post/DgOJ2kUAVIu))
-  - _Replying to: The roots are doing all the talking here. Were these pulled…_
 - **mcoger55**: The rest of the story. ‘‘Twas a long day. ([link](https://www.threads.com/@mcoger55/post/DgN97JOlBho))
   - Photo: Description: A kitchen countertop holds multiple containers filled with fresh green beans, alongside a red toaster, a measuring cup, and various kitchen items against wooden cabinets and a tiled backsplash. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the scene. The composition is centered on the containers of green beans, with background elements including a lotion bottle and a small shelf with figurines. The rendering is clear enough to distinguish objects and textures, though some items are partially obscured or in the background. Photo type: Domestic still life
   - Photo: Description: A large quantity of fresh green beans rests on a light-colored towel spread over a surface, with a wooden knife block and a paper towel roll visible in the background. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The beans are in sharp focus, while the background elements are slightly less defined. The towel’s texture is visible, and the beans’ surfaces reflect light, indicating a non-reflective, diffuse illumination. Photo type: Still life
@@ -106,6 +92,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **shel_bee_g**: Last one, same trestle ([link](https://www.threads.com/@shel_bee_g/post/DgJwa3FIKOX))
   - Photo: Description: A long, dark silhouette of a bridge spans a body of water at sunset, with the sun low on the horizon behind it, casting golden reflections on the water and illuminating clouds above. Photograph read: The bridge’s structure is sharply defined against a sky transitioning from deep blue to golden orange near the horizon. The water reflects the bridge’s pillars and the sun’s glow, with some ripples distorting the reflections. Clouds are illuminated from below, creating contrast with the darker sky above. Photo type: Landscape
   - _Replying to: A second view and the reflection doubles the whole trestle …_
+- **codydog3**: On the way up. My l library. In Branford ct ([link](https://www.threads.com/@codydog3/post/DgO7BBpG8WJ))
+  - _Replying to: That wooden rail winds up toward the little glowing window …_
 - **globetoppers**:  ([link](https://www.threads.com/@globetoppers/post/DgJaw0wjEnN))
   - Photo: Description: The image is a four-panel collage showing people using escalators inside a store, with one panel depicting the exterior of Macy’s with a red sign reading “THE WORLD’S LARGEST STORE.” The interior scenes show individuals ascending escalators, with one person in an orange sweater clearly visible. Photograph read: The collage uses a selective color technique, with the exterior sign in color and the rest in black and white. The lighting is even indoors, with some reflections on escalator surfaces. The escalator panels and handrails show signs of wear and rust. A warning sticker is visible on the side of one escalator. Photo type: Collage
     - Watch-outs: - The top-left panel shows motion blur on a person ascending the escalator, obscuring fine detail on their clothing and surroundings. - The top-right panel has a visible “No Stairs” warning sticker on the escalator, which is partially legible but not fully readable due to low contrast and small print.

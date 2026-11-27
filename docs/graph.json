@@ -10,7 +10,7 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 160,
+      "reply_count": 169,
       "replies": [
         {
           "username": "amy.salt",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: The image shows a dense cluster of layered, shelf-like fungi with concentric, wavy ridges and a white margin, growing on a dark, textured surface. Photograph read: The composition is tightly framed, filling the frame with overlapping fungal growths. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering preserves fine texture and color variation across the fungal surfaces. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The white rims are what get me - every shelf outlined like it was drawn in. Did you spot the whole colony at once, or did one fan catch your eye first?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgO9EoMkR-j",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "leahbogie",
@@ -31,10 +42,21 @@
           "photos": [
             "Description: A ground surface covered with fallen autumn leaves in various colors, including red, orange, yellow, and brown, scattered over green grass. Photograph read: The image is a flat, top-down view with even, diffuse lighting. Leaves are densely packed, overlapping, and show varied degrees of color saturation and texture. No visible lens distortion or motion blur. No signs of digital compression or chromatic aberration. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole autumn pressed into one frame, and the red ones keep shouting over the rest. Do you have a favorite leaf in there, or is the pile the whole point?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgO9FntIYvv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "wj.fox",
@@ -43,10 +65,21 @@
           "photos": [
             "Description: A team of mules, harnessed together, pulls a large green agricultural machine across a harvested field under a bright sky; distant trees and power lines are visible on the horizon. Photograph read: The image is taken in bright, even daylight with no visible shadows or contrast extremes. The mules and machinery are in focus, but the foreground field is slightly out of focus, and the background is softly blurred. The composition places the subjects centrally, with the horizon line dividing the frame. Photo type: Agricultural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The whole team pulling as one, and every mule facing the same way like they rehearsed it. How long does it take to hitch them all up?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgO9HgTlS_T",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "smilingjeannie",
@@ -73,10 +106,21 @@
                   "text": "We were observing them from the jeep and were probably 25-30 yards away.",
                   "permalink": "https://www.threads.com/@smilingjeannie/post/DgOkEsrEVLB",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Twenty-five yards is a respectful distance and a lucky one. Thanks for sharing the parade.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgO9IxfgClP",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -107,10 +151,21 @@
                   "text": "Perhaps a combination...thought it looks like a bowl of leaves salad .\ud83d\ude0e",
                   "permalink": "https://www.threads.com/@anouc90/post/DgOsDbdIcY6",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A bowl of leaf salad, then - autumn serving itself up. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgO9J7VjlXV",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -141,10 +196,21 @@
                   "text": "The ponchos did okay actually. I\u2019m little so it pretty well kept me dry \ud83d\ude0a",
                   "permalink": "https://www.threads.com/@tallymountain/post/DgOxxlzEhud",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Glad the poncho earned its keep. Thanks for sharing the view.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgO9K8yleE-",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -169,7 +235,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ulrike6417",
+                  "text": "Erst genossen und dann durchgeschlendert!",
+                  "permalink": "https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -380,10 +457,21 @@
               "text": "That\u2019s the way they were displayed. I love going to the market in the fall. The colours are all so vibrant.",
               "permalink": "https://www.threads.com/@watsjoey/post/DgOhXt_mVy0",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "The market did the arranging and you did the noticing. Thanks for sharing it.",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgO9MHdG9ze",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             },
             {
               "username": "saars.foto",
@@ -637,10 +725,21 @@
                   "text": "Nope, an old photo.",
                   "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DgOJ2kUAVIu",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "An old photo, and the roots still doing the talking. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgO9NJzG74t",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -3956,7 +4055,7 @@
       "photos": [
         "Description: A nighttime photograph of a modern, multi-level staircase with dark metal railings and light-colored steps, leading upward against a concrete wall and a dark sky. Photograph read: The image is lit by artificial lights embedded in the railings, casting focused illumination on the steps and railings. The composition is angled, showing the staircase ascending diagonally. The background includes a concrete wall, a distant window, and a bare tree, all under low ambient light. Photo type: Architectural"
       ],
-      "reply_count": 440,
+      "reply_count": 441,
       "replies": [
         {
           "username": "2408bridget",
@@ -5194,7 +5293,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "codydog3",
+                  "text": "On the way up. My l library. In Branford ct",
+                  "permalink": "https://www.threads.com/@codydog3/post/DgO7BBpG8WJ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
