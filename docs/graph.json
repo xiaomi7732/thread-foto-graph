@@ -10,8 +10,27 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 188,
+      "reply_count": 189,
       "replies": [
+        {
+          "username": "katiejo.myers",
+          "text": "Winter in McCarthy, AK",
+          "permalink": "https://www.threads.com/@katiejo.myers/post/DgQxwIElmdZ",
+          "photos": [
+            "Description: A snow-covered, rusted piece of heavy machinery, likely a bulldozer or similar vehicle, is partially buried in snow with a thick blanket of snow on its upper surfaces and a single thin stem protruding from the snow near the front grille. Photograph read: The image is taken in bright daylight with strong contrast between the white snow and the rusted metal. The foreground machinery is in focus, while the background shows trees and distant mountains with moderate atmospheric haze. The snow\u2019s texture is visible, and the machine\u2019s structural features are discernible despite the snow cover. Photo type: Documentary",
+            "Description: A weathered, light-blue metal kettle hangs by strings from a wooden eave, with a long icicle dripping from the overhang; a dark wooden post stands to the left, and blurred trees and a building with red and yellow tones form the background. Photograph read: The image has a shallow depth of field, with the kettle in focus and the background significantly blurred. Lighting appears natural and diffused, casting soft shadows. The rendering preserves texture on the kettle and post, but the background lacks detail. Photo type: Portrait-style",
+            "Description: A bicycle wheel and part of the drivetrain are embedded in deep snow, with the wheel upright and the rest of the bike partially buried, casting long shadows across the snow. Photograph read: The image is taken in bright daylight, with strong directional shadows cast by trees or other objects. The snow surface is textured and reflective, and the bicycle components are visible but partially obscured by snow. The composition is a close-up, focusing on the wheel and drivetrain. Photo type: Still life"
+          ],
+          "watch_outs": [
+            "",
+            "The background is heavily blurred, obscuring architectural details and tree trunks. The icicle is elongated and partially translucent, limiting texture detail in that area.",
+            ""
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "glendagh25",
           "text": "",
