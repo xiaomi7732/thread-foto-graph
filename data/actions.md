@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (58)
+## Needs Reply (62)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **pappaga11a**: During the Roman times, a worker in Algeria left his handprint in some construction. Found centuries later, it now hangs in the museum in Tipaza. ([link](https://www.threads.com/@pappaga11a/post/DgQJRe_lMY-))
+  - Photo: Description: A handprint impression is embedded in a textured, light-colored wall surface, showing the palm and five fingers with visible creases and contours. Photograph read: The image is a close-up with even, diffuse lighting that casts minimal shadows, revealing surface texture and the handprint’s contours. The resolution is sufficient to discern the handprint’s shape and fine details like finger joints and palm lines. Photo type: Documentary
 - **sunnyclarkphotography**: Left behind. ([link](https://www.threads.com/@sunnyclarkphotography/post/DgQIno0FWRY))
   - Photo: Description: A tattered, gray fabric garment hangs from a wire mesh fence with barbed wire above, against a light pink concrete block wall, with dry grass visible at the base. Photograph read: The image is in focus with even, diffuse lighting. The fence and wall are clearly rendered, and the fabric’s texture, tears, and stains are visible. No motion blur, overexposure, or underexposure is apparent. Photo type: Documentary
 - **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DgQIRg-GvGv))
@@ -17,8 +19,14 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
-- **grantpickup62**: I imagined a little Victorian girl wandering tearfully around the park with an empty pram... ([link](https://www.threads.com/@grantpickup62/post/DgQEPS4jiMe))
-  - _Replying to: That tulle dress, all greyed and tangled in the ivy, and on…_
+- **ben.bennion**: Luckily his parents are friends and we’re visiting him later I told them to use the towel but I world have the jacket back ([link](https://www.threads.com/@ben.bennion/post/DgQJBOLgpTH))
+  - _Replying to: A jacket and a towel, and a whole phrase for the things we …_
+- **eleanorangelaholohan**: When in Pizzo, I pass it on my walk down to the Piazza ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQJRu1gkch))
+  - _Replying to: A whole house, left at the end of a narrow alley with its s…_
+- **jh1962bike**: It was my wife’s . It’s been sitting upstairs in the barn at her parent’s place. ([link](https://www.threads.com/@jh1962bike/post/DgQJNFrCKUO))
+  - _Replying to: Thirty years untouched, helmet still on the handlebars like…_
+- **beckiefitzgerald**: Yeah. Found before we left. ([link](https://www.threads.com/@beckiefitzgerald/post/DgQJWXrIIRP))
+  - _Replying to: A wallet, left on the wood with nothing else around it. Som…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
