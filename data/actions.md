@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (70)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
+  - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
+- **kidsdrs**: Hull of the ship sunk by Pear Harbor attack. ([link](https://www.threads.com/@kidsdrs/post/DgQGv0QJZ7q))
+  - Photo: Description: The photograph shows the stern of the USS Arizona BB 39, a battleship, floating in water with a tree-covered island and distant shoreline in the background under a cloudy sky. Photograph read: The image has a grainy texture and visible pixelation, with muted colors and soft contrast. The ship’s name is legible but slightly faded, and the water surface shows gentle ripples. The sky is overcast, and the distant landmass is hazy. Photo type: Vintage print
+    - Watch-outs: - The entire image exhibits visible grain and pixelation, reducing fine detail across the entire frame. - The ship’s nameplate is partially worn, with faded lettering and minor chipping, limiting legibility of the text.
 - **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgQFdqaGAd_))
   - Photo: Description: An abandoned, rusted vintage car with missing panels and interior components sits in a dirt yard beside a concrete block wall, surrounded by trees with yellowing leaves. Photograph read: The image is taken in natural daylight with even illumination; the car and surrounding foliage are in focus, though details are not sharply defined. The composition places the car centrally, with trees framing the sides and a wall behind. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Documentary
 - **joanmduffy**: Abandoned at the beach ([link](https://www.threads.com/@joanmduffy/post/DgQFZfyFmaK))
@@ -37,6 +42,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The shadow doubles it, so for a second there are two bikes …_
 - **smilingjeannie**: The season in the Scottish lochs is from June through September. This photo was taken in early October. And yes, the remarkable Eilean Donan castle stands guard in the background. ([link](https://www.threads.com/@smilingjeannie/post/DgQCsQjERaX))
   - _Replying to: A whole fleet of traps on holiday, ropes and all, with the …_
+- **maureenozerimages**: The rust makes you feel like they’d been there ages. I’ve no idea how long they were there for, I just thought it was such an unusual place for them to be. ([link](https://www.threads.com/@maureenozerimages/post/DgQG5YfjXMz))
+  - _Replying to: I think the rusty rim makes the shot - two tyres left at th…_
 - **grantpickup62**: I imagined a little Victorian girl wandering tearfully around the park with an empty pram... ([link](https://www.threads.com/@grantpickup62/post/DgQEPS4jiMe))
   - _Replying to: That tulle dress, all greyed and tangled in the ivy, and on…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
@@ -48,8 +55,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
   - _Replying to: @wj.fox Your mule team opens the Gathered Thursday favorite…_
-- **tallymountain**: Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal. ([link](https://www.threads.com/@tallymountain/post/DgPLqsnEmiL))
-  - _Replying to: @tallymountain Slide two of the Gathered Thursday favorites…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **iphhoto4u71**: Mine ([link](https://www.threads.com/@iphhoto4u71/post/DgP8PwIlAXu))

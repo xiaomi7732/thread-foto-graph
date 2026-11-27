@@ -10,8 +10,35 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 54,
+      "reply_count": 57,
       "replies": [
+        {
+          "username": "susanrutledge",
+          "text": "",
+          "permalink": "https://www.threads.com/@susanrutledge/post/DgQG36UGn8d",
+          "photos": [
+            "Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "kidsdrs",
+          "text": "Hull of the ship sunk by Pear Harbor attack.",
+          "permalink": "https://www.threads.com/@kidsdrs/post/DgQGv0QJZ7q",
+          "photos": [
+            "Description: The photograph shows the stern of the USS Arizona BB 39, a battleship, floating in water with a tree-covered island and distant shoreline in the background under a cloudy sky. Photograph read: The image has a grainy texture and visible pixelation, with muted colors and soft contrast. The ship\u2019s name is legible but slightly faded, and the water surface shows gentle ripples. The sky is overcast, and the distant landmass is hazy. Photo type: Vintage print"
+          ],
+          "watch_outs": [
+            "- The entire image exhibits visible grain and pixelation, reducing fine detail across the entire frame. - The ship\u2019s nameplate is partially worn, with faded lettering and minor chipping, limiting legibility of the text."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "akmaleky",
           "text": "",
@@ -276,7 +303,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "maureenozerimages",
+                  "text": "The rust makes you feel like they\u2019d been there ages. I\u2019ve no idea how long they were there for, I just thought it was such an unusual place for them to be.",
+                  "permalink": "https://www.threads.com/@maureenozerimages/post/DgQG5YfjXMz",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -678,7 +716,7 @@
         "- The bottle\u2019s surface is partially obscured by rust and the wire, limiting visibility of its original condition. - The background blur (bokeh) reduces context clarity, making the setting indistinct.",
         ""
       ],
-      "reply_count": 15,
+      "reply_count": 16,
       "replies": [
         {
           "username": "2killamockingbird",
@@ -735,10 +773,21 @@
               "text": "Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal.",
               "permalink": "https://www.threads.com/@tallymountain/post/DgPLqsnEmiL",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "Thank you for sharing it with us. There are so many different ways to watch Niagara Falls \ud83d\ude4f",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgQGwolFKFY",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -3079,7 +3128,7 @@
       "watch_outs": [
         "- The headlight lens shows reflections and internal components, obscuring precise detail of the bulb or housing. - Water droplets on the white paint surface reduce contrast and texture clarity in the fender area."
       ],
-      "reply_count": 146,
+      "reply_count": 145,
       "replies": [
         {
           "username": "juliahh",
@@ -4780,16 +4829,6 @@
               ]
             }
           ]
-        },
-        {
-          "username": "saars.foto",
-          "text": "Yesterday's favorites are up - Pattern Tuesday's best, featured here: https://www.threads.com/@saars.foto/post/DgKAo7jlpa4",
-          "permalink": "https://www.threads.com/@saars.foto/post/DgKzExiIUep",
-          "photos": [],
-          "needs_response": false,
-          "action": null,
-          "hidden": false,
-          "replies": []
         }
       ]
     },
