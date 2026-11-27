@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (63)
+## Needs Reply (67)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))
+  - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
+- **camaze**:  ([link](https://www.threads.com/@camaze/post/DgQD8szEQcJ))
+  - Photo: Description: A bicycle with a black frame, red-rimmed rear wheel, and a heart-shaped seat is parked against a weathered wooden fence, with a potted plant to its right on a concrete slab. Photograph read: The image is rendered with a warm color cast and moderate contrast, showing clear textures on the wood fence and bicycle components. The composition is static, with the bicycle occupying the left side and the plant on the right, both resting on a ground covered in dry leaves. Photo type: Aesthetic
+- **ben.bennion**: When I went to Japan I stayed with friends I got a message that I had left an jacket and a towel at their house . They have a phrase for that - The things we left behind" in Japanese can be translated as 私たちが残したもの (watashitachi ga nokoshita mono) ([link](https://www.threads.com/@ben.bennion/post/DgQD52uAssb))
 - **vanamonde**:  ([link](https://www.threads.com/@vanamonde/post/DgQDcvPiLCC))
   - Photo: Description: A crushed aluminum can of Dr Pepper sits on a wooden surface next to a partially opened pink cardboard box of “Urban Eat” egg mayo and bacon, and a green-wrapped Wrigley’s Juicy Fruit candy bar. A black bag strap is visible to the left. Photograph read: The image is taken from a slightly elevated angle, with direct lighting casting clear shadows. The can and packaging are in focus, with visible text and details. The background includes a white countertop and a white wall, with no signs of motion blur or focus issues. Photo type: Documentary
 - **eleanorangelaholohan**: Abandoned casa in Bella Vista Calabria ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQC8zAjFkG))
@@ -21,6 +26,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: The shadow doubles it, so for a second there are two bikes …_
 - **smilingjeannie**: The season in the Scottish lochs is from June through September. This photo was taken in early October. And yes, the remarkable Eilean Donan castle stands guard in the background. ([link](https://www.threads.com/@smilingjeannie/post/DgQCsQjERaX))
   - _Replying to: A whole fleet of traps on holiday, ropes and all, with the …_
+- **grantpickup62**: I imagined a little Victorian girl wandering tearfully around the park with an empty pram... ([link](https://www.threads.com/@grantpickup62/post/DgQEPS4jiMe))
+  - _Replying to: That tulle dress, all greyed and tangled in the ivy, and on…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
