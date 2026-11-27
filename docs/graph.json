@@ -1,8 +1,94 @@
 {
   "nodes": [
     {
+      "id": "18145194265627732",
+      "label": "photograph, photo, image, visible",
+      "group": 0,
+      "snippet": "Gathered Thursday favorites \ud83c\udfc6 5 gatherings that stopped my \u2026",
+      "text": "Gathered Thursday favorites \ud83c\udfc6 5 gatherings that stopped my scroll: @wj.fox - mule team hitched @tallymountain - Niagara poncho crowd @jh1962bike - hard hats wall @dianelynnturnbull - fire cleanup finds @artiekay2 - seashell mandala Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgPKFWWPm_l/",
+      "permalink": "https://www.threads.com/@saars.foto/post/DgPKcU6G8zB",
+      "photos": [
+        "Description: A line of mules, harnessed together, stands in a field with a green agricultural machine behind them; the field is dry and brown, with sparse green patches, and a pale sky with distant trees. Photograph read: The image is taken from a low angle, with even, diffused lighting. The mules and machine are in focus, but the foreground field is slightly out of focus. The composition places the subjects centrally, with a shallow depth of field blurring the distant background. Photo type: Documentary",
+        "Description: A group of people in yellow rain ponchos stands on a wet viewing platform overlooking the powerful, misty Niagara Falls, with a tour boat visible on the turbulent water below. Photograph read: The image is taken from an elevated position, capturing the falls and the group in the foreground. Lighting is diffuse and even, characteristic of an overcast sky, with no harsh shadows. The image has a moderate level of detail, though the mist from the falls reduces contrast and sharpness in the background. Photo type: Documentary",
+        "Description: A collection of red and yellow hard hats arranged in a loose cluster on a textured, dark gray surface with visible paint splatters and drips. Photograph read: The image is a flat, direct overhead shot with even, diffuse lighting. The hard hats are rendered with smooth surfaces and distinct color gradients, while the background shows vertical streaks and splashes of red and white paint. Photo type: Still life",
+        "Description: A hand holds a corroded, rusted metal object featuring a small glass bottle, a pair of scissors, and a coiled wire, set against a blurred outdoor grassy and earthy background. Photograph read: The image is taken in bright daylight with natural lighting; the subject is in focus but the background is softly blurred. The rendering preserves surface textures and rust patterns, though some fine details are indistinct due to shallow depth of field. Photo type: Documentary",
+        "Description: A circular arrangement of assorted seashells and a starfish rests on a dark, textured surface, possibly concrete or damp sand, with some shells embedded in soil. Photograph read: The image is taken from a high angle, with strong directional lighting casting sharp shadows. The shells and starfish are in focus, but the overall image has a slightly grainy or noisy appearance. The surface beneath shows visible texture and unevenness. Photo type: Natural"
+      ],
+      "watch_outs": [
+        "",
+        "",
+        "",
+        "- The bottle\u2019s surface is partially obscured by rust and the wire, limiting visibility of its original condition. - The background blur (bokeh) reduces context clarity, making the setting indistinct.",
+        ""
+      ],
+      "reply_count": 6,
+      "replies": [
+        {
+          "username": "saars.foto",
+          "text": "@wj.fox Your mule team opens the Gathered Thursday favorites - ten mules hitched to the seeder, every face turned to the camera. How long have you been working with a team like this?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgPKoLPlqBK",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@tallymountain Slide two of the Gathered Thursday favorites is your crowd in yellow ponchos gathered at the railing, the falls pouring behind them. How close does that platform actually get you to the water?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgPKmZjFWnw",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": [
+            {
+              "username": "tallymountain",
+              "text": "Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal.",
+              "permalink": "https://www.threads.com/@tallymountain/post/DgPLqsnEmiL",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "username": "saars.foto",
+          "text": "@jh1962bike The middle slide of the Gathered Thursday favorites is your hard hats in reds and oranges gathered on a weathered wall. Whose hats are they, and where does that wall live?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgPKkdvIBrW",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@dianelynnturnbull Slide four of the Gathered Thursday favorites is your handful of rusted finds from the fire cleanup, the scissors still riding on top. How long did that cleanup take, working through it piece by piece?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgPKi3LFl0E",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "saars.foto",
+          "text": "@artiekay2 Your granddaughter's seashell mandala closes the Gathered Thursday favorites - every shell placed, starfish at the center. Did she lay it out in one sitting, or did it grow shell by shell over the day?",
+          "permalink": "https://www.threads.com/@saars.foto/post/DgPKhH3FTlC",
+          "photos": [],
+          "needs_response": false,
+          "action": null,
+          "hidden": false,
+          "replies": []
+        }
+      ]
+    },
+    {
       "id": "17923539612245125",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Gathered Thursday \ud83e\uddfa Happy Thanksgiving - today's prompt is \u2026",
       "text": "Gathered Thursday \ud83e\uddfa Happy Thanksgiving - today's prompt is abundance, things gathered together. My hero is a pile of ornamental gourds, every shape and color jostling for room. Show me ONE photo of things gathered: a drift of leaves, a shelf of jars, a harvest pile, a table full of people. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -1953,7 +2039,7 @@
     },
     {
       "id": "18132221831491360",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my \u2026",
       "text": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my scroll: Jean Hinkle Klele @smilingjeannie - painted boat eyes @ranbalam - sunflower face @ben.bennion - Venice doorbell face @jessgperry - bubble in the fountain @walter.wilkes - binocular viewer Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgMjBkqJnRO/",
@@ -2125,7 +2211,7 @@
     },
     {
       "id": "18079101221478599",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -3852,7 +3938,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -4047,7 +4133,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -9189,19 +9275,23 @@
   ],
   "edges": [
     {
-      "from": "17923539612245125",
+      "from": "18145194265627732",
+      "to": "17923539612245125"
+    },
+    {
+      "from": "18145194265627732",
       "to": "18132221831491360"
     },
     {
-      "from": "17923539612245125",
+      "from": "18145194265627732",
       "to": "18079101221478599"
     },
     {
-      "from": "17923539612245125",
+      "from": "18145194265627732",
       "to": "18138351349788936"
     },
     {
-      "from": "17923539612245125",
+      "from": "18145194265627732",
       "to": "18109143851249248"
     }
   ]

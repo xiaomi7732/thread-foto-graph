@@ -6,7 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (46)
+## Needs Reply (47)
+
+### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
+- **tallymountain**: Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal. ([link](https://www.threads.com/@tallymountain/post/DgPLqsnEmiL))
+  - _Replying to: @tallymountain Slide two of the Gathered Thursday favorites…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
