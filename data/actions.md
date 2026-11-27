@@ -6,11 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (61)
+## Needs Reply (62)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **anthonywood1277**: Yeah I new the wreck was there, I have been to this beach many times ([link](https://www.threads.com/@anthonywood1277/post/DgQr30Ek8Ig))
+  - _Replying to: Those blackened ribs sticking out of the sand look like the…_
 - **ben.bennion**: I photographed my mother holding one and made her put it back . I even borrowed some of her water to cover some pebbles to give them a sheen . And still made her put it back ([link](https://www.threads.com/@ben.bennion/post/DgQrnv7Avyq))
   - _Replying to: Thousands of them, and a sign saying you could be fined - r…_
+- **ben.bennion**:  ([link](https://www.threads.com/@ben.bennion/post/DgQrz1wAshp))
+  - Photo: Description: An elderly woman with short, light-colored hair stands on a pebble beach, holding two smooth, rounded stones, with the sea and a cloudy sky in the background. Photograph read: The image is evenly lit under an overcast sky, with no visible shadows or high-contrast areas. The subject is in focus, and the background shows a shallow depth of field, blurring the distant shoreline and sea. The rendering is clean, with no visible digital artifacts or motion blur. Photo type: Portrait
+  - _Replying to: I photographed my mother holding one and made her put it ba…_
 - **scott6666a**: A small dam find . ([link](https://www.threads.com/@scott6666a/post/DgQrlPeGpWq))
   - _Replying to: Ribs, fins, and a whole story dried into the wood - the tid…_
 - **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/DgQRf3sEZId))
@@ -36,8 +41,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **2killamockingbird**: My pleasure Saars 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DgQIFtFAE-P))
   - _Replying to: Thank you Dee!_
-- **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
-  - _Replying to: @wj.fox Your mule team opens the Gathered Thursday favorite…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **iphhoto4u71**: Mine ([link](https://www.threads.com/@iphhoto4u71/post/DgP8PwIlAXu))
