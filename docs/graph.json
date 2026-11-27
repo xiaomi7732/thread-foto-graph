@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 151,
+      "reply_count": 160,
       "replies": [
         {
           "username": "oznatureart",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A mint-green bicycle with a wicker basket is parked in front of a long, curved metal bench with a ribbed, wave-like design, on a paved sidewalk under bright sunlight. Photograph read: The image is taken in strong daylight with direct sunlight creating glare and high contrast. The bicycle and bench are in sharp focus, but the background includes construction fencing and indistinct figures. Shadows cast by the bench and bicycle are sharp and well-defined. Photo type: Urban photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The wicker basket is empty and the bench is doing all the shining - a mint-green bike parked like it is waiting for its rider to come back. How long had it been sitting there when you found it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrCiigaQj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "krsamae",
@@ -34,10 +45,21 @@
           "watch_outs": [
             "Chromatic fringing is visible around the rims of the glasses and the barrel\u2019s edge. The grass and flowers in the background are slightly blurred, reducing detail clarity."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Two full glasses, nobody drinking, and a date stamp from 98 in the corner - somebody set the scene and walked off. Was this a picnic abandoned mid-sip, or a still life you staged?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrDvZATDF",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "donnacorser",
@@ -46,10 +68,21 @@
           "photos": [
             "Description: A large, rusted metal wagon wheel is mounted against a weathered wooden fence, with green vines growing through its spokes. To the right, a stone fountain with a statue of a figure stands amidst surrounding foliage. Photograph read: The image is taken in natural daylight with even illumination across the scene. The composition is straightforward, with the wheel as the central subject and the fountain as a secondary element. The rendering is clear enough to discern textures on the wood, metal, and stone, though some areas are slightly soft. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "The vines have moved in through the spokes and the wheel has not turned in years - it reads like the garden claimed it first. Do you know how long it has leaned on that fence?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrFJqgX6E",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "fabienne_journey",
@@ -58,10 +91,21 @@
           "photos": [
             "Description: A child\u2019s scooter with rusted metal parts and faded, multicolored paint lies on a paved sidewalk next to a dense, dark hedge. The scooter\u2019s handlebars are tipped with purple grips, and its wheels are partially covered in dirt and rust. Photograph read: The image is composed with the scooter as the central subject, positioned at an angle against a dark hedge and a paved path. Lighting appears diffuse, likely from an overcast sky, casting soft shadows. The image exhibits a selective color effect, with the scooter\u2019s colors vivid against a desaturated background. The focus is sharp on the scooter and immediate surroundings, with no visible motion blur or focus falloff. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "I think the selective color is doing the talking here - everything grey except the little scooter, still bright against the hedge. Did you find it lying there, or did the color pop make you stop?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrGR-gV_Q",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "keltainentalorannalla",
@@ -73,10 +117,21 @@
           "watch_outs": [
             "- The paint on the house\u2019s siding is peeling and faded, reducing surface detail and color accuracy. - The window panes are dirty or cracked, obscuring interior visibility and reducing clarity of window glass."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "How long has that house stood empty - the paint peeling, the roof going mossy, and the pine still keeping watch beside it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrHtvD6Ii",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "amaginings",
@@ -85,10 +140,21 @@
           "photos": [
             "Description: A single child\u2019s shoe rests on a curb beside grass, with a line of cars and trees visible in the background under a clear sky. Photograph read: The image is taken from a low angle, with the foreground shoe in focus and the background cars and trees slightly out of focus. Lighting is bright and even, suggesting daytime. The asphalt texture and grass are clearly rendered, while the cars show moderate detail. Photo type: Street photography"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One little shoe on the curb, traffic rolling past like nothing happened. Somebody small is hopping home tonight - do you think it was dropped, or set there to be found?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrI9Tj0yM",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "anthonywood1277",
@@ -97,10 +163,21 @@
           "photos": [
             "Description: The photograph shows the weathered, dark wooden remains of a shipwreck on a sandy beach, with a distant cliff and ocean under a partly cloudy sky. Photograph read: The foreground subject is in focus, while the background is softly blurred. Lighting is natural daylight, with even illumination across the scene. The image has a shallow depth of field, emphasizing the shipwreck\u2019s texture and form. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Those blackened ribs sticking out of the sand look like the beach is slowly giving the ship back. Did you know the wreck was there, or did it surprise you on the walk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrKPYAQmx",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "medium.gords7",
@@ -109,10 +186,21 @@
           "photos": [
             "Description: A blue wooden rowboat rests at the edge of a calm body of water, tethered to a grassy, rocky shoreline with a low stone wall. The boat contains two oars and shows signs of wear. Photograph read: The image has a soft, slightly grainy texture with muted color saturation. Lighting appears diffuse, casting even illumination without harsh shadows. The composition places the boat diagonally across the frame, with the water occupying the left and foreground, and the shoreline on the right. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A blue boat pulled up at the shore with its oars still aboard, waiting for the next row out. Does it belong to someone nearby, or has it sat there all season?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrLSeAfT_",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "cbacinello",
@@ -124,10 +212,21 @@
           "watch_outs": [
             "Rust on the latch and shutter hinge area obscures fine detail. The rust streaks extend vertically down the wall, reducing contrast and readability of the wall\u2019s texture in that region."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "That rusted latch has bled a whole rusty tear down the wall - how long has that shutter stayed shut?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrMZXgdOs",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jessgperry",
