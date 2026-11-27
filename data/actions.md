@@ -6,9 +6,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (59)
+## Needs Reply (62)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **lewishblove**: Pollen fingerprints left on a car ([link](https://www.threads.com/@lewishblove/post/DgP-N8iloG4))
+  - Photo: Description: The image shows a reflective surface, likely a car's glossy exterior, with reflections of bare tree branches and a bright sky. Faint, rounded white marks are visible on the surface, possibly water droplets or smudges. Photograph read: The composition is dominated by reflections, with the surface acting as a mirror. Lighting appears bright and diffuse, creating clear reflections but also causing glare and minor surface imperfections. Rendering is flat with no discernible depth or texture beyond the reflections. Photo type: Reflections
+    - Watch-outs: - Reflections are indistinct and partially obscured by surface marks, reducing clarity of the tree branches and sky. - Surface marks (white, rounded) are visible and interfere with the reflection, making fine detail unreadable in those areas.
+- **grantpickup62**:  ([link](https://www.threads.com/@grantpickup62/post/DgP-LN5EVi8))
+  - Photo: Description: A weathered, cloth-wrapped object with a long, curved horn-like protrusion lies on the ground among green foliage and fallen leaves; the object is partially covered by a translucent, mesh-like fabric. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The subject is in focus, though the surrounding vegetation and ground cover show some natural texture and depth. The mesh fabric has visible stitching and slight fraying, and a dry leaf is caught within it. Photo type: Documentary
+- **unclediss**:  ([link](https://www.threads.com/@unclediss/post/DgP-KBVG7jj))
+  - Photo: Description: A small, golden-colored Ganesha statue sits on sandy beach near a fallen pink flower, with a greenish object partially buried nearby; the calm sea and cloudy sky stretch to the horizon. Photograph read: The image is taken from a low angle, with even, diffused lighting from an overcast sky. The foreground elements are in focus, while the midground beach and distant water show gentle motion blur. The horizon is soft and slightly hazy. Photo type: Natural
 - **ericpalonen**:  ([link](https://www.threads.com/@ericpalonen/post/DgP98yaEVAr))
   - Photo: Description: The photograph shows a cluster of dry, brown oak leaves clinging to a thin branch against a backdrop of bare tree limbs and a vivid blue sky. Some distant green foliage is visible at the bottom. Photograph read: The image is taken from a low angle looking upward, with the main subject (leaves) in relatively sharp focus. The background trees are softly blurred, creating depth. Lighting is bright and direct, casting clear shadows and highlighting the texture of the leaves and branches. The sky is uniformly saturated blue. Photo type: Nature portrait
 - **auerbach_photos**: An Inukshuk in Nova Scotia ([link](https://www.threads.com/@auerbach_photos/post/DgP9j-ulgfa))
