@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (69)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **mikiec34**:  ([link](https://www.threads.com/@mikiec34/post/DgQLcZuhdX2))
+  - Photo: Description: A bicycle, heavily covered in dark, fibrous material resembling moss or soil, is positioned in a garden bed beside a weathered wooden picket fence. The bike has a wire basket on the handlebars and is surrounded by green foliage. Photograph read: The image is taken in natural daylight with even illumination. The composition is straightforward, capturing the bicycle and surrounding vegetation. The rendering is clear enough to discern the bike’s structure, though the covering material obscures fine details. Photo type: Natural
 - **tiffany.art2020**:  ([link](https://www.threads.com/@tiffany.art2020/post/DgQKzXVmwOw))
   - Photo: Description: A concrete block with two square openings sits in a shallow, flowing stream, with one opening filled with green duckweed and the other containing wet pebbles and debris. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The concrete block is in focus, while the flowing water and surrounding rocks show motion blur. The water surface reflects light, creating a glossy appearance. Photo type: Natural
     - Watch-outs: - Motion blur in the flowing water, particularly in the left and right margins, obscures fine detail of submerged rocks and leaves. - The right opening is dark and underexposed, reducing visibility of the pebbles and organic matter within.
