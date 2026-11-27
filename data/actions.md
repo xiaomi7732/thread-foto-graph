@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (49)
+## Needs Reply (51)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/DgOqWZ1nCd4))
@@ -17,8 +17,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A team of mules, harnessed together, pulls a large green agricultural machine across a harvested field under a bright sky; distant trees and power lines are visible on the horizon. Photograph read: The image is taken in bright, even daylight with no visible shadows or contrast extremes. The mules and machinery are in focus, but the foreground field is slightly out of focus, and the background is softly blurred. The composition places the subjects centrally, with the horizon line dividing the frame. Photo type: Agricultural
 - **smilingjeannie**: We were observing them from the jeep and were probably 25-30 yards away. ([link](https://www.threads.com/@smilingjeannie/post/DgOkEsrEVLB))
   - _Replying to: A whole parade crossing the gold grass, little ones tucked …_
+- **anouc90**: Perhaps a combination...thought it looks like a bowl of leaves salad .😎 ([link](https://www.threads.com/@anouc90/post/DgOsDbdIcY6))
+  - _Replying to: Did the stump collect those leaves, or did the wind do the …_
 - **watsjoey**: That’s the way they were displayed. I love going to the market in the fall. The colours are all so vibrant. ([link](https://www.threads.com/@watsjoey/post/DgOhXt_mVy0))
   - _Replying to: (photo reply, no text)_
+- **jbrucewilcox**: It fit your theme!!! lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOtI7tDAbE))
+  - _Replying to: A rescue, a series, and three more eyeballs in reserve. Tha…_
 - **bojonvelvet2.0**: Nope, an old photo. ([link](https://www.threads.com/@bojonvelvet2.0/post/DgOJ2kUAVIu))
   - _Replying to: The roots are doing all the talking here. Were these pulled…_
 - **mcoger55**: The rest of the story. ‘‘Twas a long day. ([link](https://www.threads.com/@mcoger55/post/DgN97JOlBho))
