@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (71)
+## Needs Reply (73)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgQ3JS9kr_K))
@@ -28,7 +28,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A partially decomposed animal carcass, including a skull and ribcage, lies on a ground surface of dry grass, small stones, and scattered debris. Photograph read: The image is taken from a high angle, with direct sunlight casting sharp shadows. The subject is in focus, but the surrounding ground shows no signs of motion blur or focus falloff. Color saturation is natural, and contrast is moderate. Photo type: Documentary
 - **anthonywood1277**: Yeah I new the wreck was there, I have been to this beach many times ([link](https://www.threads.com/@anthonywood1277/post/DgQr30Ek8Ig))
   - _Replying to: Those blackened ribs sticking out of the sand look like the…_
-- **medium.gords7**: I like to think it’s still sitting there. 😀 I took this photo in Ireland 10 years ago. ([link](https://www.threads.com/@medium.gords7/post/DgQ3zHtGzhP))
+- **medium.gords7**: I like to think it’s still being used. 😀 I took this photo in Ireland 10 years ago. ([link](https://www.threads.com/@medium.gords7/post/DgQ3zHtGzhP))
   - _Replying to: A blue boat pulled up at the shore with its oars still aboa…_
 - **jessgperry**: It was in the morning, for sure. ([link](https://www.threads.com/@jessgperry/post/DgQu14RkteP))
   - _Replying to: Jeans on the pavement, a Blue Moon on the gravel - somebody…_
@@ -39,12 +39,16 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I photographed my mother holding one and made her put it ba…_
 - **bojonvelvet2.0**: It was in an abandoned house on property adjacent to a friend’s back in Ohio. The floor and roof were both caving in but the house was filled with all kinds of creepy dolls and knick knacks. ([link](https://www.threads.com/@bojonvelvet2.0/post/DgQw_vSgfLQ))
   - _Replying to: A face behind cracked glass, tucked in among the clutter - …_
+- **eelizjjjm**: At our house, if the football was a dog toy, it would be flat by now. ([link](https://www.threads.com/@eelizjjjm/post/DgQ4RNfoNX1))
+  - _Replying to: (photo reply, no text)_
 - **scott6666a**: A small dam find . ([link](https://www.threads.com/@scott6666a/post/DgQrlPeGpWq))
   - _Replying to: Ribs, fins, and a whole story dried into the wood - the tid…_
 - **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/DgQRf3sEZId))
   - Photo: Description: A small pink crocheted toy, resembling a pig or rabbit, sits on the slats of a green park bench. The bench has a metal armrest and is positioned on grass with some scattered weeds and dirt at the base. Photograph read: The image is taken from a low angle, focusing on the bench and toy. Lighting is even and natural, suggesting daylight. The composition uses diagonal lines from the bench slats, with the toy as a central point of interest. The background grass is in focus but less detailed than the bench. Photo type: Documentary
   - Photo: Description: A photograph of a young child with light hair and a red garment is wedged in a narrow crevice between large, rough-textured rocks. Small green plants are visible near the photo. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting strong shadows in the crevice. The photo’s edges are slightly curled and partially obscured by rock and vegetation. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Documentary
     - Watch-outs: The photo is partially obscured by rock and vegetation, limiting visibility of the child’s facial features. The crevice’s shadows and the photo’s position cause partial loss of detail on the child’s face and clothing.
+- **musulnamja**: Looked like a couple items fished out of the harbor, Marseille ([link](https://www.threads.com/@musulnamja/post/DgQ4LFvHyFT))
+  - _Replying to: Dragged out of the water and left on the dock, seaweed and …_
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))

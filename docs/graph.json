@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 192,
+      "reply_count": 194,
       "replies": [
         {
           "username": "_aliblahblah_",
@@ -297,7 +297,7 @@
               "replies": [
                 {
                   "username": "medium.gords7",
-                  "text": "I like to think it\u2019s still sitting there. \ud83d\ude00 I took this photo in Ireland 10 years ago.",
+                  "text": "I like to think it\u2019s still being used. \ud83d\ude00 I took this photo in Ireland 10 years ago.",
                   "permalink": "https://www.threads.com/@medium.gords7/post/DgQ3zHtGzhP",
                   "photos": [],
                   "needs_response": true,
@@ -492,6 +492,16 @@
           "action": null,
           "hidden": false,
           "replies": [
+            {
+              "username": "eelizjjjm",
+              "text": "At our house, if the football was a dog toy, it would be flat by now.",
+              "permalink": "https://www.threads.com/@eelizjjjm/post/DgQ4RNfoNX1",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            },
             {
               "username": "saars.foto",
               "text": "One football, mid-lawn, game over and everyone gone home. Was it left after a kickabout, or is it the dog's?",
@@ -1008,7 +1018,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "musulnamja",
+                  "text": "Looked like a couple items fished out of the harbor, Marseille",
+                  "permalink": "https://www.threads.com/@musulnamja/post/DgQ4LFvHyFT",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
