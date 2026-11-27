@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (72)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **resnicklr**:  ([link](https://www.threads.com/@resnicklr/post/DgQNMpflZHH))
+  - Photo: Description: A wooden lifeguard stand stands on a wide, flat sandy beach, with a calm blue ocean stretching to the horizon under a light blue sky with faint clouds. Photograph read: The image is composed with the lifeguard stand centered in the mid-ground, framed by the beach in the foreground and the sea in the background. Lighting is bright and even, suggesting midday sun. The rendering is clear, with visible texture in the sand and distinct edges on the stand and signs. Photo type: Documentary
+- **demidova_nadezda**:  ([link](https://www.threads.com/@demidova_nadezda/post/DgQNEF6CNOB))
+  - Photo: Description: A worn children’s sneaker, featuring brown and gray tones with mesh and velcro straps, is perched on a tree branch, with a dried leaf partially obscuring its side; the background consists of out-of-focus green foliage and earth. Photograph read: The image is a close-up with shallow depth of field, focusing sharply on the shoe; lighting is natural and even, with no visible signs of overexposure or underexposure; the rendering preserves surface textures and details of the shoe and surrounding elements. Photo type: Portrait
+    - Watch-outs: The dried leaf partially covers the shoe’s midsection, obscuring surface texture and branding details; the shoe’s upper material shows visible wear and frayed edges, reducing clarity of stitched seams and fabric weave.
 - **mikiec34**:  ([link](https://www.threads.com/@mikiec34/post/DgQLcZuhdX2))
   - Photo: Description: A bicycle, heavily covered in dark, fibrous material resembling moss or soil, is positioned in a garden bed beside a weathered wooden picket fence. The bike has a wire basket on the handlebars and is surrounded by green foliage. Photograph read: The image is taken in natural daylight with even illumination. The composition is straightforward, capturing the bicycle and surrounding vegetation. The rendering is clear enough to discern the bike’s structure, though the covering material obscures fine details. Photo type: Natural
 - **tiffany.art2020**:  ([link](https://www.threads.com/@tiffany.art2020/post/DgQKzXVmwOw))

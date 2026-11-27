@@ -10,8 +10,35 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 98,
+      "reply_count": 100,
       "replies": [
+        {
+          "username": "resnicklr",
+          "text": "",
+          "permalink": "https://www.threads.com/@resnicklr/post/DgQNMpflZHH",
+          "photos": [
+            "Description: A wooden lifeguard stand stands on a wide, flat sandy beach, with a calm blue ocean stretching to the horizon under a light blue sky with faint clouds. Photograph read: The image is composed with the lifeguard stand centered in the mid-ground, framed by the beach in the foreground and the sea in the background. Lighting is bright and even, suggesting midday sun. The rendering is clear, with visible texture in the sand and distinct edges on the stand and signs. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "demidova_nadezda",
+          "text": "",
+          "permalink": "https://www.threads.com/@demidova_nadezda/post/DgQNEF6CNOB",
+          "photos": [
+            "Description: A worn children\u2019s sneaker, featuring brown and gray tones with mesh and velcro straps, is perched on a tree branch, with a dried leaf partially obscuring its side; the background consists of out-of-focus green foliage and earth. Photograph read: The image is a close-up with shallow depth of field, focusing sharply on the shoe; lighting is natural and even, with no visible signs of overexposure or underexposure; the rendering preserves surface textures and details of the shoe and surrounding elements. Photo type: Portrait"
+          ],
+          "watch_outs": [
+            "The dried leaf partially covers the shoe\u2019s midsection, obscuring surface texture and branding details; the shoe\u2019s upper material shows visible wear and frayed edges, reducing clarity of stitched seams and fabric weave."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mikiec34",
           "text": "",
