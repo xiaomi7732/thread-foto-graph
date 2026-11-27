@@ -10,8 +10,35 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 4,
+      "reply_count": 6,
       "replies": [
+        {
+          "username": "ericpalonen",
+          "text": "",
+          "permalink": "https://www.threads.com/@ericpalonen/post/DgP98yaEVAr",
+          "photos": [
+            "Description: The photograph shows a cluster of dry, brown oak leaves clinging to a thin branch against a backdrop of bare tree limbs and a vivid blue sky. Some distant green foliage is visible at the bottom. Photograph read: The image is taken from a low angle looking upward, with the main subject (leaves) in relatively sharp focus. The background trees are softly blurred, creating depth. Lighting is bright and direct, casting clear shadows and highlighting the texture of the leaves and branches. The sky is uniformly saturated blue. Photo type: Nature portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "auerbach_photos",
+          "text": "An Inukshuk in Nova Scotia",
+          "permalink": "https://www.threads.com/@auerbach_photos/post/DgP9j-ulgfa",
+          "photos": [
+            "Description: A balanced stone structure, resembling an inukshuk, is constructed from five rocks and stands on a larger granite base, with a blurred background of water and rocky terrain. Photograph read: The image is a close-up shot with a shallow depth of field, keeping the inukshuk in focus while the background is softly blurred. Lighting is even and diffused, suggesting an overcast day. The rendering preserves surface textures of the stones, but lacks sharpness in the background elements. Photo type: Natural landscape"
+          ],
+          "watch_outs": [
+            "The background is significantly out of focus, obscuring details of the shoreline and water. The topmost stone\u2019s surface texture is partially obscured by the shallow depth of field, reducing fine-grain visibility."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "judyparsons7",
           "text": "",

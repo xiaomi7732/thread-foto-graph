@@ -4,9 +4,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (57)
+## Needs Reply (59)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **ericpalonen**:  ([link](https://www.threads.com/@ericpalonen/post/DgP98yaEVAr))
+  - Photo: Description: The photograph shows a cluster of dry, brown oak leaves clinging to a thin branch against a backdrop of bare tree limbs and a vivid blue sky. Some distant green foliage is visible at the bottom. Photograph read: The image is taken from a low angle looking upward, with the main subject (leaves) in relatively sharp focus. The background trees are softly blurred, creating depth. Lighting is bright and direct, casting clear shadows and highlighting the texture of the leaves and branches. The sky is uniformly saturated blue. Photo type: Nature portrait
+- **auerbach_photos**: An Inukshuk in Nova Scotia ([link](https://www.threads.com/@auerbach_photos/post/DgP9j-ulgfa))
+  - Photo: Description: A balanced stone structure, resembling an inukshuk, is constructed from five rocks and stands on a larger granite base, with a blurred background of water and rocky terrain. Photograph read: The image is a close-up shot with a shallow depth of field, keeping the inukshuk in focus while the background is softly blurred. Lighting is even and diffused, suggesting an overcast day. The rendering preserves surface textures of the stones, but lacks sharpness in the background elements. Photo type: Natural landscape
+    - Watch-outs: The background is significantly out of focus, obscuring details of the shoreline and water. The topmost stone’s surface texture is partially obscured by the shallow depth of field, reducing fine-grain visibility.
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
