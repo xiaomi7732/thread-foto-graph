@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (65)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **klaatu_barada_nicto**:  ([link](https://www.threads.com/@klaatu_barada_nicto/post/DgQSiHAEuRY))
+  - Photo: Description: A rusted, curved metal tool with a handle lies on a gravelly, rocky ground, partially obscured by a large, flat stone to the right. Photograph read: The image is in black and white, with strong contrast between light and shadow. The tool and ground are in sharp focus, but the lighting casts deep shadows, particularly under the stone and along the tool’s edges. The surface textures of the gravel and rust are visible. Photo type: Documentary
 - **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/DgQRf3sEZId))
   - Photo: Description: A small pink crocheted toy, resembling a pig or rabbit, sits on the slats of a green park bench. The bench has a metal armrest and is positioned on grass with some scattered weeds and dirt at the base. Photograph read: The image is taken from a low angle, focusing on the bench and toy. Lighting is even and natural, suggesting daylight. The composition uses diagonal lines from the bench slats, with the toy as a central point of interest. The background grass is in focus but less detailed than the bench. Photo type: Documentary
   - Photo: Description: A photograph of a young child with light hair and a red garment is wedged in a narrow crevice between large, rough-textured rocks. Small green plants are visible near the photo. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting strong shadows in the crevice. The photo’s edges are slightly curled and partially obscured by rock and vegetation. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Documentary
@@ -18,6 +20,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The toy boat’s paint is chipped and faded, obscuring fine surface detail; the background is indistinct, limiting context and depth perception.
 - **joleen_i_mn**:  ([link](https://www.threads.com/@joleen_i_mn/post/DgQPx0WjkLl))
   - Photo: Description: A red and white fishing bobber hangs from a tree branch, with a hook dangling below, set against a blurred background of water and sky; a few green maple leaves are visible at the top. Photograph read: The image has a shallow depth of field, with the bobber and branch in focus while the background is softly blurred. Lighting is bright and even, suggesting daylight. The rendering is clear on the subject, with no visible distortion or color aberration. Photo type: Still life
+- **ry.rah_q**: Yes! We were following a trail then went off of it a bit. I saw it and knew I needed to photograph it. Initially, it just felt so out of place to me. After staying around and exploring it more, inside you could see evidence of critters nesting there, plants/moss growing inside and around it. It may have been just an old car someone left behind but now it has a new purpose. It’s no longer abandoned or forgotten✨ ([link](https://www.threads.com/@ry.rah_q/post/DgQSSloCdow))
+  - _Replying to: Did you follow a trail to find it, or did it just appear th…_
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **mix4tv**: Ive always wondered about that. This was an early morning bus, too ([link](https://www.threads.com/@mix4tv/post/DgQO1HHm6Ql))
@@ -26,6 +30,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
 - **eleanorangelaholohan**: When in Pizzo, I pass it on my walk down to the Piazza ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQJRu1gkch))
   - _Replying to: A whole house, left at the end of a narrow alley with its s…_
+- **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DgQSHtalTMr))
+  - Photo: Description: A large, rusted anchor with attached chain rests on a gravel bed beside weathered concrete fortifications, with the sea and distant coastal structures visible in the background. Photograph read: The image is taken in bright, even daylight with no visible lens distortion or chromatic aberration. The anchor and surrounding gravel are in focus, while the background shows natural depth of field blur. Lighting is flat, with no harsh shadows or overexposed highlights. Photo type: Documentary
+  - _Replying to: That rust is doing half the talking. A whole anchor chain, …_
 - **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/DgQJ8nHDivT))
   - _Replying to: That little story stays with the photo now. Thanks for shar…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))

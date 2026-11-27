@@ -10,8 +10,20 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 125,
+      "reply_count": 128,
       "replies": [
+        {
+          "username": "klaatu_barada_nicto",
+          "text": "",
+          "permalink": "https://www.threads.com/@klaatu_barada_nicto/post/DgQSiHAEuRY",
+          "photos": [
+            "Description: A rusted, curved metal tool with a handle lies on a gravelly, rocky ground, partially obscured by a large, flat stone to the right. Photograph read: The image is in black and white, with strong contrast between light and shadow. The tool and ground are in sharp focus, but the lighting casts deep shadows, particularly under the stone and along the tool\u2019s edges. The surface textures of the gravel and rust are visible. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "anto_acz",
           "text": "",
@@ -231,7 +243,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "ry.rah_q",
+                  "text": "Yes! We were following a trail then went off of it a bit. I saw it and knew I needed to photograph it. Initially, it just felt so out of place to me. After staying around and exploring it more, inside you could see evidence of critters nesting there, plants/moss growing inside and around it. It may have been just an old car someone left behind but now it has a new purpose. It\u2019s no longer abandoned or forgotten\u2728",
+                  "permalink": "https://www.threads.com/@ry.rah_q/post/DgQSSloCdow",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -1103,7 +1126,20 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bumpy120",
+                  "text": "",
+                  "permalink": "https://www.threads.com/@bumpy120/post/DgQSHtalTMr",
+                  "photos": [
+                    "Description: A large, rusted anchor with attached chain rests on a gravel bed beside weathered concrete fortifications, with the sea and distant coastal structures visible in the background. Photograph read: The image is taken in bright, even daylight with no visible lens distortion or chromatic aberration. The anchor and surrounding gravel are in focus, while the background shows natural depth of field blur. Lighting is flat, with no harsh shadows or overexposed highlights. Photo type: Documentary"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
