@@ -4,9 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (79)
+## Needs Reply (82)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **keltainentalorannalla**:  ([link](https://www.threads.com/@keltainentalorannalla/post/DgQhKwCCPdT))
+  - Photo: Description: An old, weathered wooden house with a gabled roof and multiple windows, set against a cloudy sky with a tall pine tree to the right. Photograph read: The image is captured from a frontal, eye-level perspective with even, diffused lighting. The house’s siding, windows, and door are visible, though faded and worn. The roof tiles show signs of moss or discoloration. The foreground includes a small set of rusted steps and sparse vegetation. Photo type: Documentary
+    - Watch-outs: - The paint on the house’s siding is peeling and faded, reducing surface detail and color accuracy. - The window panes are dirty or cracked, obscuring interior visibility and reducing clarity of window glass.
+- **amaginings**: Lost item ([link](https://www.threads.com/@amaginings/post/DgQg3XeAWxD))
+  - Photo: Description: A single child’s shoe rests on a curb beside grass, with a line of cars and trees visible in the background under a clear sky. Photograph read: The image is taken from a low angle, with the foreground shoe in focus and the background cars and trees slightly out of focus. Lighting is bright and even, suggesting daytime. The asphalt texture and grass are clearly rendered, while the cars show moderate detail. Photo type: Street photography
+- **anthonywood1277**: Shipwreck ([link](https://www.threads.com/@anthonywood1277/post/DgQgitKk-PI))
+  - Photo: Description: The photograph shows the weathered, dark wooden remains of a shipwreck on a sandy beach, with a distant cliff and ocean under a partly cloudy sky. Photograph read: The foreground subject is in focus, while the background is softly blurred. Lighting is natural daylight, with even illumination across the scene. The image has a shallow depth of field, emphasizing the shipwreck’s texture and form. Photo type: Natural
 - **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DgQbtAJEv9L))
   - Photo: Description: A blue wooden rowboat rests at the edge of a calm body of water, tethered to a grassy, rocky shoreline with a low stone wall. The boat contains two oars and shows signs of wear. Photograph read: The image has a soft, slightly grainy texture with muted color saturation. Lighting appears diffuse, casting even illumination without harsh shadows. The composition places the boat diagonally across the frame, with the water occupying the left and foreground, and the shoreline on the right. Photo type: Natural
 - **cbacinello**:  ([link](https://www.threads.com/@cbacinello/post/DgQYmMyn1-V))
