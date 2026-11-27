@@ -4,11 +4,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (47)
+## Needs Reply (49)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **tallymountain**: Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal. ([link](https://www.threads.com/@tallymountain/post/DgPLqsnEmiL))
   - _Replying to: @tallymountain Slide two of the Gathered Thursday favorites…_
+- **jh1962bike**: The hats were on a construction site in central Frankfurt . I guess they belong to the workers who were completing the skyscraper . ([link](https://www.threads.com/@jh1962bike/post/DgPSqjriKdt))
+  - _Replying to: @jh1962bike The middle slide of the Gathered Thursday favor…_
+- **dianelynnturnbull**: I suspect that we will be finding treasures such as these for many years to come. We spent about 6 months clearing out the once densly wooded 8 or so acres where I found this particular handful of rusted tools and trinkets, with the support of hundreds of volunteers and contractors. I run a camp for adults with developmental and physical disabilities and I was determined to not let a summer go by without having campers here. We did it. There's nothing better than happy campers. ([link](https://www.threads.com/@dianelynnturnbull/post/DgPTY-pG3oK))
+  - _Replying to: @dianelynnturnbull Slide four of the Gathered Thursday favo…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
