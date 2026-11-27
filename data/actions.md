@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (49)
+## Needs Reply (50)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **tallymountain**: Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal. ([link](https://www.threads.com/@tallymountain/post/DgPLqsnEmiL))
@@ -21,6 +21,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole autumn pressed flat into one frame, and every leaf …_
 - **jbrucewilcox**: It fit your theme!!! lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOtI7tDAbE))
   - _Replying to: A rescue, a series, and three more eyeballs in reserve. Tha…_
+- **akmaleky**: A week or so, our school has a recycle program, all plastic containers must be put in the designated place. ([link](https://www.threads.com/@akmaleky/post/DgPWiOoGhj0))
+  - _Replying to: One cage, a whole season of empties, and the colored caps d…_
 - **mcoger55**: The rest of the story. ‘‘Twas a long day. ([link](https://www.threads.com/@mcoger55/post/DgN97JOlBho))
   - Photo: Description: A kitchen countertop holds multiple containers filled with fresh green beans, alongside a red toaster, a measuring cup, and various kitchen items against wooden cabinets and a tiled backsplash. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the scene. The composition is centered on the containers of green beans, with background elements including a lotion bottle and a small shelf with figurines. The rendering is clear enough to distinguish objects and textures, though some items are partially obscured or in the background. Photo type: Domestic still life
   - Photo: Description: A large quantity of fresh green beans rests on a light-colored towel spread over a surface, with a wooden knife block and a paper towel roll visible in the background. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The beans are in sharp focus, while the background elements are slightly less defined. The towel’s texture is visible, and the beans’ surfaces reflect light, indicating a non-reflective, diffuse illumination. Photo type: Still life
