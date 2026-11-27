@@ -1,37 +1,62 @@
 # Needs Outward
 
-Generated 2026-11-26T10:41:18.918304-08:00 for @saars.foto. 120 of 162 registered replies checked (last 14 days; limit 120).
+Generated 2026-11-27T10:41:25.364569-08:00 for @saars.foto. 120 of 161 registered replies checked (last 14 days; limit 120).
 
 _API-only pilot. Full answer text; no photo descriptions or Threads writes. Target authors and styles come from the registry. New means first observed since the previous published snapshot, not unread._
 
-Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 42 discovery IDs not registered.
+Registry mode: the registry defines the tracked set; discovery is audit-only. 0 registered IDs absent from discovery; 38 discovery IDs not registered.
 
 **Scope capped: older registered replies were not checked.**
 
-## New Answers (7)
+## New Answers (8)
 
-- **@mw\_photographyldn**: Thank you very much. For this one I waited for someone to walk across. It was a little tricky as the light was coming and going so the tree shadow was not always there ([answer](<https://www.threads.com/@mw_photographyldn/post/DgNgdX-Dh1O>))
-  - Our comment: I think the lone walker makes it - without her the wall is just a beautiful shadow pattern, and with her it has somewhere to go. Did you wait for someone to cross the frame, or did she walk in at the right second? ([our reply](<https://www.threads.com/@saars.foto/post/DgNeipzIdk5>)); answered after 0.3h.
+- **@wildseascapes**: We liked the lines, the light, and the shadow. The minimal scene drew us in. ([answer](<https://www.threads.com/@wildseascapes/post/DgQNYwwCPsr>))
+  - Our comment: That thin slit of sea between the walls is doing all the work - the whole ocean squeezed into a doorway, with the sun catching the right wall. What made you stop for this framing instead of just walking on? ([our reply](<https://www.threads.com/@saars.foto/post/DgQFt48lXep>)); answered after 1.1h.
 
-- **@el.aine9233**: The curve set the stage, but waiting for the traveler to hit that exact symmetry point was the real challenge. Glad you noticed！🙏🏻 ([answer](<https://www.threads.com/@el.aine9233/post/DgNVC6tGs8L>))
-  - Our comment: One traveler doubled in the glass, the reflection doing half the work. Was it the curve of the wall that stopped you, or the traveler walking into it? ([our reply](<https://www.threads.com/@saars.foto/post/DgLQo2umPlz>)); answered after 19.3h.
+- **@arif\_ahmed\_khan2**: well, it took me more than 30 minutes to take this picture ([answer](<https://www.threads.com/@arif_ahmed_khan2/post/DgQIoXcHda5>))
+  - Our comment: Those green eyes fill the whole frame, and then you notice the fly it is holding like a prize. How long did you wait for it to hold still like that? ([our reply](<https://www.threads.com/@saars.foto/post/DgQFxNfmqH2>)); answered after 0.4h.
 
-- **@claire4frost**: Thank you 🙏 It was the women in the kimonos that I was most confident about because I’d taken more time and had the chance to observe them for a while before capturing some shots. The others were on the move, so not sure about what I’d got! 😁 ([answer](<https://www.threads.com/@claire4frost/post/DgMxio6kdyG>))
-  - Our comment: The clear umbrellas over the kimonos in the third frame stopped me - lantern light glowing through the plastic, the whole wet street behind them. Which frame was the one you knew you had? ([our reply](<https://www.threads.com/@saars.foto/post/DgGJxXUCQFo>)); answered after 61.7h.
+- **@claire4frost**: We’d already had a few evenings in the Dotonbori area so, on our last evening, I was looking for some more unusual compositions and I do love a reflection 😊 ([answer](<https://www.threads.com/@claire4frost/post/DgQHVYKEfk8>))
+  - Our comment: What made you look down at the bin instead of up at the signs? The whole neon street is doubled in that curved lid, crowds and giant faces and all, and it is twice as loud as the street itself. ([our reply](<https://www.threads.com/@saars.foto/post/DgQFu-3oKoI>)); answered after 0.2h.
+  - Follow-ups: 1 (@saars.foto).
 
-- **@foutsphotos**: these are in order of me taking them. ([answer](<https://www.threads.com/@foutsphotos/post/DgLU6y8Eo4V>))
-  - Our comment: Which slide came first, the maple through the arched bridge or the close-up at the trunk? That red against the gold canopy stops the eye in both frames. ([our reply](<https://www.threads.com/@saars.foto/post/DgLQRuelFb7>)); answered after 0.7h.
+- **@esilviany**: Both of them actually! 😁 ([answer](<https://www.threads.com/@esilviany/post/DgOPP60kx7f>))
+  - Our comment: Two birds, two moods - the macaw posing like it owns the stand, the little green one with the red shoulder patch looking ready to bolt. Which one made you wait longer? ([our reply](<https://www.threads.com/@saars.foto/post/DgN1sQloDGQ>)); answered after 3.7h.
 
-- **@leighw.photos**: It's the simplicity that leads your through ([answer](<https://www.threads.com/@leighw.photos/post/DgLSlbVDvw0>))
-  - Our comment: The bearded man with the guitar case, the fedora, the scarf, all of it framed through the window with that dark silhouette holding the left side. A street frame that rewards a second look. ([our reply](<https://www.threads.com/@saars.foto/post/DgLQSuJlAO0>)); answered after 0.3h.
+- **@g.lakshmigandan**: Thanks 😊! I was focusing on the vogue sign and this guy with the long coat and an umbrella walked by. I included him in the composition which gives a retro vibe. I was quite lucky to get this as it happened pretty fast. ([answer](<https://www.threads.com/@g.lakshmigandan/post/DgOF018AX_9>))
+  - Our comment: What made you stop on this corner instead of just getting out of the rain? The red VOGUE sign bleeding into the wet street, the umbrella walker heading away into all of it, the leaves still hanging on overhead. ([our reply](<https://www.threads.com/@saars.foto/post/DgN1xqLoN-N>)); answered after 2.3h.
 
-- **@wildseascapes**: Photographing waves is highly addictive; you get lost in the moment. ([answer](<https://www.threads.com/@wildseascapes/post/DgLRMYhCCCE>))
-  - Our comment: How many waves did you watch before this one went translucent in the sun and burst spray off the lip like that? ([our reply](<https://www.threads.com/@saars.foto/post/DgLQqHWH8hN>)); answered after 0.1h.
+- **@jure.jpg**: Dog made the photo perfect! 😍 idk i was kind in a hurry because so rarely snow in our town. And this old man and the dog were passing slowly no matter the weather and both were black and make perfectly balanced with environment ([answer](<https://www.threads.com/@jure.jpg/post/DgOFGhGiCQF>))
+  - Our comment: The small black dog is the whole photograph - one dark note in all that white, with the snow falling soft around the two of you. What made you turn around for this frame instead of just walking on? ([our reply](<https://www.threads.com/@saars.foto/post/DgNefQMFVQL>)); answered after 5.6h.
 
-- **@charhedman**: Thanks, Saar. With that one, I was almost touching the flowers - maybe 1” away. ([answer](<https://www.threads.com/@charhedman/post/DgLREqzAQyo>))
-  - Our comment: Those stamens look lit from inside, every droplet catching the gold light while the storm does its thing outside. How close did the extension tube let you get? ([our reply](<https://www.threads.com/@saars.foto/post/DgLQQgdoBDI>)); answered after 0.1h.
+- **@paulo.a.d.fernandes**: Thank's🙏 At the end of the day, in autumn some streets are almost empty. Very quiet! ([answer](<https://www.threads.com/@paulo.a.d.fernandes/post/DgN20NYjpTo>))
+  - Our comment: The lamp light pooling on the cobbles does half the work, and the lone walker gives the whole street somewhere to go. How long did you wait for the street to go that quiet? ([our reply](<https://www.threads.com/@saars.foto/post/DgN1qFxFM5d>)); answered after 0.2h.
+
+- **@kennenkaufmann**: It’s the Ute on a Stick in Deniliquin, New South Wales. There’s an annual Ute Muster in Deniliquin. Big event. ([answer](<https://www.threads.com/@kennenkaufmann/post/DgN2LMgEwKQ>))
+  - Our comment: A maroon car on a pole, nose down over the street, doing its best impression of a wrong turn. What is the story behind this one? ([our reply](<https://www.threads.com/@saars.foto/post/DgN1y5VCUiY>)); answered after 0.1h.
 
 ## Needs Reply (71)
+
+- **@wildseascapes**: We liked the lines, the light, and the shadow. The minimal scene drew us in. ([answer](<https://www.threads.com/@wildseascapes/post/DgQNYwwCPsr>))
+  - Our comment: That thin slit of sea between the walls is doing all the work - the whole ocean squeezed into a doorway, with the sun catching the right wall. What made you stop for this framing instead of just walking on? ([our reply](<https://www.threads.com/@saars.foto/post/DgQFt48lXep>)); answered after 1.1h.
+
+- **@arif\_ahmed\_khan2**: well, it took me more than 30 minutes to take this picture ([answer](<https://www.threads.com/@arif_ahmed_khan2/post/DgQIoXcHda5>))
+  - Our comment: Those green eyes fill the whole frame, and then you notice the fly it is holding like a prize. How long did you wait for it to hold still like that? ([our reply](<https://www.threads.com/@saars.foto/post/DgQFxNfmqH2>)); answered after 0.4h.
+
+- **@esilviany**: Both of them actually! 😁 ([answer](<https://www.threads.com/@esilviany/post/DgOPP60kx7f>))
+  - Our comment: Two birds, two moods - the macaw posing like it owns the stand, the little green one with the red shoulder patch looking ready to bolt. Which one made you wait longer? ([our reply](<https://www.threads.com/@saars.foto/post/DgN1sQloDGQ>)); answered after 3.7h.
+
+- **@g.lakshmigandan**: Thanks 😊! I was focusing on the vogue sign and this guy with the long coat and an umbrella walked by. I included him in the composition which gives a retro vibe. I was quite lucky to get this as it happened pretty fast. ([answer](<https://www.threads.com/@g.lakshmigandan/post/DgOF018AX_9>))
+  - Our comment: What made you stop on this corner instead of just getting out of the rain? The red VOGUE sign bleeding into the wet street, the umbrella walker heading away into all of it, the leaves still hanging on overhead. ([our reply](<https://www.threads.com/@saars.foto/post/DgN1xqLoN-N>)); answered after 2.3h.
+
+- **@jure.jpg**: Dog made the photo perfect! 😍 idk i was kind in a hurry because so rarely snow in our town. And this old man and the dog were passing slowly no matter the weather and both were black and make perfectly balanced with environment ([answer](<https://www.threads.com/@jure.jpg/post/DgOFGhGiCQF>))
+  - Our comment: The small black dog is the whole photograph - one dark note in all that white, with the snow falling soft around the two of you. What made you turn around for this frame instead of just walking on? ([our reply](<https://www.threads.com/@saars.foto/post/DgNefQMFVQL>)); answered after 5.6h.
+
+- **@paulo.a.d.fernandes**: Thank's🙏 At the end of the day, in autumn some streets are almost empty. Very quiet! ([answer](<https://www.threads.com/@paulo.a.d.fernandes/post/DgN20NYjpTo>))
+  - Our comment: The lamp light pooling on the cobbles does half the work, and the lone walker gives the whole street somewhere to go. How long did you wait for the street to go that quiet? ([our reply](<https://www.threads.com/@saars.foto/post/DgN1qFxFM5d>)); answered after 0.2h.
+
+- **@kennenkaufmann**: It’s the Ute on a Stick in Deniliquin, New South Wales. There’s an annual Ute Muster in Deniliquin. Big event. ([answer](<https://www.threads.com/@kennenkaufmann/post/DgN2LMgEwKQ>))
+  - Our comment: A maroon car on a pole, nose down over the street, doing its best impression of a wrong turn. What is the story behind this one? ([our reply](<https://www.threads.com/@saars.foto/post/DgN1y5VCUiY>)); answered after 0.1h.
 
 - **@mw\_photographyldn**: Thank you very much. For this one I waited for someone to walk across. It was a little tricky as the light was coming and going so the tree shadow was not always there ([answer](<https://www.threads.com/@mw_photographyldn/post/DgNgdX-Dh1O>))
   - Our comment: I think the lone walker makes it - without her the wall is just a beautiful shadow pattern, and with her it has somewhere to go. Did you wait for someone to cross the frame, or did she walk in at the right second? ([our reply](<https://www.threads.com/@saars.foto/post/DgNeipzIdk5>)); answered after 0.3h.
@@ -221,32 +246,11 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - **@paulo.a.d.fernandes**: I only waited a few moments. I was lucky! Thank's for your comments and support 🙏 I appreciate✨😊 ([answer](<https://www.threads.com/@paulo.a.d.fernandes/post/Df2rJSjlVyZ>))
   - Our comment: How long did you wait for the street to empty out like that? The lit shopfronts against the dark facades, the patterned cobbles leading in, and that one lamp glowing over the tiled wall. ([our reply](<https://www.threads.com/@saars.foto/post/Df2qluSj-Ne>)); answered after 0.1h.
 
-- **@thenomadic\_photographer**: Yeah, it's been sitting for a while ([answer](<https://www.threads.com/@thenomadic_photographer/post/Df2rGGIGXjS>))
-  - Our comment: That little blue car parked in the leaves like it ran out of road - the peeling red paint, the woods closing in behind it, and nobody around to drive it home. Did you find it sitting there, or has it been waiting in those leaves a while? ([our reply](<https://www.threads.com/@saars.foto/post/Df2qo69j6I->)); answered after 0.1h.
-
 - **@madjeffphoto**: I was at the health centre at 8.30 AM and it was only me there! ([answer](<https://www.threads.com/@madjeffphoto/post/Df2UoQ0Eaax>))
   - Our comment: Was the corridor already empty when you found it, or did you wait for it to clear? The green door is the only color in the whole frame, and the ceiling lights just keep pulling the eye further down. ([our reply](<https://www.threads.com/@saars.foto/post/Df2Ti46kb4g>)); answered after 0.2h.
 
 - **@tanya\_kreil**: I was standing pretty much in front of her. I used a 50mm lens, which is extremely rare for me. ([answer](<https://www.threads.com/@tanya_kreil/post/Df2Uhhdjhkb>))
   - Our comment: That fringe over its eyes and the horns going wide past the frame - the cow stares straight down the lens like it owns the field. How close did it let you get? ([our reply](<https://www.threads.com/@saars.foto/post/Df2Tkenm5Gr>)); answered after 0.1h.
-
-- **@paulo.a.d.fernandes**: Thank's🙏It was a very rainy and windy afternoon, and it wasn't comfortable sitting at those restaurant tables. I took advantage of the moment to appreciate the emptier space. ([answer](<https://www.threads.com/@paulo.a.d.fernandes/post/Df0JIUnFbqr>))
-  - Our comment: Empty seats indeed - the wet floor doubling the arcade, the tables waiting at the edge, and those two tiny figures way down at the end like the only audience. Was the arcade already that quiet, or did you catch the gap between the lunch crowd and the evening one? ([our reply](<https://www.threads.com/@saars.foto/post/Df0DVxDD5OH>)); answered after 0.8h.
-
-- **@madjeffphoto**: I suppose it is a still life! ([answer](<https://www.threads.com/@madjeffphoto/post/Df0IpEfERdW>))
-  - Our comment: Four wheelbarrows in a row and the faded frame to match - the most patient still life in the garden today. ([our reply](<https://www.threads.com/@saars.foto/post/Df0E8puoHSU>)); answered after 0.5h.
-
-- **@sarahlouisebphotos**: That’s the way I wanted to frame it 😊 I knew they would fly past ([answer](<https://www.threads.com/@sarahlouisebphotos/post/Df0IWu1CJm5>))
-  - Our comment: The window frame does half the work here - the birds double in the glass while the real flock fills the orange sky over the pier. Was the reflection in the glass the reason you kept the frame, or did the murmuration just happen to line up with it? ([our reply](<https://www.threads.com/@saars.foto/post/Df0E3UaD01C>)); answered after 0.5h.
-
-- **@iamweebler**: A second or two. ([answer](<https://www.threads.com/@iamweebler/post/DfzxwA3liuI>))
-  - Our comment: How long did the pigeon sit still for you? Two frames, two directions, and it holds its pose on the seed-scattered table while everything behind it goes soft. ([our reply](<https://www.threads.com/@saars.foto/post/Dfzu_9JG7HR>)); answered after 0.4h.
-
-- **@2killamockingbird**: It was just after...and thank you.. ([answer](<https://www.threads.com/@2killamockingbird/post/DfzvM0_AKe2>))
-  - Our comment: I think the tight crop was the right call - the leaf fills the frame, water beads on the yellow and red, stones showing through underneath. Still raining when you found it, or just after? ([our reply](<https://www.threads.com/@saars.foto/post/DfzvBX9iU1D>)); answered after 0.0h.
-
-- **@lesrice81**: 7am , this morning ([answer](<https://www.threads.com/@lesrice81/post/DfzvLkaCCeK>))
-  - Our comment: That rippled sky taking up most of the frame while the tree line goes nearly black underneath - the clouds carry all the texture and the ground carries none. What time of day did the sky look like that? ([our reply](<https://www.threads.com/@saars.foto/post/Dfzu91-lFeD>)); answered after 0.0h.
 
 ## Needs Like (6)
 
@@ -270,18 +274,51 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 
 ## All Tracked Replies
 
-- [Our reply](<https://www.threads.com/@saars.foto/post/DgNefQMFVQL>) (2026-11-26T15:55:55+0000): **no_answer**; likes: 0; answers: 0.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgQFt48lXep>) (2026-11-27T16:17:10+0000): **answered_by_author**; likes: 0; answers: 1.
+  - That thin slit of sea between the walls is doing all the work - the whole ocean squeezed into a doorway, with the sun catching the right wall. What made you stop for this framing instead of just walking on?
+  - Target: @wildseascapes; style: question; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgQFu-3oKoI>) (2026-11-27T16:17:19+0000): **answered_by_author**; likes: 1; answers: 1.
+  - What made you look down at the bin instead of up at the signs? The whole neon street is doubled in that curved lid, crowds and giant faces and all, and it is twice as loud as the street itself.
+  - Target: @claire4frost; style: question; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgQFwIcFCGD>) (2026-11-27T16:17:28+0000): **no_answer**; likes: 0; answers: 0.
+  - I think the chair is the whole photograph - one still figure in black, sitting calm in the middle of a whole herd in that low gold light. Did the horses wander into the frame on their own, or did you have to coax them there?
+  - Target: @vydrenkova.art; style: question; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgQFxNfmqH2>) (2026-11-27T16:17:37+0000): **answered_by_author**; likes: 1; answers: 1.
+  - Those green eyes fill the whole frame, and then you notice the fly it is holding like a prize. How long did you wait for it to hold still like that?
+  - Target: @arif\_ahmed\_khan2; style: question; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgNefQMFVQL>) (2026-11-26T15:55:55+0000): **answered_by_author**; likes: 1; answers: 1.
   - The small black dog is the whole photograph - one dark note in all that white, with the snow falling soft around the two of you. What made you turn around for this frame instead of just walking on?
   - Target: @jure.jpg; style: question; source: morning-briefing.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DgNegcJlLQ3>) (2026-11-26T15:56:04+0000): **no_answer**; likes: 0; answers: 0.
   - How long did you stand in the rain for this one? The wet pavement doubles the building so quietly, and that tall tree cuts the white wall in half like it owns the frame.
   - Target: @koleiski; style: question; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DgNehkcIOm8>) (2026-11-26T15:56:13+0000): **no_answer**; likes: 0; answers: 0.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgNehkcIOm8>) (2026-11-26T15:56:13+0000): **no_answer**; likes: 2; answers: 0.
   - The round mirror selfie is a lovely way to open a diary - you and the old twin-lens camera, then the quiet café table by the window. Where did the day take you after the café?
   - Target: @ruuuxiee; style: question; source: morning-briefing.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DgNeipzIdk5>) (2026-11-26T15:56:22+0000): **answered_by_author**; likes: 0; answers: 1.
   - I think the lone walker makes it - without her the wall is just a beautiful shadow pattern, and with her it has somewhere to go. Did you wait for someone to cross the frame, or did she walk in at the right second?
   - Target: @mw\_photographyldn; style: question; source: morning-briefing.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1qFxFM5d>) (2026-11-26T19:18:21+0000): **answered_by_author**; likes: 1; answers: 1.
+  - The lamp light pooling on the cobbles does half the work, and the lone walker gives the whole street somewhere to go. How long did you wait for the street to go that quiet?
+  - Target: @paulo.a.d.fernandes; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1rIkCXiL>) (2026-11-26T19:18:30+0000): **no_answer**; likes: 0; answers: 0.
+  - That cocoa-dusted foam and the little hat-wearing figure on the cup, with the whole cafe melting into blur behind it. Did you claim the window table for the light, or was it just where the coffee landed?
+  - Target: @vlajce1; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1sQloDGQ>) (2026-11-26T19:18:39+0000): **answered_by_author**; likes: 1; answers: 1.
+  - Two birds, two moods - the macaw posing like it owns the stand, the little green one with the red shoulder patch looking ready to bolt. Which one made you wait longer?
+  - Target: @esilviany; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1tVRmw0w>) (2026-11-26T19:19:06+0000): **no_answer**; likes: 1; answers: 0.
+  - A rope turned to glass - every strand holding its own icicles against that cold blue morning. How long did you stand out in it for this one?
+  - Target: @ircacaplikas; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1wiumdkj>) (2026-11-26T19:19:15+0000): **no_answer**; likes: 0; answers: 0.
+  - One amber leaf on grey stone, the low light raking across every vein until it glows. A whole season in a single frame.
+  - Target: @joeyterrill; style: closer; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1xqLoN-N>) (2026-11-26T19:19:25+0000): **answered_by_author**; likes: 1; answers: 1.
+  - What made you stop on this corner instead of just getting out of the rain? The red VOGUE sign bleeding into the wet street, the umbrella walker heading away into all of it, the leaves still hanging on overhead.
+  - Target: @g.lakshmigandan; style: question; source: outward-batch.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgN1y5VCUiY>) (2026-11-26T19:19:34+0000): **answered_by_author**; likes: 1; answers: 1.
+  - A maroon car on a pole, nose down over the street, doing its best impression of a wrong turn. What is the story behind this one?
+  - Target: @kennenkaufmann; style: question; source: outward-batch.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DgK52_WFv6E>) (2026-11-25T15:57:21+0000): **no_answer**; likes: 0; answers: 0.
   - A whole frosted field under that orange sky, the mist sitting low, and one cow out in it like the only audience. Did you wait long for the light to line up like that?
   - Target: @dorothycombirch; style: question; source: morning-briefing.
@@ -435,7 +472,7 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - [Our reply](<https://www.threads.com/@saars.foto/post/DgAnnf6lXDV>) (2026-11-21T16:05:33+0000): **answered_by_author**; likes: 1; answers: 1.
   - The green cross against all that warm stone is what stops me - the corner glows while the street stays dark. Did you plan the walk to end here, or did the light pull you in?
   - Target: @iamweebler; style: question; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DgAnoo0FPbS>) (2026-11-21T16:05:42+0000): **answered_by_author**; likes: 0; answers: 1.
+- [Our reply](<https://www.threads.com/@saars.foto/post/DgAnoo0FPbS>) (2026-11-21T16:05:42+0000): **answered_by_author**; likes: 1; answers: 1.
   - Eikando at its best - red maples over the pond, the little bridge tucked in the middle, all of it doubled in the water. What time of day did you catch it?
   - Target: @rickyjessy1216; style: question; source: morning-briefing.
 - [Our reply](<https://www.threads.com/@saars.foto/post/DgA78jcmvAB>) (2026-11-21T19:03:11+0000): **no_answer**; likes: 1; answers: 0.
@@ -597,36 +634,3 @@ Registry mode: the registry defines the tracked set; discovery is audit-only. 0 
 - [Our reply](<https://www.threads.com/@saars.foto/post/Df2qnSqD1yv>) (2026-11-17T19:19:20+0000): **answered_by_author**; likes: 0; answers: 1.
   - Urban Tetris is right - those stacked boxes lock together like game pieces, every balcony offset just enough to keep the eye moving. What made you stop for this wall over everything else on the street?
   - Target: @charhedman; style: question; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df2qo69j6I->) (2026-11-17T19:19:33+0000): **answered_by_author**; likes: 1; answers: 1.
-  - That little blue car parked in the leaves like it ran out of road - the peeling red paint, the woods closing in behind it, and nobody around to drive it home. Did you find it sitting there, or has it been waiting in those leaves a while?
-  - Target: @thenomadic\_photographer; style: question; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df2qqTEj-Do>) (2026-11-17T19:19:44+0000): **no_answer**; likes: 0; answers: 0.
-  - How do you walk past a wall like this? The yellow pole cuts straight through all that pink, the turquoise windows hold the bottom, and the lamp's shadow leans in from the side.
-  - Target: @arnonor; style: question; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df2qryVmHu_>) (2026-11-17T19:19:56+0000): **no_answer**; likes: 1; answers: 0.
-  - The egret lifting off with the sun behind its wing, the fisherman sitting still in the boat, and those rings spreading across the water - the whole morning held in one frame.
-  - Target: @moises\_levy\_street; style: closer; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Dfzu91-lFeD>) (2026-11-16T15:59:38+0000): **answered_by_author**; likes: 1; answers: 1.
-  - That rippled sky taking up most of the frame while the tree line goes nearly black underneath - the clouds carry all the texture and the ground carries none. What time of day did the sky look like that?
-  - Target: @lesrice81; style: question; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Dfzu-3flKFa>) (2026-11-16T15:59:45+0000): **no_answer**; likes: 1; answers: 0.
-  - The doors-up shot through the hedge is the one for me - silver wings against all that dark green, the car half hidden behind it. What made you shoot it through the hedge instead of walking up to it?
-  - Target: @\_momusa; style: question; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Dfzu_9JG7HR>) (2026-11-16T15:59:55+0000): **answered_by_author**; likes: 1; answers: 1.
-  - How long did the pigeon sit still for you? Two frames, two directions, and it holds its pose on the seed-scattered table while everything behind it goes soft.
-  - Target: @iamweebler; style: question; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/DfzvBX9iU1D>) (2026-11-16T16:00:07+0000): **answered_by_author**; likes: 1; answers: 1.
-  - I think the tight crop was the right call - the leaf fills the frame, water beads on the yellow and red, stones showing through underneath. Still raining when you found it, or just after?
-  - Target: @2killamockingbird; style: question; source: morning-briefing.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df0DVxDD5OH>) (2026-11-16T18:57:40+0000): **answered_by_author**; likes: 1; answers: 1.
-  - Empty seats indeed - the wet floor doubling the arcade, the tables waiting at the edge, and those two tiny figures way down at the end like the only audience. Was the arcade already that quiet, or did you catch the gap between the lunch crowd and the evening one?
-  - Target: @paulo.a.d.fernandes; style: question; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df0E3UaD01C>) (2026-11-16T19:11:01+0000): **answered_by_author**; likes: 0; answers: 1.
-  - The window frame does half the work here - the birds double in the glass while the real flock fills the orange sky over the pier. Was the reflection in the glass the reason you kept the frame, or did the murmuration just happen to line up with it?
-  - Target: @sarahlouisebphotos; style: question; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df0E8puoHSU>) (2026-11-16T19:11:43+0000): **answered_by_author**; likes: 1; answers: 1.
-  - Four wheelbarrows in a row and the faded frame to match - the most patient still life in the garden today.
-  - Target: @madjeffphoto; style: closer; source: outward-batch.
-- [Our reply](<https://www.threads.com/@saars.foto/post/Df0E-CyGg2G>) (2026-11-16T19:11:54+0000): **no_answer**; likes: 0; answers: 0.
-  - Seven frames and every one of them is moving - the taxi blurring over the bike lane, the steam, the fire truck with its lights on. Which of the seven did you shoot first?
-  - Target: @john.je; style: question; source: outward-batch.
