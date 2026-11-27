@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (47)
+## Needs Reply (48)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **leahbogie**:  ([link](https://www.threads.com/@leahbogie/post/DgOo9lFEfuP))
+  - Photo: Description: A ground surface covered with fallen autumn leaves in various colors, including red, orange, yellow, and brown, scattered over green grass. Photograph read: The image is a flat, top-down view with even, diffuse lighting. Leaves are densely packed, overlapping, and show varied degrees of color saturation and texture. No visible lens distortion or motion blur. No signs of digital compression or chromatic aberration. Photo type: Natural
 - **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DgOmlRsnLSm))
   - Photo: Description: A team of mules, harnessed together, pulls a large green agricultural machine across a harvested field under a bright sky; distant trees and power lines are visible on the horizon. Photograph read: The image is taken in bright, even daylight with no visible shadows or contrast extremes. The mules and machinery are in focus, but the foreground field is slightly out of focus, and the background is softly blurred. The composition places the subjects centrally, with the horizon line dividing the frame. Photo type: Agricultural
 - **smilingjeannie**: We were observing them from the jeep and were probably 25-30 yards away. ([link](https://www.threads.com/@smilingjeannie/post/DgOkEsrEVLB))
