@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (66)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **glendagh25**:  ([link](https://www.threads.com/@glendagh25/post/DgQw6iuj5n0))
+  - Photo: Description: A painted rock with the words "HOPE and RENEWA" in pink lettering, featuring three colorful, stylized mushrooms, rests among green moss and small leaves on a damp, earthy surface. Photograph read: The image is in natural daylight with even illumination across the subject. The rock and surrounding foliage are in focus, with no visible motion blur or lens distortion. The paint on the rock is clearly rendered, though the surface has a slight sheen. Photo type: Natural
 - **hibbys_cheap_watches**:  ([link](https://www.threads.com/@hibbys_cheap_watches/post/DgQvRAdn1Ub))
   - Photo: Description: An old, rusted truck is partially obscured by bare branches in a wooded area, with its front cab and hood visible; the background consists of leafless trees under bright, overexposed sky. Photograph read: The image is in black and white, with high contrast between the bright background and the darker truck. Foreground branches partially obscure the subject. The truck’s surface shows rust and peeling paint, and its windows are cracked or dirty. Lighting is strong from behind, causing overexposure in the background trees and sky. Photo type: Documentary
     - Watch-outs: - Foreground branches obscure the truck’s front grille and hood area, reducing visibility of those features. - Background is overexposed, causing loss of detail in tree trunks and sky, particularly in the upper right quadrant.
