@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (84)
+## Needs Reply (85)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **donnacorser**:  ([link](https://www.threads.com/@donnacorser/post/DgQi_1No91A))
+  - Photo: Description: A large, rusted metal wagon wheel is mounted against a weathered wooden fence, with green vines growing through its spokes. To the right, a stone fountain with a statue of a figure stands amidst surrounding foliage. Photograph read: The image is taken in natural daylight with even illumination across the scene. The composition is straightforward, with the wheel as the central subject and the fountain as a secondary element. The rendering is clear enough to discern textures on the wood, metal, and stone, though some areas are slightly soft. Photo type: Still life
 - **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/DgQinTejmBt))
   - Photo: Description: A child’s scooter with rusted metal parts and faded, multicolored paint lies on a paved sidewalk next to a dense, dark hedge. The scooter’s handlebars are tipped with purple grips, and its wheels are partially covered in dirt and rust. Photograph read: The image is composed with the scooter as the central subject, positioned at an angle against a dark hedge and a paved path. Lighting appears diffuse, likely from an overcast sky, casting soft shadows. The image exhibits a selective color effect, with the scooter’s colors vivid against a desaturated background. The focus is sharp on the scooter and immediate surroundings, with no visible motion blur or focus falloff. Photo type: Still life
 - **keltainentalorannalla**:  ([link](https://www.threads.com/@keltainentalorannalla/post/DgQhKwCCPdT))
