@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (83)
+## Needs Reply (84)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/DgQinTejmBt))
+  - Photo: Description: A child’s scooter with rusted metal parts and faded, multicolored paint lies on a paved sidewalk next to a dense, dark hedge. The scooter’s handlebars are tipped with purple grips, and its wheels are partially covered in dirt and rust. Photograph read: The image is composed with the scooter as the central subject, positioned at an angle against a dark hedge and a paved path. Lighting appears diffuse, likely from an overcast sky, casting soft shadows. The image exhibits a selective color effect, with the scooter’s colors vivid against a desaturated background. The focus is sharp on the scooter and immediate surroundings, with no visible motion blur or focus falloff. Photo type: Still life
 - **keltainentalorannalla**:  ([link](https://www.threads.com/@keltainentalorannalla/post/DgQhKwCCPdT))
   - Photo: Description: An old, weathered wooden house with a gabled roof and multiple windows, set against a cloudy sky with a tall pine tree to the right. Photograph read: The image is captured from a frontal, eye-level perspective with even, diffused lighting. The house’s siding, windows, and door are visible, though faded and worn. The roof tiles show signs of moss or discoloration. The foreground includes a small set of rusted steps and sparse vegetation. Photo type: Documentary
     - Watch-outs: - The paint on the house’s siding is peeling and faded, reducing surface detail and color accuracy. - The window panes are dirty or cracked, obscuring interior visibility and reducing clarity of window glass.
