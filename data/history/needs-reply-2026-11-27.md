@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (63)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **p.a.tovo**:  ([link](https://www.threads.com/@p.a.tovo/post/DgP-tXKG8Wc))
+  - Photo: Description: A black-and-white photograph shows a small, round, smiling figurine with the word "LOVE" written on its body, positioned among dense, leafy vegetation on the ground. Photograph read: The image is in monochrome, with high contrast between the light-colored figurine and the dark foliage. The figurine is in focus, while the surrounding vegetation is slightly out of focus. Lighting appears natural and even, with no visible shadows or harsh highlights. Photo type: Still Life
+  - Photo: Description: A doll with a human-like face and bare torso lies on grass, partially surrounded by blades and small clover-like plants, with one arm extended outward. Photograph read: The image is in black and white, with high contrast between the grass and the doll. The doll is centrally positioned but not sharply focused, and the grass texture is dense and detailed. Lighting appears even, without obvious shadows or highlights. Photo type: Documentary
 - **lewishblove**: Pollen fingerprints left on a car ([link](https://www.threads.com/@lewishblove/post/DgP-N8iloG4))
   - Photo: Description: The image shows a reflective surface, likely a car's glossy exterior, with reflections of bare tree branches and a bright sky. Faint, rounded white marks are visible on the surface, possibly water droplets or smudges. Photograph read: The composition is dominated by reflections, with the surface acting as a mirror. Lighting appears bright and diffuse, creating clear reflections but also causing glare and minor surface imperfections. Rendering is flat with no discernible depth or texture beyond the reflections. Photo type: Reflections
     - Watch-outs: - Reflections are indistinct and partially obscured by surface marks, reducing clarity of the tree branches and sky. - Surface marks (white, rounded) are visible and interfere with the reflection, making fine detail unreadable in those areas.
