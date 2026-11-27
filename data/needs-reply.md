@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (52)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/DgOqWZ1nCd4))
@@ -17,6 +17,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole parade crossing the gold grass, little ones tucked …_
 - **anouc90**: Perhaps a combination...thought it looks like a bowl of leaves salad .😎 ([link](https://www.threads.com/@anouc90/post/DgOsDbdIcY6))
   - _Replying to: Did the stump collect those leaves, or did the wind do the …_
+- **tallymountain**: The ponchos did okay actually. I’m little so it pretty well kept me dry 😊 ([link](https://www.threads.com/@tallymountain/post/DgOxxlzEhud))
+  - _Replying to: The yellow ponchos steal the show - a whole crowd dressed l…_
 - **watsjoey**: That’s the way they were displayed. I love going to the market in the fall. The colours are all so vibrant. ([link](https://www.threads.com/@watsjoey/post/DgOhXt_mVy0))
   - _Replying to: (photo reply, no text)_
 - **jbrucewilcox**: It fit your theme!!! lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOtI7tDAbE))
