@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (54)
+## Needs Reply (55)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
 - **smilingjeannie**: A parade of elephants living an abundant life at Lewa Conservancy, Kenya ([link](https://www.threads.com/@smilingjeannie/post/DgOWudAkbOB))
@@ -28,6 +28,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: I think the deep red ones against all that pale pink are do…_
 - **ben.bennion**: There are eight drinks . Of our group of 15 , 8 of us weren’t going to let the price of beer put us off . One of the group was on a budget of £25 a day . Me and my mate worked out costs in the number of beers . By the end this group were in on it . Steve bought a hand made cheesecake for 3 beers ( £25) and after ordering it went back 4 hours later and we shared the cheesecake on the train . We found we could have two beers or have a cheap meal and get the two beers for the same price . ([link](https://www.threads.com/@ben.bennion/post/DgOHICHAuLF))
   - _Replying to: Seven glasses, four people, and everyone grinning like the …_
+- **kennenkaufmann**: I see this all the time. They are skilled at getting out of the way! ([link](https://www.threads.com/@kennenkaufmann/post/DgOfYfjkwoE))
+  - _Replying to: Thousands of them, and the whole shoreline looks like it is…_
 - **jbrucewilcox**: lolol... I found Ken discarded in an alley trash pile- so right off I rescued him and he quickly became the star of an ongoing series of facebook posts--- the nekkedKen Chronicles. He's anatomically incorrect so fb won't censor him. As for the eyeballs- I have 3 more... and we're probably working together on ideas- so yes... lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOHTCAFl-L))
   - _Replying to: Did Ken gather the balls, or did the balls gather Ken? The …_
 - **bojonvelvet2.0**: Nope, an old photo. ([link](https://www.threads.com/@bojonvelvet2.0/post/DgOJ2kUAVIu))
