@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (70)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **mikiec34**:  ([link](https://www.threads.com/@mikiec34/post/DgQLcZuhdX2))
@@ -22,6 +22,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A tattered, gray fabric garment hangs from a wire mesh fence with barbed wire above, against a light pink concrete block wall, with dry grass visible at the base. Photograph read: The image is in focus with even, diffuse lighting. The fence and wall are clearly rendered, and the fabric’s texture, tears, and stains are visible. No motion blur, overexposure, or underexposure is apparent. Photo type: Documentary
 - **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DgQIRg-GvGv))
   - Photo: Description: A corroded, seaweed-covered electric scooter lies on a paved dock beside calm water, with a floating barrier and distant railing visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between the dark, wet scooter and the sunlit pavement. The subject is in focus, but the water surface shows natural ripples and reflections. The composition is straightforward, with the scooter centered in the frame. Photo type: Documentary
+- **upsnodowns**: I keep imagining a little one crying for their favorite stuffed animal ▓ ([link](https://www.threads.com/@upsnodowns/post/DgQL5Eemy67))
+  - _Replying to: The little one at the end of the bench, keeping the big dog…_
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **akmaleky**: Probably 10 years. ([link](https://www.threads.com/@akmaleky/post/DgQK3qtmFI8))
