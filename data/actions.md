@@ -6,20 +6,9 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (56)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
-- **smilingjeannie**: Lobster traps left behind for the next season. Scotland. ([link](https://www.threads.com/@smilingjeannie/post/DgQALqjEa4T))
-  - Photo: Description: The foreground features a pile of tangled fishing nets and ropes on grass, with a body of water and a distant castle on an island in the background, set against rolling hills under a cloudy sky. Photograph read: The composition layers the nets in the foreground against the water and castle in the midground, with a cloudy sky above. Lighting is diffuse, with muted tones and visible texture in the nets. The image has a slightly enhanced color saturation and contrast, with visible grain or digital noise in the foreground. Photo type: Landscape
-    - Watch-outs: Foreground nets: fine details of the rope texture and net weave are visible but not sharply defined, with some areas appearing slightly soft or indistinct. Background castle: distant and partially obscured by atmospheric haze, reducing edge definition and detail clarity.
-- **fephi**:  ([link](https://www.threads.com/@fephi/post/DgQAF0Rltxn))
-  - Photo: Description: A worn work glove is mounted on a white pole, positioned outdoors with a grassy area, a concrete path, and a distant treeline under a bright sun in the background. Photograph read: The image is taken in bright, direct sunlight with a shallow depth of field, causing the background to be softly blurred. The glove is in focus and well-lit, but the pole and foreground grass show minimal texture detail. The sun’s glare is visible at the top right, creating a bright wash. Photo type: Outdoor portrait
-    - Watch-outs: The glove’s fingers are frayed and torn, with visible wear and dirt, limiting the clarity of its original condition. The top right corner is overexposed, obscuring fine detail in the sky and horizon.
-- **maureenozerimages**: Tyres at beach ([link](https://www.threads.com/@maureenozerimages/post/DgP_9bDDdAD))
-  - Photo: Description: Two discarded car wheels, one with a rusted steel rim and the other with a more corroded, possibly aluminum rim, lie on sandy ground next to a concrete curb, with sparse green grass nearby. Photograph read: The image is in focus with even, natural lighting, capturing fine details on the tires and rust patterns. The composition places the wheels in the foreground, with a shallow depth of field blurring the background pavement and curb. Photo type: Documentary
-    - Watch-outs: - The tire tread and sidewall text on the front wheel are partially legible but not fully readable due to wear and dirt. - The rust patterns on the rims are visible but not sharply defined, with some areas obscured by surface texture and debris.
-- **unclediss**: There must have been a ￼beach celebration prior, but I just came across this on a lovely Chicago summer morning.￼ ([link](https://www.threads.com/@unclediss/post/DgP_2jGG7D4))
-  - _Replying to: The statue on the sand, pink flowers beside it, the sea rig…_
 - **auerbach_photos**: It was standing there, on the boulders, with other Inukshuks around them. ([link](https://www.threads.com/@auerbach_photos/post/DgQAdv8Fkcy))
   - _Replying to: Did you find it standing there, or stack it stone by stone?…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
@@ -175,10 +164,7 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
-
-### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
-- 2killamockingbird: For someone !! ([link](https://www.threads.com/@2killamockingbird/post/DgQAz4vgKh6))
+## Needs Like (23)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - 2killamockingbird: Stunning picks 👌 👏 ([link](https://www.threads.com/@2killamockingbird/post/DgPuFt5ADyY))
