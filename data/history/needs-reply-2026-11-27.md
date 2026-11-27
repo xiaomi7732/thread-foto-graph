@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (70)
+## Needs Reply (71)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **irishrose_3**:  ([link](https://www.threads.com/@irishrose_3/post/DgQHUs1HJgq))
+  - Photo: Description: Two apples, one green and one red, are positioned side-by-side on a flat surface with a blurred background featuring a grid-like pattern. Photograph read: The apples are in focus with visible surface texture and specular highlights. Lighting is direct and even, casting soft shadows. The background is out of focus, with no discernible depth of field beyond the foreground subjects. Photo type: Still life
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **kidsdrs**: Hull of the ship sunk by Pear Harbor attack. ([link](https://www.threads.com/@kidsdrs/post/DgQGv0QJZ7q))
