@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (69)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **leanne.raddatz**: Ah! I have one... ([link](https://www.threads.com/@leanne.raddatz/post/DgQEyFXoG4A))
+  - Photo: Description: A plush pig with white fur and dark spots rests on the top of a weathered wooden fence post, with a residential street and a concrete wall in the background under clear skies. Photograph read: The image is taken in bright daylight with natural lighting, showing a shallow depth of field that blurs the background. The foreground fence and plush pig are in focus, while the background houses and foliage are softly out of focus. The pig’s features are discernible, but the texture of the fence and surrounding environment is not sharply defined. Photo type: Portrait
+- **mix4tv**: DFW, Rental Car Shuttle Bus ([link](https://www.threads.com/@mix4tv/post/DgQEgRpG7s-))
+  - Photo: Description: A single black high-heeled boot is positioned on a rough concrete surface, with a blurred background of a road, guardrails, and distant trees. Photograph read: The image is taken from a low angle, with the boot in sharp focus against a softly blurred background. Lighting appears to be natural daylight, casting subtle shadows. The image has a shallow depth of field, with the background rendered indistinct. Photo type: Portrait
 - **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
 - **camaze**:  ([link](https://www.threads.com/@camaze/post/DgQD8szEQcJ))
