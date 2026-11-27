@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (51)
+## Needs Reply (52)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **tallymountain**: Quite close, I could see behind the falls where I was standing and there is a tunnel you can go through that takes you right in behind the falls. Awesome experience and I got some cool photos of it. The bulk of water is phenomenal. ([link](https://www.threads.com/@tallymountain/post/DgPLqsnEmiL))
@@ -45,6 +45,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Fragrance and color both - a lovely sight indeed. Thanks fo…_
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
   - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
+- **2killamockingbird**: Beautiful picks Saars 👌 ([link](https://www.threads.com/@2killamockingbird/post/DgPuCaAgAtu))
+  - _Replying to: Yesterday's favorites are up - Looking Back Wednesday's bes…_
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
 - **ben.bennion**: No I was there a week and took many photos . They have weird chimneys I hadn’t seen before and door knobs always I find interesting . ([link](https://www.threads.com/@ben.bennion/post/DgMrH5VAg-T))
