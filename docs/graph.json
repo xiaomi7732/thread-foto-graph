@@ -678,7 +678,7 @@
         "- The bottle\u2019s surface is partially obscured by rust and the wire, limiting visibility of its original condition. - The background blur (bokeh) reduces context clarity, making the setting indistinct.",
         ""
       ],
-      "reply_count": 14,
+      "reply_count": 15,
       "replies": [
         {
           "username": "2killamockingbird",
@@ -756,10 +756,21 @@
               "text": "The hats were on a construction site in central Frankfurt . I guess they belong to the workers who were completing the skyscraper .",
               "permalink": "https://www.threads.com/@jh1962bike/post/DgPSqjriKdt",
               "photos": [],
-              "needs_response": true,
-              "action": "reply",
+              "needs_response": false,
+              "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "saars.foto",
+                  "text": "They look so artistic! Thank you for sharing the photo!",
+                  "permalink": "https://www.threads.com/@saars.foto/post/DgQGSMSFMNA",
+                  "photos": [],
+                  "needs_response": false,
+                  "action": null,
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
