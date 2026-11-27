@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (66)
+## Needs Reply (68)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **tiffany.art2020**:  ([link](https://www.threads.com/@tiffany.art2020/post/DgQKzXVmwOw))
+  - Photo: Description: A concrete block with two square openings sits in a shallow, flowing stream, with one opening filled with green duckweed and the other containing wet pebbles and debris. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The concrete block is in focus, while the flowing water and surrounding rocks show motion blur. The water surface reflects light, creating a glossy appearance. Photo type: Natural
+    - Watch-outs: - Motion blur in the flowing water, particularly in the left and right margins, obscures fine detail of submerged rocks and leaves. - The right opening is dark and underexposed, reducing visibility of the pebbles and organic matter within.
 - **ry.rah_q**:  ([link](https://www.threads.com/@ry.rah_q/post/DgQJsqDFb2P))
   - Photo: Description: An abandoned, rusted vintage car with missing panels and a broken windshield sits in a forested area, surrounded by fallen leaves and trees, with a large fallen log resting across its roof. Photograph read: The image is captured in natural daylight with even illumination across the scene. The composition centers the car, with trees framing the sides and background. The rendering preserves surface textures and details of the car’s rust and surrounding foliage, with no visible signs of motion blur or focus issues. Photo type: Documentary
 - **pappaga11a**: During the Roman times, a worker in Algeria left his handprint in some construction. Found centuries later, it now hangs in the museum in Tipaza. ([link](https://www.threads.com/@pappaga11a/post/DgQJRe_lMY-))
@@ -19,6 +22,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A corroded, seaweed-covered electric scooter lies on a paved dock beside calm water, with a floating barrier and distant railing visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between the dark, wet scooter and the sunlit pavement. The subject is in focus, but the water surface shows natural ripples and reflections. The composition is straightforward, with the scooter centered in the frame. Photo type: Documentary
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
+- **akmaleky**: Probably 10 years. ([link](https://www.threads.com/@akmaleky/post/DgQK3qtmFI8))
+  - _Replying to: That old car has settled right into the yard, trees and all…_
 - **leanne.raddatz**: I put it up there so it would be more visible to the little one who might be looking for it. I figured it fell out of a stroller. As a mom, I have lived this drama first hand🙂 ([link](https://www.threads.com/@leanne.raddatz/post/DgQKFsFEsEW))
   - _Replying to: A spotted pig, perched on a fence post like it owns the str…_
 - **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))
@@ -52,6 +57,7 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **iphhoto4u71**: Mine ([link](https://www.threads.com/@iphhoto4u71/post/DgP8PwIlAXu))
   - Photo: Description: A black-and-white photograph shows a cluttered kitchen sink area with a faucet, a bowl, a plastic bottle, and various containers on the counter, viewed through a reflective or translucent surface that creates a layered, distorted overlay. Photograph read: The image is rendered in monochrome with high contrast, featuring a bright horizontal band at the bottom and a dark, curved foreground. The main subject area is partially obscured by a superimposed, semi-transparent reflection or double exposure, which distorts the shapes and reduces clarity. Lighting appears to originate from above and behind the sink, casting highlights on the tiled wall and faucet. Photo type: Composite
     - Watch-outs: - A translucent overlay distorts the foreground and midground, obscuring fine detail on the counter items and the sink basin. - The lower portion of the image is dominated by a bright, overexposed horizontal band that washes out detail and creates a strong visual separation from the rest of the scene.
+- **2killamockingbird**: Beautiful picks Saars 👌 ([link](https://www.threads.com/@2killamockingbird/post/DgPuCaAgAtu))
 - **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
   - _Replying to: A whole autumn pressed flat into one frame, and every leaf …_
 - **shiawasemainichi5**: You're welcome. Roses are indeed beautiful flowers! ([link](https://www.threads.com/@shiawasemainichi5/post/DgPbhajI9NT))
@@ -80,8 +86,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Fragrance and color both - a lovely sight indeed. Thanks fo…_
 - **tiv34**: Fam in Norfolk. ([link](https://www.threads.com/@tiv34/post/DgNZEMOCFVX))
   - Photo: Description: A group of adults and children are gathered on a sandy beach in front of a large, layered cliff face, with some individuals seated on a green blanket and others standing or sitting nearby. Photograph read: The image is taken in natural daylight with even, diffused illumination. The composition is centered on the group, with the cliff forming a textured background. The rendering is clear enough to distinguish facial features, clothing, and objects, though some areas are slightly soft or out of focus. Photo type: Natural
-- **2killamockingbird**: Beautiful picks Saars 👌 ([link](https://www.threads.com/@2killamockingbird/post/DgPuCaAgAtu))
-  - _Replying to: Yesterday's favorites are up - Looking Back Wednesday's bes…_
 
 ### Looking Back Wednesday favorites 🏆 5 faces that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgMjQrmEZy5))
 - **ben.bennion**: No I was there a week and took many photos . They have weird chimneys I hadn’t seen before and door knobs always I find interesting . ([link](https://www.threads.com/@ben.bennion/post/DgMrH5VAg-T))
