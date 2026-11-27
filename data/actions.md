@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (74)
+## Needs Reply (75)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **jglass8**: Beautiful capture! Lost at sea? ([link](https://www.threads.com/@jglass8/post/DgQNrGzFc5b))
@@ -39,6 +39,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: That old car has settled right into the yard, trees and all…_
 - **leanne.raddatz**: I put it up there so it would be more visible to the little one who might be looking for it. I figured it fell out of a stroller. As a mom, I have lived this drama first hand🙂 ([link](https://www.threads.com/@leanne.raddatz/post/DgQKFsFEsEW))
   - _Replying to: A spotted pig, perched on a fence post like it owns the str…_
+- **mix4tv**: Ive always wondered about that. This was an early morning bus, too ([link](https://www.threads.com/@mix4tv/post/DgQO1HHm6Ql))
+  - _Replying to: One boot, on its own by the shuttle bus, with the road goin…_
 - **hilkatze**:  ([link](https://www.threads.com/@hilkatze/post/DgQEN9KkSIv))
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
 - **ben.bennion**: Luckily his parents are friends and we’re visiting him later I told them to use the towel but I world have the jacket back ([link](https://www.threads.com/@ben.bennion/post/DgQJBOLgpTH))
