@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (71)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/DgQU5sMoPwg))
@@ -30,8 +30,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: The toy boat’s paint is chipped and faded, obscuring fine surface detail; the background is indistinct, limiting context and depth perception.
 - **joleen_i_mn**:  ([link](https://www.threads.com/@joleen_i_mn/post/DgQPx0WjkLl))
   - Photo: Description: A red and white fishing bobber hangs from a tree branch, with a hook dangling below, set against a blurred background of water and sky; a few green maple leaves are visible at the top. Photograph read: The image has a shallow depth of field, with the bobber and branch in focus while the background is softly blurred. Lighting is bright and even, suggesting daylight. The rendering is clear on the subject, with no visible distortion or color aberration. Photo type: Still life
+- **jglass8**: I have the same question…. 😕 ([link](https://www.threads.com/@jglass8/post/DgQV8lLFPZ_))
+  - _Replying to: One red dot in all that blue, keeping its own reflection fo…_
 - **ry.rah_q**: Yes! We were following a trail then went off of it a bit. I saw it and knew I needed to photograph it. Initially, it just felt so out of place to me. After staying around and exploring it more, inside you could see evidence of critters nesting there, plants/moss growing inside and around it. It may have been just an old car someone left behind but now it has a new purpose. It’s no longer abandoned or forgotten✨ ([link](https://www.threads.com/@ry.rah_q/post/DgQSSloCdow))
   - _Replying to: Did you follow a trail to find it, or did it just appear th…_
+- **stickyshutterphotography**: That was a drive by find in the wilds of Wales, I did make a return visit but the barn had collapsed. ([link](https://www.threads.com/@stickyshutterphotography/post/DgQWDPhCMrI))
+  - _Replying to: A little bottle tucked into the wall's dark window, a tin s…_
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
   - Photo: Description: Two green propane tanks with black caps sit on concrete pads outdoors, adjacent to a dark brown building wall and bare-branched shrubs, under bright daylight. Photograph read: The image is taken in direct sunlight, casting sharp shadows. The tanks and surrounding gravel are in clear focus, with no visible motion blur or focus falloff. The composition is straightforward, with the tanks centered in the frame and the building and shrubs forming a simple backdrop. Photo type: Documentary
 - **mix4tv**: Ive always wondered about that. This was an early morning bus, too ([link](https://www.threads.com/@mix4tv/post/DgQO1HHm6Ql))
