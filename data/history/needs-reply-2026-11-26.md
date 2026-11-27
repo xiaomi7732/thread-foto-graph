@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (52)
+## Needs Reply (53)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **anouc90**:  ([link](https://www.threads.com/@anouc90/post/DgOVpfsITjw))
+  - Photo: Description: A weathered, curved tree stump lies on a grassy surface, partially covered with dry, brown oak leaves. The stump’s textured, layered wood shows signs of decay and exposure to the elements. Photograph read: The image is taken from a high angle, with natural daylight casting shadows across the stump and surrounding grass. The focus is generally sharp on the stump’s surface and leaves, though some areas show slight softness. The color rendering is natural, with no visible color distortion or over-saturation. Photo type: Natural
 - **tallymountain**: People ([link](https://www.threads.com/@tallymountain/post/DgOQOUrEnC2))
   - Photo: Description: A group of people in yellow rain ponchos stands on a wet viewing platform overlooking the powerful, mist-laden Niagara Falls, with a tour boat visible on the river below. Photograph read: The image is taken from an elevated position, capturing the falls and the crowd under an overcast sky. The lighting is diffuse and even, with no harsh shadows or highlights. The water and mist are rendered with visible motion and texture, while the people are relatively sharp but appear slightly compressed in the frame. Photo type: Documentary
 - **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DgOMsCnERSZ))
