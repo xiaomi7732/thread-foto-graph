@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (59)
+## Needs Reply (60)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **remalysh**: The Top ([link](https://www.threads.com/@remalysh/post/DgQQkItGucE))
+  - Photo: Description: A weathered, colorful toy boat with red, yellow, and white stripes rests on a wooden surface, with a small red handle visible to its left; the background is a blurred, textured surface. Photograph read: The image is a close-up with shallow depth of field, focusing on the toy boat; lighting is directional, casting shadows and highlights; the rendering shows visible surface texture and paint wear, with no apparent digital artifacts. Photo type: Still life
+    - Watch-outs: The toy boat’s paint is chipped and faded, obscuring fine surface detail; the background is indistinct, limiting context and depth perception.
 - **joleen_i_mn**:  ([link](https://www.threads.com/@joleen_i_mn/post/DgQPx0WjkLl))
   - Photo: Description: A red and white fishing bobber hangs from a tree branch, with a hook dangling below, set against a blurred background of water and sky; a few green maple leaves are visible at the top. Photograph read: The image has a shallow depth of field, with the bobber and branch in focus while the background is softly blurred. Lighting is bright and even, suggesting daylight. The rendering is clear on the subject, with no visible distortion or color aberration. Photo type: Still life
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
@@ -169,7 +172,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (22)
+## Needs Like (23)
+
+### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- kidsdrs: From visit. ([link](https://www.threads.com/@kidsdrs/post/DgQQ6B5mHkI))
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - wj.fox: Thank you ([link](https://www.threads.com/@wj.fox/post/DgPvRfMHLyN))
