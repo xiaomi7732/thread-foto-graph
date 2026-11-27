@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 160,
+      "reply_count": 181,
       "replies": [
         {
           "username": "oznatureart",
@@ -235,10 +235,21 @@
           "photos": [
             "Description: A pair of blue denim jeans lies crumpled on a paved surface, with a discarded beer bottle resting on gravel nearby. The bottle\u2019s label is partially legible, showing \u201cBLUE MOON.\u201d Photograph read: The image is taken from a high angle, showing the pavement and gravel with visible seams and debris. Lighting is even and diffuse, suggesting an overcast day. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Jeans on the pavement, a Blue Moon on the gravel - somebody's evening ended right there on the sidewalk. Was this a morning-after find, or a lunchtime one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrQ24AR_y",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "ben.bennion",
@@ -249,10 +260,32 @@
             "Description: The photograph shows a close-up of a pile of smooth, rounded pebbles in various earthy tones, with one dark, glossy black pebble prominently positioned in the center. Photograph read: The composition is tightly framed with pebbles filling the entire frame; lighting is even and diffuse, with no harsh shadows or highlights. The rendering is clear, showing surface textures and subtle color variations without visible distortion or compression artifacts. Photo type: Still life",
             "Description: The photograph shows a close-up of numerous smooth, rounded pebbles in various earthy tones, including beige, brown, and gray, with some exhibiting subtle marbling or streaks. Photograph read: The composition is tightly framed with pebbles filling the entire frame; lighting is even and diffuse, highlighting the glossy surfaces and natural textures without harsh shadows or overexposure. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thousands of them, and a sign saying you could be fined - resisting must have taken real willpower. Did you pick a favorite in your head and leave it there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrSCNj8TJ",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "ben.bennion",
+                  "text": "I photographed my mother holding one and made her put it back . I even borrowed some of her water to cover some pebbles to give them a sheen . And still made her put it back",
+                  "permalink": "https://www.threads.com/@ben.bennion/post/DgQrnv7Avyq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "marcinewiese",
@@ -261,10 +294,21 @@
           "photos": [
             "Description: A red sedan, covered in a light layer of snow, is parked in a residential driveway with wet pavement and snow-dusted grass. Snow is falling and visible in the air, with trees and houses in the background, some with autumn foliage and others snow-covered. Photograph read: The image is taken under overcast, diffuse lighting with no strong directional light. The scene is rendered with moderate contrast and visible motion blur from falling snow. The foreground vehicle is in focus, while background elements are slightly softer, and the image lacks sharpness in fine textures. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Ninety-seven thousand miles and a Minnesota winter on its back - no wonder it hurt to watch it go. The snow dusting it like that almost makes it look like it is still yours. Do you still think of it when the first snow falls?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrTNID6dk",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "bojonvelvet2.0",
@@ -276,10 +320,21 @@
           "watch_outs": [
             "- The mirror\u2019s glass is shattered, obscuring the portrait\u2019s facial features and rendering the subject\u2019s identity indistinct. - The frame\u2019s lower edge is partially covered by white debris and a pink paper fragment, which partially obscures the base of the portrait."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A face behind cracked glass, tucked in among the clutter - the frame is still ornate even with the portrait broken. Do you know who it was, or did it come to you a mystery?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrU31GkYP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "eelizjjjm",
@@ -291,10 +346,21 @@
           "watch_outs": [
             "- The football\u2019s surface texture and markings are not discernible due to low contrast and backlighting. - Background foliage and tree trunks are underexposed and lack fine detail, making them indistinct."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "One football, mid-lawn, game over and everyone gone home. Was it left after a kickabout, or is it the dog's?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrWGQGeWf",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "momentofsubjectiveaesthetics",
@@ -306,10 +372,21 @@
           "watch_outs": [
             "- The text on the test kit is illegible due to low resolution and partial smudging, particularly around the \u201cPregnancy Test\u201d label and surrounding symbols. - The ground surface is uneven and cluttered with debris, obscuring the test kit\u2019s edges and making precise boundary definition difficult."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Left on the wet ground with the answer still sealed inside the box - your title is doing a lot of work there. What made you stop for this one?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrXQ0o-xj",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "scott6666a",
@@ -318,10 +395,32 @@
           "photos": [
             "Description: A desiccated fish skeleton lies on a textured, weathered wooden surface, with visible ribs, fins, and a decayed head. Photograph read: The image is in monochrome, with high contrast between the subject and background. Lighting casts a distinct shadow beneath the fish, and the surface texture is sharply rendered. The subject is in focus, with fine detail visible in the skeletal structure and wood grain. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Ribs, fins, and a whole story dried into the wood - the tide left it there and the sun did the rest. Was it a beach find, or did it wash up somewhere you walk often?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrYlNj7cv",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "scott6666a",
+                  "text": "A small dam find .",
+                  "permalink": "https://www.threads.com/@scott6666a/post/DgQrlPeGpWq",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "paulajgriffin1965",
@@ -330,10 +429,21 @@
           "photos": [
             "Description: A ceramic giraffe figurine with brown spots and black eyes is positioned among green foliage and yellow flowers in a garden bed. Photograph read: The image is taken at close range with shallow depth of field, resulting in the giraffe and surrounding plants being in focus, while the background is softly blurred. Lighting is even and natural, suggesting outdoor daylight. Photo type: Portrait"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A little spotted giraffe peeking out of the marigolds - did it get left in the garden, or is it standing guard over the flowers?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrZzkAVoH",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "klaatu_barada_nicto",
@@ -342,10 +452,21 @@
           "photos": [
             "Description: A rusted, curved metal tool with a handle lies on a gravelly, rocky ground, partially obscured by a large, flat stone to the right. Photograph read: The image is in black and white, with strong contrast between light and shadow. The tool and ground are in sharp focus, but the lighting casts deep shadows, particularly under the stone and along the tool\u2019s edges. The surface textures of the gravel and rust are visible. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A rusted tool in black and white, half-buried in gravel beside a stone - it looks like it has been waiting a long while for its next job. What is it, do you know?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQreYmgTiK",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "anto_acz",
@@ -371,10 +492,21 @@
           "photos": [
             "Description: A weathered tree trunk lies on grassy ground, perforated with numerous holes containing acorns or similar nuts, with some acorns protruding from the openings. Photograph read: The image is a close-up vertical shot with natural outdoor lighting. The trunk occupies most of the frame, and the background grass is softly out of focus. The texture of the bark and the shapes of the acorns are visible, though not sharply defined. Photo type: Macro"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A whole pantry drilled into a fallen branch, acorns still tucked in their holes - the woodpecker stocked it and the branch came down anyway. Did you spot the stash first, or the fallen trunk?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrfiBgaor",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "remalysh",
@@ -386,10 +518,21 @@
           "watch_outs": [
             "The toy boat\u2019s paint is chipped and faded, obscuring fine surface detail; the background is indistinct, limiting context and depth perception."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Red and yellow stripes, rust at the edges, and a little red handle - that top has spun its last spin and settled on the wood. Is it one you played with, or a flea-market find?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrgsDgYNL",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "joleen_i_mn",
@@ -398,10 +541,21 @@
           "photos": [
             "Description: A red and white fishing bobber hangs from a tree branch, with a hook dangling below, set against a blurred background of water and sky; a few green maple leaves are visible at the top. Photograph read: The image has a shallow depth of field, with the bobber and branch in focus while the background is softly blurred. Lighting is bright and even, suggesting daylight. The rendering is clear on the subject, with no visible distortion or color aberration. Photo type: Still life"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "A bobber in the branches and a hook still dangling below - somebody's cast went long and stayed there. Did you find it hanging over the water like that?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQrhr-mNqy",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "jglass8",
@@ -428,10 +582,21 @@
                   "text": "I have the same question\u2026. \ud83d\ude15",
                   "permalink": "https://www.threads.com/@jglass8/post/DgQV8lLFPZ_",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That red dot is in good company out there. Thanks for stopping by.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQri4IlD-J",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -511,10 +676,21 @@
                   "text": "Yes, it was specially hung on a branch. The child did not walk without her, he was carried in a wheelchair, so the likelihood that he would return for her is low. They just don't know where she fell.",
                   "permalink": "https://www.threads.com/@demidova_nadezda/post/DgQhxmYiKc5",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Hung where it can be spotted, with a leaf tucked in like a bookmark. A kind thought for whoever is looking for it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQrjznFnRg",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -605,10 +781,21 @@
                   "text": "Yes! We were following a trail then went off of it a bit. I saw it and knew I needed to photograph it. Initially, it just felt so out of place to me. After staying around and exploring it more, inside you could see evidence of critters nesting there, plants/moss growing inside and around it. It may have been just an old car someone left behind but now it has a new purpose. It\u2019s no longer abandoned or forgotten\u2728",
                   "permalink": "https://www.threads.com/@ry.rah_q/post/DgQSSloCdow",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Lovely to see it kept, not forgotten. Thanks for sharing the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQrk6qj6CY",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -711,10 +898,21 @@
                   "text": "That was a drive by find in the wilds of Wales, I did make a return visit but the barn had collapsed.",
                   "permalink": "https://www.threads.com/@stickyshutterphotography/post/DgQWDPhCMrI",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Glad you caught it when you did. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQrl2qIxpQ",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1004,10 +1202,21 @@
                   "text": "Ive always wondered about that. This was an early morning bus, too",
                   "permalink": "https://www.threads.com/@mix4tv/post/DgQO1HHm6Ql",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Some mysteries just stay on the road. Thanks for the detail.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQrqX0FkeG",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1487,10 +1696,21 @@
                   "text": "I was walking and just found it abandoned. Maybe the little builder had to leave quickly and is missing it.",
                   "permalink": "https://www.threads.com/@mommatex/post/DgQWUbME4lI",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Somewhere a little builder is still wondering where it went. Thanks for telling it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQrrguicOw",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1523,10 +1743,21 @@
                   "photos": [
                     "Description: A large, rusted anchor with attached chain rests on a gravel bed beside weathered concrete fortifications, with the sea and distant coastal structures visible in the background. Photograph read: The image is taken in bright, even daylight with no visible lens distortion or chromatic aberration. The anchor and surrounding gravel are in focus, while the background shows natural depth of field blur. Lighting is flat, with no harsh shadows or overexposed highlights. Photo type: Documentary"
                   ],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "The whole anchor, rust and all, laid out by the sea wall. A proper relic, that one.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQrsqOo87q",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
