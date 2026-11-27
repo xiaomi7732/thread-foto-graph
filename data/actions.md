@@ -6,7 +6,17 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (54)
+## Needs Reply (57)
+
+### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
+  - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
+    - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
+- **dmoi2encore**:  ([link](https://www.threads.com/@dmoi2encore/post/DgP9QUAEaiM))
+  - Photo: Description: A pair of dark, high-heeled shoes lies on a cracked asphalt surface next to a metal pole, with a crumpled green plastic bottle nearby and a partially visible poster in the upper left corner. Photograph read: The image is taken from a high angle, with direct sunlight casting sharp shadows. The surface texture of the asphalt and the details of the shoes are visible, though the shoes show signs of wear and damage. The poster’s text is partially legible but not fully readable. Photo type: Documentary
+    - Watch-outs: - The right shoe is open and damaged, with the inner lining exposed, limiting the visibility of its internal structure. - The poster’s text is partially obscured by angle and resolution, making full readability impossible.
+- **2killamockingbird**: Forgotten chair... ([link](https://www.threads.com/@2killamockingbird/post/DgP9G8xACFm))
+  - Photo: Description: A gray upholstered armchair with nailhead trim sits against a textured brick wall in a dimly lit interior space, with a dining area and hanging lights visible in the background. Photograph read: The image is rendered in monochrome with soft, directional lighting from above and the left, casting shadows on the chair and wall. The composition places the chair as the central subject, with the background slightly out of focus. The brick wall shows clear texture, and the chair’s fabric has visible folds and stitching. Photo type: Interior portrait
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))

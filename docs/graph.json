@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "18083868308441870",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Left Behind Friday \ud83e\udde4 Today's prompt is the things we leave \u2026",
       "text": "Left Behind Friday \ud83e\udde4 Today's prompt is the things we leave behind - lost, forgotten, waiting to be found again. Mine is a worn longboard sitting in the leaves, still waiting for its rider. Show me ONE photo of something left behind: a lost glove, a lone shoe, a bike chained to nothing, a toy in the park. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -10,8 +10,50 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 1,
+      "reply_count": 4,
       "replies": [
+        {
+          "username": "judyparsons7",
+          "text": "",
+          "permalink": "https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T",
+          "photos": [
+            "Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear"
+          ],
+          "watch_outs": [
+            "- The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "dmoi2encore",
+          "text": "",
+          "permalink": "https://www.threads.com/@dmoi2encore/post/DgP9QUAEaiM",
+          "photos": [
+            "Description: A pair of dark, high-heeled shoes lies on a cracked asphalt surface next to a metal pole, with a crumpled green plastic bottle nearby and a partially visible poster in the upper left corner. Photograph read: The image is taken from a high angle, with direct sunlight casting sharp shadows. The surface texture of the asphalt and the details of the shoes are visible, though the shoes show signs of wear and damage. The poster\u2019s text is partially legible but not fully readable. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "- The right shoe is open and damaged, with the inner lining exposed, limiting the visibility of its internal structure. - The poster\u2019s text is partially obscured by angle and resolution, making full readability impossible."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "2killamockingbird",
+          "text": "Forgotten chair...",
+          "permalink": "https://www.threads.com/@2killamockingbird/post/DgP9G8xACFm",
+          "photos": [
+            "Description: A gray upholstered armchair with nailhead trim sits against a textured brick wall in a dimly lit interior space, with a dining area and hanging lights visible in the background. Photograph read: The image is rendered in monochrome with soft, directional lighting from above and the left, casting shadows on the chair and wall. The composition places the chair as the central subject, with the background slightly out of focus. The brick wall shows clear texture, and the chair\u2019s fabric has visible folds and stitching. Photo type: Interior portrait"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "saars.foto",
           "text": "Yesterday's favorites are up - Gathered Thursday's best, featured here: https://www.threads.com/@saars.foto/post/DgPKcU6G8zB",
@@ -26,7 +68,7 @@
     },
     {
       "id": "18145194265627732",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Gathered Thursday favorites \ud83c\udfc6 5 gatherings that stopped my \u2026",
       "text": "Gathered Thursday favorites \ud83c\udfc6 5 gatherings that stopped my scroll: @wj.fox - mule team hitched @tallymountain - Niagara poncho crowd @jh1962bike - hard hats wall @dianelynnturnbull - fire cleanup finds @artiekay2 - seashell mandala Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgPKFWWPm_l/",
@@ -176,7 +218,7 @@
     },
     {
       "id": "17923539612245125",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Gathered Thursday \ud83e\uddfa Happy Thanksgiving - today's prompt is \u2026",
       "text": "Gathered Thursday \ud83e\uddfa Happy Thanksgiving - today's prompt is abundance, things gathered together. My hero is a pile of ornamental gourds, every shape and color jostling for room. Show me ONE photo of things gathered: a drift of leaves, a shelf of jars, a harvest pile, a table full of people. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -2230,7 +2272,7 @@
     },
     {
       "id": "18132221831491360",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my \u2026",
       "text": "Looking Back Wednesday favorites \ud83c\udfc6 5 faces that stopped my scroll: Jean Hinkle Klele @smilingjeannie - painted boat eyes @ranbalam - sunflower face @ben.bennion - Venice doorbell face @jessgperry - bubble in the fountain @walter.wilkes - binocular viewer Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgMjBkqJnRO/",
@@ -2402,7 +2444,7 @@
     },
     {
       "id": "18079101221478599",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look\u2026",
       "text": "Looking Back Wednesday \ud83d\udc40 Today's prompt is things that look back at you - eyes and faces hiding in the everyday. My hero is a Jeep headlight doing a very good impression of an angry eye. Show me ONE photo of something staring back: headlights, windows, a knot in the wood, a face in the clouds. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
@@ -4129,7 +4171,7 @@
     },
     {
       "id": "18138351349788936",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scro\u2026",
       "text": "Pattern Tuesday favorites \ud83c\udfc6 5 patterns that stopped my scroll: @marinacasalribeiro - waffle-grid canopy @shiawasemainichi5 - lattice tower lights @jphbb - cadets in formation @globetoppers - museum ramp in motion @rickjackoway - pier pillars and surf Beautiful work, all of you. Reel: https://www.instagram.com/reel/DgKAaoovuIo/",
@@ -4324,7 +4366,7 @@
     },
     {
       "id": "18109143851249248",
-      "label": "photograph, photo, visible, image",
+      "label": "photograph, photo, image, visible",
       "group": 0,
       "snippet": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's pr\u2026",
       "text": "Pattern Tuesday \ud83d\udd37 Patterns hide in plain sight - today's prompt is repetition, anywhere you find it. My hero is a staircase at night, railings and treads repeating all the way up. Show me ONE photo of a pattern: tiles, fences, bricks, fabric, a row of anything at all. Replying is consent: \u2022 Top 5 featured tomorrow on Threads, pinned \u2022 Top 3 also in the Instagram reel \u2022 Full credit to the author everywhere \u2022 Standouts may join a best-of-the-week reel",
