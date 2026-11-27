@@ -4,11 +4,21 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (57)
+## Needs Reply (62)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **eleanorangelaholohan**: Abandoned casa in Bella Vista Calabria ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQC8zAjFkG))
+  - Photo: Description: A weathered, two-story building with a rusted balcony and a dark wooden door stands at the end of a narrow, cobblestone alleyway, flanked by other residential structures. Photograph read: The image is taken in bright daylight with clear visibility of textures and architectural details. The composition is straightforward, with the building centered and the alley receding into the background. Shadows are present but not obscuring, and the image lacks signs of motion blur or focus issues. Photo type: Documentary
+- **jh1962bike**: Untouched for 30 years. ([link](https://www.threads.com/@jh1962bike/post/DgQC1rXiAXb))
+  - Photo: Description: A red bicycle with a round red helmet mounted on the handlebars is positioned against a textured wall, with a brick or block wall visible to the right and a rough floor beneath. Photograph read: The image has a warm, high-contrast color cast with visible grain or texture. Lighting is directional, casting strong shadows and highlighting the bike’s frame and wheels. The composition is a side profile, with the bike leaning against a vertical surface. Photo type: Aesthetic
+- **ashu_anu87**:  ([link](https://www.threads.com/@ashu_anu87/post/DgQCtceJdTj))
+  - Photo: Description: The photograph shows footprints in wet sand on a beach, with waves breaking at the shoreline and a dark sky above the ocean. Photograph read: The foreground sand and footprints are in focus, while the ocean and sky are softly blurred. Lighting is even, suggesting daylight, with no visible shadows or harsh contrast. The image has a shallow depth of field, emphasizing the footprints. Photo type: Natural
 - **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/DgQBjStIIjJ))
   - Photo: Description: A black leather wallet with light-colored stitching rests on a wooden surface with visible grain. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting that highlights the wallet’s surface and stitching. The rendering is clear, with no visible motion blur or focus issues. Photo type: Still life
+- **debbiedunlap79**: Good question...😆 At first I just saw the bike, the shadow second, when I was getting ready to take the picture. I was happy with the result. 🤗 ([link](https://www.threads.com/@debbiedunlap79/post/DgQDEO3lSC0))
+  - _Replying to: The shadow doubles it, so for a second there are two bikes …_
+- **smilingjeannie**: The season in the Scottish lochs is from June through September. This photo was taken in early October. And yes, the remarkable Eilean Donan castle stands guard in the background. ([link](https://www.threads.com/@smilingjeannie/post/DgQCsQjERaX))
+  - _Replying to: A whole fleet of traps on holiday, ropes and all, with the …_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
