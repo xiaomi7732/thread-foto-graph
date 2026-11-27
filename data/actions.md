@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (54)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
@@ -21,6 +21,9 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @artiekay2 Your granddaughter's seashell mandala closes the…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **iphhoto4u71**: Mine ([link](https://www.threads.com/@iphhoto4u71/post/DgP8PwIlAXu))
+  - Photo: Description: A black-and-white photograph shows a cluttered kitchen sink area with a faucet, a bowl, a plastic bottle, and various containers on the counter, viewed through a reflective or translucent surface that creates a layered, distorted overlay. Photograph read: The image is rendered in monochrome with high contrast, featuring a bright horizontal band at the bottom and a dark, curved foreground. The main subject area is partially obscured by a superimposed, semi-transparent reflection or double exposure, which distorts the shapes and reduces clarity. Lighting appears to originate from above and behind the sink, casting highlights on the tiled wall and faucet. Photo type: Composite
+    - Watch-outs: - A translucent overlay distorts the foreground and midground, obscuring fine detail on the counter items and the sink basin. - The lower portion of the image is dominated by a bright, overexposed horizontal band that washes out detail and creates a strong visual separation from the rest of the scene.
 - **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
   - _Replying to: A whole autumn pressed flat into one frame, and every leaf …_
 - **shiawasemainichi5**: You're welcome. Roses are indeed beautiful flowers! ([link](https://www.threads.com/@shiawasemainichi5/post/DgPbhajI9NT))
