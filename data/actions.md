@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (69)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/DgQU5sMoPwg))
+  - Photo: Description: A football rests on a grassy lawn under bright sunlight, with tree trunks and foliage in the background; the sun’s rays are visible as beams cutting through the trees. Photograph read: The image is taken from a low angle, with strong backlighting creating lens flare and casting shadows across the grass. The football is in focus but appears as a dark, rounded object with minimal surface detail visible. The background is dimmer and less defined due to backlighting and depth of field. Photo type: Outdoor photography
+    - Watch-outs: - The football’s surface texture and markings are not discernible due to low contrast and backlighting. - Background foliage and tree trunks are underexposed and lack fine detail, making them indistinct.
 - **momentofsubjectiveaesthetics**: ”Cliffhanger” ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/DgQT_FaiDFW))
   - Photo: Description: A pregnancy test kit lies on a dark, textured ground surface scattered with dry leaves and small debris. The test’s packaging is partially visible with printed text, though much of it is obscured or illegible. Photograph read: The image is captured from a top-down perspective with a dark, high-contrast aesthetic. Lighting appears uneven, casting shadows across the surface, and the image exhibits a grainy texture. Text and fine details on the test kit are not clearly legible due to low resolution and partial occlusion. Photo type: Unclear
     - Watch-outs: - The text on the test kit is illegible due to low resolution and partial smudging, particularly around the “Pregnancy Test” label and surrounding symbols. - The ground surface is uneven and cluttered with debris, obscuring the test kit’s edges and making precise boundary definition difficult.
