@@ -21,7 +21,7 @@
         "- The bottle\u2019s surface is partially obscured by rust and the wire, limiting visibility of its original condition. - The background blur (bokeh) reduces context clarity, making the setting indistinct.",
         ""
       ],
-      "reply_count": 11,
+      "reply_count": 12,
       "replies": [
         {
           "username": "2killamockingbird",
@@ -135,7 +135,18 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "artiekay2",
+              "text": "Thank you for recognizing my granddaughter\u2019s art. She made this in one sitting.",
+              "permalink": "https://www.threads.com/@artiekay2/post/DgPwY-2luOn",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         }
       ]
     },
