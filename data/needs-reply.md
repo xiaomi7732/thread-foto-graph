@@ -4,14 +4,16 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (56)
+## Needs Reply (57)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
-- **auerbach_photos**: It was standing there, on the boulders, with other Inukshuks around them. ([link](https://www.threads.com/@auerbach_photos/post/DgQAdv8Fkcy))
-  - _Replying to: Did you find it standing there, or stack it stone by stone?…_
+- **beckiefitzgerald**:  ([link](https://www.threads.com/@beckiefitzgerald/post/DgQBjStIIjJ))
+  - Photo: Description: A black leather wallet with light-colored stitching rests on a wooden surface with visible grain. Photograph read: The image is taken from a slightly elevated angle, with even, diffuse lighting that highlights the wallet’s surface and stitching. The rendering is clear, with no visible motion blur or focus issues. Photo type: Still life
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
+- **2killamockingbird**: It's my pleasure ([link](https://www.threads.com/@2killamockingbird/post/DgQBnZqANDj))
+  - _Replying to: For someone, then - a chair with a job still ahead of it. T…_
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
