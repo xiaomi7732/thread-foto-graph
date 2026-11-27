@@ -4,9 +4,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (68)
+## Needs Reply (69)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **monaw17**:  ([link](https://www.threads.com/@monaw17/post/DgQyqAskjha))
+  - Photo: Description: A close-up shot of a dark, ornate metal lamp post base with partially visible engraved text, set against a backdrop of green foliage and a river under a blue sky. A small, hand-drawn cartoon figure is affixed to the base. Photograph read: The image is taken in bright daylight with clear contrast between the dark post and the greenery. The composition is a low-angle close-up, focusing on the post’s base and the cartoon figure. The background is slightly out of focus, but details are discernible. Photo type: Portrait
+    - Watch-outs: The engraved text on the post is partially obscured and illegible due to wear and angle. The cartoon figure is small and appears to be affixed with tape, making its edges and details less crisp.
 - **katiejo.myers**: Winter in McCarthy, AK ([link](https://www.threads.com/@katiejo.myers/post/DgQxwIElmdZ))
   - Photo: Description: A snow-covered, rusted piece of heavy machinery, likely a bulldozer or similar vehicle, is partially buried in snow with a thick blanket of snow on its upper surfaces and a single thin stem protruding from the snow near the front grille. Photograph read: The image is taken in bright daylight with strong contrast between the white snow and the rusted metal. The foreground machinery is in focus, while the background shows trees and distant mountains with moderate atmospheric haze. The snow’s texture is visible, and the machine’s structural features are discernible despite the snow cover. Photo type: Documentary
   - Photo: Description: A weathered, light-blue metal kettle hangs by strings from a wooden eave, with a long icicle dripping from the overhang; a dark wooden post stands to the left, and blurred trees and a building with red and yellow tones form the background. Photograph read: The image has a shallow depth of field, with the kettle in focus and the background significantly blurred. Lighting appears natural and diffused, casting soft shadows. The rendering preserves texture on the kettle and post, but the background lacks detail. Photo type: Portrait-style
