@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (71)
+## Needs Reply (73)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgQWk1UARLp))
+  - Photo: Description: A broken portrait in an ornate, dark-framed mirror lies among cluttered debris, with shattered glass and scattered paper fragments visible around its base. Photograph read: The image is captured from a slightly elevated angle, with ambient indoor lighting casting soft shadows. The mirror’s frame shows decorative carvings, and the glass is visibly cracked and fragmented. The rendering is flat, with no apparent lens distortion or depth-of-field effects. Photo type: Still life
+    - Watch-outs: - The mirror’s glass is shattered, obscuring the portrait’s facial features and rendering the subject’s identity indistinct. - The frame’s lower edge is partially covered by white debris and a pink paper fragment, which partially obscures the base of the portrait.
 - **eelizjjjm**:  ([link](https://www.threads.com/@eelizjjjm/post/DgQU5sMoPwg))
   - Photo: Description: A football rests on a grassy lawn under bright sunlight, with tree trunks and foliage in the background; the sun’s rays are visible as beams cutting through the trees. Photograph read: The image is taken from a low angle, with strong backlighting creating lens flare and casting shadows across the grass. The football is in focus but appears as a dark, rounded object with minimal surface detail visible. The background is dimmer and less defined due to backlighting and depth of field. Photo type: Outdoor photography
     - Watch-outs: - The football’s surface texture and markings are not discernible due to low contrast and backlighting. - Background foliage and tree trunks are underexposed and lack fine detail, making them indistinct.
@@ -46,6 +49,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
 - **eleanorangelaholohan**: When in Pizzo, I pass it on my walk down to the Piazza ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQJRu1gkch))
   - _Replying to: A whole house, left at the end of a narrow alley with its s…_
+- **mommatex**: I was walking and just found it abandoned. Maybe the little builder had to leave quickly and is missing it. ([link](https://www.threads.com/@mommatex/post/DgQWUbME4lI))
+  - _Replying to: Did its builder forget it mid-shift, or is the tide its bos…_
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DgQSHtalTMr))
   - Photo: Description: A large, rusted anchor with attached chain rests on a gravel bed beside weathered concrete fortifications, with the sea and distant coastal structures visible in the background. Photograph read: The image is taken in bright, even daylight with no visible lens distortion or chromatic aberration. The anchor and surrounding gravel are in focus, while the background shows natural depth of field blur. Lighting is flat, with no harsh shadows or overexposed highlights. Photo type: Documentary
   - _Replying to: That rust is doing half the talking. A whole anchor chain, …_
