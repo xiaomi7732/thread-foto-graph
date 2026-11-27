@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (54)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **smilingjeannie**: A parade of elephants living an abundant life at Lewa Conservamcy, Kenya ([link](https://www.threads.com/@smilingjeannie/post/DgOWudAkbOB))
+  - Photo: Description: A group of elephants, including adults and at least two young ones, stand in a dry, golden grassland under a bright blue sky with scattered white clouds; distant hills are visible on the horizon. Photograph read: The image is taken in bright daylight with even illumination across the scene; the elephants are in focus and clearly rendered, with natural color saturation and visible texture in the grass and skin. The sky occupies the upper portion of the frame, with clouds showing defined edges and volume. Photo type: Natural landscape
 - **anouc90**:  ([link](https://www.threads.com/@anouc90/post/DgOVpfsITjw))
   - Photo: Description: A weathered, curved tree stump lies on a grassy surface, partially covered with dry, brown oak leaves. The stump’s textured, layered wood shows signs of decay and exposure to the elements. Photograph read: The image is taken from a high angle, with natural daylight casting shadows across the stump and surrounding grass. The focus is generally sharp on the stump’s surface and leaves, though some areas show slight softness. The color rendering is natural, with no visible color distortion or over-saturation. Photo type: Natural
 - **tallymountain**: People ([link](https://www.threads.com/@tallymountain/post/DgOQOUrEnC2))
