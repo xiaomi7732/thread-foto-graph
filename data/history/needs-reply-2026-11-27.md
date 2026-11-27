@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (67)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **scott6666a**:  ([link](https://www.threads.com/@scott6666a/post/DgQTEVpmtgx))
+  - Photo: Description: A desiccated fish skeleton lies on a textured, weathered wooden surface, with visible ribs, fins, and a decayed head. Photograph read: The image is in monochrome, with high contrast between the subject and background. Lighting casts a distinct shadow beneath the fish, and the surface texture is sharply rendered. The subject is in focus, with fine detail visible in the skeletal structure and wood grain. Photo type: Documentary
+- **paulajgriffin1965**:  ([link](https://www.threads.com/@paulajgriffin1965/post/DgQTBcGl84q))
+  - Photo: Description: A ceramic giraffe figurine with brown spots and black eyes is positioned among green foliage and yellow flowers in a garden bed. Photograph read: The image is taken at close range with shallow depth of field, resulting in the giraffe and surrounding plants being in focus, while the background is softly blurred. Lighting is even and natural, suggesting outdoor daylight. Photo type: Portrait
 - **klaatu_barada_nicto**:  ([link](https://www.threads.com/@klaatu_barada_nicto/post/DgQSiHAEuRY))
   - Photo: Description: A rusted, curved metal tool with a handle lies on a gravelly, rocky ground, partially obscured by a large, flat stone to the right. Photograph read: The image is in black and white, with strong contrast between light and shadow. The tool and ground are in sharp focus, but the lighting casts deep shadows, particularly under the stone and along the tool’s edges. The surface textures of the gravel and rust are visible. Photo type: Documentary
 - **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/DgQRf3sEZId))
