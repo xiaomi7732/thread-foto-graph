@@ -10,8 +10,53 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 19,
+      "reply_count": 23,
       "replies": [
+        {
+          "username": "smilingjeannie",
+          "text": "Lobster traps left behind for the next season. Scotland.",
+          "permalink": "https://www.threads.com/@smilingjeannie/post/DgQALqjEa4T",
+          "photos": [
+            "Description: The foreground features a pile of tangled fishing nets and ropes on grass, with a body of water and a distant castle on an island in the background, set against rolling hills under a cloudy sky. Photograph read: The composition layers the nets in the foreground against the water and castle in the midground, with a cloudy sky above. Lighting is diffuse, with muted tones and visible texture in the nets. The image has a slightly enhanced color saturation and contrast, with visible grain or digital noise in the foreground. Photo type: Landscape"
+          ],
+          "watch_outs": [
+            "Foreground nets: fine details of the rope texture and net weave are visible but not sharply defined, with some areas appearing slightly soft or indistinct. Background castle: distant and partially obscured by atmospheric haze, reducing edge definition and detail clarity."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "fephi",
+          "text": "",
+          "permalink": "https://www.threads.com/@fephi/post/DgQAF0Rltxn",
+          "photos": [
+            "Description: A worn work glove is mounted on a white pole, positioned outdoors with a grassy area, a concrete path, and a distant treeline under a bright sun in the background. Photograph read: The image is taken in bright, direct sunlight with a shallow depth of field, causing the background to be softly blurred. The glove is in focus and well-lit, but the pole and foreground grass show minimal texture detail. The sun\u2019s glare is visible at the top right, creating a bright wash. Photo type: Outdoor portrait"
+          ],
+          "watch_outs": [
+            "The glove\u2019s fingers are frayed and torn, with visible wear and dirt, limiting the clarity of its original condition. The top right corner is overexposed, obscuring fine detail in the sky and horizon."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "maureenozerimages",
+          "text": "Tyres at beach",
+          "permalink": "https://www.threads.com/@maureenozerimages/post/DgP_9bDDdAD",
+          "photos": [
+            "Description: Two discarded car wheels, one with a rusted steel rim and the other with a more corroded, possibly aluminum rim, lie on sandy ground next to a concrete curb, with sparse green grass nearby. Photograph read: The image is in focus with even, natural lighting, capturing fine details on the tires and rust patterns. The composition places the wheels in the foreground, with a shallow depth of field blurring the background pavement and curb. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "- The tire tread and sidewall text on the front wheel are partially legible but not fully readable due to wear and dirt. - The rust patterns on the rims are visible but not sharply defined, with some areas obscured by surface texture and debris."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "mommatex",
           "text": "",
@@ -117,7 +162,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "unclediss",
+                  "text": "I think there was some sort of beach celebration the day before, so I just came across this on a lovely Chicago summer morning.\ufffc",
+                  "permalink": "https://www.threads.com/@unclediss/post/DgP_2jGG7D4",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
