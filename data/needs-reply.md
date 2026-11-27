@@ -4,9 +4,19 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (71)
+## Needs Reply (76)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **musulnamja**:  ([link](https://www.threads.com/@musulnamja/post/DgQIRg-GvGv))
+  - Photo: Description: A corroded, seaweed-covered electric scooter lies on a paved dock beside calm water, with a floating barrier and distant railing visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between the dark, wet scooter and the sunlit pavement. The subject is in focus, but the water surface shows natural ripples and reflections. The composition is straightforward, with the scooter centered in the frame. Photo type: Documentary
+- **stickyshutterphotography**:  ([link](https://www.threads.com/@stickyshutterphotography/post/DgQH8kVCNL-))
+  - Photo: Description: A narrow, irregularly shaped opening in a weathered stone wall, with a large, broken stone slab leaning against the interior, and a dark bottle visible inside the opening. Photograph read: The image is composed with the stone wall occupying the entire frame, showing layered, rough-textured stones. Lighting is flat and diffuse, with no strong directional highlights or shadows. The rendering preserves the texture of the stones and the bottle, but lacks sharpness or contrast. Photo type: Documentary
+    - Watch-outs: The interior of the opening is dark, obscuring fine details of the bottle and the wall’s inner surface. The broken stone slab is partially obscured by shadow and texture, limiting visibility of its shape and surface condition.
+- **upsnodowns**: Someone left their stuffed animal on the bench while enjoying a sit down with a big dog. ([link](https://www.threads.com/@upsnodowns/post/DgQH5a1m46m))
+  - Photo: Description: An orange, stylized bear sculpture with a light blue scarf sits on a bench beside a large, plaid-patterned spherical object. The background shows blurred outdoor seating and foliage under warm ambient lighting. Photograph read: The image is taken at an angle, with the bear sculpture as the main subject. Lighting appears to be artificial, casting soft highlights on the sculpture’s glossy surface. The background is out of focus, and the bench’s wooden slats are visible but not sharply defined. Photo type: Street photography
+    - Watch-outs: The background is significantly blurred, obscuring details of the surrounding environment. The plaid sphere’s surface has visible texture and pattern, but the edges are not sharply defined, suggesting limited depth of field or slight focus softness.
+- **artiekay2**: One of many items left behind at an abandoned homeless camp. ([link](https://www.threads.com/@artiekay2/post/DgQH4ymlsyr))
+  - Photo: Description: A partially decomposed Mickey Mouse costume lies among dry leaves and pine needles on the forest floor, with visible wear and discoloration. Photograph read: The image is taken from a high angle, with natural, diffused lighting. The costume’s red and yellow features are visible but faded, and the surrounding foliage is in focus. The texture of the leaves and needles is discernible, but the costume’s fabric shows creases and dirt. Photo type: Documentary
 - **irishrose_3**:  ([link](https://www.threads.com/@irishrose_3/post/DgQHUs1HJgq))
   - Photo: Description: Two apples, one green and one red, are positioned side-by-side on a flat surface with a blurred background featuring a grid-like pattern. Photograph read: The apples are in focus with visible surface texture and specular highlights. Lighting is direct and even, casting soft shadows. The background is out of focus, with no discernible depth of field beyond the foreground subjects. Photo type: Still life
 - **susanrutledge**:  ([link](https://www.threads.com/@susanrutledge/post/DgQG36UGn8d))
@@ -53,6 +63,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: For someone, then - a chair with a job still ahead of it. T…_
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
+- **2killamockingbird**: My pleasure Saars 🙏 ([link](https://www.threads.com/@2killamockingbird/post/DgQIFtFAE-P))
+  - _Replying to: Thank you Dee!_
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
   - _Replying to: @wj.fox Your mule team opens the Gathered Thursday favorite…_
 

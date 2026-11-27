@@ -10,8 +10,62 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 58,
+      "reply_count": 62,
       "replies": [
+        {
+          "username": "musulnamja",
+          "text": "",
+          "permalink": "https://www.threads.com/@musulnamja/post/DgQIRg-GvGv",
+          "photos": [
+            "Description: A corroded, seaweed-covered electric scooter lies on a paved dock beside calm water, with a floating barrier and distant railing visible in the background. Photograph read: The image is taken in bright daylight with strong contrast between the dark, wet scooter and the sunlit pavement. The subject is in focus, but the water surface shows natural ripples and reflections. The composition is straightforward, with the scooter centered in the frame. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "stickyshutterphotography",
+          "text": "",
+          "permalink": "https://www.threads.com/@stickyshutterphotography/post/DgQH8kVCNL-",
+          "photos": [
+            "Description: A narrow, irregularly shaped opening in a weathered stone wall, with a large, broken stone slab leaning against the interior, and a dark bottle visible inside the opening. Photograph read: The image is composed with the stone wall occupying the entire frame, showing layered, rough-textured stones. Lighting is flat and diffuse, with no strong directional highlights or shadows. The rendering preserves the texture of the stones and the bottle, but lacks sharpness or contrast. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "The interior of the opening is dark, obscuring fine details of the bottle and the wall\u2019s inner surface. The broken stone slab is partially obscured by shadow and texture, limiting visibility of its shape and surface condition."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "upsnodowns",
+          "text": "Someone left their stuffed animal on the bench while enjoying a sit down with a big dog.",
+          "permalink": "https://www.threads.com/@upsnodowns/post/DgQH5a1m46m",
+          "photos": [
+            "Description: An orange, stylized bear sculpture with a light blue scarf sits on a bench beside a large, plaid-patterned spherical object. The background shows blurred outdoor seating and foliage under warm ambient lighting. Photograph read: The image is taken at an angle, with the bear sculpture as the main subject. Lighting appears to be artificial, casting soft highlights on the sculpture\u2019s glossy surface. The background is out of focus, and the bench\u2019s wooden slats are visible but not sharply defined. Photo type: Street photography"
+          ],
+          "watch_outs": [
+            "The background is significantly blurred, obscuring details of the surrounding environment. The plaid sphere\u2019s surface has visible texture and pattern, but the edges are not sharply defined, suggesting limited depth of field or slight focus softness."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
+        {
+          "username": "artiekay2",
+          "text": "One of many items left behind at an abandoned homeless camp.",
+          "permalink": "https://www.threads.com/@artiekay2/post/DgQH4ymlsyr",
+          "photos": [
+            "Description: A partially decomposed Mickey Mouse costume lies among dry leaves and pine needles on the forest floor, with visible wear and discoloration. Photograph read: The image is taken from a high angle, with natural, diffused lighting. The costume\u2019s red and yellow features are visible but faded, and the surrounding foliage is in focus. The texture of the leaves and needles is discernible, but the costume\u2019s fabric shows creases and dirt. Photo type: Documentary"
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "irishrose_3",
           "text": "",
@@ -728,17 +782,39 @@
         "- The bottle\u2019s surface is partially obscured by rust and the wire, limiting visibility of its original condition. - The background blur (bokeh) reduces context clarity, making the setting indistinct.",
         ""
       ],
-      "reply_count": 16,
+      "reply_count": 18,
       "replies": [
         {
           "username": "2killamockingbird",
           "text": "Stunning picks \ud83d\udc4c \ud83d\udc4f",
           "permalink": "https://www.threads.com/@2killamockingbird/post/DgPuFt5ADyY",
           "photos": [],
-          "needs_response": true,
-          "action": "like",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Thank you Dee!",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgQH6BRlFnP",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": [
+                {
+                  "username": "2killamockingbird",
+                  "text": "My pleasure Saars \ud83d\ude4f",
+                  "permalink": "https://www.threads.com/@2killamockingbird/post/DgQIFtFAE-P",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
+            }
+          ]
         },
         {
           "username": "saars.foto",
