@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (56)
+## Needs Reply (53)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
@@ -19,18 +19,12 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @artiekay2 Your granddaughter's seashell mandala closes the…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
-- **wj.fox**: It took the farmer and his four sons about forty five minutes to get them hooked up. This shot was taken from the top of a ladder that they were holding for me. I spent five hours taking photos that day and even got to ride behind the mules to take many other photos. ([link](https://www.threads.com/@wj.fox/post/DgPvpYrHPK2))
-  - _Replying to: The whole team pulling as one, and every mule facing the sa…_
 - **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
   - _Replying to: A whole autumn pressed flat into one frame, and every leaf …_
-- **schemenme**: He kept trying to empty the cornucopia. He was quite funny ([link](https://www.threads.com/@schemenme/post/DgPyGNQm2rO))
-  - _Replying to: I think the puppy is guarding the whole harvest - one eye o…_
 - **shiawasemainichi5**: You're welcome. Roses are indeed beautiful flowers! ([link](https://www.threads.com/@shiawasemainichi5/post/DgPbhajI9NT))
   - _Replying to: A bittersweet service, and a lovely idea. Thanks for sharin…_
 - **jbrucewilcox**: It fit your theme!!! lolol... ([link](https://www.threads.com/@jbrucewilcox/post/DgOtI7tDAbE))
   - _Replying to: A rescue, a series, and three more eyeballs in reserve. Tha…_
-- **akmaleky**: A week or so, our school has a recycle program, all plastic containers must be put in the designated place. ([link](https://www.threads.com/@akmaleky/post/DgPWiOoGhj0))
-  - _Replying to: One cage, a whole season of empties, and the colored caps d…_
 - **mcoger55**: The rest of the story. ‘‘Twas a long day. ([link](https://www.threads.com/@mcoger55/post/DgN97JOlBho))
   - Photo: Description: A kitchen countertop holds multiple containers filled with fresh green beans, alongside a red toaster, a measuring cup, and various kitchen items against wooden cabinets and a tiled backsplash. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting illuminating the scene. The composition is centered on the containers of green beans, with background elements including a lotion bottle and a small shelf with figurines. The rendering is clear enough to distinguish objects and textures, though some items are partially obscured or in the background. Photo type: Domestic still life
   - Photo: Description: A large quantity of fresh green beans rests on a light-colored towel spread over a surface, with a wooden knife block and a paper towel roll visible in the background. Photograph read: The image is taken from a slightly elevated angle, with even indoor lighting. The beans are in sharp focus, while the background elements are slightly less defined. The towel’s texture is visible, and the beans’ surfaces reflect light, indicating a non-reflective, diffuse illumination. Photo type: Still life
