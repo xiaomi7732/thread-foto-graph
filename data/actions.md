@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (48)
+## Needs Reply (49)
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **amy.salt**:  ([link](https://www.threads.com/@amy.salt/post/DgOqWZ1nCd4))
+  - Photo: Description: The image shows a dense cluster of layered, shelf-like fungi with concentric, wavy ridges and a white margin, growing on a dark, textured surface. Photograph read: The composition is tightly framed, filling the frame with overlapping fungal growths. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering preserves fine texture and color variation across the fungal surfaces. Photo type: Macro
 - **leahbogie**:  ([link](https://www.threads.com/@leahbogie/post/DgOo9lFEfuP))
   - Photo: Description: A ground surface covered with fallen autumn leaves in various colors, including red, orange, yellow, and brown, scattered over green grass. Photograph read: The image is a flat, top-down view with even, diffuse lighting. Leaves are densely packed, overlapping, and show varied degrees of color saturation and texture. No visible lens distortion or motion blur. No signs of digital compression or chromatic aberration. Photo type: Natural
 - **wj.fox**:  ([link](https://www.threads.com/@wj.fox/post/DgOmlRsnLSm))
