@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (71)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **akmaleky**:  ([link](https://www.threads.com/@akmaleky/post/DgQFdqaGAd_))
+  - Photo: Description: An abandoned, rusted vintage car with missing panels and interior components sits in a dirt yard beside a concrete block wall, surrounded by trees with yellowing leaves. Photograph read: The image is taken in natural daylight with even illumination; the car and surrounding foliage are in focus, though details are not sharply defined. The composition places the car centrally, with trees framing the sides and a wall behind. No visible signs of motion blur, lens distortion, or chromatic aberration. Photo type: Documentary
+- **joanmduffy**: Abandoned at the beach ([link](https://www.threads.com/@joanmduffy/post/DgQFZfyFmaK))
+  - Photo: Description: A small, weathered wooden toy train car with red wheels and faded blue paint sits atop a rough, textured tree stump. In the blurred background, white and gray waves are visible, suggesting a coastal or shoreline setting. Photograph read: The image is taken with a shallow depth of field, keeping the toy car in focus while the background and foreground stump surface are softly blurred. Lighting appears natural and diffused, casting minimal shadows. The image has a slightly grainy or noisy texture, and the colors are muted. Photo type: Documentary
+    - Watch-outs: The background waves are indistinct and blurred, obscuring any fine detail or texture. The toy car’s paint and markings are partially worn and faded, reducing legibility of the number “409” and other graphics.
 - **leanne.raddatz**: Ah! I have one... ([link](https://www.threads.com/@leanne.raddatz/post/DgQEyFXoG4A))
   - Photo: Description: A plush pig with white fur and dark spots rests on the top of a weathered wooden fence post, with a residential street and a concrete wall in the background under clear skies. Photograph read: The image is taken in bright daylight with natural lighting, showing a shallow depth of field that blurs the background. The foreground fence and plush pig are in focus, while the background houses and foliage are softly out of focus. The pig’s features are discernible, but the texture of the fence and surrounding environment is not sharply defined. Photo type: Portrait
 - **mix4tv**: DFW, Rental Car Shuttle Bus ([link](https://www.threads.com/@mix4tv/post/DgQEgRpG7s-))
