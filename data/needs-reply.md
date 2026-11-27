@@ -4,9 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (72)
+## Needs Reply (74)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **jglass8**: Beautiful capture! Lost at sea? ([link](https://www.threads.com/@jglass8/post/DgQNrGzFc5b))
+  - Photo: Description: A single red buoy floats on a calm, blue water surface, with its reflection visible below. The water shows gentle ripples and subtle wave patterns. Photograph read: The image is composed with the buoy centered in the mid-frame against a uniform water background. Lighting is even and diffuse, with no harsh shadows or highlights. The rendering is flat, with minimal texture or depth cues beyond the buoy’s reflection. Photo type: Still life
+- **scott_holl_photography**:  ([link](https://www.threads.com/@scott_holl_photography/post/DgQNpr4lfAH))
+  - Photo: Description: A bicycle lies on its side near three white bollards on a paved surface, adjacent to a dark brick building with a visible security camera. Behind them, dense trees form a dark backdrop under a uniformly gray sky. Photograph read: The image is monochrome with high contrast between the dark foliage and building, and the lighter bollards and bicycle. Lighting appears to be diffuse, possibly from an overcast sky or twilight, casting minimal shadows. The bicycle and bollards are in relative focus, while the background trees are uniformly dark and lack texture. Photo type: Black and white
 - **resnicklr**:  ([link](https://www.threads.com/@resnicklr/post/DgQNMpflZHH))
   - Photo: Description: A wooden lifeguard stand stands on a wide, flat sandy beach, with a calm blue ocean stretching to the horizon under a light blue sky with faint clouds. Photograph read: The image is composed with the lifeguard stand centered in the mid-ground, framed by the beach in the foreground and the sea in the background. Lighting is bright and even, suggesting midday sun. The rendering is clear, with visible texture in the sand and distinct edges on the stand and signs. Photo type: Documentary
 - **demidova_nadezda**:  ([link](https://www.threads.com/@demidova_nadezda/post/DgQNEF6CNOB))
