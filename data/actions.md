@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (68)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **momentofsubjectiveaesthetics**: ”Cliffhanger” ([link](https://www.threads.com/@momentofsubjectiveaesthetics/post/DgQT_FaiDFW))
+  - Photo: Description: A pregnancy test kit lies on a dark, textured ground surface scattered with dry leaves and small debris. The test’s packaging is partially visible with printed text, though much of it is obscured or illegible. Photograph read: The image is captured from a top-down perspective with a dark, high-contrast aesthetic. Lighting appears uneven, casting shadows across the surface, and the image exhibits a grainy texture. Text and fine details on the test kit are not clearly legible due to low resolution and partial occlusion. Photo type: Unclear
+    - Watch-outs: - The text on the test kit is illegible due to low resolution and partial smudging, particularly around the “Pregnancy Test” label and surrounding symbols. - The ground surface is uneven and cluttered with debris, obscuring the test kit’s edges and making precise boundary definition difficult.
 - **scott6666a**:  ([link](https://www.threads.com/@scott6666a/post/DgQTEVpmtgx))
   - Photo: Description: A desiccated fish skeleton lies on a textured, weathered wooden surface, with visible ribs, fins, and a decayed head. Photograph read: The image is in monochrome, with high contrast between the subject and background. Lighting casts a distinct shadow beneath the fish, and the surface texture is sharply rendered. The subject is in focus, with fine detail visible in the skeletal structure and wood grain. Photo type: Documentary
 - **paulajgriffin1965**:  ([link](https://www.threads.com/@paulajgriffin1965/post/DgQTBcGl84q))
@@ -189,9 +192,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (23)
+## Needs Like (24)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- tiffany.art2020: Nature’s microcosm! ([link](https://www.threads.com/@tiffany.art2020/post/DgQULbeG6vG))
 - kidsdrs: From visit. ([link](https://www.threads.com/@kidsdrs/post/DgQQ6B5mHkI))
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
