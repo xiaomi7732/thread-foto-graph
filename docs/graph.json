@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 187,
+      "reply_count": 188,
       "replies": [
         {
           "username": "glendagh25",
@@ -406,7 +406,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "bojonvelvet2.0",
+                  "text": "It was in an abandoned house on property adjacent to a friend\u2019s back in Ohio. The floor and roof were both caving in but the house was filled with all kinds of creepy dolls and knick knacks.",
+                  "permalink": "https://www.threads.com/@bojonvelvet2.0/post/DgQw_vSgfLQ",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

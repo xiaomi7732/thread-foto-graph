@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (66)
+## Needs Reply (67)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **glendagh25**:  ([link](https://www.threads.com/@glendagh25/post/DgQw6iuj5n0))
@@ -23,6 +23,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
 - **ben.bennion**:  ([link](https://www.threads.com/@ben.bennion/post/DgQrz1wAshp))
   - Photo: Description: An elderly woman with short, light-colored hair stands on a pebble beach, holding two smooth, rounded stones, with the sea and a cloudy sky in the background. Photograph read: The image is evenly lit under an overcast sky, with no visible shadows or high-contrast areas. The subject is in focus, and the background shows a shallow depth of field, blurring the distant shoreline and sea. The rendering is clean, with no visible digital artifacts or motion blur. Photo type: Portrait
   - _Replying to: I photographed my mother holding one and made her put it ba…_
+- **bojonvelvet2.0**: It was in an abandoned house on property adjacent to a friend’s back in Ohio. The floor and roof were both caving in but the house was filled with all kinds of creepy dolls and knick knacks. ([link](https://www.threads.com/@bojonvelvet2.0/post/DgQw_vSgfLQ))
+  - _Replying to: A face behind cracked glass, tucked in among the clutter - …_
 - **scott6666a**: A small dam find . ([link](https://www.threads.com/@scott6666a/post/DgQrlPeGpWq))
   - _Replying to: Ribs, fins, and a whole story dried into the wood - the tid…_
 - **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/DgQRf3sEZId))
