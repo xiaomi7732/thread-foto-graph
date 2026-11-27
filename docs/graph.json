@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 91,
+      "reply_count": 94,
       "replies": [
         {
           "username": "ry.rah_q",
@@ -264,7 +264,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "leanne.raddatz",
+                  "text": "I put it up there so it would be more visible to the little one who might be looking for it. I figured it fell out of a stroller. As a mom, I have lived this drama first hand\ud83d\ude42",
+                  "permalink": "https://www.threads.com/@leanne.raddatz/post/DgQKFsFEsEW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },
@@ -401,6 +412,18 @@
               "action": null,
               "hidden": false,
               "replies": [
+                {
+                  "username": "eleanorangelaholohan",
+                  "text": "This is a similar house on the Via Bella Vista which has been beautifully restored",
+                  "permalink": "https://www.threads.com/@eleanorangelaholohan/post/DgQKQpejHOG",
+                  "photos": [
+                    "Description: A narrow street corner features a two-story building with a white door, a balcony adorned with hanging flower pots, and a large tiled mural depicting a knight on horseback defeating a dragon. The building has an orange-yellow facade, a blue window frame, and a green mailbox. Photograph read: The image is taken from a low angle looking up the street, with the building\u2019s facade and entrance centered. Lighting appears even and diffused, suggesting an overcast day. The photograph has a standard digital resolution, with no visible signs of motion blur, chromatic aberration, or sensor noise. Photo type: Urban architecture"
+                  ],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                },
                 {
                   "username": "eleanorangelaholohan",
                   "text": "When in Pizzo, I pass it on my walk down to the Piazza",
@@ -917,10 +940,21 @@
                   "text": "I like your philosophical approach \ud83c\udf42",
                   "permalink": "https://www.threads.com/@ericpalonen/post/DgQJmzfEZ3D",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Thank you. I wish it makes every day life more interesting \ud83d\ude09",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgQKlKfI63K",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
