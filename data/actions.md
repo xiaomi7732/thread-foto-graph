@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (73)
+## Needs Reply (75)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **marcinewiese**: This is actually my beloved 1995 Cadillac that I sold to a junk dealer three years ago. It had only 97,000 actual miles but salted Minnesota roads had eaten up the undercarriage plus the suspension was shot...it would have cost thousands to fix and I simply didn't have it so I had to let it go...I cried when they took it away ([link](https://www.threads.com/@marcinewiese/post/DgQXHAgmL6L))
+  - Photo: Description: A red sedan, covered in a light layer of snow, is parked in a residential driveway with wet pavement and snow-dusted grass. Snow is falling and visible in the air, with trees and houses in the background, some with autumn foliage and others snow-covered. Photograph read: The image is taken under overcast, diffuse lighting with no strong directional light. The scene is rendered with moderate contrast and visible motion blur from falling snow. The foreground vehicle is in focus, while background elements are slightly softer, and the image lacks sharpness in fine textures. Photo type: Natural
 - **bojonvelvet2.0**:  ([link](https://www.threads.com/@bojonvelvet2.0/post/DgQWk1UARLp))
   - Photo: Description: A broken portrait in an ornate, dark-framed mirror lies among cluttered debris, with shattered glass and scattered paper fragments visible around its base. Photograph read: The image is captured from a slightly elevated angle, with ambient indoor lighting casting soft shadows. The mirror’s frame shows decorative carvings, and the glass is visibly cracked and fragmented. The rendering is flat, with no apparent lens distortion or depth-of-field effects. Photo type: Still life
     - Watch-outs: - The mirror’s glass is shattered, obscuring the portrait’s facial features and rendering the subject’s identity indistinct. - The frame’s lower edge is partially covered by white debris and a pink paper fragment, which partially obscures the base of the portrait.
@@ -49,6 +51,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
 - **eleanorangelaholohan**: When in Pizzo, I pass it on my walk down to the Piazza ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQJRu1gkch))
   - _Replying to: A whole house, left at the end of a narrow alley with its s…_
+- **debbiedunlap79**: Thank you Saar for liking it 😁 ([link](https://www.threads.com/@debbiedunlap79/post/DgQXKznFY7V))
+  - _Replying to: A happy accident, and a keeper. Thanks for telling the stor…_
 - **mommatex**: I was walking and just found it abandoned. Maybe the little builder had to leave quickly and is missing it. ([link](https://www.threads.com/@mommatex/post/DgQWUbME4lI))
   - _Replying to: Did its builder forget it mid-shift, or is the tide its bos…_
 - **bumpy120**:  ([link](https://www.threads.com/@bumpy120/post/DgQSHtalTMr))
