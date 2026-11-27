@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (61)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **maximum_gforce**: Acorn woodpecker stash. Then the branch fell down ([link](https://www.threads.com/@maximum_gforce/post/DgQRCzoE_B4))
+  - Photo: Description: A weathered tree trunk lies on grassy ground, perforated with numerous holes containing acorns or similar nuts, with some acorns protruding from the openings. Photograph read: The image is a close-up vertical shot with natural outdoor lighting. The trunk occupies most of the frame, and the background grass is softly out of focus. The texture of the bark and the shapes of the acorns are visible, though not sharply defined. Photo type: Macro
 - **remalysh**: The Top ([link](https://www.threads.com/@remalysh/post/DgQQkItGucE))
   - Photo: Description: A weathered, colorful toy boat with red, yellow, and white stripes rests on a wooden surface, with a small red handle visible to its left; the background is a blurred, textured surface. Photograph read: The image is a close-up with shallow depth of field, focusing on the toy boat; lighting is directional, casting shadows and highlights; the rendering shows visible surface texture and paint wear, with no apparent digital artifacts. Photo type: Still life
     - Watch-outs: The toy boat’s paint is chipped and faded, obscuring fine surface detail; the background is indistinct, limiting context and depth perception.
