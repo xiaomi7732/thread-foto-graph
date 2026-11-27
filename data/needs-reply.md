@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (62)
+## Needs Reply (65)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **ry.rah_q**:  ([link](https://www.threads.com/@ry.rah_q/post/DgQJsqDFb2P))
+  - Photo: Description: An abandoned, rusted vintage car with missing panels and a broken windshield sits in a forested area, surrounded by fallen leaves and trees, with a large fallen log resting across its roof. Photograph read: The image is captured in natural daylight with even illumination across the scene. The composition centers the car, with trees framing the sides and background. The rendering preserves surface textures and details of the car’s rust and surrounding foliage, with no visible signs of motion blur or focus issues. Photo type: Documentary
 - **pappaga11a**: During the Roman times, a worker in Algeria left his handprint in some construction. Found centuries later, it now hangs in the museum in Tipaza. ([link](https://www.threads.com/@pappaga11a/post/DgQJRe_lMY-))
   - Photo: Description: A handprint impression is embedded in a textured, light-colored wall surface, showing the palm and five fingers with visible creases and contours. Photograph read: The image is a close-up with even, diffuse lighting that casts minimal shadows, revealing surface texture and the handprint’s contours. The resolution is sufficient to discern the handprint’s shape and fine details like finger joints and palm lines. Photo type: Documentary
 - **sunnyclarkphotography**: Left behind. ([link](https://www.threads.com/@sunnyclarkphotography/post/DgQIno0FWRY))
@@ -25,6 +27,10 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: Thirty years untouched, helmet still on the handlebars like…_
 - **beckiefitzgerald**: Yeah. Found before we left. ([link](https://www.threads.com/@beckiefitzgerald/post/DgQJWXrIIRP))
   - _Replying to: A wallet, left on the wood with nothing else around it. Som…_
+- **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/DgQJ8nHDivT))
+  - _Replying to: That little story stays with the photo now. Thanks for shar…_
+- **ericpalonen**: I like your philosophical approach 🍂 ([link](https://www.threads.com/@ericpalonen/post/DgQJmzfEZ3D))
+  - _Replying to: A whole branch gone bare and these few brown leaves still h…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
   - Photo: Description: The image shows a close-up of tangled, pale, fibrous plant material, with a small, round, brownish object partially obscured among the strands. Some darker green leaves and stems are visible in the background. Photograph read: The composition is dense with overlapping strands, creating a cluttered visual field. Lighting is uneven, with some areas brightly illuminated and others in shadow, suggesting an outdoor or ambient light source. The image lacks sharpness, with no discernible focal plane. Photo type: Unclear
     - Watch-outs: - The main subject (the round object) is partially obscured by the fibrous material, making its features indistinct. - The overall image exhibits soft focus, reducing the visibility of fine texture and detail across the entire frame.
