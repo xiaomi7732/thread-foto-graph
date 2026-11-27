@@ -149,7 +149,7 @@
       "photos": [
         "Description: The photograph shows a dense pile of various small, colorful squash and gourds with irregular shapes, striped patterns, and vibrant hues including orange, green, white, and black. Photograph read: The image is a close-up, full-frame shot with even, diffuse lighting that illuminates the surface textures and colors without harsh shadows. The composition is tightly packed, with no visible background or foreground separation. The rendering is sharp enough to discern individual fruit shapes and surface details. Photo type: Still life"
       ],
-      "reply_count": 172,
+      "reply_count": 173,
       "replies": [
         {
           "username": "amy.salt",
@@ -216,7 +216,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "wj.fox",
+                  "text": "It took the farmer and his four sons about forty five minutes to get them hooked up. This shot was taken from the top of a ladder that they were holding for me. I spent five hours taking photos that day and even got to ride behind the mules to take many other photos.",
+                  "permalink": "https://www.threads.com/@wj.fox/post/DgPvpYrHPK2",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

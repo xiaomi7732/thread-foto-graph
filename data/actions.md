@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (53)
+## Needs Reply (54)
 
 ### Gathered Thursday favorites 🏆 5 gatherings that stopped my … ([thread](https://www.threads.com/@saars.foto/post/DgPKcU6G8zB))
 - **wj.fox**: This team actually had fourteen mules and this photo was taken on an Amish Farm in Lebanon, Pennsylvania. I’ve been taking photos of Amish and Mennonite Farming activities for two years. Just this past several months I was approached by two seperate Amish Farmers, who wanted me to take mule photos for them so that they could be used in a calendar just showing mules. I was given access to their farms so that I could photograph their mules, the fourteen mule photos were shot November 4th 2026. ([link](https://www.threads.com/@wj.fox/post/DgPvKAYHKb8))
@@ -19,6 +19,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @dianelynnturnbull Slide four of the Gathered Thursday favo…_
 
 ### Gathered Thursday 🧺 Happy Thanksgiving - today's prompt is … ([thread](https://www.threads.com/@saars.foto/post/DgNX3dslBBI))
+- **wj.fox**: It took the farmer and his four sons about forty five minutes to get them hooked up. This shot was taken from the top of a ladder that they were holding for me. I spent five hours taking photos that day and even got to ride behind the mules to take many other photos. ([link](https://www.threads.com/@wj.fox/post/DgPvpYrHPK2))
+  - _Replying to: The whole team pulling as one, and every mule facing the sa…_
 - **ulrike6417**: Erst genossen und dann durchgeschlendert! ([link](https://www.threads.com/@ulrike6417/post/DgO8Ze-gFNO))
   - _Replying to: A whole autumn pressed flat into one frame, and every leaf …_
 - **shiawasemainichi5**: You're welcome. Roses are indeed beautiful flowers! ([link](https://www.threads.com/@shiawasemainichi5/post/DgPbhajI9NT))
