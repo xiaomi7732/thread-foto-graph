@@ -6,9 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (61)
+## Needs Reply (62)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **anto_acz**:  ([link](https://www.threads.com/@anto_acz/post/DgQRf3sEZId))
+  - Photo: Description: A small pink crocheted toy, resembling a pig or rabbit, sits on the slats of a green park bench. The bench has a metal armrest and is positioned on grass with some scattered weeds and dirt at the base. Photograph read: The image is taken from a low angle, focusing on the bench and toy. Lighting is even and natural, suggesting daylight. The composition uses diagonal lines from the bench slats, with the toy as a central point of interest. The background grass is in focus but less detailed than the bench. Photo type: Documentary
+  - Photo: Description: A photograph of a young child with light hair and a red garment is wedged in a narrow crevice between large, rough-textured rocks. Small green plants are visible near the photo. Photograph read: The image is taken from a slightly elevated angle, with bright, direct sunlight casting strong shadows in the crevice. The photo’s edges are slightly curled and partially obscured by rock and vegetation. The rendering is flat, with no visible lens distortion or chromatic aberration. Photo type: Documentary
+    - Watch-outs: The photo is partially obscured by rock and vegetation, limiting visibility of the child’s facial features. The crevice’s shadows and the photo’s position cause partial loss of detail on the child’s face and clothing.
 - **maximum_gforce**: Acorn woodpecker stash. Then the branch fell down ([link](https://www.threads.com/@maximum_gforce/post/DgQRCzoE_B4))
   - Photo: Description: A weathered tree trunk lies on grassy ground, perforated with numerous holes containing acorns or similar nuts, with some acorns protruding from the openings. Photograph read: The image is a close-up vertical shot with natural outdoor lighting. The trunk occupies most of the frame, and the background grass is softly out of focus. The texture of the bark and the shapes of the acorns are visible, though not sharply defined. Photo type: Macro
 - **remalysh**: The Top ([link](https://www.threads.com/@remalysh/post/DgQQkItGucE))
