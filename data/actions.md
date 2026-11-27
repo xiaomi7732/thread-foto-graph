@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (86)
+## Needs Reply (87)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **oznatureart**:  ([link](https://www.threads.com/@oznatureart/post/DgQoD8gk7aZ))
+  - Photo: Description: A mint-green bicycle with a wicker basket is parked in front of a long, curved metal bench with a ribbed, wave-like design, on a paved sidewalk under bright sunlight. Photograph read: The image is taken in strong daylight with direct sunlight creating glare and high contrast. The bicycle and bench are in sharp focus, but the background includes construction fencing and indistinct figures. Shadows cast by the bench and bicycle are sharp and well-defined. Photo type: Urban photography
 - **krsamae**:  ([link](https://www.threads.com/@krsamae/post/DgQnDiHo0U3))
   - Photo: Description: A circular wooden barrel top rests on grass dotted with small yellow flowers, holding two glasses of orange-colored beverages; one is a short glass with ice, the other a taller glass with ice and a straw. Photograph read: The image is taken from a high angle, with strong sunlight casting distinct shadows. The barrel top and glasses are in focus, but the surrounding grass and flowers are slightly out of focus. The image exhibits a noticeable chromatic aberration and color fringing, particularly around the edges of the glasses and barrel. Photo type: Aesthetic
     - Watch-outs: Chromatic fringing is visible around the rims of the glasses and the barrel’s edge. The grass and flowers in the background are slightly blurred, reducing detail clarity.
