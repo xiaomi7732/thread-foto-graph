@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (85)
+## Needs Reply (86)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **krsamae**:  ([link](https://www.threads.com/@krsamae/post/DgQnDiHo0U3))
+  - Photo: Description: A circular wooden barrel top rests on grass dotted with small yellow flowers, holding two glasses of orange-colored beverages; one is a short glass with ice, the other a taller glass with ice and a straw. Photograph read: The image is taken from a high angle, with strong sunlight casting distinct shadows. The barrel top and glasses are in focus, but the surrounding grass and flowers are slightly out of focus. The image exhibits a noticeable chromatic aberration and color fringing, particularly around the edges of the glasses and barrel. Photo type: Aesthetic
+    - Watch-outs: Chromatic fringing is visible around the rims of the glasses and the barrel’s edge. The grass and flowers in the background are slightly blurred, reducing detail clarity.
 - **donnacorser**:  ([link](https://www.threads.com/@donnacorser/post/DgQi_1No91A))
   - Photo: Description: A large, rusted metal wagon wheel is mounted against a weathered wooden fence, with green vines growing through its spokes. To the right, a stone fountain with a statue of a figure stands amidst surrounding foliage. Photograph read: The image is taken in natural daylight with even illumination across the scene. The composition is straightforward, with the wheel as the central subject and the fountain as a secondary element. The rendering is clear enough to discern textures on the wood, metal, and stone, though some areas are slightly soft. Photo type: Still life
 - **fabienne_journey**:  ([link](https://www.threads.com/@fabienne_journey/post/DgQinTejmBt))
