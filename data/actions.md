@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (69)
+## Needs Reply (70)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgQ3JS9kr_K))
+  - Photo: Description: An abandoned outdoor space features a single black chair on a concrete slab, with a graffiti-tagged wall behind it and overgrown vegetation surrounding the area. Photograph read: The image is captured in natural daylight with even illumination across the scene. The composition centers the chair, with the graffiti wall as a backdrop. The rendering preserves visible texture on the wall, ground, and chair, with no apparent distortion or color aberration. Photo type: Documentary
 - **monaw17**:  ([link](https://www.threads.com/@monaw17/post/DgQyqAskjha))
   - Photo: Description: A close-up shot of a dark, ornate metal lamp post base with partially visible engraved text, set against a backdrop of green foliage and a river under a blue sky. A small, hand-drawn cartoon figure is affixed to the base. Photograph read: The image is taken in bright daylight with clear contrast between the dark post and the greenery. The composition is a low-angle close-up, focusing on the post’s base and the cartoon figure. The background is slightly out of focus, but details are discernible. Photo type: Portrait
     - Watch-outs: The engraved text on the post is partially obscured and illegible due to wear and angle. The cartoon figure is small and appears to be affixed with tape, making its edges and details less crisp.
