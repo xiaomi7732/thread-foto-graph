@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (78)
+## Needs Reply (79)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **medium.gords7**:  ([link](https://www.threads.com/@medium.gords7/post/DgQa0J4Et2u))
+  - Photo: Description: The image shows the interior of a cluttered, rustic shed or barn, filled with assorted vintage furniture and objects, including rocking chairs, an abacus, and a wooden chest, viewed through a weathered wooden doorway. Photograph read: The image exhibits high contrast with saturated, unnatural color tones, particularly blues and yellows. There are visible lens flare artifacts and a grainy, textured appearance across the entire frame. Lighting appears to come from windows and an open doorway, but the interior is dim and unevenly lit. Photo type: Unclear
+    - Watch-outs: - Lens flare artifacts are visible as circular, glowing spots across the image, particularly in the upper right and center, obscuring detail. - The image has a grainy texture and color saturation that appears inconsistent with natural rendering, suggesting digital processing or sensor noise.
 - **cbacinello**:  ([link](https://www.threads.com/@cbacinello/post/DgQYmMyn1-V))
   - Photo: Description: A weathered green wooden shutter is mounted on a textured, beige stucco wall, with a rusted, ornate metal latch visible at the shutter’s edge. Photograph read: The image is composed with the shutter occupying the right side and the wall filling the left. Lighting appears even and diffused, casting soft shadows. The rendering preserves surface texture of both the wall and shutter, with visible grain and rust patterns. Photo type: Still life
     - Watch-outs: Rust on the latch and shutter hinge area obscures fine detail. The rust streaks extend vertically down the wall, reducing contrast and readability of the wall’s texture in that region.
