@@ -6,9 +6,14 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (76)
+## Needs Reply (78)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **cbacinello**:  ([link](https://www.threads.com/@cbacinello/post/DgQYmMyn1-V))
+  - Photo: Description: A weathered green wooden shutter is mounted on a textured, beige stucco wall, with a rusted, ornate metal latch visible at the shutter’s edge. Photograph read: The image is composed with the shutter occupying the right side and the wall filling the left. Lighting appears even and diffused, casting soft shadows. The rendering preserves surface texture of both the wall and shutter, with visible grain and rust patterns. Photo type: Still life
+    - Watch-outs: Rust on the latch and shutter hinge area obscures fine detail. The rust streaks extend vertically down the wall, reducing contrast and readability of the wall’s texture in that region.
+- **jessgperry**:  ([link](https://www.threads.com/@jessgperry/post/DgQYgtcmRKe))
+  - Photo: Description: A pair of blue denim jeans lies crumpled on a paved surface, with a discarded beer bottle resting on gravel nearby. The bottle’s label is partially legible, showing “BLUE MOON.” Photograph read: The image is taken from a high angle, showing the pavement and gravel with visible seams and debris. Lighting is even and diffuse, suggesting an overcast day. The image has no visible signs of motion blur, focus issues, or color distortion. Photo type: Documentary
 - **ben.bennion**: These beautiful pebbles are on a beach at Budleigh Salterton in Devon I took loads of photos but resisted taking any of the pebbles . So technically I left them behind . As beautiful as they are . There are thousands and the was a sign saying you could be fined for stealing them ([link](https://www.threads.com/@ben.bennion/post/DgQYH8mmvLj))
   - Photo: Description: The photograph shows a close-up of a pile of smooth, rounded stones with varied earthy tones, including beige, pink, and brown, arranged in a natural, overlapping cluster. Photograph read: The stones are in sharp focus with even lighting, highlighting their polished surfaces and subtle color variations. The composition is dense, with stones filling the frame, and no visible lens distortion or chromatic aberration. Photo type: Still life
   - Photo: Description: The photograph shows a close-up of a pile of smooth, rounded pebbles in various earthy tones, with one dark, glossy black pebble prominently positioned in the center. Photograph read: The composition is tightly framed with pebbles filling the entire frame; lighting is even and diffuse, with no harsh shadows or highlights. The rendering is clear, showing surface textures and subtle color variations without visible distortion or compression artifacts. Photo type: Still life
