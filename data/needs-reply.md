@@ -4,11 +4,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (63)
+## Needs Reply (64)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **dnalaez_australia_nz**: Left on a track where I go walking ([link](https://www.threads.com/@dnalaez_australia_nz/post/DgRJZwzEovl))
   - Photo: Description: A single, heavily damaged light blue sneaker lies on reddish-brown, gravelly ground, partially covered by green and brown vegetation and dry twigs. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The sneaker is the central focus, showing cracked paint, torn material, and exposed inner lining. The surrounding ground and vegetation are in focus, with no visible motion blur or focus falloff. Photo type: Documentary
+- **chandlerwarren**: A raccoon skeleton discovered on our lawn at the beach early last spring. ([link](https://www.threads.com/@chandlerwarren/post/DgRLkD9GwHz))
+  - _Replying to: A whole skull on the deck, teeth and all - where did this o…_
 - **melaco**: Just found it when I was out walking. ([link](https://www.threads.com/@melaco/post/DgRGpwADTjq))
   - _Replying to: A box fan on the curb, cord still trailing behind it like i…_
 - **hummingbird411**: My dog alerted. ([link](https://www.threads.com/@hummingbird411/post/DgRGvzQm0G-))
