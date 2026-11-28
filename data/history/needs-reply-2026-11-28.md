@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (64)
+## Needs Reply (65)
 
 ### Left Behind Friday favorites 🏆 5 left-behinds that stopped … ([thread](https://www.threads.com/@saars.foto/post/DgRxb2aHEB4))
 - **fabienne_journey**: Congrats everyone, I will definitely try to do better. ([link](https://www.threads.com/@fabienne_journey/post/DgR7MpQDr_7))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole small life out there in the grass - matted fur, one…_
 - **ulrike6417**: Ich denke, ein Baby hat es verloren, und jemand hat es dort hingehängt! ([link](https://www.threads.com/@ulrike6417/post/DgRl-NHAKU7))
   - _Replying to: Hung on the branch like a tiny trophy - was it left there o…_
+- **kellsmt365**: Pelicans are always the landlords of the docks. ([link](https://www.threads.com/@kellsmt365/post/DgR8Khem8ga))
+  - _Replying to: Did the pelicans move in after the dock gave up, or were th…_
 - **hibbys_cheap_watches**: Back about 2K ([link](https://www.threads.com/@hibbys_cheap_watches/post/DgR2RmUFg7I))
   - _Replying to: Black and white suits it - the rust reads like pencil shadi…_
 - **fabienne_journey**: It’s was just lying there, left behind, it’s was there for days. ([link](https://www.threads.com/@fabienne_journey/post/DgRwQeJDoN5))
