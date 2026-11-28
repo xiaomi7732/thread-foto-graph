@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (64)
+## Needs Reply (65)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **dnalaez_australia_nz**: Left on a track where I go walking ([link](https://www.threads.com/@dnalaez_australia_nz/post/DgRJZwzEovl))
@@ -13,6 +13,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: A whole skull on the deck, teeth and all - where did this o…_
 - **melaco**: Just found it when I was out walking. ([link](https://www.threads.com/@melaco/post/DgRGpwADTjq))
   - _Replying to: A box fan on the curb, cord still trailing behind it like i…_
+- **monaw17**: I spotted Waldo there and left him for others to see 👀 ([link](https://www.threads.com/@monaw17/post/DgRRbHMmyla))
+  - _Replying to: Did you find Waldo there, or leave him there for the next p…_
 - **hummingbird411**: My dog alerted. ([link](https://www.threads.com/@hummingbird411/post/DgRGvzQm0G-))
   - _Replying to: A bird's dropped lunch, right in the middle of the ranch - …_
 - **donnacorser**: A long time, for sure. I captured the picture on a trip to New England years ago. ([link](https://www.threads.com/@donnacorser/post/DgRHC8uDib1))
