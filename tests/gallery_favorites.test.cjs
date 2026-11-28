@@ -48,7 +48,9 @@ function tab(shared, options = {}) {
     'favorite-view', 'copy-favorites', 'reset-favorites', 'status',
     'manual-copy', 'storage-status', 'favorite-count', 'no-favorites',
     'clear-styles', 'visible-count', 'no-style-matches',
+    'topic-filter',
   ]) elements[id] = button();
+  elements['topic-filter'].value = '';
   const styleFilters = ['landscape', 'portrait', 'unknown'].map(value => ({
     value, checked: false,
   }));
@@ -68,8 +70,25 @@ function tab(shared, options = {}) {
     favoriteButton.closest = selector => selector === 'article' ? card : favoriteButton;
     return card;
   });
-  const thread = { hidden: false, querySelectorAll: () => cards };
+  const thread = { hidden: false, dataset: { threadId: '0' }, querySelectorAll: () => cards };
   const topic = { hidden: false, querySelectorAll: () => [thread] };
+  let threads = [thread];
+  let topics = [topic];
+  cards.forEach(card => { card.closest = () => thread; });
+  if (options.splitTopics) {
+    threads = cards.map((card, index) => ({
+      hidden: false, dataset: { threadId: String(index) }, querySelectorAll: () => [card],
+    }));
+    topics = threads.map(thread => ({
+      hidden: false, querySelectorAll: () => [thread],
+    }));
+    cards.forEach((card, index) => { card.closest = () => threads[index]; });
+  }
+  if (options.emptyTopic) {
+    const emptyThread = { hidden: false, dataset: { threadId: 'empty' }, querySelectorAll: () => [] };
+    threads.push(emptyThread);
+    topics.push({ hidden: false, querySelectorAll: () => [emptyThread] });
+  }
   const storage = {
     getItem: name => shared.data.get(name) ?? null,
     setItem(name, value) {
@@ -86,8 +105,8 @@ function tab(shared, options = {}) {
       getElementById: id => elements[id],
       querySelectorAll: selector => ({
         'article[data-reply-url]': cards,
-        '.gallery-thread': [thread],
-        '.gallery-topic': [topic],
+        '.gallery-thread': threads,
+        '.gallery-topic': topics,
         '.thumbnail img': [],
         '.style-filter': styleFilters,
       })[selector],
@@ -110,7 +129,7 @@ function tab(shared, options = {}) {
     return handlers.click({ target });
   };
   return {
-    flags, elements, cards, thread, topic,
+    flags, elements, cards, thread, topic, topics, threads,
     favorite: id => click(cards.find(card => card.dataset.photoId === id).querySelector()),
     reset: () => click(elements['reset-favorites']),
     copy: () => click(elements['copy-favorites']),
@@ -121,10 +140,69 @@ function tab(shared, options = {}) {
       input.checked = !input.checked;
       return handlers.change({ target: input });
     },
+    filterTopic: value => {
+      elements['topic-filter'].value = value;
+      return handlers.change({ target: elements['topic-filter'] });
+    },
     synchronize: () => handlers.storage({ key }),
     selected: () => JSON.parse(vm.runInContext('JSON.stringify([...favorites].sort())', context)),
   };
 }
+
+test('topic selection hides other topics and All topics restores them', async () => {
+  const a = tab(sharedState(), { splitTopics: true });
+  await a.filterTopic('1');
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, false]);
+  assert.deepEqual(a.topics.map(topic => topic.hidden), [true, false]);
+  assert.equal(a.elements['visible-count'].textContent, '1 of 2 images shown');
+  await a.filterTopic('');
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, false]);
+  assert.deepEqual(a.topics.map(topic => topic.hidden), [false, false]);
+});
+
+test('individual prompts can be selected within the same broad topic group', async () => {
+  const a = tab(sharedState(), { splitTopics: true });
+  a.topics[0].querySelectorAll = () => a.threads;
+  a.topics.pop();
+  await a.filterTopic('1');
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, false]);
+  assert.deepEqual(a.threads.map(thread => thread.hidden), [true, false]);
+  assert.equal(a.topics[0].hidden, false);
+  await a.filterTopic('0');
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, true]);
+  assert.equal(a.topics[0].hidden, false);
+});
+
+test('topic selection intersects styles and favorites without changing copies or saved picks', async () => {
+  const shared = sharedState(['a', 'b']);
+  const a = tab(shared, { splitTopics: true, clipboardDenied: true });
+  await a.viewFavorites();
+  await a.filterTopic('1');
+  await a.filter('landscape');
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, true]);
+  assert.equal(a.elements['no-favorites'].hidden, false);
+  await a.clearStyles();
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, false]);
+  await a.copy();
+  assert.equal(a.elements['manual-copy'].value, 'https://example.com/a\nhttps://example.com/b');
+  await a.filterTopic('0');
+  assert.equal(a.elements['manual-copy'].hidden, true);
+  assert.deepEqual(a.cards.map(card => card.hidden), [false, true]);
+  assert.deepEqual(shared.saved(), ['a', 'b']);
+});
+
+test('topics without photos remain visible unless styles or favorites are filtering', async () => {
+  const a = tab(sharedState(), { emptyTopic: true });
+  await a.filterTopic('empty');
+  assert.deepEqual(a.cards.map(card => card.hidden), [true, true]);
+  assert.deepEqual(a.topics.map(topic => topic.hidden), [true, false]);
+  assert.equal(a.elements['visible-count'].textContent, '0 of 2 images shown');
+  await a.filter('landscape');
+  assert.deepEqual(a.topics.map(topic => topic.hidden), [true, true]);
+  assert.equal(a.elements['no-style-matches'].hidden, false);
+  await a.clearStyles();
+  assert.deepEqual(a.topics.map(topic => topic.hidden), [true, false]);
+});
 
 test('style filters match any selected style and clearing restores the gallery', async () => {
   const a = tab(sharedState());

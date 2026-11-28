@@ -1,6 +1,7 @@
 import json
 import tempfile
 import unittest
+from html import escape
 from html.parser import HTMLParser
 from pathlib import Path
 from unittest.mock import patch
@@ -246,6 +247,34 @@ class ReplyGalleryTests(unittest.TestCase):
         html, markdown = reply_gallery.render_gallery(self.collect([]), "now")
         self.assertIn("No reply images.", html)
         self.assertIn("Show your photos", markdown)
+
+    def test_topic_selector_distinguishes_threads_and_escapes_labels_and_ids(self):
+        threads = self.collect([self.photo])
+        threads[0]["topic"] = 'Nature & "<trees>"'
+        threads.extend([
+            {**threads[0], "id": 'same-"topic'},
+            {**threads[0], "id": "different-topic", "group": 7, "photos": []},
+        ])
+        html, _ = reply_gallery.render_gallery(threads, "now")
+        self.assertIn('<label for="topic-filter">Topic</label>', html)
+        self.assertIn('<option value="">All topics</option>', html)
+        self.assertEqual(html.count('<optgroup label="Nature &amp; &quot;&lt;trees&gt;&quot;">'), 2)
+        self.assertIn('<option value="root" title="Show your photos">Show your photos</option>', html)
+        self.assertIn('<option value="same-&quot;topic"', html)
+        self.assertIn('data-thread-id="same-&quot;topic"', html)
+        self.assertIn('<option value="different-topic"', html)
+        self.assertEqual(html.count('<div class="gallery-thread" data-thread-id='), 3)
+        self.assertNotIn("{{TOPIC_OPTIONS}}", html)
+
+    def test_long_topic_prompt_has_a_short_label_and_full_title(self):
+        threads = self.collect([])
+        threads[0]["text"] = "A <prompt> " * 20
+        html, _ = reply_gallery.render_gallery(threads, "now")
+        text = " ".join(threads[0]["text"].split())
+        self.assertIn(
+            f'<option value="root" title="{escape(text)}">{escape(text[:97])}...</option>',
+            html,
+        )
 
     def test_favorites_controls_and_reply_urls_are_rendered_for_each_image(self):
         class GalleryParser(HTMLParser):

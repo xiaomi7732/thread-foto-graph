@@ -132,17 +132,25 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
     groups: dict[int, list[dict]] = {}
     for thread in threads:
         groups.setdefault(thread["group"], []).append(thread)
+    topic_options = []
     for members in groups.values():
         topic = escape(members[0]["topic"])
+        topic_options.append(f'<optgroup label="{topic}">')
         markdown.extend([f"<h2>{topic}</h2>", ""])
         sections.append(f'<section class="gallery-topic"><h2>{topic}</h2>')
         for thread in members:
-            title = escape(" ".join(thread["text"].split()))
+            text = " ".join(thread["text"].split())
+            title = escape(text)
+            thread_id = escape(thread["id"], quote=True)
+            option_label = escape(text if len(text) <= 100 else text[:97] + "...")
+            topic_options.append(
+                f'<option value="{thread_id}" title="{title}">{option_label}</option>'
+            )
             url = escape(thread["url"], quote=True)
             heading = f'<h3><a href="{url}">{title}</a></h3>'
             markdown.extend([heading, ""])
             sections.append(
-                '<div class="gallery-thread">'
+                f'<div class="gallery-thread" data-thread-id="{thread_id}">'
                 + heading + _button("Copy thread link", thread["url"])
             )
             if not thread["photos"]:
@@ -186,6 +194,7 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
                 )
             sections.append("</div></div>")
         sections.append("</section>")
+        topic_options.append("</optgroup>")
     if not threads:
         markdown.extend(["No current topics.", ""])
         sections.append("<p>No current topics.</p>")
@@ -197,7 +206,9 @@ def render_gallery(threads: list[dict], generated: str) -> tuple[str, str]:
     controls = _button("Copy all Markdown", md, "all-markdown")
     controls += _button("Copy all image links", links, "all-links")
     template = (Path(__file__).with_name("reply_gallery.html")).read_text(encoding="utf-8")
-    html = template.replace("{{NOTE}}", escape(note)).replace("{{STYLE_FILTERS}}", style_filters).replace(
+    html = template.replace("{{TOPIC_OPTIONS}}", "\n".join(topic_options)).replace(
+        "{{NOTE}}", escape(note)
+    ).replace("{{STYLE_FILTERS}}", style_filters).replace(
         "{{CONTENT}}", controls + "\n".join(sections)
     )
     return html, md

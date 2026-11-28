@@ -30,11 +30,18 @@
   <h1>Reply image gallery</h1>
   <p>{{NOTE}}</p>
   <p>Click a thumbnail to open that image; use Reply to open its conversation. Markdown copies include linked thumbnails, not image files. Image links can expire; rerun the gallery action to refresh them. If an image URL is missing, copies use its reply link instead.</p>
+  <p>
+    <label for="topic-filter">Topic</label>
+    <select id="topic-filter">
+      <option value="">All topics</option>
+      {{TOPIC_OPTIONS}}
+    </select>
+  </p>
   <fieldset class="styles-toolbar">
     <legend>Photo styles</legend>
     {{STYLE_FILTERS}}
     <button type="button" id="clear-styles" disabled>Show all styles</button>
-    <p>Photo type labels are grouped into a small set of broad styles. Each photo belongs to one group; its original label is shown on the card. Other contains labels outside these groups; uncached or unclassified photos are Unknown. Select any matching styles, or none to show all. Filters only change the view; copy buttons still include all their images.</p>
+    <p>Photo type labels are grouped into a small set of broad styles. Each photo belongs to one group; its original label is shown on the card. Other contains labels outside these groups; uncached or unclassified photos are Unknown. Select any matching styles, or none to show all. Topic and style filters only change the view; copy buttons still include all their images.</p>
     <span id="visible-count" role="status" aria-live="polite"></span>
   </fieldset>
   <div class="favorites-toolbar" role="group" aria-label="Favorites">
@@ -48,13 +55,15 @@
   <p id="status" role="status" aria-live="polite"></p>
   <textarea id="manual-copy" aria-label="Copy manually" hidden readonly></textarea>
   <p id="no-favorites" hidden>No favorites in this gallery. Choose Show all images to start picking.</p>
-  <p id="no-style-matches" hidden>No images match the selected photo styles. Choose Show all styles to clear the filter.</p>
+  <p id="no-style-matches" hidden>No images match the selected photo styles in the selected topic. Choose Show all styles or All topics to clear the filters.</p>
   <main>{{CONTENT}}</main>
   <script>
     const storageKey = 'thread-foto-graph:reply-image-favorites:v1';
     const favorites = new Set();
     const pendingFavoriteChanges = [];
     const cards = [...document.querySelectorAll('article[data-reply-url]')];
+    const topics = [...document.querySelectorAll('.gallery-topic')];
+    const topicFilter = document.getElementById('topic-filter');
     const styleFilters = [...document.querySelectorAll('.style-filter')];
     const clearStyles = document.getElementById('clear-styles');
     const favoriteView = document.getElementById('favorite-view');
@@ -147,12 +156,14 @@
 
     function updateFavorites() {
       const selectedStyles = new Set(styleFilters.filter(input => input.checked).map(input => input.value));
+      const selectedTopic = topicFilter.value;
       const filtering = favoritesOnly || selectedStyles.size > 0;
       const selectedCards = cards.filter(card => favorites.has(card.dataset.photoId));
       cards.forEach(card => {
         const selected = favorites.has(card.dataset.photoId);
         card.classList.toggle('favorite', selected);
-        card.hidden = (favoritesOnly && !selected) ||
+        card.hidden = (selectedTopic !== '' && card.closest('.gallery-thread').dataset.threadId !== selectedTopic) ||
+          (favoritesOnly && !selected) ||
           (selectedStyles.size > 0 && !selectedStyles.has(card.dataset.photoStyle || 'unknown'));
         const button = card.querySelector('.favorite-toggle');
         button.setAttribute('aria-pressed', String(selected));
@@ -160,10 +171,12 @@
         button.setAttribute('aria-disabled', String(savingFavorites));
       });
       document.querySelectorAll('.gallery-thread').forEach(thread => {
-        thread.hidden = filtering && ![...thread.querySelectorAll('article')].some(card => !card.hidden);
+        thread.hidden = (selectedTopic !== '' && thread.dataset.threadId !== selectedTopic) ||
+          (filtering && ![...thread.querySelectorAll('article')].some(card => !card.hidden));
       });
-      document.querySelectorAll('.gallery-topic').forEach(topic => {
-        topic.hidden = filtering && ![...topic.querySelectorAll('.gallery-thread')].some(thread => !thread.hidden);
+      topics.forEach(topic => {
+        topic.hidden = (selectedTopic !== '' || filtering) &&
+          ![...topic.querySelectorAll('.gallery-thread')].some(thread => !thread.hidden);
       });
       document.getElementById('favorite-count').textContent =
         `${selectedCards.length} favorite${selectedCards.length === 1 ? '' : 's'}` +
@@ -176,7 +189,7 @@
       const noFavorites = document.getElementById('no-favorites');
       noFavorites.hidden = !favoritesOnly || visibleCount > 0;
       noFavorites.textContent = selectedCards.length > 0
-        ? 'No favorites match the selected photo styles. Choose Show all styles to see your picks.'
+        ? 'No favorites match the selected topic or photo styles. Choose All topics and Show all styles to see your picks.'
         : 'No favorites in this gallery. Choose Show all images to start picking.';
       favoriteView.setAttribute('aria-pressed', String(favoritesOnly));
       favoriteView.textContent = favoritesOnly ? 'Show all images' : 'Show favorites';
@@ -244,7 +257,7 @@
       }
     });
     document.addEventListener('change', event => {
-      if (!styleFilters.includes(event.target)) return;
+      if (event.target !== topicFilter && !styleFilters.includes(event.target)) return;
       clearCopyState();
       updateFavorites();
     });
