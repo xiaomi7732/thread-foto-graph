@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 196,
+      "reply_count": 197,
       "replies": [
         {
           "username": "owenstewartjr",
@@ -143,7 +143,18 @@
               "needs_response": false,
               "action": null,
               "hidden": false,
-              "replies": []
+              "replies": [
+                {
+                  "username": "oznatureart",
+                  "text": "It is at the Corsco on the way to the popular Manly beach in Sydney.. it's unknown to me how long it had been there but it does look cared for \u263a\ufe0f",
+                  "permalink": "https://www.threads.com/@oznatureart/post/DgRBZL8EVyW",
+                  "photos": [],
+                  "needs_response": true,
+                  "action": "reply",
+                  "hidden": false,
+                  "replies": []
+                }
+              ]
             }
           ]
         },

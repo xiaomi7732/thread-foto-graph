@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (75)
+## Needs Reply (76)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **owenstewartjr**:  ([link](https://www.threads.com/@owenstewartjr/post/DgQ7tzWEXuT))
@@ -31,6 +31,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
     - Watch-outs: - Foreground branches obscure the truck’s front grille and hood area, reducing visibility of those features. - Background is overexposed, causing loss of detail in tree trunks and sky, particularly in the upper right quadrant.
 - **hummingbird411**: Out in the middle of a huge ranch. I can only assume a bird dropped it? ([link](https://www.threads.com/@hummingbird411/post/DgQtXXiG6qd))
   - Photo: Description: A partially decomposed animal carcass, including a skull and ribcage, lies on a ground surface of dry grass, small stones, and scattered debris. Photograph read: The image is taken from a high angle, with direct sunlight casting sharp shadows. The subject is in focus, but the surrounding ground shows no signs of motion blur or focus falloff. Color saturation is natural, and contrast is moderate. Photo type: Documentary
+- **oznatureart**: It is at the Corsco on the way to the popular Manly beach in Sydney.. it's unknown to me how long it had been there but it does look cared for ☺️ ([link](https://www.threads.com/@oznatureart/post/DgRBZL8EVyW))
+  - _Replying to: The wicker basket is empty and the bench is doing all the s…_
 - **anthonywood1277**: Yeah I new the wreck was there, I have been to this beach many times ([link](https://www.threads.com/@anthonywood1277/post/DgQr30Ek8Ig))
   - _Replying to: Those blackened ribs sticking out of the sand look like the…_
 - **medium.gords7**: I like to think it’s still being used. 😀 I took this photo in Ireland 10 years ago. ([link](https://www.threads.com/@medium.gords7/post/DgQ3zHtGzhP))
