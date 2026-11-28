@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (66)
+## Needs Reply (67)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **dwordops**: Runway on a closed airport ([link](https://www.threads.com/@dwordops/post/DgRVTDLjd8v))
+  - Photo: Description: The image shows a long, straight asphalt runway or road extending into the distance, flanked by dry grass and bare trees under an overcast sky. The surface exhibits wear, with cracked and patched sections. Photograph read: The composition is centered on the runway, receding into the horizon. Lighting is diffuse and even, with no strong shadows or highlights. The image has a muted color palette and appears to be rendered with a slightly grainy or textured quality. Photo type: Documentary
+    - Watch-outs: - The runway surface shows significant cracking and patching, particularly in the foreground and mid-ground, which reduces texture clarity. - The horizon is hazy and indistinct, obscuring fine detail in the distant landscape and trees.
 - **kellsmt365**: Forgotten dock in Belize. ([link](https://www.threads.com/@kellsmt365/post/DgRSwhZlBfa))
   - Photo: Description: Pelicans and seagulls perch on weathered wooden pilings in shallow, clear turquoise water under a heavy, dark cloud cover; a small boat is visible in the distance. Photograph read: The image is composed with the pilings receding into the water and sky, featuring a strong contrast between the bright water and dark clouds. Lighting is diffuse, with no direct sunlight visible, resulting in muted tones and no harsh shadows. The water’s clarity allows for visible seabed textures, but the pilings and birds show no signs of motion blur or focus issues. Photo type: Natural landscape
 - **dnalaez_australia_nz**: Left on a track where I go walking ([link](https://www.threads.com/@dnalaez_australia_nz/post/DgRJZwzEovl))

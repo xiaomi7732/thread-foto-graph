@@ -10,8 +10,23 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 224,
+      "reply_count": 225,
       "replies": [
+        {
+          "username": "dwordops",
+          "text": "Runway on a closed airport",
+          "permalink": "https://www.threads.com/@dwordops/post/DgRVTDLjd8v",
+          "photos": [
+            "Description: The image shows a long, straight asphalt runway or road extending into the distance, flanked by dry grass and bare trees under an overcast sky. The surface exhibits wear, with cracked and patched sections. Photograph read: The composition is centered on the runway, receding into the horizon. Lighting is diffuse and even, with no strong shadows or highlights. The image has a muted color palette and appears to be rendered with a slightly grainy or textured quality. Photo type: Documentary"
+          ],
+          "watch_outs": [
+            "- The runway surface shows significant cracking and patching, particularly in the foreground and mid-ground, which reduces texture clarity. - The horizon is hazy and indistinct, obscuring fine detail in the distant landscape and trees."
+          ],
+          "needs_response": true,
+          "action": "reply",
+          "hidden": false,
+          "replies": []
+        },
         {
           "username": "kellsmt365",
           "text": "Forgotten dock in Belize.",
