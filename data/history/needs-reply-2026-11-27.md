@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (66)
+## Needs Reply (67)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DgRclkTjFvq))
+  - Photo: Description: A pacifier with a light purple shield and yellow nipple is attached to a dried, branched plant with seed heads, set against a backdrop of green forest foliage and trees. Photograph read: The image is taken outdoors with natural daylight; the foreground subject is in focus, while the background is softly blurred. The lighting is even, with no visible harsh shadows or overexposed areas. Photo type: Natural
 - **dwordops**: Runway on a closed airport ([link](https://www.threads.com/@dwordops/post/DgRVTDLjd8v))
   - Photo: Description: The image shows a long, straight asphalt runway or road extending into the distance, flanked by dry grass and bare trees under an overcast sky. The surface exhibits wear, with cracked and patched sections. Photograph read: The composition is centered on the runway, receding into the horizon. Lighting is diffuse and even, with no strong shadows or highlights. The image has a muted color palette and appears to be rendered with a slightly grainy or textured quality. Photo type: Documentary
     - Watch-outs: - The runway surface shows significant cracking and patching, particularly in the foreground and mid-ground, which reduces texture clarity. - The horizon is hazy and indistinct, obscuring fine detail in the distant landscape and trees.
