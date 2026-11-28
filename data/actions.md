@@ -6,11 +6,15 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (62)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **melaco**: Just found it when I was out walking. ([link](https://www.threads.com/@melaco/post/DgRGpwADTjq))
   - _Replying to: A box fan on the curb, cord still trailing behind it like i…_
+- **hummingbird411**: My dog alerted. ([link](https://www.threads.com/@hummingbird411/post/DgRGvzQm0G-))
+  - _Replying to: A bird's dropped lunch, right in the middle of the ranch - …_
+- **donnacorser**: A long time, for sure. I captured the picture on a trip to New England years ago. ([link](https://www.threads.com/@donnacorser/post/DgRHC8uDib1))
+  - _Replying to: The vines have moved in through the spokes and the wheel ha…_
 - **ben.bennion**:  ([link](https://www.threads.com/@ben.bennion/post/DgQrz1wAshp))
   - Photo: Description: An elderly woman with short, light-colored hair stands on a pebble beach, holding two smooth, rounded stones, with the sea and a cloudy sky in the background. Photograph read: The image is evenly lit under an overcast sky, with no visible shadows or high-contrast areas. The subject is in focus, and the background shows a shallow depth of field, blurring the distant shoreline and sea. The rendering is clean, with no visible digital artifacts or motion blur. Photo type: Portrait
   - _Replying to: I photographed my mother holding one and made her put it ba…_
@@ -174,9 +178,10 @@ _Flat list of short text-only acknowledgements and common thanks/praise still aw
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Like (24)
+## Needs Like (25)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- scott6666a: Thank you ([link](https://www.threads.com/@scott6666a/post/DgRG5Aqmq86))
 - tiffany.art2020: Nature’s microcosm! ([link](https://www.threads.com/@tiffany.art2020/post/DgQULbeG6vG))
 - kidsdrs: From visit. ([link](https://www.threads.com/@kidsdrs/post/DgQQ6B5mHkI))
 
