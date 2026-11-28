@@ -6,7 +6,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (68)
 
 ### Left Behind Friday favorites 🏆 5 left-behinds that stopped … ([thread](https://www.threads.com/@saars.foto/post/DgRxb2aHEB4))
 - **fabienne_journey**: Congrats everyone, I will definitely try to do better. ([link](https://www.threads.com/@fabienne_journey/post/DgR7MpQDr_7))
@@ -15,6 +15,8 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - _Replying to: @owenstewartjr The middle slide of the Left Behind Friday f…_
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **keithandrewbell**:  ([link](https://www.threads.com/@keithandrewbell/post/DgSJSorCNnB))
+  - Photo: Description: A child’s bicycle with a green and blue Batman-themed frame lies on its side on a forest floor covered in dry leaves and exposed tree roots, resting against a fallen log. Photograph read: The image is taken from a slightly elevated angle, with natural daylight illuminating the scene. The focus is generally sharp on the bicycle and surrounding foliage, though some areas of the background are less distinct. The rendering preserves texture and color without obvious distortion or color shift. Photo type: Natural
 - **lizetteniemand**: It's been gone when I walked around that dirt road again. ([link](https://www.threads.com/@lizetteniemand/post/DgR7hVliOex))
   - _Replying to: A whole small life out there in the grass - matted fur, one…_
 - **ulrike6417**: Ich denke, ein Baby hat es verloren, und jemand hat es dort hingehängt! ([link](https://www.threads.com/@ulrike6417/post/DgRl-NHAKU7))
