@@ -4,9 +4,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (66)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **kellsmt365**: Forgotten dock in Belize. ([link](https://www.threads.com/@kellsmt365/post/DgRSwhZlBfa))
+  - Photo: Description: Pelicans and seagulls perch on weathered wooden pilings in shallow, clear turquoise water under a heavy, dark cloud cover; a small boat is visible in the distance. Photograph read: The image is composed with the pilings receding into the water and sky, featuring a strong contrast between the bright water and dark clouds. Lighting is diffuse, with no direct sunlight visible, resulting in muted tones and no harsh shadows. The water’s clarity allows for visible seabed textures, but the pilings and birds show no signs of motion blur or focus issues. Photo type: Natural landscape
 - **dnalaez_australia_nz**: Left on a track where I go walking ([link](https://www.threads.com/@dnalaez_australia_nz/post/DgRJZwzEovl))
   - Photo: Description: A single, heavily damaged light blue sneaker lies on reddish-brown, gravelly ground, partially covered by green and brown vegetation and dry twigs. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The sneaker is the central focus, showing cracked paint, torn material, and exposed inner lining. The surrounding ground and vegetation are in focus, with no visible motion blur or focus falloff. Photo type: Documentary
 - **chandlerwarren**: A raccoon skeleton discovered on our lawn at the beach early last spring. ([link](https://www.threads.com/@chandlerwarren/post/DgRLkD9GwHz))
