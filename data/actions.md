@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (73)
+## Needs Reply (74)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **melaco**:  ([link](https://www.threads.com/@melaco/post/DgQ7GNeDbZ-))
+  - Photo: Description: A disassembled ceiling fan with a white motor and five blades lies on grass next to a concrete sidewalk, with its power cord extending toward the left; a person’s feet are visible in the bottom right corner, and a black trash bag rests on the curb to the upper left. Photograph read: The image is taken from a high angle, with even, diffuse daylight illuminating the scene. The fan and surrounding area are in focus, with no visible motion blur or distortion. The composition is straightforward, capturing the fan, grass, sidewalk, and partial person without artistic framing. Photo type: Documentary
 - **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgQ3JS9kr_K))
   - Photo: Description: An abandoned outdoor space features a single black chair on a concrete slab, with a graffiti-tagged wall behind it and overgrown vegetation surrounding the area. Photograph read: The image is captured in natural daylight with even illumination across the scene. The composition centers the chair, with the graffiti wall as a backdrop. The rendering preserves visible texture on the wall, ground, and chair, with no apparent distortion or color aberration. Photo type: Documentary
 - **monaw17**:  ([link](https://www.threads.com/@monaw17/post/DgQyqAskjha))
