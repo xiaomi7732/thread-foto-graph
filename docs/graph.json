@@ -21,7 +21,7 @@
         "",
         ""
       ],
-      "reply_count": 7,
+      "reply_count": 8,
       "replies": [
         {
           "username": "fabienne_journey",
@@ -71,7 +71,18 @@
           "needs_response": false,
           "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "owenstewartjr",
+              "text": "I looked up the band a while back \u2026.. they were kinda like a bluegrass folk fusion outfit. They reminded me of Mumford and Sons mixed with maybe The Proclaimers. I\u2019m not sure how the bus got there. I was driving to get takeout and had a film camera with me that I was testing out, when I saw it. It was sitting in what looked like the front yard of a business that looked like it was a residential building at some point in time.",
+              "permalink": "https://www.threads.com/@owenstewartjr/post/DgSCpMem9_X",
+              "photos": [],
+              "needs_response": true,
+              "action": "reply",
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "saars.foto",

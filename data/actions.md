@@ -6,11 +6,13 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (65)
+## Needs Reply (66)
 
 ### Left Behind Friday favorites 🏆 5 left-behinds that stopped … ([thread](https://www.threads.com/@saars.foto/post/DgRxb2aHEB4))
 - **fabienne_journey**: Congrats everyone, I will definitely try to do better. ([link](https://www.threads.com/@fabienne_journey/post/DgR7MpQDr_7))
 - **2killamockingbird**: Fantastic collection ,great choice Saars.... ([link](https://www.threads.com/@2killamockingbird/post/DgR0uc1gAva))
+- **owenstewartjr**: I looked up the band a while back ….. they were kinda like a bluegrass folk fusion outfit. They reminded me of Mumford and Sons mixed with maybe The Proclaimers. I’m not sure how the bus got there. I was driving to get takeout and had a film camera with me that I was testing out, when I saw it. It was sitting in what looked like the front yard of a business that looked like it was a residential building at some point in time. ([link](https://www.threads.com/@owenstewartjr/post/DgSCpMem9_X))
+  - _Replying to: @owenstewartjr The middle slide of the Left Behind Friday f…_
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **lizetteniemand**: It's been gone when I walked around that dirt road again. ([link](https://www.threads.com/@lizetteniemand/post/DgR7hVliOex))
