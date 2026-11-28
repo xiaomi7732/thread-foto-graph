@@ -4,28 +4,9 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (58)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
-- **ulrike6417**:  ([link](https://www.threads.com/@ulrike6417/post/DgRclkTjFvq))
-  - Photo: Description: A pacifier with a light purple shield and yellow nipple is attached to a dried, branched plant with seed heads, set against a backdrop of green forest foliage and trees. Photograph read: The image is taken outdoors with natural daylight; the foreground subject is in focus, while the background is softly blurred. The lighting is even, with no visible harsh shadows or overexposed areas. Photo type: Natural
-- **dwordops**: Runway on a closed airport ([link](https://www.threads.com/@dwordops/post/DgRVTDLjd8v))
-  - Photo: Description: The image shows a long, straight asphalt runway or road extending into the distance, flanked by dry grass and bare trees under an overcast sky. The surface exhibits wear, with cracked and patched sections. Photograph read: The composition is centered on the runway, receding into the horizon. Lighting is diffuse and even, with no strong shadows or highlights. The image has a muted color palette and appears to be rendered with a slightly grainy or textured quality. Photo type: Documentary
-    - Watch-outs: - The runway surface shows significant cracking and patching, particularly in the foreground and mid-ground, which reduces texture clarity. - The horizon is hazy and indistinct, obscuring fine detail in the distant landscape and trees.
-- **kellsmt365**: Forgotten dock in Belize. ([link](https://www.threads.com/@kellsmt365/post/DgRSwhZlBfa))
-  - Photo: Description: Pelicans and seagulls perch on weathered wooden pilings in shallow, clear turquoise water under a heavy, dark cloud cover; a small boat is visible in the distance. Photograph read: The image is composed with the pilings receding into the water and sky, featuring a strong contrast between the bright water and dark clouds. Lighting is diffuse, with no direct sunlight visible, resulting in muted tones and no harsh shadows. The water’s clarity allows for visible seabed textures, but the pilings and birds show no signs of motion blur or focus issues. Photo type: Natural landscape
-- **dnalaez_australia_nz**: Left on a track where I go walking ([link](https://www.threads.com/@dnalaez_australia_nz/post/DgRJZwzEovl))
-  - Photo: Description: A single, heavily damaged light blue sneaker lies on reddish-brown, gravelly ground, partially covered by green and brown vegetation and dry twigs. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The sneaker is the central focus, showing cracked paint, torn material, and exposed inner lining. The surrounding ground and vegetation are in focus, with no visible motion blur or focus falloff. Photo type: Documentary
-- **chandlerwarren**: A raccoon skeleton discovered on our lawn at the beach early last spring. ([link](https://www.threads.com/@chandlerwarren/post/DgRLkD9GwHz))
-  - _Replying to: A whole skull on the deck, teeth and all - where did this o…_
-- **melaco**: Just found it when I was out walking. ([link](https://www.threads.com/@melaco/post/DgRGpwADTjq))
-  - _Replying to: A box fan on the curb, cord still trailing behind it like i…_
-- **monaw17**: I spotted Waldo there and left him for others to see 👀 ([link](https://www.threads.com/@monaw17/post/DgRRbHMmyla))
-  - _Replying to: Did you find Waldo there, or leave him there for the next p…_
-- **hummingbird411**: My dog alerted. ([link](https://www.threads.com/@hummingbird411/post/DgRGvzQm0G-))
-  - _Replying to: A bird's dropped lunch, right in the middle of the ranch - …_
-- **donnacorser**: A long time, for sure. I captured the picture on a trip to New England years ago. ([link](https://www.threads.com/@donnacorser/post/DgRHC8uDib1))
-  - _Replying to: The vines have moved in through the spokes and the wheel ha…_
 - **ben.bennion**:  ([link](https://www.threads.com/@ben.bennion/post/DgQrz1wAshp))
   - Photo: Description: An elderly woman with short, light-colored hair stands on a pebble beach, holding two smooth, rounded stones, with the sea and a cloudy sky in the background. Photograph read: The image is evenly lit under an overcast sky, with no visible shadows or high-contrast areas. The subject is in focus, and the background shows a shallow depth of field, blurring the distant shoreline and sea. The rendering is clean, with no visible digital artifacts or motion blur. Photo type: Portrait
   - _Replying to: I photographed my mother holding one and made her put it ba…_

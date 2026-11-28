@@ -10,7 +10,7 @@
       "photos": [
         "Description: A worn skateboard rests on a paved surface, surrounded by out-of-focus green and yellow foliage in the background. Photograph read: The image features a shallow depth of field with the skateboard in focus, while the background is softly blurred. Lighting appears natural and diffused, casting no harsh shadows. The rendering preserves texture on the skateboard\u2019s deck and wheels, though the background remains indistinct. Photo type: Natural"
       ],
-      "reply_count": 223,
+      "reply_count": 232,
       "replies": [
         {
           "username": "ulrike6417",
@@ -19,10 +19,21 @@
           "photos": [
             "Description: A pacifier with a light purple shield and yellow nipple is attached to a dried, branched plant with seed heads, set against a backdrop of green forest foliage and trees. Photograph read: The image is taken outdoors with natural daylight; the foreground subject is in focus, while the background is softly blurred. The lighting is even, with no visible harsh shadows or overexposed areas. Photo type: Natural"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Hung on the branch like a tiny trophy - was it left there on purpose, or did the plant just claim it?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgRhZfeFsmc",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dwordops",
@@ -34,10 +45,21 @@
           "watch_outs": [
             "- The runway surface shows significant cracking and patching, particularly in the foreground and mid-ground, which reduces texture clarity. - The horizon is hazy and indistinct, obscuring fine detail in the distant landscape and trees."
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "All that runway and nowhere left to land - the cracks and the wet patches say it all.",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgRharhACdN",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "kellsmt365",
@@ -46,10 +68,21 @@
           "photos": [
             "Description: Pelicans and seagulls perch on weathered wooden pilings in shallow, clear turquoise water under a heavy, dark cloud cover; a small boat is visible in the distance. Photograph read: The image is composed with the pilings receding into the water and sky, featuring a strong contrast between the bright water and dark clouds. Lighting is diffuse, with no direct sunlight visible, resulting in muted tones and no harsh shadows. The water\u2019s clarity allows for visible seabed textures, but the pilings and birds show no signs of motion blur or focus issues. Photo type: Natural landscape"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Did the pelicans move in after the dock gave up, or were they the landlords all along?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgRhcBPle7S",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "dnalaez_australia_nz",
@@ -58,10 +91,21 @@
           "photos": [
             "Description: A single, heavily damaged light blue sneaker lies on reddish-brown, gravelly ground, partially covered by green and brown vegetation and dry twigs. Photograph read: The image is taken from a high angle, with natural daylight illuminating the scene. The sneaker is the central focus, showing cracked paint, torn material, and exposed inner lining. The surrounding ground and vegetation are in focus, with no visible motion blur or focus falloff. Photo type: Documentary"
           ],
-          "needs_response": true,
-          "action": "reply",
+          "needs_response": false,
+          "action": null,
           "hidden": false,
-          "replies": []
+          "replies": [
+            {
+              "username": "saars.foto",
+              "text": "Sole peeling, laces gone, half swallowed by the track - how long do you think that shoe waited there?",
+              "permalink": "https://www.threads.com/@saars.foto/post/DgRhdD_llt5",
+              "photos": [],
+              "needs_response": false,
+              "action": null,
+              "hidden": false,
+              "replies": []
+            }
+          ]
         },
         {
           "username": "chandlerwarren",
@@ -88,10 +132,21 @@
                   "text": "A raccoon skeleton discovered on our lawn at the beach early last spring.",
                   "permalink": "https://www.threads.com/@chandlerwarren/post/DgRLkD9GwHz",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "That is a proper beach find - thanks for the story behind it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgRheGggPw6",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -148,10 +203,21 @@
                   "text": "Just found it when I was out walking.",
                   "permalink": "https://www.threads.com/@melaco/post/DgRGpwADTjq",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "A curbside rescue with a story attached - glad it found you on that walk.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgRhfGhDph_",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -208,10 +274,21 @@
                   "text": "I spotted Waldo there and left him for others to see \ud83d\udc40",
                   "permalink": "https://www.threads.com/@monaw17/post/DgRRbHMmyla",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Left for the next walker - that is exactly the spirit of the day. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgRhgNyDifB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -321,10 +398,21 @@
                   "text": "My dog alerted.",
                   "permalink": "https://www.threads.com/@hummingbird411/post/DgRGvzQm0G-",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Good dog, and a sharp eye on your part too. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgRhhZBlVqr",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
@@ -426,10 +514,21 @@
                   "text": "A long time, for sure. I captured the picture on a trip to New England years ago.",
                   "permalink": "https://www.threads.com/@donnacorser/post/DgRHC8uDib1",
                   "photos": [],
-                  "needs_response": true,
-                  "action": "reply",
+                  "needs_response": false,
+                  "action": null,
                   "hidden": false,
-                  "replies": []
+                  "replies": [
+                    {
+                      "username": "saars.foto",
+                      "text": "Years later and the wheel still holds the trip - a lovely keepsake. Thanks for sharing it.",
+                      "permalink": "https://www.threads.com/@saars.foto/post/DgRhibVEbkB",
+                      "photos": [],
+                      "needs_response": false,
+                      "action": null,
+                      "hidden": false,
+                      "replies": []
+                    }
+                  ]
                 }
               ]
             }
