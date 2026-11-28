@@ -6,7 +6,10 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (60)
+## Needs Reply (61)
+
+### Left Behind Friday favorites 🏆 5 left-behinds that stopped … ([thread](https://www.threads.com/@saars.foto/post/DgRxb2aHEB4))
+- **2killamockingbird**: Fantastic collection ,great choice Saars.... ([link](https://www.threads.com/@2killamockingbird/post/DgR0uc1gAva))
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **ulrike6417**: Ich denke, ein Baby hat es verloren, und jemand hat es dort hingehängt! ([link](https://www.threads.com/@ulrike6417/post/DgRl-NHAKU7))
