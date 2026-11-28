@@ -6,9 +6,11 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (58)
+## Needs Reply (59)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **lizetteniemand**:  ([link](https://www.threads.com/@lizetteniemand/post/DgRibjWCHkv))
+  - Photo: Description: A worn, light-colored stuffed toy lies in a field of dry grass and scattered yellow flowers, partially buried in soil. Photograph read: The image is taken at eye level with natural daylight; the foreground subject is in focus, while the background is softly blurred. The toy’s texture and surrounding vegetation are visible, but the image lacks sharpness in the mid-ground. Photo type: Natural
 - **ben.bennion**:  ([link](https://www.threads.com/@ben.bennion/post/DgQrz1wAshp))
   - Photo: Description: An elderly woman with short, light-colored hair stands on a pebble beach, holding two smooth, rounded stones, with the sea and a cloudy sky in the background. Photograph read: The image is evenly lit under an overcast sky, with no visible shadows or high-contrast areas. The subject is in focus, and the background shows a shallow depth of field, blurring the distant shoreline and sea. The rendering is clean, with no visible digital artifacts or motion blur. Photo type: Portrait
   - _Replying to: I photographed my mother holding one and made her put it ba…_
