@@ -6,9 +6,12 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (74)
+## Needs Reply (75)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
+- **owenstewartjr**:  ([link](https://www.threads.com/@owenstewartjr/post/DgQ7tzWEXuT))
+  - Photo: Description: An old, silver-colored bus with “THE STOWES” lettering on the front is partially obscured by overgrown, dry vegetation and fallen leaves, parked in an unkempt outdoor area with bare trees and a fence in the background. Photograph read: The image has a warm, slightly faded color tone with visible grain. Lighting appears to be natural daylight, casting soft shadows. The composition centers the bus, with foreground vegetation partially obscuring the lower portion of the vehicle. The bus’s windows and front grille are visible, though reflections and dirt reduce clarity. Photo type: Film photograph
+    - Watch-outs: - Foreground vegetation and leaves obscure the lower front bumper and wheel area, reducing visibility of the vehicle’s ground contact and lower details. - Reflections and dirt on the bus’s windshield and windows reduce clarity of interior features and exterior surface details.
 - **melaco**:  ([link](https://www.threads.com/@melaco/post/DgQ7GNeDbZ-))
   - Photo: Description: A disassembled ceiling fan with a white motor and five blades lies on grass next to a concrete sidewalk, with its power cord extending toward the left; a person’s feet are visible in the bottom right corner, and a black trash bag rests on the curb to the upper left. Photograph read: The image is taken from a high angle, with even, diffuse daylight illuminating the scene. The fan and surrounding area are in focus, with no visible motion blur or distortion. The composition is straightforward, capturing the fan, grass, sidewalk, and partial person without artistic framing. Photo type: Documentary
 - **_aliblahblah_**:  ([link](https://www.threads.com/@_aliblahblah_/post/DgQ3JS9kr_K))
