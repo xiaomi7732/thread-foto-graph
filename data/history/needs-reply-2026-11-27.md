@@ -4,7 +4,7 @@ _Flat list of photos, questions, and substantive text replies still awaiting a w
 
 _This needs a browser session to actually post -- the Threads API has no endpoint to like a reply (returns HTTP 400), so drafting here doesn't mean "API-actionable": every item below still ends with a human/browser posting it._
 
-## Needs Reply (67)
+## Needs Reply (66)
 
 ### Left Behind Friday 🧤 Today's prompt is the things we leave … ([thread](https://www.threads.com/@saars.foto/post/DgP8qvEFPRT))
 - **dwordops**: Runway on a closed airport ([link](https://www.threads.com/@dwordops/post/DgRVTDLjd8v))
@@ -37,8 +37,6 @@ _This needs a browser session to actually post -- the Threads API has no endpoin
   - Photo: Description: A skier in a bright orange jacket and helmet navigates a slalom course marked by blue and red poles on a snowy slope, with dense evergreen forests and a mountain range in the background under clear blue skies. Photograph read: The image is taken from a slightly elevated angle, capturing the skier mid-turn. Lighting is bright and direct, casting clear shadows. The snow surface shows tracks and some texture, while the background is sharply defined. The skier’s motion is evident from the slight blur of poles and skis. Photo type: Action sports
 - **eleanorangelaholohan**: When in Pizzo, I pass it on my walk down to the Piazza ([link](https://www.threads.com/@eleanorangelaholohan/post/DgQJRu1gkch))
   - _Replying to: A whole house, left at the end of a narrow alley with its s…_
-- **debbiedunlap79**: Thank you Saar for liking it 😁 ([link](https://www.threads.com/@debbiedunlap79/post/DgQXKznFY7V))
-  - _Replying to: A happy accident, and a keeper. Thanks for telling the stor…_
 - **grantpickup62**: You are welcome 😁 ([link](https://www.threads.com/@grantpickup62/post/DgQJ8nHDivT))
   - _Replying to: That little story stays with the photo now. Thanks for shar…_
 - **judyparsons7**:  ([link](https://www.threads.com/@judyparsons7/post/DgP9XJGlr0T))
